@@ -1,0 +1,925 @@
+--- 
+code: EG
+continent: AF
+name: Egypt
+population: 80471869
+regions: 
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (31.0530599999999986 31.3738899999999994)"
+        name: Ṭalkha
+        population: 157737
+        slug: talkha
+      - 
+        districts: []
+        location: "POINT (31.1938899999999997 31.5244399999999985)"
+        name: Shirbîn
+        population: 54676
+        slug: shirbin
+      - 
+        districts: []
+        location: "POINT (31.1330600000000004 31.6336100000000009)"
+        name: "Minyat an Naşr"
+        population: 56951
+        slug: minyat-an-nasr
+      - 
+        districts: []
+        location: "POINT (30.7541699999999985 31.4405600000000014)"
+        name: "Diyarb Najm"
+        population: 51841
+        slug: diyarb-najm
+      - 
+        districts: []
+        location: "POINT (31.0883299999999991 31.5969400000000000)"
+        name: Dikirnis
+        population: 137542
+        slug: dikirnis
+      - 
+        districts: []
+        location: "POINT (31.2130599999999987 31.3575000000000017)"
+        name: "Bilqās Qism Awwal"
+        population: 103596
+        slug: bilqas-qism-awwal
+      - 
+        districts: []
+        location: "POINT (31.1583299999999994 31.9369399999999999)"
+        name: "Al Manzilah"
+        population: 67486
+        slug: al-manzilah
+      - 
+        districts: []
+        location: "POINT (31.0430600000000005 31.3766700000000007)"
+        name: "Al Manşūrah"
+        population: 420195
+        slug: al-mansurah
+      - 
+        districts: []
+        location: "POINT (31.1811100000000003 31.8672199999999997)"
+        name: "Al Jamālīyah"
+        population: 68381
+        slug: al-jamaliyah
+      - 
+        districts: []
+        location: "POINT (30.9416699999999985 31.2922200000000004)"
+        name: Ajā
+        population: 34692
+        slug: aja
+    code: EG.01
+    name: "Ad Daqahlīyah"
+    slug: ad-daqahliyah
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (25.0757300000000001 34.8918099999999995)"
+        name: "Marsá al `Alam"
+        population: 10000
+        slug: marsa-al-alam
+      - 
+        districts: []
+        location: "POINT (26.7333299999999987 33.9333299999999980)"
+        name: "Būr Safājah"
+        population: 32944
+        slug: bur-safajah
+      - 
+        districts: []
+        location: "POINT (26.1000000000000014 34.2833299999999994)"
+        name: "Al Quşayr"
+        population: 24653
+        slug: al-qusayr
+      - 
+        districts: []
+        location: "POINT (27.2573800000000013 33.8129100000000022)"
+        name: "Al Ghardaqah"
+        population: 95622
+        slug: al-ghardaqah
+      - 
+        districts: []
+        location: "POINT (26.9922199999999997 31.4152799999999992)"
+        name: "Al Badārī"
+        population: 44132
+        slug: al-badari
+      - 
+        districts: []
+        location: "POINT (27.3941699999999990 33.6782499999999985)"
+        name: "El Gouna"
+        population: 15000
+        slug: el-gouna
+      - 
+        districts: []
+        location: "POINT (27.2209800000000008 33.8378000000000014)"
+        name: "Makadi Bay"
+        population: 4000
+        slug: makadi-bay
+    code: EG.02
+    name: "Al Baḩr al Aḩmar"
+    slug: al-bahr-al-ahmar
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (31.1980600000000017 29.9191700000000012)"
+        name: Alexandria
+        population: 3811516
+        slug: alexandria
+      - 
+        districts: []
+        location: "POINT (31.4044400000000010 30.4163899999999998)"
+        name: Rosetta
+        population: 64481
+        slug: rosetta
+      - 
+        districts: []
+        location: "POINT (30.7558299999999996 30.6988899999999987)"
+        name: "Kawm Ḩamādah"
+        population: 36751
+        slug: kawm-hamadah
+      - 
+        districts: []
+        location: "POINT (31.1397200000000005 30.1291699999999985)"
+        name: "Kafr ad Dawwār"
+        population: 267370
+        slug: kafr-ad-dawwar
+      - 
+        districts: []
+        location: "POINT (31.3055599999999998 30.2991700000000002)"
+        name: Idkū
+        population: 105599
+        slug: idku
+      - 
+        districts: []
+        location: "POINT (30.9127800000000015 30.2905599999999993)"
+        name: "Ḩawsh ‘Īsá"
+        population: 85352
+        slug: hawsh-isa
+      - 
+        districts: []
+        location: "POINT (31.0333299999999994 30.4666700000000006)"
+        name: Damanhûr
+        population: 227943
+        slug: damanhur
+      - 
+        districts: []
+        location: "POINT (30.8280600000000007 30.5341699999999996)"
+        name: "Ad Dilinjāt"
+        population: 40386
+        slug: ad-dilinjat
+      - 
+        districts: []
+        location: "POINT (30.9083299999999994 30.1774999999999984)"
+        name: "Abū al Maţāmīr"
+        population: 41302
+        slug: abu-al-matamir
+    code: EG.03
+    name: "Al Buḩayrah"
+    slug: al-buhayrah
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (29.4833299999999987 30.9666700000000006)"
+        name: Ţāmiyah
+        population: 46866
+        slug: tamiyah
+      - 
+        districts: []
+        location: "POINT (29.2372200000000007 30.7855600000000003)"
+        name: Iţsā
+        population: 45269
+        slug: itsa
+      - 
+        districts: []
+        location: "POINT (29.3588899999999988 30.6783299999999990)"
+        name: Ibshawāy
+        population: 51173
+        slug: ibshaway
+      - 
+        districts: []
+        location: "POINT (29.3377799999999986 31.2055599999999984)"
+        name: "Al Wāsiţah"
+        population: 37453
+        slug: al-wasitah
+      - 
+        districts: []
+        location: "POINT (29.3077800000000011 30.8399999999999999)"
+        name: "Al Fayyūm"
+        population: 306393
+        slug: al-fayyum
+    code: EG.04
+    name: "Al Fayyūm"
+    slug: al-fayyum
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (30.7136099999999992 31.2438900000000004)"
+        name: Ziftá
+        population: 92667
+        slug: zifta
+      - 
+        districts: []
+        location: "POINT (30.7911099999999998 30.9980599999999988)"
+        name: Ţanţā
+        population: 404901
+        slug: tanta
+      - 
+        districts: []
+        location: "POINT (30.9627799999999986 31.2444400000000009)"
+        name: Samannūd
+        population: 54980
+        slug: samannud
+      - 
+        districts: []
+        location: "POINT (30.9833299999999987 30.9499999999999993)"
+        name: Quţūr
+        population: 23842
+        slug: qutur
+      - 
+        districts: []
+        location: "POINT (30.8205600000000004 30.8158299999999983)"
+        name: "Kafr az Zayyāt"
+        population: 73725
+        slug: kafr-az-zayyat
+      - 
+        districts: []
+        location: "POINT (30.9402800000000013 30.8138900000000007)"
+        name: Basyūn
+        population: 55523
+        slug: basyun
+      - 
+        districts: []
+        location: "POINT (30.9761099999999985 31.1669400000000003)"
+        name: "Al Maḩallah al Kubrá"
+        population: 431052
+        slug: al-mahallah-al-kubra
+    code: EG.05
+    name: "Al Gharbīyah"
+    slug: al-gharbiyah
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (30.5455599999999983 31.7780600000000000)"
+        name: "At Tall al Kabīr"
+        population: 51569
+        slug: at-tall-al-kabir
+      - 
+        districts: []
+        location: "POINT (30.6052800000000005 32.2772199999999998)"
+        name: Ismailia
+        population: 284813
+        slug: ismailia
+    code: EG.07
+    name: "Al Ismā‘īlīyah"
+    slug: al-ismailiyah
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (29.8166699999999985 31.0500000000000007)"
+        name: "Madīnat Sittah Uktūbar"
+        population: 41930
+        slug: madinat-sittah-uktubar
+      - 
+        districts: []
+        location: "POINT (30.1224999999999987 31.1336100000000009)"
+        name: Awsīm
+        population: 63862
+        slug: awsim
+      - 
+        districts: []
+        location: "POINT (29.5647200000000012 31.2811100000000017)"
+        name: "Aş Şaff"
+        population: 38213
+        slug: as-saff
+      - 
+        districts: []
+        location: "POINT (30.0086100000000009 31.2122199999999985)"
+        name: "Al Jīzah"
+        population: 2443203
+        slug: al-jizah
+      - 
+        districts: []
+        location: "POINT (29.8999999999999986 31.2500000000000000)"
+        name: "Al Ḩawāmidīyah"
+        population: 106841
+        slug: al-hawamidiyah
+      - 
+        districts: []
+        location: "POINT (28.3500000000000014 28.8666699999999992)"
+        name: "Al Bawīţī"
+        population: 20000
+        slug: al-bawiti
+      - 
+        districts: []
+        location: "POINT (29.6197200000000009 31.2575000000000003)"
+        name: "Al ‘Ayyāţ"
+        population: 34796
+        slug: al-ayyat
+      - 
+        districts: []
+        location: "POINT (30.0415799999999997 31.0815599999999996)"
+        name: "Madīnat as-Sādis min Uktūbar"
+        population: 0
+        slug: madinat-as-sadis-min-uktubar
+    code: EG.08
+    name: "Al Jīzah"
+    slug: al-jizah
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (30.6819400000000009 30.9475000000000016)"
+        name: Talā
+        population: 51498
+        slug: tala
+      - 
+        districts: []
+        location: "POINT (30.5586100000000016 31.0100000000000016)"
+        name: "Shibīn al Kawm"
+        population: 0
+        slug: shibin-al-kawm
+      - 
+        districts: []
+        location: "POINT (30.5666699999999985 31.1499999999999986)"
+        name: Quwaysinā
+        population: 42708
+        slug: quwaysina
+      - 
+        districts: []
+        location: "POINT (30.4666700000000006 30.9333300000000015)"
+        name: Minūf
+        population: 83651
+        slug: minuf
+      - 
+        districts: []
+        location: "POINT (30.5936100000000017 30.9033300000000004)"
+        name: "Ash Shuhadā’"
+        population: 48060
+        slug: ash-shuhada
+      - 
+        districts: []
+        location: "POINT (30.3000000000000007 30.9666700000000006)"
+        name: Ashmūn
+        population: 82507
+        slug: ashmun
+      - 
+        districts: []
+        location: "POINT (30.4308300000000003 31.0344400000000000)"
+        name: "Al Bājūr"
+        population: 36633
+        slug: al-bajur
+    code: EG.09
+    name: "Al Minūfīyah"
+    slug: al-minufiyah
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (28.3000000000000007 30.6999999999999993)"
+        name: Samālūţ
+        population: 90465
+        slug: samalut
+      - 
+        districts: []
+        location: "POINT (28.4222199999999994 30.7555599999999991)"
+        name: Maţāy
+        population: 45215
+        slug: matay
+      - 
+        districts: []
+        location: "POINT (27.7319400000000016 30.8411100000000005)"
+        name: Mallawī
+        population: 142504
+        slug: mallawi
+      - 
+        districts: []
+        location: "POINT (27.6413900000000012 30.8494400000000013)"
+        name: "Dayr Mawās"
+        population: 40609
+        slug: dayr-mawas
+      - 
+        districts: []
+        location: "POINT (28.5036099999999983 30.7991700000000002)"
+        name: "Banī Mazār"
+        population: 58153
+        slug: bani-mazar
+      - 
+        districts: []
+        location: "POINT (28.1194400000000009 30.7444400000000009)"
+        name: "Al Minyā"
+        population: 227150
+        slug: al-minya
+      - 
+        districts: []
+        location: "POINT (27.9308300000000003 30.8363900000000015)"
+        name: "Abū Qurqāş"
+        population: 61182
+        slug: abu-qurqas
+      - 
+        districts: []
+        location: "POINT (28.3500000000000014 28.8666699999999992)"
+        name: "Al Minyā"
+        population: 0
+        slug: al-minya
+    code: EG.10
+    name: "Al Minyā"
+    slug: al-minya
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (29.8500000000000014 31.3333300000000001)"
+        name: Hilwan
+        population: 230000
+        slug: hilwan
+      - 
+        districts: []
+        location: "POINT (30.0626299999999986 31.2496699999999983)"
+        name: Cairo
+        population: 7734614
+        slug: cairo
+      - 
+        districts: []
+        location: "POINT (29.8428600000000017 31.2959899999999998)"
+        name: Ḩalwān
+        population: 0
+        slug: halwan
+    code: EG.11
+    name: "Al Qāhirah"
+    slug: al-qahirah
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (30.3483300000000007 31.1580599999999990)"
+        name: Ţūkh
+        population: 67599
+        slug: tukh
+      - 
+        districts: []
+        location: "POINT (30.3127800000000001 31.3211100000000009)"
+        name: "Shibīn al Qanāţir"
+        population: 56872
+        slug: shibin-al-qanatir
+      - 
+        districts: []
+        location: "POINT (30.1830600000000011 31.2052799999999984)"
+        name: Qalyūb
+        population: 100495
+        slug: qalyub
+      - 
+        districts: []
+        location: "POINT (30.4608300000000014 31.1875000000000000)"
+        name: Banhā
+        population: 167029
+        slug: banha
+      - 
+        districts: []
+        location: "POINT (30.1980600000000017 31.1341700000000010)"
+        name: "Al Qanāţir al Khayrīyah"
+        population: 56302
+        slug: al-qanatir-al-khayriyah
+      - 
+        districts: []
+        location: "POINT (30.2180600000000013 31.3588899999999988)"
+        name: "Al Khānkah"
+        population: 62434
+        slug: al-khankah
+    code: EG.12
+    name: "Al Qalyūbīyah"
+    slug: al-qalyubiyah
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (27.0666699999999985 27.9666700000000006)"
+        name: "Qaşr al Farāfirah"
+        population: 5000
+        slug: qasr-al-farafirah
+      - 
+        districts: []
+        location: "POINT (25.4333300000000015 30.5500000000000007)"
+        name: "Al Khārijah"
+        population: 0
+        slug: al-kharijah
+    code: EG.13
+    name: "Al Wādī al Jadīd"
+    slug: al-wadi-al-jadid
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (30.3605599999999995 31.3775000000000013)"
+        name: "Mashtūl as Sūq"
+        population: 45798
+        slug: mashtul-as-suq
+      - 
+        districts: []
+        location: "POINT (30.7963899999999988 31.6261100000000006)"
+        name: "Kafr Şaqr"
+        population: 34967
+        slug: kafr-saqr
+      - 
+        districts: []
+        location: "POINT (30.6700000000000017 31.5872199999999985)"
+        name: Hihyā
+        population: 43432
+        slug: hihya
+      - 
+        districts: []
+        location: "POINT (30.7297200000000004 31.7972199999999994)"
+        name: Fāqūs
+        population: 62821
+        slug: faqus
+      - 
+        districts: []
+        location: "POINT (30.4166699999999999 31.5666699999999985)"
+        name: Bilbays
+        population: 129211
+        slug: bilbays
+      - 
+        districts: []
+        location: "POINT (30.5913900000000005 31.5102800000000016)"
+        name: "Az Zaqāzīq"
+        population: 285097
+        slug: az-zaqaziq
+      - 
+        districts: []
+        location: "POINT (30.6127800000000008 31.7336099999999988)"
+        name: "Al Qurayn"
+        population: 61730
+        slug: al-qurayn
+      - 
+        districts: []
+        location: "POINT (30.6191700000000004 31.4619399999999985)"
+        name: "Al Qanāyāt"
+        population: 42912
+        slug: al-qanayat
+      - 
+        districts: []
+        location: "POINT (30.7108300000000014 31.5402799999999992)"
+        name: "Al Ibrāhīmīyah"
+        population: 34638
+        slug: al-ibrahimiyah
+      - 
+        districts: []
+        location: "POINT (30.7252800000000015 31.6683300000000010)"
+        name: "Abū Kabīr"
+        population: 100684
+        slug: abu-kabir
+    code: EG.14
+    name: "Eastern Province"
+    slug: eastern-province
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (29.9666700000000006 32.5499999999999972)"
+        name: Suez
+        population: 488125
+        slug: suez
+      - 
+        districts: []
+        location: "POINT (29.6001800000000017 32.3167100000000005)"
+        name: "Ain Sukhna"
+        population: 45552
+        slug: ain-sukhna
+    code: EG.15
+    name: "As Suways"
+    slug: as-suways
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (24.4791699999999999 32.9436099999999996)"
+        name: "Kawm Umbū"
+        population: 59787
+        slug: kawm-umbu
+      - 
+        districts: []
+        location: "POINT (24.0874999999999986 32.8988900000000015)"
+        name: Aswān
+        population: 241261
+        slug: aswan
+      - 
+        districts: []
+        location: "POINT (22.3666699999999992 31.6333300000000008)"
+        name: "Abū Sunbul"
+        population: 5000
+        slug: abu-sunbul
+      - 
+        districts: []
+        location: "POINT (24.9802800000000005 32.8747200000000035)"
+        name: Idfu
+        population: 166102
+        slug: idfu
+    code: EG.16
+    name: Aswān
+    slug: aswan
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (27.3111099999999993 30.9694399999999987)"
+        name: Manfalūţ
+        population: 78744
+        slug: manfalut
+      - 
+        districts: []
+        location: "POINT (27.5586100000000016 30.8077800000000011)"
+        name: Dayrūţ
+        population: 67788
+        slug: dayrut
+      - 
+        districts: []
+        location: "POINT (27.1827800000000011 31.1827800000000011)"
+        name: Asyūţ
+        population: 420585
+        slug: asyut
+      - 
+        districts: []
+        location: "POINT (27.4444400000000002 30.8166699999999985)"
+        name: "Al Qūşīyah"
+        population: 68394
+        slug: al-qusiyah
+      - 
+        districts: []
+        location: "POINT (27.0333299999999994 31.3166699999999985)"
+        name: "Abū Tīj"
+        population: 71257
+        slug: abu-tij
+      - 
+        districts: []
+        location: "POINT (27.2666700000000013 31.1502799999999986)"
+        name: Abnūb
+        population: 68749
+        slug: abnub
+    code: EG.17
+    name: Asyūţ
+    slug: asyut
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (28.9166699999999999 30.8500000000000014)"
+        name: "Sumusţā as Sulţānī"
+        population: 37260
+        slug: sumusta-as-sultani
+      - 
+        districts: []
+        location: "POINT (29.1499999999999986 31.1333300000000008)"
+        name: Būsh
+        population: 86608
+        slug: bush
+      - 
+        districts: []
+        location: "POINT (29.0638900000000007 31.0888899999999992)"
+        name: "Banī Suwayf"
+        population: 189624
+        slug: bani-suwayf
+      - 
+        districts: []
+        location: "POINT (28.8227800000000016 30.8977800000000009)"
+        name: "Al Fashn"
+        population: 63793
+        slug: al-fashn
+    code: EG.18
+    name: "Banī Suwayf"
+    slug: bani-suwayf
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (31.2805600000000013 32.3074999999999974)"
+        name: "Port Said"
+        population: 538378
+        slug: port-said
+      - 
+        districts: []
+        location: "POINT (31.1838900000000017 32.0305600000000013)"
+        name: "Al Maţarīyah"
+        population: 99357
+        slug: al-matariyah
+      - 
+        districts: []
+        location: "POINT (31.1261100000000006 33.8019400000000019)"
+        name: "Al ‘Arīsh"
+        population: 128855
+        slug: al-arish
+    code: EG.19
+    name: "Būr Sa‘īd"
+    slug: bur-said
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (31.5083300000000008 31.8347200000000008)"
+        name: "‘Izbat al Burj"
+        population: 37953
+        slug: izbat-al-burj
+      - 
+        districts: []
+        location: "POINT (31.3308299999999988 31.7161100000000005)"
+        name: Fāriskūr
+        population: 58284
+        slug: fariskur
+      - 
+        districts: []
+        location: "POINT (31.4194400000000016 31.8150000000000013)"
+        name: Damietta
+        population: 76839
+        slug: damietta
+      - 
+        districts: []
+        location: "POINT (31.2083300000000001 31.6333300000000008)"
+        name: "Az Zarqā"
+        population: 40010
+        slug: az-zarqa
+    code: EG.20
+    name: Dumyāţ
+    slug: dumyat
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (31.2719400000000007 30.7872200000000014)"
+        name: "Sīdī Sālim"
+        population: 47998
+        slug: sidi-salim
+      - 
+        districts: []
+        location: "POINT (31.1113900000000001 30.9363899999999994)"
+        name: "Kafr ash Shaykh"
+        population: 143970
+        slug: kafr-ash-shaykh
+      - 
+        districts: []
+        location: "POINT (31.2025000000000006 30.5472199999999994)"
+        name: Fuwah
+        population: 63310
+        slug: fuwah
+      - 
+        districts: []
+        location: "POINT (31.1294399999999989 30.6463900000000002)"
+        name: Disūq
+        population: 102037
+        slug: disuq
+      - 
+        districts: []
+        location: "POINT (31.3113899999999994 31.1558300000000017)"
+        name: "Al Ḩāmūl"
+        population: 45798
+        slug: al-hamul
+    code: EG.21
+    name: "Kafr ash Shaykh"
+    slug: kafr-ash-shaykh
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (29.2040900000000008 25.5195200000000000)"
+        name: Sīwah
+        population: 7000
+        slug: siwah
+      - 
+        districts: []
+        location: "POINT (31.3500000000000014 27.2333299999999987)"
+        name: "Marsá Maţrūḩ"
+        population: 62042
+        slug: marsa-matruh
+      - 
+        districts: []
+        location: "POINT (30.8166699999999985 28.9499999999999993)"
+        name: "Al ‘Alamayn"
+        population: 7400
+        slug: al-alamayn
+    code: EG.22
+    name: Maţrūḩ
+    slug: matruh
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (25.9166699999999999 32.7500000000000000)"
+        name: Qūş
+        population: 60181
+        slug: qus
+      - 
+        districts: []
+        location: "POINT (26.1700000000000017 32.7272200000000026)"
+        name: Qinā
+        population: 235362
+        slug: qina
+      - 
+        districts: []
+        location: "POINT (26.0513900000000014 32.2386100000000013)"
+        name: "Naj‘ Ḩammādī"
+        population: 41184
+        slug: naj-hammadi
+      - 
+        districts: []
+        location: "POINT (25.2930600000000005 32.5527799999999985)"
+        name: Isnā
+        population: 69335
+        slug: isna
+      - 
+        districts: []
+        location: "POINT (26.0549999999999997 32.1616700000000009)"
+        name: Farshūţ
+        population: 53851
+        slug: farshut
+      - 
+        districts: []
+        location: "POINT (26.1211100000000016 32.4652799999999999)"
+        name: Dishnā
+        population: 54197
+        slug: dishna
+      - 
+        districts: []
+        location: "POINT (25.6989300000000007 32.6420999999999992)"
+        name: Luxor
+        population: 422407
+        slug: luxor
+    code: EG.23
+    name: Qinā
+    slug: qina
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (26.7680599999999984 31.4938900000000004)"
+        name: Ţahţā
+        population: 90591
+        slug: tahta
+      - 
+        districts: []
+        location: "POINT (26.5500000000000007 31.6999999999999993)"
+        name: Sūhāj
+        population: 209419
+        slug: suhaj
+      - 
+        districts: []
+        location: "POINT (26.6744400000000006 31.4916699999999992)"
+        name: Juhaynah
+        population: 47821
+        slug: juhaynah
+      - 
+        districts: []
+        location: "POINT (26.3458299999999994 31.8861099999999986)"
+        name: Jirjā
+        population: 128250
+        slug: jirja
+      - 
+        districts: []
+        location: "POINT (26.4777799999999992 31.8013900000000014)"
+        name: "Al Manshāh"
+        population: 61134
+        slug: al-manshah
+      - 
+        districts: []
+        location: "POINT (26.2386100000000013 32.0030599999999978)"
+        name: "Al Balyanā"
+        population: 48801
+        slug: al-balyana
+      - 
+        districts: []
+        location: "POINT (26.5666699999999985 31.7333299999999987)"
+        name: Akhmīm
+        population: 99446
+        slug: akhmim
+    code: EG.24
+    name: Sūhāj
+    slug: suhaj
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (27.8636100000000013 34.2880600000000015)"
+        name: "Sharm ash Shaykh"
+        population: 12000
+        slug: sharm-ash-shaykh
+      - 
+        districts: []
+        location: "POINT (29.0350000000000001 34.6616700000000009)"
+        name: Nuwaybi‘a
+        population: 5000
+        slug: nuwaybia
+      - 
+        districts: []
+        location: "POINT (28.5009799999999984 34.5133799999999979)"
+        name: Dhahab
+        population: 8000
+        slug: dhahab
+      - 
+        districts: []
+        location: "POINT (28.2416699999999992 33.6236099999999993)"
+        name: "Aţ Ţūr"
+        population: 14972
+        slug: at-tur
+    code: EG.26
+    name: "Janūb Sīnāʼ"
+    slug: janub-sina
+tld: eg

@@ -1,0 +1,836 @@
+--- 
+code: IL
+continent: AS
+name: Israel
+population: 7353985
+regions: 
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (30.9872200000000007 34.9313900000000004)"
+        name: Yeroẖam
+        population: 8631
+        slug: yeroham
+      - 
+        districts: []
+        location: "POINT (31.5166700000000013 34.5833299999999966)"
+        name: Sederot
+        population: 20228
+        slug: sederot
+      - 
+        districts: []
+        location: "POINT (31.6000000000000014 34.7666699999999977)"
+        name: "Qiryat Gat"
+        population: 47450
+        slug: qiryat-gat
+      - 
+        districts: []
+        location: "POINT (31.2833299999999994 34.6166699999999992)"
+        name: Ofaqim
+        population: 24311
+        slug: ofaqim
+      - 
+        districts: []
+        location: "POINT (31.4166699999999999 34.5833299999999966)"
+        name: Netivot
+        population: 24564
+        slug: netivot
+      - 
+        districts: []
+        location: "POINT (30.6094399999999993 34.8011100000000013)"
+        name: "Miẕpe Ramon"
+        population: 4769
+        slug: mizpe-ramon
+      - 
+        districts: []
+        location: "POINT (31.2013900000000000 35.3638899999999978)"
+        name: "‘En Boqeq"
+        population: 1400
+        slug: en-boqeq
+      - 
+        districts: []
+        location: "POINT (29.5611099999999993 34.9516700000000000)"
+        name: Elat
+        population: 45588
+        slug: elat
+      - 
+        districts: []
+        location: "POINT (31.0666699999999985 35.0333299999999994)"
+        name: Dimona
+        population: 33558
+        slug: dimona
+      - 
+        districts: []
+        location: "POINT (31.2518099999999990 34.7912999999999997)"
+        name: Beersheba
+        population: 186600
+        slug: beersheba
+      - 
+        districts: []
+        location: "POINT (31.6666699999999999 34.5833299999999966)"
+        name: Ashqelon
+        population: 105995
+        slug: ashqelon
+      - 
+        districts: []
+        location: "POINT (31.8166699999999985 34.6499999999999986)"
+        name: Ashdod
+        population: 224656
+        slug: ashdod
+      - 
+        districts: []
+        location: "POINT (31.3728400000000001 34.8161899999999989)"
+        name: Lehavim
+        population: 6000
+        slug: lehavim
+      - 
+        districts: []
+        location: "POINT (30.8515400000000000 34.7834000000000003)"
+        name: "Midreshet Ben-Gurion"
+        population: 1100
+        slug: midreshet-ben-gurion
+    code: IL.01
+    name: HaDarom
+    slug: hadarom
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (32.2999999999999972 34.9166700000000034)"
+        name: "Ẕur Moshe"
+        population: 2400
+        slug: zur-moshe
+      - 
+        districts: []
+        location: "POINT (31.8763900000000007 34.7400000000000020)"
+        name: Yavne
+        population: 31774
+        slug: yavne
+      - 
+        districts: []
+        location: "POINT (32.2500000000000000 34.9333299999999980)"
+        name: "Tel Mond"
+        population: 8725
+        slug: tel-mond
+      - 
+        districts: []
+        location: "POINT (32.0530600000000021 34.8777800000000013)"
+        name: Savyon
+        population: 3434
+        slug: savyon
+      - 
+        districts: []
+        location: "POINT (31.9641699999999993 34.8044399999999996)"
+        name: "Rishon LeẔiyyon"
+        population: 220492
+        slug: rishon-leziyyon
+      - 
+        districts: []
+        location: "POINT (31.9252800000000008 34.8669399999999996)"
+        name: Ramla
+        population: 63860
+        slug: ramla
+      - 
+        districts: []
+        location: "POINT (32.2847200000000001 34.9797200000000004)"
+        name: Qalansuwa
+        population: 16898
+        slug: qalansuwa
+      - 
+        districts: []
+        location: "POINT (32.2999999999999972 34.9166700000000034)"
+        name: Pardesiyya
+        population: 6254
+        slug: pardesiyya
+      - 
+        districts: []
+        location: "POINT (32.3166700000000020 34.8999999999999986)"
+        name: Nordiyya
+        population: 2264
+        slug: nordiyya
+      - 
+        districts: []
+        location: "POINT (32.3336100000000002 34.8577799999999982)"
+        name: Netanya
+        population: 171676
+        slug: netanya
+      - 
+        districts: []
+        location: "POINT (32.0619399999999999 34.9138900000000021)"
+        name: Neẖalim
+        population: 2061
+        slug: nehalim
+      - 
+        districts: []
+        location: "POINT (31.8538899999999998 34.8386100000000027)"
+        name: "Mazkeret Batya"
+        population: 8034
+        slug: mazkeret-batya
+      - 
+        districts: []
+        location: "POINT (31.9513900000000000 34.8952799999999996)"
+        name: Lod
+        population: 66589
+        slug: lod
+      - 
+        districts: []
+        location: "POINT (32.3166700000000020 34.9333299999999980)"
+        name: "Kefar Yona"
+        population: 13320
+        slug: kefar-yona
+      - 
+        districts: []
+        location: "POINT (32.1749999999999972 34.9069399999999987)"
+        name: "Kefar Sava"
+        population: 80773
+        slug: kefar-sava
+      - 
+        districts: []
+        location: "POINT (31.9866700000000002 34.8511099999999985)"
+        name: "Kefar H̱abad"
+        population: 4771
+        slug: kefar-habad
+      - 
+        districts: []
+        location: "POINT (32.1141700000000014 34.9738899999999973)"
+        name: "Kafr Qāsim"
+        population: 17303
+        slug: kafr-qasim
+      - 
+        districts: []
+        location: "POINT (32.1558300000000017 34.9527799999999971)"
+        name: Jaljūlya
+        population: 7505
+        slug: jaljulya
+      - 
+        districts: []
+        location: "POINT (32.1508299999999991 34.8883300000000034)"
+        name: "Hod HaSharon"
+        population: 43185
+        slug: hod-hasharon
+      - 
+        districts: []
+        location: "POINT (31.8166699999999985 34.7666699999999977)"
+        name: Gedera
+        population: 14575
+        slug: gedera
+      - 
+        districts: []
+        location: "POINT (31.7833299999999994 34.7166700000000006)"
+        name: "Gan Yavne"
+        population: 14975
+        slug: gan-yavne
+      - 
+        districts: []
+        location: "POINT (32.0602799999999988 34.8747200000000035)"
+        name: "Ganne Tiqwa"
+        population: 12213
+        slug: ganne-tiqwa
+      - 
+        districts: []
+        location: "POINT (32.2666699999999977 34.8833300000000008)"
+        name: "Even Yehuda"
+        population: 9282
+        slug: even-yehuda
+      - 
+        districts: []
+        location: "POINT (32.2327799999999982 34.9502799999999993)"
+        name: "Eṭ Ṭīra"
+        population: 20786
+        slug: et-tira
+      - 
+        districts: []
+        location: "POINT (32.2647199999999970 35.0080600000000004)"
+        name: "Eṭ Ṭaiyiba"
+        population: 32978
+        slug: et-taiyiba
+      - 
+        districts: []
+        location: "POINT (32.3999999999999986 34.9166700000000034)"
+        name: Elyakhin
+        population: 2728
+        slug: elyakhin
+      - 
+        districts: []
+        location: "POINT (32.3166700000000020 34.8833300000000008)"
+        name: "Bet Yiẕẖaq"
+        population: 1674
+        slug: bet-yizhaq
+      - 
+        districts: []
+        location: "POINT (32.0013900000000007 34.8302800000000019)"
+        name: "Bet Dagan"
+        population: 5604
+        slug: bet-dagan
+      - 
+        districts: []
+        location: "POINT (31.7833299999999994 34.7500000000000000)"
+        name: "Bene 'Ayish"
+        population: 7763
+        slug: bene-ayish
+      - 
+        districts: []
+        location: "POINT (32.0917400000000015 34.8850300000000004)"
+        name: "Petah Tikva"
+        population: 188900
+        slug: petah-tikva
+    code: IL.02
+    name: HaMerkaz
+    slug: hamerkaz
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (32.9666700000000006 35.4944399999999973)"
+        name: Ẕefat
+        population: 27816
+        slug: zefat
+      - 
+        districts: []
+        location: "POINT (32.7124999999999986 35.5000000000000000)"
+        name: Yavne’el
+        population: 2900
+        slug: yavneel
+      - 
+        districts: []
+        location: "POINT (32.7944400000000016 35.3319400000000030)"
+        name: ‘Uzeir
+        population: 2591
+        slug: uzeir
+      - 
+        districts: []
+        location: "POINT (32.7036099999999976 35.2266699999999986)"
+        name: Timrat
+        population: 1789
+        slug: timrat
+      - 
+        districts: []
+        location: "POINT (32.7955600000000018 35.5286100000000005)"
+        name: Tiberias
+        population: 39790
+        slug: tiberias
+      - 
+        districts: []
+        location: "POINT (33.0166699999999977 35.2666699999999977)"
+        name: "maalot Tarshīhā"
+        population: 21400
+        slug: maalot-tarshiha
+      - 
+        districts: []
+        location: "POINT (32.8486100000000008 35.2047200000000018)"
+        name: Tamra
+        population: 25917
+        slug: tamra
+      - 
+        districts: []
+        location: "POINT (32.6083300000000023 35.3333299999999966)"
+        name: Sūlam
+        population: 2426
+        slug: sulam
+      - 
+        districts: []
+        location: "POINT (33.0666700000000020 35.1000000000000014)"
+        name: Shelomi
+        population: 5608
+        slug: shelomi
+      - 
+        districts: []
+        location: "POINT (32.8622200000000007 35.2933299999999974)"
+        name: Sakhnīn
+        population: 24596
+        slug: sakhnin
+      - 
+        districts: []
+        location: "POINT (32.9458300000000008 35.3430600000000013)"
+        name: Sājūr
+        population: 3547
+        slug: sajur
+      - 
+        districts: []
+        location: "POINT (32.9666700000000006 35.5333299999999994)"
+        name: "Rosh Pinna"
+        population: 2492
+        slug: rosh-pinna
+      - 
+        districts: []
+        location: "POINT (32.7005600000000030 35.1797200000000032)"
+        name: "Ramat Yishay"
+        population: 5431
+        slug: ramat-yishay
+      - 
+        districts: []
+        location: "POINT (33.2080600000000032 35.5686099999999996)"
+        name: "Qiryat Shemona"
+        population: 22035
+        slug: qiryat-shemona
+      - 
+        districts: []
+        location: "POINT (32.6333300000000008 35.3500000000000014)"
+        name: Nein
+        population: 1588
+        slug: nein
+      - 
+        districts: []
+        location: "POINT (32.7036099999999976 35.2955600000000018)"
+        name: Nazareth
+        population: 64800
+        slug: nazareth
+      - 
+        districts: []
+        location: "POINT (32.9333299999999980 35.3166700000000020)"
+        name: Naḥf
+        population: 10105
+        slug: nahf
+      - 
+        districts: []
+        location: "POINT (33.0058300000000031 35.0947200000000024)"
+        name: Nahariyya
+        population: 50273
+        slug: nahariyya
+      - 
+        districts: []
+        location: "POINT (33.0280600000000035 35.2583300000000008)"
+        name: Mi‘ilyā
+        population: 2700
+        slug: miilya
+      - 
+        districts: []
+        location: "POINT (32.6713900000000024 35.2405600000000021)"
+        name: "Migdal Ha‘Emeq"
+        population: 24800
+        slug: migdal-haemeq
+      - 
+        districts: []
+        location: "POINT (33.2861100000000008 35.5747199999999992)"
+        name: Metulla
+        population: 1466
+        slug: metulla
+      - 
+        districts: []
+        location: "POINT (32.8869400000000027 35.4069399999999987)"
+        name: Maghār
+        population: 18915
+        slug: maghar
+      - 
+        districts: []
+        location: "POINT (32.6888900000000007 35.4208300000000023)"
+        name: "Kefar Tavor"
+        population: 2323
+        slug: kefar-tavor
+      - 
+        districts: []
+        location: "POINT (32.8333299999999966 35.2500000000000000)"
+        name: "Kaukab Abū el Hīja"
+        population: 2800
+        slug: kaukab-abu-el-hija
+      - 
+        districts: []
+        location: "POINT (32.9172200000000004 35.3041699999999992)"
+        name: Karmi’el
+        population: 44382
+        slug: karmiel
+      - 
+        districts: []
+        location: "POINT (32.9536099999999976 35.1652800000000028)"
+        name: "Kafr Yāsīf"
+        population: 8308
+        slug: kafr-yasif
+      - 
+        districts: []
+        location: "POINT (32.6472199999999972 35.4208300000000023)"
+        name: "Kafr Miṣr"
+        population: 2400
+        slug: kafr-misr
+      - 
+        districts: []
+        location: "POINT (32.8072200000000009 35.2602800000000016)"
+        name: "Kafr Mandā"
+        population: 15014
+        slug: kafr-manda
+      - 
+        districts: []
+        location: "POINT (32.7500000000000000 35.3416700000000006)"
+        name: "Kafr Kannā"
+        population: 17606
+        slug: kafr-kanna
+      - 
+        districts: []
+        location: "POINT (32.7166700000000006 35.4416700000000020)"
+        name: "Kafr Kamā"
+        population: 2990
+        slug: kafr-kama
+      - 
+        districts: []
+        location: "POINT (32.8666699999999992 35.2130599999999987)"
+        name: Kābūl
+        population: 9497
+        slug: kabul
+      - 
+        districts: []
+        location: "POINT (32.9255599999999973 35.1550000000000011)"
+        name: Judeida
+        population: 17530
+        slug: judeida
+      - 
+        districts: []
+        location: "POINT (33.0247200000000021 35.4444400000000002)"
+        name: Jīsh
+        population: 2684
+        slug: jish
+      - 
+        districts: []
+        location: "POINT (32.6786099999999990 35.3222200000000015)"
+        name: Iksāl
+        population: 11398
+        slug: iksal
+      - 
+        districts: []
+        location: "POINT (33.0150000000000006 35.3494400000000013)"
+        name: Ḥurfeish
+        population: 5308
+        slug: hurfeish
+      - 
+        districts: []
+        location: "POINT (33.0497200000000007 35.3088899999999981)"
+        name: Fassūṭā
+        population: 2985
+        slug: fassuta
+      - 
+        districts: []
+        location: "POINT (32.9900000000000020 35.1450000000000031)"
+        name: "Esh Sheikh Dannūn"
+        population: 2305
+        slug: esh-sheikh-dannun
+      - 
+        districts: []
+        location: "POINT (32.7236100000000008 35.3125000000000000)"
+        name: "Er Reina"
+        population: 15621
+        slug: er-reina
+      - 
+        districts: []
+        location: "POINT (32.9858300000000000 35.0988899999999973)"
+        name: "El Mazra‘a"
+        population: 3900
+        slug: el-mazraa
+      - 
+        districts: []
+        location: "POINT (32.8347199999999972 35.3966700000000003)"
+        name: ‘Eilabūn
+        population: 4400
+        slug: eilabun
+      - 
+        districts: []
+        location: "POINT (32.8624999999999972 35.3666699999999992)"
+        name: "Deir Ḥannā"
+        population: 8417
+        slug: deir-hanna
+      - 
+        districts: []
+        location: "POINT (32.6958300000000008 35.3722199999999987)"
+        name: Dabbūrīya
+        population: 8305
+        slug: dabburiya
+      - 
+        districts: []
+        location: "POINT (32.9791700000000034 35.3361099999999979)"
+        name: Buqei‘a
+        population: 5200
+        slug: buqeia
+      - 
+        districts: []
+        location: "POINT (32.8052800000000033 35.3636100000000013)"
+        name: Bu‘eina
+        population: 7900
+        slug: bueina
+      - 
+        districts: []
+        location: "POINT (32.7500000000000000 35.2333300000000023)"
+        name: "Bīr el Maksūr"
+        population: 7106
+        slug: bir-el-maksur
+      - 
+        districts: []
+        location: "POINT (32.5000000000000000 35.5000000000000000)"
+        name: "Bet She’an"
+        population: 16800
+        slug: bet-shean
+      - 
+        districts: []
+        location: "POINT (32.9652799999999999 35.3794400000000024)"
+        name: "Beit Jann"
+        population: 10002
+        slug: beit-jann
+      - 
+        districts: []
+        location: "POINT (32.7344399999999993 35.1458299999999966)"
+        name: "Basmat Ṭab‘ūn"
+        population: 6300
+        slug: basmat-tabun
+      - 
+        districts: []
+        location: "POINT (32.9236099999999965 35.0727800000000016)"
+        name: ‘Akko
+        population: 45603
+        slug: akko
+      - 
+        districts: []
+        location: "POINT (32.6333300000000008 35.3333299999999966)"
+        name: "‘Afula ‘Illit"
+        population: 40000
+        slug: afula-illit
+      - 
+        districts: []
+        location: "POINT (32.6958300000000008 35.3972199999999972)"
+        name: Shibli
+        population: 4800
+        slug: shibli
+      - 
+        districts: []
+        location: "POINT (32.7791700000000006 35.3069399999999973)"
+        name: "Rūmat Heib"
+        population: 1588
+        slug: rumat-heib
+      - 
+        districts: []
+        location: "POINT (32.8972199999999972 35.3708299999999980)"
+        name: Sallama
+        population: 1800
+        slug: sallama
+      - 
+        districts: []
+        location: "POINT (32.9930599999999998 35.2749999999999986)"
+        name: "Kefar Weradim"
+        population: 5608
+        slug: kefar-weradim
+    code: IL.03
+    name: "Northern District"
+    slug: northern-district
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (32.5158300000000011 35.1525000000000034)"
+        name: "Umm el Faḥm"
+        population: 41030
+        slug: umm-el-fahm
+      - 
+        districts: []
+        location: "POINT (32.7616700000000023 34.9719399999999965)"
+        name: "Tirat Karmel"
+        population: 18993
+        slug: tirat-karmel
+      - 
+        districts: []
+        location: "POINT (32.7500000000000000 35.1000000000000014)"
+        name: Rekhasim
+        population: 8513
+        slug: rekhasim
+      - 
+        districts: []
+        location: "POINT (32.8508300000000020 35.0702799999999968)"
+        name: "Qiryat Yam"
+        population: 37639
+        slug: qiryat-yam
+      - 
+        districts: []
+        location: "POINT (32.8363900000000015 35.0752799999999993)"
+        name: "Qiryat Motzkin"
+        population: 39404
+        slug: qiryat-motzkin
+      - 
+        districts: []
+        location: "POINT (32.8275000000000006 35.0858300000000014)"
+        name: "Qiryat Bialik"
+        population: 36551
+        slug: qiryat-bialik
+      - 
+        districts: []
+        location: "POINT (32.8005599999999973 35.1063899999999975)"
+        name: "Qiryat Ata"
+        population: 48966
+        slug: qiryat-ata
+      - 
+        districts: []
+        location: "POINT (32.7650000000000006 35.0499999999999972)"
+        name: Nesher
+        population: 21245
+        slug: nesher
+      - 
+        districts: []
+        location: "POINT (32.7616700000000023 35.1008300000000020)"
+        name: Ibṭin
+        population: 2020
+        slug: ibtin
+      - 
+        districts: []
+        location: "POINT (32.8155599999999978 34.9891700000000014)"
+        name: Haifa
+        population: 267300
+        slug: haifa
+      - 
+        districts: []
+        location: "POINT (32.4352799999999988 34.9174999999999969)"
+        name: H̱adera
+        population: 75854
+        slug: hadera
+      - 
+        districts: []
+        location: "POINT (32.6000000000000014 34.9500000000000028)"
+        name: "El Fureidīs"
+        population: 9999
+        slug: el-fureidis
+      - 
+        districts: []
+        location: "POINT (32.6936099999999996 35.0408299999999997)"
+        name: "Dāliyat el Karmil"
+        population: 25000
+        slug: daliyat-el-karmil
+      - 
+        districts: []
+        location: "POINT (32.6833299999999980 34.9333299999999980)"
+        name: ‘Atlit
+        population: 4500
+        slug: atlit
+      - 
+        districts: []
+        location: "POINT (32.5188800000000029 34.9045899999999989)"
+        name: Qesarya
+        population: 4500
+        slug: qesarya
+    code: IL.04
+    name: Haifa
+    slug: haifa
+  - 
+    cities: 
+      - 
+        districts: []
+        location: "POINT (32.1472199999999972 34.8416700000000006)"
+        name: "Ramat HaSharon"
+        population: 36137
+        slug: ramat-hasharon
+      - 
+        districts: []
+        location: "POINT (32.0805599999999984 34.8141699999999972)"
+        name: "Ramat Gan"
+        population: 128095
+        slug: ramat-gan
+      - 
+        districts: []
+        location: "POINT (32.0311099999999982 34.8458299999999994)"
+        name: "Or Yehuda"
+        population: 30802
+        slug: or-yehuda
+      - 
+        districts: []
+        location: "POINT (32.1855600000000024 34.8219399999999979)"
+        name: "Kefar Shemaryahu"
+        population: 1774
+        slug: kefar-shemaryahu
+      - 
+        districts: []
+        location: "POINT (32.0113899999999987 34.7722199999999972)"
+        name: H̱olon
+        population: 165787
+        slug: holon
+      - 
+        districts: []
+        location: "POINT (32.1658299999999997 34.8366699999999980)"
+        name: Herzliyya
+        population: 83600
+        slug: herzliyya
+      - 
+        districts: []
+        location: "POINT (32.0752799999999993 34.8466700000000031)"
+        name: "Giv‘at Shemu’el"
+        population: 18500
+        slug: givat-shemuel
+      - 
+        districts: []
+        location: "POINT (32.0697199999999967 34.8116699999999994)"
+        name: Giv‘atayim
+        population: 48000
+        slug: givatayim
+      - 
+        districts: []
+        location: "POINT (32.0902799999999999 34.8397199999999998)"
+        name: "Bene Beraq"
+        population: 144663
+        slug: bene-beraq
+      - 
+        districts: 
+          - 
+            location: "POINT (32.0504299999999986 34.7522400000000005)"
+            name: Yafo
+            population: 100000
+            slug: yafo
+          - 
+            location: "POINT (32.0666700000000020 34.7666699999999977)"
+            name: "Tel Aviv"
+            population: 250000
+            slug: tel-aviv
+        location: "POINT (32.0230600000000010 34.7502799999999965)"
+        name: "Bat Yam"
+        population: 128979
+        slug: bat-yam
+      - 
+        districts: []
+        location: "POINT (32.0191700000000026 34.8105600000000024)"
+        name: Azor
+        population: 10108
+        slug: azor
+    code: IL.05
+    name: "Tel Aviv"
+    slug: tel-aviv
+  - 
+    cities: 
+      - 
+        districts: 
+          - 
+            location: "POINT (31.7766699999999993 35.2341699999999989)"
+            name: "Old City"
+            population: 36000
+            slug: old-city
+          - 
+            location: "POINT (31.7819900000000004 35.2196100000000030)"
+            name: "West Jerusalem"
+            population: 400000
+            slug: west-jerusalem
+          - 
+            location: "POINT (31.7833599999999983 35.2338799999999992)"
+            name: "East Jerusalem"
+            population: 428304
+            slug: east-jerusalem
+        location: "POINT (31.7790199999999992 35.2252999999999972)"
+        name: Jerusalem
+        population: 714000
+        slug: jerusalem
+      - 
+        districts: []
+        location: "POINT (31.7166700000000006 35.1000000000000014)"
+        name: "Ẕur Hadassa"
+        population: 4700
+        slug: zur-hadassa
+      - 
+        districts: []
+        location: "POINT (31.7166700000000006 35.1000000000000014)"
+        name: "Mevo Betar"
+        population: 27267
+        slug: mevo-betar
+      - 
+        districts: []
+        location: "POINT (31.7500000000000000 35.0000000000000000)"
+        name: "Bet Shemesh"
+        population: 67100
+        slug: bet-shemesh
+      - 
+        districts: []
+        location: "POINT (31.8000000000000007 35.1000000000000014)"
+        name: "Abū Ghaush"
+        population: 5707
+        slug: abu-ghaush
+    code: IL.06
+    name: Yerushalayim
+    slug: yerushalayim
+tld: il
