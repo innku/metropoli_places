@@ -1,448 +1,649 @@
 --- 
-code: ZM
-continent: AF
 name: Zambia
-population: 13460305
+names_en: 
+  - Zambia
+  - "Northern Rhodesia"
+names_es: 
+  - Zambia
 regions: 
   - 
+    ascii_name: "Western Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (-17.4666700000000006 24.3000000000000007)"
+        alternate_names: 
+          - Sesheke
+          - Shesheke
+          - Sisheke
+        ascii_name: Sesheke
         name: Sesheke
+        names_en: ~
+        names_es: ~
         population: 20149
-        slug: sesheke
       - 
-        districts: []
-        location: "POINT (-16.1166699999999992 23.2666700000000013)"
+        alternate_names: 
+          - Senanga
+          - Sinanga
+        ascii_name: Senanga
         name: Senanga
+        names_en: ~
+        names_es: ~
         population: 10005
-        slug: senanga
       - 
-        districts: []
-        location: "POINT (-15.2500000000000000 23.1333300000000008)"
+        alternate_names: 
+          - Mongu
+          - Mungu
+          - Монгу
+        ascii_name: Mongu
         name: Mongu
+        names_en: ~
+        names_es: ~
         population: 52534
-        slug: mongu
       - 
-        districts: []
-        location: "POINT (-14.3833300000000008 23.2500000000000000)"
+        alternate_names: 
+          - Lukulu
+        ascii_name: Lukulu
         name: Lukulu
+        names_en: ~
+        names_es: ~
         population: 3349
-        slug: lukulu
       - 
-        districts: []
-        location: "POINT (-15.0999999999999996 23.1499999999999986)"
+        alternate_names: 
+          - Limulunga
+        ascii_name: Limulunga
         name: Limulunga
+        names_en: ~
+        names_es: ~
         population: 7461
-        slug: limulunga
       - 
-        districts: []
-        location: "POINT (-14.7833299999999994 24.8000000000000007)"
+        alternate_names: 
+          - Kaoma
+          - Mankoya
+          - Mankoye
+        ascii_name: Kaoma
         name: Kaoma
+        names_en: ~
+        names_es: ~
         population: 14212
-        slug: kaoma
       - 
-        districts: []
-        location: "POINT (-14.9666700000000006 22.6833300000000015)"
+        alternate_names: ~
+        ascii_name: Kalabo
         name: Kalabo
+        names_en: ~
+        names_es: ~
         population: 7731
-        slug: kalabo
-    code: ZM.01
     name: Western
-    slug: western
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Southern Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (-13.2333300000000005 30.2333299999999987)"
-        name: Serenje
-        population: 8779
-        slug: serenje
-      - 
-        districts: []
-        location: "POINT (-14.9833300000000005 27.0666699999999985)"
-        name: Mumbwa
-        population: 19086
-        slug: mumbwa
-      - 
-        districts: []
-        location: "POINT (-13.6166699999999992 29.3999999999999986)"
-        name: Mkushi
-        population: 12306
-        slug: mkushi
-      - 
-        districts: []
-        location: "POINT (-13.9666700000000006 28.6833300000000015)"
-        name: "Kapiri Mposhi"
-        population: 37942
-        slug: kapiri-mposhi
-      - 
-        districts: []
-        location: "POINT (-14.4333299999999998 28.4499999999999993)"
-        name: Kabwe
-        population: 188979
-        slug: kabwe
-      - 
-        districts: []
-        location: "POINT (-14.6500000000000004 28.0666699999999985)"
-        name: Chibombo
-        population: 4477
-        slug: chibombo
-    code: ZM.02
-    name: Central
-    slug: central
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-14.2500000000000000 31.3333300000000001)"
-        name: Petauke
-        population: 19296
-        slug: petauke
-      - 
-        districts: []
-        location: "POINT (-14.5500000000000007 30.8333300000000001)"
-        name: Nyimba
-        population: 1336
-        slug: nyimba
-      - 
-        districts: []
-        location: "POINT (-13.6333300000000008 32.6499999999999986)"
-        name: Chipata
-        population: 85963
-        slug: chipata
-      - 
-        districts: []
-        location: "POINT (-11.1999999999999993 33.1666700000000034)"
-        name: Chama
-        population: 4061
-        slug: chama
-      - 
-        districts: []
-        location: "POINT (-12.3000000000000007 33.1833299999999980)"
-        name: Lundazi
-        population: 11635
-        slug: lundazi
-      - 
-        districts: []
-        location: "POINT (-14.0666700000000002 32.4333299999999980)"
-        name: Chadiza
-        population: 3690
-        slug: chadiza
-    code: ZM.03
-    name: Eastern
-    slug: eastern
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-9.3499999999999996 28.7333299999999987)"
-        name: Nchelenge
-        population: 23693
-        slug: nchelenge
-      - 
-        districts: []
-        location: "POINT (-9.7833299999999994 29.0833300000000001)"
-        name: Kawambwa
-        population: 20589
-        slug: kawambwa
-      - 
-        districts: []
-        location: "POINT (-11.3499999999999996 29.5500000000000007)"
-        name: Samfya
-        population: 20470
-        slug: samfya
-      - 
-        districts: []
-        location: "POINT (-10.3833300000000008 28.6833300000000015)"
-        name: Mwense
-        population: 4378
-        slug: mwense
-      - 
-        districts: []
-        location: "POINT (-11.1999999999999993 28.8833300000000008)"
-        name: Mansa
-        population: 42277
-        slug: mansa
-    code: ZM.04
-    name: Luapula
-    slug: luapula
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-9.3333300000000001 32.7666699999999977)"
-        name: Nakonde
-        population: 10652
-        slug: nakonde
-      - 
-        districts: []
-        location: "POINT (-8.7666699999999995 31.1333300000000008)"
-        name: Mpulungu
-        population: 8547
-        slug: mpulungu
-      - 
-        districts: []
-        location: "POINT (-9.3833300000000008 30.1333300000000008)"
-        name: Mporokoso
-        population: 3401
-        slug: mporokoso
-      - 
-        districts: []
-        location: "POINT (-8.8333300000000001 31.3833300000000008)"
-        name: Mbala
-        population: 20570
-        slug: mbala
-      - 
-        districts: []
-        location: "POINT (-8.4666700000000006 29.6666699999999999)"
-        name: Kaputa
-        population: 2683
-        slug: kaputa
-      - 
-        districts: []
-        location: "POINT (-10.1666699999999999 31.3833300000000008)"
-        name: Mungwi
-        population: 6821
-        slug: mungwi
-      - 
-        districts: []
-        location: "POINT (-11.8333300000000001 31.4499999999999993)"
-        name: Mpika
-        population: 28445
-        slug: mpika
-      - 
-        districts: []
-        location: "POINT (-10.2666699999999995 29.8999999999999986)"
-        name: Luwingu
-        population: 6161
-        slug: luwingu
-      - 
-        districts: []
-        location: "POINT (-10.1999999999999993 31.1999999999999993)"
-        name: Kasama
-        population: 91056
-        slug: kasama
-      - 
-        districts: []
-        location: "POINT (-10.1333300000000008 32.6333300000000008)"
-        name: Isoka
-        population: 13122
-        slug: isoka
-      - 
-        districts: []
-        location: "POINT (-10.5500000000000007 32.0666700000000020)"
-        name: Chinsali
-        population: 14015
-        slug: chinsali
-    code: ZM.05
-    name: Northern
-    slug: northern
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-13.5500000000000007 23.1166699999999992)"
-        name: Zambezi
-        population: 7074
-        slug: zambezi
-      - 
-        districts: []
-        location: "POINT (-12.1833299999999998 26.3999999999999986)"
-        name: Solwezi
-        population: 4846
-        slug: solwezi
-      - 
-        districts: []
-        location: "POINT (-11.7333300000000005 24.4333300000000015)"
-        name: Mwinilunga
-        population: 13798
-        slug: mwinilunga
-      - 
-        districts: []
-        location: "POINT (-13.6833299999999998 24.8000000000000007)"
-        name: Mufumbwe
-        population: 6155
-        slug: mufumbwe
-      - 
-        districts: []
-        location: "POINT (-12.0999999999999996 26.4333300000000015)"
-        name: Kansanshi
-        population: 40705
-        slug: kansanshi
-      - 
-        districts: []
-        location: "POINT (-13.4666700000000006 25.0000000000000000)"
-        name: Kalengwa
-        population: 7574
-        slug: kalengwa
-      - 
-        districts: []
-        location: "POINT (-13.5999999999999996 24.1999999999999993)"
-        name: Kabompo
-        population: 6592
-        slug: kabompo
-      - 
-        districts: []
-        location: "POINT (-13.4499999999999993 25.8333300000000001)"
-        name: Kasempa
-        population: 5622
-        slug: kasempa
-    code: ZM.06
-    name: North-Western
-    slug: north-western
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-16.5333299999999994 28.7166700000000006)"
-        name: Siavonga
-        population: 18638
-        slug: siavonga
-      - 
-        districts: []
-        location: "POINT (-15.7500000000000000 26.4499999999999993)"
-        name: Namwala
-        population: 4450
-        slug: namwala
-      - 
-        districts: []
-        location: "POINT (-15.8333300000000001 27.7666700000000013)"
-        name: Nakambala
-        population: 10425
-        slug: nakambala
-      - 
-        districts: []
-        location: "POINT (-16.2833299999999994 27.4833299999999987)"
-        name: Monze
-        population: 30257
-        slug: monze
-      - 
-        districts: []
-        location: "POINT (-15.8666699999999992 27.7666700000000013)"
-        name: Mazabuka
-        population: 64006
-        slug: mazabuka
-      - 
-        districts: []
-        location: "POINT (-17.8422100000000015 25.8633600000000001)"
-        name: Livingstone
-        population: 109203
-        slug: livingstone
-      - 
-        districts: []
-        location: "POINT (-16.5000000000000000 27.6166699999999992)"
-        name: Gwembe
-        population: 2052
-        slug: gwembe
-      - 
-        districts: []
-        location: "POINT (-16.8166699999999985 26.9833299999999987)"
-        name: Choma
-        population: 46746
-        slug: choma
-      - 
-        districts: []
-        location: "POINT (-17.2602200000000003 27.4635399999999983)"
+        alternate_names: 
+          - Sinasongwe
+          - Sinazongwe
+        ascii_name: Sinazongwe
         name: Sinazongwe
+        names_en: 
+          - Sinazongwe
+        names_es: ~
         population: 11528
-        slug: sinazongwe
       - 
-        districts: []
-        location: "POINT (-17.3666699999999992 27.1499999999999986)"
+        alternate_names: 
+          - Chapvonga
+          - Siavonga
+        ascii_name: Siavonga
+        name: Siavonga
+        names_en: ~
+        names_es: ~
+        population: 18638
+      - 
+        alternate_names: ~
+        ascii_name: Namwala
+        name: Namwala
+        names_en: ~
+        names_es: ~
+        population: 4450
+      - 
+        alternate_names: ~
+        ascii_name: Nakambala
+        name: Nakambala
+        names_en: ~
+        names_es: ~
+        population: 10425
+      - 
+        alternate_names: 
+          - Monze
+        ascii_name: Monze
+        name: Monze
+        names_en: ~
+        names_es: ~
+        population: 30257
+      - 
+        alternate_names: 
+          - Mazabuka
+          - Мазабука
+        ascii_name: Mazabuka
+        name: Mazabuka
+        names_en: 
+          - Mazabuka
+        names_es: ~
+        population: 64006
+      - 
+        alternate_names: 
+          - Maamba
+        ascii_name: Maamba
         name: Maamba
+        names_en: 
+          - Maamba
+        names_es: ~
         population: 12251
-        slug: maamba
-    code: ZM.07
+      - 
+        alternate_names: 
+          - Livingston
+          - Livingstone
+          - Livingstore
+        ascii_name: Livingstone
+        name: Livingstone
+        names_en: ~
+        names_es: ~
+        population: 109203
+      - 
+        alternate_names: 
+          - Gwembe
+        ascii_name: Gwembe
+        name: Gwembe
+        names_en: ~
+        names_es: ~
+        population: 2052
+      - 
+        alternate_names: 
+          - Choma
+        ascii_name: Choma
+        name: Choma
+        names_en: ~
+        names_es: ~
+        population: 46746
     name: Southern
-    slug: southern
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "North-Western Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (-12.9666700000000006 28.6333300000000008)"
-        name: Ndola
-        population: 394518
-        slug: ndola
+        alternate_names: 
+          - Balovale
+          - "Rio Zambeze"
+          - Sambesi
+        ascii_name: Zambezi
+        name: Zambezi
+        names_en: 
+          - Zambezi
+        names_es: ~
+        population: 7074
       - 
-        districts: []
-        location: "POINT (-12.5500000000000007 28.2333299999999987)"
-        name: Mufulira
-        population: 120500
-        slug: mufulira
+        alternate_names: 
+          - Solwezi
+        ascii_name: Solwezi
+        name: Solwezi
+        names_en: ~
+        names_es: ~
+        population: 4846
       - 
-        districts: []
-        location: "POINT (-13.5333299999999994 28.1499999999999986)"
-        name: Mpongwe
-        population: 8997
-        slug: mpongwe
+        alternate_names: 
+          - Mwinilunga
+          - Wwinilunga
+        ascii_name: Mwinilunga
+        name: Mwinilunga
+        names_en: ~
+        names_es: ~
+        population: 13798
       - 
-        districts: []
-        location: "POINT (-13.1333300000000008 28.3999999999999986)"
-        name: Luanshya
-        population: 113365
-        slug: luanshya
+        alternate_names: ~
+        ascii_name: Mufumbwe
+        name: Mufumbwe
+        names_en: ~
+        names_es: ~
+        population: 6155
       - 
-        districts: []
-        location: "POINT (-12.8166700000000002 28.1999999999999993)"
-        name: Kitwe
-        population: 400914
-        slug: kitwe
+        alternate_names: 
+          - Kasama
+          - Kasempa
+        ascii_name: Kasempa
+        name: Kasempa
+        names_en: ~
+        names_es: ~
+        population: 5622
       - 
-        districts: []
-        location: "POINT (-12.8333300000000001 28.0833300000000001)"
-        name: Kalulushi
-        population: 66575
-        slug: kalulushi
+        alternate_names: 
+          - Kansanshi
+          - "Kansanshi Mine"
+          - Kansenshi
+        ascii_name: Kansanshi
+        name: Kansanshi
+        names_en: ~
+        names_es: ~
+        population: 40705
       - 
-        districts: []
-        location: "POINT (-12.5333299999999994 27.8500000000000014)"
-        name: Chingola
-        population: 148564
-        slug: chingola
+        alternate_names: ~
+        ascii_name: Kalengwa
+        name: Kalengwa
+        names_en: ~
+        names_es: ~
+        population: 7574
       - 
-        districts: []
-        location: "POINT (-12.3666699999999992 27.8333300000000001)"
-        name: Chililabombwe
-        population: 57328
-        slug: chililabombwe
-      - 
-        districts: []
-        location: "POINT (-12.6500000000000004 28.0833300000000001)"
-        name: Chambishi
-        population: 11073
-        slug: chambishi
-    code: ZM.08
-    name: Copperbelt
-    slug: copperbelt
+        alternate_names: 
+          - Kabompo
+        ascii_name: Kabompo
+        name: Kabompo
+        names_en: ~
+        names_es: ~
+        population: 6592
+    name: North-Western
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Northern Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (-15.4080899999999996 28.2863599999999984)"
+        alternate_names: ~
+        ascii_name: Nakonde
+        name: Nakonde
+        names_en: ~
+        names_es: ~
+        population: 10652
+      - 
+        alternate_names: 
+          - Mpolungu
+          - Mpulungu
+        ascii_name: Mpulungu
+        name: Mpulungu
+        names_en: ~
+        names_es: ~
+        population: 8547
+      - 
+        alternate_names: 
+          - Mpolokoso
+          - Mporokoso
+        ascii_name: Mporokoso
+        name: Mporokoso
+        names_en: ~
+        names_es: ~
+        population: 3401
+      - 
+        alternate_names: 
+          - Abercorn
+          - Mbala
+          - Мбала
+        ascii_name: Mbala
+        name: Mbala
+        names_en: ~
+        names_es: ~
+        population: 20570
+      - 
+        alternate_names: ~
+        ascii_name: Kaputa
+        name: Kaputa
+        names_en: ~
+        names_es: ~
+        population: 2683
+      - 
+        alternate_names: ~
+        ascii_name: Mungwi
+        name: Mungwi
+        names_en: ~
+        names_es: ~
+        population: 6821
+      - 
+        alternate_names: 
+          - Mpika
+        ascii_name: Mpika
+        name: Mpika
+        names_en: ~
+        names_es: ~
+        population: 28445
+      - 
+        alternate_names: 
+          - Luingu
+          - Luwingo
+          - Luwingu
+        ascii_name: Luwingu
+        name: Luwingu
+        names_en: ~
+        names_es: ~
+        population: 6161
+      - 
+        alternate_names: 
+          - "Arcidiocesi di Kasama"
+          - Kasama
+          - Касама
+        ascii_name: Kasama
+        name: Kasama
+        names_en: 
+          - Kasama
+        names_es: ~
+        population: 91056
+      - 
+        alternate_names: 
+          - Isoka
+        ascii_name: Isoka
+        name: Isoka
+        names_en: ~
+        names_es: ~
+        population: 13122
+      - 
+        alternate_names: 
+          - Chinsala
+          - Chinsali
+        ascii_name: Chinsali
+        name: Chinsali
+        names_en: ~
+        names_es: ~
+        population: 14015
+    name: Northern
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lusaka Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Lousaka
+          - Lusaka
+          - Lusako
+        ascii_name: Lusaka
         name: Lusaka
+        names_en: 
+          - Lusaka
+        names_es: 
+          - Lusaka
         population: 1267440
-        slug: lusaka
       - 
-        districts: []
-        location: "POINT (-15.6166699999999992 30.4166699999999999)"
+        alternate_names: 
+          - Feira
+          - Luangwa
+        ascii_name: Luangwa
         name: Luangwa
+        names_en: ~
+        names_es: ~
         population: 3065
-        slug: luangwa
       - 
-        districts: []
-        location: "POINT (-15.7666699999999995 28.1833300000000015)"
+        alternate_names: 
+          - Kafe
+          - Kafue
+          - Кафе
+        ascii_name: Kafue
         name: Kafue
+        names_en: ~
+        names_es: ~
         population: 47554
-        slug: kafue
       - 
-        districts: []
-        location: "POINT (-15.3499999999999996 28.6999999999999993)"
+        alternate_names: ~
+        ascii_name: Chongwe
         name: Chongwe
+        names_en: ~
+        names_es: ~
         population: 6057
-        slug: chongwe
-    code: ZM.09
     name: Lusaka
-    slug: lusaka
-tld: zm
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Luapula Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Nchelenge
+          - Нчеленге
+        ascii_name: Nchelenge
+        name: Nchelenge
+        names_en: ~
+        names_es: ~
+        population: 23693
+      - 
+        alternate_names: 
+          - Kawambwa
+          - Kawamowa
+        ascii_name: Kawambwa
+        name: Kawambwa
+        names_en: ~
+        names_es: ~
+        population: 20589
+      - 
+        alternate_names: 
+          - Samfya
+        ascii_name: Samfya
+        name: Samfya
+        names_en: ~
+        names_es: ~
+        population: 20470
+      - 
+        alternate_names: ~
+        ascii_name: Mwense
+        name: Mwense
+        names_en: ~
+        names_es: ~
+        population: 4378
+      - 
+        alternate_names: 
+          - "Fort Rosebery"
+          - Mansa
+          - Mbila
+        ascii_name: Mansa
+        name: Mansa
+        names_en: 
+          - Mansa
+        names_es: ~
+        population: 42277
+    name: Luapula
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Eastern Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Petauke
+        ascii_name: Petauke
+        name: Petauke
+        names_en: ~
+        names_es: ~
+        population: 19296
+      - 
+        alternate_names: ~
+        ascii_name: Nyimba
+        name: Nyimba
+        names_en: ~
+        names_es: ~
+        population: 1336
+      - 
+        alternate_names: 
+          - Lundazi
+        ascii_name: Lundazi
+        name: Lundazi
+        names_en: ~
+        names_es: ~
+        population: 11635
+      - 
+        alternate_names: 
+          - Chipata
+          - "Fort Jameson"
+          - Чипата
+        ascii_name: Chipata
+        name: Chipata
+        names_en: 
+          - Chipata
+        names_es: ~
+        population: 85963
+      - 
+        alternate_names: 
+          - Chama
+        ascii_name: Chama
+        name: Chama
+        names_en: ~
+        names_es: ~
+        population: 4061
+      - 
+        alternate_names: 
+          - Chadiza
+        ascii_name: Chadiza
+        name: Chadiza
+        names_en: ~
+        names_es: ~
+        population: 3690
+    name: Eastern
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Copperbelt
+    cities: 
+      - 
+        alternate_names: 
+          - Ndola
+          - Ндола
+        ascii_name: Ndola
+        name: Ndola
+        names_en: 
+          - Ndola
+        names_es: 
+          - Ndola
+        population: 394518
+      - 
+        alternate_names: 
+          - Mufulira
+          - Mufulire
+          - Муфулире
+        ascii_name: Mufulira
+        name: Mufulira
+        names_en: 
+          - Mufulira
+        names_es: ~
+        population: 120500
+      - 
+        alternate_names: ~
+        ascii_name: Mpongwe
+        name: Mpongwe
+        names_en: ~
+        names_es: ~
+        population: 8997
+      - 
+        alternate_names: 
+          - Luanshya
+          - Luanshyo
+        ascii_name: Luanshya
+        name: Luanshya
+        names_en: 
+          - Luanshya
+        names_es: ~
+        population: 113365
+      - 
+        alternate_names: 
+          - Kitve
+          - Kitwe
+          - "Kitwe Nkana"
+        ascii_name: Kitwe
+        name: Kitwe
+        names_en: 
+          - Kitwe
+        names_es: 
+          - Kitwe
+        population: 400914
+      - 
+        alternate_names: 
+          - Kalulshi
+          - Kalulushi
+        ascii_name: Kalulushi
+        name: Kalulushi
+        names_en: 
+          - Kalulushi
+        names_es: 
+          - Kalulushi
+        population: 66575
+      - 
+        alternate_names: 
+          - Chingola
+          - Чингола
+        ascii_name: Chingola
+        name: Chingola
+        names_en: 
+          - Chingola
+        names_es: ~
+        population: 148564
+      - 
+        alternate_names: 
+          - Bancroft
+          - Chilabombwe
+          - Chiliabombwe
+        ascii_name: Chililabombwe
+        name: Chililabombwe
+        names_en: ~
+        names_es: ~
+        population: 57328
+      - 
+        alternate_names: 
+          - Chambezi
+          - Chambishi
+        ascii_name: Chambishi
+        name: Chambishi
+        names_en: ~
+        names_es: ~
+        population: 11073
+    name: Copperbelt
+    names_en: 
+      - Copperbelt
+    names_es: ~
+  - 
+    ascii_name: "Central Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Serenje
+        ascii_name: Serenje
+        name: Serenje
+        names_en: ~
+        names_es: ~
+        population: 8779
+      - 
+        alternate_names: ~
+        ascii_name: Mumbwa
+        name: Mumbwa
+        names_en: ~
+        names_es: ~
+        population: 19086
+      - 
+        alternate_names: 
+          - Mkushi
+        ascii_name: Mkushi
+        name: Mkushi
+        names_en: ~
+        names_es: ~
+        population: 12306
+      - 
+        alternate_names: 
+          - "Kapiri Imposhi"
+          - "Kapiri Mposhi"
+        ascii_name: "Kapiri Mposhi"
+        name: "Kapiri Mposhi"
+        names_en: ~
+        names_es: ~
+        population: 37942
+      - 
+        alternate_names: 
+          - "Broken Hill"
+          - Kabve
+          - Kabwe
+        ascii_name: Kabwe
+        name: Kabwe
+        names_en: 
+          - Kabwe
+        names_es: ~
+        population: 188979
+      - 
+        alternate_names: 
+          - Chibombo
+        ascii_name: Chibombo
+        name: Chibombo
+        names_en: ~
+        names_es: ~
+        population: 4477
+    name: Central
+    names_en: ~
+    names_es: ~

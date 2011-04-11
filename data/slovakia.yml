@@ -1,797 +1,1222 @@
 --- 
-code: SK
-continent: EU
 name: Slovakia
-population: 5455000
+names_en: 
+  - Slovakia
+names_es: 
+  - Eslovaquia
+  - "Eslovaquia (República Eslovaca)"
 regions: 
   - 
+    ascii_name: "Kosicky Kraj"
     cities: 
       - 
-        districts: []
-        location: "POINT (47.8579799999999977 17.7688400000000009)"
-        name: "Veľký Meder"
-        population: 9113
-        slug: velky-meder
-      - 
-        districts: []
-        location: "POINT (49.2719499999999968 21.9007299999999994)"
-        name: Medzilaborce
-        population: 6741
-        slug: medzilaborce
-      - 
-        districts: []
-        location: "POINT (48.2437100000000001 18.3084600000000002)"
-        name: Vráble
-        population: 9493
-        slug: vrable
-      - 
-        districts: []
-        location: "POINT (47.7999999999999972 18.7333299999999987)"
-        name: Štúrovo
-        population: 11708
-        slug: sturovo
-      - 
-        districts: []
-        location: "POINT (48.2747400000000013 17.0317299999999996)"
-        name: Stupava
-        population: 8063
-        slug: stupava
-      - 
-        districts: []
-        location: "POINT (47.9854399999999970 18.1619500000000009)"
-        name: "Nové Zámky"
-        population: 42044
-        slug: nove-zamky
-      - 
-        districts: []
-        location: "POINT (48.9347899999999996 18.1463199999999993)"
-        name: "Nová Dubnica"
-        population: 12358
-        slug: nova-dubnica
-      - 
-        districts: []
-        location: "POINT (47.7635599999999982 18.1226300000000009)"
-        name: Komárno
-        population: 37365
-        slug: komarno
-      - 
-        districts: []
-        location: "POINT (47.8698400000000035 18.1923299999999983)"
-        name: Hurbanovo
-        population: 8153
-        slug: hurbanovo
-      - 
-        districts: []
-        location: "POINT (48.1900100000000009 17.7274700000000003)"
-        name: Galanta
-        population: 16365
-        slug: galanta
-      - 
-        districts: []
-        location: "POINT (47.9926800000000000 17.6121100000000013)"
-        name: "Dunajská Streda"
-        population: 23639
-        slug: dunajska-streda
-    code: SK.00
-    name: "Slovakia (general)"
-    slug: slovakia-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.3833300000000008 20.0333299999999994)"
-        name: "Rimavská Sobota"
-        population: 25235
-        slug: rimavska-sobota
-      - 
-        districts: []
-        location: "POINT (48.6833299999999980 20.1166699999999992)"
-        name: Revúca
-        population: 13466
-        slug: revuca
-      - 
-        districts: []
-        location: "POINT (48.5833299999999966 19.1333300000000008)"
-        name: Zvolen
-        population: 44502
-        slug: zvolen
-      - 
-        districts: []
-        location: "POINT (48.5833299999999966 18.8666699999999992)"
-        name: "Žiar nad Hronom"
-        population: 19392
-        slug: ziar-nad-hronom
-      - 
-        districts: []
-        location: "POINT (48.4833300000000023 18.7333299999999987)"
-        name: Žarnovica
-        population: 6596
-        slug: zarnovica
-      - 
-        districts: []
-        location: "POINT (48.6833299999999980 19.9499999999999993)"
-        name: Tisovec
-        population: 4215
-        slug: tisovec
-      - 
-        districts: []
-        location: "POINT (48.4333299999999980 19.8000000000000007)"
-        name: Poltár
-        population: 6099
-        slug: poltar
-      - 
-        districts: []
-        location: "POINT (48.4333299999999980 18.6499999999999986)"
-        name: "Nová Baňa"
-        population: 7505
-        slug: nova-bana
-      - 
-        districts: []
-        location: "POINT (48.3333299999999966 19.6666699999999999)"
-        name: Lučenec
-        population: 28159
-        slug: lucenec
-      - 
-        districts: []
-        location: "POINT (48.3500000000000014 19.0666699999999985)"
-        name: Krupina
-        population: 7991
-        slug: krupina
-      - 
-        districts: []
-        location: "POINT (48.7000000000000028 18.9166699999999999)"
-        name: Kremnica
-        population: 5822
-        slug: kremnica
-      - 
-        districts: []
-        location: "POINT (48.5833299999999966 19.5333299999999994)"
-        name: Hriňová
-        population: 8289
-        slug: hrinova
-      - 
-        districts: []
-        location: "POINT (48.2666699999999977 19.8333300000000001)"
-        name: Fiľakovo
-        population: 10198
-        slug: filakovo
-      - 
-        districts: []
-        location: "POINT (48.8166700000000020 19.6499999999999986)"
-        name: Brezno
-        population: 23055
-        slug: brezno
-      - 
-        districts: []
-        location: "POINT (48.4500000000000028 18.8999999999999986)"
-        name: "Banská Štiavnica"
-        population: 10874
-        slug: banska-stiavnica
-      - 
-        districts: []
-        location: "POINT (48.7333300000000023 19.1499999999999986)"
-        name: "Banská Bystrica"
-        population: 82336
-        slug: banska-bystrica
-    code: SK.01
-    name: Banskobystrický
-    slug: banskobystricky
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.2500000000000000 17.2166700000000006)"
-        name: "Svätý Jur"
-        population: 4614
-        slug: svaty-jur
-      - 
-        districts: []
-        location: "POINT (48.2166700000000006 17.3999999999999986)"
-        name: Senec
-        population: 14673
-        slug: senec
-      - 
-        districts: []
-        location: "POINT (48.2833299999999994 17.2666700000000013)"
-        name: Pezinok
-        population: 21343
-        slug: pezinok
-      - 
-        districts: []
-        location: "POINT (48.3333299999999966 17.3166699999999985)"
-        name: Modra
-        population: 8536
-        slug: modra
-      - 
-        districts: []
-        location: "POINT (48.4333299999999980 17.0166700000000013)"
-        name: Malacky
-        population: 17773
-        slug: malacky
-      - 
-        districts: []
-        location: "POINT (48.1481599999999972 17.1067399999999985)"
-        name: Bratislava
-        population: 423737
-        slug: bratislava
-    code: SK.02
-    name: Bratislavský
-    slug: bratislavsky
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.8166700000000020 20.3666699999999992)"
-        name: Dobšiná
-        population: 4896
-        slug: dobsina
-      - 
-        districts: []
-        location: "POINT (48.8166700000000020 21.9666700000000006)"
+        alternate_names: 
+          - Vinna
+          - Vinne
+          - Vinná
+        ascii_name: Vinne
         name: Vinné
+        names_en: 
+          - Vinne
+        names_es: ~
         population: 1608
-        slug: vinne
       - 
-        districts: []
-        location: "POINT (48.6333300000000008 21.7166700000000006)"
+        alternate_names: 
+          - Toketerebes
+          - Trebishov
+          - Trebisov
+        ascii_name: Trebisov
         name: Trebišov
+        names_en: 
+          - Trebišov
+        names_es: ~
         population: 22947
-        slug: trebisov
       - 
-        districts: []
-        location: "POINT (48.8666699999999992 21.8333300000000001)"
+        alternate_names: ~
+        ascii_name: Strazske
         name: Strážske
+        names_en: ~
+        names_es: ~
         population: 4474
-        slug: strazske
       - 
-        districts: []
-        location: "POINT (48.9500000000000028 20.5666699999999985)"
+        alternate_names: 
+          - Iglo
+          - Igló
+          - Neudorf
+        ascii_name: "Spisska Nova Ves"
         name: "Spišská Nová Ves"
+        names_en: 
+          - "Spišská Nová Ves"
+        names_es: ~
         population: 39195
-        slug: spisska-nova-ves
       - 
-        districts: []
-        location: "POINT (48.7500000000000000 22.1833300000000015)"
+        alternate_names: 
+          - Sobrance
+          - Szobranc
+          - Szobránc
+        ascii_name: Sobrance
         name: Sobrance
+        names_en: 
+          - Sobrance
+        names_es: ~
         population: 6262
-        slug: sobrance
       - 
-        districts: []
-        location: "POINT (48.7000000000000028 21.6499999999999986)"
+        alternate_names: ~
+        ascii_name: Secovce
         name: Sečovce
+        names_en: ~
+        names_es: ~
         population: 7819
-        slug: secovce
       - 
-        districts: []
-        location: "POINT (48.6666700000000034 20.5333299999999994)"
+        alternate_names: 
+          - Rosenau
+          - Rozhnjava
+          - Roznava
+        ascii_name: Roznava
         name: Rožňava
+        names_en: 
+          - Rožňava
+        names_es: ~
         population: 19261
-        slug: roznava
       - 
-        districts: []
-        location: "POINT (48.6166699999999992 21.0000000000000000)"
+        alternate_names: 
+          - "Moldava nad Bodvou"
+          - Moldava-nad-Bodvou
+          - Szepsi
+        ascii_name: "Moldava nad Bodvou"
         name: "Moldava nad Bodvou"
+        names_en: 
+          - "Moldava nad Bodvou"
+        names_es: ~
         population: 9525
-        slug: moldava-nad-bodvou
       - 
-        districts: []
-        location: "POINT (48.7500000000000000 21.9333300000000015)"
+        alternate_names: 
+          - Grossmichel
+          - Großmichel
+          - Michalovce
+        ascii_name: Michalovce
         name: Michalovce
+        names_en: 
+          - Michalovce
+        names_es: ~
         population: 40360
-        slug: michalovce
       - 
-        districts: []
-        location: "POINT (48.7000000000000028 20.8999999999999986)"
+        alternate_names: 
+          - Medzev
+          - "Nizni Medzev"
+          - "Nizny Medzev"
+        ascii_name: Medzev
         name: Medzev
+        names_en: ~
+        names_es: ~
         population: 3667
-        slug: medzev
       - 
-        districts: []
-        location: "POINT (48.9166700000000034 20.8666699999999992)"
+        alternate_names: 
+          - Korompa
+          - Krompachi
+          - Krompachy
+        ascii_name: Krompachy
         name: Krompachy
+        names_en: 
+          - Krompachy
+        names_es: ~
         population: 8812
-        slug: krompachy
       - 
-        districts: []
-        location: "POINT (48.7166700000000006 21.2500000000000000)"
+        alternate_names: 
+          - Kaschau
+          - Kassa
+          - Koesice
+        ascii_name: Kosice
         name: Košice
+        names_en: 
+          - Košice
+        names_es: 
+          - Košice
         population: 236563
-        slug: kosice
       - 
-        districts: []
-        location: "POINT (48.8500000000000014 20.9333300000000015)"
+        alternate_names: 
+          - Gelnica
+          - Goelnicbanya
+          - Gollnitz
+        ascii_name: Gelnica
         name: Gelnica
+        names_en: 
+          - Gelnica
+        names_es: ~
         population: 6404
-        slug: gelnica
       - 
-        districts: []
-        location: "POINT (48.4333299999999980 22.1000000000000014)"
+        alternate_names: 
+          - Dobschau
+          - Dobshina
+          - Dobsina
+        ascii_name: Dobsina
+        name: Dobšiná
+        names_en: 
+          - Dobšiná
+        names_es: ~
+        population: 4896
+      - 
+        alternate_names: 
+          - Agcsernyo
+          - Cerna
+          - Cherna
+        ascii_name: "Cierna nad Tisou"
         name: "Čierna nad Tisou"
+        names_en: ~
+        names_es: ~
         population: 4645
-        slug: cierna-nad-tisou
-    code: SK.03
     name: Košický
-    slug: kosicky
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Presovsky Kraj"
     cities: 
       - 
-        districts: []
-        location: "POINT (48.6666700000000034 17.5333299999999994)"
-        name: "Brezová pod Bradlom"
-        population: 5567
-        slug: brezova-pod-bradlom
-      - 
-        districts: []
-        location: "POINT (48.3833300000000008 18.3999999999999986)"
-        name: "Zlaté Moravce"
-        population: 15618
-        slug: zlate-moravce
-      - 
-        districts: []
-        location: "POINT (48.0499999999999972 18.6666699999999999)"
-        name: Želiezovce
-        population: 7522
-        slug: zeliezovce
-      - 
-        districts: []
-        location: "POINT (48.9166700000000034 18.1666699999999999)"
-        name: "Trenčianske Teplice"
-        population: 4438
-        slug: trencianske-teplice
-      - 
-        districts: []
-        location: "POINT (48.2833299999999994 18.5333299999999994)"
-        name: Tlmače
-        population: 4305
-        slug: tlmace
-      - 
-        districts: []
-        location: "POINT (47.9166700000000034 18.5000000000000000)"
-        name: Svodín
-        population: 2649
-        slug: svodin
-      - 
-        districts: []
-        location: "POINT (48.0833299999999966 18.1833300000000015)"
-        name: Šurany
-        population: 10491
-        slug: surany
-      - 
-        districts: []
-        location: "POINT (48.7833299999999994 17.6999999999999993)"
-        name: "Stará Turá"
-        population: 10291
-        slug: stara-tura
-      - 
-        districts: []
-        location: "POINT (48.1499999999999986 17.8833300000000008)"
-        name: Šaľa
-        population: 24513
-        slug: sala
-      - 
-        districts: []
-        location: "POINT (48.0666700000000020 18.9666700000000006)"
-        name: Šahy
-        population: 8061
-        slug: sahy
-      - 
-        districts: []
-        location: "POINT (49.1333300000000008 18.3333300000000001)"
-        name: Púchov
-        population: 18833
-        slug: puchov
-      - 
-        districts: []
-        location: "POINT (48.7666699999999977 18.6333300000000008)"
-        name: Prievidza
-        population: 52987
-        slug: prievidza
-      - 
-        districts: []
-        location: "POINT (49.1166699999999992 18.4499999999999993)"
-        name: "Považská Bystrica"
-        population: 43936
-        slug: povazska-bystrica
-      - 
-        districts: []
-        location: "POINT (48.6333300000000008 18.3833300000000008)"
-        name: Partizánske
-        population: 24370
-        slug: partizanske
-      - 
-        districts: []
-        location: "POINT (48.7166700000000006 18.5500000000000007)"
-        name: Nováky
-        population: 4402
-        slug: novaky
-      - 
-        districts: []
-        location: "POINT (48.3076300000000032 18.0845300000000009)"
-        name: Nitra
-        population: 86329
-        slug: nitra
-      - 
-        districts: []
-        location: "POINT (48.9666700000000006 18.1166699999999992)"
-        name: Nemšová
-        population: 6136
-        slug: nemsova
-      - 
-        districts: []
-        location: "POINT (48.7500000000000000 17.5666699999999985)"
-        name: Myjava
-        population: 13142
-        slug: myjava
-      - 
-        districts: []
-        location: "POINT (48.2166700000000006 18.6000000000000014)"
-        name: Levice
-        population: 37574
-        slug: levice
-      - 
-        districts: []
-        location: "POINT (47.9166700000000034 18.0000000000000000)"
-        name: Kolárovo
-        population: 10823
-        slug: kolarovo
-      - 
-        districts: []
-        location: "POINT (49.0000000000000000 18.2333299999999987)"
-        name: Ilava
-        population: 5411
-        slug: ilava
-      - 
-        districts: []
-        location: "POINT (48.7333300000000023 18.7666700000000013)"
-        name: Handlová
-        population: 18018
-        slug: handlova
-      - 
-        districts: []
-        location: "POINT (48.9666700000000006 18.1833300000000015)"
-        name: "Dubnica nad Váhom"
-        population: 26617
-        slug: dubnica-nad-vahom
-      - 
-        districts: []
-        location: "POINT (48.7122600000000006 17.7870400000000011)"
-        name: Čachtice
-        population: 3626
-        slug: cachtice
-      - 
-        districts: []
-        location: "POINT (48.7833299999999994 18.5833300000000001)"
-        name: Bojnice
-        population: 5006
-        slug: bojnice
-      - 
-        districts: []
-        location: "POINT (48.7166700000000006 18.2666700000000013)"
-        name: "Bánovce nad Bebravou"
-        population: 21328
-        slug: banovce-nad-bebravou
-      - 
-        districts: []
-        location: "POINT (48.8945200000000000 18.0443600000000011)"
-        name: Trenčín
-        population: 58278
-        slug: trencin
-    code: SK.04
-    name: Nitriansky
-    slug: nitriansky
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (49.0000000000000000 20.7500000000000000)"
-        name: "Spišské Podhradie"
-        population: 3780
-        slug: spisske-podhradie
-      - 
-        districts: []
-        location: "POINT (49.2710000000000008 20.2623899999999999)"
+        alternate_names: 
+          - Zhd'jar
+          - Ждьяр
+        ascii_name: Zdiar
         name: Ždiar
+        names_en: ~
+        names_es: ~
         population: 1330
-        slug: zdiar
       - 
-        districts: []
-        location: "POINT (49.1333300000000008 20.2166700000000006)"
+        alternate_names: 
+          - Smokovec
+          - "Vysoke Tatry"
+          - "Vysokie Tatry"
+        ascii_name: "Vysoke Tatry"
         name: "Vysoké Tatry"
+        names_en: 
+          - "Vysoké Tatry"
+        names_es: ~
         population: 4700
-        slug: vysoke-tatry
       - 
-        districts: []
-        location: "POINT (49.2999999999999972 20.5666699999999985)"
+        alternate_names: 
+          - "Druzbaki Wyzny"
+          - "Druzbaki Wyżny"
+          - "Vyshne Ruzhbakhi"
+        ascii_name: "Vysne Ruzbachy"
         name: "Vyšné Ružbachy"
+        names_en: 
+          - "Vysne Ruzbachy"
+        names_es: ~
         population: 1296
-        slug: vysne-ruzbachy
       - 
-        districts: []
-        location: "POINT (48.8999999999999986 21.6833300000000015)"
+        alternate_names: 
+          - Varanno
+          - Varannó
+          - Vranov
+        ascii_name: "Vranov nad Topl'ou"
         name: "Vranov nad Topľou"
+        names_en: 
+          - "Vranov nad Topľou"
+        names_es: ~
         population: 23246
-        slug: vranov-nad-toplou
       - 
-        districts: []
-        location: "POINT (49.2999999999999972 21.5666699999999985)"
+        alternate_names: 
+          - Felsovizkoez
+          - Felsővízköz
+          - Svidnik
+        ascii_name: Svidnik
         name: Svidník
+        names_en: 
+          - Svidník
+        names_es: ~
         population: 12428
-        slug: svidnik
       - 
-        districts: []
-        location: "POINT (49.2000000000000028 21.6499999999999986)"
+        alternate_names: 
+          - Stropkiv
+          - Stropkov
+          - Sztropko
+        ascii_name: Stropkov
         name: Stropkov
+        names_en: 
+          - Stropkov
+        names_es: ~
         population: 10874
-        slug: stropkov
       - 
-        districts: []
-        location: "POINT (49.2999999999999972 20.6999999999999993)"
+        alternate_names: 
+          - Olublo
+          - "Stara Ljubovnja"
+          - "Stara Lubovna"
+        ascii_name: "Stara lubovna"
         name: "Stará ľubovňa"
+        names_en: 
+          - "Stará Ľubovňa"
+        names_es: ~
         population: 16000
-        slug: stara-lubovna
       - 
-        districts: []
-        location: "POINT (49.1833299999999980 20.4666700000000006)"
+        alternate_names: 
+          - "Spishske Podgrad'e"
+          - "Spiskie Podhradie"
+          - "Spisske Podhradie"
+        ascii_name: "Spisske Podhradie"
+        name: "Spišské Podhradie"
+        names_en: 
+          - "Spišské Podhradie"
+        names_es: ~
+        population: 3780
+      - 
+        alternate_names: ~
+        ascii_name: "Spisska Bela"
         name: "Spišská Belá"
+        names_en: ~
+        names_es: ~
         population: 6136
-        slug: spisska-bela
       - 
-        districts: []
-        location: "POINT (48.9833300000000023 22.1499999999999986)"
+        alternate_names: 
+          - Snina
+          - Szinna
+          - Снина
+        ascii_name: Snina
         name: Snina
+        names_en: 
+          - Snina
+        names_es: ~
         population: 22221
-        slug: snina
       - 
-        districts: []
-        location: "POINT (49.1000000000000014 21.1000000000000014)"
+        alternate_names: 
+          - Kisseben
+          - Kisszeben
+          - Sabinov
+        ascii_name: Sabinov
         name: Sabinov
+        names_en: 
+          - Sabinov
+        names_es: ~
         population: 12290
-        slug: sabinov
       - 
-        districts: []
-        location: "POINT (49.0000000000000000 21.2500000000000000)"
+        alternate_names: 
+          - Eperjes
+          - Prasiv
+          - Preshov
+        ascii_name: Presov
         name: Prešov
+        names_en: 
+          - Prešov
+        names_es: 
+          - Prešov
         population: 94718
-        slug: presov
       - 
-        districts: []
-        location: "POINT (49.0499999999999972 20.3000000000000007)"
+        alternate_names: 
+          - Deutschendorf
+          - Poprad
+          - Попрад
+        ascii_name: Poprad
         name: Poprad
+        names_en: ~
+        names_es: ~
         population: 57431
-        slug: poprad
       - 
-        districts: []
-        location: "POINT (49.2666699999999977 20.5333299999999994)"
+        alternate_names: ~
+        ascii_name: Podolinec
         name: Podolínec
+        names_en: ~
+        names_es: ~
         population: 3173
-        slug: podolinec
       - 
-        districts: []
-        location: "POINT (49.1225299999999976 20.2673699999999997)"
+        alternate_names: 
+          - Neu-Walddorf
+          - Nova-Lesna
+          - Нова-Лесна
+        ascii_name: "Nova Lesna"
         name: "Nová Lesná"
+        names_en: ~
+        names_es: ~
         population: 1520
-        slug: nova-lesna
       - 
-        districts: []
-        location: "POINT (49.1166699999999992 20.4499999999999993)"
+        alternate_names: 
+          - Leibitz
+        ascii_name: Lubica
         name: Ľubica
+        names_en: ~
+        names_es: ~
         population: 4000
-        slug: lubica
       - 
-        districts: []
-        location: "POINT (49.1499999999999986 20.9666700000000006)"
+        alternate_names: 
+          - Lipany
+          - Lipiany
+        ascii_name: Lipany
         name: Lipany
+        names_en: ~
+        names_es: ~
         population: 6130
-        slug: lipany
       - 
-        districts: []
-        location: "POINT (49.0333299999999994 20.6000000000000014)"
+        alternate_names: 
+          - Leutschau
+          - Levoca
+          - Levocha
+        ascii_name: Levoca
         name: Levoča
+        names_en: 
+          - Levoča
+        names_es: ~
         population: 14511
-        slug: levoca
       - 
-        districts: []
-        location: "POINT (49.1333300000000008 20.4333300000000015)"
+        alternate_names: 
+          - Kaesmark
+          - Kesmark
+          - Kezhmarok
+        ascii_name: Kezmarok
         name: Kežmarok
+        names_en: 
+          - Kežmarok
+        names_es: ~
         population: 21391
-        slug: kezmarok
       - 
-        districts: []
-        location: "POINT (48.9333299999999980 21.9166699999999999)"
+        alternate_names: 
+          - Gumenne
+          - Homonna
+          - Humenne
+        ascii_name: Humenne
         name: Humenné
+        names_en: 
+          - Humenné
+        names_es: ~
         population: 35367
-        slug: humenne
       - 
-        districts: []
-        location: "POINT (49.1166699999999992 21.5166700000000013)"
+        alternate_names: 
+          - Giraltovce
+          - Oiraltovce
+        ascii_name: Giraltovce
         name: Giraltovce
+        names_en: ~
+        names_es: ~
         population: 4189
-        slug: giraltovce
       - 
-        districts: []
-        location: "POINT (48.8833300000000008 21.9333300000000015)"
+        alternate_names: 
+          - Chlmec
+          - Chlumec
+        ascii_name: Chlmec
         name: Chlmec
+        names_en: ~
+        names_es: ~
         population: 8031
-        slug: chlmec
       - 
-        districts: []
-        location: "POINT (49.2833299999999994 21.2833299999999994)"
+        alternate_names: 
+          - Bardejov
+          - Bardiow
+          - Bardiów
+        ascii_name: Bardejov
         name: Bardejov
+        names_en: 
+          - Bardejov
+        names_es: ~
         population: 34209
-        slug: bardejov
-    code: SK.05
     name: Prešovský
-    slug: presovsky
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Zilinsky Kraj"
     cities: 
       - 
-        districts: []
-        location: "POINT (48.6333300000000008 17.7333299999999987)"
-        name: Vrbové
-        population: 6249
-        slug: vrbove
-      - 
-        districts: []
-        location: "POINT (48.3666699999999992 17.6000000000000014)"
-        name: Trnava
-        population: 69785
-        slug: trnava
-      - 
-        districts: []
-        location: "POINT (48.5047799999999967 17.4306699999999992)"
-        name: Smolenice
-        population: 3287
-        slug: smolenice
-      - 
-        districts: []
-        location: "POINT (48.2000000000000028 17.6499999999999986)"
-        name: Sládkovičovo
-        population: 6078
-        slug: sladkovicovo
-      - 
-        districts: []
-        location: "POINT (48.8500000000000014 17.2333299999999987)"
-        name: Skalica
-        population: 15013
-        slug: skalica
-      - 
-        districts: []
-        location: "POINT (48.6833299999999980 17.3666699999999992)"
-        name: Senica
-        population: 21741
-        slug: senica
-      - 
-        districts: []
-        location: "POINT (48.0333299999999994 17.3166699999999985)"
-        name: Šamorín
-        population: 12143
-        slug: samorin
-      - 
-        districts: []
-        location: "POINT (48.6000000000000014 17.8333300000000001)"
-        name: Piešťany
-        population: 30000
-        slug: piestany
-      - 
-        districts: []
-        location: "POINT (48.4500000000000028 17.7666700000000013)"
-        name: Leopoldov
-        population: 3999
-        slug: leopoldov
-      - 
-        districts: []
-        location: "POINT (48.7999999999999972 17.1666699999999999)"
-        name: Holíč
-        population: 11416
-        slug: holic
-      - 
-        districts: []
-        location: "POINT (48.4333299999999980 17.8000000000000007)"
-        name: Hlohovec
-        population: 23930
-        slug: hlohovec
-      - 
-        districts: []
-        location: "POINT (48.7166700000000006 17.1333300000000008)"
-        name: Gbely
-        population: 5223
-        slug: gbely
-    code: SK.07
-    name: Trnavský
-    slug: trnavsky
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (49.0833299999999966 19.3166699999999985)"
-        name: Ružomberok
-        population: 30806
-        slug: ruzomberok
-      - 
-        districts: []
-        location: "POINT (49.0333299999999994 19.7333299999999987)"
-        name: "Liptovský Hrádok"
-        population: 8232
-        slug: liptovsky-hradok
-      - 
-        districts: []
-        location: "POINT (49.2231499999999969 18.7394099999999995)"
+        alternate_names: 
+          - Sillein
+          - Solna
+          - Zhilina
+        ascii_name: Zilina
         name: Žilina
+        names_en: 
+          - Žilina
+        names_es: ~
         population: 85985
-        slug: zilina
       - 
-        districts: []
-        location: "POINT (49.1166699999999992 18.9166699999999999)"
+        alternate_names: ~
+        ascii_name: Vrutky
         name: Vrútky
+        names_en: ~
+        names_es: ~
         population: 7298
-        slug: vrutky
       - 
-        districts: []
-        location: "POINT (49.3333299999999966 19.5666699999999985)"
+        alternate_names: ~
+        ascii_name: Tvrdosin
         name: Tvrdošín
+        names_en: ~
+        names_es: ~
         population: 9544
-        slug: tvrdosin
       - 
-        districts: []
-        location: "POINT (49.3999999999999986 18.6333300000000008)"
+        alternate_names: ~
+        ascii_name: Turzovka
         name: Turzovka
+        names_en: ~
+        names_es: ~
         population: 7854
-        slug: turzovka
       - 
-        districts: []
-        location: "POINT (49.3666699999999992 19.6166699999999992)"
+        alternate_names: 
+          - Trstena
+          - Trstená
+          - Trsztena
+        ascii_name: Trstena
         name: Trstená
+        names_en: ~
+        names_es: ~
         population: 7461
-        slug: trstena
       - 
-        districts: []
-        location: "POINT (49.0833299999999966 18.6333300000000008)"
+        alternate_names: 
+          - Rosenberg
+          - Rozahegy
+          - Rozsahegy
+        ascii_name: Ruzomberok
+        name: Ružomberok
+        names_en: 
+          - Ružomberok
+        names_es: ~
+        population: 30806
+      - 
+        alternate_names: ~
+        ascii_name: Rajec
         name: Rajec
+        names_en: ~
+        names_es: ~
         population: 6400
-        slug: rajec
       - 
-        districts: []
-        location: "POINT (49.3999999999999986 19.5000000000000000)"
+        alternate_names: 
+          - Namestovo
+          - Nameszto
+          - Namiestow
+        ascii_name: Namestovo
         name: Námestovo
+        names_en: 
+          - Námestovo
+        names_es: ~
         population: 8135
-        slug: namestovo
       - 
-        districts: []
-        location: "POINT (49.0666700000000020 18.9333300000000015)"
+        alternate_names: 
+          - Martin
+          - "Turciansky Svaty Martin"
+          - "Turčiansky Svätý Martin"
+        ascii_name: Martin
         name: Martin
+        names_en: ~
+        names_es: ~
         population: 60817
-        slug: martin
       - 
-        districts: []
-        location: "POINT (49.2999999999999972 18.7833299999999994)"
+        alternate_names: ~
+        ascii_name: "Liptovsky Hradok"
+        name: "Liptovský Hrádok"
+        names_en: ~
+        names_es: ~
+        population: 8232
+      - 
+        alternate_names: 
+          - "Kisucke Nove Mesto"
+          - Kiszucaujhely
+          - Kiszucaújhely
+        ascii_name: "Kysucke Nove Mesto"
         name: "Kysucké Nové Mesto"
+        names_en: 
+          - "Kysucké Nové Mesto"
+        names_es: ~
         population: 16558
-        slug: kysucke-nove-mesto
       - 
-        districts: []
-        location: "POINT (49.2000000000000028 19.3000000000000007)"
+        alternate_names: 
+          - Alsokubin
+          - Alsókubin
+          - "Dolni Kubin"
+        ascii_name: "Dolny Kubin"
         name: "Dolný Kubín"
+        names_en: 
+          - "Dolný Kubín"
+        names_es: ~
         population: 20401
-        slug: dolny-kubin
       - 
-        districts: []
-        location: "POINT (49.4333299999999980 18.7833299999999994)"
+        alternate_names: 
+          - Cadca
+          - Chadca
+          - Csaca
+        ascii_name: Cadca
         name: Čadca
+        names_en: 
+          - Čadca
+        names_es: ~
         population: 27281
-        slug: cadca
       - 
-        districts: []
-        location: "POINT (49.2166700000000006 18.5666699999999985)"
+        alternate_names: 
+          - Bitcha
+          - Bytca
+          - Bytča
+        ascii_name: Bytca
         name: Bytča
+        names_en: 
+          - Bytča
+        names_es: ~
         population: 11550
-        slug: bytca
       - 
-        districts: []
-        location: "POINT (49.3667200000000008 19.1809300000000000)"
+        alternate_names: 
+          - Erdudka
+          - Erdutka
+          - Erdúdka
+        ascii_name: "Oravska Lesna"
         name: "Oravská Lesná"
+        names_en: ~
+        names_es: ~
         population: 3500
-        slug: oravska-lesna
-    code: SK.08
     name: Žilinský
-    slug: zilinsky
-tld: sk
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Banskobystricky Kraj"
+    cities: 
+      - 
+        alternate_names: 
+          - Rima-Szombat
+          - Rimaszombat
+          - "Rimavska Sobota"
+        ascii_name: "Rimavska Sobota"
+        name: "Rimavská Sobota"
+        names_en: 
+          - "Rimavská Sobota"
+        names_es: ~
+        population: 25235
+      - 
+        alternate_names: 
+          - Nagyroce
+          - Nagyrőce
+          - Revuca
+        ascii_name: Revuca
+        name: Revúca
+        names_en: 
+          - Revúca
+        names_es: ~
+        population: 13466
+      - 
+        alternate_names: 
+          - Altsohl
+          - Zolyom
+          - Zvolen
+        ascii_name: Zvolen
+        name: Zvolen
+        names_en: 
+          - Zvolen
+        names_es: ~
+        population: 44502
+      - 
+        alternate_names: 
+          - "Svaty Kriz nad Hronom"
+          - "Svätý Kríž nad Hronom"
+          - "Ziar nad Hronom"
+        ascii_name: "Ziar nad Hronom"
+        name: "Žiar nad Hronom"
+        names_en: ~
+        names_es: ~
+        population: 19392
+      - 
+        alternate_names: 
+          - Zarnovica
+          - Zarovnica
+          - Žarnovica
+        ascii_name: Zarnovica
+        name: Žarnovica
+        names_en: ~
+        names_es: ~
+        population: 6596
+      - 
+        alternate_names: 
+          - Theissholz
+          - Tisovec
+          - Tiszolcz
+        ascii_name: Tisovec
+        name: Tisovec
+        names_en: ~
+        names_es: ~
+        population: 4215
+      - 
+        alternate_names: ~
+        ascii_name: Poltar
+        name: Poltár
+        names_en: ~
+        names_es: ~
+        population: 6099
+      - 
+        alternate_names: 
+          - Konigsberg
+          - Königsberg
+          - "Nova Bana"
+        ascii_name: "Nova Bana"
+        name: "Nová Baňa"
+        names_en: ~
+        names_es: ~
+        population: 7505
+      - 
+        alternate_names: 
+          - Losonc
+          - Losoncz
+          - Lucenec
+        ascii_name: Lucenec
+        name: Lučenec
+        names_en: 
+          - Lučenec
+        names_es: ~
+        population: 28159
+      - 
+        alternate_names: 
+          - Krupina
+          - Крупина
+        ascii_name: Krupina
+        name: Krupina
+        names_en: ~
+        names_es: ~
+        population: 7991
+      - 
+        alternate_names: 
+          - Koermoecbanya
+          - Kormoczbanya
+          - Kremnica
+        ascii_name: Kremnica
+        name: Kremnica
+        names_en: 
+          - Kremnica
+        names_es: ~
+        population: 5822
+      - 
+        alternate_names: 
+          - Herencsvoelgy
+          - Herencsvölgy
+          - Hrinova
+        ascii_name: Hrinova
+        name: Hriňová
+        names_en: ~
+        names_es: ~
+        population: 8289
+      - 
+        alternate_names: 
+          - Fil'akovo
+          - Filek
+          - Fiľakovo
+        ascii_name: Fil'akovo
+        name: Fiľakovo
+        names_en: ~
+        names_es: ~
+        population: 10198
+      - 
+        alternate_names: 
+          - Detva
+          - Gyetva
+          - Детва
+        ascii_name: Detva
+        name: Detva
+        names_en: ~
+        names_es: ~
+        population: 15020
+      - 
+        alternate_names: 
+          - Brezno
+          - "Brezno nad Hronom"
+          - Breznobanya
+        ascii_name: Brezno
+        name: Brezno
+        names_en: 
+          - Brezno
+        names_es: ~
+        population: 23055
+      - 
+        alternate_names: 
+          - "Banska Sht'javnica"
+          - "Banska Stiavnica"
+          - "Banska Stiavnica a Banska Bela"
+        ascii_name: "Banska Stiavnica"
+        name: "Banská Štiavnica"
+        names_en: 
+          - "Banská Štiavnica"
+        names_es: ~
+        population: 10874
+      - 
+        alternate_names: 
+          - "Banska Bistrica"
+          - "Banska Bystrica"
+          - "Banska Bystrzyca"
+        ascii_name: "Banska Bystrica"
+        name: "Banská Bystrica"
+        names_en: 
+          - "Banská Bystrica"
+        names_es: 
+          - "Banská Bystrica"
+        population: 82336
+    name: Banskobystrický
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bratislavsky Kraj"
+    cities: 
+      - 
+        alternate_names: 
+          - "Jur pri Bratislave"
+          - "Sanct Georgius"
+          - "Sankt Georgen"
+        ascii_name: "Svaty Jur"
+        name: "Svätý Jur"
+        names_en: 
+          - "Svätý Jur"
+        names_es: ~
+        population: 4614
+      - 
+        alternate_names: 
+          - Senec
+          - Szenc
+          - Сенец
+        ascii_name: Senec
+        name: Senec
+        names_en: 
+          - Senec
+        names_es: ~
+        population: 14673
+      - 
+        alternate_names: 
+          - Bazin
+          - Pezinok
+          - Poesing
+        ascii_name: Pezinok
+        name: Pezinok
+        names_en: ~
+        names_es: ~
+        population: 21343
+      - 
+        alternate_names: 
+          - Modor
+          - Modra
+          - Модра
+        ascii_name: Modra
+        name: Modra
+        names_en: 
+          - Modra
+        names_es: ~
+        population: 8536
+      - 
+        alternate_names: 
+          - Malacka
+          - Malacke
+          - Malacki
+        ascii_name: Malacky
+        name: Malacky
+        names_en: 
+          - Malacky
+        names_es: ~
+        population: 17773
+      - 
+        alternate_names: 
+          - "An Bhrataslaiv"
+          - "An Bhratasláiv"
+          - Bratislava
+        ascii_name: Bratislava
+        name: Bratislava
+        names_en: 
+          - Bratislava
+        names_es: 
+          - Bratislava
+        population: 423737
+    name: Bratislavský
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nitriansky Kraj"
+    cities: 
+      - 
+        alternate_names: 
+          - "Zlate Moravce"
+          - "Zlaté Moravce"
+        ascii_name: "Zlate Moravce"
+        name: "Zlaté Moravce"
+        names_en: ~
+        names_es: ~
+        population: 15618
+      - 
+        alternate_names: 
+          - Zeliezovce
+          - Zseliz
+          - Želiezovce
+        ascii_name: Zeliezovce
+        name: Želiezovce
+        names_en: ~
+        names_es: ~
+        population: 7522
+      - 
+        alternate_names: 
+          - "Trencianske Teplice"
+          - "Trenčianske Teplice"
+        ascii_name: "Trencianske Teplice"
+        name: "Trenčianske Teplice"
+        names_en: ~
+        names_es: ~
+        population: 4438
+      - 
+        alternate_names: 
+          - Garamtolmacs
+          - Garamtolmács
+          - Timac
+        ascii_name: Tlmace
+        name: Tlmače
+        names_en: ~
+        names_es: ~
+        population: 4305
+      - 
+        alternate_names: 
+          - Seldin
+          - Seldín
+          - Svodin
+        ascii_name: Svodin
+        name: Svodín
+        names_en: ~
+        names_es: ~
+        population: 2649
+      - 
+        alternate_names: 
+          - Nagysurany
+          - Nagysurány
+          - Shurany
+        ascii_name: Surany
+        name: Šurany
+        names_en: 
+          - Šurany
+        names_es: ~
+        population: 10491
+      - 
+        alternate_names: 
+          - Otura
+          - "Stara Tura"
+          - "Stará Turá"
+        ascii_name: "Stara Tura"
+        name: "Stará Turá"
+        names_en: ~
+        names_es: ~
+        population: 10291
+      - 
+        alternate_names: 
+          - Sal'a
+          - Sala
+          - "Sala nad Vahom"
+        ascii_name: Sellye
+        name: Sellye
+        names_en: 
+          - Šaľa
+        names_es: ~
+        population: 24513
+      - 
+        alternate_names: 
+          - "Ipoly Sagh"
+          - "Ipoly Ságh"
+          - Ipolysag
+        ascii_name: Sahy
+        name: Šahy
+        names_en: 
+          - Šahy
+        names_es: ~
+        population: 8061
+      - 
+        alternate_names: 
+          - Pucho
+          - Puchov
+          - Puho
+        ascii_name: Puchov
+        name: Púchov
+        names_en: 
+          - Púchov
+        names_es: ~
+        population: 18833
+      - 
+        alternate_names: 
+          - Pr'evidza
+          - Prievidza
+          - Privigye
+        ascii_name: Prievidza
+        name: Prievidza
+        names_en: 
+          - Prievidza
+        names_es: ~
+        population: 52987
+      - 
+        alternate_names: 
+          - Bystrica
+          - "Povazhska Bistrica"
+          - "Povazska Bystrica"
+        ascii_name: "Povazska Bystrica"
+        name: "Považská Bystrica"
+        names_en: 
+          - "Považská Bystrica"
+        names_es: ~
+        population: 43936
+      - 
+        alternate_names: 
+          - Bat'ovany
+          - Baťovany
+          - Partizanske
+        ascii_name: Partizanske
+        name: Partizánske
+        names_en: 
+          - Partizánske
+        names_es: ~
+        population: 24370
+      - 
+        alternate_names: 
+          - Navaky
+          - Novaky
+          - Nováky
+        ascii_name: Novaky
+        name: Nováky
+        names_en: ~
+        names_es: ~
+        population: 4402
+      - 
+        alternate_names: 
+          - Neutra
+          - Nitra
+          - Nyitra
+        ascii_name: Nitra
+        name: Nitra
+        names_en: 
+          - Nitra
+        names_es: 
+          - Nitra
+        population: 86329
+      - 
+        alternate_names: ~
+        ascii_name: Nemsova
+        name: Nemšová
+        names_en: ~
+        names_es: ~
+        population: 6136
+      - 
+        alternate_names: 
+          - Miava
+          - Myjava
+        ascii_name: Myjava
+        name: Myjava
+        names_en: ~
+        names_es: ~
+        population: 13142
+      - 
+        alternate_names: 
+          - Leua
+          - Leva
+          - Levice
+        ascii_name: Levice
+        name: Levice
+        names_en: 
+          - Levice
+        names_es: ~
+        population: 37574
+      - 
+        alternate_names: 
+          - Guta
+          - Gutta
+          - Kolarovo
+        ascii_name: Kolarovo
+        name: Kolárovo
+        names_en: ~
+        names_es: ~
+        population: 10823
+      - 
+        alternate_names: 
+          - Hava
+          - Ilava
+          - Illava
+        ascii_name: Ilava
+        name: Ilava
+        names_en: 
+          - Ilava
+        names_es: ~
+        population: 5411
+      - 
+        alternate_names: 
+          - Handlova
+          - Handlová
+        ascii_name: Handlova
+        name: Handlová
+        names_en: ~
+        names_es: ~
+        population: 18018
+      - 
+        alternate_names: 
+          - "Dubnica nad Vahom"
+          - "Dubnica nad Váhom"
+          - Dubnica-nad-Vagom
+        ascii_name: "Dubnica nad Vahom"
+        name: "Dubnica nad Váhom"
+        names_en: 
+          - "Dubnica nad Váhom"
+        names_es: ~
+        population: 26617
+      - 
+        alternate_names: 
+          - Chakhtice
+          - Чахтице
+        ascii_name: Cachtice
+        name: Čachtice
+        names_en: ~
+        names_es: ~
+        population: 3626
+      - 
+        alternate_names: 
+          - Berezo
+          - Berezó
+          - "Brezova pod Bradlom"
+        ascii_name: "Brezova pod Bradlom"
+        name: "Brezová pod Bradlom"
+        names_en: ~
+        names_es: ~
+        population: 5567
+      - 
+        alternate_names: 
+          - Bajmoc
+          - Bajmóc
+          - Bojnice
+        ascii_name: Bojnice
+        name: Bojnice
+        names_en: 
+          - Bojnice
+        names_es: ~
+        population: 5006
+      - 
+        alternate_names: 
+          - Banovce
+          - "Banovce nad Bebravou"
+          - "Bánovce nad Bebravou"
+        ascii_name: "Banovce nad Bebravou"
+        name: "Bánovce nad Bebravou"
+        names_en: ~
+        names_es: ~
+        population: 21328
+    name: Nitriansky
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Trenciansky Kraj"
+    cities: 
+      - 
+        alternate_names: 
+          - Trenchin
+          - Trencin
+          - Trencsen
+        ascii_name: Trencin
+        name: Trenčín
+        names_en: 
+          - Trenčín
+        names_es: ~
+        population: 58278
+    name: Trenčiansky
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Trnavsky Kraj"
+    cities: 
+      - 
+        alternate_names: 
+          - Verbo
+          - Verbó
+          - Vrbove
+        ascii_name: Vrbove
+        name: Vrbové
+        names_en: 
+          - Vrbové
+        names_es: ~
+        population: 6249
+      - 
+        alternate_names: 
+          - Nagyszombat
+          - Trnava
+          - Trnawa
+        ascii_name: Trnava
+        name: Trnava
+        names_en: 
+          - Trnava
+        names_es: 
+          - Trnava
+        population: 69785
+      - 
+        alternate_names: 
+          - Smolenice
+          - Смоленице
+        ascii_name: Smolenice
+        name: Smolenice
+        names_en: ~
+        names_es: ~
+        population: 3287
+      - 
+        alternate_names: 
+          - Diosek
+          - Dioszeg
+          - Diószeg
+        ascii_name: Sladkovicovo
+        name: Sládkovičovo
+        names_en: ~
+        names_es: ~
+        population: 6078
+      - 
+        alternate_names: 
+          - Skalica
+        ascii_name: Skalica
+        name: Skalica
+        names_en: ~
+        names_es: ~
+        population: 15013
+      - 
+        alternate_names: 
+          - Senica
+          - Сеница
+        ascii_name: Senica
+        name: Senica
+        names_en: ~
+        names_es: ~
+        population: 21741
+      - 
+        alternate_names: 
+          - Samorin
+          - Somorja
+          - Šamorín
+        ascii_name: Samorin
+        name: Šamorín
+        names_en: ~
+        names_es: ~
+        population: 12143
+      - 
+        alternate_names: 
+          - Piest'anoch
+          - Piestany
+          - Pieszczany
+        ascii_name: Piestany
+        name: Piešťany
+        names_en: 
+          - Piešťany
+        names_es: ~
+        population: 30000
+      - 
+        alternate_names: 
+          - Leopoldov
+          - Mestecko
+          - Mestečko
+        ascii_name: Leopoldov
+        name: Leopoldov
+        names_en: 
+          - Leopoldov
+        names_es: ~
+        population: 3999
+      - 
+        alternate_names: ~
+        ascii_name: Holic
+        name: Holíč
+        names_en: ~
+        names_es: ~
+        population: 11416
+      - 
+        alternate_names: 
+          - Galgoc
+          - Galgóc
+          - Hlohovec
+        ascii_name: Hlohovec
+        name: Hlohovec
+        names_en: 
+          - Hlohovec
+        names_es: ~
+        population: 23930
+      - 
+        alternate_names: 
+          - Egbell
+          - Gbely
+        ascii_name: Gbely
+        name: Gbely
+        names_en: ~
+        names_es: ~
+        population: 5223
+    name: Trnavský
+    names_en: ~
+    names_es: ~

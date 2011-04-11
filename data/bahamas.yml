@@ -1,78 +1,235 @@
 --- 
-code: BS
-continent: NA
 name: Bahamas
-population: 301790
+names_en: 
+  - Bahamas
+  - "The Bahamas"
+names_es: 
+  - Bahamas
 regions: 
   - 
+    ascii_name: "San Salvador and Rum Cay District"
+    cities: []
+    name: "San Salvador and Rum Cay"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sandy Point District"
+    cities: []
+    name: "Sandy Point"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rock Sound District"
     cities: 
       - 
-        districts: []
-        location: "POINT (26.6833300000000015 -78.9666699999999935)"
-        name: "West End"
-        population: 12724
-        slug: west-end
-      - 
-        districts: []
-        location: "POINT (26.5333299999999994 -78.6666699999999963)"
-        name: Lucaya
-        population: 46525
-        slug: lucaya
-      - 
-        districts: []
-        location: "POINT (26.5333299999999994 -78.7000000000000028)"
-        name: Freeport
-        population: 26910
-        slug: freeport
-      - 
-        districts: []
-        location: "POINT (26.5412399999999984 -77.0635999999999939)"
-        name: "Marsh Harbour"
-        population: 5314
-        slug: marsh-harbour
-      - 
-        districts: []
-        location: "POINT (23.1000000000000014 -74.9833299999999952)"
-        name: "Clarence Town"
-        population: 1752
-        slug: clarence-town
-      - 
-        districts: []
-        location: "POINT (25.5000000000000000 -76.6500000000000057)"
-        name: "Dunmore Town"
-        population: 1523
-        slug: dunmore-town
-      - 
-        districts: []
-        location: "POINT (25.0582299999999982 -77.3430599999999941)"
-        name: Nassau
-        population: 227940
-        slug: nassau
-      - 
-        districts: []
-        location: "POINT (24.6999999999999993 -77.7666700000000048)"
-        name: "Andros Town"
-        population: 2455
-        slug: andros-town
-      - 
-        districts: []
-        location: "POINT (26.8666699999999992 -77.5166700000000048)"
-        name: "Cooper’s Town"
-        population: 8413
-        slug: coopers-town
-      - 
-        districts: []
-        location: "POINT (26.6208300000000015 -78.2833300000000065)"
-        name: "High Rock"
-        population: 3744
-        slug: high-rock
-      - 
-        districts: []
-        location: "POINT (24.8999999999999986 -76.2000000000000028)"
+        alternate_names: 
+          - "New Portsmouth"
+          - "New Portsmouth Settlement"
+          - "Rock Sound"
+        ascii_name: "Rock Sound"
         name: "Rock Sound"
+        names_en: ~
+        names_es: ~
         population: 1396
-        slug: rock-sound
-    code: BS.25
+    name: "Rock Sound"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ragged Island District"
+    cities: []
+    name: "Ragged Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nichollstown and Berry Islands District"
+    cities: []
+    name: "Nichollstown and Berry Islands"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "New Providence District"
+    cities: 
+      - 
+        alternate_names: 
+          - "City of Nassau"
+          - Nasau
+          - Nassaou
+        ascii_name: Nassau
+        name: Nassau
+        names_en: 
+          - Nassau
+        names_es: 
+          - Nassau
+        population: 227940
+    name: "New Providence"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mayaguana District"
+    cities: []
+    name: Mayaguana
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Marsh Harbour District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Marsh Harbor"
+        ascii_name: "Marsh Harbour"
+        name: "Marsh Harbour"
+        names_en: ~
+        names_es: ~
+        population: 5314
+    name: "Marsh Harbour"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Long Island District"
+    cities: 
+      - 
+        alternate_names: 
+          - Clarence
+          - "Clarence Town"
+        ascii_name: "Clarence Town"
+        name: "Clarence Town"
+        names_en: ~
+        names_es: ~
+        population: 1752
+    name: "Long Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kemps Bay District"
+    cities: []
+    name: "Kemps Bay"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Inagua District"
+    cities: []
+    name: Inagua
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "High Rock District"
+    cities: 
+      - 
+        alternate_names: 
+          - "High Rock"
+          - "High Rock Village"
+          - "High Rocks"
+        ascii_name: "High Rock"
+        name: "High Rock"
+        names_en: ~
+        names_es: ~
+        population: 3744
+    name: "High Rock"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Harbour Island District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Dunmore Town"
+          - "Harbour Island"
+        ascii_name: "Dunmore Town"
+        name: "Dunmore Town"
+        names_en: ~
+        names_es: ~
+        population: 1523
+    name: "Harbour Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Green Turtle Cay District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Cooper's Town"
+        name: "Cooper’s Town"
+        names_en: ~
+        names_es: ~
+        population: 8413
+    name: "Green Turtle Cay"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Governor's Harbour District"
+    cities: []
+    name: "Governorʼs Harbour"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Fresh Creek District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Andros Town"
+          - "Fresh Creek"
+        ascii_name: "Andros Town"
+        name: "Andros Town"
+        names_en: ~
+        names_es: ~
+        population: 2455
+    name: "Fresh Creek"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "City of Freeport District"
+    cities: 
+      - 
+        alternate_names: 
+          - "West End"
+          - "West End Settlement"
+        ascii_name: "West End"
+        name: "West End"
+        names_en: ~
+        names_es: ~
+        population: 12724
+      - 
+        alternate_names: 
+          - Lucaya
+        ascii_name: Lucaya
+        name: Lucaya
+        names_en: ~
+        names_es: ~
+        population: 46525
+      - 
+        alternate_names: 
+          - Freeport
+          - "Freeport City"
+        ascii_name: Freeport
+        name: Freeport
+        names_en: 
+          - Freeport
+        names_es: ~
+        population: 26910
     name: Freeport
-    slug: freeport
-tld: bs
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Exuma District"
+    cities: []
+    name: Exuma
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Cat Island District"
+    cities: []
+    name: "Cat Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bimini District"
+    cities: []
+    name: Bimini
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Acklins Island District"
+    cities: []
+    name: "Acklins and Crooked Islands"
+    names_en: ~
+    names_es: ~

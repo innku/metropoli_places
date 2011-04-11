@@ -1,77 +1,109 @@
 --- 
-code: AS
-continent: OC
 name: "American Samoa"
-population: 57881
+names_en: 
+  - "American Samoa"
+names_es: 
+  - "Samoa Americana"
 regions: 
   - 
+    ascii_name: "Western District"
     cities: 
       - 
-        districts: []
-        location: "POINT (-14.2761099999999992 -170.6638900000000092)"
-        name: Aūa
-        population: 2124
-        slug: aua
-      - 
-        districts: []
-        location: "POINT (-14.2825000000000006 -170.6899999999999977)"
-        name: Fagatogo
-        population: 1868
-        slug: fagatogo
-      - 
-        districts: []
-        location: "POINT (-14.2780600000000000 -170.7024999999999864)"
-        name: "Pago Pago"
-        population: 4196
-        slug: pago-pago
-    code: AS.010
-    name: "Eastern District"
-    slug: eastern-district
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-14.3588900000000006 -170.7347200000000100)"
+        alternate_names: ~
+        ascii_name: Vaitogi
         name: Vaitogi
+        names_en: ~
+        names_es: ~
         population: 1436
-        slug: vaitogi
       - 
-        districts: []
-        location: "POINT (-14.3552000000000000 -170.7832899999999938)"
-        name: Vailoatai
-        population: 1144
-        slug: vailoatai
-      - 
-        districts: []
-        location: "POINT (-14.3358299999999996 -170.7199999999999989)"
+        alternate_names: 
+          - Tafuna
+          - Тафуна
+        ascii_name: Tafuna
         name: Tāfuna
+        names_en: ~
+        names_es: ~
         population: 11017
-        slug: tafuna
       - 
-        districts: []
-        location: "POINT (-14.3324999999999996 -170.7444399999999973)"
+        alternate_names: ~
+        ascii_name: Faleniu
         name: Faleniu
+        names_en: ~
+        names_es: ~
         population: 3200
-        slug: faleniu
       - 
-        districts: []
-        location: "POINT (-14.3438900000000000 -170.7849999999999966)"
+        alternate_names: ~
+        ascii_name: Leone
         name: Leone
+        names_en: ~
+        names_es: ~
         population: 4050
-        slug: leone
       - 
-        districts: []
-        location: "POINT (-14.3227799999999998 -170.7338900000000024)"
+        alternate_names: ~
+        ascii_name: Malaeimi
         name: Malaeimi
+        names_en: ~
+        names_es: ~
         population: 1261
-        slug: malaeimi
       - 
-        districts: []
-        location: "POINT (-14.3305600000000002 -170.7527800000000013)"
+        alternate_names: ~
+        ascii_name: Mapusagafou
         name: Mapusagafou
+        names_en: ~
+        names_es: ~
         population: 2052
-        slug: mapusagafou
-    code: AS.050
     name: "Western District"
-    slug: western-district
-tld: as
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rose Island (inactive)"
+    cities: []
+    name: "Rose Island (inactive)"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Swains Island"
+    cities: []
+    name: "Swains Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Eastern District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Aua
+        name: Aūa
+        names_en: ~
+        names_es: ~
+        population: 2124
+      - 
+        alternate_names: 
+          - Fagatogo
+          - Фагатого
+        ascii_name: Fagatogo
+        name: Fagatogo
+        names_en: ~
+        names_es: ~
+        population: 1868
+      - 
+        alternate_names: 
+          - "Pago Pago"
+          - Pagopago
+          - "pa ko pa ko"
+        ascii_name: "Pago Pago"
+        name: "Pago Pago"
+        names_en: 
+          - "Pago Pago"
+        names_es: 
+          - "Pago Pago"
+        population: 4196
+    name: "Eastern District"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Manu'a District"
+    cities: []
+    name: Manu'a
+    names_en: ~
+    names_es: ~

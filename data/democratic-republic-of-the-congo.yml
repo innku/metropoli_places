@@ -1,450 +1,311 @@
 --- 
-code: CD
-continent: AF
 name: "Democratic Republic of the Congo"
-population: 70916439
+names_en: 
+  - Congo-Kinshasa
+  - "Democratic Republic of Congo"
+  - "Democratic Republic of the Congo"
+names_es: 
+  - Zaire
+  - "República Democrática del Congo"
 regions: 
   - 
+    ascii_name: "Province du Sud-Kivu"
     cities: 
       - 
-        districts: []
-        location: "POINT (0.7833300000000000 24.4666700000000006)"
-        name: Yangambi
-        population: 35531
-        slug: yangambi
-      - 
-        districts: []
-        location: "POINT (3.0499999999999998 29.5333299999999994)"
-        name: Watsa
-        population: 24516
-        slug: watsa
-      - 
-        districts: []
-        location: "POINT (2.1499999999999999 28.0000000000000000)"
-        name: Wamba
-        population: 17373
-        slug: wamba
-      - 
-        districts: []
-        location: "POINT (-6.4166699999999999 20.8000000000000007)"
-        name: Tshikapa
-        population: 267462
-        slug: tshikapa
-      - 
-        districts: []
-        location: "POINT (-7.0000000000000000 23.4499999999999993)"
-        name: Mwene-Ditu
-        population: 189177
-        slug: mwene-ditu
-      - 
-        districts: []
-        location: "POINT (-4.8499999999999996 21.5666699999999985)"
-        name: Mweka
-        population: 50675
-        slug: mweka
-      - 
-        districts: []
-        location: "POINT (-4.9666699999999997 23.4499999999999993)"
-        name: Lusambo
-        population: 41416
-        slug: lusambo
-      - 
-        districts: []
-        location: "POINT (-5.3499999999999996 21.4166699999999999)"
-        name: Luebo
-        population: 35183
-        slug: luebo
-      - 
-        districts: []
-        location: "POINT (-5.3666700000000001 25.7500000000000000)"
-        name: Lubao
-        population: 43068
-        slug: lubao
-      - 
-        districts: []
-        location: "POINT (-3.4833300000000000 23.4333300000000015)"
-        name: Lodja
-        population: 68244
-        slug: lodja
-      - 
-        districts: []
-        location: "POINT (2.1499999999999999 21.5166700000000013)"
-        name: Lisala
-        population: 70087
-        slug: lisala
-      - 
-        districts: []
-        location: "POINT (-5.3833299999999999 27.0000000000000000)"
-        name: Kongolo
-        population: 31943
-        slug: kongolo
-      - 
-        districts: []
-        location: "POINT (-6.1500000000000004 23.6000000000000014)"
-        name: Mbuji-Mayi
-        population: 874761
-        slug: mbuji-mayi
-      - 
-        districts: []
-        location: "POINT (-4.4500000000000002 26.6666699999999999)"
-        name: Kasongo
-        population: 55118
-        slug: kasongo
-      - 
-        districts: []
-        location: "POINT (-7.5666700000000002 24.1833300000000015)"
-        name: Kaniama
-        population: 29412
-        slug: kaniama
-      - 
-        districts: []
-        location: "POINT (-3.6000000000000001 26.6666699999999999)"
-        name: Kampene
-        population: 37034
-        slug: kampene
-      - 
-        districts: []
-        location: "POINT (-6.1333299999999999 24.4833299999999987)"
-        name: Kabinda
-        population: 59004
-        slug: kabinda
-      - 
-        districts: []
-        location: "POINT (-6.0499999999999998 26.9166699999999999)"
-        name: Kabalo
-        population: 29833
-        slug: kabalo
-      - 
-        districts: []
-        location: "POINT (2.7666700000000000 27.6166699999999992)"
-        name: Isiro
-        population: 127076
-        slug: isiro
-      - 
-        districts: []
-        location: "POINT (-4.3166700000000002 20.5833300000000001)"
-        name: Ilebo
-        population: 107093
-        slug: ilebo
-      - 
-        districts: []
-        location: "POINT (4.2833300000000003 21.0166700000000013)"
-        name: Gbadolite
-        population: 50493
-        slug: gbadolite
-      - 
-        districts: []
-        location: "POINT (-6.7500000000000000 23.9499999999999993)"
-        name: Gandajika
-        population: 154425
-        slug: gandajika
-      - 
-        districts: []
-        location: "POINT (0.1500000000000000 29.2833299999999994)"
-        name: Butembo
-        population: 154621
-        slug: butembo
-      - 
-        districts: []
-        location: "POINT (2.7999999999999998 24.7333299999999987)"
-        name: Buta
-        population: 45677
-        slug: buta
-      - 
-        districts: []
-        location: "POINT (3.3333300000000001 20.8833300000000008)"
-        name: Businga
-        population: 28919
-        slug: businga
-      - 
-        districts: []
-        location: "POINT (1.5666700000000000 30.2500000000000000)"
-        name: Bunia
-        population: 96764
-        slug: bunia
-      - 
-        districts: []
-        location: "POINT (2.1833300000000002 22.4666700000000006)"
-        name: Bumba
-        population: 95520
-        slug: bumba
-      - 
-        districts: []
-        location: "POINT (-9.1999999999999993 25.8500000000000014)"
-        name: Bukama
-        population: 38770
-        slug: bukama
-      - 
-        districts: []
-        location: "POINT (1.5000000000000000 21.0500000000000007)"
-        name: Bongandanga
-        population: 4105
-        slug: bongandanga
-      - 
-        districts: []
-        location: "POINT (3.8166699999999998 23.6666699999999999)"
-        name: Bondo
-        population: 17860
-        slug: bondo
-      - 
-        districts: []
-        location: "POINT (-0.2166700000000000 20.8666699999999992)"
-        name: Boende
-        population: 32091
-        slug: boende
-      - 
-        districts: []
-        location: "POINT (0.5000000000000000 29.4666700000000006)"
-        name: Beni
-        population: 89648
-        slug: beni
-      - 
-        districts: []
-        location: "POINT (1.2333300000000000 23.6000000000000014)"
-        name: Basoko
-        population: 43709
-        slug: basoko
-      - 
-        districts: []
-        location: "POINT (2.7333300000000000 23.7666700000000013)"
-        name: Aketi
-        population: 35161
-        slug: aketi
-      - 
-        districts: []
-        location: "POINT (-11.7666699999999995 27.2333299999999987)"
-        name: Kipushi
-        population: 62332
-        slug: kipushi
-      - 
-        districts: []
-        location: "POINT (-4.9833299999999996 12.9333299999999998)"
-        name: Tshela
-        population: 38845
-        slug: tshela
-      - 
-        districts: []
-        location: "POINT (-2.7166700000000001 17.6833300000000015)"
-        name: Nioki
-        population: 40695
-        slug: nioki
-      - 
-        districts: []
-        location: "POINT (-3.0166700000000000 16.8999999999999986)"
-        name: Mushie
-        population: 33062
-        slug: mushie
-      - 
-        districts: []
-        location: "POINT (-5.2500000000000000 14.8666699999999992)"
-        name: Mbanza-Ngungu
-        population: 86356
-        slug: mbanza-ngungu
-      - 
-        districts: []
-        location: "POINT (-4.0499999999999998 19.5333299999999994)"
-        name: Mangai
-        population: 37188
-        slug: mangai
-      - 
-        districts: []
-        location: "POINT (3.6499999999999999 18.6333300000000008)"
-        name: Libenge
-        population: 27053
-        slug: libenge
-      - 
-        districts: []
-        location: "POINT (-6.4666699999999997 16.8166699999999985)"
-        name: Kasongo-Lunda
-        population: 20060
-        slug: kasongo-lunda
-      - 
-        districts: []
-        location: "POINT (-1.9500000000000000 18.2666700000000013)"
-        name: Inongo
-        population: 40113
-        slug: inongo
-      - 
-        districts: []
-        location: "POINT (3.2500000000000000 19.7666700000000013)"
-        name: Gemena
-        population: 117639
-        slug: gemena
-      - 
-        districts: []
-        location: "POINT (-4.5499999999999998 18.6000000000000014)"
-        name: Bulungu
-        population: 48344
-        slug: bulungu
-      - 
-        districts: []
-        location: "POINT (4.1833299999999998 19.8999999999999986)"
-        name: Bosobolo
-        population: 14553
-        slug: bosobolo
-      - 
-        districts: []
-        location: "POINT (-2.1666699999999999 16.2333299999999987)"
-        name: Bolobo
-        population: 27862
-        slug: bolobo
-      - 
-        districts: []
-        location: "POINT (0.0666700000000000 18.2666700000000013)"
-        name: Mbandaka
-        population: 184185
-        slug: mbandaka
-      - 
-        districts: []
-        location: "POINT (0.5166700000000000 25.1999999999999993)"
-        name: Kisangani
-        population: 539158
-        slug: kisangani
-      - 
-        districts: []
-        location: "POINT (-2.9500000000000002 25.9499999999999993)"
-        name: Kindu
-        population: 135698
-        slug: kindu
-    code: CD.00
-    name: "Congo, Democratic Republic of The (general)"
-    slug: congo-democratic-republic-of-the-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-5.0386100000000003 18.8180599999999991)"
-        name: Kikwit
-        population: 186991
-        slug: kikwit
-      - 
-        districts: []
-        location: "POINT (-3.3166699999999998 17.3666699999999992)"
-        name: Bandundu
-        population: 118211
-        slug: bandundu
-    code: CD.01
-    name: Bandundu
-    slug: bandundu
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-5.8958300000000001 22.4177800000000005)"
-        name: Kananga
-        population: 463546
-        slug: kananga
-      - 
-        districts: []
-        location: "POINT (-5.5099999999999998 22.2666700000000013)"
-        name: Demba
-        population: 22263
-        slug: demba
-    code: CD.03
-    name: Kasaï-Occidental
-    slug: kasai-occidental
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-8.7386099999999995 24.9905599999999986)"
-        name: Kamina
-        population: 73557
-        slug: kamina
-      - 
-        districts: []
-        location: "POINT (-5.9474900000000002 29.1947100000000006)"
-        name: Kalemie
-        population: 146974
-        slug: kalemie
-      - 
-        districts: []
-        location: "POINT (-11.6666699999999999 27.4666700000000006)"
-        name: Lubumbashi
-        population: 1373770
-        slug: lubumbashi
-      - 
-        districts: []
-        location: "POINT (-10.9813899999999993 26.7333299999999987)"
-        name: Likasi
-        population: 422414
-        slug: likasi
-      - 
-        districts: []
-        location: "POINT (-10.7166700000000006 25.4725000000000001)"
-        name: Kolwezi
-        population: 418000
-        slug: kolwezi
-      - 
-        districts: []
-        location: "POINT (-10.8763900000000007 26.5969400000000000)"
-        name: Kambove
-        population: 36702
-        slug: kambove
-    code: CD.05
-    name: Katanga
-    slug: katanga
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-4.3245899999999997 15.3214600000000001)"
-        name: Kinshasa
-        population: 7785965
-        slug: kinshasa
-      - 
-        districts: []
-        location: "POINT (-4.3836100000000000 15.3913899999999995)"
-        name: Masina
-        population: 485167
-        slug: masina
-    code: CD.06
-    name: Kinshasa
-    slug: kinshasa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-5.8166700000000002 13.4499999999999993)"
-        name: Matadi
-        population: 180109
-        slug: matadi
-      - 
-        districts: []
-        location: "POINT (-4.5911099999999996 15.1708300000000005)"
-        name: Kasangulu
-        population: 27961
-        slug: kasangulu
-    code: CD.08
-    name: Bas-Congo
-    slug: bas-congo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-3.4066700000000001 29.1458300000000001)"
+        alternate_names: 
+          - Uvinza
+          - Uvira
+          - Увира
+        ascii_name: Uvira
         name: Uvira
+        names_en: 
+          - Uvira
+        names_es: ~
         population: 170391
-        slug: uvira
       - 
-        districts: []
-        location: "POINT (-2.4683299999999999 28.8241699999999987)"
+        alternate_names: ~
+        ascii_name: Kabare
         name: Kabare
+        names_en: ~
+        names_es: ~
         population: 37034
-        slug: kabare
       - 
-        districts: []
-        location: "POINT (-2.5083299999999999 28.8608300000000000)"
+        alternate_names: 
+          - Bukavu
+          - Costermansstad
+          - Costermansville
+        ascii_name: Bukavu
         name: Bukavu
+        names_en: 
+          - Bukavu
+        names_es: 
+          - Bukavu
         population: 225389
-        slug: bukavu
-      - 
-        districts: []
-        location: "POINT (-1.6791700000000001 29.2227800000000002)"
-        name: Goma
-        population: 144124
-        slug: goma
-    code: CD.12
     name: Sud-Kivu
-    slug: sud-kivu
-tld: cd
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province du Katanga"
+    cities: 
+      - 
+        alternate_names: 
+          - Kamina
+          - Kaminy
+          - Камины
+        ascii_name: Kamina
+        name: Kamina
+        names_en: 
+          - Kamina
+        names_es: ~
+        population: 73557
+      - 
+        alternate_names: 
+          - Albertstad
+          - Albertville
+          - Kalemi
+        ascii_name: Kalemie
+        name: Kalemie
+        names_en: 
+          - Kalemie
+        names_es: ~
+        population: 146974
+      - 
+        alternate_names: 
+          - E'ville
+          - Elisabethville
+          - Elizabethstad
+        ascii_name: Lubumbashi
+        name: Lubumbashi
+        names_en: 
+          - Lubumbashi
+        names_es: 
+          - Lubumbashi
+        population: 1373770
+      - 
+        alternate_names: 
+          - Jadotsville
+          - Jadotville
+          - Likasi
+        ascii_name: Likasi
+        name: Likasi
+        names_en: 
+          - Likasi
+        names_es: ~
+        population: 422414
+      - 
+        alternate_names: 
+          - Kolvezi
+          - Kolwezi
+          - Колвези
+        ascii_name: Kolwezi
+        name: Kolwezi
+        names_en: 
+          - Kolwezi
+        names_es: ~
+        population: 418000
+      - 
+        alternate_names: ~
+        ascii_name: Kambove
+        name: Kambove
+        names_en: ~
+        names_es: ~
+        population: 36702
+    name: Katanga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province du Nord-Kivu"
+    cities: 
+      - 
+        alternate_names: 
+          - Sake
+        ascii_name: Sake
+        name: Sake
+        names_en: ~
+        names_es: ~
+        population: 17151
+      - 
+        alternate_names: 
+          - Goma
+          - Ngoma
+          - Гома
+        ascii_name: Goma
+        name: Goma
+        names_en: 
+          - Goma
+        names_es: 
+          - Goma
+        population: 144124
+    name: Nord-Kivu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province du Maniema"
+    cities: 
+      - 
+        alternate_names: 
+          - Kindu
+          - Kindu-Port-Empain
+          - "Port de Kindu"
+        ascii_name: Kindu
+        name: Kindu
+        names_en: 
+          - Kindu
+        names_es: ~
+        population: 135698
+    name: Maniema
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province du Kasai-Oriental"
+    cities: 
+      - 
+        alternate_names: 
+          - Bakwanga
+          - Mbuji-Mayi
+          - "Mbuy Mayi"
+        ascii_name: Mbuji-Mayi
+        name: Mbuji-Mayi
+        names_en: 
+          - Mbuji-Mayi
+        names_es: ~
+        population: 874761
+    name: Kasaï-Oriental
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province du Kasai-Occidental"
+    cities: 
+      - 
+        alternate_names: 
+          - Kananga
+          - Kanange
+          - Lulua
+        ascii_name: Kananga
+        name: Kananga
+        names_en: 
+          - Kananga
+        names_es: ~
+        population: 463546
+      - 
+        alternate_names: ~
+        ascii_name: Demba
+        name: Demba
+        names_en: ~
+        names_es: ~
+        population: 22263
+    name: Kasaï-Occidental
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province Orientale"
+    cities: 
+      - 
+        alternate_names: 
+          - Kisangani
+          - Singitini
+          - Stanleystad
+        ascii_name: Kisangani
+        name: Kisangani
+        names_en: 
+          - Kisangani
+        names_es: 
+          - Kisangani
+        population: 539158
+    name: Orientale
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de l' Equateur"
+    cities: 
+      - 
+        alternate_names: 
+          - Bandaka
+          - Cocquilhatville
+          - Coquilhalville
+        ascii_name: Mbandaka
+        name: Mbandaka
+        names_en: 
+          - Mbandaka
+        names_es: ~
+        population: 184185
+    name: Équateur
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ville de Kinshasa"
+    cities: 
+      - 
+        alternate_names: 
+          - Kinsasa
+          - Kinsaso
+          - Kinshasa
+        ascii_name: Kinshasa
+        name: Kinshasa
+        names_en: 
+          - Kinshasa
+        names_es: 
+          - Kinshasa
+        population: 7785965
+      - 
+        alternate_names: ~
+        ascii_name: Masina
+        name: Masina
+        names_en: ~
+        names_es: ~
+        population: 485167
+    name: Kinshasa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province du Bas-Congo"
+    cities: 
+      - 
+        alternate_names: 
+          - Matadi
+          - Matidi
+          - matadi
+        ascii_name: Matadi
+        name: Matadi
+        names_en: 
+          - Matadi
+        names_es: 
+          - Matadi
+        population: 180109
+      - 
+        alternate_names: ~
+        ascii_name: Kasangulu
+        name: Kasangulu
+        names_en: ~
+        names_es: ~
+        population: 27961
+    name: Bas-Congo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de Bandundu"
+    cities: 
+      - 
+        alternate_names: 
+          - Kikvite
+          - Kikwit
+          - Kitwit
+        ascii_name: Kikwit
+        name: Kikwit
+        names_en: ~
+        names_es: ~
+        population: 186991
+      - 
+        alternate_names: 
+          - Bandundu
+          - Banningville
+          - Бандунду
+        ascii_name: Bandundu
+        name: Bandundu
+        names_en: 
+          - Bandundu
+        names_es: ~
+        population: 118211
+    name: Bandundu
+    names_en: ~
+    names_es: ~

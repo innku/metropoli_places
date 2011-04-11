@@ -1,494 +1,807 @@
 --- 
-code: KP
-continent: AS
 name: "North Korea"
-population: 22912177
+names_en: 
+  - "North Korea"
+  - "Democratic People’s Republic of Korea"
+names_es: 
+  - "Corea del Norte"
+  - "Corea, República Popular Democrática"
 regions: 
   - 
+    ascii_name: P'yongyang-si
     cities: 
       - 
-        districts: []
-        location: "POINT (40.9872200000000007 126.6113900000000001)"
-        name: Kanggye
-        population: 209530
-        slug: kanggye
-      - 
-        districts: []
-        location: "POINT (41.4608300000000014 126.6413900000000012)"
-        name: Chasŏng
-        population: 12736
-        slug: chasong
-    code: KP.01
-    name: Chagang-do
-    slug: chagang-do
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.9474999999999980 127.8711100000000016)"
-        name: Samho-rodongjagu
-        population: 19025
-        slug: samho-rodongjagu
-      - 
-        districts: []
-        location: "POINT (40.0247200000000021 128.1597199999999930)"
-        name: Yuktae-dong
-        population: 76427
-        slug: yuktae-dong
-      - 
-        districts: []
-        location: "POINT (39.4380600000000001 127.2430599999999998)"
-        name: Kowŏn-ŭp
-        population: 21490
-        slug: kowon-up
-      - 
-        districts: []
-        location: "POINT (39.8316700000000026 127.6186100000000039)"
-        name: Hŭngnam
-        population: 346082
-        slug: hungnam
-      - 
-        districts: []
-        location: "POINT (39.9183299999999974 127.5363899999999973)"
-        name: Hamhŭng
-        population: 559056
-        slug: hamhung
-      - 
-        districts: []
-        location: "POINT (39.6502800000000022 127.4058299999999946)"
-        name: Sinsang-ni
-        population: 14960
-        slug: sinsang-ni
-      - 
-        districts: []
-        location: "POINT (40.0183299999999988 127.4547199999999947)"
-        name: Yŏnggwang-ŭp
-        population: 21882
-        slug: yonggwang-up
-      - 
-        districts: []
-        location: "POINT (40.3230599999999981 128.6552800000000047)"
-        name: Iwŏn-ŭp
-        population: 26364
-        slug: iwon-up
-      - 
-        districts: []
-        location: "POINT (40.0252800000000022 127.9558300000000060)"
-        name: Hongwŏn
-        population: 70923
-        slug: hongwon
-    code: KP.03
-    name: Hamgyŏng-namdo
-    slug: hamgyong-namdo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.9088899999999995 126.1611099999999936)"
-        name: Yŏnan-ŭp
-        population: 22665
-        slug: yonan-up
-      - 
-        districts: []
-        location: "POINT (38.0474999999999994 125.5566699999999969)"
-        name: Pyŏksŏng-ŭp
-        population: 12937
-        slug: pyoksong-up
-      - 
-        districts: []
-        location: "POINT (37.9347199999999987 125.3619400000000041)"
-        name: Ongjin
-        population: 64247
-        slug: ongjin
-      - 
-        districts: []
-        location: "POINT (38.0405599999999993 125.7147199999999998)"
-        name: Haeju
-        population: 222396
-        slug: haeju
-      - 
-        districts: []
-        location: "POINT (38.2508300000000006 125.0961099999999959)"
-        name: Changyŏn
-        population: 39368
-        slug: changyon
-      - 
-        districts: []
-        location: "POINT (38.3991699999999980 125.6155600000000021)"
-        name: Chaeryŏng-ŭp
-        population: 53330
-        slug: chaeryong-up
-      - 
-        districts: []
-        location: "POINT (38.2430599999999998 125.7800000000000011)"
-        name: Ayang-ni
-        population: 16104
-        slug: ayang-ni
-    code: KP.06
-    name: Hwanghae-namdo
-    slug: hwanghae-namdo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.7541700000000020 125.6449999999999960)"
-        name: Songnim
-        population: 152425
-        slug: songnim
-      - 
-        districts: []
-        location: "POINT (38.5072199999999967 125.7558300000000031)"
-        name: Sariwŏn
-        population: 154942
-        slug: sariwon
-      - 
-        districts: []
-        location: "POINT (38.7819399999999987 126.6663900000000069)"
-        name: Koksan
-        population: 12923
-        slug: koksan
-      - 
-        districts: []
-        location: "POINT (37.9708299999999994 126.5544399999999996)"
-        name: Kaesŏng
-        population: 338155
-        slug: kaesong
-      - 
-        districts: []
-        location: "POINT (38.6702799999999982 125.7761100000000027)"
-        name: Hwangju-ŭp
-        population: 35641
-        slug: hwangju-up
-      - 
-        districts: []
-        location: "POINT (38.7986099999999965 125.7919399999999968)"
-        name: Hŭkkyo-ri
-        population: 25437
-        slug: hukkyo-ri
-      - 
-        districts: []
-        location: "POINT (38.5108299999999986 125.4941699999999969)"
-        name: Anak
-        population: 19995
-        slug: anak
-    code: KP.07
-    name: Hwanghae-bukto
-    slug: hwanghae-bukto
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.9538900000000012 127.8916700000000048)"
-        name: T’ongch’ŏn-ŭp
-        population: 20575
-        slug: tongchon-up
-      - 
-        districts: []
-        location: "POINT (39.1527799999999999 127.4436100000000067)"
-        name: Wŏnsan
-        population: 329207
-        slug: wonsan
-      - 
-        districts: []
-        location: "POINT (38.8558299999999974 127.4180599999999970)"
-        name: Kosan-ŭp
-        population: 24822
-        slug: kosan-up
-      - 
-        districts: []
-        location: "POINT (38.7102799999999974 127.5983300000000042)"
-        name: Hoeyang
-        population: 21111
-        slug: hoeyang
-      - 
-        districts: []
-        location: "POINT (39.0424999999999969 127.5238899999999944)"
-        name: Anbyŏn-ŭp
-        population: 31845
-        slug: anbyon-up
-    code: KP.09
-    name: Gangwon
-    slug: gangwon
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.6933300000000031 125.2102799999999974)"
-        name: Chŏngju
-        population: 29065
-        slug: chongju
-      - 
-        districts: []
-        location: "POINT (39.8133300000000006 125.8041699999999992)"
-        name: Yŏngbyŏn
-        population: 9584
-        slug: yongbyon
-      - 
-        districts: []
-        location: "POINT (39.8933299999999988 124.5980600000000038)"
-        name: Yŏmju-ŭp
-        population: 9437
-        slug: yomju-up
-      - 
-        districts: []
-        location: "POINT (39.8872199999999992 125.2413899999999956)"
-        name: Panghyŏn-dong
-        population: 11026
-        slug: panghyon-dong
-      - 
-        districts: []
-        location: "POINT (39.6875000000000000 125.0827799999999996)"
-        name: Kwaksan
-        population: 10478
-        slug: kwaksan
-      - 
-        districts: []
-        location: "POINT (39.9811100000000010 125.2447200000000009)"
-        name: Kusŏng
-        population: 30902
-        slug: kusong
-      - 
-        districts: []
-        location: "POINT (39.8672200000000032 126.0302800000000047)"
-        name: Kujang-ŭp
-        population: 19522
-        slug: kujang-up
-      - 
-        districts: []
-        location: "POINT (40.1994400000000027 124.5316700000000054)"
-        name: Ŭiju
-        population: 50081
-        slug: uiju
-      - 
-        districts: []
-        location: "POINT (40.1005600000000015 124.3980600000000010)"
-        name: Sinŭiju
-        population: 288112
-        slug: sinuiju
-      - 
-        districts: []
-        location: "POINT (40.3894400000000005 125.0466700000000060)"
-        name: Sakchu-ŭp
-        population: 18001
-        slug: sakchu-up
-      - 
-        districts: []
-        location: "POINT (40.2019400000000005 125.7483299999999957)"
-        name: Pukchil-lodongjagu
-        population: 14129
-        slug: pukchil-lodongjagu
-    code: KP.11
-    name: P'yŏngan-bukto
-    slug: pyongan-bukto
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.9913900000000027 125.9777799999999957)"
+        alternate_names: 
+          - Shoko-ri
+          - Shōko-ri
+          - Sungho
+        ascii_name: "Sungho 1-tong"
         name: "Sŭngho 1-tong"
+        names_en: ~
+        names_es: ~
         population: 39841
-        slug: sungho-1-tong
       - 
-        districts: []
-        location: "POINT (39.1983299999999986 125.6899999999999977)"
+        alternate_names: 
+          - Junan
+          - Sunan
+          - Sunan-dong
+        ascii_name: Sunan
         name: Sunan
+        names_en: ~
+        names_es: ~
         population: 36671
-        slug: sunan
       - 
-        districts: []
-        location: "POINT (39.0338500000000010 125.7543200000000070)"
+        alternate_names: 
+          - "Binh Nhuong"
+          - "Bình Nhưỡng"
+          - Heijo
+        ascii_name: Pyongyang
         name: Pyongyang
+        names_en: 
+          - Pyongyang
+        names_es: 
+          - Pyongyang
         population: 3222000
-        slug: pyongyang
       - 
-        districts: []
-        location: "POINT (39.1424999999999983 126.0961099999999959)"
+        alternate_names: 
+          - Kandong
+          - Kangdong
+          - Kangdong-up
+        ascii_name: Kangdong-up
         name: Kangdong-ŭp
+        names_en: ~
+        names_es: ~
         population: 28922
-        slug: kangdong-up
       - 
-        districts: []
-        location: "POINT (38.8638899999999978 125.7999999999999972)"
-        name: Chunghwa-ŭp
+        alternate_names: 
+          - Chunghwa
+          - Chunghwa-up
+          - Chunghwa-ŭp
+        ascii_name: Chunghwa
+        name: Chunghwa
+        names_en: ~
+        names_es: ~
         population: 19346
-        slug: chunghwa-up
-      - 
-        districts: []
-        location: "POINT (38.4166700000000034 126.2333299999999952)"
-        name: Sinmak
-        population: 18669
-        slug: sinmak
-    code: KP.12
     name: P'yŏngyang-si
-    slug: pyongyang-si
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: P'yongan-namdo
     cities: 
       - 
-        districts: []
-        location: "POINT (41.2427800000000033 128.7988900000000001)"
-        name: Sŭngjibaegam
-        population: 11786
-        slug: sungjibaegam
-      - 
-        districts: []
-        location: "POINT (41.0902799999999999 128.2933299999999974)"
-        name: Kapsan-ŭp
-        population: 20406
-        slug: kapsan-up
-      - 
-        districts: []
-        location: "POINT (41.3975599999999986 128.1787300000000016)"
-        name: Hyesan-dong
-        population: 97794
-        slug: hyesan-dong
-      - 
-        districts: []
-        location: "POINT (41.4016700000000029 128.1777800000000127)"
-        name: Hyesan-si
-        population: 0
-        slug: hyesan-si
-    code: KP.13
-    name: Yanggang-do
-    slug: yanggang-do
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.4947200000000009 125.4736099999999936)"
-        name: Sil-li
-        population: 19463
-        slug: sil-li
-      - 
-        districts: []
-        location: "POINT (39.1694400000000016 126.8855599999999981)"
-        name: Sangsŏng-ni
-        population: 9888
-        slug: sangsong-ni
-      - 
-        districts: []
-        location: "POINT (38.8561100000000010 125.4244400000000041)"
+        alternate_names: 
+          - Chinji-ri
+          - Shinchi-ri
+          - Shinchido
+        ascii_name: Yonggang-up
         name: Yonggang-ŭp
+        names_en: ~
+        names_es: ~
         population: 13440
-        slug: yonggang-up
       - 
-        districts: []
-        location: "POINT (39.5980599999999967 125.6097199999999958)"
+        alternate_names: 
+          - Sil-li
+          - Sin-ni
+        ascii_name: Sil-li
+        name: Sil-li
+        names_en: ~
+        names_es: ~
+        population: 19463
+      - 
+        alternate_names: 
+          - Shin-anshu
+          - Shin-anshū
+          - Sin-ansyu
+        ascii_name: Sinanju
         name: Sinanju
+        names_en: ~
+        names_es: ~
         population: 15693
-        slug: sinanju
       - 
-        districts: []
-        location: "POINT (39.2463899999999981 125.8719399999999951)"
+        alternate_names: 
+          - "Ku Yangdok"
+          - "Ku Yangdŏk"
+          - Sangsong-ni
+        ascii_name: Sangsong-ni
+        name: Sangsŏng-ni
+        names_en: ~
+        names_es: ~
+        population: 9888
+      - 
+        alternate_names: 
+          - P'yongsong
+          - P’yŏngsŏng
+          - Sain-ni
+        ascii_name: P'yongsong
         name: P’yŏngsŏng
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: pyongsong
       - 
-        districts: []
-        location: "POINT (38.7374999999999972 125.4077800000000025)"
+        alternate_names: 
+          - Channampo
+          - Chinnamp'o
+          - Chinnamp’o
+        ascii_name: Namp'o
         name: Namp’o
+        names_en: ~
+        names_es: ~
         population: 455000
-        slug: nampo
       - 
-        districts: []
-        location: "POINT (39.6177800000000033 125.6647200000000026)"
+        alternate_names: 
+          - Aanshu
+          - An-dschu
+          - Anju
+        ascii_name: Anju
         name: Anju
+        names_en: ~
+        names_es: ~
         population: 50196
-        slug: anju
-    code: KP.15
     name: P'yŏngan-namdo
-    slug: pyongan-namdo
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: P'yongan-bukto
     cities: 
       - 
-        districts: []
-        location: "POINT (41.7955600000000018 129.7758300000000133)"
-        name: Ch’ŏngjin
-        population: 327000
-        slug: chongjin
+        alternate_names: 
+          - Neihen
+          - Nyongbyon
+          - Nyŏngbyŏn
+        ascii_name: Yongbyon
+        name: Yŏngbyŏn
+        names_en: ~
+        names_es: ~
+        population: 9584
       - 
-        districts: []
-        location: "POINT (41.6697199999999981 129.6688900000000046)"
+        alternate_names: 
+          - Chonggo-dong
+          - Chŏnggŏ-dong
+          - Teisha
+        ascii_name: Yomju-up
+        name: Yŏmju-ŭp
+        names_en: ~
+        names_es: ~
+        population: 9437
+      - 
+        alternate_names: 
+          - Namsi
+          - Nanshi
+          - Panghyon
+        ascii_name: Panghyon-dong
+        name: Panghyŏn-dong
+        names_en: ~
+        names_es: ~
+        population: 11026
+      - 
+        alternate_names: 
+          - Kakusan
+          - Kakuzan
+          - Kwaksan
+        ascii_name: Kwaksan
+        name: Kwaksan
+        names_en: ~
+        names_es: ~
+        population: 10478
+      - 
+        alternate_names: 
+          - Kijo
+          - Kijō
+          - Kuisong
+        ascii_name: Kusong
+        name: Kusŏng
+        names_en: ~
+        names_es: ~
+        population: 30902
+      - 
+        alternate_names: 
+          - Kuchung
+          - Kujang
+          - Kujang-dong
+        ascii_name: Kujang-up
+        name: Kujang-ŭp
+        names_en: ~
+        names_es: ~
+        population: 19522
+      - 
+        alternate_names: 
+          - Chongju
+          - Chongju-up
+          - Chŏngju
+        ascii_name: Chongju
+        name: Chŏngju
+        names_en: ~
+        names_es: ~
+        population: 29065
+      - 
+        alternate_names: 
+          - Eui-chu
+          - Gishu
+          - Gishū
+        ascii_name: Uiju
+        name: Ŭiju
+        names_en: ~
+        names_es: ~
+        population: 50081
+      - 
+        alternate_names: 
+          - "New Eui-chu"
+          - Shingishu
+          - Shingishū
+        ascii_name: Sinuiju
+        name: Sinŭiju
+        names_en: 
+          - Sinuiju
+        names_es: ~
+        population: 288112
+      - 
+        alternate_names: 
+          - Sakchu
+          - Sakchu-up
+          - Sakchu-ŭp
+        ascii_name: Sakchu-up
+        name: Sakchu-ŭp
+        names_en: ~
+        names_es: ~
+        population: 18001
+      - 
+        alternate_names: 
+          - Hokuchin
+          - Puckchin
+          - Pukch'ang
+        ascii_name: Pukchil-lodongjagu
+        name: Pukchil-lodongjagu
+        names_en: ~
+        names_es: ~
+        population: 14129
+    name: P'yŏngan-bukto
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Gangwon
+    cities: 
+      - 
+        alternate_names: 
+          - Gensan
+          - Genzan
+          - "Genzan Hu"
+        ascii_name: Wonsan
+        name: Wŏnsan
+        names_en: 
+          - Wonsan
+        names_es: ~
+        population: 329207
+      - 
+        alternate_names: 
+          - Kojo
+          - Kojŏ
+          - Kotei
+        ascii_name: T'ongch'on-up
+        name: T’ongch’ŏn-ŭp
+        names_en: ~
+        names_es: ~
+        population: 20575
+      - 
+        alternate_names: 
+          - Kosan
+          - Kosan-up
+          - Kosan-ŭp
+        ascii_name: Kosan
+        name: Kosan
+        names_en: ~
+        names_es: ~
+        population: 24822
+      - 
+        alternate_names: 
+          - Chunyang
+          - Hoeyang
+          - Hoeyang-up
+        ascii_name: Hoeyang
+        name: Hoeyang
+        names_en: ~
+        names_es: ~
+        population: 21111
+      - 
+        alternate_names: 
+          - Ampen
+          - Anbyon
+          - Anbyon-up
+        ascii_name: Anbyon-up
+        name: Anbyŏn-ŭp
+        names_en: ~
+        names_es: ~
+        population: 31845
+    name: Gangwon
+    names_en: 
+      - Gangwon
+    names_es: ~
+  - 
+    ascii_name: Hwanghae-namdo
+    cities: 
+      - 
+        alternate_names: 
+          - Enan
+          - Yonan
+          - Yonan-up
+        ascii_name: Yonan-up
+        name: Yŏnan-ŭp
+        names_en: ~
+        names_es: ~
+        population: 22665
+      - 
+        alternate_names: 
+          - Ch'wiya
+          - Chuya
+          - Ch’wiya
+        ascii_name: Pyoksong-up
+        name: Pyŏksŏng-ŭp
+        names_en: ~
+        names_es: ~
+        population: 12937
+      - 
+        alternate_names: 
+          - Bazan
+          - Onchzhin
+          - Ongjin
+        ascii_name: Ongjin
+        name: Ongjin
+        names_en: ~
+        names_es: ~
+        population: 64247
+      - 
+        alternate_names: 
+          - Haeju
+          - Hai-dschu
+          - Hai-ju
+        ascii_name: Haeju
+        name: Haeju
+        names_en: ~
+        names_es: ~
+        population: 222396
+      - 
+        alternate_names: 
+          - Changyon
+          - Changyon-up
+          - Changyŏn
+        ascii_name: Changyon
+        name: Changyŏn
+        names_en: ~
+        names_es: ~
+        population: 39368
+      - 
+        alternate_names: 
+          - Chaenyong
+          - Chaenyŏng
+          - Chaeryong
+        ascii_name: Chaeryong-up
+        name: Chaeryŏng-ŭp
+        names_en: ~
+        names_es: ~
+        population: 53330
+      - 
+        alternate_names: 
+          - Ayang-ni
+          - Gayo-ri
+          - Gayō-ri
+        ascii_name: Ayang-ni
+        name: Ayang-ni
+        names_en: ~
+        names_es: ~
+        population: 16104
+    name: Hwanghae-namdo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Hwanghae-bukto
+    cities: 
+      - 
+        alternate_names: 
+          - Kenjiho
+          - Kenjiko
+          - Kenniho
+        ascii_name: Songnim
+        name: Songnim
+        names_en: ~
+        names_es: ~
+        population: 152425
+      - 
+        alternate_names: 
+          - Hozan
+          - Sa-ri-uen
+          - Sarivone
+        ascii_name: Sariwon
+        name: Sariwŏn
+        names_en: ~
+        names_es: ~
+        population: 154942
+      - 
+        alternate_names: 
+          - Kokan
+          - Kokchang
+          - Koksan
+        ascii_name: Koksan
+        name: Koksan
+        names_en: ~
+        names_es: ~
+        population: 12923
+      - 
+        alternate_names: 
+          - Kaesong
+          - Kaesŏng
+          - Kai-seng
+        ascii_name: Kaesong
+        name: Kaesŏng
+        names_en: 
+          - Kaesong
+        names_es: 
+          - Kaesong
+        population: 338155
+      - 
+        alternate_names: 
+          - Hwangju
+          - Hwangju-up
+          - Hwangju-ŭp
+        ascii_name: Hwangju-up
+        name: Hwangju-ŭp
+        names_en: ~
+        names_es: ~
+        population: 35641
+      - 
+        alternate_names: 
+          - Hukkyo-ri
+          - Hŭkkyo-ri
+          - Kokkyo-ri
+        ascii_name: Hukkyo-ri
+        name: Hŭkkyo-ri
+        names_en: ~
+        names_es: ~
+        population: 25437
+      - 
+        alternate_names: 
+          - Aenak
+          - Anag-up
+          - Anag-ŭp
+        ascii_name: Anak
+        name: Anak
+        names_en: ~
+        names_es: ~
+        population: 19995
+    name: Hwanghae-bukto
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Hamgyong-namdo
+    cities: 
+      - 
+        alternate_names: 
+          - Samho
+          - Samho-dong
+          - Samho-nodongjagu
+        ascii_name: Samho-rodongjagu
+        name: Samho-rodongjagu
+        names_en: ~
+        names_es: ~
+        population: 19025
+      - 
+        alternate_names: 
+          - Kogen
+          - Kovon-do
+          - Kowon
+        ascii_name: Kowon-up
+        name: Kowŏn-ŭp
+        names_en: ~
+        names_es: ~
+        population: 21490
+      - 
+        alternate_names: 
+          - Hungbong-ni
+          - Hungdogi-dong
+          - Hungdogil-tong
+        ascii_name: Hungnam
+        name: Hŭngnam
+        names_en: ~
+        names_es: ~
+        population: 346082
+      - 
+        alternate_names: 
+          - Hamheung
+          - Hamhunas
+          - Hamhung
+        ascii_name: Hamhung
+        name: Hamhŭng
+        names_en: 
+          - Hamhung
+        names_es: ~
+        population: 559056
+      - 
+        alternate_names: 
+          - Sinsang-ni
+          - 신상리
+        ascii_name: Sinsang-ni
+        name: Sinsang-ni
+        names_en: ~
+        names_es: ~
+        population: 14960
+      - 
+        alternate_names: 
+          - Rokudaito-ri
+          - Rokudaitō-ri
+          - Yuktae-dong
+        ascii_name: Yuktae-dong
+        name: Yuktae-dong
+        names_en: ~
+        names_es: ~
+        population: 76427
+      - 
+        alternate_names: 
+          - Goro-ri
+          - Gorō-ri
+          - Oro
+        ascii_name: Yonggwang-up
+        name: Yŏnggwang-ŭp
+        names_en: ~
+        names_es: ~
+        population: 21882
+      - 
+        alternate_names: 
+          - Gunsen
+          - Iwon
+          - Iwon-up
+        ascii_name: Iwon-up
+        name: Iwŏn-ŭp
+        names_en: ~
+        names_es: ~
+        population: 26364
+      - 
+        alternate_names: 
+          - Hongwon
+          - Hongwon-up
+          - Hongwŏn
+        ascii_name: Hongwon
+        name: Hongwŏn
+        names_en: ~
+        names_es: ~
+        population: 70923
+    name: Hamgyŏng-namdo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Yanggang-do
+    cities: 
+      - 
+        alternate_names: 
+          - Kapsan
+          - Kapsan-up
+          - Kapsan-ŭp
+        ascii_name: Kapsan-up
+        name: Kapsan-ŭp
+        names_en: ~
+        names_es: ~
+        population: 20406
+      - 
+        alternate_names: 
+          - Hyesan-dong
+          - 혜산동
+        ascii_name: Hyesan-dong
+        name: Hyesan-dong
+        names_en: ~
+        names_es: ~
+        population: 97794
+      - 
+        alternate_names: 
+          - Hesanjin
+          - Hyesan
+          - Hyesan-si
+        ascii_name: Hyesan-si
+        name: Hyesan-si
+        names_en: 
+          - Hyesan
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sungjibaegam
+          - Sungjipaegam
+          - Sŭngjibaegam
+        ascii_name: Sungjibaegam
+        name: Sŭngjibaegam
+        names_en: ~
+        names_es: ~
+        population: 11786
+    name: Yanggang-do
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Hamgyong-bukto
+    cities: 
+      - 
+        alternate_names: 
+          - Kjong-song
+          - Kjöng-söng
+          - Kyeng-seng
+        ascii_name: Sungam-nodongjagu
         name: Sŭngam-nodongjagu
+        names_en: ~
+        names_es: ~
         population: 11406
-        slug: sungam-nodongjagu
       - 
-        districts: []
-        location: "POINT (42.0605600000000024 129.7116699999999980)"
+        alternate_names: 
+          - Funei
+          - Kuum-nodongjagu
+          - Kuup-nodongjagu
+        ascii_name: Puryong
         name: Puryŏng
+        names_en: ~
+        names_es: ~
         population: 12267
-        slug: puryong
       - 
-        districts: []
-        location: "POINT (42.9572199999999995 129.9933299999999861)"
+        alternate_names: 
+          - Kosong
+          - Kosong-ni
+          - Kosŏng
+        ascii_name: Onsong
         name: Onsŏng
+        names_en: ~
+        names_es: ~
         population: 19806
-        slug: onsong
       - 
-        districts: []
-        location: "POINT (41.7136100000000027 129.6844399999999951)"
+        alternate_names: 
+          - Naman
+          - Nanam
+          - Ranam
+        ascii_name: Nanam
         name: Nanam
+        names_en: ~
+        names_es: ~
         population: 34055
-        slug: nanam
       - 
-        districts: []
-        location: "POINT (42.9500000000000028 129.8666699999999992)"
+        alternate_names: ~
+        ascii_name: Namyang-dong
         name: Namyang-dong
+        names_en: ~
+        names_es: ~
         population: 22218
-        slug: namyang-dong
       - 
-        districts: []
-        location: "POINT (42.2260899999999992 129.2077600000000075)"
+        alternate_names: 
+          - Mosan
+          - Mozan
+          - Musan
+        ascii_name: Musan-up
         name: Musan-ŭp
+        names_en: ~
+        names_es: ~
         population: 21739
-        slug: musan-up
       - 
-        districts: []
-        location: "POINT (42.8136099999999971 130.1527800000000070)"
+        alternate_names: 
+          - Keigen
+          - Kyongwon
+          - Kyungwan
+        ascii_name: Kyongwon
         name: Kyŏngwŏn
+        names_en: ~
+        names_es: ~
         population: 12650
-        slug: kyongwon
       - 
-        districts: []
-        location: "POINT (41.5877800000000022 129.6061100000000010)"
+        alternate_names: 
+          - Churuonjan
+          - Chuul
+          - Chuuronjang
+        ascii_name: Kyongsong
         name: Kyŏngsŏng
+        names_en: ~
+        names_es: ~
         population: 35604
-        slug: kyongsong
       - 
-        districts: []
-        location: "POINT (40.9641700000000029 129.3277799999999900)"
+        alternate_names: 
+          - Kichishu
+          - Kichishū
+          - Kil'dzhu
+        ascii_name: Kilju
         name: Kilju
+        names_en: ~
+        names_es: ~
         population: 63652
-        slug: kilju
       - 
-        districts: []
-        location: "POINT (42.5205600000000032 130.3952800000000138)"
+        alternate_names: 
+          - Ch'ongjin
+          - Ch'ŏngjin
+          - Chkhonchzhine
+        ascii_name: Ch'ongjin
+        name: Ch’ŏngjin
+        names_en: 
+          - Chongjin
+        names_es: ~
+        population: 327000
+      - 
+        alternate_names: 
+          - Agochi
+          - Agochi-do
+          - Agochi-dŏ
+        ascii_name: Aoji-ri
         name: Aoji-ri
+        names_en: ~
+        names_es: ~
         population: 34248
-        slug: aoji-ri
       - 
-        districts: []
-        location: "POINT (42.1091699999999989 129.6999999999999886)"
+        alternate_names: ~
+        ascii_name: "Komusan 1-tong"
         name: "Komusan 1-tong"
+        names_en: ~
+        names_es: ~
         population: 12242
-        slug: komusan-1-tong
-    code: KP.17
     name: Hamgyŏng-bukto
-    slug: hamgyong-bukto
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Chagang-do
     cities: 
       - 
-        districts: []
-        location: "POINT (42.3422199999999975 130.3966700000000003)"
-        name: Sŏnbong
-        population: 27331
-        slug: sonbong
+        alternate_names: 
+          - Uijil-li
+          - Uijin-dong
+          - Uijin-ni
+        ascii_name: Uijin-dong
+        name: Ŭijin-dong
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (42.2488900000000029 130.3002799999999866)"
+        alternate_names: 
+          - Kakai
+          - Kang-ge
+          - Kange
+        ascii_name: Kanggye-si
+        name: Kanggye-si
+        names_en: 
+          - Kanggye
+        names_es: ~
+        population: 209530
+      - 
+        alternate_names: 
+          - Hungju-dong
+          - Hungju-ri
+          - Hŭngju-dong
+        ascii_name: Hungju-dong
+        name: Hŭngju-dong
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Chasong
+          - Chasong-up
+          - Chasŏng
+        ascii_name: Chasong
+        name: Chasŏng
+        names_en: ~
+        names_es: ~
+        population: 12736
+    name: Chagang-do
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Nason-si
+    cities: 
+      - 
+        alternate_names: 
+          - Ongei
+          - Sonbon
+          - Sonbong
+        ascii_name: Sonbong
+        name: Sŏnbong
+        names_en: ~
+        names_es: ~
+        population: 27331
+      - 
+        alternate_names: 
+          - Najin
+          - Najin-up
+          - Najin-ŭp
+        ascii_name: Najin
         name: Najin
+        names_en: ~
+        names_es: ~
         population: 66224
-        slug: najin
-    code: KP.18
     name: "Najin Sŏnbong-si"
-    slug: najin-sonbong-si
-tld: kp
+    names_en: ~
+    names_es: ~

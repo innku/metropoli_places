@@ -1,3219 +1,4979 @@
 --- 
-code: BE
-continent: EU
 name: Belgium
-population: 10403000
+names_en: 
+  - Belgium
+names_es: 
+  - Bélgica
 regions: 
   - 
+    ascii_name: "Brussels Capital Region"
     cities: 
       - 
-        districts: []
-        location: "POINT (50.8466000000000022 4.3527699999999996)"
+        alternate_names: 
+          - "An Bhruiseil"
+          - "An Bhruiséil"
+          - Breissel
+        ascii_name: Brussels
         name: Brussels
+        names_en: 
+          - Brussels
+        names_es: 
+          - Bruselas
         population: 1019022
-        slug: brussels
-      - 
-        districts: []
-        location: "POINT (51.2162399999999991 4.3321800000000001)"
-        name: Zwijndrecht
-        population: 18249
-        slug: zwijndrecht
-      - 
-        districts: []
-        location: "POINT (50.8126800000000003 3.3384800000000001)"
-        name: Zwevegem
-        population: 23358
-        slug: zwevegem
-      - 
-        districts: []
-        location: "POINT (50.9333299999999980 5.5666700000000002)"
-        name: Zutendaal
-        population: 6962
-        slug: zutendaal
-      - 
-        districts: []
-        location: "POINT (50.9195399999999978 3.4485899999999998)"
-        name: Zulte
-        population: 14670
-        slug: zulte
-      - 
-        districts: []
-        location: "POINT (51.2651100000000000 3.1550600000000002)"
-        name: Zuienkerke
-        population: 2736
-        slug: zuienkerke
-      - 
-        districts: []
-        location: "POINT (50.8331599999999995 5.1037600000000003)"
-        name: Zoutleeuw
-        population: 7897
-        slug: zoutleeuw
-      - 
-        districts: []
-        location: "POINT (50.8695599999999999 3.8105199999999999)"
-        name: Zottegem
-        population: 24434
-        slug: zottegem
-      - 
-        districts: []
-        location: "POINT (50.8725999999999985 2.9872500000000000)"
-        name: Zonnebeke
-        population: 11581
-        slug: zonnebeke
-      - 
-        districts: []
-        location: "POINT (50.9833300000000023 5.3499999999999996)"
-        name: Zonhoven
-        population: 19922
-        slug: zonhoven
-      - 
-        districts: []
-        location: "POINT (51.1199399999999997 3.5649600000000001)"
-        name: Zomergem
-        population: 8158
-        slug: zomergem
-      - 
-        districts: []
-        location: "POINT (51.2677400000000034 4.7092099999999997)"
-        name: Zoersel
-        population: 20642
-        slug: zoersel
-      - 
-        districts: []
-        location: "POINT (50.9040899999999965 3.6530499999999999)"
-        name: Zingem
-        population: 6588
-        slug: zingem
-      - 
-        districts: []
-        location: "POINT (50.9833300000000023 4.4666699999999997)"
-        name: Zemst
-        population: 21096
-        slug: zemst
-      - 
-        districts: []
-        location: "POINT (51.1896300000000011 3.8077700000000001)"
-        name: Zelzate
-        population: 11901
-        slug: zelzate
-      - 
-        districts: []
-        location: "POINT (51.0656600000000012 4.0403000000000002)"
-        name: Zele
-        population: 20236
-        slug: zele
-      - 
-        districts: []
-        location: "POINT (51.3290199999999999 3.1818800000000000)"
-        name: Zeebrugge
-        population: 4500
-        slug: zeebrugge
-      - 
-        districts: []
-        location: "POINT (51.1423599999999965 3.1368000000000000)"
-        name: Zedelgem
-        population: 21968
-        slug: zedelgem
-      - 
-        districts: []
-        location: "POINT (50.8854600000000019 4.4702900000000003)"
-        name: Zaventem
-        population: 28188
-        slug: zaventem
-      - 
-        districts: []
-        location: "POINT (51.2148800000000008 4.6616400000000002)"
-        name: Zandhoven
-        population: 12306
-        slug: zandhoven
-      - 
-        districts: []
-        location: "POINT (51.3915799999999976 4.5977899999999998)"
-        name: Wuustwezel
-        population: 18117
-        slug: wuustwezel
-      - 
-        districts: []
-        location: "POINT (51.2000000000000028 4.5222800000000003)"
-        name: Wommelgem
-        population: 11917
-        slug: wommelgem
-      - 
-        districts: []
-        location: "POINT (51.0578199999999995 3.2735900000000000)"
-        name: Wingene
-        population: 12887
-        slug: wingene
-      - 
-        districts: []
-        location: "POINT (51.0604099999999974 4.3601900000000002)"
-        name: Willebroek
-        population: 22808
-        slug: willebroek
-      - 
-        districts: []
-        location: "POINT (51.2278700000000029 4.5189500000000002)"
-        name: Wijnegem
-        population: 8932
-        slug: wijnegem
-      - 
-        districts: []
-        location: "POINT (50.8999999999999986 3.3666700000000001)"
-        name: Wielsbeke
-        population: 8828
-        slug: wielsbeke
-      - 
-        districts: []
-        location: "POINT (51.0052599999999998 3.9768300000000001)"
-        name: Wichelen
-        population: 11014
-        slug: wichelen
-      - 
-        districts: []
-        location: "POINT (50.8430800000000005 4.4921600000000002)"
-        name: Wezembeek-Oppem
-        population: 13245
-        slug: wezembeek-oppem
-      - 
-        districts: []
-        location: "POINT (50.7999999999999972 3.1666699999999999)"
-        name: Wevelgem
-        population: 30954
-        slug: wevelgem
-      - 
-        districts: []
-        location: "POINT (51.0052599999999998 3.8834100000000000)"
-        name: Wetteren
-        population: 22930
-        slug: wetteren
-      - 
-        districts: []
-        location: "POINT (51.0833299999999966 4.9166699999999999)"
-        name: Westerlo
-        population: 22579
-        slug: westerlo
-      - 
-        districts: []
-        location: "POINT (50.7806899999999999 3.0385399999999998)"
-        name: Wervik
-        population: 17340
-        slug: wervik
-      - 
-        districts: []
-        location: "POINT (51.2982999999999976 3.0821299999999998)"
-        name: Wenduine
-        population: 4003
-        slug: wenduine
-      - 
-        districts: []
-        location: "POINT (50.9166700000000034 4.2999999999999998)"
-        name: Wemmel
-        population: 14406
-        slug: wemmel
-      - 
-        districts: []
-        location: "POINT (50.8429500000000019 5.3354200000000001)"
-        name: Wellen
-        population: 6804
-        slug: wellen
-      - 
-        districts: []
-        location: "POINT (50.8889799999999966 3.4275600000000002)"
-        name: Waregem
-        population: 35896
-        slug: waregem
-      - 
-        districts: []
-        location: "POINT (51.1685200000000009 3.8718300000000001)"
-        name: Wachtebeke
-        population: 6911
-        slug: wachtebeke
-      - 
-        districts: []
-        location: "POINT (51.1057199999999980 4.0857299999999999)"
-        name: Waasmunster
-        population: 10460
-        slug: waasmunster
-      - 
-        districts: []
-        location: "POINT (51.1525000000000034 3.6050000000000000)"
-        name: Waarschoot
-        population: 7762
-        slug: waarschoot
-      - 
-        districts: []
-        location: "POINT (51.3166700000000020 4.8833299999999999)"
-        name: Vosselaar
-        population: 10317
-        slug: vosselaar
-      - 
-        districts: []
-        location: "POINT (51.2024299999999997 4.7725900000000001)"
-        name: Vorselaar
-        population: 7238
-        slug: vorselaar
-      - 
-        districts: []
-        location: "POINT (50.9182300000000012 4.4073099999999998)"
-        name: Vilvoorde
-        population: 36955
-        slug: vilvoorde
-      - 
-        districts: []
-        location: "POINT (51.0723100000000017 2.6623800000000002)"
-        name: Veurne
-        population: 11983
-        slug: veurne
-      - 
-        districts: []
-        location: "POINT (51.3166700000000020 4.9500000000000002)"
-        name: Turnhout
-        population: 39654
-        slug: turnhout
-      - 
-        districts: []
-        location: "POINT (50.9833300000000023 4.7000000000000002)"
-        name: Tremelo
-        population: 13721
-        slug: tremelo
-      - 
-        districts: []
-        location: "POINT (51.0656000000000034 3.1008499999999999)"
-        name: Torhout
-        population: 18933
-        slug: torhout
-      - 
-        districts: []
-        location: "POINT (50.7833299999999994 5.4666699999999997)"
-        name: Tongeren
-        population: 29816
-        slug: tongeren
-      - 
-        districts: []
-        location: "POINT (50.8074399999999997 4.9378000000000002)"
-        name: Tienen
-        population: 31743
-        slug: tienen
-      - 
-        districts: []
-        location: "POINT (50.9993100000000013 3.3270700000000000)"
-        name: Tielt
-        population: 19299
-        slug: tielt
-      - 
-        districts: []
-        location: "POINT (51.0666700000000020 5.0833300000000001)"
-        name: Tessenderlo
-        population: 16574
-        slug: tessenderlo
-      - 
-        districts: []
-        location: "POINT (50.8187100000000029 4.5203699999999998)"
-        name: Tervuren
-        population: 20623
-        slug: tervuren
-      - 
-        districts: []
-        location: "POINT (50.8729900000000015 4.1762499999999996)"
-        name: Ternat
-        population: 14569
-        slug: ternat
-      - 
-        districts: []
-        location: "POINT (51.1279400000000024 4.2137200000000004)"
-        name: Temse
-        population: 26054
-        slug: temse
-      - 
-        districts: []
-        location: "POINT (51.2098999999999975 4.0365000000000002)"
-        name: Stekene
-        population: 16989
-        slug: stekene
-      - 
-        districts: []
-        location: "POINT (50.9080500000000029 4.5183400000000002)"
-        name: Steenokkerzeel
-        population: 10566
-        slug: steenokkerzeel
-      - 
-        districts: []
-        location: "POINT (50.9745599999999968 3.0146799999999998)"
-        name: Staden
-        population: 10786
-        slug: staden
-      - 
-        districts: []
-        location: "POINT (51.3318900000000014 4.3712700000000000)"
-        name: Stabroek
-        population: 17294
-        slug: stabroek
-      - 
-        districts: []
-        location: "POINT (50.8167899999999975 5.1864699999999999)"
-        name: Sint-Truiden
-        population: 37859
-        slug: sint-truiden
-      - 
-        districts: []
-        location: "POINT (50.7792600000000007 4.2435499999999999)"
-        name: Sint-Pieters-Leeuw
-        population: 30446
-        slug: sint-pieters-leeuw
-      - 
-        districts: []
-        location: "POINT (51.1650899999999993 4.1436999999999999)"
-        name: Sint-Niklaas
-        population: 69010
-        slug: sint-niklaas
-      - 
-        districts: []
-        location: "POINT (50.8115799999999993 4.1696499999999999)"
-        name: Sint-Martens-Lennik
-        population: 8818
-        slug: sint-martens-lennik
-      - 
-        districts: []
-        location: "POINT (51.0145899999999983 3.6377899999999999)"
-        name: Sint-Martens-Latem
-        population: 8303
-        slug: sint-martens-latem
-      - 
-        districts: []
-        location: "POINT (50.8217199999999991 3.8481399999999999)"
-        name: Sint-Maria-Lierde
-        population: 6449
-        slug: sint-maria-lierde
-      - 
-        districts: []
-        location: "POINT (50.9196999999999989 3.8622500000000000)"
-        name: Sint-Lievens-Houtem
-        population: 9146
-        slug: sint-lievens-houtem
-      - 
-        districts: []
-        location: "POINT (51.2420199999999966 3.5244100000000000)"
-        name: Sint-Laureins
-        population: 6657
-        slug: sint-laureins
-      - 
-        districts: []
-        location: "POINT (51.0642899999999997 4.5156400000000003)"
-        name: Sint-Katelijne-Waver
-        population: 19487
-        slug: sint-katelijne-waver
-      - 
-        districts: []
-        location: "POINT (51.2191400000000030 4.1237399999999997)"
-        name: Sint-Gillis-Waas
-        population: 17658
-        slug: sint-gillis-waas
-      - 
-        districts: []
-        location: "POINT (50.7427199999999985 4.3594099999999996)"
-        name: Sint-Genesius-Rode
-        population: 17990
-        slug: sint-genesius-rode
-      - 
-        districts: []
-        location: "POINT (51.0523000000000025 4.2062299999999997)"
-        name: Sint-Amands
-        population: 7653
-        slug: sint-amands
-      - 
-        districts: []
-        location: "POINT (51.2518200000000022 4.4979899999999997)"
-        name: Schoten
-        population: 33622
-        slug: schoten
-      - 
-        districts: []
-        location: "POINT (51.2371899999999982 4.5616700000000003)"
-        name: Schilde
-        population: 20373
-        slug: schilde
-      - 
-        districts: []
-        location: "POINT (51.1259200000000007 4.3355199999999998)"
-        name: Schelle
-        population: 7675
-        slug: schelle
-      - 
-        districts: []
-        location: "POINT (50.7433499999999995 2.9099200000000001)"
-        name: Saint-Yvon
-        population: 0
-        slug: saint-yvon
-      - 
-        districts: []
-        location: "POINT (51.0772899999999979 4.4219200000000001)"
-        name: Rumst
-        population: 14521
-        slug: rumst
-      - 
-        districts: []
-        location: "POINT (51.0403900000000021 3.3941599999999998)"
-        name: Ruiselede
-        population: 5129
-        slug: ruiselede
-      - 
-        districts: []
-        location: "POINT (50.9500000000000028 4.7166699999999997)"
-        name: Rotselaar
-        population: 15007
-        slug: rotselaar
-      - 
-        districts: []
-        location: "POINT (50.7457399999999978 3.6004999999999998)"
-        name: Ronse
-        population: 24204
-        slug: ronse
-      - 
-        districts: []
-        location: "POINT (50.9465300000000028 3.1226900000000000)"
-        name: Roeselare
-        population: 56016
-        slug: roeselare
-      - 
-        districts: []
-        location: "POINT (51.3479499999999973 4.7605300000000002)"
-        name: Rijkevorsel
-        population: 10606
-        slug: rijkevorsel
-      - 
-        districts: []
-        location: "POINT (50.7999999999999972 5.5999999999999996)"
-        name: Riemst
-        population: 15809
-        slug: riemst
-      - 
-        districts: []
-        location: "POINT (51.2666699999999977 5.0666700000000002)"
-        name: Retie
-        population: 10069
-        slug: retie
-      - 
-        districts: []
-        location: "POINT (51.3666699999999992 5.0000000000000000)"
-        name: Ravels
-        population: 13560
-        slug: ravels
-      - 
-        districts: []
-        location: "POINT (51.1899400000000000 4.5637800000000004)"
-        name: Ranst
-        population: 17405
-        slug: ranst
-      - 
-        districts: []
-        location: "POINT (51.0760000000000005 4.2793799999999997)"
-        name: Puurs
-        population: 15944
-        slug: puurs
-      - 
-        districts: []
-        location: "POINT (51.0567399999999978 4.6288000000000000)"
-        name: Putte
-        population: 15276
-        slug: putte
-      - 
-        districts: []
-        location: "POINT (50.8538599999999974 2.7265899999999998)"
-        name: Poperinge
-        population: 19537
-        slug: poperinge
-      - 
-        districts: []
-        location: "POINT (50.9927899999999994 3.2631700000000001)"
-        name: Pittem
-        population: 6589
-        slug: pittem
-      - 
-        districts: []
-        location: "POINT (50.8891399999999976 3.8609800000000001)"
-        name: Perre
-        population: 3000
-        slug: perre
-      - 
-        districts: []
-        location: "POINT (50.7592199999999991 4.1598300000000004)"
-        name: Pepingen
-        population: 4261
-        slug: pepingen
-      - 
-        districts: []
-        location: "POINT (51.1333300000000008 5.4666699999999997)"
-        name: Peer
-        population: 15551
-        slug: peer
-      - 
-        districts: []
-        location: "POINT (51.2166700000000006 5.4166699999999999)"
-        name: Overpelt
-        population: 13344
-        slug: overpelt
-      - 
-        districts: []
-        location: "POINT (50.7727199999999996 4.5281900000000004)"
-        name: Overijse
-        population: 23486
-        slug: overijse
-      - 
-        districts: []
-        location: "POINT (51.3166700000000020 4.9833299999999996)"
-        name: Oud-Turnhout
-        population: 12354
-        slug: oud-turnhout
-      - 
-        districts: []
-        location: "POINT (50.8333299999999966 4.6666699999999999)"
-        name: Oud-Heverlee
-        population: 10533
-        slug: oud-heverlee
-      - 
-        districts: []
-        location: "POINT (51.1848900000000029 3.0003500000000001)"
-        name: Oudenburg
-        population: 8752
-        slug: oudenburg
-      - 
-        districts: []
-        location: "POINT (50.8516800000000018 3.6089099999999998)"
-        name: Oudenaarde
-        population: 27935
-        slug: oudenaarde
-      - 
-        districts: []
-        location: "POINT (50.9701700000000031 4.1847799999999999)"
-        name: Opwijk
-        population: 12045
-        slug: opwijk
-      - 
-        districts: []
-        location: "POINT (51.0499999999999972 5.5833300000000001)"
-        name: Opglabbeek
-        population: 9452
-        slug: opglabbeek
-      - 
-        districts: []
-        location: "POINT (50.9209299999999985 3.3379900000000000)"
-        name: Oostrozebeke
-        population: 7489
-        slug: oostrozebeke
-      - 
-        districts: []
-        location: "POINT (51.1543199999999985 3.2312799999999999)"
-        name: Oostkamp
-        population: 21489
-        slug: oostkamp
-      - 
-        districts: []
-        location: "POINT (50.9526100000000000 3.7982600000000000)"
-        name: Oosterzele
-        population: 13151
-        slug: oosterzele
-      - 
-        districts: []
-        location: "POINT (51.2233900000000020 2.9118499999999998)"
-        name: Oostende
-        population: 69011
-        slug: oostende
-      - 
-        districts: []
-        location: "POINT (51.1439099999999982 4.8597999999999999)"
-        name: Olen
-        population: 11070
-        slug: olen
-      - 
-        districts: []
-        location: "POINT (50.8277599999999978 4.0265700000000004)"
-        name: Ninove
-        population: 34795
-        slug: ninove
-      - 
-        districts: []
-        location: "POINT (51.1609600000000029 4.6700799999999996)"
-        name: Nijlen
-        population: 20792
-        slug: nijlen
-      - 
-        districts: []
-        location: "POINT (51.1300799999999995 2.7513399999999999)"
-        name: Nieuwpoort
-        population: 10845
-        slug: nieuwpoort
-      - 
-        districts: []
-        location: "POINT (50.8637999999999977 5.1946700000000003)"
-        name: Nieuwerkerken
-        population: 6466
-        slug: nieuwerkerken
-      - 
-        districts: []
-        location: "POINT (51.1101900000000029 4.3293799999999996)"
-        name: Niel
-        population: 8656
-        slug: niel
-      - 
-        districts: []
-        location: "POINT (51.0353100000000026 3.5457399999999999)"
-        name: Nevele
-        population: 11153
-        slug: nevele
-      - 
-        districts: []
-        location: "POINT (51.2166700000000006 5.4166699999999999)"
-        name: Neerpelt
-        population: 16122
-        slug: neerpelt
-      - 
-        districts: []
-        location: "POINT (50.9568599999999989 3.5942599999999998)"
-        name: Nazareth
-        population: 10890
-        slug: nazareth
-      - 
-        districts: []
-        location: "POINT (51.1654399999999967 4.4633599999999998)"
-        name: Mortsel
-        population: 24525
-        slug: mortsel
-      - 
-        districts: []
-        location: "POINT (50.8918999999999997 3.0611700000000002)"
-        name: Moorslede
-        population: 10720
-        slug: moorslede
-      - 
-        districts: []
-        location: "POINT (51.1833299999999980 5.0999999999999996)"
-        name: Mol
-        population: 32659
-        slug: mol
-      - 
-        districts: []
-        location: "POINT (51.1740899999999996 3.9300099999999998)"
-        name: Moerbeke
-        population: 5855
-        slug: moerbeke
-      - 
-        districts: []
-        location: "POINT (51.1853199999999973 2.8207700000000000)"
-        name: Middelkerke
-        population: 17789
-        slug: middelkerke
-      - 
-        districts: []
-        location: "POINT (50.9513600000000011 3.2880400000000001)"
-        name: Meulebeke
-        population: 10948
-        slug: meulebeke
-      - 
-        districts: []
-        location: "POINT (51.3666699999999992 4.8666700000000001)"
-        name: Merksplas
-        population: 7963
-        slug: merksplas
-      - 
-        districts: []
-        location: "POINT (50.9944699999999997 3.7462100000000000)"
-        name: Merelbeke
-        population: 22047
-        slug: merelbeke
-      - 
-        districts: []
-        location: "POINT (50.9577600000000004 4.2287200000000000)"
-        name: Merchtem
-        population: 14660
-        slug: merchtem
-      - 
-        districts: []
-        location: "POINT (50.7972200000000029 3.1224500000000002)"
-        name: Menen
-        population: 31916
-        slug: menen
-      - 
-        districts: []
-        location: "POINT (51.0023199999999974 3.8052600000000001)"
-        name: Melle
-        population: 10687
-        slug: melle
-      - 
-        districts: []
-        location: "POINT (50.9333299999999980 4.3333300000000001)"
-        name: Meise
-        population: 18497
-        slug: meise
-      - 
-        districts: []
-        location: "POINT (51.1333300000000008 5.0833300000000001)"
-        name: Meerhout
-        population: 9346
-        slug: meerhout
-      - 
-        districts: []
-        location: "POINT (51.0283000000000015 4.4793300000000000)"
-        name: Mechelen
-        population: 77530
-        slug: mechelen
-      - 
-        districts: []
-        location: "POINT (51.2073699999999974 3.4451100000000001)"
-        name: Maldegem
-        population: 22092
-        slug: maldegem
-      - 
-        districts: []
-        location: "POINT (50.9166700000000034 4.4333299999999998)"
-        name: Machelen
-        population: 12252
-        slug: machelen
-      - 
-        districts: []
-        location: "POINT (50.8166700000000020 5.6666699999999999)"
-        name: Maasmechelen
-        population: 36251
-        slug: maasmechelen
-      - 
-        districts: []
-        location: "POINT (51.1000000000000014 5.7999999999999998)"
-        name: Maaseik
-        population: 23684
-        slug: maaseik
-      - 
-        districts: []
-        location: "POINT (50.9833300000000023 5.2000000000000002)"
-        name: Lummen
-        population: 13689
-        slug: lummen
-      - 
-        districts: []
-        location: "POINT (50.8820199999999971 4.8422400000000003)"
-        name: Lubbeek
-        population: 13574
-        slug: lubbeek
-      - 
-        districts: []
-        location: "POINT (51.1016800000000018 3.6129799999999999)"
-        name: Lovendegem
-        population: 9272
-        slug: lovendegem
-      - 
-        districts: []
-        location: "POINT (51.0000000000000000 4.2999999999999998)"
-        name: Londerzeel
-        population: 17274
-        slug: londerzeel
-      - 
-        districts: []
-        location: "POINT (51.2333300000000023 5.2999999999999998)"
-        name: Lommel
-        population: 31993
-        slug: lommel
-      - 
-        districts: []
-        location: "POINT (51.1036399999999986 3.9933900000000002)"
-        name: Lokeren
-        population: 37567
-        slug: lokeren
-      - 
-        districts: []
-        location: "POINT (51.0964400000000012 3.8319399999999999)"
-        name: Lochristi
-        population: 19696
-        slug: lochristi
-      - 
-        districts: []
-        location: "POINT (51.1270799999999994 4.4966900000000001)"
-        name: Lint
-        population: 7982
-        slug: lint
-      - 
-        districts: []
-        location: "POINT (50.7666699999999977 4.3333300000000001)"
-        name: Linkebeek
-        population: 4823
-        slug: linkebeek
-      - 
-        districts: []
-        location: "POINT (51.2419700000000020 4.8231200000000003)"
-        name: Lille
-        population: 15466
-        slug: lille
-      - 
-        districts: []
-        location: "POINT (51.1312799999999967 4.5704200000000004)"
-        name: Lierre
-        population: 33272
-        slug: lierre
-      - 
-        districts: []
-        location: "POINT (50.8701500000000024 4.0819400000000003)"
-        name: Liedekerke
-        population: 11980
-        slug: liedekerke
-      - 
-        districts: []
-        location: "POINT (51.0333299999999994 3.1499999999999999)"
-        name: Lichtervelde
-        population: 8169
-        slug: lichtervelde
-      - 
-        districts: []
-        location: "POINT (50.8795900000000003 4.7009299999999996)"
-        name: Leuven
-        population: 92892
-        slug: leuven
-      - 
-        districts: []
-        location: "POINT (51.1166699999999992 5.2500000000000000)"
-        name: Leopoldsburg
-        population: 14149
-        slug: leopoldsburg
-      - 
-        districts: []
-        location: "POINT (50.8862600000000000 3.2374700000000001)"
-        name: Lendelede
-        population: 5393
-        slug: lendelede
-      - 
-        districts: []
-        location: "POINT (50.8578499999999991 3.1240899999999998)"
-        name: Ledegem
-        population: 9102
-        slug: ledegem
-      - 
-        districts: []
-        location: "POINT (51.0385899999999992 3.7445800000000000)"
-        name: Ledeberg
-        population: 8454
-        slug: ledeberg
-      - 
-        districts: []
-        location: "POINT (50.8425399999999996 4.0896299999999997)"
-        name: Ledeberg
-        population: 1500
-        slug: ledeberg
-      - 
-        districts: []
-        location: "POINT (50.9662599999999983 3.9859399999999998)"
-        name: Lede
-        population: 16813
-        slug: lede
-      - 
-        districts: []
-        location: "POINT (51.0046400000000020 4.1345700000000001)"
-        name: Lebbeke
-        population: 17372
-        slug: lebbeke
-      - 
-        districts: []
-        location: "POINT (50.7526599999999988 5.0819999999999999)"
-        name: Landen
-        population: 14458
-        slug: landen
-      - 
-        districts: []
-        location: "POINT (50.8833300000000008 5.6500000000000004)"
-        name: Lanaken
-        population: 24771
-        slug: lanaken
-      - 
-        districts: []
-        location: "POINT (51.0307800000000000 3.8507699999999998)"
-        name: Laarne
-        population: 11600
-        slug: laarne
-      - 
-        districts: []
-        location: "POINT (50.8514300000000006 3.2824000000000000)"
-        name: Kuurne
-        population: 12638
-        slug: kuurne
-      - 
-        districts: []
-        location: "POINT (50.9016799999999989 3.5258799999999999)"
-        name: Kruishoutem
-        population: 8179
-        slug: kruishoutem
-      - 
-        districts: []
-        location: "POINT (51.1704799999999977 4.3144400000000003)"
-        name: Kruibeke
-        population: 14815
-        slug: kruibeke
-      - 
-        districts: []
-        location: "POINT (50.8608100000000007 4.4613899999999997)"
-        name: Kraainem
-        population: 12815
-        slug: kraainem
-      - 
-        districts: []
-        location: "POINT (50.8280299999999983 3.2648700000000002)"
-        name: Kortrijk
-        population: 73879
-        slug: kortrijk
-      - 
-        districts: []
-        location: "POINT (50.8638199999999969 5.3832700000000004)"
-        name: Kortessem
-        population: 8042
-        slug: kortessem
-      - 
-        districts: []
-        location: "POINT (50.8923199999999980 4.5539699999999996)"
-        name: Kortenberg
-        population: 17774
-        slug: kortenberg
-      - 
-        districts: []
-        location: "POINT (50.9166700000000034 5.0666700000000002)"
-        name: Kortenaken
-        population: 7374
-        slug: kortenaken
-      - 
-        districts: []
-        location: "POINT (51.0295100000000019 3.0411199999999998)"
-        name: Kortemark
-        population: 11937
-        slug: kortemark
-      - 
-        districts: []
-        location: "POINT (51.1349599999999995 4.4447200000000002)"
-        name: Kontich
-        population: 20290
-        slug: kontich
-      - 
-        districts: []
-        location: "POINT (51.1164199999999980 2.6377199999999998)"
-        name: Koksijde
-        population: 21027
-        slug: koksijde
-      - 
-        districts: []
-        location: "POINT (51.0904700000000034 2.9782999999999999)"
-        name: Koekelare
-        population: 8317
-        slug: koekelare
-      - 
-        districts: []
-        location: "POINT (51.3500000000000014 3.2666700000000000)"
-        name: Knokke-Heist
-        population: 33781
-        slug: knokke-heist
-      - 
-        districts: []
-        location: "POINT (51.1393199999999979 3.4128200000000000)"
-        name: Knesselare
-        population: 7889
-        slug: knesselare
-      - 
-        districts: []
-        location: "POINT (51.1454299999999975 5.7420700000000000)"
-        name: Kinrooi
-        population: 11946
-        slug: kinrooi
-      - 
-        districts: []
-        location: "POINT (51.0000000000000000 4.6166700000000001)"
-        name: Keerbergen
-        population: 12363
-        slug: keerbergen
-      - 
-        districts: []
-        location: "POINT (51.2500000000000000 4.9500000000000002)"
-        name: Kasterlee
-        population: 17765
-        slug: kasterlee
-      - 
-        districts: []
-        location: "POINT (51.2171999999999983 3.6151900000000001)"
-        name: Kaprijke
-        population: 6114
-        slug: kaprijke
-      - 
-        districts: []
-        location: "POINT (51.0140099999999990 4.3583200000000000)"
-        name: Kapelle-op-den-Bos
-        population: 8859
-        slug: kapelle-op-den-bos
-      - 
-        districts: []
-        location: "POINT (51.3140799999999970 4.4294000000000002)"
-        name: Kapellen
-        population: 26410
-        slug: kapellen
-      - 
-        districts: []
-        location: "POINT (50.9421000000000035 4.5510299999999999)"
-        name: Kampenhout
-        population: 10784
-        slug: kampenhout
-      - 
-        districts: []
-        location: "POINT (51.3791700000000020 4.4748299999999999)"
-        name: Kalmthout
-        population: 17485
-        slug: kalmthout
-      - 
-        districts: []
-        location: "POINT (51.1818499999999972 3.0893500000000000)"
-        name: Jabbeke
-        population: 13488
-        slug: jabbeke
-      - 
-        districts: []
-        location: "POINT (50.9139600000000030 3.2137799999999999)"
-        name: Izegem
-        population: 26382
-        slug: izegem
-      - 
-        districts: []
-        location: "POINT (50.9208100000000030 3.2557100000000001)"
-        name: Ingelmunster
-        population: 10603
-        slug: ingelmunster
-      - 
-        districts: []
-        location: "POINT (50.8511400000000009 2.8856899999999999)"
-        name: Ieper
-        population: 35089
-        slug: ieper
-      - 
-        districts: []
-        location: "POINT (51.0957200000000000 3.0154899999999998)"
-        name: Ichtegem
-        population: 13582
-        slug: ichtegem
-      - 
-        districts: []
-        location: "POINT (51.0745099999999965 4.7908099999999996)"
-        name: Hulshout
-        population: 9198
-        slug: hulshout
-      - 
-        districts: []
-        location: "POINT (50.7833299999999994 4.5833300000000001)"
-        name: Huldenberg
-        population: 9137
-        slug: huldenberg
-      - 
-        districts: []
-        location: "POINT (51.1544600000000003 4.4706999999999999)"
-        name: Hove
-        population: 7968
-        slug: hove
-      - 
-        districts: []
-        location: "POINT (50.9782399999999996 2.9504999999999999)"
-        name: Houthulst
-        population: 8951
-        slug: houthulst
-      - 
-        districts: []
-        location: "POINT (51.0333299999999994 5.3666700000000001)"
-        name: Houthalen
-        population: 30050
-        slug: houthalen
-      - 
-        districts: []
-        location: "POINT (51.4002899999999983 4.7603400000000002)"
-        name: Hoogstraten
-        population: 18524
-        slug: hoogstraten
-      - 
-        districts: []
-        location: "POINT (50.9833300000000023 3.0833300000000001)"
-        name: Hooglede
-        population: 9900
-        slug: hooglede
-      - 
-        districts: []
-        location: "POINT (50.9166700000000034 4.7500000000000000)"
-        name: Holsbeek
-        population: 9094
-        slug: holsbeek
-      - 
-        districts: []
-        location: "POINT (50.8500000000000014 5.4833299999999996)"
-        name: Hoeselt
-        population: 9265
-        slug: hoeselt
-      - 
-        districts: []
-        location: "POINT (50.7666699999999977 4.4666699999999997)"
-        name: Hoeilaart
-        population: 10272
-        slug: hoeilaart
-      - 
-        districts: []
-        location: "POINT (50.7756499999999988 4.8915600000000001)"
-        name: Hoegaarden
-        population: 6110
-        slug: hoegaarden
-      - 
-        districts: []
-        location: "POINT (51.1666700000000034 4.3499999999999996)"
-        name: Hoboken
-        population: 34443
-        slug: hoboken
-      - 
-        districts: []
-        location: "POINT (51.0333299999999994 5.2666700000000004)"
-        name: Heusden
-        population: 31017
-        slug: heusden
-      - 
-        districts: []
-        location: "POINT (50.8868099999999970 3.8901400000000002)"
-        name: Herzele
-        population: 16523
-        slug: herzele
-      - 
-        districts: []
-        location: "POINT (51.0499999999999972 4.8833299999999999)"
-        name: Herselt
-        population: 13493
-        slug: herselt
-      - 
-        districts: []
-        location: "POINT (50.7251899999999978 4.0284399999999998)"
-        name: Herne
-        population: 6459
-        slug: herne
-      - 
-        districts: []
-        location: "POINT (50.9333299999999980 5.1666699999999999)"
-        name: Herk-de-Stad
-        population: 11566
-        slug: herk-de-stad
-      - 
-        districts: []
-        location: "POINT (51.1400999999999968 4.7557200000000002)"
-        name: Herenthout
-        population: 8378
-        slug: herenthout
-      - 
-        districts: []
-        location: "POINT (51.1765499999999989 4.8324800000000003)"
-        name: Herentals
-        population: 25912
-        slug: herentals
-      - 
-        districts: []
-        location: "POINT (50.8999999999999986 4.6666699999999999)"
-        name: Herent
-        population: 19218
-        slug: herent
-      - 
-        districts: []
-        location: "POINT (51.1480600000000010 4.3501399999999997)"
-        name: Hemiksem
-        population: 9504
-        slug: hemiksem
-      - 
-        districts: []
-        location: "POINT (51.0499999999999972 5.3666700000000001)"
-        name: Helchteren
-        population: 30050
-        slug: helchteren
-      - 
-        districts: []
-        location: "POINT (51.0753699999999995 4.7282700000000002)"
-        name: Heist-op-den-Berg
-        population: 37873
-        slug: heist-op-den-berg
-      - 
-        districts: []
-        location: "POINT (50.7512899999999973 5.3050199999999998)"
-        name: Heers
-        population: 6689
-        slug: heers
-      - 
-        districts: []
-        location: "POINT (50.9333299999999980 5.3333300000000001)"
-        name: Hasselt
-        population: 69222
-        slug: hasselt
-      - 
-        districts: []
-        location: "POINT (50.8534300000000030 3.3093499999999998)"
-        name: Harelbeke
-        population: 25978
-        slug: harelbeke
-      - 
-        districts: []
-        location: "POINT (51.0982199999999978 4.1370500000000003)"
-        name: Hamme
-        population: 22891
-        slug: hamme
-      - 
-        districts: []
-        location: "POINT (50.7410199999999989 4.2324799999999998)"
-        name: Halle
-        population: 34479
-        slug: halle
-      - 
-        districts: []
-        location: "POINT (50.9500000000000028 5.0999999999999996)"
-        name: Halen
-        population: 8548
-        slug: halen
-      - 
-        districts: []
-        location: "POINT (50.9063400000000001 4.0009300000000003)"
-        name: Haaltert
-        population: 17129
-        slug: haaltert
-      - 
-        districts: []
-        location: "POINT (50.9833300000000023 4.6333299999999999)"
-        name: Haacht
-        population: 13541
-        slug: haacht
-      - 
-        districts: []
-        location: "POINT (51.1925099999999986 4.7386200000000001)"
-        name: Grobbendonk
-        population: 10724
-        slug: grobbendonk
-      - 
-        districts: []
-        location: "POINT (50.9324299999999965 4.3786399999999999)"
-        name: Grimbergen
-        population: 33561
-        slug: grimbergen
-      - 
-        districts: []
-        location: "POINT (50.7952700000000021 4.1194699999999997)"
-        name: Gooik
-        population: 8957
-        slug: gooik
-      - 
-        districts: []
-        location: "POINT (50.8734800000000007 4.9444200000000000)"
-        name: Glabbeek-Zuurbemde
-        population: 5070
-        slug: glabbeek-zuurbemde
-      - 
-        districts: []
-        location: "POINT (51.1561200000000014 2.9638800000000001)"
-        name: Gistel
-        population: 11084
-        slug: gistel
-      - 
-        districts: []
-        location: "POINT (50.7492200000000011 5.1331600000000002)"
-        name: Gingelom
-        population: 7930
-        slug: gingelom
-      - 
-        districts: []
-        location: "POINT (50.7734299999999976 3.8822299999999998)"
-        name: Geraardsbergen
-        population: 30807
-        slug: geraardsbergen
-      - 
-        districts: []
-        location: "POINT (51.0499999999999972 3.7166700000000001)"
-        name: Gent
-        population: 231493
-        slug: gent
-      - 
-        districts: []
-        location: "POINT (50.9666700000000006 5.5000000000000000)"
-        name: Genk
-        population: 63666
-        slug: genk
-      - 
-        districts: []
-        location: "POINT (50.8833300000000008 5.1166700000000001)"
-        name: Geetbets
-        population: 5813
-        slug: geetbets
-      - 
-        districts: []
-        location: "POINT (51.1666700000000034 5.0000000000000000)"
-        name: Geel
-        population: 34697
-        slug: geel
-      - 
-        districts: []
-        location: "POINT (50.9291699999999992 3.6618400000000002)"
-        name: Gavere
-        population: 11888
-        slug: gavere
-      - 
-        districts: []
-        location: "POINT (50.7556799999999981 3.9672800000000001)"
-        name: Galmaarden
-        population: 7939
-        slug: galmaarden
-      - 
-        districts: []
-        location: "POINT (50.7333300000000023 5.8166700000000002)"
-        name: Sint-Pieters-Voeren
-        population: 4235
-        slug: sint-pieters-voeren
-      - 
-        districts: []
-        location: "POINT (51.1052999999999997 3.7040000000000002)"
-        name: Evergem
-        population: 31615
-        slug: evergem
-      - 
-        districts: []
-        location: "POINT (51.4627199999999974 4.4539299999999997)"
-        name: Essen
-        population: 16754
-        slug: essen
-      - 
-        districts: []
-        location: "POINT (51.1870300000000000 3.5565400000000000)"
-        name: Eeklo
-        population: 19116
-        slug: eeklo
-      - 
-        districts: []
-        location: "POINT (51.1566199999999967 4.4450399999999997)"
-        name: Edegem
-        population: 21839
-        slug: edegem
-      - 
-        districts: []
-        location: "POINT (51.0957599999999985 4.5014200000000004)"
-        name: Duffel
-        population: 16011
-        slug: duffel
-      - 
-        districts: []
-        location: "POINT (50.7833299999999994 4.3166700000000002)"
-        name: Drogenbos
-        population: 4843
-        slug: drogenbos
-      - 
-        districts: []
-        location: "POINT (50.8479900000000029 4.2597199999999997)"
-        name: Dilbeek
-        population: 39482
-        slug: dilbeek
-      - 
-        districts: []
-        location: "POINT (51.0324799999999996 2.8638400000000002)"
-        name: Diksmuide
-        population: 15515
-        slug: diksmuide
-      - 
-        districts: []
-        location: "POINT (50.9834200000000024 5.0501500000000004)"
-        name: Diest
-        population: 22516
-        slug: diest
-      - 
-        districts: []
-        location: "POINT (50.9076900000000023 5.4187500000000002)"
-        name: Diepenbeek
-        population: 17699
-        slug: diepenbeek
-      - 
-        districts: []
-        location: "POINT (51.0595199999999991 3.7989899999999999)"
-        name: Destelbergen
-        population: 16853
-        slug: destelbergen
-      - 
-        districts: []
-        location: "POINT (51.2333300000000023 5.1166700000000001)"
-        name: Dessel
-        population: 8707
-        slug: dessel
-      - 
-        districts: []
-        location: "POINT (50.9933899999999980 3.6474700000000002)"
-        name: "De Pinte"
-        population: 10020
-        slug: de-pinte
-      - 
-        districts: []
-        location: "POINT (51.0979299999999981 2.5936800000000000)"
-        name: "De Panne"
-        population: 9799
-        slug: de-panne
-      - 
-        districts: []
-        location: "POINT (50.9642899999999983 3.4161700000000002)"
-        name: Dentergem
-        population: 8038
-        slug: dentergem
-      - 
-        districts: []
-        location: "POINT (51.0286899999999974 4.1010600000000004)"
-        name: Dendermonde
-        population: 43055
-        slug: dendermonde
-      - 
-        districts: []
-        location: "POINT (50.8802599999999998 4.0614400000000002)"
-        name: Denderleeuw
-        population: 16969
-        slug: denderleeuw
-      - 
-        districts: []
-        location: "POINT (50.9817499999999981 3.5309599999999999)"
-        name: Deinze
-        population: 27777
-        slug: deinze
-      - 
-        districts: []
-        location: "POINT (51.2726100000000002 3.0344600000000002)"
-        name: "De Haan"
-        population: 11766
-        slug: de-haan
-      - 
-        districts: []
-        location: "POINT (50.8533699999999982 3.3541599999999998)"
-        name: Deerlijk
-        population: 11292
-        slug: deerlijk
-      - 
-        districts: []
-        location: "POINT (51.2514699999999976 3.2814399999999999)"
-        name: Damme
-        population: 10924
-        slug: damme
-      - 
-        districts: []
-        location: "POINT (51.0159000000000020 4.2017300000000004)"
-        name: Buggenhout
-        population: 13510
-        slug: buggenhout
-      - 
-        districts: []
-        location: "POINT (51.2089199999999991 3.2242400000000000)"
-        name: Brugge
-        population: 116709
-        slug: brugge
-      - 
-        districts: []
-        location: "POINT (51.1333300000000008 5.5999999999999996)"
-        name: Bree
-        population: 14363
-        slug: bree
-      - 
-        districts: []
-        location: "POINT (51.2348900000000000 2.9755900000000000)"
-        name: Bredene
-        population: 14862
-        slug: bredene
-      - 
-        districts: []
-        location: "POINT (51.3508599999999973 4.6402400000000004)"
-        name: Brecht
-        population: 25908
-        slug: brecht
-      - 
-        districts: []
-        location: "POINT (51.2912000000000035 4.4918199999999997)"
-        name: Brasschaat
-        population: 37040
-        slug: brasschaat
-      - 
-        districts: []
-        location: "POINT (50.8395399999999995 4.8392499999999998)"
-        name: Boutersem
-        population: 7702
-        slug: boutersem
-      - 
-        districts: []
-        location: "POINT (51.1959000000000017 4.4906699999999997)"
-        name: Borsbeek
-        population: 10334
-        slug: borsbeek
-      - 
-        districts: []
-        location: "POINT (51.0971199999999968 4.2365000000000004)"
-        name: Bornem
-        population: 19997
-        slug: bornem
-      - 
-        districts: []
-        location: "POINT (50.8050500000000014 5.3436599999999999)"
-        name: Borgloon
-        population: 9955
-        slug: borgloon
-      - 
-        districts: []
-        location: "POINT (50.9833300000000023 4.5666700000000002)"
-        name: Boortmeerbeek
-        population: 11570
-        slug: boortmeerbeek
-      - 
-        districts: []
-        location: "POINT (51.0886599999999973 4.3666000000000000)"
-        name: Boom
-        population: 15810
-        slug: boom
-      - 
-        districts: []
-        location: "POINT (51.0226100000000002 4.5471399999999997)"
-        name: Bonheiden
-        population: 14260
-        slug: bonheiden
-      - 
-        districts: []
-        location: "POINT (51.1619200000000021 4.4908599999999996)"
-        name: Boechout
-        population: 12145
-        slug: boechout
-      - 
-        districts: []
-        location: "POINT (51.1666700000000034 5.5833300000000001)"
-        name: Bocholt
-        population: 12346
-        slug: bocholt
-      - 
-        districts: []
-        location: "POINT (51.3130600000000001 3.1322700000000001)"
-        name: Blankenberge
-        population: 18230
-        slug: blankenberge
-      - 
-        districts: []
-        location: "POINT (50.8716399999999993 5.5176400000000001)"
-        name: Bilzen
-        population: 29622
-        slug: bilzen
-      - 
-        districts: []
-        location: "POINT (50.8287600000000026 4.7594900000000004)"
-        name: Bierbeek
-        population: 8994
-        slug: bierbeek
-      - 
-        districts: []
-        location: "POINT (51.2118699999999976 4.2563300000000002)"
-        name: Beveren
-        population: 45179
-        slug: beveren
-      - 
-        districts: []
-        location: "POINT (50.9166700000000034 4.3166700000000002)"
-        name: Bever
-        population: 1932
-        slug: bever
-      - 
-        districts: []
-        location: "POINT (50.8630199999999988 4.6325399999999997)"
-        name: Bertem
-        population: 9215
-        slug: bertem
-      - 
-        districts: []
-        location: "POINT (51.0333299999999994 4.0000000000000000)"
-        name: Berlare
-        population: 13853
-        slug: berlare
-      - 
-        districts: []
-        location: "POINT (51.1176000000000030 4.6583500000000004)"
-        name: Berlaar
-        population: 10370
-        slug: berlaar
-      - 
-        districts: []
-        location: "POINT (51.0499999999999972 5.2166699999999997)"
-        name: Beringen
-        population: 40930
-        slug: beringen
-      - 
-        districts: []
-        location: "POINT (50.9500000000000028 4.9666699999999997)"
-        name: Bekkevoort
-        population: 5714
-        slug: bekkevoort
-      - 
-        districts: []
-        location: "POINT (51.0189900000000023 4.7824900000000001)"
-        name: Begijnendijk
-        population: 9178
-        slug: begijnendijk
-      - 
-        districts: []
-        location: "POINT (50.7666699999999977 4.2999999999999998)"
-        name: Beersel
-        population: 23228
-        slug: beersel
-      - 
-        districts: []
-        location: "POINT (51.3166700000000020 4.8666700000000001)"
-        name: Beerse
-        population: 16208
-        slug: beerse
-      - 
-        districts: []
-        location: "POINT (51.1398099999999971 3.3389600000000002)"
-        name: Beernem
-        population: 14512
-        slug: beernem
-      - 
-        districts: []
-        location: "POINT (51.1666700000000034 5.1500000000000004)"
-        name: Balen
-        population: 19978
-        slug: balen
-      - 
-        districts: []
-        location: "POINT (51.4500000000000028 4.9333299999999998)"
-        name: Baarle-Hertog
-        population: 2305
-        slug: baarle-hertog
-      - 
-        districts: []
-        location: "POINT (50.7761799999999965 3.4450200000000000)"
-        name: Avelgem
-        population: 9106
-        slug: avelgem
-      - 
-        districts: []
-        location: "POINT (51.2259799999999998 3.7508499999999998)"
-        name: Assenede
-        population: 13495
-        slug: assenede
-      - 
-        districts: []
-        location: "POINT (50.9101100000000031 4.1983600000000001)"
-        name: Asse
-        population: 28985
-        slug: asse
-      - 
-        districts: []
-        location: "POINT (51.0166699999999977 5.5833300000000001)"
-        name: As
-        population: 7250
-        slug: as
-      - 
-        districts: []
-        location: "POINT (51.3166700000000020 5.0833300000000001)"
-        name: Arendonk
-        population: 12247
-        slug: arendonk
-      - 
-        districts: []
-        location: "POINT (50.9757000000000033 3.1973600000000002)"
-        name: Ardooie
-        population: 9161
-        slug: ardooie
-      - 
-        districts: []
-        location: "POINT (50.8370000000000033 3.4778600000000002)"
-        name: Anzegem
-        population: 13920
-        slug: anzegem
-      - 
-        districts: []
-        location: "POINT (51.2166700000000006 4.4166699999999999)"
-        name: Antwerp
-        population: 459805
-        slug: antwerp
-      - 
-        districts: []
-        location: "POINT (51.0123800000000003 2.7111700000000001)"
-        name: Alveringem
-        population: 4910
-        slug: alveringem
-      - 
-        districts: []
-        location: "POINT (50.8755200000000016 5.3055800000000000)"
-        name: Alken
-        population: 10933
-        slug: alken
-      - 
-        districts: []
-        location: "POINT (51.1341200000000029 4.3867799999999999)"
-        name: Aartselaar
-        population: 14193
-        slug: aartselaar
-      - 
-        districts: []
-        location: "POINT (50.9871499999999997 4.8369499999999999)"
-        name: Aarschot
-        population: 27656
-        slug: aarschot
-      - 
-        districts: []
-        location: "POINT (51.0901700000000005 3.4469300000000000)"
-        name: Aalter
-        population: 18802
-        slug: aalter
-      - 
-        districts: []
-        location: "POINT (50.9360399999999984 4.0354999999999999)"
-        name: Aalst
-        population: 77534
-        slug: aalst
-    code: BE.VLG
-    name: Flanders
-    slug: flanders
+    name: "Brussels Capital Region"
+    names_en: 
+      - "Brussels Capital Region"
+    names_es: 
+      - Bruselas
+      - "Región de Bruselas-Capital"
   - 
+    ascii_name: "Walloon Region"
     cities: 
       - 
-        districts: []
-        location: "POINT (50.3264799999999966 4.8785699999999999)"
+        alternate_names: 
+          - Uwar
+          - Yvoir
+        ascii_name: Yvoir
         name: Yvoir
+        names_en: 
+          - Yvoir
+        names_es: 
+          - Yvoir
         population: 8169
-        slug: yvoir
       - 
-        districts: []
-        location: "POINT (50.0833299999999966 5.1166700000000001)"
+        alternate_names: 
+          - Wellin
+        ascii_name: Wellin
         name: Wellin
+        names_en: ~
+        names_es: ~
         population: 2937
-        slug: wellin
       - 
-        districts: []
-        location: "POINT (50.6499999999999986 5.9666699999999997)"
+        alternate_names: 
+          - Welkenraedt
+        ascii_name: Welkenraedt
         name: Welkenraedt
+        names_en: ~
+        names_es: ~
         population: 9006
-        slug: welkenraedt
       - 
-        districts: []
-        location: "POINT (50.7166700000000006 4.6166700000000001)"
+        alternate_names: 
+          - Babr
+          - Vavr
+          - Wave
+        ascii_name: Wavre
         name: Wavre
+        names_en: 
+          - Wavre
+        names_es: ~
         population: 32112
-        slug: wavre
       - 
-        districts: []
-        location: "POINT (50.7135000000000034 4.3914700000000000)"
+        alternate_names: 
+          - Vaterlo
+          - Waterlo
+          - Waterloo
+        ascii_name: Waterloo
         name: Waterloo
+        names_en: 
+          - Waterloo
+        names_es: 
+          - Waterloo
         population: 28910
-        slug: waterloo
       - 
-        districts: []
-        location: "POINT (50.6218599999999981 5.0052800000000000)"
+        alternate_names: 
+          - Wasseiges
+        ascii_name: Wasseiges
         name: Wasseiges
+        names_en: ~
+        names_es: ~
         population: 2471
-        slug: wasseiges
       - 
-        districts: []
-        location: "POINT (50.6952900000000000 5.2545500000000001)"
+        alternate_names: 
+          - Borgworm
+          - Waremme
+        ascii_name: Waremme
         name: Waremme
+        names_en: ~
+        names_es: ~
         population: 13737
-        slug: waremme
       - 
-        districts: []
-        location: "POINT (50.5345700000000022 5.2135699999999998)"
+        alternate_names: 
+          - Wanze
+        ascii_name: Wanze
         name: Wanze
+        names_en: ~
+        names_es: ~
         population: 12918
-        slug: wanze
       - 
-        districts: []
-        location: "POINT (50.6166699999999992 4.7000000000000002)"
+        alternate_names: 
+          - "Walhain (Walhain-Saint-Paul)"
+        ascii_name: Walhain-Saint-Paul
         name: Walhain-Saint-Paul
+        names_en: ~
+        names_es: ~
         population: 5992
-        slug: walhain-saint-paul
       - 
-        districts: []
-        location: "POINT (50.2500000000000000 4.4166699999999999)"
+        alternate_names: 
+          - Walcou
+          - Walcourt
+          - Walcoû
+        ascii_name: Walcourt
         name: Walcourt
+        names_en: 
+          - Walcourt
+        names_es: 
+          - Walcourt
         population: 17501
-        slug: walcourt
       - 
-        districts: []
-        location: "POINT (50.4166700000000034 6.1166700000000001)"
+        alternate_names: 
+          - Waimes
+          - Weismes
+        ascii_name: Waimes
         name: Waimes
+        names_en: ~
+        names_es: ~
         population: 6661
-        slug: waimes
       - 
-        districts: []
-        location: "POINT (50.7333300000000023 5.7000000000000002)"
+        alternate_names: 
+          - Vise
+          - Visé
+          - Wezet
+        ascii_name: Vise
         name: Visé
+        names_en: ~
+        names_es: ~
         population: 17054
-        slug: vise
       - 
-        districts: []
-        location: "POINT (49.5666700000000020 5.5333300000000003)"
+        alternate_names: 
+          - Virton
+          - Wirten
+          - Виртон
+        ascii_name: Virton
         name: Virton
+        names_en: ~
+        names_es: ~
         population: 11259
-        slug: virton
       - 
-        districts: []
-        location: "POINT (50.5809199999999990 5.2652700000000001)"
+        alternate_names: 
+          - Villers-le-Bouillet
+        ascii_name: Villers-le-Bouillet
         name: Villers-le-Bouillet
+        names_en: ~
+        names_es: ~
         population: 6059
-        slug: villers-le-bouillet
       - 
-        districts: []
-        location: "POINT (50.5833299999999966 4.5333300000000003)"
+        alternate_names: 
+          - Villers-la-Ville
+        ascii_name: Villers-la-Ville
         name: Villers-la-Ville
+        names_en: ~
+        names_es: ~
         population: 9592
-        slug: villers-la-ville
       - 
-        districts: []
-        location: "POINT (50.2847200000000001 5.9186100000000001)"
+        alternate_names: 
+          - "Li Viye Sam"
+          - "Li Viye Såm"
+          - Vielsalm
+        ascii_name: Vielsalm
         name: Vielsalm
+        names_en: 
+          - Vielsalm
+        names_es: ~
         population: 7291
-        slug: vielsalm
       - 
-        districts: []
-        location: "POINT (50.5833299999999966 5.8666700000000001)"
+        alternate_names: 
+          - Vervi
+          - Verviers
+          - Vervî
+        ascii_name: Verviers
         name: Verviers
+        names_en: 
+          - Verviers
+        names_es: ~
         population: 52824
-        slug: verviers
       - 
-        districts: []
-        location: "POINT (50.6074300000000008 5.3174000000000001)"
+        alternate_names: 
+          - Verlaine
+        ascii_name: Verlaine
         name: Verlaine
+        names_en: ~
+        names_es: ~
         population: 3600
-        slug: verlaine
       - 
-        districts: []
-        location: "POINT (49.9166700000000034 5.5833300000000001)"
+        alternate_names: 
+          - Vaux-sur-Sure
+          - Vaux-sur-Sûre
+        ascii_name: Vaux-sur-Sure
         name: Vaux-sur-Sûre
+        names_en: ~
+        names_es: ~
         population: 4581
-        slug: vaux-sur-sure
       - 
-        districts: []
-        location: "POINT (50.6923400000000015 4.2045100000000000)"
+        alternate_names: 
+          - Tjubiz
+          - Tubeke
+          - Tubize
+        ascii_name: Tubize
         name: Tubize
+        names_en: ~
+        names_es: ~
         population: 21859
-        slug: tubize
       - 
-        districts: []
-        location: "POINT (50.5666700000000020 5.6833299999999998)"
+        alternate_names: 
+          - Trooz
+        ascii_name: Trooz
         name: Trooz
+        names_en: ~
+        names_es: ~
         population: 7559
-        slug: trooz
       - 
-        districts: []
-        location: "POINT (50.3666699999999992 5.8666700000000001)"
-        name: "Trois Ponts"
+        alternate_names: 
+          - "Trois Ponts"
+        ascii_name: Trois-Ponts
+        name: Trois-Ponts
+        names_en: ~
+        names_es: ~
         population: 2533
-        slug: trois-ponts
       - 
-        districts: []
-        location: "POINT (50.6071499999999972 3.3893200000000001)"
+        alternate_names: 
+          - Doornik
+          - Doornyk
+          - Tournai
+        ascii_name: Tournai
         name: Tournai
+        names_en: 
+          - Tournai
+        names_es: ~
         population: 67721
-        slug: tournai
       - 
-        districts: []
-        location: "POINT (49.6833299999999980 5.5166700000000004)"
+        alternate_names: 
+          - Tintigny
+        ascii_name: Tintigny
         name: Tintigny
+        names_en: ~
+        names_es: ~
         population: 3538
-        slug: tintigny
       - 
-        districts: []
-        location: "POINT (50.4780900000000017 5.3787300000000000)"
+        alternate_names: 
+          - Tinlot
+        ascii_name: Tinlot
         name: Tinlot
+        names_en: ~
+        names_es: ~
         population: 2236
-        slug: tinlot
       - 
-        districts: []
-        location: "POINT (50.3333299999999966 4.2833300000000003)"
+        alternate_names: 
+          - Thuin
+        ascii_name: Thuin
         name: Thuin
+        names_en: ~
+        names_es: ~
         population: 14682
-        slug: thuin
       - 
-        districts: []
-        location: "POINT (50.5333299999999994 5.8166700000000002)"
+        alternate_names: 
+          - Teu
+          - Theux
+          - Thieux
+        ascii_name: Theux
         name: Theux
+        names_en: 
+          - Theux
+        names_es: ~
         population: 11587
-        slug: theux
       - 
-        districts: []
-        location: "POINT (50.1000000000000014 5.5333300000000003)"
+        alternate_names: 
+          - Tenneville
+        ascii_name: Tenneville
         name: Tenneville
+        names_en: ~
+        names_es: ~
         population: 2510
-        slug: tenneville
       - 
-        districts: []
-        location: "POINT (50.0833299999999966 5.2166699999999997)"
+        alternate_names: 
+          - Tellin
+        ascii_name: Tellin
         name: Tellin
+        names_en: ~
+        names_es: ~
         population: 2353
-        slug: tellin
       - 
-        districts: []
-        location: "POINT (50.4166700000000034 5.7999999999999998)"
+        alternate_names: 
+          - Staumont
+          - Stoumont
+        ascii_name: Stoumont
         name: Stoumont
+        names_en: ~
+        names_es: ~
         population: 2970
-        slug: stoumont
       - 
-        districts: []
-        location: "POINT (50.3833300000000008 5.9333299999999998)"
+        alternate_names: 
+          - Stablo
+          - Stavelot
+        ascii_name: Stavelot
         name: Stavelot
+        names_en: ~
+        names_es: ~
         population: 6646
-        slug: stavelot
       - 
-        districts: []
-        location: "POINT (50.5000000000000000 5.6666699999999999)"
+        alternate_names: 
+          - Sprimont
+        ascii_name: Sprimont
         name: Sprimont
+        names_en: ~
+        names_es: ~
         population: 12945
-        slug: sprimont
       - 
-        districts: []
-        location: "POINT (50.5000000000000000 5.8666700000000001)"
+        alternate_names: 
+          - Spa
+          - "Spa La Sauvehiece"
+          - Spå
+        ascii_name: Spa
         name: Spa
+        names_en: 
+          - Spa
+        names_es: ~
         population: 10756
-        slug: spa
       - 
-        districts: []
-        location: "POINT (50.6166699999999992 5.7500000000000000)"
+        alternate_names: 
+          - Soumagne
+        ascii_name: Soumagne
         name: Soumagne
+        names_en: ~
+        names_es: ~
         population: 15237
-        slug: soumagne
       - 
-        districts: []
-        location: "POINT (50.3369900000000001 5.3670499999999999)"
+        alternate_names: 
+          - Somme-Leuze
+        ascii_name: Somme-Leuze
         name: Somme-Leuze
+        names_en: ~
+        names_es: ~
         population: 4532
-        slug: somme-leuze
       - 
-        districts: []
-        location: "POINT (50.5166699999999977 4.5999999999999996)"
+        alternate_names: 
+          - Sombrefe
+          - Sombreffe
+        ascii_name: Sombreffe
         name: Sombreffe
+        names_en: 
+          - Sombreffe
+        names_es: 
+          - Sombreffe
         population: 7452
-        slug: sombreffe
       - 
-        districts: []
-        location: "POINT (50.5790399999999991 4.0712900000000003)"
+        alternate_names: 
+          - Suan'e
+          - Zinnik
+          - Суанье
+        ascii_name: Soignies
         name: Soignies
+        names_en: ~
+        names_es: ~
         population: 24869
-        slug: soignies
       - 
-        districts: []
-        location: "POINT (50.6487699999999990 3.9236300000000002)"
+        alternate_names: 
+          - Opzullik
+          - Silly
+        ascii_name: Silly
         name: Silly
+        names_en: ~
+        names_es: ~
         population: 7887
-        slug: silly
       - 
-        districts: []
-        location: "POINT (50.6117800000000031 5.5078899999999997)"
+        alternate_names: 
+          - Seraing
+          - Sere
+          - Seren
+        ascii_name: Seraing
         name: Seraing
+        names_en: 
+          - Seraing
+        names_es: ~
         population: 60737
-        slug: seraing
       - 
-        districts: []
-        location: "POINT (50.5166699999999977 4.2500000000000000)"
+        alternate_names: 
+          - Seneffe
+        ascii_name: Seneffe
         name: Seneffe
+        names_en: ~
+        names_es: ~
         population: 11025
-        slug: seneffe
       - 
-        districts: []
-        location: "POINT (50.2833299999999994 6.1333299999999999)"
+        alternate_names: 
+          - Saint-Vith
+          - "Sankt Vaeit"
+          - "Sankt Vith"
+        ascii_name: Saint-Vith
         name: Saint-Vith
+        names_en: 
+          - "Sankt Vith"
+        names_es: ~
         population: 9135
-        slug: saint-vith
       - 
-        districts: []
-        location: "POINT (50.6333300000000008 5.5333300000000003)"
+        alternate_names: 
+          - Saint-Nicolas
+          - Sankt-Nikola
+          - Sint-Niklaas
+        ascii_name: Saint-Nicolas
         name: Saint-Nicolas
+        names_en: ~
+        names_es: ~
         population: 22586
-        slug: saint-nicolas
       - 
-        districts: []
-        location: "POINT (49.6166699999999992 5.6500000000000004)"
+        alternate_names: 
+          - Saint-Leger
+          - Saint-Léger
+        ascii_name: Saint-Leger
         name: Saint-Léger
+        names_en: ~
+        names_es: ~
         population: 3092
-        slug: saint-leger
       - 
-        districts: []
-        location: "POINT (50.0166699999999977 5.3833299999999999)"
+        alternate_names: 
+          - Saint-Hubert
+        ascii_name: Saint-Hubert
         name: Saint-Hubert
+        names_en: ~
+        names_es: ~
         population: 5538
-        slug: saint-hubert
       - 
-        districts: []
-        location: "POINT (50.4481600000000014 3.8188599999999999)"
+        alternate_names: 
+          - Sankt-Gilene
+          - Санкт-Гилене
+        ascii_name: Saint-Ghislain
         name: Saint-Ghislain
+        names_en: ~
+        names_es: ~
         population: 22500
-        slug: saint-ghislain
       - 
-        districts: []
-        location: "POINT (50.0833299999999966 5.5333300000000003)"
+        alternate_names: 
+          - Saint-Ode
+          - Sainte-Ode
+        ascii_name: Sainte-Ode
         name: Sainte-Ode
+        names_en: ~
+        names_es: ~
         population: 2310
-        slug: sainte-ode
       - 
-        districts: []
-        location: "POINT (50.5544999999999973 3.3053499999999998)"
+        alternate_names: 
+          - Rumes
+        ascii_name: Rumes
         name: Rumes
+        names_en: ~
+        names_es: ~
         population: 4918
-        slug: rumes
       - 
-        districts: []
-        location: "POINT (49.5333299999999994 5.5000000000000000)"
+        alternate_names: 
+          - Rouvroy
+        ascii_name: Rouvroy
         name: Rouvroy
+        names_en: ~
+        names_es: ~
         population: 1946
-        slug: rouvroy
       - 
-        districts: []
-        location: "POINT (50.5000000000000000 4.0999999999999996)"
+        alternate_names: ~
+        ascii_name: Roeulx
         name: Roeulx
+        names_en: ~
+        names_es: ~
         population: 7968
-        slug: roeulx
       - 
-        districts: []
-        location: "POINT (50.1631000000000000 5.2215999999999996)"
+        alternate_names: 
+          - Notre-Dame-de-Foy-de-Rochefort
+        ascii_name: Rochefort
         name: Rochefort
+        names_en: ~
+        names_es: ~
         population: 11978
-        slug: rochefort
       - 
-        districts: []
-        location: "POINT (50.7166700000000006 4.5333300000000003)"
+        alternate_names: 
+          - Riksensart
+          - Rixensart
+          - Риксенсарт
+        ascii_name: Rixensart
         name: Rixensart
+        names_en: ~
+        names_es: ~
         population: 21616
-        slug: rixensart
       - 
-        districts: []
-        location: "POINT (50.2342200000000005 5.5041399999999996)"
+        alternate_names: 
+          - Rendeux
+        ascii_name: Rendeux
         name: Rendeux
+        names_en: ~
+        names_es: ~
         population: 2320
-        slug: rendeux
       - 
-        districts: []
-        location: "POINT (50.6816900000000032 5.3233199999999998)"
+        alternate_names: 
+          - Remicourt
+        ascii_name: Remicourt
         name: Remicourt
+        names_en: ~
+        names_es: ~
         population: 5050
-        slug: remicourt
       - 
-        districts: []
-        location: "POINT (50.6649799999999999 4.1332500000000003)"
+        alternate_names: 
+          - "Rebecq (Rebecq-Rognon)"
+        ascii_name: Rebecq-Rognon
         name: Rebecq-Rognon
+        names_en: ~
+        names_es: ~
         population: 10049
-        slug: rebecq-rognon
       - 
-        districts: []
-        location: "POINT (50.6384699999999981 4.9156399999999998)"
-        name: Ramillies-Offus
+        alternate_names: ~
+        ascii_name: Ramillies
+        name: Ramillies
+        names_en: ~
+        names_es: ~
         population: 5749
-        slug: ramillies-offus
       - 
-        districts: []
-        location: "POINT (50.6833299999999980 6.1166700000000001)"
+        alternate_names: 
+          - Raeren
+        ascii_name: Raeren
         name: Raeren
+        names_en: ~
+        names_es: ~
         population: 9925
-        slug: raeren
       - 
-        districts: []
-        location: "POINT (50.4073700000000002 3.6835100000000001)"
+        alternate_names: ~
+        ascii_name: Quievrain
         name: Quiévrain
+        names_en: ~
+        names_es: ~
         population: 6560
-        slug: quievrain
       - 
-        districts: []
-        location: "POINT (50.3687899999999971 3.9360200000000001)"
+        alternate_names: ~
+        ascii_name: Quevy-le-Petit
         name: Quévy-le-Petit
+        names_en: ~
+        names_es: ~
         population: 7689
-        slug: quevy-le-petit
       - 
-        districts: []
-        location: "POINT (50.4406699999999972 3.8653000000000000)"
+        alternate_names: ~
+        ascii_name: Quaregnon
         name: Quaregnon
+        names_en: ~
+        names_es: ~
         population: 18491
-        slug: quaregnon
       - 
-        districts: []
-        location: "POINT (50.3758100000000013 4.8650599999999997)"
+        alternate_names: 
+          - Profondeville
+        ascii_name: Profondeville
         name: Profondeville
+        names_en: ~
+        names_es: ~
         population: 11401
-        slug: profondeville
       - 
-        districts: []
-        location: "POINT (50.5000000000000000 4.3499999999999996)"
+        alternate_names: 
+          - Pont-a-Celles
+          - Pont-à-Celles
+        ascii_name: Pont-a-Celles
         name: Pont-à-Celles
+        names_en: ~
+        names_es: ~
         population: 15909
-        slug: pont-a-celles
       - 
-        districts: []
-        location: "POINT (50.7333300000000023 5.9500000000000002)"
+        alternate_names: 
+          - Bleiberg
+          - Bleyberg
+          - Blieberig
+        ascii_name: Plombieres
         name: Plombières
+        names_en: 
+          - Plombières
+        names_es: ~
         population: 9596
-        slug: plombieres
       - 
-        districts: []
-        location: "POINT (50.2000000000000028 4.5333300000000003)"
+        alternate_names: 
+          - Philippeville
+          - Phillippeville
+        ascii_name: Philippeville
         name: Philippeville
+        names_en: ~
+        names_es: ~
         population: 8051
-        slug: philippeville
       - 
-        districts: []
-        location: "POINT (50.6242599999999996 4.8135399999999997)"
+        alternate_names: 
+          - Perwez
+          - Perwijs
+        ascii_name: Perwez
         name: Perwez
+        names_en: ~
+        names_es: ~
         population: 7340
-        slug: perwez
       - 
-        districts: []
-        location: "POINT (50.5081899999999990 3.5937299999999999)"
+        alternate_names: ~
+        ascii_name: Peruwelz
         name: Péruwelz
+        names_en: ~
+        names_es: ~
         population: 16647
-        slug: peruwelz
       - 
-        districts: []
-        location: "POINT (50.5666700000000020 5.8166700000000002)"
+        alternate_names: 
+          - Pepinster
+        ascii_name: Pepinster
         name: Pepinster
+        names_en: ~
+        names_es: ~
         population: 9530
-        slug: pepinster
       - 
-        districts: []
-        location: "POINT (50.6861900000000034 3.3378899999999998)"
+        alternate_names: 
+          - Pecq
+        ascii_name: Pecq
         name: Pecq
+        names_en: ~
+        names_es: ~
         population: 5301
-        slug: pecq
       - 
-        districts: []
-        location: "POINT (49.8999999999999986 5.1333299999999999)"
+        alternate_names: 
+          - Paliseul
+        ascii_name: Paliseul
         name: Paliseul
+        names_en: ~
+        names_es: ~
         population: 5037
-        slug: paliseul
       - 
-        districts: []
-        location: "POINT (50.7000000000000028 5.6500000000000004)"
+        alternate_names: 
+          - Oupeye
+          - Upe
+          - Упе
+        ascii_name: Oupeye
         name: Oupeye
+        names_en: ~
+        names_es: ~
         population: 23594
-        slug: oupeye
       - 
-        districts: []
-        location: "POINT (50.4406999999999996 5.4668999999999999)"
+        alternate_names: 
+          - Ouffet
+        ascii_name: Ouffet
         name: Ouffet
+        names_en: ~
+        names_es: ~
         population: 2477
-        slug: ouffet
       - 
-        districts: []
-        location: "POINT (50.6666700000000034 4.5666700000000002)"
+        alternate_names: 
+          - "Ottignies-Louvain-la-Neuve (Ottignies)"
+          - Ottin'i
+          - Оттиньи
+        ascii_name: Ottignies
         name: Ottignies
+        names_en: ~
+        names_es: ~
         population: 9557
-        slug: ottignies
       - 
-        districts: []
-        location: "POINT (50.7325799999999987 5.3703799999999999)"
+        alternate_names: 
+          - Oerle
+          - Oreye
+        ascii_name: Oreye
         name: Oreye
+        names_en: ~
+        names_es: ~
         population: 3373
-        slug: oreye
       - 
-        districts: []
-        location: "POINT (50.2414800000000028 4.8406900000000004)"
+        alternate_names: 
+          - Onhaye
+        ascii_name: Onhaye
         name: Onhaye
+        names_en: ~
+        names_es: ~
         population: 3014
-        slug: onhaye
       - 
-        districts: []
-        location: "POINT (50.5833299999999966 5.7500000000000000)"
+        alternate_names: 
+          - Olne
+        ascii_name: Olne
         name: Olne
+        names_en: ~
+        names_es: ~
         population: 3836
-        slug: olne
       - 
-        districts: []
-        location: "POINT (50.4366699999999994 5.1215599999999997)"
+        alternate_names: 
+          - Ohey
+        ascii_name: Ohey
         name: Ohey
+        names_en: ~
+        names_es: ~
         population: 4324
-        slug: ohey
       - 
-        districts: []
-        location: "POINT (50.6000000000000014 4.3333300000000001)"
+        alternate_names: 
+          - Nijvel
+          - Nivelles
+        ascii_name: Nivelles
         name: Nivelles
+        names_en: 
+          - Nivelles
+        names_es: ~
         population: 24149
-        slug: nivelles
       - 
-        districts: []
-        location: "POINT (49.8333299999999966 5.4333299999999998)"
+        alternate_names: 
+          - Neufchateau
+          - Neufchâteau
+        ascii_name: Neufchateau
         name: Neufchâteau
+        names_en: ~
+        names_es: ~
         population: 6416
-        slug: neufchateau
       - 
-        districts: []
-        location: "POINT (50.1333300000000008 5.3499999999999996)"
+        alternate_names: 
+          - Nassogne
+        ascii_name: Nassogne
         name: Nassogne
+        names_en: ~
+        names_es: ~
         population: 5081
-        slug: nassogne
       - 
-        districts: []
-        location: "POINT (50.5067400000000006 5.4190500000000004)"
+        alternate_names: 
+          - Nandrin
+        ascii_name: Nandrin
         name: Nandrin
+        names_en: ~
+        names_es: ~
         population: 5480
-        slug: nandrin
       - 
-        districts: []
-        location: "POINT (50.4699200000000019 4.8257700000000003)"
+        alternate_names: 
+          - Name
+          - Namen
+          - Nameur
+        ascii_name: Namur
         name: Namur
+        names_en: 
+          - Namur
+        names_es: 
+          - Namur
         population: 106284
-        slug: namur
       - 
-        districts: []
-        location: "POINT (49.5666700000000020 5.7000000000000002)"
+        alternate_names: 
+          - Musson
+        ascii_name: Musson
         name: Musson
+        names_en: ~
+        names_es: ~
         population: 4225
-        slug: musson
       - 
-        districts: []
-        location: "POINT (50.7449700000000021 3.2063899999999999)"
+        alternate_names: 
+          - Moeskroen
+          - Mouscron
+          - Muskron
+        ascii_name: Mouscron
         name: Mouscron
+        names_en: 
+          - Mouscron
+        names_es: ~
         population: 52069
-        slug: mouscron
       - 
-        districts: []
-        location: "POINT (50.4500000000000028 4.2333299999999996)"
+        alternate_names: 
+          - Morlanwelz
+          - Morlanwelz-Mariemont
+        ascii_name: Morlanwelz-Mariemont
         name: Morlanwelz-Mariemont
+        names_en: ~
+        names_es: ~
         population: 18233
-        slug: morlanwelz-mariemont
       - 
-        districts: []
-        location: "POINT (50.6333300000000008 4.6166700000000001)"
+        alternate_names: 
+          - Mont-Saint-Guibert
+        ascii_name: Mont-Saint-Guibert
         name: Mont-Saint-Guibert
+        names_en: ~
+        names_es: ~
         population: 6557
-        slug: mont-saint-guibert
       - 
-        districts: []
-        location: "POINT (50.4541299999999993 3.9522900000000001)"
+        alternate_names: 
+          - Bergen
+          - Mons
+          - Mont
+        ascii_name: Mons
         name: Mons
+        names_en: 
+          - Mons
+        names_es: 
+          - Mons
         population: 91277
-        slug: mons
       - 
-        districts: []
-        location: "POINT (50.0333299999999994 4.1666699999999999)"
+        alternate_names: 
+          - Momignies
+        ascii_name: Momignies
         name: Momignies
+        names_en: ~
+        names_es: ~
         population: 5183
-        slug: momignies
       - 
-        districts: []
-        location: "POINT (50.4430800000000019 5.3022400000000003)"
+        alternate_names: 
+          - Modave
+        ascii_name: Modave
         name: Modave
+        names_en: ~
+        names_es: ~
         population: 3825
-        slug: modave
       - 
-        districts: []
-        location: "POINT (50.3166700000000020 4.6666699999999999)"
+        alternate_names: 
+          - Metet
+          - Mettet
+        ascii_name: Mettet
         name: Mettet
+        names_en: 
+          - Mettet
+        names_es: 
+          - Mettet
         population: 12014
-        slug: mettet
       - 
-        districts: []
-        location: "POINT (49.6000000000000014 5.8166700000000002)"
+        alternate_names: 
+          - Messanceye
+          - Messancy
+          - Miezeg
+        ascii_name: Messancy
         name: Messancy
+        names_en: 
+          - Messancy
+        names_es: ~
         population: 7144
-        slug: messancy
       - 
-        districts: []
-        location: "POINT (50.3166700000000020 4.1500000000000004)"
+        alternate_names: 
+          - Merbes-le-Chateau
+          - Merbes-le-Château
+        ascii_name: Merbes-le-Chateau
         name: Merbes-le-Château
+        names_en: ~
+        names_es: ~
         population: 3999
-        slug: merbes-le-chateau
       - 
-        districts: []
-        location: "POINT (49.6000000000000014 5.4833299999999996)"
+        alternate_names: 
+          - Meix-devant-Virton
+        ascii_name: Meix-devant-Virton
         name: Meix-devant-Virton
+        names_en: ~
+        names_es: ~
         population: 2637
-        slug: meix-devant-virton
       - 
-        districts: []
-        location: "POINT (49.8333299999999966 5.7333299999999996)"
+        alternate_names: 
+          - Martelange
+          - Martelarge
+          - Nartelange
+        ascii_name: Martelange
         name: Martelange
+        names_en: ~
+        names_es: ~
         population: 1440
-        slug: martelange
       - 
-        districts: []
-        location: "POINT (50.4794600000000031 5.2364300000000004)"
+        alternate_names: 
+          - Marchin
+        ascii_name: Marchin
         name: Marchin
+        names_en: ~
+        names_es: ~
         population: 5063
-        slug: marchin
       - 
-        districts: []
-        location: "POINT (50.2267799999999980 5.3441599999999996)"
+        alternate_names: 
+          - Marche
+        ascii_name: Marche-en-Famenne
         name: Marche-en-Famenne
+        names_en: ~
+        names_es: ~
         population: 16856
-        slug: marche-en-famenne
       - 
-        districts: []
-        location: "POINT (50.2999999999999972 5.6666699999999999)"
+        alternate_names: 
+          - Manhay
+          - Manhe
+          - Manhé
+        ascii_name: Manhay
         name: Manhay
+        names_en: ~
+        names_es: ~
         population: 3128
-        slug: manhay
       - 
-        districts: []
-        location: "POINT (50.5000000000000000 4.2166699999999997)"
+        alternate_names: 
+          - Manage
+        ascii_name: Manage
         name: Manage
+        names_en: ~
+        names_es: ~
         population: 22196
-        slug: manage
       - 
-        districts: []
-        location: "POINT (50.4166700000000034 6.0333300000000003)"
+        alternate_names: 
+          - Malmedy
+          - Malmédy
+          - Mamdey
+        ascii_name: Malmedy
         name: Malmédy
+        names_en: 
+          - Malmedy
+        names_es: ~
         population: 11514
-        slug: malmedy
       - 
-        districts: []
-        location: "POINT (50.6695899999999995 4.6119199999999996)"
+        alternate_names: 
+          - Luven-la-Nev
+          - "Ottignies-Louvain-la-Neuve (Louvain-la-Neuve)"
+          - Лувен-ла-Нев
+        ascii_name: Louvain-la-Neuve
         name: Louvain-la-Neuve
+        names_en: ~
+        names_es: ~
         population: 29521
-        slug: louvain-la-neuve
       - 
-        districts: []
-        location: "POINT (50.6833299999999980 6.0000000000000000)"
+        alternate_names: 
+          - Lontzen
+          - Sontzen
+        ascii_name: Lontzen
         name: Lontzen
+        names_en: ~
+        names_es: ~
         population: 4862
-        slug: lontzen
       - 
-        districts: []
-        location: "POINT (50.3500000000000014 4.2500000000000000)"
+        alternate_names: 
+          - Lobbes
+        ascii_name: Lobbes
         name: Lobbes
+        names_en: ~
+        names_es: ~
         population: 5467
-        slug: lobbes
       - 
-        districts: []
-        location: "POINT (50.7132900000000006 5.0334700000000003)"
+        alternate_names: 
+          - Lijsem
+          - Lincent
+        ascii_name: Lincent
         name: Lincent
+        names_en: ~
+        names_es: ~
         population: 2884
-        slug: lincent
       - 
-        districts: []
-        location: "POINT (50.6166699999999992 5.9333299999999998)"
+        alternate_names: 
+          - Laeboer
+          - Limbourg
+          - Limburg
+        ascii_name: Limbourg
         name: Limbourg
+        names_en: 
+          - Limbourg
+        names_es: ~
         population: 5612
-        slug: limbourg
       - 
-        districts: []
-        location: "POINT (50.2833299999999994 5.7999999999999998)"
+        alternate_names: 
+          - Lierneux
+          - Lieurneux
+        ascii_name: Lierneux
         name: Lierneux
+        names_en: ~
+        names_es: ~
         population: 3332
-        slug: lierneux
       - 
-        districts: 
-          - 
-            location: "POINT (49.5361100000000008 5.8930600000000002)"
-            name: Niedercorn
-            population: 3164
-            slug: niedercorn
-          - 
-            location: "POINT (50.8383600000000015 5.7298900000000001)"
-            name: Heer
-            population: 10000
-            slug: heer
-        location: "POINT (50.6411900000000017 5.5717800000000004)"
+        alternate_names: 
+          - L'ezh
+          - Leck
+          - Leodicum
+        ascii_name: Liege
         name: Liège
+        names_en: 
+          - Liège
+        names_es: 
+          - Lieja
         population: 182597
-        slug: liege
       - 
-        districts: []
-        location: "POINT (49.9833300000000023 5.2500000000000000)"
+        alternate_names: 
+          - Libin
+        ascii_name: Libin
         name: Libin
+        names_en: ~
+        names_es: ~
         population: 4609
-        slug: libin
       - 
-        districts: []
-        location: "POINT (50.7110399999999970 3.8357899999999998)"
+        alternate_names: 
+          - Lessen
+          - Lessines
+        ascii_name: Lessines
         name: Lessines
+        names_en: ~
+        names_es: ~
         population: 17687
-        slug: lessines
       - 
-        districts: []
-        location: "POINT (50.5569599999999966 3.8994599999999999)"
+        alternate_names: ~
+        ascii_name: Lens
         name: Lens
+        names_en: ~
+        names_es: ~
         population: 3902
-        slug: lens
       - 
-        districts: []
-        location: "POINT (49.7999999999999972 5.5333300000000003)"
+        alternate_names: 
+          - Leglise
+          - Léglise
+        ascii_name: Leglise
         name: Léglise
+        names_en: ~
+        names_es: ~
         population: 3865
-        slug: leglise
       - 
-        districts: []
-        location: "POINT (50.1833299999999980 5.5833300000000001)"
+        alternate_names: 
+          - "La Roche-en-Ardenne"
+          - Laroche
+        ascii_name: "La Roche-en-Ardenne"
         name: "La Roche-en-Ardenne"
+        names_en: ~
+        names_es: ~
         population: 4200
-        slug: la-roche-en-ardenne
       - 
-        districts: []
-        location: "POINT (50.4865700000000004 4.1878500000000001)"
+        alternate_names: 
+          - "La Louviere"
+          - "La Louvière"
+          - Louvierre
+        ascii_name: "La Louviere"
         name: "La Louvière"
+        names_en: 
+          - "La Louvière"
+        names_es: ~
         population: 76668
-        slug: la-louviere
       - 
-        districts: []
-        location: "POINT (50.7333300000000023 4.4833299999999996)"
+        alternate_names: 
+          - "La Hulpe"
+          - Terhulpen
+        ascii_name: "La Hulpe"
         name: "La Hulpe"
+        names_en: ~
+        names_es: ~
         population: 7415
-        slug: la-hulpe
       - 
-        districts: []
-        location: "POINT (50.7166700000000006 6.0000000000000000)"
+        alternate_names: 
+          - Calmene
+          - Calmène
+          - Kelmis
+        ascii_name: "La Calamine"
         name: "La Calamine"
+        names_en: ~
+        names_es: ~
         population: 10232
-        slug: la-calamine
       - 
-        districts: []
-        location: "POINT (50.3833300000000008 4.6166700000000001)"
+        alternate_names: ~
+        ascii_name: "La Bruyere"
         name: "La Bruyère"
+        names_en: ~
+        names_es: ~
         population: 8194
-        slug: la-bruyere
       - 
-        districts: []
-        location: "POINT (50.5309999999999988 3.9094199999999999)"
+        alternate_names: ~
+        ascii_name: Jurbise
         name: Jurbise
+        names_en: ~
+        names_es: ~
         population: 9483
-        slug: jurbise
       - 
-        districts: []
-        location: "POINT (50.7116800000000012 5.5305099999999996)"
+        alternate_names: 
+          - Juprelle
+        ascii_name: Juprelle
         name: Juprelle
+        names_en: ~
+        names_es: ~
         population: 8354
-        slug: juprelle
       - 
-        districts: []
-        location: "POINT (50.7235700000000023 4.8691399999999998)"
+        alternate_names: 
+          - Djodogne
+          - Geldenaken
+          - Jodoigne
+        ascii_name: Jodoigne
         name: Jodoigne
+        names_en: 
+          - Jodoigne
+        names_es: ~
         population: 11930
-        slug: jodoigne
       - 
-        districts: []
-        location: "POINT (50.5666700000000020 5.9666699999999997)"
+        alternate_names: 
+          - Jalhay
+        ascii_name: Jalhay
         name: Jalhay
+        names_en: ~
+        names_es: ~
         population: 7688
-        slug: jalhay
       - 
-        districts: []
-        location: "POINT (50.6491600000000020 4.2630600000000003)"
+        alternate_names: 
+          - Itter
+          - Ittre
+        ascii_name: Ittre
         name: Ittre
+        names_en: ~
+        names_es: ~
         population: 6014
-        slug: ittre
       - 
-        districts: []
-        location: "POINT (50.6915100000000010 4.7981600000000002)"
+        alternate_names: 
+          - Incourt
+        ascii_name: Incourt
         name: Incourt
+        names_en: ~
+        names_es: ~
         population: 4395
-        slug: incourt
       - 
-        districts: []
-        location: "POINT (50.5235800000000026 5.2412799999999997)"
+        alternate_names: 
+          - Hoei
+          - Hu
+          - Huy
+        ascii_name: Huy
         name: Huy
+        names_en: 
+          - Huy
+        names_es: 
+          - Huy
         population: 19973
-        slug: huy
       - 
-        districts: []
-        location: "POINT (50.1833299999999980 5.0166700000000004)"
+        alternate_names: 
+          - Houyet
+        ascii_name: Houyet
         name: Houyet
+        names_en: 
+          - Houyet
+        names_es: 
+          - Houyet
         population: 4505
-        slug: houyet
       - 
-        districts: []
-        location: "POINT (50.1334299999999971 5.7887599999999999)"
+        alternate_names: 
+          - Houffalize
+          - Oufalijhe
+        ascii_name: Houffalize
         name: Houffalize
+        names_en: 
+          - Houffalize
+        names_es: ~
         population: 4614
-        slug: houffalize
       - 
-        districts: []
-        location: "POINT (50.2674200000000013 5.4460899999999999)"
+        alternate_names: 
+          - Hotton
+        ascii_name: Hotton
         name: Hotton
+        names_en: ~
+        names_es: ~
         population: 4969
-        slug: hotton
       - 
-        districts: []
-        location: "POINT (50.6333300000000008 5.7999999999999998)"
+        alternate_names: 
+          - Herve
+        ascii_name: Herve
         name: Herve
+        names_en: ~
+        names_es: ~
         population: 16544
-        slug: herve
       - 
-        districts: []
-        location: "POINT (50.6666700000000034 5.6333299999999999)"
+        alternate_names: 
+          - Herstal
+          - Hesta
+        ascii_name: Herstal
         name: Herstal
+        names_en: 
+          - Herstal
+        names_es: ~
         population: 36503
-        slug: herstal
       - 
-        districts: []
-        location: "POINT (50.5489499999999978 5.0958899999999998)"
+        alternate_names: 
+          - Heron
+          - Héron
+        ascii_name: Heron
         name: Héron
+        names_en: ~
+        names_es: ~
         population: 4305
-        slug: heron
       - 
-        districts: []
-        location: "POINT (49.7833299999999994 5.2333299999999996)"
+        alternate_names: 
+          - Herbeumont
+        ascii_name: Herbeumont
         name: Herbeumont
+        names_en: ~
+        names_es: ~
         population: 1612
-        slug: herbeumont
       - 
-        districts: []
-        location: "POINT (50.4326300000000032 3.6841100000000000)"
+        alternate_names: ~
+        ascii_name: Hensies
         name: Hensies
+        names_en: ~
+        names_es: ~
         population: 6390
-        slug: hensies
       - 
-        districts: []
-        location: "POINT (50.3870700000000014 5.2444699999999997)"
+        alternate_names: 
+          - Havelange
+        ascii_name: Havelange
         name: Havelange
+        names_en: ~
+        names_es: ~
         population: 4790
-        slug: havelange
       - 
-        districts: []
-        location: "POINT (50.2204199999999972 4.8283600000000000)"
+        alternate_names: 
+          - Hastiere-Lavaux
+          - Hastière-Lavaux
+        ascii_name: Hastiere-Lavaux
         name: Hastière-Lavaux
+        names_en: ~
+        names_es: ~
         population: 5147
-        slug: hastiere-lavaux
       - 
-        districts: []
-        location: "POINT (50.6714199999999977 5.0789799999999996)"
+        alternate_names: 
+          - Hannuit
+          - Hannut
+        ascii_name: Hannut
         name: Hannut
+        names_en: ~
+        names_es: ~
         population: 14129
-        slug: hannut
       - 
-        districts: []
-        location: "POINT (50.3418700000000001 5.1570099999999996)"
+        alternate_names: ~
+        ascii_name: Hamois
         name: Hamois
+        names_en: ~
+        names_es: ~
         population: 6662
-        slug: hamois
       - 
-        districts: []
-        location: "POINT (50.4267499999999984 5.5330399999999997)"
+        alternate_names: 
+          - Hamoir
+        ascii_name: Hamoir
         name: Hamoir
+        names_en: ~
+        names_es: ~
         population: 3500
-        slug: hamoir
       - 
-        districts: []
-        location: "POINT (49.7333300000000023 5.6166700000000001)"
+        alternate_names: 
+          - Habay
+          - Habay-la-Vieille
+        ascii_name: Habay-la-Vieille
         name: Habay-la-Vieille
+        names_en: ~
+        names_es: ~
         population: 7704
-        slug: habay-la-vieille
       - 
-        districts: []
-        location: "POINT (50.7333300000000023 4.7000000000000002)"
+        alternate_names: 
+          - Graven
+          - Grez-Doiceau
+        ascii_name: Grez-Doiceau
         name: Grez-Doiceau
+        names_en: ~
+        names_es: ~
         population: 12367
-        slug: grez-doiceau
       - 
-        districts: []
-        location: "POINT (50.1850000000000023 5.9411100000000001)"
+        alternate_names: 
+          - Gouvy
+        ascii_name: Gouvy
         name: Gouvy
+        names_en: ~
+        names_es: ~
         population: 4706
-        slug: gouvy
       - 
-        districts: []
-        location: "POINT (50.4026799999999966 5.0763199999999999)"
+        alternate_names: 
+          - Gesves
+        ascii_name: Gesves
         name: Gesves
+        names_en: ~
+        names_es: ~
         population: 6150
-        slug: gesves
       - 
-        districts: []
-        location: "POINT (50.3333299999999966 4.5166700000000004)"
+        alternate_names: 
+          - Gerpinnes
+        ascii_name: Gerpinnes
         name: Gerpinnes
+        names_en: ~
+        names_es: ~
         population: 11977
-        slug: gerpinnes
       - 
-        districts: []
-        location: "POINT (50.6000000000000014 4.4500000000000002)"
+        alternate_names: 
+          - Genappe
+          - Genepien
+          - Genepiën
+        ascii_name: Genappe
         name: Genappe
+        names_en: ~
+        names_es: ~
         population: 14266
-        slug: genappe
       - 
-        districts: []
-        location: "POINT (50.5666700000000020 4.6833299999999998)"
+        alternate_names: 
+          - Djiblou
+          - Gembloers
+          - Gembloux
+        ascii_name: Gembloux
         name: Gembloux
+        names_en: 
+          - Gembloux
+        names_es: 
+          - Gembloux
         population: 21676
-        slug: gembloux
       - 
-        districts: []
-        location: "POINT (50.6698999999999984 5.1736399999999998)"
+        alternate_names: 
+          - Geer
+        ascii_name: Geer
         name: Geer
+        names_en: ~
+        names_es: ~
         population: 2682
-        slug: geer
       - 
-        districts: []
-        location: "POINT (49.9833300000000023 4.9333299999999998)"
+        alternate_names: 
+          - Djedene
+          - Gedinne
+        ascii_name: Gedinne
         name: Gedinne
+        names_en: 
+          - Gedinne
+        names_es: 
+          - Gedinne
         population: 4416
-        slug: gedinne
       - 
-        districts: []
-        location: "POINT (50.1499999999999986 4.3333300000000001)"
+        alternate_names: 
+          - Froid-Chapelle
+        ascii_name: Froid-Chapelle
         name: Froid-Chapelle
+        names_en: ~
+        names_es: ~
         population: 3579
-        slug: froid-chapelle
       - 
-        districts: []
-        location: "POINT (50.6678300000000021 3.6204700000000001)"
+        alternate_names: 
+          - Frasnes
+          - Frasnes-lez-Buissenal
+        ascii_name: Frasnes-lez-Buissenal
         name: Frasnes-lez-Buissenal
+        names_en: ~
+        names_es: ~
         population: 10936
-        slug: frasnes-lez-buissenal
       - 
-        districts: []
-        location: "POINT (50.4057800000000000 3.8960300000000001)"
+        alternate_names: 
+          - Frameris
+          - Фрамерис
+        ascii_name: Frameries
         name: Frameries
+        names_en: ~
+        names_es: ~
         population: 20598
-        slug: frameries
       - 
-        districts: []
-        location: "POINT (50.3999999999999986 4.7000000000000002)"
-        name: Fosse
+        alternate_names: ~
+        ascii_name: Fosses-la-Ville
+        name: Fosses-la-Ville
+        names_en: ~
+        names_es: ~
         population: 9062
-        slug: fosse
       - 
-        districts: []
-        location: "POINT (49.7000000000000028 5.2999999999999998)"
+        alternate_names: 
+          - Florenville
+        ascii_name: Florenville
         name: Florenville
+        names_en: ~
+        names_es: ~
         population: 5464
-        slug: florenville
       - 
-        districts: []
-        location: "POINT (50.2500000000000000 4.6166700000000001)"
+        alternate_names: 
+          - Florennes
+        ascii_name: Florennes
         name: Florennes
+        names_en: ~
+        names_es: ~
         population: 10723
-        slug: florennes
       - 
-        districts: []
-        location: "POINT (50.4345199999999991 4.7595999999999998)"
+        alternate_names: 
+          - Floreffe
+        ascii_name: Floreffe
         name: Floreffe
+        names_en: ~
+        names_es: ~
         population: 7480
-        slug: floreffe
       - 
-        districts: []
-        location: "POINT (50.7373300000000000 3.7387600000000001)"
+        alternate_names: 
+          - Flobecq
+          - Vloesberg
+        ascii_name: Flobecq
         name: Flobecq
+        names_en: ~
+        names_es: ~
         population: 3142
-        slug: flobecq
       - 
-        districts: []
-        location: "POINT (50.4813800000000015 4.5487700000000002)"
+        alternate_names: 
+          - Flerus
+          - Флерус
+        ascii_name: Fleurus
         name: Fleurus
+        names_en: ~
+        names_es: ~
         population: 22080
-        slug: fleurus
       - 
-        districts: []
-        location: "POINT (50.6166699999999992 5.6833299999999998)"
+        alternate_names: 
+          - Fleron
+          - Fléron
+        ascii_name: Fleron
         name: Fléron
+        names_en: ~
+        names_es: ~
         population: 15994
-        slug: fleron
       - 
-        districts: []
-        location: "POINT (50.5990800000000007 5.4608999999999996)"
+        alternate_names: 
+          - "Flemalle (Flemalle-Haute)"
+          - "Flémalle (Flémalle-Haute)"
+        ascii_name: Flemalle-Haute
         name: Flémalle-Haute
+        names_en: ~
+        names_es: ~
         population: 25144
-        slug: flemalle-haute
       - 
-        districts: []
-        location: "POINT (50.6666700000000034 5.4000000000000004)"
+        alternate_names: 
+          - Fexhe-le-Haut-Clocher
+        ascii_name: Fexhe-le-Haut-Clocher
         name: Fexhe-le-Haut-Clocher
+        names_en: ~
+        names_es: ~
         population: 3082
-        slug: fexhe-le-haut-clocher
       - 
-        districts: []
-        location: "POINT (50.3999999999999986 5.5999999999999996)"
+        alternate_names: 
+          - Ferrieres
+          - Ferrières
+        ascii_name: Ferrieres
         name: Ferrières
+        names_en: ~
+        names_es: ~
         population: 4434
-        slug: ferrieres
       - 
-        districts: []
-        location: "POINT (49.8500000000000014 5.6666699999999999)"
+        alternate_names: 
+          - Fauvillers
+        ascii_name: Fauvillers
         name: Fauvillers
+        names_en: ~
+        names_es: ~
         population: 1952
-        slug: fauvillers
       - 
-        districts: []
-        location: "POINT (50.4333299999999980 4.5499999999999998)"
+        alternate_names: 
+          - Farciennes
+        ascii_name: Farciennes
         name: Farciennes
+        names_en: ~
+        names_es: ~
         population: 11488
-        slug: farciennes
       - 
-        districts: []
-        location: "POINT (50.6644700000000014 5.2603200000000001)"
+        alternate_names: 
+          - Faimes
+        ascii_name: Faimes
         name: Faimes
+        names_en: ~
+        names_es: ~
         population: 3349
-        slug: faimes
       - 
-        districts: []
-        location: "POINT (50.6333300000000008 6.0333300000000003)"
+        alternate_names: 
+          - Epen
+          - Eupe
+          - Eupen
+        ascii_name: Eupen
         name: Eupen
+        names_en: 
+          - Eupen
+        names_es: 
+          - Eupen
         population: 18029
-        slug: eupen
       - 
-        districts: []
-        location: "POINT (49.6833299999999980 5.5999999999999996)"
+        alternate_names: 
+          - Etalle
+          - Étalle
+        ascii_name: Etalle
         name: Étalle
+        names_en: ~
+        names_es: ~
         population: 5228
-        slug: etalle
       - 
-        districts: []
-        location: "POINT (50.4101599999999976 4.1047700000000003)"
+        alternate_names: ~
+        ascii_name: Estinnes-au-Val
         name: Estinnes-au-Val
+        names_en: ~
+        names_es: ~
         population: 7573
-        slug: estinnes-au-val
       - 
-        districts: []
-        location: "POINT (50.7048500000000004 3.2678500000000001)"
+        alternate_names: 
+          - Estaimpuis
+        ascii_name: Estaimpuis
         name: Estaimpuis
+        names_en: ~
+        names_es: ~
         population: 9340
-        slug: estaimpuis
       - 
-        districts: []
-        location: "POINT (50.5311599999999999 5.5669500000000003)"
+        alternate_names: 
+          - Esneux
+        ascii_name: Esneux
         name: Esneux
+        names_en: ~
+        names_es: ~
         population: 13497
-        slug: esneux
       - 
-        districts: []
-        location: "POINT (50.2999999999999972 4.1166700000000001)"
+        alternate_names: 
+          - Erquelinnes
+        ascii_name: Erquelinnes
         name: Erquelinnes
+        names_en: ~
+        names_es: ~
         population: 9396
-        slug: erquelinnes
       - 
-        districts: []
-        location: "POINT (50.2929200000000023 5.5581500000000004)"
+        alternate_names: 
+          - Erezee
+          - Érezée
+        ascii_name: Erezee
         name: Érezée
+        names_en: ~
+        names_es: ~
         population: 2930
-        slug: erezee
       - 
-        districts: []
-        location: "POINT (50.5815600000000032 5.3991600000000002)"
+        alternate_names: 
+          - Engis
+        ascii_name: Engis
         name: Engis
+        names_en: ~
+        names_es: ~
         population: 5737
-        slug: engis
       - 
-        districts: []
-        location: "POINT (50.6895600000000002 4.0313400000000001)"
+        alternate_names: 
+          - Edingen
+          - Enghien
+        ascii_name: Enghien
         name: Enghien
+        names_en: ~
+        names_es: ~
         population: 11367
-        slug: enghien
       - 
-        districts: []
-        location: "POINT (50.7351200000000020 3.6798500000000001)"
+        alternate_names: 
+          - Ellezelles
+          - Elzele
+        ascii_name: Ellezelles
         name: Ellezelles
+        names_en: ~
+        names_es: ~
         population: 5566
-        slug: ellezelles
       - 
-        districts: []
-        location: "POINT (50.5950399999999973 4.9078400000000002)"
+        alternate_names: 
+          - Eghezee
+          - Éghezée
+        ascii_name: Eghezee
         name: Éghezée
+        names_en: ~
+        names_es: ~
         population: 14352
-        slug: eghezee
       - 
-        districts: []
-        location: "POINT (50.5682199999999966 4.1657999999999999)"
+        alternate_names: 
+          - Ecaussines-d'Enghien
+          - Ecaussinnes-d'Enghien
+          - Écaussines-d'Enghien
+        ascii_name: Ecaussinnes-d'Enghien
         name: Écaussinnes-d'Enghien
+        names_en: ~
+        names_es: ~
         population: 9802
-        slug: ecaussinnes-denghien
       - 
-        districts: []
-        location: "POINT (50.3529100000000014 5.4563100000000002)"
+        alternate_names: 
+          - Durbui
+          - Durbuy
+        ascii_name: Durbuy
         name: Durbuy
+        names_en: ~
+        names_es: ~
         population: 10251
-        slug: durbuy
       - 
-        districts: []
-        location: "POINT (50.3958299999999966 3.7779199999999999)"
+        alternate_names: ~
+        ascii_name: Dour
         name: Dour
+        names_en: ~
+        names_es: ~
         population: 16861
-        slug: dour
       - 
-        districts: []
-        location: "POINT (50.6482699999999966 5.3200000000000003)"
+        alternate_names: 
+          - Donceel
+        ascii_name: Donceel
         name: Donceel
+        names_en: ~
+        names_es: ~
         population: 2712
-        slug: donceel
       - 
-        districts: []
-        location: "POINT (50.1333300000000008 4.7500000000000000)"
+        alternate_names: 
+          - Doische
+          - Dweche
+        ascii_name: Doische
         name: Doische
+        names_en: 
+          - Doische
+        names_es: 
+          - Doische
         population: 2739
-        slug: doische
       - 
-        districts: []
-        location: "POINT (50.6166699999999992 5.8499999999999996)"
+        alternate_names: 
+          - Dison
+        ascii_name: Dison
         name: Dison
+        names_en: ~
+        names_es: ~
         population: 13642
-        slug: dison
       - 
-        districts: []
-        location: "POINT (50.2646599999999992 4.9235699999999998)"
+        alternate_names: 
+          - Dinan
+          - Dinant
+          - "di nan"
+        ascii_name: Dinant
         name: Dinant
+        names_en: 
+          - Dinant
+        names_es: 
+          - Dinant
         population: 12875
-        slug: dinant
       - 
-        districts: []
-        location: "POINT (50.0166699999999977 5.1166700000000001)"
+        alternate_names: 
+          - Daverdisse
+        ascii_name: Daverdisse
         name: Daverdisse
+        names_en: ~
+        names_es: ~
         population: 1299
-        slug: daverdisse
       - 
-        districts: []
-        location: "POINT (50.7166700000000006 5.7166699999999997)"
+        alternate_names: 
+          - Dalhem
+        ascii_name: Dalhem
         name: Dalhem
+        names_en: ~
+        names_es: ~
         population: 6391
-        slug: dalhem
       - 
-        districts: []
-        location: "POINT (50.7162099999999967 5.3975299999999997)"
+        alternate_names: 
+          - Crisnee
+          - Crisnée
+        ascii_name: Crisnee
         name: Crisnée
+        names_en: ~
+        names_es: ~
         population: 2587
-        slug: crisnee
       - 
-        districts: []
-        location: "POINT (50.0499999999999972 4.4833299999999996)"
+        alternate_names: 
+          - Couven
+          - Couvin
+          - Couvén
+        ascii_name: Couvin
         name: Couvin
+        names_en: 
+          - Couvin
+        names_es: 
+          - Couvin
         population: 13518
-        slug: couvin
       - 
-        districts: []
-        location: "POINT (50.6499999999999986 4.5666700000000002)"
+        alternate_names: 
+          - Court-Saint-Etienne
+          - Court-Saint-Étienne
+        ascii_name: Court-Saint-Etienne
         name: Court-Saint-Étienne
+        names_en: ~
+        names_es: ~
         population: 9353
-        slug: court-saint-etienne
       - 
-        districts: []
-        location: "POINT (50.4666700000000006 4.3666700000000001)"
+        alternate_names: 
+          - Courcelles
+          - Kursel'
+          - Курсель
+        ascii_name: Courcelles
         name: Courcelles
+        names_en: ~
+        names_es: ~
         population: 29473
-        slug: courcelles
       - 
-        districts: []
-        location: "POINT (50.4761299999999977 5.5765900000000004)"
+        alternate_names: 
+          - Comblain
+          - Komblenx
+        ascii_name: Comblain-au-Pont
         name: Comblain-au-Pont
+        names_en: ~
+        names_es: ~
         population: 5308
-        slug: comblain-au-pont
       - 
-        districts: []
-        location: "POINT (50.4140999999999977 3.8556900000000001)"
+        alternate_names: ~
+        ascii_name: Colfontaine
         name: Colfontaine
+        names_en: ~
+        names_es: ~
         population: 19964
-        slug: colfontaine
       - 
-        districts: []
-        location: "POINT (50.4126100000000008 5.3604099999999999)"
+        alternate_names: 
+          - Clavier
+        ascii_name: Clavier
         name: Clavier
+        names_en: ~
+        names_es: ~
         population: 4092
-        slug: clavier
       - 
-        districts: []
-        location: "POINT (50.2943599999999975 5.0977800000000002)"
+        alternate_names: 
+          - Cine
+          - Ciney
+          - Cînè
+        ascii_name: Ciney
         name: Ciney
+        names_en: 
+          - Ciney
+        names_es: 
+          - Ciney
         population: 14830
-        slug: ciney
       - 
-        districts: []
-        location: "POINT (49.7333300000000023 5.3333300000000001)"
+        alternate_names: 
+          - Chiny
+        ascii_name: Chiny
         name: Chiny
+        names_en: ~
+        names_es: ~
         population: 4897
-        slug: chiny
       - 
-        districts: []
-        location: "POINT (50.0499999999999972 4.3166700000000002)"
+        alternate_names: 
+          - Chimay
+        ascii_name: Chimay
         name: Chimay
+        names_en: ~
+        names_es: ~
         population: 9720
-        slug: chimay
       - 
-        districts: []
-        location: "POINT (50.5878700000000023 3.8071100000000002)"
+        alternate_names: ~
+        ascii_name: Chievres
         name: Chièvres
+        names_en: ~
+        names_es: ~
         population: 6045
-        slug: chievres
       - 
-        districts: []
-        location: "POINT (50.6833299999999980 4.7333299999999996)"
+        alternate_names: 
+          - Chaumont
+          - Chaumont-Gistoux
+          - Tchamont-Djistou
+        ascii_name: Chaumont-Gistoux
         name: Chaumont-Gistoux
+        names_en: 
+          - Chaumont-Gistoux
+        names_es: ~
         population: 10943
-        slug: chaumont-gistoux
       - 
-        districts: []
-        location: "POINT (50.5833299999999966 5.6333299999999999)"
+        alternate_names: 
+          - Chaudfontaine
+        ascii_name: Chaudfontaine
         name: Chaudfontaine
+        names_en: ~
+        names_es: ~
         population: 20960
-        slug: chaudfontaine
       - 
-        districts: []
-        location: "POINT (50.3999999999999986 4.5166700000000004)"
+        alternate_names: 
+          - Chatelet
+          - Châtelet
+          - Shatle
+        ascii_name: Chatelet
         name: Châtelet
+        names_en: ~
+        names_es: ~
         population: 35238
-        slug: chatelet
       - 
-        districts: []
-        location: "POINT (50.6000000000000014 4.6333299999999999)"
+        alternate_names: 
+          - "Chastre (Chastre-Villeroux-Blanmont)"
+        ascii_name: Chastre-Villeroux-Blanmont
         name: Chastre-Villeroux-Blanmont
+        names_en: ~
+        names_es: ~
         population: 6243
-        slug: chastre-villeroux-blanmont
       - 
-        districts: []
-        location: "POINT (50.4166700000000034 4.4333299999999998)"
+        alternate_names: ~
+        ascii_name: "Chasse Royale"
+        name: "Chasse Royale"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Charleroi
+          - Sarlroua
+          - Sharleroa
+        ascii_name: Charleroi
         name: Charleroi
+        names_en: 
+          - Charleroi
+        names_es: 
+          - Charleroi
         population: 200132
-        slug: charleroi
       - 
-        districts: []
-        location: "POINT (50.4666700000000006 4.2833300000000003)"
+        alternate_names: 
+          - Chapelle-lez-Herlaimont
+        ascii_name: Chapelle-lez-Herlaimont
         name: Chapelle-lez-Herlaimont
+        names_en: ~
+        names_es: ~
         population: 14353
-        slug: chapelle-lez-herlaimont
       - 
-        districts: []
-        location: "POINT (50.1666700000000034 4.4166699999999999)"
+        alternate_names: 
+          - Cerfontaine
+        ascii_name: Cerfontaine
         name: Cerfontaine
+        names_en: ~
+        names_es: ~
         population: 4500
-        slug: cerfontaine
       - 
-        districts: []
-        location: "POINT (50.7122900000000030 3.4573299999999998)"
+        alternate_names: 
+          - Celles
+        ascii_name: Celles
         name: Celles
+        names_en: ~
+        names_es: ~
         population: 5471
-        slug: celles
       - 
-        districts: []
-        location: "POINT (50.4268900000000002 6.2050400000000003)"
+        alternate_names: 
+          - Buetgenbach
+          - Bütgenbach
+        ascii_name: Butgenbach
         name: Butgenbach
+        names_en: ~
+        names_es: ~
         population: 5516
-        slug: butgenbach
       - 
-        districts: []
-        location: "POINT (50.5832400000000035 5.0760699999999996)"
+        alternate_names: 
+          - Burdinne
+        ascii_name: Burdinne
         name: Burdinne
+        names_en: ~
+        names_es: ~
         population: 2799
-        slug: burdinne
       - 
-        districts: []
-        location: "POINT (50.4073100000000025 6.2574899999999998)"
+        alternate_names: 
+          - Boellenge
+          - Buellingen
+          - Bullange
+        ascii_name: Bullange
         name: Bullange
+        names_en: 
+          - Büllingen
+        names_es: ~
         population: 5340
-        slug: bullange
       - 
-        districts: []
-        location: "POINT (50.5000000000000000 4.4166699999999999)"
+        alternate_names: 
+          - Brunehault
+          - Brunehaut
+        ascii_name: Brunehault
         name: Brunehault
+        names_en: ~
+        names_es: ~
         population: 7592
-        slug: brunehault
       - 
-        districts: []
-        location: "POINT (50.5957700000000017 3.8536299999999999)"
+        alternate_names: ~
+        ascii_name: Brugelette
         name: Brugelette
+        names_en: ~
+        names_es: ~
         population: 3358
-        slug: brugelette
       - 
-        districts: []
-        location: "POINT (50.6286300000000011 5.1477800000000000)"
+        alternate_names: 
+          - Braives
+        ascii_name: Braives
         name: Braives
+        names_en: ~
+        names_es: ~
         population: 5672
-        slug: braives
       - 
-        districts: []
-        location: "POINT (50.6097899999999967 4.1465800000000002)"
+        alternate_names: 
+          - "'s-Gravenbrakel"
+          - Braine-le-Comte
+          - Brem-le-Kont
+        ascii_name: Braine-le-Comte
         name: Braine-le-Comte
+        names_en: 
+          - Braine-le-Comte
+        names_es: ~
         population: 20133
-        slug: braine-le-comte
       - 
-        districts: []
-        location: "POINT (50.6809700000000021 4.2714499999999997)"
+        alternate_names: 
+          - Braine-le-Chateau
+          - Braine-le-Château
+          - Kasteelbrakel
+        ascii_name: Braine-le-Chateau
         name: Braine-le-Château
+        names_en: ~
+        names_es: ~
         population: 9627
-        slug: braine-le-chateau
       - 
-        districts: []
-        location: "POINT (50.6851899999999986 4.3899299999999997)"
+        alternate_names: 
+          - Braine-l'Alleud
+          - Brinne-l'-Alou
+          - Eigenbrakel
+        ascii_name: Braine-l'Alleud
         name: Braine-l'Alleud
+        names_en: ~
+        names_es: ~
         population: 37512
-        slug: braine-lalleud
       - 
-        districts: []
-        location: "POINT (50.4341700000000017 3.7944000000000000)"
+        alternate_names: 
+          - Boussu
+          - Boussu-lez-Mons
+          - Боуссу
+        ascii_name: Boussu
         name: Boussu
+        names_en: ~
+        names_es: ~
         population: 20058
-        slug: boussu
       - 
-        districts: []
-        location: "POINT (49.7999999999999972 5.0666700000000002)"
+        alternate_names: 
+          - Bouillon
+          - Bulen
+        ascii_name: Bouillon
         name: Bouillon
+        names_en: 
+          - Bouillon
+        names_es: ~
         population: 5347
-        slug: bouillon
       - 
-        districts: []
-        location: "POINT (50.6666700000000034 5.7333299999999996)"
-        name: Blegny
+        alternate_names: ~
+        ascii_name: Blegny
+        name: Blégny
+        names_en: ~
+        names_es: ~
         population: 12745
-        slug: blegny
       - 
-        districts: []
-        location: "POINT (50.3999999999999986 4.1666699999999999)"
+        alternate_names: 
+          - Bensh
+          - Binche
+          - Бенш
+        ascii_name: Binche
         name: Binche
+        names_en: 
+          - Binche
+        names_es: ~
         population: 32030
-        slug: binche
       - 
-        districts: []
-        location: "POINT (49.9333299999999980 5.0166700000000004)"
+        alternate_names: 
+          - Bievre
+          - Bive
+          - Bièvre
+        ascii_name: Bievre
         name: Bièvre
+        names_en: 
+          - Bièvre
+        names_es: 
+          - Bièvre
         population: 3207
-        slug: bievre
       - 
-        districts: []
-        location: "POINT (50.6166699999999992 5.6500000000000004)"
+        alternate_names: 
+          - Beyne-Heusay
+        ascii_name: Beyne-Heusay
         name: Beyne-Heusay
+        names_en: ~
+        names_es: ~
         population: 11608
-        slug: beyne-heusay
       - 
-        districts: []
-        location: "POINT (49.8500000000000014 5.2500000000000000)"
+        alternate_names: 
+          - Bertrix
+        ascii_name: Bertrix
         name: Bertrix
+        names_en: ~
+        names_es: ~
         population: 8063
-        slug: bertrix
       - 
-        districts: []
-        location: "POINT (50.0850099999999969 5.6683899999999996)"
+        alternate_names: ~
+        ascii_name: Bertogne
         name: Bertogne
+        names_en: ~
+        names_es: ~
         population: 2852
-        slug: bertogne
       - 
-        districts: []
-        location: "POINT (50.4746000000000024 3.6496100000000000)"
+        alternate_names: ~
+        ascii_name: Bernissart
         name: Bernissart
+        names_en: ~
+        names_es: ~
         population: 11588
-        slug: bernissart
       - 
-        districts: []
-        location: "POINT (50.6982900000000001 5.2123600000000003)"
+        alternate_names: 
+          - Berloz
+        ascii_name: Berloz
         name: Berloz
+        names_en: ~
+        names_es: ~
         population: 2770
-        slug: berloz
       - 
-        districts: []
-        location: "POINT (50.5504699999999971 3.7348400000000002)"
+        alternate_names: 
+          - Beloeil
+          - Belœil
+        ascii_name: Beloeil
         name: Beloeil
+        names_en: 
+          - Beloeil
+        names_es: ~
         population: 13405
-        slug: beloeil
       - 
-        districts: []
-        location: "POINT (50.7811599999999999 4.7732200000000002)"
+        alternate_names: 
+          - Beauvechain
+          - Bevekom
+        ascii_name: Beauvechain
         name: Beauvechain
+        names_en: ~
+        names_es: ~
         population: 6334
-        slug: beauvechain
       - 
-        districts: []
-        location: "POINT (50.1166699999999992 4.9666699999999997)"
+        alternate_names: 
+          - Beauraing
+          - Biarin
+        ascii_name: Beauraing
         name: Beauraing
+        names_en: 
+          - Beauraing
+        names_es: 
+          - Beauraing
         population: 8242
-        slug: beauraing
       - 
-        districts: []
-        location: "POINT (50.2333300000000023 4.2333299999999996)"
+        alternate_names: 
+          - Beaumont
+        ascii_name: Beaumont
         name: Beaumont
+        names_en: ~
+        names_es: ~
         population: 6645
-        slug: beaumont
       - 
-        districts: []
-        location: "POINT (50.0000000000000000 5.7166699999999997)"
+        alternate_names: 
+          - Baaschtnech
+          - Bastenaken
+          - Bastogne
+        ascii_name: Bastogne
         name: Bastogne
+        names_en: 
+          - Bastogne
+        names_es: 
+          - Bastoña
         population: 14395
-        slug: bastogne
       - 
-        districts: []
-        location: "POINT (50.7666699999999977 5.5999999999999996)"
+        alternate_names: 
+          - Bassange
+          - Bassenge
+          - Bitsingen
+        ascii_name: Bassenge
         name: Bassenge
+        names_en: ~
+        names_es: ~
         population: 8151
-        slug: bassenge
       - 
-        districts: []
-        location: "POINT (50.6833299999999980 4.4666699999999997)"
+        alternate_names: ~
+        ascii_name: "Basse Lasne"
         name: "Basse Lasne"
+        names_en: ~
+        names_es: ~
         population: 13861
-        slug: basse-lasne
       - 
-        districts: []
-        location: "POINT (50.6333300000000008 5.9666699999999997)"
+        alternate_names: 
+          - Baelen
+        ascii_name: Baelen
         name: Baelen
+        names_en: ~
+        names_es: ~
         population: 3928
-        slug: baelen
       - 
-        districts: []
-        location: "POINT (50.4666700000000006 5.6666699999999999)"
+        alternate_names: 
+          - Aywaille
+        ascii_name: Aywaille
         name: Aywaille
+        names_en: ~
+        names_es: ~
         population: 10636
-        slug: aywaille
       - 
-        districts: []
-        location: "POINT (50.6646799999999971 5.4634499999999999)"
+        alternate_names: 
+          - Awans
+        ascii_name: Awans
         name: Awans
+        names_en: ~
+        names_es: ~
         population: 8612
-        slug: awans
       - 
-        districts: []
-        location: "POINT (50.7000000000000028 5.8499999999999996)"
+        alternate_names: 
+          - Aubel
+        ascii_name: Aubel
         name: Aubel
+        names_en: 
+          - Aubel
+        names_es: ~
         population: 4119
-        slug: aubel
       - 
-        districts: []
-        location: "POINT (49.5833299999999966 5.7999999999999998)"
+        alternate_names: 
+          - Aubange
+        ascii_name: Aubange
         name: Aubange
+        names_en: ~
+        names_es: ~
         population: 14932
-        slug: aubange
       - 
-        districts: []
-        location: "POINT (49.7666699999999977 5.7833300000000003)"
+        alternate_names: 
+          - Attert
+        ascii_name: Attert
         name: Attert
+        names_en: ~
+        names_es: ~
         population: 4491
-        slug: attert
       - 
-        districts: []
-        location: "POINT (50.6293700000000015 3.7780100000000001)"
+        alternate_names: 
+          - Aat
+          - Ate
+          - Ath
+        ascii_name: Ath
         name: Ath
+        names_en: 
+          - Ath
+        names_es: ~
         population: 26681
-        slug: ath
       - 
-        districts: []
-        location: "POINT (50.3714399999999998 5.0232400000000004)"
+        alternate_names: 
+          - Assesse
+        ascii_name: Assesse
         name: Assesse
+        names_en: 
+          - Assesse
+        names_es: 
+          - Assesse
         population: 6279
-        slug: assesse
       - 
-        districts: []
-        location: "POINT (49.6833299999999980 5.8166700000000002)"
+        alternate_names: 
+          - Aarle
+          - Aarlen
+          - Arel
+        ascii_name: Arlon
         name: Arlon
+        names_en: 
+          - Arlon
+        names_es: ~
         population: 26179
-        slug: arlon
       - 
-        districts: []
-        location: "POINT (50.5676500000000004 3.4491999999999998)"
+        alternate_names: 
+          - Antoing
+        ascii_name: Antoing
         name: Antoing
+        names_en: ~
+        names_es: ~
         population: 7507
-        slug: antoing
       - 
-        districts: []
-        location: "POINT (50.4820100000000025 5.5202499999999999)"
+        alternate_names: 
+          - Anthisnes
+        ascii_name: Anthisnes
         name: Anthisnes
+        names_en: ~
+        names_es: ~
         population: 4116
-        slug: anthisnes
       - 
-        districts: []
-        location: "POINT (50.6570899999999966 5.5348400000000000)"
+        alternate_names: 
+          - Ans
+          - Anse
+        ascii_name: Ans
         name: Ans
+        names_en: 
+          - Ans
+        names_es: ~
         population: 27297
-        slug: ans
       - 
-        districts: []
-        location: "POINT (50.3103899999999982 4.8782699999999997)"
+        alternate_names: 
+          - Anhee
+          - "Anhee sur Meuse"
+          - Anheye
+        ascii_name: Anhee
         name: Anhée
+        names_en: 
+          - Anhée
+        names_es: 
+          - Anhée
         population: 7125
-        slug: anhee
       - 
-        districts: []
-        location: "POINT (50.3999999999999986 4.2666700000000004)"
+        alternate_names: 
+          - Anderlues
+        ascii_name: Anderlues
         name: Anderlues
+        names_en: ~
+        names_es: ~
         population: 11597
-        slug: anderlues
       - 
-        districts: []
-        location: "POINT (50.4894099999999995 5.0951300000000002)"
+        alternate_names: 
+          - Anden
+          - Andene
+          - Andenne
+        ascii_name: Andenne
         name: Andenne
+        names_en: 
+          - Andenne
+        names_es: 
+          - Andenne
         population: 24055
-        slug: andenne
       - 
-        districts: []
-        location: "POINT (50.3500000000000014 6.1500000000000004)"
+        alternate_names: 
+          - Ambleve
+          - Amblève
+          - Amel
+        ascii_name: Ambleve
         name: Amblève
+        names_en: 
+          - Amel
+        names_es: ~
         population: 5221
-        slug: ambleve
       - 
-        districts: []
-        location: "POINT (50.5454099999999968 5.3129000000000000)"
+        alternate_names: 
+          - Ama
+          - Amay
+        ascii_name: Amay
         name: Amay
+        names_en: 
+          - Amay
+        names_es: ~
         population: 13307
-        slug: amay
       - 
-        districts: []
-        location: "POINT (50.4166700000000034 4.5833300000000001)"
+        alternate_names: 
+          - Aiseau
+        ascii_name: Aiseau
         name: Aiseau
+        names_en: ~
+        names_es: ~
         population: 10906
-        slug: aiseau
-    code: BE.WAL
-    name: Wallonia
-    slug: wallonia
-tld: be
+    name: "Walloon Region"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Flanders
+    cities: 
+      - 
+        alternate_names: 
+          - Zwijndrecht
+          - Zwyndrecht
+        ascii_name: Zwijndrecht
+        name: Zwijndrecht
+        names_en: ~
+        names_es: ~
+        population: 18249
+      - 
+        alternate_names: 
+          - Sweveghem
+          - Zwevegem
+          - Zwevehem
+        ascii_name: Zwevegem
+        name: Zwevegem
+        names_en: 
+          - Zwevegem
+        names_es: 
+          - Zwevegem
+        population: 23358
+      - 
+        alternate_names: 
+          - Sutendael
+          - Zutendaal
+        ascii_name: Zutendaal
+        name: Zutendaal
+        names_en: ~
+        names_es: ~
+        population: 6962
+      - 
+        alternate_names: 
+          - Zulte
+        ascii_name: Zulte
+        name: Zulte
+        names_en: ~
+        names_es: ~
+        population: 14670
+      - 
+        alternate_names: 
+          - Zuienkerke
+          - Zuujnkerke
+          - Zuyenkerke
+        ascii_name: Zuienkerke
+        name: Zuienkerke
+        names_en: 
+          - Zuienkerke
+        names_es: 
+          - Zuienkerke
+        population: 2736
+      - 
+        alternate_names: 
+          - Leau
+          - Léau
+          - Zoutleeuw
+        ascii_name: Zoutleeuw
+        name: Zoutleeuw
+        names_en: ~
+        names_es: ~
+        population: 7897
+      - 
+        alternate_names: 
+          - Sottegem
+          - Zottegem
+          - Зоттегем
+        ascii_name: Zottegem
+        name: Zottegem
+        names_en: ~
+        names_es: ~
+        population: 24434
+      - 
+        alternate_names: 
+          - Zonnebeke
+          - Zunnebeke
+        ascii_name: Zonnebeke
+        name: Zonnebeke
+        names_en: 
+          - Zonnebeke
+        names_es: 
+          - Zonnebeke
+        population: 11581
+      - 
+        alternate_names: 
+          - Zoneve
+          - Zonhoven
+          - Zonhovena
+        ascii_name: Zonhoven
+        name: Zonhoven
+        names_en: 
+          - Zonhoven
+        names_es: ~
+        population: 19922
+      - 
+        alternate_names: 
+          - Somergein
+          - Somergem
+          - Zomergem
+        ascii_name: Zomergem
+        name: Zomergem
+        names_en: ~
+        names_es: ~
+        population: 8158
+      - 
+        alternate_names: 
+          - Zoersel
+        ascii_name: Zoersel
+        name: Zoersel
+        names_en: ~
+        names_es: ~
+        population: 20642
+      - 
+        alternate_names: 
+          - Syngem
+          - Zingem
+        ascii_name: Zingem
+        name: Zingem
+        names_en: ~
+        names_es: ~
+        population: 6588
+      - 
+        alternate_names: 
+          - Sempst
+          - Zemst
+          - Земст
+        ascii_name: Zemst
+        name: Zemst
+        names_en: ~
+        names_es: ~
+        population: 21096
+      - 
+        alternate_names: 
+          - Selzaet
+          - Selzaete
+          - Zelzate
+        ascii_name: Zelzate
+        name: Zelzate
+        names_en: ~
+        names_es: ~
+        population: 11901
+      - 
+        alternate_names: 
+          - Zele
+          - Зеле
+        ascii_name: Zele
+        name: Zele
+        names_en: ~
+        names_es: ~
+        population: 20236
+      - 
+        alternate_names: 
+          - Zeebrugge
+          - Zeebruhhe
+          - Zeebrygge
+        ascii_name: Zeebrugge
+        name: Zeebrugge
+        names_en: 
+          - Zeebrugge
+        names_es: ~
+        population: 4500
+      - 
+        alternate_names: 
+          - Zedel'gem
+          - Zedelgem
+          - Zedelghem
+        ascii_name: Zedelgem
+        name: Zedelgem
+        names_en: 
+          - Zedelgem
+        names_es: ~
+        population: 21968
+      - 
+        alternate_names: 
+          - Saventhem
+          - Zaventem
+        ascii_name: Zaventem
+        name: Zaventem
+        names_en: ~
+        names_es: ~
+        population: 28188
+      - 
+        alternate_names: 
+          - Santhoven
+          - Zandhoven
+        ascii_name: Zandhoven
+        name: Zandhoven
+        names_en: ~
+        names_es: ~
+        population: 12306
+      - 
+        alternate_names: 
+          - Wuestwezel
+          - Wuustwezel
+        ascii_name: Wuustwezel
+        name: Wuustwezel
+        names_en: 
+          - Wuustwezel
+        names_es: ~
+        population: 18117
+      - 
+        alternate_names: 
+          - Wommelgem
+          - Wommelghem
+        ascii_name: Wommelgem
+        name: Wommelgem
+        names_en: ~
+        names_es: ~
+        population: 11917
+      - 
+        alternate_names: 
+          - Wingene
+          - Wynghene
+        ascii_name: Wingene
+        name: Wingene
+        names_en: ~
+        names_es: ~
+        population: 12887
+      - 
+        alternate_names: 
+          - Villebruk
+          - Willebroeck
+          - Willebroek
+        ascii_name: Willebroek
+        name: Willebroek
+        names_en: ~
+        names_es: ~
+        population: 22808
+      - 
+        alternate_names: 
+          - Wijnegem
+          - Wyneghem
+        ascii_name: Wijnegem
+        name: Wijnegem
+        names_en: ~
+        names_es: ~
+        population: 8932
+      - 
+        alternate_names: 
+          - Wielsbeke
+        ascii_name: Wielsbeke
+        name: Wielsbeke
+        names_en: ~
+        names_es: ~
+        population: 8828
+      - 
+        alternate_names: 
+          - Wichelen
+        ascii_name: Wichelen
+        name: Wichelen
+        names_en: ~
+        names_es: ~
+        population: 11014
+      - 
+        alternate_names: 
+          - Wesembeek
+          - Wezembeek-Oppem
+        ascii_name: Wezembeek-Oppem
+        name: Wezembeek-Oppem
+        names_en: ~
+        names_es: ~
+        population: 13245
+      - 
+        alternate_names: 
+          - Vevel'geme
+          - Wevelgem
+          - Wevelghem
+        ascii_name: Wevelgem
+        name: Wevelgem
+        names_en: 
+          - Wevelgem
+        names_es: 
+          - Wevelgem
+        population: 30954
+      - 
+        alternate_names: 
+          - Vetteren
+          - Wetteran
+          - Wetteren
+        ascii_name: Wetteren
+        name: Wetteren
+        names_en: ~
+        names_es: ~
+        population: 22930
+      - 
+        alternate_names: 
+          - Vesterlo
+          - Westerlo
+          - Westerloo
+        ascii_name: Westerlo
+        name: Westerlo
+        names_en: ~
+        names_es: ~
+        population: 22579
+      - 
+        alternate_names: 
+          - Wervicq
+          - Wervik
+        ascii_name: Wervik
+        name: Wervik
+        names_en: ~
+        names_es: ~
+        population: 17340
+      - 
+        alternate_names: 
+          - Vandjuin
+          - Wenduine
+          - Wenduyne
+        ascii_name: Wenduine
+        name: Wenduine
+        names_en: ~
+        names_es: ~
+        population: 4003
+      - 
+        alternate_names: 
+          - Wemmel
+        ascii_name: Wemmel
+        name: Wemmel
+        names_en: ~
+        names_es: ~
+        population: 14406
+      - 
+        alternate_names: 
+          - Wellen
+          - Wille
+        ascii_name: Wellen
+        name: Wellen
+        names_en: 
+          - Wellen
+        names_es: ~
+        population: 6804
+      - 
+        alternate_names: 
+          - Varegem
+          - Waereghem
+          - Waregem
+        ascii_name: Waregem
+        name: Waregem
+        names_en: 
+          - Waregem
+        names_es: ~
+        population: 35896
+      - 
+        alternate_names: 
+          - Wachtebeke
+        ascii_name: Wachtebeke
+        name: Wachtebeke
+        names_en: ~
+        names_es: ~
+        population: 6911
+      - 
+        alternate_names: 
+          - Waasmunster
+          - Waesmunster
+        ascii_name: Waasmunster
+        name: Waasmunster
+        names_en: ~
+        names_es: ~
+        population: 10460
+      - 
+        alternate_names: 
+          - Waarschoot
+          - Waerschoot
+        ascii_name: Waarschoot
+        name: Waarschoot
+        names_en: ~
+        names_es: ~
+        population: 7762
+      - 
+        alternate_names: 
+          - Vosselaar
+          - Vosselaer
+        ascii_name: Vosselaar
+        name: Vosselaar
+        names_en: ~
+        names_es: ~
+        population: 10317
+      - 
+        alternate_names: 
+          - Vorselaar
+          - Vorsselaer
+        ascii_name: Vorselaar
+        name: Vorselaar
+        names_en: ~
+        names_es: ~
+        population: 7238
+      - 
+        alternate_names: 
+          - Vilvoorde
+          - Vilvorde
+        ascii_name: Vilvoorde
+        name: Vilvoorde
+        names_en: ~
+        names_es: ~
+        population: 36955
+      - 
+        alternate_names: 
+          - Furnes
+          - Veurne
+        ascii_name: Veurne
+        name: Veurne
+        names_en: ~
+        names_es: ~
+        population: 11983
+      - 
+        alternate_names: 
+          - Turnhout
+          - Turnkhout
+          - Турнхоут
+        ascii_name: Turnhout
+        name: Turnhout
+        names_en: 
+          - Turnhout
+        names_es: ~
+        population: 39654
+      - 
+        alternate_names: 
+          - Tremelo
+          - Tremeloo
+        ascii_name: Tremelo
+        name: Tremelo
+        names_en: ~
+        names_es: ~
+        population: 13721
+      - 
+        alternate_names: 
+          - Thourout
+          - Toeroet
+          - Torhout
+        ascii_name: Torhout
+        name: Torhout
+        names_en: 
+          - Torhout
+        names_es: ~
+        population: 18933
+      - 
+        alternate_names: 
+          - "Atuatuca Tungrorum"
+          - Tongere
+          - Tongeren
+        ascii_name: Tongeren
+        name: Tongeren
+        names_en: 
+          - Tongeren
+        names_es: ~
+        population: 29816
+      - 
+        alternate_names: 
+          - Thienen
+          - Tienen
+          - Tinen
+        ascii_name: Tienen
+        name: Tienen
+        names_en: ~
+        names_es: ~
+        population: 31743
+      - 
+        alternate_names: 
+          - Thielt
+          - Tielt
+        ascii_name: Tielt
+        name: Tielt
+        names_en: ~
+        names_es: ~
+        population: 19299
+      - 
+        alternate_names: 
+          - Loei
+          - Tessenderlo
+          - Tessenderloo
+        ascii_name: Tessenderlo
+        name: Tessenderlo
+        names_en: 
+          - Tessenderlo
+        names_es: 
+          - Tessenderlo
+        population: 16574
+      - 
+        alternate_names: 
+          - Tervjuren
+          - Tervueren
+          - Tervuren
+        ascii_name: Tervuren
+        name: Tervuren
+        names_en: 
+          - Tervuren
+        names_es: 
+          - Tervuren
+        population: 20623
+      - 
+        alternate_names: 
+          - Ternat
+          - Ternath
+        ascii_name: Ternat
+        name: Ternat
+        names_en: ~
+        names_es: ~
+        population: 14569
+      - 
+        alternate_names: 
+          - Tamise
+          - Tamsch
+          - Tamse
+        ascii_name: Temse
+        name: Temse
+        names_en: ~
+        names_es: ~
+        population: 26054
+      - 
+        alternate_names: 
+          - Stekene
+        ascii_name: Stekene
+        name: Stekene
+        names_en: ~
+        names_es: ~
+        population: 16989
+      - 
+        alternate_names: 
+          - Steen-Ockerzeel
+          - Steenokkerzeel
+        ascii_name: Steenokkerzeel
+        name: Steenokkerzeel
+        names_en: ~
+        names_es: ~
+        population: 10566
+      - 
+        alternate_names: 
+          - Staden
+        ascii_name: Staden
+        name: Staden
+        names_en: ~
+        names_es: ~
+        population: 10786
+      - 
+        alternate_names: 
+          - Stabroeck
+          - Stabroek
+        ascii_name: Stabroek
+        name: Stabroek
+        names_en: ~
+        names_es: ~
+        population: 17294
+      - 
+        alternate_names: 
+          - Saint-Trond
+          - "Sint Truijen"
+          - Sint-Trjujden
+        ascii_name: Sint-Truiden
+        name: Sint-Truiden
+        names_en: 
+          - Sint-Truiden
+        names_es: ~
+        population: 37859
+      - 
+        alternate_names: 
+          - Leeuw-Saint-Pierre
+          - Sint-Pieters-Leeuw
+        ascii_name: Sint-Pieters-Leeuw
+        name: Sint-Pieters-Leeuw
+        names_en: ~
+        names_es: ~
+        population: 30446
+      - 
+        alternate_names: 
+          - "Saint Nicolas"
+          - Saint-Nicolas
+          - Sint-Niklaas
+        ascii_name: Sint-Niklaas
+        name: Sint-Niklaas
+        names_en: 
+          - Sint-Niklaas
+        names_es: ~
+        population: 69010
+      - 
+        alternate_names: 
+          - Lennick-Saint-Martin
+          - "Lennik (Sint-Martens-Lennik)"
+        ascii_name: Sint-Martens-Lennik
+        name: Sint-Martens-Lennik
+        names_en: ~
+        names_es: ~
+        population: 8818
+      - 
+        alternate_names: 
+          - Laethem-Saint-Martin
+          - Sint-Martens-Latem
+        ascii_name: Sint-Martens-Latem
+        name: Sint-Martens-Latem
+        names_en: ~
+        names_es: ~
+        population: 8303
+      - 
+        alternate_names: 
+          - Lierde-Sainte-Marie
+          - Sint-Maria-Lierde
+        ascii_name: Sint-Maria-Lierde
+        name: Sint-Maria-Lierde
+        names_en: ~
+        names_es: ~
+        population: 6449
+      - 
+        alternate_names: 
+          - Hautem-Saint-Lievin
+          - Hautem-Saint-Liévin
+          - Sint-Lievens-Houtem
+        ascii_name: Sint-Lievens-Houtem
+        name: Sint-Lievens-Houtem
+        names_en: ~
+        names_es: ~
+        population: 9146
+      - 
+        alternate_names: 
+          - Saint-Laurent
+          - Sint-Laureins
+        ascii_name: Sint-Laureins
+        name: Sint-Laureins
+        names_en: ~
+        names_es: ~
+        population: 6657
+      - 
+        alternate_names: 
+          - Sint-Katelijne-Waver
+          - Wavre-Sainte-Catherine
+        ascii_name: Sint-Katelijne-Waver
+        name: Sint-Katelijne-Waver
+        names_en: ~
+        names_es: ~
+        population: 19487
+      - 
+        alternate_names: 
+          - Saint-Gilles-Waes
+          - Saint-Gillis-Waas
+          - Sint-Gillis-Waas
+        ascii_name: Sint-Gillis-Waas
+        name: Sint-Gillis-Waas
+        names_en: ~
+        names_es: ~
+        population: 17658
+      - 
+        alternate_names: 
+          - Rhode-Saint-Genese
+          - Rhode-Saint-Genèse
+          - Sint-Genesius-Rode
+        ascii_name: Sint-Genesius-Rode
+        name: Sint-Genesius-Rode
+        names_en: ~
+        names_es: ~
+        population: 17990
+      - 
+        alternate_names: 
+          - Saint-Amand
+          - Sint-Amands
+        ascii_name: Sint-Amands
+        name: Sint-Amands
+        names_en: ~
+        names_es: ~
+        population: 7653
+      - 
+        alternate_names: 
+          - Schooten
+          - Schoten
+        ascii_name: Schoten
+        name: Schoten
+        names_en: ~
+        names_es: ~
+        population: 33622
+      - 
+        alternate_names: 
+          - Schilde
+          - Shil'de
+          - Шильде
+        ascii_name: Schilde
+        name: Schilde
+        names_en: ~
+        names_es: ~
+        population: 20373
+      - 
+        alternate_names: 
+          - Schelle
+        ascii_name: Schelle
+        name: Schelle
+        names_en: ~
+        names_es: ~
+        population: 7675
+      - 
+        alternate_names: 
+          - "Saint Ivon"
+        ascii_name: Saint-Yvon
+        name: Saint-Yvon
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Rumpst
+          - Rumst
+        ascii_name: Rumst
+        name: Rumst
+        names_en: ~
+        names_es: ~
+        population: 14521
+      - 
+        alternate_names: 
+          - Ruiselede
+          - Ruysselede
+        ascii_name: Ruiselede
+        name: Ruiselede
+        names_en: ~
+        names_es: ~
+        population: 5129
+      - 
+        alternate_names: 
+          - Rotselaar
+          - Rotselaer
+        ascii_name: Rotselaar
+        name: Rotselaar
+        names_en: ~
+        names_es: ~
+        population: 15007
+      - 
+        alternate_names: 
+          - Renaix
+          - Ronse
+          - Ронсе
+        ascii_name: Ronse
+        name: Ronse
+        names_en: ~
+        names_es: ~
+        population: 24204
+      - 
+        alternate_names: 
+          - Roeselare
+          - Roeselave
+          - Roeseloare
+        ascii_name: Roeselare
+        name: Roeselare
+        names_en: 
+          - Roeselare
+        names_es: 
+          - Roeselare
+        population: 56016
+      - 
+        alternate_names: 
+          - Rijkevorsel
+          - Ryckevorsel
+        ascii_name: Rijkevorsel
+        name: Rijkevorsel
+        names_en: ~
+        names_es: ~
+        population: 10606
+      - 
+        alternate_names: 
+          - Riempst
+          - Riemst
+        ascii_name: Riemst
+        name: Riemst
+        names_en: ~
+        names_es: ~
+        population: 15809
+      - 
+        alternate_names: 
+          - Rethy
+          - Retie
+        ascii_name: Retie
+        name: Retie
+        names_en: ~
+        names_es: ~
+        population: 10069
+      - 
+        alternate_names: 
+          - Raevels
+          - Ravels
+        ascii_name: Ravels
+        name: Ravels
+        names_en: ~
+        names_es: ~
+        population: 13560
+      - 
+        alternate_names: 
+          - Ranst
+        ascii_name: Ranst
+        name: Ranst
+        names_en: ~
+        names_es: ~
+        population: 17405
+      - 
+        alternate_names: 
+          - Puers
+          - Puurs
+        ascii_name: Puurs
+        name: Puurs
+        names_en: ~
+        names_es: ~
+        population: 15944
+      - 
+        alternate_names: 
+          - Putte
+        ascii_name: Putte
+        name: Putte
+        names_en: ~
+        names_es: ~
+        population: 15276
+      - 
+        alternate_names: 
+          - Poperinge
+          - Poperinghe
+          - Поперинге
+        ascii_name: Poperinge
+        name: Poperinge
+        names_en: ~
+        names_es: ~
+        population: 19537
+      - 
+        alternate_names: 
+          - Pittem
+          - Pitthem
+        ascii_name: Pittem
+        name: Pittem
+        names_en: ~
+        names_es: ~
+        population: 6589
+      - 
+        alternate_names: ~
+        ascii_name: Perre
+        name: Perre
+        names_en: ~
+        names_es: ~
+        population: 3000
+      - 
+        alternate_names: 
+          - Pepingen
+          - Pepinghen
+        ascii_name: Pepingen
+        name: Pepingen
+        names_en: ~
+        names_es: ~
+        population: 4261
+      - 
+        alternate_names: 
+          - Peer
+        ascii_name: Peer
+        name: Peer
+        names_en: ~
+        names_es: ~
+        population: 15551
+      - 
+        alternate_names: 
+          - Ieverpelt
+          - Overpelt
+        ascii_name: Overpelt
+        name: Overpelt
+        names_en: 
+          - Overpelt
+        names_es: ~
+        population: 13344
+      - 
+        alternate_names: 
+          - Overijase
+          - Overijsche
+          - Overijse
+        ascii_name: Overijse
+        name: Overijse
+        names_en: ~
+        names_es: ~
+        population: 23486
+      - 
+        alternate_names: 
+          - Oud-Turnhout
+          - Vieux-Turnhout
+        ascii_name: Oud-Turnhout
+        name: Oud-Turnhout
+        names_en: ~
+        names_es: ~
+        population: 12354
+      - 
+        alternate_names: 
+          - Oud-Heverlee
+          - Vieux-Heverle
+          - Vieux-Héverlé
+        ascii_name: Oud-Heverlee
+        name: Oud-Heverlee
+        names_en: ~
+        names_es: ~
+        population: 10533
+      - 
+        alternate_names: 
+          - Oednburh
+          - Oudenburg
+        ascii_name: Oudenburg
+        name: Oudenburg
+        names_en: 
+          - Oudenburg
+        names_es: ~
+        population: 8752
+      - 
+        alternate_names: 
+          - Aldenarda
+          - Audenaarde
+          - Audenarde
+        ascii_name: Oudenaarde
+        name: Oudenaarde
+        names_en: 
+          - Oudenaarde
+        names_es: ~
+        population: 27935
+      - 
+        alternate_names: 
+          - Opwijk
+          - Opwyck
+        ascii_name: Opwijk
+        name: Opwijk
+        names_en: ~
+        names_es: ~
+        population: 12045
+      - 
+        alternate_names: 
+          - Opglabbeek
+        ascii_name: Opglabbeek
+        name: Opglabbeek
+        names_en: ~
+        names_es: ~
+        population: 9452
+      - 
+        alternate_names: 
+          - Oostroosebeke
+          - Oostroozebeke
+          - Oostrozebeke
+        ascii_name: Oostrozebeke
+        name: Oostrozebeke
+        names_en: ~
+        names_es: ~
+        population: 7489
+      - 
+        alternate_names: 
+          - Oostcamp
+          - Oostkamp
+          - Ostkamp
+        ascii_name: Oostkamp
+        name: Oostkamp
+        names_en: 
+          - Oostkamp
+        names_es: ~
+        population: 21489
+      - 
+        alternate_names: 
+          - Oosterzeele
+          - Oosterzele
+        ascii_name: Oosterzele
+        name: Oosterzele
+        names_en: ~
+        names_es: ~
+        population: 13151
+      - 
+        alternate_names: 
+          - Oostende
+          - Oostenn
+          - Ostend
+        ascii_name: Oostende
+        name: Oostende
+        names_en: 
+          - Ostend
+        names_es: 
+          - Ostende
+        population: 69011
+      - 
+        alternate_names: 
+          - Olen
+          - Oolen
+        ascii_name: Olen
+        name: Olen
+        names_en: ~
+        names_es: ~
+        population: 11070
+      - 
+        alternate_names: 
+          - Ninove
+          - Нинове
+        ascii_name: Ninove
+        name: Ninove
+        names_en: ~
+        names_es: ~
+        population: 34795
+      - 
+        alternate_names: 
+          - Nijlen
+          - Nylen
+        ascii_name: Nijlen
+        name: Nijlen
+        names_en: ~
+        names_es: ~
+        population: 20792
+      - 
+        alternate_names: 
+          - Nieuport
+          - Nieuwpoort
+          - Nieuwpoôrt
+        ascii_name: Nieuwpoort
+        name: Nieuwpoort
+        names_en: 
+          - Nieuwpoort
+        names_es: 
+          - Nieuwpoort
+        population: 10845
+      - 
+        alternate_names: 
+          - Nieuwerkerken
+        ascii_name: Nieuwerkerken
+        name: Nieuwerkerken
+        names_en: ~
+        names_es: ~
+        population: 6466
+      - 
+        alternate_names: 
+          - Niel
+        ascii_name: Niel
+        name: Niel
+        names_en: ~
+        names_es: ~
+        population: 8656
+      - 
+        alternate_names: 
+          - Nevele
+        ascii_name: Nevele
+        name: Nevele
+        names_en: ~
+        names_es: ~
+        population: 11153
+      - 
+        alternate_names: 
+          - Neerpelt
+        ascii_name: Neerpelt
+        name: Neerpelt
+        names_en: 
+          - Neerpelt
+        names_es: 
+          - Neerpelt
+        population: 16122
+      - 
+        alternate_names: 
+          - Nazareth
+        ascii_name: Nazareth
+        name: Nazareth
+        names_en: ~
+        names_es: ~
+        population: 10890
+      - 
+        alternate_names: 
+          - Mortsel
+          - Мортсел
+        ascii_name: Mortsel
+        name: Mortsel
+        names_en: ~
+        names_es: ~
+        population: 24525
+      - 
+        alternate_names: 
+          - Moorslede
+        ascii_name: Moorslede
+        name: Moorslede
+        names_en: ~
+        names_es: ~
+        population: 10720
+      - 
+        alternate_names: 
+          - Mol
+          - Moll
+          - Мол
+        ascii_name: Mol
+        name: Mol
+        names_en: 
+          - Mol
+        names_es: 
+          - Mol
+        population: 32659
+      - 
+        alternate_names: 
+          - Moerbeke
+        ascii_name: Moerbeke
+        name: Moerbeke
+        names_en: ~
+        names_es: ~
+        population: 5855
+      - 
+        alternate_names: 
+          - Middelkerke
+          - "Middelkerke Bains"
+          - Middelkerke-Baden
+        ascii_name: Middelkerke
+        name: Middelkerke
+        names_en: 
+          - Middelkerke
+        names_es: ~
+        population: 17789
+      - 
+        alternate_names: 
+          - Meulebeke
+        ascii_name: Meulebeke
+        name: Meulebeke
+        names_en: ~
+        names_es: ~
+        population: 10948
+      - 
+        alternate_names: 
+          - Merksplas
+          - Merxplas
+        ascii_name: Merksplas
+        name: Merksplas
+        names_en: ~
+        names_es: ~
+        population: 7963
+      - 
+        alternate_names: 
+          - Meirelbeke
+          - Merelbeke
+          - Мерелбеке
+        ascii_name: Merelbeke
+        name: Merelbeke
+        names_en: ~
+        names_es: ~
+        population: 22047
+      - 
+        alternate_names: 
+          - Merchtem
+        ascii_name: Merchtem
+        name: Merchtem
+        names_en: ~
+        names_es: ~
+        population: 14660
+      - 
+        alternate_names: 
+          - Meenen
+          - Meenn
+          - Menen
+        ascii_name: Menen
+        name: Menen
+        names_en: 
+          - Menen
+        names_es: 
+          - Menen
+        population: 31916
+      - 
+        alternate_names: 
+          - Melle
+        ascii_name: Melle
+        name: Melle
+        names_en: 
+          - Melle
+        names_es: ~
+        population: 10687
+      - 
+        alternate_names: 
+          - Meise
+          - Meysse
+        ascii_name: Meise
+        name: Meise
+        names_en: ~
+        names_es: ~
+        population: 18497
+      - 
+        alternate_names: 
+          - Meerhout
+        ascii_name: Meerhout
+        name: Meerhout
+        names_en: ~
+        names_es: ~
+        population: 9346
+      - 
+        alternate_names: 
+          - Malinas
+          - Malines
+          - Mechele
+        ascii_name: Mechelen
+        name: Mechelen
+        names_en: 
+          - Mechelen
+        names_es: 
+          - Malinas
+        population: 77530
+      - 
+        alternate_names: 
+          - Mal'degem
+          - Maldegem
+          - Мальдегем
+        ascii_name: Maldegem
+        name: Maldegem
+        names_en: ~
+        names_es: ~
+        population: 22092
+      - 
+        alternate_names: 
+          - Machelen
+        ascii_name: Machelen
+        name: Machelen
+        names_en: ~
+        names_es: ~
+        population: 12252
+      - 
+        alternate_names: 
+          - Maasmechelen
+          - Maasmekhelene
+          - Massmechelen
+        ascii_name: Maasmechelen
+        name: Maasmechelen
+        names_en: ~
+        names_es: ~
+        population: 36251
+      - 
+        alternate_names: 
+          - Maaseik
+          - Maasejk
+          - Maeseyck
+        ascii_name: Maaseik
+        name: Maaseik
+        names_en: 
+          - Maaseik
+        names_es: ~
+        population: 23684
+      - 
+        alternate_names: 
+          - Lummen
+        ascii_name: Lummen
+        name: Lummen
+        names_en: ~
+        names_es: ~
+        population: 13689
+      - 
+        alternate_names: 
+          - Lubbeek
+        ascii_name: Lubbeek
+        name: Lubbeek
+        names_en: ~
+        names_es: ~
+        population: 13574
+      - 
+        alternate_names: 
+          - Lovendegem
+        ascii_name: Lovendegem
+        name: Lovendegem
+        names_en: ~
+        names_es: ~
+        population: 9272
+      - 
+        alternate_names: 
+          - Londerzeel
+        ascii_name: Londerzeel
+        name: Londerzeel
+        names_en: ~
+        names_es: ~
+        population: 17274
+      - 
+        alternate_names: 
+          - Lommel
+          - Ломмел
+        ascii_name: Lommel
+        name: Lommel
+        names_en: 
+          - Lommel
+        names_es: ~
+        population: 31993
+      - 
+        alternate_names: 
+          - Lokeren
+          - Локерен
+        ascii_name: Lokeren
+        name: Lokeren
+        names_en: ~
+        names_es: ~
+        population: 37567
+      - 
+        alternate_names: 
+          - Lochristi
+          - Loochristi
+          - Loochristy
+        ascii_name: Lochristi
+        name: Lochristi
+        names_en: ~
+        names_es: ~
+        population: 19696
+      - 
+        alternate_names: 
+          - Lint
+          - Linth
+        ascii_name: Lint
+        name: Lint
+        names_en: ~
+        names_es: ~
+        population: 7982
+      - 
+        alternate_names: 
+          - Linkebeek
+        ascii_name: Linkebeek
+        name: Linkebeek
+        names_en: ~
+        names_es: ~
+        population: 4823
+      - 
+        alternate_names: 
+          - Lille
+        ascii_name: Lille
+        name: Lille
+        names_en: ~
+        names_es: ~
+        population: 15466
+      - 
+        alternate_names: 
+          - L'er
+          - Lier
+          - Lierre
+        ascii_name: Lier
+        name: Lier
+        names_en: ~
+        names_es: ~
+        population: 33272
+      - 
+        alternate_names: 
+          - Liedekerke
+        ascii_name: Liedekerke
+        name: Liedekerke
+        names_en: ~
+        names_es: ~
+        population: 11980
+      - 
+        alternate_names: 
+          - Lichterveld
+          - Lichtervelde
+        ascii_name: Lichtervelde
+        name: Lichtervelde
+        names_en: ~
+        names_es: ~
+        population: 8169
+      - 
+        alternate_names: 
+          - L'oven
+          - Leouben
+          - Leuve
+        ascii_name: Leuven
+        name: Leuven
+        names_en: 
+          - Leuven
+        names_es: 
+          - Lovaina
+        population: 92892
+      - 
+        alternate_names: 
+          - Bourg-Leopold
+          - Bourg-Léopold
+          - Leopoldsburg
+        ascii_name: Leopoldsburg
+        name: Leopoldsburg
+        names_en: 
+          - Leopoldsburg
+        names_es: ~
+        population: 14149
+      - 
+        alternate_names: 
+          - Lendelede
+          - Lendlee
+        ascii_name: Lendelede
+        name: Lendelede
+        names_en: 
+          - Lendelede
+        names_es: 
+          - Lendelede
+        population: 5393
+      - 
+        alternate_names: 
+          - Ledegem
+          - Ledeghem
+        ascii_name: Ledegem
+        name: Ledegem
+        names_en: ~
+        names_es: ~
+        population: 9102
+      - 
+        alternate_names: ~
+        ascii_name: Ledeberg
+        name: Ledeberg
+        names_en: ~
+        names_es: ~
+        population: 8454
+      - 
+        alternate_names: ~
+        ascii_name: Ledeberg
+        name: Ledeberg
+        names_en: ~
+        names_es: ~
+        population: 1500
+      - 
+        alternate_names: 
+          - Lede
+        ascii_name: Lede
+        name: Lede
+        names_en: ~
+        names_es: ~
+        population: 16813
+      - 
+        alternate_names: 
+          - Lebbeke
+        ascii_name: Lebbeke
+        name: Lebbeke
+        names_en: ~
+        names_es: ~
+        population: 17372
+      - 
+        alternate_names: 
+          - Landen
+        ascii_name: Landen
+        name: Landen
+        names_en: ~
+        names_es: ~
+        population: 14458
+      - 
+        alternate_names: 
+          - Lanaeken
+          - Lanaken
+        ascii_name: Lanaken
+        name: Lanaken
+        names_en: ~
+        names_es: ~
+        population: 24771
+      - 
+        alternate_names: 
+          - Laarne
+          - Laerne
+        ascii_name: Laarne
+        name: Laarne
+        names_en: ~
+        names_es: ~
+        population: 11600
+      - 
+        alternate_names: 
+          - Cuerne
+          - Kuurne
+        ascii_name: Kuurne
+        name: Kuurne
+        names_en: 
+          - Kuurne
+        names_es: 
+          - Kuurne
+        population: 12638
+      - 
+        alternate_names: 
+          - Cruyshautem
+          - Kruishoutem
+        ascii_name: Kruishoutem
+        name: Kruishoutem
+        names_en: ~
+        names_es: ~
+        population: 8179
+      - 
+        alternate_names: 
+          - Cruybeke
+          - Kruibeke
+        ascii_name: Kruibeke
+        name: Kruibeke
+        names_en: ~
+        names_es: ~
+        population: 14815
+      - 
+        alternate_names: 
+          - Crainhem
+          - Kraainem
+        ascii_name: Kraainem
+        name: Kraainem
+        names_en: ~
+        names_es: ~
+        population: 12815
+      - 
+        alternate_names: 
+          - Cortoriacum
+          - Courtrai
+          - Kortrejko
+        ascii_name: Kortrijk
+        name: Kortrijk
+        names_en: 
+          - Kortrijk
+        names_es: ~
+        population: 73879
+      - 
+        alternate_names: 
+          - Cortessem
+          - Cortessum
+          - Kortessem
+        ascii_name: Kortessem
+        name: Kortessem
+        names_en: ~
+        names_es: ~
+        population: 8042
+      - 
+        alternate_names: 
+          - Cortenberg
+          - Kortenberg
+        ascii_name: Kortenberg
+        name: Kortenberg
+        names_en: ~
+        names_es: ~
+        population: 17774
+      - 
+        alternate_names: 
+          - Cortenaeken
+          - Kortenaken
+        ascii_name: Kortenaken
+        name: Kortenaken
+        names_en: ~
+        names_es: ~
+        population: 7374
+      - 
+        alternate_names: 
+          - Cortemarck
+          - Kortemark
+        ascii_name: Kortemark
+        name: Kortemark
+        names_en: ~
+        names_es: ~
+        population: 11937
+      - 
+        alternate_names: 
+          - Contich
+          - Kontich
+          - Контич
+        ascii_name: Kontich
+        name: Kontich
+        names_en: ~
+        names_es: ~
+        population: 20290
+      - 
+        alternate_names: 
+          - Coxyde
+          - Koksiede
+          - Koksijde
+        ascii_name: Koksijde
+        name: Koksijde
+        names_en: 
+          - Koksijde
+        names_es: ~
+        population: 21027
+      - 
+        alternate_names: 
+          - Couckelaere
+          - Koekelare
+        ascii_name: Koekelare
+        name: Koekelare
+        names_en: ~
+        names_es: ~
+        population: 8317
+      - 
+        alternate_names: 
+          - Knokke-Heist
+          - Knokke-Khejst
+          - Knokkne
+        ascii_name: Knokke-Heist
+        name: Knokke-Heist
+        names_en: 
+          - Knokke-Heist
+        names_es: 
+          - Knokke-Heist
+        population: 33781
+      - 
+        alternate_names: 
+          - Knesselaere
+          - Knesselare
+        ascii_name: Knesselare
+        name: Knesselare
+        names_en: ~
+        names_es: ~
+        population: 7889
+      - 
+        alternate_names: 
+          - Kinjer
+          - Kinroy
+        ascii_name: Kinrooi
+        name: Kinrooi
+        names_en: ~
+        names_es: ~
+        population: 11946
+      - 
+        alternate_names: 
+          - Keerbergen
+        ascii_name: Keerbergen
+        name: Keerbergen
+        names_en: ~
+        names_es: ~
+        population: 12363
+      - 
+        alternate_names: 
+          - Casterle
+          - Kasterlee
+        ascii_name: Kasterlee
+        name: Kasterlee
+        names_en: ~
+        names_es: ~
+        population: 17765
+      - 
+        alternate_names: 
+          - Caprycke
+          - Kaprijke
+        ascii_name: Kaprijke
+        name: Kaprijke
+        names_en: ~
+        names_es: ~
+        population: 6114
+      - 
+        alternate_names: 
+          - Chapelle-au-Bois
+          - Kapelle-op-den-Bos
+        ascii_name: Kapelle-op-den-Bos
+        name: Kapelle-op-den-Bos
+        names_en: ~
+        names_es: ~
+        population: 8859
+      - 
+        alternate_names: 
+          - Cappellen
+          - Kapellen
+          - Kapellene
+        ascii_name: Kapellen
+        name: Kapellen
+        names_en: ~
+        names_es: ~
+        population: 26410
+      - 
+        alternate_names: 
+          - Campenhout
+          - Kampenhout
+        ascii_name: Kampenhout
+        name: Kampenhout
+        names_en: ~
+        names_es: ~
+        population: 10784
+      - 
+        alternate_names: 
+          - Calmpthout
+          - Kalmthout
+        ascii_name: Kalmthout
+        name: Kalmthout
+        names_en: 
+          - Kalmthout
+        names_es: ~
+        population: 17485
+      - 
+        alternate_names: 
+          - Jabbeke
+        ascii_name: Jabbeke
+        name: Jabbeke
+        names_en: 
+          - Jabbeke
+        names_es: 
+          - Jabbeke
+        population: 13488
+      - 
+        alternate_names: 
+          - Iseghem
+          - Izegem
+          - Izzegem
+        ascii_name: Izegem
+        name: Izegem
+        names_en: 
+          - Izegem
+        names_es: 
+          - Izegem
+        population: 26382
+      - 
+        alternate_names: 
+          - Ingelmunster
+        ascii_name: Ingelmunster
+        name: Ingelmunster
+        names_en: ~
+        names_es: ~
+        population: 10603
+      - 
+        alternate_names: 
+          - Ieper
+          - Iper
+          - Ippr
+        ascii_name: Ieper
+        name: Ieper
+        names_en: 
+          - Ypres
+        names_es: 
+          - Ypres
+        population: 35089
+      - 
+        alternate_names: 
+          - Ichtegem
+          - Ichteghem
+        ascii_name: Ichtegem
+        name: Ichtegem
+        names_en: ~
+        names_es: ~
+        population: 13582
+      - 
+        alternate_names: 
+          - Hulshout
+        ascii_name: Hulshout
+        name: Hulshout
+        names_en: ~
+        names_es: ~
+        population: 9198
+      - 
+        alternate_names: 
+          - Huldenberg
+        ascii_name: Huldenberg
+        name: Huldenberg
+        names_en: ~
+        names_es: ~
+        population: 9137
+      - 
+        alternate_names: 
+          - Hove
+        ascii_name: Hove
+        name: Hove
+        names_en: ~
+        names_es: ~
+        population: 7968
+      - 
+        alternate_names: 
+          - Houthuls
+          - Houthulst
+          - Oetulst
+        ascii_name: Houthulst
+        name: Houthulst
+        names_en: 
+          - Houthulst
+        names_es: 
+          - Houthulst
+        population: 8951
+      - 
+        alternate_names: 
+          - Houthaelen
+          - Houthaelenberg
+          - "Houthalen-Helchteren (Houthalen)"
+        ascii_name: Houthalen
+        name: Houthalen
+        names_en: ~
+        names_es: ~
+        population: 30050
+      - 
+        alternate_names: 
+          - Hoogstraeten
+          - Hoogstraten
+          - Khogstraten
+        ascii_name: Hoogstraten
+        name: Hoogstraten
+        names_en: ~
+        names_es: ~
+        population: 18524
+      - 
+        alternate_names: 
+          - Hooglede
+          - Ooglee
+        ascii_name: Hooglede
+        name: Hooglede
+        names_en: 
+          - Hooglede
+        names_es: 
+          - Hooglede
+        population: 9900
+      - 
+        alternate_names: 
+          - Holsbeek
+        ascii_name: Holsbeek
+        name: Holsbeek
+        names_en: ~
+        names_es: ~
+        population: 9094
+      - 
+        alternate_names: 
+          - Hoeiselt
+          - Hoeselt
+          - Hoesselt
+        ascii_name: Hoeselt
+        name: Hoeselt
+        names_en: 
+          - Hoeselt
+        names_es: ~
+        population: 9265
+      - 
+        alternate_names: 
+          - Hoeilaart
+          - Hoeylaert
+        ascii_name: Hoeilaart
+        name: Hoeilaart
+        names_en: ~
+        names_es: ~
+        population: 10272
+      - 
+        alternate_names: 
+          - Hoegaarden
+          - Hougaerde
+        ascii_name: Hoegaarden
+        name: Hoegaarden
+        names_en: ~
+        names_es: ~
+        population: 6110
+      - 
+        alternate_names: 
+          - "Antwerp (Hoboken)"
+          - Hoboken-lez-Anvers
+        ascii_name: Hoboken
+        name: Hoboken
+        names_en: ~
+        names_es: ~
+        population: 34443
+      - 
+        alternate_names: 
+          - "Heusden-Zolder (Heusden)"
+        ascii_name: Heusden
+        name: Heusden
+        names_en: ~
+        names_es: ~
+        population: 31017
+      - 
+        alternate_names: 
+          - Herzele
+        ascii_name: Herzele
+        name: Herzele
+        names_en: ~
+        names_es: ~
+        population: 16523
+      - 
+        alternate_names: 
+          - Herselt
+          - Hersselt
+        ascii_name: Herselt
+        name: Herselt
+        names_en: ~
+        names_es: ~
+        population: 13493
+      - 
+        alternate_names: 
+          - Herinnes
+          - Herne
+          - Hérinnes
+        ascii_name: Herne
+        name: Herne
+        names_en: ~
+        names_es: ~
+        population: 6459
+      - 
+        alternate_names: 
+          - Herck-la-Ville
+          - Herk
+          - Herk-de-Stad
+        ascii_name: Herk-de-Stad
+        name: Herk-de-Stad
+        names_en: 
+          - Herk-de-Stad
+        names_es: ~
+        population: 11566
+      - 
+        alternate_names: 
+          - Herenthout
+        ascii_name: Herenthout
+        name: Herenthout
+        names_en: ~
+        names_es: ~
+        population: 8378
+      - 
+        alternate_names: 
+          - Herentals
+          - Herenthals
+          - Kherentals
+        ascii_name: Herentals
+        name: Herentals
+        names_en: ~
+        names_es: ~
+        population: 25912
+      - 
+        alternate_names: 
+          - Herent
+        ascii_name: Herent
+        name: Herent
+        names_en: ~
+        names_es: ~
+        population: 19218
+      - 
+        alternate_names: 
+          - Hemiksem
+          - Hemixem
+          - Hemixeu
+        ascii_name: Hemiksem
+        name: Hemiksem
+        names_en: ~
+        names_es: ~
+        population: 9504
+      - 
+        alternate_names: 
+          - "Houthalen-Helchteren (Helchteren)"
+        ascii_name: Helchteren
+        name: Helchteren
+        names_en: ~
+        names_es: ~
+        population: 30050
+      - 
+        alternate_names: 
+          - Heist-op-den-Berg
+          - Heistopden-Berg
+          - Heyst-op-den-Berg
+        ascii_name: Heist-op-den-Berg
+        name: Heist-op-den-Berg
+        names_en: ~
+        names_es: ~
+        population: 37873
+      - 
+        alternate_names: 
+          - Heers
+          - Hier
+          - Hiër
+        ascii_name: Heers
+        name: Heers
+        names_en: 
+          - Heers
+        names_es: ~
+        population: 6689
+      - 
+        alternate_names: 
+          - Asselt
+          - Haselto
+          - Hasselt
+        ascii_name: Hasselt
+        name: Hasselt
+        names_en: 
+          - Hasselt
+        names_es: 
+          - Hasselt
+        population: 69222
+      - 
+        alternate_names: 
+          - Hailebeke
+          - Harelbeke
+          - Harlebeke
+        ascii_name: Harelbeke
+        name: Harelbeke
+        names_en: ~
+        names_es: ~
+        population: 25978
+      - 
+        alternate_names: 
+          - Hamme
+          - Khamme
+          - Хамме
+        ascii_name: Hamme
+        name: Hamme
+        names_en: ~
+        names_es: ~
+        population: 22891
+      - 
+        alternate_names: 
+          - Galle
+          - Hal
+          - Halle
+        ascii_name: Halle
+        name: Halle
+        names_en: ~
+        names_es: ~
+        population: 34479
+      - 
+        alternate_names: 
+          - Haelen
+          - Halen
+          - Hole
+        ascii_name: Halen
+        name: Halen
+        names_en: 
+          - Halen
+        names_es: ~
+        population: 8548
+      - 
+        alternate_names: 
+          - Haaltert
+          - Haeltert
+        ascii_name: Haaltert
+        name: Haaltert
+        names_en: ~
+        names_es: ~
+        population: 17129
+      - 
+        alternate_names: 
+          - Haacht
+          - Haecht
+        ascii_name: Haacht
+        name: Haacht
+        names_en: ~
+        names_es: ~
+        population: 13541
+      - 
+        alternate_names: 
+          - Grobbendonck
+          - Grobbendonk
+        ascii_name: Grobbendonk
+        name: Grobbendonk
+        names_en: ~
+        names_es: ~
+        population: 10724
+      - 
+        alternate_names: 
+          - Grimbergen
+          - Grimberghen
+          - Гримберген
+        ascii_name: Grimbergen
+        name: Grimbergen
+        names_en: ~
+        names_es: ~
+        population: 33561
+      - 
+        alternate_names: 
+          - Gooik
+          - Goyck
+        ascii_name: Gooik
+        name: Gooik
+        names_en: ~
+        names_es: ~
+        population: 8957
+      - 
+        alternate_names: 
+          - Glabbeek
+          - Glabbeek-Suerbempde
+          - Glabbeek-Zuurbemde
+        ascii_name: Glabbeek-Zuurbemde
+        name: Glabbeek-Zuurbemde
+        names_en: ~
+        names_es: ~
+        population: 5070
+      - 
+        alternate_names: 
+          - Ghistelles
+          - Gistel
+          - Histel
+        ascii_name: Gistel
+        name: Gistel
+        names_en: 
+          - Gistel
+        names_es: 
+          - Gistel
+        population: 11084
+      - 
+        alternate_names: 
+          - Gingelom
+        ascii_name: Gingelom
+        name: Gingelom
+        names_en: 
+          - Gingelom
+        names_es: ~
+        population: 7930
+      - 
+        alternate_names: 
+          - Geeraardsbergen
+          - Geraardsbergen
+          - Gerardsbergen
+        ascii_name: Geraardsbergen
+        name: Geraardsbergen
+        names_en: ~
+        names_es: ~
+        population: 30807
+      - 
+        alternate_names: 
+          - Gaent
+          - Gand
+          - Gandavum
+        ascii_name: Gent
+        name: Gent
+        names_en: 
+          - Ghent
+        names_es: 
+          - Gante
+        population: 231493
+      - 
+        alternate_names: 
+          - Genck
+          - Genk
+          - Генк
+        ascii_name: Genk
+        name: Genk
+        names_en: 
+          - Genk
+        names_es: ~
+        population: 63666
+      - 
+        alternate_names: 
+          - "Geet Betz"
+          - Geetbets
+        ascii_name: Geetbets
+        name: Geetbets
+        names_en: ~
+        names_es: ~
+        population: 5813
+      - 
+        alternate_names: 
+          - Geel
+          - Gheel
+          - Геел
+        ascii_name: Geel
+        name: Geel
+        names_en: 
+          - Geel
+        names_es: ~
+        population: 34697
+      - 
+        alternate_names: 
+          - Gavere
+        ascii_name: Gavere
+        name: Gavere
+        names_en: ~
+        names_es: ~
+        population: 11888
+      - 
+        alternate_names: 
+          - Galmaarden
+          - Gammerages
+        ascii_name: Galmaarden
+        name: Galmaarden
+        names_en: ~
+        names_es: ~
+        population: 7939
+      - 
+        alternate_names: 
+          - Fouron-Saint-Pierre
+          - "Fourons (Fouron-Saint-Pierre)"
+          - Sint-Pieters-Voeren
+        ascii_name: Sint-Pieters-Voeren
+        name: Sint-Pieters-Voeren
+        names_en: ~
+        names_es: ~
+        population: 4235
+      - 
+        alternate_names: 
+          - Ehvergem
+          - Evergem
+          - "Everghem Rabot"
+        ascii_name: Evergem
+        name: Evergem
+        names_en: ~
+        names_es: ~
+        population: 31615
+      - 
+        alternate_names: 
+          - Esschen
+        ascii_name: Essen
+        name: Essen
+        names_en: ~
+        names_es: ~
+        population: 16754
+      - 
+        alternate_names: 
+          - Eecloo
+          - Eeklo
+          - Eekloo
+        ascii_name: Eeklo
+        name: Eeklo
+        names_en: ~
+        names_es: ~
+        population: 19116
+      - 
+        alternate_names: 
+          - Edegem
+          - Edeghem
+        ascii_name: Edegem
+        name: Edegem
+        names_en: ~
+        names_es: ~
+        population: 21839
+      - 
+        alternate_names: 
+          - Duffel
+        ascii_name: Duffel
+        name: Duffel
+        names_en: ~
+        names_es: ~
+        population: 16011
+      - 
+        alternate_names: 
+          - Drogenbos
+          - Drogenbosch
+          - Droogenbosch
+        ascii_name: Drogenbos
+        name: Drogenbos
+        names_en: ~
+        names_es: ~
+        population: 4843
+      - 
+        alternate_names: 
+          - Dilbeek
+          - dilbek
+          - Дилбек
+        ascii_name: Dilbeek
+        name: Dilbeek
+        names_en: 
+          - Dilbeek
+        names_es: ~
+        population: 39482
+      - 
+        alternate_names: 
+          - Diksmude
+          - Diksmuide
+          - Dixmude
+        ascii_name: Diksmuide
+        name: Diksmuide
+        names_en: 
+          - Diksmuide
+        names_es: ~
+        population: 15515
+      - 
+        alternate_names: 
+          - Diest
+        ascii_name: Diest
+        name: Diest
+        names_en: ~
+        names_es: ~
+        population: 22516
+      - 
+        alternate_names: ~
+        ascii_name: Diepenbeek
+        name: Diepenbeek
+        names_en: ~
+        names_es: ~
+        population: 17699
+      - 
+        alternate_names: 
+          - Destelbergen
+        ascii_name: Destelbergen
+        name: Destelbergen
+        names_en: ~
+        names_es: ~
+        population: 16853
+      - 
+        alternate_names: 
+          - Desschel
+          - Dessel
+        ascii_name: Dessel
+        name: Dessel
+        names_en: ~
+        names_es: ~
+        population: 8707
+      - 
+        alternate_names: 
+          - "De Pinte"
+          - "La Pinte"
+        ascii_name: "De Pinte"
+        name: "De Pinte"
+        names_en: ~
+        names_es: ~
+        population: 10020
+      - 
+        alternate_names: 
+          - "De Panne"
+          - "La Panne"
+          - Panne
+        ascii_name: "De Panne"
+        name: "De Panne"
+        names_en: 
+          - "De Panne"
+        names_es: 
+          - "De Panne"
+        population: 9799
+      - 
+        alternate_names: 
+          - Dentergem
+          - Denterghem
+          - Denterhem
+        ascii_name: Dentergem
+        name: Dentergem
+        names_en: 
+          - Dentergem
+        names_es: 
+          - Dentergem
+        population: 8038
+      - 
+        alternate_names: 
+          - Dendermonde
+          - Teneramonda
+          - Termonde
+        ascii_name: Dendermonde
+        name: Dendermonde
+        names_en: 
+          - Dendermonde
+        names_es: ~
+        population: 43055
+      - 
+        alternate_names: 
+          - Denderleeuw
+        ascii_name: Denderleeuw
+        name: Denderleeuw
+        names_en: ~
+        names_es: ~
+        population: 16969
+      - 
+        alternate_names: 
+          - Deinze
+          - Dejnze
+          - Deynze
+        ascii_name: Deinze
+        name: Deinze
+        names_en: ~
+        names_es: ~
+        population: 27777
+      - 
+        alternate_names: 
+          - "D'n Aone"
+          - "D'n Oane"
+          - "De Haan"
+        ascii_name: "De Haan"
+        name: "De Haan"
+        names_en: 
+          - "De Haan"
+        names_es: 
+          - "De Haan"
+        population: 11766
+      - 
+        alternate_names: 
+          - Deerlijk
+          - Deerlyck
+        ascii_name: Deerlijk
+        name: Deerlijk
+        names_en: ~
+        names_es: ~
+        population: 11292
+      - 
+        alternate_names: 
+          - Damme
+          - Dammum
+          - Damovilla
+        ascii_name: Damme
+        name: Damme
+        names_en: 
+          - Damme
+        names_es: ~
+        population: 10924
+      - 
+        alternate_names: 
+          - Buggenhout
+        ascii_name: Buggenhout
+        name: Buggenhout
+        names_en: ~
+        names_es: ~
+        population: 13510
+      - 
+        alternate_names: 
+          - Bricg
+          - Brige
+          - Briz
+        ascii_name: Brugge
+        name: Brugge
+        names_en: 
+          - Bruges
+        names_es: 
+          - Brujas
+        population: 116709
+      - 
+        alternate_names: 
+          - Bree
+          - Брее
+        ascii_name: Bree
+        name: Bree
+        names_en: 
+          - Bree
+        names_es: ~
+        population: 14363
+      - 
+        alternate_names: 
+          - Bredene
+          - Breedene
+          - Breenienge
+        ascii_name: Bredene
+        name: Bredene
+        names_en: 
+          - Bredene
+        names_es: 
+          - Bredene
+        population: 14862
+      - 
+        alternate_names: 
+          - Brecht
+          - Brekht
+          - Брехт
+        ascii_name: Brecht
+        name: Brecht
+        names_en: ~
+        names_es: ~
+        population: 25908
+      - 
+        alternate_names: 
+          - Braskhat
+          - Brasschaat
+          - Brasschaep
+        ascii_name: Brasschaat
+        name: Brasschaat
+        names_en: 
+          - Brasschaat
+        names_es: ~
+        population: 37040
+      - 
+        alternate_names: 
+          - Bautersem
+          - Boutersem
+        ascii_name: Boutersem
+        name: Boutersem
+        names_en: ~
+        names_es: ~
+        population: 7702
+      - 
+        alternate_names: 
+          - Borsbeek
+        ascii_name: Borsbeek
+        name: Borsbeek
+        names_en: ~
+        names_es: ~
+        population: 10334
+      - 
+        alternate_names: 
+          - Bornem
+          - Bornhem
+        ascii_name: Bornem
+        name: Bornem
+        names_en: ~
+        names_es: ~
+        population: 19997
+      - 
+        alternate_names: 
+          - Borgloon
+          - Loeen
+          - Loeën
+        ascii_name: Borgloon
+        name: Borgloon
+        names_en: 
+          - Borgloon
+        names_es: ~
+        population: 9955
+      - 
+        alternate_names: 
+          - Boortmeerbeek
+        ascii_name: Boortmeerbeek
+        name: Boortmeerbeek
+        names_en: ~
+        names_es: ~
+        population: 11570
+      - 
+        alternate_names: 
+          - Boom
+        ascii_name: Boom
+        name: Boom
+        names_en: ~
+        names_es: ~
+        population: 15810
+      - 
+        alternate_names: 
+          - Bonheyden
+        ascii_name: Bonheiden
+        name: Bonheiden
+        names_en: ~
+        names_es: ~
+        population: 14260
+      - 
+        alternate_names: 
+          - Boechout
+          - Bouchout
+        ascii_name: Boechout
+        name: Boechout
+        names_en: ~
+        names_es: ~
+        population: 12145
+      - 
+        alternate_names: 
+          - Bocholt
+          - Boggetj
+          - Bóggetj
+        ascii_name: Bocholt
+        name: Bocholt
+        names_en: 
+          - Bocholt
+        names_es: ~
+        population: 12346
+      - 
+        alternate_names: 
+          - Blank'nberge
+          - Blank'nberhe
+          - Blankenberge
+        ascii_name: Blankenberge
+        name: Blankenberge
+        names_en: 
+          - Blankenberge
+        names_es: 
+          - Blankenberge
+        population: 18230
+      - 
+        alternate_names: 
+          - Bilsen
+          - Bilze
+          - Bilzen
+        ascii_name: Bilzen
+        name: Bilzen
+        names_en: 
+          - Bilzen
+        names_es: ~
+        population: 29622
+      - 
+        alternate_names: 
+          - Bierbeek
+        ascii_name: Bierbeek
+        name: Bierbeek
+        names_en: ~
+        names_es: ~
+        population: 8994
+      - 
+        alternate_names: 
+          - Beveren
+          - Beveren-Waes
+          - Беверен
+        ascii_name: Beveren
+        name: Beveren
+        names_en: 
+          - Beveren
+        names_es: 
+          - Beveren
+        population: 45179
+      - 
+        alternate_names: ~
+        ascii_name: Bever
+        name: Bever
+        names_en: ~
+        names_es: ~
+        population: 1932
+      - 
+        alternate_names: 
+          - Bertem
+          - Berthem
+        ascii_name: Bertem
+        name: Bertem
+        names_en: ~
+        names_es: ~
+        population: 9215
+      - 
+        alternate_names: 
+          - Berlaere
+          - Berlare
+        ascii_name: Berlare
+        name: Berlare
+        names_en: ~
+        names_es: ~
+        population: 13853
+      - 
+        alternate_names: 
+          - Berlaar
+          - Berlaer
+        ascii_name: Berlaar
+        name: Berlaar
+        names_en: ~
+        names_es: ~
+        population: 10370
+      - 
+        alternate_names: 
+          - Beeringen
+          - Beringen
+          - Beringene
+        ascii_name: Beringen
+        name: Beringen
+        names_en: 
+          - Beringen
+        names_es: ~
+        population: 40930
+      - 
+        alternate_names: 
+          - Becquevoort
+          - Bekkevoort
+        ascii_name: Bekkevoort
+        name: Bekkevoort
+        names_en: ~
+        names_es: ~
+        population: 5714
+      - 
+        alternate_names: 
+          - Beggynendyck
+        ascii_name: Begijnendijk
+        name: Begijnendijk
+        names_en: ~
+        names_es: ~
+        population: 9178
+      - 
+        alternate_names: 
+          - Beersel
+          - Bersel
+          - Берсел
+        ascii_name: Beersel
+        name: Beersel
+        names_en: ~
+        names_es: ~
+        population: 23228
+      - 
+        alternate_names: 
+          - Beerse
+          - Beersse
+        ascii_name: Beerse
+        name: Beerse
+        names_en: ~
+        names_es: ~
+        population: 16208
+      - 
+        alternate_names: 
+          - Beernem
+          - Bèèrnem
+        ascii_name: Beernem
+        name: Beernem
+        names_en: 
+          - Beernem
+        names_es: 
+          - Beernem
+        population: 14512
+      - 
+        alternate_names: 
+          - Baelen
+          - Balen
+          - Balen-sur-Nethe
+        ascii_name: Balen
+        name: Balen
+        names_en: ~
+        names_es: ~
+        population: 19978
+      - 
+        alternate_names: 
+          - Baarle-Hertog
+          - Baerle-Duc
+          - バールレ・ヘルトフ
+        ascii_name: Baarle-Hertog
+        name: Baarle-Hertog
+        names_en: 
+          - Baarle-Hertog
+        names_es: 
+          - Baarle-Hertog
+        population: 2305
+      - 
+        alternate_names: 
+          - Aovelhem
+          - Avelgem
+          - Avelghem
+        ascii_name: Avelgem
+        name: Avelgem
+        names_en: 
+          - Avelgem
+        names_es: 
+          - Avelgem
+        population: 9106
+      - 
+        alternate_names: 
+          - Assenede
+        ascii_name: Assenede
+        name: Assenede
+        names_en: ~
+        names_es: ~
+        population: 13495
+      - 
+        alternate_names: 
+          - Assche
+          - Asse
+          - Asso
+        ascii_name: Asse
+        name: Asse
+        names_en: ~
+        names_es: ~
+        population: 28985
+      - 
+        alternate_names: 
+          - As
+          - Asch
+        ascii_name: As
+        name: As
+        names_en: ~
+        names_es: ~
+        population: 7250
+      - 
+        alternate_names: 
+          - Arendonck
+          - Arendonk
+        ascii_name: Arendonk
+        name: Arendonk
+        names_en: ~
+        names_es: ~
+        population: 12247
+      - 
+        alternate_names: 
+          - Ardooie
+          - Ardoye
+        ascii_name: Ardooie
+        name: Ardooie
+        names_en: ~
+        names_es: ~
+        population: 9161
+      - 
+        alternate_names: 
+          - Anseghem
+          - Anzegem
+          - Anzehem
+        ascii_name: Anzegem
+        name: Anzegem
+        names_en: 
+          - Anzegem
+        names_es: 
+          - Anzegem
+        population: 13920
+      - 
+        alternate_names: 
+          - Amberes
+          - "Antuerpen - Antwerpen"
+          - Antuerpia
+        ascii_name: Antwerpen
+        name: Antwerpen
+        names_en: 
+          - Antwerp
+        names_es: 
+          - Amberes
+        population: 459805
+      - 
+        alternate_names: 
+          - Alveringem
+          - Alveringhem
+          - Oalveringem
+        ascii_name: Alveringem
+        name: Alveringem
+        names_en: 
+          - Alveringem
+        names_es: 
+          - Alveringem
+        population: 4910
+      - 
+        alternate_names: 
+          - Alken
+          - Alkén
+          - Alleke
+        ascii_name: Alken
+        name: Alken
+        names_en: 
+          - Alken
+        names_es: ~
+        population: 10933
+      - 
+        alternate_names: 
+          - Aartselaar
+          - Aertselaer
+        ascii_name: Aartselaar
+        name: Aartselaar
+        names_en: ~
+        names_es: ~
+        population: 14193
+      - 
+        alternate_names: 
+          - Aarschot
+          - Aarshot
+          - Aerschot
+        ascii_name: Aarschot
+        name: Aarschot
+        names_en: ~
+        names_es: ~
+        population: 27656
+      - 
+        alternate_names: 
+          - Aalter
+          - Aeltre
+          - Gemeente_Aalter
+        ascii_name: Aalter
+        name: Aalter
+        names_en: 
+          - Aalter
+        names_es: ~
+        population: 18802
+      - 
+        alternate_names: 
+          - Aalst
+          - Alost
+        ascii_name: Aalst
+        name: Aalst
+        names_en: ~
+        names_es: ~
+        population: 77534
+    name: Flanders
+    names_en: 
+      - Flanders
+    names_es: ~

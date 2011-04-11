@@ -1,73 +1,106 @@
 --- 
-code: GD
-continent: NA
 name: Grenada
-population: 107818
+names_en: 
+  - Grenada
+names_es: 
+  - Granada
 regions: 
   - 
+    ascii_name: "Saint Patrick"
     cities: 
       - 
-        districts: []
-        location: "POINT (12.1166699999999992 -61.6166699999999992)"
-        name: Grenville
-        population: 2476
-        slug: grenville
-    code: GD.01
-    name: "Saint Andrew"
-    slug: saint-andrew
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (12.0333299999999994 -61.6666700000000034)"
-        name: "Saint David’s"
-        population: 1321
-        slug: saint-davids
-    code: GD.02
-    name: "Saint David"
-    slug: saint-david
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (12.0564400000000003 -61.7484899999999968)"
-        name: "Saint George's"
-        population: 7500
-        slug: saint-georges
-    code: GD.03
-    name: "Saint George"
-    slug: saint-george
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (12.1666699999999999 -61.7333300000000023)"
-        name: Gouyave
-        population: 3378
-        slug: gouyave
-    code: GD.04
-    name: "Saint John"
-    slug: saint-john
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (12.1902100000000004 -61.7067699999999988)"
-        name: Victoria
-        population: 2256
-        slug: victoria
-    code: GD.05
-    name: "Saint Mark"
-    slug: saint-mark
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (12.2166700000000006 -61.6333300000000008)"
+        alternate_names: 
+          - Sauteurs
+          - Sautiers
+        ascii_name: Sauteurs
         name: Sauteurs
+        names_en: ~
+        names_es: ~
         population: 1320
-        slug: sauteurs
-    code: GD.06
     name: "Saint Patrick"
-    slug: saint-patrick
-tld: gd
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Mark"
+    cities: 
+      - 
+        alternate_names: 
+          - "Grand Pauve"
+          - "Grand Pauvre"
+          - "Saint Mark"
+        ascii_name: Victoria
+        name: Victoria
+        names_en: ~
+        names_es: ~
+        population: 2256
+    name: "Saint Mark"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint John"
+    cities: 
+      - 
+        alternate_names: 
+          - "Charlotte Town"
+          - Gouave
+          - Gouyave
+        ascii_name: Gouyave
+        name: Gouyave
+        names_en: ~
+        names_es: ~
+        population: 3378
+    name: "Saint John"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint George"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fort Royal"
+          - Georgetown
+          - "Grenada City"
+        ascii_name: "Saint George's"
+        name: "Saint George's"
+        names_en: 
+          - "St. George's"
+        names_es: 
+          - "Saint George's"
+        population: 7500
+    name: "Saint George"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint David"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Saint David's"
+        name: "Saint David’s"
+        names_en: ~
+        names_es: ~
+        population: 1321
+    name: "Saint David"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Andrew"
+    cities: 
+      - 
+        alternate_names: 
+          - Grenville
+          - "La Baye"
+        ascii_name: Grenville
+        name: Grenville
+        names_en: ~
+        names_es: ~
+        population: 2476
+    name: "Saint Andrew"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Carriacou and Petite Martinique"
+    cities: []
+    name: "Carriacou and Petite Martinique"
+    names_en: ~
+    names_es: ~

@@ -1,105 +1,221 @@
 --- 
-code: QA
-continent: AS
 name: Qatar
-population: 840926
+names_en: 
+  - Qatar
+  - "State of Qatar"
+names_es: 
+  - Qatar
 regions: 
   - 
+    ascii_name: "Baladiyat ash Shamal"
     cities: 
       - 
-        districts: []
-        location: "POINT (25.4169400000000003 51.4038899999999970)"
-        name: "Umm Şalāl Muḩammad"
-        population: 29391
-        slug: umm-salal-muhammad
+        alternate_names: 
+          - "Madinat ash Shamal"
+          - "Madīnat ash Shamāl"
+          - "mdynt alshmal"
+        ascii_name: "Madinat ash Shamal"
+        name: "Madīnat ash Shamāl"
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (25.3686100000000003 51.2263900000000021)"
-        name: "Ash Shaḩānīyah"
-        population: 8380
-        slug: ash-shahaniyah
-      - 
-        districts: []
-        location: "POINT (25.6094399999999993 51.0922199999999975)"
-        name: "Al Jumaylīyah"
-        population: 1788
-        slug: al-jumayliyah
-      - 
-        districts: []
-        location: "POINT (25.8297199999999982 51.2452800000000011)"
-        name: "Al Ghuwayrīyah"
-        population: 2332
-        slug: al-ghuwayriyah
-      - 
-        districts: []
-        location: "POINT (25.6838900000000017 51.5058300000000031)"
-        name: "Al Khawr"
-        population: 18923
-        slug: al-khawr
-    code: QA.00
-    name: "Qatar (general)"
-    slug: qatar-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (25.2141699999999993 50.8072200000000009)"
-        name: "Umm Bāb"
-        population: 2500
-        slug: umm-bab
-      - 
-        districts: []
-        location: "POINT (25.4297199999999997 50.7858299999999971)"
-        name: Dukhān
-        population: 7250
-        slug: dukhan
-    code: QA.03
-    name: "Al Jumaylīyah"
-    slug: al-jumayliyah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (26.1333300000000008 51.2166700000000006)"
+        alternate_names: 
+          - "Ar Ru'ays"
+          - "Ar Ruwais"
+          - "Ar Ruways"
+        ascii_name: "Ar Ru'ays"
         name: "Ar Ru’ays"
+        names_en: ~
+        names_es: ~
         population: 3334
-        slug: ar-ruays
       - 
-        districts: []
-        location: "POINT (26.0216700000000003 51.3669399999999996)"
+        alternate_names: 
+          - Fuwayrit
+          - Fuwayriţ
+          - fuayrit
+        ascii_name: Fuwayrit
         name: Fuwayriţ
+        names_en: ~
+        names_es: ~
         population: 1333
-        slug: fuwayrit
-    code: QA.08
     name: "Madīnat ash Shamāl"
-    slug: madinat-ash-shamal
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Baladiyat al Ghuwayriyah"
+    cities: []
+    name: "Al Ghuwayrīyah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baladiyat al Khawr wa adh Dhakhirah"
     cities: 
       - 
-        districts: []
-        location: "POINT (25.1508299999999991 51.5377799999999979)"
-        name: "Al Wukayr"
-        population: 5146
-        slug: al-wukayr
+        alternate_names: 
+          - "Al Khawr"
+          - Al-Khaur
+          - "Khaur Shaqiq"
+        ascii_name: "Al Khawr"
+        name: "Al Khawr"
+        names_en: ~
+        names_es: ~
+        population: 18923
       - 
-        districts: []
-        location: "POINT (25.1677800000000005 51.6069400000000016)"
-        name: "Al Wakrah"
-        population: 26436
-        slug: al-wakrah
+        alternate_names: 
+          - "Al Ghuwairiya"
+          - "Al Ghuwairiyah"
+          - "Al Ghuwayriyah"
+        ascii_name: "Al Ghuwayriyah"
+        name: "Al Ghuwayrīyah"
+        names_en: ~
+        names_es: ~
+        population: 2332
+    name: "Al Khawr"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baladiyat Umm Salal"
+    cities: 
       - 
-        districts: []
-        location: "POINT (25.2919400000000003 51.4244399999999970)"
+        alternate_names: 
+          - "Umm Salal Mohammad"
+          - "Umm Salal Muhammad"
+          - "Umm Ses Salal"
+        ascii_name: "Umm Salal Muhammad"
+        name: "Umm Şalāl Muḩammad"
+        names_en: ~
+        names_es: ~
+        population: 29391
+      - 
+        alternate_names: 
+          - "Umm Salal `Ali"
+          - "Umm Silal `Ali"
+          - "Umm Slal Ali"
+        ascii_name: "Umm Salal `Ali"
+        name: "Umm Şalāl ‘Alī"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Umm Şalāl"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baladiyat al Jumayliyah"
+    cities: []
+    name: "Al Jumaylīyah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baladiyat ar Rayyan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Umm Bab"
+          - "Umm Bāb"
+          - "aum bab"
+        ascii_name: "Umm Bab"
+        name: "Umm Bāb"
+        names_en: ~
+        names_es: ~
+        population: 2500
+      - 
+        alternate_names: 
+          - "Al Khathiyah"
+          - Dukhan
+          - Dukhān
+        ascii_name: Dukhan
+        name: Dukhān
+        names_en: ~
+        names_es: ~
+        population: 7250
+      - 
+        alternate_names: 
+          - "Al Shahaniyah"
+          - "Ash Shahaniyah"
+          - "Ash Shaḩānīyah"
+        ascii_name: "Ash Shahaniyah"
+        name: "Ash Shaḩānīyah"
+        names_en: ~
+        names_es: ~
+        population: 8380
+      - 
+        alternate_names: 
+          - "Al Raiyan"
+          - "Al Rayyan"
+          - "Ar Rayyan"
+        ascii_name: "Ar Rayyan"
         name: "Ar Rayyān"
+        names_en: 
+          - "Ar Rayyan"
+        names_es: ~
         population: 272465
-        slug: ar-rayyan
       - 
-        districts: []
-        location: "POINT (25.2793199999999985 51.5224499999999992)"
+        alternate_names: 
+          - "Al Jamaliya"
+          - "Al Jamliyah"
+          - "Al Jamlīyah"
+        ascii_name: "Al Jumayliyah"
+        name: "Al Jumaylīyah"
+        names_en: ~
+        names_es: ~
+        population: 1788
+    name: "Ar Rayyān"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baladiyat ad Dawhah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ad Dawha"
+          - "Ad Dawhah"
+          - "Ad Dawḩa"
+        ascii_name: Doha
         name: Doha
+        names_en: 
+          - Doha
+        names_es: 
+          - Doha
         population: 344939
-        slug: doha
-    code: QA.10
+    name: "Ad Dawḩah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baladiyat al Wakrah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Wukair"
+          - "Al Wukayr"
+          - aalwukayr
+        ascii_name: "Al Wukayr"
+        name: "Al Wukayr"
+        names_en: ~
+        names_es: ~
+        population: 5146
+      - 
+        alternate_names: 
+          - "Al Wakrah"
+          - "Al Waqra"
+          - "Al Waqrah"
+        ascii_name: "Al Wakrah"
+        name: "Al Wakrah"
+        names_en: ~
+        names_es: ~
+        population: 26436
     name: "Al Wakrah"
-    slug: al-wakrah
-tld: qa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baladiyat Jarayan al Batinah"
+    cities: []
+    name: "Jarayān al Bāţinah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baladiyat Umm Sa`id"
+    cities: []
+    name: "Baladīyat Umm Sa‘īd"
+    names_en: ~
+    names_es: ~

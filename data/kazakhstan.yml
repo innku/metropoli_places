@@ -1,1606 +1,2523 @@
 --- 
-code: KZ
-continent: AS
 name: Kazakhstan
-population: 15340000
+names_en: 
+  - Kazakhstan
+  - "Republic of Kazakhstan"
+names_es: 
+  - Kazajstán
+  - Kazajistán
 regions: 
   - 
+    ascii_name: "Batys Qazaqstan Oblysy"
     cities: 
       - 
-        districts: []
-        location: "POINT (48.6833299999999980 73.2833300000000065)"
-        name: "Verkhniye Kayrakty"
-        population: 1158
-        slug: verkhniye-kayrakty
-      - 
-        districts: []
-        location: "POINT (48.7500000000000000 82.4000000000000057)"
-        name: Kokpekty
-        population: 5165
-        slug: kokpekty
-      - 
-        districts: []
-        location: "POINT (49.3333299999999966 49.3999999999999986)"
-        name: Zhumysker
-        population: 6834
-        slug: zhumysker
-      - 
-        districts: []
-        location: "POINT (48.8561100000000010 46.8336100000000002)"
-        name: Saykhin
-        population: 4825
-        slug: saykhin
-      - 
-        districts: []
-        location: "POINT (50.0666700000000020 54.8666699999999992)"
-        name: Karagandy
-        population: 451800
-        slug: karagandy
-      - 
-        districts: []
-        location: "POINT (49.2166700000000006 50.3333299999999966)"
-        name: Dzhangala
-        population: 5954
-        slug: dzhangala
-      - 
-        districts: []
-        location: "POINT (48.7833299999999994 53.2000000000000028)"
-        name: Akkol’
-        population: 4245
-        slug: akkol
-      - 
-        districts: []
-        location: "POINT (45.0000000000000000 77.9166699999999963)"
-        name: Taldyqorghan
-        population: 200000
-        slug: taldyqorghan
-      - 
-        districts: []
-        location: "POINT (49.7000000000000028 81.0499999999999972)"
-        name: Suykbulak
-        population: 1244
-        slug: suykbulak
-      - 
-        districts: []
-        location: "POINT (47.7833299999999994 78.7166699999999935)"
-        name: Sarykamys
-        population: 4038
-        slug: sarykamys
-      - 
-        districts: []
-        location: "POINT (49.7000000000000028 83.8333300000000037)"
-        name: Pervorosiyskiy
-        population: 2583
-        slug: pervorosiyskiy
-      - 
-        districts: []
-        location: "POINT (49.9833300000000023 72.5833300000000037)"
-        name: Kyzylzhar
-        population: 1514
-        slug: kyzylzhar
-      - 
-        districts: []
-        location: "POINT (42.5333299999999994 70.2666700000000048)"
-        name: Kokterek
-        population: 2384
-        slug: kokterek
-      - 
-        districts: []
-        location: "POINT (49.6499999999999986 73.5166700000000048)"
-        name: Koktal
-        population: 1403
-        slug: koktal
-      - 
-        districts: []
-        location: "POINT (46.5333299999999994 76.2000000000000028)"
-        name: Karabas
-        population: 2672
-        slug: karabas
-      - 
-        districts: []
-        location: "POINT (42.8333299999999966 68.3166700000000020)"
-        name: Bayaldyr
-        population: 2276
-        slug: bayaldyr
-      - 
-        districts: []
-        location: "POINT (48.1666700000000034 75.2999999999999972)"
-        name: Aktogay
-        population: 3741
-        slug: aktogay
-      - 
-        districts: []
-        location: "POINT (48.0333299999999994 72.8333300000000037)"
-        name: Aktau
-        population: 9977
-        slug: aktau
-      - 
-        districts: []
-        location: "POINT (48.7166700000000006 83.7000000000000028)"
-        name: Aksuat
-        population: 6696
-        slug: aksuat
-      - 
-        districts: []
-        location: "POINT (53.2924999999999969 69.6011100000000056)"
-        name: Akkol’
-        population: 16773
-        slug: akkol
-      - 
-        districts: []
-        location: "POINT (53.5827799999999996 68.3541699999999963)"
-        name: Birlestik
-        population: 1354
-        slug: birlestik
-    code: KZ.00
-    name: "Kazakhstan (general)"
-    slug: kazakhstan-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (45.2422200000000032 77.9822199999999981)"
-        name: Üshtöbe
-        population: 20492
-        slug: ushtobe
-      - 
-        districts: []
-        location: "POINT (43.4005599999999987 77.5933299999999946)"
-        name: Turgen’
-        population: 13000
-        slug: turgen
-      - 
-        districts: []
-        location: "POINT (44.8299999999999983 78.8238900000000058)"
-        name: Tekeli
-        population: 26678
-        slug: tekeli
-      - 
-        districts: []
-        location: "POINT (43.3044399999999996 77.2327800000000053)"
-        name: Talghar
-        population: 42194
-        slug: talghar
-      - 
-        districts: []
-        location: "POINT (45.0155600000000007 78.3738900000000029)"
-        name: Taldyqorghan
-        population: 116558
-        slug: taldyqorghan
-      - 
-        districts: []
-        location: "POINT (44.3583300000000023 77.9752799999999979)"
-        name: Saryözek
-        population: 13930
-        slug: saryozek
-      - 
-        districts: []
-        location: "POINT (45.4099999999999966 79.9186100000000010)"
-        name: Sarkand
-        population: 76919
-        slug: sarkand
-      - 
-        districts: []
-        location: "POINT (43.8833300000000008 77.0833300000000037)"
-        name: Qapshaghay
-        population: 42167
-        slug: qapshaghay
-      - 
-        districts: []
-        location: "POINT (43.3736099999999993 76.9399999999999977)"
-        name: Pervomayskīy
-        population: 7874
-        slug: pervomayskiy
-      - 
-        districts: []
-        location: "POINT (44.1627799999999979 80.0000000000000000)"
-        name: Zharkent
-        population: 34422
-        slug: zharkent
-      - 
-        districts: []
-        location: "POINT (45.8950000000000031 78.7180599999999941)"
-        name: Matay
-        population: 4139
-        slug: matay
-      - 
-        districts: []
-        location: "POINT (46.2349999999999994 78.9455600000000004)"
-        name: Lepsy
-        population: 5350
-        slug: lepsy
-      - 
-        districts: []
-        location: "POINT (44.8947199999999995 78.2083300000000037)"
-        name: "Balpyk Bi"
-        population: 11810
-        slug: balpyk-bi
-      - 
-        districts: []
-        location: "POINT (43.0197199999999995 79.2202800000000025)"
-        name: Kegen
-        population: 9993
-        slug: kegen
-      - 
-        districts: []
-        location: "POINT (43.3552000000000035 77.4524499999999989)"
-        name: Esik
-        population: 32995
-        slug: esik
-      - 
-        districts: []
-        location: "POINT (43.4277799999999985 77.0222200000000043)"
-        name: Energetīcheskīy
-        population: 18864
-        slug: energeticheskiy
-      - 
-        districts: []
-        location: "POINT (45.2533299999999983 82.4844400000000064)"
-        name: Dostyq
-        population: 2930
-        slug: dostyq
-      - 
-        districts: []
-        location: "POINT (43.3602800000000030 76.8577800000000053)"
-        name: Burunday
-        population: 20996
-        slug: burunday
-      - 
-        districts: []
-        location: "POINT (44.8080599999999976 76.2772199999999998)"
-        name: Bakanas
-        population: 6965
-        slug: bakanas
-      - 
-        districts: []
-        location: "POINT (45.2119399999999985 73.9786100000000033)"
-        name: Ülken
-        population: 3735
-        slug: ulken
-      - 
-        districts: []
-        location: "POINT (43.2500000000000000 76.9500000000000028)"
-        name: Almaty
-        population: 2000900
-        slug: almaty
-    code: KZ.01
-    name: Almaty
-    slug: almaty
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (51.9555599999999984 66.4041699999999935)"
-        name: Yesil’
-        population: 13504
-        slug: yesil
-      - 
-        districts: []
-        location: "POINT (52.4994399999999999 73.0974999999999966)"
-        name: Bestöbe
-        population: 7189
-        slug: bestobe
-      - 
-        districts: []
-        location: "POINT (51.7433300000000003 71.7122200000000021)"
-        name: Zholymbet
-        population: 6876
-        slug: zholymbet
-      - 
-        districts: []
-        location: "POINT (51.9083299999999994 67.3133299999999934)"
-        name: Zhaqsy
-        population: 5001
-        slug: zhaqsy
-      - 
-        districts: []
-        location: "POINT (51.7005600000000030 70.9994400000000070)"
-        name: Shortandy
-        population: 6980
-        slug: shortandy
-      - 
-        districts: []
-        location: "POINT (52.4580600000000032 68.1838900000000052)"
-        name: Shantobe
-        population: 5626
-        slug: shantobe
-      - 
-        districts: []
-        location: "POINT (52.6291700000000020 70.4169399999999968)"
-        name: Makīnsk
-        population: 17711
-        slug: makinsk
-      - 
-        districts: []
-        location: "POINT (51.0530600000000021 69.4741700000000009)"
-        name: Krasnoznamenskoe
-        population: 3751
-        slug: krasnoznamenskoe
-      - 
-        districts: []
-        location: "POINT (52.2405600000000021 66.5744399999999956)"
-        name: Krasnogorskīy
-        population: 3646
-        slug: krasnogorskiy
-      - 
-        districts: []
-        location: "POINT (51.6213899999999981 73.1069399999999945)"
-        name: Ereymentaū
-        population: 14169
-        slug: ereymentau
-      - 
-        districts: []
-        location: "POINT (51.1000000000000014 66.3166700000000020)"
-        name: Derzhavīnsk
-        population: 13856
-        slug: derzhavinsk
-      - 
-        districts: []
-        location: "POINT (52.5166699999999977 68.7666700000000048)"
-        name: Balkashīno
-        population: 6147
-        slug: balkashino
-      - 
-        districts: []
-        location: "POINT (51.7999999999999972 68.3333300000000037)"
-        name: Atbasar
-        population: 34797
-        slug: atbasar
-      - 
-        districts: []
-        location: "POINT (51.5283299999999969 69.7972199999999958)"
-        name: Astrakhan
-        population: 6459
-        slug: astrakhan
-      - 
-        districts: []
-        location: "POINT (52.4586100000000002 71.9858300000000071)"
-        name: Aqsū
-        population: 8543
-        slug: aqsu
-      - 
-        districts: []
-        location: "POINT (51.9977799999999988 70.9341699999999946)"
-        name: Aqköl
-        population: 2605
-        slug: aqkol
-      - 
-        districts: []
-        location: "POINT (52.3544399999999968 71.8869399999999956)"
-        name: Stepnogorsk
-        population: 46736
-        slug: stepnogorsk
-      - 
-        districts: []
-        location: "POINT (52.4774999999999991 72.0188899999999990)"
-        name: Zavodskoy
-        population: 6043
-        slug: zavodskoy
-      - 
-        districts: []
-        location: "POINT (51.1801000000000030 71.4459800000000058)"
-        name: Astana
-        population: 345604
-        slug: astana
-    code: KZ.03
-    name: Aqmola
-    slug: aqmola
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (49.1447199999999995 56.4872200000000007)"
-        name: Shubarkuduk
-        population: 11733
-        slug: shubarkuduk
-      - 
-        districts: []
-        location: "POINT (49.1413900000000012 57.1300000000000026)"
-        name: Temir
-        population: 2560
-        slug: temir
-      - 
-        districts: []
-        location: "POINT (48.5872200000000021 57.1869399999999999)"
-        name: Shubarshī
-        population: 8651
-        slug: shubarshi
-      - 
-        districts: []
-        location: "POINT (49.4744400000000013 57.4233300000000000)"
-        name: Oktyabr’sk
-        population: 28196
-        slug: oktyabrsk
-      - 
-        districts: []
-        location: "POINT (50.7475000000000023 56.5055600000000027)"
-        name: Martuk
-        population: 7756
-        slug: martuk
-      - 
-        districts: []
-        location: "POINT (50.2502799999999965 58.4347199999999987)"
-        name: Khromtaū
-        population: 23715
-        slug: khromtau
-      - 
-        districts: []
-        location: "POINT (48.8263900000000035 58.1441700000000026)"
-        name: Embi
-        population: 18760
-        slug: embi
-      - 
-        districts: []
-        location: "POINT (48.6947199999999967 55.8741699999999994)"
-        name: Bayganin
-        population: 7657
-        slug: bayganin
-      - 
-        districts: []
-        location: "POINT (50.5594400000000022 58.2747200000000021)"
-        name: Batamshinskiy
-        population: 5668
-        slug: batamshinskiy
-      - 
-        districts: []
-        location: "POINT (50.2796900000000022 57.2071800000000010)"
-        name: Aqtöbe
-        population: 262457
-        slug: aqtobe
-      - 
-        districts: []
-        location: "POINT (48.6166699999999992 61.2666699999999977)"
-        name: Yrghyz
-        population: 4673
-        slug: yrghyz
-    code: KZ.04
-    name: Aqtöbe
-    slug: aqtobe
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.8844399999999979 53.7836100000000030)"
-        name: Mīyaly
-        population: 6213
-        slug: miyaly
-      - 
-        districts: []
-        location: "POINT (47.6499999999999986 53.3166700000000020)"
-        name: Maqat
-        population: 14082
-        slug: maqat
-      - 
-        districts: []
-        location: "POINT (47.6666700000000034 51.5833299999999966)"
-        name: Makhambet
-        population: 8905
-        slug: makhambet
-      - 
-        districts: []
-        location: "POINT (46.9530699999999968 54.0197799999999972)"
-        name: Qulsary
-        population: 51216
-        slug: qulsary
-      - 
-        districts: []
-        location: "POINT (46.4352799999999988 53.4863900000000001)"
-        name: Qaraton
-        population: 8905
-        slug: qaraton
-      - 
-        districts: []
-        location: "POINT (48.5499999999999972 51.7833299999999994)"
-        name: Īnderbor
-        population: 13254
-        slug: inderbor
-      - 
-        districts: []
-        location: "POINT (47.5272199999999998 52.9811100000000010)"
-        name: Dossor
-        population: 9526
-        slug: dossor
-      - 
-        districts: []
-        location: "POINT (47.2413900000000027 52.9411100000000019)"
-        name: Bayshonas
-        population: 1864
-        slug: bayshonas
-      - 
-        districts: []
-        location: "POINT (47.0666700000000020 51.8666699999999992)"
-        name: Balyqshy
-        population: 19260
-        slug: balyqshy
-      - 
-        districts: []
-        location: "POINT (47.1166699999999992 51.8833300000000008)"
-        name: Atyraū
-        population: 180000
-        slug: atyrau
-    code: KZ.06
-    name: Atyraū
-    slug: atyrau
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (49.4166700000000034 46.8500000000000014)"
-        name: Zhänibek
-        population: 8212
-        slug: zhanibek
-      - 
-        districts: []
-        location: "POINT (51.1833299999999980 50.8166700000000020)"
+        alternate_names: 
+          - Peremetnaya
+          - Peremetnoe
+          - Peremetnoye
+        ascii_name: Peremetnoe
         name: Peremetnoe
+        names_en: 
+          - Peremetnoe
+        names_es: ~
         population: 4003
-        slug: peremetnoe
       - 
-        districts: []
-        location: "POINT (51.2333300000000023 51.3666699999999992)"
-        name: Ural’sk
+        alternate_names: 
+          - Oral
+          - Orał
+          - Ural'sk
+        ascii_name: Oral
+        name: Oral
+        names_en: 
+          - Oral
+        names_es: ~
         population: 200000
-        slug: uralsk
       - 
-        districts: []
-        location: "POINT (51.0825000000000031 51.2852800000000002)"
+        alternate_names: 
+          - KRUGLOOZERNOE
+          - Krugloozerni
+          - Krugloozernoe
+        ascii_name: Krugloozernoe
         name: Krūgloozernoe
+        names_en: 
+          - Krūgloozernoe
+        names_es: ~
         population: 2977
-        slug: krugloozernoe
       - 
-        districts: []
-        location: "POINT (49.7575000000000003 48.6950000000000003)"
+        alternate_names: 
+          - Kaztalovka
+          - Talovka
+          - Казталовка
+        ascii_name: Kaztalovka
         name: Kaztalovka
+        names_en: 
+          - Kaztalovka
+        names_es: ~
         population: 4825
-        slug: kaztalovka
       - 
-        districts: []
-        location: "POINT (51.1166699999999992 50.3166700000000020)"
+        alternate_names: 
+          - Kamenka
+          - Kamennyy
+          - Каменка
+        ascii_name: Kamenka
         name: Kamenka
+        names_en: 
+          - Kamenka
+        names_es: ~
         population: 6980
-        slug: kamenka
       - 
-        districts: []
-        location: "POINT (51.2000000000000028 51.9833300000000023)"
+        alternate_names: 
+          - Fedorovka
+          - Федоровка
+        ascii_name: Fedorovka
         name: Fedorovka
+        names_en: 
+          - Fedorovka
+        names_es: ~
         population: 5338
-        slug: fedorovka
       - 
-        districts: []
-        location: "POINT (50.2536100000000019 52.5949999999999989)"
+        alternate_names: 
+          - DZHANYBEK
+          - Djanibek
+          - Djanybek
+        ascii_name: Zhanibek
+        name: Zhänibek
+        names_en: 
+          - Zhänibek
+        names_es: ~
+        population: 8212
+      - 
+        alternate_names: 
+          - Dzhambeita
+          - Dzhambejty
+          - Dzhambeyta
+        ascii_name: Dzhambeyty
         name: Dzhambeyty
+        names_en: 
+          - Zhympīty
+        names_es: ~
         population: 6262
-        slug: dzhambeyty
       - 
-        districts: []
-        location: "POINT (51.0949999999999989 54.0813899999999990)"
+        alternate_names: 
+          - CHINGIRLAU
+          - Chingirlau
+          - Shyngghyrlau
+        ascii_name: Chingirlau
         name: Chingirlau
+        names_en: 
+          - Chingirlau
+        names_es: ~
         population: 6218
-        slug: chingirlau
       - 
-        districts: []
-        location: "POINT (50.2000000000000028 51.1666700000000034)"
+        alternate_names: 
+          - Chapaev
+          - Chapayev
+          - Chapayevo
+        ascii_name: Chapaev
         name: Chapaev
+        names_en: 
+          - Chapaev
+        names_es: ~
         population: 6000
-        slug: chapaev
       - 
-        districts: []
-        location: "POINT (51.4269400000000019 52.7124999999999986)"
+        alternate_names: 
+          - BURLIN
+          - Boerili
+          - Borili
+        ascii_name: Burlin
         name: Burlin
+        names_en: 
+          - Börili
+        names_es: ~
         population: 3593
-        slug: burlin
       - 
-        districts: []
-        location: "POINT (51.1677800000000005 52.9949999999999974)"
+        alternate_names: 
+          - AKSAJ
+          - Aksay
+          - Aqsay
+        ascii_name: Aqsay
         name: Aqsay
+        names_en: 
+          - Aksay
+        names_es: ~
         population: 34799
-        slug: aqsay
-    code: KZ.07
     name: "Batys Qazaqstan"
-    slug: batys-qazaqstan
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Mangistauskaya Oblast'"
     cities: 
       - 
-        districts: []
-        location: "POINT (43.2000000000000028 51.6499999999999986)"
-        name: Kuryk
-        population: 11836
-        slug: kuryk
-      - 
-        districts: []
-        location: "POINT (43.5941699999999983 52.0788900000000012)"
+        alternate_names: 
+          - ZHETYBAJ
+          - Zhetibay
+          - Zhetybay
+        ascii_name: Zhetibay
         name: Zhetibay
+        names_en: 
+          - Zhetibay
+        names_es: ~
         population: 11731
-        slug: zhetibay
       - 
-        districts: []
-        location: "POINT (44.3566700000000012 51.3536100000000033)"
+        alternate_names: 
+          - Tauchik
+          - Taushik
+          - Taushyq
+        ascii_name: Taushyq
         name: Taūshyq
+        names_en: 
+          - Taūshyq
+        names_es: ~
         population: 2600
-        slug: taushyq
       - 
-        districts: []
-        location: "POINT (44.1666700000000034 52.1166699999999992)"
+        alternate_names: 
+          - SHETPE
+          - Shetpe
+          - ШЕТПЕ
+        ascii_name: Shetpe
         name: Shetpe
+        names_en: 
+          - Shetpe
+        names_es: ~
         population: 11836
-        slug: shetpe
       - 
-        districts: []
-        location: "POINT (44.3297200000000018 53.5363899999999973)"
+        alternate_names: 
+          - Saj-Utes
+          - Say-Utes
+          - Say-Utës
+        ascii_name: Sayotesh
         name: Sayötesh
+        names_en: 
+          - Sayötesh
+        names_es: ~
         population: 1571
-        slug: sayotesh
       - 
-        districts: []
-        location: "POINT (43.4911099999999990 52.1086099999999988)"
+        alternate_names: 
+          - MUNAJSHI
+          - Munayshi
+          - Munayshy
+        ascii_name: Munayshy
         name: Munayshy
+        names_en: 
+          - Munayshy
+        names_es: ~
         population: 4085
-        slug: munayshy
       - 
-        districts: []
-        location: "POINT (44.5166699999999977 50.2666699999999977)"
+        alternate_names: 
+          - "Fort Aleksandrovsk"
+          - "Fort Aleksandrovskiy"
+          - "Fort Uritskogo"
+        ascii_name: Fort-Shevchenko
         name: Fort-Shevchenko
+        names_en: 
+          - Fort-Shevchenko
+        names_es: ~
         population: 5213
-        slug: fort-shevchenko
       - 
-        districts: []
-        location: "POINT (45.3166700000000020 55.2000000000000028)"
-        name: Beyneū
+        alternate_names: 
+          - ERALIEV
+          - Eraliev
+          - Erälīev
+        ascii_name: Kuryk
+        name: Kuryk
+        names_en: 
+          - Quryq
+        names_es: ~
+        population: 11836
+      - 
+        alternate_names: 
+          - Beyneu
+          - "Beyneu 1"
+          - Beyneū
+        ascii_name: Beyneu
+        name: Beyneu
+        names_en: ~
+        names_es: ~
         population: 14245
-        slug: beyneu
       - 
-        districts: []
-        location: "POINT (44.5377799999999979 50.2500000000000000)"
+        alternate_names: 
+          - BAUTINO
+          - Bautino
+          - "Bautino Seleniye"
+        ascii_name: Bautino
         name: Baūtīno
+        names_en: 
+          - Baūtīno
+        names_es: ~
         population: 3247
-        slug: bautino
       - 
-        districts: []
-        location: "POINT (43.6499999999999986 51.2000000000000028)"
-        name: Aqtaū
+        alternate_names: 
+          - Aktaou
+          - Aktau
+          - Aktauskiy
+        ascii_name: Aktau
+        name: Aktau
+        names_en: 
+          - Aqtau
+        names_es: 
+          - Aktau
         population: 147443
-        slug: aqtau
       - 
-        districts: []
-        location: "POINT (43.5963899999999995 51.2550000000000026)"
+        alternate_names: 
+          - OEmirzaq
+          - Omirzaq
+          - UMIRZAK
+        ascii_name: Omirzaq
         name: Ömirzaq
+        names_en: 
+          - Ömirzaq
+        names_es: ~
         population: 1885
-        slug: omirzaq
-    code: KZ.09
     name: Mangghystaū
-    slug: mangghystau
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Atyrau Oblysy"
     cities: 
       - 
-        districts: []
-        location: "POINT (42.5333299999999994 70.3333300000000037)"
-        name: "Turar Ryskulov"
-        population: 18421
-        slug: turar-ryskulov
+        alternate_names: 
+          - Mijaly
+          - Miyala
+          - Miyaly
+        ascii_name: Miyaly
+        name: Miyaly
+        names_en: 
+          - Mīyaly
+        names_es: ~
+        population: 6213
       - 
-        districts: []
-        location: "POINT (43.3333299999999966 68.2500000000000000)"
-        name: Türkistan
-        population: 97360
-        slug: turkistan
+        alternate_names: 
+          - MAKAT
+          - Makat
+          - "Makat Severnyy"
+        ascii_name: Maqat
+        name: Maqat
+        names_en: 
+          - Maqat
+        names_es: ~
+        population: 14082
       - 
-        districts: []
-        location: "POINT (42.5994400000000013 69.2633299999999963)"
-        name: Temirlanovka
-        population: 12245
-        slug: temirlanovka
+        alternate_names: 
+          - Makhambet
+          - Yamanka
+          - Yamankhalinka
+        ascii_name: Makhambet
+        name: Makhambet
+        names_en: 
+          - Makhambet
+        names_es: ~
+        population: 8905
       - 
-        districts: []
-        location: "POINT (40.6666700000000034 68.5333300000000065)"
-        name: Myrzakent
-        population: 9752
-        slug: myrzakent
+        alternate_names: 
+          - Kol'sary
+          - Kul'sari
+          - Kul'sary
+        ascii_name: Qulsary
+        name: Qulsary
+        names_en: ~
+        names_es: ~
+        population: 51216
       - 
-        districts: []
-        location: "POINT (42.2999999999999972 69.5999999999999943)"
-        name: Shymkent
-        population: 414032
-        slug: shymkent
+        alternate_names: 
+          - KARATON
+          - Karatan
+          - Karaton
+        ascii_name: Qaraton
+        name: Qaraton
+        names_en: 
+          - Qaraton
+        names_es: ~
+        population: 8905
       - 
-        districts: []
-        location: "POINT (42.5499999999999972 70.0000000000000000)"
-        name: Sastöbe
-        population: 6827
-        slug: sastobe
+        alternate_names: 
+          - INDERBORSKIJ
+          - Inder
+          - Inderbor
+        ascii_name: Inderbor
+        name: Īnderbor
+        names_en: 
+          - Īnderbor
+        names_es: ~
+        population: 13254
       - 
-        districts: []
-        location: "POINT (41.4500000000000028 69.1666699999999963)"
-        name: Saryaghash
-        population: 25139
-        slug: saryaghash
+        alternate_names: 
+          - Bos-Sor
+          - DOSSOR
+          - Dossor
+        ascii_name: Dossor
+        name: Dossor
+        names_en: 
+          - Dossor
+        names_es: ~
+        population: 9526
       - 
-        districts: []
-        location: "POINT (41.7588900000000010 69.3863900000000058)"
-        name: Qazyqurt
-        population: 14737
-        slug: qazyqurt
+        alternate_names: 
+          - BAJCHUNAS
+          - Baychunas
+          - Bayshonas
+        ascii_name: Bayshonas
+        name: Bayshonas
+        names_en: 
+          - Bayshonas
+        names_es: ~
+        population: 1864
       - 
-        districts: []
-        location: "POINT (42.2000000000000028 69.9000000000000057)"
-        name: Lenger
-        population: 21238
-        slug: lenger
+        alternate_names: 
+          - BALYKSHI
+          - Balykshi
+          - Balyqshy
+        ascii_name: Balyqshy
+        name: Balyqshy
+        names_en: 
+          - Balyqshy
+        names_es: ~
+        population: 19260
       - 
-        districts: []
-        location: "POINT (40.8994399999999985 68.3611099999999965)"
-        name: Asykata
-        population: 11378
-        slug: asykata
-      - 
-        districts: []
-        location: "POINT (43.5219400000000007 68.5108299999999986)"
-        name: Kentaū
-        population: 57408
-        slug: kentau
-      - 
-        districts: []
-        location: "POINT (40.8463899999999995 68.5066699999999997)"
-        name: Īl’īch
-        population: 12895
-        slug: ilich
-      - 
-        districts: []
-        location: "POINT (43.7650000000000006 69.1813899999999933)"
-        name: Sholaqqkorghan
-        population: 10836
-        slug: sholaqqkorghan
-      - 
-        districts: []
-        location: "POINT (43.0297199999999975 69.3772199999999941)"
-        name: Shayan
-        population: 9536
-        slug: shayan
-      - 
-        districts: []
-        location: "POINT (41.2547199999999989 67.9691700000000054)"
-        name: Shardara
-        population: 25356
-        slug: shardara
-      - 
-        districts: []
-        location: "POINT (42.4166700000000034 69.8333300000000037)"
-        name: Aksu
-        population: 26115
-        slug: aksu
-      - 
-        districts: []
-        location: "POINT (43.1799999999999997 69.9372199999999964)"
-        name: Bayzhansay
-        population: 2384
-        slug: bayzhansay
-      - 
-        districts: []
-        location: "POINT (43.5541699999999992 68.8888900000000035)"
-        name: Ashchysay
-        population: 5635
-        slug: ashchysay
-      - 
-        districts: []
-        location: "POINT (42.4333299999999980 68.7999999999999972)"
-        name: Arys
-        population: 36285
-        slug: arys
-    code: KZ.10
-    name: "Ongtüstik Qazaqstan"
-    slug: ongtustik-qazaqstan
+        alternate_names: 
+          - Aterau
+          - Atiraw
+          - Atyrau
+        ascii_name: Atyrau
+        name: Atyrau
+        names_en: 
+          - Atyrau
+        names_es: ~
+        population: 180000
+    name: Atyraū
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Aktyubinskaya Oblast'"
     cities: 
       - 
-        districts: []
-        location: "POINT (53.5399999999999991 75.3072200000000009)"
-        name: Zhelezīnka
-        population: 5225
-        slug: zhelezinka
+        alternate_names: 
+          - Temir
+          - Темир
+        ascii_name: Temir
+        name: Temir
+        names_en: ~
+        names_es: ~
+        population: 2560
       - 
-        districts: []
-        location: "POINT (52.2999999999999972 76.9500000000000028)"
-        name: Pavlodar
-        population: 329002
-        slug: pavlodar
+        alternate_names: 
+          - Shubarshi
+          - Shubarshī
+          - Шубарши
+        ascii_name: Shubarshi
+        name: Shubarshi
+        names_en: ~
+        names_es: ~
+        population: 8651
       - 
-        districts: []
-        location: "POINT (50.7566699999999997 78.5400000000000063)"
-        name: Kūrchatov
-        population: 10747
-        slug: kurchatov
+        alternate_names: 
+          - "Chubar Kuduk"
+          - SHUBARKUDUK
+          - "Shuba Kuduk"
+        ascii_name: Shubarkuduk
+        name: Shubarkuduk
+        names_en: 
+          - Shubarkuduk
+        names_es: ~
+        population: 11733
       - 
-        districts: []
-        location: "POINT (51.4624999999999986 75.7986099999999965)"
-        name: Mayqayyng
-        population: 7695
-        slug: mayqayyng
+        alternate_names: 
+          - Kandagach
+          - Kandagash
+          - Kandyagash
+        ascii_name: Oktyabr'sk
+        name: Oktyabr’sk
+        names_en: 
+          - Oktyabr'sk
+        names_es: ~
+        population: 28196
       - 
-        districts: []
-        location: "POINT (52.2502799999999965 76.7805599999999941)"
-        name: Lenīnskīy
-        population: 8646
-        slug: leninskiy
+        alternate_names: 
+          - Martok
+          - Martu
+          - Martuk
+        ascii_name: Martuk
+        name: Martuk
+        names_en: 
+          - Mortyq
+        names_es: ~
+        population: 7756
       - 
-        districts: []
-        location: "POINT (51.9525000000000006 76.0211099999999931)"
-        name: Qalqaman
-        population: 5415
-        slug: qalqaman
+        alternate_names: 
+          - KHROMTAU
+          - Khrom-Tai
+          - Khromtau
+        ascii_name: Khromtau
+        name: Khromtau
+        names_en: 
+          - Khromtaū
+        names_es: ~
+        population: 23715
       - 
-        districts: []
-        location: "POINT (53.0675000000000026 76.1036100000000033)"
-        name: Kachīry
-        population: 8931
-        slug: kachiry
+        alternate_names: 
+          - Amba
+          - EHMBA
+          - Emba
+        ascii_name: Embi
+        name: Embi
+        names_en: 
+          - Emba
+        names_es: ~
+        population: 18760
       - 
-        districts: []
-        location: "POINT (53.3333299999999966 75.4572200000000066)"
-        name: Ertis
-        population: 9216
-        slug: ertis
+        alternate_names: 
+          - Bajganin
+          - Bayganin
+          - Bayghanin
+        ascii_name: Bayganin
+        name: Bayganin
+        names_en: 
+          - Bayganin
+        names_es: ~
+        population: 7657
       - 
-        districts: []
-        location: "POINT (52.0333299999999994 76.9166699999999963)"
-        name: Aqsū
-        population: 44808
-        slug: aqsu
+        alternate_names: 
+          - BATAMSHINSKIJ
+          - Badamsha
+          - Batamshinskiy
+        ascii_name: Batamshinskiy
+        name: Batamshinskiy
+        names_en: 
+          - Batamshinskiy
+        names_es: ~
+        population: 5668
       - 
-        districts: []
-        location: "POINT (51.6666700000000034 75.3666699999999992)"
-        name: Ekibastuz
-        population: 121470
-        slug: ekibastuz
+        alternate_names: 
+          - AKTJUBINSK
+          - Aktiube
+          - Aktiubinsk
+        ascii_name: Aqtobe
+        name: Aqtöbe
+        names_en: 
+          - Aqtöbe
+        names_es: ~
+        population: 262457
       - 
-        districts: []
-        location: "POINT (51.5297199999999975 77.4713899999999995)"
-        name: Köktöbe
-        population: 3610
-        slug: koktobe
-      - 
-        districts: []
-        location: "POINT (50.7888900000000021 75.6955600000000004)"
-        name: Bayanaūyl
-        population: 5700
-        slug: bayanauyl
-    code: KZ.11
-    name: Pavlodar
-    slug: pavlodar
+        alternate_names: 
+          - Irgiz
+          - Yrghyz
+          - Иргиз
+        ascii_name: Yrghyz
+        name: Yrghyz
+        names_en: 
+          - Yrghyz
+        names_es: ~
+        population: 4673
+    name: Aqtöbe
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "East Kazakhstan"
     cities: 
       - 
-        districts: []
-        location: "POINT (49.7988900000000001 73.0994400000000013)"
-        name: Qaraghandy
-        population: 451800
-        slug: qaraghandy
-      - 
-        districts: []
-        location: "POINT (48.7663900000000012 73.6722199999999958)"
-        name: Aqsū-Ayuly
-        population: 4721
-        slug: aqsu-ayuly
-      - 
-        districts: []
-        location: "POINT (47.7833299999999994 67.7666700000000048)"
-        name: Zhezqazghan
-        population: 104357
-        slug: zhezqazghan
-      - 
-        districts: []
-        location: "POINT (48.8516699999999986 72.8297199999999947)"
-        name: "Saken Seyfullin"
-        population: 2940
-        slug: saken-seyfullin
-      - 
-        districts: []
-        location: "POINT (50.1191699999999969 73.1655599999999993)"
-        name: Tokarevka
-        population: 4098
-        slug: tokarevka
-      - 
-        districts: []
-        location: "POINT (50.0544399999999996 72.9483299999999986)"
-        name: Temirtaū
-        population: 170600
-        slug: temirtau
-      - 
-        districts: []
-        location: "POINT (49.8233299999999986 72.6341699999999975)"
-        name: Shakhan
-        population: 13273
-        slug: shakhan
-      - 
-        districts: []
-        location: "POINT (47.0000000000000000 77.2666700000000048)"
-        name: Sayaq
-        population: 4543
-        slug: sayaq
-      - 
-        districts: []
-        location: "POINT (46.1191699999999969 73.6191699999999969)"
-        name: Saryshaghan
-        population: 4365
-        slug: saryshaghan
-      - 
-        districts: []
-        location: "POINT (49.7800000000000011 72.8505600000000015)"
-        name: Sorang
-        population: 42552
-        slug: sorang
-      - 
-        districts: []
-        location: "POINT (49.4058300000000017 75.4741700000000009)"
-        name: Qarqaraly
-        population: 8195
-        slug: qarqaraly
-      - 
-        districts: []
-        location: "POINT (48.0077799999999968 70.7902799999999957)"
-        name: Qarazhal
-        population: 13807
-        slug: qarazhal
-      - 
-        districts: []
-        location: "POINT (50.5649999999999977 72.5691699999999997)"
-        name: Osakarovka
-        population: 7305
-        slug: osakarovka
-      - 
-        districts: []
-        location: "POINT (49.7049999999999983 72.7047199999999947)"
-        name: Novodolīnskīy
-        population: 5167
-        slug: novodolinskiy
-      - 
-        districts: []
-        location: "POINT (47.2211100000000030 73.3669399999999996)"
-        name: Moyynty
-        population: 2049
-        slug: moyynty
-      - 
-        districts: []
-        location: "POINT (50.2338900000000024 73.4025000000000034)"
-        name: Qūshoqy
-        population: 3920
-        slug: qushoqy
-      - 
-        districts: []
-        location: "POINT (50.2619400000000027 71.5513899999999978)"
-        name: Kīevka
-        population: 7037
-        slug: kievka
-      - 
-        districts: []
-        location: "POINT (47.2069400000000030 71.3969400000000007)"
-        name: Zhambyl
-        population: 1336
-        slug: zhambyl
-      - 
-        districts: []
-        location: "POINT (49.6741699999999966 72.6761099999999942)"
-        name: Dolīnka
-        population: 4543
-        slug: dolinka
-      - 
-        districts: []
-        location: "POINT (46.8480599999999967 74.9950000000000045)"
-        name: Balqash
-        population: 81364
-        slug: balqash
-      - 
-        districts: []
-        location: "POINT (48.6813900000000004 71.6433300000000060)"
-        name: Atasū
-        population: 13184
-        slug: atasu
-      - 
-        districts: []
-        location: "POINT (50.2366699999999966 73.0627800000000036)"
-        name: Aqtaū
-        population: 9500
-        slug: aqtau
-      - 
-        districts: []
-        location: "POINT (47.9891700000000014 74.0575000000000045)"
-        name: Aqshataū
-        population: 4899
-        slug: aqshatau
-      - 
-        districts: []
-        location: "POINT (48.2552799999999991 72.8483300000000042)"
-        name: Aqadyr
-        population: 9710
-        slug: aqadyr
-      - 
-        districts: []
-        location: "POINT (49.6913899999999984 75.5811099999999954)"
-        name: Akzhal
-        population: 3563
-        slug: akzhal
-      - 
-        districts: []
-        location: "POINT (49.7788899999999970 72.9608300000000014)"
-        name: Aqtas
-        population: 9888
-        slug: aqtas
-      - 
-        districts: []
-        location: "POINT (49.6311099999999996 72.8538900000000069)"
-        name: Abay
-        population: 35454
-        slug: abay
-      - 
-        districts: []
-        location: "POINT (46.8169400000000024 75.0402799999999957)"
-        name: Shashūbay
-        population: 3563
-        slug: shashubay
-      - 
-        districts: []
-        location: "POINT (48.8822199999999967 68.8072200000000009)"
-        name: Shubarköl
-        population: 1247
-        slug: shubarkol
-    code: KZ.12
-    name: Qaraghandy
-    slug: qaraghandy
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.1908299999999983 61.2005600000000030)"
-        name: Zhetiqara
-        population: 43104
-        slug: zhetiqara
-      - 
-        districts: []
-        location: "POINT (54.4324999999999974 66.0766699999999929)"
-        name: Troyebratskiy
-        population: 2951
-        slug: troyebratskiy
-      - 
-        districts: []
-        location: "POINT (49.6338900000000010 63.4980600000000024)"
-        name: Torghay
-        population: 5277
-        slug: torghay
-      - 
-        districts: []
-        location: "POINT (52.6844400000000022 62.5794399999999982)"
-        name: Tobol
-        population: 7155
-        slug: tobol
-      - 
-        districts: []
-        location: "POINT (52.8227800000000016 62.5163900000000012)"
-        name: Taranovskoye
-        population: 3130
-        slug: taranovskoye
-      - 
-        districts: []
-        location: "POINT (52.9594400000000007 63.1205599999999976)"
-        name: Rūdnyy
-        population: 124000
-        slug: rudnyy
-      - 
-        districts: []
-        location: "POINT (52.4502799999999993 64.6311100000000067)"
-        name: Qusmuryn
-        population: 8049
-        slug: qusmuryn
-      - 
-        districts: []
-        location: "POINT (53.1666700000000034 63.5833299999999966)"
-        name: Qostanay
-        population: 210000
-        slug: qostanay
-      - 
-        districts: []
-        location: "POINT (53.3905600000000007 62.9297200000000032)"
-        name: Kachar
-        population: 10285
-        slug: kachar
-      - 
-        districts: []
-        location: "POINT (52.4411100000000019 61.7408300000000025)"
-        name: Ordzhonīkīdze
-        population: 4919
-        slug: ordzhonikidze
-      - 
-        districts: []
-        location: "POINT (52.5369400000000013 62.4936099999999968)"
-        name: Līsakovsk
-        population: 40000
-        slug: lisakovsk
-      - 
-        districts: []
-        location: "POINT (53.7452800000000011 62.0708300000000008)"
-        name: Komsomolets
-        population: 9838
-        slug: komsomolets
-      - 
-        districts: []
-        location: "POINT (52.6724999999999994 65.4911100000000062)"
-        name: Karasu
-        population: 3220
-        slug: karasu
-      - 
-        districts: []
-        location: "POINT (53.6313900000000032 62.7077799999999996)"
-        name: Fedorovka
-        population: 8317
-        slug: fedorovka
-      - 
-        districts: []
-        location: "POINT (53.7999999999999972 64.1500000000000057)"
-        name: Borovskoy
-        population: 9659
-        slug: borovskoy
-      - 
-        districts: []
-        location: "POINT (50.2486099999999993 66.9113899999999973)"
-        name: Arkalyk
-        population: 42000
-        slug: arkalyk
-    code: KZ.13
-    name: Qostanay
-    slug: qostanay
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (45.4877800000000008 64.0780599999999936)"
-        name: Zhosaly
-        population: 20065
-        slug: zhosaly
-      - 
-        districts: []
-        location: "POINT (45.8536100000000033 62.1561099999999982)"
-        name: "Äyteke Bī"
-        population: 35883
-        slug: ayteke-bi
-      - 
-        districts: []
-        location: "POINT (43.9149999999999991 67.2480599999999953)"
-        name: Zhangaqorghan
-        population: 21339
-        slug: zhangaqorghan
-      - 
-        districts: []
-        location: "POINT (45.0499999999999972 64.9833299999999952)"
-        name: Terenozek
-        population: 9661
-        slug: terenozek
-      - 
-        districts: []
-        location: "POINT (44.7727799999999974 65.5524999999999949)"
-        name: Tasböget
-        population: 16455
-        slug: tasboget
-      - 
-        districts: []
-        location: "POINT (44.8527800000000028 65.5091699999999975)"
-        name: Qyzylorda
-        population: 300000
-        slug: qyzylorda
-      - 
-        districts: []
-        location: "POINT (45.6166699999999992 63.3166700000000020)"
-        name: Baykonyr
-        population: 70000
-        slug: baykonyr
-      - 
-        districts: []
-        location: "POINT (45.7627799999999993 62.1075000000000017)"
-        name: Qazaly
-        population: 6582
-        slug: qazaly
-      - 
-        districts: []
-        location: "POINT (45.0833299999999966 64.6666699999999963)"
-        name: Dzhalagash
-        population: 14226
-        slug: dzhalagash
-      - 
-        districts: []
-        location: "POINT (44.1666700000000034 66.7500000000000000)"
-        name: Shīeli
-        population: 29832
-        slug: shieli
-      - 
-        districts: []
-        location: "POINT (46.7999999999999972 61.6666700000000034)"
-        name: Aral
-        population: 33017
-        slug: aral
-      - 
-        districts: []
-        location: "POINT (43.9794399999999968 67.3322200000000066)"
-        name: Shalqīya
-        population: 3822
-        slug: shalqiya
-      - 
-        districts: []
-        location: "POINT (44.8102799999999988 65.5875000000000057)"
-        name: Belköl
-        population: 1486
-        slug: belkol
-    code: KZ.14
-    name: Qyzylorda
-    slug: qyzylorda
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (49.7386100000000013 84.2719400000000007)"
+        alternate_names: 
+          - Ziryanovsk
+          - Zyranovsk
+          - Zyranovskoye
+        ascii_name: Zyryanovsk
         name: Zyryanovsk
+        names_en: 
+          - Zyryanovsk
+        names_es: ~
         population: 44929
-        slug: zyryanovsk
       - 
-        districts: []
-        location: "POINT (49.6352800000000016 83.5233300000000014)"
-        name: "Zhanga Buqtyrma"
-        population: 6026
-        slug: zhanga-buqtyrma
-      - 
-        districts: []
-        location: "POINT (49.7161100000000005 81.5836099999999931)"
-        name: Äūezov
-        population: 4209
-        slug: auezov
-      - 
-        districts: []
-        location: "POINT (50.9322200000000009 81.3611099999999965)"
+        alternate_names: 
+          - ZHEZKENT
+          - Zhezkent
+          - ЖЕЗКЕНТ
+        ascii_name: Zhezkent
         name: Zhezkent
+        names_en: 
+          - Zhezkent
+        names_es: ~
         population: 8896
-        slug: zhezkent
       - 
-        districts: []
-        location: "POINT (49.2199999999999989 81.2141699999999958)"
+        alternate_names: 
+          - ZHANGIZTOBE
+          - Zhalghyztobe
+          - Zhangiztobe
+        ascii_name: Zhalghyztobe
         name: Zhalghyztobe
+        names_en: 
+          - Zhalghyztobe
+        names_es: ~
         population: 4400
-        slug: zhalghyztobe
       - 
-        districts: []
-        location: "POINT (47.4666700000000006 84.8666699999999992)"
+        alternate_names: 
+          - Zaisan
+          - Zaysan
+        ascii_name: Zaysan
         name: Zaysan
+        names_en: ~
+        names_es: ~
         population: 17600
-        slug: zaysan
       - 
-        districts: []
-        location: "POINT (50.5558300000000003 81.8583299999999952)"
+        alternate_names: 
+          - Ust'-Talovka
+          - Ūst'-Talovka
+          - Ūst’-Talovka
+        ascii_name: Ust'-Talovka
         name: Ūst’-Talovka
+        names_en: 
+          - Ūst'-Talovka
+        names_es: ~
         population: 6122
-        slug: ust-talovka
       - 
-        districts: []
-        location: "POINT (47.0883299999999991 81.6308300000000031)"
+        alternate_names: 
+          - Urdjar
+          - Urdzhar
+          - Urdzharsk
+        ascii_name: Urzhar
         name: Ürzhar
+        names_en: ~
+        names_es: ~
         population: 14826
-        slug: urzhar
       - 
-        districts: []
-        location: "POINT (50.6327799999999968 81.9055599999999941)"
+        alternate_names: 
+          - SHEMONAIKHA
+          - Shemonaikha
+          - Shemonaīkha
+        ascii_name: Shemonaikha
         name: Shemonaīkha
+        names_en: 
+          - Shemonaīkha
+        names_es: ~
         population: 20087
-        slug: shemonaikha
       - 
-        districts: []
-        location: "POINT (49.5886100000000027 81.0452800000000053)"
+        alternate_names: 
+          - CHARSK
+          - Charsk
+          - Charskiy
+        ascii_name: Shar
         name: Shar
+        names_en: 
+          - Shar
+        names_es: ~
         population: 9087
-        slug: shar
       - 
-        districts: []
-        location: "POINT (50.4111100000000008 80.2275000000000063)"
+        alternate_names: 
+          - SEMIPALATINSK
+          - Semei
+          - Semej
+        ascii_name: Semey
         name: Semey
+        names_en: 
+          - Semey
+          - Semipalatinsk
+        names_es: ~
         population: 292780
-        slug: semey
       - 
-        districts: []
-        location: "POINT (48.9463900000000010 79.2588899999999938)"
+        alternate_names: 
+          - Abay
+          - Karaaul
+          - Karaul
+        ascii_name: Qarauyl
         name: Qaraūyl
+        names_en: 
+          - Qaraūyl
+        names_es: ~
         population: 5261
-        slug: qarauyl
       - 
-        districts: []
-        location: "POINT (47.7500000000000000 84.1833299999999980)"
+        alternate_names: 
+          - Priozernyy
+          - Priozërnyy
+          - Tarbagatay
+        ascii_name: Tughyl
         name: Tūghyl
+        names_en: ~
+        names_es: ~
         population: 6696
-        slug: tughyl
       - 
-        districts: []
-        location: "POINT (49.9788899999999998 82.6102800000000030)"
+        alternate_names: 
+          - OEskemen
+          - Oskemen
+          - UST'-KAMENOGORSK
+        ascii_name: Ust'-Kamenogorsk
         name: Ust’-Kamenogorsk
+        names_en: 
+          - Öskemen
+          - Ust'-Kamenogorsk
+        names_es: ~
         population: 319067
-        slug: ust-kamenogorsk
       - 
-        districts: []
-        location: "POINT (49.6702799999999982 83.0288900000000041)"
+        alternate_names: 
+          - OGNEVKA
+          - Ognevka
+          - ОГНЕВКА
+        ascii_name: Ognevka
         name: Ognevka
+        names_en: 
+          - Ognevka
+        names_es: ~
         population: 1722
-        slug: ognevka
       - 
-        districts: []
-        location: "POINT (50.3549999999999969 83.5133299999999963)"
+        alternate_names: 
+          - "NOVAJA BUKHTARMA"
+          - "Novaya Bukhtarma"
+          - "Zhanga Buqtyrma"
+        ascii_name: "Zhanga Buqtyrma"
+        name: "Zhanga Buqtyrma"
+        names_en: 
+          - "Zhanga Buqtyrma"
+        names_es: ~
+        population: 6026
+      - 
+        alternate_names: 
+          - LENINOGORSK
+          - Leninogor
+          - Leninogorsk
+        ascii_name: Ridder
         name: Ridder
+        names_en: 
+          - Ridder
+        names_es: ~
         population: 52664
-        slug: ridder
       - 
-        districts: []
-        location: "POINT (48.5722200000000015 83.6541699999999935)"
+        alternate_names: 
+          - Kumashenkino
+          - Kumashkino
+          - Kurchum
+        ascii_name: Kurchum
         name: Kurchum
+        names_en: 
+          - Kurchum
+        names_es: ~
         population: 8800
-        slug: kurchum
       - 
-        districts: []
-        location: "POINT (50.1455600000000032 82.3113900000000029)"
+        alternate_names: 
+          - GLUBOKOE
+          - Glubokoe
+          - Glubokoye
+        ascii_name: Glubokoye
         name: Glubokoye
+        names_en: 
+          - Glūbokoe
+        names_es: ~
         population: 11192
-        slug: glubokoye
       - 
-        districts: []
-        location: "POINT (49.3313899999999990 81.5761099999999999)"
+        alternate_names: 
+          - Georgievka
+          - Georgievskaya
+          - Georgiyevka
+        ascii_name: Georgievka
         name: Georgīevka
+        names_en: 
+          - Georgīevka
+        names_es: ~
         population: 22047
-        slug: georgievka
       - 
-        districts: []
-        location: "POINT (50.7202800000000025 80.9283300000000025)"
+        alternate_names: 
+          - Borodulikha
+          - Borodūlīkha
+          - Бородулиха
+        ascii_name: Borodulikha
         name: Borodūlīkha
+        names_en: 
+          - Borodūlīkha
+        names_es: ~
         population: 5931
-        slug: borodulikha
       - 
-        districts: []
-        location: "POINT (49.0602799999999988 81.6452799999999996)"
-        name: Böke
+        alternate_names: 
+          - Boke
+          - Boko
+          - Böke
+        ascii_name: "Priisk Boko"
+        name: "Priisk Boko"
+        names_en: ~
+        names_es: ~
         population: 1052
-        slug: boke
       - 
-        districts: []
-        location: "POINT (50.1338900000000010 82.5238899999999944)"
+        alternate_names: 
+          - BELOUSOVKA
+          - Belousovka
+          - Belousovskoye
+        ascii_name: Belusovka
         name: Belūsovka
+        names_en: 
+          - Belūsovka
+        names_es: ~
         population: 9948
-        slug: belusovka
       - 
-        districts: []
-        location: "POINT (49.4858300000000000 83.1533299999999969)"
+        alternate_names: 
+          - BELOGORSKIJ
+          - Belogor
+          - Belogorsk
+        ascii_name: Belogorskiy
         name: Belogorskīy
+        names_en: 
+          - Belogorskīy
+        names_es: ~
         population: 1530
-        slug: belogorskiy
       - 
-        districts: []
-        location: "POINT (47.9713899999999995 80.4391700000000043)"
+        alternate_names: 
+          - Ayagoz
+          - Ayaguz
+          - Ayakoz
+        ascii_name: Ayagoz
         name: Ayagoz
+        names_en: ~
+        names_es: ~
         population: 33479
-        slug: ayagoz
       - 
-        districts: []
-        location: "POINT (49.5583299999999980 83.0558300000000003)"
+        alternate_names: 
+          - AEuezov
+          - AUEHZOV
+          - Auezov
+        ascii_name: Bakyrshik
+        name: Bakyrshik
+        names_en: 
+          - Äūezov
+        names_es: ~
+        population: 4209
+      - 
+        alternate_names: 
+          - ASUBULAK
+          - Asubulak
+          - Asubulaq
+        ascii_name: Asubulaq
         name: Asūbulaq
+        names_en: 
+          - Asūbulaq
+        names_es: ~
         population: 5644
-        slug: asubulaq
       - 
-        districts: []
-        location: "POINT (46.9500000000000028 79.6666699999999963)"
+        alternate_names: 
+          - Aktogay
+          - Aqtoghay
+        ascii_name: Aqtoghay
         name: Aqtoghay
+        names_en: ~
+        names_es: ~
         population: 4974
-        slug: aqtoghay
       - 
-        districts: []
-        location: "POINT (49.8108300000000028 84.2869400000000013)"
+        alternate_names: 
+          - Maleevsk
+          - Maleyevsk
+          - Малеевск
+        ascii_name: Maleevsk
         name: Maleevsk
+        names_en: 
+          - Maleevsk
+        names_es: ~
         population: 2678
-        slug: maleevsk
       - 
-        districts: []
-        location: "POINT (50.2491699999999994 82.3533299999999997)"
+        alternate_names: 
+          - ALTAJSKIJ
+          - Altay
+          - Altayskiy
+        ascii_name: Altay
         name: Altay
+        names_en: 
+          - Altay
+        names_es: ~
         population: 2678
-        slug: altay
-    code: KZ.15
     name: "East Kazakhstan"
-    slug: east-kazakhstan
+    names_en: 
+      - "East Kazakhstan"
+    names_es: ~
   - 
+    ascii_name: "Aqmola Oblysy"
     cities: 
       - 
-        districts: []
-        location: "POINT (52.9333299999999980 70.2000000000000028)"
-        name: Shchūchīnsk
-        population: 47290
-        slug: shchuchinsk
+        alternate_names: 
+          - Dzhalambet
+          - Dzholonbet
+          - Dzhoronbet
+        ascii_name: Zholymbet
+        name: Zholymbet
+        names_en: ~
+        names_es: ~
+        population: 6876
       - 
-        districts: []
-        location: "POINT (54.8752799999999965 69.1627799999999979)"
-        name: Petropavlovsk
-        population: 200920
-        slug: petropavlovsk
+        alternate_names: 
+          - Dzhaksy
+          - Zhaksy
+          - Zhaqsy
+        ascii_name: Zhaqsy
+        name: Zhaqsy
+        names_en: ~
+        names_es: ~
+        population: 5001
       - 
-        districts: []
-        location: "POINT (54.3461100000000030 68.4574999999999960)"
+        alternate_names: 
+          - Shartandy
+          - Shortandy
+        ascii_name: Shortandy
+        name: Shortandy
+        names_en: ~
+        names_es: ~
+        population: 6980
+      - 
+        alternate_names: 
+          - Shangtobe
+          - Shangtöbe
+          - Shantobe
+        ascii_name: Shantobe
+        name: Shantobe
+        names_en: 
+          - Shantobe
+        names_es: ~
+        population: 5626
+      - 
+        alternate_names: 
+          - MAKINSK
+          - Makinsk
+          - Makīnsk
+        ascii_name: Makinsk
+        name: Makīnsk
+        names_en: 
+          - Makīnsk
+        names_es: ~
+        population: 17711
+      - 
+        alternate_names: 
+          - Krasnoznamenka
+          - Krasnoznamenskiy
+          - Krasnoznamenskoe
+        ascii_name: Krasnoznamenskoe
+        name: Krasnoznamenskoe
+        names_en: ~
+        names_es: ~
+        population: 3751
+      - 
+        alternate_names: 
+          - Krasnogorskij
+          - Krasnogorskiy
+          - Krasnogorskīy
+        ascii_name: Krasnogorskiy
+        name: Krasnogorskīy
+        names_en: 
+          - Krasnogorskīy
+        names_es: ~
+        population: 3646
+      - 
+        alternate_names: 
+          - Esil
+          - Yesil'
+          - Yesil’
+        ascii_name: Esil
+        name: Esil
+        names_en: ~
+        names_es: ~
+        population: 13504
+      - 
+        alternate_names: 
+          - Ereymentau
+          - Ereymentaū
+          - Ermentau
+        ascii_name: Yereymentau
+        name: Yereymentau
+        names_en: ~
+        names_es: ~
+        population: 14169
+      - 
+        alternate_names: 
+          - Derzhavinsk
+          - Derzhavinskiy
+          - Derzhavīnsk
+        ascii_name: Derzhavinsk
+        name: Derzhavīnsk
+        names_en: ~
+        names_es: ~
+        population: 13856
+      - 
+        alternate_names: 
+          - BESTOBE
+          - Bestobe
+          - Bestoebe
+        ascii_name: Bestobe
+        name: Bestöbe
+        names_en: 
+          - Bestöbe
+        names_es: ~
+        population: 7189
+      - 
+        alternate_names: 
+          - BALKASHINO
+          - Balkashino
+          - Balkashinskoye
+        ascii_name: Balkashino
+        name: Balkashino
+        names_en: 
+          - Balkashīno
+        names_es: ~
+        population: 6147
+      - 
+        alternate_names: 
+          - Atbasa
+          - Atbasar
+          - Атбасар
+        ascii_name: Atbasar
+        name: Atbasar
+        names_en: ~
+        names_es: ~
+        population: 34797
+      - 
+        alternate_names: 
+          - Astrakhan
+          - Astrakhanka
+          - Astrakhanskiy
+        ascii_name: Astrakhan
+        name: Astrakhan
+        names_en: ~
+        names_es: ~
+        population: 6459
+      - 
+        alternate_names: 
+          - AKSU
+          - Aksu
+          - Aqsu
+        ascii_name: Aqsu
+        name: Aqsū
+        names_en: 
+          - Aqsū
+        names_es: ~
+        population: 8543
+      - 
+        alternate_names: 
+          - ALEKSEEVKA
+          - Akkol'
+          - Akkol’
+        ascii_name: Aqkol
+        name: Aqköl
+        names_en: 
+          - Akkol'
+        names_es: ~
+        population: 2605
+      - 
+        alternate_names: 
+          - STEPNOGORSK
+          - Stepnogorsk
+          - СТЕПНОГОРСК
+        ascii_name: Stepnogorsk
+        name: Stepnogorsk
+        names_en: 
+          - Stepnogorsk
+        names_es: ~
+        population: 46736
+      - 
+        alternate_names: 
+          - ZAVODSKOJ
+          - Zavodskoy
+          - ЗАВОДСКОЙ
+        ascii_name: Zavodskoy
+        name: Zavodskoy
+        names_en: 
+          - Zavodskoy
+        names_es: ~
+        population: 6043
+    name: Aqmola
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Severo-Kazakhstanskaya Oblast'"
+    cities: 
+      - 
+        alternate_names: 
+          - Javlenka
+          - Yavlenka
+          - Явленка
+        ascii_name: Yavlenka
         name: Yavlenka
+        names_en: 
+          - Yavlenka
+        names_es: ~
         population: 4945
-        slug: yavlenka
       - 
-        districts: []
-        location: "POINT (53.2933299999999974 68.1041699999999963)"
+        alternate_names: 
+          - Saumalkol'
+          - Saumalkol’
+          - Volodarskiy
+        ascii_name: Saumalkol'
         name: Saumalkol’
+        names_en: 
+          - Saumalkol'
+        names_es: ~
         population: 2074
-        slug: saumalkol
       - 
-        districts: []
-        location: "POINT (53.7419399999999996 66.5205600000000032)"
+        alternate_names: 
+          - Timirjazevo
+          - Timiryazevo
+          - Tselinnoy
+        ascii_name: Timiryazevo
         name: Timiryazevo
+        names_en: 
+          - Timiryazevo
+        names_es: ~
         population: 4147
-        slug: timiryazevo
       - 
-        districts: []
-        location: "POINT (53.6372199999999992 71.8772199999999941)"
+        alternate_names: 
+          - TALSHIK
+          - Tal'chik
+          - Tal'shchik
+        ascii_name: Talshyq
         name: Talshyq
+        names_en: 
+          - Talshyq
+        names_es: ~
         population: 3111
-        slug: talshyq
       - 
-        districts: []
-        location: "POINT (52.8338899999999967 70.7802800000000047)"
+        alternate_names: 
+          - STEPNJAK
+          - Stepniak
+          - Stepnyak
+        ascii_name: Stepnyak
         name: Stepnyak
+        names_en: 
+          - Stepnyak
+        names_es: ~
         population: 4928
-        slug: stepnyak
       - 
-        districts: []
-        location: "POINT (54.5125000000000028 69.4222199999999958)"
-        name: Smīrnovo
+        alternate_names: 
+          - SMIRNOVO
+          - Smiirnovo
+          - Smirnovo
+        ascii_name: Smirnovo
+        name: Smirnovo
+        names_en: 
+          - Smīrnovo
+        names_es: ~
         population: 5742
-        slug: smirnovo
       - 
-        districts: []
-        location: "POINT (53.8800000000000026 67.4158299999999997)"
+        alternate_names: 
+          - SHHUCHINSK
+          - Shchuch'ye
+          - Shchuchinsk
+        ascii_name: Shchuchinsk
+        name: Shchūchīnsk
+        names_en: 
+          - Shchūchīnsk
+        names_es: ~
+        population: 47290
+      - 
+        alternate_names: 
+          - SERGEEVKA
+          - Sergeevka
+          - Sergeyevka
+        ascii_name: Sergeyevka
         name: Sergeyevka
+        names_en: 
+          - Sergeevka
+        names_es: ~
         population: 8845
-        slug: sergeyevka
       - 
-        districts: []
-        location: "POINT (53.6363899999999987 72.3413900000000041)"
+        alternate_names: 
+          - PETROPAVLOVSK
+          - Petropavl
+          - Petropavlovsk
+        ascii_name: Petropavlovsk
+        name: Petropavlovsk
+        names_en: 
+          - Petropavl
+          - Petropavlovsk
+        names_es: ~
+        population: 200920
+      - 
+        alternate_names: 
+          - KZYLTU
+          - Kishkenekol'
+          - Kishkenekol’
+        ascii_name: Kishkenekol'
         name: Kishkenekol’
+        names_en: 
+          - Kishkenekol'
+        names_es: ~
         population: 6779
-        slug: kishkenekol
       - 
-        districts: []
-        location: "POINT (53.8477800000000002 69.7638900000000035)"
+        alternate_names: 
+          - KRASNOARMEJSK
+          - Krasnoarmeysk
+          - Taincha
+        ascii_name: Taiynsha
         name: Taiynsha
+        names_en: 
+          - Taiynsha
+        names_es: ~
         population: 13148
-        slug: taiynsha
       - 
-        districts: []
-        location: "POINT (53.2775000000000034 69.3883299999999963)"
-        name: Kökshetaū
+        alternate_names: 
+          - KOKCHETAV
+          - Kochetayev
+          - Koekshetau
+        ascii_name: Kokshetau
+        name: Kokshetau
+        names_en: 
+          - Kökshetaū
+        names_es: ~
         population: 124444
-        slug: kokshetau
       - 
-        districts: []
-        location: "POINT (54.9055600000000013 70.4438899999999961)"
+        alternate_names: 
+          - BULAEVO
+          - Bulaevo
+          - Bulayevo
+        ascii_name: Bulaevo
         name: Būlaevo
+        names_en: 
+          - Būlaevo
+        names_es: ~
         population: 9886
-        slug: bulaevo
       - 
-        districts: []
-        location: "POINT (53.0838200000000029 70.3137899999999973)"
+        alternate_names: 
+          - BOROVOE
+          - Borovoe
+          - Borovoye
+        ascii_name: Burabay
         name: Būrabay
+        names_en: 
+          - Būrabay
+        names_es: ~
         population: 6500
-        slug: burabay
       - 
-        districts: []
-        location: "POINT (54.7802799999999976 69.1033299999999997)"
+        alternate_names: 
+          - Beskol
+          - Besköl
+          - Bishkul'
+        ascii_name: Bishkul'
         name: Bishkul’
+        names_en: 
+          - Bishkul'
+        names_es: ~
         population: 5423
-        slug: bishkul
       - 
-        districts: []
-        location: "POINT (53.1980599999999981 66.7694400000000030)"
-        name: Novoīshīmskīy
+        alternate_names: 
+          - NOVOISHIMSKIJ
+          - Novoishimskiy
+          - Novoīshīmskīy
+        ascii_name: Novoishimskiy
+        name: Novoishimskiy
+        names_en: 
+          - Novoishimskiy
+        names_es: ~
         population: 6062
-        slug: novoishimskiy
-    code: KZ.16
     name: "Soltüstik Qazaqstan"
-    slug: soltustik-qazaqstan
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Pavlodar Oblysy"
     cities: 
       - 
-        districts: []
-        location: "POINT (43.5666700000000020 69.7500000000000000)"
+        alternate_names: 
+          - Zhelezinka
+          - Zhelezinskaya
+          - Zheleznenka
+        ascii_name: Zhelezinka
+        name: Zhelezīnka
+        names_en: 
+          - Zhelezīnka
+        names_es: ~
+        population: 5225
+      - 
+        alternate_names: 
+          - Kereku
+          - Kerekū
+          - PAVLODAR
+        ascii_name: Pavlodar
+        name: Pavlodar
+        names_en: 
+          - Pavlodar
+        names_es: ~
+        population: 329002
+      - 
+        alternate_names: 
+          - Konechnaya
+          - Kurchatov
+          - Kurchatov-21
+        ascii_name: Kurchatov
+        name: Kūrchatov
+        names_en: ~
+        names_es: ~
+        population: 10747
+      - 
+        alternate_names: 
+          - Maykain
+          - Maykainskiy
+          - Mayqayyng
+        ascii_name: Mayqayyng
+        name: Mayqayyng
+        names_en: ~
+        names_es: ~
+        population: 7695
+      - 
+        alternate_names: 
+          - "Aul Sed'moy"
+          - "Aul Sed’moy"
+          - Bayer
+        ascii_name: Leninskiy
+        name: Lenīnskīy
+        names_en: 
+          - Lenīnskīy
+        names_es: ~
+        population: 8646
+      - 
+        alternate_names: 
+          - Kalkamak
+          - Kalkaman
+          - Kol'-Koman
+        ascii_name: Qalqaman
+        name: Qalqaman
+        names_en: ~
+        names_es: ~
+        population: 5415
+      - 
+        alternate_names: 
+          - KACHIRY
+          - Kachirski
+          - Kachirskiy
+        ascii_name: Kachiry
+        name: Kachīry
+        names_en: 
+          - Kachīry
+        names_es: ~
+        population: 8931
+      - 
+        alternate_names: 
+          - Ertis
+          - IRTYSHSK
+          - Irtysch
+        ascii_name: Ertis
+        name: Ertis
+        names_en: 
+          - Ertis
+        names_es: ~
+        population: 9216
+      - 
+        alternate_names: 
+          - AKSU
+          - Aksu
+          - Aqsu
+        ascii_name: Aqsu
+        name: Aqsū
+        names_en: 
+          - Aqsū
+        names_es: ~
+        population: 44808
+      - 
+        alternate_names: 
+          - Ehkibastuz
+          - Ekibastuz
+          - Ekibastuzugol'
+        ascii_name: Ekibastuz
+        name: Ekibastuz
+        names_en: ~
+        names_es: ~
+        population: 121470
+      - 
+        alternate_names: 
+          - Belogor'ye
+          - Belogor’ye
+          - Byelogor'ye
+        ascii_name: Koktobe
+        name: Köktöbe
+        names_en: ~
+        names_es: ~
+        population: 3610
+      - 
+        alternate_names: 
+          - Bayan-Aul'skoye
+          - Bayan-Aulskaya
+          - Bayan-Aul’skoye
+        ascii_name: Bayanauyl
+        name: Bayanaūyl
+        names_en: ~
+        names_es: ~
+        population: 5700
+    name: Pavlodar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qyzylorda Oblysy"
+    cities: 
+      - 
+        alternate_names: 
+          - Dzhusaly
+          - Jusaly
+          - Karmakchi
+        ascii_name: Zhosaly
+        name: Zhosaly
+        names_en: ~
+        names_es: ~
+        population: 20065
+      - 
+        alternate_names: 
+          - "Ayteke Bi"
+          - Novokazalinsk
+          - Zhangaqazaly
+        ascii_name: "Ayteke Bi"
+        name: "Ayteke Bi"
+        names_en: ~
+        names_es: ~
+        population: 35883
+      - 
+        alternate_names: 
+          - Yani-Kurgan
+          - Yany-Kurian
+          - Yanykurgan
+        ascii_name: Zhangaqorghan
+        name: Zhangaqorghan
+        names_en: ~
+        names_es: ~
+        population: 21339
+      - 
+        alternate_names: 
+          - Teren'-Uzyak
+          - Terengozek
+          - Terengözek
+        ascii_name: Terenozek
+        name: Terenozek
+        names_en: ~
+        names_es: ~
+        population: 9661
+      - 
+        alternate_names: 
+          - Tasboget
+          - Tasbuget
+          - Tasböget
+        ascii_name: Tasboget
+        name: Tasböget
+        names_en: ~
+        names_es: ~
+        population: 16455
+      - 
+        alternate_names: 
+          - Ak-Mechet'
+          - Ak-Mechet’
+          - Kyzylorda
+        ascii_name: Qyzylorda
+        name: Qyzylorda
+        names_en: ~
+        names_es: ~
+        population: 300000
+      - 
+        alternate_names: 
+          - Kasalinsk
+          - Kazalinsk
+          - Qazaly
+        ascii_name: Qazaly
+        name: Qazaly
+        names_en: ~
+        names_es: ~
+        population: 6582
+      - 
+        alternate_names: 
+          - Dzhalagash
+          - Zhalagash
+          - Zhalaghash
+        ascii_name: Dzhalagash
+        name: Dzhalagash
+        names_en: ~
+        names_es: ~
+        population: 14226
+      - 
+        alternate_names: 
+          - Chiili
+          - Shieli
+          - Shīeli
+        ascii_name: Shieli
+        name: Shīeli
+        names_en: ~
+        names_es: ~
+        population: 29832
+      - 
+        alternate_names: 
+          - Aral
+          - "Aral Sea"
+          - Aral'sk
+        ascii_name: Aral
+        name: Aral
+        names_en: ~
+        names_es: ~
+        population: 33017
+      - 
+        alternate_names: 
+          - Shalkiya
+          - Shalqiya
+          - Shalqīya
+        ascii_name: Shalqiya
+        name: Shalqīya
+        names_en: ~
+        names_es: ~
+        population: 3822
+      - 
+        alternate_names: 
+          - Belkol
+          - Belkul'
+          - Belkul’
+        ascii_name: Belkol
+        name: Belköl
+        names_en: ~
+        names_es: ~
+        population: 1486
+    name: Qyzylorda
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qostanay Oblysy"
+    cities: 
+      - 
+        alternate_names: 
+          - DZHETYGARA
+          - Dzhetygara
+          - Dzhetygora
+        ascii_name: Zhetiqara
+        name: Zhetiqara
+        names_en: 
+          - Dzhetygara
+        names_es: ~
+        population: 43104
+      - 
+        alternate_names: 
+          - TROEBRATSKIJ
+          - Troebratskiy
+          - Troebratskīy
+        ascii_name: Troyebratskiy
+        name: Troyebratskiy
+        names_en: 
+          - Troyebratskiy
+        names_es: ~
+        population: 2951
+      - 
+        alternate_names: 
+          - Torgay
+          - Torghay
+          - Turgai
+        ascii_name: Torghay
+        name: Torghay
+        names_en: 
+          - Torghay
+        names_es: ~
+        population: 5277
+      - 
+        alternate_names: 
+          - Tobol
+          - Tobyl
+        ascii_name: Tobol
+        name: Tobol
+        names_en: ~
+        names_es: ~
+        population: 7155
+      - 
+        alternate_names: 
+          - "Bolchaia Viktorovka"
+          - "Bolshaya Viktorovka"
+          - Taranovskoe
+        ascii_name: Taranovskoye
+        name: Taranovskoye
+        names_en: 
+          - Taranovskoe
+        names_es: ~
+        population: 3130
+      - 
+        alternate_names: 
+          - Rudnyj
+          - Rudnyy
+          - Rūdnyy
+        ascii_name: Rudnyy
+        name: Rudnyy
+        names_en: 
+          - Rudnyy
+        names_es: ~
+        population: 124000
+      - 
+        alternate_names: 
+          - KUSHMURUN
+          - Kushmurun
+          - Qusmuryn
+        ascii_name: Qusmuryn
+        name: Qusmuryn
+        names_en: 
+          - Kushmurun
+        names_es: ~
+        population: 8049
+      - 
+        alternate_names: 
+          - Kostanaj
+          - Kostanay
+          - Kustanai
+        ascii_name: Qostanay
+        name: Qostanay
+        names_en: 
+          - Qostanay
+        names_es: ~
+        population: 210000
+      - 
+        alternate_names: 
+          - Kachar
+          - Qashar
+          - Качар
+        ascii_name: Kachar
+        name: Kachar
+        names_en: 
+          - Kachar
+        names_es: ~
+        population: 10285
+      - 
+        alternate_names: 
+          - Denisovka
+          - Denisovski
+          - Ordzhonikidze
+        ascii_name: Ordzhonikidze
+        name: Ordzhonikidze
+        names_en: 
+          - Ordzhonīkīdze
+        names_es: ~
+        population: 4919
+      - 
+        alternate_names: 
+          - Lisakovka
+          - Lisakovsk
+          - Līsakovsk
+        ascii_name: Lisakovsk
+        name: Lisakovsk
+        names_en: 
+          - Līsakovsk
+        names_es: ~
+        population: 40000
+      - 
+        alternate_names: 
+          - KOMSOMOLEC
+          - Komsomolets
+          - КОМСОМОЛЕЦ
+        ascii_name: Komsomolets
+        name: Komsomolets
+        names_en: 
+          - Komsomolets
+        names_es: ~
+        population: 9838
+      - 
+        alternate_names: 
+          - Karaman
+          - Karasu
+          - Karasul'
+        ascii_name: Karasu
+        name: Karasu
+        names_en: 
+          - Qarasū
+        names_es: ~
+        population: 3220
+      - 
+        alternate_names: 
+          - FEDOROVKA
+          - Fedorovka
+          - Fedorovskiy
+        ascii_name: Fedorovka
+        name: Fedorovka
+        names_en: 
+          - Fëdorovka
+        names_es: ~
+        population: 8317
+      - 
+        alternate_names: 
+          - BOROVSKOJ
+          - Borovo
+          - Borovoye
+        ascii_name: Borovskoy
+        name: Borovskoy
+        names_en: 
+          - Borovskoy
+        names_es: ~
+        population: 9659
+      - 
+        alternate_names: 
+          - Arkalyk
+          - Arqalyk
+          - Arqalyq
+        ascii_name: Arkalyk
+        name: Arkalyk
+        names_en: 
+          - Arqalyk
+        names_es: ~
+        population: 42000
+    name: Qostanay
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qaraghandy Oblysy"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bol'shoy Dzhezkazgan"
+          - "Bol’shoy Dzhezkazgan"
+          - Dzhezkazgan
+        ascii_name: Zhezqazghan
+        name: Zhezqazghan
+        names_en: 
+          - Dzhezkazgan
+        names_es: ~
+        population: 104357
+      - 
+        alternate_names: 
+          - "Saken Seifullin"
+          - "Saken Seyfullin"
+          - Zharyk
+        ascii_name: "Saken Seyfullin"
+        name: "Saken Seyfullin"
+        names_en: ~
+        names_es: ~
+        population: 2940
+      - 
+        alternate_names: 
+          - Tokarevka
+          - Tokaryevko
+          - Токаревка
+        ascii_name: Tokarevka
+        name: Tokarevka
+        names_en: ~
+        names_es: ~
+        population: 4098
+      - 
+        alternate_names: 
+          - Samarand
+          - Samarka
+          - Samarkand
+        ascii_name: Temirtau
+        name: Temirtau
+        names_en: 
+          - Temirtau
+        names_es: ~
+        population: 170600
+      - 
+        alternate_names: 
+          - Shakan
+          - "Shakanskiye Vyselki"
+          - Shakhan
+        ascii_name: Shakhan
+        name: Shakhan
+        names_en: ~
+        names_es: ~
+        population: 13273
+      - 
+        alternate_names: 
+          - Sayak
+          - Sayaq
+        ascii_name: Sayaq
+        name: Sayaq
+        names_en: ~
+        names_es: ~
+        population: 4543
+      - 
+        alternate_names: 
+          - Saryshagan
+          - Saryshaghan
+        ascii_name: Saryshaghan
+        name: Saryshaghan
+        names_en: ~
+        names_es: ~
+        population: 4365
+      - 
+        alternate_names: 
+          - Saran'
+          - Saran’
+          - Sorang
+        ascii_name: Sorang
+        name: Sorang
+        names_en: ~
+        names_es: ~
+        population: 42552
+      - 
+        alternate_names: 
+          - Karkaralinsk
+          - Qarqaraly
+        ascii_name: Qarqaraly
+        name: Qarqaraly
+        names_en: ~
+        names_es: ~
+        population: 8195
+      - 
+        alternate_names: 
+          - Kara-Dzhal
+          - Karazhal
+          - Qarazhal
+        ascii_name: Qarazhal
+        name: Qarazhal
+        names_en: ~
+        names_es: ~
+        population: 13807
+      - 
+        alternate_names: 
+          - Karaganda
+          - "Karagandinskiye Kopi"
+          - Karagando
+        ascii_name: Qaraghandy
+        name: Qaraghandy
+        names_en: 
+          - Karaganda
+        names_es: ~
+        population: 451800
+      - 
+        alternate_names: 
+          - Osakarovka
+          - Oskarovka
+        ascii_name: Osakarovka
+        name: Osakarovka
+        names_en: ~
+        names_es: ~
+        population: 7305
+      - 
+        alternate_names: ~
+        ascii_name: Novodolinskiy
+        name: Novodolīnskīy
+        names_en: ~
+        names_es: ~
+        population: 5167
+      - 
+        alternate_names: 
+          - Mointy
+          - Moyynty
+        ascii_name: Moyynty
+        name: Moyynty
+        names_en: ~
+        names_es: ~
+        population: 2049
+      - 
+        alternate_names: 
+          - Kushoky
+          - Qushoqy
+          - Qūshoqy
+        ascii_name: Qushoqy
+        name: Qūshoqy
+        names_en: ~
+        names_es: ~
+        population: 3920
+      - 
+        alternate_names: 
+          - Kievka
+          - Kiewskaja
+          - Kiyevka
+        ascii_name: Kievka
+        name: Kīevka
+        names_en: ~
+        names_es: ~
+        population: 7037
+      - 
+        alternate_names: 
+          - Dzhambul
+          - Zhambyl
+          - Джамбул
+        ascii_name: Zhambyl
+        name: Zhambyl
+        names_en: ~
+        names_es: ~
+        population: 1336
+      - 
+        alternate_names: 
+          - Dolinka
+          - Dolinqa
+          - Dolinskoye
+        ascii_name: Dolinka
+        name: Dolīnka
+        names_en: ~
+        names_es: ~
+        population: 4543
+      - 
+        alternate_names: 
+          - Balkhash
+          - Balqash
+          - Pribalkhash
+        ascii_name: Balqash
+        name: Balqash
+        names_en: ~
+        names_es: ~
+        population: 81364
+      - 
+        alternate_names: 
+          - Atasu
+          - Atasuskiy
+          - Atasū
+        ascii_name: Atasu
+        name: Atasū
+        names_en: ~
+        names_es: ~
+        population: 13184
+      - 
+        alternate_names: 
+          - Aktau
+          - Aqtau
+          - Aqtaū
+        ascii_name: Aqtau
+        name: Aqtaū
+        names_en: ~
+        names_es: ~
+        population: 9500
+      - 
+        alternate_names: 
+          - Akchatan
+          - Akchatau
+          - Akchataul
+        ascii_name: Aqshatau
+        name: Aqshataū
+        names_en: ~
+        names_es: ~
+        population: 4899
+      - 
+        alternate_names: 
+          - Agadyr'
+          - Agadyr’
+          - Aqadyr
+        ascii_name: Aqadyr
+        name: Aqadyr
+        names_en: ~
+        names_es: ~
+        population: 9710
+      - 
+        alternate_names: 
+          - Akzhal
+          - Akzhol
+        ascii_name: Akzhal
+        name: Akzhal
+        names_en: ~
+        names_es: ~
+        population: 3563
+      - 
+        alternate_names: 
+          - Aktas
+          - Aqtas
+        ascii_name: Aqtas
+        name: Aqtas
+        names_en: ~
+        names_es: ~
+        population: 9888
+      - 
+        alternate_names: 
+          - Aksu-Ayuly
+          - Aqsu-Ayuly
+          - Aqsū-Ayuly
+        ascii_name: Aqsu-Ayuly
+        name: Aqsū-Ayuly
+        names_en: ~
+        names_es: ~
+        population: 4721
+      - 
+        alternate_names: 
+          - Abaj
+          - Abay
+          - Churbay-Nura
+        ascii_name: Abay
+        name: Abay
+        names_en: ~
+        names_es: ~
+        population: 35454
+      - 
+        alternate_names: 
+          - Rybtrest
+          - Shashubay
+          - Shashūbay
+        ascii_name: Shashubay
+        name: Shashūbay
+        names_en: ~
+        names_es: ~
+        population: 3563
+      - 
+        alternate_names: ~
+        ascii_name: Shubarkol
+        name: Shubarköl
+        names_en: ~
+        names_es: ~
+        population: 1247
+    name: Qaraghandy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zhambyl Oblysy"
+    cities: 
+      - 
+        alternate_names: 
+          - Dzhanatas
+          - Dzhanytas
+          - Zhanatas
+        ascii_name: Zhangatas
         name: Zhangatas
+        names_en: ~
+        names_es: ~
         population: 33492
-        slug: zhangatas
       - 
-        districts: []
-        location: "POINT (42.8999999999999986 71.3666699999999992)"
+        alternate_names: 
+          - Auliye-Ata
+          - Dzhambul
+          - Jambul
+        ascii_name: Taraz
         name: Taraz
+        names_en: 
+          - Taraz
+        names_es: ~
         population: 358153
-        slug: taraz
       - 
-        districts: []
-        location: "POINT (43.5983299999999971 73.7613900000000058)"
-        name: Shū
+        alternate_names: 
+          - Chu
+          - Shu
+          - Shū
+        ascii_name: Shu
+        name: Shu
+        names_en: ~
+        names_es: ~
         population: 39785
-        slug: shu
       - 
-        districts: []
-        location: "POINT (43.1666700000000034 70.4666699999999935)"
-        name: Qarataū
+        alternate_names: 
+          - Chulak-Tau
+          - Karatau
+          - Qaratau
+        ascii_name: Karatau
+        name: Karatau
+        names_en: ~
+        names_es: ~
         population: 37881
-        slug: qaratau
       - 
-        districts: []
-        location: "POINT (42.9072200000000024 73.2736100000000050)"
+        alternate_names: ~
+        ascii_name: Oytal
         name: Oytal
+        names_en: ~
+        names_es: ~
         population: 9821
-        slug: oytal
       - 
-        districts: []
-        location: "POINT (45.4161100000000033 73.6844399999999951)"
+        alternate_names: 
+          - "Mok-Aral Fishery"
+          - Mynaral
+          - "Mök-Aral Fishery"
+        ascii_name: Mynaral
         name: Mynaral
+        names_en: ~
+        names_es: ~
         population: 1303
-        slug: mynaral
       - 
-        districts: []
-        location: "POINT (43.0000000000000000 71.5000000000000000)"
+        alternate_names: 
+          - Mikhaylovka
+          - Sarykamar
+          - Sarykemer
+        ascii_name: Sarykemer
         name: Sarykemer
+        names_en: ~
+        names_es: ~
         population: 15132
-        slug: sarykemer
       - 
-        districts: []
-        location: "POINT (42.8727799999999988 73.1786100000000062)"
+        alternate_names: ~
+        ascii_name: Merke
         name: Merke
+        names_en: ~
+        names_es: ~
         population: 15934
-        slug: merke
       - 
-        districts: []
-        location: "POINT (42.9152800000000028 72.7080600000000032)"
+        alternate_names: 
+          - Kulan
+          - Lugovaya
+          - Lugovoy
+        ascii_name: Kulan
         name: Kulan
+        names_en: ~
+        names_es: ~
         population: 13128
-        slug: kulan
       - 
-        districts: []
-        location: "POINT (42.9472200000000015 72.7644399999999933)"
-        name: Lūgovoy
+        alternate_names: 
+          - Lugovka
+          - Lugovoe
+          - Lugovoy
+        ascii_name: Lugovoy
+        name: Lugovoy
+        names_en: ~
+        names_es: ~
         population: 10422
-        slug: lugovoy
       - 
-        districts: []
-        location: "POINT (44.2308299999999974 73.7999999999999972)"
+        alternate_names: ~
+        ascii_name: Khantau
         name: Khantaū
+        names_en: ~
+        names_es: ~
         population: 1403
-        slug: khantau
       - 
-        districts: []
-        location: "POINT (42.7461100000000016 73.4647199999999998)"
+        alternate_names: ~
+        ascii_name: Granitogorsk
         name: Granītogorsk
+        names_en: ~
+        names_es: ~
         population: 2004
-        slug: granitogorsk
       - 
-        districts: []
-        location: "POINT (43.0369400000000013 74.7113899999999944)"
+        alternate_names: 
+          - Georgievka
+          - Georgiyevka
+          - Georgīevka
+        ascii_name: Georgievka
         name: Georgīevka
+        names_en: ~
+        names_es: ~
         population: 9821
-        slug: georgievka
       - 
-        districts: []
-        location: "POINT (44.2913899999999998 72.9469399999999979)"
+        alternate_names: 
+          - Furmanovka
+          - Fūrmanovka
+          - Moyynkum
+        ascii_name: Moyynkum
         name: Moyynkum
+        names_en: ~
+        names_es: ~
         population: 10923
-        slug: moyynkum
       - 
-        districts: []
-        location: "POINT (45.0000000000000000 72.7833300000000065)"
+        alternate_names: 
+          - Akbakay
+          - Aqbaqay
+        ascii_name: Aqbaqay
         name: Aqbaqay
+        names_en: ~
+        names_es: ~
         population: 1804
-        slug: aqbaqay
       - 
-        districts: []
-        location: "POINT (44.8305599999999984 70.0019400000000047)"
+        alternate_names: 
+          - Chiganak
+          - Shyganak
+          - Shyghanaq
+        ascii_name: Shyghanaq
         name: Shyghanaq
+        names_en: ~
+        names_es: ~
         population: 2405
-        slug: shyghanaq
-    code: KZ.17
     name: Zhambyl
-    slug: zhambyl
-tld: kz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Yuzhno-Kazakhstanskaya Oblast'"
+    cities: 
+      - 
+        alternate_names: 
+          - "Turar Ryskulov"
+          - Vannovka
+          - Vannovskoye
+        ascii_name: "Turar Ryskulov"
+        name: "Turar Ryskulov"
+        names_en: ~
+        names_es: ~
+        population: 18421
+      - 
+        alternate_names: 
+          - Turkestan
+          - Turkistan
+          - Türkistan
+        ascii_name: Turkestan
+        name: Turkestan
+        names_en: ~
+        names_es: ~
+        population: 97360
+      - 
+        alternate_names: 
+          - Tamerlanovka
+          - Temirlan
+          - Temirlanovka
+        ascii_name: Temirlanovka
+        name: Temirlanovka
+        names_en: ~
+        names_es: ~
+        population: 12245
+      - 
+        alternate_names: 
+          - Myrzakent
+          - Slavyanka
+          - Slavyanski
+        ascii_name: Myrzakent
+        name: Myrzakent
+        names_en: ~
+        names_es: ~
+        population: 9752
+      - 
+        alternate_names: 
+          - Chimkent
+          - Chymkent
+          - Schymkent
+        ascii_name: Shymkent
+        name: Shymkent
+        names_en: 
+          - Shymkent
+        names_es: ~
+        population: 414032
+      - 
+        alternate_names: 
+          - Sas-Tyube
+          - Sastobe
+          - Sastyvbe
+        ascii_name: Sastobe
+        name: Sastöbe
+        names_en: ~
+        names_es: ~
+        population: 6827
+      - 
+        alternate_names: 
+          - Saryagach
+          - Saryagash
+          - Saryaghash
+        ascii_name: Saryaghash
+        name: Saryaghash
+        names_en: ~
+        names_es: ~
+        population: 25139
+      - 
+        alternate_names: 
+          - Kazyghurt
+          - Kazygurt
+          - Kazykurt
+        ascii_name: Qazyqurt
+        name: Qazyqurt
+        names_en: ~
+        names_es: ~
+        population: 14737
+      - 
+        alternate_names: 
+          - Kopi-Lenger
+          - Lenger
+          - Lenger-Ugol'
+        ascii_name: Lenger
+        name: Lenger
+        names_en: ~
+        names_es: ~
+        population: 21238
+      - 
+        alternate_names: 
+          - Asykata
+          - Kirov
+          - Kirovskiy
+        ascii_name: Asykata
+        name: Asykata
+        names_en: ~
+        names_es: ~
+        population: 11378
+      - 
+        alternate_names: 
+          - Kentau
+          - Kentaū
+          - Кентау
+        ascii_name: Kentau
+        name: Kentaū
+        names_en: ~
+        names_es: ~
+        population: 57408
+      - 
+        alternate_names: 
+          - Il'ich
+          - Ilyich
+          - Īl’īch
+        ascii_name: Ilyich
+        name: Ilyich
+        names_en: ~
+        names_es: ~
+        population: 12895
+      - 
+        alternate_names: 
+          - Chalak-Kurgan
+          - Chulakkurgan
+          - Sholakkorgan
+        ascii_name: Sholaqqkorghan
+        name: Sholaqqkorghan
+        names_en: ~
+        names_es: ~
+        population: 10836
+      - 
+        alternate_names: 
+          - Chayan
+          - Shayan
+        ascii_name: Shayan
+        name: Shayan
+        names_en: ~
+        names_es: ~
+        population: 9536
+      - 
+        alternate_names: 
+          - Chardara
+          - Shardara
+          - Syrdar'inskiy
+        ascii_name: Shardara
+        name: Shardara
+        names_en: ~
+        names_es: ~
+        population: 25356
+      - 
+        alternate_names: 
+          - Aksu
+          - "Belye Vody"
+          - "Belyye Vody"
+        ascii_name: Aksu
+        name: Aksu
+        names_en: ~
+        names_es: ~
+        population: 26115
+      - 
+        alternate_names: 
+          - Baidzhansai
+          - Baydzhansay
+          - Bayzhansay
+        ascii_name: Bayzhansay
+        name: Bayzhansay
+        names_en: ~
+        names_es: ~
+        population: 2384
+      - 
+        alternate_names: 
+          - Achi-Sai
+          - Achisay
+          - Achisayskiy
+        ascii_name: Ashchysay
+        name: Ashchysay
+        names_en: ~
+        names_es: ~
+        population: 5635
+      - 
+        alternate_names: 
+          - Arys
+          - Arys'
+          - Arys’
+        ascii_name: Arys
+        name: Arys
+        names_en: ~
+        names_es: ~
+        population: 36285
+    name: "Ongtüstik Qazaqstan"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Almaty Qalasy"
+    cities: 
+      - 
+        alternate_names: 
+          - "Alma Ata"
+          - Alma-Ata
+          - Almaato
+        ascii_name: Almaty
+        name: Almaty
+        names_en: 
+          - Almaty
+        names_es: 
+          - Almatý
+        population: 2000900
+    name: "Almaty Qalasy"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Almaty Oblysy"
+    cities: 
+      - 
+        alternate_names: 
+          - Ush-Tyube
+          - Ushtobe
+          - Üshtöbe
+        ascii_name: Ush-Tyube
+        name: Ush-Tyube
+        names_en: ~
+        names_es: ~
+        population: 20492
+      - 
+        alternate_names: 
+          - Turgen
+          - Turgen'
+          - Turgen’
+        ascii_name: Turgen'
+        name: Turgen’
+        names_en: ~
+        names_es: ~
+        population: 13000
+      - 
+        alternate_names: 
+          - Tekeli
+          - Tekely
+          - Текели
+        ascii_name: Tekeli
+        name: Tekeli
+        names_en: ~
+        names_es: ~
+        population: 26678
+      - 
+        alternate_names: 
+          - Talgar
+          - Talghar
+        ascii_name: Talghar
+        name: Talghar
+        names_en: ~
+        names_es: ~
+        population: 42194
+      - 
+        alternate_names: 
+          - Gavrilovka
+          - Gavrilovskoye
+          - "Taldi Kurgan"
+        ascii_name: Taldyqorghan
+        name: Taldyqorghan
+        names_en: 
+          - Taldykorgan
+        names_es: ~
+        population: 116558
+      - 
+        alternate_names: 
+          - Saro-Ozak
+          - Sary-Uzek
+          - Sary-Uzekskiy
+        ascii_name: Saryozek
+        name: Saryözek
+        names_en: ~
+        names_es: ~
+        population: 13930
+      - 
+        alternate_names: 
+          - Sarkand
+          - Sarkanskaya
+          - Sarqan
+        ascii_name: Sarkand
+        name: Sarkand
+        names_en: ~
+        names_es: ~
+        population: 76919
+      - 
+        alternate_names: 
+          - Ili
+          - Iliisk
+          - Ilijek
+        ascii_name: Qapshaghay
+        name: Qapshaghay
+        names_en: ~
+        names_es: ~
+        population: 42167
+      - 
+        alternate_names: 
+          - "Imeni Pervaya Maya"
+          - "Kolkhoz Imeni Pervaya Maya"
+          - Pervomajskoe
+        ascii_name: Pervomayskiy
+        name: Pervomayskiy
+        names_en: ~
+        names_es: ~
+        population: 7874
+      - 
+        alternate_names: 
+          - Djarkent
+          - Dzharkent
+          - Jarkent
+        ascii_name: Zharkent
+        name: Zharkent
+        names_en: ~
+        names_es: ~
+        population: 34422
+      - 
+        alternate_names: 
+          - Matay
+          - Motay
+        ascii_name: Matay
+        name: Matay
+        names_en: ~
+        names_es: ~
+        population: 4139
+      - 
+        alternate_names: 
+          - Lepsi
+          - Lepsy
+        ascii_name: Lepsy
+        name: Lepsy
+        names_en: ~
+        names_es: ~
+        population: 5350
+      - 
+        alternate_names: 
+          - "Balpyk Bi"
+          - Kirovskiy
+          - Kīrovskīy
+        ascii_name: "Balpyk Bi"
+        name: "Balpyk Bi"
+        names_en: ~
+        names_es: ~
+        population: 11810
+      - 
+        alternate_names: 
+          - Kegen
+        ascii_name: Kegen
+        name: Kegen
+        names_en: ~
+        names_es: ~
+        population: 9993
+      - 
+        alternate_names: 
+          - Esik
+          - Issok
+          - Issyk
+        ascii_name: Esik
+        name: Esik
+        names_en: ~
+        names_es: ~
+        population: 32995
+      - 
+        alternate_names: 
+          - Energeticheskiy
+          - Energetīcheskīy
+          - Znergeticheskiy
+        ascii_name: Energeticheskiy
+        name: Energeticheskiy
+        names_en: ~
+        names_es: ~
+        population: 18864
+      - 
+        alternate_names: 
+          - Dostyk
+          - Dostyq
+          - Druzhba
+        ascii_name: Dostyq
+        name: Dostyq
+        names_en: ~
+        names_es: ~
+        population: 2930
+      - 
+        alternate_names: 
+          - Baranday
+          - Boralday
+          - Burundaj
+        ascii_name: Burunday
+        name: Burunday
+        names_en: ~
+        names_es: ~
+        population: 20996
+      - 
+        alternate_names: 
+          - Bakanas
+          - Baqanas
+        ascii_name: Bakanas
+        name: Bakanas
+        names_en: ~
+        names_es: ~
+        population: 6965
+      - 
+        alternate_names: ~
+        ascii_name: Ulken
+        name: Ülken
+        names_en: ~
+        names_es: ~
+        population: 3735
+    name: Almaty
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bayqongyr Qalasy"
+    cities: 
+      - 
+        alternate_names: 
+          - Baikonur
+          - Bajkonur
+          - Baykonur
+        ascii_name: Baykonyr
+        name: Baykonyr
+        names_en: 
+          - Baikonur
+        names_es: ~
+        population: 70000
+    name: "Bayqongyr Qalasy"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Astana Qalasy"
+    cities: 
+      - 
+        alternate_names: 
+          - Akmola
+          - Akmolinsk
+          - Aqmola
+        ascii_name: Astana
+        name: Astana
+        names_en: 
+          - Astana
+        names_es: 
+          - Astaná
+        population: 345604
+    name: "Astana Qalasy"
+    names_en: ~
+    names_es: ~

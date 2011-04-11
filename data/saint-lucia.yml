@@ -1,95 +1,140 @@
 --- 
-code: LC
-continent: NA
 name: "Saint Lucia"
-population: 160922
+names_en: 
+  - "Saint Lucia"
+names_es: 
+  - "Saint Lucia"
+  - "Santa Lucía"
 regions: 
   - 
+    ascii_name: "Quarter of Vieux-Fort"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.9333299999999998 -61.0333299999999994)"
-        name: "Anse La Raye"
-        population: 1256
-        slug: anse-la-raye
-    code: LC.01
-    name: Anse-la-Raye
-    slug: anse-la-raye
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.9956999999999994 -61.0061400000000020)"
-        name: Castries
-        population: 10000
-        slug: castries
-    code: LC.03
-    name: Castries
-    slug: castries
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.9000000000000004 -60.8833300000000008)"
-        name: Dennery
-        population: 2870
-        slug: dennery
-    code: LC.05
-    name: Dennery
-    slug: dennery
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.0666700000000002 -60.9500000000000028)"
-        name: "Gros Islet"
-        population: 2362
-        slug: gros-islet
-    code: LC.06
-    name: Gros-Islet
-    slug: gros-islet
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.7500000000000000 -60.9833300000000023)"
-        name: Laborie
-        population: 1131
-        slug: laborie
-    code: LC.07
-    name: Laborie
-    slug: laborie
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.8166700000000002 -60.8999999999999986)"
-        name: Micoud
-        population: 3406
-        slug: micoud
-    code: LC.08
-    name: Micoud
-    slug: micoud
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.8499999999999996 -61.0499999999999972)"
-        name: Soufrière
-        population: 2918
-        slug: soufriere
-    code: LC.09
-    name: Soufrière
-    slug: soufriere
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.7166700000000006 -60.9500000000000028)"
+        alternate_names: ~
+        ascii_name: "Vieux Fort"
         name: "Vieux Fort"
+        names_en: ~
+        names_es: ~
         population: 4574
-        slug: vieux-fort
-    code: LC.10
     name: Vieux-Fort
-    slug: vieux-fort
-tld: lc
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Soufriere"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Soufriere
+        name: Soufrière
+        names_en: ~
+        names_es: ~
+        population: 2918
+    name: Soufrière
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Praslin"
+    cities: []
+    name: Praslin
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Micoud"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Micoud
+        name: Micoud
+        names_en: ~
+        names_es: ~
+        population: 3406
+    name: Micoud
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Laborie"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Laborie
+        name: Laborie
+        names_en: ~
+        names_es: ~
+        population: 1131
+    name: Laborie
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Gros-Islet"
+    cities: 
+      - 
+        alternate_names: 
+          - "Gros Ilet"
+          - "Gros Islet"
+          - "Gros Islet Village"
+        ascii_name: "Gros Islet"
+        name: "Gros Islet"
+        names_en: ~
+        names_es: ~
+        population: 2362
+    name: Gros-Islet
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Dennery"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Dennery
+        name: Dennery
+        names_en: ~
+        names_es: ~
+        population: 2870
+    name: Dennery
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Dauphin"
+    cities: []
+    name: Dauphin
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Choiseul"
+    cities: []
+    name: Choiseul
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Castries"
+    cities: 
+      - 
+        alternate_names: 
+          - Castries
+          - Kastri
+          - Kastris
+        ascii_name: Castries
+        name: Castries
+        names_en: 
+          - Castries
+        names_es: 
+          - Castries
+        population: 10000
+    name: Castries
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quarter of Anse-la-Raye"
+    cities: 
+      - 
+        alternate_names: 
+          - "Anse La Raye"
+          - "La Raye"
+        ascii_name: "Anse La Raye"
+        name: "Anse La Raye"
+        names_en: ~
+        names_es: ~
+        population: 1256
+    name: Anse-la-Raye
+    names_en: ~
+    names_es: ~

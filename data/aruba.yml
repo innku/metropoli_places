@@ -1,24 +1,34 @@
 --- 
-code: AW
-continent: NA
 name: Aruba
-population: 71566
+names_en: 
+  - Aruba
+names_es: 
+  - Aruba
 regions: 
   - 
+    ascii_name: "Aruba (general)"
     cities: 
       - 
-        districts: []
-        location: "POINT (12.5239799999999999 -70.0270299999999963)"
+        alternate_names: 
+          - Oran'estad
+          - Oraniestad
+          - Oranjestad
+        ascii_name: Oranjestad
         name: Oranjestad
+        names_en: 
+          - Oranjestad
+        names_es: 
+          - Oranjestad
         population: 29998
-        slug: oranjestad
       - 
-        districts: []
-        location: "POINT (12.6166699999999992 -70.0666700000000020)"
+        alternate_names: 
+          - Arashi
+          - Arasji
+        ascii_name: Arasji
         name: Arasji
+        names_en: ~
+        names_es: ~
         population: 14649
-        slug: arasji
-    code: AW.00
-    name: "Aruba (general)"
-    slug: aruba-general
-tld: aw
+    name: ~
+    names_en: ~
+    names_es: ~

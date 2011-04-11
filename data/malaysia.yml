@@ -1,977 +1,1338 @@
 --- 
-code: MY
-continent: AS
 name: Malaysia
-population: 28274729
+names_en: 
+  - Malaysia
+names_es: 
+  - Malasia
 regions: 
   - 
+    ascii_name: Melaka
     cities: 
       - 
-        districts: []
-        location: "POINT (3.1499999999999999 101.5333300000000065)"
-        name: "Kampung Baru Subang"
-        population: 833571
-        slug: kampung-baru-subang
-      - 
-        districts: []
-        location: "POINT (3.3833299999999999 101.4166699999999963)"
-        name: "Batang Berjuntai"
-        population: 20001
-        slug: batang-berjuntai
-      - 
-        districts: []
-        location: "POINT (3.3166699999999998 101.4666699999999935)"
-        name: "Batu Arang"
-        population: 22579
-        slug: batu-arang
-      - 
-        districts: []
-        location: "POINT (2.8166699999999998 101.5000000000000000)"
-        name: Banting
-        population: 75454
-        slug: banting
-      - 
-        districts: []
-        location: "POINT (2.9500000000000002 101.8499999999999943)"
-        name: Semenyih
-        population: 80574
-        slug: semenyih
-      - 
-        districts: []
-        location: "POINT (2.8833299999999999 101.8666699999999992)"
-        name: Beranang
-        population: 14369
-        slug: beranang
-      - 
-        districts: []
-        location: "POINT (3.3500000000000001 101.8166700000000020)"
-        name: "Kampung Bukit Tinggi"
-        population: 12346
-        slug: kampung-bukit-tinggi
-      - 
-        districts: []
-        location: "POINT (3.3666700000000001 101.6166699999999992)"
-        name: Serendah
-        population: 28484
-        slug: serendah
-      - 
-        districts: []
-        location: "POINT (3.3166699999999998 101.5833300000000037)"
-        name: Rawang
-        population: 120447
-        slug: rawang
-      - 
-        districts: []
-        location: "POINT (3.1072600000000001 101.6067100000000067)"
-        name: "Petaling Jaya"
-        population: 520698
-        slug: petaling-jaya
-      - 
-        districts: []
-        location: "POINT (3.7666700000000000 100.9833299999999952)"
-        name: "Sobak Bernam"
-        population: 17251
-        slug: sobak-bernam
-      - 
-        districts: []
-        location: "POINT (3.6666699999999999 100.9833299999999952)"
-        name: "Sungai Besar"
-        population: 26939
-        slug: sungai-besar
-      - 
-        districts: []
-        location: "POINT (2.6666699999999999 101.5666700000000020)"
-        name: "Tanjong Sepat"
-        population: 22340
-        slug: tanjong-sepat
-      - 
-        districts: []
-        location: "POINT (2.6499999999999999 101.7000000000000028)"
-        name: "Sungai Pelek New Village"
-        population: 13829
-        slug: sungai-pelek-new-village
-      - 
-        districts: []
-        location: "POINT (3.2833299999999999 101.5166700000000048)"
-        name: "Pengkalan Kundang"
-        population: 23307
-        slug: pengkalan-kundang
-      - 
-        districts: []
-        location: "POINT (3.2500000000000000 101.5499999999999972)"
-        name: Kuang
-        population: 21185
-        slug: kuang
-      - 
-        districts: []
-        location: "POINT (3.2166700000000001 101.3166700000000020)"
-        name: "Kampong Dungun"
-        population: 58674
-        slug: kampong-dungun
-      - 
-        districts: []
-        location: "POINT (3.1412000000000000 101.6865300000000047)"
-        name: "Kuala Lumpur"
-        population: 1453975
-        slug: kuala-lumpur
-      - 
-        districts: []
-        location: "POINT (3.0333299999999999 101.7500000000000000)"
-        name: "Kampong Baharu Balakong"
-        population: 69302
-        slug: kampong-baharu-balakong
-    code: MY.00
-    name: "Malaysia (general)"
-    slug: malaysia-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (1.8500000000000001 102.9333299999999980)"
-        name: "Batu Pahat"
-        population: 156236
-        slug: batu-pahat
-      - 
-        districts: []
-        location: "POINT (1.8666700000000001 103.1166699999999992)"
-        name: "Parit Raja"
-        population: 17441
-        slug: parit-raja
-      - 
-        districts: []
-        location: "POINT (1.5166700000000000 103.5166700000000048)"
-        name: "Pekan Nanas"
-        population: 23292
-        slug: pekan-nanas
-      - 
-        districts: []
-        location: "POINT (1.4833300000000000 103.3833300000000008)"
-        name: "Pontian Kecil"
-        population: 50836
-        slug: pontian-kecil
-      - 
-        districts: []
-        location: "POINT (1.4500000000000000 103.8833300000000008)"
-        name: "Kampung Pasir Gudang"
-        population: 145639
-        slug: kampung-pasir-gudang
-      - 
-        districts: []
-        location: "POINT (1.7333300000000000 103.9000000000000057)"
-        name: "Kota Tinggi"
-        population: 52743
-        slug: kota-tinggi
-      - 
-        districts: []
-        location: "POINT (1.6000000000000001 103.6500000000000057)"
-        name: Senai
-        population: 73176
-        slug: senai
-      - 
-        districts: []
-        location: "POINT (1.6666700000000001 103.5999999999999943)"
-        name: Kulai
-        population: 63762
-        slug: kulai
-      - 
-        districts: []
-        location: "POINT (1.5333300000000001 103.6666699999999963)"
-        name: Sekudai
-        population: 159733
-        slug: sekudai
-      - 
-        districts: []
-        location: "POINT (1.4666699999999999 103.7500000000000000)"
-        name: "Johor Bahru"
-        population: 802489
-        slug: johor-bahru
-      - 
-        districts: []
-        location: "POINT (2.0333299999999999 103.3166700000000020)"
-        name: Keluang
-        population: 169828
-        slug: keluang
-      - 
-        districts: []
-        location: "POINT (2.4333300000000002 103.8333300000000037)"
-        name: Mersing
-        population: 22007
-        slug: mersing
-      - 
-        districts: []
-        location: "POINT (2.5000000000000000 102.8166700000000020)"
-        name: Segamat
-        population: 69816
-        slug: segamat
-      - 
-        districts: []
-        location: "POINT (2.2666700000000000 102.5499999999999972)"
-        name: Tangkak
-        population: 35109
-        slug: tangkak
-      - 
-        districts: []
-        location: "POINT (2.0333299999999999 102.5666700000000020)"
-        name: Muar
-        population: 127897
-        slug: muar
-      - 
-        districts: []
-        location: "POINT (2.0499999999999998 102.6666699999999963)"
-        name: Bakri
-        population: 30280
-        slug: bakri
-      - 
-        districts: []
-        location: "POINT (2.3833299999999999 103.0333300000000065)"
-        name: Labis
-        population: 21906
-        slug: labis
-      - 
-        districts: []
-        location: "POINT (2.2333300000000000 103.0333300000000065)"
-        name: Caah
-        population: 11844
-        slug: caah
-      - 
-        districts: []
-        location: "POINT (2.5499999999999998 102.7666700000000048)"
-        name: "Buluh Kasap"
-        population: 13088
-        slug: buluh-kasap
-      - 
-        districts: []
-        location: "POINT (1.6000000000000001 103.8166700000000020)"
-        name: "Ulu Tiram"
-        population: 75350
-        slug: ulu-tiram
-      - 
-        districts: []
-        location: "POINT (1.6666700000000001 103.5333300000000065)"
-        name: "Kelapa Sawit"
-        population: 13239
-        slug: kelapa-sawit
-      - 
-        districts: []
-        location: "POINT (1.8333299999999999 103.2999999999999972)"
-        name: "Kampong Simpang Rengam"
-        population: 17528
-        slug: kampong-simpang-rengam
-    code: MY.01
-    name: Johor
-    slug: johor
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (6.3264899999999997 99.8431999999999960)"
-        name: Kuah
-        population: 30212
-        slug: kuah
-      - 
-        districts: []
-        location: "POINT (5.3649899999999997 100.5617699999999957)"
-        name: Kulim
-        population: 170889
-        slug: kulim
-      - 
-        districts: []
-        location: "POINT (5.7274399999999996 100.5087599999999952)"
-        name: Bedong
-        population: 47585
-        slug: bedong
-      - 
-        districts: []
-        location: "POINT (5.8171700000000000 100.4738100000000003)"
-        name: Gurun
-        population: 15964
-        slug: gurun
-      - 
-        districts: []
-        location: "POINT (5.6470000000000002 100.4877199999999959)"
-        name: "Sungai Petani"
-        population: 228843
-        slug: sungai-petani
-      - 
-        districts: []
-        location: "POINT (6.2681199999999997 100.4216700000000060)"
-        name: Jitra
-        population: 63489
-        slug: jitra
-      - 
-        districts: []
-        location: "POINT (6.0999999999999996 100.2999999999999972)"
-        name: "Kuala Kedah"
-        population: 19231
-        slug: kuala-kedah
-      - 
-        districts: []
-        location: "POINT (6.1210399999999998 100.3601400000000012)"
-        name: "Alor Setar"
-        population: 217368
-        slug: alor-setar
-    code: MY.02
-    name: Kedah
-    slug: kedah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (4.8822999999999999 101.9643999999999977)"
-        name: "Gua Musang"
-        population: 19731
-        slug: gua-musang
-      - 
-        districts: []
-        location: "POINT (5.9570100000000004 102.2481700000000018)"
-        name: Ketereh
-        population: 0
-        slug: ketereh
-      - 
-        districts: []
-        location: "POINT (5.8713300000000004 102.2317699999999974)"
-        name: "Pulai Chondong"
-        population: 0
-        slug: pulai-chondong
-      - 
-        districts: []
-        location: "POINT (5.7999999999999998 102.1500000000000057)"
-        name: "Tanah Merah"
-        population: 29116
-        slug: tanah-merah
-      - 
-        districts: []
-        location: "POINT (6.1977599999999997 102.1709800000000001)"
-        name: Tumpat
-        population: 12280
-        slug: tumpat
-      - 
-        districts: []
-        location: "POINT (6.0493399999999999 102.1398700000000019)"
-        name: "Pasir Mas"
-        population: 19017
-        slug: pasir-mas
-      - 
-        districts: []
-        location: "POINT (6.1332800000000001 102.2386000000000053)"
-        name: "Kota Bharu"
-        population: 279316
-        slug: kota-bharu
-      - 
-        districts: []
-        location: "POINT (6.0333300000000003 102.2833300000000065)"
-        name: Peringat
-        population: 23288
-        slug: peringat
-      - 
-        districts: []
-        location: "POINT (5.9166699999999999 102.2166699999999935)"
-        name: "Kampong Pangkal Kalong"
-        population: 39904
-        slug: kampong-pangkal-kalong
-      - 
-        districts: []
-        location: "POINT (6.0000000000000000 102.2500000000000000)"
-        name: "Kampong Kadok"
-        population: 19233
-        slug: kampong-kadok
-      - 
-        districts: []
-        location: "POINT (6.0302100000000003 102.1412600000000026)"
-        name: "Kampung Lemal"
-        population: 0
-        slug: kampung-lemal
-    code: MY.03
-    name: Kelantan
-    slug: kelantan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (2.3833299999999999 102.2166699999999935)"
+        alternate_names: 
+          - "Alor Gajah"
+          - "Alor Gajeh"
+          - "Alur Gajah"
+        ascii_name: "Alur Gajah"
         name: "Alur Gajah"
+        names_en: ~
+        names_es: ~
         population: 20163
-        slug: alur-gajah
       - 
-        districts: []
-        location: "POINT (2.2666700000000000 102.2833300000000065)"
+        alternate_names: 
+          - "Air Keruh"
+          - "Ayer Keroh"
+        ascii_name: "Air Keruh"
         name: "Air Keruh"
+        names_en: ~
+        names_es: ~
         population: 37716
-        slug: air-keruh
       - 
-        districts: []
-        location: "POINT (2.2666700000000000 102.1500000000000057)"
+        alternate_names: 
+          - "Sungai Udang"
+        ascii_name: "Sungai Udang"
         name: "Sungai Udang"
+        names_en: ~
+        names_es: ~
         population: 26044
-        slug: sungai-udang
       - 
-        districts: []
-        location: "POINT (2.1969400000000001 102.2480599999999953)"
+        alternate_names: 
+          - Malaca
+          - Malacca
+          - "Malacca Town"
+        ascii_name: Melaka
         name: Melaka
+        names_en: 
+          - Melaka
+          - Malacca
+        names_es: 
+          - Malaca
         population: 180671
-        slug: melaka
       - 
-        districts: []
-        location: "POINT (2.4666700000000001 102.2333299999999952)"
+        alternate_names: ~
+        ascii_name: "Pulau Sebang"
         name: "Pulau Sebang"
+        names_en: ~
+        names_es: ~
         population: 11879
-        slug: pulau-sebang
       - 
-        districts: []
-        location: "POINT (2.3593999999999999 102.0353000000000065)"
+        alternate_names: 
+          - "Kuala Sungai Baharu"
+          - "Kuala Sungai Baru"
+        ascii_name: "Kuala Sungai Baru"
         name: "Kuala Sungai Baru"
+        names_en: ~
+        names_es: ~
         population: 12269
-        slug: kuala-sungai-baru
       - 
-        districts: []
-        location: "POINT (2.2166700000000001 102.2000000000000028)"
+        alternate_names: 
+          - "Kelebang Besar"
+          - "Klebang Besar"
+        ascii_name: "Kelebang Besar"
         name: "Kelebang Besar"
+        names_en: ~
+        names_es: ~
         population: 38643
-        slug: kelebang-besar
       - 
-        districts: []
-        location: "POINT (2.3500000000000001 102.1166699999999992)"
+        alternate_names: ~
+        ascii_name: "Kampong Masjid Tanah"
         name: "Kampong Masjid Tanah"
+        names_en: ~
+        names_es: ~
         population: 29185
-        slug: kampong-masjid-tanah
       - 
-        districts: []
-        location: "POINT (2.2166700000000001 102.2833300000000065)"
+        alternate_names: ~
+        ascii_name: "Kampong Bukit Baru"
         name: "Kampong Bukit Baru"
+        names_en: ~
+        names_es: ~
         population: 55656
-        slug: kampong-bukit-baru
       - 
-        districts: []
-        location: "POINT (2.2166700000000001 102.3333300000000037)"
+        alternate_names: ~
+        ascii_name: "Kampong Ayer Molek"
         name: "Kampong Ayer Molek"
+        names_en: ~
+        names_es: ~
         population: 15497
-        slug: kampong-ayer-molek
       - 
-        districts: []
-        location: "POINT (2.2500000000000000 102.1833299999999980)"
+        alternate_names: ~
+        ascii_name: "Bukit Rambai"
         name: "Bukit Rambai"
+        names_en: ~
+        names_es: ~
         population: 17391
-        slug: bukit-rambai
       - 
-        districts: []
-        location: "POINT (2.2666700000000000 102.3833300000000008)"
+        alternate_names: ~
+        ascii_name: Bemban
         name: Bemban
+        names_en: ~
+        names_es: ~
         population: 14329
-        slug: bemban
       - 
-        districts: []
-        location: "POINT (2.2500000000000000 102.2500000000000000)"
+        alternate_names: 
+          - "Batu Berendam"
+        ascii_name: "Batu Berendam"
         name: "Batu Berendam"
+        names_en: ~
+        names_es: ~
         population: 25028
-        slug: batu-berendam
-    code: MY.04
     name: Melaka
-    slug: melaka
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Terengganu
     cities: 
       - 
-        districts: []
-        location: "POINT (2.4666700000000001 102.2333299999999952)"
-        name: Tampin
-        population: 28238
-        slug: tampin
-      - 
-        districts: []
-        location: "POINT (2.7166700000000001 101.9333299999999980)"
-        name: Seremban
-        population: 372917
-        slug: seremban
-      - 
-        districts: []
-        location: "POINT (2.5166700000000000 101.7999999999999972)"
-        name: "Port Dickson"
-        population: 89198
-        slug: port-dickson
-      - 
-        districts: []
-        location: "POINT (2.8166699999999998 102.4166699999999963)"
-        name: Bahau
-        population: 31273
-        slug: bahau
-      - 
-        districts: []
-        location: "POINT (2.7333300000000000 102.2500000000000000)"
-        name: "Kuala Pilah"
-        population: 19510
-        slug: kuala-pilah
-      - 
-        districts: []
-        location: "POINT (2.8166699999999998 101.7999999999999972)"
-        name: "Kampong Baharu Nilai"
-        population: 36720
-        slug: kampong-baharu-nilai
-    code: MY.05
-    name: "Negeri Sembilan"
-    slug: negeri-sembilan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (3.4500000000000002 102.4166699999999963)"
-        name: Temerluh
-        population: 59916
-        slug: temerluh
-      - 
-        districts: []
-        location: "POINT (3.9333300000000002 102.3666699999999992)"
-        name: Jerantut
-        population: 33606
-        slug: jerantut
-      - 
-        districts: []
-        location: "POINT (3.7999999999999998 101.8666699999999992)"
-        name: Raub
-        population: 40024
-        slug: raub
-      - 
-        districts: []
-        location: "POINT (2.0166700000000000 103.0666700000000020)"
-        name: "Yong Peng"
-        population: 27138
-        slug: yong-peng
-      - 
-        districts: []
-        location: "POINT (4.1833299999999998 102.0499999999999972)"
-        name: "Kuala Lipis"
-        population: 15448
-        slug: kuala-lipis
-      - 
-        districts: []
-        location: "POINT (3.5000000000000000 103.4166699999999963)"
-        name: Pekan
-        population: 31826
-        slug: pekan
-      - 
-        districts: []
-        location: "POINT (3.4833300000000000 102.3499999999999943)"
-        name: Mentekab
-        population: 42171
-        slug: mentekab
-      - 
-        districts: []
-        location: "POINT (3.7999999999999998 103.3333300000000037)"
-        name: Kuantan
-        population: 366229
-        slug: kuantan
-      - 
-        districts: []
-        location: "POINT (4.4749999999999996 101.3704000000000036)"
-        name: "Tanah Rata"
-        population: 7000
-        slug: tanah-rata
-      - 
-        districts: []
-        location: "POINT (3.5166700000000000 101.9000000000000057)"
-        name: "Bentong Town"
-        population: 49213
-        slug: bentong-town
-    code: MY.06
-    name: Pahang
-    slug: pahang
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (4.7666700000000004 100.9333299999999980)"
-        name: "Kuala Kangsar"
-        population: 39331
-        slug: kuala-kangsar
-      - 
-        districts: []
-        location: "POINT (4.1666699999999999 101.2000000000000028)"
-        name: "Tapah Road"
-        population: 27863
-        slug: tapah-road
-      - 
-        districts: []
-        location: "POINT (5.0107999999999997 100.5410100000000000)"
-        name: "Bagan Serai"
-        population: 20476
-        slug: bagan-serai
-      - 
-        districts: []
-        location: "POINT (4.9500000000000002 100.6333300000000008)"
-        name: "Simpang Empat"
-        population: 58004
-        slug: simpang-empat
-      - 
-        districts: []
-        location: "POINT (4.8499999999999996 100.7333299999999952)"
-        name: Taiping
-        population: 217647
-        slug: taiping
-      - 
-        districts: []
-        location: "POINT (4.5833300000000001 101.0833300000000037)"
-        name: Ipoh
-        population: 673318
-        slug: ipoh
-      - 
-        districts: []
-        location: "POINT (5.1267100000000001 100.4931600000000032)"
-        name: "Parit Buntar"
-        population: 27313
-        slug: parit-buntar
-      - 
-        districts: []
-        location: "POINT (4.4666699999999997 101.0499999999999972)"
-        name: "Batu Gajah"
-        population: 46183
-        slug: batu-gajah
-      - 
-        districts: []
-        location: "POINT (4.2999999999999998 101.1500000000000057)"
-        name: Kampar
-        population: 19056
-        slug: kampar
-      - 
-        districts: []
-        location: "POINT (4.1166700000000001 101.2833300000000065)"
-        name: Bidur
-        population: 30016
-        slug: bidur
-      - 
-        districts: []
-        location: "POINT (4.2333299999999996 100.6333300000000008)"
-        name: Lumut
-        population: 39595
-        slug: lumut
-      - 
-        districts: []
-        location: "POINT (4.0333300000000003 101.0166700000000048)"
-        name: "Teluk Intan"
-        population: 63353
-        slug: teluk-intan
-      - 
-        districts: []
-        location: "POINT (4.4500000000000002 100.6333300000000008)"
-        name: "Pantai Remis"
-        population: 16317
-        slug: pantai-remis
-    code: MY.07
-    name: Perak
-    slug: perak
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (6.4413999999999998 100.1986200000000053)"
-        name: Kangar
-        population: 63869
-        slug: kangar
-      - 
-        districts: []
-        location: "POINT (6.4000000000000004 100.1333300000000008)"
-        name: "Kuala Perlis"
-        population: 13917
-        slug: kuala-perlis
-    code: MY.08
-    name: Perlis
-    slug: perlis
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (5.3990999999999998 100.3638200000000040)"
-        name: Butterworth
-        population: 107591
-        slug: butterworth
-      - 
-        districts: []
-        location: "POINT (5.3833299999999999 100.3833300000000008)"
-        name: Perai
-        population: 65301
-        slug: perai
-      - 
-        districts: []
-        location: "POINT (5.3630100000000001 100.4667000000000030)"
-        name: "Bukit Mertajam"
-        population: 212329
-        slug: bukit-mertajam
-      - 
-        districts: []
-        location: "POINT (5.1658600000000003 100.4779300000000006)"
-        name: "Nibong Tebal"
-        population: 40072
-        slug: nibong-tebal
-      - 
-        districts: []
-        location: "POINT (5.4803199999999999 100.4984900000000039)"
-        name: "Tasek Glugor"
-        population: 135786
-        slug: tasek-glugor
-      - 
-        districts: []
-        location: "POINT (5.4112299999999998 100.3354300000000023)"
-        name: "George Town"
-        population: 300000
-        slug: george-town
-      - 
-        districts: []
-        location: "POINT (5.5170700000000004 100.4265000000000043)"
-        name: "Kepala Batas"
-        population: 17131
-        slug: kepala-batas
-      - 
-        districts: []
-        location: "POINT (5.4606100000000000 100.3074199999999934)"
-        name: "Tanjung Tokong"
-        population: 24071
-        slug: tanjung-tokong
-      - 
-        districts: []
-        location: "POINT (5.4633900000000004 100.3814399999999978)"
-        name: "Permatang Kuching"
-        population: 27191
-        slug: permatang-kuching
-      - 
-        districts: []
-        location: "POINT (5.3269900000000003 100.2734800000000064)"
-        name: "Kampung Sungai Ara"
-        population: 140849
-        slug: kampung-sungai-ara
-      - 
-        districts: []
-        location: "POINT (5.3120099999999999 100.4422899999999998)"
-        name: Juru
-        population: 12265
-        slug: juru
-    code: MY.09
-    name: "Pulau Pinang"
-    slug: pulau-pinang
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (1.5500000000000000 110.3333300000000037)"
-        name: Kuching
-        population: 570407
-        slug: kuching
-      - 
-        districts: []
-        location: "POINT (1.2472200000000000 111.4527800000000042)"
-        name: Simanggang
-        population: 27207
-        slug: simanggang
-      - 
-        districts: []
-        location: "POINT (2.1166700000000001 111.5166700000000048)"
-        name: Sarikei
-        population: 29281
-        slug: sarikei
-      - 
-        districts: []
-        location: "POINT (2.2999999999999998 111.8166700000000020)"
-        name: Sibu
-        population: 198239
-        slug: sibu
-      - 
-        districts: []
-        location: "POINT (2.0166700000000000 112.9333299999999980)"
-        name: Kapit
-        population: 15771
-        slug: kapit
-      - 
-        districts: []
-        location: "POINT (3.1666699999999999 113.0333300000000065)"
-        name: Bintulu
-        population: 151617
-        slug: bintulu
-      - 
-        districts: []
-        location: "POINT (4.7500000000000000 115.0000000000000000)"
-        name: Limbang
-        population: 26199
-        slug: limbang
-      - 
-        districts: []
-        location: "POINT (4.3833299999999999 113.9833299999999952)"
-        name: Miri
-        population: 228212
-        slug: miri
-    code: MY.11
-    name: Sarawak
-    slug: sarawak
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (3.3500000000000001 101.2500000000000000)"
-        name: "Kuala Selangor"
-        population: 55887
-        slug: kuala-selangor
-      - 
-        districts: []
-        location: "POINT (3.4166699999999999 101.1833299999999980)"
-        name: "Kampung Tanjung Karang"
-        population: 16393
-        slug: kampung-tanjung-karang
-      - 
-        districts: []
-        location: "POINT (3.0850700000000000 101.5328099999999978)"
-        name: "Shah Alam"
-        population: 481654
-        slug: shah-alam
-      - 
-        districts: []
-        location: "POINT (3.0333299999999999 101.4500000000000028)"
-        name: Klang
-        population: 879867
-        slug: klang
-      - 
-        districts: []
-        location: "POINT (2.8833299999999999 101.5000000000000000)"
-        name: Jenjarum
-        population: 24857
-        slug: jenjarum
-    code: MY.12
-    name: Selangor
-    slug: selangor
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (4.2500000000000000 103.4166699999999963)"
+        alternate_names: 
+          - Chukai
+          - Chukei
+          - Cukai
+        ascii_name: Cukai
         name: Cukai
+        names_en: ~
+        names_es: ~
         population: 82425
-        slug: cukai
       - 
-        districts: []
-        location: "POINT (4.6374000000000004 103.4368000000000052)"
+        alternate_names: 
+          - "Kampong Paka"
+          - Packa
+          - Pak
+        ascii_name: Paka
         name: Paka
+        names_en: ~
+        names_es: ~
         population: 21044
-        slug: paka
       - 
-        districts: []
-        location: "POINT (4.5166700000000004 103.4500000000000028)"
+        alternate_names: 
+          - Kerteh
+          - Kertih
+          - "Kuala Kerteh"
+        ascii_name: Kertih
         name: Kertih
+        names_en: ~
+        names_es: ~
         population: 24401
-        slug: kertih
       - 
-        districts: []
-        location: "POINT (5.3333300000000001 103.1333300000000008)"
+        alternate_names: 
+          - "Bandar Kuala Terengganu"
+          - "Kuala Terengganu"
+          - "Kuala Trengganu"
+        ascii_name: "Kuala Terengganu"
         name: "Kuala Terengganu"
+        names_en: 
+          - "Kuala Terengganu"
+        names_es: ~
         population: 285065
-        slug: kuala-terengganu
       - 
-        districts: []
-        location: "POINT (5.2000000000000002 103.2166699999999935)"
+        alternate_names: 
+          - "Kuala Marang"
+          - "Kualla Merang"
+          - Marang
+        ascii_name: Marang
         name: Marang
+        names_en: ~
+        names_es: ~
         population: 21410
-        slug: marang
       - 
-        districts: []
-        location: "POINT (5.7336000000000000 102.4896999999999991)"
+        alternate_names: 
+          - Jerteh
+          - Jertih
+        ascii_name: Jertih
         name: Jertih
+        names_en: ~
+        names_es: ~
         population: 13526
-        slug: jertih
-    code: MY.13
     name: Terengganu
-    slug: terengganu
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Selangor
     cities: 
       - 
-        districts: []
-        location: "POINT (6.3510000000000000 116.4304999999999950)"
-        name: "Kota Belud"
-        population: 12825
-        slug: kota-belud
+        alternate_names: 
+          - "Kuala Selangor"
+          - Kuala-Selangor
+          - Selangor
+        ascii_name: "Kuala Selangor"
+        name: "Kuala Selangor"
+        names_en: ~
+        names_es: ~
+        population: 55887
       - 
-        districts: []
-        location: "POINT (5.7333299999999996 115.9333299999999980)"
+        alternate_names: 
+          - "Shah Alam"
+          - Shakh-Alam
+          - Шах-Алам
+        ascii_name: "Shah Alam"
+        name: "Shah Alam"
+        names_en: 
+          - "Shah Alam"
+        names_es: ~
+        population: 481654
+      - 
+        alternate_names: 
+          - Kelang
+          - Klang
+        ascii_name: Klang
+        name: Klang
+        names_en: ~
+        names_es: ~
+        population: 879867
+      - 
+        alternate_names: 
+          - Jenjarom
+          - Jenjarum
+        ascii_name: Jenjarum
+        name: Jenjarum
+        names_en: ~
+        names_es: ~
+        population: 24857
+      - 
+        alternate_names: 
+          - Sabah
+          - Sabak
+          - "Sabak Bernam"
+        ascii_name: "Sabak Bernam"
+        name: "Sabak Bernam"
+        names_en: ~
+        names_es: ~
+        population: 17251
+      - 
+        alternate_names: 
+          - "Kampong Sungei Besar"
+          - "Sungai Besar"
+        ascii_name: "Sungai Besar"
+        name: "Sungai Besar"
+        names_en: ~
+        names_es: ~
+        population: 26939
+      - 
+        alternate_names: 
+          - "Kampong Tanjong Sepat"
+          - "Tanjong Sepat"
+          - "Tanjung Sepat"
+        ascii_name: "Tanjung Sepat"
+        name: "Tanjung Sepat"
+        names_en: ~
+        names_es: ~
+        population: 22340
+      - 
+        alternate_names: 
+          - "Kampung Tanjung Karang"
+          - "Tanjong Karang"
+        ascii_name: "Kampung Tanjung Karang"
+        name: "Kampung Tanjung Karang"
+        names_en: ~
+        names_es: ~
+        population: 16393
+    name: Selangor
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Sarawak
+    cities: 
+      - 
+        alternate_names: 
+          - Kuching
+          - Kucingas
+          - Kučingas
+        ascii_name: Kuching
+        name: Kuching
+        names_en: 
+          - Kuching
+        names_es: ~
+        population: 570407
+      - 
+        alternate_names: 
+          - "Bandar Sri Aman"
+          - Simanggang
+          - Simmangang
+        ascii_name: Simanggang
+        name: Simanggang
+        names_en: ~
+        names_es: ~
+        population: 27207
+      - 
+        alternate_names: 
+          - Sarikei
+          - Seriki
+          - Siriki
+        ascii_name: Sarikei
+        name: Sarikei
+        names_en: ~
+        names_es: ~
+        population: 29281
+      - 
+        alternate_names: 
+          - "Fort Brooke"
+          - Siboe
+          - Sibu
+        ascii_name: Sibu
+        name: Sibu
+        names_en: ~
+        names_es: ~
+        population: 198239
+      - 
+        alternate_names: 
+          - Kapit
+          - "Kapit Fort"
+        ascii_name: Kapit
+        name: Kapit
+        names_en: ~
+        names_es: ~
+        population: 15771
+      - 
+        alternate_names: 
+          - Bintulu
+          - Бинтулу
+        ascii_name: Bintulu
+        name: Bintulu
+        names_en: ~
+        names_es: ~
+        population: 151617
+      - 
+        alternate_names: ~
+        ascii_name: Limbang
+        name: Limbang
+        names_en: ~
+        names_es: ~
+        population: 26199
+      - 
+        alternate_names: 
+          - Miri
+        ascii_name: Miri
+        name: Miri
+        names_en: ~
+        names_es: ~
+        population: 228212
+    name: Sarawak
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Sabah
+    cities: 
+      - 
+        alternate_names: 
+          - Papar
+        ascii_name: Papar
         name: Papar
+        names_en: ~
+        names_es: ~
         population: 19278
-        slug: papar
       - 
-        districts: []
-        location: "POINT (5.9833299999999996 116.0666700000000020)"
+        alternate_names: 
+          - Jesselton
+          - Kinabalu
+          - "Kota Kinabalu"
+        ascii_name: "Kota Kinabalu"
         name: "Kota Kinabalu"
+        names_en: 
+          - "Kota Kinabalu"
+        names_es: ~
         population: 457326
-        slug: kota-kinabalu
       - 
-        districts: []
-        location: "POINT (5.9070200000000002 116.1014600000000030)"
+        alternate_names: ~
+        ascii_name: Donggongon
         name: Donggongon
+        names_en: ~
+        names_es: ~
         population: 71585
-        slug: donggongon
       - 
-        districts: []
-        location: "POINT (5.9257999999999997 116.0609400000000022)"
+        alternate_names: 
+          - "Kampong Putatan"
+          - "Putatan Station"
+        ascii_name: Putatan
         name: Putatan
+        names_en: ~
+        names_es: ~
         population: 78340
-        slug: putatan
       - 
-        districts: []
-        location: "POINT (5.8166700000000002 116.0499999999999972)"
+        alternate_names: 
+          - Kinarut
+          - "Kinarut Station"
+        ascii_name: Kinarut
         name: Kinarut
+        names_en: ~
+        names_es: ~
         population: 15716
-        slug: kinarut
       - 
-        districts: []
-        location: "POINT (5.9666699999999997 116.6833299999999980)"
+        alternate_names: 
+          - Ranau
+        ascii_name: Ranau
         name: Ranau
+        names_en: ~
+        names_es: ~
         population: 19294
-        slug: ranau
       - 
-        districts: []
-        location: "POINT (4.4817799999999997 118.6111800000000045)"
+        alternate_names: 
+          - Selangor
+          - Semporna
+          - "Semporna Settlement"
+        ascii_name: Semporna
         name: Semporna
+        names_en: ~
+        names_es: ~
         population: 62641
-        slug: semporna
       - 
-        districts: []
-        location: "POINT (5.3472999999999997 115.7455000000000069)"
+        alternate_names: 
+          - Beaufort
+        ascii_name: Beaufort
         name: Beaufort
+        names_en: ~
+        names_es: ~
         population: 15855
-        slug: beaufort
       - 
-        districts: []
-        location: "POINT (5.0267999999999997 118.3269999999999982)"
+        alternate_names: 
+          - "Lahad Datu"
+          - "Lahad Datu Town"
+        ascii_name: "Lahad Datu"
         name: "Lahad Datu"
+        names_en: ~
+        names_es: ~
         population: 105622
-        slug: lahad-datu
       - 
-        districts: []
-        location: "POINT (5.8402000000000003 118.1179000000000059)"
+        alternate_names: 
+          - Elopura
+          - Samdakan
+          - Sandakan
+        ascii_name: Sandakan
         name: Sandakan
+        names_en: 
+          - Sandakan
+        names_es: ~
         population: 392288
-        slug: sandakan
       - 
-        districts: []
-        location: "POINT (5.3377999999999997 116.1602000000000032)"
+        alternate_names: 
+          - Kaningow
+          - Kengingan
+          - Keningau
+        ascii_name: Keningau
         name: Keningau
+        names_en: ~
+        names_es: ~
         population: 77650
-        slug: keningau
       - 
-        districts: []
-        location: "POINT (4.2500000000000000 117.9000000000000057)"
+        alternate_names: 
+          - Tawao
+          - Tawau
+        ascii_name: Tawau
         name: Tawau
+        names_en: ~
+        names_es: ~
         population: 306462
-        slug: tawau
       - 
-        districts: []
-        location: "POINT (5.2766700000000002 115.2416699999999992)"
-        name: Victoria
-        population: 73653
-        slug: victoria
-      - 
-        districts: []
-        location: "POINT (6.8797199999999998 116.8491700000000009)"
+        alternate_names: 
+          - Kudat
+        ascii_name: Kudat
         name: Kudat
+        names_en: ~
+        names_es: ~
         population: 32393
-        slug: kudat
       - 
-        districts: []
-        location: "POINT (5.2888299999999999 115.2692399999999964)"
+        alternate_names: 
+          - "Khota Balud"
+          - "Kota Belud"
+        ascii_name: "Kota Belud"
+        name: "Kota Belud"
+        names_en: ~
+        names_es: ~
+        population: 12825
+      - 
+        alternate_names: ~
+        ascii_name: "Bandar Labuan"
         name: "Bandar Labuan"
+        names_en: ~
+        names_es: ~
         population: 54752
-        slug: bandar-labuan
-    code: MY.16
     name: Sabah
-    slug: sabah
-tld: my
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Perlis
+    cities: 
+      - 
+        alternate_names: 
+          - Kangar
+          - Perlis
+          - Poelit
+        ascii_name: Kangar
+        name: Kangar
+        names_en: 
+          - Kangar
+        names_es: ~
+        population: 63869
+      - 
+        alternate_names: 
+          - "Kampong Kuala Perlis"
+          - "Kampong Perlis"
+          - "Kuala Perlis"
+        ascii_name: "Kuala Perlis"
+        name: "Kuala Perlis"
+        names_en: ~
+        names_es: ~
+        population: 13917
+    name: Perlis
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Perak
+    cities: 
+      - 
+        alternate_names: 
+          - "Bagan Serai"
+        ascii_name: "Bagan Serai"
+        name: "Bagan Serai"
+        names_en: ~
+        names_es: ~
+        population: 20476
+      - 
+        alternate_names: 
+          - Semanggol
+          - "Simpang Ampat"
+          - "Simpang Empat"
+        ascii_name: "Simpang Empat"
+        name: "Simpang Empat"
+        names_en: ~
+        names_es: ~
+        population: 58004
+      - 
+        alternate_names: 
+          - "Bandar Taiping"
+          - Taipeng
+          - Taiping
+        ascii_name: Taiping
+        name: Taiping
+        names_en: 
+          - Taiping
+        names_es: ~
+        population: 217647
+      - 
+        alternate_names: 
+          - Kangsar
+          - "Kuala Kangsa"
+          - "Kuala Kangsar"
+        ascii_name: "Kuala Kangsar"
+        name: "Kuala Kangsar"
+        names_en: ~
+        names_es: ~
+        population: 39331
+      - 
+        alternate_names: 
+          - Ipo
+          - Ipoh
+          - ipo
+        ascii_name: Ipoh
+        name: Ipoh
+        names_en: 
+          - Ipoh
+        names_es: ~
+        population: 673318
+      - 
+        alternate_names: 
+          - "Parit Buntar"
+        ascii_name: "Parit Buntar"
+        name: "Parit Buntar"
+        names_en: ~
+        names_es: ~
+        population: 27313
+      - 
+        alternate_names: 
+          - "Batu Gaah"
+          - "Batu Gajah"
+        ascii_name: "Batu Gajah"
+        name: "Batu Gajah"
+        names_en: ~
+        names_es: ~
+        population: 46183
+      - 
+        alternate_names: 
+          - Kampar
+        ascii_name: Kampar
+        name: Kampar
+        names_en: ~
+        names_es: ~
+        population: 19056
+      - 
+        alternate_names: 
+          - "Tapah Road"
+        ascii_name: "Tapah Road"
+        name: "Tapah Road"
+        names_en: ~
+        names_es: ~
+        population: 27863
+      - 
+        alternate_names: 
+          - Bidor
+          - Bidur
+        ascii_name: Bidur
+        name: Bidur
+        names_en: ~
+        names_es: ~
+        population: 30016
+      - 
+        alternate_names: 
+          - Lumut
+        ascii_name: Lumut
+        name: Lumut
+        names_en: ~
+        names_es: ~
+        population: 39595
+      - 
+        alternate_names: 
+          - "Telok Anson"
+          - "Teluk Anson"
+          - "Teluk Intan"
+        ascii_name: "Teluk Intan"
+        name: "Teluk Intan"
+        names_en: 
+          - "Teluk Intan"
+        names_es: ~
+        population: 63353
+      - 
+        alternate_names: 
+          - "Kampong Pantai Remis"
+          - "Pantai Remis"
+          - "Pantei Remis"
+        ascii_name: "Pantai Remis"
+        name: "Pantai Remis"
+        names_en: ~
+        names_es: ~
+        population: 16317
+    name: Perak
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Pahang
+    cities: 
+      - 
+        alternate_names: 
+          - Jerantut
+        ascii_name: Jerantut
+        name: Jerantut
+        names_en: ~
+        names_es: ~
+        population: 33606
+      - 
+        alternate_names: ~
+        ascii_name: Raub
+        name: Raub
+        names_en: ~
+        names_es: ~
+        population: 40024
+      - 
+        alternate_names: 
+          - "Yong Peng"
+        ascii_name: "Yong Peng"
+        name: "Yong Peng"
+        names_en: ~
+        names_es: ~
+        population: 27138
+      - 
+        alternate_names: ~
+        ascii_name: "Kuala Lipis"
+        name: "Kuala Lipis"
+        names_en: ~
+        names_es: ~
+        population: 15448
+      - 
+        alternate_names: 
+          - Pekan
+          - Пекан
+        ascii_name: Pekan
+        name: Pekan
+        names_en: ~
+        names_es: ~
+        population: 31826
+      - 
+        alternate_names: 
+          - Mentakab
+          - Mentekab
+        ascii_name: Mentekab
+        name: Mentekab
+        names_en: ~
+        names_es: ~
+        population: 42171
+      - 
+        alternate_names: 
+          - Temerloh
+          - Temerluh
+        ascii_name: Temerluh
+        name: Temerluh
+        names_en: ~
+        names_es: ~
+        population: 59916
+      - 
+        alternate_names: 
+          - "Kuala Kuantan"
+          - "Kuala Kuatan"
+          - Kuantan
+        ascii_name: Kuantan
+        name: Kuantan
+        names_en: ~
+        names_es: ~
+        population: 366229
+      - 
+        alternate_names: 
+          - "Tana Rata"
+          - "Tanah Rata"
+          - "Тана Рата"
+        ascii_name: "Tanah Rata"
+        name: "Tanah Rata"
+        names_en: ~
+        names_es: ~
+        population: 7000
+      - 
+        alternate_names: ~
+        ascii_name: "Bentong Town"
+        name: "Bentong Town"
+        names_en: ~
+        names_es: ~
+        population: 49213
+    name: Pahang
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Negeri Sembilan"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tampin
+        name: Tampin
+        names_en: ~
+        names_es: ~
+        population: 28238
+      - 
+        alternate_names: 
+          - Seremban
+          - Серембан
+        ascii_name: Seremban
+        name: Seremban
+        names_en: 
+          - Seremban
+        names_es: ~
+        population: 372917
+      - 
+        alternate_names: 
+          - "Arang Arang Anchorage"
+          - Arang-Arang
+          - "Port Dickson"
+        ascii_name: "Port Dickson"
+        name: "Port Dickson"
+        names_en: ~
+        names_es: ~
+        population: 89198
+      - 
+        alternate_names: 
+          - Bahau
+        ascii_name: Bahau
+        name: Bahau
+        names_en: ~
+        names_es: ~
+        population: 31273
+      - 
+        alternate_names: 
+          - "Kuala Lipis"
+          - "Kuala Pilah"
+        ascii_name: "Kuala Pilah"
+        name: "Kuala Pilah"
+        names_en: ~
+        names_es: ~
+        population: 19510
+      - 
+        alternate_names: 
+          - "Kampong Baharu Nilai"
+          - "Kampong Bahru Nilai"
+          - "Kampong Nilai"
+        ascii_name: "Kampong Baharu Nilai"
+        name: "Kampong Baharu Nilai"
+        names_en: ~
+        names_es: ~
+        population: 36720
+    name: "Negeri Sembilan"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Kelantan
+    cities: 
+      - 
+        alternate_names: 
+          - "Gua Musang"
+        ascii_name: "Gua Musang"
+        name: "Gua Musang"
+        names_en: ~
+        names_es: ~
+        population: 19731
+      - 
+        alternate_names: 
+          - Ketereh
+        ascii_name: Ketereh
+        name: Ketereh
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Pulai Chondong"
+          - "Pulai Chongdong"
+          - "Pulai Condong"
+        ascii_name: "Pulai Chondong"
+        name: "Pulai Chondong"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Tanah Merah"
+          - "Tanah Merak"
+        ascii_name: "Tanah Merah"
+        name: "Tanah Merah"
+        names_en: ~
+        names_es: ~
+        population: 29116
+      - 
+        alternate_names: 
+          - Tumpat
+        ascii_name: Tumpat
+        name: Tumpat
+        names_en: ~
+        names_es: ~
+        population: 12280
+      - 
+        alternate_names: 
+          - "Pasir Mas"
+        ascii_name: "Pasir Mas"
+        name: "Pasir Mas"
+        names_en: ~
+        names_es: ~
+        population: 19017
+      - 
+        alternate_names: 
+          - "Khota Baharu"
+          - "Khota Bahru"
+          - "Kota Baharu"
+        ascii_name: "Kota Bharu"
+        name: "Kota Bharu"
+        names_en: 
+          - "Kota Bharu"
+        names_es: ~
+        population: 279316
+      - 
+        alternate_names: ~
+        ascii_name: Peringat
+        name: Peringat
+        names_en: ~
+        names_es: ~
+        population: 23288
+      - 
+        alternate_names: ~
+        ascii_name: "Kampong Pangkal Kalong"
+        name: "Kampong Pangkal Kalong"
+        names_en: ~
+        names_es: ~
+        population: 39904
+      - 
+        alternate_names: ~
+        ascii_name: "Kampong Kadok"
+        name: "Kampong Kadok"
+        names_en: ~
+        names_es: ~
+        population: 19233
+      - 
+        alternate_names: 
+          - "Kampung Lemal"
+        ascii_name: "Kampung Lemal"
+        name: "Kampung Lemal"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Kelantan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kuala Lumpur"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kouala Loumpour"
+          - "Kuala Lumpor"
+          - "Kuala Lumpur"
+        ascii_name: "Kuala Lumpur"
+        name: "Kuala Lumpur"
+        names_en: 
+          - "Kuala Lumpur"
+        names_es: 
+          - "Kuala Lumpur"
+        population: 1453975
+    name: "Kuala Lumpur"
+    names_en: 
+      - "Kuala Lumpur"
+    names_es: ~
+  - 
+    ascii_name: "Pulau Pinang"
+    cities: 
+      - 
+        alternate_names: 
+          - Butterworth
+        ascii_name: Butterworth
+        name: Butterworth
+        names_en: ~
+        names_es: ~
+        population: 107591
+      - 
+        alternate_names: 
+          - Perai
+          - Prai
+        ascii_name: Perai
+        name: Perai
+        names_en: ~
+        names_es: ~
+        population: 65301
+      - 
+        alternate_names: 
+          - "Bukit Mertajam"
+        ascii_name: "Bukit Mertajam"
+        name: "Bukit Mertajam"
+        names_en: ~
+        names_es: ~
+        population: 212329
+      - 
+        alternate_names: 
+          - "Nibong Tebal"
+          - "Nibong Tepal"
+          - "Nibung Tebal"
+        ascii_name: "Nibong Tebal"
+        name: "Nibong Tebal"
+        names_en: ~
+        names_es: ~
+        population: 40072
+      - 
+        alternate_names: 
+          - "Tasek Gelugor"
+          - "Tasek Gelugur"
+          - "Tasek Glugor"
+        ascii_name: "Tasek Glugor"
+        name: "Tasek Glugor"
+        names_en: ~
+        names_es: ~
+        population: 135786
+      - 
+        alternate_names: 
+          - Dzhordzhtaun
+          - "George Town"
+          - Georgetown
+        ascii_name: "George Town"
+        name: "George Town"
+        names_en: 
+          - "George Town"
+        names_es: 
+          - "George Town"
+        population: 300000
+      - 
+        alternate_names: 
+          - "Kapala Batas"
+          - "Kepala Batas"
+        ascii_name: "Kepala Batas"
+        name: "Kepala Batas"
+        names_en: ~
+        names_es: ~
+        population: 17131
+      - 
+        alternate_names: 
+          - "Tanjong Tokong"
+          - "Tanjung Tokong"
+        ascii_name: "Tanjung Tokong"
+        name: "Tanjung Tokong"
+        names_en: ~
+        names_es: ~
+        population: 24071
+      - 
+        alternate_names: 
+          - "Permatang Kuching"
+        ascii_name: "Permatang Kuching"
+        name: "Permatang Kuching"
+        names_en: ~
+        names_es: ~
+        population: 27191
+      - 
+        alternate_names: 
+          - "Kampong Sungai Ara"
+          - "Kampung Sungai Ara"
+          - "Sungei Ara"
+        ascii_name: "Kampung Sungai Ara"
+        name: "Kampung Sungai Ara"
+        names_en: ~
+        names_es: ~
+        population: 140849
+      - 
+        alternate_names: 
+          - Juru
+        ascii_name: Juru
+        name: Juru
+        names_en: ~
+        names_es: ~
+        population: 12265
+    name: "Pulau Pinang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Kedah
+    cities: 
+      - 
+        alternate_names: 
+          - Kuah
+          - Kuan
+          - Kwah
+        ascii_name: Kuah
+        name: Kuah
+        names_en: ~
+        names_es: ~
+        population: 30212
+      - 
+        alternate_names: 
+          - Kulim
+        ascii_name: Kulim
+        name: Kulim
+        names_en: ~
+        names_es: ~
+        population: 170889
+      - 
+        alternate_names: 
+          - Bedong
+          - Bedung
+        ascii_name: Bedong
+        name: Bedong
+        names_en: ~
+        names_es: ~
+        population: 47585
+      - 
+        alternate_names: 
+          - Gurun
+          - "Kampung Gurun"
+        ascii_name: Gurun
+        name: Gurun
+        names_en: ~
+        names_es: ~
+        population: 15964
+      - 
+        alternate_names: 
+          - "Sungai Patani"
+          - "Sungai Petani"
+          - "Sungei Patani"
+        ascii_name: "Sungai Petani"
+        name: "Sungai Petani"
+        names_en: 
+          - "Sungai Petani"
+        names_es: ~
+        population: 228843
+      - 
+        alternate_names: 
+          - Jitra
+        ascii_name: Jitra
+        name: Jitra
+        names_en: ~
+        names_es: ~
+        population: 63489
+      - 
+        alternate_names: ~
+        ascii_name: "Kuala Kedah"
+        name: "Kuala Kedah"
+        names_en: ~
+        names_es: ~
+        population: 19231
+      - 
+        alternate_names: 
+          - "Alor Setar"
+          - "Alor Star"
+          - Alostar
+        ascii_name: "Alor Setar"
+        name: "Alor Setar"
+        names_en: 
+          - "Alor Star"
+        names_es: ~
+        population: 217368
+    name: Kedah
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Johor
+    cities: 
+      - 
+        alternate_names: 
+          - "Bandar Penggaram"
+          - "Batu Pahat"
+          - "Distrik Batu Pahat"
+        ascii_name: "Batu Pahat"
+        name: "Batu Pahat"
+        names_en: 
+          - "Batu Pahat"
+        names_es: ~
+        population: 156236
+      - 
+        alternate_names: 
+          - "Parit Raja"
+        ascii_name: "Parit Raja"
+        name: "Parit Raja"
+        names_en: ~
+        names_es: ~
+        population: 17441
+      - 
+        alternate_names: 
+          - "Pekan Nanas"
+          - "Pekan Nenas"
+        ascii_name: "Pekan Nanas"
+        name: "Pekan Nanas"
+        names_en: ~
+        names_es: ~
+        population: 23292
+      - 
+        alternate_names: 
+          - Pontian
+          - "Pontian Kechil"
+          - "Pontian Kecil"
+        ascii_name: "Pontian Kecil"
+        name: "Pontian Kecil"
+        names_en: ~
+        names_es: ~
+        population: 50836
+      - 
+        alternate_names: 
+          - "Kampung Pasir Gudang"
+          - "Kampung Pasir Gudang Baru"
+        ascii_name: "Kampung Pasir Gudang Baru"
+        name: "Kampung Pasir Gudang Baru"
+        names_en: ~
+        names_es: ~
+        population: 145639
+      - 
+        alternate_names: 
+          - "Kota Tinggi"
+          - "Kota Tuiggi"
+        ascii_name: "Kota Tinggi"
+        name: "Kota Tinggi"
+        names_en: ~
+        names_es: ~
+        population: 52743
+      - 
+        alternate_names: 
+          - Senai
+          - Сенаи
+        ascii_name: Senai
+        name: Senai
+        names_en: ~
+        names_es: ~
+        population: 73176
+      - 
+        alternate_names: 
+          - Kulai
+          - Kuli
+        ascii_name: Kulai
+        name: Kulai
+        names_en: ~
+        names_es: ~
+        population: 63762
+      - 
+        alternate_names: 
+          - "Kampong Skudai"
+          - "Kangkar Skudai"
+          - Scudai
+        ascii_name: Sekudai
+        name: Sekudai
+        names_en: ~
+        names_es: ~
+        population: 159733
+      - 
+        alternate_names: 
+          - Baru
+          - Bharu
+          - "Jahore Bahru"
+        ascii_name: "Johor Bahru"
+        name: "Johor Bahru"
+        names_en: 
+          - "Johor Bahru"
+        names_es: ~
+        population: 802489
+      - 
+        alternate_names: 
+          - Keluang
+          - Kluang
+        ascii_name: Kluang
+        name: Kluang
+        names_en: 
+          - Kluang
+        names_es: ~
+        population: 169828
+      - 
+        alternate_names: 
+          - Mersing
+        ascii_name: Mersing
+        name: Mersing
+        names_en: ~
+        names_es: ~
+        population: 22007
+      - 
+        alternate_names: 
+          - Segamat
+        ascii_name: Segamat
+        name: Segamat
+        names_en: ~
+        names_es: ~
+        population: 69816
+      - 
+        alternate_names: 
+          - Tangkah
+          - Tangkak
+        ascii_name: Tangkak
+        name: Tangkak
+        names_en: ~
+        names_es: ~
+        population: 35109
+      - 
+        alternate_names: 
+          - "Bandar Maharani"
+          - Muar
+          - "ma po"
+        ascii_name: Muar
+        name: Muar
+        names_en: 
+          - Muar
+        names_es: ~
+        population: 127897
+      - 
+        alternate_names: 
+          - Bakri
+          - "Bukit Bakri"
+          - Бакри
+        ascii_name: Bakri
+        name: Bakri
+        names_en: ~
+        names_es: ~
+        population: 30280
+      - 
+        alternate_names: 
+          - Labis
+        ascii_name: Labis
+        name: Labis
+        names_en: ~
+        names_es: ~
+        population: 21906
+      - 
+        alternate_names: 
+          - Caah
+          - Chaah
+          - "Kangkar Chaah"
+        ascii_name: Caah
+        name: Caah
+        names_en: ~
+        names_es: ~
+        population: 11844
+      - 
+        alternate_names: 
+          - "Buloh Kasap"
+          - "Buluh Kasap"
+        ascii_name: "Buloh Kasap"
+        name: "Buloh Kasap"
+        names_en: ~
+        names_es: ~
+        population: 13088
+      - 
+        alternate_names: 
+          - "Ulu Tiram"
+          - "Ulu Tiram Village"
+        ascii_name: "Ulu Tiram"
+        name: "Ulu Tiram"
+        names_en: ~
+        names_es: ~
+        population: 75350
+      - 
+        alternate_names: 
+          - "Kelapa Sawit"
+        ascii_name: "Kelapa Sawit"
+        name: "Kelapa Sawit"
+        names_en: ~
+        names_es: ~
+        population: 13239
+      - 
+        alternate_names: 
+          - "Kampong Simpang Rengam"
+          - "Kampung Simpang Renggam"
+        ascii_name: "Kampung Simpang Renggam"
+        name: "Kampung Simpang Renggam"
+        names_en: ~
+        names_es: ~
+        population: 17528
+    name: Johor
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Labuan
+    cities: 
+      - 
+        alternate_names: 
+          - Labuan
+          - Victoria
+          - "Victoria Town"
+        ascii_name: Victoria
+        name: Victoria
+        names_en: ~
+        names_es: ~
+        population: 73653
+    name: Labuan
+    names_en: 
+      - "Federal Territory of Labuan"
+      - Labuan
+    names_es: ~
+  - 
+    ascii_name: Putrajaya
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Putrajaya
+        name: Putrajaya
+        names_en: ~
+        names_es: ~
+        population: 50000
+    name: Putrajaya
+    names_en: 
+      - Putrajaya
+    names_es: 
+      - Putrajaya

@@ -1,94 +1,178 @@
 --- 
-code: FO
-continent: EU
 name: "Faroe Islands"
-population: 48228
+names_en: 
+  - "Faroe Islands"
+names_es: 
+  - "Islas Feroe"
 regions: 
   - 
+    ascii_name: Vagar
     cities: 
       - 
-        districts: []
-        location: "POINT (61.8425000000000011 -6.8077800000000002)"
-        name: Sandur
-        population: 608
-        slug: sandur
-      - 
-        districts: []
-        location: "POINT (62.1563900000000018 -7.1663899999999998)"
-        name: Vestmanna
-        population: 1284
-        slug: vestmanna
-      - 
-        districts: []
-        location: "POINT (62.0166699999999977 -6.7666700000000004)"
-        name: Tórshavn
-        population: 13200
-        slug: torshavn
-      - 
-        districts: []
-        location: "POINT (62.1166699999999992 -6.9000000000000004)"
-        name: Kollafjørður
-        population: 1049
-        slug: kollafjrur
-      - 
-        districts: []
-        location: "POINT (62.0340699999999998 -6.7812700000000001)"
-        name: Hoyvík
-        population: 2777
-        slug: hoyvik
-      - 
-        districts: []
-        location: "POINT (61.9833300000000023 -6.7500000000000000)"
-        name: Argir
-        population: 1871
-        slug: argir
-      - 
-        districts: []
-        location: "POINT (62.2265500000000031 -6.5890100000000000)"
-        name: Klaksvík
-        population: 4664
-        slug: klaksvik
-      - 
-        districts: []
-        location: "POINT (62.2439800000000005 -6.8139500000000002)"
-        name: Fuglafjørður
-        population: 1542
-        slug: fuglafjrur
-    code: FO.ST
-    name: Streymoy
-    slug: streymoy
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (61.4732399999999970 -6.8118499999999997)"
-        name: Vágur
-        population: 1569
-        slug: vagur
-      - 
-        districts: []
-        location: "POINT (61.5555700000000030 -6.8110900000000001)"
-        name: Tvøroyri
-        population: 1230
-        slug: tvroyri
-    code: FO.SU
-    name: Suðuroy
-    slug: suuroy
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (62.0972599999999986 -7.3577000000000004)"
+        alternate_names: 
+          - Soervaag
+          - Sorvaag
+          - Sorvag
+        ascii_name: Sorvagur
         name: Sørvágur
+        names_en: ~
+        names_es: ~
         population: 1066
-        slug: srvagur
       - 
-        districts: []
-        location: "POINT (62.0511100000000013 -7.1938899999999997)"
+        alternate_names: 
+          - Midvaag
+          - Midvag
+          - Midvåg
+        ascii_name: Midvagur
         name: Miðvágur
+        names_en: ~
+        names_es: ~
         population: 1040
-        slug: mivagur
-    code: FO.VG
     name: Vágar
-    slug: vagar
-tld: fo
+    names_en: 
+      - Vágar
+      - "Vágar region"
+    names_es: ~
+  - 
+    ascii_name: Suduroy
+    cities: 
+      - 
+        alternate_names: 
+          - Vaag
+          - Vag
+          - Våg
+        ascii_name: Vagur
+        name: Vágur
+        names_en: ~
+        names_es: ~
+        population: 1569
+      - 
+        alternate_names: 
+          - Tvaera
+          - Tvaeraa
+          - Tvaora
+        ascii_name: Tvoroyri
+        name: Tvøroyri
+        names_en: ~
+        names_es: ~
+        population: 1230
+    name: Suðuroy
+    names_en: 
+      - Suðuroy
+      - "Suðuroy region"
+    names_es: ~
+  - 
+    ascii_name: Streymoy
+    cities: 
+      - 
+        alternate_names: 
+          - Vestmanhavn
+          - Vestmanshavn
+          - Vestnanhavn
+        ascii_name: Vestmanna
+        name: Vestmanna
+        names_en: ~
+        names_es: ~
+        population: 1284
+      - 
+        alternate_names: 
+          - Havn
+          - THorshoefn
+          - Tarskhavn
+        ascii_name: Torshavn
+        name: Tórshavn
+        names_en: 
+          - Tórshavn
+        names_es: 
+          - Tórshavn
+        population: 13200
+      - 
+        alternate_names: 
+          - Kollafjordhur
+          - Kollafjørður
+          - "Kollefiord Church"
+        ascii_name: Kollafjordhur
+        name: Kollafjørður
+        names_en: ~
+        names_es: ~
+        population: 1049
+      - 
+        alternate_names: 
+          - Hojvig
+          - Hoyvig
+          - Hoyvik
+        ascii_name: Hoyvik
+        name: Hoyvík
+        names_en: 
+          - Hoyvík
+        names_es: ~
+        population: 2777
+      - 
+        alternate_names: 
+          - Arge
+          - Argir
+        ascii_name: Argir
+        name: Argir
+        names_en: 
+          - Argir
+        names_es: ~
+        population: 1871
+    name: Streymoy
+    names_en: 
+      - Streymoy
+      - "Streymoy region"
+    names_es: ~
+  - 
+    ascii_name: Sandoy
+    cities: 
+      - 
+        alternate_names: 
+          - Sand
+        ascii_name: Sandur
+        name: Sandur
+        names_en: ~
+        names_es: ~
+        population: 608
+    name: Sandoy
+    names_en: 
+      - Sandoy
+      - "Sandoy region"
+    names_es: ~
+  - 
+    ascii_name: Nordoyar
+    cities: 
+      - 
+        alternate_names: 
+          - Klakksvik
+          - Klakksvík
+          - Klaksvig
+        ascii_name: Klaksvik
+        name: Klaksvík
+        names_en: 
+          - Klaksvík
+        names_es: ~
+        population: 4664
+    name: Norðoyar
+    names_en: 
+      - Norðoyar
+      - "Norðoyar region"
+    names_es: ~
+  - 
+    ascii_name: Eysturoy
+    cities: 
+      - 
+        alternate_names: 
+          - Fuglafjordur
+          - Fuglafjørður
+          - Fuglefiord
+        ascii_name: Fuglafjordur
+        name: Fuglafjørður
+        names_en: 
+          - Fuglafjørður
+        names_es: ~
+        population: 1542
+    name: Eysturoy
+    names_en: 
+      - Eysturoy
+      - "Eysturoy region"
+    names_es: ~

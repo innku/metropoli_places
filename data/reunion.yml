@@ -1,144 +1,214 @@
 --- 
-code: RE
-continent: AF
 name: Reunion
-population: 776948
+names_en: 
+  - Reunion
+names_es: 
+  - Reunión
 regions: 
   - 
+    ascii_name: Reunion
     cities: 
       - 
-        districts: []
-        location: "POINT (-21.1000000000000014 55.2999999999999972)"
+        alternate_names: 
+          - "Les Trois-Bassins"
+        ascii_name: Trois-Bassins
         name: Trois-Bassins
+        names_en: ~
+        names_es: ~
         population: 7114
-        slug: trois-bassins
       - 
-        districts: []
-        location: "POINT (-21.0166700000000013 55.5499999999999972)"
+        alternate_names: 
+          - Salazie
+          - "Salazie Village"
+        ascii_name: Salazie
         name: Salazie
+        names_en: ~
+        names_es: ~
         population: 7696
-        slug: salazie
       - 
-        districts: []
-        location: "POINT (-21.3166699999999985 55.4833300000000023)"
+        alternate_names: 
+          - Saint-Pierre
+          - Sent-P'er
+          - Сент-Пьер
+        ascii_name: Saint-Pierre
         name: Saint-Pierre
+        names_en: ~
+        names_es: ~
         population: 76655
-        slug: saint-pierre
       - 
-        districts: []
-        location: "POINT (-21.3500000000000014 55.7666699999999977)"
+        alternate_names: 
+          - "Saint Phillippe"
+          - Saint-Philippe
+        ascii_name: Saint-Philippe
         name: Saint-Philippe
+        names_en: ~
+        names_es: ~
         population: 5441
-        slug: saint-philippe
       - 
-        districts: []
-        location: "POINT (-21.0000000000000000 55.2666699999999977)"
+        alternate_names: 
+          - Saint-Paul
+        ascii_name: Saint-Paul
         name: Saint-Paul
+        names_en: ~
+        names_es: ~
         population: 99307
-        slug: saint-paul
       - 
-        districts: []
-        location: "POINT (-21.2666700000000013 55.4166700000000034)"
+        alternate_names: 
+          - Saint-Louis
+          - Sen-Lui
+          - Сен-Луи
+        ascii_name: Saint-Louis
         name: Saint-Louis
+        names_en: ~
+        names_es: ~
         population: 47881
-        slug: saint-louis
       - 
-        districts: []
-        location: "POINT (-21.1499999999999986 55.2833299999999994)"
+        alternate_names: 
+          - Saint-Leu
+          - Sankt-Leu
+          - Санкт-Леу
+        ascii_name: Saint-Leu
         name: Saint-Leu
+        names_en: ~
+        names_es: ~
         population: 28278
-        slug: saint-leu
       - 
-        districts: []
-        location: "POINT (-21.3666699999999992 55.6166699999999992)"
+        alternate_names: 
+          - Saint-Joseph
+          - Sent-Dzhozef
+          - Сент-Джозеф
+        ascii_name: Saint-Joseph
         name: Saint-Joseph
+        names_en: ~
+        names_es: ~
         population: 33694
-        slug: saint-joseph
       - 
-        districts: []
-        location: "POINT (-20.8999999999999986 55.6166699999999992)"
+        alternate_names: 
+          - Sainte-Suzanne
+        ascii_name: Sainte-Suzanne
         name: Sainte-Suzanne
+        names_en: ~
+        names_es: ~
         population: 20530
-        slug: sainte-suzanne
       - 
-        districts: []
-        location: "POINT (-21.1000000000000014 55.7833299999999994)"
+        alternate_names: 
+          - Sainte-Rose
+        ascii_name: Sainte-Rose
         name: Sainte-Rose
+        names_en: ~
+        names_es: ~
         population: 7035
-        slug: sainte-rose
       - 
-        districts: []
-        location: "POINT (-20.8833300000000008 55.5499999999999972)"
+        alternate_names: 
+          - Sainte-Marie
+          - Sent-Mari
+          - Сент-Мари
+        ascii_name: Sainte-Marie
         name: Sainte-Marie
+        names_en: ~
+        names_es: ~
         population: 31636
-        slug: sainte-marie
       - 
-        districts: []
-        location: "POINT (-20.8823100000000004 55.4504000000000019)"
+        alternate_names: 
+          - Saint-Denis
+          - "Saint-Denis de la Reunion"
+          - "Saint-Denis de la Réunion"
+        ascii_name: Saint-Denis
         name: Saint-Denis
+        names_en: 
+          - Saint-Denis
+        names_es: 
+          - Saint-Denis
         population: 137195
-        slug: saint-denis
       - 
-        districts: []
-        location: "POINT (-21.0333299999999994 55.7166700000000006)"
+        alternate_names: 
+          - Saint-Benoit
+          - Saint-Benoît
+          - Sankt-Benua
+        ascii_name: Saint-Benoit
         name: Saint-Benoît
+        names_en: ~
+        names_es: ~
         population: 35310
-        slug: saint-benoit
       - 
-        districts: []
-        location: "POINT (-20.9499999999999993 55.6499999999999986)"
+        alternate_names: 
+          - Saint-Andre
+          - Saint-André
+          - Sankt-Andre
+        ascii_name: Saint-Andre
         name: Saint-André
+        names_en: ~
+        names_es: ~
         population: 48674
-        slug: saint-andre
       - 
-        districts: []
-        location: "POINT (-21.3500000000000014 55.5666700000000020)"
+        alternate_names: 
+          - "Village de la Petite Ile"
+        ascii_name: Petite-Ile
         name: Petite-Île
+        names_en: ~
+        names_es: ~
         population: 10961
-        slug: petite-ile
       - 
-        districts: []
-        location: "POINT (-21.2666700000000013 55.5166699999999977)"
+        alternate_names: 
+          - "Le Tampon"
+          - Tampon
+          - "Village du Tampon"
+        ascii_name: "Le Tampon"
         name: "Le Tampon"
+        names_en: ~
+        names_es: ~
         population: 69986
-        slug: le-tampon
       - 
-        districts: []
-        location: "POINT (-21.2333299999999987 55.3333299999999966)"
+        alternate_names: 
+          - Avirons
+          - "Les Avirons"
+        ascii_name: "Les Avirons"
         name: "Les Avirons"
+        names_en: ~
+        names_es: ~
         population: 8006
-        slug: les-avirons
       - 
-        districts: []
-        location: "POINT (-20.9166699999999999 55.2999999999999972)"
+        alternate_names: 
+          - "La Point-aux-galets"
+          - "Le Port"
+          - "Le Port des Galets"
+        ascii_name: "Le Port"
         name: "Le Port"
+        names_en: ~
+        names_es: ~
         population: 40771
-        slug: le-port
       - 
-        districts: []
-        location: "POINT (-20.9166699999999999 55.3333299999999966)"
+        alternate_names: 
+          - "La Possession"
+          - Possession
+        ascii_name: "La Possession"
         name: "La Possession"
+        names_en: ~
+        names_es: ~
         population: 26865
-        slug: la-possession
       - 
-        districts: []
-        location: "POINT (-21.2333299999999987 55.4666700000000006)"
+        alternate_names: ~
+        ascii_name: L'Entre-Deux
         name: L'Entre-Deux
+        names_en: ~
+        names_es: ~
         population: 5788
-        slug: lentre-deux
       - 
-        districts: []
-        location: "POINT (-21.1166699999999992 55.4666700000000006)"
+        alternate_names: 
+          - Cilaos
+        ascii_name: Cilaos
         name: Cilaos
+        names_en: ~
+        names_es: ~
         population: 6225
-        slug: cilaos
       - 
-        districts: []
-        location: "POINT (-20.9833299999999987 55.6833299999999980)"
+        alternate_names: 
+          - Bras-Panon
+        ascii_name: Bras-Panon
         name: Bras-Panon
+        names_en: ~
+        names_es: ~
         population: 10444
-        slug: bras-panon
-    code: RE.RE
     name: Réunion
-    slug: reunion
-tld: re
+    names_en: ~
+    names_es: ~

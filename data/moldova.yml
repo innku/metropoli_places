@@ -1,478 +1,929 @@
 --- 
-code: MD
-continent: EU
 name: Moldova
-population: 4324000
+names_en: 
+  - Moldova
+  - "Republic of Moldova"
+names_es: 
+  - Moldavia
 regions: 
   - 
+    ascii_name: "Raionul Edinet"
     cities: 
       - 
-        districts: []
-        location: "POINT (46.3311100000000025 28.9727800000000002)"
-        name: Basarabeasca
-        population: 10809
-        slug: basarabeasca
-      - 
-        districts: []
-        location: "POINT (45.6841700000000017 28.4027799999999999)"
-        name: Vulcăneşti
-        population: 14352
-        slug: vulcanesti
-      - 
-        districts: []
-        location: "POINT (45.8999999999999986 28.6688900000000011)"
-        name: Taraclia
-        population: 13512
-        slug: taraclia
-      - 
-        districts: []
-        location: "POINT (46.5200000000000031 28.7841699999999996)"
-        name: Cimişlia
-        population: 12464
-        slug: cimislia
-      - 
-        districts: []
-        location: "POINT (46.3002800000000008 28.6572199999999988)"
-        name: Comrat
-        population: 22911
-        slug: comrat
-      - 
-        districts: []
-        location: "POINT (46.0549999999999997 28.8302799999999984)"
-        name: Ceadîr-Lunga
-        population: 22700
-        slug: ceadir-lunga
-      - 
-        districts: []
-        location: "POINT (46.3658300000000025 28.6633299999999984)"
-        name: Bugeac
-        population: 1800
-        slug: bugeac
-    code: MD.51
-    name: Găgăuzia
-    slug: gagauzia
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.0916700000000006 29.0755599999999994)"
-        name: "Vadul lui Vodă"
-        population: 5300
-        slug: vadul-lui-voda
-      - 
-        districts: []
-        location: "POINT (46.8258300000000034 28.5936100000000017)"
-        name: Hînceşti
-        population: 0
-        slug: hincesti
-      - 
-        districts: []
-        location: "POINT (46.9130600000000015 28.9774999999999991)"
-        name: Sîngera
-        population: 7200
-        slug: singera
-      - 
-        districts: []
-        location: "POINT (47.0874999999999986 28.8702800000000011)"
-        name: Stăuceni
-        population: 5700
-        slug: stauceni
-      - 
-        districts: []
-        location: "POINT (46.9430600000000027 28.7777799999999999)"
-        name: Ialoveni
-        population: 14915
-        slug: ialoveni
-      - 
-        districts: []
-        location: "POINT (47.1388900000000035 28.8619400000000006)"
-        name: Cricova
-        population: 7400
-        slug: cricova
-      - 
-        districts: []
-        location: "POINT (47.3830600000000004 28.8230600000000017)"
-        name: Orhei
-        population: 24918
-        slug: orhei
-      - 
-        districts: []
-        location: "POINT (47.0055600000000027 28.8575000000000017)"
-        name: Chişinău
-        population: 635994
-        slug: chisinau
-      - 
-        districts: []
-        location: "POINT (47.0738899999999987 28.7349999999999994)"
-        name: Vatra
-        population: 3800
-        slug: vatra
-    code: MD.57
-    name: Chişinău
-    slug: chisinau
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.0319399999999987 28.6977800000000016)"
-        name: Camenca
-        population: 11072
-        slug: camenca
-      - 
-        districts: []
-        location: "POINT (46.5152799999999971 29.6630600000000015)"
-        name: Ştefan-Vodă
-        population: 7700
-        slug: stefan-voda
-      - 
-        districts: []
-        location: "POINT (46.8402799999999999 29.6433299999999988)"
-        name: Tiraspol
-        population: 157000
-        slug: tiraspol
-      - 
-        districts: []
-        location: "POINT (46.7280599999999993 29.7077799999999996)"
-        name: Slobozia
-        population: 15356
-        slug: slobozia
-      - 
-        districts: []
-        location: "POINT (47.7663900000000012 29.0011100000000006)"
-        name: Rîbniţa
-        population: 55455
-        slug: ribnita
-      - 
-        districts: []
-        location: "POINT (46.7338900000000024 29.9586100000000002)"
-        name: Pervomaisc
-        population: 7300
-        slug: pervomaisc
-      - 
-        districts: []
-        location: "POINT (47.2374999999999972 29.3858299999999986)"
-        name: Maiac
-        population: 1500
-        slug: maiac
-      - 
-        districts: []
-        location: "POINT (46.6513899999999992 29.8047199999999997)"
-        name: Crasnoe
-        population: 4200
-        slug: crasnoe
-      - 
-        districts: []
-        location: "POINT (47.1536100000000005 29.2963899999999988)"
-        name: Grigoriopol
-        population: 9456
-        slug: grigoriopol
-      - 
-        districts: []
-        location: "POINT (47.2630600000000030 29.1608300000000007)"
-        name: Dubăsari
-        population: 23254
-        slug: dubasari
-      - 
-        districts: []
-        location: "POINT (46.6222199999999987 29.9133299999999984)"
-        name: Dnestrovsc
-        population: 10426
-        slug: dnestrovsc
-    code: MD.58
-    name: "Stînga Nistrului"
-    slug: stinga-nistrului
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.8660599999999974 29.4663600000000017)"
-        name: Varniţa
-        population: 4000
-        slug: varnita
-      - 
-        districts: []
-        location: "POINT (46.8788899999999984 29.2247200000000014)"
-        name: "Anenii Noi"
-        population: 8250
-        slug: anenii-noi
-    code: MD.59
-    name: "Raionul Anenii Noi"
-    slug: raionul-anenii-noi
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (45.4816700000000012 28.1972200000000015)"
-        name: Giurgiuleşti
-        population: 3074
-        slug: giurgiulesti
-      - 
-        districts: []
-        location: "POINT (45.9074999999999989 28.1944400000000002)"
-        name: Cahul
-        population: 34492
-        slug: cahul
-    code: MD.64
-    name: "Raionul Cahul"
-    slug: raionul-cahul
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.3333299999999966 28.4494399999999992)"
-        name: Vişniovca
-        population: 1800
-        slug: visniovca
-      - 
-        districts: []
-        location: "POINT (46.2780600000000035 28.2008299999999998)"
-        name: Cantemir
-        population: 3829
-        slug: cantemir
-    code: MD.65
-    name: "Raionul Cantemir"
-    slug: raionul-cantemir
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.7829600000000028 29.6168200000000006)"
-        name: Chiţcani
-        population: 9000
-        slug: chitcani
-      - 
-        districts: []
-        location: "POINT (46.6441700000000026 29.4138899999999985)"
-        name: Căuşeni
-        population: 21690
-        slug: causeni
-      - 
-        districts: []
-        location: "POINT (46.8305599999999984 29.4711099999999995)"
-        name: Tighina
-        population: 110175
-        slug: tighina
-    code: MD.67
-    name: Căuşeni
-    slug: causeni
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.8319400000000030 29.5766700000000000)"
-        name: "Tiraspolul Nou"
-        population: 2200
-        slug: tiraspolul-nou
-      - 
-        districts: []
-        location: "POINT (47.2144400000000033 29.1613900000000008)"
-        name: Criuleni
-        population: 6932
-        slug: criuleni
-    code: MD.69
-    name: "Raionul Criuleni"
-    slug: raionul-criuleni
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.0349999999999966 27.8161099999999983)"
-        name: Drochia
-        population: 16080
-        slug: drochia
-      - 
-        districts: []
-        location: "POINT (48.2244400000000013 27.5852800000000009)"
-        name: Donduşeni
-        population: 9435
-        slug: donduseni
-      - 
-        districts: []
-        location: "POINT (48.3572199999999981 27.7036100000000012)"
-        name: Briceni
-        population: 14132
-        slug: briceni
-      - 
-        districts: []
-        location: "POINT (48.4299999999999997 27.7938900000000011)"
-        name: Otaci
-        population: 8400
-        slug: otaci
-    code: MD.70
-    name: "Raionul Donduşeni"
-    slug: raionul-donduseni
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.8686099999999968 28.2474999999999987)"
-        name: Mărculeşti
-        population: 2400
-        slug: marculesti
-      - 
-        districts: []
-        location: "POINT (47.8638899999999978 28.3894400000000005)"
-        name: Leninskiy
-        population: 2000
-        slug: leninskiy
-      - 
-        districts: []
-        location: "POINT (47.8933299999999988 28.3013900000000014)"
-        name: Floreşti
-        population: 16759
-        slug: floresti
-      - 
-        districts: []
-        location: "POINT (48.1558300000000017 28.2974999999999994)"
-        name: Soroca
-        population: 27423
-        slug: soroca
-    code: MD.75
-    name: "Raionul Floreşti"
-    slug: raionul-floresti
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.4275000000000020 28.4366699999999994)"
-        name: Iargara
-        population: 5600
-        slug: iargara
-      - 
-        districts: []
-        location: "POINT (46.4786100000000033 28.2552799999999991)"
-        name: Leova
-        population: 14301
-        slug: leova
-    code: MD.79
-    name: "Raionul Leova"
-    slug: raionul-leova
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.6936099999999996 28.9702799999999989)"
-        name: Saharna
-        population: 2365
-        slug: saharna
-      - 
-        districts: []
-        location: "POINT (47.7491699999999994 28.9622199999999985)"
-        name: Rezina
-        population: 9806
-        slug: rezina
-      - 
-        districts: []
-        location: "POINT (47.8152800000000013 28.7966699999999989)"
-        name: Şoldăneşti
-        population: 6160
-        slug: soldanesti
-    code: MD.83
-    name: "Raionul Rezina"
-    slug: raionul-rezina
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.5736100000000022 27.7091700000000003)"
-        name: Făleşti
-        population: 14377
-        slug: falesti
-      - 
-        districts: []
-        location: "POINT (47.6563900000000018 28.0472199999999994)"
-        name: "Bilicenii Vechi"
-        population: 15479
-        slug: bilicenii-vechi
-      - 
-        districts: []
-        location: "POINT (47.9572199999999995 27.5538899999999991)"
-        name: Rîşcani
-        population: 12893
-        slug: riscani
-      - 
-        districts: []
-        location: "POINT (47.7708299999999966 27.5144400000000005)"
-        name: Glodeni
-        population: 10146
-        slug: glodeni
-      - 
-        districts: []
-        location: "POINT (48.1680599999999970 27.3049999999999997)"
+        alternate_names: 
+          - Edincy
+          - Edinec
+          - Edinet
+        ascii_name: Edinet
         name: Edineţ
+        names_en: 
+          - Edineţ
+        names_es: 
+          - Edineţ
         population: 22872
-        slug: edinet
-      - 
-        districts: []
-        location: "POINT (47.6405600000000007 28.1419400000000017)"
-        name: Sîngerei
-        population: 14600
-        slug: singerei
-      - 
-        districts: []
-        location: "POINT (47.7616700000000023 27.9288899999999991)"
-        name: Bălţi
-        population: 125000
-        slug: balti
-      - 
-        districts: []
-        location: "POINT (47.8161100000000019 28.0686099999999996)"
-        name: Biruinţa
-        population: 4700
-        slug: biruinta
-    code: MD.85
-    name: "Raionul Sîngerei"
-    slug: raionul-singerei
+    name: "Raionul Edineţ"
+    names_en: 
+      - "Raionul Edineţ"
+    names_es: ~
   - 
+    ascii_name: "Raionul Ungheni"
     cities: 
       - 
-        districts: []
-        location: "POINT (47.1413900000000012 28.6102799999999995)"
-        name: Străşeni
-        population: 19225
-        slug: straseni
-      - 
-        districts: []
-        location: "POINT (47.1886099999999971 28.4569399999999995)"
-        name: Bucovăţ
-        population: 1600
-        slug: bucovat
-    code: MD.89
-    name: "Raionul Străşeni"
-    slug: raionul-straseni
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.4997200000000035 28.3655599999999986)"
-        name: Teleneşti
-        population: 6633
-        slug: telenesti
-      - 
-        districts: []
-        location: "POINT (47.5072199999999967 28.2769399999999997)"
-        name: Mîndreşti
-        population: 9280
-        slug: mindresti
-      - 
-        districts: []
-        location: "POINT (47.0813899999999990 28.1783299999999990)"
-        name: Nisporeni
-        population: 11718
-        slug: nisporeni
-      - 
-        districts: []
-        location: "POINT (47.2041699999999977 27.7958299999999987)"
+        alternate_names: 
+          - Nyaradto
+          - Nyárádtő
+          - "Ukgeni Tyrg"
+        ascii_name: Ungheni
         name: Ungheni
+        names_en: 
+          - Ungheni
+        names_es: ~
         population: 34422
-        slug: ungheni
+    name: "Raionul Ungheni"
+    names_en: 
+      - "Raionul Ungheni"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Telenesti"
+    cities: 
       - 
-        districts: []
-        location: "POINT (47.2544400000000024 28.3080600000000011)"
-        name: Călăraşi
-        population: 14066
-        slug: calarasi
-    code: MD.91
+        alternate_names: 
+          - Telenesht'-Tyrg
+          - Teleneshty
+          - "Telenesti Targ"
+        ascii_name: Telenesti
+        name: Teleneşti
+        names_en: ~
+        names_es: ~
+        population: 6633
+      - 
+        alternate_names: 
+          - Mandresti
+          - Mindresti
+          - Myndresht'
+        ascii_name: Mindresti
+        name: Mîndreşti
+        names_en: ~
+        names_es: ~
+        population: 9280
     name: "Raionul Teleneşti"
-    slug: raionul-telenesti
-tld: md
+    names_en: 
+      - "Raionul Teleneşti"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Taraclia"
+    cities: 
+      - 
+        alternate_names: 
+          - Taraclia
+          - Taraklija
+          - Tarakliya
+        ascii_name: Taraclia
+        name: Taraclia
+        names_en: ~
+        names_es: ~
+        population: 13512
+    name: "Raionul Taraclia"
+    names_en: 
+      - "Raionul Taraclia"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Stefan-Voda"
+    cities: 
+      - 
+        alternate_names: 
+          - Shtefan-Vode
+          - Shtefan-Vodeh
+          - Stefan-Voda
+        ascii_name: Stefan-Voda
+        name: Ştefan-Vodă
+        names_en: ~
+        names_es: ~
+        population: 7700
+    name: Ştefan-Vodă
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Raionul Straseni"
+    cities: 
+      - 
+        alternate_names: 
+          - Straseni
+          - Strashen'
+          - "Strashenskij rajon"
+        ascii_name: Straseni
+        name: Străşeni
+        names_en: ~
+        names_es: ~
+        population: 19225
+      - 
+        alternate_names: 
+          - Bucovat
+          - Bucovăţ
+          - Bykovets
+        ascii_name: Bucovat
+        name: Bucovăţ
+        names_en: ~
+        names_es: ~
+        population: 1600
+    name: "Raionul Străşeni"
+    names_en: 
+      - "Raionul Străşeni"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Soroca"
+    cities: 
+      - 
+        alternate_names: 
+          - Soroca
+          - Soroka
+          - Soroki
+        ascii_name: Soroca
+        name: Soroca
+        names_en: ~
+        names_es: ~
+        population: 27423
+    name: "Raionul Soroca"
+    names_en: 
+      - "Raionul Soroca"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Riscani"
+    cities: 
+      - 
+        alternate_names: 
+          - Rascani
+          - "Rascani Targ"
+          - "Rashkan' Tyrg"
+        ascii_name: Riscani
+        name: Rîşcani
+        names_en: ~
+        names_es: ~
+        population: 12893
+    name: "Raionul Rîşcani"
+    names_en: 
+      - "Raionul Rîşcani"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Rezina"
+    cities: 
+      - 
+        alternate_names: 
+          - Saharna
+          - Sakharna
+          - Sukharna
+        ascii_name: Saharna
+        name: Saharna
+        names_en: ~
+        names_es: ~
+        population: 2365
+      - 
+        alternate_names: 
+          - Rezina
+          - "Rezina Targ"
+          - "Rezina Târg"
+        ascii_name: Rezina
+        name: Rezina
+        names_en: ~
+        names_es: ~
+        population: 9806
+    name: "Raionul Rezina"
+    names_en: 
+      - "Raionul Rezina"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Orhei"
+    cities: 
+      - 
+        alternate_names: 
+          - Orgeev
+          - Orgeyev
+          - Orhei
+        ascii_name: Orhei
+        name: Orhei
+        names_en: 
+          - Orhei
+        names_es: ~
+        population: 24918
+    name: "Raionul Orhei"
+    names_en: 
+      - "Raionul Orhei"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Ocnita"
+    cities: 
+      - 
+        alternate_names: 
+          - Ataki
+          - Otach-Tyrg
+          - Otaci
+        ascii_name: Otaci
+        name: Otaci
+        names_en: ~
+        names_es: ~
+        population: 8400
+    name: "Raionul Ocniţa"
+    names_en: 
+      - "Raionul Ocniţa"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Anenii Noi"
+    cities: 
+      - 
+        alternate_names: 
+          - Varnica
+          - Varnitsa
+          - Варница
+        ascii_name: Varnita
+        name: Varniţa
+        names_en: ~
+        names_es: ~
+        population: 4000
+      - 
+        alternate_names: 
+          - "Aneni Nouy"
+          - "Anenii Noi"
+          - "Anenii Noui"
+        ascii_name: "Anenii Noi"
+        name: "Anenii Noi"
+        names_en: ~
+        names_es: ~
+        population: 8250
+    name: "Raionul Anenii Noi"
+    names_en: 
+      - "Raionul Anenii Noi"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Nisporeni"
+    cities: 
+      - 
+        alternate_names: 
+          - Nisiporeni
+          - Nisporeni
+          - Nisporeny
+        ascii_name: Nisporeni
+        name: Nisporeni
+        names_en: ~
+        names_es: ~
+        population: 11718
+    name: "Raionul Nisporeni"
+    names_en: 
+      - "Raionul Nisporeni"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Leova"
+    cities: 
+      - 
+        alternate_names: 
+          - Iagara
+          - Iargara
+          - "Poselok Yargora"
+        ascii_name: Iargara
+        name: Iargara
+        names_en: ~
+        names_es: ~
+        population: 5600
+      - 
+        alternate_names: 
+          - Leova
+          - Leovo
+          - Levo
+        ascii_name: Leova
+        name: Leova
+        names_en: ~
+        names_es: ~
+        population: 14301
+    name: "Raionul Leova"
+    names_en: 
+      - "Raionul Leova"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Singerei"
+    cities: 
+      - 
+        alternate_names: 
+          - Belichany
+          - Biliceni
+          - "Bilicenii Vechi"
+        ascii_name: "Bilicenii Vechi"
+        name: "Bilicenii Vechi"
+        names_en: ~
+        names_es: ~
+        population: 15479
+      - 
+        alternate_names: 
+          - Lazovsk
+          - Sangerei
+          - Senzherey
+        ascii_name: Singerei
+        name: Sîngerei
+        names_en: ~
+        names_es: ~
+        population: 14600
+      - 
+        alternate_names: 
+          - Biruinta
+          - Biruintsa
+          - Biruinţa
+        ascii_name: Biruinta
+        name: Biruinţa
+        names_en: ~
+        names_es: ~
+        population: 4700
+    name: "Raionul Sîngerei"
+    names_en: 
+      - "Raionul Sîngerei"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Criuleni"
+    cities: 
+      - 
+        alternate_names: 
+          - Novotiraspol'skiy
+          - Novotiraspol’skiy
+          - Slobodka
+        ascii_name: "Tiraspolul Nou"
+        name: "Tiraspolul Nou"
+        names_en: ~
+        names_es: ~
+        population: 2200
+      - 
+        alternate_names: 
+          - Kriulen'
+          - Kriuleni
+          - Kriuljany
+        ascii_name: Criuleni
+        name: Criuleni
+        names_en: ~
+        names_es: ~
+        population: 6932
+    name: "Raionul Criuleni"
+    names_en: 
+      - "Raionul Criuleni"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Ialoveni"
+    cities: 
+      - 
+        alternate_names: 
+          - Ialoveni
+          - Jaloveny
+          - Kutuzov
+        ascii_name: Ialoveni
+        name: Ialoveni
+        names_en: ~
+        names_es: ~
+        population: 14915
+    name: "Raionul Ialoveni"
+    names_en: 
+      - "Raionul Ialoveni"
+    names_es: ~
+  - 
+    ascii_name: "Municipiul Chisinau"
+    cities: 
+      - 
+        alternate_names: 
+          - Vadu-luy-Vode
+          - "Vadul lui Voda"
+          - "Vadul lui Vodă"
+        ascii_name: "Vadul lui Voda"
+        name: "Vadul lui Vodă"
+        names_en: ~
+        names_es: ~
+        population: 5300
+      - 
+        alternate_names: 
+          - Sangera
+          - Singera
+          - Synzhera
+        ascii_name: Singera
+        name: Sîngera
+        names_en: ~
+        names_es: ~
+        population: 7200
+      - 
+        alternate_names: 
+          - Stauceni
+          - Stavcheny
+          - Stăuceni
+        ascii_name: Stauceni
+        name: Stăuceni
+        names_en: ~
+        names_es: ~
+        population: 5700
+      - 
+        alternate_names: 
+          - Cricova
+          - Krikova
+          - Krikovo
+        ascii_name: Cricova
+        name: Cricova
+        names_en: ~
+        names_es: ~
+        population: 7400
+      - 
+        alternate_names: 
+          - Chisinau
+          - "Chisinau - Chisinau"
+          - "Chisinau - Chişinău"
+        ascii_name: Chisinau
+        name: Chişinău
+        names_en: 
+          - Chişinău
+        names_es: 
+          - Chişinău
+        population: 635994
+      - 
+        alternate_names: 
+          - "Gara Ghidighici"
+          - Gidigich
+          - Vatra
+        ascii_name: Vatra
+        name: Vatra
+        names_en: ~
+        names_es: ~
+        population: 3800
+    name: Chişinău
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Raionul Causeni"
+    cities: 
+      - 
+        alternate_names: 
+          - Kickany
+          - Kitskan'
+          - Kitskani
+        ascii_name: Chitcani
+        name: Chiţcani
+        names_en: ~
+        names_es: ~
+        population: 9000
+      - 
+        alternate_names: 
+          - Causani-Novi
+          - Causanii-Noui
+          - Causeni
+        ascii_name: Causeni
+        name: Căuşeni
+        names_en: 
+          - Căuşeni
+        names_es: ~
+        population: 21690
+    name: Căuşeni
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Raionul Cantemir"
+    cities: 
+      - 
+        alternate_names: 
+          - Vishnevka
+          - Vishnëvka
+          - Visinesti
+        ascii_name: Visniovca
+        name: Vişniovca
+        names_en: ~
+        names_es: ~
+        population: 1800
+      - 
+        alternate_names: 
+          - Kantemir
+          - "Kantemirskij rajon"
+          - "Кантемирский район"
+        ascii_name: Cantemir
+        name: Cantemir
+        names_en: ~
+        names_es: ~
+        population: 3829
+    name: "Raionul Cantemir"
+    names_en: 
+      - "Raionul Cantemir"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Calarasi"
+    cities: 
+      - 
+        alternate_names: 
+          - Calarasi
+          - Calarasi-Targ
+          - Călărasi-Targ
+        ascii_name: Calarasi
+        name: Călăraşi
+        names_en: ~
+        names_es: ~
+        population: 14066
+    name: Călăraşi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Raionul Cahul"
+    cities: 
+      - 
+        alternate_names: 
+          - Dzhurdzhulesht'
+          - Dzhurdzhuleshti
+          - Dzhurdzhuleshty
+        ascii_name: Giurgiulesti
+        name: Giurgiuleşti
+        names_en: 
+          - Giurgiulesti
+        names_es: ~
+        population: 3074
+      - 
+        alternate_names: 
+          - Cahul
+          - Kagul
+          - Kakhul
+        ascii_name: Cahul
+        name: Cahul
+        names_en: 
+          - Cahul
+        names_es: 
+          - Cahul
+        population: 34492
+    name: "Raionul Cahul"
+    names_en: 
+      - "Raionul Cahul"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Glodeni"
+    cities: 
+      - 
+        alternate_names: 
+          - Gloden'
+          - Glodeni
+          - Gloden’
+        ascii_name: Glodeni
+        name: Glodeni
+        names_en: ~
+        names_es: ~
+        population: 10146
+    name: "Raionul Glodeni"
+    names_en: 
+      - "Raionul Glodeni"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Floresti"
+    cities: 
+      - 
+        alternate_names: 
+          - Marculesti
+          - Markulesht'-Kolon
+          - Markuleshti-Kolon
+        ascii_name: Marculesti
+        name: Mărculeşti
+        names_en: ~
+        names_es: ~
+        population: 2400
+      - 
+        alternate_names: ~
+        ascii_name: Leninskiy
+        name: Leninskiy
+        names_en: ~
+        names_es: ~
+        population: 2000
+      - 
+        alternate_names: 
+          - Floresht'
+          - Floreshti
+          - Floreshty
+        ascii_name: Floresti
+        name: Floreşti
+        names_en: ~
+        names_es: ~
+        population: 16759
+    name: "Raionul Floreşti"
+    names_en: 
+      - "Raionul Floreşti"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Falesti"
+    cities: 
+      - 
+        alternate_names: 
+          - Falesht'
+          - Faleshty
+          - Falesht’
+        ascii_name: Falesti
+        name: Făleşti
+        names_en: ~
+        names_es: ~
+        population: 14377
+    name: "Raionul Făleşti"
+    names_en: 
+      - "Raionul Făleşti"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Dubasari"
+    cities: []
+    name: Dubăsari
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Raionul Drochia"
+    cities: 
+      - 
+        alternate_names: 
+          - Drochia
+          - Drokija
+          - Drokiya
+        ascii_name: Drochia
+        name: Drochia
+        names_en: ~
+        names_es: ~
+        population: 16080
+    name: "Raionul Drochia"
+    names_en: 
+      - "Raionul Drochia"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Donduseni"
+    cities: 
+      - 
+        alternate_names: 
+          - Dondusani
+          - Donduseni
+          - Dondushen'
+        ascii_name: Donduseni
+        name: Donduşeni
+        names_en: ~
+        names_es: ~
+        population: 9435
+      - 
+        alternate_names: 
+          - Briceni
+          - Brichany
+          - Brichen'
+        ascii_name: Briceni
+        name: Briceni
+        names_en: ~
+        names_es: ~
+        population: 14132
+    name: "Raionul Donduşeni"
+    names_en: 
+      - "Raionul Donduşeni"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Cimislia"
+    cities: 
+      - 
+        alternate_names: 
+          - Chimishlija
+          - Chimishliya
+          - Cimislia
+        ascii_name: Cimislia
+        name: Cimişlia
+        names_en: ~
+        names_es: ~
+        population: 12464
+    name: "Raionul Cimişlia"
+    names_en: 
+      - "Raionul Cimişlia"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Briceni"
+    cities: []
+    name: "Raionul Briceni"
+    names_en: 
+      - "Raionul Briceni"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Basarabeasca"
+    cities: 
+      - 
+        alternate_names: 
+          - Basarabeasca
+          - Bessarabka
+          - Bessarabskaya
+        ascii_name: Basarabeasca
+        name: Basarabeasca
+        names_en: ~
+        names_es: ~
+        population: 10809
+    name: "Raionul Basarabeasca"
+    names_en: 
+      - "Raionul Basarabeasca"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Hincesti"
+    cities: 
+      - 
+        alternate_names: 
+          - Ganchesty
+          - Gynchesht'
+          - Gynchesht’
+        ascii_name: Hincesti
+        name: Hînceşti
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Raionul Hînceşti"
+    names_en: 
+      - "Raionul Hînceşti"
+    names_es: ~
+  - 
+    ascii_name: "Raionul Soldanesti"
+    cities: 
+      - 
+        alternate_names: 
+          - Chernenko
+          - Sholdanesht'
+          - Sholdaneshti
+        ascii_name: Soldanesti
+        name: Şoldăneşti
+        names_en: ~
+        names_es: ~
+        population: 6160
+    name: "Raionul Şoldăneşti"
+    names_en: 
+      - "Raionul Şoldăneşti"
+    names_es: ~
+  - 
+    ascii_name: "Unitatea Teritoriala din Stinga Nistrului"
+    cities: 
+      - 
+        alternate_names: 
+          - Tiraspol
+          - Tiraspol'
+          - Tiraspole
+        ascii_name: Tiraspol
+        name: Tiraspol
+        names_en: 
+          - Tiraspol
+        names_es: 
+          - Tiraspol
+        population: 157000
+      - 
+        alternate_names: 
+          - Moldavanskaya-Slobodzaya
+          - Slobodzeya
+          - "Slobodzeya Moldavanskaya"
+        ascii_name: Slobozia
+        name: Slobozia
+        names_en: ~
+        names_es: ~
+        population: 15356
+      - 
+        alternate_names: 
+          - Rabnita
+          - Ribnica
+          - Ribnicja
+        ascii_name: Ribnita
+        name: Rîbniţa
+        names_en: 
+          - Rîbniţa
+        names_es: ~
+        population: 55455
+      - 
+        alternate_names: 
+          - Pervomaisc
+          - Pervomaysk
+          - Pervomayskoye
+        ascii_name: Pervomaisc
+        name: Pervomaisc
+        names_en: ~
+        names_es: ~
+        population: 7300
+      - 
+        alternate_names: 
+          - Maiac
+          - Mayak
+        ascii_name: Maiac
+        name: Maiac
+        names_en: ~
+        names_es: ~
+        population: 1500
+      - 
+        alternate_names: 
+          - Crasna
+          - Crasnoe
+          - Krasnoye
+        ascii_name: Crasnoe
+        name: Crasnoe
+        names_en: ~
+        names_es: ~
+        population: 4200
+      - 
+        alternate_names: 
+          - Grigoriopol
+          - Grigoriopol'
+          - Grigoriopol’
+        ascii_name: Grigoriopol
+        name: Grigoriopol
+        names_en: ~
+        names_es: ~
+        population: 9456
+      - 
+        alternate_names: 
+          - Dubasari
+          - Dubehsar'
+          - Dubosari
+        ascii_name: Dubasari
+        name: Dubăsari
+        names_en: 
+          - Dubăsari
+        names_es: ~
+        population: 23254
+      - 
+        alternate_names: 
+          - Dnestrovsc
+          - Dnestrovsk
+        ascii_name: Dnestrovsc
+        name: Dnestrovsc
+        names_en: ~
+        names_es: ~
+        population: 10426
+      - 
+        alternate_names: 
+          - Camenca
+          - Kamenka
+          - Kamenka-Moldavskaya
+        ascii_name: Camenca
+        name: Camenca
+        names_en: ~
+        names_es: ~
+        population: 11072
+    name: "Stînga Nistrului"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Unitate Teritoriala Autonoma Gagauzia"
+    cities: 
+      - 
+        alternate_names: 
+          - Valkaneshty
+          - Volkaneshty
+          - Volkenesht'
+        ascii_name: Vulcanesti
+        name: Vulcăneşti
+        names_en: ~
+        names_es: ~
+        population: 14352
+      - 
+        alternate_names: 
+          - Comrat
+          - Komrad
+          - Komrat
+        ascii_name: Comrat
+        name: Comrat
+        names_en: 
+          - Comrat
+        names_es: ~
+        population: 22911
+      - 
+        alternate_names: 
+          - Ceadar-Lunga
+          - Ceadir-Lunga
+          - Ceadâr-Lunga
+        ascii_name: Ceadir-Lunga
+        name: Ceadîr-Lunga
+        names_en: ~
+        names_es: ~
+        population: 22700
+      - 
+        alternate_names: 
+          - Budzhak
+          - Bugeac
+        ascii_name: Bugeac
+        name: Bugeac
+        names_en: ~
+        names_es: ~
+        population: 1800
+    name: Găgăuzia
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Municipiul Bender"
+    cities: 
+      - 
+        alternate_names: 
+          - Bendary
+          - Bender
+          - Benderai
+        ascii_name: Tighina
+        name: Tighina
+        names_en: 
+          - Tighina
+        names_es: ~
+        population: 110175
+    name: Bender
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Municipul Balti"
+    cities: 
+      - 
+        alternate_names: 
+          - Balti
+          - Baltsy
+          - Behlc'
+        ascii_name: Balti
+        name: Bălţi
+        names_en: 
+          - Bălţi
+        names_es: ~
+        population: 125000
+    name: Bălţi
+    names_en: ~
+    names_es: ~

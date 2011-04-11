@@ -1,199 +1,344 @@
 --- 
-code: IS
-continent: EU
 name: Iceland
-population: 308910
+names_en: 
+  - Iceland
+  - "Republic of Iceland"
+names_es: 
+  - Islandia
 regions: 
   - 
+    ascii_name: Northwest
     cities: 
       - 
-        districts: []
-        location: "POINT (65.1500000000000057 -13.6999999999999993)"
-        name: Neskaupstaður
-        population: 1410
-        slug: neskaupstaur
-      - 
-        districts: []
-        location: "POINT (64.2500000000000000 -15.2166700000000006)"
-        name: Höfn
-        population: 1695
-        slug: hofn
-      - 
-        districts: []
-        location: "POINT (65.2653300000000058 -14.3948400000000003)"
-        name: Egilsstaðir
-        population: 2265
-        slug: egilsstair
-    code: IS.38
-    name: East
-    slug: east
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (64.1354800000000012 -21.8954099999999983)"
-        name: Reykjavík
-        population: 113906
-        slug: reykjavik
-      - 
-        districts: []
-        location: "POINT (64.1500000000000057 -22.0000000000000000)"
-        name: Seltjarnarnes
-        population: 4395
-        slug: seltjarnarnes
-      - 
-        districts: []
-        location: "POINT (64.1666699999999963 -21.6999999999999993)"
-        name: Mosfellsbær
-        population: 8479
-        slug: mosfellsbr
-      - 
-        districts: []
-        location: "POINT (64.1123400000000032 -21.9129800000000010)"
-        name: Kópavogur
-        population: 26157
-        slug: kopavogur
-      - 
-        districts: []
-        location: "POINT (64.0670999999999964 -21.9377400000000016)"
-        name: Hafnarfjörður
-        population: 22289
-        slug: hafnarfjorur
-      - 
-        districts: []
-        location: "POINT (64.0886500000000012 -21.9229799999999990)"
-        name: Garðabær
-        population: 9265
-        slug: garabr
-    code: IS.39
-    name: "Capital Region"
-    slug: capital-region
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (66.1500000000000057 -18.9166699999999999)"
-        name: Siglufjörður
-        population: 1391
-        slug: siglufjorur
-      - 
-        districts: []
-        location: "POINT (66.0499999999999972 -17.3500000000000014)"
-        name: Húsavík
-        population: 2338
-        slug: husavik
-      - 
-        districts: []
-        location: "POINT (65.9701799999999992 -18.5286100000000005)"
-        name: Dalvík
-        population: 1403
-        slug: dalvik
-      - 
-        districts: []
-        location: "POINT (65.6835300000000046 -18.0878000000000014)"
-        name: Akureyri
-        population: 16563
-        slug: akureyri
-      - 
-        districts: []
-        location: "POINT (65.7461100000000016 -19.6394400000000005)"
+        alternate_names: 
+          - Saudarkrokr
+          - Saudarkrokur
+          - Saudharkrokur
+        ascii_name: Saudarkrokur
         name: Sauðárkrókur
+        names_en: 
+          - Sauðárkrókur
+        names_es: ~
         population: 2682
-        slug: sauarkrokur
-    code: IS.40
+    name: Northwest
+    names_en: 
+      - Northwest
+    names_es: 
+      - Noroccidental
+  - 
+    ascii_name: Northeast
+    cities: 
+      - 
+        alternate_names: 
+          - Hvanneyri
+          - Siglufjordhur
+          - Siglufjörður
+        ascii_name: Siglufjordur
+        name: Siglufjörður
+        names_en: ~
+        names_es: ~
+        population: 1391
+      - 
+        alternate_names: 
+          - Husavik
+          - Husayik
+          - Húsavík
+        ascii_name: Husavik
+        name: Húsavík
+        names_en: 
+          - Húsavík
+        names_es: 
+          - Húsavík
+        population: 2338
+      - 
+        alternate_names: 
+          - Dalvik
+          - Dalvikurbyggd
+          - Dalvík
+        ascii_name: Dalvik
+        name: Dalvík
+        names_en: 
+          - Dalvík
+        names_es: ~
+        population: 1403
+      - 
+        alternate_names: 
+          - Akjurejri
+          - Akoureuri
+          - Akureyri
+        ascii_name: Akureyri
+        name: Akureyri
+        names_en: 
+          - Akureyri
+        names_es: 
+          - Akureyri
+        population: 16563
     name: Northeast
-    slug: northeast
+    names_en: 
+      - Northeast
+    names_es: 
+      - Nororiental
   - 
+    ascii_name: East
     cities: 
       - 
-        districts: []
-        location: "POINT (63.4427299999999974 -20.2733899999999991)"
+        alternate_names: 
+          - Nes
+          - Neskaupstadhur
+          - Neskaupstaður
+        ascii_name: Neskaupstadur
+        name: Neskaupstaður
+        names_en: ~
+        names_es: ~
+        population: 1410
+      - 
+        alternate_names: 
+          - Hofn
+          - Höfn
+        ascii_name: Hofn
+        name: Höfn
+        names_en: ~
+        names_es: ~
+        population: 1695
+      - 
+        alternate_names: 
+          - Egilsstadir
+        ascii_name: Egilsstadir
+        name: Egilsstaðir
+        names_en: ~
+        names_es: ~
+        population: 2265
+    name: East
+    names_en: 
+      - East
+    names_es: 
+      - Oriental
+  - 
+    ascii_name: South
+    cities: 
+      - 
+        alternate_names: 
+          - Kaupstadur
+          - Kaupstaður
+          - Vestmannaehjjar
+        ascii_name: Vestmannaeyjar
         name: Vestmannaeyjar
+        names_en: ~
+        names_es: ~
         population: 4200
-        slug: vestmannaeyjar
       - 
-        districts: []
-        location: "POINT (63.8500000000000014 -21.3666699999999992)"
+        alternate_names: 
+          - Thorlakshofn
+          - Þorlákshöfn
+        ascii_name: Torlakshofn
         name: Þorlákshöfn
+        names_en: ~
+        names_es: ~
         population: 1262
-        slug: orlakshofn
       - 
-        districts: []
-        location: "POINT (63.9331099999999992 -20.9971199999999989)"
+        alternate_names: ~
+        ascii_name: Selfoss
         name: Selfoss
+        names_en: ~
+        names_es: ~
         population: 6275
-        slug: selfoss
       - 
-        districts: []
-        location: "POINT (64.0000000000000000 -21.1999999999999993)"
+        alternate_names: 
+          - Hveragerdhi
+          - Hveragerdi
+          - Hveragerdisbaer
+        ascii_name: Hveragerdi
         name: Hveragerði
+        names_en: 
+          - Hveragerði
+        names_es: ~
         population: 2281
-        slug: hverageri
-    code: IS.42
     name: South
-    slug: south
+    names_en: 
+      - South
+    names_es: 
+      - Meridional
   - 
+    ascii_name: "Capital Region"
     cities: 
       - 
-        districts: []
-        location: "POINT (64.0499999999999972 -22.6999999999999993)"
+        alternate_names: 
+          - Refkiavik
+          - Reiciavicia
+          - Reicivic
+        ascii_name: Reykjavik
+        name: Reykjavík
+        names_en: 
+          - Reykjavik
+          - Reykjavík
+        names_es: 
+          - Reikiavik
+        population: 113906
+      - 
+        alternate_names: ~
+        ascii_name: Seltjarnarnes
+        name: Seltjarnarnes
+        names_en: ~
+        names_es: ~
+        population: 4395
+      - 
+        alternate_names: ~
+        ascii_name: Mosfellsbaer
+        name: Mosfellsbær
+        names_en: ~
+        names_es: ~
+        population: 8479
+      - 
+        alternate_names: 
+          - Kopavogskaupstadur
+          - Kopavogur
+          - Koupavogjur
+        ascii_name: Kopavogur
+        name: Kópavogur
+        names_en: 
+          - Kópavogur
+        names_es: 
+          - Kópavogur
+        population: 26157
+      - 
+        alternate_names: 
+          - Hafnarfjoerdur
+          - Hafnarfjordur
+          - Hafnarfjörður
+        ascii_name: Hafnarfjordur
+        name: Hafnarfjörður
+        names_en: 
+          - Hafnarfjordur
+        names_es: 
+          - Hafnarfjörður
+        population: 22289
+      - 
+        alternate_names: 
+          - Gardabaer
+          - Garðabær
+          - gardhabayr
+        ascii_name: Gardabar
+        name: Garðabær
+        names_en: 
+          - Garðabær
+        names_es: 
+          - Garðabær
+        population: 9265
+    name: "Capital Region"
+    names_en: 
+      - "Capital Region"
+    names_es: 
+      - "Región de la capital"
+  - 
+    ascii_name: "Southern Peninsula"
+    cities: 
+      - 
+        alternate_names: 
+          - Sandgerdhi
+          - Sandgerði
+          - Sangerdhi
+        ascii_name: Sandgerdi
         name: Sandgerði
+        names_en: ~
+        names_es: ~
         population: 1371
-        slug: sandgeri
       - 
-        districts: []
-        location: "POINT (63.9666700000000006 -22.5166700000000013)"
+        alternate_names: 
+          - "Innri Njardvik"
+          - "Innri Njarðvík"
+          - Njardhvik
+        ascii_name: Njardvik
         name: Njarðvík
+        names_en: ~
+        names_es: ~
         population: 2844
-        slug: njarvik
       - 
-        districts: []
-        location: "POINT (64.0049199999999985 -22.5624199999999995)"
+        alternate_names: 
+          - Keflavik
+          - Keflavík
+          - Kephlabik
+        ascii_name: Keflavik
         name: Keflavík
+        names_en: 
+          - Keflavík
+        names_es: 
+          - Keflavík
         population: 7930
-        slug: keflavik
       - 
-        districts: []
-        location: "POINT (63.8333299999999966 -22.4333300000000015)"
+        alternate_names: 
+          - Grindavik
+          - Grindavík
+        ascii_name: Grindavik
         name: Grindavík
+        names_en: 
+          - Grindavík
+        names_es: ~
         population: 2539
-        slug: grindavik
       - 
-        districts: []
-        location: "POINT (64.0999999999999943 -22.0166700000000013)"
+        alternate_names: ~
+        ascii_name: Alftanes
         name: Álftanes
+        names_en: ~
+        names_es: ~
         population: 2523
-        slug: alftanes
-    code: IS.43
     name: "Southern Peninsula"
-    slug: southern-peninsula
+    names_en: 
+      - "Southern Peninsula"
+    names_es: 
+      - Suroccidental
   - 
+    ascii_name: West
     cities: 
       - 
-        districts: []
-        location: "POINT (65.0666700000000020 -22.7333299999999987)"
+        alternate_names: 
+          - Stykkisholmur
+          - Stykkishólmur
+        ascii_name: Stykkisholmur
         name: Stykkishólmur
+        names_en: ~
+        names_es: ~
         population: 1059
-        slug: stykkisholmur
       - 
-        districts: []
-        location: "POINT (64.5383400000000051 -21.9206399999999988)"
+        alternate_names: 
+          - Borgarnes
+        ascii_name: Borgarnes
         name: Borgarnes
+        names_en: ~
+        names_es: ~
         population: 1783
-        slug: borgarnes
       - 
-        districts: []
-        location: "POINT (64.3217899999999929 -22.0748999999999995)"
+        alternate_names: 
+          - Akranes
+          - Akranesas
+          - Skipaskagi
+        ascii_name: Akranes
         name: Akranes
+        names_en: 
+          - Akranes
+        names_es: 
+          - Akranes
         population: 5606
-        slug: akranes
-      - 
-        districts: []
-        location: "POINT (66.0754900000000021 -23.1239999999999988)"
-        name: Ísafjörður
-        population: 2534
-        slug: isafjorur
-    code: IS.45
     name: West
-    slug: west
-tld: is
+    names_en: 
+      - West
+    names_es: 
+      - Occidental
+  - 
+    ascii_name: Westfjords
+    cities: 
+      - 
+        alternate_names: 
+          - Isafiordr
+          - Isafjardardjup
+          - Isafjoerdur
+        ascii_name: Isafjoerdur
+        name: Ísafjörður
+        names_en: 
+          - Ísafjörður
+        names_es: ~
+        population: 2534
+    name: Westfjords
+    names_en: 
+      - Westfjords
+    names_es: 
+      - "Fiordos occidentales"

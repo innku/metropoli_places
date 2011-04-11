@@ -1,1703 +1,2567 @@
 --- 
-code: AT
-continent: EU
 name: Austria
-population: 8205000
+names_en: 
+  - Austria
+  - "Republic of Austria"
+names_es: 
+  - Austria
 regions: 
   - 
+    ascii_name: Vienna
     cities: 
       - 
-        districts: []
-        location: "POINT (47.8012200000000007 16.6715799999999987)"
-        name: Rust
-        population: 1726
-        slug: rust
-      - 
-        districts: []
-        location: "POINT (47.3666699999999992 16.1166699999999992)"
-        name: Pinkafeld
-        population: 5257
-        slug: pinkafeld
-      - 
-        districts: []
-        location: "POINT (47.9996300000000033 16.8604899999999986)"
-        name: Parndorf
-        population: 4050
-        slug: parndorf
-      - 
-        districts: []
-        location: "POINT (47.2833299999999994 16.1999999999999993)"
-        name: Oberwart
-        population: 6879
-        slug: oberwart
-      - 
-        districts: []
-        location: "POINT (47.9490100000000012 16.8416999999999994)"
-        name: "Neusiedl am See"
-        population: 5949
-        slug: neusiedl-am-see
-      - 
-        districts: []
-        location: "POINT (47.7833299999999994 16.2833299999999994)"
-        name: Neudörfl
-        population: 4183
-        slug: neudorfl
-      - 
-        districts: []
-        location: "POINT (47.7333300000000023 16.3999999999999986)"
-        name: Mattersburg
-        population: 6448
-        slug: mattersburg
-      - 
-        districts: []
-        location: "POINT (46.9384799999999984 16.1415800000000011)"
-        name: Jennersdorf
-        population: 4319
-        slug: jennersdorf
-      - 
-        districts: []
-        location: "POINT (47.2333300000000023 16.3166699999999985)"
-        name: Grosspetersdorf
-        population: 3525
-        slug: grosspetersdorf
-      - 
-        districts: []
-        location: "POINT (47.8500000000000014 16.5166700000000013)"
-        name: Eisenstadt
-        population: 12190
-        slug: eisenstadt
-      - 
-        districts: []
-        location: "POINT (47.3333299999999966 16.2166700000000006)"
-        name: "Bad Tatzmannsdorf"
-        population: 1329
-        slug: bad-tatzmannsdorf
-    code: AT.01
-    name: Burgenland
-    slug: burgenland
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.8405600000000035 14.8441700000000001)"
-        name: Wolfsberg
-        population: 25610
-        slug: wolfsberg
-      - 
-        districts: []
-        location: "POINT (46.6166699999999992 13.9333299999999998)"
-        name: Wernberg
-        population: 5070
-        slug: wernberg
-      - 
-        districts: []
-        location: "POINT (46.6622199999999978 14.6344399999999997)"
-        name: Völkermarkt
-        population: 11373
-        slug: volkermarkt
-      - 
-        districts: []
-        location: "POINT (46.6102800000000030 13.8558299999999992)"
-        name: Villach
-        population: 58882
-        slug: villach
-      - 
-        districts: []
-        location: "POINT (46.6130100000000027 14.0412999999999997)"
-        name: "Velden am Wörthersee"
-        population: 8817
-        slug: velden-am-worthersee
-      - 
-        districts: []
-        location: "POINT (46.7999999999999972 13.5000000000000000)"
-        name: "Spittal an der Drau"
-        population: 16363
-        slug: spittal-an-der-drau
-      - 
-        districts: []
-        location: "POINT (46.8219399999999979 13.4949999999999992)"
-        name: Seeboden
-        population: 6221
-        slug: seeboden
-      - 
-        districts: []
-        location: "POINT (46.7680599999999984 14.3602799999999995)"
-        name: "Sankt Veit an der Glan"
-        population: 13116
-        slug: sankt-veit-an-der-glan
-      - 
-        districts: []
-        location: "POINT (46.5477800000000030 14.0572199999999992)"
-        name: "Sankt Jakob"
-        population: 4481
-        slug: sankt-jakob
-      - 
-        districts: []
-        location: "POINT (46.7661099999999976 14.8236100000000004)"
-        name: "Sankt Andrä"
-        population: 10825
-        slug: sankt-andra
-      - 
-        districts: []
-        location: "POINT (46.7141700000000029 13.6361100000000004)"
-        name: Paternion
-        population: 6301
-        slug: paternion
-      - 
-        districts: []
-        location: "POINT (46.6574999999999989 14.1747200000000007)"
-        name: Moosburg
-        population: 4602
-        slug: moosburg
-      - 
-        districts: []
-        location: "POINT (46.8227800000000016 13.7922200000000004)"
-        name: Kleinkirchheim
-        population: 1809
-        slug: kleinkirchheim
-      - 
-        districts: []
-        location: "POINT (46.6247200000000035 14.3052799999999998)"
-        name: "Klagenfurt am Wörthersee"
-        population: 90610
-        slug: klagenfurt-am-worthersee
-      - 
-        districts: []
-        location: "POINT (46.6272200000000012 13.3672199999999997)"
-        name: Hermagor
-        population: 7242
-        slug: hermagor
-      - 
-        districts: []
-        location: "POINT (46.9072200000000024 13.5294399999999992)"
-        name: Gmünd
-        population: 2629
-        slug: gmund
-      - 
-        districts: []
-        location: "POINT (46.9552800000000019 14.4058299999999999)"
-        name: Friesach
-        population: 5369
-        slug: friesach
-      - 
-        districts: []
-        location: "POINT (46.5269400000000033 14.3019400000000001)"
-        name: Ferlach
-        population: 7661
-        slug: ferlach
-      - 
-        districts: []
-        location: "POINT (46.7166700000000006 14.0999999999999996)"
-        name: "Feldkirchen in Kärnten"
-        population: 14440
-        slug: feldkirchen-in-karnten
-      - 
-        districts: []
-        location: "POINT (46.5913899999999970 14.6436100000000007)"
-        name: Eberndorf
-        population: 6088
-        slug: eberndorf
-      - 
-        districts: []
-        location: "POINT (46.6080600000000018 14.3641699999999997)"
-        name: Ebenthal
-        population: 7809
-        slug: ebenthal
-      - 
-        districts: []
-        location: "POINT (46.9627800000000022 14.7916699999999999)"
-        name: "Bad Sankt Leonhard im Lavanttal"
-        population: 4775
-        slug: bad-sankt-leonhard-im-lavanttal
-      - 
-        districts: []
-        location: "POINT (46.5461099999999988 13.7100000000000009)"
-        name: Arnoldstein
-        population: 6923
-        slug: arnoldstein
-      - 
-        districts: []
-        location: "POINT (46.5655599999999978 13.8652800000000003)"
-        name: "Finkenstein am Faaker See"
-        population: 8406
-        slug: finkenstein-am-faaker-see
-    code: AT.02
-    name: Carinthia
-    slug: carinthia
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.2084899999999976 16.3720800000000004)"
+        alternate_names: 
+          - Bec
+          - Bech
+          - Becs
+        ascii_name: Vienna
         name: Vienna
+        names_en: 
+          - Vienna
+        names_es: 
+          - Viena
         population: 1691468
-        slug: vienna
-      - 
-        districts: []
-        location: "POINT (48.3282900000000026 16.0585799999999992)"
-        name: Tulln
-        population: 14201
-        slug: tulln
-      - 
-        districts: []
-        location: "POINT (48.0641999999999996 16.3157299999999985)"
-        name: Neu-Guntramsdorf
-        population: 9071
-        slug: neu-guntramsdorf
-      - 
-        districts: []
-        location: "POINT (48.6166699999999992 15.1999999999999993)"
-        name: "Zwettl Stift"
-        population: 11718
-        slug: zwettl-stift
-      - 
-        districts: []
-        location: "POINT (48.5333299999999994 16.7500000000000000)"
-        name: Zistersdorf
-        population: 5661
-        slug: zistersdorf
-      - 
-        districts: []
-        location: "POINT (48.1666700000000034 15.0833300000000001)"
-        name: "Ybbs an der Donau"
-        population: 5676
-        slug: ybbs-an-der-donau
-      - 
-        districts: []
-        location: "POINT (48.3340000000000032 16.2101599999999983)"
-        name: Wördern
-        population: 6886
-        slug: wordern
-      - 
-        districts: []
-        location: "POINT (48.3833300000000008 16.5166700000000013)"
-        name: Wolkersdorf
-        population: 6416
-        slug: wolkersdorf
-      - 
-        districts: []
-        location: "POINT (48.1057100000000020 15.6053899999999999)"
-        name: Wilhelmsburg
-        population: 6718
-        slug: wilhelmsburg
-      - 
-        districts: []
-        location: "POINT (47.7999999999999972 16.2500000000000000)"
-        name: "Wiener Neustadt"
-        population: 38481
-        slug: wiener-neustadt
-      - 
-        districts: []
-        location: "POINT (48.0827799999999996 16.3138399999999990)"
-        name: "Wiener Neudorf"
-        population: 8530
-        slug: wiener-neudorf
-      - 
-        districts: []
-        location: "POINT (47.9600399999999993 14.7736099999999997)"
-        name: "Waidhofen an der Ybbs"
-        population: 11774
-        slug: waidhofen-an-der-ybbs
-      - 
-        districts: []
-        location: "POINT (48.8166700000000020 15.2833299999999994)"
-        name: "Waidhofen an der Thaya"
-        population: 5838
-        slug: waidhofen-an-der-thaya
-      - 
-        districts: []
-        location: "POINT (48.3500000000000014 15.7333300000000005)"
-        name: Traismauer
-        population: 5815
-        slug: traismauer
-      - 
-        districts: []
-        location: "POINT (48.0148500000000027 16.2932400000000008)"
-        name: Traiskirchen
-        population: 16212
-        slug: traiskirchen
-      - 
-        districts: []
-        location: "POINT (47.7156499999999966 16.0357500000000002)"
-        name: Ternitz
-        population: 15153
-        slug: ternitz
-      - 
-        districts: []
-        location: "POINT (48.3166700000000020 16.6666699999999999)"
-        name: "Strasshof an der Nordbahn"
-        population: 7637
-        slug: strasshof-an-der-nordbahn
-      - 
-        districts: []
-        location: "POINT (48.3833300000000008 16.2166700000000006)"
-        name: Stockerau
-        population: 14831
-        slug: stockerau
-      - 
-        districts: []
-        location: "POINT (48.2553100000000015 16.0122299999999989)"
-        name: Sieghartskirchen
-        population: 7062
-        slug: sieghartskirchen
-      - 
-        districts: []
-        location: "POINT (48.1333300000000008 16.4666700000000006)"
-        name: Schwechat
-        population: 15711
-        slug: schwechat
-      - 
-        districts: []
-        location: "POINT (48.7833299999999994 15.0666700000000002)"
-        name: Schrems
-        population: 5811
-        slug: schrems
-      - 
-        districts: []
-        location: "POINT (48.0047399999999982 15.1681699999999999)"
-        name: Scheibbs
-        population: 4600
-        slug: scheibbs
-      - 
-        districts: []
-        location: "POINT (48.1666700000000034 14.5166699999999995)"
-        name: "Sankt Valentin"
-        population: 9063
-        slug: sankt-valentin
-      - 
-        districts: []
-        location: "POINT (48.2000000000000028 15.6333300000000008)"
-        name: "Sankt Pölten"
-        population: 49001
-        slug: sankt-polten
-      - 
-        districts: []
-        location: "POINT (48.7500000000000000 15.9499999999999993)"
-        name: Retz
-        population: 4139
-        slug: retz
-      - 
-        districts: []
-        location: "POINT (47.6950900000000004 15.8457200000000000)"
-        name: "Reichenau an der Rax"
-        population: 2673
-        slug: reichenau-an-der-rax
-      - 
-        districts: []
-        location: "POINT (48.2076899999999995 16.1753900000000002)"
-        name: Purkersdorf
-        population: 8327
-        slug: purkersdorf
-      - 
-        districts: []
-        location: "POINT (48.0584100000000021 15.1347799999999992)"
-        name: Purgstall
-        population: 5247
-        slug: purgstall
-      - 
-        districts: []
-        location: "POINT (48.1833299999999980 16.0833300000000001)"
-        name: Pressbaum
-        population: 6083
-        slug: pressbaum
-      - 
-        districts: []
-        location: "POINT (48.6666700000000034 16.6333300000000008)"
-        name: Poysdorf
-        population: 5653
-        slug: poysdorf
-      - 
-        districts: []
-        location: "POINT (47.8999999999999986 16.3833300000000008)"
-        name: Pottendorf
-        population: 6105
-        slug: pottendorf
-      - 
-        districts: []
-        location: "POINT (48.1193499999999972 16.2660699999999991)"
-        name: Perchtoldsdorf
-        population: 14041
-        slug: perchtoldsdorf
-      - 
-        districts: []
-        location: "POINT (47.7209599999999980 16.0810700000000004)"
-        name: Neunkirchen
-        population: 11313
-        slug: neunkirchen
-      - 
-        districts: []
-        location: "POINT (48.0860500000000002 16.2892100000000006)"
-        name: Mödling
-        population: 20710
-        slug: modling
-      - 
-        districts: []
-        location: "POINT (48.5700000000000003 16.5766700000000000)"
-        name: Mistelbach
-        population: 10820
-        slug: mistelbach
-      - 
-        districts: []
-        location: "POINT (48.2273700000000005 15.3318600000000007)"
-        name: Melk
-        population: 5272
-        slug: melk
-      - 
-        districts: []
-        location: "POINT (48.1000000000000014 16.2833299999999994)"
-        name: "Maria Enzersdorf"
-        population: 8085
-        slug: maria-enzersdorf
-      - 
-        districts: []
-        location: "POINT (48.2000000000000028 15.4000000000000004)"
-        name: Loosdorf
-        population: 3519
-        slug: loosdorf
-      - 
-        districts: []
-        location: "POINT (48.2999999999999972 16.3500000000000014)"
-        name: Langenzersdorf
-        population: 7733
-        slug: langenzersdorf
-      - 
-        districts: []
-        location: "POINT (48.4666700000000006 15.6666699999999999)"
-        name: Langenlois
-        population: 7081
-        slug: langenlois
-      - 
-        districts: []
-        location: "POINT (48.7166700000000006 16.3833300000000008)"
-        name: "Laa an der Thaya"
-        population: 6084
-        slug: laa-an-der-thaya
-      - 
-        districts: []
-        location: "POINT (48.4092100000000016 15.6141500000000004)"
-        name: "Krems an der Donau"
-        population: 23932
-        slug: krems-an-der-donau
-      - 
-        districts: []
-        location: "POINT (47.9509600000000020 16.2271500000000017)"
-        name: Kottingbrunn
-        population: 7184
-        slug: kottingbrunn
-      - 
-        districts: []
-        location: "POINT (48.3500000000000014 16.3333300000000001)"
-        name: Korneuburg
-        population: 11498
-        slug: korneuburg
-      - 
-        districts: []
-        location: "POINT (48.3052100000000024 16.3252200000000016)"
-        name: Klosterneuburg
-        population: 24843
-        slug: klosterneuburg
-      - 
-        districts: []
-        location: "POINT (48.6627399999999994 15.6566299999999998)"
-        name: Horn
-        population: 6485
-        slug: horn
-      - 
-        districts: []
-        location: "POINT (48.5499999999999972 16.0833300000000001)"
-        name: Hollabrunn
-        population: 10966
-        slug: hollabrunn
-      - 
-        districts: []
-        location: "POINT (48.0861099999999979 16.2480900000000013)"
-        name: Hinterbrühl
-        population: 4068
-        slug: hinterbruhl
-      - 
-        districts: []
-        location: "POINT (48.0833299999999966 16.4333300000000015)"
-        name: Himberg
-        population: 5534
-        slug: himberg
-      - 
-        districts: []
-        location: "POINT (48.2813700000000026 15.6943099999999998)"
-        name: Herzogenburg
-        population: 7866
-        slug: herzogenburg
-      - 
-        districts: []
-        location: "POINT (48.0555900000000022 16.1249299999999991)"
-        name: Heiligenkreuz
-        population: 1508
-        slug: heiligenkreuz
-      - 
-        districts: []
-        location: "POINT (48.8666699999999992 15.1166699999999992)"
-        name: Heidenreichstein
-        population: 4472
-        slug: heidenreichstein
-      - 
-        districts: []
-        location: "POINT (48.1462700000000012 16.9450399999999988)"
-        name: "Hainburg an der Donau"
-        population: 5622
-        slug: hainburg-an-der-donau
-      - 
-        districts: []
-        location: "POINT (48.1499999999999986 15.5000000000000000)"
-        name: Haag
-        population: 5164
-        slug: haag
-      - 
-        districts: []
-        location: "POINT (47.8759999999999977 15.8888099999999994)"
-        name: Gutenstein
-        population: 1368
-        slug: gutenstein
-      - 
-        districts: []
-        location: "POINT (48.5742199999999968 14.9578900000000008)"
-        name: Groß-Gerungs
-        population: 4820
-        slug: gro-gerungs
-      - 
-        districts: []
-        location: "POINT (48.2027799999999971 16.5508300000000013)"
-        name: Groß-Enzersdorf
-        population: 8791
-        slug: gro-enzersdorf
-      - 
-        districts: []
-        location: "POINT (48.7683000000000035 14.9808000000000003)"
-        name: Gmünd
-        population: 5811
-        slug: gmund
-      - 
-        districts: []
-        location: "POINT (47.6748699999999985 15.9389299999999992)"
-        name: Gloggnitz
-        population: 6213
-        slug: gloggnitz
-      - 
-        districts: []
-        location: "POINT (48.2944699999999969 16.4676499999999990)"
-        name: "Gerasdorf bei Wien"
-        population: 8948
-        slug: gerasdorf-bei-wien
-      - 
-        districts: []
-        location: "POINT (48.3392499999999998 16.7201599999999999)"
-        name: Gänserndorf
-        population: 8588
-        slug: ganserndorf
-      - 
-        districts: []
-        location: "POINT (48.1188399999999987 16.6128700000000009)"
-        name: "Fischamend Dorf"
-        population: 4471
-        slug: fischamend-dorf
-      - 
-        districts: []
-        location: "POINT (47.9500000000000028 16.3999999999999986)"
-        name: Ebreichsdorf
-        population: 9509
-        slug: ebreichsdorf
-      - 
-        districts: []
-        location: "POINT (48.2997200000000007 16.5666699999999985)"
-        name: Deutsch-Wagram
-        population: 7153
-        slug: deutsch-wagram
-      - 
-        districts: []
-        location: "POINT (48.0166699999999977 16.7666700000000013)"
-        name: "Bruck an der Leitha"
-        population: 7339
-        slug: bruck-an-der-leitha
-      - 
-        districts: []
-        location: "POINT (47.9456699999999998 16.1097299999999990)"
-        name: Berndorf
-        population: 8796
-        slug: berndorf
-      - 
-        districts: []
-        location: "POINT (47.9653300000000016 16.2135899999999999)"
-        name: "Bad Vöslau"
-        population: 11013
-        slug: bad-voslau
-      - 
-        districts: []
-        location: "POINT (48.0054299999999969 16.2326400000000000)"
-        name: Baden
-        population: 24893
-        slug: baden
-      - 
-        districts: []
-        location: "POINT (48.1229000000000013 14.8720599999999994)"
-        name: Amstetten
-        population: 22832
-        slug: amstetten
-    code: AT.03
-    name: "Lower Austria"
-    slug: lower-austria
+    name: Vienna
+    names_en: 
+      - Vienna
+    names_es: 
+      - Viena
   - 
+    ascii_name: Vorarlberg
     cities: 
       - 
-        districts: []
-        location: "POINT (48.1666700000000034 14.0333299999999994)"
-        name: Wels
-        population: 57946
-        slug: wels
-      - 
-        districts: []
-        location: "POINT (48.1356200000000030 13.4270099999999992)"
-        name: Waldzell
-        population: 2095
-        slug: waldzell
-      - 
-        districts: []
-        location: "POINT (48.0000000000000000 13.9166699999999999)"
-        name: Vorchdorf
-        population: 7455
-        slug: vorchdorf
-      - 
-        districts: []
-        location: "POINT (48.0000000000000000 13.4833300000000005)"
-        name: Vöcklamarkt
-        population: 4869
-        slug: vocklamarkt
-      - 
-        districts: []
-        location: "POINT (48.0166699999999977 13.6500000000000004)"
-        name: Vöcklabruck
-        population: 11887
-        slug: vocklabruck
-      - 
-        districts: []
-        location: "POINT (48.6749799999999979 13.9104899999999994)"
-        name: Ulrichsberg
-        population: 2997
-        slug: ulrichsberg
-      - 
-        districts: []
-        location: "POINT (48.2210699999999974 14.2377699999999994)"
-        name: Traun
-        population: 23959
-        slug: traun
-      - 
-        districts: []
-        location: "POINT (48.0039400000000001 13.6075999999999997)"
-        name: Timelkam
-        population: 5855
-        slug: timelkam
-      - 
-        districts: []
-        location: "POINT (48.2851300000000023 14.3699499999999993)"
-        name: Steyregg
-        population: 4856
-        slug: steyregg
-      - 
-        districts: []
-        location: "POINT (48.0427400000000020 14.4212699999999998)"
-        name: Steyr
-        population: 39566
-        slug: steyr
-      - 
-        districts: []
-        location: "POINT (48.0434300000000007 14.3093500000000002)"
-        name: Sierning
-        population: 8722
-        slug: sierning
-      - 
-        districts: []
-        location: "POINT (47.9500000000000028 13.5833300000000001)"
-        name: Seewalchen
-        population: 4959
-        slug: seewalchen
-      - 
-        districts: []
-        location: "POINT (47.8999999999999986 13.9499999999999993)"
-        name: Scharnstein
-        population: 4631
-        slug: scharnstein
-      - 
-        districts: []
-        location: "POINT (48.4500000000000028 13.4333299999999998)"
-        name: Schärding
-        population: 4919
-        slug: scharding
-      - 
-        districts: []
-        location: "POINT (47.7393199999999993 13.4466599999999996)"
-        name: "Sankt Wolfgang im Salzkammergut"
-        population: 2794
-        slug: sankt-wolfgang-im-salzkammergut
-      - 
-        districts: []
-        location: "POINT (47.9333299999999980 13.4833300000000005)"
-        name: "Sankt Georgen im Attergau"
-        population: 4180
-        slug: sankt-georgen-im-attergau
-      - 
-        districts: []
-        location: "POINT (48.1666700000000034 13.1333300000000008)"
-        name: "Sankt Florian"
-        population: 5760
-        slug: sankt-florian
-      - 
-        districts: []
-        location: "POINT (48.2166700000000006 13.5000000000000000)"
-        name: "Ried im Innkreis"
-        population: 11511
-        slug: ried-im-innkreis
-      - 
-        districts: []
-        location: "POINT (48.5039200000000008 13.8256300000000003)"
-        name: "Pfarrkirchen im Mühlkreis"
-        population: 1551
-        slug: pfarrkirchen-im-muhlkreis
-      - 
-        districts: []
-        location: "POINT (48.2500000000000000 14.6333300000000008)"
-        name: Perg
-        population: 7644
-        slug: perg
-      - 
-        districts: []
-        location: "POINT (48.2500000000000000 14.1999999999999993)"
-        name: Pasching
-        population: 6143
-        slug: pasching
-      - 
-        districts: []
-        location: "POINT (47.8564799999999977 13.3490800000000007)"
-        name: Mondsee
-        population: 3307
-        slug: mondsee
-      - 
-        districts: []
-        location: "POINT (47.8776399999999995 14.1335700000000006)"
-        name: "Micheldorf in Oberösterreich"
-        population: 5902
-        slug: micheldorf-in-oberosterreich
-      - 
-        districts: []
-        location: "POINT (48.1833299999999980 14.1166699999999992)"
-        name: Marchtrenk
-        population: 11666
-        slug: marchtrenk
-      - 
-        districts: []
-        location: "POINT (48.3063900000000004 14.2861100000000008)"
-        name: Linz
-        population: 181162
-        slug: linz
-      - 
-        districts: []
-        location: "POINT (48.2796499999999966 14.2490100000000002)"
-        name: Leonding
-        population: 22736
-        slug: leonding
-      - 
-        districts: []
-        location: "POINT (47.9732600000000033 13.6084599999999991)"
-        name: Lenzing
-        population: 5044
-        slug: lenzing
-      - 
-        districts: []
-        location: "POINT (47.9818799999999968 13.8216599999999996)"
-        name: Laakirchen
-        population: 9569
-        slug: laakirchen
-      - 
-        districts: []
-        location: "POINT (48.0499999999999972 14.1333300000000008)"
-        name: Kremsmünster
-        population: 6626
-        slug: kremsmunster
-      - 
-        districts: []
-        location: "POINT (48.2262699999999995 14.1778600000000008)"
-        name: Hörsching
-        population: 5312
-        slug: horsching
-      - 
-        districts: []
-        location: "POINT (47.8527800000000028 13.9555600000000002)"
-        name: "Grünau im Almtal"
-        population: 2135
-        slug: grunau-im-almtal
-      - 
-        districts: []
-        location: "POINT (48.2333300000000023 13.8333300000000001)"
-        name: Grieskirchen
-        population: 4766
-        slug: grieskirchen
-      - 
-        districts: []
-        location: "POINT (47.9166700000000034 13.8000000000000007)"
-        name: Gmunden
-        population: 13287
-        slug: gmunden
-      - 
-        districts: []
-        location: "POINT (48.0223999999999975 14.4074700000000000)"
-        name: Garsten
-        population: 6657
-        slug: garsten
-      - 
-        districts: []
-        location: "POINT (48.3536300000000026 14.4160400000000006)"
-        name: Gallneukirchen
-        population: 6282
-        slug: gallneukirchen
-      - 
-        districts: []
-        location: "POINT (48.5110299999999981 14.5045300000000008)"
-        name: Freistadt
-        population: 7574
-        slug: freistadt
-      - 
-        districts: []
-        location: "POINT (47.9833300000000023 13.4166699999999999)"
-        name: Frankenmarkt
-        population: 3581
-        slug: frankenmarkt
-      - 
-        districts: []
-        location: "POINT (48.0684400000000025 13.4906500000000005)"
-        name: Frankenburg
-        population: 5162
-        slug: frankenburg
-      - 
-        districts: []
-        location: "POINT (48.3500000000000014 14.0500000000000007)"
-        name: "Feldkirchen an der Donau"
-        population: 5286
-        slug: feldkirchen-an-der-donau
-      - 
-        districts: []
-        location: "POINT (48.2000000000000028 14.4666700000000006)"
-        name: Enns
-        population: 10816
-        slug: enns
-      - 
-        districts: []
-        location: "POINT (48.3450699999999998 14.4420400000000004)"
-        name: Engerwitzdorf
-        population: 8510
-        slug: engerwitzdorf
-      - 
-        districts: []
-        location: "POINT (47.7999999999999972 13.7666699999999995)"
-        name: Ebensee
-        population: 8376
-        slug: ebensee
-      - 
-        districts: []
-        location: "POINT (48.2666699999999977 13.0333299999999994)"
-        name: "Braunau am Inn"
-        population: 16403
-        slug: braunau-am-inn
-      - 
-        districts: []
-        location: "POINT (48.2333300000000023 13.9166699999999999)"
-        name: "Bad Schallerbach"
-        population: 3449
-        slug: bad-schallerbach
-      - 
-        districts: []
-        location: "POINT (47.7166700000000006 13.6166699999999992)"
-        name: "Bad Ischl"
-        population: 14267
-        slug: bad-ischl
-      - 
-        districts: []
-        location: "POINT (48.0333299999999994 14.1999999999999993)"
-        name: "Bad Hall"
-        population: 4935
-        slug: bad-hall
-      - 
-        districts: []
-        location: "POINT (47.6333300000000008 13.6166699999999992)"
-        name: "Bad Goisern"
-        population: 7869
-        slug: bad-goisern
-      - 
-        districts: []
-        location: "POINT (48.2194100000000034 14.4178400000000000)"
-        name: Asten
-        population: 6516
-        slug: asten
-      - 
-        districts: []
-        location: "POINT (48.2096900000000019 14.2900399999999994)"
-        name: Ansfelden
-        population: 14936
-        slug: ansfelden
-      - 
-        districts: []
-        location: "POINT (47.9021899999999974 13.7641500000000008)"
-        name: Altmünster
-        population: 9651
-        slug: altmunster
-      - 
-        districts: []
-        location: "POINT (48.0083300000000008 13.7166700000000006)"
-        name: Attnang-Puchheim
-        population: 8908
-        slug: attnang-puchheim
-      - 
-        districts: []
-        location: "POINT (48.5161500000000032 14.2952700000000004)"
-        name: "Bad Leonfelden"
-        population: 4029
-        slug: bad-leonfelden
-      - 
-        districts: []
-        location: "POINT (48.1545800000000028 14.1836900000000004)"
-        name: Linz-Wels-Steyr
-        population: 286000
-        slug: linz-wels-steyr
-    code: AT.04
-    name: "Upper Austria"
-    slug: upper-austria
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.3255600000000030 12.7944399999999998)"
-        name: "Zell am See"
-        population: 10046
-        slug: zell-am-see
-      - 
-        districts: []
-        location: "POINT (47.4666700000000006 13.1833299999999998)"
-        name: Werfen
-        population: 3059
-        slug: werfen
-      - 
-        districts: []
-        location: "POINT (47.8333299999999966 13.2500000000000000)"
-        name: Thalgau
-        population: 5501
-        slug: thalgau
-      - 
-        districts: []
-        location: "POINT (47.2833299999999994 12.9666700000000006)"
-        name: Taxenbach
-        population: 2830
-        slug: taxenbach
-      - 
-        districts: []
-        location: "POINT (47.1280799999999971 13.8110199999999992)"
-        name: Tamsweg
-        population: 6126
-        slug: tamsweg
-      - 
-        districts: []
-        location: "POINT (47.7166700000000006 13.4833300000000005)"
-        name: Strobl
-        population: 3577
-        slug: strobl
-      - 
-        districts: []
-        location: "POINT (47.9833300000000023 13.2500000000000000)"
-        name: Strasswalchen
-        population: 7145
-        slug: strasswalchen
-      - 
-        districts: []
-        location: "POINT (47.8999999999999986 13.1333300000000008)"
-        name: "Seekirchen am Wallersee"
-        population: 9865
-        slug: seekirchen-am-wallersee
-      - 
-        districts: []
-        location: "POINT (47.3500000000000014 13.1999999999999993)"
-        name: "Sankt Johann im Pongau"
-        population: 10887
-        slug: sankt-johann-im-pongau
-      - 
-        districts: []
-        location: "POINT (47.7666699999999977 13.3666699999999992)"
-        name: "Sankt Gilgen"
-        population: 3753
-        slug: sankt-gilgen
-      - 
-        districts: []
-        location: "POINT (47.7994100000000017 13.0439900000000009)"
-        name: Salzburg
-        population: 150269
-        slug: salzburg
-      - 
-        districts: []
-        location: "POINT (47.4166700000000034 12.8499999999999996)"
-        name: "Saalfelden am Steinernen Meer"
-        population: 16119
-        slug: saalfelden-am-steinernen-meer
-      - 
-        districts: []
-        location: "POINT (47.3913799999999981 12.6364199999999993)"
-        name: Saalbach
-        population: 2954
-        slug: saalbach
-      - 
-        districts: []
-        location: "POINT (47.3833300000000008 13.4499999999999993)"
-        name: Radstadt
-        population: 4926
-        slug: radstadt
-      - 
-        districts: []
-        location: "POINT (47.2666699999999977 12.4833300000000005)"
-        name: Mittersill
-        population: 5680
-        slug: mittersill
-      - 
-        districts: []
-        location: "POINT (47.6166699999999992 13.1500000000000004)"
-        name: Kuchl
-        population: 6668
-        slug: kuchl
-      - 
-        districts: []
-        location: "POINT (47.2723900000000015 12.7598500000000001)"
-        name: Kaprun
-        population: 2947
-        slug: kaprun
-      - 
-        districts: []
-        location: "POINT (47.6833299999999980 13.0999999999999996)"
-        name: Hallein
-        population: 18980
-        slug: hallein
-      - 
-        districts: []
-        location: "POINT (47.7333300000000023 13.0333299999999994)"
-        name: Grödig
-        population: 6918
-        slug: grodig
-      - 
-        districts: []
-        location: "POINT (47.2849399999999989 12.8231000000000002)"
-        name: "Bruck an der Großglocknerstraße"
-        population: 4649
-        slug: bruck-an-der-groglocknerstrae
-      - 
-        districts: []
-        location: "POINT (47.4166700000000034 13.2166700000000006)"
-        name: Bischofshofen
-        population: 10144
-        slug: bischofshofen
-      - 
-        districts: []
-        location: "POINT (47.8333299999999966 13.0333299999999994)"
-        name: Bergheim
-        population: 5031
-        slug: bergheim
-      - 
-        districts: []
-        location: "POINT (47.1666700000000034 13.0999999999999996)"
-        name: "Bad Hofgastein"
-        population: 7002
-        slug: bad-hofgastein
-      - 
-        districts: []
-        location: "POINT (47.1154700000000020 13.1346699999999998)"
-        name: "Bad Gastein"
-        population: 5947
-        slug: bad-gastein
-      - 
-        districts: []
-        location: "POINT (47.7500000000000000 13.0666700000000002)"
-        name: Anif
-        population: 4154
-        slug: anif
-      - 
-        districts: []
-        location: "POINT (47.5637299999999996 13.3459900000000005)"
-        name: Abtenau
-        population: 5828
-        slug: abtenau
-    code: AT.05
-    name: Salzburg
-    slug: salzburg
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.1833299999999980 14.7500000000000000)"
-        name: Zeltweg
-        population: 7726
-        slug: zeltweg
-      - 
-        districts: []
-        location: "POINT (47.2166700000000006 15.6166699999999992)"
-        name: Weiz
-        population: 9128
-        slug: weiz
-      - 
-        districts: []
-        location: "POINT (47.0333299999999994 15.1500000000000004)"
-        name: Voitsberg
-        population: 9980
-        slug: voitsberg
-      - 
-        districts: []
-        location: "POINT (47.4166700000000034 15.0000000000000000)"
-        name: Trofaiach
-        population: 8313
-        slug: trofaiach
-      - 
-        districts: []
-        location: "POINT (47.3928900000000013 13.6869899999999998)"
-        name: Schladming
-        population: 4659
-        slug: schladming
-      - 
-        districts: []
-        location: "POINT (47.1499999999999986 14.4000000000000004)"
-        name: Scheifling
-        population: 1600
-        slug: scheifling
-      - 
-        districts: []
-        location: "POINT (47.5166699999999977 14.3499999999999996)"
-        name: Rottenmann
-        population: 5561
-        slug: rottenmann
-      - 
-        districts: []
-        location: "POINT (47.3597899999999967 15.3423599999999993)"
-        name: "Pernegg an der Mur"
-        population: 2406
-        slug: pernegg-an-der-mur
-      - 
-        districts: []
-        location: "POINT (47.6000000000000014 15.6833299999999998)"
-        name: Mürzzuschlag
-        population: 9410
-        slug: murzzuschlag
-      - 
-        districts: []
-        location: "POINT (47.7730600000000010 15.3163900000000002)"
-        name: Mariazell
-        population: 1577
-        slug: mariazell
-      - 
-        districts: []
-        location: "POINT (47.5666700000000020 14.2333300000000005)"
-        name: Liezen
-        population: 6903
-        slug: liezen
-      - 
-        districts: []
-        location: "POINT (47.3833300000000008 15.0999999999999996)"
-        name: Leoben
-        population: 24809
-        slug: leoben
-      - 
-        districts: []
-        location: "POINT (46.7816100000000006 15.5383600000000008)"
-        name: Leibnitz
-        population: 7029
-        slug: leibnitz
-      - 
-        districts: []
-        location: "POINT (47.5333299999999994 15.5500000000000007)"
-        name: Krieglach
-        population: 5236
-        slug: krieglach
-      - 
-        districts: []
-        location: "POINT (47.0666700000000020 15.0833300000000001)"
-        name: Köflach
-        population: 10447
-        slug: koflach
-      - 
-        districts: []
-        location: "POINT (47.2166700000000006 14.8166700000000002)"
-        name: Knittelfeld
-        population: 12704
-        slug: knittelfeld
-      - 
-        districts: []
-        location: "POINT (47.5000000000000000 15.4499999999999993)"
-        name: Kindberg
-        population: 5790
-        slug: kindberg
-      - 
-        districts: []
-        location: "POINT (47.4445800000000020 15.2933100000000000)"
-        name: Kapfenberg
-        population: 21819
-        slug: kapfenberg
-      - 
-        districts: []
-        location: "POINT (47.1666700000000034 14.6666699999999999)"
-        name: Judenburg
-        population: 9992
-        slug: judenburg
-      - 
-        districts: []
-        location: "POINT (47.2833299999999994 15.9666700000000006)"
-        name: Hartberg
-        population: 6634
-        slug: hartberg
-      - 
-        districts: []
-        location: "POINT (47.0666700000000020 15.4499999999999993)"
-        name: Graz
-        population: 222326
-        slug: graz
-      - 
-        districts: []
-        location: "POINT (47.1333300000000008 15.3499999999999996)"
-        name: Gratkorn
-        population: 6806
-        slug: gratkorn
-      - 
-        districts: []
-        location: "POINT (47.1055899999999994 15.7101100000000002)"
-        name: Gleisdorf
-        population: 5245
-        slug: gleisdorf
-      - 
-        districts: []
-        location: "POINT (47.0499999999999972 16.0833300000000001)"
-        name: Fürstenfeld
-        population: 5962
-        slug: furstenfeld
-      - 
-        districts: []
-        location: "POINT (47.2666699999999977 15.3166700000000002)"
-        name: Frohnleiten
-        population: 6629
-        slug: frohnleiten
-      - 
-        districts: []
-        location: "POINT (47.2000000000000028 14.6833299999999998)"
-        name: Fohnsdorf
-        population: 8203
-        slug: fohnsdorf
-      - 
-        districts: []
-        location: "POINT (46.9530600000000007 15.8883299999999998)"
-        name: Feldbach
-        population: 4877
-        slug: feldbach
-      - 
-        districts: []
-        location: "POINT (47.5333299999999994 14.8833300000000008)"
-        name: Eisenerz
-        population: 5987
-        slug: eisenerz
-      - 
-        districts: []
-        location: "POINT (46.8152800000000013 15.2222200000000001)"
-        name: Deutschlandsberg
-        population: 8049
-        slug: deutschlandsberg
-      - 
-        districts: []
-        location: "POINT (47.4166700000000034 15.2833299999999994)"
-        name: "Bruck an der Mur"
-        population: 13254
-        slug: bruck-an-der-mur
-      - 
-        districts: []
-        location: "POINT (47.1166699999999992 16.0500000000000007)"
-        name: "Bad Blumau"
-        population: 1628
-        slug: bad-blumau
-      - 
-        districts: []
-        location: "POINT (47.0333299999999994 15.8499999999999996)"
-        name: Bärnbach
-        population: 4850
-        slug: barnbach
-      - 
-        districts: []
-        location: "POINT (47.6099800000000002 13.7824299999999997)"
-        name: "Bad Aussee"
-        population: 5210
-        slug: bad-aussee
-      - 
-        districts: []
-        location: "POINT (47.0764399999999981 15.3605199999999993)"
-        name: Thal
-        population: 2231
-        slug: thal
-    code: AT.06
-    name: Styria
-    slug: styria
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.2833299999999994 11.2333300000000005)"
-        name: Zirl
-        population: 6567
-        slug: zirl
-      - 
-        districts: []
-        location: "POINT (47.4833300000000023 12.0666700000000002)"
-        name: Wörgl
-        population: 11265
-        slug: worgl
-      - 
-        districts: []
-        location: "POINT (47.2833299999999994 11.5999999999999996)"
-        name: Wattens
-        population: 7517
-        slug: wattens
-      - 
-        districts: []
-        location: "POINT (47.3333299999999966 11.6833299999999998)"
-        name: Vomp
-        population: 4628
-        slug: vomp
-      - 
-        districts: []
-        location: "POINT (47.2500000000000000 11.3333300000000001)"
-        name: Völs
-        population: 6573
-        slug: vols
-      - 
-        districts: []
-        location: "POINT (46.9666700000000006 11.0000000000000000)"
-        name: Sölden
-        population: 3449
-        slug: solden
-      - 
-        districts: []
-        location: "POINT (47.2833299999999994 11.5166699999999995)"
-        name: "Hall in Tirol"
-        population: 12460
-        slug: hall-in-tirol
-      - 
-        districts: []
-        location: "POINT (47.0333299999999994 10.5999999999999996)"
-        name: Serfaus
-        population: 1136
-        slug: serfaus
-      - 
-        districts: []
-        location: "POINT (47.3301599999999993 11.1878600000000006)"
-        name: "Seefeld in Tirol"
-        population: 3028
-        slug: seefeld-in-tirol
-      - 
-        districts: []
-        location: "POINT (47.3349800000000016 11.7002699999999997)"
-        name: Schwaz
-        population: 12507
-        slug: schwaz
-      - 
-        districts: []
-        location: "POINT (47.1833299999999980 11.4166699999999999)"
-        name: "Schönberg im Stubaital"
-        population: 1013
-        slug: schonberg-im-stubaital
-      - 
-        districts: []
-        location: "POINT (47.1274999999999977 10.2637199999999993)"
-        name: "Sankt Anton am Arlberg"
-        population: 2848
-        slug: sankt-anton-am-arlberg
-      - 
-        districts: []
-        location: "POINT (47.2833299999999994 11.4499999999999993)"
-        name: Rum
-        population: 8498
-        slug: rum
-      - 
-        districts: []
-        location: "POINT (47.4833300000000023 10.7166700000000006)"
-        name: Reutte
-        population: 5851
-        slug: reutte
-      - 
-        districts: []
-        location: "POINT (47.2000000000000028 10.9000000000000004)"
-        name: Oetz
-        population: 2238
-        slug: oetz
-      - 
-        districts: []
-        location: "POINT (47.1166699999999992 11.3166700000000002)"
-        name: "Neustift im Stubaital"
-        population: 4454
-        slug: neustift-im-stubaital
-      - 
-        districts: []
-        location: "POINT (46.8833300000000008 10.5166699999999995)"
-        name: Nauders
-        population: 1539
-        slug: nauders
-      - 
-        districts: []
-        location: "POINT (47.1666700000000034 11.8666699999999992)"
-        name: Mayrhofen
-        population: 3869
-        slug: mayrhofen
-      - 
-        districts: []
-        location: "POINT (47.0000000000000000 12.5333299999999994)"
-        name: "Matrei in Osttirol"
-        population: 5076
-        slug: matrei-in-osttirol
-      - 
-        districts: []
-        location: "POINT (46.8288999999999973 12.7690300000000008)"
-        name: Lienz
-        population: 12270
-        slug: lienz
-      - 
-        districts: []
-        location: "POINT (47.3999999999999986 10.8833300000000008)"
-        name: Lermoos
-        population: 1115
-        slug: lermoos
-      - 
-        districts: []
-        location: "POINT (47.1398799999999980 10.5659299999999998)"
-        name: Landeck
-        population: 7351
-        slug: landeck
-      - 
-        districts: []
-        location: "POINT (47.5833299999999966 12.1666699999999999)"
-        name: Kufstein
-        population: 16115
-        slug: kufstein
-      - 
-        districts: []
-        location: "POINT (47.4463700000000017 12.3921500000000009)"
-        name: Kitzbühel
-        population: 8818
-        slug: kitzbuhel
-      - 
-        districts: []
-        location: "POINT (47.5166699999999977 12.0833300000000001)"
-        name: Kirchbichl
-        population: 5115
-        slug: kirchbichl
-      - 
-        districts: []
-        location: "POINT (47.3917300000000026 11.7724499999999992)"
-        name: Jenbach
-        population: 6806
-        slug: jenbach
-      - 
-        districts: []
-        location: "POINT (47.0125699999999966 10.2917900000000007)"
-        name: Ischgl
-        population: 2128
-        slug: ischgl
-      - 
-        districts: []
-        location: "POINT (47.2626599999999968 11.3945399999999992)"
-        name: Innsbruck
-        population: 112467
-        slug: innsbruck
-      - 
-        districts: []
-        location: "POINT (47.2450400000000030 10.7397399999999994)"
-        name: Imst
-        population: 9225
-        slug: imst
-      - 
-        districts: []
-        location: "POINT (47.4500000000000028 12.1666699999999999)"
-        name: "Hopfgarten im Brixental"
-        population: 5314
-        slug: hopfgarten-im-brixental
-      - 
-        districts: []
-        location: "POINT (47.5000000000000000 12.1166699999999992)"
-        name: "Bad Häring"
-        population: 2383
-        slug: bad-haring
-      - 
-        districts: []
-        location: "POINT (47.3500000000000014 11.8499999999999996)"
-        name: Fügen
-        population: 3734
-        slug: fugen
-      - 
-        districts: []
-        location: "POINT (47.4833300000000023 12.5500000000000007)"
-        name: Fieberbrunn
-        population: 4180
-        slug: fieberbrunn
-      - 
-        districts: []
-        location: "POINT (47.6333300000000008 12.2166700000000006)"
-        name: Ebbs
-        population: 5088
-        slug: ebbs
-      - 
-        districts: []
-        location: "POINT (47.2999999999999972 11.5000000000000000)"
-        name: Absam
-        population: 6594
-        slug: absam
-      - 
-        districts: []
-        location: "POINT (47.3688999999999965 11.1440400000000004)"
-        name: Leutasch
-        population: 2104
-        slug: leutasch
-      - 
-        districts: []
-        location: "POINT (47.3987800000000021 11.9437300000000004)"
-        name: Alpbach
-        population: 2585
-        slug: alpbach
-      - 
-        districts: []
-        location: "POINT (47.2999999999999972 11.0666700000000002)"
-        name: Telfs
-        population: 14028
-        slug: telfs
-    code: AT.07
-    name: Tyrol
-    slug: tyrol
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.4666700000000006 9.7500000000000000)"
+        alternate_names: 
+          - Kirchdorf
+          - Vol'furt
+          - Wolfurt
+        ascii_name: Wolfurt
         name: Wolfurt
+        names_en: ~
+        names_es: ~
         population: 8110
-        slug: wolfurt
       - 
-        districts: []
-        location: "POINT (47.0666700000000020 9.9166699999999999)"
+        alternate_names: 
+          - Schruns
+          - Shruns
+          - "shi lun si"
+        ascii_name: Schruns
         name: Schruns
+        names_en: 
+          - Schruns
+        names_es: ~
         population: 3506
-        slug: schruns
       - 
-        districts: []
-        location: "POINT (47.2830599999999990 9.6500000000000004)"
+        alternate_names: 
+          - Rankweil
+        ascii_name: Rankweil
         name: Rankweil
+        names_en: ~
+        names_es: ~
         population: 11455
-        slug: rankweil
       - 
-        districts: []
-        location: "POINT (47.1666700000000034 9.8000000000000007)"
+        alternate_names: ~
+        ascii_name: Nuziders
         name: Nüziders
+        names_en: ~
+        names_es: ~
         population: 4628
-        slug: nuziders
       - 
-        districts: []
-        location: "POINT (47.1843599999999981 9.7053899999999995)"
+        alternate_names: ~
+        ascii_name: Nenzing
         name: Nenzing
+        names_en: ~
+        names_es: ~
         population: 5856
-        slug: nenzing
       - 
-        districts: []
-        location: "POINT (47.3237000000000023 10.1546299999999992)"
+        alternate_names: ~
+        ascii_name: Mittelberg
         name: Mittelberg
+        names_en: ~
+        names_es: ~
         population: 4627
-        slug: mittelberg
       - 
-        districts: []
-        location: "POINT (47.4264200000000002 9.6585099999999997)"
+        alternate_names: 
+          - Lustenau
+          - Лустенау
+          - לוסטנאו
+        ascii_name: Lustenau
         name: Lustenau
+        names_en: 
+          - Lustenau
+        names_es: 
+          - Lustenau
         population: 20218
-        slug: lustenau
       - 
-        districts: []
-        location: "POINT (47.5333299999999994 9.7500000000000000)"
+        alternate_names: 
+          - Lochau
+        ascii_name: Lochau
         name: Lochau
+        names_en: ~
+        names_es: ~
         population: 5209
-        slug: lochau
       - 
-        districts: []
-        location: "POINT (47.2079700000000031 10.1418400000000002)"
+        alternate_names: 
+          - Lekh
+          - Лех
+        ascii_name: Lech
         name: Lech
+        names_en: ~
+        names_es: ~
         population: 1865
-        slug: lech
       - 
-        districts: []
-        location: "POINT (47.4830600000000018 9.7330600000000000)"
+        alternate_names: ~
+        ascii_name: Lauterach
         name: Lauterach
+        names_en: ~
+        names_es: ~
         population: 9212
-        slug: lauterach
       - 
-        districts: []
-        location: "POINT (47.5499999999999972 9.7500000000000000)"
+        alternate_names: 
+          - Horbranz
+          - Hörbranz
+          - Khjornbranc
+        ascii_name: Horbranz
         name: Hörbranz
+        names_en: ~
+        names_es: ~
         population: 6414
-        slug: horbranz
       - 
-        districts: []
-        location: "POINT (47.3666699999999992 9.6830599999999993)"
+        alternate_names: 
+          - Hohenems
+        ascii_name: Hohenems
         name: Hohenems
+        names_en: ~
+        names_es: ~
         population: 14072
-        slug: hohenems
       - 
-        districts: []
-        location: "POINT (47.4593399999999974 9.6404999999999994)"
+        alternate_names: ~
+        ascii_name: Hochst
         name: Höchst
+        names_en: ~
+        names_es: ~
         population: 7207
-        slug: hochst
       - 
-        districts: []
-        location: "POINT (47.4830600000000018 9.6830599999999993)"
+        alternate_names: ~
+        ascii_name: Hard
         name: Hard
+        names_en: ~
+        names_es: ~
         population: 11766
-        slug: hard
       - 
-        districts: []
-        location: "POINT (47.3330600000000032 9.6330600000000004)"
+        alternate_names: 
+          - Gotzis
+          - Götzis
+        ascii_name: Gotzis
         name: Götzis
+        names_en: ~
+        names_es: ~
         population: 10342
-        slug: gotzis
       - 
-        districts: []
-        location: "POINT (47.2330600000000018 9.5999999999999996)"
+        alternate_names: 
+          - Fel'dkirkh
+          - Feldkirch
+          - pldqyrk
+        ascii_name: Feldkirch
         name: Feldkirch
+        names_en: 
+          - Feldkirch
+        names_es: 
+          - Feldkirch
         population: 29446
-        slug: feldkirch
       - 
-        districts: []
-        location: "POINT (47.4166700000000034 9.7330600000000000)"
+        alternate_names: 
+          - Dornbirn
+          - dwrnbyrn
+          - Дорнбирн
+        ascii_name: Dornbirn
         name: Dornbirn
+        names_en: 
+          - Dornbirn
+        names_es: 
+          - Dornbirn
         population: 43013
-        slug: dornbirn
       - 
-        districts: []
-        location: "POINT (47.1497200000000021 9.8000000000000007)"
+        alternate_names: ~
+        ascii_name: Buers
         name: Bürs
+        names_en: ~
+        names_es: ~
         population: 3100
-        slug: burs
       - 
-        districts: []
-        location: "POINT (47.5031099999999995 9.7470999999999997)"
+        alternate_names: 
+          - Bregenc
+          - Bregencja
+          - Bregenz
+        ascii_name: Bregenz
         name: Bregenz
+        names_en: 
+          - Bregenz
+        names_es: 
+          - Bregenz
         population: 27611
-        slug: bregenz
       - 
-        districts: []
-        location: "POINT (47.1497200000000021 9.8166700000000002)"
+        alternate_names: 
+          - Bludenc
+          - Bludenz
+          - Блуденц
+        ascii_name: Bludenz
         name: Bludenz
+        names_en: 
+          - Bludenz
+        names_es: ~
         population: 13904
-        slug: bludenz
       - 
-        districts: []
-        location: "POINT (47.3500000000000014 9.6500000000000004)"
+        alternate_names: 
+          - Altach
+        ascii_name: Altach
         name: Altach
+        names_en: ~
+        names_es: ~
         population: 6040
-        slug: altach
-    code: AT.08
     name: Vorarlberg
-    slug: vorarlberg
-tld: at
+    names_en: 
+      - Vorarlberg
+    names_es: 
+      - Vorarlberg
+  - 
+    ascii_name: Tyrol
+    cities: 
+      - 
+        alternate_names: 
+          - Cirl
+          - Zirl
+          - Цирл
+        ascii_name: Zirl
+        name: Zirl
+        names_en: ~
+        names_es: ~
+        population: 6567
+      - 
+        alternate_names: 
+          - Worgl
+          - Wörgl
+        ascii_name: Worgl
+        name: Wörgl
+        names_en: ~
+        names_es: ~
+        population: 11265
+      - 
+        alternate_names: 
+          - Wattens
+        ascii_name: Wattens
+        name: Wattens
+        names_en: ~
+        names_es: ~
+        population: 7517
+      - 
+        alternate_names: 
+          - Fomp
+          - Vomp
+          - Фомп
+        ascii_name: Vomp
+        name: Vomp
+        names_en: ~
+        names_es: ~
+        population: 4628
+      - 
+        alternate_names: ~
+        ascii_name: Vols
+        name: Völs
+        names_en: ~
+        names_es: ~
+        population: 6573
+      - 
+        alternate_names: 
+          - Telfs
+        ascii_name: Telfs
+        name: Telfs
+        names_en: ~
+        names_es: ~
+        population: 14028
+      - 
+        alternate_names: 
+          - Zjol'den
+          - Зёльден
+        ascii_name: Soelden
+        name: Sölden
+        names_en: ~
+        names_es: ~
+        population: 3449
+      - 
+        alternate_names: 
+          - Hall
+          - "Hall in Tirol"
+          - Khall'-in-Tirol'
+        ascii_name: "Hall in Tirol"
+        name: "Hall in Tirol"
+        names_en: ~
+        names_es: ~
+        population: 12460
+      - 
+        alternate_names: 
+          - Serfaus
+          - Zerfaus
+          - Зерфаус
+        ascii_name: Serfaus
+        name: Serfaus
+        names_en: ~
+        names_es: ~
+        population: 1136
+      - 
+        alternate_names: 
+          - Seefeld
+          - "Zeefel'd (Tirol')"
+          - "Зеефельд (Тироль)"
+        ascii_name: "Seefeld in Tirol"
+        name: "Seefeld in Tirol"
+        names_en: ~
+        names_es: ~
+        population: 3028
+      - 
+        alternate_names: ~
+        ascii_name: Schwaz
+        name: Schwaz
+        names_en: ~
+        names_es: ~
+        population: 12507
+      - 
+        alternate_names: 
+          - Schonberg
+          - "Schonberg im Stubaital"
+          - Schönberg
+        ascii_name: "Schoenberg im Stubaital"
+        name: "Schönberg im Stubaital"
+        names_en: ~
+        names_es: ~
+        population: 1013
+      - 
+        alternate_names: 
+          - "Saint Anton"
+          - "Sankt Anton"
+          - Sankt-Anton-am-Arl'berg
+        ascii_name: "Sankt Anton am Arlberg"
+        name: "Sankt Anton am Arlberg"
+        names_en: 
+          - "Saint Anton"
+        names_es: ~
+        population: 2848
+      - 
+        alternate_names: ~
+        ascii_name: Rum
+        name: Rum
+        names_en: ~
+        names_es: ~
+        population: 8498
+      - 
+        alternate_names: 
+          - Reutte
+          - "Reutte in Tirol"
+          - Rojtte
+        ascii_name: Reutte
+        name: Reutte
+        names_en: ~
+        names_es: ~
+        population: 5851
+      - 
+        alternate_names: 
+          - Ehc
+          - Ehtc
+          - Oetz
+        ascii_name: Oetz
+        name: Oetz
+        names_en: 
+          - Oetz
+        names_es: ~
+        population: 2238
+      - 
+        alternate_names: 
+          - Neustift
+          - "Neustift im Stubaital"
+          - Nojshtift
+        ascii_name: "Neustift im Stubaital"
+        name: "Neustift im Stubaital"
+        names_en: 
+          - Neustift
+        names_es: ~
+        population: 4454
+      - 
+        alternate_names: 
+          - Nauders
+          - Наудерс
+        ascii_name: Nauders
+        name: Nauders
+        names_en: ~
+        names_es: ~
+        population: 1539
+      - 
+        alternate_names: 
+          - Mairhofen
+          - Majerkhofen
+          - Majrkhofen
+        ascii_name: Mayrhofen
+        name: Mayrhofen
+        names_en: 
+          - Mayrhofen
+        names_es: ~
+        population: 3869
+      - 
+        alternate_names: 
+          - "Matraj (Osttirol')"
+          - Matrei
+          - "Matrei in Osttirol"
+        ascii_name: "Matrei in Osttirol"
+        name: "Matrei in Osttirol"
+        names_en: ~
+        names_es: ~
+        population: 5076
+      - 
+        alternate_names: 
+          - Lienz
+          - Linc
+          - lyynz
+        ascii_name: Lienz
+        name: Lienz
+        names_en: 
+          - Lienz
+        names_es: ~
+        population: 12270
+      - 
+        alternate_names: 
+          - Leermoos
+          - Lermoos
+          - Lermos
+        ascii_name: Lermoos
+        name: Lermoos
+        names_en: ~
+        names_es: ~
+        population: 1115
+      - 
+        alternate_names: ~
+        ascii_name: Landeck
+        name: Landeck
+        names_en: ~
+        names_es: ~
+        population: 7351
+      - 
+        alternate_names: 
+          - Kuffstein
+          - Kufshtajn
+          - Kufsstein
+        ascii_name: Kufstein
+        name: Kufstein
+        names_en: 
+          - Kufstein
+        names_es: ~
+        population: 16115
+      - 
+        alternate_names: 
+          - Kitcbjuehl'
+          - Kitzbichl
+          - Kitzbuehel
+        ascii_name: Kitzbuhel
+        name: Kitzbühel
+        names_en: 
+          - Kitzbühel
+        names_es: 
+          - Kitzbühel
+        population: 8818
+      - 
+        alternate_names: ~
+        ascii_name: Kirchbichl
+        name: Kirchbichl
+        names_en: ~
+        names_es: ~
+        population: 5115
+      - 
+        alternate_names: ~
+        ascii_name: Jenbach
+        name: Jenbach
+        names_en: ~
+        names_es: ~
+        population: 6806
+      - 
+        alternate_names: ~
+        ascii_name: Ischgl
+        name: Ischgl
+        names_en: ~
+        names_es: ~
+        population: 2128
+      - 
+        alternate_names: 
+          - Innsbruck
+          - Insbruk
+          - Insbruka
+        ascii_name: Innsbruck
+        name: Innsbruck
+        names_en: 
+          - Innsbruck
+        names_es: 
+          - Innsbruck
+        population: 112467
+      - 
+        alternate_names: 
+          - Imst
+          - Имст
+        ascii_name: Imst
+        name: Imst
+        names_en: 
+          - Imst
+        names_es: ~
+        population: 9225
+      - 
+        alternate_names: 
+          - Hopfgarten
+          - "Hopfgarten Markt"
+          - "Hopfgarten im Brixental"
+        ascii_name: "Hopfgarten im Brixental"
+        name: "Hopfgarten im Brixental"
+        names_en: ~
+        names_es: ~
+        population: 5314
+      - 
+        alternate_names: ~
+        ascii_name: "Bad Haering"
+        name: "Bad Häring"
+        names_en: ~
+        names_es: ~
+        population: 2383
+      - 
+        alternate_names: 
+          - Fjugen
+          - Fugen
+          - Fügen
+        ascii_name: Fugen
+        name: Fügen
+        names_en: ~
+        names_es: ~
+        population: 3734
+      - 
+        alternate_names: 
+          - Fiberbrunn
+          - Fieberbrunn
+          - Фибербрунн
+        ascii_name: Fieberbrunn
+        name: Fieberbrunn
+        names_en: 
+          - Fieberbrunn
+        names_es: ~
+        population: 4180
+      - 
+        alternate_names: 
+          - Ehbbs
+          - Эббс
+        ascii_name: Ebbs
+        name: Ebbs
+        names_en: ~
+        names_es: ~
+        population: 5088
+      - 
+        alternate_names: 
+          - Briksen-im-Tale
+          - Brixen
+          - "Brixen im Tal"
+        ascii_name: "Brixen im Thale"
+        name: "Brixen im Thale"
+        names_en: ~
+        names_es: ~
+        population: 2673
+      - 
+        alternate_names: ~
+        ascii_name: Absam
+        name: Absam
+        names_en: ~
+        names_es: ~
+        population: 6594
+      - 
+        alternate_names: ~
+        ascii_name: Leutasch
+        name: Leutasch
+        names_en: ~
+        names_es: ~
+        population: 2104
+      - 
+        alternate_names: 
+          - Al'pbakh
+          - Альпбах
+        ascii_name: Alpbach
+        name: Alpbach
+        names_en: ~
+        names_es: ~
+        population: 2585
+    name: Tyrol
+    names_en: 
+      - Tyrol
+    names_es: ~
+  - 
+    ascii_name: Styria
+    cities: 
+      - 
+        alternate_names: 
+          - Zeltweg
+        ascii_name: Zeltweg
+        name: Zeltweg
+        names_en: ~
+        names_es: ~
+        population: 7726
+      - 
+        alternate_names: 
+          - Weiz
+        ascii_name: Weiz
+        name: Weiz
+        names_en: ~
+        names_es: ~
+        population: 9128
+      - 
+        alternate_names: 
+          - Voitsberg
+        ascii_name: Voitsberg
+        name: Voitsberg
+        names_en: ~
+        names_es: ~
+        population: 9980
+      - 
+        alternate_names: 
+          - Trofaiach
+        ascii_name: Trofaiach
+        name: Trofaiach
+        names_en: ~
+        names_es: ~
+        population: 8313
+      - 
+        alternate_names: 
+          - Shladming
+          - Шладминг
+        ascii_name: Schladming
+        name: Schladming
+        names_en: ~
+        names_es: ~
+        population: 4659
+      - 
+        alternate_names: 
+          - Scheifling
+          - Shajfling
+          - Шайфлинг
+        ascii_name: Scheifling
+        name: Scheifling
+        names_en: ~
+        names_es: ~
+        population: 1600
+      - 
+        alternate_names: 
+          - Rottenmann
+        ascii_name: Rottenmann
+        name: Rottenmann
+        names_en: ~
+        names_es: ~
+        population: 5561
+      - 
+        alternate_names: 
+          - Bereneck
+          - Perneg-an-der-Mur
+          - Pernegg
+        ascii_name: "Pernegg an der Mur"
+        name: "Pernegg an der Mur"
+        names_en: ~
+        names_es: ~
+        population: 2406
+      - 
+        alternate_names: 
+          - Mjurccushlag
+          - Murssuschalg
+          - Murzzuschlag
+        ascii_name: Murzzuschlag
+        name: Mürzzuschlag
+        names_en: ~
+        names_es: ~
+        population: 9410
+      - 
+        alternate_names: 
+          - Mariazell
+        ascii_name: Mariazell
+        name: Mariazell
+        names_en: ~
+        names_es: ~
+        population: 1577
+      - 
+        alternate_names: 
+          - Liezen
+        ascii_name: Liezen
+        name: Liezen
+        names_en: ~
+        names_es: ~
+        population: 6903
+      - 
+        alternate_names: 
+          - Leoben
+          - Леобен
+          - לאובן
+        ascii_name: Leoben
+        name: Leoben
+        names_en: 
+          - Leoben
+        names_es: ~
+        population: 24809
+      - 
+        alternate_names: ~
+        ascii_name: Leibnitz
+        name: Leibnitz
+        names_en: ~
+        names_es: ~
+        population: 7029
+      - 
+        alternate_names: 
+          - Krieglach
+        ascii_name: Krieglach
+        name: Krieglach
+        names_en: ~
+        names_es: ~
+        population: 5236
+      - 
+        alternate_names: 
+          - Koflach
+          - Köflach
+        ascii_name: Koflach
+        name: Köflach
+        names_en: ~
+        names_es: ~
+        population: 10447
+      - 
+        alternate_names: 
+          - Knittelfeld
+        ascii_name: Knittelfeld
+        name: Knittelfeld
+        names_en: ~
+        names_es: ~
+        population: 12704
+      - 
+        alternate_names: ~
+        ascii_name: Kindberg
+        name: Kindberg
+        names_en: ~
+        names_es: ~
+        population: 5790
+      - 
+        alternate_names: ~
+        ascii_name: Kapfenberg
+        name: Kapfenberg
+        names_en: ~
+        names_es: ~
+        population: 21819
+      - 
+        alternate_names: 
+          - Judenburg
+        ascii_name: Judenburg
+        name: Judenburg
+        names_en: ~
+        names_es: ~
+        population: 9992
+      - 
+        alternate_names: 
+          - Hartberg
+          - Khartberg
+          - Хартберг
+        ascii_name: Hartberg
+        name: Hartberg
+        names_en: 
+          - Hartberg
+        names_es: ~
+        population: 6634
+      - 
+        alternate_names: 
+          - Grac
+          - Graca
+          - Gradec
+        ascii_name: Graz
+        name: Graz
+        names_en: 
+          - Graz
+        names_es: 
+          - Graz
+        population: 222326
+      - 
+        alternate_names: 
+          - Gratkorn
+        ascii_name: Gratkorn
+        name: Gratkorn
+        names_en: ~
+        names_es: ~
+        population: 6806
+      - 
+        alternate_names: ~
+        ascii_name: Gleisdorf
+        name: Gleisdorf
+        names_en: ~
+        names_es: ~
+        population: 5245
+      - 
+        alternate_names: 
+          - Furstenfeld
+          - Fürstenfeld
+        ascii_name: Furstenfeld
+        name: Fürstenfeld
+        names_en: ~
+        names_es: ~
+        population: 5962
+      - 
+        alternate_names: 
+          - Frohnleiten
+        ascii_name: Frohnleiten
+        name: Frohnleiten
+        names_en: ~
+        names_es: ~
+        population: 6629
+      - 
+        alternate_names: 
+          - Fohnsdorf
+        ascii_name: Fohnsdorf
+        name: Fohnsdorf
+        names_en: ~
+        names_es: ~
+        population: 8203
+      - 
+        alternate_names: 
+          - Fel'dbakh
+          - Feldbach
+          - Фельдбах
+        ascii_name: Feldbach
+        name: Feldbach
+        names_en: ~
+        names_es: ~
+        population: 4877
+      - 
+        alternate_names: 
+          - Eisenerz
+        ascii_name: Eisenerz
+        name: Eisenerz
+        names_en: ~
+        names_es: ~
+        population: 5987
+      - 
+        alternate_names: 
+          - Deutschlandberg
+          - Deutschlandsberg
+          - Dojchlandsberg
+        ascii_name: Deutschlandsberg
+        name: Deutschlandsberg
+        names_en: ~
+        names_es: ~
+        population: 8049
+      - 
+        alternate_names: 
+          - Bruck
+          - "Bruck an der Mur"
+          - Bruk-an-der-Mur
+        ascii_name: "Bruck an der Mur"
+        name: "Bruck an der Mur"
+        names_en: 
+          - "Bruck an der Mur"
+        names_es: ~
+        population: 13254
+      - 
+        alternate_names: 
+          - Bad-Blumau
+          - Blumau
+          - Бад-Блумау
+        ascii_name: "Bad Blumau"
+        name: "Bad Blumau"
+        names_en: ~
+        names_es: ~
+        population: 1628
+      - 
+        alternate_names: ~
+        ascii_name: Barnbach
+        name: Bärnbach
+        names_en: ~
+        names_es: ~
+        population: 4850
+      - 
+        alternate_names: ~
+        ascii_name: "Bad Aussee"
+        name: "Bad Aussee"
+        names_en: ~
+        names_es: ~
+        population: 5210
+      - 
+        alternate_names: 
+          - Tal'-Grac
+          - Таль-Грац
+        ascii_name: Thal
+        name: Thal
+        names_en: ~
+        names_es: ~
+        population: 2231
+    name: Styria
+    names_en: 
+      - Styria
+    names_es: ~
+  - 
+    ascii_name: Salzburg
+    cities: 
+      - 
+        alternate_names: 
+          - "Cel am Zee"
+          - Cell'-am-Zee
+          - "Zell am See"
+        ascii_name: "Zell am See"
+        name: "Zell am See"
+        names_en: 
+          - "Zell am See"
+        names_es: ~
+        population: 10046
+      - 
+        alternate_names: 
+          - Verfen
+          - Werfen
+          - Верфен
+        ascii_name: Werfen
+        name: Werfen
+        names_en: ~
+        names_es: ~
+        population: 3059
+      - 
+        alternate_names: ~
+        ascii_name: Thalgau
+        name: Thalgau
+        names_en: ~
+        names_es: ~
+        population: 5501
+      - 
+        alternate_names: 
+          - Daxenbach
+          - Taksenbakh
+          - Taxenbach
+        ascii_name: Taxenbach
+        name: Taxenbach
+        names_en: ~
+        names_es: ~
+        population: 2830
+      - 
+        alternate_names: 
+          - Tambsweg
+          - Tamsveg
+          - Тамсвег
+        ascii_name: Tamsweg
+        name: Tamsweg
+        names_en: ~
+        names_es: ~
+        population: 6126
+      - 
+        alternate_names: 
+          - Shtrobl'
+          - Strobl
+          - Штробль
+        ascii_name: Strobl
+        name: Strobl
+        names_en: ~
+        names_es: ~
+        population: 3577
+      - 
+        alternate_names: 
+          - Strasswalchen
+          - "Strasz Walchen"
+        ascii_name: Strasswalchen
+        name: Strasswalchen
+        names_en: ~
+        names_es: ~
+        population: 7145
+      - 
+        alternate_names: 
+          - Seekirchen
+          - "Seekirchen Markt"
+        ascii_name: "Seekirchen am Wallersee"
+        name: "Seekirchen am Wallersee"
+        names_en: ~
+        names_es: ~
+        population: 9865
+      - 
+        alternate_names: 
+          - "Sankt Johann"
+          - "Sankt Johann im Pongau"
+          - "Sankt-Jokhann (Pongau)"
+        ascii_name: "Sankt Johann im Pongau"
+        name: "Sankt Johann im Pongau"
+        names_en: ~
+        names_es: ~
+        population: 10887
+      - 
+        alternate_names: 
+          - "Sankt Gilgen"
+          - Sankt-Gilgen
+          - "St. AEgidius"
+        ascii_name: "Sankt Gilgen"
+        name: "Sankt Gilgen"
+        names_en: ~
+        names_es: ~
+        population: 3753
+      - 
+        alternate_names: 
+          - "Lungsod ng Salzburg"
+          - Saizburg
+          - Salcburk
+        ascii_name: Salzburg
+        name: Salzburg
+        names_en: 
+          - Salzburg
+        names_es: 
+          - Salzburgo
+        population: 150269
+      - 
+        alternate_names: 
+          - Saalfelden
+          - "Saalfelden am Steinernen Meer"
+          - Salfelden
+        ascii_name: "Saalfelden am Steinernen Meer"
+        name: "Saalfelden am Steinernen Meer"
+        names_en: ~
+        names_es: ~
+        population: 16119
+      - 
+        alternate_names: ~
+        ascii_name: Saalbach
+        name: Saalbach
+        names_en: ~
+        names_es: ~
+        population: 2954
+      - 
+        alternate_names: 
+          - Radstadt
+          - Radstatt
+          - Rashtadt
+        ascii_name: Radstadt
+        name: Radstadt
+        names_en: ~
+        names_es: ~
+        population: 4926
+      - 
+        alternate_names: 
+          - Mittersil
+          - Mittersill
+          - Mitterzil'
+        ascii_name: Mittersill
+        name: Mittersill
+        names_en: ~
+        names_es: ~
+        population: 5680
+      - 
+        alternate_names: 
+          - Kuchl
+        ascii_name: Kuchl
+        name: Kuchl
+        names_en: ~
+        names_es: ~
+        population: 6668
+      - 
+        alternate_names: ~
+        ascii_name: Kaprun
+        name: Kaprun
+        names_en: ~
+        names_es: ~
+        population: 2947
+      - 
+        alternate_names: 
+          - Hallein
+          - Khallajn
+          - Халлайн
+        ascii_name: Hallein
+        name: Hallein
+        names_en: 
+          - Hallein
+        names_es: ~
+        population: 18980
+      - 
+        alternate_names: 
+          - Grodig
+          - Grödig
+        ascii_name: Grodig
+        name: Grödig
+        names_en: ~
+        names_es: ~
+        population: 6918
+      - 
+        alternate_names: 
+          - Bruck
+          - "Bruck an der Glocknerstrasse"
+          - Bruk-an-der-Grosgloknershtrasse
+        ascii_name: "Bruck an der Grossglocknerstrasse"
+        name: "Bruck an der Großglocknerstraße"
+        names_en: ~
+        names_es: ~
+        population: 4649
+      - 
+        alternate_names: 
+          - Bischofhofen
+          - Bischofshofen
+          - Bischofshofn
+        ascii_name: Bischofshofen
+        name: Bischofshofen
+        names_en: 
+          - Bischofshofen
+        names_es: ~
+        population: 10144
+      - 
+        alternate_names: ~
+        ascii_name: Bergheim
+        name: Bergheim
+        names_en: ~
+        names_es: ~
+        population: 5031
+      - 
+        alternate_names: 
+          - "Bad Hofgastein"
+          - Bad-Khofgashtajn
+          - Hofgastein
+        ascii_name: "Bad Hofgastein"
+        name: "Bad Hofgastein"
+        names_en: ~
+        names_es: ~
+        population: 7002
+      - 
+        alternate_names: 
+          - Bad-Gasshtajn
+          - Gastein
+          - Бад-Гасштайн
+        ascii_name: "Bad Gastein"
+        name: "Bad Gastein"
+        names_en: ~
+        names_es: ~
+        population: 5947
+      - 
+        alternate_names: ~
+        ascii_name: Anif
+        name: Anif
+        names_en: ~
+        names_es: ~
+        population: 4154
+      - 
+        alternate_names: 
+          - Abbtenau
+          - Abtenao
+          - Abtenau
+        ascii_name: Abtenau
+        name: Abtenau
+        names_en: ~
+        names_es: ~
+        population: 5828
+    name: Salzburg
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Upper Austria"
+    cities: 
+      - 
+        alternate_names: 
+          - Ovilava
+          - Vel's
+          - Wels
+        ascii_name: Wels
+        name: Wels
+        names_en: 
+          - Wels
+        names_es: 
+          - Wels
+        population: 57946
+      - 
+        alternate_names: ~
+        ascii_name: Waldzell
+        name: Waldzell
+        names_en: ~
+        names_es: ~
+        population: 2095
+      - 
+        alternate_names: 
+          - Vorchdorf
+        ascii_name: Vorchdorf
+        name: Vorchdorf
+        names_en: ~
+        names_es: ~
+        population: 7455
+      - 
+        alternate_names: 
+          - Fjoklamarkt
+          - Vocklamarkt
+          - "Vocklamarkt-am Haushamerfeld"
+        ascii_name: Vocklamarkt
+        name: Vöcklamarkt
+        names_en: ~
+        names_es: ~
+        population: 4869
+      - 
+        alternate_names: 
+          - Vocklabruck
+          - Vöcklabruck
+        ascii_name: Vocklabruck
+        name: Vöcklabruck
+        names_en: ~
+        names_es: ~
+        population: 11887
+      - 
+        alternate_names: 
+          - Ul'rikhsberg
+          - Ульрихсберг
+        ascii_name: Ulrichsberg
+        name: Ulrichsberg
+        names_en: ~
+        names_es: ~
+        population: 2997
+      - 
+        alternate_names: ~
+        ascii_name: Traun
+        name: Traun
+        names_en: ~
+        names_es: ~
+        population: 23959
+      - 
+        alternate_names: ~
+        ascii_name: Timelkam
+        name: Timelkam
+        names_en: ~
+        names_es: ~
+        population: 5855
+      - 
+        alternate_names: 
+          - Shtajreg
+          - Штайрег
+        ascii_name: Steyregg
+        name: Steyregg
+        names_en: ~
+        names_es: ~
+        population: 4856
+      - 
+        alternate_names: 
+          - Shtajr
+          - Steyer
+          - Steyr
+        ascii_name: Steyr
+        name: Steyr
+        names_en: 
+          - Steyr
+        names_es: ~
+        population: 39566
+      - 
+        alternate_names: ~
+        ascii_name: Sierning
+        name: Sierning
+        names_en: ~
+        names_es: ~
+        population: 8722
+      - 
+        alternate_names: ~
+        ascii_name: Seewalchen
+        name: Seewalchen
+        names_en: ~
+        names_es: ~
+        population: 4959
+      - 
+        alternate_names: 
+          - Scharnstein
+          - Sharnshtajn
+          - Шарнштайн
+        ascii_name: Scharnstein
+        name: Scharnstein
+        names_en: ~
+        names_es: ~
+        population: 4631
+      - 
+        alternate_names: 
+          - Scharding
+          - Schärding
+        ascii_name: Scharding
+        name: Schärding
+        names_en: ~
+        names_es: ~
+        population: 4919
+      - 
+        alternate_names: 
+          - "Sankt Wolfgang"
+          - Sankt-Vol'fgang-im-Zal'ckammergut
+          - Санкт-Вольфганг-им-Зальцкаммергут
+        ascii_name: "Sankt Wolfgang im Salzkammergut"
+        name: "Sankt Wolfgang im Salzkammergut"
+        names_en: ~
+        names_es: ~
+        population: 2794
+      - 
+        alternate_names: 
+          - "Sankt Georgen"
+          - "Sankt Georgen im Attergau"
+          - Sankt-Georgen-im-Attergau
+        ascii_name: "Sankt Georgen im Attergau"
+        name: "Sankt Georgen im Attergau"
+        names_en: ~
+        names_es: ~
+        population: 4180
+      - 
+        alternate_names: 
+          - "Sankt Florian"
+          - "Sankt Florian am Inn"
+          - Sankt-Florian-am-Inn
+        ascii_name: "Sankt Florian am Inn"
+        name: "Sankt Florian am Inn"
+        names_en: ~
+        names_es: ~
+        population: 3121
+      - 
+        alternate_names: ~
+        ascii_name: "Sankt Florian"
+        name: "Sankt Florian"
+        names_en: ~
+        names_es: ~
+        population: 5760
+      - 
+        alternate_names: 
+          - Reid
+          - "Rid (Inkrajs)"
+          - Ried
+        ascii_name: "Ried im Innkreis"
+        name: "Ried im Innkreis"
+        names_en: ~
+        names_es: ~
+        population: 11511
+      - 
+        alternate_names: 
+          - Pfarrkirchen
+        ascii_name: "Pfarrkirchen im Muehlkreis"
+        name: "Pfarrkirchen im Mühlkreis"
+        names_en: ~
+        names_es: ~
+        population: 1551
+      - 
+        alternate_names: 
+          - Perg
+        ascii_name: Perg
+        name: Perg
+        names_en: ~
+        names_es: ~
+        population: 7644
+      - 
+        alternate_names: 
+          - Pasching
+        ascii_name: Pasching
+        name: Pasching
+        names_en: ~
+        names_es: ~
+        population: 6143
+      - 
+        alternate_names: 
+          - Mondzee
+          - Мондзее
+        ascii_name: Mondsee
+        name: Mondsee
+        names_en: ~
+        names_es: ~
+        population: 3307
+      - 
+        alternate_names: 
+          - Micheldorf
+          - "Mikhel'dorf (Verkhnjaja Avstrija)"
+          - "Михельдорф (Верхняя Австрия)"
+        ascii_name: "Micheldorf in Oberoesterreich"
+        name: "Micheldorf in Oberösterreich"
+        names_en: ~
+        names_es: ~
+        population: 5902
+      - 
+        alternate_names: ~
+        ascii_name: Marchtrenk
+        name: Marchtrenk
+        names_en: ~
+        names_es: ~
+        population: 11666
+      - 
+        alternate_names: 
+          - Lentia
+          - Linc
+          - Linca
+        ascii_name: Linz
+        name: Linz
+        names_en: 
+          - Linz
+        names_es: 
+          - Linz
+        population: 181162
+      - 
+        alternate_names: 
+          - Leonding
+          - Леондинг
+          - לאונדינג
+        ascii_name: Leonding
+        name: Leonding
+        names_en: 
+          - Leonding
+        names_es: ~
+        population: 22736
+      - 
+        alternate_names: ~
+        ascii_name: Lenzing
+        name: Lenzing
+        names_en: ~
+        names_es: ~
+        population: 5044
+      - 
+        alternate_names: ~
+        ascii_name: Laakirchen
+        name: Laakirchen
+        names_en: ~
+        names_es: ~
+        population: 9569
+      - 
+        alternate_names: 
+          - Kremsmunster
+          - Kremsmünster
+        ascii_name: Kremsmunster
+        name: Kremsmünster
+        names_en: ~
+        names_es: ~
+        population: 6626
+      - 
+        alternate_names: 
+          - Hoersching
+          - Khjorshing
+          - Хёршинг
+        ascii_name: Horsching
+        name: Hörsching
+        names_en: ~
+        names_es: ~
+        population: 5312
+      - 
+        alternate_names: 
+          - Gmunden
+          - Grunau
+          - Grünau
+        ascii_name: "Gruenau im Almtal"
+        name: "Grünau im Almtal"
+        names_en: ~
+        names_es: ~
+        population: 2135
+      - 
+        alternate_names: 
+          - Grieskirchen
+          - Griskirkhen
+          - Грискирхен
+        ascii_name: Grieskirchen
+        name: Grieskirchen
+        names_en: ~
+        names_es: ~
+        population: 4766
+      - 
+        alternate_names: 
+          - Gmunden
+          - "Gmunden an der Traun"
+          - Гмунден
+        ascii_name: Gmunden
+        name: Gmunden
+        names_en: ~
+        names_es: ~
+        population: 13287
+      - 
+        alternate_names: ~
+        ascii_name: Garsten
+        name: Garsten
+        names_en: ~
+        names_es: ~
+        population: 6657
+      - 
+        alternate_names: ~
+        ascii_name: Gallneukirchen
+        name: Gallneukirchen
+        names_en: ~
+        names_es: ~
+        population: 6282
+      - 
+        alternate_names: 
+          - Frajshtadt
+          - Freistadt
+          - Фрайштадт
+        ascii_name: Freistadt
+        name: Freistadt
+        names_en: 
+          - Freistadt
+        names_es: ~
+        population: 7574
+      - 
+        alternate_names: 
+          - Frankenmarkt
+          - Франкенмаркт
+        ascii_name: Frankenmarkt
+        name: Frankenmarkt
+        names_en: ~
+        names_es: ~
+        population: 3581
+      - 
+        alternate_names: ~
+        ascii_name: Frankenburg
+        name: Frankenburg
+        names_en: ~
+        names_es: ~
+        population: 5162
+      - 
+        alternate_names: 
+          - Fel'dkirkhen-an-der-Donau
+          - Feldkirchen
+          - "Feldkirchen an der Donau"
+        ascii_name: "Feldkirchen an der Donau"
+        name: "Feldkirchen an der Donau"
+        names_en: ~
+        names_es: ~
+        population: 5286
+      - 
+        alternate_names: 
+          - Enns
+        ascii_name: Enns
+        name: Enns
+        names_en: ~
+        names_es: ~
+        population: 10816
+      - 
+        alternate_names: ~
+        ascii_name: Engerwitzdorf
+        name: Engerwitzdorf
+        names_en: ~
+        names_es: ~
+        population: 8510
+      - 
+        alternate_names: 
+          - Ebensee
+        ascii_name: Ebensee
+        name: Ebensee
+        names_en: ~
+        names_es: ~
+        population: 8376
+      - 
+        alternate_names: 
+          - Braunau
+          - "Braunau am Inn"
+          - "Braunau na In"
+        ascii_name: "Braunau am Inn"
+        name: "Braunau am Inn"
+        names_en: 
+          - "Braunau am Inn"
+        names_es: 
+          - "Braunau am Inn"
+        population: 16403
+      - 
+        alternate_names: 
+          - "Bad Schallerbach"
+          - Bad-Shallerbakh
+          - Schallerbach
+        ascii_name: "Bad Schallerbach"
+        name: "Bad Schallerbach"
+        names_en: ~
+        names_es: ~
+        population: 3449
+      - 
+        alternate_names: 
+          - "Bad Ischl"
+          - "Bad Ishl"
+          - Ischi
+        ascii_name: "Bad Ischl"
+        name: "Bad Ischl"
+        names_en: 
+          - "Bad Ischl"
+        names_es: ~
+        population: 14267
+      - 
+        alternate_names: 
+          - "Bad Hall"
+          - Bad-Khall'
+          - Бад-Халль
+        ascii_name: "Bad Hall"
+        name: "Bad Hall"
+        names_en: ~
+        names_es: ~
+        population: 4935
+      - 
+        alternate_names: 
+          - Bad-Gojzern
+          - Goisern
+          - Бад-Гойзерн
+        ascii_name: "Bad Goisern"
+        name: "Bad Goisern"
+        names_en: ~
+        names_es: ~
+        population: 7869
+      - 
+        alternate_names: ~
+        ascii_name: Asten
+        name: Asten
+        names_en: ~
+        names_es: ~
+        population: 6516
+      - 
+        alternate_names: 
+          - Ansfel'den
+          - Ansfelden
+          - Ансфельден
+        ascii_name: Ansfelden
+        name: Ansfelden
+        names_en: 
+          - Ansfelden
+        names_es: 
+          - Ansfelden
+        population: 14936
+      - 
+        alternate_names: 
+          - Al'tmjunster
+          - Altmuenster
+          - Альтмюнстер
+        ascii_name: Altmunster
+        name: Altmünster
+        names_en: ~
+        names_es: ~
+        population: 9651
+      - 
+        alternate_names: 
+          - Atnang-Pukhkhajm
+          - Attnang-Puchheim
+          - Атнанг-Пуххайм
+        ascii_name: Attnang-Puchheim
+        name: Attnang-Puchheim
+        names_en: ~
+        names_es: ~
+        population: 8908
+      - 
+        alternate_names: ~
+        ascii_name: "Bad Leonfelden"
+        name: "Bad Leonfelden"
+        names_en: ~
+        names_es: ~
+        population: 4029
+      - 
+        alternate_names: ~
+        ascii_name: Linz-Wels-Steyr
+        name: Linz-Wels-Steyr
+        names_en: ~
+        names_es: ~
+        population: 286000
+    name: "Upper Austria"
+    names_en: 
+      - "Upper Austria"
+    names_es: ~
+  - 
+    ascii_name: "Lower Austria"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Neu-Guntramsdorf
+        name: Neu-Guntramsdorf
+        names_en: ~
+        names_es: ~
+        population: 9071
+      - 
+        alternate_names: 
+          - "Stift Zwettl"
+          - "Zwettl Stift"
+        ascii_name: "Zwettl Stift"
+        name: "Zwettl Stift"
+        names_en: ~
+        names_es: ~
+        population: 11718
+      - 
+        alternate_names: 
+          - Zistersdorf
+        ascii_name: Zistersdorf
+        name: Zistersdorf
+        names_en: ~
+        names_es: ~
+        population: 5661
+      - 
+        alternate_names: 
+          - Ibbs
+          - Ibs-na-Dunae
+          - Ybbs
+        ascii_name: "Ybbs an der Donau"
+        name: "Ybbs an der Donau"
+        names_en: ~
+        names_es: ~
+        population: 5676
+      - 
+        alternate_names: ~
+        ascii_name: Wordern
+        name: Wördern
+        names_en: ~
+        names_es: ~
+        population: 6886
+      - 
+        alternate_names: ~
+        ascii_name: Wolkersdorf
+        name: Wolkersdorf
+        names_en: ~
+        names_es: ~
+        population: 6416
+      - 
+        alternate_names: ~
+        ascii_name: Wilhelmsburg
+        name: Wilhelmsburg
+        names_en: ~
+        names_es: ~
+        population: 6718
+      - 
+        alternate_names: 
+          - Becsujvaros
+          - Bécsújváros
+          - "Dunajsko Novo mesto"
+        ascii_name: "Wiener Neustadt"
+        name: "Wiener Neustadt"
+        names_en: 
+          - "Wiener Neustadt"
+        names_es: ~
+        population: 38481
+      - 
+        alternate_names: ~
+        ascii_name: "Wiener Neudorf"
+        name: "Wiener Neudorf"
+        names_en: ~
+        names_es: ~
+        population: 8530
+      - 
+        alternate_names: 
+          - "Stadt Waidhofen an der Ybbs"
+          - "Vajdkhofen-na- Ibbse"
+          - Waidhofen
+        ascii_name: "Waidhofen an der Ybbs"
+        name: "Waidhofen an der Ybbs"
+        names_en: ~
+        names_es: ~
+        population: 11774
+      - 
+        alternate_names: 
+          - Vajdkhofen-an-der-Tajja
+          - Waidhofen
+          - "Waidhofen an der Thaya"
+        ascii_name: "Waidhofen an der Thaya"
+        name: "Waidhofen an der Thaya"
+        names_en: ~
+        names_es: ~
+        population: 5838
+      - 
+        alternate_names: ~
+        ascii_name: Tulln
+        name: Tulln
+        names_en: ~
+        names_es: ~
+        population: 14201
+      - 
+        alternate_names: 
+          - Traismauer
+        ascii_name: Traismauer
+        name: Traismauer
+        names_en: ~
+        names_es: ~
+        population: 5815
+      - 
+        alternate_names: ~
+        ascii_name: Traiskirchen
+        name: Traiskirchen
+        names_en: ~
+        names_es: ~
+        population: 16212
+      - 
+        alternate_names: ~
+        ascii_name: Ternitz
+        name: Ternitz
+        names_en: ~
+        names_es: ~
+        population: 15153
+      - 
+        alternate_names: 
+          - Shtrasskhof-an-der-Nordban
+          - Strasshof
+          - "Strasshof an der Nordbahn"
+        ascii_name: "Strasshof an der Nordbahn"
+        name: "Strasshof an der Nordbahn"
+        names_en: ~
+        names_es: ~
+        population: 7637
+      - 
+        alternate_names: 
+          - Stockerau
+        ascii_name: Stockerau
+        name: Stockerau
+        names_en: ~
+        names_es: ~
+        population: 14831
+      - 
+        alternate_names: ~
+        ascii_name: Sieghartskirchen
+        name: Sieghartskirchen
+        names_en: ~
+        names_es: ~
+        population: 7062
+      - 
+        alternate_names: 
+          - "Nova Schwechat"
+          - Schwechat
+          - Shvekhat
+        ascii_name: Schwechat
+        name: Schwechat
+        names_en: 
+          - Schwechat
+        names_es: ~
+        population: 15711
+      - 
+        alternate_names: 
+          - Schrems
+        ascii_name: Schrems
+        name: Schrems
+        names_en: ~
+        names_es: ~
+        population: 5811
+      - 
+        alternate_names: ~
+        ascii_name: Scheibbs
+        name: Scheibbs
+        names_en: ~
+        names_es: ~
+        population: 4600
+      - 
+        alternate_names: 
+          - "Sankt Valentin"
+        ascii_name: "Sankt Valentin"
+        name: "Sankt Valentin"
+        names_en: ~
+        names_es: ~
+        population: 9063
+      - 
+        alternate_names: 
+          - Poelten
+          - Pölten
+          - "Sankt Poelten"
+        ascii_name: "Sankt Polten"
+        name: "Sankt Pölten"
+        names_en: 
+          - "Sankt Pölten"
+          - "St. Poelten"
+        names_es: 
+          - "Sankt Pölten"
+        population: 49001
+      - 
+        alternate_names: 
+          - Retc
+          - Retz
+          - Rotz
+        ascii_name: Retz
+        name: Retz
+        names_en: ~
+        names_es: ~
+        population: 4139
+      - 
+        alternate_names: 
+          - "Reichenau an der Rax"
+        ascii_name: "Reichenau an der Rax"
+        name: "Reichenau an der Rax"
+        names_en: ~
+        names_es: ~
+        population: 2673
+      - 
+        alternate_names: ~
+        ascii_name: Purkersdorf
+        name: Purkersdorf
+        names_en: ~
+        names_es: ~
+        population: 8327
+      - 
+        alternate_names: ~
+        ascii_name: Purgstall
+        name: Purgstall
+        names_en: ~
+        names_es: ~
+        population: 5247
+      - 
+        alternate_names: 
+          - Pressbaum
+        ascii_name: Pressbaum
+        name: Pressbaum
+        names_en: ~
+        names_es: ~
+        population: 6083
+      - 
+        alternate_names: 
+          - Poysdorf
+        ascii_name: Poysdorf
+        name: Poysdorf
+        names_en: ~
+        names_es: ~
+        population: 5653
+      - 
+        alternate_names: 
+          - Pottendorf
+        ascii_name: Pottendorf
+        name: Pottendorf
+        names_en: ~
+        names_es: ~
+        population: 6105
+      - 
+        alternate_names: ~
+        ascii_name: Perchtoldsdorf
+        name: Perchtoldsdorf
+        names_en: ~
+        names_es: ~
+        population: 14041
+      - 
+        alternate_names: ~
+        ascii_name: Neunkirchen
+        name: Neunkirchen
+        names_en: ~
+        names_es: ~
+        population: 11313
+      - 
+        alternate_names: 
+          - Mjodling
+          - Moedling
+          - Mödling
+        ascii_name: Modling
+        name: Mödling
+        names_en: 
+          - Mödling
+        names_es: ~
+        population: 20710
+      - 
+        alternate_names: 
+          - Mistel'-Bakh
+          - Mistelbach
+          - "Mistelbach an der Zaya"
+        ascii_name: Mistelbach
+        name: Mistelbach
+        names_en: ~
+        names_es: ~
+        population: 10820
+      - 
+        alternate_names: 
+          - Mel'k
+          - Melk
+          - Мельк
+        ascii_name: Melk
+        name: Melk
+        names_en: 
+          - Melk
+        names_es: ~
+        population: 5272
+      - 
+        alternate_names: 
+          - "Maria Enzersdorf"
+        ascii_name: "Maria Enzersdorf"
+        name: "Maria Enzersdorf"
+        names_en: ~
+        names_es: ~
+        population: 8085
+      - 
+        alternate_names: 
+          - Loosdorf
+          - Losdorf
+          - Лосдорф
+        ascii_name: Loosdorf
+        name: Loosdorf
+        names_en: ~
+        names_es: ~
+        population: 3519
+      - 
+        alternate_names: 
+          - Langenzersdorf
+        ascii_name: Langenzersdorf
+        name: Langenzersdorf
+        names_en: ~
+        names_es: ~
+        population: 7733
+      - 
+        alternate_names: 
+          - Langenlois
+        ascii_name: Langenlois
+        name: Langenlois
+        names_en: ~
+        names_es: ~
+        population: 7081
+      - 
+        alternate_names: 
+          - Laa
+          - "Laa an der Thaya"
+          - Laa-an-der-Tajja
+        ascii_name: "Laa an der Thaya"
+        name: "Laa an der Thaya"
+        names_en: ~
+        names_es: ~
+        population: 6084
+      - 
+        alternate_names: 
+          - Krems
+          - "Krems an der Donau"
+          - Krems-na-Dunae
+        ascii_name: "Krems an der Donau"
+        name: "Krems an der Donau"
+        names_en: 
+          - Krems
+        names_es: ~
+        population: 23932
+      - 
+        alternate_names: ~
+        ascii_name: Kottingbrunn
+        name: Kottingbrunn
+        names_en: ~
+        names_es: ~
+        population: 7184
+      - 
+        alternate_names: 
+          - Korneuburg
+        ascii_name: Korneuburg
+        name: Korneuburg
+        names_en: ~
+        names_es: ~
+        population: 11498
+      - 
+        alternate_names: 
+          - Klosterneuberg
+          - Klosterneuburg
+          - Klosternojburg
+        ascii_name: Klosterneuburg
+        name: Klosterneuburg
+        names_en: ~
+        names_es: ~
+        population: 24843
+      - 
+        alternate_names: ~
+        ascii_name: Horn
+        name: Horn
+        names_en: ~
+        names_es: ~
+        population: 6485
+      - 
+        alternate_names: 
+          - Hollabrunn
+          - Khollabrun
+          - Oberhollabrunn
+        ascii_name: Hollabrunn
+        name: Hollabrunn
+        names_en: ~
+        names_es: ~
+        population: 10966
+      - 
+        alternate_names: 
+          - Khinterbrjul'
+          - Хинтербрюль
+        ascii_name: Hinterbruehl
+        name: Hinterbrühl
+        names_en: ~
+        names_es: ~
+        population: 4068
+      - 
+        alternate_names: ~
+        ascii_name: Himberg
+        name: Himberg
+        names_en: ~
+        names_es: ~
+        population: 5534
+      - 
+        alternate_names: ~
+        ascii_name: Herzogenburg
+        name: Herzogenburg
+        names_en: ~
+        names_es: ~
+        population: 7866
+      - 
+        alternate_names: 
+          - Khajligenkrojc
+          - Хайлигенкройц
+        ascii_name: Heiligenkreuz
+        name: Heiligenkreuz
+        names_en: ~
+        names_es: ~
+        population: 1508
+      - 
+        alternate_names: 
+          - Heidenreichstein
+        ascii_name: Heidenreichstein
+        name: Heidenreichstein
+        names_en: ~
+        names_es: ~
+        population: 4472
+      - 
+        alternate_names: 
+          - Hainburg
+        ascii_name: "Hainburg an der Donau"
+        name: "Hainburg an der Donau"
+        names_en: ~
+        names_es: ~
+        population: 5622
+      - 
+        alternate_names: ~
+        ascii_name: Haag
+        name: Haag
+        names_en: ~
+        names_es: ~
+        population: 5164
+      - 
+        alternate_names: ~
+        ascii_name: Gutenstein
+        name: Gutenstein
+        names_en: ~
+        names_es: ~
+        population: 1368
+      - 
+        alternate_names: ~
+        ascii_name: Gross-Gerungs
+        name: Groß-Gerungs
+        names_en: ~
+        names_es: ~
+        population: 4820
+      - 
+        alternate_names: 
+          - Genzersdorf
+          - Grosehncersdorf
+          - Gross-Enzersdorf
+        ascii_name: Gross-Enzersdorf
+        name: Groß-Enzersdorf
+        names_en: ~
+        names_es: ~
+        population: 8791
+      - 
+        alternate_names: 
+          - Cmunt
+          - Gmjund
+          - Гмюнд
+        ascii_name: Gmund
+        name: Gmünd
+        names_en: ~
+        names_es: ~
+        population: 5811
+      - 
+        alternate_names: ~
+        ascii_name: Gloggnitz
+        name: Gloggnitz
+        names_en: ~
+        names_es: ~
+        population: 6213
+      - 
+        alternate_names: ~
+        ascii_name: "Gerasdorf bei Wien"
+        name: "Gerasdorf bei Wien"
+        names_en: ~
+        names_es: ~
+        population: 8948
+      - 
+        alternate_names: 
+          - Genzerndorf
+          - Unterganserndorf
+          - Untergänserndorf
+        ascii_name: Ganserndorf
+        name: Gänserndorf
+        names_en: ~
+        names_es: ~
+        population: 8588
+      - 
+        alternate_names: ~
+        ascii_name: "Fischamend Dorf"
+        name: "Fischamend Dorf"
+        names_en: ~
+        names_es: ~
+        population: 4471
+      - 
+        alternate_names: ~
+        ascii_name: Ebreichsdorf
+        name: Ebreichsdorf
+        names_en: ~
+        names_es: ~
+        population: 9509
+      - 
+        alternate_names: 
+          - Deutsch-Wagram
+        ascii_name: Deutsch-Wagram
+        name: Deutsch-Wagram
+        names_en: ~
+        names_es: ~
+        population: 7153
+      - 
+        alternate_names: 
+          - Bruck
+          - "Bruck an der Leitha"
+          - Bruk-an-der-Lajta
+        ascii_name: "Bruck an der Leitha"
+        name: "Bruck an der Leitha"
+        names_en: ~
+        names_es: ~
+        population: 7339
+      - 
+        alternate_names: ~
+        ascii_name: Berndorf
+        name: Berndorf
+        names_en: ~
+        names_es: ~
+        population: 8796
+      - 
+        alternate_names: 
+          - Bad-Vjoslau
+          - Voslau
+          - Vöslau
+        ascii_name: "Bad Voslau"
+        name: "Bad Vöslau"
+        names_en: ~
+        names_es: ~
+        population: 11013
+      - 
+        alternate_names: 
+          - Baden
+          - "Baden bei Wien"
+          - Баден
+        ascii_name: Baden
+        name: Baden
+        names_en: 
+          - "Baden bei Wien"
+        names_es: ~
+        population: 24893
+      - 
+        alternate_names: ~
+        ascii_name: Amstetten
+        name: Amstetten
+        names_en: ~
+        names_es: ~
+        population: 22832
+    name: "Lower Austria"
+    names_en: 
+      - "Lower Austria"
+    names_es: 
+      - "Baja Austria"
+  - 
+    ascii_name: Carinthia
+    cities: 
+      - 
+        alternate_names: 
+          - Wolfsberg
+        ascii_name: Wolfsberg
+        name: Wolfsberg
+        names_en: ~
+        names_es: ~
+        population: 25610
+      - 
+        alternate_names: ~
+        ascii_name: Wernberg
+        name: Wernberg
+        names_en: ~
+        names_es: ~
+        population: 5070
+      - 
+        alternate_names: 
+          - Fjol'kermarkt
+          - Voelkermarkt
+          - Фёлькермаркт
+        ascii_name: Voelkermarkt
+        name: Völkermarkt
+        names_en: ~
+        names_es: ~
+        population: 11373
+      - 
+        alternate_names: 
+          - Beljak
+          - Fillakh
+          - Villach
+        ascii_name: Villach
+        name: Villach
+        names_en: 
+          - Villach
+        names_es: 
+          - Villach
+        population: 58882
+      - 
+        alternate_names: 
+          - Vel'den
+          - Velden
+          - "Velden am Woerthersee"
+        ascii_name: "Velden am Worthersee"
+        name: "Velden am Wörthersee"
+        names_en: ~
+        names_es: ~
+        population: 8817
+      - 
+        alternate_names: 
+          - Shpittal'
+          - Spital
+          - Spittal
+        ascii_name: "Spittal an der Drau"
+        name: "Spittal an der Drau"
+        names_en: 
+          - "Spittal an der Drau"
+        names_es: ~
+        population: 16363
+      - 
+        alternate_names: 
+          - Seeboden
+        ascii_name: Seeboden
+        name: Seeboden
+        names_en: ~
+        names_es: ~
+        population: 6221
+      - 
+        alternate_names: 
+          - "Sankt Veit"
+          - "Sankt Veit an der Glan"
+          - Sankt-Vajt-an-der-Glan
+        ascii_name: "Sankt Veit an der Glan"
+        name: "Sankt Veit an der Glan"
+        names_en: ~
+        names_es: ~
+        population: 13116
+      - 
+        alternate_names: 
+          - "Sankt Jakob"
+          - "Sankt Jakob im Rosental"
+          - "Sankt Jakob im Rosenthal"
+        ascii_name: "Sankt Jakob"
+        name: "Sankt Jakob"
+        names_en: ~
+        names_es: ~
+        population: 4481
+      - 
+        alternate_names: 
+          - "Sankt Andra"
+          - "Sankt Andra Lavanttal"
+          - "Sankt Andrae Im Lavanttal"
+        ascii_name: "Sankt Andra"
+        name: "Sankt Andrä"
+        names_en: ~
+        names_es: ~
+        population: 10825
+      - 
+        alternate_names: 
+          - Paternion
+        ascii_name: Paternion
+        name: Paternion
+        names_en: ~
+        names_es: ~
+        population: 6301
+      - 
+        alternate_names: 
+          - Moosburg
+          - "Moosburg in Karnten"
+          - "Moosburg in Kärnten"
+        ascii_name: Moosburg
+        name: Moosburg
+        names_en: ~
+        names_es: ~
+        population: 4602
+      - 
+        alternate_names: 
+          - "Bad Klajnkirkhgajm"
+          - "Bad Kleinkirchheim"
+          - Kleinkirchheim
+        ascii_name: Kleinkirchheim
+        name: Kleinkirchheim
+        names_en: ~
+        names_es: ~
+        population: 1809
+      - 
+        alternate_names: 
+          - Celovec
+          - Clagenfurtum
+          - Klagenfurt
+        ascii_name: "Klagenfurt am Woerthersee"
+        name: "Klagenfurt am Wörthersee"
+        names_en: 
+          - Klagenfurt
+        names_es: 
+          - Klagenfurt
+        population: 90610
+      - 
+        alternate_names: ~
+        ascii_name: Hermagor
+        name: Hermagor
+        names_en: ~
+        names_es: ~
+        population: 7242
+      - 
+        alternate_names: 
+          - Gmjund
+          - Гмюнд
+        ascii_name: Gmuend
+        name: Gmünd
+        names_en: ~
+        names_es: ~
+        population: 2629
+      - 
+        alternate_names: 
+          - Friesach
+        ascii_name: Friesach
+        name: Friesach
+        names_en: ~
+        names_es: ~
+        population: 5369
+      - 
+        alternate_names: 
+          - Ferlach
+        ascii_name: Ferlach
+        name: Ferlach
+        names_en: ~
+        names_es: ~
+        population: 7661
+      - 
+        alternate_names: 
+          - "Fel'dkirkhen (Karintija)"
+          - Feldkirchen
+          - "Feldkirchen in Karnten"
+        ascii_name: "Feldkirchen in Karnten"
+        name: "Feldkirchen in Kärnten"
+        names_en: ~
+        names_es: ~
+        population: 14440
+      - 
+        alternate_names: 
+          - Eberndorf
+        ascii_name: Eberndorf
+        name: Eberndorf
+        names_en: ~
+        names_es: ~
+        population: 6088
+      - 
+        alternate_names: 
+          - Ebenthal
+        ascii_name: Ebenthal
+        name: Ebenthal
+        names_en: ~
+        names_es: ~
+        population: 7809
+      - 
+        alternate_names: 
+          - "Bad Sankt Leonhard"
+          - "Bad Sankt Leonhard im Lavanttal"
+          - "Bad Sankt Leonhard im Lavanttale"
+        ascii_name: "Bad Sankt Leonhard im Lavanttal"
+        name: "Bad Sankt Leonhard im Lavanttal"
+        names_en: ~
+        names_es: ~
+        population: 4775
+      - 
+        alternate_names: 
+          - Arnoldstein
+        ascii_name: Arnoldstein
+        name: Arnoldstein
+        names_en: ~
+        names_es: ~
+        population: 6923
+      - 
+        alternate_names: 
+          - Finkenshtajn-am-Faker-Zee
+          - Финкенштайн-ам-Факер-Зее
+        ascii_name: "Finkenstein am Faaker See"
+        name: "Finkenstein am Faaker See"
+        names_en: ~
+        names_es: ~
+        population: 8406
+    name: Carinthia
+    names_en: 
+      - Carinthia
+    names_es: 
+      - Carintia
+  - 
+    ascii_name: Burgenland
+    cities: 
+      - 
+        alternate_names: 
+          - Rust
+          - Ruszt
+          - "Stadt Rust"
+        ascii_name: Rust
+        name: Rust
+        names_en: 
+          - Rust
+        names_es: ~
+        population: 1726
+      - 
+        alternate_names: 
+          - Pinkafel'd
+          - Pinkafeld
+          - Pinkafo
+        ascii_name: Pinkafeld
+        name: Pinkafeld
+        names_en: ~
+        names_es: ~
+        population: 5257
+      - 
+        alternate_names: 
+          - Pandrof
+          - Parndorf
+          - Парндорф
+        ascii_name: Parndorf
+        name: Parndorf
+        names_en: ~
+        names_es: ~
+        population: 4050
+      - 
+        alternate_names: 
+          - Felsoor
+          - Obervart
+          - Oberwart
+        ascii_name: Oberwart
+        name: Oberwart
+        names_en: ~
+        names_es: ~
+        population: 6879
+      - 
+        alternate_names: 
+          - Neusiedl
+          - "Neusiedl am See"
+          - Nezsider
+        ascii_name: "Neusiedl am See"
+        name: "Neusiedl am See"
+        names_en: ~
+        names_es: ~
+        population: 5949
+      - 
+        alternate_names: ~
+        ascii_name: Neudorfl
+        name: Neudörfl
+        names_en: ~
+        names_es: ~
+        population: 4183
+      - 
+        alternate_names: 
+          - Mattersburg
+          - Mattersdorf
+          - Nagymarton
+        ascii_name: Mattersburg
+        name: Mattersburg
+        names_en: ~
+        names_es: ~
+        population: 6448
+      - 
+        alternate_names: 
+          - Enersdorf
+          - Gyanafalva
+          - Jennersdorf
+        ascii_name: Jennersdorf
+        name: Jennersdorf
+        names_en: ~
+        names_es: ~
+        population: 4319
+      - 
+        alternate_names: 
+          - Grosspetersdorf
+          - Nagyszentmihaly
+          - Nagyszentmihály
+        ascii_name: Grosspetersdorf
+        name: Grosspetersdorf
+        names_en: ~
+        names_es: ~
+        population: 3525
+      - 
+        alternate_names: 
+          - Ajzenshtadt
+          - Eisenstadt
+          - Kismarton
+        ascii_name: Eisenstadt
+        name: Eisenstadt
+        names_en: 
+          - Eisenstadt
+        names_es: 
+          - Eisenstadt
+        population: 12190
+      - 
+        alternate_names: 
+          - "Bad Tatzmannsdorf"
+          - Bad-Tacmansdorf
+          - Tarcsafuerdo
+        ascii_name: "Bad Tatzmannsdorf"
+        name: "Bad Tatzmannsdorf"
+        names_en: ~
+        names_es: ~
+        population: 1329
+    name: Burgenland
+    names_en: 
+      - Burgenland
+    names_es: 
+      - Burgenland

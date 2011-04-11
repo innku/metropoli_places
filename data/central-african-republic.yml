@@ -1,243 +1,323 @@
 --- 
-code: CF
-continent: AF
 name: "Central African Republic"
-population: 4844927
+names_en: 
+  - "Central African Republic"
+names_es: 
+  - "República Centroafricana"
 regions: 
   - 
+    ascii_name: "Prefecture de la Vakaga"
     cities: 
       - 
-        districts: []
-        location: "POINT (6.5000000000000000 18.2833299999999994)"
-        name: Bouca
-        population: 13250
-        slug: bouca
-      - 
-        districts: []
-        location: "POINT (3.8833299999999999 18.0000000000000000)"
-        name: Mbaïki
-        population: 67132
-        slug: mbaiki
-      - 
-        districts: []
-        location: "POINT (4.3166700000000002 21.1833300000000015)"
-        name: Mobaye
-        population: 19431
-        slug: mobaye
-      - 
-        districts: []
-        location: "POINT (4.2666700000000004 15.7833299999999994)"
-        name: Berbérati
-        population: 61815
-        slug: berberati
-      - 
-        districts: []
-        location: "POINT (4.9500000000000002 23.9166699999999999)"
-        name: Rafaï
-        population: 13459
-        slug: rafai
-      - 
-        districts: []
-        location: "POINT (4.3166700000000002 22.5500000000000007)"
-        name: Ouango
-        population: 4365
-        slug: ouango
-      - 
-        districts: []
-        location: "POINT (4.5999999999999996 21.8999999999999986)"
-        name: Kembé
-        population: 11513
-        slug: kembe
-      - 
-        districts: []
-        location: "POINT (6.2500000000000000 21.1999999999999993)"
-        name: Ippy
-        population: 16571
-        slug: ippy
-      - 
-        districts: []
-        location: "POINT (4.6500000000000004 22.2666700000000013)"
-        name: Gambo
-        population: 4971
-        slug: gambo
-      - 
-        districts: []
-        location: "POINT (5.0333300000000003 21.2166700000000006)"
-        name: Alindao
-        population: 14234
-        slug: alindao
-      - 
-        districts: []
-        location: "POINT (4.7333299999999996 22.8166699999999985)"
-        name: Bangassou
-        population: 24361
-        slug: bangassou
-      - 
-        districts: []
-        location: "POINT (3.5333299999999999 16.0666699999999985)"
-        name: Nola
-        population: 26809
-        slug: nola
-      - 
-        districts: []
-        location: "POINT (5.7619400000000001 20.6672200000000004)"
-        name: Bambari
-        population: 32547
-        slug: bambari
-      - 
-        districts: []
-        location: "POINT (5.4000000000000004 26.5000000000000000)"
-        name: Obo
-        population: 12887
-        slug: obo
-      - 
-        districts: []
-        location: "POINT (5.7119999999999997 19.0776399999999988)"
-        name: Sibut
-        population: 34267
-        slug: sibut
-      - 
-        districts: []
-        location: "POINT (3.6333299999999999 18.6000000000000014)"
-        name: Mongoumba
-        population: 10885
-        slug: mongoumba
-      - 
-        districts: []
-        location: "POINT (4.9666699999999997 19.9833299999999987)"
-        name: Kouango
-        population: 7529
-        slug: kouango
-      - 
-        districts: []
-        location: "POINT (4.1333299999999999 15.1500000000000004)"
-        name: Gamboula
-        population: 7646
-        slug: gamboula
-      - 
-        districts: []
-        location: "POINT (4.9666699999999997 18.6999999999999993)"
-        name: Damara
-        population: 20093
-        slug: damara
-      - 
-        districts: []
-        location: "POINT (4.9333299999999998 15.8666699999999992)"
-        name: Carnot
-        population: 38071
-        slug: carnot
-      - 
-        districts: []
-        location: "POINT (4.3166700000000002 17.4666700000000006)"
-        name: Boda
-        population: 16655
-        slug: boda
-      - 
-        districts: []
-        location: "POINT (4.7999999999999998 18.1166699999999992)"
-        name: Boali
-        population: 5876
-        slug: boali
-      - 
-        districts: []
-        location: "POINT (5.6666699999999999 15.9666700000000006)"
-        name: Baoro
-        population: 6319
-        slug: baoro
-      - 
-        districts: []
-        location: "POINT (4.2567100000000000 18.4158299999999997)"
-        name: Bimbo
-        population: 129655
-        slug: bimbo
-      - 
-        districts: []
-        location: "POINT (4.3612200000000003 18.5549600000000012)"
-        name: Bangui
-        population: 542393
-        slug: bangui
-    code: CF.00
-    name: "Central African Republic (general)"
-    slug: central-african-republic-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.0659200000000002 22.3993399999999987)"
-        name: Ouadda
-        population: 5434
-        slug: ouadda
-      - 
-        districts: []
-        location: "POINT (6.5333300000000003 21.9833299999999987)"
-        name: Bria
-        population: 29027
-        slug: bria
-      - 
-        districts: []
-        location: "POINT (8.4091699999999996 20.6530600000000000)"
-        name: Ndélé
-        population: 11764
-        slug: ndele
-      - 
-        districts: []
-        location: "POINT (10.2759499999999999 22.7907299999999999)"
+        alternate_names: 
+          - Birao
+        ascii_name: Birao
         name: Birao
+        names_en: 
+          - Birao
+        names_es: 
+          - Birao
         population: 10178
-        slug: birao
-    code: CF.03
+    name: Vakaga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de la Ouaka"
+    cities: 
+      - 
+        alternate_names: 
+          - Bambari
+          - Бамбари
+        ascii_name: Bambari
+        name: Bambari
+        names_en: 
+          - Bambari
+        names_es: ~
+        population: 32547
+    name: Ouaka
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture du Mbomou"
+    cities: 
+      - 
+        alternate_names: 
+          - Bangassou
+          - Bangassu
+          - Bangasu
+        ascii_name: Bangassou
+        name: Bangassou
+        names_en: ~
+        names_es: ~
+        population: 24361
+    name: Mbomou
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture du Haut-Mbomou"
+    cities: 
+      - 
+        alternate_names: 
+          - Obo
+        ascii_name: Obo
+        name: Obo
+        names_en: 
+          - Obo
+        names_es: ~
+        population: 12887
+    name: Haut-Mbomou
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de la Haute-Kotto"
+    cities: 
+      - 
+        alternate_names: 
+          - Ouadda
+          - Quadda
+          - Uadda
+        ascii_name: Ouadda
+        name: Ouadda
+        names_en: ~
+        names_es: ~
+        population: 5434
+      - 
+        alternate_names: 
+          - Bria
+          - Бриа
+        ascii_name: Bria
+        name: Bria
+        names_en: 
+          - Bria
+        names_es: ~
+        population: 29027
     name: Haute-Kotto
-    slug: haute-kotto
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Prefecture de la Basse-Kotto"
     cities: 
       - 
-        districts: []
-        location: "POINT (7.6922499999999996 18.6261100000000006)"
-        name: Kabo
-        population: 13637
-        slug: kabo
-      - 
-        districts: []
-        location: "POINT (6.4833299999999996 17.4499999999999993)"
-        name: Bossangoa
-        population: 27428
-        slug: bossangoa
-      - 
-        districts: []
-        location: "POINT (7.2953999999999999 18.2877499999999991)"
-        name: Batangafo
-        population: 15310
-        slug: batangafo
-      - 
-        districts: []
-        location: "POINT (6.9833299999999996 19.1833300000000015)"
-        name: "Kaga Bandoro"
-        population: 56520
-        slug: kaga-bandoro
-    code: CF.12
-    name: Ouham
-    slug: ouham
+        alternate_names: 
+          - Mobaye
+          - Mobie
+        ascii_name: Mobaye
+        name: Mobaye
+        names_en: 
+          - Mobaye
+        names_es: 
+          - Mobaye
+        population: 19431
+    name: Basse-Kotto
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Prefecture de la Bamingui-Bangoran"
     cities: 
       - 
-        districts: []
-        location: "POINT (7.2438799999999999 16.4397500000000001)"
+        alternate_names: 
+          - N'Delle
+          - Nadele
+          - Nadélé
+        ascii_name: Ndele
+        name: Ndélé
+        names_en: ~
+        names_es: ~
+        population: 11764
+    name: Bamingui-Bangoran
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de la Sangha-Mbaere"
+    cities: 
+      - 
+        alternate_names: 
+          - Djembe
+          - Nola
+        ascii_name: Nola
+        name: Nola
+        names_en: 
+          - Nola
+        names_es: ~
+        population: 26809
+    name: Sangha-Mbaéré
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de l' Ouham-Pende"
+    cities: 
+      - 
+        alternate_names: 
+          - Pahua
+          - Paoua
+        ascii_name: Paoua
         name: Paoua
+        names_en: ~
+        names_es: ~
         population: 18441
-        slug: paoua
       - 
-        districts: []
-        location: "POINT (6.3166700000000002 16.3833300000000008)"
+        alternate_names: 
+          - Bosum
+          - Bozoum
+          - Bozum
+        ascii_name: Bozoum
         name: Bozoum
+        names_en: ~
+        names_es: ~
         population: 40201
-        slug: bozoum
-      - 
-        districts: []
-        location: "POINT (5.9500000000000002 15.5999999999999996)"
-        name: Bouar
-        population: 28581
-        slug: bouar
-    code: CF.13
     name: Ouham-Pendé
-    slug: ouham-pende
-tld: cf
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de l' Ouham"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kabo
+        name: Kabo
+        names_en: ~
+        names_es: ~
+        population: 13637
+      - 
+        alternate_names: 
+          - Amangba
+          - Bosangoa
+          - Bossango
+        ascii_name: Bossangoa
+        name: Bossangoa
+        names_en: 
+          - Bossangoa
+        names_es: ~
+        population: 27428
+      - 
+        alternate_names: 
+          - Batangafo
+          - Devo
+          - Dévo
+        ascii_name: Batangafo
+        name: Batangafo
+        names_en: ~
+        names_es: ~
+        population: 15310
+    name: Ouham
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de l' Ombella-Mpoko"
+    cities: 
+      - 
+        alternate_names: 
+          - Bimbo
+          - Bimo
+        ascii_name: Bimbo
+        name: Bimbo
+        names_en: 
+          - Bimbo
+        names_es: ~
+        population: 129655
+    name: Ombella-Mpoko
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de la Nana-Mambere"
+    cities: 
+      - 
+        alternate_names: 
+          - Bouar
+          - Buar
+          - Buare
+        ascii_name: Bouar
+        name: Bouar
+        names_en: 
+          - Bouar
+        names_es: ~
+        population: 28581
+    name: Nana-Mambéré
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de la Lobaye"
+    cities: 
+      - 
+        alternate_names: 
+          - Mbaiki
+          - Mbaïki
+        ascii_name: Mbaiki
+        name: Mbaïki
+        names_en: 
+          - Mbaïki
+        names_es: ~
+        population: 67132
+    name: Lobaye
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de la Kemo"
+    cities: 
+      - 
+        alternate_names: 
+          - Fort-Sibut
+          - Sibut
+          - Сибут
+        ascii_name: Sibut
+        name: Sibut
+        names_en: 
+          - Sibut
+        names_es: ~
+        population: 34267
+    name: Kémo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de la Mambere-Kadei"
+    cities: 
+      - 
+        alternate_names: 
+          - Berberati
+          - Berbérati
+          - Берберати
+        ascii_name: Berberati
+        name: Berbérati
+        names_en: 
+          - Berbérati
+        names_es: 
+          - Berbérati
+        population: 61815
+    name: Mambéré-Kadéï
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Prefecture de la Nana-Grebizi"
+    cities: 
+      - 
+        alternate_names: 
+          - Crampel
+          - Fort-Crampel
+          - "Kaga Bandoro"
+        ascii_name: "Kaga Bandoro"
+        name: "Kaga Bandoro"
+        names_en: 
+          - Kaga-Bandoro
+        names_es: ~
+        population: 56520
+    name: Nana-Grébizi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Commune de Bangui"
+    cities: 
+      - 
+        alternate_names: 
+          - Bangi
+          - Bangis
+          - Bangui
+        ascii_name: Bangui
+        name: Bangui
+        names_en: 
+          - Bangui
+        names_es: 
+          - Bangui
+        population: 542393
+    name: Bangui
+    names_en: ~
+    names_es: ~

@@ -1,62 +1,121 @@
 --- 
-code: BB
-continent: NA
 name: Barbados
-population: 285653
+names_en: 
+  - Barbados
+names_es: 
+  - Barbados
 regions: 
   - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.0666700000000002 -59.5333299999999994)"
-        name: Oistins
-        population: 2285
-        slug: oistins
-    code: BB.01
-    name: "Christ Church"
-    slug: christ-church
+    ascii_name: "Saint Thomas"
+    cities: []
+    name: "Saint Thomas"
+    names_en: ~
+    names_es: ~
   - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.1833299999999998 -59.6499999999999986)"
-        name: Holetown
-        population: 1350
-        slug: holetown
-    code: BB.04
-    name: "Saint James"
-    slug: saint-james
+    ascii_name: "Saint Philip"
+    cities: []
+    name: "Saint Philip"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Saint Peter"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.2166700000000006 -59.5166699999999977)"
-        name: Bathsheba
-        population: 1765
-        slug: bathsheba
-    code: BB.06
-    name: "Saint Joseph"
-    slug: saint-joseph
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.0999999999999996 -59.6166699999999992)"
-        name: Bridgetown
-        population: 98511
-        slug: bridgetown
-    code: BB.08
-    name: "Saint Michael"
-    slug: saint-michael
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.2500000000000000 -59.6499999999999986)"
+        alternate_names: 
+          - Speightstown
+          - Spreightstown
+        ascii_name: Speightstown
         name: Speightstown
+        names_en: ~
+        names_es: ~
         population: 3634
-        slug: speightstown
-    code: BB.09
     name: "Saint Peter"
-    slug: saint-peter
-tld: bb
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Michael"
+    cities: 
+      - 
+        alternate_names: 
+          - Bridgetown
+          - Bridzhtaun
+          - Bridztaun
+        ascii_name: Bridgetown
+        name: Bridgetown
+        names_en: 
+          - Bridgetown
+        names_es: 
+          - Bridgetown
+        population: 98511
+    name: "Saint Michael"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Lucy"
+    cities: []
+    name: "Saint Lucy"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Joseph"
+    cities: 
+      - 
+        alternate_names: 
+          - Bathsheba
+        ascii_name: Bathsheba
+        name: Bathsheba
+        names_en: ~
+        names_es: ~
+        population: 1765
+    name: "Saint Joseph"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint John"
+    cities: []
+    name: "Saint John"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint James"
+    cities: 
+      - 
+        alternate_names: 
+          - Holetown
+          - "The Hole"
+        ascii_name: Holetown
+        name: Holetown
+        names_en: ~
+        names_es: ~
+        population: 1350
+    name: "Saint James"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint George"
+    cities: []
+    name: "Saint George"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Andrew"
+    cities: []
+    name: "Saint Andrew"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Christ Church"
+    cities: 
+      - 
+        alternate_names: 
+          - "Oistin's Town"
+          - Oistins
+          - "Oistin’s Town"
+        ascii_name: Oistins
+        name: Oistins
+        names_en: ~
+        names_es: ~
+        population: 2285
+    name: "Christ Church"
+    names_en: ~
+    names_es: ~

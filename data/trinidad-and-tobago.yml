@@ -1,144 +1,251 @@
 --- 
-code: TT
-continent: NA
 name: "Trinidad and Tobago"
-population: 1228691
+names_en: 
+  - "Trinidad and Tobago"
+names_es: 
+  - "Trinidad y Tobago"
 regions: 
   - 
+    ascii_name: Tobago
     cities: 
       - 
-        districts: []
-        location: "POINT (10.6666699999999999 -61.5333299999999994)"
-        name: Mucurapo
-        population: 4342
-        slug: mucurapo
-      - 
-        districts: []
-        location: "POINT (10.4224800000000002 -61.4674800000000019)"
-        name: Couva
-        population: 5178
-        slug: couva
-      - 
-        districts: []
-        location: "POINT (10.5166699999999995 -61.4166700000000034)"
-        name: Chaguanas
-        population: 67433
-        slug: chaguanas
-      - 
-        districts: []
-        location: "POINT (11.2500000000000000 -60.5833299999999966)"
-        name: Roxborough
-        population: 0
-        slug: roxborough
-      - 
-        districts: []
-        location: "POINT (10.2833299999999994 -61.4666700000000006)"
-        name: "San Fernando"
-        population: 55419
-        slug: san-fernando
-      - 
-        districts: []
-        location: "POINT (10.6661699999999993 -61.5165700000000015)"
-        name: Port-of-Spain
-        population: 49031
-        slug: port-of-spain
-      - 
-        districts: []
-        location: "POINT (10.1333300000000008 -61.5000000000000000)"
-        name: Siparia
-        population: 8568
-        slug: siparia
-      - 
-        districts: []
-        location: "POINT (10.6333300000000008 -61.3833300000000008)"
-        name: Tunapuna
-        population: 17758
-        slug: tunapuna
-      - 
-        districts: []
-        location: "POINT (10.2666699999999995 -61.3833300000000008)"
-        name: "Princes Town"
-        population: 10000
-        slug: princes-town
-      - 
-        districts: []
-        location: "POINT (10.6333300000000008 -61.3333299999999966)"
-        name: Arouca
-        population: 12054
-        slug: arouca
-      - 
-        districts: []
-        location: "POINT (10.6999999999999993 -61.5333299999999994)"
-        name: "Petit Valley"
-        population: 0
-        slug: petit-valley
-      - 
-        districts: []
-        location: "POINT (10.2666699999999995 -61.4500000000000028)"
-        name: "Mon Repos"
-        population: 56380
-        slug: mon-repos
-      - 
-        districts: []
-        location: "POINT (10.3000000000000007 -61.4500000000000028)"
-        name: Marabella
-        population: 26700
-        slug: marabella
-      - 
-        districts: []
-        location: "POINT (10.3833300000000008 -61.2999999999999972)"
-        name: Tabaquite
-        population: 3314
-        slug: tabaquite
-      - 
-        districts: []
-        location: "POINT (10.1666699999999999 -61.4666700000000006)"
-        name: Peñal
-        population: 12281
-        slug: penal
-      - 
-        districts: []
-        location: "POINT (10.5833300000000001 -61.1166699999999992)"
-        name: "Sangre Grande"
-        population: 15968
-        slug: sangre-grande
-      - 
-        districts: []
-        location: "POINT (10.3000000000000007 -61.1833299999999980)"
-        name: "Rio Claro"
-        population: 0
-        slug: rio-claro
-      - 
-        districts: []
-        location: "POINT (11.1833299999999998 -60.7333300000000023)"
+        alternate_names: 
+          - "Port Louis"
+          - Scarborough
+        ascii_name: Scarborough
         name: Scarborough
+        names_en: ~
+        names_es: ~
         population: 17000
-        slug: scarborough
+    name: Tobago
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "San Fernando"
+    cities: 
       - 
-        districts: []
-        location: "POINT (10.6333300000000008 -61.2833299999999994)"
-        name: Arima
-        population: 35000
-        slug: arima
+        alternate_names: ~
+        ascii_name: "San Fernando"
+        name: "San Fernando"
+        names_en: ~
+        names_es: ~
+        population: 55419
       - 
-        districts: []
-        location: "POINT (10.1999999999999993 -61.4500000000000028)"
-        name: Débé
-        population: 3127
-        slug: debe
+        alternate_names: ~
+        ascii_name: "Mon Repos"
+        name: "Mon Repos"
+        names_en: ~
+        names_es: ~
+        population: 56380
       - 
-        districts: []
-        location: "POINT (10.1833299999999998 -61.6833299999999980)"
-        name: "Point Fortin"
-        population: 19056
-        slug: point-fortin
-      - 
-        districts: []
-        location: "POINT (10.6491699999999998 -61.4988900000000029)"
-        name: Laventille
-        population: 0
-        slug: laventille
-    code: TT.10
+        alternate_names: 
+          - Marabella
+        ascii_name: Marabella
+        name: Marabella
+        names_en: ~
+        names_es: ~
+        population: 26700
     name: "San Fernando"
-    slug: san-fernando
-tld: tt
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Port-of-Spain
+    cities: 
+      - 
+        alternate_names: 
+          - "City of Port-of-Spain"
+          - "Port d'Espagne"
+          - "Port of Spain"
+        ascii_name: Port-of-Spain
+        name: Port-of-Spain
+        names_en: 
+          - "Port of Spain"
+        names_es: 
+          - "Puerto España"
+        population: 49031
+    name: Port-of-Spain
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Mayaro
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Rio Claro"
+        name: "Rio Claro"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Mayaro
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Arima
+    cities: 
+      - 
+        alternate_names: 
+          - Arima
+          - "Town of Arima"
+        ascii_name: Arima
+        name: Arima
+        names_en: ~
+        names_es: ~
+        population: 35000
+    name: Arima
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Chaguanas
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Chaguanas
+        name: Chaguanas
+        names_en: ~
+        names_es: ~
+        population: 67433
+    name: Chaguanas
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Couva-Tabaquite-Talparo
+    cities: 
+      - 
+        alternate_names: 
+          - "Couva Savannah Village"
+        ascii_name: Couva
+        name: Couva
+        names_en: ~
+        names_es: ~
+        population: 5178
+    name: Couva-Tabaquite-Talparo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Diego Martin"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Petit Valley"
+        name: "Petit Valley"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Diego Martin"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Eastern Tobago"
+    cities: 
+      - 
+        alternate_names: 
+          - Roxborough
+          - "Roxborough Village"
+        ascii_name: Roxborough
+        name: Roxborough
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Eastern Tobago"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Penal/Debe
+    cities: 
+      - 
+        alternate_names: 
+          - "Penal Village"
+          - "Peñal Village"
+        ascii_name: Penal
+        name: Peñal
+        names_en: ~
+        names_es: ~
+        population: 12281
+    name: Penal/Debe
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Princes Town"
+    cities: 
+      - 
+        alternate_names: 
+          - "Princess Town"
+        ascii_name: "Princes Town"
+        name: "Princes Town"
+        names_en: ~
+        names_es: ~
+        population: 10000
+    name: "Princes Town"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Point Fortin"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Point Fortin"
+        name: "Point Fortin"
+        names_en: ~
+        names_es: ~
+        population: 19056
+    name: "Point Fortin"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sangre Grande"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sangre Grand"
+          - "Sangre Grande Station"
+          - "Sangre Grande Town"
+        ascii_name: "Sangre Grande"
+        name: "Sangre Grande"
+        names_en: ~
+        names_es: ~
+        population: 15968
+    name: "Sangre Grande"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Siparia
+    cities: 
+      - 
+        alternate_names: 
+          - "Siparia Village"
+        ascii_name: Siparia
+        name: Siparia
+        names_en: ~
+        names_es: ~
+        population: 8568
+    name: Siparia
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "San Juan/Laventille"
+    cities: 
+      - 
+        alternate_names: 
+          - Laventille
+        ascii_name: Laventille
+        name: Laventille
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "San Juan/Laventille"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Tunapuna/Piarco
+    cities: 
+      - 
+        alternate_names: 
+          - "Tunapuna Village"
+        ascii_name: Tunapuna
+        name: Tunapuna
+        names_en: ~
+        names_es: ~
+        population: 17758
+    name: Tunapuna/Piarco
+    names_en: ~
+    names_es: ~

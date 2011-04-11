@@ -1,40 +1,53 @@
 --- 
-code: SH
-continent: AF
 name: "Saint Helena"
-population: 7460
+names_en: 
+  - "Saint Helena"
+names_es: 
+  - "Santa Elena"
 regions: 
   - 
+    ascii_name: Ascension
     cities: 
       - 
-        districts: []
-        location: "POINT (-7.9333299999999998 -14.4166699999999999)"
+        alternate_names: 
+          - Georgetown
+        ascii_name: Georgetown
         name: Georgetown
+        names_en: ~
+        names_es: ~
         population: 538
-        slug: georgetown
-    code: SH.01
     name: Ascension
-    slug: ascension
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Tristan da Cunha"
     cities: 
       - 
-        districts: []
-        location: "POINT (-15.9387200000000000 -5.7167500000000002)"
-        name: Jamestown
-        population: 637
-        slug: jamestown
-    code: SH.02
-    name: "Saint Helena"
-    slug: saint-helena
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-37.0675700000000035 -12.3115500000000004)"
+        alternate_names: 
+          - Edinburgh
+          - "Settlement of Edinburgh"
+          - "Tristan Island Settlement"
+        ascii_name: "Edinburgh of the Seven Seas"
         name: "Edinburgh of the Seven Seas"
+        names_en: ~
+        names_es: ~
         population: 271
-        slug: edinburgh-of-the-seven-seas
-    code: SH.03
     name: "Tristan da Cunha"
-    slug: tristan-da-cunha
-tld: sh
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Helena"
+    cities: 
+      - 
+        alternate_names: 
+          - Jamestown
+        ascii_name: Jamestown
+        name: Jamestown
+        names_en: 
+          - Jamestown
+        names_es: 
+          - Jamestown
+        population: 637
+    name: "Saint Helena"
+    names_en: ~
+    names_es: ~

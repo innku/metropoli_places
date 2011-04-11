@@ -1,144 +1,439 @@
 --- 
-code: KH
-continent: AS
 name: Cambodia
-population: 14453680
+names_en: 
+  - Cambodia
+  - "Democratic Cambodia"
+  - "Khmer Republic"
+  - "Democratic Kampuchea"
+  - "Kingdom of Cambodia"
+names_es: 
+  - "Reino de Camboya"
+  - Camboya
 regions: 
   - 
+    ascii_name: "Khett Pouthisat"
     cities: 
       - 
-        districts: []
-        location: "POINT (10.4833300000000005 104.3166700000000020)"
-        name: "Krŏng Kêb"
-        population: 11658
-        slug: krong-keb
-      - 
-        districts: []
-        location: "POINT (13.3666699999999992 103.8499999999999943)"
-        name: Siĕmréab
-        population: 139458
-        slug: siemreab
-      - 
-        districts: []
-        location: "POINT (13.5000000000000000 106.9833299999999952)"
-        name: Lumphăt
-        population: 19205
-        slug: lumphat
-      - 
-        districts: []
-        location: "POINT (12.5333299999999994 103.9166699999999963)"
-        name: Poŭthĭsăt
+        alternate_names: 
+          - Porsat
+          - Pousat
+          - Pouthisat
+        ascii_name: Pursat
+        name: Pursat
+        names_en: ~
+        names_es: ~
         population: 52476
-        slug: pouthisat
+    name: Poŭthĭsăt
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Batdambang"
+    cities: 
       - 
-        districts: []
-        location: "POINT (13.5833300000000001 102.9833299999999952)"
-        name: Sisŏphŏn
-        population: 23218
-        slug: sisophon
-      - 
-        districts: []
-        location: "POINT (13.5166699999999995 105.9666699999999935)"
-        name: "Stœ̆ng Trêng"
-        population: 25000
-        slug: stng-treng
-      - 
-        districts: []
-        location: "POINT (11.5500000000000007 104.9166699999999963)"
-        name: "Phnom Penh"
-        population: 1573544
-        slug: phnom-penh
-      - 
-        districts: []
-        location: "POINT (11.4833300000000005 104.9500000000000028)"
-        name: "Ta Khmau"
-        population: 52066
-        slug: ta-khmau
-      - 
-        districts: []
-        location: "POINT (11.6174999999999997 102.9805599999999970)"
-        name: "Krŏng Kaôh Kŏng"
-        population: 33134
-        slug: krong-kaoh-kong
-      - 
-        districts: []
-        location: "POINT (12.4499999999999993 107.2000000000000028)"
-        name: Sênmônoŭrôm
-        population: 7944
-        slug: senmonourom
-      - 
-        districts: []
-        location: "POINT (13.6561100000000000 102.5625000000000000)"
-        name: "Paôy Pêt"
-        population: 79000
-        slug: paoy-pet
-      - 
-        districts: []
-        location: "POINT (13.0999999999999996 103.2000000000000028)"
+        alternate_names: 
+          - Batdambang
+          - Battamban
+          - Battambang
+        ascii_name: Batdambang
         name: Bătdâmbâng
+        names_en: 
+          - Battambang
+        names_es: 
+          - "Ciudad de Battambang"
         population: 150444
-        slug: batdambang
+    name: "Khétt Bătdâmbâng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Takev"
+    cities: 
       - 
-        districts: []
-        location: "POINT (11.4499999999999993 104.5333300000000065)"
-        name: "Kâmpóng Spœ"
-        population: 33231
-        slug: kampong-sp
+        alternate_names: 
+          - Prasat
+          - Pràsàt
+          - Takeo
+        ascii_name: Takev
+        name: Takêv
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (12.0000000000000000 105.4500000000000028)"
-        name: "Kâmpóng Cham"
-        population: 61750
-        slug: kampong-cham
-      - 
-        districts: []
-        location: "POINT (12.2500000000000000 104.6666699999999963)"
-        name: "Kâmpóng Chhnăng"
-        population: 75244
-        slug: kampong-chhnang
-      - 
-        districts: []
-        location: "POINT (12.4833300000000005 106.0166700000000048)"
-        name: Krâchéh
-        population: 19975
-        slug: kracheh
-      - 
-        districts: []
-        location: "POINT (12.6999999999999993 104.9000000000000057)"
-        name: "Kâmpóng Thum"
-        population: 19951
-        slug: kampong-thum
-      - 
-        districts: []
-        location: "POINT (12.8505599999999998 102.6097199999999958)"
-        name: Pailĭn
-        population: 17850
-        slug: pailin
-      - 
-        districts: []
-        location: "POINT (13.8166700000000002 104.9666699999999935)"
-        name: "Phnum Tbêng Méanchey"
-        population: 24380
-        slug: phnum-tbeng-meanchey
-      - 
-        districts: []
-        location: "POINT (10.6166699999999992 104.1833299999999980)"
-        name: Kâmpôt
-        population: 22691
-        slug: kampot
-      - 
-        districts: []
-        location: "POINT (10.9833300000000005 104.7833300000000065)"
+        alternate_names: ~
+        ascii_name: "Phumi Veal Sre"
         name: "Phumĭ Véal Srê"
+        names_en: ~
+        names_es: ~
         population: 44270
-        slug: phumi-veal-sre
+    name: Takêv
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Svay Rieng"
+    cities: 
       - 
-        districts: []
-        location: "POINT (10.6093200000000003 103.5295799999999957)"
-        name: "Kâmpóng Saôm"
+        alternate_names: 
+          - "Phumi Svay Rieng"
+          - "Phumĭ Svay Riĕng"
+          - "Soai Rieng"
+        ascii_name: "Svay Rieng"
+        name: "Svay Riĕng"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Svay Riĕng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Stoeng Treng"
+    cities: 
+      - 
+        alternate_names: 
+          - "Stoeng Treng"
+          - "Stung Teeng"
+          - "Stung Treng"
+        ascii_name: "Stoeng Treng"
+        name: "Stœ̆ng Trêng"
+        names_en: ~
+        names_es: ~
+        population: 25000
+    name: "Stœ̆ng Trêng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Otar Meanchey"
+    cities: 
+      - 
+        alternate_names: 
+          - "Phumi Samraong"
+          - "Phumĭ Sâmraông"
+          - Samraong
+        ascii_name: Samraong
+        name: Sâmraông
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Ŏtâr Méanchey"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Siem Reab"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ciudad de Siem Riep"
+          - "Khett Siem Reab"
+          - "Siem Reap"
+        ascii_name: Siemreab
+        name: Siĕmréab
+        names_en: 
+          - "Siem Reap"
+        names_es: 
+          - "Ciudad de Siem Riep"
+        population: 139458
+    name: "Khétt Siĕm Réab"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Rotanah Kiri"
+    cities: 
+      - 
+        alternate_names: 
+          - Lomphat
+          - Lumphat
+          - Lumphăt
+        ascii_name: Lumphat
+        name: Lumphăt
+        names_en: ~
+        names_es: ~
+        population: 19205
+      - 
+        alternate_names: ~
+        ascii_name: Banlung
+        name: Banlung
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Khétt Rôtânăh Kiri"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Prey Veng"
+    cities: 
+      - 
+        alternate_names: 
+          - "Prei Veng"
+          - "Prey Veng"
+          - "Prey Vêng"
+        ascii_name: "Prey Veng"
+        name: "Prey Vêng"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Prey Vêng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Preah Vihear"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kampong Preng"
+          - "Kimpong Pranak"
+          - "Kompong Pranak"
+        ascii_name: "Phnum Tbeng Meanchey"
+        name: "Phnum Tbêng Méanchey"
+        names_en: ~
+        names_es: ~
+        population: 24380
+    name: "Preăh Vĭhéar"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Krong Phnum Penh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Nam Van"
+          - Nam-Vang
+          - "Phnom Pen"
+        ascii_name: "Phnom Penh"
+        name: "Phnom Penh"
+        names_en: 
+          - "Phnom Penh"
+        names_es: 
+          - "Phon Phen"
+          - "Phnom Penh"
+        population: 1573544
+    name: "Krŏng Phnum Pénh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Pailin"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ciudad de Pailin"
+          - "Ciudad de Pailín"
+          - "Krong Pailin"
+        ascii_name: Pailin
+        name: Pailĭn
+        names_en: 
+          - Pailin
+        names_es: 
+          - "Ciudad de Pailín"
+        population: 17850
+    name: "Khétt Pailĭn"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Mondol Kiri"
+    cities: 
+      - 
+        alternate_names: 
+          - "Mondul Kiri"
+          - "Sen Monorum"
+          - "Sen Moronom"
+        ascii_name: Senmonourom
+        name: Sênmônoŭrôm
+        names_en: ~
+        names_es: ~
+        population: 7944
+      - 
+        alternate_names: ~
+        ascii_name: "Sen monorom"
+        name: "Sen monorom"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Môndól Kiri"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Kracheh"
+    cities: 
+      - 
+        alternate_names: 
+          - Kracheh
+          - Krati
+          - Kratie
+        ascii_name: Kratie
+        name: Kratié
+        names_en: ~
+        names_es: ~
+        population: 19975
+    name: Krâchéh
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Keb"
+    cities: 
+      - 
+        alternate_names: 
+          - Kep
+          - "Krong Keb"
+          - "Krong Kep"
+        ascii_name: "Krong Keb"
+        name: "Krŏng Kêb"
+        names_en: ~
+        names_es: ~
+        population: 11658
+    name: "Khétt Kêb"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Kaoh Kong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Khemarak Phoumin"
+          - "Khemarak Phoumin Ville"
+          - "Khemareah Phumint"
+        ascii_name: "Krong Kaoh Kong"
+        name: "Krŏng Kaôh Kŏng"
+        names_en: 
+          - "Koh Kong"
+        names_es: ~
+        population: 33134
+    name: "Kaôh Kŏng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Kandal"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ta Khmau"
+          - Takhman
+          - Takhmau
+        ascii_name: "Ta Khmau"
+        name: "Ta Khmau"
+        names_en: ~
+        names_es: ~
+        population: 52066
+    name: Kândal
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Kampot"
+    cities: 
+      - 
+        alternate_names: 
+          - "Compong Bai"
+          - "Compong Baï"
+          - Kampat
+        ascii_name: Kampot
+        name: Kâmpôt
+        names_en: ~
+        names_es: ~
+        population: 22691
+    name: "Khétt Kâmpôt"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Kampong Thum"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kampong Thom"
+          - "Kampong Thum"
+          - "Kampong Thun"
+        ascii_name: "Kampong Thum"
+        name: "Kâmpóng Thum"
+        names_en: ~
+        names_es: ~
+        population: 19951
+    name: "Kâmpóng Thum"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Kampong Spoe"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kampong Spoe"
+          - "Kompon Spu"
+          - "Kompong Speu"
+        ascii_name: "Kampong Spoe"
+        name: "Kâmpóng Spœ"
+        names_en: ~
+        names_es: ~
+        population: 33231
+    name: "Khétt Kâmpóng Spœ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Kampong Chhnang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kampong Chhnang"
+          - "Kampong Chnang"
+          - Kampongchnang
+        ascii_name: "Kampong Chhnang"
+        name: "Kâmpóng Chhnăng"
+        names_en: ~
+        names_es: ~
+        population: 75244
+    name: "Kâmpóng Chhnăng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Kampong Cham"
+    cities: 
+      - 
+        alternate_names: 
+          - Compon-lina
+          - "Kampong Cham"
+          - Kampongtjam
+        ascii_name: "Kampong Cham"
+        name: "Kâmpóng Cham"
+        names_en: ~
+        names_es: ~
+        population: 61750
+    name: "Kâmpóng Cham"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Preah Seihanu"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ciudad de Sihanoukville"
+          - "Kampong Saom"
+          - "Kampong Semville"
+        ascii_name: Sihanoukville
+        name: Sihanoukville
+        names_en: 
+          - Sihanoukville
+        names_es: 
+          - "Ciudad de Sihanoukville"
         population: 156691
-        slug: kampong-saom
-    code: KH.25
+    name: "Khétt Preăh Seihânŭ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khett Banteay Mean Cheay"
+    cities: 
+      - 
+        alternate_names: 
+          - Sesopone
+          - Sisobhon
+          - Sisophon
+        ascii_name: Sisophon
+        name: Sisŏphŏn
+        names_en: ~
+        names_es: ~
+        population: 23218
+      - 
+        alternate_names: 
+          - "Paoy Pet"
+          - "Paôy Pêt"
+          - "Phum Paoy Pet"
+        ascii_name: "Paoy Pet"
+        name: "Paôy Pêt"
+        names_en: ~
+        names_es: ~
+        population: 79000
     name: "Khétt Bântéay Méan Cheăy"
-    slug: khett-banteay-mean-cheay
-tld: kh
+    names_en: ~
+    names_es: ~

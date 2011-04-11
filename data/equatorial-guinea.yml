@@ -1,144 +1,135 @@
 --- 
-code: GQ
-continent: AF
 name: "Equatorial Guinea"
-population: 1014999
+names_en: 
+  - "Spanish Guinea"
+  - "Equatorial Guinea"
+  - "Republic of Equatorial Guinea"
+names_es: 
+  - "República de Guinea Ecuatorial"
+  - "Guinea Ecuatorial"
+  - "Guinea Española"
+  - "Posesiones Españolas del Golfo de Guinea"
+  - "Provincia de la Guinea Ecuatorial"
+  - "Territorios Españoles del Golfo de Guinea"
 regions: 
   - 
+    ascii_name: "Provincia de Annobon"
     cities: 
       - 
-        districts: []
-        location: "POINT (-1.4013899999999999 5.6325000000000003)"
+        alternate_names: 
+          - Ambo
+          - Annobon
+          - Annobón
+        ascii_name: Pale
         name: Palé
+        names_en: 
+          - Annobón
+        names_es: 
+          - Annobón
         population: 4433
-        slug: pale
+    name: Annobón
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Bioko Norte"
+    cities: 
       - 
-        districts: []
-        location: "POINT (3.7000000000000002 8.9166699999999999)"
-        name: "Santiago de Baney"
-        population: 2365
-        slug: santiago-de-baney
-      - 
-        districts: []
-        location: "POINT (2.3333300000000001 9.8166700000000002)"
-        name: "Río Campo"
-        population: 1105
-        slug: rio-campo
-      - 
-        districts: []
-        location: "POINT (3.7166700000000001 8.8333300000000001)"
-        name: Rebola
-        population: 5450
-        slug: rebola
-      - 
-        districts: []
-        location: "POINT (1.1333299999999999 11.2666699999999995)"
-        name: Nsok
-        population: 3769
-        slug: nsok
-      - 
-        districts: []
-        location: "POINT (2.0333299999999999 10.9333299999999998)"
-        name: Nsang
-        population: 2122
-        slug: nsang
-      - 
-        districts: []
-        location: "POINT (2.0166700000000000 10.4666700000000006)"
-        name: Ncue
-        population: 1683
-        slug: ncue
-      - 
-        districts: []
-        location: "POINT (2.1333299999999999 10.6166699999999992)"
-        name: Mikomeseng
-        population: 5813
-        slug: mikomeseng
-      - 
-        districts: []
-        location: "POINT (1.5833299999999999 9.6166699999999992)"
-        name: Mbini
-        population: 4062
-        slug: mbini
-      - 
-        districts: []
-        location: "POINT (1.8833299999999999 9.9666700000000006)"
-        name: Machinda
-        population: 2897
-        slug: machinda
-      - 
-        districts: []
-        location: "POINT (1.4166700000000001 9.6166699999999992)"
-        name: Bitica
-        population: 1464
-        slug: bitica
-      - 
-        districts: []
-        location: "POINT (1.5833299999999999 10.4666700000000006)"
-        name: Bicurga
-        population: 2318
-        slug: bicurga
-      - 
-        districts: []
-        location: "POINT (1.8666700000000001 10.6999999999999993)"
-        name: Ayene
-        population: 3482
-        slug: ayene
-      - 
-        districts: []
-        location: "POINT (1.8500000000000001 10.7666699999999995)"
-        name: Añisoc
-        population: 10191
-        slug: anisoc
-      - 
-        districts: []
-        location: "POINT (1.0333300000000001 10.6666699999999999)"
-        name: Acurenam
-        population: 2736
-        slug: acurenam
-      - 
-        districts: []
-        location: "POINT (1.3000000000000000 10.9333299999999998)"
-        name: Aconibe
-        population: 11192
-        slug: aconibe
-      - 
-        districts: []
-        location: "POINT (1.8500000000000001 9.7500000000000000)"
-        name: Bata
-        population: 173046
-        slug: bata
-      - 
-        districts: []
-        location: "POINT (3.7500000000000000 8.7833299999999994)"
+        alternate_names: 
+          - "Ciudad de Malabo"
+          - Malaba
+          - Malabas
+        ascii_name: Malabo
         name: Malabo
+        names_en: 
+          - "Santa Isabel"
+          - Malabo
+        names_es: 
+          - "Santa Isabel"
+          - "Ciudad de Malabo"
+          - Malabo
         population: 155963
-        slug: malabo
+    name: "Bioko Norte"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Bioko Sur"
+    cities: 
       - 
-        districts: []
-        location: "POINT (1.6333299999999999 11.3166700000000002)"
-        name: Mongomo
-        population: 6393
-        slug: mongomo
-      - 
-        districts: []
-        location: "POINT (2.1499999999999999 11.3333300000000001)"
-        name: Ebebiyín
-        population: 24831
-        slug: ebebiyin
-      - 
-        districts: []
-        location: "POINT (3.4500000000000002 8.5500000000000007)"
+        alternate_names: 
+          - "Ciudad de Luba"
+          - Luba
+          - "San Carlos"
+        ascii_name: Luba
         name: Luba
+        names_en: ~
+        names_es: ~
         population: 8655
-        slug: luba
+    name: "Bioko Sur"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Centro Sur"
+    cities: 
       - 
-        districts: []
-        location: "POINT (1.4500000000000000 10.5666700000000002)"
+        alternate_names: 
+          - Ebinayon
+          - Ebinayong
+          - Ebineyon
+        ascii_name: Evinayong
         name: Evinayong
+        names_en: ~
+        names_es: ~
         population: 8462
-        slug: evinayong
-    code: GQ.00
-    name: "Equatorial Guinea (general)"
-    slug: equatorial-guinea-general
-tld: gq
+    name: "Centro Sur"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Kie-Ntem"
+    cities: 
+      - 
+        alternate_names: 
+          - Ebebiyin
+          - Ebebiyín
+          - Ebibeyin
+        ascii_name: Ebebiyin
+        name: Ebebiyín
+        names_en: ~
+        names_es: ~
+        population: 24831
+    name: Kié-Ntem
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Litoral"
+    cities: 
+      - 
+        alternate_names: 
+          - Bata
+          - Kokapipa
+          - "ba ta"
+        ascii_name: Bata
+        name: Bata
+        names_en: 
+          - Bata
+        names_es: 
+          - Bata
+        population: 173046
+    name: Litoral
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Wele-Nzas"
+    cities: 
+      - 
+        alternate_names: 
+          - Margomo
+          - Mongomo
+          - "Mongomo de Guadalupe"
+        ascii_name: Mongomo
+        name: Mongomo
+        names_en: ~
+        names_es: ~
+        population: 6393
+    name: Wele-Nzas
+    names_en: ~
+    names_es: ~

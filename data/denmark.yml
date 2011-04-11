@@ -1,1956 +1,2981 @@
 --- 
-code: DK
-continent: EU
 name: Denmark
-population: 5484000
+names_en: 
+  - Denmark
+  - "Kingdom of Denmark"
+names_es: 
+  - Dinamarca
 regions: 
   - 
+    ascii_name: "Capital Region"
     cities: 
       - 
-        districts: []
-        location: "POINT (55.7500000000000000 12.2500000000000000)"
+        alternate_names: 
+          - Vekso
+          - Veksø
+          - Vikso
+        ascii_name: Vekso
         name: Veksø
+        names_en: ~
+        names_es: ~
         population: 1921
-        slug: veks
       - 
-        districts: []
-        location: "POINT (55.6333300000000008 12.3666699999999992)"
+        alternate_names: 
+          - Vallensbaek
+          - Vallensbæk
+        ascii_name: Vallensbaek
         name: Vallensbæk
+        names_en: 
+          - Vallensbæk
+        names_es: ~
         population: 13500
-        slug: vallensbk
       - 
-        districts: []
-        location: "POINT (55.8333299999999966 12.5500000000000007)"
+        alternate_names: ~
+        ascii_name: Trorod
         name: Trørød
+        names_en: ~
+        names_es: ~
         population: 8576
-        slug: trrd
       - 
-        districts: []
-        location: "POINT (55.6517300000000006 12.2921600000000009)"
+        alternate_names: 
+          - Taastrup
+          - Tastrup
+          - Tåstrup
+        ascii_name: Taastrup
         name: Taastrup
+        names_en: ~
+        names_es: ~
         population: 30977
-        slug: taastrup
       - 
-        districts: []
-        location: "POINT (55.6302999999999983 12.6003500000000006)"
+        alternate_names: 
+          - Taarnby
+          - Tarnby
+          - Tårnby
+        ascii_name: Tarnby
         name: Tårnby
+        names_en: 
+          - Tårnby
+        names_es: ~
         population: 10000
-        slug: tarnby
       - 
-        districts: []
-        location: "POINT (55.7682799999999972 12.1972299999999994)"
+        alternate_names: ~
+        ascii_name: Stenlose
         name: Stenløse
+        names_en: ~
+        names_es: ~
         population: 19998
-        slug: stenlse
       - 
-        districts: []
-        location: "POINT (55.8166700000000020 12.4166699999999999)"
+        alternate_names: ~
+        ascii_name: Stavnsholt
         name: Stavnsholt
+        names_en: ~
+        names_es: ~
         population: 5658
-        slug: stavnsholt
       - 
-        districts: []
-        location: "POINT (55.7333300000000023 12.3000000000000007)"
+        alternate_names: ~
+        ascii_name: Smorumnedre
         name: Smørumnedre
+        names_en: ~
+        names_es: ~
         population: 8968
-        slug: smrumnedre
       - 
-        districts: []
-        location: "POINT (55.8500000000000014 12.1833299999999998)"
+        alternate_names: 
+          - "Gmina Slangerup"
+          - Slangerup
+        ascii_name: Slangerup
         name: Slangerup
+        names_en: 
+          - Slangerup
+        names_es: ~
         population: 6829
-        slug: slangerup
       - 
-        districts: []
-        location: "POINT (55.7500000000000000 11.9666700000000006)"
+        alternate_names: 
+          - Skibby
+          - Skiby
+        ascii_name: Skibby
         name: Skibby
+        names_en: ~
+        names_es: ~
         population: 2661
-        slug: skibby
       - 
-        districts: []
-        location: "POINT (55.1000000000000014 14.6999999999999993)"
+        alternate_names: 
+          - Ronne
+          - Rønne
+        ascii_name: Ronne
         name: Rønne
+        names_en: 
+          - Rønne
+        names_es: ~
         population: 13890
-        slug: rnne
       - 
-        districts: []
-        location: "POINT (55.6806199999999976 12.4537300000000002)"
+        alternate_names: 
+          - Rodovre
+          - Rødovre
+        ascii_name: Rodovre
         name: Rødovre
+        names_en: 
+          - Rødovre
+        names_es: ~
         population: 30000
-        slug: rdovre
       - 
-        districts: []
-        location: "POINT (55.7833299999999994 12.1833299999999998)"
+        alternate_names: ~
+        ascii_name: Olstykke
         name: Ølstykke
+        names_en: ~
+        names_es: ~
         population: 5348
-        slug: lstykke
       - 
-        districts: []
-        location: "POINT (55.9833300000000023 12.3499999999999996)"
+        alternate_names: ~
+        ascii_name: Nodebo
         name: Nødebo
+        names_en: ~
+        names_es: ~
         population: 1875
-        slug: ndebo
       - 
-        districts: []
-        location: "POINT (55.9333299999999980 12.5166699999999995)"
+        alternate_names: 
+          - Niva
+          - Nivaa
+          - Nivå
+        ascii_name: Niva
         name: Nivå
+        names_en: ~
+        names_es: ~
         population: 8035
-        slug: niva
       - 
-        districts: []
-        location: "POINT (55.0606700000000018 15.1305800000000001)"
+        alternate_names: 
+          - Nekso
+          - Neksø
+        ascii_name: Nexo
         name: Nexø
+        names_en: ~
+        names_es: ~
         population: 3841
-        slug: nex
       - 
-        districts: []
-        location: "POINT (55.7500000000000000 12.3333300000000001)"
+        alternate_names: 
+          - Maalov
+          - Maaløv
+          - Malov
+        ascii_name: Malov
         name: Måløv
+        names_en: ~
+        names_es: ~
         population: 8513
-        slug: malv
       - 
-        districts: []
-        location: "POINT (55.8500000000000014 12.2833299999999994)"
+        alternate_names: ~
+        ascii_name: Lynge
         name: Lynge
+        names_en: ~
+        names_es: ~
         population: 4284
-        slug: lynge
       - 
-        districts: []
-        location: "POINT (56.0166699999999977 11.9833300000000005)"
+        alternate_names: ~
+        ascii_name: Liseleje
         name: Liseleje
+        names_en: ~
+        names_es: ~
         population: 2906
-        slug: liseleje
       - 
-        districts: []
-        location: "POINT (55.7833299999999994 12.3833300000000008)"
+        alternate_names: 
+          - "Lille Vaerlose"
+          - "Lille Værløse"
+          - Vaerlose
+        ascii_name: Vaerlose
         name: Værløse
+        names_en: ~
+        names_es: ~
         population: 12842
-        slug: vrlse
       - 
-        districts: []
-        location: "POINT (55.8749600000000015 12.3457899999999992)"
+        alternate_names: ~
+        ascii_name: Lillerod
         name: Lillerød
+        names_en: ~
+        names_es: ~
         population: 15359
-        slug: lillerd
       - 
-        districts: []
-        location: "POINT (55.6759399999999971 12.5655300000000008)"
+        alternate_names: 
+          - Cobanhavan
+          - Copenaga
+          - Copenaghen
+        ascii_name: Copenhagen
         name: Copenhagen
+        names_en: 
+          - Copenhagen
+        names_es: 
+          - Copenhague
         population: 1153615
-        slug: copenhagen
       - 
-        districts: []
-        location: "POINT (55.7704400000000007 12.5037800000000008)"
+        alternate_names: 
+          - "Konigs Lyngby"
+          - Lyngby
+        ascii_name: "Kongens Lyngby"
         name: "Kongens Lyngby"
+        names_en: ~
+        names_es: ~
         population: 10600
-        slug: kongens-lyngby
       - 
-        districts: []
-        location: "POINT (55.8500000000000014 11.9833300000000005)"
+        alternate_names: 
+          - "Gmina Jaegerspris"
+          - "Gmina Jægerspris"
+          - Jaegerspris
+        ascii_name: Jaegerspris
         name: Jægerspris
+        names_en: 
+          - Jægerspris
+        names_es: ~
         population: 3805
-        slug: jgerspris
       - 
-        districts: []
-        location: "POINT (55.6154300000000035 12.3518200000000000)"
+        alternate_names: 
+          - Ishoj
+          - Ishøj
+        ascii_name: Ishoj
         name: Ishøj
+        names_en: 
+          - Ishøj
+        names_es: ~
         population: 19453
-        slug: ishj
       - 
-        districts: []
-        location: "POINT (55.6571899999999999 12.4736399999999996)"
+        alternate_names: 
+          - Hvidovre
+          - Khvidovre
+          - Хвидовре
+        ascii_name: Hvidovre
         name: Hvidovre
+        names_en: 
+          - Hvidovre
+        names_es: ~
         population: 49380
-        slug: hvidovre
       - 
-        districts: []
-        location: "POINT (55.9666700000000006 11.8666699999999992)"
+        alternate_names: 
+          - "Gmina Hundested"
+          - Hundested
+        ascii_name: Hundested
         name: Hundested
+        names_en: 
+          - Hundested
+        names_es: ~
         population: 8615
-        slug: hundested
       - 
-        districts: []
-        location: "POINT (55.9617999999999967 12.5341000000000005)"
+        alternate_names: ~
+        ascii_name: Humlebaek
         name: Humlebæk
+        names_en: ~
+        names_es: ~
         population: 8965
-        slug: humlebk
       - 
-        districts: []
-        location: "POINT (56.0833299999999966 12.4666700000000006)"
+        alternate_names: ~
+        ascii_name: Hornbaek
         name: Hornbæk
+        names_en: ~
+        names_es: ~
         population: 3223
-        slug: hornbk
       - 
-        districts: []
-        location: "POINT (55.8833300000000008 12.5000000000000000)"
+        alternate_names: 
+          - Horsholm
+          - Hørsholm
+          - Kherskhol'm
+        ascii_name: Horsholm
         name: Hørsholm
+        names_en: 
+          - Hørsholm
+        names_es: ~
         population: 36670
-        slug: hrsholm
       - 
-        districts: []
-        location: "POINT (55.9266700000000014 12.3109099999999998)"
+        alternate_names: 
+          - Hillerod
+          - Hillerød
+          - Khillerod
+        ascii_name: Hillerod
         name: Hillerød
+        names_en: 
+          - Hillerød
+        names_es: ~
         population: 28313
-        slug: hillerd
       - 
-        districts: []
-        location: "POINT (56.0360599999999991 12.6135999999999999)"
+        alternate_names: 
+          - Herlev
+        ascii_name: Herlev
+        name: Herlev
+        names_en: 
+          - Herlev
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Elseneur
+          - Elsinor
+          - Elsinore
+        ascii_name: Helsingor
         name: Helsingør
+        names_en: 
+          - Elsinore
+        names_es: 
+          - Elsinor
         population: 35048
-        slug: helsingr
       - 
-        districts: []
-        location: "POINT (56.0228299999999990 12.1975200000000008)"
+        alternate_names: 
+          - Khel'singe
+          - Хельсинге
+        ascii_name: Helsinge
         name: Helsinge
+        names_en: ~
+        names_es: ~
         population: 7354
-        slug: helsinge
       - 
-        districts: []
-        location: "POINT (56.0666700000000020 12.5666700000000002)"
+        alternate_names: ~
+        ascii_name: Hellebaek
         name: Hellebæk
+        names_en: ~
+        names_es: ~
         population: 5243
-        slug: hellebk
       - 
-        districts: []
-        location: "POINT (56.0666700000000020 12.2833299999999994)"
+        alternate_names: ~
+        ascii_name: Graested
         name: Græsted
+        names_en: ~
+        names_es: ~
         population: 3310
-        slug: grsted
       - 
-        districts: []
-        location: "POINT (55.6666700000000034 12.4000000000000004)"
+        alternate_names: 
+          - Glostrup
+        ascii_name: Glostrup
         name: Glostrup
+        names_en: ~
+        names_es: ~
         population: 20673
-        slug: glostrup
       - 
-        districts: []
-        location: "POINT (56.1166699999999992 12.3166700000000002)"
+        alternate_names: 
+          - Gladsakse
+          - Gladsaxe
+          - "Gmina Gladsaxe"
+        ascii_name: Gladsakse
+        name: Gladsakse
+        names_en: 
+          - Gladsaxe
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Gilleje
+          - Gilleleje
+        ascii_name: Gilleleje
         name: Gilleleje
+        names_en: ~
+        names_es: ~
         population: 5799
-        slug: gilleleje
       - 
-        districts: []
-        location: "POINT (55.7833299999999994 12.2666699999999995)"
+        alternate_names: 
+          - Gentofte
+          - Gjentofte
+          - "Gmina Gentofte"
+        ascii_name: Gentofte
+        name: Gentofte
+        names_en: 
+          - Gentofte
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Ganlose
         name: Ganløse
+        names_en: ~
+        names_es: ~
         population: 2843
-        slug: ganlse
       - 
-        districts: []
-        location: "POINT (55.9707300000000032 12.0225000000000009)"
+        alternate_names: 
+          - Frederiksvaerk
+          - Frederiksværk
+        ascii_name: Frederiksvaerk
         name: Frederiksværk
+        names_en: 
+          - Frederiksværk
+        names_es: ~
         population: 12176
-        slug: frederiksvrk
       - 
-        districts: []
-        location: "POINT (55.8395599999999988 12.0689600000000006)"
+        alternate_names: 
+          - Frederikssund
+          - Frederiksund
+        ascii_name: Frederikssund
         name: Frederikssund
+        names_en: 
+          - Frederikssund
+        names_es: ~
         population: 14564
-        slug: frederikssund
       - 
-        districts: []
-        location: "POINT (55.6793800000000019 12.5346299999999999)"
+        alternate_names: 
+          - Frederiksberg
+          - Фредериксберг
+        ascii_name: Frederiksberg
         name: Frederiksberg
+        names_en: ~
+        names_es: ~
         population: 95029
-        slug: frederiksberg
       - 
-        districts: []
-        location: "POINT (55.9666700000000006 12.4000000000000004)"
+        alternate_names: ~
+        ascii_name: Fredensborg
         name: Fredensborg
+        names_en: ~
+        names_es: ~
         population: 8249
-        slug: fredensborg
       - 
-        districts: []
-        location: "POINT (55.6666700000000034 12.1833299999999998)"
+        alternate_names: 
+          - Flong
+          - Fløng
+        ascii_name: Flong
         name: Fløng
+        names_en: ~
+        names_es: ~
         population: 11108
-        slug: flng
       - 
-        districts: []
-        location: "POINT (55.8085799999999992 12.3606599999999993)"
+        alternate_names: 
+          - Farum
+          - Фарум
+        ascii_name: Farum
         name: Farum
+        names_en: ~
+        names_es: ~
         population: 18376
-        slug: farum
       - 
-        districts: []
-        location: "POINT (56.0000000000000000 12.5666700000000002)"
+        alternate_names: 
+          - Espergaerde
+          - Espergjaerde
+          - Espergjærde
+        ascii_name: Espergaerde
         name: Espergærde
+        names_en: ~
+        names_es: ~
         population: 11358
-        slug: espergrde
       - 
-        districts: []
-        location: "POINT (55.5945499999999981 12.6663800000000002)"
+        alternate_names: 
+          - Dragoer
+          - Dragor
+          - Dragör
+        ascii_name: Dragor
         name: Dragør
+        names_en: 
+          - Dragør
+        names_es: ~
         population: 11045
-        slug: dragr
       - 
-        districts: []
-        location: "POINT (55.7500000000000000 12.5833300000000001)"
+        alternate_names: ~
+        ascii_name: Charlottenlund
         name: Charlottenlund
+        names_en: ~
+        names_es: ~
         population: 40000
-        slug: charlottenlund
       - 
-        districts: []
-        location: "POINT (55.8666699999999992 12.4000000000000004)"
+        alternate_names: ~
+        ascii_name: Blovstrod
         name: Blovstrød
+        names_en: ~
+        names_es: ~
         population: 2137
-        slug: blovstrd
       - 
-        districts: []
-        location: "POINT (55.8475899999999967 12.4279100000000007)"
+        alternate_names: 
+          - Birkerod
+          - Birkerød
+        ascii_name: Birkerod
         name: Birkerød
+        names_en: 
+          - Birkerød
+        names_es: ~
         population: 18901
-        slug: birkerd
       - 
-        districts: []
-        location: "POINT (55.7316500000000019 12.3632799999999996)"
+        alternate_names: 
+          - Balleru
+          - Ballerup
+        ascii_name: Ballerup
         name: Ballerup
+        names_en: 
+          - Ballerup
+        names_es: ~
         population: 40000
-        slug: ballerup
       - 
-        districts: []
-        location: "POINT (55.6569100000000034 12.3638100000000009)"
+        alternate_names: 
+          - Al'bertslunn
+          - Albertslund
+          - "Gmina Albertslund"
+        ascii_name: Albertslund
         name: Albertslund
+        names_en: 
+          - Albertslund
+        names_es: ~
         population: 30000
-        slug: albertslund
       - 
-        districts: []
-        location: "POINT (55.0707999999999984 14.9197799999999994)"
+        alternate_names: 
+          - Aakirkeby
+        ascii_name: Akirkeby
         name: Åkirkeby
+        names_en: ~
+        names_es: ~
         population: 2195
-        slug: akirkeby
-    code: DK.17
     name: "Capital Region"
-    slug: capital-region
+    names_en: 
+      - "Capital Region"
+      - "Capital Region of Denmark"
+    names_es: ~
   - 
+    ascii_name: "Central Jutland"
     cities: 
       - 
-        districts: []
-        location: "POINT (56.1166699999999992 9.5666700000000002)"
+        alternate_names: ~
+        ascii_name: Virklund
         name: Virklund
+        names_en: ~
+        names_es: ~
         population: 3113
-        slug: virklund
       - 
-        districts: []
-        location: "POINT (56.4833300000000023 8.7833299999999994)"
+        alternate_names: 
+          - Vinderup
+          - "Vinderup Garde"
+          - "Vinderup Gårde"
+        ascii_name: Vinderup
         name: Vinderup
+        names_en: ~
+        names_es: ~
         population: 2991
-        slug: vinderup
       - 
-        districts: []
-        location: "POINT (56.2000000000000028 8.7666699999999995)"
+        alternate_names: 
+          - Vilbjaerg
+          - Vilbjerg
+          - Vilbjærg
+        ascii_name: Vildbjerg
         name: Vildbjerg
+        names_en: ~
+        names_es: ~
         population: 3773
-        slug: vildbjerg
       - 
-        districts: []
-        location: "POINT (56.0833299999999966 8.6333300000000008)"
+        alternate_names: 
+          - Videbaek
+          - Videbäk
+          - Videbæk
+        ascii_name: Videbaek
         name: Videbæk
+        names_en: 
+          - Videbæk
+        names_es: ~
         population: 4052
-        slug: videbk
       - 
-        districts: []
-        location: "POINT (56.4531899999999993 9.4020100000000006)"
+        alternate_names: 
+          - Viborg
+          - Wibergis
+          - Виборг
+        ascii_name: Viborg
         name: Viborg
+        names_en: 
+          - Viborg
+        names_es: ~
         population: 34831
-        slug: viborg
       - 
-        districts: []
-        location: "POINT (56.3999999999999986 9.8000000000000007)"
+        alternate_names: 
+          - Ulstrup
+          - Ulstrupbro
+        ascii_name: Ulstrup
         name: Ulstrup
+        names_en: ~
+        names_es: ~
         population: 1963
-        slug: ulstrup
       - 
-        districts: []
-        location: "POINT (56.2666699999999977 8.3333300000000001)"
+        alternate_names: 
+          - Ulborg
+          - Ulfborg
+          - Ulfkaer
+        ascii_name: Ulfborg
         name: Ulfborg
+        names_en: ~
+        names_es: ~
         population: 1994
-        slug: ulfborg
       - 
-        districts: []
-        location: "POINT (56.2500000000000000 10.1666699999999999)"
+        alternate_names: ~
+        ascii_name: Trige
         name: Trige
+        names_en: ~
+        names_es: ~
         population: 2475
-        slug: trige
       - 
-        districts: []
-        location: "POINT (56.1000000000000014 10.1500000000000004)"
+        alternate_names: 
+          - Tranbjaerg
+          - Tranbjerg
+          - Tranbjærg
+        ascii_name: Tranbjerg
         name: Tranbjerg
+        names_en: ~
+        names_es: ~
         population: 7307
-        slug: tranbjerg
       - 
-        districts: []
-        location: "POINT (55.8500000000000014 9.4833300000000005)"
+        alternate_names: 
+          - "Nye Torring"
+          - "Nye Törring"
+          - Torring
+        ascii_name: Torring
         name: Tørring
+        names_en: ~
+        names_es: ~
         population: 2370
-        slug: trring
       - 
-        districts: []
-        location: "POINT (56.7000000000000028 8.2166700000000006)"
+        alternate_names: 
+          - Thyboron
+          - Thyborøn
+          - Tyboron
+        ascii_name: Thyboron
         name: Thyborøn
+        names_en: ~
+        names_es: ~
         population: 2587
-        slug: thyborn
       - 
-        districts: []
-        location: "POINT (55.9166700000000034 8.5333299999999994)"
+        alternate_names: ~
+        ascii_name: Tarm
         name: Tarm
+        names_en: ~
+        names_es: ~
         population: 4080
-        slug: tarm
       - 
-        districts: []
-        location: "POINT (56.1333300000000008 9.6333300000000008)"
+        alternate_names: ~
+        ascii_name: Svejbaek
         name: Svejbæk
+        names_en: ~
+        names_es: ~
         population: 3743
-        slug: svejbk
       - 
-        districts: []
-        location: "POINT (56.2000000000000028 9.0166699999999995)"
+        alternate_names: 
+          - Sunde
+          - Sunds
+        ascii_name: Sunds
         name: Sunds
+        names_en: ~
+        names_es: ~
         population: 3525
-        slug: sunds
       - 
-        districts: []
-        location: "POINT (56.4912199999999984 8.5837599999999998)"
+        alternate_names: 
+          - Struehr
+          - Struer
+          - Струэр
+        ascii_name: Struer
         name: Struer
+        names_en: 
+          - Struer
+        names_es: ~
         population: 11317
-        slug: struer
       - 
-        districts: []
-        location: "POINT (56.4833300000000023 9.1666699999999999)"
+        alternate_names: ~
+        ascii_name: Stoholm
         name: Stoholm
+        names_en: ~
+        names_es: ~
         population: 2202
-        slug: stoholm
       - 
-        districts: []
-        location: "POINT (56.0666700000000020 10.0000000000000000)"
+        alternate_names: ~
+        ascii_name: Stilling
         name: Stilling
+        names_en: ~
+        names_es: ~
         population: 3655
-        slug: stilling
       - 
-        districts: []
-        location: "POINT (56.1333300000000008 10.1166699999999992)"
+        alternate_names: 
+          - Stautrup
+          - Stavtrup
+        ascii_name: Stavtrup
         name: Stavtrup
+        names_en: ~
+        names_es: ~
         population: 3519
-        slug: stavtrup
       - 
-        districts: []
-        location: "POINT (56.5499999999999972 10.0333299999999994)"
+        alternate_names: ~
+        ascii_name: Spentrup
         name: Spentrup
+        names_en: ~
+        names_es: ~
         population: 2155
-        slug: spentrup
       - 
-        districts: []
-        location: "POINT (56.2333300000000023 10.0999999999999996)"
+        alternate_names: 
+          - Soften
+          - Søften
+        ascii_name: Soften
         name: Søften
+        names_en: ~
+        names_es: ~
         population: 2030
-        slug: sften
       - 
-        districts: []
-        location: "POINT (56.0427099999999996 10.0863099999999992)"
+        alternate_names: 
+          - Solbjaerg
+          - Solbjærg
+        ascii_name: Solbjerg
         name: Solbjerg
+        names_en: ~
+        names_es: ~
         population: 2964
-        slug: solbjerg
       - 
-        districts: []
-        location: "POINT (56.1333300000000008 8.9166699999999999)"
+        alternate_names: 
+          - Snejbjaerg
+          - Snejbjerg
+          - Snejbjærg
+        ascii_name: Snejbjerg
         name: Snejbjerg
+        names_en: ~
+        names_es: ~
         population: 3513
-        slug: snejbjerg
       - 
-        districts: []
-        location: "POINT (56.1499999999999986 9.9499999999999993)"
+        alternate_names: 
+          - Skovby
+          - "Skovby Ostj"
+          - "Skovby Østj"
+        ascii_name: Skovby
         name: Skovby
+        names_en: ~
+        names_es: ~
         population: 2489
-        slug: skovby
       - 
-        districts: []
-        location: "POINT (55.9500000000000028 8.5000000000000000)"
+        alternate_names: 
+          - "Gmina Skjern"
+          - Skern
+          - Skerne
+        ascii_name: Skjern
         name: Skjern
+        names_en: 
+          - Skjern
+        names_es: ~
         population: 7145
-        slug: skjern
       - 
-        districts: []
-        location: "POINT (56.5666700000000020 9.0333299999999994)"
+        alternate_names: 
+          - Skive
+          - Скиве
+        ascii_name: Skive
         name: Skive
+        names_en: 
+          - Skive
+        names_es: ~
         population: 20815
-        slug: skive
       - 
-        districts: []
-        location: "POINT (56.0399099999999990 9.9271999999999991)"
+        alternate_names: 
+          - Skanderborg
+        ascii_name: Skanderborg
         name: Skanderborg
+        names_en: 
+          - Skanderborg
+        names_es: ~
         population: 13543
-        slug: skanderborg
       - 
-        districts: []
-        location: "POINT (56.1696999999999989 9.5450800000000005)"
+        alternate_names: 
+          - Sil'keborg
+          - Silkeborg
+          - Силькеборг
+        ascii_name: Silkeborg
         name: Silkeborg
+        names_en: 
+          - Silkeborg
+        names_es: ~
         population: 41674
-        slug: silkeborg
       - 
-        districts: []
-        location: "POINT (56.2166700000000006 10.0500000000000007)"
+        alternate_names: ~
+        ascii_name: Sabro
         name: Sabro
+        names_en: ~
+        names_es: ~
         population: 1977
-        slug: sabro
       - 
-        districts: []
-        location: "POINT (56.3833300000000008 10.5000000000000000)"
+        alternate_names: 
+          - Ryomgaard
+          - Ryomgard
+          - Ryomgård
+        ascii_name: Ryomgard
         name: Ryomgård
+        names_en: ~
+        names_es: ~
         population: 1952
-        slug: ryomgard
       - 
-        districts: []
-        location: "POINT (56.0833299999999966 9.7666699999999995)"
+        alternate_names: 
+          - Ry
+          - Rye
+          - "Rye Stationsby"
+        ascii_name: Ry
         name: Ry
+        names_en: ~
+        names_es: ~
         population: 4909
-        slug: ry
       - 
-        districts: []
-        location: "POINT (56.2999999999999972 10.4833300000000005)"
+        alternate_names: 
+          - Ronde
+          - Rønde
+        ascii_name: Ronde
         name: Rønde
+        names_en: ~
+        names_es: ~
         population: 2213
-        slug: rnde
       - 
-        districts: []
-        location: "POINT (56.0900600000000011 8.2440200000000008)"
+        alternate_names: 
+          - Ringkjobing
+          - Ringkjöbing
+          - Ringkobing
+        ascii_name: Ringkobing
         name: Ringkøbing
+        names_en: 
+          - Ringkøbing
+        names_es: ~
         population: 9315
-        slug: ringkbing
       - 
-        districts: []
-        location: "POINT (56.4666700000000006 10.0500000000000007)"
+        alternate_names: 
+          - Randers
+          - Рандерс
+        ascii_name: Randers
         name: Randers
+        names_en: 
+          - Randers
+        names_es: ~
         population: 55780
-        slug: randers
       - 
-        districts: []
-        location: "POINT (55.9731299999999976 10.1530000000000005)"
+        alternate_names: 
+          - Odder
+          - Оддер
+        ascii_name: Odder
         name: Odder
+        names_en: 
+          - Odder
+        names_es: ~
         population: 11009
-        slug: odder
       - 
-        districts: []
-        location: "POINT (56.0666700000000020 10.1666699999999999)"
+        alternate_names: 
+          - Maarslet
+          - Marslet
+          - Mårslet
+        ascii_name: Marslet
         name: Mårslet
+        names_en: ~
+        names_es: ~
         population: 2698
-        slug: marslet
       - 
-        districts: []
-        location: "POINT (56.0333299999999994 10.1666699999999999)"
+        alternate_names: ~
+        ascii_name: Malling
         name: Malling
+        names_en: ~
+        names_es: ~
         population: 3339
-        slug: malling
       - 
-        districts: []
-        location: "POINT (56.2333300000000023 10.2500000000000000)"
+        alternate_names: ~
+        ascii_name: Lystrup
         name: Lystrup
+        names_en: ~
+        names_es: ~
         population: 9107
-        slug: lystrup
       - 
-        districts: []
-        location: "POINT (56.2833299999999994 10.3166700000000002)"
+        alternate_names: ~
+        ascii_name: Logten
         name: Løgten
+        names_en: ~
+        names_es: ~
         population: 5048
-        slug: lgten
       - 
-        districts: []
-        location: "POINT (56.1000000000000014 8.9833300000000005)"
+        alternate_names: ~
+        ascii_name: Lind
         name: Lind
+        names_en: ~
+        names_es: ~
         population: 3777
-        slug: lind
       - 
-        districts: []
-        location: "POINT (56.5485600000000019 8.3101900000000004)"
+        alternate_names: 
+          - Lemvig
+          - Лемвиг
+        ascii_name: Lemvig
         name: Lemvig
+        names_en: 
+          - Lemvig
+        names_es: ~
         population: 7330
-        slug: lemvig
       - 
-        districts: []
-        location: "POINT (56.3833300000000008 9.9000000000000004)"
+        alternate_names: 
+          - Langa
+          - Langaa
+          - Langå
+        ascii_name: Langa
         name: Langå
+        names_en: ~
+        names_es: ~
         population: 2710
-        slug: langa
       - 
-        districts: []
-        location: "POINT (56.1000000000000014 10.0666700000000002)"
+        alternate_names: ~
+        ascii_name: Kolt
         name: Kolt
+        names_en: ~
+        names_es: ~
         population: 5061
-        slug: kolt
       - 
-        districts: []
-        location: "POINT (56.2833299999999994 9.4333299999999998)"
+        alternate_names: 
+          - Kellerup
+          - Kjellerup
+        ascii_name: Kjellerup
         name: Kjellerup
+        names_en: ~
+        names_es: ~
         population: 4514
-        slug: kjellerup
       - 
-        districts: []
-        location: "POINT (56.0333299999999994 8.8499999999999996)"
+        alternate_names: 
+          - Kibaek
+          - Kibæk
+        ascii_name: Kibaek
         name: Kibæk
+        names_en: ~
+        names_es: ~
         population: 2656
-        slug: kibk
       - 
-        districts: []
-        location: "POINT (56.3067300000000017 9.1683500000000002)"
+        alternate_names: ~
+        ascii_name: Karup
         name: Karup
+        names_en: ~
+        names_es: ~
         population: 2176
-        slug: karup
       - 
-        districts: []
-        location: "POINT (55.7066700000000026 10.0152800000000006)"
+        alternate_names: ~
+        ascii_name: Juelsminde
         name: Juelsminde
+        names_en: ~
+        names_es: ~
         population: 3667
-        slug: juelsminde
       - 
-        districts: []
-        location: "POINT (56.1388299999999987 9.1576799999999992)"
+        alternate_names: ~
+        ascii_name: Ikast
         name: Ikast
+        names_en: ~
+        names_es: ~
         population: 14692
-        slug: ikast
       - 
-        districts: []
-        location: "POINT (56.0045199999999994 8.1293699999999998)"
+        alternate_names: ~
+        ascii_name: "Hvide Sande"
         name: "Hvide Sande"
+        names_en: ~
+        names_es: ~
         population: 3291
-        slug: hvide-sande
       - 
-        districts: []
-        location: "POINT (55.8606600000000029 9.8503399999999992)"
+        alternate_names: 
+          - Horsens
+          - Khorsens
+          - "huo er sen si"
+        ascii_name: Horsens
         name: Horsens
+        names_en: 
+          - Horsens
+        names_es: ~
         population: 50074
-        slug: horsens
       - 
-        districts: []
-        location: "POINT (56.3166700000000020 10.3333300000000001)"
+        alternate_names: ~
+        ascii_name: Hornslet
         name: Hornslet
+        names_en: ~
+        names_es: ~
         population: 4906
-        slug: hornslet
       - 
-        districts: []
-        location: "POINT (56.0833299999999966 10.0500000000000007)"
+        alternate_names: ~
+        ascii_name: Horning
         name: Hørning
+        names_en: ~
+        names_es: ~
         population: 6085
-        slug: hrning
       - 
-        districts: []
-        location: "POINT (56.5833299999999966 9.1500000000000004)"
+        alternate_names: 
+          - Hoislev
+          - Hojslev
+          - Höislev
+        ascii_name: Hojslev
         name: Højslev
+        names_en: ~
+        names_es: ~
         population: 1857
-        slug: hjslev
       - 
-        districts: []
-        location: "POINT (56.3600899999999996 8.6160700000000006)"
+        alternate_names: 
+          - Holstebro
+          - Khol'stebro
+          - Хольстебро
+        ascii_name: Holstebro
         name: Holstebro
+        names_en: 
+          - Holstebro
+        names_es: ~
         population: 32072
-        slug: holstebro
       - 
-        districts: []
-        location: "POINT (56.2500000000000000 10.2666699999999995)"
+        alternate_names: 
+          - Hjortshoj
+          - Hjortshøj
+        ascii_name: Hjortshoj
         name: Hjortshøj
+        names_en: ~
+        names_es: ~
         population: 2515
-        slug: hjortshj
       - 
-        districts: []
-        location: "POINT (56.2666699999999977 10.0666700000000002)"
+        alternate_names: 
+          - "Gmina Hinnerup"
+          - Hinnerup
+          - Hinnerup-Broby
+        ascii_name: Hinnerup
         name: Hinnerup
+        names_en: 
+          - Hinnerup
+        names_es: ~
         population: 7055
-        slug: hinnerup
       - 
-        districts: []
-        location: "POINT (56.1393199999999979 8.9737799999999996)"
+        alternate_names: 
+          - Herning
+          - Kherning
+          - Хернинг
+        ascii_name: Herning
         name: Herning
+        names_en: 
+          - Herning
+        names_es: ~
         population: 44763
-        slug: herning
       - 
-        districts: []
-        location: "POINT (55.7704299999999975 9.7011000000000003)"
+        alternate_names: ~
+        ascii_name: Hedensted
         name: Hedensted
+        names_en: ~
+        names_es: ~
         population: 10048
-        slug: hedensted
       - 
-        districts: []
-        location: "POINT (56.6175199999999990 8.1806900000000002)"
+        alternate_names: 
+          - Harboor
+          - Harboør
+        ascii_name: Harboore
         name: Harboøre
+        names_en: ~
+        names_es: ~
         population: 1745
-        slug: harbore
       - 
-        districts: []
-        location: "POINT (56.1333300000000008 9.0666700000000002)"
+        alternate_names: 
+          - Hammerum
+          - Hamrum
+        ascii_name: Hammerum
         name: Hammerum
+        names_en: ~
+        names_es: ~
         population: 3025
-        slug: hammerum
       - 
-        districts: []
-        location: "POINT (56.2500000000000000 9.8666699999999992)"
+        alternate_names: 
+          - "Gmina Hammel"
+          - Hammel
+          - "funmeru ren xing"
+        ascii_name: Hammel
         name: Hammel
+        names_en: 
+          - Hammel
+        names_es: ~
         population: 6138
-        slug: hammel
       - 
-        districts: []
-        location: "POINT (56.3281899999999993 10.0493100000000002)"
+        alternate_names: 
+          - "Hadsten Stationsby"
+          - Khadsten
+          - Хадстен
+        ascii_name: Hadsten
         name: Hadsten
+        names_en: ~
+        names_es: ~
         population: 7020
-        slug: hadsten
       - 
-        districts: []
-        location: "POINT (56.4157799999999980 10.8782499999999995)"
+        alternate_names: 
+          - Grena
+          - Grenaa
+          - Grenå
+        ascii_name: Grenaa
         name: Grenaa
+        names_en: 
+          - Grenå
+        names_es: ~
         population: 14317
-        slug: grenaa
       - 
-        districts: []
-        location: "POINT (56.1499999999999986 9.0500000000000007)"
+        alternate_names: 
+          - Gjellerup
+          - "Gjellerup Kirkeby"
+          - Kirkeby
+        ascii_name: "Gjellerup Kirkeby"
         name: "Gjellerup Kirkeby"
+        names_en: ~
+        names_es: ~
         population: 3627
-        slug: gjellerup-kirkeby
       - 
-        districts: []
-        location: "POINT (56.1499999999999986 9.9166699999999999)"
+        alternate_names: 
+          - Galten
+          - "Sonder Galten"
+        ascii_name: Galten
         name: Galten
+        names_en: ~
+        names_es: ~
         population: 4895
-        slug: galten
       - 
-        districts: []
-        location: "POINT (56.1566400000000030 10.0131800000000002)"
+        alternate_names: ~
+        ascii_name: Framlev
         name: Framlev
+        names_en: ~
+        names_es: ~
         population: 3067
-        slug: framlev
       - 
-        districts: []
-        location: "POINT (56.1944200000000009 10.6821000000000002)"
+        alternate_names: 
+          - AEbeltoft
+          - Ehbel'toft
+          - Æbeltoft
+        ascii_name: Ebeltoft
         name: Ebeltoft
+        names_en: ~
+        names_es: ~
         population: 7501
-        slug: ebeltoft
       - 
-        districts: []
-        location: "POINT (55.9666700000000006 9.6166699999999992)"
+        alternate_names: 
+          - Braedstrup
+          - Bredstrup
+          - Brædstrup
+        ascii_name: Braedstrup
         name: Brædstrup
+        names_en: ~
+        names_es: ~
         population: 3130
-        slug: brdstrup
       - 
-        districts: []
-        location: "POINT (55.9500000000000028 9.1166699999999992)"
+        alternate_names: 
+          - Brande
+          - "Gmina Brande"
+        ascii_name: Brande
         name: Brande
+        names_en: 
+          - Brande
+        names_es: ~
         population: 6357
-        slug: brande
       - 
-        districts: []
-        location: "POINT (56.1666700000000034 9.2500000000000000)"
+        alternate_names: 
+          - Bording
+          - "Bording Kirkeby"
+          - Borring
+        ascii_name: "Bording Kirkeby"
         name: "Bording Kirkeby"
+        names_en: ~
+        names_es: ~
         population: 2104
-        slug: bording-kirkeby
       - 
-        districts: []
-        location: "POINT (56.3833300000000008 9.6666699999999999)"
+        alternate_names: ~
+        ascii_name: Bjerringbro
         name: Bjerringbro
+        names_en: ~
+        names_es: ~
         population: 7390
-        slug: bjerringbro
       - 
-        districts: []
-        location: "POINT (56.0602500000000035 10.2117900000000006)"
+        alternate_names: 
+          - Beder
+          - Бедер
+        ascii_name: Beder
         name: Beder
+        names_en: ~
+        names_es: ~
         population: 4214
-        slug: beder
       - 
-        districts: []
-        location: "POINT (56.2666699999999977 8.8000000000000007)"
+        alternate_names: 
+          - Aulum
+          - Avlum
+        ascii_name: Avlum
         name: Avlum
+        names_en: ~
+        names_es: ~
         population: 2875
-        slug: avlum
       - 
-        districts: []
-        location: "POINT (56.4333299999999980 10.3833300000000008)"
+        alternate_names: 
+          - Auning
+          - Avning
+        ascii_name: Auning
         name: Auning
+        names_en: ~
+        names_es: ~
         population: 2509
-        slug: auning
       - 
-        districts: []
-        location: "POINT (56.4333299999999980 10.1500000000000004)"
+        alternate_names: 
+          - Assentoft
+        ascii_name: Assentoft
         name: Assentoft
+        names_en: ~
+        names_es: ~
         population: 2432
-        slug: assentoft
       - 
-        districts: 
-          - 
-            location: "POINT (58.2336600000000004 8.1219900000000003)"
-            name: Tveit
-            population: 1397
-            slug: tveit
-          - 
-            location: "POINT (58.2000000000000028 8.0333299999999994)"
-            name: Justvik
-            population: 1630
-            slug: justvik
-        location: "POINT (56.1567399999999992 10.2107600000000005)"
+        alternate_names: 
+          - Aarhus
+          - Aarhusium
+          - Arhus
+        ascii_name: Arhus
         name: Århus
+        names_en: 
+          - Aarhus
+        names_es: 
+          - Århus
         population: 237551
-        slug: arhus
       - 
-        districts: []
-        location: "POINT (56.4666700000000006 10.3333300000000001)"
+        alternate_names: 
+          - Allingaabro
+          - Allingabro
+          - Allingåbro
+        ascii_name: Allingabro
         name: Allingåbro
+        names_en: ~
+        names_es: ~
         population: 1842
-        slug: allingabro
-    code: DK.18
     name: "Central Jutland"
-    slug: central-jutland
+    names_en: 
+      - "Central Jutland"
+      - "Region Central Jutland"
+    names_es: ~
   - 
+    ascii_name: "North Jutland"
     cities: 
       - 
-        districts: []
-        location: "POINT (57.3500000000000014 9.9499999999999993)"
+        alternate_names: 
+          - Vra
+          - Vraa
+          - Vrå
+        ascii_name: Vra
         name: Vrå
+        names_en: ~
+        names_es: ~
         population: 2273
-        slug: vra
       - 
-        districts: []
-        location: "POINT (57.1000000000000014 10.0333299999999994)"
+        alternate_names: ~
+        ascii_name: Vodskov
         name: Vodskov
+        names_en: ~
+        names_es: ~
         population: 4406
-        slug: vodskov
       - 
-        districts: []
-        location: "POINT (57.0666700000000020 10.1333300000000008)"
+        alternate_names: 
+          - "Vester Hasing"
+          - "Vester Hassing"
+        ascii_name: "Vester Hassing"
         name: "Vester Hassing"
+        names_en: ~
+        names_es: ~
         population: 2298
-        slug: vester-hassing
       - 
-        districts: []
-        location: "POINT (57.1333300000000008 9.9833300000000005)"
+        alternate_names: 
+          - Vestbjaerg
+          - Vestbjerg
+          - Vestbjærg
+        ascii_name: Vestbjerg
         name: Vestbjerg
+        names_en: ~
+        names_es: ~
         population: 2251
-        slug: vestbjerg
       - 
-        districts: []
-        location: "POINT (56.9552300000000002 8.6949100000000001)"
+        alternate_names: 
+          - Thystad
+          - Tisted
+        ascii_name: Thisted
         name: Thisted
+        names_en: ~
+        names_es: ~
         population: 13020
-        slug: thisted
       - 
-        districts: []
-        location: "POINT (57.3833300000000008 10.1166699999999992)"
+        alternate_names: 
+          - Taars
+          - Tars
+          - Tors
+        ascii_name: Tars
         name: Tårs
+        names_en: ~
+        names_es: ~
         population: 1856
-        slug: tars
       - 
-        districts: []
-        location: "POINT (56.9833300000000023 9.8666699999999992)"
+        alternate_names: ~
+        ascii_name: Svenstrup
         name: Svenstrup
+        names_en: ~
+        names_es: ~
         population: 4550
-        slug: svenstrup
       - 
-        districts: []
-        location: "POINT (57.5000000000000000 10.5000000000000000)"
+        alternate_names: ~
+        ascii_name: Strandby
         name: Strandby
+        names_en: ~
+        names_es: ~
         population: 2518
-        slug: strandby
       - 
-        districts: []
-        location: "POINT (57.0000000000000000 10.0999999999999996)"
+        alternate_names: 
+          - Storevorde
+          - Storvorde
+        ascii_name: Storvorde
         name: Storvorde
+        names_en: ~
+        names_es: ~
         population: 2796
-        slug: storvorde
       - 
-        districts: []
-        location: "POINT (56.8853599999999986 9.8383900000000004)"
+        alternate_names: ~
+        ascii_name: Stovring
         name: Støvring
+        names_en: ~
+        names_es: ~
         population: 6239
-        slug: stvring
       - 
-        districts: []
-        location: "POINT (56.8333299999999966 9.8833300000000008)"
+        alternate_names: 
+          - "Gmina Skorping"
+          - "Gmina Skørping"
+          - Skoerping
+        ascii_name: Skorping
         name: Skørping
+        names_en: 
+          - Skørping
+        names_es: ~
         population: 2722
-        slug: skrping
       - 
-        districts: []
-        location: "POINT (57.7209300000000027 10.5839400000000001)"
+        alternate_names: 
+          - Skagen
+          - Скаген
+        ascii_name: Skagen
         name: Skagen
+        names_en: 
+          - Skagen
+        names_es: 
+          - Skagen
         population: 9747
-        slug: skagen
       - 
-        districts: []
-        location: "POINT (57.4711700000000008 10.2031200000000002)"
+        alternate_names: 
+          - "Gmina Sindal"
+          - Sindal
+        ascii_name: Sindal
         name: Sindal
+        names_en: 
+          - Sindal
+        names_es: ~
         population: 2898
-        slug: sindal
       - 
-        districts: []
-        location: "POINT (57.3333299999999966 10.5333299999999994)"
+        alternate_names: 
+          - Saeby
+          - Sæby
+        ascii_name: Saeby
         name: Sæby
+        names_en: ~
+        names_es: ~
         population: 8435
-        slug: sby
       - 
-        districts: []
-        location: "POINT (57.2214699999999965 9.6756899999999995)"
+        alternate_names: ~
+        ascii_name: Rebild
+        name: Rebild
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gmina Pandrup"
+          - Panderup
+          - Pandrup
+        ascii_name: Pandrup
         name: Pandrup
+        names_en: 
+          - Pandrup
+        names_es: ~
         population: 2942
-        slug: pandrup
       - 
-        districts: []
-        location: "POINT (56.7933400000000006 8.8528199999999995)"
+        alternate_names: 
+          - Nykjobing
+          - Nykjöbing
+          - Nykobing
+        ascii_name: "Nykobing Mors"
         name: "Nykøbing Mors"
+        names_en: ~
+        names_es: ~
         population: 9326
-        slug: nykbing-mors
       - 
-        districts: []
-        location: "POINT (56.9833300000000023 9.6333300000000008)"
+        alternate_names: 
+          - Nibe
+          - Нибе
+        ascii_name: Nibe
         name: Nibe
+        names_en: ~
+        names_es: ~
         population: 4376
-        slug: nibe
       - 
-        districts: []
-        location: "POINT (56.6499999999999986 10.0000000000000000)"
+        alternate_names: 
+          - "Gmina Mariager"
+          - Mariager
+          - Мариагер
+        ascii_name: Mariager
         name: Mariager
+        names_en: 
+          - Mariager
+        names_es: ~
         population: 2433
-        slug: mariager
       - 
-        districts: []
-        location: "POINT (56.9666700000000006 9.2500000000000000)"
+        alternate_names: 
+          - "Gmina Logstor"
+          - "Gmina Løgstør"
+          - Loegstoer
+        ascii_name: Logstor
         name: Løgstør
+        names_en: 
+          - Løgstør
+        names_es: ~
         population: 4469
-        slug: lgstr
       - 
-        districts: []
-        location: "POINT (57.0166699999999977 10.0500000000000007)"
+        alternate_names: ~
+        ascii_name: Klarup
         name: Klarup
+        names_en: ~
+        names_es: ~
         population: 3352
-        slug: klarup
       - 
-        districts: []
-        location: "POINT (57.2000000000000028 9.6666699999999999)"
+        alternate_names: 
+          - Kaas
+          - Kas
+          - Kås
+        ascii_name: Kas
         name: Kås
+        names_en: ~
+        names_es: ~
         population: 1990
-        slug: kas
       - 
-        districts: []
-        location: "POINT (56.7500000000000000 8.4166699999999999)"
+        alternate_names: 
+          - Hurup
+          - Thy
+        ascii_name: Hurup
         name: Hurup
+        names_en: ~
+        names_es: ~
         population: 2769
-        slug: hurup
       - 
-        districts: []
-        location: "POINT (56.6430599999999984 9.7902900000000006)"
+        alternate_names: 
+          - Hobro
+          - Khobro
+          - Хобро
+        ascii_name: Hobro
         name: Hobro
+        names_en: 
+          - Hobro
+        names_es: ~
         population: 11064
-        slug: hobro
       - 
-        districts: []
-        location: "POINT (57.4641700000000029 9.9822900000000008)"
+        alternate_names: 
+          - Hjoerring
+          - Hjorring
+          - Hjörring
+        ascii_name: Hjorring
         name: Hjørring
+        names_en: 
+          - Hjørring
+        names_es: ~
         population: 24634
-        slug: hjrring
       - 
-        districts: []
-        location: "POINT (57.1666700000000034 10.1500000000000004)"
+        alternate_names: ~
+        ascii_name: Hjallerup
         name: Hjallerup
+        names_en: ~
+        names_es: ~
         population: 3320
-        slug: hjallerup
       - 
-        districts: []
-        location: "POINT (57.5881200000000035 9.9592200000000002)"
+        alternate_names: 
+          - Hirtshals
+          - Khirtskhal's
+          - "Lilleheden Hornsnaes"
+        ascii_name: Hirtshals
         name: Hirtshals
+        names_en: 
+          - Hirtshals
+        names_es: ~
         population: 6653
-        slug: hirtshals
       - 
-        districts: []
-        location: "POINT (57.1166699999999992 8.6166699999999992)"
+        alternate_names: 
+          - "Gmina Hanstholm"
+          - Hanstholm
+        ascii_name: Hanstholm
         name: Hanstholm
+        names_en: 
+          - Hanstholm
+        names_es: ~
         population: 2418
-        slug: hanstholm
       - 
-        districts: []
-        location: "POINT (57.0000000000000000 10.3166700000000002)"
+        alternate_names: ~
+        ascii_name: Hals
         name: Hals
+        names_en: ~
+        names_es: ~
         population: 2388
-        slug: hals
       - 
-        districts: []
-        location: "POINT (56.7166700000000006 10.1166699999999992)"
+        alternate_names: 
+          - "Gmina Hadsund"
+          - Hadsund
+        ascii_name: Hadsund
         name: Hadsund
+        names_en: 
+          - Hadsund
+        names_es: ~
         population: 5066
-        slug: hadsund
       - 
-        districts: []
-        location: "POINT (57.0000000000000000 10.0000000000000000)"
+        alternate_names: ~
+        ascii_name: Gistrup
         name: Gistrup
+        names_en: ~
+        names_es: ~
         population: 3622
-        slug: gistrup
       - 
-        districts: []
-        location: "POINT (57.0000000000000000 9.8333300000000001)"
+        alternate_names: 
+          - Freilev
+          - Frejlev
+        ascii_name: Frejlev
         name: Frejlev
+        names_en: ~
+        names_es: ~
         population: 2286
-        slug: frejlev
       - 
-        districts: []
-        location: "POINT (57.4407300000000021 10.5366099999999996)"
+        alternate_names: 
+          - Fladstrand
+          - Frederikskhavn
+          - Фредериксхавн
+        ascii_name: Frederikshavn
         name: Frederikshavn
+        names_en: ~
+        names_es: ~
         population: 24103
-        slug: frederikshavn
       - 
-        districts: []
-        location: "POINT (57.0833299999999966 9.2666699999999995)"
+        alternate_names: 
+          - Fjerreslev
+          - Fjerritslev
+          - "Gmina Fjerritslev"
+        ascii_name: Fjerritslev
         name: Fjerritslev
+        names_en: 
+          - Fjerritslev
+        names_es: ~
         population: 3441
-        slug: fjerritslev
       - 
-        districts: []
-        location: "POINT (56.7833299999999994 9.3499999999999996)"
+        alternate_names: 
+          - Farso
+          - Farsoe
+          - Farsö
+        ascii_name: Farso
         name: Farsø
+        names_en: 
+          - Farsø
+        names_es: ~
         population: 3271
-        slug: fars
       - 
-        districts: []
-        location: "POINT (57.1499999999999986 10.3000000000000007)"
+        alternate_names: 
+          - Dronninglund
+          - "Gmina Dronninglund"
+        ascii_name: Dronninglund
         name: Dronninglund
+        names_en: 
+          - Dronninglund
+        names_es: ~
         population: 3084
-        slug: dronninglund
       - 
-        districts: []
-        location: "POINT (57.1000000000000014 9.5333299999999994)"
+        alternate_names: 
+          - Brovst
+          - "Gmina Brovst"
+        ascii_name: Brovst
         name: Brovst
+        names_en: 
+          - Brovst
+        names_es: ~
         population: 2710
-        slug: brovst
       - 
-        districts: []
-        location: "POINT (57.2702099999999987 9.9410200000000000)"
+        alternate_names: 
+          - Bronderslev
+          - Brønderslev
+        ascii_name: Bronderslev
         name: Brønderslev
+        names_en: 
+          - Brønderslev
+        names_es: ~
         population: 11671
-        slug: brnderslev
       - 
-        districts: []
-        location: "POINT (56.8039899999999989 9.5144099999999998)"
+        alternate_names: 
+          - Aars
+          - Ars
+          - "Gmina Aars"
+        ascii_name: Aars
         name: Aars
+        names_en: 
+          - Aars
+        names_es: ~
         population: 7771
-        slug: aars
       - 
-        districts: []
-        location: "POINT (56.7666699999999977 9.8833300000000008)"
+        alternate_names: 
+          - Arden
+          - "Arden Stationsby"
+        ascii_name: Arden
         name: Arden
+        names_en: ~
+        names_es: ~
         population: 2516
-        slug: arden
       - 
-        districts: []
-        location: "POINT (56.7000000000000028 9.5000000000000000)"
+        alternate_names: 
+          - Aalestrup
+          - Alestrup
+          - Ålestrup
+        ascii_name: Alestrup
         name: Ålestrup
+        names_en: ~
+        names_es: ~
         population: 2787
-        slug: alestrup
       - 
-        districts: []
-        location: "POINT (57.0480000000000018 9.9186999999999994)"
+        alternate_names: 
+          - Aalborg
+          - Alaborg
+          - Alborg
+        ascii_name: Aalborg
         name: Aalborg
+        names_en: 
+          - Aalborg
+        names_es: 
+          - Aalborg
         population: 122219
-        slug: aalborg
       - 
-        districts: []
-        location: "POINT (57.1583600000000018 9.7367200000000000)"
+        alternate_names: 
+          - Aabybro
+          - Abybro
+          - "Gmina Aabybro"
+        ascii_name: Abybro
         name: Åbybro
+        names_en: 
+          - Aabybro
+        names_es: ~
         population: 4849
-        slug: abybro
-      - 
-        districts: []
-        location: "POINT (57.2653099999999995 10.9904499999999992)"
-        name: Læsø
-        population: 2008
-        slug: ls
-    code: DK.19
     name: "North Jutland"
-    slug: north-jutland
+    names_en: 
+      - "North Jutland"
+      - "Region North Jutland"
+    names_es: ~
   - 
+    ascii_name: Zealand
     cities: 
       - 
-        districts: []
-        location: "POINT (55.0080099999999987 11.9105699999999999)"
+        alternate_names: 
+          - Vordingborg
+          - Вордингборг
+        ascii_name: Vordingborg
         name: Vordingborg
+        names_en: ~
+        names_es: ~
         population: 9131
-        slug: vordingborg
       - 
-        districts: []
-        location: "POINT (55.6666700000000034 11.7500000000000000)"
+        alternate_names: ~
+        ascii_name: Vipperod
         name: Vipperød
+        names_en: ~
+        names_es: ~
         population: 2345
-        slug: vipperd
       - 
-        districts: []
-        location: "POINT (55.6333300000000008 12.1500000000000004)"
+        alternate_names: ~
+        ascii_name: Vindinge
         name: Vindinge
+        names_en: ~
+        names_es: ~
         population: 2045
-        slug: vindinge
       - 
-        districts: []
-        location: "POINT (55.5499999999999972 12.0333299999999994)"
+        alternate_names: ~
+        ascii_name: Viby
         name: Viby
+        names_en: ~
+        names_es: ~
         population: 4505
-        slug: viby
       - 
-        districts: []
-        location: "POINT (55.6000000000000014 12.1833299999999998)"
+        alternate_names: 
+          - Tune
+        ascii_name: Tune
         name: Tune
+        names_en: ~
+        names_es: ~
         population: 5168
-        slug: tune
       - 
-        districts: []
-        location: "POINT (55.6166699999999992 11.7500000000000000)"
+        alternate_names: 
+          - Tollose
+          - "Tollose Stationsby"
+          - "Töllöse Stationsby"
+        ascii_name: Tollose
         name: Tølløse
+        names_en: ~
+        names_es: ~
         population: 3457
-        slug: tllse
       - 
-        districts: []
-        location: "POINT (55.6333300000000008 12.0166699999999995)"
+        alternate_names: ~
+        ascii_name: Svogerslev
         name: Svogerslev
+        names_en: ~
+        names_es: ~
         population: 4355
-        slug: svogerslev
       - 
-        districts: []
-        location: "POINT (55.7166700000000006 11.4666700000000006)"
+        alternate_names: ~
+        ascii_name: Svinninge
         name: Svinninge
+        names_en: ~
+        names_es: ~
         population: 2376
-        slug: svinninge
       - 
-        districts: []
-        location: "POINT (55.6499999999999986 11.3000000000000007)"
+        alternate_names: 
+          - Svebolle
+          - "Svebolle Stationsby"
+          - Svebølle
+        ascii_name: Svebolle
         name: Svebølle
+        names_en: ~
+        names_es: ~
         population: 2186
-        slug: sveblle
       - 
-        districts: []
-        location: "POINT (54.8500000000000014 11.7833299999999994)"
+        alternate_names: 
+          - Stadager
+          - Sundby
+        ascii_name: Sundby
         name: Sundby
+        names_en: ~
+        names_es: ~
         population: 2922
-        slug: sundby
       - 
-        districts: []
-        location: "POINT (54.8887500000000017 12.0410199999999996)"
+        alternate_names: 
+          - Stubbekiobing
+          - Stubbekiöbing
+          - Stubbekjobing
+        ascii_name: Stubbekobing
         name: Stubbekøbing
+        names_en: 
+          - Stubbekøbing
+        names_es: ~
         population: 2301
-        slug: stubbekbing
       - 
-        districts: []
-        location: "POINT (55.4166700000000034 12.2500000000000000)"
+        alternate_names: ~
+        ascii_name: "Stroby Egede"
         name: "Strøby Egede"
+        names_en: ~
+        names_es: ~
         population: 2700
-        slug: strby-egede
       - 
-        districts: []
-        location: "POINT (55.3096499999999978 12.3888499999999997)"
+        alternate_names: 
+          - "Store Hedinge"
+        ascii_name: "Store Heddinge"
         name: "Store Heddinge"
+        names_en: ~
+        names_es: ~
         population: 3679
-        slug: store-heddinge
       - 
-        districts: []
-        location: "POINT (55.5333299999999994 11.5999999999999996)"
+        alternate_names: ~
+        ascii_name: Stenlille
         name: Stenlille
+        names_en: ~
+        names_es: ~
         population: 1905
-        slug: stenlille
       - 
-        districts: []
-        location: "POINT (54.9833300000000023 12.3000000000000007)"
+        alternate_names: ~
+        ascii_name: Stege
         name: Stege
+        names_en: ~
+        names_es: ~
         population: 3881
-        slug: stege
       - 
-        districts: []
-        location: "POINT (55.4318400000000011 11.5554699999999997)"
+        alternate_names: ~
+        ascii_name: Soro
         name: Sorø
+        names_en: ~
+        names_es: ~
         population: 7167
-        slug: sor
       - 
-        districts: []
-        location: "POINT (55.5362799999999979 12.1827000000000005)"
+        alternate_names: ~
+        ascii_name: Solrod
         name: Solrød
+        names_en: ~
+        names_es: ~
         population: 2000
-        slug: solrd
       - 
-        districts: []
-        location: "POINT (55.4027600000000007 11.3545900000000000)"
+        alternate_names: 
+          - Slagel'se
+          - Slagelse
+          - Слагельсе
+        ascii_name: Slagelse
         name: Slagelse
+        names_en: 
+          - Slagelse
+        names_es: ~
         population: 31896
-        slug: slagelse
       - 
-        districts: []
-        location: "POINT (55.2500000000000000 11.3166700000000002)"
+        alternate_names: 
+          - Skaelskor
+          - Skjelskor
+          - Skjelskör
+        ascii_name: Skaelskor
         name: Skælskør
+        names_en: ~
+        names_es: ~
         population: 6455
-        slug: sklskr
       - 
-        districts: []
-        location: "POINT (54.7999999999999972 11.6500000000000004)"
+        alternate_names: 
+          - "Gmina Sakskobing"
+          - "Gmina Sakskøbing"
+          - Sakskobing
+        ascii_name: Sakskobing
         name: Sakskøbing
+        names_en: 
+          - Sakskøbing
+        names_es: ~
         population: 4928
-        slug: sakskbing
       - 
-        districts: []
-        location: "POINT (55.6415199999999999 12.0803499999999993)"
+        alternate_names: 
+          - Hroarskelda
+          - Hróarskelda
+          - Roskilde
+        ascii_name: Roskilde
         name: Roskilde
+        names_en: 
+          - Roskilde
+        names_es: 
+          - Roskilde
         population: 44285
-        slug: roskilde
       - 
-        districts: []
-        location: "POINT (55.2500000000000000 12.0000000000000000)"
+        alternate_names: 
+          - "Gmina Ronnede"
+          - "Gmina Rønnede"
+          - Ronnede
+        ascii_name: Ronnede
         name: Rønnede
+        names_en: 
+          - Rønnede
+        names_es: ~
         population: 2395
-        slug: rnnede
       - 
-        districts: []
-        location: "POINT (54.6499999999999986 11.3499999999999996)"
+        alternate_names: 
+          - "Rodby Havn"
+          - Rodbyhavn
+          - Roedby-havn
+        ascii_name: Rodbyhavn
         name: Rødbyhavn
+        names_en: ~
+        names_es: ~
         population: 2145
-        slug: rdbyhavn
       - 
-        districts: []
-        location: "POINT (54.7000000000000028 11.4000000000000004)"
+        alternate_names: 
+          - "Gmina Rodby"
+          - "Gmina Rødby"
+          - Rodby
+        ascii_name: Rodby
         name: Rødby
+        names_en: 
+          - Rødby
+        names_es: ~
         population: 2379
-        slug: rdby
       - 
-        districts: []
-        location: "POINT (55.4425999999999988 11.7901100000000003)"
+        alternate_names: 
+          - Ringsted
+          - Рингстед
+        ascii_name: Ringsted
         name: Ringsted
+        names_en: 
+          - Ringsted
+        names_es: ~
         population: 20188
-        slug: ringsted
       - 
-        districts: []
-        location: "POINT (55.1166699999999992 12.0500000000000007)"
+        alternate_names: 
+          - "Gmina Praesto"
+          - "Gmina Præstø"
+          - Praesto
+        ascii_name: Praesto
         name: Præstø
+        names_en: 
+          - Præstø
+        names_es: ~
         population: 3695
-        slug: prst
       - 
-        districts: []
-        location: "POINT (55.5666700000000020 11.9666700000000006)"
+        alternate_names: 
+          - Osted
+          - Ousted
+        ascii_name: Osted
         name: Osted
+        names_en: ~
+        names_es: ~
         population: 2122
-        slug: osted
       - 
-        districts: []
-        location: "POINT (55.0333299999999994 11.9833300000000005)"
+        alternate_names: ~
+        ascii_name: Orslev
         name: Ørslev
+        names_en: ~
+        names_es: ~
         population: 1801
-        slug: rslev
       - 
-        districts: []
-        location: "POINT (55.0000000000000000 11.9833300000000005)"
+        alternate_names: 
+          - Nyraad
+          - Nyrad
+          - Nyråd
+        ascii_name: Nyrad
         name: Nyråd
+        names_en: ~
+        names_es: ~
         population: 2224
-        slug: nyrad
       - 
-        districts: []
-        location: "POINT (54.7690600000000032 11.8742500000000000)"
+        alternate_names: 
+          - Nykjobing
+        ascii_name: "Nykobing Falster"
         name: "Nykøbing Falster"
+        names_en: ~
+        names_es: ~
         population: 16807
-        slug: nykbing-falster
       - 
-        districts: []
-        location: "POINT (55.9249099999999970 11.6710899999999995)"
+        alternate_names: 
+          - Nykiobing
+          - Nykiöbing
+          - Nykjobing
+        ascii_name: "Nykobing Sjaelland"
         name: "Nykøbing Sjælland"
+        names_en: ~
+        names_es: ~
         population: 5596
-        slug: nykbing-sjlland
       - 
-        districts: []
-        location: "POINT (55.2299199999999999 11.7609200000000005)"
+        alternate_names: 
+          - Nestved
+          - Нествед
+        ascii_name: Naestved
         name: Næstved
+        names_en: ~
+        names_es: ~
         population: 40660
-        slug: nstved
       - 
-        districts: []
-        location: "POINT (55.6000000000000014 11.8666699999999992)"
+        alternate_names: ~
+        ascii_name: "Norre Hvalso"
         name: "Nørre Hvalsø"
+        names_en: ~
+        names_es: ~
         population: 3930
-        slug: nrre-hvals
       - 
-        districts: []
-        location: "POINT (54.8999999999999986 11.9000000000000004)"
+        alternate_names: 
+          - "Gmina Norre Alslev"
+          - "Gmina Nørre Alslev"
+          - "Norre Alslev"
+        ascii_name: "Norre Alslev"
         name: "Nørre Alslev"
+        names_en: 
+          - "Nørre Alslev"
+        names_es: ~
         population: 2128
-        slug: nrre-alslev
       - 
-        districts: []
-        location: "POINT (55.0333299999999994 11.8833300000000008)"
+        alternate_names: ~
+        ascii_name: "Neder Vindinge"
         name: "Neder Vindinge"
+        names_en: ~
+        names_es: ~
         population: 1900
-        slug: neder-vindinge
       - 
-        districts: []
-        location: "POINT (54.8333299999999966 11.1500000000000004)"
+        alternate_names: 
+          - Nakskov
+          - Naskov
+          - Наксков
+        ascii_name: Nakskov
         name: Nakskov
+        names_en: 
+          - Nakskov
+        names_es: ~
         population: 14081
-        slug: nakskov
       - 
-        districts: []
-        location: "POINT (54.7766200000000012 11.5001700000000007)"
+        alternate_names: 
+          - Maribo
+          - Марибо
+        ascii_name: Maribo
         name: Maribo
+        names_en: 
+          - Maribo
+        names_es: ~
         population: 5349
-        slug: maribo
       - 
-        districts: []
-        location: "POINT (55.6046100000000010 11.9747699999999995)"
+        alternate_names: ~
+        ascii_name: Lejre
         name: Lejre
+        names_en: ~
+        names_es: ~
         population: 2036
-        slug: lejre
       - 
-        districts: []
-        location: "POINT (55.3299299999999974 11.1385699999999996)"
+        alternate_names: 
+          - Korsor
+          - Korsør
+        ascii_name: Korsor
         name: Korsør
+        names_en: 
+          - Korsør
+        names_es: ~
         population: 15029
-        slug: korsr
       - 
-        districts: []
-        location: "POINT (55.4580199999999977 12.1821400000000004)"
+        alternate_names: 
+          - Kege
+          - Kjoge
+          - Koge
+        ascii_name: Koge
         name: Køge
+        names_en: 
+          - Køge
+        names_es: ~
         population: 33885
-        slug: kge
       - 
-        districts: []
-        location: "POINT (55.6795400000000029 11.0886399999999998)"
+        alternate_names: 
+          - Kallundborg
+          - Kalundborg
+        ascii_name: Kalundborg
         name: Kalundborg
+        names_en: 
+          - Kalundborg
+        names_es: ~
         population: 15939
-        slug: kalundborg
       - 
-        districts: []
-        location: "POINT (55.7500000000000000 12.1166699999999992)"
+        alternate_names: 
+          - Jyllinge
+        ascii_name: Jyllinge
         name: Jyllinge
+        names_en: ~
+        names_es: ~
         population: 9981
-        slug: jyllinge
       - 
-        districts: []
-        location: "POINT (55.6666700000000034 11.4333299999999998)"
+        alternate_names: ~
+        ascii_name: Jyderup
         name: Jyderup
+        names_en: ~
+        names_es: ~
         population: 3984
-        slug: jyderup
       - 
-        districts: []
-        location: "POINT (55.7500000000000000 11.4666700000000006)"
+        alternate_names: 
+          - Horv
+          - Horve
+          - Hørv
+        ascii_name: Horve
         name: Hørve
+        names_en: ~
+        names_es: ~
         population: 2382
-        slug: hrve
       - 
-        districts: []
-        location: "POINT (55.5116500000000030 11.2903199999999995)"
+        alternate_names: 
+          - "Gmina Hong"
+          - "Gmina Høng"
+          - Hong
+        ascii_name: Hong
         name: Høng
+        names_en: 
+          - Høng
+        names_es: ~
         population: 3789
-        slug: hng
       - 
-        districts: []
-        location: "POINT (54.7166700000000006 11.4666700000000006)"
+        alternate_names: 
+          - "Gmina Holeby"
+          - Holeby
+        ascii_name: Holeby
         name: Holeby
+        names_en: 
+          - Holeby
+        names_es: ~
         population: 1844
-        slug: holeby
       - 
-        districts: []
-        location: "POINT (55.7166700000000006 11.7166700000000006)"
+        alternate_names: 
+          - Holbaek
+          - Holbæk
+          - Hollbaek
+        ascii_name: Holbaek
         name: Holbæk
+        names_en: ~
+        names_es: ~
         population: 24544
-        slug: holbk
       - 
-        districts: []
-        location: "POINT (55.5333299999999994 12.1333300000000008)"
+        alternate_names: ~
+        ascii_name: Havdrup
         name: Havdrup
+        names_en: ~
+        names_es: ~
         population: 3828
-        slug: havdrup
       - 
-        districts: []
-        location: "POINT (55.3234599999999972 11.9638899999999992)"
+        alternate_names: 
+          - Khaslev
+          - Хаслев
+        ascii_name: Haslev
         name: Haslev
+        names_en: ~
+        names_es: ~
         population: 10588
-        slug: haslev
       - 
-        districts: []
-        location: "POINT (55.3500000000000014 12.2500000000000000)"
+        alternate_names: 
+          - Haarlev
+          - Harlev
+          - Hårlev
+        ascii_name: Harlev
         name: Hårlev
+        names_en: ~
+        names_es: ~
         population: 2423
-        slug: harlev
       - 
-        districts: []
-        location: "POINT (55.7333300000000023 12.1666699999999999)"
+        alternate_names: ~
+        ascii_name: Gundsomagle
         name: Gundsømagle
+        names_en: ~
+        names_es: ~
         population: 2149
-        slug: gundsmagle
       - 
-        districts: []
-        location: "POINT (55.5833299999999966 12.3000000000000007)"
+        alternate_names: ~
+        ascii_name: Greve
         name: Greve
+        names_en: ~
+        names_es: ~
         population: 47671
-        slug: greve
       - 
-        districts: []
-        location: "POINT (55.5392599999999987 11.2270800000000008)"
+        alternate_names: 
+          - Giorley
+          - Gjorlev
+          - Gjörlev
+        ascii_name: Gorlev
         name: Gørlev
+        names_en: 
+          - Gørlev
+        names_es: ~
         population: 2269
-        slug: grlev
       - 
-        districts: []
-        location: "POINT (55.3060400000000030 11.5476600000000005)"
+        alternate_names: 
+          - Fuglebaerg
+          - Fuglebjerg
+          - Fuglebærg
+        ascii_name: Fuglebjerg
         name: Fuglebjerg
+        names_en: 
+          - Fuglebjerg
+        names_es: ~
         population: 1985
-        slug: fuglebjerg
       - 
-        districts: []
-        location: "POINT (55.4166700000000034 11.5666700000000002)"
+        alternate_names: ~
+        ascii_name: Frederiksberg
         name: Frederiksberg
+        names_en: ~
+        names_es: ~
         population: 3142
-        slug: frederiksberg
       - 
-        districts: []
-        location: "POINT (55.3833300000000008 11.2833299999999994)"
+        alternate_names: ~
+        ascii_name: Forlev
         name: Forlev
+        names_en: ~
+        names_es: ~
         population: 2058
-        slug: forlev
       - 
-        districts: []
-        location: "POINT (55.2791899999999998 11.8038200000000000)"
+        alternate_names: ~
+        ascii_name: Fensmark
         name: Fensmark
+        names_en: ~
+        names_es: ~
         population: 4203
-        slug: fensmark
       - 
-        districts: []
-        location: "POINT (55.2166700000000006 12.1833299999999998)"
+        alternate_names: 
+          - "Fakse Ladeplads"
+          - "Faxe Havn"
+        ascii_name: "Fakse Ladeplads"
         name: "Fakse Ladeplads"
+        names_en: ~
+        names_es: ~
         population: 2837
-        slug: fakse-ladeplads
       - 
-        districts: []
-        location: "POINT (55.2500000000000000 12.1333300000000008)"
+        alternate_names: 
+          - Fakse
+          - Faxe
+          - "Gmina Fakse"
+        ascii_name: Fakse
         name: Fakse
+        names_en: 
+          - Fakse
+        names_es: ~
         population: 3747
-        slug: fakse
       - 
-        districts: []
-        location: "POINT (55.6833299999999980 11.8666699999999992)"
+        alternate_names: ~
+        ascii_name: Ejby
         name: Ejby
+        names_en: ~
+        names_es: ~
         population: 1987
-        slug: ejby
       - 
-        districts: []
-        location: "POINT (55.4833300000000023 12.0833300000000001)"
+        alternate_names: ~
+        ascii_name: Ejby
         name: Ejby
+        names_en: ~
+        names_es: ~
         population: 2692
-        slug: ejby
       - 
-        districts: []
-        location: "POINT (55.5333299999999994 11.5000000000000000)"
+        alternate_names: ~
+        ascii_name: Dianalund
         name: Dianalund
+        names_en: ~
+        names_es: ~
         population: 3605
-        slug: dianalund
       - 
-        districts: []
-        location: "POINT (55.5000000000000000 11.9833300000000005)"
+        alternate_names: ~
+        ascii_name: Borup
         name: Borup
+        names_en: ~
+        names_es: ~
         population: 3120
-        slug: borup
       - 
-        districts: []
-        location: "POINT (55.4500000000000028 12.0333299999999994)"
+        alternate_names: 
+          - Bjaeverskov
+          - Bjeverskov
+          - Bjæverskov
+        ascii_name: Bjaeverskov
         name: Bjæverskov
+        names_en: ~
+        names_es: ~
         population: 2618
-        slug: bjverskov
       - 
-        districts: []
-        location: "POINT (55.8166700000000020 11.5166699999999995)"
+        alternate_names: ~
+        ascii_name: Asnaes
         name: Asnæs
+        names_en: ~
+        names_es: ~
         population: 2441
-        slug: asns
-    code: DK.20
     name: Zealand
-    slug: zealand
+    names_en: 
+      - Zealand
+      - "Region Zealand"
+    names_es: ~
   - 
+    ascii_name: "South Denmark"
     cities: 
       - 
-        districts: []
-        location: "POINT (55.2500000000000000 9.3166700000000002)"
+        alternate_names: 
+          - Vojens
+        ascii_name: Vojens
         name: Vojens
+        names_en: 
+          - Vojens
+        names_es: ~
         population: 8019
-        slug: vojens
       - 
-        districts: []
-        location: "POINT (55.3833300000000008 10.1333300000000008)"
+        alternate_names: 
+          - Vissenbjerg
+          - "Vissenbjerg Kirke"
+        ascii_name: Vissenbjerg
         name: Vissenbjerg
+        names_en: 
+          - Vissenbjerg
+        names_es: ~
         population: 3055
-        slug: vissenbjerg
       - 
-        districts: []
-        location: "POINT (55.0499999999999972 10.6333300000000008)"
+        alternate_names: ~
+        ascii_name: Vindeby
         name: Vindeby
+        names_en: ~
+        names_es: ~
         population: 2144
-        slug: vindeby
       - 
-        districts: []
-        location: "POINT (55.7092699999999965 9.5357000000000003)"
+        alternate_names: 
+          - Vajle
+          - Vejle
+          - Вайле
+        ascii_name: Vejle
         name: Vejle
+        names_en: 
+          - Vejle
+        names_es: ~
         population: 51177
-        slug: vejle
       - 
-        districts: []
-        location: "POINT (55.4833300000000023 9.1500000000000004)"
+        alternate_names: 
+          - Vejen
+        ascii_name: Vejen
         name: Vejen
+        names_en: 
+          - Vejen
+        names_es: ~
         population: 8525
-        slug: vejen
       - 
-        districts: []
-        location: "POINT (55.6211199999999977 8.4806899999999992)"
+        alternate_names: 
+          - Varde
+          - Варде
+        ascii_name: Varde
         name: Varde
+        names_en: 
+          - Varde
+        names_es: ~
         population: 12735
-        slug: varde
       - 
-        districts: []
-        location: "POINT (55.4166700000000034 9.2833299999999994)"
+        alternate_names: 
+          - Vamdrup
+        ascii_name: Vamdrup
         name: Vamdrup
+        names_en: ~
+        names_es: ~
         population: 4685
-        slug: vamdrup
       - 
-        districts: []
-        location: "POINT (55.3666699999999992 10.6666699999999999)"
+        alternate_names: ~
+        ascii_name: Ullerslev
         name: Ullerslev
+        names_en: ~
+        names_es: ~
         population: 2962
-        slug: ullerslev
       - 
-        districts: []
-        location: "POINT (54.9330599999999976 8.8667400000000001)"
+        alternate_names: 
+          - Tonder
+          - Tondern
+          - Tuner
+        ascii_name: Tonder
         name: Tønder
+        names_en: 
+          - Tønder
+        names_es: ~
         population: 7841
-        slug: tnder
       - 
-        districts: []
-        location: "POINT (55.3166700000000020 10.2166700000000006)"
+        alternate_names: ~
+        ascii_name: Tommerup
         name: Tommerup
+        names_en: ~
+        names_es: ~
         population: 2072
-        slug: tommerup
       - 
-        districts: []
-        location: "POINT (55.1833299999999980 9.0666700000000002)"
+        alternate_names: ~
+        ascii_name: Toftlund
         name: Toftlund
+        names_en: ~
+        names_es: ~
         population: 3438
-        slug: toftlund
       - 
-        districts: []
-        location: "POINT (55.4666700000000006 8.5833300000000001)"
+        alternate_names: ~
+        ascii_name: Tjaereborg
         name: Tjæreborg
+        names_en: ~
+        names_es: ~
         population: 2146
-        slug: tjreborg
       - 
-        districts: []
-        location: "POINT (54.9333299999999980 9.2500000000000000)"
+        alternate_names: 
+          - Tinglev
+        ascii_name: Tinglev
         name: Tinglev
+        names_en: 
+          - Tinglev
+        names_es: ~
         population: 2829
-        slug: tinglev
       - 
-        districts: []
-        location: "POINT (55.0499999999999972 10.6666699999999999)"
+        alternate_names: 
+          - Thuro
+          - "Thuro By"
+          - Thurø
+        ascii_name: "Thuro By"
         name: "Thurø By"
+        names_en: ~
+        names_es: ~
         population: 3350
-        slug: thur-by
       - 
-        districts: []
-        location: "POINT (55.5458199999999991 9.6155299999999997)"
+        alternate_names: 
+          - Tavlov
+          - "Tavlov Nebel"
+        ascii_name: Taulov
         name: Taulov
+        names_en: ~
+        names_es: ~
         population: 2898
-        slug: taulov
       - 
-        districts: []
-        location: "POINT (55.0598200000000020 10.6067699999999991)"
+        alternate_names: 
+          - Svenborg
+          - Svendborg
+          - Svennborge
+        ascii_name: Svendborg
         name: Svendborg
+        names_en: 
+          - Svendborg
+        names_es: ~
         population: 27553
-        slug: svendborg
       - 
-        districts: []
-        location: "POINT (55.5333299999999994 9.7833299999999994)"
+        alternate_names: 
+          - Strib
+          - Стриб
+        ascii_name: Strib
         name: Strib
+        names_en: ~
+        names_es: ~
         population: 4339
-        slug: strib
       - 
-        districts: []
-        location: "POINT (55.4333299999999980 10.4166699999999999)"
+        alternate_names: ~
+        ascii_name: Stige
         name: Stige
+        names_en: ~
+        names_es: ~
         population: 2182
-        slug: stige
       - 
-        districts: []
-        location: "POINT (55.2333300000000023 9.5333299999999994)"
+        alternate_names: ~
+        ascii_name: Starup
         name: Starup
+        names_en: ~
+        names_es: ~
         population: 2091
-        slug: starup
       - 
-        districts: []
-        location: "POINT (55.4833300000000023 10.2666699999999995)"
+        alternate_names: 
+          - Sonderse
+          - Sonderso
+          - Sönderse
+        ascii_name: Sonderso
         name: Søndersø
+        names_en: ~
+        names_es: ~
         population: 2850
-        slug: snders
       - 
-        districts: []
-        location: "POINT (54.9092600000000033 9.8073700000000006)"
+        alternate_names: 
+          - Sjonnenborg
+          - Sonderborg
+          - Sonderburg
+        ascii_name: Sonderborg
         name: Sønderborg
+        names_en: 
+          - Sønderborg
+        names_es: ~
         population: 27033
-        slug: snderborg
       - 
-        districts: []
-        location: "POINT (55.4500000000000028 9.5666700000000002)"
+        alternate_names: 
+          - Bjaert
+          - Bjært
+          - "Sonder Bjert"
+        ascii_name: "Sonder Bjert"
         name: "Sønder Bjert"
+        names_en: ~
+        names_es: ~
         population: 1815
-        slug: snder-bjert
       - 
-        districts: []
-        location: "POINT (55.5166699999999977 9.7166700000000006)"
+        alternate_names: 
+          - Snoghoj
+          - Snoghøj
+        ascii_name: Snoghoj
         name: Snoghøj
+        names_en: ~
+        names_es: ~
         population: 2371
-        slug: snoghj
       - 
-        districts: []
-        location: "POINT (55.1499999999999986 8.7666699999999995)"
-        name: Skærbæk
+        alternate_names: 
+          - Sherrebek
+          - Skaerbaek
+          - Skærbæk
+        ascii_name: Sherrebek
+        name: Sherrebek
+        names_en: ~
+        names_es: ~
         population: 3174
-        slug: skrbk
       - 
-        districts: []
-        location: "POINT (55.4166700000000034 10.4499999999999993)"
+        alternate_names: ~
+        ascii_name: Seden
         name: Seden
+        names_en: ~
+        names_es: ~
         population: 3350
-        slug: seden
       - 
-        districts: []
-        location: "POINT (54.9363900000000029 10.7101900000000008)"
+        alternate_names: 
+          - Rudkiobing
+          - Rudkjobing
+          - Rudkjöbing
+        ascii_name: Rudkobing
         name: Rudkøbing
+        names_en: 
+          - Rudkøbing
+        names_es: ~
         population: 4666
-        slug: rudkbing
       - 
-        districts: []
-        location: "POINT (55.0666700000000020 9.3499999999999996)"
+        alternate_names: 
+          - "Gmina Rodekro"
+          - "Gmina Rødekro"
+          - Rodekro
+        ascii_name: Rodekro
         name: Rødekro
+        names_en: 
+          - Rødekro
+        names_es: ~
         population: 5452
-        slug: rdekro
       - 
-        districts: []
-        location: "POINT (55.3666699999999992 9.0666700000000002)"
+        alternate_names: ~
+        ascii_name: Rodding
         name: Rødding
+        names_en: ~
+        names_es: ~
         population: 2769
-        slug: rdding
       - 
-        districts: []
-        location: "POINT (55.2333300000000023 10.4833300000000005)"
+        alternate_names: ~
+        ascii_name: Ringe
         name: Ringe
+        names_en: ~
+        names_es: ~
         population: 4849
-        slug: ringe
       - 
-        districts: []
-        location: "POINT (55.3305099999999968 8.7696600000000000)"
+        alternate_names: 
+          - Ribe
+          - Рибе
+        ascii_name: Ribe
         name: Ribe
+        names_en: 
+          - Ribe
+        names_es: 
+          - Ribe
         population: 7983
-        slug: ribe
       - 
-        districts: []
-        location: "POINT (54.8166700000000020 9.3666699999999992)"
+        alternate_names: 
+          - Padborg
+          - Падборг
+        ascii_name: Padborg
         name: Padborg
+        names_en: ~
+        names_es: ~
         population: 4684
-        slug: padborg
       - 
-        districts: []
-        location: "POINT (55.5166699999999977 10.4000000000000004)"
+        alternate_names: 
+          - Otterup
+        ascii_name: Otterup
         name: Otterup
+        names_en: ~
+        names_es: ~
         population: 4522
-        slug: otterup
       - 
-        districts: []
-        location: "POINT (55.8166700000000020 8.6166699999999992)"
+        alternate_names: 
+          - "Gmina Olgod"
+          - "Gmina Ølgod"
+          - OElgod
+        ascii_name: Olgod
         name: Ølgod
+        names_en: 
+          - Ølgod
+        names_es: ~
         population: 3891
-        slug: lgod
       - 
-        districts: []
-        location: "POINT (55.6333300000000008 8.2833299999999994)"
+        alternate_names: 
+          - Oksbol
+          - Oksbøl
+          - Oxbol
+        ascii_name: Oksbol
         name: Oksbøl
+        names_en: ~
+        names_es: ~
         population: 2845
-        slug: oksbl
       - 
-        districts: []
-        location: "POINT (55.3959400000000031 10.3883100000000006)"
+        alternate_names: 
+          - Odense
+          - Odenze
+          - awdnsh
+        ascii_name: Odense
         name: Odense
+        names_en: 
+          - Odense
+        names_es: 
+          - Odense
         population: 145931
-        slug: odense
       - 
-        districts: []
-        location: "POINT (55.3127399999999980 10.7896400000000003)"
+        alternate_names: 
+          - Nyborg
+        ascii_name: Nyborg
         name: Nyborg
+        names_en: 
+          - Nyborg
+        names_es: ~
         population: 15826
-        slug: nyborg
       - 
-        districts: []
-        location: "POINT (55.4500000000000028 8.4166699999999999)"
+        alternate_names: 
+          - Nordby
+          - Odden
+        ascii_name: Nordby
         name: Nordby
+        names_en: ~
+        names_es: ~
         population: 2512
-        slug: nordby
       - 
-        districts: []
-        location: "POINT (55.0499999999999972 9.7500000000000000)"
+        alternate_names: 
+          - "Gmina Nordborg"
+          - Nordborg
+          - Nordburg
+        ascii_name: Nordborg
         name: Nordborg
+        names_en: 
+          - Nordborg
+        names_es: ~
         population: 7406
-        slug: nordborg
       - 
-        districts: []
-        location: "POINT (55.4500000000000028 9.9000000000000004)"
+        alternate_names: 
+          - "Norre Aaby"
+          - "Norre Aby"
+          - "Nørre Aaby"
+        ascii_name: "Norre Aby"
         name: "Nørre Åby"
+        names_en: ~
+        names_es: ~
         population: 2678
-        slug: nrre-aby
       - 
-        districts: []
-        location: "POINT (55.3500000000000014 10.4499999999999993)"
+        alternate_names: ~
+        ascii_name: "Neder Holluf"
         name: "Neder Holluf"
+        names_en: ~
+        names_es: ~
         population: 5612
-        slug: neder-holluf
       - 
-        districts: []
-        location: "POINT (55.4500000000000028 10.5666700000000002)"
+        alternate_names: 
+          - Munkebo
+        ascii_name: Munkebo
         name: Munkebo
+        names_en: ~
+        names_es: ~
         population: 5225
-        slug: munkebo
       - 
-        districts: []
-        location: "POINT (55.5059100000000001 9.7305399999999995)"
+        alternate_names: 
+          - Middel'fart
+          - Миддельфарт
+        ascii_name: Middelfart
         name: Middelfart
+        names_en: ~
+        names_es: ~
         population: 13596
-        slug: middelfart
       - 
-        districts: []
-        location: "POINT (54.8500000000000014 10.5166699999999995)"
+        alternate_names: 
+          - Marstal
+          - Marstal'
+          - Марсталь
+        ascii_name: Marstal
         name: Marstal
+        names_en: ~
+        names_es: ~
         population: 2265
-        slug: marstal
       - 
-        districts: []
-        location: "POINT (55.4833300000000023 9.3000000000000007)"
+        alternate_names: ~
+        ascii_name: Lunderskov
         name: Lunderskov
+        names_en: ~
+        names_es: ~
         population: 2687
-        slug: lunderskov
       - 
-        districts: []
-        location: "POINT (55.0833299999999966 9.4666700000000006)"
+        alternate_names: 
+          - Loitkirkeby
+          - Lojt
+          - "Lojt Kirkeby"
+        ascii_name: "Lojt Kirkeby"
         name: "Løjt Kirkeby"
+        names_en: ~
+        names_es: ~
         population: 1975
-        slug: ljt-kirkeby
       - 
-        districts: []
-        location: "POINT (55.0499999999999972 8.9499999999999993)"
+        alternate_names: 
+          - "Gmina Logumkloster"
+          - "Gmina Løgumkloster"
+          - Loegumkloster
+        ascii_name: Logumkloster
         name: Løgumkloster
+        names_en: 
+          - Løgumkloster
+        names_es: ~
         population: 3056
-        slug: lgumkloster
       - 
-        districts: []
-        location: "POINT (55.3666699999999992 10.5999999999999996)"
+        alternate_names: 
+          - Langeskov
+        ascii_name: Langeskov
         name: Langeskov
+        names_en: ~
+        names_es: ~
         population: 3713
-        slug: langeskov
       - 
-        districts: []
-        location: "POINT (54.8500000000000014 9.4166699999999999)"
+        alternate_names: 
+          - Krusa
+          - Krusaa
+          - Kruså
+        ascii_name: Krusa
         name: Kruså
+        names_en: ~
+        names_es: ~
         population: 1694
-        slug: krusa
       - 
-        districts: []
-        location: "POINT (55.4904000000000011 9.4721600000000006)"
+        alternate_names: 
+          - Kolding
+          - Koldingo
+          - Kolinga
+        ascii_name: Kolding
         name: Kolding
+        names_en: 
+          - Kolding
+        names_es: ~
         population: 55363
-        slug: kolding
       - 
-        districts: []
-        location: "POINT (55.4490300000000005 10.6576900000000006)"
+        alternate_names: 
+          - Kierteminde
+          - Kjerteminde
+        ascii_name: Kerteminde
         name: Kerteminde
+        names_en: ~
+        names_es: ~
         population: 5748
-        slug: kerteminde
       - 
-        districts: []
-        location: "POINT (55.7500000000000000 9.4333299999999998)"
+        alternate_names: 
+          - Elling
+          - Gravhoegarna
+          - Gravhögarna
+        ascii_name: Jelling
         name: Jelling
+        names_en: 
+          - Jelling
+        names_es: ~
         population: 3059
-        slug: jelling
       - 
-        districts: []
-        location: "POINT (54.9166700000000034 9.9000000000000004)"
+        alternate_names: ~
+        ascii_name: Horuphav
         name: Høruphav
+        names_en: ~
+        names_es: ~
         population: 2514
-        slug: hruphav
       - 
-        districts: []
-        location: "POINT (55.3333299999999966 10.4499999999999993)"
+        alternate_names: ~
+        ascii_name: Hojby
         name: Højby
+        names_en: ~
+        names_es: ~
         population: 4406
-        slug: hjby
       - 
-        districts: []
-        location: "POINT (55.5000000000000000 8.9166699999999999)"
+        alternate_names: ~
+        ascii_name: Holsted
         name: Holsted
+        names_en: ~
+        names_es: ~
         population: 3096
-        slug: holsted
       - 
-        districts: []
-        location: "POINT (55.2166700000000006 10.1166699999999992)"
+        alternate_names: 
+          - Haarby
+          - Harby
+          - Hårby
+        ascii_name: Harby
         name: Hårby
+        names_en: ~
+        names_es: ~
         population: 2400
-        slug: harby
       - 
-        districts: []
-        location: "POINT (55.2537700000000029 9.4898199999999999)"
+        alternate_names: 
+          - Hadersleben
+          - Haderslev
+          - Haderslevo
+        ascii_name: Haderslev
         name: Haderslev
+        names_en: 
+          - Haderslev
+        names_es: ~
         population: 20825
-        slug: haderslev
       - 
-        districts: []
-        location: "POINT (54.9833300000000023 9.8833300000000008)"
+        alternate_names: ~
+        ascii_name: Guderup
         name: Guderup
+        names_en: ~
+        names_es: ~
         population: 2424
-        slug: guderup
       - 
-        districts: []
-        location: "POINT (55.7500000000000000 8.9333299999999998)"
+        alternate_names: ~
+        ascii_name: Grindsted
         name: Grindsted
+        names_en: ~
+        names_es: ~
         population: 9414
-        slug: grindsted
       - 
-        districts: []
-        location: "POINT (54.9166700000000034 9.5999999999999996)"
+        alternate_names: 
+          - "Gmina Grasten"
+          - "Gmina Gråsten"
+          - Graasten
+        ascii_name: Grasten
         name: Gråsten
+        names_en: 
+          - Gråsten
+        names_es: ~
         population: 4022
-        slug: grasten
       - 
-        districts: []
-        location: "POINT (55.2894799999999975 9.0491299999999999)"
+        alternate_names: ~
+        ascii_name: Gram
         name: Gram
+        names_en: ~
+        names_es: ~
         population: 2548
-        slug: gram
       - 
-        districts: []
-        location: "POINT (55.2666699999999977 10.1166699999999992)"
+        alternate_names: 
+          - Glamsbjaerg
+          - Glamsbjerg
+          - Glamsbjærg
+        ascii_name: Glamsbjerg
         name: Glamsbjerg
+        names_en: 
+          - Glamsbjerg
+        names_es: ~
         population: 3099
-        slug: glamsbjerg
       - 
-        districts: []
-        location: "POINT (55.8500000000000014 9.2500000000000000)"
+        alternate_names: 
+          - Give
+        ascii_name: Give
         name: Give
+        names_en: ~
+        names_es: ~
         population: 4240
-        slug: give
       - 
-        districts: []
-        location: "POINT (55.5656800000000004 9.7525700000000004)"
+        alternate_names: 
+          - Fredericia
+          - Frederisija
+          - Фредерисия
+        ascii_name: Fredericia
         name: Fredericia
+        names_en: 
+          - Fredericia
+        names_es: ~
         population: 36946
-        slug: fredericia
       - 
-        districts: []
-        location: "POINT (55.0951000000000022 10.2422599999999999)"
+        alternate_names: 
+          - Fabberg
+          - Faborg
+          - Fåborg
+        ascii_name: Faaborg
         name: Faaborg
+        names_en: ~
+        names_es: ~
         population: 7239
-        slug: faaborg
       - 
-        districts: []
-        location: "POINT (55.4666700000000006 8.4499999999999993)"
+        alternate_names: 
+          - Ehsberg
+          - Esbjaerg
+          - Esbjerg
+        ascii_name: Esbjerg
         name: Esbjerg
+        names_en: 
+          - Esbjerg
+        names_es: ~
         population: 72205
-        slug: esbjerg
       - 
-        districts: []
-        location: "POINT (55.4333299999999980 9.9499999999999993)"
+        alternate_names: 
+          - Egby
+          - Ejby
+          - "Gammel Ejby"
+        ascii_name: Ejby
         name: Ejby
+        names_en: ~
+        names_es: ~
         population: 1996
-        slug: ejby
       - 
-        districts: []
-        location: "POINT (55.6166699999999992 9.3000000000000007)"
+        alternate_names: 
+          - Egtved
+          - "Gmina Egtved"
+        ascii_name: Egtved
         name: Egtved
+        names_en: 
+          - Egtved
+        names_es: ~
         population: 2151
-        slug: egtved
       - 
-        districts: []
-        location: "POINT (54.9166700000000034 9.7500000000000000)"
+        alternate_names: ~
+        ascii_name: Dybbol
         name: Dybbøl
+        names_en: ~
+        names_es: ~
         population: 2303
-        slug: dybbl
       - 
-        districts: []
-        location: "POINT (55.3500000000000014 9.4833300000000005)"
+        alternate_names: 
+          - Christiansfeld
+          - "Gmina Christiansfeld"
+        ascii_name: Christiansfeld
         name: Christiansfeld
+        names_en: 
+          - Christiansfeld
+        names_es: ~
         population: 2709
-        slug: christiansfeld
       - 
-        districts: []
-        location: "POINT (55.4333299999999980 10.4833300000000005)"
+        alternate_names: ~
+        ascii_name: Bullerup
         name: Bullerup
+        names_en: ~
+        names_es: ~
         population: 2982
-        slug: bullerup
       - 
-        districts: []
-        location: "POINT (55.4833300000000023 9.0166699999999995)"
+        alternate_names: ~
+        ascii_name: Brorup
         name: Brørup
+        names_en: ~
+        names_es: ~
         population: 4233
-        slug: brrup
       - 
-        districts: []
-        location: "POINT (54.8833300000000008 9.6833299999999998)"
+        alternate_names: 
+          - Broacker
+          - Broager
+          - "Broager Sogn"
+        ascii_name: Broager
         name: Broager
+        names_en: 
+          - Broager
+        names_es: ~
         population: 3376
-        slug: broager
       - 
-        districts: []
-        location: "POINT (55.6666700000000034 9.6833299999999998)"
+        alternate_names: 
+          - Bregning
+          - Brejning
+        ascii_name: Brejning
         name: Brejning
+        names_en: ~
+        names_es: ~
         population: 2220
-        slug: brejning
       - 
-        districts: []
-        location: "POINT (55.4666700000000006 8.6999999999999993)"
+        alternate_names: 
+          - Bramming
+          - Bramminge
+          - "Bramminge Stationsby"
+        ascii_name: Bramming
         name: Bramming
+        names_en: 
+          - Bramming
+        names_es: 
+          - Bramming
         population: 6726
-        slug: bramming
       - 
-        districts: []
-        location: "POINT (55.6499999999999986 9.6500000000000004)"
+        alternate_names: ~
+        ascii_name: Borkop
         name: Børkop
+        names_en: ~
+        names_es: ~
         population: 3561
-        slug: brkop
       - 
-        districts: []
-        location: "POINT (55.5669100000000000 10.0886300000000002)"
+        alternate_names: 
+          - Bogense
+          - Богенсе
+        ascii_name: Bogense
         name: Bogense
+        names_en: ~
+        names_es: ~
         population: 3410
-        slug: bogense
       - 
-        districts: []
-        location: "POINT (55.7334900000000033 9.1078499999999991)"
+        alternate_names: 
+          - Billund
+          - "Gmina Billund"
+        ascii_name: Billund
         name: Billund
+        names_en: 
+          - Billund
+        names_es: ~
         population: 6160
-        slug: billund
       - 
-        districts: []
-        location: "POINT (55.3333299999999966 10.3333300000000001)"
+        alternate_names: ~
+        ascii_name: Bellinge
         name: Bellinge
+        names_en: ~
+        names_es: ~
         population: 4129
-        slug: bellinge
       - 
-        districts: []
-        location: "POINT (54.9500000000000028 9.8833300000000008)"
+        alternate_names: 
+          - Augustenborg
+          - "Gmina Augustenborg"
+          - Аугустенборг
+        ascii_name: Augustenborg
         name: Augustenborg
+        names_en: 
+          - Augustenborg
+        names_es: ~
         population: 3132
-        slug: augustenborg
       - 
-        districts: []
-        location: "POINT (55.2702299999999980 9.9008099999999999)"
+        alternate_names: 
+          - Assens
+          - Ассенс
+        ascii_name: Assens
         name: Assens
+        names_en: ~
+        names_es: ~
         population: 6053
-        slug: assens
       - 
-        districts: []
-        location: "POINT (55.3833300000000008 10.0666700000000002)"
+        alternate_names: 
+          - Aarup
+          - Arup
+          - Årup
+        ascii_name: Arup
         name: Årup
+        names_en: ~
+        names_es: ~
         population: 2592
-        slug: arup
       - 
-        districts: []
-        location: "POINT (55.2999999999999972 10.4833300000000005)"
+        alternate_names: 
+          - Aarslev
+          - Arslev
+          - Årslev
+        ascii_name: Arslev
         name: Årslev
+        names_en: ~
+        names_es: ~
         population: 3228
-        slug: arslev
       - 
-        districts: []
-        location: "POINT (55.0443399999999983 9.4174100000000003)"
+        alternate_names: 
+          - Aabenraa
+          - Abenra
+          - Abenrá
+        ascii_name: Aabenraa
         name: Aabenraa
+        names_en: 
+          - Aabenraa
+        names_es: 
+          - Abenrá
         population: 16344
-        slug: aabenraa
-    code: DK.21
     name: "South Denmark"
-    slug: south-denmark
-tld: dk
+    names_en: 
+      - "South Denmark"
+      - "Region South Denmark"
+    names_es: ~

@@ -1,106 +1,183 @@
 --- 
-code: GW
-continent: AF
 name: Guinea-Bissau
-population: 1565126
+names_en: 
+  - Guinea-Bissau
+  - "Republic of Guinea-Bissau"
+names_es: 
+  - Guinea-Bissáu
+  - Guinea-Bissau
 regions: 
   - 
+    ascii_name: Tombali
     cities: 
       - 
-        districts: []
-        location: "POINT (11.3333300000000001 -14.9333299999999998)"
-        name: Quebo
-        population: 7072
-        slug: quebo
-      - 
-        districts: []
-        location: "POINT (11.2833299999999994 -15.8333300000000001)"
-        name: Bubaque
-        population: 9941
-        slug: bubaque
-    code: GW.00
-    name: "Guinea-Bissau (general)"
-    slug: guinea-bissau-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (12.0733300000000003 -15.3188899999999997)"
-        name: Mansôa
-        population: 7821
-        slug: mansoa
-      - 
-        districts: []
-        location: "POINT (12.4838900000000006 -15.2216699999999996)"
-        name: Farim
-        population: 6792
-        slug: farim
-      - 
-        districts: []
-        location: "POINT (12.2230600000000003 -15.4474999999999998)"
-        name: Bissorã
-        population: 12688
-        slug: bissora
-      - 
-        districts: []
-        location: "POINT (11.8499999999999996 -15.5833300000000001)"
-        name: Bissau
-        population: 388028
-        slug: bissau
-      - 
-        districts: []
-        location: "POINT (12.2833299999999994 -14.2166700000000006)"
-        name: Gabú
-        population: 14430
-        slug: gabu
-      - 
-        districts: []
-        location: "POINT (12.1666699999999999 -14.6666699999999999)"
-        name: Bafatá
-        population: 22521
-        slug: bafata
-      - 
-        districts: []
-        location: "POINT (11.5833300000000001 -15.0000000000000000)"
-        name: Buba
-        population: 7779
-        slug: buba
-      - 
-        districts: []
-        location: "POINT (11.2833299999999994 -15.2500000000000000)"
+        alternate_names: 
+          - Catio
+          - Catió
+        ascii_name: Catio
         name: Catió
+        names_en: 
+          - Catió
+        names_es: ~
         population: 9898
-        slug: catio
-      - 
-        districts: []
-        location: "POINT (11.5833300000000001 -15.4666700000000006)"
-        name: Bolama
-        population: 10769
-        slug: bolama
-    code: GW.04
-    name: Oio
-    slug: oio
+    name: Tombali
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Quinara
     cities: 
       - 
-        districts: []
-        location: "POINT (11.8833300000000008 -15.8499999999999996)"
-        name: Quinhámel
-        population: 3128
-        slug: quinhamel
+        alternate_names: 
+          - Buba
+        ascii_name: Buba
+        name: Buba
+        names_en: ~
+        names_es: ~
+        population: 7779
+    name: Quinara
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Oio
+    cities: 
       - 
-        districts: []
-        location: "POINT (12.0672200000000007 -16.0333299999999994)"
+        alternate_names: 
+          - Mansoa
+          - Mansôa
+          - "Porto Mansoa"
+        ascii_name: Mansoa
+        name: Mansôa
+        names_en: ~
+        names_es: ~
+        population: 7821
+      - 
+        alternate_names: 
+          - Farim
+        ascii_name: Farim
+        name: Farim
+        names_en: ~
+        names_es: ~
+        population: 6792
+      - 
+        alternate_names: 
+          - Bissora
+          - Bissoram
+          - Bissorã
+        ascii_name: Bissora
+        name: Bissorã
+        names_en: ~
+        names_es: ~
+        population: 12688
+    name: Oio
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Gabu
+    cities: 
+      - 
+        alternate_names: 
+          - Gaba
+          - Gabu
+          - Gabu-Sara
+        ascii_name: Gabu
+        name: Gabú
+        names_en: 
+          - Gabú
+        names_es: ~
+        population: 14430
+    name: Gabú
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Cacheu
+    cities: 
+      - 
+        alternate_names: 
+          - Canchungo
+          - Pinto
+          - "Teixeira Pinto"
+        ascii_name: Canchungo
         name: Canchungo
+        names_en: ~
+        names_es: ~
         population: 6853
-        slug: canchungo
       - 
-        districts: []
-        location: "POINT (12.2705599999999997 -16.1658299999999997)"
+        alternate_names: 
+          - Cacheu
+        ascii_name: Cacheu
         name: Cacheu
+        names_en: 
+          - Cacheu
+        names_es: ~
         population: 10490
-        slug: cacheu
-    code: GW.06
     name: Cacheu
-    slug: cacheu
-tld: gw
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bolama and Bijagos"
+    cities: 
+      - 
+        alternate_names: 
+          - Bolama
+          - Bulama
+          - "Port Beaver"
+        ascii_name: Bolama
+        name: Bolama
+        names_en: 
+          - Bolama
+        names_es: ~
+        population: 10769
+    name: "Bolama and Bijagos"
+    names_en: 
+      - "Bolama and Bijagos"
+    names_es: ~
+  - 
+    ascii_name: "Bissau Autonomous Region"
+    cities: 
+      - 
+        alternate_names: 
+          - Bisao
+          - Bisau
+          - "Bisau - Bissau"
+        ascii_name: Bissau
+        name: Bissau
+        names_en: 
+          - Bissau
+        names_es: 
+          - Bissáu
+          - Bissau
+        population: 388028
+    name: "Bissau Autonomous Region"
+    names_en: 
+      - "Bissau Autonomous Region"
+    names_es: ~
+  - 
+    ascii_name: Biombo
+    cities: 
+      - 
+        alternate_names: 
+          - Quinhamel
+          - Quinhameli
+          - Quinhámel
+        ascii_name: Quinhamel
+        name: Quinhámel
+        names_en: 
+          - Quinhámel
+        names_es: ~
+        population: 3128
+    name: Biombo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Bafata
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Bafata
+        name: Bafatá
+        names_en: ~
+        names_es: ~
+        population: 22521
+    name: Bafatá
+    names_en: ~
+    names_es: ~

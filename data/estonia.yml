@@ -1,621 +1,1044 @@
 --- 
-code: EE
-continent: EU
 name: Estonia
-population: 1291170
+names_en: 
+  - Estonia
+  - "Republic of Estonia"
+names_es: 
+  - Estonia
 regions: 
   - 
+    ascii_name: Vorumaa
     cities: 
       - 
-        districts: []
-        location: "POINT (59.4966700000000017 24.8422200000000011)"
-        name: Viimsi
-        population: 1740
-        slug: viimsi
-      - 
-        districts: []
-        location: "POINT (59.2905599999999993 24.9658300000000004)"
-        name: Vaida
-        population: 1016
-        slug: vaida
-      - 
-        districts: []
-        location: "POINT (59.0830600000000032 24.2250000000000014)"
-        name: Turba
-        population: 1096
-        slug: turba
-      - 
-        districts: 
-          - 
-            location: "POINT (59.5352800000000002 24.7997200000000007)"
-            name: Rummu
-            population: 3488
-            slug: rummu
-          - 
-            location: "POINT (59.4580600000000032 24.8783299999999983)"
-            name: Kose
-            population: 2232
-            slug: kose
-        location: "POINT (59.4369599999999991 24.7535300000000014)"
-        name: Tallinn
-        population: 394024
-        slug: tallinn
-      - 
-        districts: []
-        location: "POINT (59.4302800000000033 24.5330599999999990)"
-        name: Tabasalu
-        population: 2166
-        slug: tabasalu
-      - 
-        districts: []
-        location: "POINT (59.3202799999999968 24.5524999999999984)"
-        name: Saue
-        population: 5022
-        slug: saue
-      - 
-        districts: []
-        location: "POINT (59.3022199999999984 24.6577799999999989)"
-        name: Saku
-        population: 4548
-        slug: saku
-      - 
-        districts: []
-        location: "POINT (59.1141700000000014 24.3105599999999988)"
-        name: Riisipere
-        population: 1058
-        slug: riisipere
-      - 
-        districts: []
-        location: "POINT (59.3663900000000027 25.1830600000000011)"
-        name: Raasiku
-        population: 1317
-        slug: raasiku
-      - 
-        districts: []
-        location: "POINT (59.3566700000000012 24.0530599999999986)"
-        name: Paldiski
-        population: 4202
-        slug: paldiski
-      - 
-        districts: []
-        location: "POINT (59.4766699999999986 25.0249999999999986)"
-        name: Maardu
-        population: 16630
-        slug: maardu
-      - 
-        districts: []
-        location: "POINT (59.4363900000000029 24.9483299999999986)"
-        name: Loo
-        population: 2175
-        slug: loo
-      - 
-        districts: []
-        location: "POINT (59.5763900000000035 25.7213899999999995)"
-        name: Loksa
-        population: 3463
-        slug: loksa
-      - 
-        districts: []
-        location: "POINT (59.4438900000000032 25.4413899999999984)"
-        name: Kuusalu
-        population: 1238
-        slug: kuusalu
-      - 
-        districts: []
-        location: "POINT (59.3036099999999990 24.4130600000000015)"
-        name: Keila
-        population: 9411
-        slug: keila
-      - 
-        districts: []
-        location: "POINT (59.3361099999999979 25.3211100000000009)"
-        name: Kehra
-        population: 3183
-        slug: kehra
-      - 
-        districts: []
-        location: "POINT (59.3541700000000034 24.8941699999999990)"
-        name: Jüri
-        population: 2581
-        slug: juri
-      - 
-        districts: []
-        location: "POINT (59.5113899999999987 24.8211100000000009)"
-        name: Haabneeme
-        population: 2077
-        slug: haabneeme
-      - 
-        districts: []
-        location: "POINT (59.3644400000000019 25.0772200000000005)"
-        name: Aruküla
-        population: 1829
-        slug: arukula
-      - 
-        districts: []
-        location: "POINT (59.3520299999999992 24.6092900000000014)"
-        name: Laagri
-        population: 4135
-        slug: laagri
-    code: EE.01
-    name: Harjumaa
-    slug: harjumaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (59.3997200000000021 27.5816699999999990)"
-        name: Voka
-        population: 1046
-        slug: voka
-      - 
-        districts: []
-        location: "POINT (59.4236099999999965 27.5025000000000013)"
-        name: Toila
-        population: 2304
-        slug: toila
-      - 
-        districts: []
-        location: "POINT (59.3997200000000021 27.7547199999999989)"
-        name: Sillamäe
-        population: 16672
-        slug: sillamae
-      - 
-        districts: []
-        location: "POINT (59.3599999999999994 27.0497200000000007)"
-        name: Püssi
-        population: 1840
-        slug: pussi
-      - 
-        districts: []
-        location: "POINT (59.4588899999999967 28.0408299999999997)"
-        name: Narva-Jõesuu
-        population: 2802
-        slug: narva-joesuu
-      - 
-        districts: []
-        location: "POINT (59.3772200000000012 28.1902800000000013)"
-        name: Narva
-        population: 66980
-        slug: narva
-      - 
-        districts: []
-        location: "POINT (59.3986099999999979 27.2730600000000010)"
-        name: Kohtla-Järve
-        population: 46060
-        slug: kohtla-jarve
-      - 
-        districts: []
-        location: "POINT (59.3516699999999986 27.1750000000000007)"
-        name: Kohtla-Nõmme
-        population: 1075
-        slug: kohtla-nomme
-      - 
-        districts: []
-        location: "POINT (59.3530599999999993 26.9711099999999995)"
-        name: Kiviõli
-        population: 6953
-        slug: kivioli
-      - 
-        districts: []
-        location: "POINT (59.3591699999999989 27.4211099999999988)"
-        name: Jõhvi
-        population: 11469
-        slug: johvi
-      - 
-        districts: []
-        location: "POINT (59.4505600000000030 26.8674999999999997)"
-        name: Aseri
-        population: 1831
-        slug: aseri
-    code: EE.03
-    name: Ida-Virumaa
-    slug: ida-virumaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.8086100000000016 25.4325000000000010)"
-        name: Türi
-        population: 6138
-        slug: turi
-      - 
-        districts: []
-        location: "POINT (58.7899999999999991 25.4280599999999986)"
-        name: Särevere
-        population: 1035
-        slug: sarevere
-      - 
-        districts: []
-        location: "POINT (58.8855599999999981 25.5572200000000009)"
-        name: Paide
-        population: 9735
-        slug: paide
-      - 
-        districts: []
-        location: "POINT (58.9630599999999987 26.0308300000000017)"
-        name: Koeru
-        population: 1300
-        slug: koeru
-      - 
-        districts: []
-        location: "POINT (59.0386099999999985 25.8863899999999987)"
-        name: Järva-Jaani
-        population: 1051
-        slug: jarva-jaani
-    code: EE.04
-    name: Järvamaa
-    slug: jarvamaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.6525000000000034 25.9705599999999990)"
-        name: Põltsamaa
-        population: 4764
-        slug: poltsamaa
-      - 
-        districts: []
-        location: "POINT (58.8486100000000008 26.9397200000000012)"
-        name: Mustvee
-        population: 1662
-        slug: mustvee
-      - 
-        districts: []
-        location: "POINT (58.7466700000000017 26.3938899999999990)"
-        name: Jõgeva
-        population: 6396
-        slug: jogeva
-      - 
-        districts: []
-        location: "POINT (58.5541699999999992 26.5955599999999990)"
-        name: Tabivere
-        population: 1062
-        slug: tabivere
-    code: EE.05
-    name: Jõgevamaa
-    slug: jogevamaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.9394399999999976 23.5894399999999997)"
-        name: Uuemõisa
-        population: 1068
-        slug: uuemoisa
-      - 
-        districts: []
-        location: "POINT (58.6813900000000004 23.8452799999999989)"
-        name: Lihula
-        population: 1457
-        slug: lihula
-      - 
-        districts: []
-        location: "POINT (58.9430600000000027 23.5413899999999998)"
-        name: Haapsalu
-        population: 11805
-        slug: haapsalu
-    code: EE.07
-    name: Läänemaa
-    slug: laanemaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (59.2958300000000023 26.4322200000000009)"
-        name: Vinni
-        population: 1032
-        slug: vinni
-      - 
-        districts: []
-        location: "POINT (59.1263900000000007 26.2500000000000000)"
-        name: Väike-Maarja
-        population: 2155
-        slug: vaike-maarja
-      - 
-        districts: []
-        location: "POINT (59.2605599999999981 25.9586100000000002)"
-        name: Tapa
-        population: 6551
-        slug: tapa
-      - 
-        districts: []
-        location: "POINT (59.1586100000000030 26.1152799999999985)"
-        name: Tamsalu
-        population: 2594
-        slug: tamsalu
-      - 
-        districts: []
-        location: "POINT (59.3463899999999995 26.3558300000000010)"
-        name: Rakvere
-        population: 16736
-        slug: rakvere
-      - 
-        districts: []
-        location: "POINT (58.9816700000000012 26.2544399999999989)"
-        name: Rakke
-        population: 1045
-        slug: rakke
-      - 
-        districts: []
-        location: "POINT (59.3347199999999972 26.1449999999999996)"
-        name: Kadrina
-        population: 2406
-        slug: kadrina
-      - 
-        districts: []
-        location: "POINT (59.4336100000000016 26.2613899999999987)"
-        name: Haljala
-        population: 1233
-        slug: haljala
-      - 
-        districts: []
-        location: "POINT (59.3611099999999965 26.4375000000000000)"
-        name: Sõmeru
-        population: 1350
-        slug: someru
-    code: EE.08
-    name: Lääne-Virumaa
-    slug: laane-virumaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.6480600000000010 25.0361100000000008)"
-        name: Vändra
-        population: 2544
-        slug: vandra
-      - 
-        districts: []
-        location: "POINT (58.5780600000000007 24.7925000000000004)"
-        name: Tootsi
-        population: 1010
-        slug: tootsi
-      - 
-        districts: []
-        location: "POINT (58.4005599999999987 24.6675000000000004)"
-        name: Sindi
-        population: 4036
-        slug: sindi
-      - 
-        districts: []
-        location: "POINT (58.4238900000000001 24.5022200000000012)"
-        name: Sauga
-        population: 1062
-        slug: sauga
-      - 
-        districts: []
-        location: "POINT (58.6058299999999974 24.5152800000000006)"
-        name: Pärnu-Jaagupi
-        population: 1341
-        slug: parnu-jaagupi
-      - 
-        districts: []
-        location: "POINT (58.3747200000000035 24.5136099999999999)"
-        name: Pärnu
-        population: 44192
-        slug: parnu
-      - 
-        districts: []
-        location: "POINT (58.3791700000000020 24.6344400000000014)"
-        name: Paikuse
-        population: 1996
-        slug: paikuse
-      - 
-        districts: []
-        location: "POINT (58.1502800000000022 24.9641699999999993)"
-        name: Kilingi-Nõmme
-        population: 2175
-        slug: kilingi-nomme
-      - 
-        districts: []
-        location: "POINT (58.4086100000000030 24.3738899999999994)"
-        name: Audru
-        population: 1430
-        slug: audru
-    code: EE.11
-    name: Pärnumaa
-    slug: parnumaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.0980599999999967 27.4636099999999992)"
-        name: Räpina
-        population: 2901
-        slug: rapina
-      - 
-        districts: []
-        location: "POINT (58.0602799999999988 27.0694400000000002)"
-        name: Põlva
-        population: 6504
-        slug: polva
-    code: EE.12
-    name: Põlvamaa
-    slug: polvamaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (59.0072199999999967 24.7927800000000005)"
-        name: Rapla
-        population: 5684
-        slug: rapla
-      - 
-        districts: []
-        location: "POINT (58.9038899999999970 24.4305599999999998)"
-        name: Märjamaa
-        population: 3063
-        slug: marjamaa
-      - 
-        districts: []
-        location: "POINT (59.1680599999999970 24.7575000000000003)"
-        name: Kohila
-        population: 3355
-        slug: kohila
-      - 
-        districts: []
-        location: "POINT (58.9302800000000033 24.8780600000000014)"
-        name: Kehtna
-        population: 1579
-        slug: kehtna
-      - 
-        districts: []
-        location: "POINT (58.7788899999999970 24.8258299999999998)"
-        name: Järvakandi
-        population: 1471
-        slug: jarvakandi
-    code: EE.13
-    name: Raplamaa
-    slug: raplamaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.9977799999999988 22.7491699999999994)"
-        name: Kärdla
-        population: 3763
-        slug: kardla
-      - 
-        districts: []
-        location: "POINT (58.5591700000000017 23.0826199999999986)"
-        name: Orissaare
-        population: 1065
-        slug: orissaare
-      - 
-        districts: []
-        location: "POINT (58.2480600000000024 22.5038899999999984)"
-        name: Kuressaare
-        population: 14921
-        slug: kuressaare
-    code: EE.14
-    name: Saaremaa
-    slug: saaremaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.3162000000000020 26.7251699999999985)"
-        name: Ülenurme
-        population: 1047
-        slug: ulenurme
-      - 
-        districts: []
-        location: "POINT (58.3806200000000004 26.7250900000000016)"
-        name: Tartu
-        population: 101092
-        slug: tartu
-      - 
-        districts: []
-        location: "POINT (58.3419400000000010 26.3147200000000012)"
-        name: Puhja
-        population: 1072
-        slug: puhja
-      - 
-        districts: []
-        location: "POINT (58.2755599999999987 26.5375000000000014)"
-        name: Nõo
-        population: 1476
-        slug: noo
-      - 
-        districts: []
-        location: "POINT (58.6550000000000011 27.1591699999999996)"
-        name: Kallaste
-        population: 1171
-        slug: kallaste
-      - 
-        districts: []
-        location: "POINT (58.2224999999999966 26.4211099999999988)"
-        name: Elva
-        population: 5819
-        slug: elva
-    code: EE.18
-    name: Tartumaa
-    slug: tartumaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.7778100000000023 26.0472999999999999)"
-        name: Valga
-        population: 13945
-        slug: valga
-      - 
-        districts: []
-        location: "POINT (58.0027800000000013 25.9349999999999987)"
-        name: Tõrva
-        population: 3112
-        slug: torva
-      - 
-        districts: []
-        location: "POINT (58.0583299999999980 26.4966700000000017)"
-        name: Otepää
-        population: 2144
-        slug: otepaa
-    code: EE.19
-    name: Valgamaa
-    slug: valgamaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.6283299999999983 25.5483300000000000)"
-        name: Võhma
-        population: 1551
-        slug: vohma
-      - 
-        districts: []
-        location: "POINT (58.3638899999999978 25.5899999999999999)"
-        name: Viljandi
-        population: 20309
-        slug: viljandi
-      - 
-        districts: []
-        location: "POINT (58.3599999999999994 25.6372199999999992)"
-        name: Viiratsi
-        population: 1338
-        slug: viiratsi
-      - 
-        districts: []
-        location: "POINT (58.5361100000000008 25.4705599999999990)"
-        name: Suure-Jaani
-        population: 1254
-        slug: suure-jaani
-      - 
-        districts: []
-        location: "POINT (58.1033299999999997 25.5627800000000001)"
-        name: Karksi-Nuia
-        population: 1986
-        slug: karksi-nuia
-      - 
-        districts: []
-        location: "POINT (58.0922199999999975 25.1863899999999994)"
-        name: Mõisaküla
-        population: 1090
-        slug: moisakula
-      - 
-        districts: []
-        location: "POINT (58.1252799999999965 25.3497200000000014)"
-        name: Abja-Paluoja
-        population: 1372
-        slug: abja-paluoja
-    code: EE.20
-    name: Viljandimaa
-    slug: viljandimaa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.8338899999999967 27.0194399999999995)"
+        alternate_names: 
+          - VYRU
+          - Verava
+          - Veri
+        ascii_name: Voru
         name: Võru
+        names_en: 
+          - Võru
+        names_es: ~
         population: 14631
-        slug: voru
       - 
-        districts: []
-        location: "POINT (57.8661099999999990 26.5322199999999988)"
+        alternate_names: ~
+        ascii_name: Vana-Antsla
         name: Vana-Antsla
+        names_en: ~
+        names_es: ~
         population: 1468
-        slug: vana-antsla
-    code: EE.21
     name: Võrumaa
-    slug: vorumaa
-tld: ee
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Viljandimaa
+    cities: 
+      - 
+        alternate_names: 
+          - "Myasto Vykhma"
+          - VYKHMA
+          - Vechma
+        ascii_name: Vohma
+        name: Võhma
+        names_en: 
+          - Võhma
+        names_es: ~
+        population: 1551
+      - 
+        alternate_names: 
+          - Felin
+          - Fellin
+          - VIL'JANDI
+        ascii_name: Viljandi
+        name: Viljandi
+        names_en: 
+          - Viljandi
+        names_es: ~
+        population: 20309
+      - 
+        alternate_names: 
+          - "Myza Viratsi"
+          - Viiratsi
+        ascii_name: Viiratsi
+        name: Viiratsi
+        names_en: ~
+        names_es: ~
+        population: 1338
+      - 
+        alternate_names: 
+          - "Gros Iogannis"
+          - Gross-Sankt-Johannis
+          - Sur-Yani
+        ascii_name: Suure-Jaani
+        name: Suure-Jaani
+        names_en: 
+          - Suure-Jaani
+        names_es: ~
+        population: 1254
+      - 
+        alternate_names: 
+          - KARKSI-NUAJ
+          - Karksi
+          - Karksi-Nuia
+        ascii_name: Karksi-Nuia
+        name: Karksi-Nuia
+        names_en: 
+          - Karksi-Nuia
+        names_es: ~
+        population: 1986
+      - 
+        alternate_names: 
+          - MYJZAKJULA
+          - Moisakila
+          - Moisakuela
+        ascii_name: Moisakula
+        name: Mõisaküla
+        names_en: 
+          - Mõisaküla
+        names_es: ~
+        population: 1090
+      - 
+        alternate_names: 
+          - Ab'ja-Paluoja
+          - Ab'ya
+          - Ab'ya-Paluoya
+        ascii_name: Abja-Paluoja
+        name: Abja-Paluoja
+        names_en: 
+          - Abja-Paluoja
+        names_es: ~
+        population: 1372
+    name: Viljandimaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Valgamaa
+    cities: 
+      - 
+        alternate_names: 
+          - VALGA
+          - VALKA
+          - Valga
+        ascii_name: Valga
+        name: Valga
+        names_en: 
+          - Valga
+        names_es: ~
+        population: 13945
+      - 
+        alternate_names: 
+          - Helmut
+          - Khel'met
+          - Khel’met
+        ascii_name: Torva
+        name: Tõrva
+        names_en: 
+          - Tõrva
+        names_es: ~
+        population: 3112
+      - 
+        alternate_names: 
+          - Nustago
+          - OTEPJA
+          - Odenpa
+        ascii_name: Shloss
+        name: Shloss
+        names_en: 
+          - Otepää
+        names_es: ~
+        population: 2144
+    name: Valgamaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Tartumaa
+    cities: 
+      - 
+        alternate_names: 
+          - Ilenurme
+          - Julenurme
+          - UElenurme
+        ascii_name: Ulenurme
+        name: Ülenurme
+        names_en: 
+          - Ülenurme
+        names_es: ~
+        population: 1047
+      - 
+        alternate_names: 
+          - Derpt
+          - Dorpat
+          - TARTU
+        ascii_name: Tartu
+        name: Tartu
+        names_en: 
+          - Tartu
+        names_es: 
+          - Tartu
+        population: 101092
+      - 
+        alternate_names: 
+          - Kawelecht
+          - Puhja
+          - Pukh"ja
+        ascii_name: Puhja
+        name: Puhja
+        names_en: 
+          - Puhja
+        names_es: ~
+        population: 1072
+      - 
+        alternate_names: 
+          - Neo
+          - Niggen'
+          - Niggen’
+        ascii_name: Noo
+        name: Nõo
+        names_en: 
+          - Nõo
+        names_es: ~
+        population: 1476
+      - 
+        alternate_names: 
+          - KALLASTE
+          - Kallaste
+          - "Krasnaja Gora"
+        ascii_name: Kallaste
+        name: Kallaste
+        names_en: 
+          - Kallaste
+        names_es: ~
+        population: 1171
+      - 
+        alternate_names: 
+          - EHLVA
+          - Elva
+          - Elwa
+        ascii_name: Elva
+        name: Elva
+        names_en: 
+          - Elva
+        names_es: ~
+        population: 5819
+    name: Tartumaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Saaremaa
+    cities: 
+      - 
+        alternate_names: 
+          - Orisaara
+          - Orisaare
+          - Orisar
+        ascii_name: Orissaare
+        name: Orissaare
+        names_en: ~
+        names_es: ~
+        population: 1065
+      - 
+        alternate_names: 
+          - Arensburg
+          - Arensburga
+          - Kingisepp
+        ascii_name: Kuressaare
+        name: Kuressaare
+        names_en: 
+          - Kuressaare
+        names_es: 
+          - Kuressaare
+        population: 14921
+    name: Saaremaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Raplamaa
+    cities: 
+      - 
+        alternate_names: 
+          - Odenkam
+          - RAPLA
+          - Rapla
+        ascii_name: Rapla
+        name: Rapla
+        names_en: 
+          - Rapla
+        names_es: ~
+        population: 5684
+      - 
+        alternate_names: 
+          - MJAR'JAMAA
+          - Maerjamaa
+          - Mar'yama
+        ascii_name: Marjamaa
+        name: Märjamaa
+        names_en: 
+          - Märjamaa
+        names_es: ~
+        population: 3063
+      - 
+        alternate_names: 
+          - KOKHILA
+          - Kohila
+          - Koil
+        ascii_name: Kohila
+        name: Kohila
+        names_en: 
+          - Kohila
+        names_es: ~
+        population: 3355
+      - 
+        alternate_names: 
+          - Kehtna
+          - "Kehtna Asundus"
+          - Kekhna
+        ascii_name: Kehtna
+        name: Kehtna
+        names_en: 
+          - Kehtna
+        names_es: ~
+        population: 1579
+      - 
+        alternate_names: 
+          - JARVAKANDI
+          - Jaervakandi
+          - Jarvakandi
+        ascii_name: Jarvakandi
+        name: Järvakandi
+        names_en: 
+          - Järvakandi
+        names_es: ~
+        population: 1471
+    name: Raplamaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Polva
+    cities: 
+      - 
+        alternate_names: 
+          - Raepina
+          - Rapin
+          - Rapina
+        ascii_name: Rapina
+        name: Räpina
+        names_en: ~
+        names_es: ~
+        population: 2901
+      - 
+        alternate_names: 
+          - PYLVA
+          - Pel've
+          - Pelva
+        ascii_name: Polva
+        name: Põlva
+        names_en: 
+          - Põlva
+        names_es: ~
+        population: 6504
+    name: Põlvamaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Parnumaa
+    cities: 
+      - 
+        alternate_names: 
+          - Alt-Fennern
+          - Fennern
+          - "Staryy Fennern'"
+        ascii_name: Vandra
+        name: Vändra
+        names_en: 
+          - Vändra
+        names_es: ~
+        population: 2544
+      - 
+        alternate_names: 
+          - TOOTSI
+          - Tootsi
+          - Totsi
+        ascii_name: Tootsi
+        name: Tootsi
+        names_en: 
+          - Tootsi
+        names_es: ~
+        population: 1010
+      - 
+        alternate_names: 
+          - SINDI
+          - Sindi
+          - Tsintengof
+        ascii_name: Sindi
+        name: Sindi
+        names_en: 
+          - Sindi
+        names_es: ~
+        population: 4036
+      - 
+        alternate_names: 
+          - "Myza Sauga"
+          - Sauga
+        ascii_name: Sauga
+        name: Sauga
+        names_en: ~
+        names_es: ~
+        population: 1062
+      - 
+        alternate_names: 
+          - Jaagupi
+          - Jakobi
+          - Paernu-Jaagupi
+        ascii_name: Parnu-Jaagupi
+        name: Pärnu-Jaagupi
+        names_en: 
+          - Pärnu-Jaagupi
+        names_es: ~
+        population: 1341
+      - 
+        alternate_names: 
+          - PJARNU
+          - Paernu
+          - Parnawa
+        ascii_name: Parnu
+        name: Pärnu
+        names_en: 
+          - Pärnu
+        names_es: ~
+        population: 44192
+      - 
+        alternate_names: ~
+        ascii_name: Paikuse
+        name: Paikuse
+        names_en: ~
+        names_es: ~
+        population: 1996
+      - 
+        alternate_names: 
+          - Kilingi-Nemme
+          - Kilingi-Nomme
+          - Kilingi-Nymme
+        ascii_name: Kilingi-Nomme
+        name: Kilingi-Nõmme
+        names_en: 
+          - Kilingi-Nõmme
+        names_es: ~
+        population: 2175
+      - 
+        alternate_names: 
+          - Audru
+          - Аудру
+        ascii_name: Audru
+        name: Audru
+        names_en: 
+          - Audru
+        names_es: ~
+        population: 1430
+    name: Pärnumaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Laane-Virumaa
+    cities: 
+      - 
+        alternate_names: 
+          - "Myza Vinni"
+          - Vinni
+          - "Vinni Asundus"
+        ascii_name: Vinni
+        name: Vinni
+        names_en: ~
+        names_es: ~
+        population: 1032
+      - 
+        alternate_names: 
+          - Klein-Marien
+          - Klein-Sankt-Marien
+          - "Kleyn Mariyen"
+        ascii_name: Vaike-Maarja
+        name: Väike-Maarja
+        names_en: 
+          - Väike-Maarja
+        names_es: ~
+        population: 2155
+      - 
+        alternate_names: 
+          - TAPA
+          - Tapa
+          - Taps
+        ascii_name: Tapa
+        name: Tapa
+        names_en: 
+          - Tapa
+        names_es: ~
+        population: 6551
+      - 
+        alternate_names: 
+          - TAMSALU
+          - Tamsal
+          - Tamsalu
+        ascii_name: Tamsalu
+        name: Tamsalu
+        names_en: 
+          - Tamsalu
+        names_es: ~
+        population: 2594
+      - 
+        alternate_names: 
+          - RAKVERE
+          - Rakvere
+          - Rakvere_vald
+        ascii_name: Rakvere
+        name: Rakvere
+        names_en: ~
+        names_es: ~
+        population: 16736
+      - 
+        alternate_names: 
+          - Racke
+          - Rake
+          - Rakke
+        ascii_name: Rakke
+        name: Rakke
+        names_en: 
+          - Rakke
+        names_es: ~
+        population: 1045
+      - 
+        alternate_names: 
+          - Kadrina
+          - Katharinen
+          - Katrinen'
+        ascii_name: Kadrina
+        name: Kadrina
+        names_en: 
+          - Kadrina
+        names_es: ~
+        population: 2406
+      - 
+        alternate_names: 
+          - Haljala
+          - Haljall
+          - Khal'jala
+        ascii_name: Haljala
+        name: Haljala
+        names_en: 
+          - Haljala
+        names_es: ~
+        population: 1233
+      - 
+        alternate_names: 
+          - Someru
+          - Sõmeru
+        ascii_name: Someru
+        name: Sõmeru
+        names_en: ~
+        names_es: ~
+        population: 1350
+    name: Lääne-Virumaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Khaapsaluskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - "Myza Uemyyza"
+          - Uuemoisa
+          - Uuemõisa
+        ascii_name: Uuemoisa
+        name: Uuemõisa
+        names_en: ~
+        names_es: ~
+        population: 1068
+      - 
+        alternate_names: 
+          - "Gmina Lihula"
+          - Leal
+          - Ligulya
+        ascii_name: Lihula
+        name: Lihula
+        names_en: 
+          - Lihula
+        names_es: ~
+        population: 1457
+      - 
+        alternate_names: 
+          - Gaapsalu
+          - Gapsal'
+          - Gapsal’
+        ascii_name: Haapsalu
+        name: Haapsalu
+        names_en: 
+          - Haapsalu
+        names_es: ~
+        population: 11805
+    name: Läänemaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Jogevamaa
+    cities: 
+      - 
+        alternate_names: 
+          - Ober"-Palen"
+          - Oberpahlen
+          - Ober”-Palen”
+        ascii_name: Poltsamaa
+        name: Põltsamaa
+        names_en: 
+          - Põltsamaa
+        names_es: ~
+        population: 4764
+      - 
+        alternate_names: 
+          - Chernii
+          - Chernoe
+          - Chernyy
+        ascii_name: Mustvee
+        name: Mustvee
+        names_en: 
+          - Mustvee
+        names_es: ~
+        population: 1662
+      - 
+        alternate_names: 
+          - Iyegeva
+          - Iygeva
+          - Jegeva
+        ascii_name: Jogeva
+        name: Jõgeva
+        names_en: 
+          - Jõgeva
+        names_es: 
+          - Jõgeva
+        population: 6396
+      - 
+        alternate_names: 
+          - Tabivere
+          - Табивере
+        ascii_name: Tabivere
+        name: Tabivere
+        names_en: 
+          - Tabivere
+        names_es: ~
+        population: 1062
+    name: Jõgevamaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Jarvamaa
+    cities: 
+      - 
+        alternate_names: 
+          - TJURI
+          - Thurgel
+          - Tiri
+        ascii_name: Tyuri
+        name: Tyuri
+        names_en: 
+          - Türi
+        names_es: ~
+        population: 6138
+      - 
+        alternate_names: 
+          - "Myza Syarevere"
+          - Saerevere
+          - Sarevere
+        ascii_name: Sarevere
+        name: Särevere
+        names_en: 
+          - Särevere
+        names_es: ~
+        population: 1035
+      - 
+        alternate_names: 
+          - PAJDE
+          - Paide
+          - Paide_vald
+        ascii_name: Paide
+        name: Paide
+        names_en: 
+          - Paide
+        names_es: ~
+        population: 9735
+      - 
+        alternate_names: 
+          - Keras
+          - Koehru
+          - Koeru
+        ascii_name: Koeru
+        name: Koeru
+        names_en: 
+          - Koeru
+        names_es: ~
+        population: 1300
+      - 
+        alternate_names: 
+          - "J. Jaani"
+          - Jaani
+          - Jaerva-Jaani
+        ascii_name: Jarva-Jaani
+        name: Järva-Jaani
+        names_en: 
+          - Järva-Jaani
+        names_es: ~
+        population: 1051
+    name: Järvamaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Ida-Virumaa
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Voka
+        name: Voka
+        names_en: ~
+        names_es: ~
+        population: 1046
+      - 
+        alternate_names: 
+          - Toila
+          - Tojla
+          - Toyla
+        ascii_name: Toila
+        name: Toila
+        names_en: 
+          - Toila
+        names_es: ~
+        population: 2304
+      - 
+        alternate_names: 
+          - SILLAMJAEH
+          - Silameje
+          - Silamejė
+        ascii_name: Sillamae
+        name: Sillamäe
+        names_en: 
+          - Sillamäe
+        names_es: ~
+        population: 16672
+      - 
+        alternate_names: 
+          - Neu-Isenhof
+          - PJUSSI
+          - Pisi
+        ascii_name: Pussi
+        name: Püssi
+        names_en: 
+          - Püssi
+        names_es: ~
+        population: 1840
+      - 
+        alternate_names: 
+          - Gungerburg
+          - Hungerburg
+          - NARVA-JYEHSUU
+        ascii_name: Narva-Joesuu
+        name: Narva-Jõesuu
+        names_en: 
+          - Narva-Jõesuu
+        names_es: ~
+        population: 2802
+      - 
+        alternate_names: 
+          - NARVA
+          - Narva
+          - Narwa
+        ascii_name: Narva
+        name: Narva
+        names_en: 
+          - Narva
+        names_es: 
+          - Narva
+        population: 66980
+      - 
+        alternate_names: 
+          - Jarve
+          - KOKHTLA-JARVE
+          - Kochtel
+        ascii_name: Kohtla-Jarve
+        name: Kohtla-Järve
+        names_en: 
+          - Kohtla-Järve
+        names_es: 
+          - Kohtla-Järve
+        population: 46060
+      - 
+        alternate_names: 
+          - Kohtla
+          - "Kohtla Asundus"
+          - Kohtla-Nomme
+        ascii_name: Kohtla-Nomme
+        name: Kohtla-Nõmme
+        names_en: ~
+        names_es: ~
+        population: 1075
+      - 
+        alternate_names: 
+          - KIVIYLI
+          - Kivieli
+          - Kivielis
+        ascii_name: Kivioli
+        name: Kiviõli
+        names_en: 
+          - Kiviõli
+        names_es: ~
+        population: 6953
+      - 
+        alternate_names: 
+          - Ievve
+          - Iohvi
+          - Iyeve
+        ascii_name: Johvi
+        name: Jõhvi
+        names_en: 
+          - Jõhvi
+        names_es: 
+          - Jõhvi
+        population: 11469
+      - 
+        alternate_names: 
+          - Asari
+          - Aseri
+          - "Aseri Mois"
+        ascii_name: Aseri
+        name: Aseri
+        names_en: 
+          - Aseri
+        names_es: ~
+        population: 1831
+    name: Ida-Virumaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Hiiumaa
+    cities: 
+      - 
+        alternate_names: 
+          - Kardla
+          - Kartla
+          - Kerdla
+        ascii_name: Kardla
+        name: Kärdla
+        names_en: ~
+        names_es: ~
+        population: 3763
+    name: Hiiumaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Harjumaa
+    cities: 
+      - 
+        alternate_names: 
+          - "Myza Viymsi"
+          - Viimsi
+        ascii_name: Viimsi
+        name: Viimsi
+        names_en: ~
+        names_es: ~
+        population: 1740
+      - 
+        alternate_names: 
+          - Vaida
+          - Vajda
+          - Vayda
+        ascii_name: Vaida
+        name: Vaida
+        names_en: 
+          - Vaida
+        names_es: ~
+        population: 1016
+      - 
+        alternate_names: 
+          - Turba
+          - Турба
+        ascii_name: Turba
+        name: Turba
+        names_en: 
+          - Turba
+        names_es: ~
+        population: 1096
+      - 
+        alternate_names: 
+          - "Castrum Danorum"
+          - Kallinn
+          - Kolyvan
+        ascii_name: Tallinn
+        name: Tallinn
+        names_en: 
+          - Tallinn
+        names_es: 
+          - Tallin
+        population: 394024
+      - 
+        alternate_names: 
+          - Tabasalu
+          - Tabasalyu
+        ascii_name: Tabasalu
+        name: Tabasalu
+        names_en: ~
+        names_es: ~
+        population: 2166
+      - 
+        alternate_names: 
+          - "Myza Saue"
+          - SAUEH
+          - Saue
+        ascii_name: Saue
+        name: Saue
+        names_en: 
+          - Saue
+        names_es: ~
+        population: 5022
+      - 
+        alternate_names: 
+          - Saku
+          - Саку
+        ascii_name: Saku
+        name: Saku
+        names_en: 
+          - Saku
+        names_es: ~
+        population: 4548
+      - 
+        alternate_names: 
+          - Riesenberg
+          - Riisipere
+          - Rijzipere
+        ascii_name: Riisipere
+        name: Riisipere
+        names_en: 
+          - Riisipere
+        names_es: ~
+        population: 1058
+      - 
+        alternate_names: 
+          - "Harju Jani"
+          - "Harju Jãni"
+          - Harju-Jaani
+        ascii_name: Raasiku
+        name: Raasiku
+        names_en: 
+          - Raasiku
+        names_es: ~
+        population: 1317
+      - 
+        alternate_names: 
+          - "Baltiiskii Port"
+          - "Baltijas Ports"
+          - Baltischport
+        ascii_name: Paldiski
+        name: Paldiski
+        names_en: 
+          - Paldiski
+        names_es: 
+          - Paldiski
+        population: 4202
+      - 
+        alternate_names: 
+          - Maardu
+          - Mardu
+          - Mārdu
+        ascii_name: Maardu
+        name: Maardu
+        names_en: 
+          - Maardu
+        names_es: 
+          - Maardu
+        population: 16630
+      - 
+        alternate_names: ~
+        ascii_name: Loo
+        name: Loo
+        names_en: ~
+        names_es: ~
+        population: 2175
+      - 
+        alternate_names: 
+          - LOKSA
+          - Loksa
+          - Loxa
+        ascii_name: Loksa
+        name: Loksa
+        names_en: 
+          - Loksa
+        names_es: ~
+        population: 3463
+      - 
+        alternate_names: 
+          - Kusal
+          - Kusalu
+          - Kuusalu
+        ascii_name: Kuusalu
+        name: Kuusalu
+        names_en: 
+          - Kuusalu
+        names_es: ~
+        population: 1238
+      - 
+        alternate_names: 
+          - KEJLA
+          - Kegel
+          - Keila
+        ascii_name: Keila
+        name: Keila
+        names_en: 
+          - Keila
+        names_es: ~
+        population: 9411
+      - 
+        alternate_names: 
+          - KEKHRA
+          - Kedder
+          - Kehra
+        ascii_name: Kehra
+        name: Kehra
+        names_en: 
+          - Kehra
+        names_es: ~
+        population: 3183
+      - 
+        alternate_names: 
+          - Jueri
+          - Juri
+          - Jüri
+        ascii_name: Yuri
+        name: Yuri
+        names_en: 
+          - Jüri
+        names_es: ~
+        population: 2581
+      - 
+        alternate_names: 
+          - Haabneeme
+          - Khaabneehme
+          - Khaabneeme
+        ascii_name: Haabneeme
+        name: Haabneeme
+        names_en: 
+          - Haabneeme
+        names_es: ~
+        population: 2077
+      - 
+        alternate_names: 
+          - Arukula
+          - Arukyula
+          - Aruküla
+        ascii_name: Arukula
+        name: Aruküla
+        names_en: ~
+        names_es: ~
+        population: 1829
+      - 
+        alternate_names: ~
+        ascii_name: Laagri
+        name: Laagri
+        names_en: ~
+        names_es: ~
+        population: 4135
+    name: Harjumaa
+    names_en: ~
+    names_es: ~

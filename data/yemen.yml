@@ -1,211 +1,435 @@
 --- 
-code: YE
-continent: AS
 name: Yemen
-population: 23495361
+names_en: 
+  - Yemen
+  - "Republic of Yemen"
+names_es: 
+  - Yemen
 regions: 
   - 
+    ascii_name: "Muhafazat Ta`izz"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.1287099999999999 45.3807299999999998)"
-        name: Zinjibār
-        population: 0
-        slug: zinjibar
-      - 
-        districts: []
-        location: "POINT (13.8383299999999991 45.8358300000000014)"
-        name: "Jawf al Maqbābah"
-        population: 14175
-        slug: jawf-al-maqbabah
-      - 
-        districts: []
-        location: "POINT (14.5500000000000007 46.7999999999999972)"
-        name: ‘Ataq
-        population: 0
-        slug: ataq
-      - 
-        districts: []
-        location: "POINT (12.7794399999999992 45.0366700000000009)"
-        name: ‘Adan
-        population: 550602
-        slug: adan
-    code: YE.01
-    name: Abyan
-    slug: abyan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (12.6500000000000004 54.0333299999999994)"
-        name: Hadīboh
-        population: 8545
-        slug: hadiboh
-      - 
-        districts: []
-        location: "POINT (14.5424799999999994 49.1242400000000004)"
-        name: "Al Mukallā"
-        population: 258132
-        slug: al-mukalla
-      - 
-        districts: []
-        location: "POINT (16.2109099999999984 52.1810299999999998)"
-        name: "Al Ghayḑah"
-        population: 0
-        slug: al-ghaydah
-    code: YE.04
-    name: Ḩaḑramawt
-    slug: hadramawt
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.1951000000000001 43.3151799999999980)"
-        name: Zabīd
-        population: 52590
-        slug: zabid
-      - 
-        districts: []
-        location: "POINT (14.5163499999999992 43.3244600000000020)"
-        name: "Bayt al Faqīh"
-        population: 34204
-        slug: bayt-al-faqih
-      - 
-        districts: []
-        location: "POINT (15.0583500000000008 43.2850600000000014)"
-        name: Bājil
-        population: 48218
-        slug: bajil
-      - 
-        districts: []
-        location: "POINT (14.7978100000000001 42.9545200000000023)"
-        name: "Al Ḩudaydah"
-        population: 617871
-        slug: al-hudaydah
-      - 
-        districts: []
-        location: "POINT (15.4700699999999998 43.5448099999999982)"
-        name: "Al Maḩwīt"
-        population: 0
-        slug: al-mahwit
-      - 
-        districts: []
-        location: "POINT (14.7040100000000002 43.5990400000000022)"
-        name: "Al Jabīn"
-        population: 0
-        slug: al-jabin
-      - 
-        districts: []
-        location: "POINT (15.6942500000000003 43.6058200000000014)"
-        name: Ḩajjah
-        population: 43549
-        slug: hajjah
-    code: YE.08
-    name: "Al Ḩudaydah"
-    slug: al-hudaydah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.1717700000000004 44.3244200000000035)"
-        name: Sayyān
-        population: 69404
-        slug: sayyan
-      - 
-        districts: []
-        location: "POINT (15.3158600000000007 44.3085799999999992)"
-        name: Saḩar
-        population: 31859
-        slug: sahar
-      - 
-        districts: []
-        location: "POINT (14.5427400000000002 44.4051400000000029)"
-        name: Dhamār
-        population: 0
-        slug: dhamar
-      - 
-        districts: []
-        location: "POINT (16.9437199999999990 43.7658600000000035)"
-        name: Şa‘dah
-        population: 0
-        slug: sadah
-      - 
-        districts: []
-        location: "POINT (15.6593999999999998 43.9438499999999976)"
-        name: ‘Amrān
-        population: 0
-        slug: amran
-      - 
-        districts: []
-        location: "POINT (15.3547200000000004 44.2066700000000026)"
-        name: Sanaa
-        population: 1937451
-        slug: sanaa
-    code: YE.16
-    name: "Muḩāfaz̧at Şan‘ā’"
-    slug: muhafazat-sana
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.2980400000000003 44.3779499999999985)"
-        name: Yarīm
-        population: 33050
-        slug: yarim
-      - 
-        districts: []
-        location: "POINT (13.9666700000000006 44.1833299999999980)"
-        name: Ibb
-        population: 234837
-        slug: ibb
-      - 
-        districts: []
-        location: "POINT (13.8344600000000000 44.1146900000000031)"
-        name: "Dhī Sufāl"
-        population: 37997
-        slug: dhi-sufal
-      - 
-        districts: []
-        location: "POINT (16.1633700000000005 44.7765600000000035)"
-        name: "Al Ḩazm"
-        population: 0
-        slug: al-hazm
-      - 
-        districts: []
-        location: "POINT (13.0566700000000004 44.8819400000000002)"
-        name: Laḩij
-        population: 23375
-        slug: lahij
-      - 
-        districts: []
-        location: "POINT (13.6957199999999997 44.7313699999999983)"
-        name: "Aḑ Ḑāl‘a"
-        population: 0
-        slug: ad-dala
-      - 
-        districts: []
-        location: "POINT (13.9827800000000000 45.5750000000000028)"
-        name: "Al Bayḑā’"
-        population: 37821
-        slug: al-bayda
-    code: YE.23
-    name: Ibb
-    slug: ibb
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.5666700000000002 44.0333299999999994)"
+        alternate_names: 
+          - Ta'izz
+          - Ta`izz
+          - Taiz
+        ascii_name: Ta`izz
         name: Ta‘izz
+        names_en: ~
+        names_es: ~
         population: 615222
-        slug: taizz
-      - 
-        districts: []
-        location: "POINT (13.3194499999999998 43.2447999999999979)"
-        name: Mocha
-        population: 2050
-        slug: mocha
-    code: YE.25
     name: "Muḩāfaz̧at Ta‘izz"
-    slug: muhafazat-taizz
-tld: ye
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Shabwah"
+    cities: 
+      - 
+        alternate_names: 
+          - Attak
+          - "`Ataq"
+          - عتق
+        ascii_name: "`Ataq"
+        name: ‘Ataq
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Muḩāfaz̧at Shabwah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Sanaa
+    cities: 
+      - 
+        alternate_names: 
+          - Saiyan
+          - Saiyān
+          - Sayyan
+        ascii_name: Sayyan
+        name: Sayyān
+        names_en: ~
+        names_es: ~
+        population: 69404
+      - 
+        alternate_names: 
+          - Sahar
+          - Saḩar
+        ascii_name: Sahar
+        name: Saḩar
+        names_en: ~
+        names_es: ~
+        population: 31859
+    name: Sanaa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Sa`dah"
+    cities: 
+      - 
+        alternate_names: 
+          - Sa`da
+          - Sa`dah
+          - Saada
+        ascii_name: Sa`dah
+        name: Şa‘dah
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Muḩāfaz̧at Şa‘dah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Raymah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Jabi"
+          - "Al Jabin"
+          - "Al Jaby"
+        ascii_name: "Al Jabin"
+        name: "Al Jabīn"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Muḩāfaz̧at Raymah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Ma'rib"
+    cities: []
+    name: "Muḩāfaz̧at Ma’rib"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Mahwit"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Mahwit"
+          - "Al Maḩwīt"
+          - El-Mahwit
+        ascii_name: "Al Mahwit"
+        name: "Al Maḩwīt"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Al Maḩwīt"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Jawf"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Hazm"
+          - "Al Ḩazm"
+          - El-Hazm
+        ascii_name: "Al Hazm"
+        name: "Al Ḩazm"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Al Jawf"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Hadramawt"
+    cities: 
+      - 
+        alternate_names: 
+          - Kallansiya
+          - Qalansiya
+          - Qalansiyah
+        ascii_name: Qulansiyah
+        name: Qulansiyah
+        names_en: ~
+        names_es: ~
+        population: 3500
+      - 
+        alternate_names: 
+          - Kilmia
+        ascii_name: Kilmia
+        name: Kilmia
+        names_en: ~
+        names_es: ~
+        population: 2013
+      - 
+        alternate_names: 
+          - Bilad-as-Sulyan
+          - Hadibo
+          - Hadiboh
+        ascii_name: Hadiboh
+        name: Hadīboh
+        names_en: ~
+        names_es: ~
+        population: 8545
+      - 
+        alternate_names: 
+          - "Al Mukalla"
+          - "Al Mukallā"
+          - Al'-Mukalla
+        ascii_name: "Al Mukalla"
+        name: "Al Mukallā"
+        names_en: 
+          - "Al Mukalla"
+        names_es: ~
+        population: 258132
+    name: Ḩaḑramawt
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Dhamar"
+    cities: 
+      - 
+        alternate_names: 
+          - Damar
+          - Dhamar
+          - Dhamār
+        ascii_name: Dhamar
+        name: Dhamār
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Muḩāfaz̧at Dhamār"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Mahrah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Ghaydah"
+          - "Al Ghayzah"
+          - "Al Ghayz̧ah"
+        ascii_name: "Al Ghaydah"
+        name: "Al Ghayḑah"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Al Mahrah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Hudaydah"
+    cities: 
+      - 
+        alternate_names: 
+          - Zabid
+          - Zabīd
+          - Zebid
+        ascii_name: Zabid
+        name: Zabīd
+        names_en: ~
+        names_es: ~
+        population: 52590
+      - 
+        alternate_names: 
+          - "Bait al Faqih"
+          - "Bait al Faqīh"
+          - "Bayt al Fakih Ibn `Udjayl"
+        ascii_name: "Bayt al Faqih"
+        name: "Bayt al Faqīh"
+        names_en: ~
+        names_es: ~
+        population: 34204
+      - 
+        alternate_names: 
+          - Badjil
+          - Bagil
+          - Bajil
+        ascii_name: Bajil
+        name: Bājil
+        names_en: ~
+        names_es: ~
+        population: 48218
+      - 
+        alternate_names: 
+          - "Al Hudaydah"
+          - "Al Ḩudaydah"
+          - El-Hodeidah
+        ascii_name: "Al Hudaydah"
+        name: "Al Ḩudaydah"
+        names_en: ~
+        names_es: ~
+        population: 617871
+    name: "Al Ḩudaydah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Bayda'"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Bayda'"
+          - "Al Bayḑā’"
+          - "Al Beidha"
+        ascii_name: "Al Bayda'"
+        name: "Al Bayḑā’"
+        names_en: ~
+        names_es: ~
+        population: 37821
+    name: "Al Bayḑāʼ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Aden
+    cities: 
+      - 
+        alternate_names: 
+          - Adem
+          - Aden
+          - Adeno
+        ascii_name: Aden
+        name: Aden
+        names_en: 
+          - Aden
+        names_es: 
+          - Adén
+        population: 550602
+    name: Aden
+    names_en: 
+      - Aden
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Abyan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Az Zanjabar"
+          - "Az Zanjabār"
+          - Zanjibar
+        ascii_name: Zinjibar
+        name: Zinjibār
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Al Jawf"
+          - "Al Jouf"
+          - Al-Jauf
+        ascii_name: "Jawf al Maqbabah"
+        name: "Jawf al Maqbābah"
+        names_en: ~
+        names_es: ~
+        population: 14175
+    name: Abyan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat ad Dali`"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ad Dali`"
+          - "Adh Dhala`"
+          - "Adh Dhāla‘"
+        ascii_name: Dhalie
+        name: Dhalie
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Muḩāfaz̧at aḑ Ḑāli‘"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Omran
+    cities: 
+      - 
+        alternate_names: 
+          - "`Amran"
+          - "`Umran"
+          - عمران
+        ascii_name: "`Amran"
+        name: ‘Amrān
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Omran
+    names_en: 
+      - Omran
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Hajjah"
+    cities: 
+      - 
+        alternate_names: 
+          - Hage
+          - Haggah
+          - Haggiah
+        ascii_name: Hajjah
+        name: Ḩajjah
+        names_en: ~
+        names_es: ~
+        population: 43549
+    name: Ḩajjah
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Ibb"
+    cities: 
+      - 
+        alternate_names: 
+          - Jarim
+          - Yarim
+          - Yarīm
+        ascii_name: Yarim
+        name: Yarīm
+        names_en: ~
+        names_es: ~
+        population: 33050
+      - 
+        alternate_names: ~
+        ascii_name: Ibb
+        name: Ibb
+        names_en: ~
+        names_es: ~
+        population: 234837
+      - 
+        alternate_names: 
+          - "Dhi Sifal"
+          - "Dhi Sufal"
+          - "Dhi as Sufal"
+        ascii_name: "Dhi Sufal"
+        name: "Dhī Sufāl"
+        names_en: ~
+        names_es: ~
+        population: 37997
+    name: Ibb
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Lahij"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Hawtah"
+          - "Al Ḩawţah"
+          - Lahaj
+        ascii_name: Lahij
+        name: Laḩij
+        names_en: ~
+        names_es: ~
+        population: 23375
+    name: Laḩij
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Amanat Al Asimah"
+    cities: 
+      - 
+        alternate_names: 
+          - San"o
+          - San'a
+          - San'a'
+        ascii_name: Sanaa
+        name: Sanaa
+        names_en: 
+          - Sanaa
+        names_es: 
+          - Saná
+        population: 1937451
+    name: "Amanat Al Asimah"
+    names_en: ~
+    names_es: ~

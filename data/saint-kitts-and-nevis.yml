@@ -1,29 +1,112 @@
 --- 
-code: KN
-continent: NA
 name: "Saint Kitts and Nevis"
-population: 49898
+names_en: 
+  - "Saint Kitts and Nevis"
+names_es: 
+  - "San Cristóbal y Nieves"
+  - "San Cristóbal y Nevis"
 regions: 
   - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (17.2948400000000007 -62.7261000000000024)"
-        name: Basseterre
-        population: 12920
-        slug: basseterre
-    code: KN.03
-    name: "Saint George Basseterre"
-    slug: saint-george-basseterre
+    ascii_name: "Trinity Palmetto Point"
+    cities: []
+    name: "Trinity Palmetto Point"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Saint Thomas Middle Island"
+    cities: []
+    name: "Saint Thomas Middle Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Thomas Lowland"
+    cities: []
+    name: "Saint Thomas Lowland"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Peter Basseterre"
+    cities: []
+    name: "Saint Peter Basseterre"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Paul Charlestown"
     cities: 
       - 
-        districts: []
-        location: "POINT (17.1333300000000008 -62.6166699999999992)"
+        alternate_names: 
+          - Charlestown
+        ascii_name: Charlestown
         name: Charlestown
+        names_en: ~
+        names_es: ~
         population: 1538
-        slug: charlestown
-    code: KN.10
     name: "Saint Paul Charlestown"
-    slug: saint-paul-charlestown
-tld: kn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Paul Capesterre"
+    cities: []
+    name: "Saint Paul Capesterre"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Mary Cayon"
+    cities: []
+    name: "Saint Mary Cayon"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint John Figtree"
+    cities: []
+    name: "Saint John Figtree"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint John Capesterre"
+    cities: []
+    name: "Saint John Capesterre"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint James Windward"
+    cities: []
+    name: "Saint James Windwa"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint George Gingerland"
+    cities: []
+    name: "Saint George Gingerland"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint George Basseterre"
+    cities: 
+      - 
+        alternate_names: 
+          - "Basse Terre Town"
+          - Basseterre
+          - Baster
+        ascii_name: Basseterre
+        name: Basseterre
+        names_en: 
+          - Basseterre
+        names_es: 
+          - Basseterre
+        population: 12920
+    name: "Saint George Basseterre"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Anne Sandy Point"
+    cities: []
+    name: "Saint Anne Sandy Point"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Christ Church Nichola Town"
+    cities: []
+    name: "Christ Church Nichola Town"
+    names_en: ~
+    names_es: ~

@@ -1,699 +1,1241 @@
 --- 
-code: AF
-continent: AS
 name: Afghanistan
-population: 29121286
+names_en: 
+  - Afghanistan
+  - "Islamic Republic of Afghanistan"
+names_es: 
+  - Afganistán
 regions: 
   - 
+    ascii_name: Zabul
     cities: 
       - 
-        districts: []
-        location: "POINT (36.9488899999999987 72.3169400000000024)"
-        name: Khandūd
-        population: 5521
-        slug: khandud
-      - 
-        districts: []
-        location: "POINT (36.8647700000000000 70.8342099999999988)"
-        name: Jarm
-        population: 12106
-        slug: jarm
-      - 
-        districts: []
-        location: "POINT (37.1166399999999967 70.5800200000000046)"
-        name: Fayzabad
-        population: 44421
-        slug: fayzabad
-      - 
-        districts: []
-        location: "POINT (36.6833299999999980 71.5333300000000065)"
-        name: Ashkāsham
-        population: 12120
-        slug: ashkasham
-    code: AF.01
-    name: Badakhshan
-    slug: badakhshan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.2479999999999976 63.0043999999999969)"
-        name: "Sang Atesh"
-        population: 0
-        slug: sang-atesh
-      - 
-        districts: []
-        location: "POINT (34.9873499999999993 63.1289099999999976)"
-        name: "Qala i Naw"
-        population: 56867
-        slug: qala-i-naw
-      - 
-        districts: []
-        location: "POINT (34.8085000000000022 63.4300300000000021)"
-        name: Qādis
-        population: 0
-        slug: qadis
-      - 
-        districts: []
-        location: "POINT (35.5840800000000002 63.3288599999999988)"
-        name: "Bala Murghab"
-        population: 0
-        slug: bala-murghab
-      - 
-        districts: []
-        location: "POINT (35.0636099999999971 64.1491699999999980)"
-        name: Jawand
-        population: 0
-        slug: jawand
-      - 
-        districts: []
-        location: "POINT (35.7306200000000018 63.7826400000000007)"
-        name: Ghormach
-        population: 30000
-        slug: ghormach
-      - 
-        districts: []
-        location: "POINT (34.1073799999999991 64.3051999999999992)"
-        name: Shahrak
-        population: 15967
-        slug: shahrak
-    code: AF.02
-    name: Badghis
-    slug: badghis
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.2646799999999985 68.0155100000000061)"
-        name: Āybak
-        population: 47823
-        slug: aybak
-      - 
-        districts: []
-        location: "POINT (35.9445800000000020 68.7151199999999989)"
-        name: "Pul-e Khumrī"
-        population: 56369
-        slug: pul-e-khumri
-      - 
-        districts: []
-        location: "POINT (36.0649000000000015 69.1334300000000042)"
-        name: Nahrīn
-        population: 22363
-        slug: nahrin
-      - 
-        districts: []
-        location: "POINT (35.9061700000000030 68.4886900000000054)"
-        name: "Ḩukūmatī Dahānah-ye Ghōrī"
-        population: 3307
-        slug: hukumati-dahanah-ye-ghori
-      - 
-        districts: []
-        location: "POINT (36.1306799999999981 68.7082900000000052)"
-        name: Baghlān
-        population: 108449
-        slug: baghlan
-    code: AF.03
-    name: Baghlān
-    slug: baghlan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.3879499999999965 67.0232699999999966)"
-        name: Panjāb
-        population: 13471
-        slug: panjab
-      - 
-        districts: []
-        location: "POINT (34.8241700000000023 67.8216699999999975)"
-        name: Bāmyān
-        population: 0
-        slug: bamyan
-      - 
-        districts: []
-        location: "POINT (32.1057500000000005 66.9083300000000065)"
+        alternate_names: 
+          - Kalat
+          - Kalat-i-Ghilzai
+          - Kalāt-i-Ghilzai
+        ascii_name: Qalat
         name: Qalāt
+        names_en: ~
+        names_es: ~
         population: 12191
-        slug: qalat
-      - 
-        districts: []
-        location: "POINT (34.2654500000000013 67.3451600000000070)"
-        name: "Cool űrhajó"
-        population: 58525
-        slug: cool-urhajo
-    code: AF.05
-    name: Bāmīān
-    slug: bamian
+    name: Zabul
+    names_en: 
+      - "Zabul Province"
+      - Zabul
+    names_es: 
+      - "Provincia de Zābul"
   - 
+    ascii_name: "Wilayat-e Wardak"
     cities: 
       - 
-        districts: []
-        location: "POINT (32.3745100000000008 62.1163799999999995)"
-        name: Farāh
-        population: 43561
-        slug: farah
-      - 
-        districts: []
-        location: "POINT (32.7586999999999975 61.6539700000000011)"
-        name: "Anār Darah"
-        population: 10023
-        slug: anar-darah
-    code: AF.06
-    name: Farah
-    slug: farah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.9213900000000024 64.7836099999999959)"
-        name: Maymana
-        population: 75900
-        slug: maymana
-      - 
-        districts: []
-        location: "POINT (36.9529300000000021 65.1237600000000043)"
-        name: Andkhōy
-        population: 29208
-        slug: andkhoy
-    code: AF.07
-    name: Faryab
-    slug: faryab
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.0727499999999992 64.8358999999999952)"
-        name: Sangīn
-        population: 13579
-        slug: sangin
-      - 
-        districts: []
-        location: "POINT (31.5938200000000009 64.3716100000000040)"
-        name: "Lashkar Gāh"
-        population: 43934
-        slug: lashkar-gah
-      - 
-        districts: []
-        location: "POINT (31.8208899999999986 64.5700499999999948)"
-        name: Girishk
-        population: 43588
-        slug: girishk
-      - 
-        districts: []
-        location: "POINT (31.1323200000000000 64.1933999999999969)"
-        name: "Markaz-e Ḩukūmatī Darwayshān"
-        population: 9012
-        slug: markaz-e-hukumati-darwayshan
-      - 
-        districts: []
-        location: "POINT (30.4374099999999999 63.3129800000000031)"
-        name: "‘Alāqahdārī Deh-e Shū"
-        population: 9196
-        slug: alaqahdari-deh-e-shu
-    code: AF.10
-    name: Helmand
-    slug: helmand
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.6538899999999970 61.1977800000000016)"
-        name: Kōhistān
-        population: 12087
-        slug: kohistan
-      - 
-        districts: []
-        location: "POINT (34.3426400000000029 61.7467499999999987)"
-        name: "Zindah Jān"
-        population: 10104
-        slug: zindah-jan
-      - 
-        districts: []
-        location: "POINT (34.5943100000000001 61.2689499999999967)"
-        name: "Tīr Pul"
-        population: 6979
-        slug: tir-pul
-      - 
-        districts: []
-        location: "POINT (33.3029399999999995 62.1473999999999975)"
-        name: Shīnḏanḏ
-        population: 29264
-        slug: shindand
-      - 
-        districts: []
-        location: "POINT (34.9402299999999997 61.7758899999999969)"
-        name: "Qarah Bāgh"
-        population: 12412
-        slug: qarah-bagh
-      - 
-        districts: []
-        location: "POINT (33.2956500000000020 61.9522100000000009)"
-        name: Kushk
-        population: 16952
-        slug: kushk
-      - 
-        districts: []
-        location: "POINT (34.4810799999999986 62.5863000000000014)"
-        name: Karukh
-        population: 17484
-        slug: karukh
-      - 
-        districts: []
-        location: "POINT (34.3481700000000032 62.1996699999999976)"
-        name: Herāt
-        population: 272806
-        slug: herat
-      - 
-        districts: []
-        location: "POINT (34.6666700000000034 61.0666700000000020)"
-        name: "Islām Qal‘ah"
-        population: 18086
-        slug: islam-qalah
-      - 
-        districts: []
-        location: "POINT (34.2447500000000034 62.1916500000000028)"
-        name: "Chahār Burj"
-        population: 11935
-        slug: chahar-burj
-    code: AF.11
-    name: Herat
-    slug: herat
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.5874999999999986 68.9533299999999940)"
-        name: Paghmān
-        population: 49157
-        slug: paghman
-      - 
-        districts: []
-        location: "POINT (34.7497299999999996 69.1177799999999962)"
-        name: "Mīr Bachah Kōṯ"
-        population: 5405
-        slug: mir-bachah-kot
-      - 
-        districts: []
-        location: "POINT (34.5281299999999973 69.1723300000000023)"
-        name: Kabul
-        population: 3043532
-        slug: kabul
-      - 
-        districts: []
-        location: "POINT (33.5974399999999989 69.2259200000000021)"
-        name: Gardēz
-        population: 103601
-        slug: gardez
-      - 
-        districts: []
-        location: "POINT (34.3956099999999978 68.8661799999999999)"
+        alternate_names: 
+          - "Maidan Shahr"
+          - "Maidan Shar"
+          - Maydanshakhr
+        ascii_name: "Maidan Shahr"
         name: "Maīdān Shahr"
+        names_en: ~
+        names_es: ~
         population: 1600
-        slug: maidan-shahr
-    code: AF.13
-    name: Kabul
-    slug: kabul
+    name: Vardak
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wilayat-e Takhar"
     cities: 
       - 
-        districts: []
-        location: "POINT (33.9952899999999971 69.0227399999999989)"
-        name: "Pul-e ‘Alam"
-        population: 13247
-        slug: pul-e-alam
-      - 
-        districts: []
-        location: "POINT (33.9675000000000011 68.9486100000000022)"
-        name: "Barakī Barak"
-        population: 22305
-        slug: baraki-barak
-      - 
-        districts: []
-        location: "POINT (34.1735499999999988 69.6457300000000004)"
-        name: "Ḩukūmatī Azrow"
-        population: 12526
-        slug: hukumati-azrow
-    code: AF.17
-    name: Lowgar
-    slug: lowgar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.6713900000000024 70.2094400000000007)"
-        name: "Mehtar Lām"
-        population: 17345
-        slug: mehtar-lam
-      - 
-        districts: []
-        location: "POINT (34.4264700000000019 70.4515300000000053)"
-        name: Jalālābād
-        population: 200331
-        slug: jalalabad
-      - 
-        districts: []
-        location: "POINT (34.2474899999999991 70.8721800000000002)"
-        name: Bāsowl
-        population: 6835
-        slug: basowl
-      - 
-        districts: []
-        location: "POINT (33.3395099999999971 69.9204100000000039)"
-        name: Khōst
-        population: 96123
-        slug: khost
-      - 
-        districts: []
-        location: "POINT (34.9500000000000028 70.4000000000000057)"
-        name: Nūristān
-        population: 0
-        slug: nuristan
-      - 
-        districts: []
-        location: "POINT (34.1258300000000006 70.7077799999999996)"
-        name: "Markaz-e Woluswalī-ye Āchīn"
-        population: 15098
-        slug: markaz-e-woluswali-ye-achin
-    code: AF.18
-    name: Nangarhār
-    slug: nangarhar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (30.9666700000000006 61.8833300000000008)"
-        name: Zaranj
-        population: 0
-        slug: zaranj
-      - 
-        districts: []
-        location: "POINT (30.1499999999999986 62.6000000000000014)"
-        name: Rūdbār
-        population: 11034
-        slug: rudbar
-      - 
-        districts: []
-        location: "POINT (30.4362400000000015 61.8382999999999967)"
-        name: Mīrābād
-        population: 14160
-        slug: mirabad
-      - 
-        districts: []
-        location: "POINT (31.5291899999999998 62.7905500000000032)"
-        name: Khāsh
-        population: 15133
-        slug: khash
-    code: AF.19
-    name: Nīmrūz
-    slug: nimruz
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.6251899999999999 65.0551099999999991)"
-        name: "Kushk-e Nakhūd"
-        population: 0
-        slug: kushk-e-nakhud
-      - 
-        districts: []
-        location: "POINT (31.6133200000000016 65.7101300000000066)"
-        name: Kandahār
-        population: 391190
-        slug: kandahar
-      - 
-        districts: []
-        location: "POINT (31.5598099999999988 66.4892600000000016)"
-        name: Arghestān
-        population: 30500
-        slug: arghestan
-    code: AF.23
-    name: Kandahār
-    slug: kandahar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.2201900000000023 68.7804100000000034)"
-        name: Qarāwul
-        population: 24544
-        slug: qarawul
-      - 
-        districts: []
-        location: "POINT (36.7289600000000007 68.8569999999999993)"
-        name: Qunduz
-        population: 161902
-        slug: qunduz
-      - 
-        districts: []
-        location: "POINT (36.6824999999999974 69.1155600000000021)"
-        name: Khanabad
-        population: 71531
-        slug: khanabad
-      - 
-        districts: []
-        location: "POINT (37.1889699999999976 68.9364400000000046)"
-        name: "Imām Şāḩib"
-        population: 9659
-        slug: imam-sahib
-      - 
-        districts: []
-        location: "POINT (37.1333300000000008 69.1666699999999963)"
-        name: "Dasht-e Archī"
-        population: 8263
-        slug: dasht-e-archi
-    code: AF.24
-    name: Kunduz
-    slug: kunduz
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.4657199999999975 69.6113100000000031)"
+        alternate_names: 
+          - "Yangi Kala"
+          - "Yangi Qal`ah"
+          - "Yangi Qal`eh"
+        ascii_name: "Yangi Qal`ah"
         name: "Yangī Qal‘ah"
+        names_en: ~
+        names_es: ~
         population: 6541
-        slug: yangi-qalah
       - 
-        districts: []
-        location: "POINT (36.7360499999999988 69.5345099999999974)"
+        alternate_names: 
+          - Khanabad
+          - Taikhan
+          - Taleqan
+        ascii_name: Taloqan
         name: Taloqan
+        names_en: 
+          - Taloqan
+        names_es: ~
         population: 64256
-        slug: taloqan
       - 
-        districts: []
-        location: "POINT (37.1260400000000033 69.8304499999999990)"
+        alternate_names: 
+          - Rostaq
+          - Rostāq
+          - Rustak
+        ascii_name: Rustaq
         name: Rustāq
+        names_en: ~
+        names_es: ~
         population: 25636
-        slug: rustaq
       - 
-        districts: []
-        location: "POINT (36.5728799999999978 69.8578300000000070)"
+        alternate_names: 
+          - Farkhar
+          - Farkhār
+          - فرخار
+        ascii_name: Farkhar
         name: Farkhār
+        names_en: ~
+        names_es: ~
         population: 10480
-        slug: farkhar
       - 
-        districts: []
-        location: "POINT (37.0857099999999988 69.4795799999999986)"
+        alternate_names: 
+          - "Art Khvajeh (1)"
+          - "Art Khwajah"
+          - "At Khvajeh"
+        ascii_name: "Art Khwajah"
         name: "Ārt Khwājah"
+        names_en: ~
+        names_es: ~
         population: 18623
-        slug: art-khwajah
-    code: AF.26
     name: Takhār
-    slug: takhar
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wilayat-e Sar-e Pul"
     cities: 
       - 
-        districts: []
-        location: "POINT (32.8473400000000026 68.4457299999999975)"
-        name: "Zarghūn Shahr"
-        population: 13737
-        slug: zarghun-shahr
-      - 
-        districts: []
-        location: "POINT (33.1466700000000003 68.7916699999999963)"
-        name: "Zaṟah Sharan"
-        population: 7366
-        slug: zarah-sharan
-      - 
-        districts: []
-        location: "POINT (33.5535599999999974 68.4268900000000002)"
-        name: Ghazni
-        population: 141000
-        slug: ghazni
-      - 
-        districts: []
-        location: "POINT (33.0645499999999970 68.6708399999999983)"
-        name: "Markaz-e Woluswālī-ye Yōsuf Khēl"
-        population: 0
-        slug: markaz-e-woluswali-ye-yosuf-khel
-    code: AF.29
-    name: Paktīkā
-    slug: paktika
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.0399900000000031 66.7889100000000013)"
-        name: "Qarchī Gak"
-        population: 8942
-        slug: qarchi-gak
-      - 
-        districts: []
-        location: "POINT (36.7090400000000017 67.1108700000000056)"
-        name: "Mazār-e Sharīf"
-        population: 303282
-        slug: mazar-e-sharif
-      - 
-        districts: []
-        location: "POINT (36.6973600000000033 67.6982600000000048)"
-        name: Tāshqurghān
-        population: 64933
-        slug: tashqurghan
-      - 
-        districts: []
-        location: "POINT (36.7563499999999976 66.8971999999999980)"
-        name: Balkh
-        population: 114883
-        slug: balkh
-    code: AF.30
-    name: Balkh
-    slug: balkh
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.6675699999999978 65.7528999999999968)"
-        name: Shibirghan
-        population: 55641
-        slug: shibirghan
-      - 
-        districts: []
-        location: "POINT (37.4185299999999970 66.0435800000000057)"
-        name: Qarqīn
-        population: 15018
-        slug: qarqin
-      - 
-        districts: []
-        location: "POINT (35.9774400000000014 65.3782800000000037)"
-        name: "Darz Āb"
-        population: 9642
-        slug: darz-ab
-    code: AF.31
-    name: Jowzjān
-    slug: jowzjan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.9483099999999993 66.4213199999999944)"
+        alternate_names: 
+          - "Kala Sangcharak"
+          - "Kala Sangchārak"
+          - "Qal`eh Sangcharek"
+        ascii_name: Tukzar
         name: Tukzār
+        names_en: ~
+        names_es: ~
         population: 12021
-        slug: tukzar
       - 
-        districts: []
-        location: "POINT (35.6994100000000003 66.0616399999999970)"
+        alternate_names: 
+          - Bai
+          - Bay
+          - Bāy
+        ascii_name: Tagaw-Bay
         name: Tagāw-Bāy
+        names_en: ~
+        names_es: ~
         population: 9096
-        slug: tagaw-bay
       - 
-        districts: []
-        location: "POINT (36.2154400000000010 65.9324900000000014)"
+        alternate_names: 
+          - "Sar-e Pol"
+          - "Sar-e Pul"
+          - Sar-i-Pul
+        ascii_name: "Sar-e Pul"
         name: "Sar-e Pul"
+        names_en: ~
+        names_es: ~
         population: 52121
-        slug: sar-e-pul
       - 
-        districts: []
-        location: "POINT (35.8497199999999978 66.4369400000000070)"
+        alternate_names: ~
+        ascii_name: "Sang-e Charak"
         name: "Sang-e Chārak"
+        names_en: ~
+        names_es: ~
         population: 15377
-        slug: sang-e-charak
       - 
-        districts: []
-        location: "POINT (35.5472899999999967 65.5675999999999988)"
+        alternate_names: 
+          - Faoghan
+          - Fāoghān
+          - "Kala Shahar"
+        ascii_name: "Qal`ah-ye Shahr"
         name: "Qal‘ah-ye Shahr"
+        names_en: ~
+        names_es: ~
         population: 7756
-        slug: qalah-ye-shahr
       - 
-        districts: []
-        location: "POINT (35.4893599999999978 66.6640900000000016)"
+        alternate_names: 
+          - "Lar Gerd"
+          - Largird
+          - Largirid
+        ascii_name: Larkird
         name: Larkird
+        names_en: ~
+        names_es: ~
         population: 11635
-        slug: larkird
       - 
-        districts: []
-        location: "POINT (35.4167399999999972 65.9823399999999936)"
+        alternate_names: 
+          - Chiras
+          - Chīras
+          - Ciras
+        ascii_name: Chiras
         name: Chīras
+        names_en: ~
+        names_es: ~
         population: 12779
-        slug: chiras
       - 
-        districts: []
-        location: "POINT (36.0263399999999976 66.8379900000000049)"
+        alternate_names: ~
+        ascii_name: Lab-Sar
         name: Lab-Sar
+        names_en: ~
+        names_es: ~
         population: 1068
-        slug: lab-sar
-    code: AF.33
     name: "Sar-e Pol"
-    slug: sar-e-pol
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wilayat-e Samangan"
     cities: 
       - 
-        districts: []
-        location: "POINT (35.0331899999999976 71.3576999999999941)"
-        name: Āsmār
-        population: 15708
-        slug: asmar
-      - 
-        districts: []
-        location: "POINT (34.8731099999999969 71.1469699999999960)"
-        name: Asadābād
-        population: 0
-        slug: asadabad
-      - 
-        districts: []
-        location: "POINT (35.2282099999999971 71.5257799999999975)"
-        name: "Markaz-e Woluswālī-ye Nārī"
-        population: 0
-        slug: markaz-e-woluswali-ye-nari
-    code: AF.34
-    name: Konar
-    slug: konar
+        alternate_names: 
+          - Aibak
+          - Aybak
+          - Aībak
+        ascii_name: Aibak
+        name: Aībak
+        names_en: ~
+        names_es: ~
+        population: 47823
+    name: Samangān
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wilayat-e Parwan"
     cities: 
       - 
-        districts: []
-        location: "POINT (32.6267500000000013 65.8733100000000036)"
-        name: Tarinkot
-        population: 0
-        slug: tarinkot
-      - 
-        districts: []
-        location: "POINT (32.9277500000000032 66.6325300000000027)"
-        name: Uruzgān
-        population: 13388
-        slug: uruzgan
-    code: AF.39
-    name: Orūzgān
-    slug: oruzgan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.1183300000000003 69.2377800000000008)"
+        alternate_names: 
+          - Djabal-ul-Seradj
+          - Dzhabal'-Ussaradzh
+          - Dzhabal’-Ussaradzh
+        ascii_name: "Jabal os Saraj"
         name: "Jabal os Saraj"
+        names_en: 
+          - "Jabal Saraj"
+          - "Jabul Saraj"
+        names_es: ~
         population: 15032
-        slug: jabal-os-saraj
       - 
-        districts: []
-        location: "POINT (35.0136099999999999 69.1713900000000024)"
+        alternate_names: 
+          - Caharikar
+          - Carikar
+          - Chaharikar
+        ascii_name: Charikar
         name: Charikar
+        names_en: ~
+        names_es: ~
         population: 53676
-        slug: charikar
-      - 
-        districts: []
-        location: "POINT (34.8550100000000000 69.6491699999999980)"
-        name: Tagāb
-        population: 6400
-        slug: tagab
-    code: AF.40
     name: Parvān
-    slug: parvan
-tld: af
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Paktika"
+    cities: 
+      - 
+        alternate_names: 
+          - Katawaz
+          - Katāwāz
+          - "Khayr Kot"
+        ascii_name: "Zarghun Shahr"
+        name: "Zarghūn Shahr"
+        names_en: ~
+        names_es: ~
+        population: 13737
+      - 
+        alternate_names: 
+          - Sharan
+          - Sharnah
+          - Sherana
+        ascii_name: "Zarah Sharan"
+        name: "Zaṟah Sharan"
+        names_en: ~
+        names_es: ~
+        population: 7366
+      - 
+        alternate_names: ~
+        ascii_name: "Markaz-e Woluswali-ye Yosuf Khel"
+        name: "Markaz-e Woluswālī-ye Yōsuf Khēl"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Paktīkā
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Paktia
+    cities: 
+      - 
+        alternate_names: 
+          - Gardeyz
+          - Gardez
+          - Gardiz
+        ascii_name: Gardez
+        name: Gardēz
+        names_en: 
+          - Gardez
+        names_es: 
+          - Gardez
+        population: 103601
+    name: Paktia
+    names_en: 
+      - "Paktia Province"
+      - Paktia
+    names_es: 
+      - "Provincia de Paktiyā"
+  - 
+    ascii_name: Oruzgan
+    cities: 
+      - 
+        alternate_names: 
+          - "Tarin Kot"
+          - "Tarin Kowt"
+          - Tarinkot
+        ascii_name: Tarinkot
+        name: Tarinkot
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Orozgan
+          - Orozgān
+          - Oruzgan
+        ascii_name: Uruzgan
+        name: Uruzgān
+        names_en: ~
+        names_es: ~
+        population: 13388
+    name: Orūzgān
+    names_en: 
+      - "Orūzgān Province"
+      - Orūzgān
+    names_es: 
+      - "Provincia de Urūzgān"
+  - 
+    ascii_name: "Wilayat-e Nimroz"
+    cities: 
+      - 
+        alternate_names: 
+          - Zaranas
+          - Zarani
+          - Zaranj
+        ascii_name: Zaranj
+        name: Zaranj
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Rudbar
+        name: Rūdbār
+        names_en: ~
+        names_es: ~
+        population: 11034
+      - 
+        alternate_names: 
+          - Mirabad
+          - "Mirabad-e Mohammad Akbar"
+          - Mīrābād
+        ascii_name: Mirabad
+        name: Mīrābād
+        names_en: ~
+        names_es: ~
+        population: 14160
+      - 
+        alternate_names: 
+          - Khas
+          - Khash
+          - Khāsh
+        ascii_name: Khash
+        name: Khāsh
+        names_en: ~
+        names_es: ~
+        population: 15133
+    name: Nīmrūz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Nangarhar"
+    cities: 
+      - 
+        alternate_names: 
+          - Djelalabad
+          - Dschalalabad
+          - Dzalalabad
+        ascii_name: Jalalabad
+        name: Jalālābād
+        names_en: 
+          - Jalalabad
+        names_es: 
+          - Jalalabad
+        population: 200331
+      - 
+        alternate_names: 
+          - Basavul'
+          - Basavul’
+          - Basawul
+        ascii_name: Basowl
+        name: Bāsowl
+        names_en: ~
+        names_es: ~
+        population: 6835
+      - 
+        alternate_names: 
+          - Achin
+          - Achin-Ulusvali
+          - "Acin Oluswali"
+        ascii_name: "Markaz-e Woluswali-ye Achin"
+        name: "Markaz-e Woluswalī-ye Āchīn"
+        names_en: ~
+        names_es: ~
+        population: 15098
+    name: Nangarhār
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Logar"
+    cities: 
+      - 
+        alternate_names: 
+          - "Pol-e `Alam"
+          - "Pol-e ‘Alam"
+          - "Pul-e `Alam"
+        ascii_name: "Pul-e `Alam"
+        name: "Pul-e ‘Alam"
+        names_en: ~
+        names_es: ~
+        population: 13247
+      - 
+        alternate_names: 
+          - "Baraki Barak"
+          - "Baraki Burak"
+          - Barakibarak
+        ascii_name: "Baraki Barak"
+        name: "Barakī Barak"
+        names_en: ~
+        names_es: ~
+        population: 22305
+      - 
+        alternate_names: 
+          - Azra
+          - Azrah
+          - Azraw
+        ascii_name: "Hukumati Azrow"
+        name: "Ḩukūmatī Azrow"
+        names_en: ~
+        names_es: ~
+        population: 12526
+    name: Lowgar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Laghman"
+    cities: 
+      - 
+        alternate_names: 
+          - Laghman
+          - "Mehtar Lam"
+          - "Mehtar Lām"
+        ascii_name: "Mehtar Lam"
+        name: "Mehtar Lām"
+        names_en: ~
+        names_es: ~
+        population: 17345
+    name: Laghmān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Kunduz
+    cities: 
+      - 
+        alternate_names: 
+          - "Hazrat Imam"
+          - "Hazrat Imam Saiyid"
+          - "Hazrat Imām"
+        ascii_name: Qarawul
+        name: Qarāwul
+        names_en: ~
+        names_es: ~
+        population: 24544
+      - 
+        alternate_names: 
+          - Kondoz
+          - Konduz
+          - Kondūz
+        ascii_name: Kunduz
+        name: Kunduz
+        names_en: 
+          - Kunduz
+        names_es: ~
+        population: 161902
+      - 
+        alternate_names: 
+          - Khanabad
+          - Khānābād
+          - Ханабад
+        ascii_name: Khanabad
+        name: Khanabad
+        names_en: ~
+        names_es: ~
+        population: 71531
+      - 
+        alternate_names: 
+          - "Emam Saheb"
+          - "Emām Şāḩeb"
+          - Hazrat
+        ascii_name: "Imam Sahib"
+        name: "Imām Şāḩib"
+        names_en: ~
+        names_es: ~
+        population: 9659
+      - 
+        alternate_names: ~
+        ascii_name: "Dasht-e Archi"
+        name: "Dasht-e Archī"
+        names_en: ~
+        names_es: ~
+        population: 8263
+    name: Kunduz
+    names_en: 
+      - "Kunduz Province"
+      - Kunduz
+    names_es: 
+      - "Provincia de Qundūz"
+  - 
+    ascii_name: "Wilayat-e Kunar"
+    cities: 
+      - 
+        alternate_names: 
+          - Asma
+          - Asmar
+          - Asmār
+        ascii_name: Asmar
+        name: Āsmār
+        names_en: ~
+        names_es: ~
+        population: 15708
+      - 
+        alternate_names: 
+          - Asadabad
+          - Asadābād
+          - Assad-Abad
+        ascii_name: Asadabad
+        name: Asadābād
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Markaz-e Woluswali-ye Nari"
+        name: "Markaz-e Woluswālī-ye Nārī"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Konar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Kapisa"
+    cities: 
+      - 
+        alternate_names: 
+          - Pagab
+          - Tagab
+          - Tagao
+        ascii_name: Tagab
+        name: Tagāb
+        names_en: ~
+        names_es: ~
+        population: 6400
+    name: Kāpīsā
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Kandahar"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kashk-e Nokhowd"
+          - "Keshk-e Nakhud"
+          - "Keshk-e Nakhūd"
+        ascii_name: "Kishk-e Nakhud"
+        name: "Kishk-e Nakhūd"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Candahar
+          - Kandagar
+          - Kandahar
+        ascii_name: Kandahar
+        name: Kandahār
+        names_en: 
+          - Kandahar
+        names_es: 
+          - Kandahar
+        population: 391190
+    name: Kandahār
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Kabul
+    cities: 
+      - 
+        alternate_names: 
+          - Paghman
+          - "Paghman Palace"
+          - Paghmān
+        ascii_name: Paghman
+        name: Paghmān
+        names_en: ~
+        names_es: ~
+        population: 49157
+      - 
+        alternate_names: 
+          - "Mir Bachah Kot"
+          - "Mir Bachcheh Kowt"
+          - "Mir Bachcheh Kut"
+        ascii_name: "Mir Bachah Kot"
+        name: "Mīr Bachah Kōṯ"
+        names_en: ~
+        names_es: ~
+        population: 5405
+      - 
+        alternate_names: 
+          - Cabool
+          - Caboul
+          - Cabul
+        ascii_name: Kabul
+        name: Kabul
+        names_en: 
+          - Kabul
+        names_es: 
+          - Kabul
+        population: 3043532
+    name: Kabul
+    names_en: 
+      - "Kabul Province"
+      - Kabul
+    names_es: 
+      - "Provincia de Kabul"
+      - Kabul
+  - 
+    ascii_name: "Wilayat-e Jowzjan"
+    cities: 
+      - 
+        alternate_names: 
+          - Seberghan
+          - Sebeṟghān
+          - "Shahr-e Sheberghan"
+        ascii_name: Shibirghan
+        name: Shibirghān
+        names_en: ~
+        names_es: ~
+        population: 55641
+      - 
+        alternate_names: 
+          - Karkin
+          - "Karkin Bazar"
+          - Kkhanika
+        ascii_name: Qarqin
+        name: Qarqīn
+        names_en: ~
+        names_es: ~
+        population: 15018
+      - 
+        alternate_names: 
+          - "Darz Ab"
+          - "Darz Āb"
+          - Darzab
+        ascii_name: "Darz Ab"
+        name: "Darz Āb"
+        names_en: ~
+        names_es: ~
+        population: 9642
+    name: Jowzjān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Herat
+    cities: 
+      - 
+        alternate_names: 
+          - Kohistan
+          - Kohsan
+          - Kohsān
+        ascii_name: Kohistan
+        name: Kōhistān
+        names_en: ~
+        names_es: ~
+        population: 12087
+      - 
+        alternate_names: 
+          - Fusanj
+          - Fushanj
+          - Fus̄anj
+        ascii_name: "Zindah Jan"
+        name: "Zindah Jān"
+        names_en: ~
+        names_es: ~
+        population: 10104
+      - 
+        alternate_names: 
+          - "Tir Pol"
+          - "Tir Pul"
+          - Tirpul
+        ascii_name: "Tir Pul"
+        name: "Tīr Pul"
+        names_en: ~
+        names_es: ~
+        population: 6979
+      - 
+        alternate_names: 
+          - Asfazar
+          - Asfazār
+          - Sabzavar
+        ascii_name: Shindand
+        name: Shīnḏanḏ
+        names_en: ~
+        names_es: ~
+        population: 29264
+      - 
+        alternate_names: 
+          - Karabagh
+          - Karabāgh
+          - Kharabagh
+        ascii_name: "Qarah Bagh"
+        name: "Qarah Bāgh"
+        names_en: ~
+        names_es: ~
+        population: 12412
+      - 
+        alternate_names: 
+          - Kushk
+          - Kusk
+          - Kus̄k
+        ascii_name: Kushk
+        name: Kushk
+        names_en: ~
+        names_es: ~
+        population: 16952
+      - 
+        alternate_names: 
+          - Karokh
+          - Karrukh
+          - Karukh
+        ascii_name: Karukh
+        name: Karukh
+        names_en: ~
+        names_es: ~
+        population: 17484
+      - 
+        alternate_names: 
+          - Gerat
+          - Herat
+          - Herāt
+        ascii_name: Herat
+        name: Herāt
+        names_en: 
+          - Herat
+        names_es: 
+          - Herāt
+        population: 272806
+      - 
+        alternate_names: 
+          - "Eslam Qal`eh"
+          - Eslamqal`a
+          - Eslamqal‘a
+        ascii_name: "Islam Qal`ah"
+        name: "Islām Qal‘ah"
+        names_en: ~
+        names_es: ~
+        population: 18086
+      - 
+        alternate_names: 
+          - "Car Burj"
+          - "Chahar Borj"
+          - "Chahar Burj"
+        ascii_name: "Chahar Burj"
+        name: "Chahār Burj"
+        names_en: ~
+        names_es: ~
+        population: 11935
+    name: Herat
+    names_en: 
+      - "Herat Province"
+      - Herat
+    names_es: 
+      - "Provincia de Herāt"
+  - 
+    ascii_name: Helmand
+    cities: 
+      - 
+        alternate_names: 
+          - Sandzhin
+          - Sangin
+          - Sangīn
+        ascii_name: Sangin
+        name: Sangīn
+        names_en: ~
+        names_es: ~
+        population: 13579
+      - 
+        alternate_names: 
+          - Bist
+          - Bost
+          - Bust
+        ascii_name: "Lashkar Gah"
+        name: "Lashkar Gāh"
+        names_en: 
+          - "Lashkar Gah"
+        names_es: ~
+        population: 43934
+      - 
+        alternate_names: 
+          - Gereshk
+          - Geresk
+          - Gerešk
+        ascii_name: Girishk
+        name: Girishk
+        names_en: ~
+        names_es: ~
+        population: 43588
+      - 
+        alternate_names: 
+          - Darvishan
+          - Darvīshān
+          - Darwesan
+        ascii_name: "Markaz-e Hukumat-e Darwayshan"
+        name: "Markaz-e Ḩukūmat-e Darwayshān"
+        names_en: ~
+        names_es: ~
+        population: 9012
+      - 
+        alternate_names: 
+          - "`Alaqadari Dehe Su"
+          - "`Alaqahdari Deh-e Shu"
+          - "`Alaqehdari Deh-e Shu"
+        ascii_name: "`Alaqahdari Deh-e Shu"
+        name: "‘Alāqahdārī Deh-e Shū"
+        names_en: ~
+        names_es: ~
+        population: 9196
+    name: Helmand
+    names_en: 
+      - Helmand
+      - "Helmand Province"
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Ghor"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bati Dara"
+          - "Kala Shaharak"
+          - "Kala Shahrak"
+        ascii_name: Shahrak
+        name: Shahrak
+        names_en: ~
+        names_es: ~
+        population: 15967
+      - 
+        alternate_names: 
+          - Caghcaran
+          - Caghcaṟān
+          - Cakhcaran
+        ascii_name: Chaghcharan
+        name: Chaghcharān
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Ghowr
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Ghazni"
+    cities: 
+      - 
+        alternate_names: 
+          - Gazni
+          - Ghazni
+          - Ghaznī
+        ascii_name: Ghazni
+        name: Ghazni
+        names_en: 
+          - Ghazni
+        names_es: 
+          - Gazni
+        population: 141000
+    name: Ghaznī
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Faryab
+    cities: 
+      - 
+        alternate_names: 
+          - Maimana
+          - Maimanah
+          - Maimāna
+        ascii_name: Maymana
+        name: Maymana
+        names_en: 
+          - Maymana
+        names_es: ~
+        population: 75900
+      - 
+        alternate_names: 
+          - Andkhoi
+          - Andkhoy
+          - Andkhui
+        ascii_name: Andkhoy
+        name: Andkhōy
+        names_en: ~
+        names_es: ~
+        population: 29208
+    name: Faryab
+    names_en: 
+      - "Faryab Province"
+      - Faryab
+    names_es: 
+      - "Provincia de Fāryāb"
+  - 
+    ascii_name: Farah
+    cities: 
+      - 
+        alternate_names: 
+          - Farah
+          - Farakh
+          - Farāh
+        ascii_name: Farah
+        name: Farāh
+        names_en: ~
+        names_es: ~
+        population: 43561
+      - 
+        alternate_names: 
+          - "Anar Dara"
+          - "Anar Darah"
+          - "Anar Darrah"
+        ascii_name: "Anar Darah"
+        name: "Anār Darah"
+        names_en: ~
+        names_es: ~
+        population: 10023
+    name: Farah
+    names_en: 
+      - Farah
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Bamyan"
+    cities: 
+      - 
+        alternate_names: 
+          - Pandzhab
+          - Pandzhau
+          - Panjab
+        ascii_name: Panjab
+        name: Panjāb
+        names_en: ~
+        names_es: ~
+        population: 13471
+      - 
+        alternate_names: 
+          - Bamian
+          - Bamiyan
+          - Bamyan
+        ascii_name: Bamyan
+        name: Bāmyān
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Cool urhajo"
+        name: "Cool űrhajó"
+        names_en: ~
+        names_es: ~
+        population: 58525
+    name: Bāmīān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Balkh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Qarchi Gak"
+          - "Qarchī Gak"
+          - "قرچی گک"
+        ascii_name: "Qarchi Gak"
+        name: "Qarchī Gak"
+        names_en: ~
+        names_es: ~
+        population: 8942
+      - 
+        alternate_names: 
+          - "Masar-e Scharif"
+          - "Mazar-e Sarif"
+          - "Mazar-e Sharif"
+        ascii_name: "Mazar-e Sharif"
+        name: "Mazār-e Sharīf"
+        names_en: 
+          - "Mazari Sharif"
+        names_es: 
+          - "Mazār-e Šarīf"
+        population: 303282
+      - 
+        alternate_names: 
+          - Kholm
+          - Khulm
+          - Tashkurgan
+        ascii_name: Tashqurghan
+        name: Tāshqurghān
+        names_en: 
+          - Khulm
+        names_es: ~
+        population: 64933
+      - 
+        alternate_names: 
+          - Bactra
+          - Bactresh
+          - Bakhtar
+        ascii_name: Balkh
+        name: Balkh
+        names_en: 
+          - Balkh
+        names_es: 
+          - Balh
+        population: 114883
+    name: Balkh
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Baghlan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Pol-e Khomri"
+          - "Pol-e Khomrī"
+          - "Pul-e Khumri"
+        ascii_name: "Pul-e Khumri"
+        name: "Pul-e Khumrī"
+        names_en: ~
+        names_es: ~
+        population: 56369
+      - 
+        alternate_names: 
+          - Nahrin
+          - Nahrīn
+          - Nakhrin
+        ascii_name: Nahrin
+        name: Nahrīn
+        names_en: ~
+        names_es: ~
+        population: 22363
+      - 
+        alternate_names: 
+          - Dahana
+          - "Dahana Ghori"
+          - Dahana-i-Ghori
+        ascii_name: "Hukumati Dahanah-ye Ghori"
+        name: "Ḩukūmatī Dahānah-ye Ghōrī"
+        names_en: ~
+        names_es: ~
+        population: 3307
+      - 
+        alternate_names: 
+          - Baghlan
+          - "Baghlan - bghlan"
+          - "Baghlan - بغلان"
+        ascii_name: Baghlan
+        name: Baghlān
+        names_en: 
+          - Baghlan
+        names_es: ~
+        population: 108449
+    name: Baghlān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Badghis
+    cities: 
+      - 
+        alternate_names: 
+          - "Sang Ates Mamaka"
+          - "Sang Atesh Mamakah"
+          - "Sang Atish Mamakah"
+        ascii_name: "Sang Atesh"
+        name: "Sang Atesh"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Kala Nao"
+          - Kalai-Naw
+          - Kalayi-Nau
+        ascii_name: "Qala i Naw"
+        name: "Qala i Naw"
+        names_en: ~
+        names_es: ~
+        population: 56867
+      - 
+        alternate_names: 
+          - Kadis
+          - Qaddis
+          - Qades
+        ascii_name: Qadis
+        name: Qādis
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bala Murghab"
+          - "Bālā Murghāb"
+          - "Bālā Muṟghāb"
+        ascii_name: "Bala Murghab"
+        name: "Bala Murghab"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Javand
+          - Jawand
+          - Jowand
+        ascii_name: Jawand
+        name: Jawand
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Garmak
+          - Ghormac
+          - Ghormach
+        ascii_name: Ghormach
+        name: Ghormach
+        names_en: ~
+        names_es: ~
+        population: 30000
+    name: Badghis
+    names_en: 
+      - "Badghis Province"
+      - Badghis
+    names_es: 
+      - "Provincia de Bādgīs"
+  - 
+    ascii_name: Badakhshan
+    cities: 
+      - 
+        alternate_names: 
+          - "Keran va Menjan"
+          - "Kerana va Manjah"
+          - "Kerān va Menjān"
+        ascii_name: "`Alaqahdari-ye Kiran wa Munjan"
+        name: "‘Alāqahdārī-ye Kirān wa Munjān"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Khandud
+          - "Khandud (1)"
+          - Khandut
+        ascii_name: Khandud
+        name: Khandūd
+        names_en: ~
+        names_es: ~
+        population: 5521
+      - 
+        alternate_names: 
+          - Jarm
+          - Jorm
+          - Jurm
+        ascii_name: Jarm
+        name: Jarm
+        names_en: ~
+        names_es: ~
+        population: 12106
+      - 
+        alternate_names: 
+          - Faizabad
+          - Faizābād
+          - Fajzabad
+        ascii_name: Fayzabad
+        name: Fayzabad
+        names_en: ~
+        names_es: ~
+        population: 44421
+      - 
+        alternate_names: ~
+        ascii_name: Ashkasham
+        name: Ashkāsham
+        names_en: ~
+        names_es: ~
+        population: 12120
+    name: Badakhshan
+    names_en: 
+      - Badakhshan
+    names_es: ~
+  - 
+    ascii_name: "Velayat-e Khowst"
+    cities: 
+      - 
+        alternate_names: 
+          - Khost
+          - Khowst
+          - Khōst
+        ascii_name: Khost
+        name: Khōst
+        names_en: ~
+        names_es: ~
+        population: 96123
+    name: Khowst
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Velayat-e Nurestan"
+    cities: 
+      - 
+        alternate_names: 
+          - Parun
+          - Poruns
+          - Puruns
+        ascii_name: Parun
+        name: Pārūn
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Nūrestān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilayat-e Daykundi"
+    cities: 
+      - 
+        alternate_names: 
+          - Nili
+          - Nīlī
+          - "Qaryah-e Nili"
+        ascii_name: Nili
+        name: Nīlī
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Wilāyat-e Dāykundī"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Panjshir
+    cities: 
+      - 
+        alternate_names: 
+          - Bazarak
+          - Bāzārak
+          - bazark
+        ascii_name: Bazarak
+        name: Bāzārak
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Panjshir
+    names_en: ~
+    names_es: ~

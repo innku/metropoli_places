@@ -1,18 +1,24 @@
 --- 
-code: JE
-continent: EU
 name: Jersey
-population: 90812
+names_en: 
+  - Jersey
+names_es: 
+  - Jersey
 regions: 
   - 
+    ascii_name: "Jersey (general)"
     cities: 
       - 
-        districts: []
-        location: "POINT (49.1833299999999980 -2.1000000000000001)"
+        alternate_names: 
+          - "Saint Helier"
+          - Sent-Khel'er
+          - Сент-Хельер
+        ascii_name: "Saint Helier"
         name: "Saint Helier"
+        names_en: 
+          - "Saint Helier"
+        names_es: ~
         population: 28000
-        slug: saint-helier
-    code: JE.00
-    name: "Jersey (general)"
-    slug: jersey-general
-tld: je
+    name: ~
+    names_en: ~
+    names_es: ~

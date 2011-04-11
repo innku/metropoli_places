@@ -1,29 +1,96 @@
 --- 
-code: BM
-continent: NA
 name: Bermuda
-population: 65365
+names_en: 
+  - Bermuda
+names_es: 
+  - Bermudas
 regions: 
   - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.2914900000000031 -64.7779699999999963)"
-        name: Hamilton
-        population: 902
-        slug: hamilton
-    code: BM.03
-    name: "Hamilton city"
-    slug: hamilton-city
+    ascii_name: "Warwick Parish"
+    cities: []
+    name: Warwick
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Southampton Parish"
+    cities: []
+    name: Southampton
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Smith's Parish"
+    cities: []
+    name: Smithʼs
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sandys Parish"
+    cities: []
+    name: Sandys
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint George's Parish"
+    cities: []
+    name: "Saint Georgeʼs"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint George"
     cities: 
       - 
-        districts: []
-        location: "POINT (32.3816699999999997 -64.6780600000000021)"
+        alternate_names: 
+          - "Saint George"
+          - "Saint George's Town"
+          - "Saint Georges"
+        ascii_name: "Saint George"
         name: "Saint George"
-        population: 1802
-        slug: saint-george
-    code: BM.06
+        names_en: ~
+        names_es: ~
+        population: 1896
     name: "Saint George"
-    slug: saint-george
-tld: bm
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Pembroke Parish"
+    cities: []
+    name: Pembroke
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Paget
+    cities: []
+    name: Paget
+    names_en: 
+      - Paget
+    names_es: ~
+  - 
+    ascii_name: "Hamilton Parish"
+    cities: []
+    name: "Hamilton Parish"
+    names_en: 
+      - "Hamilton Parish"
+    names_es: ~
+  - 
+    ascii_name: "Hamilton city"
+    cities: 
+      - 
+        alternate_names: 
+          - Hamilton
+        ascii_name: Hamilton
+        name: Hamilton
+        names_en: 
+          - Hamilton
+        names_es: 
+          - Hamilton
+        population: 902
+    name: "Hamilton city"
+    names_en: 
+      - "Hamilton city"
+    names_es: ~
+  - 
+    ascii_name: "Devonshire Parish"
+    cities: []
+    name: Devonshire
+    names_en: ~
+    names_es: ~

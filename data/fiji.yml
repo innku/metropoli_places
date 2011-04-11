@@ -1,40 +1,75 @@
 --- 
-code: FJ
-continent: OC
 name: Fiji
-population: 875983
+names_en: 
+  - Fiji
+names_es: 
+  - Fiyi
 regions: 
   - 
+    ascii_name: Western
     cities: 
       - 
-        districts: []
-        location: "POINT (-18.1416100000000000 178.4414899999999875)"
-        name: Suva
-        population: 77366
-        slug: suva
-    code: FJ.01
-    name: Central
-    slug: central
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-16.4166699999999999 179.3833300000000008)"
-        name: Lambasa
-        population: 24187
-        slug: lambasa
-    code: FJ.03
-    name: Northern
-    slug: northern
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-17.8000000000000007 177.4166700000000105)"
+        alternate_names: 
+          - Nadi
+          - Nandi
+          - Нанди
+        ascii_name: Nadi
         name: Nadi
+        names_en: 
+          - Nadi
+        names_es: ~
         population: 42284
-        slug: nadi
-    code: FJ.05
     name: Western
-    slug: western
-tld: fj
+    names_en: 
+      - Western
+    names_es: ~
+  - 
+    ascii_name: Northern
+    cities: 
+      - 
+        alternate_names: 
+          - Labasa
+          - Lambasa
+          - "Lambasa Mill"
+        ascii_name: Lambasa
+        name: Lambasa
+        names_en: 
+          - Labasa
+        names_es: ~
+        population: 24187
+    name: Northern
+    names_en: 
+      - Northern
+    names_es: ~
+  - 
+    ascii_name: Central
+    cities: 
+      - 
+        alternate_names: 
+          - Souba
+          - Suva
+          - "Suva City"
+        ascii_name: Suva
+        name: Suva
+        names_en: 
+          - Suva
+        names_es: 
+          - Suva
+        population: 77366
+    name: Central
+    names_en: 
+      - Central
+    names_es: ~
+  - 
+    ascii_name: Eastern
+    cities: []
+    name: Eastern
+    names_en: 
+      - Eastern
+    names_es: ~
+  - 
+    ascii_name: Rotuma
+    cities: []
+    name: Rotuma
+    names_en: ~
+    names_es: ~

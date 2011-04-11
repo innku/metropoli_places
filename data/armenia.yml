@@ -1,1927 +1,3109 @@
 --- 
-code: AM
-continent: AS
 name: Armenia
-population: 2968000
+names_en: 
+  - Armenia
+  - "Republic of Armenia"
+names_es: 
+  - Armenia
 regions: 
   - 
+    ascii_name: "Ararati Marz"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.6541700000000006 43.8822199999999967)"
-        name: Horrom
-        population: 1893
-        slug: horrom
-      - 
-        districts: []
-        location: "POINT (40.7383299999999977 43.7758299999999991)"
-        name: Voskehask
-        population: 1803
-        slug: voskehask
-      - 
-        districts: []
-        location: "POINT (40.1327799999999968 45.2486099999999993)"
-        name: "Verin Getashen"
-        population: 4173
-        slug: verin-getashen
-      - 
-        districts: []
-        location: "POINT (40.1377799999999993 45.3291699999999977)"
-        name: Vaghashen
-        population: 3235
-        slug: vaghashen
-      - 
-        districts: []
-        location: "POINT (40.6330600000000004 44.9522199999999970)"
-        name: Tsovagyugh
-        population: 3857
-        slug: tsovagyugh
-      - 
-        districts: []
-        location: "POINT (40.6361100000000022 44.2230599999999967)"
-        name: Tsaghkahovit
-        population: 1551
-        slug: tsaghkahovit
-      - 
-        districts: []
-        location: "POINT (40.7986099999999965 44.1072199999999981)"
-        name: Tsaghkaber
-        population: 1207
-        slug: tsaghkaber
-      - 
-        districts: []
-        location: "POINT (40.8372200000000021 44.2674999999999983)"
-        name: Spitak
-        population: 15059
-        slug: spitak
-      - 
-        districts: []
-        location: "POINT (40.8738900000000029 44.2100000000000009)"
-        name: Sarahart’
-        population: 1364
-        slug: sarahart
-      - 
-        districts: []
-        location: "POINT (40.9805599999999970 45.3991699999999980)"
-        name: Parravak’ar
-        population: 1637
-        slug: parravakar
-      - 
-        districts: []
-        location: "POINT (40.1458299999999966 45.2638900000000035)"
-        name: "Nerk’in Getashen"
-        population: 7010
-        slug: nerkin-getashen
-      - 
-        districts: []
-        location: "POINT (40.6494399999999985 44.0508299999999977)"
-        name: "Mets Mant’ash"
-        population: 1973
-        slug: mets-mantash
-      - 
-        districts: []
-        location: "POINT (40.6758299999999977 43.9486100000000022)"
-        name: Meghrashen
-        population: 1107
-        slug: meghrashen
-      - 
-        districts: []
-        location: "POINT (40.8530599999999993 43.8294399999999982)"
-        name: Mayisyan
-        population: 1521
-        slug: mayisyan
-      - 
-        districts: []
-        location: "POINT (40.8200000000000003 44.3972199999999972)"
-        name: Lerrnapat
-        population: 1710
-        slug: lerrnapat
-      - 
-        districts: []
-        location: "POINT (40.7955600000000018 44.2783299999999969)"
-        name: Spitak
-        population: 1192
-        slug: spitak
-      - 
-        districts: []
-        location: "POINT (40.5669400000000024 43.9361099999999993)"
-        name: Lerrnakert
-        population: 1306
-        slug: lerrnakert
-      - 
-        districts: []
-        location: "POINT (40.4611099999999979 45.0649999999999977)"
-        name: Lchap’
-        population: 1032
-        slug: lchap
-      - 
-        districts: []
-        location: "POINT (40.6427800000000019 44.1444400000000030)"
-        name: Hnaberd
-        population: 1817
-        slug: hnaberd
-      - 
-        districts: []
-        location: "POINT (40.9697200000000024 44.4713899999999995)"
-        name: Gyulagarak
-        population: 2109
-        slug: gyulagarak
-      - 
-        districts: []
-        location: "POINT (40.8072200000000009 44.5380600000000015)"
-        name: Gugark’
-        population: 4705
-        slug: gugark
-      - 
-        districts: []
-        location: "POINT (40.1752800000000008 45.1749999999999972)"
-        name: Dzoragyugh
-        population: 3570
-        slug: dzoragyugh
-      - 
-        districts: []
-        location: "POINT (40.7875000000000014 44.1972200000000015)"
-        name: Jrashen
-        population: 3078
-        slug: jrashen
-      - 
-        districts: []
-        location: "POINT (40.8808300000000031 45.3916699999999977)"
-        name: Berd
-        population: 8374
-        slug: berd
-      - 
-        districts: []
-        location: "POINT (40.7813900000000018 43.8963899999999967)"
-        name: Akhuryan
-        population: 7672
-        slug: akhuryan
-    code: AM.00
-    name: "Armenia (general)"
-    slug: armenia-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.2416699999999992 44.2727799999999974)"
-        name: Amberd
-        population: 1267
-        slug: amberd
-      - 
-        districts: []
-        location: "POINT (40.5108299999999986 44.4288900000000027)"
-        name: Zovuni
-        population: 4484
-        slug: zovuni
-      - 
-        districts: []
-        location: "POINT (40.2758299999999991 44.2972200000000029)"
-        name: Voskevaz
-        population: 3789
-        slug: voskevaz
-      - 
-        districts: []
-        location: "POINT (40.3483299999999971 44.3730600000000024)"
-        name: Ushi
-        population: 1276
-        slug: ushi
-      - 
-        districts: []
-        location: "POINT (40.3822199999999967 43.8786100000000019)"
-        name: T’alin
-        population: 4945
-        slug: talin
-      - 
-        districts: []
-        location: "POINT (40.4830600000000018 44.3813900000000032)"
-        name: Shenavan
-        population: 1587
-        slug: shenavan
-      - 
-        districts: []
-        location: "POINT (40.2633300000000034 44.3147200000000012)"
-        name: Oshakan
-        population: 4768
-        slug: oshakan
-      - 
-        districts: []
-        location: "POINT (40.1922199999999989 44.3466700000000031)"
-        name: Norakert
-        population: 2485
-        slug: norakert
-      - 
-        districts: []
-        location: "POINT (40.1758299999999977 44.0186100000000025)"
-        name: Lukashin
-        population: 2197
-        slug: lukashin
-      - 
-        districts: []
-        location: "POINT (40.3025000000000020 44.1569399999999987)"
-        name: Kosh
-        population: 2581
-        slug: kosh
-      - 
-        districts: []
-        location: "POINT (40.5333299999999994 44.4166700000000034)"
-        name: Kasakh
-        population: 4247
-        slug: kasakh
-      - 
-        districts: []
-        location: "POINT (40.3311100000000025 44.3763900000000007)"
-        name: Karbi
-        population: 3521
-        slug: karbi
-      - 
-        districts: []
-        location: "POINT (40.2227800000000002 44.2716700000000003)"
-        name: Doghs
-        population: 1186
-        slug: doghs
-      - 
-        districts: []
-        location: "POINT (40.3400000000000034 44.2702799999999996)"
-        name: Byurakan
-        population: 3902
-        slug: byurakan
-      - 
-        districts: []
-        location: "POINT (40.2355599999999995 44.2866700000000009)"
-        name: Aygeshat
-        population: 1358
-        slug: aygeshat
-      - 
-        districts: []
-        location: "POINT (40.2974999999999994 44.3616699999999966)"
-        name: Ashtarak
-        population: 18779
-        slug: ashtarak
-      - 
-        districts: []
-        location: "POINT (40.3275000000000006 43.9166700000000034)"
-        name: Ashnak
-        population: 1131
-        slug: ashnak
-      - 
-        districts: []
-        location: "POINT (40.2983300000000000 43.7541700000000020)"
-        name: Arteni
-        population: 3086
-        slug: arteni
-      - 
-        districts: []
-        location: "POINT (40.4886100000000013 44.3544399999999968)"
-        name: Aragats
-        population: 2707
-        slug: aragats
-      - 
-        districts: []
-        location: "POINT (40.5961100000000030 44.3536100000000033)"
-        name: Aparan
-        population: 5670
-        slug: aparan
-      - 
-        districts: []
-        location: "POINT (40.2336099999999988 44.2513900000000007)"
-        name: Aghavnatun
-        population: 2913
-        slug: aghavnatun
-      - 
-        districts: []
-        location: "POINT (40.3333299999999966 44.0666700000000020)"
-        name: Agarak
-        population: 1575
-        slug: agarak
-      - 
-        districts: []
-        location: "POINT (40.2472199999999987 44.3380599999999987)"
-        name: "Nor Sasunik"
-        population: 1959
-        slug: nor-sasunik
-    code: AM.01
-    name: Aragatsotn
-    slug: aragatsotn
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.0244399999999985 44.4500000000000028)"
-        name: Hovtashen
-        population: 1134
-        slug: hovtashen
-      - 
-        districts: []
-        location: "POINT (40.0080600000000004 44.4880599999999973)"
-        name: Dimitrov
-        population: 1212
-        slug: dimitrov
-      - 
-        districts: []
-        location: "POINT (40.0283299999999969 44.4827799999999982)"
-        name: Mrgavet
-        population: 2131
-        slug: mrgavet
-      - 
-        districts: []
-        location: "POINT (40.0361100000000008 44.4688900000000018)"
-        name: Arevabuyr
-        population: 1041
-        slug: arevabuyr
-      - 
-        districts: []
-        location: "POINT (39.8302800000000019 44.7025000000000006)"
-        name: Ararat
-        population: 28832
-        slug: ararat
-      - 
-        districts: []
-        location: "POINT (39.8094400000000022 45.0511100000000013)"
+        alternate_names: 
+          - Chanakhchi
+          - "Nizhniye Chanakhchi"
+          - Sovetashen
+        ascii_name: Zangakatun
         name: Zangakatun
+        names_en: ~
+        names_es: ~
         population: 1130
-        slug: zangakatun
       - 
-        districts: []
-        location: "POINT (39.8999999999999986 44.7333300000000023)"
+        alternate_names: 
+          - Gorovan
+          - Yenikend
+        ascii_name: Yenikend
         name: Yenikend
+        names_en: ~
+        names_es: ~
         population: 2238
-        slug: yenikend
       - 
-        districts: []
-        location: "POINT (39.8277799999999971 44.6372199999999992)"
+        alternate_names: 
+          - Ekhegnavan
+          - Shidlu
+          - Yeghegnavan
+        ascii_name: Yeghegnavan
         name: Yeghegnavan
+        names_en: ~
+        names_es: ~
         population: 1221
-        slug: yeghegnavan
       - 
-        districts: []
-        location: "POINT (39.9588899999999967 44.5591700000000017)"
+        alternate_names: 
+          - Bedzhazlu
+          - Vostan
+          - Востан
+        ascii_name: Vostan
         name: Vostan
+        names_en: ~
+        names_es: ~
         population: 2925
-        slug: vostan
       - 
-        districts: []
-        location: "POINT (39.8725000000000023 44.6544400000000010)"
+        alternate_names: 
+          - Shiraz
+          - Shirazlu
+          - Vosketap'
+        ascii_name: Vosketap'
         name: Vosketap’
+        names_en: ~
+        names_es: ~
         population: 4080
-        slug: vosketap
       - 
-        districts: []
-        location: "POINT (39.9105599999999967 44.7277800000000028)"
+        alternate_names: 
+          - Beyuk-Vedi
+          - Biyuk-Vedi
+          - Vedi
+        ascii_name: Vedi
         name: Vedi
+        names_en: ~
+        names_es: ~
         population: 12192
-        slug: vedi
       - 
-        districts: []
-        location: "POINT (39.8999999999999986 44.6666700000000034)"
+        alternate_names: 
+          - Sisavan
+          - Yengidzha
+          - Сисаван
+        ascii_name: Sisavan
         name: Sisavan
+        names_en: ~
+        names_es: ~
         population: 1793
-        slug: sisavan
       - 
-        districts: []
-        location: "POINT (39.9308300000000003 44.5783300000000011)"
+        alternate_names: 
+          - Shahumian
+          - Shahumyan
+          - Shaumjan
+        ascii_name: Shahumyan
         name: Shahumyan
+        names_en: ~
+        names_es: ~
         population: 3905
-        slug: shahumyan
       - 
-        districts: []
-        location: "POINT (39.8166700000000020 44.6669399999999968)"
+        alternate_names: 
+          - Khalisa
+          - Nojakert
+          - Noyakert
+        ascii_name: Noyakert
         name: Noyakert
+        names_en: ~
+        names_es: ~
         population: 1751
-        slug: noyakert
       - 
-        districts: []
-        location: "POINT (39.9661100000000005 44.5333299999999994)"
+        alternate_names: 
+          - Gedaklu
+          - Mgravan
+          - Mrgavan
+        ascii_name: Mrgavan
         name: Mrgavan
+        names_en: ~
+        names_es: ~
         population: 1713
-        slug: mrgavan
       - 
-        districts: []
-        location: "POINT (39.9669400000000010 44.5363899999999973)"
+        alternate_names: 
+          - Dalar
+          - Dalular
+          - Далар
+        ascii_name: Dalar
         name: Dalar
+        names_en: ~
+        names_es: ~
         population: 2504
-        slug: dalar
       - 
-        districts: []
-        location: "POINT (39.9833300000000023 44.5000000000000000)"
+        alternate_names: 
+          - Burastan
+          - Karagamzalu
+          - Tamamlu
+        ascii_name: Burastan
         name: Burastan
+        names_en: ~
+        names_es: ~
         population: 1998
-        slug: burastan
       - 
-        districts: []
-        location: "POINT (39.9833300000000023 44.5166699999999977)"
+        alternate_names: 
+          - Berkanush
+          - Ogurbeklu
+        ascii_name: Berkanush
         name: Berkanush
+        names_en: ~
+        names_es: ~
         population: 1682
-        slug: berkanush
       - 
-        districts: []
-        location: "POINT (39.9458300000000008 44.6088900000000024)"
+        alternate_names: 
+          - Ajgezard
+          - Anastasavan
+          - Aygedzor
+        ascii_name: Aygezard
         name: Aygezard
+        names_en: ~
+        names_es: ~
         population: 3192
-        slug: aygezard
       - 
-        districts: []
-        location: "POINT (39.9500000000000028 44.6000000000000014)"
+        alternate_names: 
+          - Ajgepat
+          - Aygepat
+          - "Dargalu Verkhniy"
+        ascii_name: Aygepat
         name: Aygepat
+        names_en: ~
+        names_es: ~
         population: 1349
-        slug: aygepat
       - 
-        districts: []
-        location: "POINT (39.8647199999999984 44.6702799999999982)"
+        alternate_names: 
+          - Ajgavan
+          - Aygavan
+          - Reganlu
+        ascii_name: Aygavan
         name: Aygavan
+        names_en: ~
+        names_es: ~
         population: 3758
-        slug: aygavan
       - 
-        districts: []
-        location: "POINT (39.8405600000000035 44.6836100000000016)"
+        alternate_names: ~
+        ascii_name: Avshar
         name: Avshar
+        names_en: ~
+        names_es: ~
         population: 4215
-        slug: avshar
       - 
-        districts: []
-        location: "POINT (39.9538900000000012 44.5505599999999973)"
+        alternate_names: 
+          - Artashat
+          - Kamarl
+          - Kamarlu
+        ascii_name: Artashat
         name: Artashat
+        names_en: ~
+        names_es: ~
         population: 20562
-        slug: artashat
       - 
-        districts: []
-        location: "POINT (39.9002800000000022 44.6533299999999969)"
+        alternate_names: 
+          - Ararat
+          - "Davalinskiy Tsemzavod"
+          - Арарат
+        ascii_name: Ararat
+        name: Ararat
+        names_en: ~
+        names_es: ~
+        population: 28832
+      - 
+        alternate_names: ~
+        ascii_name: Aralek
         name: Aralek
+        names_en: ~
+        names_es: ~
         population: 2354
-        slug: aralek
       - 
-        districts: []
-        location: "POINT (40.0925000000000011 44.3919399999999982)"
+        alternate_names: 
+          - Donguzyan
+          - Zangilar
+          - Zorak
+        ascii_name: Zorak
         name: Zorak
+        names_en: ~
+        names_es: ~
         population: 1390
-        slug: zorak
       - 
-        districts: []
-        location: "POINT (40.0252800000000022 44.5908299999999969)"
+        alternate_names: 
+          - "Aysori Dvin"
+          - "Verin Dvin"
+          - "Verkhniy Dvin"
+        ascii_name: "Verin Dvin"
         name: "Verin Dvin"
+        names_en: ~
+        names_es: ~
         population: 1853
-        slug: verin-dvin
       - 
-        districts: []
-        location: "POINT (40.0005600000000001 44.5850000000000009)"
+        alternate_names: 
+          - Ardashar
+          - Artashat
+          - "Verin Artashat"
+        ascii_name: "Verin Artashat"
         name: "Verin Artashat"
+        names_en: ~
+        names_es: ~
         population: 3931
-        slug: verin-artashat
       - 
-        districts: []
-        location: "POINT (40.0586100000000016 44.3863899999999987)"
+        alternate_names: 
+          - Sarvanlar
+          - Sis
+          - "Uliya Sarvanlar"
+        ascii_name: Sis
         name: Sis
+        names_en: ~
+        names_es: ~
         population: 1135
-        slug: sis
       - 
-        districts: []
-        location: "POINT (40.0041700000000020 44.5947200000000024)"
+        alternate_names: 
+          - Norashen
+          - "Verin Kurdkend"
+          - Норашен
+        ascii_name: Norashen
         name: Norashen
+        names_en: ~
+        names_es: ~
         population: 3049
-        slug: norashen
       - 
-        districts: []
-        location: "POINT (40.0236099999999979 44.4244399999999970)"
+        alternate_names: 
+          - Abilkend
+          - Ablkend
+          - Bulagli
+        ascii_name: Noramarg
         name: Noramarg
+        names_en: ~
+        names_es: ~
         population: 1811
-        slug: noramarg
       - 
-        districts: []
-        location: "POINT (40.0286100000000005 44.5586100000000016)"
+        alternate_names: 
+          - Mrganush
+          - Zograblu
+          - Мргануш
+        ascii_name: Mrganush
         name: Mrganush
+        names_en: ~
+        names_es: ~
         population: 1032
-        slug: mrganush
       - 
-        districts: []
-        location: "POINT (40.0672199999999989 44.4361099999999993)"
+        alternate_names: 
+          - Hrazdan
+          - Masis
+          - Narimanlu
+        ascii_name: Masis
         name: Masis
+        names_en: ~
+        names_es: ~
         population: 18911
-        slug: masis
       - 
-        districts: []
-        location: "POINT (40.0574999999999974 44.4711100000000030)"
+        alternate_names: 
+          - Marmarashen
+          - Marmorashen
+          - Мармарашен
+        ascii_name: Marmarashen
         name: Marmarashen
+        names_en: ~
+        names_es: ~
         population: 2946
-        slug: marmarashen
       - 
-        districts: []
-        location: "POINT (40.1261099999999971 44.4177800000000005)"
+        alternate_names: 
+          - Ghukasavan
+          - Gukasavan
+          - Kalara
+        ascii_name: Ghukasavan
         name: Ghukasavan
+        names_en: ~
+        names_es: ~
         population: 2113
-        slug: ghukasavan
       - 
-        districts: []
-        location: "POINT (40.0380600000000015 44.5638900000000007)"
+        alternate_names: 
+          - Agdzhakishlag
+          - Getashen
+          - Getazat
+        ascii_name: Getazat
         name: Getazat
+        names_en: ~
+        names_es: ~
         population: 1947
-        slug: getazat
       - 
-        districts: []
-        location: "POINT (40.1497200000000021 44.4344400000000022)"
+        alternate_names: 
+          - Geghanist
+          - Gekhanist
+          - Getapnia
+        ascii_name: Geghanist
         name: Geghanist
+        names_en: ~
+        names_es: ~
         population: 2409
-        slug: geghanist
       - 
-        districts: []
-        location: "POINT (40.0452799999999982 44.4736100000000008)"
+        alternate_names: 
+          - Dzhabachalu
+          - Dzharovit
+          - Dzhraovit
+        ascii_name: Jrahovit
         name: Jrahovit
+        names_en: ~
+        names_es: ~
         population: 1032
-        slug: jrahovit
       - 
-        districts: []
-        location: "POINT (40.0200000000000031 44.5852799999999974)"
+        alternate_names: 
+          - Dvin
+          - "Dvin Armyanskiy"
+          - "Nerkin Dvin"
+        ascii_name: Dvin
         name: Dvin
+        names_en: ~
+        names_es: ~
         population: 2795
-        slug: dvin
       - 
-        districts: []
-        location: "POINT (40.0161099999999976 44.5186100000000025)"
+        alternate_names: 
+          - Bambakavan
+          - Bjuravan
+          - Byuravan
+        ascii_name: Byuravan
         name: Byuravan
+        names_en: ~
+        names_es: ~
         population: 1228
-        slug: byuravan
       - 
-        districts: []
-        location: "POINT (40.0030599999999978 44.5574999999999974)"
+        alternate_names: 
+          - Ajgestan
+          - Ayaslu
+          - Aygestan
+        ascii_name: Aygestan
         name: Aygestan
+        names_en: ~
+        names_es: ~
         population: 2431
-        slug: aygestan
       - 
-        districts: []
-        location: "POINT (40.1580599999999990 44.4399999999999977)"
+        alternate_names: 
+          - Argavand
+          - Dzhafarapat
+          - Аргаванд
+        ascii_name: Argavand
         name: Argavand
+        names_en: ~
+        names_es: ~
         population: 1703
-        slug: argavand
       - 
-        districts: []
-        location: "POINT (40.0391699999999986 44.5416700000000034)"
+        alternate_names: 
+          - Arevshat
+          - Arpavar
+          - Lusakert
+        ascii_name: Arevshat
         name: Arevshat
+        names_en: ~
+        names_es: ~
         population: 2089
-        slug: arevshat
       - 
-        districts: []
-        location: "POINT (40.0488900000000001 44.5474999999999994)"
+        alternate_names: 
+          - Abovjan
+          - Abovyan
+          - Agbash
+        ascii_name: Abovyan
         name: Abovyan
+        names_en: ~
+        names_es: ~
         population: 1379
-        slug: abovyan
       - 
-        districts: []
-        location: "POINT (40.0852799999999974 44.5786099999999976)"
+        alternate_names: 
+          - Bardzrashen
+          - Bartsrashen
+        ascii_name: Bartsrashen
         name: Bartsrashen
+        names_en: ~
+        names_es: ~
         population: 1273
-        slug: bartsrashen
       - 
-        districts: []
-        location: "POINT (40.0263899999999992 44.5252800000000022)"
+        alternate_names: 
+          - Nshavan
+        ascii_name: Nshavan
         name: Nshavan
+        names_en: ~
+        names_es: ~
         population: 1916
-        slug: nshavan
       - 
-        districts: []
-        location: "POINT (40.1052800000000005 44.4299999999999997)"
+        alternate_names: 
+          - Norabats'
+          - Norabats’
+          - Norashen
+        ascii_name: Norabats'
         name: Norabats’
+        names_en: ~
+        names_es: ~
         population: 1973
-        slug: norabats
       - 
-        districts: []
-        location: "POINT (40.0838899999999967 44.3055599999999998)"
-        name: Gay
-        population: 3309
-        slug: gay
-      - 
-        districts: []
-        location: "POINT (40.1058299999999974 44.4138900000000021)"
+        alternate_names: 
+          - Darakert
+        ascii_name: Darakert
         name: Darakert
+        names_en: ~
+        names_es: ~
         population: 2325
-        slug: darakert
       - 
-        districts: []
-        location: "POINT (40.1016699999999986 44.3905600000000007)"
+        alternate_names: 
+          - Dashtavan
+        ascii_name: Dashtavan
         name: Dashtavan
+        names_en: ~
+        names_es: ~
         population: 1762
-        slug: dashtavan
       - 
-        districts: []
-        location: "POINT (40.0913899999999970 44.4041700000000006)"
+        alternate_names: 
+          - Nizami
+        ascii_name: Nizami
         name: Nizami
+        names_en: ~
+        names_es: ~
         population: 1060
-        slug: nizami
       - 
-        districts: []
-        location: "POINT (40.1019399999999990 44.3427799999999976)"
+        alternate_names: 
+          - Hovtashat
+          - Ovtashat
+        ascii_name: Hovtashat
         name: Hovtashat
+        names_en: ~
+        names_es: ~
         population: 3472
-        slug: hovtashat
       - 
-        districts: []
-        location: "POINT (40.0741700000000023 44.3975000000000009)"
+        alternate_names: 
+          - Sayat'-Nova
+          - Sayat’-Nova
+        ascii_name: Sayat'-Nova
         name: Sayat’-Nova
+        names_en: ~
+        names_es: ~
         population: 1726
-        slug: sayat-nova
-    code: AM.02
+      - 
+        alternate_names: 
+          - Hovtashen
+          - Ovtashen
+        ascii_name: Hovtashen
+        name: Hovtashen
+        names_en: ~
+        names_es: ~
+        population: 1134
+      - 
+        alternate_names: 
+          - Dimitrov
+        ascii_name: Dimitrov
+        name: Dimitrov
+        names_en: ~
+        names_es: ~
+        population: 1212
+      - 
+        alternate_names: 
+          - Mrgavet
+        ascii_name: Mrgavet
+        name: Mrgavet
+        names_en: ~
+        names_es: ~
+        population: 2131
+      - 
+        alternate_names: 
+          - Arevabuyr
+        ascii_name: Arevabuyr
+        name: Arevabuyr
+        names_en: ~
+        names_es: ~
+        population: 1041
     name: Ararat
-    slug: ararat
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Syunik'i Marz"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.1130599999999973 44.2716700000000003)"
-        name: Griboyedov
-        population: 1879
-        slug: griboyedov
-      - 
-        districts: []
-        location: "POINT (40.1886099999999971 44.3833300000000008)"
-        name: Aygek
-        population: 1095
-        slug: aygek
-      - 
-        districts: []
-        location: "POINT (40.0336100000000030 44.1738900000000001)"
-        name: Margara
-        population: 1360
-        slug: margara
-      - 
-        districts: []
-        location: "POINT (40.0722200000000015 44.2158299999999969)"
-        name: Yeraskhahun
-        population: 1346
-        slug: yeraskhahun
-      - 
-        districts: []
-        location: "POINT (40.0902799999999999 44.1625000000000014)"
-        name: Yeghegnut
-        population: 1746
-        slug: yeghegnut
-      - 
-        districts: []
-        location: "POINT (40.1727800000000030 44.2924999999999969)"
-        name: Ejmiatsin
-        population: 49513
-        slug: ejmiatsin
-      - 
-        districts: []
-        location: "POINT (40.1794399999999996 44.2700000000000031)"
-        name: Tsaghkunk’
-        population: 1089
-        slug: tsaghkunk
-      - 
-        districts: []
-        location: "POINT (40.0772199999999970 44.0886100000000027)"
-        name: Tandzut
-        population: 1816
-        slug: tandzut
-      - 
-        districts: []
-        location: "POINT (40.1133299999999977 44.0552800000000033)"
-        name: Sovetakan
-        population: 1613
-        slug: sovetakan
-      - 
-        districts: []
-        location: "POINT (40.0499999999999972 43.9333299999999980)"
-        name: Shenavan
-        population: 1757
-        slug: shenavan
-      - 
-        districts: []
-        location: "POINT (40.1852799999999988 44.2422200000000032)"
-        name: Samaghar
-        population: 2343
-        slug: samaghar
-      - 
-        districts: []
-        location: "POINT (40.1644399999999990 44.3636100000000013)"
-        name: Ptghunk’
-        population: 1345
-        slug: ptghunk
-      - 
-        districts: []
-        location: "POINT (40.0405599999999993 44.0675000000000026)"
-        name: Pshatavan
-        population: 2159
-        slug: pshatavan
-      - 
-        districts: []
-        location: "POINT (40.1361100000000022 44.0138900000000035)"
-        name: Hoktember
-        population: 5348
-        slug: hoktember
-      - 
-        districts: []
-        location: "POINT (40.0866699999999980 43.9900000000000020)"
-        name: "Nor Armavir"
-        population: 1597
-        slug: nor-armavir
-      - 
-        districts: []
-        location: "POINT (40.0677799999999991 43.9855599999999995)"
-        name: Nalbandyan
-        population: 4019
-        slug: nalbandyan
-      - 
-        districts: []
-        location: "POINT (40.1836100000000016 44.2572199999999967)"
-        name: Hovtamej
-        population: 1018
-        slug: hovtamej
-      - 
-        districts: []
-        location: "POINT (40.1297199999999989 44.0705600000000004)"
-        name: Mrgashat
-        population: 4961
-        slug: mrgashat
-      - 
-        districts: []
-        location: "POINT (40.0713900000000010 44.2891699999999986)"
-        name: Metsamor
-        population: 8789
-        slug: metsamor
-      - 
-        districts: []
-        location: "POINT (40.1816699999999969 44.3991699999999980)"
-        name: Mertsavan
-        population: 2702
-        slug: mertsavan
-      - 
-        districts: []
-        location: "POINT (40.1358299999999986 44.2444399999999973)"
-        name: Khoronk’
-        population: 2148
-        slug: khoronk
-      - 
-        districts: []
-        location: "POINT (40.1616700000000009 44.0883299999999991)"
-        name: Zhdanov
-        population: 1512
-        slug: zhdanov
-      - 
-        districts: []
-        location: "POINT (40.1522199999999998 44.0308300000000017)"
-        name: Armavir
-        population: 25963
-        slug: armavir
-      - 
-        districts: []
-        location: "POINT (40.1197200000000009 44.3774999999999977)"
-        name: Hayanist
-        population: 2031
-        slug: hayanist
-      - 
-        districts: []
-        location: "POINT (40.1869399999999999 44.2666699999999977)"
-        name: Tsiatsan
-        population: 1050
-        slug: tsiatsan
-      - 
-        districts: []
-        location: "POINT (40.0433299999999974 43.9447199999999967)"
-        name: Getashen
-        population: 2114
-        slug: getashen
-      - 
-        districts: []
-        location: "POINT (40.0455600000000018 44.0208299999999966)"
-        name: Janfida
-        population: 2986
-        slug: janfida
-      - 
-        districts: []
-        location: "POINT (40.2183300000000017 43.8602800000000030)"
-        name: Dalarik
-        population: 3080
-        slug: dalarik
-      - 
-        districts: []
-        location: "POINT (40.1144400000000019 44.0122199999999992)"
-        name: Bambakashat
-        population: 3089
-        slug: bambakashat
-      - 
-        districts: []
-        location: "POINT (40.0666700000000020 44.0666700000000020)"
-        name: Aygeshat
-        population: 1606
-        slug: aygeshat
-      - 
-        districts: []
-        location: "POINT (40.1430599999999984 44.1483300000000014)"
-        name: Aknalich
-        population: 2654
-        slug: aknalich
-      - 
-        districts: []
-        location: "POINT (40.1513899999999992 44.2663900000000012)"
-        name: Artimet
-        population: 1501
-        slug: artimet
-      - 
-        districts: []
-        location: "POINT (40.1688899999999975 44.2141700000000029)"
-        name: Arshaluys
-        population: 3808
-        slug: arshaluys
-      - 
-        districts: []
-        location: "POINT (40.0897199999999998 44.0483300000000000)"
-        name: Armavir
-        population: 2752
-        slug: armavir
-      - 
-        districts: []
-        location: "POINT (40.0608300000000028 44.0952800000000025)"
-        name: Argavand
-        population: 2047
-        slug: argavand
-      - 
-        districts: []
-        location: "POINT (40.1005600000000015 44.0969399999999965)"
-        name: Arevik
-        population: 2455
-        slug: arevik
-      - 
-        districts: []
-        location: "POINT (40.1416699999999977 44.3708299999999980)"
-        name: Arevashat
-        population: 1403
-        slug: arevashat
-      - 
-        districts: []
-        location: "POINT (40.1369400000000027 44.3983300000000014)"
-        name: Arbat’
-        population: 1884
-        slug: arbat
-      - 
-        districts: []
-        location: "POINT (40.0427800000000005 44.1458299999999966)"
-        name: Arazap
-        population: 1373
-        slug: arazap
-      - 
-        districts: []
-        location: "POINT (40.0547200000000032 44.3027799999999985)"
-        name: Arak’s
-        population: 1442
-        slug: araks
-      - 
-        districts: []
-        location: "POINT (40.0961100000000030 44.2511099999999971)"
-        name: Apaga
-        population: 1634
-        slug: apaga
-      - 
-        districts: []
-        location: "POINT (40.1775000000000020 43.9063900000000018)"
-        name: Myasnikyan
-        population: 3458
-        slug: myasnikyan
-      - 
-        districts: []
-        location: "POINT (40.1238900000000029 43.9652799999999999)"
-        name: Lenughi
-        population: 1499
-        slug: lenughi
-      - 
-        districts: []
-        location: "POINT (40.1427800000000019 44.1163900000000027)"
-        name: Metsamor
-        population: 1081
-        slug: metsamor
-      - 
-        districts: []
-        location: "POINT (40.1933300000000031 44.3686099999999968)"
-        name: Baghramyan
-        population: 2346
-        slug: baghramyan
-      - 
-        districts: []
-        location: "POINT (40.1544400000000010 44.3777800000000013)"
-        name: Musalerr
-        population: 2323
-        slug: musalerr
-      - 
-        districts: []
-        location: "POINT (40.1330600000000004 44.1991700000000023)"
-        name: Taronik
-        population: 1874
-        slug: taronik
-      - 
-        districts: []
-        location: "POINT (40.0958299999999994 44.2861100000000008)"
-        name: Aknashen
-        population: 1362
-        slug: aknashen
-      - 
-        districts: []
-        location: "POINT (40.0727800000000016 44.3069399999999973)"
-        name: Haykashen
-        population: 1140
-        slug: haykashen
-      - 
-        districts: []
-        location: "POINT (40.1413900000000012 44.3291699999999977)"
-        name: Voskehat
-        population: 2181
-        slug: voskehat
-    code: AM.03
-    name: Armavir
-    slug: armavir
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.5736100000000022 44.7863899999999973)"
-        name: Zovaber
-        population: 1470
-        slug: zovaber
-      - 
-        districts: []
-        location: "POINT (40.2080600000000032 45.1861099999999993)"
-        name: Yeranos
-        population: 4233
-        slug: yeranos
-      - 
-        districts: []
-        location: "POINT (40.5561099999999968 44.9111100000000008)"
-        name: Varser
-        population: 1614
-        slug: varser
-      - 
-        districts: []
-        location: "POINT (40.1805599999999998 45.7283299999999997)"
-        name: Vardenis
-        population: 11382
-        slug: vardenis
-      - 
-        districts: []
-        location: "POINT (40.1349999999999980 45.4363900000000029)"
-        name: Vardenik
-        population: 7709
-        slug: vardenik
-      - 
-        districts: []
-        location: "POINT (40.5700000000000003 45.3955600000000032)"
-        name: Vahan
-        population: 1153
-        slug: vahan
-      - 
-        districts: []
-        location: "POINT (40.1608299999999971 45.4538900000000012)"
-        name: Tsovinar
-        population: 3968
-        slug: tsovinar
-      - 
-        districts: []
-        location: "POINT (40.4769399999999990 45.0375000000000014)"
-        name: Tsovazard
-        population: 1949
-        slug: tsovazard
-      - 
-        districts: []
-        location: "POINT (40.1819399999999973 45.6349999999999980)"
-        name: Tsovak
-        population: 2531
-        slug: tsovak
-      - 
-        districts: []
-        location: "POINT (40.1416699999999977 45.1913899999999984)"
-        name: T’azagyugh
-        population: 2248
-        slug: tazagyugh
-      - 
-        districts: []
-        location: "POINT (40.5549999999999997 44.9536099999999976)"
-        name: Sevan
-        population: 17083
-        slug: sevan
-      - 
-        districts: []
-        location: "POINT (40.2891699999999986 45.1341699999999975)"
-        name: Sarukhan
-        population: 6173
-        slug: sarukhan
-      - 
-        districts: []
-        location: "POINT (40.3822199999999967 45.1783300000000025)"
-        name: Noratus
-        population: 5426
-        slug: noratus
-      - 
-        districts: []
-        location: "POINT (40.2186099999999982 45.7694400000000030)"
-        name: "Mets Masrik"
-        population: 2570
-        slug: mets-masrik
-      - 
-        districts: []
-        location: "POINT (40.1447199999999995 45.3063900000000004)"
-        name: Martuni
-        population: 11037
-        slug: martuni
-      - 
-        districts: []
-        location: "POINT (40.0802800000000019 45.2511099999999971)"
-        name: Madina
-        population: 1024
-        slug: madina
-      - 
-        districts: []
-        location: "POINT (40.1636099999999985 45.2277800000000028)"
-        name: Lichk’
-        population: 4105
-        slug: lichk
-      - 
-        districts: []
-        location: "POINT (40.5202799999999996 44.9308300000000003)"
-        name: Lchashen
-        population: 4182
-        slug: lchashen
-      - 
-        districts: []
-        location: "POINT (40.2730600000000010 45.1444400000000030)"
-        name: Lanjaghbyur
-        population: 2097
-        slug: lanjaghbyur
-      - 
-        districts: []
-        location: "POINT (40.1638900000000021 45.5722200000000015)"
-        name: Karchaghbyur
-        population: 2274
-        slug: karchaghbyur
-      - 
-        districts: []
-        location: "POINT (40.1044399999999968 45.2897200000000026)"
-        name: Karanlukh
-        population: 5104
-        slug: karanlukh
-      - 
-        districts: []
-        location: "POINT (40.3588900000000024 45.1266699999999972)"
-        name: Gavarr
-        population: 21680
-        slug: gavarr
-      - 
-        districts: []
-        location: "POINT (40.3116699999999994 45.6799999999999997)"
-        name: Geghamasar
-        population: 1060
-        slug: geghamasar
-      - 
-        districts: []
-        location: "POINT (40.5619399999999999 44.8827799999999968)"
-        name: Geghamavan
-        population: 1597
-        slug: geghamavan
-      - 
-        districts: []
-        location: "POINT (40.5369400000000013 44.8577799999999982)"
-        name: Gagarin
-        population: 1305
-        slug: gagarin
-      - 
-        districts: []
-        location: "POINT (40.5688900000000032 45.2319400000000016)"
-        name: Drakhtik
-        population: 1016
-        slug: drakhtik
-      - 
-        districts: []
-        location: "POINT (40.5719399999999979 44.8122200000000035)"
-        name: Ddmashen
-        population: 2157
-        slug: ddmashen
-      - 
-        districts: []
-        location: "POINT (40.5952800000000025 45.3474999999999966)"
-        name: Chambarak
-        population: 6153
-        slug: chambarak
-      - 
-        districts: []
-        location: "POINT (40.1238900000000029 45.3566700000000012)"
-        name: Astghadzor
-        population: 3520
-        slug: astghadzor
-      - 
-        districts: []
-        location: "POINT (40.1522199999999998 45.7199999999999989)"
-        name: Akunk’
-        population: 3444
-        slug: akunk
-      - 
-        districts: []
-        location: "POINT (40.3147200000000012 45.1113900000000001)"
-        name: Gandzak
-        population: 3841
-        slug: gandzak
-      - 
-        districts: []
-        location: "POINT (40.1544400000000010 45.5022200000000012)"
-        name: Artsvanist
-        population: 2819
-        slug: artsvanist
-    code: AM.04
-    name: Gegharkʼunikʼ
-    slug: gegharkunik
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.2611100000000022 44.7361099999999965)"
-        name: Zarr
-        population: 1340
-        slug: zarr
-      - 
-        districts: []
-        location: "POINT (40.3216699999999975 44.4813899999999975)"
-        name: Yeghvard
-        population: 10705
-        slug: yeghvard
-      - 
-        districts: []
-        location: "POINT (40.5386099999999985 44.7113900000000015)"
-        name: Tsaghkadzor
-        population: 1407
-        slug: tsaghkadzor
-      - 
-        districts: []
-        location: "POINT (40.4636100000000027 44.7086100000000002)"
-        name: Solak
-        population: 2295
-        slug: solak
-      - 
-        districts: []
-        location: "POINT (40.2566699999999997 44.5850000000000009)"
-        name: Ptghni
-        population: 1231
-        slug: ptghni
-      - 
-        districts: []
-        location: "POINT (40.2480600000000024 44.4149999999999991)"
-        name: Prroshyan
-        population: 4333
-        slug: prroshyan
-      - 
-        districts: []
-        location: "POINT (40.3569400000000016 44.5230600000000010)"
-        name: Zoravan
-        population: 1167
-        slug: zoravan
-      - 
-        districts: []
-        location: "POINT (40.2666699999999977 44.6563900000000018)"
-        name: "Nor Gyugh"
-        population: 1462
-        slug: nor-gyugh
-      - 
-        districts: []
-        location: "POINT (40.3211099999999973 44.5797200000000018)"
-        name: "Nor Geghi"
-        population: 4896
-        slug: nor-geghi
-      - 
-        districts: []
-        location: "POINT (40.2849999999999966 44.5422200000000004)"
-        name: Mrgashen
-        population: 1623
-        slug: mrgashen
-      - 
-        districts: []
-        location: "POINT (40.6147199999999984 44.6522199999999998)"
-        name: Meghradzor
-        population: 2659
-        slug: meghradzor
-      - 
-        districts: []
-        location: "POINT (40.2522200000000012 44.6383300000000034)"
-        name: Mayakovski
-        population: 1727
-        slug: mayakovski
-      - 
-        districts: []
-        location: "POINT (40.4675000000000011 44.7980599999999995)"
-        name: Lerrnanist
-        population: 2511
-        slug: lerrnanist
-      - 
-        districts: []
-        location: "POINT (40.2749999999999986 44.6605599999999967)"
-        name: Kotayk’
-        population: 1510
-        slug: kotayk
-      - 
-        districts: []
-        location: "POINT (40.3244400000000027 44.6938900000000032)"
-        name: Kaputan
-        population: 1252
-        slug: kaputan
-      - 
-        districts: []
-        location: "POINT (40.5016699999999972 44.7547199999999989)"
-        name: Hrazdan
-        population: 40795
-        slug: hrazdan
-      - 
-        districts: []
-        location: "POINT (40.1394400000000005 44.7794400000000010)"
-        name: Goght’
-        population: 1877
-        slug: goght
-      - 
-        districts: []
-        location: "POINT (40.1194399999999973 44.7230599999999967)"
-        name: Garrni
-        population: 6827
-        slug: garrni
-      - 
-        districts: []
-        location: "POINT (40.3941700000000026 44.6850000000000023)"
-        name: Fantan
-        population: 1019
-        slug: fantan
-      - 
-        districts: []
-        location: "POINT (40.2049999999999983 44.6430599999999984)"
-        name: Dzoraghbyur
-        population: 2011
-        slug: dzoraghbyur
-      - 
-        districts: []
-        location: "POINT (40.4594400000000007 44.6486099999999979)"
-        name: Bjni
-        population: 2771
-        slug: bjni
-      - 
-        districts: []
-        location: "POINT (40.3147200000000012 44.5936099999999982)"
-        name: Byureghavan
-        population: 6972
-        slug: byureghavan
-      - 
-        districts: []
-        location: "POINT (40.4552800000000019 44.5205600000000032)"
-        name: Buzhakan
-        population: 1678
-        slug: buzhakan
-      - 
-        districts: []
-        location: "POINT (40.2536100000000019 44.6038899999999998)"
-        name: Balahovit
-        population: 2982
-        slug: balahovit
-      - 
-        districts: []
-        location: "POINT (40.2963900000000024 44.5958299999999994)"
-        name: Arzni
-        population: 2244
-        slug: arzni
-      - 
-        districts: []
-        location: "POINT (40.4494400000000027 44.6063899999999975)"
-        name: Arzakan
-        population: 2660
-        slug: arzakan
-      - 
-        districts: []
-        location: "POINT (40.3794400000000024 44.5994400000000013)"
-        name: Argel
-        population: 2528
-        slug: argel
-      - 
-        districts: []
-        location: "POINT (40.2511099999999971 44.6630600000000015)"
-        name: Aramus
-        population: 3214
-        slug: aramus
-      - 
-        districts: []
-        location: "POINT (40.2691700000000026 44.6836100000000016)"
-        name: Akunk’
-        population: 1787
-        slug: akunk
-      - 
-        districts: []
-        location: "POINT (40.5841700000000003 44.6913899999999984)"
-        name: Aghavnadzor
-        population: 1252
-        slug: aghavnadzor
-      - 
-        districts: []
-        location: "POINT (40.2691700000000026 44.6244399999999999)"
-        name: Abovyan
-        population: 35673
-        slug: abovyan
-      - 
-        districts: []
-        location: "POINT (40.3133300000000006 44.4047199999999975)"
-        name: "Nor Yerznka"
-        population: 1459
-        slug: nor-yerznka
-      - 
-        districts: []
-        location: "POINT (40.2358300000000000 44.6938900000000032)"
-        name: Kamaris
-        population: 2064
-        slug: kamaris
-    code: AM.05
-    name: Kotaykʼ
-    slug: kotayk
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.9041700000000006 44.6325000000000003)"
-        name: Yeghegnut
-        population: 1154
-        slug: yeghegnut
-      - 
-        districts: []
-        location: "POINT (41.1666700000000034 44.7666699999999977)"
-        name: "Verin Akhtala"
-        population: 1989
-        slug: verin-akhtala
-      - 
-        districts: []
-        location: "POINT (40.9080599999999990 44.6069400000000016)"
-        name: Vahagni
-        population: 1184
-        slug: vahagni
-      - 
-        districts: []
-        location: "POINT (41.0711099999999973 44.3969400000000007)"
-        name: Urrut
-        population: 1102
-        slug: urrut
-      - 
-        districts: []
-        location: "POINT (41.1244399999999999 44.2819399999999987)"
-        name: Tashir
-        population: 7318
-        slug: tashir
-      - 
-        districts: []
-        location: "POINT (41.1477799999999974 44.8377800000000022)"
-        name: Shnogh
-        population: 2872
-        slug: shnogh
-      - 
-        districts: []
-        location: "POINT (40.7725000000000009 44.2191699999999983)"
-        name: Saramech
-        population: 1111
-        slug: saramech
-      - 
-        districts: []
-        location: "POINT (41.0538900000000027 44.6113900000000001)"
-        name: Odzun
-        population: 4524
-        slug: odzun
-      - 
-        districts: []
-        location: "POINT (41.1880600000000001 44.3272199999999970)"
-        name: Norashen
-        population: 1386
-        slug: norashen
-      - 
-        districts: []
-        location: "POINT (40.8372200000000021 44.1091699999999989)"
-        name: "Mets Parni"
-        population: 1934
-        slug: mets-parni
-      - 
-        districts: []
-        location: "POINT (41.2016700000000000 44.2288899999999998)"
-        name: Metsavan
-        population: 4767
-        slug: metsavan
-      - 
-        districts: []
-        location: "POINT (40.7380599999999973 44.6875000000000000)"
-        name: Margahovit
-        population: 3308
-        slug: margahovit
-      - 
-        districts: []
-        location: "POINT (40.9388900000000007 44.7725000000000009)"
-        name: Lorut
-        population: 1101
-        slug: lorut
-      - 
-        districts: []
-        location: "POINT (40.7883300000000020 44.1844400000000022)"
-        name: Lernavan
-        population: 1517
-        slug: lernavan
-      - 
-        districts: []
-        location: "POINT (40.8127799999999965 44.4883299999999977)"
-        name: Vanadzor
-        population: 101098
-        slug: vanadzor
-      - 
-        districts: []
-        location: "POINT (40.7883300000000020 44.5316699999999983)"
-        name: Shahumyan
-        population: 1843
-        slug: shahumyan
-      - 
-        districts: []
-        location: "POINT (40.8955600000000032 44.1991700000000023)"
-        name: Gogaran
-        population: 1088
-        slug: gogaran
-      - 
-        districts: []
-        location: "POINT (40.7247199999999978 44.7138899999999992)"
-        name: Fioletovo
-        population: 1264
-        slug: fioletovo
-      - 
-        districts: []
-        location: "POINT (40.9633299999999991 44.6516700000000029)"
-        name: Dsegh
-        population: 2484
-        slug: dsegh
-      - 
-        districts: []
-        location: "POINT (40.8380599999999987 44.4233300000000000)"
-        name: Darpas
-        population: 1785
-        slug: darpas
-      - 
-        districts: []
-        location: "POINT (41.1861099999999993 44.8313899999999990)"
-        name: Chochkan
-        population: 1740
-        slug: chochkan
-      - 
-        districts: []
-        location: "POINT (40.8680599999999998 44.4455600000000004)"
-        name: Bazum
-        population: 1114
-        slug: bazum
-      - 
-        districts: []
-        location: "POINT (40.8613900000000001 44.2727799999999974)"
-        name: Arevashogh
-        population: 2435
-        slug: arevashogh
-      - 
-        districts: []
-        location: "POINT (41.1305600000000027 44.6519400000000033)"
-        name: Alaverdi
-        population: 13184
-        slug: alaverdi
-      - 
-        districts: []
-        location: "POINT (41.0105599999999981 44.4675000000000011)"
-        name: Agarak
-        population: 1278
-        slug: agarak
-      - 
-        districts: []
-        location: "POINT (40.9708299999999994 44.5088900000000010)"
-        name: Vardablur
-        population: 1297
-        slug: vardablur
-      - 
-        districts: []
-        location: "POINT (40.8605599999999995 44.1527799999999999)"
-        name: Shirakamut
-        population: 2008
-        slug: shirakamut
-    code: AM.06
-    name: Lorri
-    slug: lorri
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.6649999999999991 44.0188899999999990)"
-        name: Spandaryan
-        population: 1226
-        slug: spandaryan
-      - 
-        districts: []
-        location: "POINT (40.8480599999999967 43.9213900000000024)"
-        name: Shirak
-        population: 1007
-        slug: shirak
-      - 
-        districts: []
-        location: "POINT (40.6700000000000017 43.8663900000000027)"
-        name: Saratak
-        population: 1115
-        slug: saratak
-      - 
-        districts: []
-        location: "POINT (40.6499999999999986 44.0499999999999972)"
-        name: "Pokr Mantash"
-        population: 1838
-        slug: pokr-mantash
-      - 
-        districts: []
-        location: "POINT (40.5933300000000017 43.9399999999999977)"
-        name: Pemzashen
-        population: 2436
-        slug: pemzashen
-      - 
-        districts: []
-        location: "POINT (40.7652799999999971 43.9908300000000025)"
-        name: Musayelyan
-        population: 1499
-        slug: musayelyan
-      - 
-        districts: []
-        location: "POINT (40.8374999999999986 43.7719400000000007)"
-        name: Marmashen
-        population: 1644
-        slug: marmashen
-      - 
-        districts: []
-        location: "POINT (40.5722200000000015 43.8669399999999996)"
-        name: Maralik
-        population: 4959
-        slug: maralik
-      - 
-        districts: []
-        location: "POINT (40.8280600000000007 43.9483299999999986)"
-        name: Kamo
-        population: 1340
-        slug: kamo
-      - 
-        districts: []
-        location: "POINT (40.7894399999999990 43.8474999999999966)"
-        name: Gyumri
-        population: 148381
-        slug: gyumri
-      - 
-        districts: []
-        location: "POINT (40.5155600000000007 43.8133300000000006)"
-        name: Dzit’hank’ov
-        population: 1162
-        slug: dzithankov
-      - 
-        districts: []
-        location: "POINT (40.7238899999999973 43.8205600000000004)"
-        name: Azatan
-        population: 4448
-        slug: azatan
-      - 
-        districts: []
-        location: "POINT (40.7558300000000031 43.7700000000000031)"
-        name: Haykavan
-        population: 1201
-        slug: haykavan
-      - 
-        districts: []
-        location: "POINT (40.6486099999999979 44.0444400000000016)"
-        name: Arevshat
-        population: 1623
-        slug: arevshat
-      - 
-        districts: []
-        location: "POINT (40.7361099999999965 43.8927800000000019)"
-        name: Arevik
-        population: 1522
-        slug: arevik
-      - 
-        districts: []
-        location: "POINT (40.7797199999999975 43.8005599999999973)"
-        name: Arrap’i
-        population: 1738
-        slug: arrapi
-      - 
-        districts: []
-        location: "POINT (40.6419399999999982 43.9822199999999981)"
-        name: Anushavan
-        population: 1532
-        slug: anushavan
-      - 
-        districts: []
-        location: "POINT (40.9466699999999975 43.7813900000000018)"
-        name: Amasia
-        population: 1675
-        slug: amasia
-    code: AM.07
-    name: Shirak
-    slug: shirak
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.5680600000000027 45.9438900000000032)"
-        name: Angeghakot’
-        population: 1726
-        slug: angeghakot
-      - 
-        districts: []
-        location: "POINT (39.2038900000000012 46.5472200000000029)"
-        name: Agarak
-        population: 4707
-        slug: agarak
-      - 
-        districts: []
-        location: "POINT (39.5358299999999971 46.3119399999999999)"
+        alternate_names: 
+          - Verishen
+        ascii_name: Verishen
         name: Verishen
+        names_en: ~
+        names_es: ~
         population: 2114
-        slug: verishen
       - 
-        districts: []
-        location: "POINT (39.5547200000000032 46.4758300000000020)"
+        alternate_names: 
+          - Dyg
+          - Lekh
+          - Tegh
+        ascii_name: Tegh
         name: Tegh
+        names_en: ~
+        names_es: ~
         population: 2120
-        slug: tegh
       - 
-        districts: []
-        location: "POINT (39.4341700000000017 46.3155599999999978)"
+        alternate_names: 
+          - Shinuair
+          - Shinuayr
+          - Shinuhayr
+        ascii_name: Shinuhayr
         name: Shinuhayr
+        names_en: ~
+        names_es: ~
         population: 2206
-        slug: shinuhayr
       - 
-        districts: []
-        location: "POINT (39.5616699999999994 45.9122199999999978)"
+        alternate_names: 
+          - Shagat
+          - Shaghat
+        ascii_name: Shaghat
         name: Shaghat
+        names_en: ~
+        names_es: ~
         population: 1011
-        slug: shaghat
       - 
-        districts: []
-        location: "POINT (38.9022199999999998 46.2383299999999977)"
+        alternate_names: 
+          - Meghri
+          - Megri
+          - Megry
+        ascii_name: Meghri
         name: Meghri
+        names_en: ~
+        names_es: ~
         population: 4540
-        slug: meghri
       - 
-        districts: []
-        location: "POINT (39.5122199999999992 46.4336100000000016)"
+        alternate_names: 
+          - Khndzoresk
+          - Խնձորեսկ
+        ascii_name: Khndzoresk
         name: Khndzoresk
+        names_en: ~
+        names_es: ~
         population: 1940
-        slug: khndzoresk
       - 
-        districts: []
-        location: "POINT (39.2011099999999999 46.4149999999999991)"
+        alternate_names: 
+          - Ghap'an
+          - Ghap’an
+          - Kafan
+        ascii_name: Kapan
         name: Kapan
+        names_en: 
+          - Kapan
+        names_es: 
+          - Kapan
         population: 33160
-        slug: kapan
       - 
-        districts: []
-        location: "POINT (39.5077799999999968 46.3386100000000027)"
+        alternate_names: 
+          - Geryusy
+          - Goris
+          - Горис
+        ascii_name: Goris
         name: Goris
+        names_en: ~
+        names_es: ~
         population: 20379
-        slug: goris
       - 
-        districts: []
-        location: "POINT (39.2686100000000025 46.3563899999999975)"
+        alternate_names: 
+          - Akhtakhana
+          - Dzorastan
+          - Khlatag
+        ascii_name: Dzorastan
         name: Dzorastan
+        names_en: ~
+        names_es: ~
         population: 1034
-        slug: dzorastan
       - 
-        districts: []
-        location: "POINT (39.5338899999999995 46.3030600000000021)"
+        alternate_names: 
+          - Brun
+          - Բրուն
+        ascii_name: Brun
         name: Brun
+        names_en: ~
+        names_es: ~
         population: 1028
-        slug: brun
       - 
-        districts: []
-        location: "POINT (39.4969400000000022 45.9730599999999967)"
+        alternate_names: 
+          - Brnakot
+          - Brrnakot'
+          - Brrnakot’
+        ascii_name: Brrnakot'
         name: Brrnakot’
+        names_en: ~
+        names_es: ~
         population: 1912
-        slug: brrnakot
       - 
-        districts: []
-        location: "POINT (39.4627800000000022 45.9730599999999967)"
+        alternate_names: 
+          - Acavan
+          - Atsavan
+          - Hats'avan
+        ascii_name: Hats'avan
         name: Hats’avan
+        names_en: ~
+        names_es: ~
         population: 15208
-        slug: hatsavan
-    code: AM.08
+      - 
+        alternate_names: 
+          - Angeghakot'
+          - Angeghakot’
+          - Angekhakot
+        ascii_name: Angeghakot'
+        name: Angeghakot’
+        names_en: ~
+        names_es: ~
+        population: 1726
+      - 
+        alternate_names: 
+          - Agarak
+          - Aqarak
+          - Агарак
+        ascii_name: Agarak
+        name: Agarak
+        names_en: ~
+        names_es: ~
+        population: 4707
     name: Syunikʼ
-    slug: syunik
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Vayots' Dzori Marz"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.1191699999999969 45.0652800000000013)"
-        name: Voskevan
-        population: 1287
-        slug: voskevan
-      - 
-        districts: []
-        location: "POINT (41.0563900000000004 45.1458299999999966)"
-        name: Sarigyugh
-        population: 1096
-        slug: sarigyugh
-      - 
-        districts: []
-        location: "POINT (41.1724999999999994 44.9936099999999968)"
-        name: Noyemberyan
-        population: 5119
-        slug: noyemberyan
-      - 
-        districts: []
-        location: "POINT (40.8613900000000001 45.3175000000000026)"
-        name: Navur
-        population: 1227
-        slug: navur
-      - 
-        districts: []
-        location: "POINT (40.9063900000000018 45.4913900000000027)"
-        name: Mosesgegh
-        population: 1964
-        slug: mosesgegh
-      - 
-        districts: []
-        location: "POINT (40.9386099999999971 45.1797200000000032)"
-        name: Khasht’arrak
-        population: 1728
-        slug: khashtarrak
-      - 
-        districts: []
-        location: "POINT (40.8755600000000001 45.1491699999999980)"
-        name: Ijevan
-        population: 14737
-        slug: ijevan
-      - 
-        districts: []
-        location: "POINT (40.7780600000000035 44.9624999999999986)"
-        name: Haghartsin
-        population: 3370
-        slug: haghartsin
-      - 
-        districts: []
-        location: "POINT (40.7408300000000025 44.8630599999999973)"
-        name: Dilijan
-        population: 13478
-        slug: dilijan
-      - 
-        districts: []
-        location: "POINT (41.2458299999999980 44.8211099999999973)"
-        name: Bagratashen
-        population: 3024
-        slug: bagratashen
-      - 
-        districts: []
-        location: "POINT (40.9744400000000013 45.2519399999999976)"
-        name: Aygehovit
-        population: 2888
-        slug: aygehovit
-      - 
-        districts: []
-        location: "POINT (41.1641699999999986 44.8725000000000023)"
-        name: Archis
-        population: 1235
-        slug: archis
-      - 
-        districts: []
-        location: "POINT (41.2027799999999971 45.0033299999999983)"
-        name: Berdavan
-        population: 3150
-        slug: berdavan
-      - 
-        districts: []
-        location: "POINT (40.9758300000000020 45.1980599999999981)"
-        name: Azatamut
-        population: 1850
-        slug: azatamut
-      - 
-        districts: []
-        location: "POINT (40.8958299999999966 45.1313900000000032)"
-        name: Getahovit
-        population: 2005
-        slug: getahovit
-      - 
-        districts: []
-        location: "POINT (40.8336100000000002 45.4711100000000030)"
-        name: Artsvaberd
-        population: 3193
-        slug: artsvaberd
-    code: AM.09
-    name: Tavush
-    slug: tavush
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.8588900000000024 45.3613900000000001)"
-        name: Artabuynk’
-        population: 1045
-        slug: artabuynk
-      - 
-        districts: []
-        location: "POINT (39.7666699999999977 44.8083299999999980)"
-        name: Armash
-        population: 2434
-        slug: armash
-      - 
-        districts: []
-        location: "POINT (39.7208299999999994 45.1838899999999981)"
-        name: Areni
-        population: 1718
-        slug: areni
-      - 
-        districts: []
-        location: "POINT (39.7836100000000030 45.2280599999999993)"
-        name: Aghavnadzor
-        population: 1925
-        slug: aghavnadzor
-      - 
-        districts: []
-        location: "POINT (39.7363900000000001 45.3455599999999990)"
-        name: Agarakadzor
-        population: 1195
-        slug: agarakadzor
-      - 
-        districts: []
-        location: "POINT (39.6372199999999992 45.5086099999999973)"
+        alternate_names: 
+          - Azizbekov
+          - Pashaghu
+          - Pashalu
+        ascii_name: Zarrit'ap'
         name: Zarrit’ap’
+        names_en: ~
+        names_es: ~
         population: 1323
-        slug: zarritap
       - 
-        districts: []
-        location: "POINT (39.7611100000000022 45.3333299999999966)"
+        alternate_names: 
+          - Egegnajor
+          - Ekhegnadzor
+          - Keshishkend
+        ascii_name: Yeghegnadzor
         name: Yeghegnadzor
+        names_en: 
+          - Yeghegnadzor
+        names_es: 
+          - Yeghegnadzor
         population: 8200
-        slug: yeghegnadzor
       - 
-        districts: []
-        location: "POINT (39.7938899999999975 45.3633299999999977)"
+        alternate_names: 
+          - Bashkend
+          - Vernashen
+          - Вернашен
+        ascii_name: Vernashen
         name: Vernashen
+        names_en: ~
+        names_es: ~
         population: 1162
-        slug: vernashen
       - 
-        districts: []
-        location: "POINT (39.6916700000000020 45.4652799999999999)"
+        alternate_names: 
+          - Azizbekov
+          - Soylan
+          - Vayk'
+        ascii_name: Vayk'
         name: Vayk’
+        names_en: ~
+        names_es: ~
         population: 5419
-        slug: vayk
       - 
-        districts: []
-        location: "POINT (39.7500000000000000 44.7999999999999972)"
+        alternate_names: ~
+        ascii_name: Surenavan
         name: Surenavan
+        names_en: ~
+        names_es: ~
         population: 2241
-        slug: surenavan
       - 
-        districts: []
-        location: "POINT (39.8333299999999966 45.3016700000000014)"
+        alternate_names: 
+          - Gasankend
+          - Hasankand
+          - "Hesan Kand"
+        ascii_name: Shatin
         name: Shatin
+        names_en: ~
+        names_es: ~
         population: 1671
-        slug: shatin
       - 
-        districts: []
-        location: "POINT (39.7597200000000015 45.1799999999999997)"
+        alternate_names: 
+          - Rind
+          - Rrind
+        ascii_name: Rrind
         name: Rrind
+        names_en: ~
+        names_es: ~
         population: 1368
-        slug: rrind
       - 
-        districts: []
-        location: "POINT (39.7369399999999970 45.3875000000000028)"
+        alternate_names: 
+          - Malishka
+        ascii_name: Malishka
         name: Malishka
+        names_en: ~
+        names_es: ~
         population: 4174
-        slug: malishka
       - 
-        districts: []
-        location: "POINT (39.8416700000000006 45.6722200000000029)"
+        alternate_names: 
+          - Dzhermuk
+          - Jermuk
+          - Джермук
+        ascii_name: Jermuk
         name: Jermuk
+        names_en: ~
+        names_es: ~
         population: 4582
-        slug: jermuk
       - 
-        districts: []
-        location: "POINT (39.7783299999999969 45.3477800000000002)"
+        alternate_names: 
+          - Gladzor
+          - Ortakend
+          - Гладзор
+        ascii_name: Gladzor
         name: Gladzor
+        names_en: ~
+        names_es: ~
         population: 2080
-        slug: gladzor
       - 
-        districts: []
-        location: "POINT (39.7636099999999999 45.3061099999999968)"
+        alternate_names: 
+          - Getap'
+          - Getap’
+          - Ghyotur
+        ascii_name: Getap'
         name: Getap’
+        names_en: ~
+        names_es: ~
         population: 1842
-        slug: getap
-    code: AM.10
+      - 
+        alternate_names: 
+          - Alagyaz
+          - Alayaz
+          - Artabuynk
+        ascii_name: Yeghegis
+        name: Yeghegis
+        names_en: ~
+        names_es: ~
+        population: 1045
+      - 
+        alternate_names: ~
+        ascii_name: Armash
+        name: Armash
+        names_en: ~
+        names_es: ~
+        population: 2434
+      - 
+        alternate_names: 
+          - Areni
+          - Arpa
+          - Арени
+        ascii_name: Areni
+        name: Areni
+        names_en: ~
+        names_es: ~
+        population: 1718
+      - 
+        alternate_names: 
+          - Agavnadzor
+          - Aghavnadzor
+          - Akhavnadzor
+        ascii_name: Aghavnadzor
+        name: Aghavnadzor
+        names_en: ~
+        names_es: ~
+        population: 1925
+      - 
+        alternate_names: 
+          - Agarakadzor
+          - Ayar
+          - Агаракадзор
+        ascii_name: Agarakadzor
+        name: Agarakadzor
+        names_en: ~
+        names_es: ~
+        population: 1195
     name: "Vayotsʼ Dzor"
-    slug: vayots-dzor
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "K'aghak' Yerevan"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.1811099999999968 44.5136099999999999)"
+        alternate_names: 
+          - Ayrivan
+          - EREVAN
+          - Ereban
+        ascii_name: Yerevan
         name: Yerevan
+        names_en: 
+          - Yerevan
+        names_es: 
+          - Ereván
         population: 1093485
-        slug: yerevan
       - 
-        districts: []
-        location: "POINT (40.2472199999999987 44.5366700000000009)"
+        alternate_names: 
+          - K'anak'erravan
+          - Kanakeravan
+          - Kenaker
+        ascii_name: K'anak'erravan
         name: K’anak’erravan
+        names_en: ~
+        names_es: ~
         population: 2950
-        slug: kanakerravan
       - 
-        districts: []
-        location: "POINT (40.0547200000000032 44.5133300000000034)"
+        alternate_names: 
+          - Dzhrashen
+          - Jrashen
+          - "Nor Dzhrashen"
+        ascii_name: Jrashen
         name: Jrashen
+        names_en: ~
+        names_es: ~
         population: 1696
-        slug: jrashen
       - 
-        districts: []
-        location: "POINT (40.1916700000000020 45.1875000000000000)"
+        alternate_names: ~
+        ascii_name: Vardadzor
         name: Vardadzor
+        names_en: ~
+        names_es: ~
         population: 2095
-        slug: vardadzor
-    code: AM.11
     name: Yerevan
-    slug: yerevan
-tld: am
+    names_en: ~
+    names_es: 
+      - Ereván
+  - 
+    ascii_name: "Aragatsotni Marz"
+    cities: 
+      - 
+        alternate_names: 
+          - "Molla Kasum"
+          - Zovuni
+          - Зовуни
+        ascii_name: Zovuni
+        name: Zovuni
+        names_en: ~
+        names_es: ~
+        population: 4484
+      - 
+        alternate_names: 
+          - Kiziltamur
+          - Voskevaz
+          - Воскеваз
+        ascii_name: Voskevaz
+        name: Voskevaz
+        names_en: ~
+        names_es: ~
+        population: 3789
+      - 
+        alternate_names: 
+          - Ushi
+        ascii_name: Ushi
+        name: Ushi
+        names_en: ~
+        names_es: ~
+        population: 1276
+      - 
+        alternate_names: 
+          - Cakhkaovit
+          - Gadzhi-Khalil
+          - Tsaghkahovit
+        ascii_name: Tsaghkahovit
+        name: Tsaghkahovit
+        names_en: 
+          - Tsaghkahovit
+        names_es: ~
+        population: 1551
+      - 
+        alternate_names: 
+          - T'alin
+          - T’alin
+          - "Verin Talin"
+        ascii_name: T'alin
+        name: T’alin
+        names_en: ~
+        names_es: ~
+        population: 4945
+      - 
+        alternate_names: 
+          - Blkher
+          - Shenavan
+          - Шенаван
+        ascii_name: Shenavan
+        name: Shenavan
+        names_en: ~
+        names_es: ~
+        population: 1587
+      - 
+        alternate_names: 
+          - Oshakan
+          - Ошакан
+        ascii_name: Oshakan
+        name: Oshakan
+        names_en: 
+          - Oshakan
+        names_es: ~
+        population: 4768
+      - 
+        alternate_names: 
+          - Norakert
+        ascii_name: Norakert
+        name: Norakert
+        names_en: ~
+        names_es: ~
+        population: 2485
+      - 
+        alternate_names: 
+          - Kosh
+          - Кош
+        ascii_name: Kosh
+        name: Kosh
+        names_en: 
+          - Kosh
+        names_es: ~
+        population: 2581
+      - 
+        alternate_names: 
+          - Hnaberd
+          - Khnaberd
+          - Kirkhdagirman
+        ascii_name: Hnaberd
+        name: Hnaberd
+        names_en: 
+          - Hnaberd
+        names_es: ~
+        population: 1817
+      - 
+        alternate_names: 
+          - Chamrlu
+          - Chamyrlu
+          - Kasakh
+        ascii_name: Kasakh
+        name: Kasakh
+        names_en: ~
+        names_es: ~
+        population: 4247
+      - 
+        alternate_names: 
+          - Karbi
+          - Карби
+        ascii_name: Karbi
+        name: Karbi
+        names_en: 
+          - Karbi
+        names_es: ~
+        population: 3521
+      - 
+        alternate_names: 
+          - Doghs
+          - Dokhs
+        ascii_name: Doghs
+        name: Doghs
+        names_en: ~
+        names_es: ~
+        population: 1186
+      - 
+        alternate_names: 
+          - Biurakan
+          - Bjurakan
+          - Burakan
+        ascii_name: Byurakan
+        name: Byurakan
+        names_en: 
+          - Byurakan
+        names_es: ~
+        population: 3902
+      - 
+        alternate_names: 
+          - Ajgeshat
+          - Aygeshat
+          - Gadzhikara
+        ascii_name: Aygeshat
+        name: Aygeshat
+        names_en: ~
+        names_es: ~
+        population: 1358
+      - 
+        alternate_names: 
+          - ASHTARAK
+          - Achtarak
+          - Aschtarak
+        ascii_name: Ashtarak
+        name: Ashtarak
+        names_en: 
+          - Ashtarak
+        names_es: 
+          - Ashtarak
+        population: 18779
+      - 
+        alternate_names: 
+          - Ashnak
+          - Ашнак
+        ascii_name: Ashnak
+        name: Ashnak
+        names_en: 
+          - Ashnak
+        names_es: ~
+        population: 1131
+      - 
+        alternate_names: 
+          - Arteni
+          - Bogutlu
+          - Артени
+        ascii_name: Arteni
+        name: Arteni
+        names_en: 
+          - Arteni
+        names_es: ~
+        population: 3086
+      - 
+        alternate_names: 
+          - Aragac
+          - Aragats
+          - Kaznafar
+        ascii_name: Aragats
+        name: Aragats
+        names_en: 
+          - Aragats
+        names_es: ~
+        population: 2707
+      - 
+        alternate_names: 
+          - APARAN
+          - Abaran
+          - "Abaran Verin"
+        ascii_name: Aparan
+        name: Aparan
+        names_en: 
+          - Aparan
+        names_es: ~
+        population: 5670
+      - 
+        alternate_names: 
+          - Agavnatun
+          - Aghavnatun
+          - Akhavnatukh
+        ascii_name: Aghavnatun
+        name: Aghavnatun
+        names_en: 
+          - Aghavnatun
+        names_es: ~
+        population: 2913
+      - 
+        alternate_names: ~
+        ascii_name: Agarak
+        name: Agarak
+        names_en: ~
+        names_es: ~
+        population: 1575
+      - 
+        alternate_names: 
+          - "Nor Sasunik"
+          - Sasunik
+        ascii_name: "Nor Sasunik"
+        name: "Nor Sasunik"
+        names_en: ~
+        names_es: ~
+        population: 1959
+      - 
+        alternate_names: 
+          - Amberd
+        ascii_name: Amberd
+        name: Amberd
+        names_en: ~
+        names_es: ~
+        population: 1267
+    name: Aragatsotn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Armaviri Marz"
+    cities: 
+      - 
+        alternate_names: 
+          - Margara
+          - Markara
+          - Маргара
+        ascii_name: Margara
+        name: Margara
+        names_en: 
+          - Margara
+        names_es: ~
+        population: 1360
+      - 
+        alternate_names: 
+          - Kuru-Araz
+          - Yeraskhahun
+          - Yeraskhaun
+        ascii_name: Yeraskhahun
+        name: Yeraskhahun
+        names_en: ~
+        names_es: ~
+        population: 1346
+      - 
+        alternate_names: 
+          - Badal
+          - Ekhegnut
+          - "Molla Badal"
+        ascii_name: Yeghegnut
+        name: Yeghegnut
+        names_en: ~
+        names_es: ~
+        population: 1746
+      - 
+        alternate_names: 
+          - Artemed
+          - "Avan Vardgesi"
+          - EHCHMIADZIN
+        ascii_name: Ejmiatsin
+        name: Ejmiatsin
+        names_en: 
+          - Echmiadzin
+          - Ejmiatsin
+        names_es: ~
+        population: 49513
+      - 
+        alternate_names: 
+          - Tsaghkunk'
+          - Tsaghkunk’
+          - Tsakhkunk
+        ascii_name: Tsaghkunk'
+        name: Tsaghkunk’
+        names_en: ~
+        names_es: ~
+        population: 1089
+      - 
+        alternate_names: 
+          - Armutlu
+          - Tandzut
+          - Тандзут
+        ascii_name: Tandzut
+        name: Tandzut
+        names_en: ~
+        names_es: ~
+        population: 1816
+      - 
+        alternate_names: 
+          - Kyarimarkh
+          - Sovetakan
+          - Советакан
+        ascii_name: Sovetakan
+        name: Sovetakan
+        names_en: ~
+        names_es: ~
+        population: 1613
+      - 
+        alternate_names: 
+          - Kyalagarkh
+          - Shenavan
+          - Шенаван
+        ascii_name: Shenavan
+        name: Shenavan
+        names_en: ~
+        names_es: ~
+        population: 1757
+      - 
+        alternate_names: 
+          - Gekhakert
+          - Samagar
+          - Samaghar
+        ascii_name: Samaghar
+        name: Samaghar
+        names_en: ~
+        names_es: ~
+        population: 2343
+      - 
+        alternate_names: 
+          - Ptghunk'
+          - Ptghunk’
+          - Ptkhunk
+        ascii_name: Ptghunk'
+        name: Ptghunk’
+        names_en: ~
+        names_es: ~
+        population: 1345
+      - 
+        alternate_names: 
+          - Igdalu
+          - Pshatavan
+          - Пшатаван
+        ascii_name: Pshatavan
+        name: Pshatavan
+        names_en: ~
+        names_es: ~
+        population: 2159
+      - 
+        alternate_names: 
+          - Hoktember
+          - OKTEMBERJAN
+          - Oktember
+        ascii_name: Hoktember
+        name: Hoktember
+        names_en: 
+          - Hoktember
+        names_es: ~
+        population: 5348
+      - 
+        alternate_names: ~
+        ascii_name: "Nor Armavir"
+        name: "Nor Armavir"
+        names_en: ~
+        names_es: ~
+        population: 1597
+      - 
+        alternate_names: 
+          - "Mets Shagriar"
+          - Nalbandjan
+          - Nalbandyan
+        ascii_name: Nalbandyan
+        name: Nalbandyan
+        names_en: 
+          - Nalbandyan
+        names_es: ~
+        population: 4019
+      - 
+        alternate_names: 
+          - Hovtamej
+          - Mugan
+          - Ovtamech
+        ascii_name: Hovtamej
+        name: Hovtamej
+        names_en: ~
+        names_es: ~
+        population: 1018
+      - 
+        alternate_names: 
+          - Gecherlau
+          - Gechrlu
+          - Mrgashat
+        ascii_name: Mrgashat
+        name: Mrgashat
+        names_en: 
+          - Mrgashat
+        names_es: ~
+        population: 4961
+      - 
+        alternate_names: 
+          - Kamarlu
+          - Mecamor
+          - Metsamor
+        ascii_name: Metsamor
+        name: Metsamor
+        names_en: ~
+        names_es: ~
+        population: 8789
+      - 
+        alternate_names: 
+          - Merdzavan
+          - Mertsavan
+          - Мердзаван
+        ascii_name: Mertsavan
+        name: Mertsavan
+        names_en: ~
+        names_es: ~
+        population: 2702
+      - 
+        alternate_names: 
+          - "Imeni Mikoyana"
+          - Lukashin
+          - Лукашин
+        ascii_name: Lukashin
+        name: Lukashin
+        names_en: ~
+        names_es: ~
+        population: 2197
+      - 
+        alternate_names: 
+          - Khoronk'
+          - Khoronk’
+          - Lenughi
+        ascii_name: Khoronk'
+        name: Khoronk’
+        names_en: ~
+        names_es: ~
+        population: 2148
+      - 
+        alternate_names: 
+          - "Imeni Beriya"
+          - "Imeni Zhdanova"
+          - Zhdanov
+        ascii_name: Zhdanov
+        name: Zhdanov
+        names_en: ~
+        names_es: ~
+        population: 1512
+      - 
+        alternate_names: 
+          - Armavir
+          - Hoktemberyan
+          - Oktember
+        ascii_name: Armavir
+        name: Armavir
+        names_en: 
+          - Armavir
+        names_es: ~
+        population: 25963
+      - 
+        alternate_names: 
+          - Dostlug
+          - Hayanist
+        ascii_name: Hayanist
+        name: Hayanist
+        names_en: ~
+        names_es: ~
+        population: 2031
+      - 
+        alternate_names: 
+          - Ciacan
+          - Grampa
+          - Tsiatsan
+        ascii_name: Tsiatsan
+        name: Tsiatsan
+        names_en: ~
+        names_es: ~
+        population: 1050
+      - 
+        alternate_names: 
+          - Dzhafarabat
+          - Getashen
+          - Kalagar
+        ascii_name: Getashen
+        name: Getashen
+        names_en: ~
+        names_es: ~
+        population: 2114
+      - 
+        alternate_names: 
+          - Dzhanfida
+          - Janfida
+          - Джанфида
+        ascii_name: Janfida
+        name: Janfida
+        names_en: 
+          - Janfida
+        names_es: ~
+        population: 2986
+      - 
+        alternate_names: 
+          - Dalarik
+          - Mastara
+          - Даларик
+        ascii_name: Dalarik
+        name: Dalarik
+        names_en: ~
+        names_es: ~
+        population: 3080
+      - 
+        alternate_names: 
+          - Bambakashat
+          - "Molla Bayazet"
+          - Бамбакашат
+        ascii_name: Bambakashat
+        name: Bambakashat
+        names_en: ~
+        names_es: ~
+        population: 3089
+      - 
+        alternate_names: 
+          - Ajgeshat
+          - Aygeshat
+          - Kuzigidan
+        ascii_name: Aygeshat
+        name: Aygeshat
+        names_en: ~
+        names_es: ~
+        population: 1606
+      - 
+        alternate_names: 
+          - Aknalich
+          - Aygerlich
+          - Акналич
+        ascii_name: Aknalich
+        name: Aknalich
+        names_en: ~
+        names_es: ~
+        population: 2654
+      - 
+        alternate_names: 
+          - Alibeklu
+          - Artimet
+          - Atarbekyan
+        ascii_name: Artimet
+        name: Artimet
+        names_en: ~
+        names_es: ~
+        population: 1501
+      - 
+        alternate_names: 
+          - Arshalujs
+          - Arshaluys
+          - Kerpalu
+        ascii_name: Arshaluys
+        name: Arshaluys
+        names_en: ~
+        names_es: ~
+        population: 3808
+      - 
+        alternate_names: 
+          - Armavir
+          - Kurdukuli
+          - Армавир
+        ascii_name: Armavir
+        name: Armavir
+        names_en: 
+          - Armavir
+        names_es: ~
+        population: 2752
+      - 
+        alternate_names: 
+          - Argavand
+          - Uzunoba
+          - Аргаванд
+        ascii_name: Argavand
+        name: Argavand
+        names_en: ~
+        names_es: ~
+        population: 2047
+      - 
+        alternate_names: 
+          - Agdzharkh
+          - Arevik
+          - Аревик
+        ascii_name: Arevik
+        name: Arevik
+        names_en: ~
+        names_es: ~
+        population: 2455
+      - 
+        alternate_names: 
+          - Arevashat
+          - Arevashet
+          - Varmaziar
+        ascii_name: Arevashat
+        name: Arevashat
+        names_en: ~
+        names_es: ~
+        population: 1403
+      - 
+        alternate_names: 
+          - Arbat'
+          - Arbat’
+        ascii_name: Arbat'
+        name: Arbat’
+        names_en: ~
+        names_es: ~
+        population: 1884
+      - 
+        alternate_names: 
+          - Arazap
+          - Evdzhilar
+          - Аразап
+        ascii_name: Arazap
+        name: Arazap
+        names_en: ~
+        names_es: ~
+        population: 1373
+      - 
+        alternate_names: 
+          - Arak's
+          - Arak’s
+          - "Nerkin Karkhun"
+        ascii_name: Arak's
+        name: Arak’s
+        names_en: ~
+        names_es: ~
+        population: 1442
+      - 
+        alternate_names: 
+          - Apaga
+          - "Verin Turkmenlu"
+          - Апага
+        ascii_name: Apaga
+        name: Apaga
+        names_en: ~
+        names_es: ~
+        population: 1634
+      - 
+        alternate_names: 
+          - Mjasnikjan
+          - Myasnikyan
+          - Мясникян
+        ascii_name: Myasnikyan
+        name: Myasnikyan
+        names_en: 
+          - Myasnikyan
+        names_es: ~
+        population: 3458
+      - 
+        alternate_names: ~
+        ascii_name: Lenughi
+        name: Lenughi
+        names_en: ~
+        names_es: ~
+        population: 1499
+      - 
+        alternate_names: 
+          - MECAMOR
+          - Metsamor
+          - МЕЦАМОР
+        ascii_name: Metsamor
+        name: Metsamor
+        names_en: 
+          - Metsamor
+        names_es: ~
+        population: 1081
+      - 
+        alternate_names: 
+          - Gay
+        ascii_name: Gay
+        name: Gay
+        names_en: ~
+        names_es: ~
+        population: 3309
+      - 
+        alternate_names: 
+          - Baghramyan
+          - Bagramyan
+        ascii_name: Baghramyan
+        name: Baghramyan
+        names_en: ~
+        names_es: ~
+        population: 2346
+      - 
+        alternate_names: 
+          - Musaler
+          - Musalerr
+        ascii_name: Musalerr
+        name: Musalerr
+        names_en: ~
+        names_es: ~
+        population: 2323
+      - 
+        alternate_names: 
+          - Taronik
+        ascii_name: Taronik
+        name: Taronik
+        names_en: ~
+        names_es: ~
+        population: 1874
+      - 
+        alternate_names: 
+          - Aknashen
+        ascii_name: Aknashen
+        name: Aknashen
+        names_en: ~
+        names_es: ~
+        population: 1362
+      - 
+        alternate_names: 
+          - Aykashen
+          - Haykashen
+        ascii_name: Haykashen
+        name: Haykashen
+        names_en: ~
+        names_es: ~
+        population: 1140
+      - 
+        alternate_names: 
+          - Voskeat
+          - Voskehat
+        ascii_name: Voskehat
+        name: Voskehat
+        names_en: ~
+        names_es: ~
+        population: 2181
+      - 
+        alternate_names: 
+          - Griboyedov
+        ascii_name: Griboyedov
+        name: Griboyedov
+        names_en: ~
+        names_es: ~
+        population: 1879
+      - 
+        alternate_names: 
+          - Aygek
+        ascii_name: Aygek
+        name: Aygek
+        names_en: ~
+        names_es: ~
+        population: 1095
+    name: Armavir
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Geghark'unik'i Marz"
+    cities: 
+      - 
+        alternate_names: 
+          - Yaydzhi
+          - Zovaber
+          - Зовабер
+        ascii_name: Zovaber
+        name: Zovaber
+        names_en: ~
+        names_es: ~
+        population: 1470
+      - 
+        alternate_names: 
+          - Eranos
+          - Yeranos
+          - Еранос
+        ascii_name: Yeranos
+        name: Yeranos
+        names_en: 
+          - Yeranos
+        names_es: ~
+        population: 4233
+      - 
+        alternate_names: 
+          - "Nerkin Getashen"
+          - "Verin Adyaman"
+          - "Verin Getashen"
+        ascii_name: "Verin Getashen"
+        name: "Verin Getashen"
+        names_en: 
+          - "Verin Getashen"
+        names_es: ~
+        population: 4173
+      - 
+        alternate_names: 
+          - Chirchir
+          - Varser
+          - Варсер
+        ascii_name: Varser
+        name: Varser
+        names_en: ~
+        names_es: ~
+        population: 1614
+      - 
+        alternate_names: 
+          - Basargech'ar
+          - Basargech’ar
+          - VARDENIS
+        ascii_name: Vardenis
+        name: Vardenis
+        names_en: 
+          - Vardenis
+        names_es: ~
+        population: 11382
+      - 
+        alternate_names: 
+          - Gezeldara
+          - "Nerkin Gezaldara"
+          - "Nizhnyaya Gezaldara"
+        ascii_name: Vardenik
+        name: Vardenik
+        names_en: 
+          - Vardenik
+        names_es: ~
+        population: 7709
+      - 
+        alternate_names: 
+          - Ordzhonikidze
+          - Vahan
+          - Орджоникидзе
+        ascii_name: Vahan
+        name: Vahan
+        names_en: 
+          - Vahan
+        names_es: ~
+        population: 1153
+      - 
+        alternate_names: 
+          - Avdalagalu
+          - Vagashen
+          - Vaghashen
+        ascii_name: Vaghashen
+        name: Vaghashen
+        names_en: ~
+        names_es: ~
+        population: 3235
+      - 
+        alternate_names: 
+          - Covinar
+          - Kolakran
+          - Tsovinar
+        ascii_name: Tsovinar
+        name: Tsovinar
+        names_en: 
+          - Tsovinar
+        names_es: ~
+        population: 3968
+      - 
+        alternate_names: 
+          - Covazard
+          - "Gadzhi Mukhan"
+          - Mukhan
+        ascii_name: Tsovazard
+        name: Tsovazard
+        names_en: 
+          - Tsovazard
+        names_es: ~
+        population: 1949
+      - 
+        alternate_names: 
+          - Covak
+          - "Nerkin Zagalu"
+          - "Nizhniy Zagalu"
+        ascii_name: Tsovak
+        name: Tsovak
+        names_en: 
+          - Tsovak
+        names_es: ~
+        population: 2531
+      - 
+        alternate_names: 
+          - Chabukhly
+          - Chibukhly
+          - Chubukhly
+        ascii_name: Tsovagyugh
+        name: Tsovagyugh
+        names_en: 
+          - Tsovagyugh
+        names_es: ~
+        population: 3857
+      - 
+        alternate_names: 
+          - T'azagyugh
+          - Tazagyukh
+          - T’azagyugh
+        ascii_name: T'azagyugh
+        name: T’azagyugh
+        names_en: ~
+        names_es: ~
+        population: 2248
+      - 
+        alternate_names: 
+          - SEVAN
+          - Sevan
+          - Ssewan
+        ascii_name: Sevan
+        name: Sevan
+        names_en: 
+          - Sevan
+        names_es: ~
+        population: 17083
+      - 
+        alternate_names: 
+          - Dalikardash
+          - Sarukhan
+          - Сарухан
+        ascii_name: Sarukhan
+        name: Sarukhan
+        names_en: 
+          - Sarukhan
+        names_es: ~
+        population: 6173
+      - 
+        alternate_names: 
+          - Noraduz
+          - Noratus
+          - Норадуз
+        ascii_name: Noratus
+        name: Noratus
+        names_en: 
+          - Noratus
+        names_es: ~
+        population: 5426
+      - 
+        alternate_names: 
+          - "Nerk'in Getashen"
+          - "Nerkin Adyaman"
+          - "Nerk’in Getashen"
+        ascii_name: "Nerk'in Getashen"
+        name: "Nerk’in Getashen"
+        names_en: ~
+        names_es: ~
+        population: 7010
+      - 
+        alternate_names: 
+          - "Bol'shaya Mazra"
+          - "Bol’shaya Mazra"
+          - Mazra
+        ascii_name: "Mets Masrik"
+        name: "Mets Masrik"
+        names_en: 
+          - "Mets Masrik"
+        names_es: ~
+        population: 2570
+      - 
+        alternate_names: 
+          - Karanlug
+          - MARTUNI
+          - Martuki
+        ascii_name: Martuni
+        name: Martuni
+        names_en: 
+          - Martuni
+        names_es: ~
+        population: 11037
+      - 
+        alternate_names: 
+          - Madina
+          - Мадина
+        ascii_name: Madina
+        name: Madina
+        names_en: 
+          - Madina
+        names_es: ~
+        population: 1024
+      - 
+        alternate_names: 
+          - Gel
+          - Gël
+          - Lichk
+        ascii_name: Lichk'
+        name: Lichk’
+        names_en: 
+          - Lichk'
+        names_es: ~
+        population: 4105
+      - 
+        alternate_names: 
+          - Lchashen
+          - Ordaklu
+          - Лчашен
+        ascii_name: Lchashen
+        name: Lchashen
+        names_en: 
+          - Lchashen
+        names_es: ~
+        population: 4182
+      - 
+        alternate_names: 
+          - Kyuzadzhik
+          - Landzhakhbjur
+          - Landzhakhpyur
+        ascii_name: Lanjaghbyur
+        name: Lanjaghbyur
+        names_en: ~
+        names_es: ~
+        population: 2097
+      - 
+        alternate_names: 
+          - Gedakbulag
+          - Karchaghbyur
+          - Karchaghpyur
+        ascii_name: Karchaghbyur
+        name: Karchaghbyur
+        names_en: 
+          - Karchaghbyur
+        names_es: ~
+        population: 2274
+      - 
+        alternate_names: 
+          - Karanlukh
+          - "Verkhniy Karanlug"
+        ascii_name: Karanlukh
+        name: Karanlukh
+        names_en: ~
+        names_es: ~
+        population: 5104
+      - 
+        alternate_names: 
+          - Gavar
+          - Gavarr
+          - KAMO
+        ascii_name: Gavarr
+        name: Gavarr
+        names_en: 
+          - Gavarr
+        names_es: ~
+        population: 21680
+      - 
+        alternate_names: 
+          - Geghamasar
+          - Gukarrich
+          - Shishkaja
+        ascii_name: Geghamasar
+        name: Geghamasar
+        names_en: 
+          - Geghamasar
+        names_es: ~
+        population: 1060
+      - 
+        alternate_names: 
+          - Gegamavan
+          - Geghamavan
+          - Shagriz
+        ascii_name: Geghamavan
+        name: Geghamavan
+        names_en: ~
+        names_es: ~
+        population: 1597
+      - 
+        alternate_names: 
+          - GAGARIN
+          - Gagarin
+          - ГАГАРИН
+        ascii_name: Gagarin
+        name: Gagarin
+        names_en: 
+          - Gagarin
+        names_es: ~
+        population: 1305
+      - 
+        alternate_names: 
+          - Drakhtik
+          - Tokhludzha
+          - Тохлуджа
+        ascii_name: Drakhtik
+        name: Drakhtik
+        names_en: 
+          - Drakhtik
+        names_es: ~
+        population: 1016
+      - 
+        alternate_names: 
+          - Ddmashen
+          - Dodmashen
+          - Totmashen
+        ascii_name: Ddmashen
+        name: Ddmashen
+        names_en: 
+          - Ddmashen
+        names_es: ~
+        population: 2157
+      - 
+        alternate_names: 
+          - CHAMBARAK
+          - Chambarak
+          - Kraside
+        ascii_name: Chambarak
+        name: Chambarak
+        names_en: 
+          - Chambarak
+        names_es: ~
+        population: 6153
+      - 
+        alternate_names: 
+          - Alikrykh
+          - Astghadzor
+          - Astkhadzor
+        ascii_name: Astghadzor
+        name: Astghadzor
+        names_en: ~
+        names_es: ~
+        population: 3520
+      - 
+        alternate_names: 
+          - Akunk'
+          - Akunk’
+          - Kirkhbulag
+        ascii_name: Akunk'
+        name: Akunk’
+        names_en: ~
+        names_es: ~
+        population: 3444
+      - 
+        alternate_names: ~
+        ascii_name: Gandzak
+        name: Gandzak
+        names_en: ~
+        names_es: ~
+        population: 3841
+      - 
+        alternate_names: ~
+        ascii_name: Artsvanist
+        name: Artsvanist
+        names_en: ~
+        names_es: ~
+        population: 2819
+    name: Gegharkʼunikʼ
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kotayk'i Marz"
+    cities: 
+      - 
+        alternate_names: 
+          - Zar
+          - Zarr
+          - Зар
+        ascii_name: Zarr
+        name: Zarr
+        names_en: 
+          - Zarr
+        names_es: ~
+        population: 1340
+      - 
+        alternate_names: 
+          - Egvard
+          - Jegward
+          - Yeghvard
+        ascii_name: Yeghvard
+        name: Yeghvard
+        names_en: 
+          - Yeghvard
+        names_es: ~
+        population: 10705
+      - 
+        alternate_names: 
+          - CAKHKADZOR
+          - Darachichag
+          - Tsaghkadzor
+        ascii_name: Tsaghkadzor
+        name: Tsaghkadzor
+        names_en: 
+          - Tsaghkadzor
+        names_es: ~
+        population: 1407
+      - 
+        alternate_names: 
+          - Solak
+          - Солак
+        ascii_name: Solak
+        name: Solak
+        names_en: 
+          - Solak
+        names_es: ~
+        population: 2295
+      - 
+        alternate_names: 
+          - Ptghni
+          - Ptgni
+          - Ptkhni
+        ascii_name: Ptghni
+        name: Ptghni
+        names_en: ~
+        names_es: ~
+        population: 1231
+      - 
+        alternate_names: 
+          - Proshian
+          - Proshyan
+          - Prroshyan
+        ascii_name: Prroshyan
+        name: Prroshyan
+        names_en: ~
+        names_es: ~
+        population: 4333
+      - 
+        alternate_names: 
+          - Kargavank
+          - Pokravan
+          - Zoravan
+        ascii_name: Zoravan
+        name: Zoravan
+        names_en: ~
+        names_es: ~
+        population: 1167
+      - 
+        alternate_names: 
+          - "Nor Gyugh"
+          - "Nor Gyukh"
+          - Tazagyukh
+        ascii_name: "Nor Gyugh"
+        name: "Nor Gyugh"
+        names_en: ~
+        names_es: ~
+        population: 1462
+      - 
+        alternate_names: 
+          - Bazmavan
+          - Chatkran
+          - "Nor Geghi"
+        ascii_name: "Nor Geghi"
+        name: "Nor Geghi"
+        names_en: ~
+        names_es: ~
+        population: 4896
+      - 
+        alternate_names: 
+          - Mrgashen
+        ascii_name: Mrgashen
+        name: Mrgashen
+        names_en: ~
+        names_es: ~
+        population: 1623
+      - 
+        alternate_names: 
+          - Meghradzor
+          - Megradzor
+          - Taycharukh
+        ascii_name: Meghradzor
+        name: Meghradzor
+        names_en: 
+          - Meghradzor
+        names_es: ~
+        population: 2659
+      - 
+        alternate_names: 
+          - Majakovskij
+          - Mayakovski
+          - Mayakovskiy
+        ascii_name: Mayakovski
+        name: Mayakovski
+        names_en: ~
+        names_es: ~
+        population: 1727
+      - 
+        alternate_names: 
+          - Lernanist
+          - Lerrnanist
+          - "Verin Akhta"
+        ascii_name: Lerrnanist
+        name: Lerrnanist
+        names_en: 
+          - Lerrnanist
+        names_es: ~
+        population: 2511
+      - 
+        alternate_names: 
+          - Kotayk'
+          - Kotayk’
+          - Yelgovan
+        ascii_name: Kotayk'
+        name: Kotayk’
+        names_en: ~
+        names_es: ~
+        population: 1510
+      - 
+        alternate_names: 
+          - Geykilisa
+          - Gëykilisa
+          - Kaputan
+        ascii_name: Kaputan
+        name: Kaputan
+        names_en: 
+          - Kaputan
+        names_es: ~
+        population: 1252
+      - 
+        alternate_names: 
+          - Akhta
+          - Akhtala
+          - Akhti
+        ascii_name: Hrazdan
+        name: Hrazdan
+        names_en: 
+          - Hrazdan
+        names_es: ~
+        population: 40795
+      - 
+        alternate_names: 
+          - Goght'
+          - Goght’
+          - Gokht
+        ascii_name: Goght'
+        name: Goght’
+        names_en: ~
+        names_es: ~
+        population: 1877
+      - 
+        alternate_names: 
+          - "Bash Gyarni"
+          - Garni
+          - Garrni
+        ascii_name: Garrni
+        name: Garrni
+        names_en: 
+          - Garrni
+        names_es: ~
+        population: 6827
+      - 
+        alternate_names: 
+          - Fantan
+          - Fontan
+        ascii_name: Fantan
+        name: Fantan
+        names_en: ~
+        names_es: ~
+        population: 1019
+      - 
+        alternate_names: 
+          - Dzhorakhpyur
+          - Dzoraghbyur
+          - Dzoraghp'yur
+        ascii_name: Dzoraghbyur
+        name: Dzoraghbyur
+        names_en: ~
+        names_es: ~
+        population: 2011
+      - 
+        alternate_names: 
+          - Bjni
+          - Bzhni
+        ascii_name: Bjni
+        name: Bjni
+        names_en: ~
+        names_es: ~
+        population: 2771
+      - 
+        alternate_names: 
+          - Bjuregavan
+          - Byuregavan
+          - Byureghavan
+        ascii_name: Byureghavan
+        name: Byureghavan
+        names_en: ~
+        names_es: ~
+        population: 6972
+      - 
+        alternate_names: 
+          - Babakishi
+          - Buzhakan
+          - Бужакан
+        ascii_name: Buzhakan
+        name: Buzhakan
+        names_en: 
+          - Buzhakan
+        names_es: ~
+        population: 1678
+      - 
+        alternate_names: 
+          - Balahovit
+          - Balakhovit
+          - Balaovit
+        ascii_name: Balahovit
+        name: Balahovit
+        names_en: 
+          - Balahovit
+        names_es: ~
+        population: 2982
+      - 
+        alternate_names: 
+          - ARZNI
+          - Arzni
+          - АРЗНИ
+        ascii_name: Arzni
+        name: Arzni
+        names_en: 
+          - Arzni
+        names_es: ~
+        population: 2244
+      - 
+        alternate_names: 
+          - Arzakan
+          - Arzakyand
+          - Арзакан
+        ascii_name: Arzakan
+        name: Arzakan
+        names_en: ~
+        names_es: ~
+        population: 2660
+      - 
+        alternate_names: 
+          - ARGEL
+          - Argel
+          - Arkel
+        ascii_name: Argel
+        name: Argel
+        names_en: 
+          - Argel
+        names_es: ~
+        population: 2528
+      - 
+        alternate_names: 
+          - Aramus
+        ascii_name: Aramus
+        name: Aramus
+        names_en: ~
+        names_es: ~
+        population: 3214
+      - 
+        alternate_names: 
+          - Akunk'
+          - Akunk’
+          - Bashgyukh
+        ascii_name: Akunk'
+        name: Akunk’
+        names_en: ~
+        names_es: ~
+        population: 1787
+      - 
+        alternate_names: 
+          - Agavnadzor
+          - Aghavnadzor
+          - Akhavnadzor
+        ascii_name: Aghavnadzor
+        name: Aghavnadzor
+        names_en: ~
+        names_es: ~
+        population: 1252
+      - 
+        alternate_names: 
+          - ABOVJAN
+          - Abovyan
+          - Elar
+        ascii_name: Abovyan
+        name: Abovyan
+        names_en: 
+          - Abovyan
+        names_es: ~
+        population: 35673
+      - 
+        alternate_names: 
+          - "Nor Yerznka"
+        ascii_name: "Nor Yerznka"
+        name: "Nor Yerznka"
+        names_en: ~
+        names_es: ~
+        population: 1459
+      - 
+        alternate_names: 
+          - Kamaris
+        ascii_name: Kamaris
+        name: Kamaris
+        names_en: ~
+        names_es: ~
+        population: 2064
+    name: Kotaykʼ
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lorru Marz"
+    cities: 
+      - 
+        alternate_names: 
+          - Ekheknut
+          - Kamyshkut
+          - Yegegnut
+        ascii_name: Yeghegnut
+        name: Yeghegnut
+        names_en: 
+          - Yeghegnut
+        names_es: ~
+        population: 1154
+      - 
+        alternate_names: 
+          - "Verin Akhtala"
+          - "Verkhnyaya Akhtala"
+        ascii_name: "Verin Akhtala"
+        name: "Verin Akhtala"
+        names_en: ~
+        names_es: ~
+        population: 1989
+      - 
+        alternate_names: 
+          - Shagali
+          - Vaagni
+          - Vahagni
+        ascii_name: Vahagni
+        name: Vahagni
+        names_en: 
+          - Vahagni
+        names_es: ~
+        population: 1184
+      - 
+        alternate_names: 
+          - Urrut
+          - Urut
+          - Урут
+        ascii_name: Urrut
+        name: Urrut
+        names_en: 
+          - Urrut
+        names_es: ~
+        population: 1102
+      - 
+        alternate_names: 
+          - Avdibek
+          - Cakhkaber
+          - Tsaghkaber
+        ascii_name: Tsaghkaber
+        name: Tsaghkaber
+        names_en: ~
+        names_es: ~
+        population: 1207
+      - 
+        alternate_names: 
+          - Kaliniko
+          - Kalinin
+          - Kalinino
+        ascii_name: Tashir
+        name: Tashir
+        names_en: 
+          - Tashir
+        names_es: ~
+        population: 7318
+      - 
+        alternate_names: 
+          - Amamlu
+          - Amamth
+          - Spitak
+        ascii_name: Spitak
+        name: Spitak
+        names_en: ~
+        names_es: ~
+        population: 15059
+      - 
+        alternate_names: 
+          - Shnogh
+          - Shnokh
+          - Шнох
+        ascii_name: Shnogh
+        name: Shnogh
+        names_en: 
+          - Shnogh
+        names_es: ~
+        population: 2872
+      - 
+        alternate_names: 
+          - Chotur
+          - Saramech
+          - Сарамеч
+        ascii_name: Saramech
+        name: Saramech
+        names_en: ~
+        names_es: ~
+        population: 1111
+      - 
+        alternate_names: 
+          - Dzun
+          - Odzun
+          - Usuklyar
+        ascii_name: Odzun
+        name: Odzun
+        names_en: 
+          - Odzun
+        names_es: ~
+        population: 4524
+      - 
+        alternate_names: 
+          - Bogdanovka
+          - Norashen
+          - Норашен
+        ascii_name: Norashen
+        name: Norashen
+        names_en: ~
+        names_es: ~
+        population: 1386
+      - 
+        alternate_names: 
+          - Bekyand
+          - Mec-Parni
+          - "Mets Parni"
+        ascii_name: "Mets Parni"
+        name: "Mets Parni"
+        names_en: 
+          - "Mets Parni"
+        names_es: ~
+        population: 1934
+      - 
+        alternate_names: 
+          - Mecavan
+          - Metsavan
+          - Shakhnazar
+        ascii_name: Metsavan
+        name: Metsavan
+        names_en: 
+          - Metsavan
+        names_es: ~
+        population: 4767
+      - 
+        alternate_names: 
+          - Bozigekh
+          - Gamzachemanskaya
+          - Gamzachiman
+        ascii_name: Margahovit
+        name: Margahovit
+        names_en: 
+          - Margahovit
+        names_es: ~
+        population: 3308
+      - 
+        alternate_names: 
+          - Lorut
+          - Лорут
+        ascii_name: Lorut
+        name: Lorut
+        names_en: 
+          - Lorut
+        names_es: ~
+        population: 1101
+      - 
+        alternate_names: 
+          - Kachagan
+          - Lernavan
+          - Лернаван
+        ascii_name: Lernavan
+        name: Lernavan
+        names_en: ~
+        names_es: ~
+        population: 1517
+      - 
+        alternate_names: 
+          - Gadzhikara
+          - Lernapat
+          - Lerrnapat
+        ascii_name: Lerrnapat
+        name: Lerrnapat
+        names_en: ~
+        names_es: ~
+        population: 1710
+      - 
+        alternate_names: 
+          - Gharak'ilisa
+          - Gharak’ilisa
+          - KIROVAKAN
+        ascii_name: Vanadzor
+        name: Vanadzor
+        names_en: 
+          - Vanadzor
+        names_es: ~
+        population: 101098
+      - 
+        alternate_names: 
+          - "Imeni Shaumyana"
+          - Shahumian
+          - Shahumyan
+        ascii_name: Shahumyan
+        name: Shahumyan
+        names_en: ~
+        names_es: ~
+        population: 1843
+      - 
+        alternate_names: 
+          - Gjulagarak
+          - Gyulabarrak
+          - Gyulagarak
+        ascii_name: Gyulagarak
+        name: Gyulagarak
+        names_en: 
+          - Gyulagarak
+        names_es: ~
+        population: 2109
+      - 
+        alternate_names: 
+          - Gugark
+          - Gugark'
+          - Gugark’
+        ascii_name: Gugark'
+        name: Gugark’
+        names_en: 
+          - Gugark'
+        names_es: ~
+        population: 4705
+      - 
+        alternate_names: 
+          - Geran
+          - Gogaran
+          - Gëran
+        ascii_name: Gogaran
+        name: Gogaran
+        names_en: ~
+        names_es: ~
+        population: 1088
+      - 
+        alternate_names: 
+          - Fioletovo
+          - Nikitino
+          - Фиолетово
+        ascii_name: Fioletovo
+        name: Fioletovo
+        names_en: ~
+        names_es: ~
+        population: 1264
+      - 
+        alternate_names: 
+          - Dzhrashen
+          - Jrashen
+          - Vardnav
+        ascii_name: Jrashen
+        name: Jrashen
+        names_en: 
+          - Jrashen
+        names_es: ~
+        population: 3078
+      - 
+        alternate_names: 
+          - Dsegh
+          - Dsekh
+          - Tumanyan
+        ascii_name: Dsegh
+        name: Dsegh
+        names_en: 
+          - Dsegh
+        names_es: ~
+        population: 2484
+      - 
+        alternate_names: 
+          - Darbas
+          - Darpas
+          - Дарпас
+        ascii_name: Darpas
+        name: Darpas
+        names_en: ~
+        names_es: ~
+        population: 1785
+      - 
+        alternate_names: ~
+        ascii_name: Chochkan
+        name: Chochkan
+        names_en: ~
+        names_es: ~
+        population: 1740
+      - 
+        alternate_names: 
+          - Bazum
+          - Bzovdal
+          - Базум
+        ascii_name: Bazum
+        name: Bazum
+        names_en: 
+          - Bazum
+        names_es: ~
+        population: 1114
+      - 
+        alternate_names: 
+          - Arevashogh
+          - Arevashokh
+          - Chigdamal
+        ascii_name: Arevashogh
+        name: Arevashogh
+        names_en: 
+          - Arevashogh
+        names_es: ~
+        population: 2435
+      - 
+        alternate_names: 
+          - ALAVERDI
+          - Alaverdi
+          - Alaverdy
+        ascii_name: Alaverdi
+        name: Alaverdi
+        names_en: 
+          - Alaverdi
+        names_es: ~
+        population: 13184
+      - 
+        alternate_names: ~
+        ascii_name: Agarak
+        name: Agarak
+        names_en: ~
+        names_es: ~
+        population: 1278
+      - 
+        alternate_names: 
+          - Vardablur
+          - Verdablur
+          - Вардаблур
+        ascii_name: Vardablur
+        name: Vardablur
+        names_en: ~
+        names_es: ~
+        population: 1297
+      - 
+        alternate_names: 
+          - Shirakamut
+          - Ширакамут
+        ascii_name: Shirakamut
+        name: Shirakamut
+        names_en: 
+          - Shirakamut
+        names_es: ~
+        population: 2008
+    name: Lorri
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Shiraki Marz"
+    cities: 
+      - 
+        alternate_names: 
+          - Horom
+          - Horrom
+          - Orom
+        ascii_name: Horrom
+        name: Horrom
+        names_en: 
+          - Horrom
+        names_es: ~
+        population: 1893
+      - 
+        alternate_names: 
+          - "Molla Musa"
+          - Musakan
+          - Voskeask
+        ascii_name: Voskehask
+        name: Voskehask
+        names_en: ~
+        names_es: ~
+        population: 1803
+      - 
+        alternate_names: 
+          - Kulidzhan
+          - Spandarjan
+          - Spandaryan
+        ascii_name: Spandaryan
+        name: Spandaryan
+        names_en: ~
+        names_es: ~
+        population: 1226
+      - 
+        alternate_names: 
+          - Konakhkran
+          - Kunakhkran
+          - Shirak
+        ascii_name: Shirak
+        name: Shirak
+        names_en: ~
+        names_es: ~
+        population: 1007
+      - 
+        alternate_names: 
+          - Imrkhan
+          - Saratak
+          - Саратак
+        ascii_name: Saratak
+        name: Saratak
+        names_en: ~
+        names_es: ~
+        population: 1115
+      - 
+        alternate_names: 
+          - "Malyy Mantash"
+          - "Pokr Arkhvali"
+          - "Pokr Mantash"
+        ascii_name: "Pokr Mantash"
+        name: "Pokr Mantash"
+        names_en: ~
+        names_es: ~
+        population: 1838
+      - 
+        alternate_names: 
+          - Magmudzhuk
+          - Mahmutcuk
+          - Makhmudzhug
+        ascii_name: Pemzashen
+        name: Pemzashen
+        names_en: 
+          - Pemzashen
+        names_es: ~
+        population: 2436
+      - 
+        alternate_names: 
+          - "Mets Kyapanak"
+          - Musaeljan
+          - Musayelyan
+        ascii_name: Musayelyan
+        name: Musayelyan
+        names_en: 
+          - Musayelyan
+        names_es: ~
+        population: 1499
+      - 
+        alternate_names: 
+          - "Bol'shoy Mantash"
+          - "Bol’shoy Mantash"
+          - Mantash
+        ascii_name: "Mets Mant'ash"
+        name: "Mets Mant’ash"
+        names_en: 
+          - "Mets Mant'ash"
+        names_es: ~
+        population: 1973
+      - 
+        alternate_names: 
+          - Kazanchi
+          - Meghrashen
+          - Megrashen
+        ascii_name: Meghrashen
+        name: Meghrashen
+        names_en: ~
+        names_es: ~
+        population: 1107
+      - 
+        alternate_names: 
+          - Kanlidzha
+          - Marmashen
+          - "Verin Kanlidzha"
+        ascii_name: Marmashen
+        name: Marmashen
+        names_en: 
+          - Marmashen
+        names_es: ~
+        population: 1644
+      - 
+        alternate_names: 
+          - MARALIK
+          - Maralik
+          - "Molla Gekcha"
+        ascii_name: Maralik
+        name: Maralik
+        names_en: 
+          - Maralik
+        names_es: ~
+        population: 4959
+      - 
+        alternate_names: 
+          - Lernakert
+          - Lerrnakert
+          - Shirvan
+        ascii_name: Lerrnakert
+        name: Lerrnakert
+        names_en: ~
+        names_es: ~
+        population: 1306
+      - 
+        alternate_names: 
+          - "Gadzhi Nazar"
+          - Kamo
+          - Камо
+        ascii_name: Kamo
+        name: Kamo
+        names_en: 
+          - Kamo
+        names_es: ~
+        population: 1340
+      - 
+        alternate_names: 
+          - Alek'pol
+          - Alek'sandrapol
+          - Alek'sandrobol
+        ascii_name: Gyumri
+        name: Gyumri
+        names_en: 
+          - Gyumri
+        names_es: 
+          - Gyumri
+        population: 148381
+      - 
+        alternate_names: 
+          - Bazirkhana
+          - Dzit'hank'ov
+          - Dzitankov
+        ascii_name: Dzit'hank'ov
+        name: Dzit’hank’ov
+        names_en: 
+          - Dzit'hank'ov
+        names_es: ~
+        population: 1162
+      - 
+        alternate_names: 
+          - Azatan
+          - Karakhs
+          - Karakilisa
+        ascii_name: Azatan
+        name: Azatan
+        names_en: 
+          - Azatan
+        names_es: ~
+        population: 4448
+      - 
+        alternate_names: 
+          - Ajkavan
+          - Aykavan
+          - Badzhogli
+        ascii_name: Haykavan
+        name: Haykavan
+        names_en: 
+          - Haykavan
+        names_es: ~
+        population: 1201
+      - 
+        alternate_names: 
+          - Arevshat
+          - Yekan
+          - Yekanlar
+        ascii_name: Arevshat
+        name: Arevshat
+        names_en: ~
+        names_es: ~
+        population: 1623
+      - 
+        alternate_names: 
+          - Arevik
+          - Tapadolag
+          - Tapadolak
+        ascii_name: Arevik
+        name: Arevik
+        names_en: ~
+        names_es: ~
+        population: 1522
+      - 
+        alternate_names: 
+          - Arapi
+          - Arrap'i
+          - Arrap’i
+        ascii_name: Arrap'i
+        name: Arrap’i
+        names_en: ~
+        names_es: ~
+        population: 1738
+      - 
+        alternate_names: 
+          - Anushavan
+          - Parni
+          - "Pokr Parni"
+        ascii_name: Anushavan
+        name: Anushavan
+        names_en: ~
+        names_es: ~
+        population: 1532
+      - 
+        alternate_names: 
+          - Amasia
+          - Amasija
+          - Amasiya
+        ascii_name: Amasia
+        name: Amasia
+        names_en: 
+          - Amasia
+        names_es: ~
+        population: 1675
+      - 
+        alternate_names: 
+          - Akhurjan
+          - Akhuryan
+          - Duzk'end
+        ascii_name: Akhuryan
+        name: Akhuryan
+        names_en: 
+          - Akhuryan
+        names_es: ~
+        population: 7672
+    name: Shirak
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tavushi Marz"
+    cities: 
+      - 
+        alternate_names: 
+          - Koshkotan
+          - Voskevan
+          - Воскеван
+        ascii_name: Voskevan
+        name: Voskevan
+        names_en: 
+          - Voskevan
+        names_es: ~
+        population: 1287
+      - 
+        alternate_names: 
+          - Sarigyugh
+          - Sarigyukh
+          - Srigekh
+        ascii_name: Sarigyugh
+        name: Sarigyugh
+        names_en: ~
+        names_es: ~
+        population: 1096
+      - 
+        alternate_names: 
+          - Baran
+          - Barana
+          - NOEMBERJAN
+        ascii_name: Noyemberyan
+        name: Noyemberyan
+        names_en: 
+          - Noyemberyan
+        names_es: ~
+        population: 5119
+      - 
+        alternate_names: 
+          - Navur
+          - Навур
+        ascii_name: Navur
+        name: Navur
+        names_en: 
+          - Navur
+        names_es: ~
+        population: 1227
+      - 
+        alternate_names: 
+          - Mosesgegh
+          - Mosesgekh
+          - Movses
+        ascii_name: Mosesgegh
+        name: Mosesgegh
+        names_en: 
+          - Mosesgegh
+        names_es: ~
+        population: 1964
+      - 
+        alternate_names: 
+          - Khasht'arrak
+          - Khashtarak
+          - Khasht’arrak
+        ascii_name: Khasht'arrak
+        name: Khasht’arrak
+        names_en: 
+          - Khasht'arrak
+        names_es: ~
+        population: 1728
+      - 
+        alternate_names: 
+          - IDZHEVAN
+          - Idzhevan
+          - Ijevan
+        ascii_name: Ijevan
+        name: Ijevan
+        names_en: 
+          - Ijevan
+        names_es: ~
+        population: 14737
+      - 
+        alternate_names: 
+          - Dzharkhech
+          - Dzharkhedzh
+          - Haghardzin
+        ascii_name: Haghartsin
+        name: Haghartsin
+        names_en: 
+          - Haghartsin
+        names_es: ~
+        population: 3370
+      - 
+        alternate_names: 
+          - DILIZHAN
+          - Delijan
+          - Delishan
+        ascii_name: Dilijan
+        name: Dilijan
+        names_en: 
+          - Dilijan
+        names_es: ~
+        population: 13478
+      - 
+        alternate_names: 
+          - BERD
+          - Berd
+          - Berrdagyugh
+        ascii_name: Berd
+        name: Berd
+        names_en: 
+          - Berd
+        names_es: ~
+        population: 8374
+      - 
+        alternate_names: 
+          - Bagratashen
+          - Баграташен
+        ascii_name: Bagratashen
+        name: Bagratashen
+        names_en: 
+          - Bagratashen
+        names_es: ~
+        population: 3024
+      - 
+        alternate_names: 
+          - Ajgeovit
+          - Aygeovit
+          - Onut
+        ascii_name: Aygehovit
+        name: Aygehovit
+        names_en: ~
+        names_es: ~
+        population: 2888
+      - 
+        alternate_names: ~
+        ascii_name: Archis
+        name: Archis
+        names_en: ~
+        names_es: ~
+        population: 1235
+      - 
+        alternate_names: ~
+        ascii_name: Berdavan
+        name: Berdavan
+        names_en: ~
+        names_es: ~
+        population: 3150
+      - 
+        alternate_names: 
+          - AZANUT
+          - Azatamut
+          - АЗАНУТ
+        ascii_name: Azatamut
+        name: Azatamut
+        names_en: 
+          - Azatamut
+        names_es: ~
+        population: 1850
+      - 
+        alternate_names: ~
+        ascii_name: Getahovit
+        name: Getahovit
+        names_en: ~
+        names_es: ~
+        population: 2005
+      - 
+        alternate_names: 
+          - Arcvaberd
+          - Artsvaberd
+          - Арцваберд
+        ascii_name: Artsvaberd
+        name: Artsvaberd
+        names_en: 
+          - Artsvaberd
+        names_es: ~
+        population: 3193
+    name: Tavush
+    names_en: ~
+    names_es: ~

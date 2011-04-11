@@ -1,606 +1,595 @@
 --- 
-code: BD
-continent: AS
 name: Bangladesh
-population: 156118464
+names_en: 
+  - Bangladesh
+names_es: 
+  - Bangladesh
 regions: 
   - 
+    ascii_name: "Rajshahi Division"
     cities: 
       - 
-        districts: []
-        location: "POINT (24.9166699999999999 89.9333299999999980)"
-        name: Jamālpur
-        population: 167900
-        slug: jamalpur
-      - 
-        districts: []
-        location: "POINT (22.7166700000000006 89.0999999999999943)"
-        name: Sātkhira
-        population: 128918
-        slug: satkhira
-      - 
-        districts: []
-        location: "POINT (24.4499999999999993 89.7166699999999935)"
-        name: Sirājganj
-        population: 167481
-        slug: sirajganj
-      - 
-        districts: []
-        location: "POINT (24.1666699999999999 89.5999999999999943)"
-        name: Shāhzādpur
-        population: 102420
-        slug: shahzadpur
-      - 
-        districts: []
-        location: "POINT (23.1000000000000014 90.8499999999999943)"
-        name: Rāmganj
-        population: 55241
-        slug: ramganj
-      - 
-        districts: []
-        location: "POINT (22.6333300000000008 90.2833300000000065)"
-        name: Nālchiti
-        population: 38703
-        slug: nalchiti
-      - 
-        districts: []
-        location: "POINT (25.9666700000000006 89.7166699999999935)"
-        name: Nageswari
-        population: 49425
-        slug: nageswari
-      - 
-        districts: []
-        location: "POINT (24.7500000000000000 90.4000000000000057)"
-        name: Mymensingh
-        population: 330126
-        slug: mymensingh
-      - 
-        districts: []
-        location: "POINT (24.7666700000000013 90.2333299999999952)"
-        name: Muktāgācha
-        population: 24684
-        slug: muktagacha
-      - 
-        districts: []
-        location: "POINT (24.1000000000000014 90.0999999999999943)"
-        name: Mirzāpur
-        population: 41137
-        slug: mirzapur
-      - 
-        districts: []
-        location: "POINT (22.8166699999999985 90.5333300000000065)"
-        name: Mehendiganj
-        population: 39424
-        slug: mehendiganj
-      - 
-        districts: []
-        location: "POINT (25.8999999999999986 89.4500000000000028)"
-        name: "Lālmanir Hāt"
-        population: 65127
-        slug: lalmanir-hat
-      - 
-        districts: []
-        location: "POINT (25.7500000000000000 89.2500000000000000)"
-        name: Rangpur
-        population: 285564
-        slug: rangpur
-      - 
-        districts: []
-        location: "POINT (23.4166699999999999 89.1333300000000008)"
-        name: Kālīganj
-        population: 45631
-        slug: kaliganj
-      - 
-        districts: []
-        location: "POINT (25.1000000000000014 89.0166700000000048)"
-        name: "Jaipur Hāt"
-        population: 73068
-        slug: jaipur-hat
-      - 
-        districts: []
-        location: "POINT (24.1333300000000008 89.0833300000000037)"
-        name: Ishurdi
-        population: 81995
-        slug: ishurdi
-      - 
-        districts: []
-        location: "POINT (22.9666700000000006 90.2333299999999952)"
-        name: Gaurnadi
-        population: 40519
-        slug: gaurnadi
-      - 
-        districts: []
-        location: "POINT (24.4333300000000015 90.5666700000000020)"
-        name: Gafargaon
-        population: 34177
-        slug: gafargaon
-      - 
-        districts: []
-        location: "POINT (23.0500000000000007 90.7666700000000048)"
-        name: Rāipur
-        population: 64652
-        slug: raipur
-      - 
-        districts: []
-        location: "POINT (25.5500000000000007 89.7166699999999935)"
-        name: Chilmāri
-        population: 49736
-        slug: chilmari
-      - 
-        districts: []
-        location: "POINT (23.1000000000000014 91.9666699999999935)"
-        name: Khagrāchari
-        population: 50364
-        slug: khagrachari
-      - 
-        districts: []
-        location: "POINT (25.0333299999999994 91.6666699999999963)"
-        name: Chhātak
-        population: 39218
-        slug: chhatak
-      - 
-        districts: []
-        location: "POINT (24.0666699999999985 90.9666699999999935)"
-        name: "Bhairab Bāzār"
-        population: 105457
-        slug: bhairab-bazar
-      - 
-        districts: []
-        location: "POINT (24.5166700000000013 91.3666699999999992)"
-        name: Baniachang
-        population: 37807
-        slug: baniachang
-      - 
-        districts: []
-        location: "POINT (24.2166700000000006 90.9500000000000028)"
-        name: Bājitpur
-        population: 34560
-        slug: bajitpur
-      - 
-        districts: []
-        location: "POINT (25.6666699999999999 89.0499999999999972)"
-        name: Badarganj
-        population: 32600
-        slug: badarganj
-      - 
-        districts: []
-        location: "POINT (23.1666699999999999 89.5000000000000000)"
-        name: Narail
-        population: 55112
-        slug: narail
-      - 
-        districts: []
-        location: "POINT (22.8999999999999986 89.9166699999999963)"
-        name: Tungipāra
-        population: 62210
-        slug: tungipara
-      - 
-        districts: []
-        location: "POINT (24.7333299999999987 89.8333300000000037)"
-        name: Sarishābāri
-        population: 81325
-        slug: sarishabari
-      - 
-        districts: []
-        location: "POINT (23.3166699999999985 90.2166699999999935)"
-        name: "Char Bhadrāsan"
-        population: 34423
-        slug: char-bhadrasan
-      - 
-        districts: []
-        location: "POINT (22.6833300000000015 90.6500000000000057)"
-        name: Bhola
-        population: 99079
-        slug: bhola
-      - 
-        districts: []
-        location: "POINT (24.0000000000000000 89.2500000000000000)"
-        name: Pābna
-        population: 137888
-        slug: pabna
-      - 
-        districts: []
-        location: "POINT (24.2500000000000000 89.9166699999999963)"
-        name: Tāngāil
-        population: 180144
-        slug: tangail
-      - 
-        districts: []
-        location: "POINT (24.3000000000000007 90.1833299999999980)"
-        name: Sakhipur
-        population: 40869
-        slug: sakhipur
-      - 
-        districts: []
-        location: "POINT (22.6999999999999993 89.5166700000000048)"
-        name: Phultala
-        population: 37985
-        slug: phultala
-      - 
-        districts: []
-        location: "POINT (23.2166700000000006 90.3499999999999943)"
-        name: Pālang
-        population: 67652
-        slug: palang
-      - 
-        districts: []
-        location: "POINT (22.9166699999999999 89.2166699999999935)"
-        name: Kesabpur
-        population: 30926
-        slug: kesabpur
-      - 
-        districts: []
-        location: "POINT (23.6000000000000014 89.8333300000000037)"
-        name: Farīdpur
-        population: 112187
-        slug: faridpur
-      - 
-        districts: []
-        location: "POINT (24.0833300000000001 89.6166699999999992)"
-        name: Bera
-        population: 39604
-        slug: bera
-    code: BD.00
-    name: "Bangladesh (general)"
-    slug: bangladesh-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (23.8900000000000006 90.4058299999999946)"
-        name: Tungi
-        population: 337579
-        slug: tungi
-      - 
-        districts: []
-        location: "POINT (23.5883299999999991 90.1469400000000007)"
-        name: Dohār
-        population: 45543
-        slug: dohar
-      - 
-        districts: []
-        location: "POINT (24.8833300000000008 90.7166699999999935)"
-        name: Netrakona
-        population: 79016
-        slug: netrakona
-      - 
-        districts: []
-        location: "POINT (23.9208299999999987 90.7180599999999941)"
-        name: Narsingdi
-        population: 281080
-        slug: narsingdi
-      - 
-        districts: []
-        location: "POINT (23.6233299999999993 90.5011099999999971)"
-        name: Nārāyanganj
-        population: 223622
-        slug: narayanganj
-      - 
-        districts: []
-        location: "POINT (23.7103999999999999 90.4074399999999940)"
-        name: Dhaka
-        population: 10356500
-        slug: dhaka
-      - 
-        districts: []
-        location: "POINT (23.0396000000000001 89.6328000000000031)"
-        name: Kālia
-        population: 40492
-        slug: kalia
-      - 
-        districts: []
-        location: "POINT (23.1752800000000008 90.2072200000000066)"
-        name: Mādārīpur
-        population: 84789
-        slug: madaripur
-      - 
-        districts: []
-        location: "POINT (25.0166700000000013 90.0166700000000048)"
-        name: Sherpur
-        population: 107419
-        slug: sherpur
-      - 
-        districts: []
-        location: "POINT (24.4333300000000015 90.7666700000000048)"
-        name: Kishorganj
-        population: 90690
-        slug: kishorganj
-    code: BD.81
-    name: Dhaka
-    slug: dhaka
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (22.4537000000000013 89.8586999999999989)"
-        name: Morrelgonj
-        population: 31647
-        slug: morrelgonj
-      - 
-        districts: []
-        location: "POINT (23.9010500000000015 89.1220699999999937)"
-        name: Kushtia
-        population: 135724
-        slug: kushtia
-      - 
-        districts: []
-        location: "POINT (23.1130999999999993 89.0938000000000017)"
-        name: Jhingergācha
-        population: 41957
-        slug: jhingergacha
-      - 
-        districts: []
-        location: "POINT (22.3081999999999994 89.7896999999999963)"
-        name: Sarankhola
-        population: 36470
-        slug: sarankhola
-      - 
-        districts: []
-        location: "POINT (23.0153099999999995 89.4432000000000045)"
-        name: "Bhātpāra Abhaynagar"
-        population: 42653
-        slug: bhatpara-abhaynagar
-      - 
-        districts: []
-        location: "POINT (24.0231999999999992 88.9925000000000068)"
-        name: Bherāmāra
-        population: 38159
-        slug: bheramara
-      - 
-        districts: []
-        location: "POINT (22.2332199999999993 90.7132299999999958)"
-        name: "Uttar Char Fasson"
-        population: 48305
-        slug: uttar-char-fasson
-      - 
-        districts: []
-        location: "POINT (22.8134799999999984 89.5672299999999950)"
-        name: Khulna
-        population: 1342339
-        slug: khulna
-      - 
-        districts: []
-        location: "POINT (23.1686900000000016 89.2131499999999988)"
-        name: Jessore
-        population: 243987
-        slug: jessore
-    code: BD.82
-    name: Khulna
-    slug: khulna
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (26.0333299999999994 88.4666699999999935)"
+        alternate_names: 
+          - Thakurgaom
+          - Thakurgaon
+          - "Thakus Gaon"
+        ascii_name: Thakurgaon
         name: Thākurgaon
+        names_en: ~
+        names_es: ~
         population: 71096
-        slug: thakurgaon
       - 
-        districts: []
-        location: "POINT (24.6829299999999989 88.1597500000000025)"
+        alternate_names: 
+          - Shibganj
+          - Sibganj
+        ascii_name: Shibganj
         name: Shibganj
+        names_en: ~
+        names_es: ~
         population: 35961
-        slug: shibganj
       - 
-        districts: []
-        location: "POINT (24.3666699999999992 88.5999999999999943)"
+        alternate_names: 
+          - Radzhshakhi
+          - Rajshahi
+          - "Rampur Baolia"
+        ascii_name: Rajshahi
         name: Rājshāhi
+        names_en: 
+          - Rajshahi
+        names_es: ~
         population: 700133
-        slug: rajshahi
       - 
-        districts: []
-        location: "POINT (26.3312899999999992 88.5619999999999976)"
+        alternate_names: 
+          - Pachagar
+          - Pachagarh
+          - Pachāgarh
+        ascii_name: Panchagarh
         name: Panchagarh
+        names_en: ~
+        names_es: ~
         population: 48531
-        slug: panchagarh
       - 
-        districts: []
-        location: "POINT (25.6649099999999990 88.9247000000000014)"
+        alternate_names: 
+          - Parbatipur
+          - Parvatipur
+          - Pārvatīpur
+        ascii_name: Parbatipur
         name: Parbatipur
+        names_en: ~
+        names_es: ~
         population: 48020
-        slug: parbatipur
       - 
-        districts: []
-        location: "POINT (25.6271500000000003 88.6386399999999952)"
-        name: Dinājpur
-        population: 206234
-        slug: dinajpur
-      - 
-        districts: []
-        location: "POINT (25.8603999999999985 88.3635000000000019)"
-        name: Pīrgaaj
-        population: 34606
-        slug: pirgaaj
-      - 
-        districts: []
-        location: "POINT (24.5911200000000001 88.2710199999999929)"
-        name: Nawābganj
-        population: 142361
-        slug: nawabganj
-      - 
-        districts: []
-        location: "POINT (25.7776899999999998 88.8916899999999970)"
-        name: Saidpur
-        population: 199422
-        slug: saidpur
-      - 
-        districts: []
-        location: "POINT (24.8028699999999986 88.9508399999999995)"
+        alternate_names: 
+          - "Par Naogaon"
+          - "Pār Naogaon"
+        ascii_name: "Par Naogaon"
         name: "Pār Naogaon"
+        names_en: ~
+        names_es: ~
         population: 192464
-        slug: par-naogaon
-    code: BD.83
+      - 
+        alternate_names: 
+          - Dinajpur
+          - Dinājpur
+        ascii_name: Dinajpur
+        name: Dinājpur
+        names_en: ~
+        names_es: ~
+        population: 206234
+      - 
+        alternate_names: 
+          - Bogra
+          - Богра
+        ascii_name: Bogra
+        name: Bogra
+        names_en: ~
+        names_es: ~
+        population: 210000
+      - 
+        alternate_names: 
+          - Pirgaaj
+          - Pirganj
+          - Pīrgaaj
+        ascii_name: Pirgaaj
+        name: Pīrgaaj
+        names_en: ~
+        names_es: ~
+        population: 34606
+      - 
+        alternate_names: 
+          - Nawabganj
+          - Nawābganj
+        ascii_name: Nawabganj
+        name: Nawābganj
+        names_en: ~
+        names_es: ~
+        population: 142361
+      - 
+        alternate_names: ~
+        ascii_name: Saidpur
+        name: Saidpur
+        names_en: ~
+        names_es: ~
+        population: 199422
     name: Rājshāhi
-    slug: rajshahi
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Dhaka Division"
     cities: 
       - 
-        districts: []
-        location: "POINT (20.8624299999999998 92.3058199999999971)"
+        alternate_names: 
+          - Tangi
+          - Tongi
+          - Tungi
+        ascii_name: Tungi
+        name: Tungi
+        names_en: 
+          - Tongi
+        names_es: ~
+        population: 337579
+      - 
+        alternate_names: 
+          - Dohai
+          - Dohar
+          - Dohāi
+        ascii_name: Dohar
+        name: Dohār
+        names_en: ~
+        names_es: ~
+        population: 45543
+      - 
+        alternate_names: 
+          - Netrakona
+          - Satpai
+          - Sātpāi
+        ascii_name: Netrakona
+        name: Netrakona
+        names_en: ~
+        names_es: ~
+        population: 79016
+      - 
+        alternate_names: 
+          - Narsingdi
+          - Narsinghdi
+          - Satirpara
+        ascii_name: Narsingdi
+        name: Narsingdi
+        names_en: ~
+        names_es: ~
+        population: 281080
+      - 
+        alternate_names: 
+          - Narajanganj
+          - Narayanganj
+          - Nārāyanganj
+        ascii_name: Narayanganj
+        name: Nārāyanganj
+        names_en: ~
+        names_es: ~
+        population: 223622
+      - 
+        alternate_names: 
+          - Daca
+          - Dacca
+          - "Dacca - dhaka"
+        ascii_name: Dhaka
+        name: Dhaka
+        names_en: 
+          - Dhaka
+        names_es: 
+          - Dacca
+        population: 10356500
+      - 
+        alternate_names: 
+          - "Bara Kalia"
+          - "Bara Kālia"
+          - Kalia
+        ascii_name: Kalia
+        name: Kālia
+        names_en: ~
+        names_es: ~
+        population: 40492
+      - 
+        alternate_names: ~
+        ascii_name: Madaripur
+        name: Mādārīpur
+        names_en: ~
+        names_es: ~
+        population: 84789
+      - 
+        alternate_names: ~
+        ascii_name: Sherpur
+        name: Sherpur
+        names_en: ~
+        names_es: ~
+        population: 107419
+      - 
+        alternate_names: 
+          - Kisharganj
+          - Kishoreganj
+          - "Kishoreganj Municipality"
+        ascii_name: Kishorganj
+        name: Kishorganj
+        names_en: ~
+        names_es: ~
+        population: 90690
+    name: Dhaka
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Chittagong
+    cities: 
+      - 
+        alternate_names: 
+          - Teknaaf
+          - Teknaf
+          - Teknāf
+        ascii_name: Teknaf
         name: Teknāf
+        names_en: ~
+        names_es: ~
         population: 40557
-        slug: teknaf
       - 
-        districts: []
-        location: "POINT (22.4677800000000012 91.4561099999999954)"
+        alternate_names: 
+          - Sandvip
+          - Sandwip
+          - Sandwīp
+        ascii_name: Sandwip
         name: Sandwīp
+        names_en: ~
+        names_es: ~
         population: 52152
-        slug: sandwip
       - 
-        districts: []
-        location: "POINT (22.2931199999999983 91.9762099999999947)"
+        alternate_names: 
+          - Patia
+          - Patiya
+        ascii_name: Patiya
         name: Patiya
+        names_en: ~
+        names_es: ~
         population: 51360
-        slug: patiya
       - 
-        districts: []
-        location: "POINT (23.2472199999999987 91.1424999999999983)"
+        alternate_names: 
+          - Laksam
+          - Laksham
+          - Lākshām
+        ascii_name: Laksham
         name: Lākshām
+        names_en: ~
+        names_es: ~
         population: 82290
-        slug: laksham
       - 
-        districts: []
-        location: "POINT (23.4577799999999996 91.2044400000000053)"
+        alternate_names: 
+          - Comilla
+          - Komille
+          - Kumilla
+        ascii_name: Comilla
         name: Comilla
+        names_en: ~
+        names_es: ~
         population: 389411
-        slug: comilla
       - 
-        districts: []
-        location: "POINT (23.0186099999999989 91.4099999999999966)"
+        alternate_names: 
+          - Fani
+          - Feni
+          - Fenny
+        ascii_name: Feni
         name: Feni
+        names_en: ~
+        names_es: ~
         population: 84028
-        slug: feni
       - 
-        districts: []
-        location: "POINT (23.0300000000000011 91.5069400000000002)"
+        alternate_names: 
+          - Chhagainaya
+          - Chhagalnaia
+          - Chhagalnaiya
+        ascii_name: Chhagalnaiya
         name: Chhāgalnāiya
+        names_en: ~
+        names_es: ~
         population: 39335
-        slug: chhagalnaiya
       - 
-        districts: []
-        location: "POINT (22.1965000000000003 92.2262000000000057)"
+        alternate_names: 
+          - Bandarban
+          - Bardarban
+          - Bāndarban
+        ascii_name: Bandarban
         name: Bāndarban
+        names_en: ~
+        names_es: ~
         population: 32523
-        slug: bandarban
       - 
-        districts: []
-        location: "POINT (22.3330599999999997 91.8363899999999944)"
-        name: Chittagong
-        population: 3920222
-        slug: chittagong
-      - 
-        districts: []
-        location: "POINT (22.0795999999999992 92.0571999999999946)"
-        name: Sātkania
-        population: 52005
-        slug: satkania
-      - 
-        districts: []
-        location: "POINT (21.4532400000000010 91.9797700000000020)"
-        name: "Cox’s Bāzār"
-        population: 253788
-        slug: coxs-bazar
-      - 
-        districts: []
-        location: "POINT (22.8408000000000015 91.8439999999999941)"
-        name: Manikchari
-        population: 24813
-        slug: manikchari
-      - 
-        districts: []
-        location: "POINT (22.6872599999999984 91.7853000000000065)"
-        name: Fatikchari
-        population: 33200
-        slug: fatikchari
-      - 
-        districts: []
-        location: "POINT (22.5370199999999983 91.9198399999999936)"
+        alternate_names: 
+          - Raajan
+          - Raajān
+          - Raojan
+        ascii_name: Raojan
         name: Raojān
+        names_en: ~
+        names_es: ~
         population: 25708
-        slug: raojan
       - 
-        districts: []
-        location: "POINT (23.8916700000000013 90.9733300000000042)"
+        alternate_names: ~
+        ascii_name: Nabinagar
         name: Nabīnagar
+        names_en: ~
+        names_es: ~
         population: 31671
-        slug: nabinagar
       - 
-        districts: []
-        location: "POINT (22.9499999999999993 90.8333300000000037)"
+        alternate_names: ~
+        ascii_name: Lakshmipur
         name: Lakshmīpur
+        names_en: ~
+        names_es: ~
         population: 61703
-        slug: lakshmipur
       - 
-        districts: []
-        location: "POINT (23.2511100000000006 90.8591700000000060)"
+        alternate_names: ~
+        ascii_name: Hajiganj
         name: Hājīganj
+        names_en: ~
+        names_es: ~
         population: 44343
-        slug: hajiganj
-    code: BD.84
+      - 
+        alternate_names: 
+          - Chittagong
+          - "Chittagong Ghat"
+          - Chottogram
+        ascii_name: Chittagong
+        name: Chittagong
+        names_en: 
+          - Chittagong
+        names_es: 
+          - Chittagong
+        population: 3920222
+      - 
+        alternate_names: 
+          - Satkania
+          - Sātkania
+        ascii_name: Satkania
+        name: Sātkania
+        names_en: ~
+        names_es: ~
+        population: 52005
+      - 
+        alternate_names: 
+          - "Cox's Bazar"
+          - "Cox’s Bāzār"
+          - Koks-Bazar
+        ascii_name: "Cox's Bazar"
+        name: "Cox’s Bāzār"
+        names_en: ~
+        names_es: ~
+        population: 253788
+      - 
+        alternate_names: 
+          - Manikchari
+          - Manikchhari
+          - Mānikchhari
+        ascii_name: Manikchari
+        name: Manikchari
+        names_en: ~
+        names_es: ~
+        population: 24813
+      - 
+        alternate_names: 
+          - Fatikchari
+        ascii_name: Fatikchari
+        name: Fatikchari
+        names_en: ~
+        names_es: ~
+        population: 33200
     name: Chittagong
-    slug: chittagong
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Khulna Division"
     cities: 
       - 
-        districts: []
-        location: "POINT (22.5666699999999985 89.9833299999999952)"
+        alternate_names: 
+          - Fakirertakia
+          - Fakirertākia
+          - Morrelganj
+        ascii_name: Morrelgonj
+        name: Morrelgonj
+        names_en: ~
+        names_es: ~
+        population: 31647
+      - 
+        alternate_names: 
+          - Khustia
+          - Kushtia
+        ascii_name: Kushtia
+        name: Kushtia
+        names_en: ~
+        names_es: ~
+        population: 135724
+      - 
+        alternate_names: 
+          - Aliganj
+          - Kaliganj
+          - Kaliganja
+        ascii_name: Kaliganj
+        name: Kālīganj
+        names_en: ~
+        names_es: ~
+        population: 45631
+      - 
+        alternate_names: 
+          - Jhikargacha
+          - Jhikargachha
+          - Jhikargāchha
+        ascii_name: Jhingergacha
+        name: Jhingergācha
+        names_en: ~
+        names_es: ~
+        population: 41957
+      - 
+        alternate_names: 
+          - "Dakshin Rajapur"
+          - "Dakshin Rājāpur"
+          - Sarankhola
+        ascii_name: Sarankhola
+        name: Sarankhola
+        names_en: ~
+        names_es: ~
+        population: 36470
+      - 
+        alternate_names: 
+          - Abhaynagar
+          - "Bhatpara Abhaynagar"
+          - "Bhātpāra Abhaynagar"
+        ascii_name: "Bhatpara Abhaynagar"
+        name: "Bhātpāra Abhaynagar"
+        names_en: ~
+        names_es: ~
+        population: 42653
+      - 
+        alternate_names: 
+          - Bhairamara
+          - Bheramara
+          - Bherāmāra
+        ascii_name: Bheramara
+        name: Bherāmāra
+        names_en: ~
+        names_es: ~
+        population: 38159
+      - 
+        alternate_names: 
+          - "Dakshin Char Fasson"
+          - "South Char Fashion"
+          - "Uttar Char Fasson"
+        ascii_name: "Uttar Char Fasson"
+        name: "Uttar Char Fasson"
+        names_en: ~
+        names_es: ~
+        population: 48305
+      - 
+        alternate_names: 
+          - Khulna
+          - Kkhulna
+          - kuruna
+        ascii_name: Khulna
+        name: Khulna
+        names_en: 
+          - Khulna
+        names_es: ~
+        population: 1342339
+      - 
+        alternate_names: 
+          - Jessore
+        ascii_name: Jessore
+        name: Jessore
+        names_en: ~
+        names_es: ~
+        population: 243987
+    name: Khulna
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Borishal
+    cities: 
+      - 
+        alternate_names: 
+          - Perijpur
+          - "Perojpur Municipality"
+          - Pirojpur
+        ascii_name: Pirojpur
         name: Pirojpur
+        names_en: ~
+        names_es: ~
         population: 54418
-        slug: pirojpur
       - 
-        districts: []
-        location: "POINT (22.2854999999999990 89.9629000000000048)"
+        alternate_names: 
+          - Matbari
+          - Matbaria
+          - Matbāri
+        ascii_name: Mathba
         name: Mathba
+        names_en: ~
+        names_es: ~
         population: 29760
-        slug: mathba
       - 
-        districts: []
-        location: "POINT (22.3384000000000000 90.7419000000000011)"
+        alternate_names: 
+          - "Char Lalmohan"
+          - "Char Lalmohun"
+          - "Char Lālmohan"
+        ascii_name: Lalmohan
         name: Lālmohan
+        names_en: ~
+        names_es: ~
         population: 42220
-        slug: lalmohan
       - 
-        districts: []
-        location: "POINT (22.4918399999999998 90.7234600000000029)"
+        alternate_names: 
+          - Barahanuddin
+          - Barahānuddin
+          - Burhanuddin
+        ascii_name: Burhanuddin
         name: Burhānuddin
+        names_en: ~
+        names_es: ~
         population: 45670
-        slug: burhanuddin
       - 
-        districts: []
-        location: "POINT (22.7019400000000005 90.3711100000000016)"
+        alternate_names: 
+          - Barisal
+          - "Barisal Sadar"
+          - Barisāl
+        ascii_name: Barisal
         name: Barisāl
+        names_en: ~
+        names_es: ~
         population: 202242
-        slug: barisal
       - 
-        districts: []
-        location: "POINT (22.4861000000000004 90.0609000000000037)"
+        alternate_names: 
+          - Bhandaria
+          - Bhāndāria
+        ascii_name: Bhandaria
         name: Bhāndāria
+        names_en: ~
+        names_es: ~
         population: 30219
-        slug: bhandaria
-    code: BD.85
     name: Barisāl
-    slug: barisal
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Sylhet Division"
     cities: 
       - 
-        districts: []
-        location: "POINT (24.8966700000000003 91.8716699999999946)"
+        alternate_names: 
+          - Jalalabad
+          - Rajnagar
+          - Rājnagar
+        ascii_name: Sylhet
         name: Sylhet
+        names_en: ~
+        names_es: ~
         population: 237000
-        slug: sylhet
       - 
-        districts: []
-        location: "POINT (24.4833299999999987 91.7833300000000065)"
+        alternate_names: 
+          - "Maulvi Bazar"
+          - "Maulvi Bāzār"
+          - "Moulvi Bazar"
+        ascii_name: "Moulvi Bazar"
         name: "Moulvi Bāzār"
+        names_en: ~
+        names_es: ~
         population: 57441
-        slug: moulvi-bazar
       - 
-        districts: []
-        location: "POINT (24.3833300000000008 91.4166699999999963)"
+        alternate_names: 
+          - "Habiganj Bazar"
+          - "Habiganj Sadar"
+          - Hobiganj
+        ascii_name: Habiganj
         name: Habiganj
+        names_en: ~
+        names_es: ~
         population: 88760
-        slug: habiganj
-    code: BD.86
     name: Sylhet
-    slug: sylhet
-tld: bd
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rangpur Division"
+    cities: []
+    name: "Rangpur Division"
+    names_en: ~
+    names_es: ~

@@ -1,510 +1,866 @@
 --- 
-code: MA
-continent: AF
 name: Morocco
-population: 31627428
+names_en: 
+  - Morocco
+  - "Kingdom of Morocco"
+names_es: 
+  - "Reino de Marruecos"
+  - Marruecos
 regions: 
   - 
+    ascii_name: "Region de Rabat-Sale-Zemmour-Zaer"
     cities: 
       - 
-        districts: []
-        location: "POINT (34.0499999999999972 -4.9800000000000004)"
-        name: Fès
-        population: 964891
-        slug: fes
-      - 
-        districts: []
-        location: "POINT (33.8318599999999989 -4.8280000000000003)"
-        name: Sefrou
-        population: 65150
-        slug: sefrou
-    code: MA.46
-    name: Fès-Boulemane
-    slug: fes-boulemane
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.6284400000000012 -7.9906199999999998)"
-        name: Marrakech
-        population: 839296
-        slug: marrakech
-      - 
-        districts: []
-        location: "POINT (31.5124999999999993 -9.7699999999999996)"
-        name: Essaouira
-        population: 70634
-        slug: essaouira
-    code: MA.47
-    name: "Marrakech-Tensift-Al Haouz"
-    slug: marrakech-tensift-al-haouz
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.6799999999999997 -4.7400000000000002)"
-        name: Midelt
-        population: 45159
-        slug: midelt
-      - 
-        districts: []
-        location: "POINT (33.8999999999999986 -5.5499999999999998)"
-        name: Meknès
-        population: 545705
-        slug: meknes
-      - 
-        districts: []
-        location: "POINT (32.9391000000000034 -5.6685999999999996)"
-        name: Khenifra
-        population: 73906
-        slug: khenifra
-      - 
-        districts: []
-        location: "POINT (33.6878600000000006 -5.3710000000000004)"
-        name: "El Hajeb"
-        population: 28126
-        slug: el-hajeb
-      - 
-        districts: []
-        location: "POINT (33.4299999999999997 -5.2100000000000000)"
-        name: Azrou
-        population: 48249
-        slug: azrou
-      - 
-        districts: []
-        location: "POINT (31.0272199999999998 -5.1164300000000003)"
-        name: "Jebel Tiskaouine"
-        population: 1197
-        slug: jebel-tiskaouine
-    code: MA.48
-    name: Meknès-Tafilalet
-    slug: meknes-tafilalet
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.0132499999999993 -6.8325500000000003)"
-        name: Rabat
-        population: 1655753
-        slug: rabat
-      - 
-        districts: []
-        location: "POINT (33.8946899999999971 -6.3064999999999998)"
+        alternate_names: ~
+        ascii_name: Tiflet
         name: Tiflet
+        names_en: ~
+        names_es: ~
         population: 70010
-        slug: tiflet
       - 
-        districts: []
-        location: "POINT (34.0389199999999974 -6.8166000000000002)"
+        alternate_names: 
+          - Sala
+          - Sale
+          - Sali
+        ascii_name: Sale
         name: Salé
+        names_en: 
+          - Salé
+        names_es: 
+          - Salé
         population: 903485
-        slug: sale
       - 
-        districts: []
-        location: "POINT (33.8240399999999966 -6.0662700000000003)"
+        alternate_names: 
+          - Rabat
+          - Rabatas
+          - Rampat
+        ascii_name: Rabat
+        name: Rabat
+        names_en: 
+          - Rabat
+        names_es: 
+          - Rabat
+        population: 1655753
+      - 
+        alternate_names: 
+          - "Al Khmissat"
+          - Khemisset
+          - Kimisset
+        ascii_name: Khemisset
         name: Khemisset
+        names_en: ~
+        names_es: ~
         population: 106991
-        slug: khemisset
       - 
-        districts: []
-        location: "POINT (33.8498400000000004 -7.0403700000000002)"
+        alternate_names: 
+          - "Ac Ckhirat"
+          - "Aç Çkhirat"
+          - "Kasba Skira"
+        ascii_name: Skhirat
         name: Skhirat
+        names_en: ~
+        names_es: ~
         population: 44850
-        slug: skhirat
-    code: MA.49
     name: Rabat-Salé-Zemmour-Zaër
-    slug: rabat-sale-zemmour-zaer
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de Meknes-Tafilalet"
     cities: 
       - 
-        districts: []
-        location: "POINT (33.0000000000000000 -7.6100000000000003)"
-        name: Settat
-        population: 119082
-        slug: settat
+        alternate_names: 
+          - Midelt
+        ascii_name: Midelt
+        name: Midelt
+        names_en: ~
+        names_es: ~
+        population: 45159
       - 
-        districts: []
-        location: "POINT (33.5900000000000034 -7.6100000000000003)"
+        alternate_names: 
+          - Mekinez
+          - Meknes
+          - Meknès
+        ascii_name: Meknes
+        name: Meknès
+        names_en: 
+          - Meknes
+        names_es: ~
+        population: 545705
+      - 
+        alternate_names: 
+          - Khenifra
+        ascii_name: Khenifra
+        name: Khenifra
+        names_en: ~
+        names_es: ~
+        population: 73906
+      - 
+        alternate_names: ~
+        ascii_name: "El Hajeb"
+        name: "El Hajeb"
+        names_en: ~
+        names_es: ~
+        population: 28126
+      - 
+        alternate_names: 
+          - Azrou
+        ascii_name: Azrou
+        name: Azrou
+        names_en: ~
+        names_es: ~
+        population: 48249
+      - 
+        alternate_names: ~
+        ascii_name: "Jebel Tiskaouine"
+        name: "Jebel Tiskaouine"
+        names_en: ~
+        names_es: ~
+        population: 1197
+    name: Meknès-Tafilalet
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region de Marrakech-Tensift-Al Haouz"
+    cities: 
+      - 
+        alternate_names: 
+          - Marakes
+          - Marakesh
+          - Marakeso
+        ascii_name: Marrakech
+        name: Marrakech
+        names_en: 
+          - Marrakech
+        names_es: 
+          - Marrakech
+        population: 839296
+      - 
+        alternate_names: 
+          - "As Suwayrah"
+          - "Aş Şuwayrah"
+          - Ehs-Suvejra
+        ascii_name: Essaouira
+        name: Essaouira
+        names_en: 
+          - Essaouira
+        names_es: 
+          - Essaouira
+        population: 70634
+    name: "Marrakech-Tensift-Al Haouz"
+    names_en: ~
+    names_es: 
+      - Marrakech
+  - 
+    ascii_name: "Region de Fes-Boulemane"
+    cities: 
+      - 
+        alternate_names: 
+          - Sefrou
+          - Sefru
+          - Sefrú
+        ascii_name: Sefrou
+        name: Sefrou
+        names_en: ~
+        names_es: ~
+        population: 65150
+      - 
+        alternate_names: 
+          - Fes
+          - Fez
+          - Fès
+        ascii_name: Fes
+        name: Fès
+        names_en: 
+          - Fes
+        names_es: 
+          - Fez
+        population: 964891
+    name: Fès-Boulemane
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Grand Casablanca"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Muhammadiyah"
+          - "Al Muḩammadīyah"
+          - Fadalah
+        ascii_name: Mohammedia
+        name: Mohammedia
+        names_en: ~
+        names_es: ~
+        population: 187708
+      - 
+        alternate_names: 
+          - "Ad Dar al Bayda'"
+          - "Ad Dār al Bayḑā’"
+          - Anfa
+        ascii_name: Casablanca
         name: Casablanca
+        names_en: 
+          - Casablanca
+        names_es: 
+          - Casablanca
         population: 3144909
-        slug: casablanca
+    name: "Grand Casablanca"
+    names_en: ~
+    names_es: 
+      - Casablanca
+  - 
+    ascii_name: "Region de Chaouia-Ouardigha"
+    cities: 
       - 
-        districts: []
-        location: "POINT (32.8626999999999967 -6.5735900000000003)"
+        alternate_names: 
+          - Settat
+          - stat
+          - Сеттат
+        ascii_name: Settat
+        name: Settat
+        names_en: 
+          - Settat
+        names_es: ~
+        population: 119082
+      - 
+        alternate_names: ~
+        ascii_name: "Oued Zem"
         name: "Oued Zem"
+        names_en: ~
+        names_es: ~
         population: 84910
-        slug: oued-zem
       - 
-        districts: []
-        location: "POINT (33.3802000000000021 -7.6210500000000003)"
+        alternate_names: 
+          - Nouaceur
+          - Nouaseur
+          - Nwacer
+        ascii_name: Nouaseur
         name: Nouaseur
+        names_en: ~
+        names_es: ~
         population: 12696
-        slug: nouaseur
       - 
-        districts: []
-        location: "POINT (32.8810799999999972 -6.9062999999999999)"
+        alternate_names: 
+          - Khouribga
+          - Khouribja
+          - Kouriga
+        ascii_name: Khouribga
         name: Khouribga
+        names_en: 
+          - Khouribga
+        names_es: ~
         population: 167673
-        slug: khouribga
       - 
-        districts: []
-        location: "POINT (33.7894199999999998 -7.1596799999999998)"
+        alternate_names: 
+          - Bouzhika
+          - Bouznika
+          - Bouzniqa
+        ascii_name: Bouznika
         name: Bouznika
+        names_en: ~
+        names_es: ~
         population: 27283
-        slug: bouznika
       - 
-        districts: []
-        location: "POINT (33.2655299999999983 -7.5875399999999997)"
+        alternate_names: 
+          - Barrechid
+          - Berrechid
+          - Bev-rechid
+        ascii_name: Berrechid
         name: Berrechid
+        names_en: ~
+        names_es: ~
         population: 93954
-        slug: berrechid
-    code: MA.50
     name: Chaouia-Ouardigha
-    slug: chaouia-ouardigha
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de Doukkala-Abda"
     cities: 
       - 
-        districts: []
-        location: "POINT (32.8226799999999983 -8.5081000000000007)"
-        name: "Sidi Smaïl"
-        population: 4279
-        slug: sidi-smail
-      - 
-        districts: []
-        location: "POINT (32.2993900000000025 -9.2371800000000004)"
-        name: Safi
-        population: 288163
-        slug: safi
-      - 
-        districts: []
-        location: "POINT (33.2549199999999985 -8.5060199999999995)"
-        name: "El Jadida"
-        population: 147549
-        slug: el-jadida
-      - 
-        districts: []
-        location: "POINT (33.2895200000000031 -8.3424999999999994)"
-        name: Azemmour
-        population: 37140
-        slug: azemmour
-      - 
-        districts: []
-        location: "POINT (32.2463399999999965 -8.5294100000000004)"
+        alternate_names: 
+          - "Louis Gentil"
+          - Youssoufia
+        ascii_name: Youssoufia
         name: Youssoufia
+        names_en: ~
+        names_es: ~
         population: 64910
-        slug: youssoufia
       - 
-        districts: []
-        location: "POINT (32.6523600000000016 -8.4276900000000001)"
+        alternate_names: 
+          - "Sidi Smail"
+          - "Sidi Smaine"
+          - "Sidi Smaïl"
+        ascii_name: "Sidi Smail"
+        name: "Sidi Smaïl"
+        names_en: ~
+        names_es: ~
+        population: 4279
+      - 
+        alternate_names: ~
+        ascii_name: "Sidi Bennour"
         name: "Sidi Bennour"
+        names_en: ~
+        names_es: ~
         population: 40044
-        slug: sidi-bennour
-    code: MA.51
+      - 
+        alternate_names: 
+          - Asfi
+          - Safi
+          - Safim
+        ascii_name: Safi
+        name: Safi
+        names_en: 
+          - Safi
+        names_es: ~
+        population: 288163
+      - 
+        alternate_names: 
+          - "Al Jadida"
+          - "Al Yadida"
+          - Ehl'-Dzhadida
+        ascii_name: "El Jadida"
+        name: "El Jadida"
+        names_en: 
+          - "El Jadida"
+        names_es: ~
+        population: 147549
+      - 
+        alternate_names: 
+          - Azemmour
+          - Azimur
+          - Azzegour
+        ascii_name: Azemmour
+        name: Azemmour
+        names_en: ~
+        names_es: ~
+        population: 37140
     name: Doukkala-Abda
-    slug: doukkala-abda
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de Gharb-Chrarda-Beni Hssen"
     cities: 
       - 
-        districts: []
-        location: "POINT (34.3065199999999990 -6.3061800000000003)"
-        name: "Sidi Yahia el Gharb"
-        population: 32202
-        slug: sidi-yahia-el-gharb
-      - 
-        districts: []
-        location: "POINT (34.2610099999999989 -6.5801999999999996)"
-        name: Kenitra
-        population: 366570
-        slug: kenitra
-      - 
-        districts: []
-        location: "POINT (34.6891400000000019 -5.9791600000000003)"
+        alternate_names: 
+          - "El Arba du Gharb"
+          - "El Arba du Rharb"
+          - "El Arbaa du Rharb"
+        ascii_name: "Souq Larb'a al Gharb"
         name: "Souq Larb’a al Gharb"
+        names_en: ~
+        names_es: ~
         population: 44059
-        slug: souq-larba-al-gharb
       - 
-        districts: []
-        location: "POINT (34.2647800000000018 -5.9259800000000000)"
+        alternate_names: 
+          - "Sidi Yahia al Gharb"
+          - "Sidi Yahia del Garb"
+          - "Sidi Yahia el Gharb"
+        ascii_name: "Sidi Yahia el Gharb"
+        name: "Sidi Yahia el Gharb"
+        names_en: ~
+        names_es: ~
+        population: 32202
+      - 
+        alternate_names: 
+          - "Sidi Slamain"
+          - "Sidi Sliman"
+          - "Sidi Slimane"
+        ascii_name: "Sidi Slimane"
         name: "Sidi Slimane"
+        names_en: ~
+        names_es: ~
         population: 79437
-        slug: sidi-slimane
       - 
-        districts: []
-        location: "POINT (34.2214900000000029 -5.7077499999999999)"
+        alternate_names: 
+          - Petitjean
+          - Pettijean
+          - "Sidi Kacem"
+        ascii_name: "Sidi Qacem"
         name: "Sidi Qacem"
+        names_en: 
+          - "Sidi Kacem"
+        names_es: ~
         population: 74755
-        slug: sidi-qacem
       - 
-        districts: []
-        location: "POINT (34.7971100000000035 -5.5822399999999996)"
+        alternate_names: 
+          - Ouazzane
+          - Quazzane
+          - Uazan
+        ascii_name: Ouazzane
         name: Ouazzane
+        names_en: ~
+        names_es: ~
         population: 58684
-        slug: ouazzane
       - 
-        districts: []
-        location: "POINT (34.5739599999999996 -5.9537199999999997)"
+        alternate_names: 
+          - Ksiri
+          - "Mechra Belqsiri"
+          - "Mechra al Ksiri"
+        ascii_name: "Mechra Belqsiri"
         name: "Mechrá Belqsiri"
+        names_en: ~
+        names_es: ~
         population: 27802
-        slug: mechra-belqsiri
-    code: MA.52
+      - 
+        alternate_names: 
+          - "Al Qunaytirah"
+          - "Al Qunayţirah"
+          - Kenitra
+        ascii_name: Kenitra
+        name: Kenitra
+        names_en: 
+          - Kenitra
+        names_es: 
+          - Kenitra
+        population: 366570
     name: "Gharb-Chrarda-Beni Hssen"
-    slug: gharb-chrarda-beni-hssen
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de Guelmim-Es Smara"
     cities: 
       - 
-        districts: []
-        location: "POINT (28.9800000000000004 -10.0600000000000005)"
-        name: Guelmim
-        population: 98229
-        slug: guelmim
-      - 
-        districts: []
-        location: "POINT (28.4379899999999992 -11.1032100000000007)"
+        alternate_names: 
+          - Tan-Tan
+          - tantan
+          - Тан-Тан
+        ascii_name: Tan-Tan
         name: Tan-Tan
+        names_en: 
+          - Tan-Tan
+        names_es: ~
         population: 61924
-        slug: tan-tan
-    code: MA.53
+      - 
+        alternate_names: 
+          - Goulimine
+          - Guelmim
+          - klmym
+        ascii_name: Guelmim
+        name: Guelmim
+        names_en: 
+          - Guelmim
+        names_es: ~
+        population: 98229
     name: "Guelmim-Es Smara"
-    slug: guelmim-es-smara
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de l' Oriental"
     cities: 
       - 
-        districts: []
-        location: "POINT (34.6759399999999971 -1.9175400000000000)"
-        name: Oujda
-        population: 405253
-        slug: oujda
-      - 
-        districts: []
-        location: "POINT (34.9299999999999997 -2.7300000000000000)"
+        alternate_names: 
+          - "Toumiat Zaio"
+          - "Toumiat Zaïo"
+          - Tumiat
+        ascii_name: Zaio
         name: Zaïo
+        names_en: ~
+        names_es: ~
         population: 30008
-        slug: zaio
       - 
-        districts: []
-        location: "POINT (34.4099999999999966 -2.8900000000000001)"
+        alternate_names: ~
+        ascii_name: Taourirt
         name: Taourirt
+        names_en: ~
+        names_es: ~
         population: 82518
-        slug: taourirt
       - 
-        districts: []
-        location: "POINT (35.1740399999999980 -2.9286599999999998)"
+        alternate_names: 
+          - Oudja
+          - Oudjda
+          - Ouja
+        ascii_name: Oujda
+        name: Oujda
+        names_en: 
+          - Oujda
+        names_es: ~
+        population: 405253
+      - 
+        alternate_names: 
+          - Nador
+          - Nadoras
+          - "Villa Nador"
+        ascii_name: Nador
         name: Nador
+        names_en: 
+          - Nador
+        names_es: 
+          - Nador
         population: 129260
-        slug: nador
       - 
-        districts: []
-        location: "POINT (34.3100000000000023 -2.1600000000000001)"
+        alternate_names: 
+          - Djerada
+          - Dzherada
+          - Jerada
+        ascii_name: Jerada
         name: Jerada
+        names_en: ~
+        names_es: ~
         population: 43696
-        slug: jerada
       - 
-        districts: []
-        location: "POINT (32.1089100000000016 -1.2285500000000000)"
+        alternate_names: 
+          - Figuiq
+        ascii_name: "Figuig (Centre)"
         name: "Figuig (Centre)"
+        names_en: ~
+        names_es: ~
         population: 12516
-        slug: figuig-centre
       - 
-        districts: []
-        location: "POINT (34.5799999999999983 -2.5000000000000000)"
+        alternate_names: 
+          - "Aioun Sidi Mellouk"
+          - "Al 'Youn"
+          - "Al ’Youn"
+        ascii_name: "El Aioun"
         name: "El Aïoun"
+        names_en: ~
+        names_es: ~
         population: 35196
-        slug: el-aioun
       - 
-        districts: []
-        location: "POINT (34.9200000000000017 -2.3199999999999998)"
+        alternate_names: 
+          - Berkan
+          - Berkane
+          - Berkawe
+        ascii_name: Berkane
         name: Berkane
+        names_en: 
+          - Berkane
+        names_es: ~
         population: 80721
-        slug: berkane
       - 
-        districts: []
-        location: "POINT (34.9536799999999985 -2.1002700000000001)"
+        alternate_names: 
+          - Ahfir
+          - "Martimprey du Kiss"
+        ascii_name: Ahfir
         name: Ahfir
+        names_en: ~
+        names_es: ~
         population: 19611
-        slug: ahfir
-    code: MA.54
     name: Oriental
-    slug: oriental
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de Souss-Massa-Draa"
     cities: 
       - 
-        districts: []
-        location: "POINT (30.3324099999999994 -5.8384000000000000)"
+        alternate_names: 
+          - Zagora
+          - Загора
+        ascii_name: Zagora
         name: Zagora
+        names_en: ~
+        names_es: ~
         population: 35154
-        slug: zagora
       - 
-        districts: []
-        location: "POINT (29.6974200000000010 -9.7316199999999995)"
+        alternate_names: 
+          - Tiznit
+          - Тизнит
+        ascii_name: Tiznit
         name: Tiznit
+        names_en: ~
+        names_es: ~
         population: 55092
-        slug: tiznit
       - 
-        districts: []
-        location: "POINT (30.4702799999999989 -8.8769500000000008)"
-        name: Taroudant
-        population: 71133
-        slug: taroudant
-      - 
-        districts: []
-        location: "POINT (30.9189399999999992 -6.8934100000000003)"
-        name: Ouarzazat
-        population: 57245
-        slug: ouarzazat
-      - 
-        districts: []
-        location: "POINT (30.4201799999999984 -9.5981500000000004)"
-        name: Agadir
-        population: 698310
-        slug: agadir
-      - 
-        districts: []
-        location: "POINT (31.5157099999999986 -5.5342799999999999)"
+        alternate_names: 
+          - Tineghir
+          - Tinerhir
+          - Tinghir
+        ascii_name: Tineghir
         name: Tineghir
+        names_en: ~
+        names_es: ~
         population: 36795
-        slug: tineghir
       - 
-        districts: []
-        location: "POINT (29.7244899999999994 -8.9747000000000003)"
+        alternate_names: 
+          - Taroudant
+          - Tarudant
+          - Тарудант
+        ascii_name: Taroudant
+        name: Taroudant
+        names_en: ~
+        names_es: ~
+        population: 71133
+      - 
+        alternate_names: 
+          - Tafraout
+          - Tafraoute
+          - Tafraut
+        ascii_name: Tafraout
         name: Tafraout
+        names_en: ~
+        names_es: ~
         population: 4924
-        slug: tafraout
       - 
-        districts: []
-        location: "POINT (29.3797500000000014 -10.1729900000000004)"
+        alternate_names: 
+          - Ifni
+          - "Sidi Ifni"
+          - Sidifni
+        ascii_name: "Sidi Ifni"
         name: "Sidi Ifni"
+        names_en: 
+          - "Sidi Ifni"
+        names_es: 
+          - "Sidi Ifni"
         population: 20000
-        slug: sidi-ifni
       - 
-        districts: []
-        location: "POINT (30.3946700000000014 -9.2089700000000008)"
+        alternate_names: 
+          - "Oulad Teima"
+          - "Oulad Teïma"
+          - "Ouled Teima"
+        ascii_name: "Oulad Teima"
         name: "Oulad Teïma"
+        names_en: ~
+        names_es: ~
         population: 66832
-        slug: oulad-teima
       - 
-        districts: []
-        location: "POINT (29.8200000000000003 -5.7199999999999998)"
+        alternate_names: 
+          - Ouarzazat
+          - Ouarzazate
+          - Ouarzazte
+        ascii_name: Ouarzazat
+        name: Ouarzazat
+        names_en: 
+          - Ouarzazate
+        names_es: ~
+        population: 57245
+      - 
+        alternate_names: 
+          - Agadair
+          - Agadir
+          - "Agadir - akadyr"
+        ascii_name: Agadir
+        name: Agadir
+        names_en: 
+          - Agadir
+        names_es: 
+          - Agadir
+        population: 698310
+      - 
+        alternate_names: 
+          - Mhamid
+          - Mkhamid
+          - Мхамид
+        ascii_name: Mhamid
         name: Mhamid
+        names_en: ~
+        names_es: ~
         population: 10000
-        slug: mhamid
-    code: MA.55
     name: Souss-Massa-Drâa
-    slug: souss-massa-draa
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de Tadla-Azilal"
     cities: 
       - 
-        districts: []
-        location: "POINT (32.3372499999999974 -6.3498400000000004)"
-        name: "Beni Mellal"
-        population: 166399
-        slug: beni-mellal
-      - 
-        districts: []
-        location: "POINT (31.7021699999999989 -6.3494000000000002)"
+        alternate_names: 
+          - Ifran
+          - Ifrane
+          - Lfrane
+        ascii_name: Ifrane
         name: Ifrane
+        names_en: 
+          - Ifrane
+        names_es: ~
         population: 13000
-        slug: ifrane
       - 
-        districts: []
-        location: "POINT (32.5977000000000032 -6.2684400000000000)"
+        alternate_names: 
+          - "Kasba Tadla"
+          - "Kasbah Tadla"
+          - Tadla
+        ascii_name: "Kasba Tadla"
         name: "Kasba Tadla"
+        names_en: ~
+        names_es: ~
         population: 41199
-        slug: kasba-tadla
       - 
-        districts: []
-        location: "POINT (32.5009299999999968 -6.6906200000000000)"
+        alternate_names: ~
+        ascii_name: "Fkih Ben Salah"
         name: "Fkih Ben Salah"
+        names_en: ~
+        names_es: ~
         population: 84072
-        slug: fkih-ben-salah
-    code: MA.56
+      - 
+        alternate_names: 
+          - "Beni Mellal"
+          - Beni-Mellal'
+          - Beni-Mellal-Centre
+        ascii_name: "Beni Mellal"
+        name: "Beni Mellal"
+        names_en: 
+          - "Beni Mellal"
+        names_es: ~
+        population: 166399
     name: Tadla-Azilal
-    slug: tadla-azilal
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de Tanger-Tetouan"
     cities: 
       - 
-        districts: []
-        location: "POINT (35.7805800000000005 -5.8136500000000000)"
-        name: Tangier
-        population: 688356
-        slug: tangier
-      - 
-        districts: []
-        location: "POINT (35.5710899999999981 -5.3724200000000000)"
+        alternate_names: 
+          - Tetouan
+          - Tetuan
+          - Tetuán
+        ascii_name: Tetouan
         name: Tétouan
+        names_en: 
+          - Tétouan
+        names_es: 
+          - Tetuán
         population: 326261
-        slug: tetouan
       - 
-        districts: []
-        location: "POINT (35.6166199999999975 -5.2752200000000000)"
+        alternate_names: 
+          - Tanger
+          - Tangeri
+          - Tangero
+        ascii_name: Tangier
+        name: Tangier
+        names_en: 
+          - Tangier
+        names_es: 
+          - Tánger
+        population: 688356
+      - 
+        alternate_names: 
+          - Martil
+          - "Rio Martin"
+          - "Rio Martine"
+        ascii_name: Martil
         name: Martil
+        names_en: ~
+        names_es: ~
         population: 39738
-        slug: martil
       - 
-        districts: []
-        location: "POINT (35.1899999999999977 -6.1500000000000004)"
+        alternate_names: 
+          - "Al `Ara'ish"
+          - "Al ‘Arā’īsh"
+          - Al-Araisz
+        ascii_name: Larache
         name: Larache
+        names_en: 
+          - Larache
+        names_es: 
+          - Larache
         population: 109294
-        slug: larache
       - 
-        districts: []
-        location: "POINT (35.0017399999999981 -5.9053399999999998)"
+        alternate_names: 
+          - Alcazarquebir
+          - Alcazarquivir
+          - Alcazquivir
+        ascii_name: "Ksar el Kebir"
         name: "Ksar el Kebir"
+        names_en: ~
+        names_es: ~
         population: 108753
-        slug: ksar-el-kebir
       - 
-        districts: []
-        location: "POINT (35.1687799999999982 -5.2636000000000003)"
+        alternate_names: 
+          - Chaouen
+          - Chaouèn
+          - Chauen
+        ascii_name: Chefchaouene
         name: Chefchaouene
+        names_en: ~
+        names_es: 
+          - Xauen
         population: 36280
-        slug: chefchaouene
       - 
-        districts: []
-        location: "POINT (35.4600000000000009 -6.0400000000000000)"
+        alternate_names: 
+          - Arcila
+          - Arcilas
+          - Arsila
+        ascii_name: Asilah
         name: Asilah
+        names_en: 
+          - Asilah
+        names_es: 
+          - Arcila
         population: 28861
-        slug: asilah
-    code: MA.57
     name: Tanger-Tétouan
-    slug: tanger-tetouan
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region de Taza-Al Hoceima-Taounate"
     cities: 
       - 
-        districts: []
-        location: "POINT (34.2100000000000009 -4.0099999999999998)"
-        name: Taza
-        population: 141890
-        slug: taza
-      - 
-        districts: []
-        location: "POINT (35.2361900000000006 -3.9545300000000001)"
+        alternate_names: ~
+        ascii_name: Tirhanimine
         name: Tirhanimîne
+        names_en: ~
+        names_es: ~
         population: 55827
-        slug: tirhanimine
       - 
-        districts: []
-        location: "POINT (34.5382200000000026 -4.6414299999999997)"
+        alternate_names: 
+          - Taza
+          - tazh
+          - tazt
+        ascii_name: Taza
+        name: Taza
+        names_en: 
+          - Taza
+        names_es: ~
+        population: 141890
+      - 
+        alternate_names: 
+          - Taounat
+          - Taounate
+          - Taunat
+        ascii_name: Taounate
         name: Taounate
+        names_en: ~
+        names_es: ~
         population: 32802
-        slug: taounate
       - 
-        districts: []
-        location: "POINT (34.0484500000000025 -4.4279500000000001)"
+        alternate_names: 
+          - "El Ayba Tahalla"
+          - Tahala
+        ascii_name: Tahala
         name: Tahala
+        names_en: ~
+        names_es: ~
         population: 25761
-        slug: tahala
       - 
-        districts: []
-        location: "POINT (35.1499999999999986 -3.8599999999999999)"
+        alternate_names: 
+          - "Ain Zoren"
+          - "Aïn Zorèn"
+          - "Im Zouren"
+        ascii_name: Imzourene
         name: Imzoûrene
+        names_en: ~
+        names_es: ~
         population: 26650
-        slug: imzourene
       - 
-        districts: []
-        location: "POINT (34.2256799999999970 -3.3536100000000002)"
+        alternate_names: 
+          - Garsif
+          - Guercif
+        ascii_name: Guercif
         name: Guercif
+        names_en: ~
+        names_es: ~
         population: 57544
-        slug: guercif
-    code: MA.58
+      - 
+        alternate_names: 
+          - "A Hoseima"
+          - "Al Hoceima"
+          - "Al Hoceïma"
+        ascii_name: "Al Hoceima"
+        name: "Al Hoceïma"
+        names_en: 
+          - "Al Hoceima"
+        names_es: 
+          - "Villa Sanjurjo"
+          - "Villa Alhucemas"
+          - Alhucemas
+        population: 0
     name: "Taza-Al Hoceima-Taounate"
-    slug: taza-al-hoceima-taounate
-tld: ma
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Laayoune-Boujdour-Sakia El Hamra"
+    cities: []
+    name: "Laâyoune-Boujdour-Sakia El Hamra"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oued ed Dahab-Lagouira"
+    cities: []
+    name: "Oued ed Dahab-Lagouira"
+    names_en: ~
+    names_es: ~

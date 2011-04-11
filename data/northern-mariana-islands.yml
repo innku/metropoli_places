@@ -1,84 +1,124 @@
 --- 
-code: MP
-continent: OC
 name: "Northern Mariana Islands"
-population: 86000
+names_en: 
+  - "Northern Mariana Islands"
+names_es: 
+  - "Islas Marianas del Norte"
 regions: 
   - 
+    ascii_name: "Northern Mariana Islands"
+    cities: []
+    name: "Northern Mariana Islands"
+    names_en: 
+      - "Northern Mariana Islands"
+    names_es: 
+      - "Islas Mariana del Norte"
+  - 
+    ascii_name: "Municipality of Rota"
     cities: 
       - 
-        districts: []
-        location: "POINT (15.1999999999999993 145.7519399999999905)"
-        name: "Capital Hill"
-        population: 1542
-        slug: capital-hill
-      - 
-        districts: []
-        location: "POINT (15.1455599999999997 145.6991700000000094)"
-        name: "Chalan Kanoa"
-        population: 3207
-        slug: chalan-kanoa
-      - 
-        districts: []
-        location: "POINT (15.2069399999999995 145.7150000000000034)"
-        name: Garapan
-        population: 4192
-        slug: garapan
-      - 
-        districts: []
-        location: "POINT (15.1908300000000001 145.7224999999999966)"
-        name: "Gualo Rai"
-        population: 2549
-        slug: gualo-rai
-      - 
-        districts: []
-        location: "POINT (15.1205599999999993 145.7063899999999990)"
-        name: Koblerville
-        population: 3714
-        slug: koblerville
-      - 
-        districts: []
-        location: "POINT (15.1325000000000003 145.6936100000000067)"
-        name: "San Antonio"
-        population: 5629
-        slug: san-antonio
-      - 
-        districts: []
-        location: "POINT (15.2469400000000004 145.7727800000000116)"
-        name: "San Roque"
-        population: 1086
-        slug: san-roque
-      - 
-        districts: []
-        location: "POINT (15.1516699999999993 145.7377799999999866)"
-        name: "San Vicente"
-        population: 4644
-        slug: san-vicente
-      - 
-        districts: []
-        location: "POINT (15.1563900000000000 145.7058299999999917)"
-        name: Susupe
-        population: 2364
-        slug: susupe
-      - 
-        districts: []
-        location: "POINT (15.2411100000000008 145.7524999999999977)"
-        name: Tanapag
-        population: 4389
-        slug: tanapag
-      - 
-        districts: []
-        location: "POINT (14.1397200000000005 145.1411099999999976)"
+        alternate_names: ~
+        ascii_name: Songsong
         name: Songsong
+        names_en: ~
+        names_es: ~
         population: 1321
-        slug: songsong
+    name: "Municipality of Rota"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Municipality of Saipan"
+    cities: 
       - 
-        districts: []
-        location: "POINT (14.9694400000000005 145.6227800000000059)"
-        name: "San Jose"
-        population: 1883
-        slug: san-jose
-    code: MP.110
+        alternate_names: ~
+        ascii_name: "Capital Hill"
+        name: "Capital Hill"
+        names_en: ~
+        names_es: ~
+        population: 1542
+      - 
+        alternate_names: ~
+        ascii_name: "Capitol Hill"
+        name: "Capitol Hill"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Chalan Kanoa"
+        name: "Chalan Kanoa"
+        names_en: ~
+        names_es: ~
+        population: 3207
+      - 
+        alternate_names: ~
+        ascii_name: Garapan
+        name: Garapan
+        names_en: ~
+        names_es: ~
+        population: 4192
+      - 
+        alternate_names: ~
+        ascii_name: "Gualo Rai"
+        name: "Gualo Rai"
+        names_en: ~
+        names_es: ~
+        population: 2549
+      - 
+        alternate_names: ~
+        ascii_name: Koblerville
+        name: Koblerville
+        names_en: ~
+        names_es: ~
+        population: 3714
+      - 
+        alternate_names: ~
+        ascii_name: "San Antonio"
+        name: "San Antonio"
+        names_en: ~
+        names_es: ~
+        population: 5629
+      - 
+        alternate_names: ~
+        ascii_name: "San Roque"
+        name: "San Roque"
+        names_en: ~
+        names_es: ~
+        population: 1086
+      - 
+        alternate_names: ~
+        ascii_name: "San Vicente"
+        name: "San Vicente"
+        names_en: ~
+        names_es: ~
+        population: 4644
+      - 
+        alternate_names: ~
+        ascii_name: Susupe
+        name: Susupe
+        names_en: ~
+        names_es: ~
+        population: 2364
+      - 
+        alternate_names: ~
+        ascii_name: Tanapag
+        name: Tanapag
+        names_en: ~
+        names_es: ~
+        population: 4389
     name: "Municipality of Saipan"
-    slug: municipality-of-saipan
-tld: mp
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Municipality of Tinian"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "San Jose"
+        name: "San Jose"
+        names_en: ~
+        names_es: ~
+        population: 1883
+    name: "Municipality of Tinian"
+    names_en: ~
+    names_es: ~

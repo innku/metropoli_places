@@ -1,42 +1,43 @@
 --- 
-code: BN
-continent: AS
 name: Brunei
-population: 395027
+names_en: 
+  - Brunei
+names_es: 
+  - Brunéi
 regions: 
   - 
+    ascii_name: "Tutong District"
+    cities: []
+    name: Tutong
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Temburong District"
+    cities: []
+    name: Temburong
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Brunei and Muara District"
     cities: 
       - 
-        districts: []
-        location: "POINT (4.9402900000000001 114.9480599999999981)"
+        alternate_names: 
+          - "Bandar Seri Begavanas"
+          - "Bandar Seri Begawan"
+          - Bandar-Seri-Begavan
+        ascii_name: "Bandar Seri Begawan"
         name: "Bandar Seri Begawan"
+        names_en: 
+          - "Bandar Seri Begawan"
+        names_es: 
+          - "Bandar Seri Begawan"
         population: 64409
-        slug: bandar-seri-begawan
-      - 
-        districts: []
-        location: "POINT (4.7999999999999998 114.6500000000000057)"
-        name: Tutong
-        population: 19151
-        slug: tutong
-      - 
-        districts: []
-        location: "POINT (4.6166700000000001 114.3166700000000020)"
-        name: Seria
-        population: 30097
-        slug: seria
-      - 
-        districts: []
-        location: "POINT (4.5833300000000001 114.1833299999999980)"
-        name: "Kuala Belait"
-        population: 31178
-        slug: kuala-belait
-      - 
-        districts: []
-        location: "POINT (4.7166699999999997 115.0666700000000020)"
-        name: Bangar
-        population: 3536
-        slug: bangar
-    code: BN.00
-    name: "Brunei (general)"
-    slug: brunei-general
-tld: bn
+    name: "Brunei and Muara"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Belait District"
+    cities: []
+    name: Belait
+    names_en: ~
+    names_es: ~

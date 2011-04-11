@@ -1,206 +1,220 @@
 --- 
-code: TM
-continent: AS
 name: Turkmenistan
-population: 4940916
+names_en: 
+  - Turkmenistan
+names_es: 
+  - Turkmenistán
 regions: 
   - 
+    ascii_name: "Balkan Welayaty"
     cities: 
       - 
-        districts: []
-        location: "POINT (37.3500000000000014 59.6000000000000014)"
-        name: Kaka
-        population: 18545
-        slug: kaka
-      - 
-        districts: []
-        location: "POINT (37.9158299999999997 58.0911100000000005)"
-        name: Pewrize
-        population: 3000
-        slug: pewrize
-      - 
-        districts: []
-        location: "POINT (37.8883300000000034 58.5280600000000035)"
-        name: Änew
-        population: 27526
-        slug: anew
-      - 
-        districts: []
-        location: "POINT (41.6499999999999986 59.8999999999999986)"
-        name: Tagta
-        population: 16635
-        slug: tagta
-      - 
-        districts: []
-        location: "POINT (42.0499999999999972 59.3999999999999986)"
-        name: Akdepe
-        population: 14177
-        slug: akdepe
-      - 
-        districts: []
-        location: "POINT (42.3166700000000020 59.1666700000000034)"
-        name: Köneürgench
-        population: 30000
-        slug: koneurgench
-      - 
-        districts: []
-        location: "POINT (42.1333300000000008 59.6666700000000034)"
-        name: Boldumsaz
-        population: 21159
-        slug: boldumsaz
-      - 
-        districts: []
-        location: "POINT (37.2999999999999972 62.3500000000000014)"
-        name: Yolöten
-        population: 32706
-        slug: yoloten
-      - 
-        districts: []
-        location: "POINT (39.4166700000000034 62.8999999999999986)"
-        name: Seydi
-        population: 17762
-        slug: seydi
-      - 
-        districts: []
-        location: "POINT (37.5000000000000000 61.9666700000000006)"
-        name: Murgab
-        population: 13199
-        slug: murgab
-      - 
-        districts: []
-        location: "POINT (37.6166699999999992 62.1666700000000034)"
-        name: Bayramaly
-        population: 75797
-        slug: bayramaly
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 61.3999999999999986)"
-        name: Gazojak
-        population: 21021
-        slug: gazojak
-      - 
-        districts: []
-        location: "POINT (41.8333299999999966 59.9666700000000006)"
-        name: Daşoguz
-        population: 166500
-        slug: dasoguz
-    code: TM.00
-    name: "Turkmenistan (general)"
-    slug: turkmenistan-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.0516700000000014 58.2100000000000009)"
-        name: Büzmeýin
-        population: 39481
-        slug: buzmeyin
-      - 
-        districts: []
-        location: "POINT (38.4302800000000033 57.4369399999999999)"
-        name: Bäherden
-        population: 22991
-        slug: baherden
-      - 
-        districts: []
-        location: "POINT (37.9500000000000028 58.3833300000000008)"
-        name: Ashgabat
-        population: 727700
-        slug: ashgabat
-      - 
-        districts: []
-        location: "POINT (37.3786100000000019 60.4961100000000016)"
-        name: Tejen
-        population: 67294
-        slug: tejen
-    code: TM.01
-    name: Ahal
-    slug: ahal
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.5119400000000027 54.3650000000000020)"
+        alternate_names: 
+          - Balkanabat
+          - Nebit-Dag
+          - Nebitdag
+        ascii_name: Balkanabat
         name: Balkanabat
+        names_en: 
+          - Balkanabat
+        names_es: ~
         population: 87822
-        slug: balkanabat
       - 
-        districts: []
-        location: "POINT (38.9755600000000015 56.2777799999999999)"
+        alternate_names: 
+          - Gyzylarbat
+          - Kizil-Arvat
+          - Kizyl-Arvat
+        ascii_name: Gyzylarbat
         name: Gyzylarbat
+        names_en: 
+          - Kizil-Arvat
+        names_es: ~
         population: 12000
-        slug: gyzylarbat
       - 
-        districts: []
-        location: "POINT (39.2061100000000025 54.5905600000000035)"
+        alternate_names: 
+          - Gumdag
+          - Gumdage
+          - Khudaidag
+        ascii_name: Gumdag
         name: Gumdag
+        names_en: ~
+        names_es: ~
         population: 24312
-        slug: gumdag
       - 
-        districts: []
-        location: "POINT (39.2430599999999998 55.5169399999999982)"
+        alternate_names: 
+          - Gazandzhyk
+          - Gazanjyk
+          - Kasandshik
+        ascii_name: Gazanjyk
         name: Gazanjyk
+        names_en: ~
+        names_es: ~
         population: 21090
-        slug: gazanjyk
       - 
-        districts: []
-        location: "POINT (40.0230600000000010 52.9697200000000024)"
+        alternate_names: 
+          - KRASNOVODSK
+          - Krasnovodsk
+          - Krasnowodsk
+        ascii_name: Turkmenbasy
         name: Türkmenbaşy
+        names_en: 
+          - Türkmenbaşy
+        names_es: 
+          - Krasnovodsk
         population: 68292
-        slug: turkmenbasy
-    code: TM.02
     name: Balkan
-    slug: balkan
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Ahal Welayaty"
     cities: 
       - 
-        districts: []
-        location: "POINT (38.7811099999999982 63.8866700000000023)"
-        name: Saýat
-        population: 17762
-        slug: sayat
+        alternate_names: 
+          - Bezmein
+          - Buzmeyin
+          - Büzmeýin
+        ascii_name: Buzmeyin
+        name: Büzmeýin
+        names_en: ~
+        names_es: ~
+        population: 39481
       - 
-        districts: []
-        location: "POINT (37.8344400000000007 65.2097200000000043)"
-        name: Atamyrat
-        population: 33242
-        slug: atamyrat
+        alternate_names: 
+          - Baherden
+          - Bakharden
+          - Bäherden
+        ascii_name: Baherden
+        name: Bäherden
+        names_en: ~
+        names_es: ~
+        population: 22991
       - 
-        districts: []
-        location: "POINT (37.8069399999999973 66.0566699999999969)"
-        name: Gowurdak
-        population: 34745
-        slug: gowurdak
+        alternate_names: 
+          - Achgabat
+          - "Achkhabad - Asgabat"
+          - "Achkhabad - Aşgabat"
+        ascii_name: Ashgabat
+        name: Ashgabat
+        names_en: 
+          - Ashkhabad
+          - Ashgabat
+          - Ashkabad
+        names_es: 
+          - Aşgabat
+        population: 727700
       - 
-        districts: []
-        location: "POINT (39.1713900000000024 63.6030599999999993)"
-        name: Farap
-        population: 14503
-        slug: farap
-      - 
-        districts: []
-        location: "POINT (39.1013900000000021 63.5750000000000028)"
-        name: Türkmenabat
-        population: 234817
-        slug: turkmenabat
-    code: TM.04
-    name: Lebap
-    slug: lebap
+        alternate_names: 
+          - Tedjen
+          - Tedzen
+          - Tedzhen
+        ascii_name: Tejen
+        name: Tejen
+        names_en: 
+          - Tejen
+        names_es: ~
+        population: 67294
+    name: Ahal
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Dasoguz Welayaty"
     cities: 
       - 
-        districts: []
-        location: "POINT (37.6000000000000014 61.8333299999999966)"
+        alternate_names: 
+          - Dashhowuz
+          - Dashkhovuz
+          - Dashoguz
+        ascii_name: Dasoguz
+        name: Daşoguz
+        names_en: 
+          - Daşoguz
+        names_es: ~
+        population: 166500
+    name: Daşoguz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mary Welayaty"
+    cities: 
+      - 
+        alternate_names: 
+          - Mary
+          - Merv
+          - Мары
+        ascii_name: Mary
         name: Mary
+        names_en: 
+          - Mary
+        names_es: ~
         population: 114680
-        slug: mary
       - 
-        districts: []
-        location: "POINT (35.2783200000000008 62.3372499999999974)"
+        alternate_names: 
+          - Gusgy
+          - Gushgy
+          - Guşgy
+        ascii_name: Serhetabat
         name: Serhetabat
+        names_en: 
+          - Serhetabat
+          - Kushka
+        names_es: ~
         population: 5200
-        slug: serhetabat
-    code: TM.05
     name: Mary
-    slug: mary
-tld: tm
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lebap Welayaty"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Sayat
+        name: Saýat
+        names_en: ~
+        names_es: ~
+        population: 17762
+      - 
+        alternate_names: 
+          - Atamyrat
+          - Kerki
+          - Qarki
+        ascii_name: Atamyrat
+        name: Atamyrat
+        names_en: ~
+        names_es: ~
+        population: 33242
+      - 
+        alternate_names: 
+          - Gaurdak
+          - Gaurdakstroy
+          - Gaurdstroi
+        ascii_name: Gowurdak
+        name: Gowurdak
+        names_en: ~
+        names_es: ~
+        population: 34745
+      - 
+        alternate_names: 
+          - Farab
+          - Farap
+          - Фарап
+        ascii_name: Farap
+        name: Farap
+        names_en: ~
+        names_es: ~
+        population: 14503
+      - 
+        alternate_names: 
+          - Chardzha
+          - Chardzhou
+          - Chardzhui
+        ascii_name: Turkmenabat
+        name: Türkmenabat
+        names_en: 
+          - Turkmenabat
+          - Türkmenabat
+        names_es: 
+          - Türkmenabat
+        population: 234817
+    name: Lebap
+    names_en: ~
+    names_es: ~

@@ -1,51 +1,106 @@
 --- 
-code: SM
-continent: EU
 name: "San Marino"
-population: 31477
+names_en: 
+  - "San Marino"
+names_es: 
+  - "San Marino"
 regions: 
   - 
+    ascii_name: "Castello di Serravalle"
     cities: 
       - 
-        districts: []
-        location: "POINT (43.9500000000000028 12.4166699999999999)"
-        name: Acquaviva
-        population: 1530
-        slug: acquaviva
-    code: SM.01
-    name: Acquaviva
-    slug: acquaviva
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.9166700000000034 12.4166699999999999)"
-        name: "Poggio di Chiesanuova"
-        population: 951
-        slug: poggio-di-chiesanuova
-    code: SM.02
-    name: Chiesanuova
-    slug: chiesanuova
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.9333299999999980 12.4499999999999993)"
-        name: "San Marino"
-        population: 4500
-        slug: san-marino
-    code: SM.07
-    name: "San Marino"
-    slug: san-marino
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.9500000000000028 12.5000000000000000)"
+        alternate_names: 
+          - Serravalle
+          - Серравалле
+        ascii_name: Serravalle
         name: Serravalle
+        names_en: 
+          - Serravalle
+        names_es: 
+          - Serravalle
         population: 9258
-        slug: serravalle
-    code: SM.09
     name: Serravalle
-    slug: serravalle
-tld: sm
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Chiesanuova
+    cities: 
+      - 
+        alternate_names: 
+          - Chiesanuova
+          - "Poggio di Chiesanuova"
+        ascii_name: "Poggio di Chiesanuova"
+        name: "Poggio di Chiesanuova"
+        names_en: ~
+        names_es: ~
+        population: 951
+    name: Chiesanuova
+    names_en: 
+      - Chiesanuova
+    names_es: 
+      - Chiesanuova
+  - 
+    ascii_name: "Castello di San Marino Citta"
+    cities: 
+      - 
+        alternate_names: 
+          - "Citta di San Marino"
+          - "Città di San Marino"
+          - "Ciudad de San Marino"
+        ascii_name: "San Marino"
+        name: "San Marino"
+        names_en: 
+          - "San Marino"
+        names_es: 
+          - "Ciudad de San Marino"
+          - "San Marino"
+        population: 4500
+    name: "San Marino"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Castello di Acquaviva"
+    cities: 
+      - 
+        alternate_names: 
+          - Acquaviva
+        ascii_name: Acquaviva
+        name: Acquaviva
+        names_en: 
+          - Acquaviva
+        names_es: 
+          - Acquaviva
+        population: 1530
+    name: Acquaviva
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Castello di Borgo Maggiore"
+    cities: []
+    name: "Borgo Maggiore"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Castello di Domagnano"
+    cities: []
+    name: Domagnano
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Castello di Faetano"
+    cities: []
+    name: Faetano
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Castello di Fiorentino"
+    cities: []
+    name: Fiorentino
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Castello di Montegiardino"
+    cities: []
+    name: Montegiardino
+    names_en: ~
+    names_es: ~

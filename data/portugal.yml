@@ -1,2957 +1,4196 @@
 --- 
-code: PT
-continent: EU
 name: Portugal
-population: 10676000
+names_en: 
+  - Portugal
+  - "Portuguese Republic"
+names_es: 
+  - Portugal
 regions: 
   - 
+    ascii_name: "Distrito de Setubal"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.3666699999999992 -8.4499999999999993)"
-        name: Mealhada
-        population: 4443
-        slug: mealhada
-      - 
-        districts: []
-        location: "POINT (40.6166699999999992 -8.7333300000000005)"
-        name: "Gafanha da Encarnação"
-        population: 4914
-        slug: gafanha-da-encarnacao
-      - 
-        districts: []
-        location: "POINT (40.7999999999999972 -8.5666700000000002)"
-        name: Avanca
-        population: 6540
-        slug: avanca
-      - 
-        districts: []
-        location: "POINT (41.0166699999999977 -8.5333299999999994)"
-        name: Argoncilhe
-        population: 8743
-        slug: argoncilhe
-      - 
-        districts: []
-        location: "POINT (40.8666699999999992 -8.4666700000000006)"
-        name: "Vila Chã"
-        population: 4295
-        slug: vila-cha
-      - 
-        districts: []
-        location: "POINT (40.6166699999999992 -8.4499999999999993)"
-        name: Valongo
-        population: 5085
-        slug: valongo
-      - 
-        districts: []
-        location: "POINT (40.8333299999999966 -8.5833300000000001)"
-        name: Válega
-        population: 7005
-        slug: valega
-      - 
-        districts: []
-        location: "POINT (40.8500000000000014 -8.4000000000000004)"
-        name: "Vale de Cambra"
-        population: 7649
-        slug: vale-de-cambra
-      - 
-        districts: []
-        location: "POINT (40.5499999999999972 -8.6833299999999998)"
-        name: Vagos
-        population: 4529
-        slug: vagos
-      - 
-        districts: []
-        location: "POINT (40.9833300000000023 -8.6166699999999992)"
-        name: Souto
-        population: 4922
-        slug: souto
-      - 
-        districts: []
-        location: "POINT (40.9833300000000023 -8.6166699999999992)"
-        name: Silvalde
-        population: 7188
-        slug: silvalde
-      - 
-        districts: []
-        location: "POINT (40.8833300000000008 -8.4666700000000006)"
-        name: "São Roque"
-        population: 5575
-        slug: sao-roque
-      - 
-        districts: []
-        location: "POINT (40.9500000000000028 -8.5500000000000007)"
-        name: "São João de Ver"
-        population: 9568
-        slug: sao-joao-de-ver
-      - 
-        districts: []
-        location: "POINT (40.9022900000000007 -8.4896899999999995)"
-        name: "São João da Madeira"
-        population: 22079
-        slug: sao-joao-da-madeira
-      - 
-        districts: []
-        location: "POINT (40.8666699999999992 -8.5999999999999996)"
-        name: "São João"
-        population: 6762
-        slug: sao-joao
-      - 
-        districts: []
-        location: "POINT (40.5000000000000000 -8.4666700000000006)"
-        name: Sangalhos
-        population: 4516
-        slug: sangalhos
-      - 
-        districts: []
-        location: "POINT (40.7333300000000023 -8.5500000000000007)"
-        name: Salreu
-        population: 4141
-        slug: salreu
-      - 
-        districts: []
-        location: "POINT (40.9500000000000028 -8.5833300000000001)"
-        name: "Rio Meão"
-        population: 4802
-        slug: rio-meao
-      - 
-        districts: []
-        location: "POINT (40.7999999999999972 -8.6166699999999992)"
-        name: Pardilhó
-        population: 4169
-        slug: pardilho
-      - 
-        districts: []
-        location: "POINT (40.3333299999999966 -8.4166699999999999)"
-        name: "Pampilhosa do Botão"
-        population: 4512
-        slug: pampilhosa-do-botao
-      - 
-        districts: []
-        location: "POINT (40.9666700000000006 -8.5833300000000001)"
-        name: "Paços de Brandão"
-        population: 4637
-        slug: pacos-de-brandao
-      - 
-        districts: []
-        location: "POINT (40.8586200000000019 -8.6251300000000004)"
-        name: Ovar
-        population: 18452
-        slug: ovar
-      - 
-        districts: []
-        location: "POINT (40.6000000000000014 -8.5833300000000001)"
-        name: Oliveirinha
-        population: 4971
-        slug: oliveirinha
-      - 
-        districts: []
-        location: "POINT (40.5166699999999977 -8.5000000000000000)"
-        name: "Oliveira do Bairro"
-        population: 6239
-        slug: oliveira-do-bairro
-      - 
-        districts: []
-        location: "POINT (40.8333299999999966 -8.4833300000000005)"
-        name: "Oliveira de Azemeis"
-        population: 11771
-        slug: oliveira-de-azemeis
-      - 
-        districts: []
-        location: "POINT (40.5499999999999972 -8.5333299999999994)"
-        name: Oiã
-        population: 7118
-        slug: oia
-      - 
-        districts: []
-        location: "POINT (41.0000000000000000 -8.5833300000000001)"
-        name: "Nogueira da Regedoura"
-        population: 5328
-        slug: nogueira-da-regedoura
-      - 
-        districts: []
-        location: "POINT (40.9166700000000034 -8.4666700000000006)"
-        name: "Milheirós de Poiares"
-        population: 4339
-        slug: milheiros-de-poiares
-      - 
-        districts: []
-        location: "POINT (40.8500000000000014 -8.3833300000000008)"
-        name: "Macieira de Cambra"
-        population: 4909
-        slug: macieira-de-cambra
-      - 
-        districts: []
-        location: "POINT (40.9833300000000023 -8.5500000000000007)"
-        name: Lourosa
-        population: 9619
-        slug: lourosa
-      - 
-        districts: []
-        location: "POINT (40.9833300000000023 -8.4833300000000005)"
-        name: Lobão
-        population: 6049
-        slug: lobao
-      - 
-        districts: []
-        location: "POINT (40.9833300000000023 -8.5666700000000002)"
-        name: Lamas
-        population: 5628
-        slug: lamas
-      - 
-        districts: []
-        location: "POINT (40.6000000000000014 -8.6666699999999999)"
-        name: Ílhavo
-        population: 17236
-        slug: ilhavo
-      - 
-        districts: []
-        location: "POINT (40.6333300000000008 -8.7166700000000006)"
-        name: "Gafanha da Nazaré"
-        population: 14840
-        slug: gafanha-da-nazare
-      - 
-        districts: []
-        location: "POINT (40.9833300000000023 -8.5166699999999995)"
-        name: Fiães
-        population: 8708
-        slug: fiaes
-      - 
-        districts: []
-        location: "POINT (40.9166700000000034 -8.5500000000000007)"
-        name: Feira
-        population: 16376
-        slug: feira
-      - 
-        districts: []
-        location: "POINT (41.0000000000000000 -8.6500000000000004)"
-        name: Espinho
-        population: 9566
-        slug: espinho
-      - 
-        districts: []
-        location: "POINT (40.9577299999999980 -8.6275300000000001)"
-        name: Esmoriz
-        population: 11393
-        slug: esmoriz
-      - 
-        districts: []
-        location: "POINT (40.6166699999999992 -8.5666700000000002)"
-        name: Eixo
-        population: 5978
-        slug: eixo
-      - 
-        districts: []
-        location: "POINT (40.8666699999999992 -8.5000000000000000)"
-        name: Cucujães
-        population: 11087
-        slug: cucujaes
-      - 
-        districts: []
-        location: "POINT (40.9333299999999980 -8.6166699999999992)"
-        name: Cortegaça
-        population: 4139
-        slug: cortegaca
-      - 
-        districts: []
-        location: "POINT (40.7666699999999977 -8.4833300000000005)"
-        name: Branca
-        population: 5632
-        slug: branca
-      - 
-        districts: []
-        location: "POINT (40.7666699999999977 -8.5666700000000002)"
-        name: Beduido
-        population: 8201
-        slug: beduido
-      - 
-        districts: []
-        location: "POINT (40.6333300000000008 -8.6500000000000004)"
-        name: Aveiro
-        population: 54162
-        slug: aveiro
-      - 
-        districts: []
-        location: "POINT (40.9166700000000034 -8.5000000000000000)"
-        name: Arrifana
-        population: 6927
-        slug: arrifana
-      - 
-        districts: []
-        location: "POINT (40.4500000000000028 -8.4333299999999998)"
-        name: Arcos
-        population: 6725
-        slug: arcos
-      - 
-        districts: []
-        location: "POINT (40.6166699999999992 -8.6500000000000004)"
-        name: Aradas
-        population: 7295
-        slug: aradas
-      - 
-        districts: []
-        location: "POINT (40.7000000000000028 -8.4833300000000005)"
-        name: Albergaria-a-Velha
-        population: 7974
-        slug: albergaria-a-velha
-      - 
-        districts: []
-        location: "POINT (40.5666700000000020 -8.4499999999999993)"
-        name: Águeda
-        population: 11941
-        slug: agueda
-      - 
-        districts: []
-        location: "POINT (40.5166699999999977 -8.4333299999999998)"
-        name: "Aguada de Cima"
-        population: 4388
-        slug: aguada-de-cima
-    code: PT.02
-    name: Aveiro
-    slug: aveiro
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.7166700000000006 -8.7833299999999994)"
-        name: "Vila Nova de Milfontes"
-        population: 4393
-        slug: vila-nova-de-milfontes
-      - 
-        districts: []
-        location: "POINT (37.9333299999999980 -7.5999999999999996)"
-        name: Serpa
-        population: 6586
-        slug: serpa
-      - 
-        districts: []
-        location: "POINT (37.5000000000000000 -8.6999999999999993)"
-        name: "São Teotónio"
-        population: 4936
-        slug: sao-teotonio
-      - 
-        districts: []
-        location: "POINT (37.5979799999999997 -8.6397200000000005)"
-        name: Odemira
-        population: 5830
-        slug: odemira
-      - 
-        districts: []
-        location: "POINT (38.1333300000000008 -7.4500000000000002)"
-        name: Moura
-        population: 9360
-        slug: moura
-      - 
-        districts: []
-        location: "POINT (38.0499999999999972 -8.0333299999999994)"
-        name: "Ferreira do Alentejo"
-        population: 4689
-        slug: ferreira-do-alentejo
-      - 
-        districts: []
-        location: "POINT (37.7000000000000028 -8.0833300000000001)"
-        name: "Castro Verde"
-        population: 4857
-        slug: castro-verde
-      - 
-        districts: []
-        location: "POINT (38.0166699999999977 -7.8666700000000001)"
-        name: Beja
-        population: 0
-        slug: beja
-      - 
-        districts: []
-        location: "POINT (37.8666699999999992 -8.1666699999999999)"
-        name: Aljustrel
-        population: 5334
-        slug: aljustrel
-    code: PT.03
-    name: Beja
-    slug: beja
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.4166700000000034 -8.5333299999999994)"
-        name: "Vila Nova de Famalicão"
-        population: 9496
-        slug: vila-nova-de-famalicao
-      - 
-        districts: []
-        location: "POINT (41.3833300000000008 -8.3499999999999996)"
-        name: "Moreira de Conegos"
-        population: 5607
-        slug: moreira-de-conegos
-      - 
-        districts: []
-        location: "POINT (41.3999999999999986 -8.5333299999999994)"
-        name: Calendário
-        population: 11357
-        slug: calendario
-      - 
-        districts: []
-        location: "POINT (41.6499999999999986 -8.4333299999999998)"
-        name: "Vila Verde"
-        population: 4389
-        slug: vila-verde
-      - 
-        districts: []
-        location: "POINT (41.5333299999999994 -8.6333300000000008)"
-        name: "Vila Frescainha"
-        population: 4018
-        slug: vila-frescainha
-      - 
-        districts: []
-        location: "POINT (41.4166700000000034 -8.3000000000000007)"
-        name: Urgeses
-        population: 5457
-        slug: urgeses
-      - 
-        districts: []
-        location: "POINT (41.3999999999999986 -8.2333300000000005)"
-        name: Serzedo
-        population: 8000
-        slug: serzedo
-      - 
-        districts: []
-        location: "POINT (41.3999999999999986 -8.3666699999999992)"
-        name: Serzedelo
-        population: 4020
-        slug: serzedelo
-      - 
-        districts: []
-        location: "POINT (41.4166700000000034 -8.3499999999999996)"
-        name: Selho
-        population: 10223
-        slug: selho
-      - 
-        districts: []
-        location: "POINT (41.7000000000000028 -8.4000000000000004)"
-        name: Sande
-        population: 7789
-        slug: sande
-      - 
-        districts: []
-        location: "POINT (41.4333299999999980 -8.3833300000000008)"
-        name: Ronfe
-        population: 4888
-        slug: ronfe
-      - 
-        districts: []
-        location: "POINT (41.3500000000000014 -8.5500000000000007)"
-        name: Ribeirão
-        population: 8735
-        slug: ribeirao
-      - 
-        districts: []
-        location: "POINT (41.5166699999999977 -8.0000000000000000)"
-        name: "Refojos de Basto"
-        population: 5037
-        slug: refojos-de-basto
-      - 
-        districts: []
-        location: "POINT (41.6333300000000008 -8.1666699999999999)"
-        name: Real
-        population: 5827
-        slug: real
-      - 
-        districts: []
-        location: "POINT (41.6000000000000014 -8.4666700000000006)"
-        name: Prado
-        population: 4518
-        slug: prado
-      - 
-        districts: []
-        location: "POINT (41.5787300000000002 -8.2819699999999994)"
-        name: "Póvoa de Lanhoso"
-        population: 5008
-        slug: povoa-de-lanhoso
-      - 
-        districts: []
-        location: "POINT (41.4666700000000006 -8.3333300000000001)"
-        name: Ponte
-        population: 7041
-        slug: ponte
-      - 
-        districts: []
-        location: "POINT (41.4833300000000023 -8.4666700000000006)"
-        name: Oliveira
-        population: 6222
-        slug: oliveira
-      - 
-        districts: []
-        location: "POINT (41.5499999999999972 -8.7833299999999994)"
-        name: Marinhas
-        population: 6052
-        slug: marinhas
-      - 
-        districts: []
-        location: "POINT (41.3666699999999992 -8.3833300000000008)"
-        name: Lordelo
-        population: 4560
-        slug: lordelo
-      - 
-        districts: []
-        location: "POINT (41.4333299999999980 -8.4166699999999999)"
-        name: Joane
-        population: 7869
-        slug: joane
-      - 
-        districts: []
-        location: "POINT (41.4500000000000028 -8.3000000000000007)"
-        name: Guimarães
-        population: 40604
-        slug: guimaraes
-      - 
-        districts: []
-        location: "POINT (41.5666700000000020 -8.5833300000000001)"
-        name: Galegos
-        population: 5404
-        slug: galegos
-      - 
-        districts: []
-        location: "POINT (41.3500000000000014 -8.5500000000000007)"
-        name: Ferreiros
-        population: 7870
-        slug: ferreiros
-      - 
-        districts: []
-        location: "POINT (41.4500000000000028 -8.1666699999999999)"
-        name: Fafe
-        population: 16868
-        slug: fafe
-      - 
-        districts: []
-        location: "POINT (41.5333299999999994 -8.8000000000000007)"
-        name: Esposende
-        population: 34625
-        slug: esposende
-      - 
-        districts: []
-        location: "POINT (41.5333299999999994 -8.7833299999999994)"
-        name: Esposende
-        population: 34625
-        slug: esposende
-      - 
-        districts: []
-        location: "POINT (41.4166700000000034 -8.3166700000000002)"
-        name: Candoso
-        population: 3893
-        slug: candoso
-      - 
-        districts: []
-        location: "POINT (41.6666700000000034 -8.3833300000000008)"
-        name: Caldelas
-        population: 5724
-        slug: caldelas
-      - 
-        districts: []
-        location: "POINT (41.3833300000000008 -8.3166700000000002)"
-        name: "Caldas de Vizela"
-        population: 10239
-        slug: caldas-de-vizela
-      - 
-        districts: []
-        location: "POINT (41.4500000000000028 -8.3666699999999992)"
-        name: Brito
-        population: 5051
-        slug: brito
-      - 
-        districts: []
-        location: "POINT (41.5499999999999972 -8.4333299999999998)"
-        name: Braga
-        population: 121394
-        slug: braga
-      - 
-        districts: []
-        location: "POINT (41.5333299999999994 -8.6166699999999992)"
-        name: Barcelos
-        population: 19085
-        slug: barcelos
-      - 
-        districts: []
-        location: "POINT (41.4500000000000028 -8.2166700000000006)"
-        name: Arões
-        population: 4855
-        slug: aroes
-      - 
-        districts: []
-        location: "POINT (41.4833300000000023 -8.7666699999999995)"
-        name: Apúlia
-        population: 4394
-        slug: apulia
-      - 
-        districts: []
-        location: "POINT (41.7333300000000023 -8.3000000000000007)"
-        name: Antas
-        population: 5569
-        slug: antas
-      - 
-        districts: []
-        location: "POINT (41.5833299999999966 -8.4000000000000004)"
-        name: Adaúfe
-        population: 3850
-        slug: adaufe
-    code: PT.04
-    name: Braga
-    slug: braga
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.3403399999999976 -6.7118700000000002)"
-        name: Mogadouro
-        population: 3936
-        slug: mogadouro
-      - 
-        districts: []
-        location: "POINT (41.4833300000000023 -7.1833299999999998)"
-        name: Mirandela
-        population: 12504
-        slug: mirandela
-      - 
-        districts: []
-        location: "POINT (41.5333299999999994 -6.9666699999999997)"
-        name: "Macedo de Cavaleiros"
-        population: 6566
-        slug: macedo-de-cavaleiros
-      - 
-        districts: []
-        location: "POINT (41.8166700000000020 -6.7500000000000000)"
-        name: Bragança
-        population: 34375
-        slug: braganca
-    code: PT.05
-    name: Bragança
-    slug: braganca
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.7999999999999972 -8.0999999999999996)"
-        name: Sertã
-        population: 5636
-        slug: serta
-      - 
-        districts: []
-        location: "POINT (39.7500000000000000 -7.9166699999999999)"
-        name: Proença-a-Nova
-        population: 4590
-        slug: proenca-a-nova
-      - 
-        districts: []
-        location: "POINT (39.8166700000000020 -7.5000000000000000)"
-        name: "Castelo Branco"
-        population: 33479
-        slug: castelo-branco
-      - 
-        districts: []
-        location: "POINT (40.3166700000000020 -7.4666699999999997)"
-        name: Teixoso
-        population: 4703
-        slug: teixoso
-      - 
-        districts: []
-        location: "POINT (40.1333300000000008 -7.5000000000000000)"
-        name: Fundão
-        population: 9725
-        slug: fundao
-      - 
-        districts: []
-        location: "POINT (40.2833299999999994 -7.5000000000000000)"
-        name: Covilhã
-        population: 17610
-        slug: covilha
-    code: PT.06
-    name: "Castelo Branco"
-    slug: castelo-branco
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.1666700000000034 -8.8499999999999996)"
-        name: Tavarede
-        population: 8586
-        slug: tavarede
-      - 
-        districts: []
-        location: "POINT (40.0499999999999972 -8.6333300000000008)"
-        name: Soure
-        population: 8416
-        slug: soure
-      - 
-        districts: []
-        location: "POINT (40.2166700000000006 -8.2666699999999995)"
-        name: Poiares
-        population: 5514
-        slug: poiares
-      - 
-        districts: []
-        location: "POINT (40.3500000000000014 -7.8666700000000001)"
-        name: "Oliveira do Hospital"
-        population: 4704
-        slug: oliveira-do-hospital
-      - 
-        districts: []
-        location: "POINT (40.1000000000000014 -8.3333300000000001)"
-        name: "Miranda do Corvo"
-        population: 7857
-        slug: miranda-do-corvo
-      - 
-        districts: []
-        location: "POINT (40.4333299999999980 -8.7333300000000005)"
-        name: Mira
-        population: 7682
-        slug: mira
-      - 
-        districts: []
-        location: "POINT (40.1167299999999969 -8.2492099999999997)"
-        name: Lousã
-        population: 11445
-        slug: lousa
-      - 
-        districts: []
-        location: "POINT (40.2500000000000000 -8.3166700000000002)"
-        name: Lorvão
-        population: 4158
-        slug: lorvao
-      - 
-        districts: []
-        location: "POINT (40.1000000000000014 -8.8166700000000002)"
-        name: Lavos
-        population: 4164
-        slug: lavos
-      - 
-        districts: []
-        location: "POINT (40.1499999999999986 -8.8666699999999992)"
-        name: "Figueira da Foz"
-        population: 12050
-        slug: figueira-da-foz
-      - 
-        districts: []
-        location: "POINT (40.1166699999999992 -8.5000000000000000)"
-        name: "Condeixa a Nova"
-        population: 4613
-        slug: condeixa-a-nova
-      - 
-        districts: []
-        location: "POINT (40.2000000000000028 -8.4166699999999999)"
-        name: Coimbra
-        population: 106582
-        slug: coimbra
-      - 
-        districts: []
-        location: "POINT (40.3500000000000014 -8.5999999999999996)"
-        name: Cantanhede
-        population: 7347
-        slug: cantanhede
-      - 
-        districts: []
-        location: "POINT (40.1666700000000034 -8.8833300000000008)"
-        name: Buarcos
-        population: 7865
-        slug: buarcos
-      - 
-        districts: []
-        location: "POINT (40.2166700000000006 -8.0500000000000007)"
-        name: Arganil
-        population: 4330
-        slug: arganil
-      - 
-        districts: []
-        location: "POINT (40.2833299999999994 -8.6500000000000004)"
-        name: Arazede
-        population: 5906
-        slug: arazede
-      - 
-        districts: []
-        location: "POINT (40.1833299999999980 -8.7833299999999994)"
-        name: Alhadas
-        population: 3768
-        slug: alhadas
-    code: PT.07
-    name: Coimbra
-    slug: coimbra
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.6499999999999986 -8.2166700000000006)"
-        name: Montemor-o-Novo
-        population: 12854
-        slug: montemor-o-novo
-      - 
-        districts: []
-        location: "POINT (38.7833299999999994 -7.4166699999999999)"
-        name: "Vila Viçosa"
-        population: 5484
-        slug: vila-vicosa
-      - 
-        districts: []
-        location: "POINT (38.6833299999999980 -8.4499999999999993)"
-        name: "Vendas Novas"
-        population: 11248
-        slug: vendas-novas
-      - 
-        districts: []
-        location: "POINT (38.4166700000000034 -7.5333300000000003)"
-        name: "Reguengos de Monsaraz"
-        population: 7217
-        slug: reguengos-de-monsaraz
-      - 
-        districts: []
-        location: "POINT (38.6499999999999986 -7.5499999999999998)"
-        name: Redondo
-        population: 5845
-        slug: redondo
-      - 
-        districts: []
-        location: "POINT (38.5666700000000020 -7.9000000000000004)"
-        name: Évora
-        population: 55620
-        slug: evora
-      - 
-        districts: []
-        location: "POINT (38.8500000000000014 -7.5833300000000001)"
-        name: Estremoz
-        population: 9350
-        slug: estremoz
-      - 
-        districts: []
-        location: "POINT (38.7999999999999972 -7.4500000000000002)"
-        name: Borba
-        population: 4586
-        slug: borba
-    code: PT.08
-    name: Évora
-    slug: evora
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.2500000000000000 -8.2833299999999994)"
-        name: "São Bartolomeu de Messines"
-        population: 8381
-        slug: sao-bartolomeu-de-messines
-      - 
-        districts: []
-        location: "POINT (37.2000000000000028 -7.4166699999999999)"
-        name: "Vila Real de Santo António"
-        population: 11560
-        slug: vila-real-de-santo-antonio
-      - 
-        districts: []
-        location: "POINT (37.1166699999999992 -7.6500000000000004)"
-        name: Tavira
-        population: 13871
-        slug: tavira
-      - 
-        districts: []
-        location: "POINT (37.1833299999999980 -8.4333299999999998)"
-        name: Silves
-        population: 10917
-        slug: silves
-      - 
-        districts: []
-        location: "POINT (37.1499999999999986 -7.8833299999999999)"
-        name: "São Brás de Alportel"
-        population: 11153
-        slug: sao-bras-de-alportel
-      - 
-        districts: []
-        location: "POINT (37.1000000000000014 -7.9666699999999997)"
-        name: "Santa Bárbara de Nexe"
-        population: 4087
-        slug: santa-barbara-de-nexe
-      - 
-        districts: []
-        location: "POINT (37.0000000000000000 -8.9333299999999998)"
-        name: Sagres
-        population: 1939
-        slug: sagres
-      - 
-        districts: []
-        location: "POINT (37.0666700000000020 -8.0999999999999996)"
-        name: Quarteira
-        population: 18783
-        slug: quarteira
-      - 
-        districts: []
-        location: "POINT (37.1385599999999982 -8.5377500000000008)"
-        name: Portimão
-        population: 38487
-        slug: portimao
-      - 
-        districts: []
-        location: "POINT (37.0333299999999994 -7.8333300000000001)"
-        name: Olhão
-        population: 29239
-        slug: olhao
-      - 
-        districts: []
-        location: "POINT (37.1833299999999980 -7.4500000000000002)"
-        name: "Monte Gordo"
-        population: 4282
-        slug: monte-gordo
-      - 
-        districts: []
-        location: "POINT (37.3166700000000020 -8.5500000000000007)"
-        name: Monchique
-        population: 5421
-        slug: monchique
-      - 
-        districts: []
-        location: "POINT (37.0833299999999966 -7.7833300000000003)"
-        name: Moncarapacho
-        population: 8545
-        slug: moncarapacho
-      - 
-        districts: []
-        location: "POINT (37.0921599999999998 -7.7043299999999997)"
-        name: Luz
-        population: 3627
-        slug: luz
-      - 
-        districts: []
-        location: "POINT (37.1333300000000008 -8.0333299999999994)"
-        name: Loulé
-        population: 23109
-        slug: loule
-      - 
-        districts: []
-        location: "POINT (37.0666700000000020 -7.7999999999999998)"
-        name: Laranjeiro
-        population: 20473
-        slug: laranjeiro
-      - 
-        districts: []
-        location: "POINT (37.1020200000000031 -8.6742200000000000)"
-        name: Lagos
-        population: 18831
-        slug: lagos
-      - 
-        districts: []
-        location: "POINT (37.1333300000000008 -8.4499999999999993)"
-        name: Lagoa
-        population: 6301
-        slug: lagoa
-      - 
-        districts: []
-        location: "POINT (37.1166699999999992 -8.3000000000000007)"
-        name: Guia
-        population: 4173
-        slug: guia
-      - 
-        districts: []
-        location: "POINT (37.1333300000000008 -8.2333300000000005)"
-        name: Ferreiras
-        population: 5157
-        slug: ferreiras
-      - 
-        districts: []
-        location: "POINT (37.0166699999999977 -7.9333299999999998)"
-        name: Faro
-        population: 41355
-        slug: faro
-      - 
-        districts: []
-        location: "POINT (37.1462900000000005 -8.4850499999999993)"
-        name: Estômbar
-        population: 8590
-        slug: estombar
-      - 
-        districts: []
-        location: "POINT (37.2166700000000006 -7.4333299999999998)"
-        name: "Castro Marim"
-        population: 5089
-        slug: castro-marim
-      - 
-        districts: []
-        location: "POINT (37.1000000000000014 -8.4666700000000006)"
-        name: Carvoeiro
-        population: 2784
-        slug: carvoeiro
-      - 
-        districts: []
-        location: "POINT (37.1333300000000008 -8.1500000000000004)"
-        name: Boliqueime
-        population: 4470
-        slug: boliqueime
-      - 
-        districts: []
-        location: "POINT (37.1000000000000014 -8.3499999999999996)"
-        name: "Armação de Pêra"
-        population: 4030
-        slug: armacao-de-pera
-      - 
-        districts: []
-        location: "POINT (37.1299399999999977 -8.5917399999999997)"
-        name: Alvor
-        population: 5272
-        slug: alvor
-      - 
-        districts: []
-        location: "POINT (37.0833299999999966 -8.0333299999999994)"
-        name: Almancil
-        population: 9898
-        slug: almancil
-      - 
-        districts: []
-        location: "POINT (37.3166700000000020 -8.8000000000000007)"
-        name: Aljezur
-        population: 4122
-        slug: aljezur
-      - 
-        districts: []
-        location: "POINT (37.0881899999999973 -8.2502999999999993)"
-        name: Albufeira
-        population: 15851
-        slug: albufeira
-      - 
-        districts: []
-        location: "POINT (37.0810000000000031 -8.1108300000000000)"
-        name: Vilamoura
-        population: 1900
-        slug: vilamoura
-    code: PT.09
-    name: Faro
-    slug: faro
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.6333300000000008 -16.8999999999999986)"
-        name: Funchal
-        population: 100847
-        slug: funchal
-      - 
-        districts: []
-        location: "POINT (32.7202899999999985 -16.9699300000000015)"
-        name: "Curral das Freiras"
-        population: 1673
-        slug: curral-das-freiras
-      - 
-        districts: []
-        location: "POINT (33.0499999999999972 -16.3333300000000001)"
-        name: "Vila de Porto Santo"
-        population: 4348
-        slug: vila-de-porto-santo
-      - 
-        districts: []
-        location: "POINT (32.7967299999999966 -17.0432300000000012)"
-        name: "São Vicente"
-        population: 6063
-        slug: sao-vicente
-      - 
-        districts: []
-        location: "POINT (32.7999999999999972 -16.8833300000000008)"
-        name: Santana
-        population: 8804
-        slug: santana
-      - 
-        districts: []
-        location: "POINT (32.6833299999999980 -16.8000000000000007)"
-        name: "Santa Cruz"
-        population: 6010
-        slug: santa-cruz
-      - 
-        districts: []
-        location: "POINT (32.6499999999999986 -17.0666699999999985)"
-        name: "Ribeira Brava"
-        population: 5932
-        slug: ribeira-brava
-      - 
-        districts: []
-        location: "POINT (32.8500000000000014 -17.1666699999999999)"
-        name: "Porto Moniz"
-        population: 2762
-        slug: porto-moniz
-      - 
-        districts: []
-        location: "POINT (32.6666700000000034 -17.1000000000000014)"
-        name: "Ponta do Sol"
-        population: 4235
-        slug: ponta-do-sol
-      - 
-        districts: []
-        location: "POINT (32.6666700000000034 -16.8999999999999986)"
-        name: "Nossa Senhora do Monte"
-        population: 7444
-        slug: nossa-senhora-do-monte
-      - 
-        districts: []
-        location: "POINT (32.7000000000000028 -16.7666700000000013)"
-        name: Machico
-        population: 12567
-        slug: machico
-      - 
-        districts: []
-        location: "POINT (32.7745699999999971 -17.2341200000000008)"
-        name: "Fajã da Ovelha"
-        population: 1016
-        slug: faja-da-ovelha
-      - 
-        districts: []
-        location: "POINT (32.7370400000000004 -17.1867400000000004)"
-        name: "Estreito da Calheta"
-        population: 1630
-        slug: estreito-da-calheta
-      - 
-        districts: []
-        location: "POINT (32.6333300000000008 -16.8500000000000014)"
-        name: Caniço
-        population: 11996
-        slug: canico
-      - 
-        districts: []
-        location: "POINT (32.7383400000000009 -16.7383600000000001)"
-        name: Caniçal
-        population: 3893
-        slug: canical
-      - 
-        districts: []
-        location: "POINT (32.6499999999999986 -17.0333299999999994)"
-        name: Campanário
-        population: 3987
-        slug: campanario
-      - 
-        districts: []
-        location: "POINT (32.6333300000000008 -16.9666700000000006)"
-        name: "Câmara de Lobos"
-        population: 32209
-        slug: camara-de-lobos
-      - 
-        districts: []
-        location: "POINT (33.0833299999999966 -16.3333300000000001)"
-        name: Camacha
-        population: 8635
-        slug: camacha
-      - 
-        districts: []
-        location: "POINT (32.6791899999999984 -16.8446199999999990)"
-        name: Camacha
-        population: 7991
-        slug: camacha
-      - 
-        districts: []
-        location: "POINT (32.7166700000000006 -17.1833300000000015)"
-        name: Calheta
-        population: 1618
-        slug: calheta
-      - 
-        districts: []
-        location: "POINT (32.7150200000000027 -17.1497400000000013)"
-        name: "Arco da Calheta"
-        population: 3241
-        slug: arco-da-calheta
-    code: PT.10
-    name: Madeira
-    slug: madeira
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.9166700000000034 -7.4500000000000002)"
-        name: Alcains
-        population: 5030
-        slug: alcains
-      - 
-        districts: []
-        location: "POINT (40.5499999999999972 -7.2333299999999996)"
-        name: Sequeira
-        population: 28502
-        slug: sequeira
-      - 
-        districts: []
-        location: "POINT (40.4166700000000034 -7.7000000000000002)"
-        name: Seia
-        population: 7082
-        slug: seia
-      - 
-        districts: []
-        location: "POINT (40.3999999999999986 -7.5333300000000003)"
-        name: Manteigas
-        population: 3900
-        slug: manteigas
-      - 
-        districts: []
-        location: "POINT (40.5333299999999994 -7.2666700000000004)"
-        name: Guarda
-        population: 0
-        slug: guarda
-      - 
-        districts: []
-        location: "POINT (41.1000000000000014 -7.3166700000000002)"
-        name: Custoias
-        population: 19406
-        slug: custoias
-    code: PT.11
-    name: Guarda
-    slug: guarda
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.8500000000000014 -8.8166700000000002)"
-        name: "Souto da Carpalhosa"
-        population: 4130
-        slug: souto-da-carpalhosa
-      - 
-        districts: []
-        location: "POINT (39.8666699999999992 -8.9333299999999998)"
-        name: "Vieira de Leiria"
-        population: 5807
-        slug: vieira-de-leiria
-      - 
-        districts: []
-        location: "POINT (39.4666700000000006 -8.9833300000000005)"
-        name: Turquel
-        population: 4434
-        slug: turquel
-      - 
-        districts: []
-        location: "POINT (39.6666700000000034 -8.6833299999999998)"
-        name: "Santa Catarina da Serra"
-        population: 4405
-        slug: santa-catarina-da-serra
-      - 
-        districts: []
-        location: "POINT (39.6000000000000014 -8.8166700000000002)"
-        name: "Porto de Mós"
-        population: 6032
-        slug: porto-de-mos
-      - 
-        districts: []
-        location: "POINT (39.9166700000000034 -8.6333300000000008)"
-        name: Pombal
-        population: 17355
-        slug: pombal
-      - 
-        districts: []
-        location: "POINT (39.3558000000000021 -9.3811199999999992)"
-        name: Peniche
-        population: 15662
-        slug: peniche
-      - 
-        districts: []
-        location: "POINT (39.6666700000000034 -9.0000000000000000)"
-        name: Pataias
-        population: 5510
-        slug: pataias
-      - 
-        districts: []
-        location: "POINT (39.3666699999999992 -9.1500000000000004)"
-        name: Óbidos
-        population: 11187
-        slug: obidos
-      - 
-        districts: []
-        location: "POINT (39.6000000000000014 -9.0666700000000002)"
-        name: Nazaré
-        population: 8993
-        slug: nazare
-      - 
-        districts: []
-        location: "POINT (39.8999999999999986 -8.8333300000000001)"
-        name: "Monte Redondo"
-        population: 4463
-        slug: monte-redondo
-      - 
-        districts: []
-        location: "POINT (39.7500000000000000 -8.9333299999999998)"
-        name: "Marinha Grande"
-        population: 28916
-        slug: marinha-grande
-      - 
-        districts: []
-        location: "POINT (39.6833299999999980 -8.8833300000000008)"
-        name: Maceira
-        population: 9831
-        slug: maceira
-      - 
-        districts: []
-        location: "POINT (40.0000000000000000 -8.7333300000000005)"
-        name: Louriçal
-        population: 5085
-        slug: lourical
-      - 
-        districts: []
-        location: "POINT (39.7436199999999999 -8.8070500000000003)"
-        name: Leiria
-        population: 45112
-        slug: leiria
-      - 
-        districts: []
-        location: "POINT (40.0000000000000000 -8.2166700000000006)"
-        name: "Castanheira de Pêra"
-        population: 3331
-        slug: castanheira-de-pera
-      - 
-        districts: []
-        location: "POINT (39.7333300000000023 -8.7166700000000006)"
-        name: Caranguejeira
-        population: 5248
-        slug: caranguejeira
-      - 
-        districts: []
-        location: "POINT (39.3999999999999986 -9.1333300000000008)"
-        name: "Caldas da Rainha"
-        population: 26647
-        slug: caldas-da-rainha
-      - 
-        districts: []
-        location: "POINT (39.2666699999999977 -9.1500000000000004)"
-        name: Bombarral
-        population: 5852
-        slug: bombarral
-      - 
-        districts: []
-        location: "POINT (39.4166700000000034 -8.9833300000000005)"
-        name: Benedita
-        population: 8556
-        slug: benedita
-      - 
-        districts: []
-        location: "POINT (39.6499999999999986 -8.8333300000000001)"
-        name: Batalha
-        population: 7910
-        slug: batalha
-      - 
-        districts: []
-        location: "POINT (39.3333299999999966 -9.3333300000000001)"
-        name: "Atouguia da Baleia"
-        population: 8313
-        slug: atouguia-da-baleia
-      - 
-        districts: []
-        location: "POINT (39.7999999999999972 -8.8666699999999992)"
-        name: Amor
-        population: 4870
-        slug: amor
-      - 
-        districts: []
-        location: "POINT (39.5666700000000020 -8.9333299999999998)"
-        name: Aljubarrota
-        population: 6146
-        slug: aljubarrota
-      - 
-        districts: []
-        location: "POINT (39.5499999999999972 -8.9833300000000005)"
-        name: Alcobaça
-        population: 5051
-        slug: alcobaca
-    code: PT.13
-    name: Leiria
-    slug: leiria
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.7166700000000006 -9.2666699999999995)"
-        name: Quejas
-        population: 8828
-        slug: quejas
-      - 
-        districts: []
-        location: "POINT (39.1333300000000008 -8.9000000000000004)"
-        name: "Aveiras de Cima"
-        population: 4615
-        slug: aveiras-de-cima
-      - 
-        districts: []
-        location: "POINT (38.9500000000000028 -8.9833300000000005)"
-        name: "Vila Franca de Xira"
-        population: 18355
-        slug: vila-franca-de-xira
-      - 
-        districts: []
-        location: "POINT (38.8666699999999992 -9.0833300000000001)"
-        name: Vialonga
-        population: 16088
-        slug: vialonga
-      - 
-        districts: []
-        location: "POINT (39.1333300000000008 -9.0833300000000001)"
-        name: Ventosa
-        population: 5215
-        slug: ventosa
-      - 
-        districts: []
-        location: "POINT (38.9166700000000034 -9.2333300000000005)"
-        name: "Venda do Pinheiro"
-        population: 4950
-        slug: venda-do-pinheiro
-      - 
-        districts: []
-        location: "POINT (38.8166700000000020 -9.1166699999999992)"
-        name: Unhos
-        population: 10712
-        slug: unhos
-      - 
-        districts: []
-        location: "POINT (39.1000000000000014 -9.2666699999999995)"
-        name: "Torres Vedras"
-        population: 24443
-        slug: torres-vedras
-      - 
-        districts: []
-        location: "POINT (38.7000000000000028 -9.2833299999999994)"
-        name: Terrugem
-        population: 4693
-        slug: terrugem
-      - 
-        districts: []
-        location: "POINT (38.9166700000000034 -9.0166699999999995)"
-        name: Sobralinho
-        population: 4453
-        slug: sobralinho
-      - 
-        districts: []
-        location: "POINT (38.7999999999999972 -9.3833300000000008)"
-        name: Sintra
-        population: 26193
-        slug: sintra
-      - 
-        districts: []
-        location: "POINT (39.1166699999999992 -9.3666699999999992)"
-        name: Silveira
-        population: 6942
-        slug: silveira
-      - 
-        districts: []
-        location: "POINT (39.0666700000000020 -9.3666699999999992)"
-        name: "São Pedro da Cadeira"
-        population: 4452
-        slug: sao-pedro-da-cadeira
-      - 
-        districts: []
-        location: "POINT (38.9333299999999980 -9.0166699999999995)"
-        name: "São João dos Montes"
-        population: 4772
-        slug: sao-joao-dos-montes
-      - 
-        districts: []
-        location: "POINT (38.8166700000000020 -9.0833300000000001)"
-        name: "São João da Talha"
-        population: 18925
-        slug: sao-joao-da-talha
-      - 
-        districts: []
-        location: "POINT (38.8737599999999972 -9.3984199999999998)"
-        name: "São João das Lampas"
-        population: 10484
-        slug: sao-joao-das-lampas
-      - 
-        districts: []
-        location: "POINT (38.7000000000000028 -9.3333300000000001)"
-        name: "São Domingos de Rana"
-        population: 46718
-        slug: sao-domingos-de-rana
-      - 
-        districts: []
-        location: "POINT (38.8500000000000014 -9.1333300000000008)"
-        name: "Santo Antão do Tojal"
-        population: 4156
-        slug: santo-antao-do-tojal
-      - 
-        districts: []
-        location: "POINT (38.8500000000000014 -9.0833300000000001)"
-        name: "Santa Iria da Azóia"
-        population: 18573
-        slug: santa-iria-da-azoia
-      - 
-        districts: []
-        location: "POINT (38.7920200000000008 -9.1080100000000002)"
-        name: Sacavém
-        population: 17718
-        slug: sacavem
-      - 
-        districts: []
-        location: "POINT (38.7666699999999977 -9.3333300000000001)"
-        name: "Rio de Mouro"
-        population: 54695
-        slug: rio-de-mouro
-      - 
-        districts: []
-        location: "POINT (38.7999999999999972 -9.1833299999999998)"
-        name: Ramada
-        population: 17535
-        slug: ramada
-      - 
-        districts: []
-        location: "POINT (38.7500000000000000 -9.2500000000000000)"
-        name: Queluz
-        population: 103399
-        slug: queluz
-      - 
-        districts: []
-        location: "POINT (38.7999999999999972 -9.1666699999999999)"
-        name: "Póvoa de Santo Adrião"
-        population: 14897
-        slug: povoa-de-santo-adriao
-      - 
-        districts: []
-        location: "POINT (38.8500000000000014 -9.0666700000000002)"
-        name: "Póvoa de Santa Iria"
-        population: 28901
-        slug: povoa-de-santa-iria
-      - 
-        districts: []
-        location: "POINT (38.7166700000000006 -9.3000000000000007)"
-        name: "Porto Salvo"
-        population: 13867
-        slug: porto-salvo
-      - 
-        districts: []
-        location: "POINT (38.7666699999999977 -9.1999999999999993)"
-        name: Pontinha
-        population: 23249
-        slug: pontinha
-      - 
-        districts: []
-        location: "POINT (38.8500000000000014 -9.3333300000000001)"
-        name: "Pero Pinheiro"
-        population: 4792
-        slug: pero-pinheiro
-      - 
-        districts: []
-        location: "POINT (38.6833299999999980 -9.3499999999999996)"
-        name: Parede
-        population: 17212
-        slug: parede
-      - 
-        districts: []
-        location: "POINT (38.6956899999999990 -9.2914300000000001)"
-        name: "Paço de Arcos"
-        population: 25974
-        slug: paco-de-arcos
-      - 
-        districts: []
-        location: "POINT (38.7833299999999994 -9.1666699999999999)"
-        name: "Olival do Basto"
-        population: 5959
-        slug: olival-do-basto
-      - 
-        districts: []
-        location: "POINT (38.7926900000000003 -9.1837999999999997)"
-        name: Odivelas
-        population: 54624
-        slug: odivelas
-      - 
-        districts: []
-        location: "POINT (38.7666699999999977 -9.0999999999999996)"
-        name: Moscavide
-        population: 11488
-        slug: moscavide
-      - 
-        districts: []
-        location: "POINT (38.7027900000000002 -9.4160599999999999)"
-        name: "Monte Estoril"
-        population: 23375
-        slug: monte-estoril
-      - 
-        districts: []
-        location: "POINT (38.9500000000000028 -9.1999999999999993)"
-        name: Milharado
-        population: 5935
-        slug: milharado
-      - 
-        districts: []
-        location: "POINT (38.9333299999999980 -9.2500000000000000)"
-        name: Malveira
-        population: 4747
-        slug: malveira
-      - 
-        districts: []
-        location: "POINT (38.9333299999999980 -9.3333300000000001)"
-        name: Mafra
-        population: 12259
-        slug: mafra
-      - 
-        districts: []
-        location: "POINT (39.2333300000000023 -9.3166700000000002)"
-        name: Lourinhã
-        population: 9196
-        slug: lourinha
-      - 
-        districts: []
-        location: "POINT (38.8309100000000029 -9.1684500000000000)"
-        name: Loures
-        population: 66231
-        slug: loures
-      - 
-        districts: []
-        location: "POINT (38.7166700000000006 -9.1333300000000008)"
-        name: Lisbon
-        population: 517802
-        slug: lisbon
-      - 
-        districts: []
-        location: "POINT (38.7166700000000006 -9.2500000000000000)"
-        name: Linda-a-Velha
-        population: 20895
-        slug: linda-a-velha
-      - 
-        districts: []
-        location: "POINT (38.7833299999999994 -9.1999999999999993)"
-        name: Famões
-        population: 9435
-        slug: famoes
-      - 
-        districts: []
-        location: "POINT (38.7057100000000034 -9.3977299999999993)"
-        name: Estoril
-        population: 23700
-        slug: estoril
-      - 
-        districts: []
-        location: "POINT (38.9627499999999998 -9.4156300000000002)"
-        name: Ericeira
-        population: 7538
-        slug: ericeira
-      - 
-        districts: []
-        location: "POINT (38.7999999999999972 -9.4499999999999993)"
-        name: Colares
-        population: 7905
-        slug: colares
-      - 
-        districts: []
-        location: "POINT (38.9833300000000023 -8.9666700000000006)"
-        name: "Castanheira do Ribatejo"
-        population: 7651
-        slug: castanheira-do-ribatejo
-      - 
-        districts: []
-        location: "POINT (38.6978999999999971 -9.4214599999999997)"
-        name: Cascais
-        population: 36436
-        slug: cascais
-      - 
-        districts: []
-        location: "POINT (39.0166699999999977 -8.9833300000000005)"
-        name: Carregado
-        population: 10474
-        slug: carregado
-      - 
-        districts: []
-        location: "POINT (38.7166700000000006 -9.2500000000000000)"
-        name: Carnaxide
-        population: 23698
-        slug: carnaxide
-      - 
-        districts: []
-        location: "POINT (38.6833299999999980 -9.3333300000000001)"
-        name: Carcavelos
-        population: 20366
-        slug: carcavelos
-      - 
-        districts: []
-        location: "POINT (38.7999999999999972 -9.2333300000000005)"
-        name: Caneças
-        population: 10978
-        slug: canecas
-      - 
-        districts: []
-        location: "POINT (38.7999999999999972 -9.1333300000000008)"
-        name: Camarate
-        population: 20177
-        slug: camarate
-      - 
-        districts: []
-        location: "POINT (38.7666699999999977 -9.3000000000000007)"
-        name: Cacém
-        population: 93982
-        slug: cacem
-      - 
-        districts: []
-        location: "POINT (38.8999999999999986 -9.1166699999999992)"
-        name: Bucelas
-        population: 4614
-        slug: bucelas
-      - 
-        districts: []
-        location: "POINT (38.8077400000000026 -9.0992499999999996)"
-        name: Bobadela
-        population: 8399
-        slug: bobadela
-      - 
-        districts: []
-        location: "POINT (38.7666699999999977 -9.2666699999999995)"
-        name: Belas
-        population: 21019
-        slug: belas
-      - 
-        districts: []
-        location: "POINT (38.7333300000000023 -9.2833299999999994)"
-        name: Barcarena
-        population: 11968
-        slug: barcarena
-      - 
-        districts: []
-        location: "POINT (39.0666700000000020 -8.8666699999999992)"
-        name: Azambuja
-        population: 7179
-        slug: azambuja
-      - 
-        districts: []
-        location: "POINT (38.9833300000000023 -9.0833300000000001)"
-        name: "Arruda dos Vinhos"
-        population: 6170
-        slug: arruda-dos-vinhos
-      - 
-        districts: []
-        location: "POINT (38.8166700000000020 -9.1333300000000008)"
-        name: Apelação
-        population: 7182
-        slug: apelacao
-      - 
-        districts: []
-        location: "POINT (38.7538199999999975 -9.2308299999999992)"
-        name: Amadora
-        population: 178858
-        slug: amadora
-      - 
-        districts: []
-        location: "POINT (38.8333299999999966 -9.2666699999999995)"
-        name: Almargem
-        population: 8271
-        slug: almargem
-      - 
-        districts: []
-        location: "POINT (38.9166700000000034 -9.0000000000000000)"
-        name: Alhandra
-        population: 7226
-        slug: alhandra
-      - 
-        districts: []
-        location: "POINT (38.7000000000000028 -9.2333300000000005)"
-        name: Algés
-        population: 19327
-        slug: alges
-      - 
-        districts: []
-        location: "POINT (39.0499999999999972 -9.0000000000000000)"
-        name: Alenquer
-        population: 9626
-        slug: alenquer
-      - 
-        districts: []
-        location: "POINT (39.2000000000000028 -8.9499999999999993)"
-        name: Alcoentre
-        population: 3923
-        slug: alcoentre
-      - 
-        districts: []
-        location: "POINT (38.7333300000000023 -9.4166699999999999)"
-        name: Alcabideche
-        population: 33315
-        slug: alcabideche
-      - 
-        districts: []
-        location: "POINT (39.1499999999999986 -9.3000000000000007)"
-        name: "A dos Cunhados"
-        population: 6594
-        slug: a-dos-cunhados
-    code: PT.14
-    name: Lisbon
-    slug: lisbon
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.4162400000000019 -7.4568000000000003)"
-        name: "Castelo de Vide"
-        population: 3780
-        slug: castelo-de-vide
-      - 
-        districts: []
-        location: "POINT (39.0166699999999977 -7.0666700000000002)"
-        name: "Campo Maior"
-        population: 8235
-        slug: campo-maior
-      - 
-        districts: []
-        location: "POINT (39.0666700000000020 -7.7000000000000002)"
-        name: "Vale da Amoreira"
-        population: 10828
-        slug: vale-da-amoreira
-      - 
-        districts: []
-        location: "POINT (39.0499999999999972 -8.2500000000000000)"
-        name: "Santo André"
-        population: 11213
-        slug: santo-andre
-      - 
-        districts: []
-        location: "POINT (39.2937900000000013 -7.4312199999999997)"
-        name: Portalegre
-        population: 15581
-        slug: portalegre
-      - 
-        districts: []
-        location: "POINT (39.2500000000000000 -8.0166699999999995)"
-        name: "Ponte de Sor"
-        population: 11062
-        slug: ponte-de-sor
-      - 
-        districts: []
-        location: "POINT (39.3937700000000035 -7.3766299999999996)"
-        name: Marvão
-        population: 3739
-        slug: marvao
-      - 
-        districts: []
-        location: "POINT (38.8833300000000008 -7.1666699999999999)"
-        name: Elvas
-        population: 9904
-        slug: elvas
-      - 
-        districts: []
-        location: "POINT (39.1974099999999979 -7.6589299999999998)"
-        name: "Alter do Chão"
-        population: 2600
-        slug: alter-do-chao
-    code: PT.16
-    name: Portalegre
-    slug: portalegre
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.2833299999999994 -8.5666700000000002)"
-        name: "São Romão do Coronado"
-        population: 8697
-        slug: sao-romao-do-coronado
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.5833300000000001)"
-        name: Pedrouços
-        population: 12553
-        slug: pedroucos
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.6166699999999992)"
-        name: "Leça do Bailio"
-        population: 16103
-        slug: leca-do-bailio
-      - 
-        districts: []
-        location: "POINT (41.3833300000000008 -8.2500000000000000)"
-        name: Vizela
-        population: 4066
-        slug: vizela
-      - 
-        districts: []
-        location: "POINT (41.3500000000000014 -8.3333300000000001)"
-        name: Vilarinho
-        population: 4177
-        slug: vilarinho
-      - 
-        districts: []
-        location: "POINT (41.0833299999999966 -8.6166699999999992)"
-        name: "Vilar do Paraíso"
-        population: 14727
-        slug: vilar-do-paraiso
-      - 
-        districts: []
-        location: "POINT (41.1000000000000014 -8.5666700000000002)"
-        name: "Vilar de Andorinho"
-        population: 18944
-        slug: vilar-de-andorinho
-      - 
-        districts: []
-        location: "POINT (41.1333300000000008 -8.6166699999999992)"
-        name: "Vila Nova de Gaia"
-        population: 70811
-        slug: vila-nova-de-gaia
-      - 
-        districts: []
-        location: "POINT (41.0666700000000020 -8.6333300000000008)"
-        name: "Vila Nova da Telha"
-        population: 5848
-        slug: vila-nova-da-telha
-      - 
-        districts: []
-        location: "POINT (41.3500000000000014 -8.7500000000000000)"
-        name: "Vila do Conde"
-        population: 27642
-        slug: vila-do-conde
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.5000000000000000)"
-        name: Valongo
-        population: 21328
-        slug: valongo
-      - 
-        districts: []
-        location: "POINT (41.1333300000000008 -8.5666700000000002)"
-        name: Valbom
-        population: 14443
-        slug: valbom
-      - 
-        districts: []
-        location: "POINT (41.1499999999999986 -7.9833299999999996)"
-        name: Valadares
-        population: 9255
-        slug: valadares
-      - 
-        districts: []
-        location: "POINT (41.3166700000000020 -8.0999999999999996)"
-        name: Telões
-        population: 4675
-        slug: teloes
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.4666700000000006)"
-        name: Sobrado
-        population: 6703
-        slug: sobrado
-      - 
-        districts: []
-        location: "POINT (41.2666699999999977 -8.4333299999999998)"
-        name: Seroa
-        population: 4040
-        slug: seroa
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.6500000000000004)"
-        name: "Senhora da Hora"
-        population: 28930
-        slug: senhora-da-hora
-      - 
-        districts: []
-        location: "POINT (41.1499999999999986 -8.5166699999999995)"
-        name: "São Pedro da Cova"
-        population: 17011
-        slug: sao-pedro-da-cova
-      - 
-        districts: []
-        location: "POINT (41.3333299999999966 -8.4666700000000006)"
-        name: "São Miguel do Couto"
-        population: 5416
-        slug: sao-miguel-do-couto
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.5999999999999996)"
-        name: "São Mamede de Infesta"
-        population: 25940
-        slug: sao-mamede-de-infesta
-      - 
-        districts: []
-        location: "POINT (41.0333299999999994 -8.6166699999999992)"
-        name: "São Félix da Marinha"
-        population: 11685
-        slug: sao-felix-da-marinha
-      - 
-        districts: []
-        location: "POINT (41.3500000000000014 -8.4666700000000006)"
-        name: "Santo Tirso"
-        population: 14021
-        slug: santo-tirso
-      - 
-        districts: []
-        location: "POINT (41.2166700000000006 -8.6666699999999999)"
-        name: "Santa Cruz do Bispo"
-        population: 6230
-        slug: santa-cruz-do-bispo
-      - 
-        districts: []
-        location: "POINT (41.0333299999999994 -8.5166699999999995)"
-        name: Sandim
-        population: 6449
-        slug: sandim
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.5666700000000002)"
-        name: "Rio Tinto"
-        population: 49966
-        slug: rio-tinto
-      - 
-        districts: []
-        location: "POINT (41.1499999999999986 -8.4166699999999999)"
-        name: Recarei
-        population: 4856
-        slug: recarei
-      - 
-        districts: []
-        location: "POINT (41.2166700000000006 -8.4000000000000004)"
-        name: Rebordosa
-        population: 11491
-        slug: rebordosa
-      - 
-        districts: []
-        location: "POINT (41.3833300000000008 -8.7666699999999995)"
-        name: "Póvoa de Varzim"
-        population: 29044
-        slug: povoa-de-varzim
-      - 
-        districts: []
-        location: "POINT (41.1499999999999986 -8.6166699999999992)"
-        name: Porto
-        population: 249633
-        slug: porto
-      - 
-        districts: []
-        location: "POINT (41.0666700000000020 -8.5833300000000001)"
-        name: Perozinho
-        population: 6259
-        slug: perozinho
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.2500000000000000)"
-        name: Perafita
-        population: 12538
-        slug: perafita
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.2833299999999994)"
-        name: Penafiel
-        population: 8065
-        slug: penafiel
-      - 
-        districts: []
-        location: "POINT (41.4166700000000034 -8.7500000000000000)"
-        name: Pedroso
-        population: 18963
-        slug: pedroso
-      - 
-        districts: []
-        location: "POINT (41.2666699999999977 -8.4000000000000004)"
-        name: "Paços de Ferreira"
-        population: 6782
-        slug: pacos-de-ferreira
-      - 
-        districts: []
-        location: "POINT (41.1166699999999992 -8.5833300000000001)"
-        name: "Oliveira do Douro"
-        population: 24407
-        slug: oliveira-do-douro
-      - 
-        districts: []
-        location: "POINT (41.0499999999999972 -8.5500000000000007)"
-        name: Olival
-        population: 5715
-        slug: olival
-      - 
-        districts: []
-        location: "POINT (41.2333300000000023 -8.5833300000000001)"
-        name: Nogueira
-        population: 4855
-        slug: nogueira
-      - 
-        districts: []
-        location: "POINT (41.3500000000000014 -8.4000000000000004)"
-        name: Negrelos
-        population: 6664
-        slug: negrelos
-      - 
-        districts: []
-        location: "POINT (41.0499999999999972 -8.3833300000000008)"
-        name: Moreira
-        population: 11336
-        slug: moreira
-      - 
-        districts: []
-        location: "POINT (41.2166700000000006 -8.5833300000000001)"
-        name: Milheirós
-        population: 4342
-        slug: milheiros
-      - 
-        districts: []
-        location: "POINT (41.2500000000000000 -8.2500000000000000)"
-        name: Meinedo
-        population: 4416
-        slug: meinedo
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.6999999999999993)"
-        name: Matosinhos
-        population: 28070
-        slug: matosinhos
-      - 
-        districts: []
-        location: "POINT (41.3666699999999992 -8.1999999999999993)"
-        name: Margaride
-        population: 10652
-        slug: margaride
-      - 
-        districts: []
-        location: "POINT (41.2333300000000023 -8.6166699999999992)"
-        name: Maia
-        population: 36426
-        slug: maia
-      - 
-        districts: []
-        location: "POINT (41.2166700000000006 -8.3333300000000001)"
-        name: Madalena
-        population: 9618
-        slug: madalena
-      - 
-        districts: []
-        location: "POINT (41.3333299999999966 -8.3166700000000002)"
-        name: Lustosa
-        population: 4686
-        slug: lustosa
-      - 
-        districts: []
-        location: "POINT (41.2333300000000023 -8.4166699999999999)"
-        name: Lordelo
-        population: 10035
-        slug: lordelo
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.6999999999999993)"
-        name: "Leça da Palmeira"
-        population: 17996
-        slug: leca-da-palmeira
-      - 
-        districts: []
-        location: "POINT (41.2500000000000000 -8.7166700000000006)"
-        name: Lavra
-        population: 9633
-        slug: lavra
-      - 
-        districts: []
-        location: "POINT (41.1000000000000014 -8.5166699999999995)"
-        name: Jovim
-        population: 7067
-        slug: jovim
-      - 
-        districts: []
-        location: "POINT (41.0833299999999966 -8.6500000000000004)"
-        name: Gulpilhares
-        population: 10660
-        slug: gulpilhares
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.6666699999999999)"
-        name: Guifões
-        population: 9231
-        slug: guifoes
-      - 
-        districts: []
-        location: "POINT (41.0333299999999994 -8.5833300000000001)"
-        name: Grijó
-        population: 10907
-        slug: grijo
-      - 
-        districts: []
-        location: "POINT (41.1499999999999986 -8.5333299999999994)"
-        name: Gondomar
-        population: 27691
-        slug: gondomar
-      - 
-        districts: []
-        location: "POINT (41.2666699999999977 -8.6500000000000004)"
-        name: Gemunde
-        population: 5284
-        slug: gemunde
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.4333299999999998)"
-        name: Gandra
-        population: 6034
-        slug: gandra
-      - 
-        districts: []
-        location: "POINT (41.2833299999999994 -8.3499999999999996)"
-        name: Freamunde
-        population: 7983
-        slug: freamunde
-      - 
-        districts: []
-        location: "POINT (41.2666699999999977 -8.4000000000000004)"
-        name: Frazão
-        population: 4314
-        slug: frazao
-      - 
-        districts: []
-        location: "POINT (41.1000000000000014 -8.5000000000000000)"
-        name: "Foz do Sousa"
-        population: 6315
-        slug: foz-do-sousa
-      - 
-        districts: []
-        location: "POINT (41.2999999999999972 -8.1666699999999999)"
-        name: Figueiró
-        population: 4579
-        slug: figueiro
-      - 
-        districts: []
-        location: "POINT (41.2666699999999977 -8.3499999999999996)"
-        name: Ferreira
-        population: 4205
-        slug: ferreira
-      - 
-        districts: []
-        location: "POINT (41.1666700000000034 -8.5333299999999994)"
-        name: Fânzeres
-        population: 23916
-        slug: fanzeres
-      - 
-        districts: []
-        location: "POINT (41.2166700000000006 -8.5500000000000007)"
-        name: Ermezinde
-        population: 39420
-        slug: ermezinde
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.3333300000000001)"
-        name: "Castelões de Cepeda"
-        population: 8322
-        slug: casteloes-de-cepeda
-      - 
-        districts: []
-        location: "POINT (41.2999999999999972 -8.3666699999999992)"
-        name: Carvalhosa
-        population: 4502
-        slug: carvalhosa
-      - 
-        districts: []
-        location: "POINT (41.1166699999999992 -8.6500000000000004)"
-        name: Canidelo
-        population: 26431
-        slug: canidelo
-      - 
-        districts: []
-        location: "POINT (41.0833299999999966 -8.5999999999999996)"
-        name: Canelas
-        population: 14247
-        slug: canelas
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.4666700000000006)"
-        name: Campo
-        population: 8916
-        slug: campo
-      - 
-        districts: []
-        location: "POINT (41.3333299999999966 -8.5500000000000007)"
-        name: Bougado
-        population: 21680
-        slug: bougado
-      - 
-        districts: []
-        location: "POINT (41.3500000000000014 -8.3000000000000007)"
-        name: Barrosas
-        population: 5573
-        slug: barrosas
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.3833300000000008)"
-        name: Baltar
-        population: 4929
-        slug: baltar
-      - 
-        districts: []
-        location: "POINT (41.1833299999999980 -8.5333299999999994)"
-        name: "Baguim do Monte"
-        population: 15850
-        slug: baguim-do-monte
-      - 
-        districts: []
-        location: "POINT (41.0666700000000020 -8.6166699999999992)"
-        name: Azenha
-        population: 12260
-        slug: azenha
-      - 
-        districts: []
-        location: "POINT (41.1166699999999992 -8.5500000000000007)"
-        name: Avintes
-        population: 11577
-        slug: avintes
-      - 
-        districts: []
-        location: "POINT (41.3666699999999992 -8.4000000000000004)"
-        name: Aves
-        population: 8507
-        slug: aves
-      - 
-        districts: []
-        location: "POINT (41.3999999999999986 -8.7666699999999995)"
-        name: Aver-o-Mar
-        population: 10501
-        slug: aver-o-mar
-      - 
-        districts: []
-        location: "POINT (41.3333299999999966 -8.7166700000000006)"
-        name: Árvore
-        population: 4553
-        slug: arvore
-      - 
-        districts: []
-        location: "POINT (41.0499999999999972 -8.6500000000000004)"
-        name: Arcozelo
-        population: 13495
-        slug: arcozelo
-      - 
-        districts: []
-        location: "POINT (41.2666699999999977 -8.6333300000000008)"
-        name: Anta
-        population: 10951
-        slug: anta
-      - 
-        districts: []
-        location: "POINT (41.2666699999999977 -8.0833300000000001)"
-        name: Amarante
-        population: 6782
-        slug: amarante
-      - 
-        districts: []
-        location: "POINT (41.2333300000000023 -8.5333299999999994)"
-        name: Alfena
-        population: 14455
-        slug: alfena
-      - 
-        districts: []
-        location: "POINT (41.4333299999999980 -8.7833299999999994)"
-        name: Aguçadoura
-        population: 4521
-        slug: agucadoura
-      - 
-        districts: []
-        location: "POINT (41.2000000000000028 -8.5833300000000001)"
-        name: "Águas Santas"
-        population: 27686
-        slug: aguas-santas
-    code: PT.17
-    name: Porto
-    slug: porto
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.4500000000000028 -8.2500000000000000)"
-        name: Tramagal
-        population: 3821
-        slug: tramagal
-      - 
-        districts: []
-        location: "POINT (39.4833300000000023 -8.5333299999999994)"
-        name: "Torres Novas"
-        population: 14526
-        slug: torres-novas
-      - 
-        districts: []
-        location: "POINT (39.6000000000000014 -8.4166699999999999)"
-        name: Tomar
-        population: 19168
-        slug: tomar
-      - 
-        districts: []
-        location: "POINT (39.2333300000000023 -8.6833299999999998)"
-        name: Santarém
-        population: 29385
-        slug: santarem
-      - 
-        districts: []
-        location: "POINT (38.9333299999999980 -8.8666699999999992)"
-        name: "Samora Correia"
-        population: 14154
-        slug: samora-correia
-      - 
-        districts: []
-        location: "POINT (39.0166699999999977 -8.8000000000000007)"
-        name: "Salvaterra de Magos"
-        population: 5165
-        slug: salvaterra-de-magos
-      - 
-        districts: []
-        location: "POINT (39.3333299999999966 -8.9333299999999998)"
-        name: "Rio Maior"
-        population: 12064
-        slug: rio-maior
-      - 
-        districts: []
-        location: "POINT (39.4333299999999980 -8.5166699999999995)"
-        name: Riachos
-        population: 5463
-        slug: riachos
-      - 
-        districts: []
-        location: "POINT (39.1499999999999986 -8.8333300000000001)"
-        name: Pontével
-        population: 4435
-        slug: pontevel
-      - 
-        districts: []
-        location: "POINT (38.8333299999999966 -8.7833299999999994)"
-        name: Poceirão
-        population: 4225
-        slug: poceirao
-      - 
-        districts: []
-        location: "POINT (39.6333300000000008 -8.5833300000000001)"
-        name: Ourém
-        population: 12729
-        slug: ourem
-      - 
-        districts: []
-        location: "POINT (39.4666700000000006 -8.7166700000000006)"
-        name: Monsanto
-        population: 50000
-        slug: monsanto
-      - 
-        districts: []
-        location: "POINT (39.0499999999999972 -8.6999999999999993)"
-        name: Marinhais
-        population: 5788
-        slug: marinhais
-      - 
-        districts: []
-        location: "POINT (39.3999999999999986 -8.4833300000000005)"
-        name: Golegã
-        population: 3830
-        slug: golega
-      - 
-        districts: []
-        location: "POINT (39.1833299999999980 -8.5833300000000001)"
-        name: "Fazendas de Almeirim"
-        population: 6635
-        slug: fazendas-de-almeirim
-      - 
-        districts: []
-        location: "POINT (39.6166699999999992 -8.6500000000000004)"
-        name: Fátima
-        population: 11798
-        slug: fatima
-      - 
-        districts: []
-        location: "POINT (39.4666700000000006 -8.4666700000000006)"
-        name: Entroncamento
-        population: 19887
-        slug: entroncamento
-      - 
-        districts: []
-        location: "POINT (38.9500000000000028 -8.5166699999999995)"
-        name: Coruche
-        population: 8776
-        slug: coruche
-      - 
-        districts: []
-        location: "POINT (39.1499999999999986 -8.7833299999999994)"
-        name: Cartaxo
-        population: 10502
-        slug: cartaxo
-      - 
-        districts: []
-        location: "POINT (38.9833300000000023 -8.8000000000000007)"
-        name: Benavente
-        population: 8932
-        slug: benavente
-      - 
-        districts: []
-        location: "POINT (39.2500000000000000 -8.5833300000000001)"
-        name: Alpiarça
-        population: 7946
-        slug: alpiarca
-      - 
-        districts: []
-        location: "POINT (39.2000000000000028 -8.6333300000000008)"
-        name: Almeirim
-        population: 11557
-        slug: almeirim
-      - 
-        districts: []
-        location: "POINT (39.4833300000000023 -8.1666699999999999)"
-        name: Alferrarede
-        population: 3654
-        slug: alferrarede
-      - 
-        districts: []
-        location: "POINT (39.4500000000000028 -8.6666699999999999)"
-        name: Alcanena
-        population: 4408
-        slug: alcanena
-      - 
-        districts: []
-        location: "POINT (39.4166700000000034 -8.8166700000000002)"
-        name: Alcanede
-        population: 5020
-        slug: alcanede
-      - 
-        districts: []
-        location: "POINT (39.4666700000000006 -8.1999999999999993)"
-        name: Abrantes
-        population: 13646
-        slug: abrantes
-    code: PT.18
-    name: Santarém
-    slug: santarem
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.6333300000000008 -8.9166699999999999)"
-        name: "Pinhal Novo"
-        population: 23510
-        slug: pinhal-novo
-      - 
-        districts: []
-        location: "POINT (38.6166699999999992 -9.0833300000000001)"
-        name: "Aldeia de Paio Pires"
-        population: 12179
-        slug: aldeia-de-paio-pires
-      - 
-        districts: []
-        location: "POINT (38.6666700000000034 -9.2333300000000005)"
+        alternate_names: ~
+        ascii_name: Trafaria
         name: Trafaria
+        names_en: ~
+        names_es: ~
         population: 5603
-        slug: trafaria
       - 
-        districts: []
-        location: "POINT (38.6499999999999986 -9.1833299999999998)"
+        alternate_names: ~
+        ascii_name: Sobreda
         name: Sobreda
+        names_en: ~
+        names_es: ~
         population: 11146
-        slug: sobreda
       - 
-        districts: []
-        location: "POINT (37.9500000000000028 -8.8666699999999992)"
+        alternate_names: 
+          - Sines
+        ascii_name: Sines
         name: Sines
+        names_en: ~
+        names_es: ~
         population: 12791
-        slug: sines
       - 
-        districts: []
-        location: "POINT (38.4445100000000011 -9.1014900000000001)"
+        alternate_names: 
+          - Sesimbra
+          - Sezimbra
+          - Sisimbra
+        ascii_name: Sesimbra
         name: Sesimbra
+        names_en: ~
+        names_es: ~
         population: 41134
-        slug: sesimbra
       - 
-        districts: []
-        location: "POINT (38.5244000000000000 -8.8881999999999994)"
+        alternate_names: 
+          - Setoumpal
+          - Setubal
+          - Setúbal
+        ascii_name: Setubal
         name: Setúbal
+        names_en: 
+          - Setúbal
+        names_es: 
+          - Setúbal
         population: 117110
-        slug: setubal
       - 
-        districts: []
-        location: "POINT (38.6166699999999992 -9.0333299999999994)"
+        alternate_names: ~
+        ascii_name: "Santo Antonio da Charneca"
         name: "Santo António da Charneca"
+        names_en: ~
+        names_es: ~
         population: 11143
-        slug: santo-antonio-da-charneca
       - 
-        districts: []
-        location: "POINT (38.0499999999999972 -8.7500000000000000)"
+        alternate_names: ~
+        ascii_name: "Santo Andre"
         name: "Santo André"
+        names_en: ~
+        names_es: ~
         population: 10601
-        slug: santo-andre
       - 
-        districts: []
-        location: "POINT (38.0166699999999977 -8.6999999999999993)"
+        alternate_names: 
+          - "Santiago do Cacem"
+          - "Santiago do Cacém"
+          - "Sao Tiago de Cacem"
+        ascii_name: "Santiago do Cacem"
         name: "Santiago do Cacém"
+        names_en: ~
+        names_es: ~
         population: 7797
-        slug: santiago-do-cacem
       - 
-        districts: []
-        location: "POINT (38.5666700000000020 -8.9333299999999998)"
+        alternate_names: 
+          - "Quinta da Anjo"
+          - "Quinta do Anjo"
+        ascii_name: "Quinta do Anjo"
         name: "Quinta do Anjo"
+        names_en: ~
+        names_es: ~
         population: 9124
-        slug: quinta-do-anjo
       - 
-        districts: []
-        location: "POINT (38.6666700000000034 -9.1666699999999999)"
+        alternate_names: ~
+        ascii_name: Pragal
         name: Pragal
+        names_en: ~
+        names_es: ~
         population: 7701
-        slug: pragal
       - 
-        districts: []
-        location: "POINT (37.8525599999999969 -8.7901799999999994)"
+        alternate_names: 
+          - Portu-Kovu
+          - Порту-Кову
+        ascii_name: "Porto Covo"
         name: "Porto Covo"
+        names_en: ~
+        names_es: ~
         population: 1400
-        slug: porto-covo
       - 
-        districts: []
-        location: "POINT (38.6666700000000034 -9.1500000000000004)"
+        alternate_names: 
+          - "Pinhal Novo"
+        ascii_name: "Pinhal Novo"
+        name: "Pinhal Novo"
+        names_en: ~
+        names_es: ~
+        population: 23510
+      - 
+        alternate_names: 
+          - "Cova da Piedade"
+          - Piedade
+        ascii_name: Piedade
         name: Piedade
+        names_en: ~
+        names_es: ~
         population: 19472
-        slug: piedade
       - 
-        districts: []
-        location: "POINT (38.5666700000000020 -8.9000000000000004)"
+        alternate_names: 
+          - Palmela
+        ascii_name: Palmela
         name: Palmela
+        names_en: 
+          - Palmela
+        names_es: 
+          - Palmela
         population: 16934
-        slug: palmela
       - 
-        districts: []
-        location: "POINT (38.7000000000000028 -8.9666700000000006)"
+        alternate_names: 
+          - Montijo
+          - Montikho
+          - Монтихо
+        ascii_name: Montijo
         name: Montijo
+        names_en: ~
+        names_es: ~
         population: 30011
-        slug: montijo
       - 
-        districts: []
-        location: "POINT (38.6499999999999986 -8.9833300000000005)"
+        alternate_names: ~
+        ascii_name: Moita
         name: Moita
+        names_en: ~
+        names_es: ~
         population: 17795
-        slug: moita
       - 
-        districts: []
-        location: "POINT (38.1666700000000034 -8.5666700000000002)"
+        alternate_names: 
+          - Grandola
+          - Grândola
+        ascii_name: Grandola
         name: Grândola
+        names_en: ~
+        names_es: ~
         population: 10737
-        slug: grandola
       - 
-        districts: []
-        location: "POINT (38.6333300000000008 -9.2333300000000005)"
+        alternate_names: ~
+        ascii_name: "Costa de Caparica"
         name: "Costa de Caparica"
+        names_en: ~
+        names_es: ~
         population: 14231
-        slug: costa-de-caparica
       - 
-        districts: []
-        location: "POINT (38.6333300000000008 -9.1500000000000004)"
+        alternate_names: ~
+        ascii_name: Corroios
         name: Corroios
+        names_en: ~
+        names_es: ~
         population: 52520
-        slug: corroios
       - 
-        districts: []
-        location: "POINT (38.6166699999999992 -9.1833299999999998)"
+        alternate_names: 
+          - Charneca
+          - "Charneca de Caparica"
+          - Sharneka
+        ascii_name: Charneca
         name: Charneca
+        names_en: ~
+        names_es: ~
         population: 23714
-        slug: charneca
       - 
-        districts: []
-        location: "POINT (37.7999999999999972 -8.6666699999999999)"
+        alternate_names: 
+          - Cercal
+          - "Cercal do Alentejo"
+        ascii_name: Cercal
         name: Cercal
+        names_en: ~
+        names_es: ~
         population: 3772
-        slug: cercal
       - 
-        districts: []
-        location: "POINT (38.6666700000000034 -9.1999999999999993)"
+        alternate_names: ~
+        ascii_name: Caparica
         name: Caparica
+        names_en: ~
+        names_es: ~
         population: 21167
-        slug: caparica
       - 
-        districts: []
-        location: "POINT (38.6833299999999980 -9.1500000000000004)"
+        alternate_names: ~
+        ascii_name: Cacilhas
         name: Cacilhas
+        names_en: ~
+        names_es: ~
         population: 6494
-        slug: cacilhas
       - 
-        districts: []
-        location: "POINT (38.6666700000000034 -9.0666700000000002)"
+        alternate_names: 
+          - Barreiro
+          - Barrejru
+          - "ba lei lu"
+        ascii_name: Barreiro
         name: Barreiro
+        names_en: 
+          - Barreiro
+        names_es: 
+          - Barreiro
         population: 51280
-        slug: barreiro
       - 
-        districts: []
-        location: "POINT (38.6166699999999992 -9.0999999999999996)"
+        alternate_names: 
+          - Arrentela
+          - Arrentella
+          - Аррентела
+        ascii_name: Arrentela
         name: Arrentela
+        names_en: ~
+        names_es: ~
         population: 30156
-        slug: arrentela
       - 
-        districts: []
-        location: "POINT (38.6166699999999992 -9.1166699999999992)"
+        alternate_names: ~
+        ascii_name: Amora
         name: Amora
+        names_en: ~
+        names_es: ~
         population: 52577
-        slug: amora
       - 
-        districts: []
-        location: "POINT (38.6833299999999980 -9.1500000000000004)"
+        alternate_names: 
+          - Almada
+          - Almanta
+          - Αλμάντα
+        ascii_name: Almada
         name: Almada
+        names_en: 
+          - Almada
+        names_es: 
+          - Almada
         population: 34008
-        slug: almada
       - 
-        districts: []
-        location: "POINT (38.6499999999999986 -9.0333299999999994)"
+        alternate_names: ~
+        ascii_name: "Alhos Vedros"
         name: "Alhos Vedros"
+        names_en: ~
+        names_es: ~
         population: 13384
-        slug: alhos-vedros
       - 
-        districts: []
-        location: "POINT (38.7500000000000000 -8.9666700000000006)"
+        alternate_names: 
+          - "Aldea de Paio Pires"
+          - "Aldeia de Paio Pires"
+          - "Paio Pires"
+        ascii_name: "Aldeia de Paio Pires"
+        name: "Aldeia de Paio Pires"
+        names_en: ~
+        names_es: ~
+        population: 12179
+      - 
+        alternate_names: 
+          - Alcochete
+        ascii_name: Alcochete
         name: Alcochete
+        names_en: ~
+        names_es: ~
         population: 9705
-        slug: alcochete
       - 
-        districts: []
-        location: "POINT (38.3666699999999992 -8.5000000000000000)"
+        alternate_names: 
+          - "Alcacer da Sal"
+          - "Alcacer do Sal"
+          - "Alcácer da Sal"
+        ascii_name: "Alcacer do Sal"
         name: "Alcácer do Sal"
+        names_en: ~
+        names_es: ~
         population: 9198
-        slug: alcacer-do-sal
-    code: PT.19
     name: Setúbal
-    slug: setubal
+    names_en: ~
+    names_es: 
+      - Setúbal
   - 
+    ascii_name: "Distrito de Santarem"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.8166700000000020 -8.8499999999999996)"
-        name: "Vila Praia de Âncora"
-        population: 4987
-        slug: vila-praia-de-ancora
+        alternate_names: 
+          - Tramagal
+        ascii_name: Tramagal
+        name: Tramagal
+        names_en: ~
+        names_es: ~
+        population: 3821
       - 
-        districts: []
-        location: "POINT (41.7000000000000028 -8.8333300000000001)"
-        name: "Viana do Castelo"
-        population: 15555
-        slug: viana-do-castelo
+        alternate_names: 
+          - "Torres Novas"
+        ascii_name: "Torres Novas"
+        name: "Torres Novas"
+        names_en: ~
+        names_es: ~
+        population: 14526
       - 
-        districts: []
-        location: "POINT (41.7666699999999977 -8.5833300000000001)"
-        name: "Ponte do Lima"
-        population: 44667
-        slug: ponte-do-lima
+        alternate_names: 
+          - Tomar
+          - Томар
+        ascii_name: Tomar
+        name: Tomar
+        names_en: ~
+        names_es: ~
+        population: 19168
       - 
-        districts: []
-        location: "POINT (41.8677399999999977 -8.3977599999999999)"
-        name: Mozelos
-        population: 7230
-        slug: mozelos
+        alternate_names: 
+          - Santarem
+          - Santaren
+          - Santarém
+        ascii_name: Santarem
+        name: Santarém
+        names_en: 
+          - Santarém
+        names_es: 
+          - Santarém
+        population: 29385
       - 
-        districts: []
-        location: "POINT (42.0789199999999965 -8.4807600000000001)"
-        name: Monção
-        population: 19738
-        slug: moncao
+        alternate_names: ~
+        ascii_name: "Samora Correia"
+        name: "Samora Correia"
+        names_en: ~
+        names_es: ~
+        population: 14154
       - 
-        districts: []
-        location: "POINT (41.7000000000000028 -8.8000000000000007)"
-        name: Meadela
-        population: 9981
-        slug: meadela
+        alternate_names: ~
+        ascii_name: "Salvaterra de Magos"
+        name: "Salvaterra de Magos"
+        names_en: ~
+        names_es: ~
+        population: 5165
       - 
-        districts: []
-        location: "POINT (41.6833299999999980 -8.7666699999999995)"
-        name: Darque
-        population: 8092
-        slug: darque
+        alternate_names: 
+          - "Rio Maior"
+        ascii_name: "Rio Maior"
+        name: "Rio Maior"
+        names_en: ~
+        names_es: ~
+        population: 12064
       - 
-        districts: []
-        location: "POINT (41.7166700000000006 -8.8499999999999996)"
-        name: Areosa
-        population: 4626
-        slug: areosa
+        alternate_names: ~
+        ascii_name: Riachos
+        name: Riachos
+        names_en: ~
+        names_es: ~
+        population: 5463
       - 
-        districts: []
-        location: "POINT (42.0241800000000012 -8.6347400000000007)"
-        name: Valenza
-        population: 14172
-        slug: valenza
+        alternate_names: ~
+        ascii_name: Pontevel
+        name: Pontével
+        names_en: ~
+        names_es: ~
+        population: 4435
       - 
-        districts: []
-        location: "POINT (42.0304000000000002 -8.1587999999999994)"
-        name: Vila
-        population: 0
-        slug: vila
-    code: PT.20
-    name: "Viana do Castelo"
-    slug: viana-do-castelo
+        alternate_names: ~
+        ascii_name: Poceirao
+        name: Poceirão
+        names_en: ~
+        names_es: ~
+        population: 4225
+      - 
+        alternate_names: 
+          - Ourem
+          - Ourém
+        ascii_name: Ourem
+        name: Ourém
+        names_en: ~
+        names_es: ~
+        population: 12729
+      - 
+        alternate_names: 
+          - Monsanto
+          - Монсанто
+        ascii_name: Monsanto
+        name: Monsanto
+        names_en: 
+          - Monsanto
+        names_es: ~
+        population: 50000
+      - 
+        alternate_names: 
+          - Marinhais
+        ascii_name: Marinhais
+        name: Marinhais
+        names_en: ~
+        names_es: ~
+        population: 5788
+      - 
+        alternate_names: 
+          - Golega
+          - Golegã
+        ascii_name: Golega
+        name: Golegã
+        names_en: ~
+        names_es: ~
+        population: 3830
+      - 
+        alternate_names: ~
+        ascii_name: "Fazendas de Almeirim"
+        name: "Fazendas de Almeirim"
+        names_en: ~
+        names_es: ~
+        population: 6635
+      - 
+        alternate_names: 
+          - Fatima
+          - Fátima
+          - Phatima
+        ascii_name: Fatima
+        name: Fátima
+        names_en: 
+          - Fátima
+        names_es: ~
+        population: 11798
+      - 
+        alternate_names: 
+          - Entrocamento
+          - Entroncamento
+        ascii_name: Entroncamento
+        name: Entroncamento
+        names_en: ~
+        names_es: ~
+        population: 19887
+      - 
+        alternate_names: 
+          - Coruche
+        ascii_name: Coruche
+        name: Coruche
+        names_en: ~
+        names_es: ~
+        population: 8776
+      - 
+        alternate_names: ~
+        ascii_name: Cartaxo
+        name: Cartaxo
+        names_en: ~
+        names_es: ~
+        population: 10502
+      - 
+        alternate_names: ~
+        ascii_name: Benavente
+        name: Benavente
+        names_en: ~
+        names_es: ~
+        population: 8932
+      - 
+        alternate_names: 
+          - Alpiarca
+          - Alpiarça
+        ascii_name: Alpiarca
+        name: Alpiarça
+        names_en: ~
+        names_es: ~
+        population: 7946
+      - 
+        alternate_names: 
+          - Almeirim
+        ascii_name: Almeirim
+        name: Almeirim
+        names_en: ~
+        names_es: ~
+        population: 11557
+      - 
+        alternate_names: 
+          - Alferrarede
+        ascii_name: Alferrarede
+        name: Alferrarede
+        names_en: ~
+        names_es: ~
+        population: 3654
+      - 
+        alternate_names: 
+          - Alcanena
+        ascii_name: Alcanena
+        name: Alcanena
+        names_en: ~
+        names_es: ~
+        population: 4408
+      - 
+        alternate_names: ~
+        ascii_name: Alcanede
+        name: Alcanede
+        names_en: ~
+        names_es: ~
+        population: 5020
+      - 
+        alternate_names: 
+          - Abrantes
+        ascii_name: Abrantes
+        name: Abrantes
+        names_en: 
+          - Abrantes
+        names_es: 
+          - Abrantes
+        population: 13646
+    name: Santarém
+    names_en: ~
+    names_es: 
+      - Santarém
   - 
+    ascii_name: "Distrito de Portalegre"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.6000000000000014 -7.3166700000000002)"
-        name: Valpaços
-        population: 4573
-        slug: valpacos
+        alternate_names: ~
+        ascii_name: "Vale da Amoreira"
+        name: "Vale da Amoreira"
+        names_en: ~
+        names_es: ~
+        population: 10828
       - 
-        districts: []
-        location: "POINT (41.5166699999999977 -7.7999999999999998)"
-        name: Sobreira
-        population: 4219
-        slug: sobreira
+        alternate_names: ~
+        ascii_name: "Santo Andre"
+        name: "Santo André"
+        names_en: ~
+        names_es: ~
+        population: 11213
       - 
-        districts: []
-        location: "POINT (41.2333300000000023 -7.5999999999999996)"
-        name: Vilela
-        population: 5540
-        slug: vilela
+        alternate_names: 
+          - Portalegre
+          - Порталегре
+        ascii_name: Portalegre
+        name: Portalegre
+        names_en: ~
+        names_es: ~
+        population: 15581
       - 
-        districts: []
-        location: "POINT (41.2999999999999972 -7.7500000000000000)"
-        name: "Vila Real"
-        population: 17001
-        slug: vila-real
+        alternate_names: 
+          - "Ponte de Sor"
+        ascii_name: "Ponte de Sor"
+        name: "Ponte de Sor"
+        names_en: ~
+        names_es: ~
+        population: 11062
       - 
-        districts: []
-        location: "POINT (41.1666700000000034 -7.7833300000000003)"
-        name: "Peso da Régua"
-        population: 5048
-        slug: peso-da-regua
+        alternate_names: 
+          - Marvan
+          - Марван
+        ascii_name: Marvao
+        name: Marvão
+        names_en: ~
+        names_es: ~
+        population: 3739
       - 
-        districts: []
-        location: "POINT (41.1666700000000034 -7.7999999999999998)"
-        name: Godim
-        population: 4919
-        slug: godim
+        alternate_names: 
+          - Elvas
+        ascii_name: Elvas
+        name: Elvas
+        names_en: ~
+        names_es: ~
+        population: 9904
       - 
-        districts: []
-        location: "POINT (41.7333300000000023 -7.4666699999999997)"
-        name: Chaves
-        population: 13066
-        slug: chaves
-    code: PT.21
-    name: "Vila Real"
-    slug: vila-real
+        alternate_names: 
+          - "Castello de Vide"
+          - Kashtelu-de-Vide
+          - Каштелу-де-Виде
+        ascii_name: "Castelo de Vide"
+        name: "Castelo de Vide"
+        names_en: ~
+        names_es: ~
+        population: 3780
+      - 
+        alternate_names: ~
+        ascii_name: "Campo Maior"
+        name: "Campo Maior"
+        names_en: ~
+        names_es: ~
+        population: 8235
+      - 
+        alternate_names: ~
+        ascii_name: "Alter do Chao"
+        name: "Alter do Chão"
+        names_en: ~
+        names_es: ~
+        population: 2600
+    name: Portalegre
+    names_en: ~
+    names_es: 
+      - Portalegre
   - 
+    ascii_name: Lisbon
     cities: 
       - 
-        districts: []
-        location: "POINT (40.5166699999999977 -8.0833300000000001)"
-        name: Tondela
-        population: 8800
-        slug: tondela
+        alternate_names: 
+          - "Vila Franca de Xira"
+        ascii_name: "Vila Franca de Xira"
+        name: "Vila Franca de Xira"
+        names_en: ~
+        names_es: ~
+        population: 18355
       - 
-        districts: []
-        location: "POINT (40.6499999999999986 -7.9166699999999999)"
-        name: Viseu
-        population: 26364
-        slug: viseu
+        alternate_names: ~
+        ascii_name: Vialonga
+        name: Vialonga
+        names_en: ~
+        names_es: ~
+        population: 16088
       - 
-        districts: []
-        location: "POINT (40.7333300000000023 -7.7333299999999996)"
-        name: Sátão
-        population: 4034
-        slug: satao
+        alternate_names: ~
+        ascii_name: Ventosa
+        name: Ventosa
+        names_en: ~
+        names_es: ~
+        population: 5215
       - 
-        districts: []
-        location: "POINT (40.7500000000000000 -8.0666700000000002)"
-        name: "São Pedro do Sul"
-        population: 4080
-        slug: sao-pedro-do-sul
+        alternate_names: ~
+        ascii_name: "Venda do Pinheiro"
+        name: "Venda do Pinheiro"
+        names_en: ~
+        names_es: ~
+        population: 4950
       - 
-        districts: []
-        location: "POINT (40.6666700000000034 -7.8833299999999999)"
-        name: "Rio de Loba"
-        population: 9529
-        slug: rio-de-loba
+        alternate_names: ~
+        ascii_name: Unhos
+        name: Unhos
+        names_en: ~
+        names_es: ~
+        population: 10712
       - 
-        districts: []
-        location: "POINT (40.5333299999999994 -7.8499999999999996)"
-        name: Nelas
-        population: 4190
-        slug: nelas
+        alternate_names: 
+          - "Torres Vedras"
+          - Torresh
+          - Торреш
+        ascii_name: "Torres Vedras"
+        name: "Torres Vedras"
+        names_en: ~
+        names_es: ~
+        population: 24443
       - 
-        districts: []
-        location: "POINT (40.6000000000000014 -7.7666700000000004)"
-        name: Mangualde
-        population: 8895
-        slug: mangualde
+        alternate_names: ~
+        ascii_name: Terrugem
+        name: Terrugem
+        names_en: ~
+        names_es: ~
+        population: 4693
       - 
-        districts: []
-        location: "POINT (41.1000000000000014 -7.8166700000000002)"
-        name: Lamego
-        population: 10928
-        slug: lamego
+        alternate_names: ~
+        ascii_name: Sobralinho
+        name: Sobralinho
+        names_en: ~
+        names_es: ~
+        population: 4453
       - 
-        districts: []
-        location: "POINT (40.8999999999999986 -7.9333299999999998)"
-        name: "Castro Daire"
-        population: 4744
-        slug: castro-daire
+        alternate_names: 
+          - Cintra
+          - Sintra
+          - shintora
+        ascii_name: Sintra
+        name: Sintra
+        names_en: 
+          - Sintra
+        names_es: 
+          - Sintra
+        population: 26193
       - 
-        districts: []
-        location: "POINT (40.4333299999999980 -8.0000000000000000)"
-        name: "Carregal do Sal"
-        population: 5600
-        slug: carregal-do-sal
+        alternate_names: ~
+        ascii_name: Silveira
+        name: Silveira
+        names_en: ~
+        names_es: ~
+        population: 6942
       - 
-        districts: []
-        location: "POINT (40.7000000000000028 -7.9166699999999999)"
-        name: Campo
-        population: 4551
-        slug: campo
+        alternate_names: ~
+        ascii_name: "Sao Pedro da Cadeira"
+        name: "São Pedro da Cadeira"
+        names_en: ~
+        names_es: ~
+        population: 4452
       - 
-        districts: []
-        location: "POINT (40.6666700000000034 -7.9166699999999999)"
-        name: Abraveses
-        population: 9319
-        slug: abraveses
-    code: PT.22
-    name: Viseu
-    slug: viseu
+        alternate_names: ~
+        ascii_name: "Sao Joao dos Montes"
+        name: "São João dos Montes"
+        names_en: ~
+        names_es: ~
+        population: 4772
+      - 
+        alternate_names: ~
+        ascii_name: "Sao Joao da Talha"
+        name: "São João da Talha"
+        names_en: ~
+        names_es: ~
+        population: 18925
+      - 
+        alternate_names: ~
+        ascii_name: "Sao Joao das Lampas"
+        name: "São João das Lampas"
+        names_en: ~
+        names_es: ~
+        population: 10484
+      - 
+        alternate_names: 
+          - "Domingos De Rana"
+          - "Sao Domingos"
+          - "Sao Domingos de Rana"
+        ascii_name: "Sao Domingos de Rana"
+        name: "São Domingos de Rana"
+        names_en: ~
+        names_es: ~
+        population: 46718
+      - 
+        alternate_names: 
+          - "Santo Antao"
+          - "Santo Antao de Tojal"
+          - "Santo Antao do Tojal"
+        ascii_name: "Santo Antao do Tojal"
+        name: "Santo Antão do Tojal"
+        names_en: ~
+        names_es: ~
+        population: 4156
+      - 
+        alternate_names: 
+          - "Santa Iria"
+          - "Santa Iria da Azoia"
+          - "Santa Iria da Azóia"
+        ascii_name: "Santa Iria da Azoia"
+        name: "Santa Iria da Azóia"
+        names_en: ~
+        names_es: ~
+        population: 18573
+      - 
+        alternate_names: ~
+        ascii_name: Sacavem
+        name: Sacavém
+        names_en: ~
+        names_es: ~
+        population: 17718
+      - 
+        alternate_names: ~
+        ascii_name: "Rio de Mouro"
+        name: "Rio de Mouro"
+        names_en: ~
+        names_es: ~
+        population: 54695
+      - 
+        alternate_names: ~
+        ascii_name: Ramada
+        name: Ramada
+        names_en: ~
+        names_es: ~
+        population: 17535
+      - 
+        alternate_names: 
+          - Kelush
+          - Queluz
+          - Келуш
+        ascii_name: Queluz
+        name: Queluz
+        names_en: 
+          - Queluz
+        names_es: ~
+        population: 103399
+      - 
+        alternate_names: 
+          - Queijas
+          - Quejas
+        ascii_name: Quejas
+        name: Quejas
+        names_en: ~
+        names_es: ~
+        population: 8828
+      - 
+        alternate_names: ~
+        ascii_name: "Povoa de Santo Adriao"
+        name: "Póvoa de Santo Adrião"
+        names_en: ~
+        names_es: ~
+        population: 14897
+      - 
+        alternate_names: 
+          - Povoa
+          - "Povoa Santa Iria"
+          - "Povoa de Martinho"
+        ascii_name: "Povoa de Santa Iria"
+        name: "Póvoa de Santa Iria"
+        names_en: ~
+        names_es: ~
+        population: 28901
+      - 
+        alternate_names: ~
+        ascii_name: "Porto Salvo"
+        name: "Porto Salvo"
+        names_en: ~
+        names_es: ~
+        population: 13867
+      - 
+        alternate_names: ~
+        ascii_name: Pontinha
+        name: Pontinha
+        names_en: ~
+        names_es: ~
+        population: 23249
+      - 
+        alternate_names: ~
+        ascii_name: "Pero Pinheiro"
+        name: "Pero Pinheiro"
+        names_en: ~
+        names_es: ~
+        population: 4792
+      - 
+        alternate_names: ~
+        ascii_name: Parede
+        name: Parede
+        names_en: ~
+        names_es: ~
+        population: 17212
+      - 
+        alternate_names: 
+          - "Paco d'Arcos"
+          - "Paço d'Arcos"
+        ascii_name: "Paco de Arcos"
+        name: "Paço de Arcos"
+        names_en: ~
+        names_es: ~
+        population: 25974
+      - 
+        alternate_names: ~
+        ascii_name: "Olival do Basto"
+        name: "Olival do Basto"
+        names_en: ~
+        names_es: ~
+        population: 5959
+      - 
+        alternate_names: 
+          - Odivelas
+          - awdywlas
+          - اودیولاس
+        ascii_name: Odivelas
+        name: Odivelas
+        names_en: 
+          - Odivelas
+        names_es: 
+          - Odivelas
+        population: 54624
+      - 
+        alternate_names: ~
+        ascii_name: Moscavide
+        name: Moscavide
+        names_en: ~
+        names_es: ~
+        population: 11488
+      - 
+        alternate_names: ~
+        ascii_name: "Monte Estoril"
+        name: "Monte Estoril"
+        names_en: ~
+        names_es: ~
+        population: 23375
+      - 
+        alternate_names: ~
+        ascii_name: Milharado
+        name: Milharado
+        names_en: ~
+        names_es: ~
+        population: 5935
+      - 
+        alternate_names: ~
+        ascii_name: Malveira
+        name: Malveira
+        names_en: ~
+        names_es: ~
+        population: 4747
+      - 
+        alternate_names: 
+          - Mafra
+        ascii_name: Mafra
+        name: Mafra
+        names_en: ~
+        names_es: ~
+        population: 12259
+      - 
+        alternate_names: 
+          - Lourinha
+          - Lourinhã
+        ascii_name: Lourinha
+        name: Lourinhã
+        names_en: 
+          - Lourinhã
+        names_es: 
+          - Lourinhã
+        population: 9196
+      - 
+        alternate_names: 
+          - Loures
+          - Loyres
+          - Λόυρες
+        ascii_name: Loures
+        name: Loures
+        names_en: 
+          - Loures
+        names_es: 
+          - Loures
+        population: 66231
+      - 
+        alternate_names: 
+          - "Felicitas Julia"
+          - "Felicitas Julia Olissipo"
+          - Liospoin
+        ascii_name: Lisbon
+        name: Lisbon
+        names_en: 
+          - Lisbon
+        names_es: 
+          - Lisboa
+        population: 517802
+      - 
+        alternate_names: 
+          - "Linda a Velha"
+          - Linda-a-Velha
+        ascii_name: Linda-a-Velha
+        name: Linda-a-Velha
+        names_en: 
+          - "Linda a Velha"
+        names_es: ~
+        population: 20895
+      - 
+        alternate_names: ~
+        ascii_name: Famoes
+        name: Famões
+        names_en: ~
+        names_es: ~
+        population: 9435
+      - 
+        alternate_names: 
+          - Ehshtoril
+          - Eshhoril
+          - Estoril
+        ascii_name: Estoril
+        name: Estoril
+        names_en: 
+          - Estoril
+        names_es: 
+          - Estoril
+        population: 23700
+      - 
+        alternate_names: ~
+        ascii_name: Ericeira
+        name: Ericeira
+        names_en: ~
+        names_es: ~
+        population: 7538
+      - 
+        alternate_names: 
+          - Colares
+        ascii_name: Colares
+        name: Colares
+        names_en: ~
+        names_es: ~
+        population: 7905
+      - 
+        alternate_names: 
+          - Castanheira
+          - "Castanheira do Ribatejo"
+        ascii_name: "Castanheira do Ribatejo"
+        name: "Castanheira do Ribatejo"
+        names_en: ~
+        names_es: ~
+        population: 7651
+      - 
+        alternate_names: 
+          - Cascaes
+          - Cascais
+          - Kashkajsh
+        ascii_name: Cascais
+        name: Cascais
+        names_en: 
+          - Cascais
+        names_es: 
+          - Cascais
+        population: 36436
+      - 
+        alternate_names: 
+          - Carregado
+        ascii_name: Carregado
+        name: Carregado
+        names_en: ~
+        names_es: ~
+        population: 10474
+      - 
+        alternate_names: 
+          - Carnaxide
+          - Karnashide
+          - Карнашиде
+        ascii_name: Carnaxide
+        name: Carnaxide
+        names_en: ~
+        names_es: ~
+        population: 23698
+      - 
+        alternate_names: ~
+        ascii_name: Carcavelos
+        name: Carcavelos
+        names_en: ~
+        names_es: ~
+        population: 20366
+      - 
+        alternate_names: ~
+        ascii_name: Canecas
+        name: Caneças
+        names_en: ~
+        names_es: ~
+        population: 10978
+      - 
+        alternate_names: 
+          - Camarate
+          - Camrate
+          - Kamarate
+        ascii_name: Camarate
+        name: Camarate
+        names_en: ~
+        names_es: ~
+        population: 20177
+      - 
+        alternate_names: ~
+        ascii_name: Cacem
+        name: Cacém
+        names_en: ~
+        names_es: ~
+        population: 93982
+      - 
+        alternate_names: 
+          - Bucelas
+          - Bucellas
+        ascii_name: Bucelas
+        name: Bucelas
+        names_en: ~
+        names_es: ~
+        population: 4614
+      - 
+        alternate_names: ~
+        ascii_name: Bobadela
+        name: Bobadela
+        names_en: ~
+        names_es: ~
+        population: 8399
+      - 
+        alternate_names: ~
+        ascii_name: Belas
+        name: Belas
+        names_en: ~
+        names_es: ~
+        population: 21019
+      - 
+        alternate_names: ~
+        ascii_name: Barcarena
+        name: Barcarena
+        names_en: ~
+        names_es: ~
+        population: 11968
+      - 
+        alternate_names: 
+          - Azambuja
+        ascii_name: Azambuja
+        name: Azambuja
+        names_en: ~
+        names_es: ~
+        population: 7179
+      - 
+        alternate_names: 
+          - "Aveiras de Cima"
+        ascii_name: "Aveiras de Cima"
+        name: "Aveiras de Cima"
+        names_en: ~
+        names_es: ~
+        population: 4615
+      - 
+        alternate_names: 
+          - Arruda
+          - "Arruda dos Vinhos"
+        ascii_name: "Arruda dos Vinhos"
+        name: "Arruda dos Vinhos"
+        names_en: ~
+        names_es: ~
+        population: 6170
+      - 
+        alternate_names: ~
+        ascii_name: Apelacao
+        name: Apelação
+        names_en: ~
+        names_es: ~
+        population: 7182
+      - 
+        alternate_names: 
+          - Amadora
+          - Αμαδόρα
+          - Амадора
+        ascii_name: Amadora
+        name: Amadora
+        names_en: 
+          - Amadora
+        names_es: 
+          - Amadora
+        population: 178858
+      - 
+        alternate_names: 
+          - Almargem
+          - "Almargem do Bispo"
+        ascii_name: Almargem
+        name: Almargem
+        names_en: ~
+        names_es: ~
+        population: 8271
+      - 
+        alternate_names: ~
+        ascii_name: Alhandra
+        name: Alhandra
+        names_en: ~
+        names_es: ~
+        population: 7226
+      - 
+        alternate_names: 
+          - Alges
+          - Algés
+        ascii_name: Alges
+        name: Algés
+        names_en: ~
+        names_es: ~
+        population: 19327
+      - 
+        alternate_names: 
+          - Alenquer
+        ascii_name: Alenquer
+        name: Alenquer
+        names_en: ~
+        names_es: ~
+        population: 9626
+      - 
+        alternate_names: ~
+        ascii_name: Alcoentre
+        name: Alcoentre
+        names_en: ~
+        names_es: ~
+        population: 3923
+      - 
+        alternate_names: 
+          - Alcabideche
+          - Alkabideshe
+          - Aloabideche
+        ascii_name: Alcabideche
+        name: Alcabideche
+        names_en: ~
+        names_es: ~
+        population: 33315
+      - 
+        alternate_names: 
+          - "A dos Cunhados"
+          - "Aldeia dos Cunhados"
+        ascii_name: "A dos Cunhados"
+        name: "A dos Cunhados"
+        names_en: ~
+        names_es: ~
+        population: 6594
+    name: Lisbon
+    names_en: 
+      - Lisbon
+    names_es: 
+      - Lisboa
   - 
+    ascii_name: "Distrito de Leiria"
     cities: 
       - 
-        districts: []
-        location: "POINT (37.7166700000000006 -25.4333300000000015)"
-        name: "Vila Franca do Campo"
-        population: 5035
-        slug: vila-franca-do-campo
+        alternate_names: 
+          - Vieira
+          - "Vieira de Leiria"
+        ascii_name: "Vieira de Leiria"
+        name: "Vieira de Leiria"
+        names_en: ~
+        names_es: ~
+        population: 5807
       - 
-        districts: []
-        location: "POINT (38.5166699999999977 -28.3166699999999985)"
-        name: "São Roque do Pico"
-        population: 3705
-        slug: sao-roque-do-pico
+        alternate_names: ~
+        ascii_name: Turquel
+        name: Turquel
+        names_en: ~
+        names_es: ~
+        population: 4434
       - 
-        districts: []
-        location: "POINT (37.7500000000000000 -25.6499999999999986)"
-        name: "Rosto de Cão"
-        population: 7880
-        slug: rosto-de-cao
+        alternate_names: 
+          - Souto
+          - "Souto da Carpalhosa"
+        ascii_name: "Souto da Carpalhosa"
+        name: "Souto da Carpalhosa"
+        names_en: ~
+        names_es: ~
+        population: 4130
       - 
-        districts: []
-        location: "POINT (38.5166699999999977 -28.6999999999999993)"
-        name: "Ribeira Grande"
-        population: 5198
-        slug: ribeira-grande
+        alternate_names: 
+          - "Santa Catarina"
+          - "Santa Catarina da Serra"
+          - "Santa Catharina"
+        ascii_name: "Santa Catarina da Serra"
+        name: "Santa Catarina da Serra"
+        names_en: ~
+        names_es: ~
+        population: 4405
       - 
-        districts: []
-        location: "POINT (37.7999999999999972 -25.5833300000000001)"
-        name: "Rabo de Peixe"
-        population: 7681
-        slug: rabo-de-peixe
+        alternate_names: 
+          - "Porto de Mos"
+          - "Porto de Mós"
+        ascii_name: "Porto de Mos"
+        name: "Porto de Mós"
+        names_en: ~
+        names_es: ~
+        population: 6032
       - 
-        districts: []
-        location: "POINT (38.7333300000000023 -27.0666699999999985)"
-        name: "Praia da Vitória"
-        population: 6061
-        slug: praia-da-vitoria
+        alternate_names: 
+          - Pombal
+          - Помбал
+        ascii_name: Pombal
+        name: Pombal
+        names_en: ~
+        names_es: ~
+        population: 17355
       - 
-        districts: []
-        location: "POINT (37.7333300000000023 -25.6666699999999999)"
-        name: "Ponta Delgada"
-        population: 20056
-        slug: ponta-delgada
+        alternate_names: 
+          - Peniche
+        ascii_name: Peniche
+        name: Peniche
+        names_en: 
+          - Peniche
+        names_es: 
+          - Peniche
+        population: 15662
       - 
-        districts: []
-        location: "POINT (38.5364199999999997 -28.5265999999999984)"
-        name: Madalena
-        population: 6136
-        slug: madalena
+        alternate_names: ~
+        ascii_name: Pataias
+        name: Pataias
+        names_en: ~
+        names_es: ~
+        population: 5510
       - 
-        districts: []
-        location: "POINT (39.0499999999999972 -27.9833299999999987)"
+        alternate_names: 
+          - Obidos
+          - Obidush
+          - Óbidos
+        ascii_name: Obidos
+        name: Óbidos
+        names_en: ~
+        names_es: ~
+        population: 11187
+      - 
+        alternate_names: 
+          - Nazare
+          - Nazaré
+          - Ναζαρέ
+        ascii_name: Nazare
+        name: Nazaré
+        names_en: 
+          - Nazaré
+        names_es: 
+          - Nazaré
+        population: 8993
+      - 
+        alternate_names: ~
+        ascii_name: "Monte Redondo"
+        name: "Monte Redondo"
+        names_en: ~
+        names_es: ~
+        population: 4463
+      - 
+        alternate_names: 
+          - "Marinha Grande"
+        ascii_name: "Marinha Grande"
+        name: "Marinha Grande"
+        names_en: ~
+        names_es: ~
+        population: 28916
+      - 
+        alternate_names: ~
+        ascii_name: Maceira
+        name: Maceira
+        names_en: ~
+        names_es: ~
+        population: 9831
+      - 
+        alternate_names: ~
+        ascii_name: Lourical
+        name: Louriçal
+        names_en: ~
+        names_es: ~
+        population: 5085
+      - 
+        alternate_names: 
+          - Leiria
+          - Lejrija
+          - "Vieira de Leiria"
+        ascii_name: Leiria
+        name: Leiria
+        names_en: 
+          - Leiria
+        names_es: 
+          - Leiria
+        population: 45112
+      - 
+        alternate_names: 
+          - Castanheira
+          - "Castanheira de Pera"
+          - "Castanheira de Pêra"
+        ascii_name: "Castanheira de Pera"
+        name: "Castanheira de Pêra"
+        names_en: ~
+        names_es: ~
+        population: 3331
+      - 
+        alternate_names: ~
+        ascii_name: Caranguejeira
+        name: Caranguejeira
+        names_en: ~
+        names_es: ~
+        population: 5248
+      - 
+        alternate_names: 
+          - "Caldad da Rainha"
+          - "Caldas da Rainha"
+        ascii_name: "Caldas da Rainha"
+        name: "Caldas da Rainha"
+        names_en: ~
+        names_es: ~
+        population: 26647
+      - 
+        alternate_names: 
+          - Bombarral
+          - Rombarral
+        ascii_name: Bombarral
+        name: Bombarral
+        names_en: 
+          - Bombarral
+        names_es: 
+          - Bombarral
+        population: 5852
+      - 
+        alternate_names: 
+          - Benedita
+          - Benedito
+        ascii_name: Benedita
+        name: Benedita
+        names_en: ~
+        names_es: ~
+        population: 8556
+      - 
+        alternate_names: 
+          - Batalha
+          - Mpatalia
+          - Μπατάλια
+        ascii_name: Batalha
+        name: Batalha
+        names_en: 
+          - Batalha
+        names_es: 
+          - Batalha
+        population: 7910
+      - 
+        alternate_names: 
+          - Atouguia
+          - "Atouguia da Baleia"
+        ascii_name: "Atouguia da Baleia"
+        name: "Atouguia da Baleia"
+        names_en: ~
+        names_es: ~
+        population: 8313
+      - 
+        alternate_names: ~
+        ascii_name: Amor
+        name: Amor
+        names_en: ~
+        names_es: ~
+        population: 4870
+      - 
+        alternate_names: ~
+        ascii_name: Aljubarrota
+        name: Aljubarrota
+        names_en: ~
+        names_es: ~
+        population: 6146
+      - 
+        alternate_names: 
+          - Alcobaca
+          - Alcobaça
+        ascii_name: Alcobaca
+        name: Alcobaça
+        names_en: ~
+        names_es: ~
+        population: 5051
+    name: Leiria
+    names_en: ~
+    names_es: 
+      - Leiria
+  - 
+    ascii_name: "Distrito de Faro"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bila Real nte Santo Antonio"
+          - "Vila Real de San Antonio"
+          - "Vila Real de San António"
+        ascii_name: "Vila Real de Santo Antonio"
+        name: "Vila Real de Santo António"
+        names_en: 
+          - "Vila Real de Santo António"
+        names_es: 
+          - "Vila Real de Santo António"
+        population: 11560
+      - 
+        alternate_names: 
+          - Tabira
+          - Tavira
+          - Ταβίρα
+        ascii_name: Tavira
+        name: Tavira
+        names_en: 
+          - Tavira
+        names_es: 
+          - Tavira
+        population: 13871
+      - 
+        alternate_names: 
+          - Silves
+        ascii_name: Silves
+        name: Silves
+        names_en: 
+          - Silves
+        names_es: 
+          - Silves
+        population: 10917
+      - 
+        alternate_names: 
+          - Alportel
+          - "Sao Bras de Alportel"
+          - "Sao Braz"
+        ascii_name: "Sao Bras de Alportel"
+        name: "São Brás de Alportel"
+        names_en: ~
+        names_es: ~
+        population: 11153
+      - 
+        alternate_names: 
+          - Messines
+          - "Sao Bartolomeo de Messines"
+          - "Sao Bartolomeu de Messines"
+        ascii_name: "Sao Bartolomeu de Messines"
+        name: "São Bartolomeu de Messines"
+        names_en: ~
+        names_es: ~
+        population: 8381
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Barbara de Nexe"
+        name: "Santa Bárbara de Nexe"
+        names_en: ~
+        names_es: ~
+        population: 4087
+      - 
+        alternate_names: 
+          - Sagres
+          - Sagresh
+          - Сагреш
+        ascii_name: Sagres
+        name: Sagres
+        names_en: 
+          - Sagres
+        names_es: ~
+        population: 1939
+      - 
+        alternate_names: 
+          - Quarteira
+        ascii_name: Quarteira
+        name: Quarteira
+        names_en: ~
+        names_es: ~
+        population: 18783
+      - 
+        alternate_names: 
+          - Portimao
+          - "Vila Nova de Portimao"
+          - "Vila Nova de Portimão"
+        ascii_name: Portimao
+        name: Portimão
+        names_en: ~
+        names_es: ~
+        population: 38487
+      - 
+        alternate_names: ~
+        ascii_name: Olhao
+        name: Olhão
+        names_en: ~
+        names_es: ~
+        population: 29239
+      - 
+        alternate_names: 
+          - "Monte Gorde"
+          - "Monte Gordo"
+        ascii_name: "Monte Gordo"
+        name: "Monte Gordo"
+        names_en: ~
+        names_es: ~
+        population: 4282
+      - 
+        alternate_names: 
+          - Monchique
+        ascii_name: Monchique
+        name: Monchique
+        names_en: ~
+        names_es: ~
+        population: 5421
+      - 
+        alternate_names: ~
+        ascii_name: Moncarapacho
+        name: Moncarapacho
+        names_en: ~
+        names_es: ~
+        population: 8545
+      - 
+        alternate_names: ~
+        ascii_name: Luz
+        name: Luz
+        names_en: ~
+        names_es: ~
+        population: 3627
+      - 
+        alternate_names: 
+          - Lola
+          - Loule
+          - Loulé
+        ascii_name: Loule
+        name: Loulé
+        names_en: ~
+        names_es: ~
+        population: 23109
+      - 
+        alternate_names: ~
+        ascii_name: Laranjeiro
+        name: Laranjeiro
+        names_en: ~
+        names_es: ~
+        population: 20473
+      - 
+        alternate_names: ~
+        ascii_name: Lagos
+        name: Lagos
+        names_en: ~
+        names_es: ~
+        population: 18831
+      - 
+        alternate_names: 
+          - Lagoa
+        ascii_name: Lagoa
         name: Lagoa
+        names_en: ~
+        names_es: ~
+        population: 6301
+      - 
+        alternate_names: ~
+        ascii_name: Guia
+        name: Guia
+        names_en: ~
+        names_es: ~
+        population: 4173
+      - 
+        alternate_names: ~
+        ascii_name: Ferreiras
+        name: Ferreiras
+        names_en: ~
+        names_es: ~
+        population: 5157
+      - 
+        alternate_names: 
+          - Faro
+          - Faru
+          - Фару
+        ascii_name: Faro
+        name: Faro
+        names_en: ~
+        names_es: ~
+        population: 41355
+      - 
+        alternate_names: ~
+        ascii_name: Estombar
+        name: Estômbar
+        names_en: ~
+        names_es: ~
+        population: 8590
+      - 
+        alternate_names: ~
+        ascii_name: "Castro Marim"
+        name: "Castro Marim"
+        names_en: ~
+        names_es: ~
+        population: 5089
+      - 
+        alternate_names: 
+          - Carvoeiro
+          - Karvoejro
+          - Карвоейро
+        ascii_name: Carvoeiro
+        name: Carvoeiro
+        names_en: ~
+        names_es: ~
+        population: 2784
+      - 
+        alternate_names: 
+          - Boliqueime
+        ascii_name: Boliqueime
+        name: Boliqueime
+        names_en: ~
+        names_es: ~
+        population: 4470
+      - 
+        alternate_names: 
+          - "Armacao de Pera"
+          - "Armação de Pêra"
+        ascii_name: "Armacao de Pera"
+        name: "Armação de Pêra"
+        names_en: ~
+        names_es: ~
+        population: 4030
+      - 
+        alternate_names: ~
+        ascii_name: Alvor
+        name: Alvor
+        names_en: ~
+        names_es: ~
+        population: 5272
+      - 
+        alternate_names: 
+          - Almancil
+          - Almansil
+        ascii_name: Almancil
+        name: Almancil
+        names_en: ~
+        names_es: ~
+        population: 9898
+      - 
+        alternate_names: 
+          - Aljezur
+        ascii_name: Aljezur
+        name: Aljezur
+        names_en: ~
+        names_es: ~
+        population: 4122
+      - 
+        alternate_names: 
+          - Albufeira
+          - albwfyra
+          - آلبوفیرا
+        ascii_name: Albufeira
+        name: Albufeira
+        names_en: 
+          - Albufeira
+        names_es: 
+          - Albufeira
+        population: 15851
+      - 
+        alternate_names: 
+          - Vilamura
+          - Виламура
+        ascii_name: Vilamoura
+        name: Vilamoura
+        names_en: ~
+        names_es: ~
+        population: 1900
+    name: Faro
+    names_en: ~
+    names_es: 
+      - Faro
+  - 
+    ascii_name: "Distrito de Evora"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Vila Vicosa"
+        name: "Vila Viçosa"
+        names_en: ~
+        names_es: ~
+        population: 5484
+      - 
+        alternate_names: ~
+        ascii_name: "Vendas Novas"
+        name: "Vendas Novas"
+        names_en: ~
+        names_es: ~
+        population: 11248
+      - 
+        alternate_names: 
+          - Reguengos
+          - "Reguengos de Monsaraz"
+        ascii_name: "Reguengos de Monsaraz"
+        name: "Reguengos de Monsaraz"
+        names_en: ~
+        names_es: ~
+        population: 7217
+      - 
+        alternate_names: ~
+        ascii_name: Redondo
+        name: Redondo
+        names_en: ~
+        names_es: ~
+        population: 5845
+      - 
+        alternate_names: 
+          - Montemor-o-Novo
+        ascii_name: Montemor-o-Novo
+        name: Montemor-o-Novo
+        names_en: ~
+        names_es: ~
+        population: 12854
+      - 
+        alternate_names: 
+          - Ebora
+          - Ehvora
+          - Evora
+        ascii_name: Evora
+        name: Évora
+        names_en: 
+          - Evora
+        names_es: ~
+        population: 55620
+      - 
+        alternate_names: 
+          - Estremoz
+        ascii_name: Estremoz
+        name: Estremoz
+        names_en: ~
+        names_es: ~
+        population: 9350
+      - 
+        alternate_names: 
+          - Borba
+          - Borda
+          - Борба
+        ascii_name: Borba
+        name: Borba
+        names_en: ~
+        names_es: ~
+        population: 4586
+    name: Évora
+    names_en: ~
+    names_es: 
+      - Évora
+  - 
+    ascii_name: "Distrito de Castelo Branco"
+    cities: 
+      - 
+        alternate_names: 
+          - Serta
+          - Sertã
+        ascii_name: Serta
+        name: Sertã
+        names_en: ~
+        names_es: ~
+        population: 5636
+      - 
+        alternate_names: 
+          - Proenca-a-Nova
+          - Proença-a-Nova
+        ascii_name: Proenca-a-Nova
+        name: Proença-a-Nova
+        names_en: ~
+        names_es: ~
+        population: 4590
+      - 
+        alternate_names: 
+          - "Castelo Branco"
+          - Kashtelu-Branku
+          - Каштелу-Бранку
+        ascii_name: "Castelo Branco"
+        name: "Castelo Branco"
+        names_en: ~
+        names_es: ~
+        population: 33479
+      - 
+        alternate_names: ~
+        ascii_name: Teixoso
+        name: Teixoso
+        names_en: ~
+        names_es: ~
+        population: 4703
+      - 
+        alternate_names: 
+          - Fundao
+          - Fundão
+        ascii_name: Fundao
+        name: Fundão
+        names_en: ~
+        names_es: ~
+        population: 9725
+      - 
+        alternate_names: 
+          - Covilha
+          - Covilhã
+          - Kovil'jan
+        ascii_name: Covilha
+        name: Covilhã
+        names_en: 
+          - Covilha
+        names_es: ~
+        population: 17610
+    name: "Castelo Branco"
+    names_en: ~
+    names_es: 
+      - "Castelo Branco"
+  - 
+    ascii_name: "Distrito de Beja"
+    cities: 
+      - 
+        alternate_names: 
+          - "Vila Nova de Milfontes"
+        ascii_name: "Vila Nova de Milfontes"
+        name: "Vila Nova de Milfontes"
+        names_en: ~
+        names_es: ~
+        population: 4393
+      - 
+        alternate_names: 
+          - Serpa
+          - Серпа
+        ascii_name: Serpa
+        name: Serpa
+        names_en: ~
+        names_es: ~
+        population: 6586
+      - 
+        alternate_names: 
+          - "San Teotonio"
+          - "San Teotónio"
+          - "Sao Teotonio"
+        ascii_name: "Sao Teotonio"
+        name: "São Teotónio"
+        names_en: ~
+        names_es: ~
+        population: 4936
+      - 
+        alternate_names: ~
+        ascii_name: Odemira
+        name: Odemira
+        names_en: ~
+        names_es: ~
+        population: 5830
+      - 
+        alternate_names: 
+          - Moura
+        ascii_name: Moura
+        name: Moura
+        names_en: ~
+        names_es: ~
+        population: 9360
+      - 
+        alternate_names: ~
+        ascii_name: "Ferreira do Alentejo"
+        name: "Ferreira do Alentejo"
+        names_en: ~
+        names_es: ~
+        population: 4689
+      - 
+        alternate_names: ~
+        ascii_name: "Castro Verde"
+        name: "Castro Verde"
+        names_en: ~
+        names_es: ~
+        population: 4857
+      - 
+        alternate_names: 
+          - Beja
+        ascii_name: Beja
+        name: Beja
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Aljustrel
+        ascii_name: Aljustrel
+        name: Aljustrel
+        names_en: ~
+        names_es: ~
+        population: 5334
+    name: Beja
+    names_en: ~
+    names_es: 
+      - Beja
+  - 
+    ascii_name: "Regiao Autonoma da Madeira"
+    cities: 
+      - 
+        alternate_names: 
+          - "Porta Santa"
+          - "Porto Santo"
+          - "Pôrta Santa"
+        ascii_name: "Vila de Porto Santo"
+        name: "Vila de Porto Santo"
+        names_en: ~
+        names_es: ~
+        population: 4348
+      - 
+        alternate_names: 
+          - San-Visente
+          - "Sao Vicente"
+          - "São Vicente"
+        ascii_name: "Sao Vicente"
+        name: "São Vicente"
+        names_en: ~
+        names_es: ~
+        population: 6063
+      - 
+        alternate_names: 
+          - Santana
+          - Сантана
+        ascii_name: Santana
+        name: Santana
+        names_en: ~
+        names_es: ~
+        population: 8804
+      - 
+        alternate_names: 
+          - "Santa Cruz"
+          - "Santa Krouz"
+          - "Σάντα Κρουζ"
+        ascii_name: "Santa Cruz"
+        name: "Santa Cruz"
+        names_en: 
+          - "Santa Cruz"
+        names_es: 
+          - "Santa Cruz"
+        population: 6010
+      - 
+        alternate_names: 
+          - "Ribeira Brava"
+          - "Ribeira Mpraba"
+          - "Ριβέιρα Μπράβα"
+        ascii_name: "Ribeira Brava"
+        name: "Ribeira Brava"
+        names_en: 
+          - "Ribeira Brava"
+        names_es: ~
+        population: 5932
+      - 
+        alternate_names: 
+          - "Porto Moniz"
+          - "Porto do Moniz"
+          - Portu-Monish
+        ascii_name: "Porto Moniz"
+        name: "Porto Moniz"
+        names_en: 
+          - "Porto Moniz"
+        names_es: 
+          - "Porto Moniz"
+        population: 2762
+      - 
+        alternate_names: 
+          - "Ponta do Sol"
+          - "Ponta nto Sol"
+          - "Πόντα ντο Σολ"
+        ascii_name: "Ponta do Sol"
+        name: "Ponta do Sol"
+        names_en: 
+          - "Ponta do Sol"
+        names_es: 
+          - "Ponta do Sol"
+        population: 4235
+      - 
+        alternate_names: 
+          - Monte
+          - "Nossa Senhora do Monte"
+          - Монте
+        ascii_name: "Nossa Senhora do Monte"
+        name: "Nossa Senhora do Monte"
+        names_en: ~
+        names_es: ~
+        population: 7444
+      - 
+        alternate_names: 
+          - Machico
+        ascii_name: Machico
+        name: Machico
+        names_en: 
+          - Machico
+        names_es: 
+          - Machico
+        population: 12567
+      - 
+        alternate_names: 
+          - Funchal
+          - Funshal
+          - Phountsal
+        ascii_name: Funchal
+        name: Funchal
+        names_en: 
+          - Funchal
+        names_es: 
+          - Funchal
+        population: 100847
+      - 
+        alternate_names: 
+          - "Faia da Ovelha"
+          - "Faja da Ovelha"
+          - "Fajã da Ovelha"
+        ascii_name: "Faja da Ovelha"
+        name: "Fajã da Ovelha"
+        names_en: ~
+        names_es: ~
+        population: 1016
+      - 
+        alternate_names: 
+          - Ehshtrejtu-da-Kal'eta
+          - Эштрейту-да-Кальета
+        ascii_name: "Estreito da Calheta"
+        name: "Estreito da Calheta"
+        names_en: ~
+        names_es: ~
+        population: 1630
+      - 
+        alternate_names: 
+          - "Curral das Freiras"
+          - Kurral-dash-Frejrash
+          - Куррал-даш-Фрейраш
+        ascii_name: "Curral das Freiras"
+        name: "Curral das Freiras"
+        names_en: ~
+        names_es: ~
+        population: 1673
+      - 
+        alternate_names: 
+          - Canico
+          - Caniço
+        ascii_name: Canico
+        name: Caniço
+        names_en: ~
+        names_es: ~
+        population: 11996
+      - 
+        alternate_names: 
+          - Canical
+          - Caniçal
+          - Kanisal
+        ascii_name: Canical
+        name: Caniçal
+        names_en: ~
+        names_es: ~
+        population: 3893
+      - 
+        alternate_names: 
+          - Campanario
+          - Campanário
+        ascii_name: Campanario
+        name: Campanário
+        names_en: ~
+        names_es: ~
+        population: 3987
+      - 
+        alternate_names: 
+          - "Camara de Lobos"
+          - "Câmara de Lobos"
+          - "Kamara nte Lompos"
+        ascii_name: "Camara de Lobos"
+        name: "Câmara de Lobos"
+        names_en: 
+          - "Câmara de Lobos"
+        names_es: 
+          - "Câmara de Lobos"
+        population: 32209
+      - 
+        alternate_names: ~
+        ascii_name: Camacha
+        name: Camacha
+        names_en: ~
+        names_es: ~
+        population: 8635
+      - 
+        alternate_names: 
+          - Camacha
+          - Kamasha
+          - Камаша
+        ascii_name: Camacha
+        name: Camacha
+        names_en: ~
+        names_es: ~
+        population: 7991
+      - 
+        alternate_names: 
+          - Calheta
+          - Kal'eta
+          - Кальета
+        ascii_name: Calheta
+        name: Calheta
+        names_en: 
+          - Calheta
+        names_es: 
+          - Calheta
+        population: 1618
+      - 
+        alternate_names: 
+          - "Arco da Calheta"
+          - Arku-da-Kal'eta
+          - Арку-да-Кальета
+        ascii_name: "Arco da Calheta"
+        name: "Arco da Calheta"
+        names_en: ~
+        names_es: ~
+        population: 3241
+    name: Madeira
+    names_en: ~
+    names_es: 
+      - Madeira
+  - 
+    ascii_name: "Distrito de Viseu"
+    cities: 
+      - 
+        alternate_names: 
+          - Viseu
+          - Vizeu
+          - "Vizeu Celorico"
+        ascii_name: Viseu
+        name: Viseu
+        names_en: ~
+        names_es: ~
+        population: 26364
+      - 
+        alternate_names: 
+          - Tondela
+          - Тондела
+        ascii_name: Tondela
+        name: Tondela
+        names_en: ~
+        names_es: ~
+        population: 8800
+      - 
+        alternate_names: 
+          - Satam
+          - Satao
+          - Sátão
+        ascii_name: Satao
+        name: Sátão
+        names_en: ~
+        names_es: ~
+        population: 4034
+      - 
+        alternate_names: 
+          - "Santo Pedro do Sul"
+          - "Sao Pedro do Sul"
+          - "São Pedro do Sul"
+        ascii_name: "Sao Pedro do Sul"
+        name: "São Pedro do Sul"
+        names_en: ~
+        names_es: ~
+        population: 4080
+      - 
+        alternate_names: ~
+        ascii_name: "Rio de Loba"
+        name: "Rio de Loba"
+        names_en: ~
+        names_es: ~
+        population: 9529
+      - 
+        alternate_names: ~
+        ascii_name: Nelas
+        name: Nelas
+        names_en: ~
+        names_es: ~
+        population: 4190
+      - 
+        alternate_names: 
+          - Mangualde
+          - Мангуалде
+        ascii_name: Mangualde
+        name: Mangualde
+        names_en: ~
+        names_es: ~
+        population: 8895
+      - 
+        alternate_names: 
+          - Lamego
+        ascii_name: Lamego
+        name: Lamego
+        names_en: ~
+        names_es: ~
+        population: 10928
+      - 
+        alternate_names: ~
+        ascii_name: "Castro Daire"
+        name: "Castro Daire"
+        names_en: ~
+        names_es: ~
+        population: 4744
+      - 
+        alternate_names: ~
+        ascii_name: "Carregal do Sal"
+        name: "Carregal do Sal"
+        names_en: ~
+        names_es: ~
+        population: 5600
+      - 
+        alternate_names: ~
+        ascii_name: Campo
+        name: Campo
+        names_en: ~
+        names_es: ~
+        population: 4551
+      - 
+        alternate_names: ~
+        ascii_name: Abraveses
+        name: Abraveses
+        names_en: ~
+        names_es: ~
+        population: 9319
+    name: Viseu
+    names_en: ~
+    names_es: 
+      - Viseu
+  - 
+    ascii_name: "Distrito de Vila Real"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Vilela
+        name: Vilela
+        names_en: ~
+        names_es: ~
+        population: 5540
+      - 
+        alternate_names: 
+          - "Bila Real"
+          - "Vila Real"
+          - Vila-Real
+        ascii_name: "Vila Real"
+        name: "Vila Real"
+        names_en: 
+          - "Vila Real"
+        names_es: 
+          - "Vila Real"
+        population: 17001
+      - 
+        alternate_names: 
+          - Valpacos
+          - Valpassos
+          - Valpaços
+        ascii_name: Valpacos
+        name: Valpaços
+        names_en: ~
+        names_es: ~
+        population: 4573
+      - 
+        alternate_names: ~
+        ascii_name: Sobreira
+        name: Sobreira
+        names_en: ~
+        names_es: ~
+        population: 4219
+      - 
+        alternate_names: 
+          - "Peso da Regua"
+          - "Peso da Régua"
+          - Regoa
+        ascii_name: "Peso da Regua"
+        name: "Peso da Régua"
+        names_en: ~
+        names_es: ~
+        population: 5048
+      - 
+        alternate_names: ~
+        ascii_name: Godim
+        name: Godim
+        names_en: ~
+        names_es: ~
+        population: 4919
+      - 
+        alternate_names: 
+          - Chaves
+        ascii_name: Chaves
+        name: Chaves
+        names_en: ~
+        names_es: ~
+        population: 13066
+    name: "Vila Real"
+    names_en: ~
+    names_es: 
+      - "Vila Real"
+  - 
+    ascii_name: "Distrito de Viana do Castelo"
+    cities: 
+      - 
+        alternate_names: 
+          - Ancora
+          - "Praia de Ancora"
+          - "Praia de Âncora"
+        ascii_name: "Vila Praia de Ancora"
+        name: "Vila Praia de Âncora"
+        names_en: ~
+        names_es: ~
+        population: 4987
+      - 
+        alternate_names: 
+          - "Viana do Castelo"
+          - "Vianna do Castello"
+        ascii_name: "Viana do Castelo"
+        name: "Viana do Castelo"
+        names_en: ~
+        names_es: ~
+        population: 15555
+      - 
+        alternate_names: 
+          - "Ponte de Lima"
+          - "Ponte do Lima"
+          - "Понте де Лима"
+        ascii_name: "Ponte do Lima"
+        name: "Ponte do Lima"
+        names_en: ~
+        names_es: ~
+        population: 44667
+      - 
+        alternate_names: ~
+        ascii_name: Mozelos
+        name: Mozelos
+        names_en: ~
+        names_es: ~
+        population: 7230
+      - 
+        alternate_names: 
+          - Moncao
+          - Monsao
+          - Monsão
+        ascii_name: Moncao
+        name: Monção
+        names_en: 
+          - Monção
+        names_es: 
+          - Monção
+        population: 19738
+      - 
+        alternate_names: ~
+        ascii_name: Meadela
+        name: Meadela
+        names_en: ~
+        names_es: ~
+        population: 9981
+      - 
+        alternate_names: ~
+        ascii_name: Darque
+        name: Darque
+        names_en: ~
+        names_es: ~
+        population: 8092
+      - 
+        alternate_names: 
+          - Areosa
+          - Areoza
+          - Ariosa
+        ascii_name: Areosa
+        name: Areosa
+        names_en: ~
+        names_es: ~
+        population: 4626
+      - 
+        alternate_names: 
+          - Valensa
+          - Valenza
+          - Валенса
+        ascii_name: Valenza
+        name: Valenza
+        names_en: 
+          - Valenza
+        names_es: ~
+        population: 14172
+      - 
+        alternate_names: ~
+        ascii_name: Vila
+        name: Vila
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Viana do Castelo"
+    names_en: ~
+    names_es: 
+      - "Viana do Castelo"
+  - 
+    ascii_name: "Distrito do Porto"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sao Jorge"
+          - "São Jorge"
+          - Vizela
+        ascii_name: Vizela
+        name: Vizela
+        names_en: ~
+        names_es: ~
+        population: 4066
+      - 
+        alternate_names: 
+          - Vilarinho
+        ascii_name: Vilarinho
+        name: Vilarinho
+        names_en: ~
+        names_es: ~
+        population: 4177
+      - 
+        alternate_names: ~
+        ascii_name: "Vilar do Paraiso"
+        name: "Vilar do Paraíso"
+        names_en: ~
+        names_es: ~
+        population: 14727
+      - 
+        alternate_names: 
+          - Andorinho
+          - "Vilar de Andorinha"
+          - "Vilar de Andorinho"
+        ascii_name: "Vilar de Andorinho"
+        name: "Vilar de Andorinho"
+        names_en: ~
+        names_es: ~
+        population: 18944
+      - 
+        alternate_names: 
+          - "Bila Noba nte Nkaia"
+          - Gaia
+          - "Portus Cale"
+        ascii_name: "Vila Nova de Gaia"
+        name: "Vila Nova de Gaia"
+        names_en: 
+          - "Vila Nova de Gaia"
+        names_es: 
+          - "Vila Nova de Gaia"
+        population: 70811
+      - 
+        alternate_names: ~
+        ascii_name: "Vila Nova da Telha"
+        name: "Vila Nova da Telha"
+        names_en: ~
+        names_es: ~
+        population: 5848
+      - 
+        alternate_names: 
+          - "Bila nto Konte"
+          - "Vila do Conde"
+          - Vila-du-Konde
+        ascii_name: "Vila do Conde"
+        name: "Vila do Conde"
+        names_en: 
+          - "Vila do Conde"
+        names_es: 
+          - "Vila do Conde"
+        population: 27642
+      - 
+        alternate_names: 
+          - Valonga
+          - Valongo
+          - Valongu
+        ascii_name: Valongo
+        name: Valongo
+        names_en: 
+          - Valongo
+        names_es: 
+          - Valongo
+        population: 21328
+      - 
+        alternate_names: ~
+        ascii_name: Valbom
+        name: Valbom
+        names_en: ~
+        names_es: ~
+        population: 14443
+      - 
+        alternate_names: ~
+        ascii_name: Valadares
+        name: Valadares
+        names_en: ~
+        names_es: ~
+        population: 9255
+      - 
+        alternate_names: ~
+        ascii_name: Teloes
+        name: Telões
+        names_en: ~
+        names_es: ~
+        population: 4675
+      - 
+        alternate_names: ~
+        ascii_name: Sobrado
+        name: Sobrado
+        names_en: ~
+        names_es: ~
+        population: 6703
+      - 
+        alternate_names: ~
+        ascii_name: Seroa
+        name: Seroa
+        names_en: ~
+        names_es: ~
+        population: 4040
+      - 
+        alternate_names: ~
+        ascii_name: "Senhora da Hora"
+        name: "Senhora da Hora"
+        names_en: ~
+        names_es: ~
+        population: 28930
+      - 
+        alternate_names: 
+          - Coronado
+          - "Sao Romao do Coronado"
+          - "São Romão do Coronado"
+        ascii_name: "Sao Romao do Coronado"
+        name: "São Romão do Coronado"
+        names_en: ~
+        names_es: ~
+        population: 8697
+      - 
+        alternate_names: ~
+        ascii_name: "Sao Pedro da Cova"
+        name: "São Pedro da Cova"
+        names_en: ~
+        names_es: ~
+        population: 17011
+      - 
+        alternate_names: ~
+        ascii_name: "Sao Miguel do Couto"
+        name: "São Miguel do Couto"
+        names_en: ~
+        names_es: ~
+        population: 5416
+      - 
+        alternate_names: 
+          - San-Mamed-de-Infeshta
+          - "Santo Mamede de Infesta"
+          - "Sao Mamede"
+        ascii_name: "Sao Mamede de Infesta"
+        name: "São Mamede de Infesta"
+        names_en: ~
+        names_es: ~
+        population: 25940
+      - 
+        alternate_names: 
+          - Marinha
+          - "Sao Felix da Marinha"
+          - "São Félix da Marinha"
+        ascii_name: "Sao Felix da Marinha"
+        name: "São Félix da Marinha"
+        names_en: ~
+        names_es: ~
+        population: 11685
+      - 
+        alternate_names: 
+          - "Santo Tirso"
+        ascii_name: "Santo Tirso"
+        name: "Santo Tirso"
+        names_en: ~
+        names_es: ~
+        population: 14021
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Cruz do Bispo"
+        name: "Santa Cruz do Bispo"
+        names_en: ~
+        names_es: ~
+        population: 6230
+      - 
+        alternate_names: ~
+        ascii_name: Sandim
+        name: Sandim
+        names_en: ~
+        names_es: ~
+        population: 6449
+      - 
+        alternate_names: 
+          - "Rio Tinto"
+        ascii_name: "Rio Tinto"
+        name: "Rio Tinto"
+        names_en: ~
+        names_es: ~
+        population: 49966
+      - 
+        alternate_names: ~
+        ascii_name: Recarei
+        name: Recarei
+        names_en: ~
+        names_es: ~
+        population: 4856
+      - 
+        alternate_names: 
+          - Rebordosa
+          - Rebordoza
+        ascii_name: Rebordosa
+        name: Rebordosa
+        names_en: ~
+        names_es: ~
+        population: 11491
+      - 
+        alternate_names: 
+          - "Poboa nte Barzim"
+          - "Povoa de Varzim"
+          - "Póvoa de Varzim"
+        ascii_name: "Povoa de Varzim"
+        name: "Póvoa de Varzim"
+        names_en: 
+          - "Póvoa de Varzim"
+        names_es: 
+          - "Póvoa de Varzim"
+        population: 29044
+      - 
+        alternate_names: 
+          - Oporto
+          - Porto
+          - Portu
+        ascii_name: Porto
+        name: Porto
+        names_en: 
+          - Porto
+        names_es: 
+          - Oporto
+        population: 249633
+      - 
+        alternate_names: 
+          - Perosinho
+          - Perozinho
+        ascii_name: Perozinho
+        name: Perozinho
+        names_en: ~
+        names_es: ~
+        population: 6259
+      - 
+        alternate_names: ~
+        ascii_name: Perafita
+        name: Perafita
+        names_en: ~
+        names_es: ~
+        population: 12538
+      - 
+        alternate_names: 
+          - Penafiel
+          - Penaphiel
+          - Πεναφιέλ
+        ascii_name: Penafiel
+        name: Penafiel
+        names_en: 
+          - Penafiel
+        names_es: 
+          - Penafiel
+        population: 8065
+      - 
+        alternate_names: 
+          - Pedroucos
+          - Pedrouços
+        ascii_name: Pedroucos
+        name: Pedrouços
+        names_en: ~
+        names_es: ~
+        population: 12553
+      - 
+        alternate_names: ~
+        ascii_name: Pedroso
+        name: Pedroso
+        names_en: ~
+        names_es: ~
+        population: 18963
+      - 
+        alternate_names: 
+          - "Pacos de Ferreira"
+          - "Pasos nte Phereira"
+          - "Paços de Ferreira"
+        ascii_name: "Pacos de Ferreira"
+        name: "Paços de Ferreira"
+        names_en: 
+          - "Paços de Ferreira"
+        names_es: 
+          - "Paços de Ferreira"
+        population: 6782
+      - 
+        alternate_names: ~
+        ascii_name: "Oliveira do Douro"
+        name: "Oliveira do Douro"
+        names_en: ~
+        names_es: ~
+        population: 24407
+      - 
+        alternate_names: ~
+        ascii_name: Olival
+        name: Olival
+        names_en: ~
+        names_es: ~
+        population: 5715
+      - 
+        alternate_names: ~
+        ascii_name: Nogueira
+        name: Nogueira
+        names_en: ~
+        names_es: ~
+        population: 4855
+      - 
+        alternate_names: 
+          - Negrelos
+          - "Sao Tome"
+          - "São Tomé"
+        ascii_name: Negrelos
+        name: Negrelos
+        names_en: ~
+        names_es: ~
+        population: 6664
+      - 
+        alternate_names: ~
+        ascii_name: Moreira
+        name: Moreira
+        names_en: ~
+        names_es: ~
+        population: 11336
+      - 
+        alternate_names: ~
+        ascii_name: Milheiros
+        name: Milheirós
+        names_en: ~
+        names_es: ~
+        population: 4342
+      - 
+        alternate_names: ~
+        ascii_name: Meinedo
+        name: Meinedo
+        names_en: ~
+        names_es: ~
+        population: 4416
+      - 
+        alternate_names: 
+          - Matosinhos
+          - Matozinhos
+        ascii_name: Matosinhos
+        name: Matosinhos
+        names_en: ~
+        names_es: ~
+        population: 28070
+      - 
+        alternate_names: ~
+        ascii_name: Margaride
+        name: Margaride
+        names_en: ~
+        names_es: ~
+        population: 10652
+      - 
+        alternate_names: 
+          - Maia
+          - Majja
+          - Майя
+        ascii_name: Maia
+        name: Maia
+        names_en: ~
+        names_es: ~
+        population: 36426
+      - 
+        alternate_names: ~
+        ascii_name: Madalena
+        name: Madalena
+        names_en: ~
+        names_es: ~
+        population: 9618
+      - 
+        alternate_names: ~
+        ascii_name: Lustosa
+        name: Lustosa
+        names_en: ~
+        names_es: ~
+        population: 4686
+      - 
+        alternate_names: ~
+        ascii_name: Lordelo
+        name: Lordelo
+        names_en: ~
+        names_es: ~
+        population: 10035
+      - 
+        alternate_names: 
+          - "Leca do Bailio"
+          - "Leca do Balio"
+          - "Leca do Belio"
+        ascii_name: "Leca do Bailio"
+        name: "Leça do Bailio"
+        names_en: ~
+        names_es: ~
+        population: 16103
+      - 
+        alternate_names: 
+          - Leca
+          - "Leca da Palmeira"
+          - "Leca de Palmeira"
+        ascii_name: "Leca da Palmeira"
+        name: "Leça da Palmeira"
+        names_en: ~
+        names_es: ~
+        population: 17996
+      - 
+        alternate_names: ~
+        ascii_name: Lavra
+        name: Lavra
+        names_en: ~
+        names_es: ~
+        population: 9633
+      - 
+        alternate_names: 
+          - Jovim
+          - Juvim
+        ascii_name: Jovim
+        name: Jovim
+        names_en: ~
+        names_es: ~
+        population: 7067
+      - 
+        alternate_names: ~
+        ascii_name: Gulpilhares
+        name: Gulpilhares
+        names_en: ~
+        names_es: ~
+        population: 10660
+      - 
+        alternate_names: ~
+        ascii_name: Guifoes
+        name: Guifões
+        names_en: ~
+        names_es: ~
+        population: 9231
+      - 
+        alternate_names: 
+          - Grijo
+          - Grijó
+        ascii_name: Grijo
+        name: Grijó
+        names_en: ~
+        names_es: ~
+        population: 10907
+      - 
+        alternate_names: 
+          - Gondomar
+          - Гондомар
+        ascii_name: Gondomar
+        name: Gondomar
+        names_en: ~
+        names_es: ~
+        population: 27691
+      - 
+        alternate_names: ~
+        ascii_name: Gemunde
+        name: Gemunde
+        names_en: ~
+        names_es: ~
+        population: 5284
+      - 
+        alternate_names: 
+          - Gandra
+          - Гандра
+        ascii_name: Gandra
+        name: Gandra
+        names_en: ~
+        names_es: ~
+        population: 6034
+      - 
+        alternate_names: 
+          - Freamunde
+          - Фреамунде
+        ascii_name: Freamunde
+        name: Freamunde
+        names_en: ~
+        names_es: ~
+        population: 7983
+      - 
+        alternate_names: ~
+        ascii_name: Frazao
+        name: Frazão
+        names_en: ~
+        names_es: ~
+        population: 4314
+      - 
+        alternate_names: ~
+        ascii_name: "Foz do Sousa"
+        name: "Foz do Sousa"
+        names_en: ~
+        names_es: ~
+        population: 6315
+      - 
+        alternate_names: ~
+        ascii_name: Figueiro
+        name: Figueiró
+        names_en: ~
+        names_es: ~
+        population: 4579
+      - 
+        alternate_names: ~
+        ascii_name: Ferreira
+        name: Ferreira
+        names_en: ~
+        names_es: ~
+        population: 4205
+      - 
+        alternate_names: ~
+        ascii_name: Fanzeres
+        name: Fânzeres
+        names_en: ~
+        names_es: ~
+        population: 23916
+      - 
+        alternate_names: 
+          - Ehrmezinde
+          - Ermezinde
+          - Эрмезинде
+        ascii_name: Ermezinde
+        name: Ermezinde
+        names_en: ~
+        names_es: ~
+        population: 39420
+      - 
+        alternate_names: ~
+        ascii_name: "Casteloes de Cepeda"
+        name: "Castelões de Cepeda"
+        names_en: ~
+        names_es: ~
+        population: 8322
+      - 
+        alternate_names: ~
+        ascii_name: Carvalhosa
+        name: Carvalhosa
+        names_en: ~
+        names_es: ~
+        population: 4502
+      - 
+        alternate_names: 
+          - Canidello
+          - Canidelo
+        ascii_name: Canidelo
+        name: Canidelo
+        names_en: ~
+        names_es: ~
+        population: 26431
+      - 
+        alternate_names: ~
+        ascii_name: Canelas
+        name: Canelas
+        names_en: ~
+        names_es: ~
+        population: 14247
+      - 
+        alternate_names: ~
+        ascii_name: Campo
+        name: Campo
+        names_en: ~
+        names_es: ~
+        population: 8916
+      - 
+        alternate_names: ~
+        ascii_name: Bougado
+        name: Bougado
+        names_en: ~
+        names_es: ~
+        population: 21680
+      - 
+        alternate_names: 
+          - Barrosas
+          - "Santa Eulalia"
+          - "Santa Eulália"
+        ascii_name: Barrosas
+        name: Barrosas
+        names_en: ~
+        names_es: ~
+        population: 5573
+      - 
+        alternate_names: ~
+        ascii_name: Baltar
+        name: Baltar
+        names_en: ~
+        names_es: ~
+        population: 4929
+      - 
+        alternate_names: 
+          - Baguim
+          - "Baguim do Monte"
+        ascii_name: "Baguim do Monte"
+        name: "Baguim do Monte"
+        names_en: ~
+        names_es: ~
+        population: 15850
+      - 
+        alternate_names: ~
+        ascii_name: Azenha
+        name: Azenha
+        names_en: ~
+        names_es: ~
+        population: 12260
+      - 
+        alternate_names: 
+          - Avintes
+        ascii_name: Avintes
+        name: Avintes
+        names_en: ~
+        names_es: ~
+        population: 11577
+      - 
+        alternate_names: ~
+        ascii_name: Aves
+        name: Aves
+        names_en: ~
+        names_es: ~
+        population: 8507
+      - 
+        alternate_names: 
+          - "A ver-o-mar"
+          - "Abre Mar"
+          - Aver-o-Mar
+        ascii_name: Aver-o-Mar
+        name: Aver-o-Mar
+        names_en: ~
+        names_es: ~
+        population: 10501
+      - 
+        alternate_names: ~
+        ascii_name: Arvore
+        name: Árvore
+        names_en: ~
+        names_es: ~
+        population: 4553
+      - 
+        alternate_names: ~
+        ascii_name: Arcozelo
+        name: Arcozelo
+        names_en: ~
+        names_es: ~
+        population: 13495
+      - 
+        alternate_names: ~
+        ascii_name: Anta
+        name: Anta
+        names_en: ~
+        names_es: ~
+        population: 10951
+      - 
+        alternate_names: ~
+        ascii_name: Amarante
+        name: Amarante
+        names_en: ~
+        names_es: ~
+        population: 6782
+      - 
+        alternate_names: ~
+        ascii_name: Alfena
+        name: Alfena
+        names_en: ~
+        names_es: ~
+        population: 14455
+      - 
+        alternate_names: 
+          - Agucadeira
+          - Agucadoira
+          - Agucadoura
+        ascii_name: Agucadoura
+        name: Aguçadoura
+        names_en: ~
+        names_es: ~
+        population: 4521
+      - 
+        alternate_names: ~
+        ascii_name: "Aguas Santas"
+        name: "Águas Santas"
+        names_en: ~
+        names_es: ~
+        population: 27686
+    name: Porto
+    names_en: ~
+    names_es: 
+      - Oporto
+  - 
+    ascii_name: "Distrito da Guarda"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Alcains
+        name: Alcains
+        names_en: ~
+        names_es: ~
+        population: 5030
+      - 
+        alternate_names: ~
+        ascii_name: Sequeira
+        name: Sequeira
+        names_en: ~
+        names_es: ~
+        population: 28502
+      - 
+        alternate_names: 
+          - Seia
+        ascii_name: Seia
+        name: Seia
+        names_en: ~
+        names_es: ~
+        population: 7082
+      - 
+        alternate_names: 
+          - Manteigas
+          - Mantejgas
+          - Мантейгас
+        ascii_name: Manteigas
+        name: Manteigas
+        names_en: 
+          - Manteigas
+        names_es: ~
+        population: 3900
+      - 
+        alternate_names: 
+          - Guarda
+          - guaruda
+          - Гуарда
+        ascii_name: Guarda
+        name: Guarda
+        names_en: 
+          - Guarda
+        names_es: 
+          - Guarda
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Custoias
+        name: Custoias
+        names_en: ~
+        names_es: ~
+        population: 19406
+    name: Guarda
+    names_en: ~
+    names_es: 
+      - Guarda
+  - 
+    ascii_name: "Distrito de Coimbra"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tavarede
+        name: Tavarede
+        names_en: ~
+        names_es: ~
+        population: 8586
+      - 
+        alternate_names: 
+          - Soure
+          - Σούρε
+        ascii_name: Soure
+        name: Soure
+        names_en: 
+          - Soure
+        names_es: ~
+        population: 8416
+      - 
+        alternate_names: ~
+        ascii_name: Poiares
+        name: Poiares
+        names_en: ~
+        names_es: ~
+        population: 5514
+      - 
+        alternate_names: 
+          - "Olibeira nto Ospital"
+          - "Oliveira do Hospital"
+          - "Ολιβέιρα ντο Όσπιταλ"
+        ascii_name: "Oliveira do Hospital"
+        name: "Oliveira do Hospital"
+        names_en: 
+          - "Oliveira do Hospital"
+        names_es: 
+          - "Oliveira do Hospital"
+        population: 4704
+      - 
+        alternate_names: 
+          - "Miranda do Corvo"
+          - "Miranta nto Korbo"
+          - "Μιράντα ντο Κόρβο"
+        ascii_name: "Miranda do Corvo"
+        name: "Miranda do Corvo"
+        names_en: 
+          - "Miranda do Corvo"
+        names_es: 
+          - "Miranda do Corvo"
+        population: 7857
+      - 
+        alternate_names: 
+          - "Dunas de Mira"
+          - Mira
+        ascii_name: Mira
+        name: Mira
+        names_en: ~
+        names_es: ~
+        population: 7682
+      - 
+        alternate_names: 
+          - Lousa
+          - Lousã
+          - Louza
+        ascii_name: Lousa
+        name: Lousã
+        names_en: 
+          - Lousã
+        names_es: 
+          - Lousã
+        population: 11445
+      - 
+        alternate_names: ~
+        ascii_name: Lorvao
+        name: Lorvão
+        names_en: ~
+        names_es: ~
+        population: 4158
+      - 
+        alternate_names: ~
+        ascii_name: Lavos
+        name: Lavos
+        names_en: ~
+        names_es: ~
+        population: 4164
+      - 
+        alternate_names: 
+          - Figejra-da-Fosh
+          - "Figueira da Foz"
+          - "Phinkeira nta Phous"
+        ascii_name: "Figueira da Foz"
+        name: "Figueira da Foz"
+        names_en: 
+          - "Figueira da Foz"
+        names_es: 
+          - "Figueira da Foz"
+        population: 12050
+      - 
+        alternate_names: 
+          - Condeixa
+          - "Condeixa a Nova"
+          - Condeixa-a-Nova
+        ascii_name: "Condeixa a Nova"
+        name: "Condeixa a Nova"
+        names_en: 
+          - Condeixa-a-Nova
+        names_es: 
+          - Condeixa-a-Nova
+        population: 4613
+      - 
+        alternate_names: 
+          - Coimbra
+          - Coímbra
+          - Coïmbra
+        ascii_name: Coimbra
+        name: Coimbra
+        names_en: 
+          - Coimbra
+        names_es: 
+          - Coímbra
+        population: 106582
+      - 
+        alternate_names: 
+          - Cantanhede
+        ascii_name: Cantanhede
+        name: Cantanhede
+        names_en: ~
+        names_es: ~
+        population: 7347
+      - 
+        alternate_names: 
+          - Buarcos
+        ascii_name: Buarcos
+        name: Buarcos
+        names_en: ~
+        names_es: ~
+        population: 7865
+      - 
+        alternate_names: 
+          - Arganil
+        ascii_name: Arganil
+        name: Arganil
+        names_en: ~
+        names_es: ~
+        population: 4330
+      - 
+        alternate_names: 
+          - Araxede
+          - Arazede
+        ascii_name: Arazede
+        name: Arazede
+        names_en: ~
+        names_es: ~
+        population: 5906
+      - 
+        alternate_names: ~
+        ascii_name: Alhadas
+        name: Alhadas
+        names_en: ~
+        names_es: ~
+        population: 3768
+    name: Coimbra
+    names_en: ~
+    names_es: 
+      - Coimbra
+  - 
+    ascii_name: Braganca
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Mogadouro
+        name: Mogadouro
+        names_en: ~
+        names_es: ~
+        population: 3936
+      - 
+        alternate_names: 
+          - Mirandela
+          - Mirandella
+          - Мирандела
+        ascii_name: Mirandela
+        name: Mirandela
+        names_en: ~
+        names_es: ~
+        population: 12504
+      - 
+        alternate_names: 
+          - "Macedo de Cavaleiros"
+        ascii_name: "Macedo de Cavaleiros"
+        name: "Macedo de Cavaleiros"
+        names_en: ~
+        names_es: ~
+        population: 6566
+      - 
+        alternate_names: 
+          - Braganca
+          - Bragance
+          - Bragança
+        ascii_name: Braganca
+        name: Bragança
+        names_en: ~
+        names_es: ~
+        population: 34375
+    name: Bragança
+    names_en: 
+      - Bragança
+    names_es: 
+      - Braganza
+  - 
+    ascii_name: "Distrito de Braga"
+    cities: 
+      - 
+        alternate_names: 
+          - "Vila Verde"
+        ascii_name: "Vila Verde"
+        name: "Vila Verde"
+        names_en: ~
+        names_es: ~
+        population: 4389
+      - 
+        alternate_names: 
+          - Famalicao
+          - Famalicão
+          - "Vila Nova de Famalicao"
+        ascii_name: "Vila Nova de Famalicao"
+        name: "Vila Nova de Famalicão"
+        names_en: ~
+        names_es: ~
+        population: 9496
+      - 
+        alternate_names: 
+          - "Sao Martinho"
+          - "Sao Martinho Vila Frescainha"
+          - "São Martinho"
+        ascii_name: "Vila Frescainha"
+        name: "Vila Frescainha"
+        names_en: ~
+        names_es: ~
+        population: 4018
+      - 
+        alternate_names: ~
+        ascii_name: Urgeses
+        name: Urgeses
+        names_en: ~
+        names_es: ~
+        population: 5457
+      - 
+        alternate_names: ~
+        ascii_name: Serzedo
+        name: Serzedo
+        names_en: ~
+        names_es: ~
+        population: 8000
+      - 
+        alternate_names: 
+          - Cerzedelo
+          - Serzedelo
+        ascii_name: Serzedelo
+        name: Serzedelo
+        names_en: ~
+        names_es: ~
+        population: 4020
+      - 
+        alternate_names: 
+          - "Sao Cristovao"
+          - Selho
+          - "São Cristóvão"
+        ascii_name: Selho
+        name: Selho
+        names_en: ~
+        names_es: ~
+        population: 10223
+      - 
+        alternate_names: ~
+        ascii_name: Sande
+        name: Sande
+        names_en: ~
+        names_es: ~
+        population: 7789
+      - 
+        alternate_names: 
+          - Ronfe
+          - Roufe
+        ascii_name: Ronfe
+        name: Ronfe
+        names_en: ~
+        names_es: ~
+        population: 4888
+      - 
+        alternate_names: ~
+        ascii_name: Ribeirao
+        name: Ribeirão
+        names_en: ~
+        names_es: ~
+        population: 8735
+      - 
+        alternate_names: ~
+        ascii_name: "Refojos de Basto"
+        name: "Refojos de Basto"
+        names_en: ~
+        names_es: ~
+        population: 5037
+      - 
+        alternate_names: ~
+        ascii_name: Real
+        name: Real
+        names_en: ~
+        names_es: ~
+        population: 5827
+      - 
+        alternate_names: ~
+        ascii_name: Prado
+        name: Prado
+        names_en: ~
+        names_es: ~
+        population: 4518
+      - 
+        alternate_names: ~
+        ascii_name: "Povoa de Lanhoso"
+        name: "Póvoa de Lanhoso"
+        names_en: ~
+        names_es: ~
+        population: 5008
+      - 
+        alternate_names: ~
+        ascii_name: Ponte
+        name: Ponte
+        names_en: ~
+        names_es: ~
+        population: 7041
+      - 
+        alternate_names: ~
+        ascii_name: Oliveira
+        name: Oliveira
+        names_en: ~
+        names_es: ~
+        population: 6222
+      - 
+        alternate_names: ~
+        ascii_name: "Moreira de Conegos"
+        name: "Moreira de Conegos"
+        names_en: ~
+        names_es: ~
+        population: 5607
+      - 
+        alternate_names: ~
+        ascii_name: Marinhas
+        name: Marinhas
+        names_en: ~
+        names_es: ~
+        population: 6052
+      - 
+        alternate_names: 
+          - Lordello
+          - Lordelo
+        ascii_name: Lordelo
+        name: Lordelo
+        names_en: ~
+        names_es: ~
+        population: 4560
+      - 
+        alternate_names: ~
+        ascii_name: Joane
+        name: Joane
+        names_en: ~
+        names_es: ~
+        population: 7869
+      - 
+        alternate_names: 
+          - Gimarajnsh
+          - Guimaraes
+          - Guimarais
+        ascii_name: Guimaraes
+        name: Guimarães
+        names_en: 
+          - Guimarães
+        names_es: 
+          - Guimarães
+        population: 40604
+      - 
+        alternate_names: 
+          - Galegos
+          - "Santa Maria"
+        ascii_name: Galegos
+        name: Galegos
+        names_en: ~
+        names_es: ~
+        population: 5404
+      - 
+        alternate_names: ~
+        ascii_name: Ferreiros
+        name: Ferreiros
+        names_en: ~
+        names_es: ~
+        population: 7870
+      - 
+        alternate_names: 
+          - Fafe
+          - Фафе
+        ascii_name: Fafe
+        name: Fafe
+        names_en: ~
+        names_es: ~
+        population: 16868
+      - 
+        alternate_names: ~
+        ascii_name: Esposende
+        name: Esposende
+        names_en: ~
+        names_es: ~
+        population: 34625
+      - 
+        alternate_names: 
+          - Ehshpozende
+          - Esposende
+          - Espozende
+        ascii_name: Esposende
+        name: Esposende
+        names_en: ~
+        names_es: ~
+        population: 34625
+      - 
+        alternate_names: 
+          - Candoso
+          - Santiago
+        ascii_name: Candoso
+        name: Candoso
+        names_en: ~
+        names_es: ~
+        population: 3893
+      - 
+        alternate_names: ~
+        ascii_name: Calendario
+        name: Calendário
+        names_en: ~
+        names_es: ~
+        population: 11357
+      - 
+        alternate_names: ~
+        ascii_name: Caldelas
+        name: Caldelas
+        names_en: ~
+        names_es: ~
+        population: 5724
+      - 
+        alternate_names: 
+          - "Caldas de Vizela"
+          - "Sao Miguel"
+          - "São Miguel"
+        ascii_name: "Caldas de Vizela"
+        name: "Caldas de Vizela"
+        names_en: ~
+        names_es: ~
+        population: 10239
+      - 
+        alternate_names: ~
+        ascii_name: Brito
+        name: Brito
+        names_en: ~
+        names_es: ~
+        population: 5051
+      - 
+        alternate_names: 
+          - "Bracara Augusta"
+          - Braga
+          - Mpranka
+        ascii_name: Braga
+        name: Braga
+        names_en: 
+          - Braga
+        names_es: 
+          - Braga
+        population: 121394
+      - 
+        alternate_names: 
+          - Barcelos
+        ascii_name: Barcelos
+        name: Barcelos
+        names_en: ~
+        names_es: ~
+        population: 19085
+      - 
+        alternate_names: 
+          - Aroes
+          - Arões
+          - "Sao Romao"
+        ascii_name: Aroes
+        name: Arões
+        names_en: ~
+        names_es: ~
+        population: 4855
+      - 
+        alternate_names: 
+          - Apulia
+          - Apúlia
+        ascii_name: Apulia
+        name: Apúlia
+        names_en: ~
+        names_es: ~
+        population: 4394
+      - 
+        alternate_names: ~
+        ascii_name: Antas
+        name: Antas
+        names_en: ~
+        names_es: ~
+        population: 5569
+      - 
+        alternate_names: ~
+        ascii_name: Adaufe
+        name: Adaúfe
+        names_en: ~
+        names_es: ~
+        population: 3850
+    name: Braga
+    names_en: ~
+    names_es: 
+      - Braga
+  - 
+    ascii_name: Aveiro
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Vila Cha"
+        name: "Vila Chã"
+        names_en: ~
+        names_es: ~
+        population: 4295
+      - 
+        alternate_names: ~
+        ascii_name: Valongo
+        name: Valongo
+        names_en: ~
+        names_es: ~
+        population: 5085
+      - 
+        alternate_names: ~
+        ascii_name: Valega
+        name: Válega
+        names_en: ~
+        names_es: ~
+        population: 7005
+      - 
+        alternate_names: 
+          - "Vale de Cambra"
+          - "Vila de Vale de Cambra"
+        ascii_name: "Vale de Cambra"
+        name: "Vale de Cambra"
+        names_en: ~
+        names_es: ~
+        population: 7649
+      - 
+        alternate_names: ~
+        ascii_name: Vagos
+        name: Vagos
+        names_en: ~
+        names_es: ~
+        population: 4529
+      - 
+        alternate_names: ~
+        ascii_name: Souto
+        name: Souto
+        names_en: ~
+        names_es: ~
+        population: 4922
+      - 
+        alternate_names: ~
+        ascii_name: Silvalde
+        name: Silvalde
+        names_en: ~
+        names_es: ~
+        population: 7188
+      - 
+        alternate_names: ~
+        ascii_name: "Sao Roque"
+        name: "São Roque"
+        names_en: ~
+        names_es: ~
+        population: 5575
+      - 
+        alternate_names: ~
+        ascii_name: "Sao Joao de Ver"
+        name: "São João de Ver"
+        names_en: ~
+        names_es: ~
+        population: 9568
+      - 
+        alternate_names: 
+          - San-Zhuan-da-Madejra
+          - "Santo Joao da Madeira"
+          - "Santo João da Madeira"
+        ascii_name: "Sao Joao da Madeira"
+        name: "São João da Madeira"
+        names_en: ~
+        names_es: ~
+        population: 22079
+      - 
+        alternate_names: ~
+        ascii_name: "Sao Joao"
+        name: "São João"
+        names_en: ~
+        names_es: ~
+        population: 6762
+      - 
+        alternate_names: ~
+        ascii_name: Sangalhos
+        name: Sangalhos
+        names_en: ~
+        names_es: ~
+        population: 4516
+      - 
+        alternate_names: ~
+        ascii_name: Salreu
+        name: Salreu
+        names_en: ~
+        names_es: ~
+        population: 4141
+      - 
+        alternate_names: ~
+        ascii_name: "Rio Meao"
+        name: "Rio Meão"
+        names_en: ~
+        names_es: ~
+        population: 4802
+      - 
+        alternate_names: ~
+        ascii_name: Pardilho
+        name: Pardilhó
+        names_en: ~
+        names_es: ~
+        population: 4169
+      - 
+        alternate_names: 
+          - Pampilhosa
+          - "Pampilhosa do Bobao"
+          - "Pampilhosa do Bobão"
+        ascii_name: "Pampilhosa do Botao"
+        name: "Pampilhosa do Botão"
+        names_en: ~
+        names_es: ~
+        population: 4512
+      - 
+        alternate_names: 
+          - "Pacos de Brandao"
+          - "Paços de Brandão"
+        ascii_name: "Pacos de Brandao"
+        name: "Paços de Brandão"
+        names_en: ~
+        names_es: ~
+        population: 4637
+      - 
+        alternate_names: 
+          - Ovar
+          - Овар
+        ascii_name: Ovar
+        name: Ovar
+        names_en: ~
+        names_es: ~
+        population: 18452
+      - 
+        alternate_names: ~
+        ascii_name: Oliveirinha
+        name: Oliveirinha
+        names_en: ~
+        names_es: ~
+        population: 4971
+      - 
+        alternate_names: 
+          - "Oliveira de Bairro"
+          - "Oliveira do Bairro"
+        ascii_name: "Oliveira do Bairro"
+        name: "Oliveira do Bairro"
+        names_en: ~
+        names_es: ~
+        population: 6239
+      - 
+        alternate_names: 
+          - "Oliveira de Azemeis"
+          - "Oliveira de Azeméis"
+          - Olivejra-de-Azemejsh
+        ascii_name: "Oliveira de Azemeis"
+        name: "Oliveira de Azemeis"
+        names_en: 
+          - "Oliveira de Azeméis"
+        names_es: 
+          - "Oliveira de Azeméis"
+        population: 11771
+      - 
+        alternate_names: ~
+        ascii_name: Oia
+        name: Oiã
+        names_en: ~
+        names_es: ~
+        population: 7118
+      - 
+        alternate_names: 
+          - Nogueira
+          - "Nogueira da Regedoura"
+        ascii_name: "Nogueira da Regedoura"
+        name: "Nogueira da Regedoura"
+        names_en: ~
+        names_es: ~
+        population: 5328
+      - 
+        alternate_names: ~
+        ascii_name: "Milheiros de Poiares"
+        name: "Milheirós de Poiares"
+        names_en: ~
+        names_es: ~
+        population: 4339
+      - 
+        alternate_names: 
+          - Mealhada
+        ascii_name: Mealhada
+        name: Mealhada
+        names_en: ~
+        names_es: ~
+        population: 4443
+      - 
+        alternate_names: ~
+        ascii_name: "Macieira de Cambra"
+        name: "Macieira de Cambra"
+        names_en: ~
+        names_es: ~
+        population: 4909
+      - 
+        alternate_names: 
+          - Lourosa
+          - Louroza
+        ascii_name: Lourosa
+        name: Lourosa
+        names_en: ~
+        names_es: ~
+        population: 9619
+      - 
+        alternate_names: 
+          - Lobao
+          - Lobão
+        ascii_name: Lobao
+        name: Lobão
+        names_en: ~
+        names_es: ~
+        population: 6049
+      - 
+        alternate_names: ~
+        ascii_name: Lamas
+        name: Lamas
+        names_en: ~
+        names_es: ~
+        population: 5628
+      - 
+        alternate_names: 
+          - Ilhavo
+          - Ílhavo
+        ascii_name: Ilhavo
+        name: Ílhavo
+        names_en: ~
+        names_es: ~
+        population: 17236
+      - 
+        alternate_names: 
+          - Gafanha
+          - "Gafanha da Nazare"
+          - "Gafanha da Nazaré"
+        ascii_name: "Gafanha da Nazare"
+        name: "Gafanha da Nazaré"
+        names_en: ~
+        names_es: ~
+        population: 14840
+      - 
+        alternate_names: ~
+        ascii_name: "Gafanha da Encarnacao"
+        name: "Gafanha da Encarnação"
+        names_en: ~
+        names_es: ~
+        population: 4914
+      - 
+        alternate_names: 
+          - Fiaes
+          - Fiais
+          - Fiães
+        ascii_name: Fiaes
+        name: Fiães
+        names_en: ~
+        names_es: ~
+        population: 8708
+      - 
+        alternate_names: ~
+        ascii_name: Feira
+        name: Feira
+        names_en: ~
+        names_es: ~
+        population: 16376
+      - 
+        alternate_names: 
+          - Espinho
+          - Espinio
+          - Εσπίνιο
+        ascii_name: Espinho
+        name: Espinho
+        names_en: 
+          - Espinho
+        names_es: 
+          - Espinho
+        population: 9566
+      - 
+        alternate_names: 
+          - Esmoris
+        ascii_name: Esmoriz
+        name: Esmoriz
+        names_en: ~
+        names_es: ~
+        population: 11393
+      - 
+        alternate_names: ~
+        ascii_name: Eixo
+        name: Eixo
+        names_en: ~
+        names_es: ~
+        population: 5978
+      - 
+        alternate_names: 
+          - "Couto de Cocujaes"
+          - "Couto de Cocujães"
+          - Cucujaes
+        ascii_name: Cucujaes
+        name: Cucujães
+        names_en: ~
+        names_es: ~
+        population: 11087
+      - 
+        alternate_names: ~
+        ascii_name: Cortegaca
+        name: Cortegaça
+        names_en: ~
+        names_es: ~
+        population: 4139
+      - 
+        alternate_names: ~
+        ascii_name: Branca
+        name: Branca
+        names_en: ~
+        names_es: ~
+        population: 5632
+      - 
+        alternate_names: ~
+        ascii_name: Beduido
+        name: Beduido
+        names_en: ~
+        names_es: ~
+        population: 8201
+      - 
+        alternate_names: 
+          - Abeiro
+          - Aveiro
+          - Avejru
+        ascii_name: Aveiro
+        name: Aveiro
+        names_en: 
+          - Aveiro
+        names_es: 
+          - Aveiro
+        population: 54162
+      - 
+        alternate_names: ~
+        ascii_name: Avanca
+        name: Avanca
+        names_en: ~
+        names_es: ~
+        population: 6540
+      - 
+        alternate_names: 
+          - Arrifana
+        ascii_name: Arrifana
+        name: Arrifana
+        names_en: ~
+        names_es: ~
+        population: 6927
+      - 
+        alternate_names: 
+          - Argoncilhe
+        ascii_name: Argoncilhe
+        name: Argoncilhe
+        names_en: ~
+        names_es: ~
+        population: 8743
+      - 
+        alternate_names: ~
+        ascii_name: Arcos
+        name: Arcos
+        names_en: ~
+        names_es: ~
+        population: 6725
+      - 
+        alternate_names: ~
+        ascii_name: Aradas
+        name: Aradas
+        names_en: ~
+        names_es: ~
+        population: 7295
+      - 
+        alternate_names: 
+          - Albergaria
+          - Albergaria-a-Velha
+        ascii_name: Albergaria-a-Velha
+        name: Albergaria-a-Velha
+        names_en: ~
+        names_es: ~
+        population: 7974
+      - 
+        alternate_names: 
+          - Agueda
+          - Águeda
+        ascii_name: Agueda
+        name: Águeda
+        names_en: ~
+        names_es: ~
+        population: 11941
+      - 
+        alternate_names: ~
+        ascii_name: "Aguada de Cima"
+        name: "Aguada de Cima"
+        names_en: ~
+        names_es: ~
+        population: 4388
+    name: Aveiro
+    names_en: 
+      - Aveiro
+    names_es: 
+      - Aveiro
+  - 
+    ascii_name: "Regiao Autonoma dos Acores"
+    cities: 
+      - 
+        alternate_names: 
+          - "Vila Franca do Campo"
+          - "Villa Franca do Campo"
+        ascii_name: "Vila Franca do Campo"
+        name: "Vila Franca do Campo"
+        names_en: ~
+        names_es: ~
+        population: 5035
+      - 
+        alternate_names: 
+          - "San Roque"
+          - San-Roke-du-Piku
+          - "Sao Roque"
+        ascii_name: "Sao Roque do Pico"
+        name: "São Roque do Pico"
+        names_en: ~
+        names_es: ~
+        population: 3705
+      - 
+        alternate_names: 
+          - "Rosto de Cao"
+          - "Rosto de Cão"
+          - "Rosto do Cao"
+        ascii_name: "Rosto de Cao"
+        name: "Rosto de Cão"
+        names_en: ~
+        names_es: ~
+        population: 7880
+      - 
+        alternate_names: ~
+        ascii_name: "Ribeira Grande"
+        name: "Ribeira Grande"
+        names_en: ~
+        names_es: ~
+        population: 5198
+      - 
+        alternate_names: 
+          - "Rabo de Peixe"
+          - "Ribo de Peixe"
+        ascii_name: "Rabo de Peixe"
+        name: "Rabo de Peixe"
+        names_en: ~
+        names_es: ~
+        population: 7681
+      - 
+        alternate_names: 
+          - Praia
+          - "Praia da Victoria"
+          - "Praia da Vitoria"
+        ascii_name: "Praia da Vitoria"
+        name: "Praia da Vitória"
+        names_en: ~
+        names_es: ~
+        population: 6061
+      - 
+        alternate_names: ~
+        ascii_name: "Ponta Delgada"
+        name: "Ponta Delgada"
+        names_en: ~
+        names_es: ~
+        population: 20056
+      - 
+        alternate_names: 
+          - Magdalena
+        ascii_name: Madalena
+        name: Madalena
+        names_en: ~
+        names_es: ~
+        population: 6136
+      - 
+        alternate_names: ~
+        ascii_name: Lagoa
+        name: Lagoa
+        names_en: ~
+        names_es: ~
         population: 9239
-        slug: lagoa
       - 
-        districts: []
-        location: "POINT (38.5333299999999994 -28.6333300000000008)"
+        alternate_names: 
+          - Horta
+        ascii_name: Horta
         name: Horta
+        names_en: ~
+        names_es: ~
         population: 6572
-        slug: horta
       - 
-        districts: []
-        location: "POINT (37.7756699999999981 -25.3103499999999997)"
+        alternate_names: 
+          - Furnash
+          - Фурнаш
+        ascii_name: Furnas
         name: Furnas
+        names_en: ~
+        names_es: ~
         population: 1599
-        slug: furnas
       - 
-        districts: []
-        location: "POINT (37.7500000000000000 -25.6499999999999986)"
+        alternate_names: 
+          - "Faja de Baixo"
+          - "Fajã de Baixo"
+        ascii_name: "Faja de Baixo"
         name: "Fajã de Baixo"
+        names_en: ~
+        names_es: ~
         population: 4915
-        slug: faja-de-baixo
       - 
-        districts: []
-        location: "POINT (38.7833299999999994 -27.2500000000000000)"
+        alternate_names: 
+          - Biscoitos
+          - Biscoutos
+          - Bishkojtush
+        ascii_name: Biscoitos
         name: Biscoitos
+        names_en: ~
+        names_es: ~
         population: 1425
-        slug: biscoitos
       - 
-        districts: []
-        location: "POINT (37.7666699999999977 -25.6999999999999993)"
+        alternate_names: 
+          - Arrafes
+          - Arrifes
+        ascii_name: Arrifes
         name: Arrifes
+        names_en: ~
+        names_es: ~
         population: 6981
-        slug: arrifes
       - 
-        districts: []
-        location: "POINT (38.6499999999999986 -27.2166700000000006)"
+        alternate_names: 
+          - Angra
+          - "Angra do Heroismo"
+          - "Angra do Heroísmo"
+        ascii_name: "Angra do Heroismo"
         name: "Angra do Heroísmo"
+        names_en: 
+          - "Angra do Heroísmo"
+        names_es: 
+          - "Angra do Heroísmo"
         population: 12045
-        slug: angra-do-heroismo
-    code: PT.23
     name: Azores
-    slug: azores
-tld: pt
+    names_en: ~
+    names_es: 
+      - Azores

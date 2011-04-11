@@ -1,98 +1,158 @@
 --- 
-code: DJ
-continent: AF
 name: Djibouti
-population: 740528
+names_en: 
+  - Djibouti
+  - "Republic of Djibouti"
+names_es: 
+  - Yibuti
+  - Djibuti
 regions: 
   - 
+    ascii_name: "Region de Tadjourah"
     cities: 
       - 
-        districts: []
-        location: "POINT (11.5222200000000008 42.8419400000000010)"
-        name: ‘Arta
-        population: 6025
-        slug: arta
-      - 
-        districts: []
-        location: "POINT (11.3102800000000006 42.9294399999999996)"
-        name: Holhol
-        population: 3519
-        slug: holhol
-      - 
-        districts: []
-        location: "POINT (11.1558299999999999 42.7124999999999986)"
-        name: "‘Ali Sabieh"
-        population: 40074
-        slug: ali-sabieh
-    code: DJ.01
-    name: "Ali Sabieh"
-    slug: ali-sabieh
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (11.9630600000000005 43.2905599999999993)"
-        name: Obock
-        population: 17776
-        slug: obock
-      - 
-        districts: []
-        location: "POINT (12.4216700000000007 42.8955600000000032)"
-        name: "Alaïli Ḏaḏḏa‘"
-        population: 1456
-        slug: alaili-dadda
-    code: DJ.04
-    name: Obock
-    slug: obock
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (11.7852800000000002 42.8844399999999979)"
+        alternate_names: 
+          - Tadjoura
+          - Tadjura
+          - Tadzhura
+        ascii_name: Tadjoura
         name: Tadjoura
+        names_en: 
+          - Tadjoura
+        names_es: 
+          - Tadjoura
         population: 22193
-        slug: tadjoura
       - 
-        districts: []
-        location: "POINT (12.1494400000000002 42.4774999999999991)"
+        alternate_names: ~
+        ascii_name: Dorra
         name: Dorra
+        names_en: ~
+        names_es: ~
         population: 1873
-        slug: dorra
-    code: DJ.05
     name: Tadjourah
-    slug: tadjourah
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region d' Obock"
     cities: 
       - 
-        districts: []
-        location: "POINT (11.1086100000000005 42.3738900000000029)"
-        name: Dikhil
-        population: 12043
-        slug: dikhil
+        alternate_names: 
+          - Hayyou
+          - Obock
+          - Obok
+        ascii_name: Obock
+        name: Obock
+        names_en: 
+          - Obock
+        names_es: 
+          - Obock
+        population: 17776
       - 
-        districts: []
-        location: "POINT (11.7158300000000004 41.8361099999999979)"
-        name: Gâlâfi
-        population: 1849
-        slug: galafi
-    code: DJ.06
-    name: Dikhil
-    slug: dikhil
+        alternate_names: 
+          - "Alaili Dadda`"
+          - "Alayli Dadda`"
+          - "Alayli Ḏaḏḏa‘"
+        ascii_name: "Alaili Dadda`"
+        name: "Alaïli Ḏaḏḏa‘"
+        names_en: ~
+        names_es: ~
+        population: 1456
+    name: Obock
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Ville de Djibouti"
     cities: 
       - 
-        districts: []
-        location: "POINT (11.4611099999999997 43.2527800000000013)"
+        alternate_names: 
+          - La-waada
+          - "Loya Ada"
+          - Loyada
+        ascii_name: Loyada
         name: Loyada
+        names_en: ~
+        names_es: ~
         population: 1646
-        slug: loyada
       - 
-        districts: []
-        location: "POINT (11.5876699999999992 43.1446800000000010)"
+        alternate_names: 
+          - Cibuti
+          - Djibouti
+          - Djibuti
+        ascii_name: Djibouti
         name: Djibouti
+        names_en: 
+          - Djibouti
+        names_es: 
+          - Yibuti
         population: 623891
-        slug: djibouti
-    code: DJ.07
     name: Djibouti
-    slug: djibouti
-tld: dj
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region de Dikhil"
+    cities: 
+      - 
+        alternate_names: 
+          - Dicchil
+          - Dikhil
+          - Dikil
+        ascii_name: Dikhil
+        name: Dikhil
+        names_en: 
+          - Dikhil
+        names_es: ~
+        population: 12043
+      - 
+        alternate_names: ~
+        ascii_name: Galafi
+        name: Gâlâfi
+        names_en: ~
+        names_es: ~
+        population: 1849
+    name: Dikhil
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region d' Ali Sabieh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hol Holl"
+          - Holhol
+          - Holl-Holl
+        ascii_name: Holhol
+        name: Holhol
+        names_en: ~
+        names_es: ~
+        population: 3519
+      - 
+        alternate_names: 
+          - "Ali Sabie"
+          - "Ali Sabiet"
+          - "Ali Sabih"
+        ascii_name: "`Ali Sabieh"
+        name: "‘Ali Sabieh"
+        names_en: 
+          - "Ali Sabih"
+        names_es: ~
+        population: 40074
+    name: "Ali Sabieh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region d' Arta"
+    cities: 
+      - 
+        alternate_names: 
+          - Arta
+          - "`Arta"
+          - ‘Arta
+        ascii_name: "`Arta"
+        name: ‘Arta
+        names_en: 
+          - Arta
+        names_es: ~
+        population: 6025
+    name: Arta
+    names_en: ~
+    names_es: ~

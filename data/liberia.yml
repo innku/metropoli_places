@@ -1,125 +1,273 @@
 --- 
-code: LR
-continent: AF
 name: Liberia
-population: 3685076
+names_en: 
+  - Liberia
+names_es: 
+  - Liberia
 regions: 
   - 
+    ascii_name: "Sinoe County"
     cities: 
       - 
-        districts: []
-        location: "POINT (7.5794400000000000 -8.5377799999999997)"
-        name: "New Yekepa"
-        population: 24695
-        slug: new-yekepa
-      - 
-        districts: []
-        location: "POINT (6.0666700000000002 -8.1280599999999996)"
-        name: Zwedru
-        population: 25678
-        slug: zwedru
-      - 
-        districts: []
-        location: "POINT (7.3622199999999998 -8.7061100000000007)"
-        name: Sanniquellie
-        population: 11415
-        slug: sanniquellie
-      - 
-        districts: []
-        location: "POINT (4.3750000000000000 -7.7169400000000001)"
-        name: Harper
-        population: 32661
-        slug: harper
-      - 
-        districts: []
-        location: "POINT (7.3022200000000002 -8.5308299999999999)"
-        name: Ganta
-        population: 13802
-        slug: ganta
-      - 
-        districts: []
-        location: "POINT (5.1963900000000001 -7.8755600000000001)"
-        name: "Fish Town"
-        population: 3328
-        slug: fish-town
-      - 
-        districts: []
-        location: "POINT (8.4219399999999993 -9.7477800000000006)"
-        name: Voinjama
-        population: 26594
-        slug: voinjama
-      - 
-        districts: []
-        location: "POINT (4.6797199999999997 -8.2338900000000006)"
-        name: Barclayville
-        population: 2733
-        slug: barclayville
-      - 
-        districts: []
-        location: "POINT (5.0111100000000004 -9.0388900000000003)"
+        alternate_names: 
+          - Greenville
+          - Sino
+          - Sinoe
+        ascii_name: Greenville
         name: Greenville
+        names_en: ~
+        names_es: ~
         population: 16434
-        slug: greenville
-    code: LR.09
-    name: Nimba
-    slug: nimba
+    name: Sinoe
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Nimba County"
     cities: 
       - 
-        districts: []
-        location: "POINT (5.4600000000000000 -9.5827799999999996)"
-        name: "River Cess"
-        population: 0
-        slug: river-cess
+        alternate_names: 
+          - Lamco
+          - "Lamco Community"
+          - "New Yekepa"
+        ascii_name: "New Yekepa"
+        name: "New Yekepa"
+        names_en: ~
+        names_es: ~
+        population: 24695
       - 
-        districts: []
-        location: "POINT (5.8808299999999996 -10.0466700000000007)"
-        name: Buchanan
-        population: 25731
-        slug: buchanan
+        alternate_names: 
+          - Sanaquelli
+          - Sangbui
+          - Saniquellie
+        ascii_name: Sanniquellie
+        name: Sanniquellie
+        names_en: ~
+        names_es: ~
+        population: 11415
       - 
-        districts: []
-        location: "POINT (6.3005399999999998 -10.7969000000000008)"
+        alternate_names: ~
+        ascii_name: Ganta
+        name: Ganta
+        names_en: ~
+        names_es: ~
+        population: 13802
+    name: Nimba
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Montserrado County"
+    cities: 
+      - 
+        alternate_names: 
+          - Monrobia
+          - Monrovia
+          - Monrovija
+        ascii_name: Monrovia
         name: Monrovia
+        names_en: 
+          - Monrovia
+        names_es: 
+          - Monrovia
         population: 939524
-        slug: monrovia
       - 
-        districts: []
-        location: "POINT (7.0666700000000002 -10.4875000000000007)"
-        name: Bopolu
-        population: 2908
-        slug: bopolu
-      - 
-        districts: []
-        location: "POINT (6.5300000000000002 -10.3516700000000004)"
-        name: Kakata
-        population: 33945
-        slug: kakata
-      - 
-        districts: []
-        location: "POINT (6.9955600000000002 -9.4722200000000001)"
-        name: Gbarnga
-        population: 45835
-        slug: gbarnga
-      - 
-        districts: []
-        location: "POINT (6.7533300000000001 -11.3686100000000003)"
-        name: Robertsport
-        population: 11969
-        slug: robertsport
-      - 
-        districts: []
-        location: "POINT (6.4461100000000000 -10.6125000000000007)"
+        alternate_names: 
+          - Bensonville
+          - Bentol
+          - "Bentol City"
+        ascii_name: Bensonville
         name: Bensonville
+        names_en: ~
+        names_es: ~
         population: 33188
-        slug: bensonville
-      - 
-        districts: []
-        location: "POINT (6.8708299999999998 -10.8172200000000007)"
-        name: Tubmanburg
-        population: 3155
-        slug: tubmanburg
-    code: LR.14
     name: Montserrado
-    slug: montserrado
-tld: lr
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Maryland County"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cape Palmas"
+          - Harper
+        ascii_name: Harper
+        name: Harper
+        names_en: ~
+        names_es: ~
+        population: 32661
+    name: Maryland
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lofa County"
+    cities: 
+      - 
+        alternate_names: 
+          - Voinjama
+          - Voinyamai
+          - Vonjama
+        ascii_name: Voinjama
+        name: Voinjama
+        names_en: ~
+        names_es: ~
+        population: 26594
+    name: Lofa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Grand Gedeh County"
+    cities: 
+      - 
+        alternate_names: 
+          - Tchien
+          - Zvedru
+          - Zwadhru
+        ascii_name: Zwedru
+        name: Zwedru
+        names_en: ~
+        names_es: ~
+        population: 25678
+    name: "Grand Gedeh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Grand Cape Mount County"
+    cities: 
+      - 
+        alternate_names: 
+          - "Port Robert"
+          - "Robert Port"
+          - Robertson
+        ascii_name: Robertsport
+        name: Robertsport
+        names_en: 
+          - Robertsport
+        names_es: ~
+        population: 11969
+    name: "Grand Cape Mount"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Grand Bassa County"
+    cities: 
+      - 
+        alternate_names: 
+          - B'jukenen
+          - Buchanan
+          - "Fish Town"
+        ascii_name: Buchanan
+        name: Buchanan
+        names_en: ~
+        names_es: ~
+        population: 25731
+    name: "Grand Bassa"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bong County"
+    cities: 
+      - 
+        alternate_names: 
+          - Gbanga
+          - Gbanka
+          - Gbarnga
+        ascii_name: Gbarnga
+        name: Gbarnga
+        names_en: ~
+        names_es: ~
+        population: 45835
+    name: Bong
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bomi County"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bomi Hills"
+          - Tubmanburg
+          - "Vai Tieda"
+        ascii_name: Tubmanburg
+        name: Tubmanburg
+        names_en: ~
+        names_es: ~
+        population: 3155
+    name: Bomi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Grand Kru County"
+    cities: 
+      - 
+        alternate_names: 
+          - Barclayville
+          - Barlayville
+        ascii_name: Barclayville
+        name: Barclayville
+        names_en: ~
+        names_es: ~
+        population: 2733
+    name: "Grand Kru"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Margibi County"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kakata
+        name: Kakata
+        names_en: ~
+        names_es: ~
+        population: 33945
+    name: Margibi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "River Cess County"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cesstos City"
+          - Niboinkui
+          - "River Cess"
+        ascii_name: "River Cess"
+        name: "River Cess"
+        names_en: 
+          - "River Cess"
+        names_es: ~
+        population: 0
+    name: "River Cess"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gbarpolu County"
+    cities: 
+      - 
+        alternate_names: 
+          - Bopolu
+          - Bopora
+          - Boporo
+        ascii_name: Bopolu
+        name: Bopolu
+        names_en: ~
+        names_es: ~
+        population: 2908
+    name: Gbarpolu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "River Gee County"
+    cities: 
+      - 
+        alternate_names: 
+          - Datoda
+          - "Fish Town"
+          - Tendekehn
+        ascii_name: "Fish Town"
+        name: "Fish Town"
+        names_en: ~
+        names_es: ~
+        population: 3328
+    name: "River Gee"
+    names_en: ~
+    names_es: ~

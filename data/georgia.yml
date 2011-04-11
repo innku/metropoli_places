@@ -1,572 +1,709 @@
 --- 
-code: GE
-continent: AS
 name: Georgia
-population: 4630000
+names_en: 
+  - Georgia
+  - "Georgian Soviet Socialist Republic"
+names_es: 
+  - Georgia
 regions: 
   - 
+    ascii_name: "K'alak'i T'bilisi"
     cities: 
       - 
-        districts: []
-        location: "POINT (42.3412900000000008 42.5975999999999999)"
-        name: Tsqaltubo
-        population: 16736
-        slug: tsqaltubo
-      - 
-        districts: []
-        location: "POINT (41.7075000000000031 42.8457200000000000)"
-        name: Abastumani
-        population: 1285
-        slug: abastumani
-      - 
-        districts: []
-        location: "POINT (42.1318100000000015 44.7726400000000027)"
-        name: Zhinvali
-        population: 3446
-        slug: zhinvali
-      - 
-        districts: []
-        location: "POINT (41.8245799999999974 44.7536100000000019)"
-        name: Zahesi
-        population: 1933
-        slug: zahesi
-      - 
-        districts: []
-        location: "POINT (42.0831999999999979 42.5216300000000018)"
-        name: Vani
-        population: 4265
-        slug: vani
-      - 
-        districts: []
-        location: "POINT (41.6155800000000013 42.8722399999999979)"
-        name: Vale
-        population: 4733
-        slug: vale
-      - 
-        districts: []
-        location: "POINT (41.6208799999999997 45.9694300000000027)"
-        name: Tsnori
-        population: 6609
-        slug: tsnori
-      - 
-        districts: []
-        location: "POINT (41.6947199999999967 44.6986100000000022)"
-        name: Tsqnet’i
-        population: 4172
-        slug: tsqneti
-      - 
-        districts: []
-        location: "POINT (41.8931499999999986 45.5712899999999976)"
-        name: Tsinandali
-        population: 3800
-        slug: tsinandali
-      - 
-        districts: []
-        location: "POINT (41.5945999999999998 44.0890899999999988)"
-        name: Tsalka
-        population: 1570
-        slug: tsalka
-      - 
-        districts: []
-        location: "POINT (42.8403500000000008 41.6800700000000006)"
-        name: Tqvarch'eli
-        population: 17847
-        slug: tqvarcheli
-      - 
-        districts: []
-        location: "POINT (42.3512100000000018 42.9987399999999980)"
-        name: Tqibuli
-        population: 13201
-        slug: tqibuli
-      - 
-        districts: []
-        location: "POINT (41.5444800000000001 44.4615300000000033)"
-        name: "T’et’ri Tsqaro"
-        population: 3624
-        slug: tetri-tsqaro
-      - 
-        districts: []
-        location: "POINT (41.9197800000000029 45.4731499999999969)"
-        name: T’elavi
-        population: 21800
-        slug: telavi
-      - 
-        districts: []
-        location: "POINT (41.6204600000000013 45.9219799999999978)"
-        name: Sighnaghi
-        population: 1923
-        slug: sighnaghi
-      - 
-        districts: []
-        location: "POINT (41.3527199999999979 44.7617800000000017)"
-        name: Naghvarevi
-        population: 5238
-        slug: naghvarevi
-      - 
-        districts: []
-        location: "POINT (42.1537000000000006 42.3351699999999980)"
-        name: Samtredia
-        population: 28748
-        slug: samtredia
-      - 
-        districts: []
-        location: "POINT (41.7339699999999993 45.3314799999999991)"
-        name: Sagarejo
-        population: 12173
-        slug: sagarejo
-      - 
-        districts: []
-        location: "POINT (41.9549200000000013 45.8171600000000012)"
-        name: Qvareli
-        population: 8612
-        slug: qvareli
-      - 
-        districts: []
-        location: "POINT (42.3506000000000000 44.6891200000000026)"
-        name: P’asanauri
-        population: 2904
-        slug: pasanauri
-      - 
-        districts: []
-        location: "POINT (42.7123199999999983 41.4686299999999974)"
-        name: Och’amch’ire
-        population: 15517
-        slug: ochamchire
-      - 
-        districts: []
-        location: "POINT (41.8451400000000007 44.7187500000000000)"
-        name: Mts’khet’a
-        population: 7423
-        slug: mtskheta
-      - 
-        districts: []
-        location: "POINT (41.4758799999999965 44.8089399999999998)"
-        name: Marneuli
-        population: 18755
-        slug: marneuli
-      - 
-        districts: []
-        location: "POINT (41.6969800000000035 44.3844800000000035)"
-        name: Manglisi
-        population: 4817
-        slug: manglisi
-      - 
-        districts: []
-        location: "POINT (42.7855599999999967 42.7261099999999985)"
-        name: Lentekhi
-        population: 10442
-        slug: lentekhi
-      - 
-        districts: []
-        location: "POINT (42.0897999999999968 43.0866200000000035)"
-        name: Shorapani
-        population: 1699
-        slug: shorapani
-      - 
-        districts: []
-        location: "POINT (41.8268100000000018 46.2766700000000029)"
-        name: Lagodekhi
-        population: 6550
-        slug: lagodekhi
-      - 
-        districts: []
-        location: "POINT (41.6941100000000020 44.8336800000000011)"
+        alternate_names: 
+          - Kalak
+          - TBILISI
+          - Tbilisi
+        ascii_name: Tbilisi
         name: Tbilisi
+        names_en: 
+          - Tbilisi
+        names_es: 
+          - Tiflis
         population: 1049498
-        slug: tbilisi
-      - 
-        districts: []
-        location: "POINT (42.2044399999999982 42.3494400000000013)"
-        name: Kulashi
-        population: 2691
-        slug: kulashi
-      - 
-        districts: []
-        location: "POINT (42.3226000000000013 42.4206100000000035)"
-        name: Khoni
-        population: 10796
-        slug: khoni
-      - 
-        districts: []
-        location: "POINT (42.6566699999999983 44.6433299999999988)"
-        name: Step’antsminda
-        population: 2628
-        slug: stepantsminda
-      - 
-        districts: []
-        location: "POINT (41.9251999999999967 44.4256799999999998)"
-        name: Kaspi
-        population: 14734
-        slug: kaspi
-      - 
-        districts: []
-        location: "POINT (41.7429199999999980 45.8011100000000013)"
-        name: Gurjaani
-        population: 9466
-        slug: gurjaani
-      - 
-        districts: []
-        location: "POINT (41.4605400000000017 45.0928299999999993)"
-        name: Gardabani
-        population: 10972
-        slug: gardabani
-      - 
-        districts: []
-        location: "POINT (43.3811099999999996 40.0794399999999982)"
-        name: Gant’iadi
-        population: 10000
-        slug: gantiadi
-      - 
-        districts: []
-        location: "POINT (41.5251400000000004 44.3472000000000008)"
-        name: Dmanisi
-        population: 3038
-        slug: dmanisi
-      - 
-        districts: []
-        location: "POINT (41.6293300000000031 42.3917100000000033)"
-        name: Dioknisi
-        population: 7725
-        slug: dioknisi
-      - 
-        districts: []
-        location: "POINT (41.7361099999999965 44.9647199999999998)"
-        name: "Didi Lilo"
-        population: 3349
-        slug: didi-lilo
-      - 
-        districts: []
-        location: "POINT (41.4479400000000027 44.5383799999999965)"
-        name: Bolnisi
-        population: 13800
-        slug: bolnisi
-      - 
-        districts: []
-        location: "POINT (41.8166700000000020 46.0333299999999994)"
-        name: Bagdadi
-        population: 4564
-        slug: bagdadi
-      - 
-        districts: []
-        location: "POINT (41.6390099999999990 42.9826199999999972)"
-        name: Akhalts’ikhe
-        population: 17298
-        slug: akhaltsikhe
-      - 
-        districts: []
-        location: "POINT (43.0805599999999984 40.8383299999999991)"
-        name: "Stantsiya Novyy Afon"
-        population: 26636
-        slug: stantsiya-novyy-afon
-      - 
-        districts: []
-        location: "POINT (42.1259700000000024 44.4833300000000023)"
-        name: Akhalgori
-        population: 1420
-        slug: akhalgori
-      - 
-        districts: []
-        location: "POINT (41.6539500000000018 42.1516299999999973)"
-        name: Akhaldaba
-        population: 3640
-        slug: akhaldaba
-      - 
-        districts: []
-        location: "POINT (41.6818999999999988 42.6986699999999999)"
-        name: Adigeni
-        population: 1313
-        slug: adigeni
-    code: GE.00
-    name: "Georgia (general)"
-    slug: georgia-general
+    name: T'bilisi
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Ajaria
     cities: 
       - 
-        districts: []
-        location: "POINT (43.0069700000000026 40.9893000000000001)"
-        name: Sokhumi
-        population: 81546
-        slug: sokhumi
-      - 
-        districts: []
-        location: "POINT (43.1054699999999968 40.6206699999999969)"
-        name: Gudaut’a
-        population: 7700
-        slug: gudauta
-      - 
-        districts: []
-        location: "POINT (42.6265500000000017 41.7380799999999965)"
-        name: Gali
-        population: 11861
-        slug: gali
-      - 
-        districts: []
-        location: "POINT (43.3038700000000034 40.2561400000000020)"
-        name: Gagra
-        population: 8266
-        slug: gagra
-      - 
-        districts: []
-        location: "POINT (43.1619799999999998 40.3410200000000003)"
-        name: Bichvint’a
-        population: 8401
-        slug: bichvinta
-    code: GE.02
-    name: Abkhazia
-    slug: abkhazia
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.8552800000000005 41.8361099999999979)"
+        alternate_names: 
+          - OCHKHAMURI
+          - Och'khamuri
+          - Ochkamuri
+        ascii_name: Och'khamuri
         name: Och’khamuri
+        names_en: 
+          - Och'khamuri
+        names_es: ~
         population: 2061
-        slug: ochkhamuri
       - 
-        districts: []
-        location: "POINT (41.6738500000000016 41.6940099999999987)"
+        alternate_names: 
+          - MAKHINDZHAURI
+          - Makhindzhauri
+          - Makhinjauri
+        ascii_name: Makhinjauri
         name: Makhinjauri
+        names_en: 
+          - Makhinjauri
+        names_es: ~
         population: 2736
-        slug: makhinjauri
       - 
-        districts: []
-        location: "POINT (41.8200000000000003 41.7752800000000022)"
+        alternate_names: 
+          - K'obulet'i
+          - Kobuleti
+          - Kobulyety
+        ascii_name: Kobuleti
         name: Kobuleti
+        names_en: 
+          - K'obulet'i
+        names_es: ~
         population: 18600
-        slug: kobuleti
       - 
-        districts: []
-        location: "POINT (41.6415900000000008 41.6359300000000019)"
+        alternate_names: 
+          - BATUMI
+          - Bat'umi
+          - Bathumi
+        ascii_name: Bat'umi
         name: Bat’umi
+        names_en: 
+          - Batumi
+          - Bat'umi
+        names_es: 
+          - Batum
         population: 121806
-        slug: batumi
-    code: GE.04
     name: Ajaria
-    slug: ajaria
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Kvemo Kartli"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.7497200000000035 43.5324999999999989)"
-        name: Bakuriani
-        population: 2392
-        slug: bakuriani
+        alternate_names: 
+          - Barmaksiz
+          - Barmaksus
+          - Barmaksys
+        ascii_name: Tsalka
+        name: Tsalka
+        names_en: 
+          - Tsalka
+        names_es: ~
+        population: 1570
       - 
-        districts: []
-        location: "POINT (41.7337100000000021 43.4724199999999996)"
-        name: "Bakurianis Andeziti"
-        population: 1085
-        slug: bakurianis-andeziti
-    code: GE.13
-    name: "Borjomis Raioni"
-    slug: borjomis-raioni
+        alternate_names: 
+          - Agbulag
+          - Agbulak
+          - Agbulakh
+        ascii_name: "T'et'ri Tsqaro"
+        name: "T’et’ri Tsqaro"
+        names_en: 
+          - "T'et'ri Tsqaro"
+        names_es: ~
+        population: 3624
+      - 
+        alternate_names: 
+          - Borchalo
+          - MARNEULI
+          - Marneuli
+        ascii_name: Marneuli
+        name: Marneuli
+        names_en: 
+          - Marneuli
+        names_es: ~
+        population: 18755
+      - 
+        alternate_names: 
+          - MANGLISI
+          - Manglis
+          - Manglisi
+        ascii_name: Manglisi
+        name: Manglisi
+        names_en: 
+          - Manglisi
+        names_es: ~
+        population: 4817
+      - 
+        alternate_names: 
+          - GARDABANI
+          - Gardabani
+          - Karaya
+        ascii_name: Gardabani
+        name: Gardabani
+        names_en: 
+          - Gardabani
+        names_es: ~
+        population: 10972
+    name: "Kvemo Kartli"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Kakheti
     cities: 
       - 
-        districts: []
-        location: "POINT (41.9955599999999976 41.7786100000000005)"
-        name: Urek’i
-        population: 1625
-        slug: ureki
+        alternate_names: 
+          - T'elavi
+          - TELAVI
+          - Telav
+        ascii_name: T'elavi
+        name: T’elavi
+        names_en: 
+          - T'elavi
+          - Telavi
+        names_es: ~
+        population: 21800
       - 
-        districts: []
-        location: "POINT (41.9069399999999987 41.9541699999999977)"
-        name: Naruja
-        population: 3065
-        slug: naruja
-    code: GE.65
-    name: Guria
-    slug: guria
-  - 
-    cities: 
+        alternate_names: 
+          - SIGNAKHI
+          - Sighnaghi
+          - Signagi
+        ascii_name: Sighnaghi
+        name: Sighnaghi
+        names_en: 
+          - Sighnaghi
+        names_es: ~
+        population: 1923
       - 
-        districts: []
-        location: "POINT (42.1099999999999994 43.0525000000000020)"
-        name: Zestap’oni
-        population: 25891
-        slug: zestaponi
+        alternate_names: 
+          - SAGAREDZHO
+          - Sagaredzho
+          - Sagarejo
+        ascii_name: Sagarejo
+        name: Sagarejo
+        names_en: 
+          - Sagarejo
+        names_es: ~
+        population: 12173
       - 
-        districts: []
-        location: "POINT (42.2496099999999970 42.6997399999999985)"
-        name: K'ut'aisi
-        population: 178338
-        slug: kutaisi
-    code: GE.66
-    name: Imereti
-    slug: imereti
-  - 
-    cities: 
+        alternate_names: 
+          - KVARELI
+          - Kvareli
+          - Kvarely
+        ascii_name: Qvareli
+        name: Qvareli
+        names_en: 
+          - Qvareli
+        names_es: ~
+        population: 8612
       - 
-        districts: []
-        location: "POINT (42.0244399999999985 43.9011100000000027)"
-        name: K’areli
-        population: 7200
-        slug: kareli
+        alternate_names: 
+          - LAGODEKHI
+          - Lagodechis
+          - Lagodekhi
+        ascii_name: Lagodekhi
+        name: Lagodekhi
+        names_en: 
+          - Lagodekhi
+        names_es: 
+          - Lagodekhi
+        population: 6550
       - 
-        districts: []
-        location: "POINT (42.0311099999999982 45.2075000000000031)"
+        alternate_names: 
+          - GURDZHAANI
+          - Gurdjaani
+          - Gurdzhaani
+        ascii_name: Gurjaani
+        name: Gurjaani
+        names_en: 
+          - Gurjaani
+        names_es: ~
+        population: 9466
+      - 
+        alternate_names: 
+          - AKHMETA
+          - Akhmeta
+          - Akhmeti
+        ascii_name: Akhmeta
         name: Akhmeta
+        names_en: 
+          - Akhmeta
+        names_es: ~
         population: 8569
-        slug: akhmeta
-    code: GE.67
     name: Kakheti
-    slug: kakheti
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Guria
     cities: 
       - 
-        districts: []
-        location: "POINT (42.5794399999999982 43.4425000000000026)"
-        name: Oni
-        population: 3012
-        slug: oni
+        alternate_names: 
+          - UREKI
+          - Urek'i
+          - Ureki
+        ascii_name: Urek'i
+        name: Urek’i
+        names_en: 
+          - Ureki
+        names_es: ~
+        population: 1625
       - 
-        districts: []
-        location: "POINT (42.5211100000000002 43.1622199999999978)"
-        name: Ambrolauri
-        population: 2408
-        slug: ambrolauri
-    code: GE.70
-    name: "Racha-Lechkhumi and Kvemo Svaneti"
-    slug: racha-lechkhumi-and-kvemo-svaneti
+        alternate_names: 
+          - Naruja
+          - "Sovkhoz Narudzhskiy"
+          - ნარუჯა
+        ascii_name: Naruja
+        name: Naruja
+        names_en: ~
+        names_es: ~
+        population: 3065
+    name: Guria
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Imereti
     cities: 
       - 
-        districts: []
-        location: "POINT (42.5088000000000008 41.8708799999999997)"
-        name: Zugdidi
-        population: 73006
-        slug: zugdidi
+        alternate_names: 
+          - Dshugeli
+          - Dzhugeli
+          - Kvirily
+        ascii_name: Zestap'oni
+        name: Zestap’oni
+        names_en: 
+          - Zestap'oni
+          - Zetaponi
+        names_es: ~
+        population: 25891
       - 
-        districts: []
-        location: "POINT (42.6044399999999968 42.0682499999999990)"
-        name: Tsalenjikha
-        population: 8879
-        slug: tsalenjikha
+        alternate_names: 
+          - Bzvani
+          - VANI
+          - Vani
+        ascii_name: Vani
+        name: Vani
+        names_en: 
+          - Vani
+        names_es: ~
+        population: 4265
       - 
-        districts: []
-        location: "POINT (42.2704200000000014 42.0675000000000026)"
-        name: Senaki
-        population: 27752
-        slug: senaki
+        alternate_names: 
+          - KUTAISI
+          - Khuthaisi
+          - Kutais
+        ascii_name: K'ut'aisi
+        name: K'ut'aisi
+        names_en: 
+          - Kutaisi
+        names_es: 
+          - Kutaisi
+        population: 178338
       - 
-        districts: []
-        location: "POINT (42.1461600000000018 41.6719700000000017)"
-        name: P’ot’i
-        population: 47149
-        slug: poti
+        alternate_names: 
+          - Choni
+          - KHONI
+          - Khoni
+        ascii_name: Khoni
+        name: Khoni
+        names_en: 
+          - Khoni
+        names_es: ~
+        population: 10796
       - 
-        districts: []
-        location: "POINT (43.0458100000000030 42.7278000000000020)"
-        name: Mestia
-        population: 3187
-        slug: mestia
+        alternate_names: 
+          - CKHALTUBO
+          - Tskaltubo
+          - Tskhaltubo
+        ascii_name: Tsqaltubo
+        name: Tsqaltubo
+        names_en: 
+          - Tsqaltubo
+        names_es: ~
+        population: 16736
       - 
-        districts: []
-        location: "POINT (42.4143600000000021 42.3792400000000029)"
-        name: Martvili
-        population: 5483
-        slug: martvili
-      - 
-        districts: []
-        location: "POINT (42.4810299999999970 42.0966099999999983)"
-        name: "K’veda Ch’khorotsqu"
-        population: 4357
-        slug: kveda-chkhorotsqu
-      - 
-        districts: []
-        location: "POINT (42.3155799999999971 41.8987100000000012)"
-        name: Khobi
-        population: 5375
-        slug: khobi
-      - 
-        districts: []
-        location: "POINT (42.7169200000000018 42.0519999999999996)"
-        name: Jvari
-        population: 4756
-        slug: jvari
-      - 
-        districts: []
-        location: "POINT (42.2095899999999986 42.2211100000000030)"
-        name: Abasha
-        population: 6221
-        slug: abasha
-    code: GE.71
-    name: "Samegrelo and Zemo Svaneti"
-    slug: samegrelo-and-zemo-svaneti
+        alternate_names: ~
+        ascii_name: Kharagauli
+        name: Kharagauli
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Imereti
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Shida Kartli"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.8036499999999975 43.4819400000000016)"
-        name: Tsaghveri
-        population: 2745
-        slug: tsaghveri
-      - 
-        districts: []
-        location: "POINT (41.2645800000000023 43.5915999999999997)"
-        name: Ninotsminda
-        population: 6141
-        slug: ninotsminda
-      - 
-        districts: []
-        location: "POINT (42.0243099999999998 43.5555599999999998)"
-        name: Surami
-        population: 10091
-        slug: surami
-      - 
-        districts: []
-        location: "POINT (41.8527199999999979 43.4128400000000028)"
-        name: Borjomi
-        population: 13825
-        slug: borjomi
-      - 
-        districts: []
-        location: "POINT (41.5738899999999987 43.2482600000000019)"
-        name: Aspindza
-        population: 3940
-        slug: aspindza
-      - 
-        districts: []
-        location: "POINT (41.4051400000000029 43.4862899999999968)"
-        name: Akhalk’alak’i
-        population: 9800
-        slug: akhalkalaki
-    code: GE.72
-    name: Samtskhe-Javakheti
-    slug: samtskhe-javakheti
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.2276400000000010 43.9686099999999982)"
-        name: Ts’khinvali
-        population: 30000
-        slug: tskhinvali
-      - 
-        districts: []
-        location: "POINT (41.9941400000000016 43.5999399999999966)"
+        alternate_names: 
+          - Chaschuri
+          - KHASHURI
+          - Khachuri
+        ascii_name: Khashuri
         name: Khashuri
+        names_en: 
+          - Khashuri
+          - Khachuri
+        names_es: ~
         population: 27811
-        slug: khashuri
       - 
-        districts: []
-        location: "POINT (41.9842200000000005 44.1157800000000009)"
+        alternate_names: 
+          - KASPI
+          - Kasni
+          - Kaspi
+        ascii_name: Kaspi
+        name: Kaspi
+        names_en: 
+          - Kaspi
+        names_es: ~
+        population: 14734
+      - 
+        alternate_names: 
+          - GORI
+          - Gori
+          - Goris
+        ascii_name: Gori
         name: Gori
+        names_en: 
+          - Gori
+        names_es: 
+          - Gori
         population: 46676
-        slug: gori
-      - 
-        districts: []
-        location: "POINT (42.3997200000000021 43.9366699999999994)"
-        name: Java
-        population: 426
-        slug: java
-      - 
-        districts: []
-        location: "POINT (42.0376100000000008 43.8238199999999978)"
-        name: Agara
-        population: 5811
-        slug: agara
-    code: GE.73
     name: "Shida Kartli"
-    slug: shida-kartli
-tld: ge
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Mtskheta-Mtianeti
+    cities: 
+      - 
+        alternate_names: 
+          - T'ianet'i
+          - TIANETI
+          - Tianety
+        ascii_name: T'ianet'i
+        name: T’ianet’i
+        names_en: 
+          - T'ianet'i
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - P'asanauri
+          - PASANAURI
+          - Pasanaur
+        ascii_name: P'asanauri
+        name: P’asanauri
+        names_en: 
+          - Pasanauri
+        names_es: ~
+        population: 2904
+      - 
+        alternate_names: 
+          - Mckheta
+          - Mts'khet'a
+          - Mtskhera
+        ascii_name: Mts'khet'a
+        name: Mts’khet’a
+        names_en: 
+          - Mts'khet'a
+          - Mtskheta
+        names_es: ~
+        population: 7423
+      - 
+        alternate_names: 
+          - KAZBEGI
+          - Kasbek
+          - Kazbeg
+        ascii_name: Step'antsminda
+        name: Step’antsminda
+        names_en: 
+          - Qazbegi
+        names_es: ~
+        population: 2628
+      - 
+        alternate_names: 
+          - Akhalgori
+          - LENINGORI
+          - Leningori
+        ascii_name: Akhalgori
+        name: Akhalgori
+        names_en: 
+          - Akhalgori
+        names_es: ~
+        population: 1420
+    name: Mtskheta-Mtianeti
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Racha-Lechkhumi and Kvemo Svaneti"
+    cities: 
+      - 
+        alternate_names: 
+          - ONI
+          - Oni
+          - ОНИ
+        ascii_name: Oni
+        name: Oni
+        names_en: 
+          - Oni
+        names_es: ~
+        population: 3012
+      - 
+        alternate_names: 
+          - LENTEKHI
+          - Leksura
+          - Lentekhi
+        ascii_name: Lentekhi
+        name: Lentekhi
+        names_en: 
+          - Lentekhi
+        names_es: ~
+        population: 10442
+      - 
+        alternate_names: 
+          - AMBROLAURI
+          - Ambralauri
+          - Ambrolauri
+        ascii_name: Ambrolauri
+        name: Ambrolauri
+        names_en: 
+          - Ambrolauri
+        names_es: ~
+        population: 2408
+    name: "Racha-Lechkhumi and Kvemo Svaneti"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Samegrelo and Zemo Svaneti"
+    cities: 
+      - 
+        alternate_names: 
+          - Sugdidi
+          - ZUGDIDI
+          - Zugdidi
+        ascii_name: Zugdidi
+        name: Zugdidi
+        names_en: 
+          - Zugdidi
+        names_es: 
+          - Zugdidi
+        population: 73006
+      - 
+        alternate_names: 
+          - CALENDZHIKHA
+          - Tsalendzhikha
+          - Tsalenjikha
+        ascii_name: Tsalenjikha
+        name: Tsalenjikha
+        names_en: 
+          - Tsalenjikha
+        names_es: ~
+        population: 8879
+      - 
+        alternate_names: 
+          - "Achal Senaki"
+          - Akhalsenaki
+          - Micha-Zchakaja
+        ascii_name: Senaki
+        name: Senaki
+        names_en: 
+          - Senaki
+        names_es: ~
+        population: 27752
+      - 
+        alternate_names: 
+          - P'ot'i
+          - Poti
+          - P’ot’i
+        ascii_name: P'ot'i
+        name: P’ot’i
+        names_en: ~
+        names_es: ~
+        population: 47149
+      - 
+        alternate_names: 
+          - MESTIA
+          - Mestia
+          - Mestiya
+        ascii_name: Mestia
+        name: Mestia
+        names_en: 
+          - Mestia
+        names_es: ~
+        population: 3187
+      - 
+        alternate_names: 
+          - Gegechkari
+          - Gegechkori
+          - MARTVILI
+        ascii_name: Martvili
+        name: Martvili
+        names_en: 
+          - Martvili
+        names_es: ~
+        population: 5483
+      - 
+        alternate_names: 
+          - "K'veda Ch'khorotsqu"
+          - "Kveda Chkhorotsku"
+          - "K’veda Ch’khorotsqu"
+        ascii_name: "K'veda Ch'khorotsqu"
+        name: "K’veda Ch’khorotsqu"
+        names_en: ~
+        names_es: ~
+        population: 4357
+      - 
+        alternate_names: 
+          - KHOBI
+          - Khobi
+          - Khopi
+        ascii_name: Khobi
+        name: Khobi
+        names_en: 
+          - Khobi
+        names_es: ~
+        population: 5375
+      - 
+        alternate_names: 
+          - DZHVARI
+          - Dzhvara
+          - Dzhvari
+        ascii_name: Jvari
+        name: Jvari
+        names_en: 
+          - Jvari
+        names_es: ~
+        population: 4756
+      - 
+        alternate_names: 
+          - ABASHA
+          - Abacha
+          - Abascha
+        ascii_name: Abasha
+        name: Abasha
+        names_en: 
+          - Abasha
+          - Abacha
+        names_es: ~
+        population: 6221
+    name: "Samegrelo and Zemo Svaneti"
+    names_en: 
+      - "Samegrelo and Zemo Svaneti"
+    names_es: ~
+  - 
+    ascii_name: Samtskhe-Javakheti
+    cities: 
+      - 
+        alternate_names: 
+          - CAGVERI
+          - "Kurgan Tsagveri"
+          - Tsaghveri
+        ascii_name: Tsaghveri
+        name: Tsaghveri
+        names_en: 
+          - Tsaghveri
+        names_es: ~
+        population: 2745
+      - 
+        alternate_names: 
+          - Bogdanovka
+          - NINOCMINDA
+          - Ninotsminda
+        ascii_name: Ninotsminda
+        name: Ninotsminda
+        names_en: 
+          - Ninotsminda
+        names_es: ~
+        population: 6141
+      - 
+        alternate_names: 
+          - BORZHOMI
+          - Borcomi
+          - Bordschomi
+        ascii_name: Borjomi
+        name: Borjomi
+        names_en: 
+          - Borjomi
+        names_es: 
+          - Borjomi
+        population: 13825
+      - 
+        alternate_names: 
+          - ASPINDZA
+          - Aspindza
+          - АСПИНДЗА
+        ascii_name: Aspindza
+        name: Aspindza
+        names_en: 
+          - Aspindza
+        names_es: ~
+        population: 3940
+      - 
+        alternate_names: 
+          - ADIGENI
+          - Adigeni
+          - АДИГЕНИ
+        ascii_name: Adigeni
+        name: Adigeni
+        names_en: 
+          - Adigeni
+        names_es: ~
+        population: 1313
+    name: Samtskhe-Javakheti
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Abkhazia
+    cities: 
+      - 
+        alternate_names: 
+          - Akva
+          - SUKHUMI
+          - Sochumi
+        ascii_name: Sokhumi
+        name: Sokhumi
+        names_en: 
+          - Sokhumi
+          - Sukhumi
+        names_es: 
+          - Sujumi
+        population: 81546
+      - 
+        alternate_names: 
+          - Gudaut'a
+          - Gudauta
+          - Gudauti
+        ascii_name: Gudaut'a
+        name: Gudaut’a
+        names_en: 
+          - Gudaut'a
+        names_es: ~
+        population: 7700
+      - 
+        alternate_names: 
+          - GALI
+          - Gali
+          - ГАЛИ
+        ascii_name: Gali
+        name: Gali
+        names_en: 
+          - Gali
+        names_es: ~
+        population: 11861
+      - 
+        alternate_names: 
+          - GAGRA
+          - Gagra
+          - Gagrae
+        ascii_name: Gagra
+        name: Gagra
+        names_en: 
+          - Gagra
+        names_es: 
+          - Gagra
+        population: 8266
+      - 
+        alternate_names: 
+          - Bichvint'a
+          - Bichvinta
+          - Bichvint’a
+        ascii_name: Bichvint'a
+        name: Bichvint’a
+        names_en: 
+          - Bichvint'a
+          - Pitsunda
+        names_es: ~
+        population: 8401
+    name: Abkhazia
+    names_en: 
+      - Abkhazia
+    names_es: 
+      - Abjasia

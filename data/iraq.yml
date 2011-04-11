@@ -1,478 +1,838 @@
 --- 
-code: IQ
-continent: AS
 name: Iraq
-population: 29671605
+names_en: 
+  - Iraq
+  - "Republic of Iraq"
+names_es: 
+  - Iraq
+  - Irak
 regions: 
   - 
+    ascii_name: "Muhafazat al Basrah"
     cities: 
       - 
-        districts: []
-        location: "POINT (34.4816399999999987 41.9093000000000018)"
-        name: Rāwah
-        population: 20580
-        slug: rawah
-      - 
-        districts: []
-        location: "POINT (33.6415900000000008 42.8250900000000030)"
-        name: Hīt
-        population: 31901
-        slug: hit
-      - 
-        districts: []
-        location: "POINT (34.1397199999999970 42.3780599999999978)"
-        name: Ḩadīthah
-        population: 30925
-        slug: hadithah
-      - 
-        districts: []
-        location: "POINT (33.0380699999999976 40.2848200000000034)"
-        name: "Ar Ruţbah"
-        population: 22370
-        slug: ar-rutbah
-      - 
-        districts: []
-        location: "POINT (33.4225700000000003 43.3058400000000034)"
-        name: "Ar Ramādī"
-        population: 274539
-        slug: ar-ramadi
-      - 
-        districts: []
-        location: "POINT (33.3537999999999997 43.7795100000000019)"
-        name: "Al Fallūjah"
-        population: 190159
-        slug: al-fallujah
-      - 
-        districts: []
-        location: "POINT (33.3083299999999980 44.1850000000000023)"
-        name: "Abū Ghurayb"
-        population: 900000
-        slug: abu-ghurayb
-    code: IQ.01
-    name: Anbar
-    slug: anbar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (30.3944699999999983 47.7011400000000023)"
+        alternate_names: 
+          - "Az Zubair"
+          - "Az Zubayr"
+          - "Az Zuhair"
+        ascii_name: "Az Zubayr"
         name: "Az Zubayr"
+        names_en: ~
+        names_es: ~
         population: 122676
-        slug: az-zubayr
       - 
-        districts: []
-        location: "POINT (30.7186100000000017 47.7208299999999994)"
+        alternate_names: 
+          - "Al Harithah"
+          - "Al Hārithah"
+          - Al'-Kharrisa
+        ascii_name: "Al Harithah"
         name: "Al Hārithah"
+        names_en: ~
+        names_es: ~
         population: 92395
-        slug: al-harithah
       - 
-        districts: []
-        location: "POINT (29.9776300000000013 48.4741199999999992)"
+        alternate_names: 
+          - "Al Faw"
+          - "Al Fāw"
+          - Al'-Fau
+        ascii_name: "Al Faw"
         name: "Al Fāw"
+        names_en: ~
+        names_es: ~
         population: 104569
-        slug: al-faw
       - 
-        districts: []
-        location: "POINT (30.5348800000000011 47.7888499999999965)"
+        alternate_names: 
+          - "Al Basrah"
+          - "Al Başrah"
+          - Al-Basra
+        ascii_name: "Al Basrah"
         name: "Al Başrah"
+        names_en: 
+          - Basra
+        names_es: 
+          - Basora
         population: 2600000
-        slug: al-basrah
       - 
-        districts: []
-        location: "POINT (30.1786400000000015 48.3976899999999972)"
+        alternate_names: 
+          - "Nahiyat Bahar"
+          - "Nāḩiyat Baḩār"
+          - "ناحية بحار"
+        ascii_name: "Nahiyat Bahar"
         name: "Nāḩiyat Baḩār"
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: nahiyat-bahar
       - 
-        districts: []
-        location: "POINT (30.4829299999999996 48.0143800000000027)"
+        alternate_names: 
+          - "Nahiyat `Atbah"
+          - "Nāḩiyat ‘Atbah"
+          - "ناحية عتبة"
+        ascii_name: "Nahiyat `Atbah"
         name: "Nāḩiyat ‘Atbah"
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: nahiyat-atbah
-    code: IQ.02
     name: "Al Başrah"
-    slug: al-basrah
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Muhafazat Wasit"
     cities: 
       - 
-        districts: []
-        location: "POINT (31.3319800000000015 45.2944000000000031)"
-        name: "As Samāwah"
-        population: 152890
-        slug: as-samawah
-      - 
-        districts: []
-        location: "POINT (31.5262899999999995 45.2024600000000021)"
-        name: "Ar Rumaythah"
-        population: 47248
-        slug: ar-rumaythah
-    code: IQ.03
-    name: "Al Muthanná"
-    slug: al-muthanna
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.5873699999999999 44.6601599999999976)"
-        name: "Nāḩiyat ash Shināfīyah"
-        population: 22643
-        slug: nahiyat-ash-shinafiyah
-      - 
-        districts: []
-        location: "POINT (31.9636199999999988 44.5990400000000022)"
-        name: "Ash Shāmīyah"
-        population: 57661
-        slug: ash-shamiyah
-      - 
-        districts: []
-        location: "POINT (31.7431100000000015 44.6195999999999984)"
-        name: "Nāḩiyat Ghammās"
-        population: 30909
-        slug: nahiyat-ghammas
-      - 
-        districts: []
-        location: "POINT (32.0689800000000034 45.2505499999999969)"
-        name: ‘Afak
-        population: 21888
-        slug: afak
-      - 
-        districts: []
-        location: "POINT (31.9905100000000004 44.9306300000000007)"
-        name: "Ad Dīwānīyah"
-        population: 318801
-        slug: ad-diwaniyah
-    code: IQ.04
-    name: "Al Qādisīyah"
-    slug: al-qadisiyah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.5365299999999991 44.8316700000000026)"
-        name: Chamchamāl
-        population: 75634
-        slug: chamchamal
-      - 
-        districts: []
-        location: "POINT (35.6182999999999979 45.9540999999999968)"
-        name: Paynjuwayn
-        population: 27116
-        slug: paynjuwayn
-      - 
-        districts: []
-        location: "POINT (35.5611299999999986 45.4374899999999968)"
-        name: "As Sulaymānīyah"
-        population: 723170
-        slug: as-sulaymaniyah
-    code: IQ.05
-    name: "As Sulaymānīyah"
-    slug: as-sulaymaniyah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.7147199999999998 44.2802799999999976)"
-        name: "Saddat al Hindīyah"
-        population: 30622
-        slug: saddat-al-hindiyah
-      - 
-        districts: []
-        location: "POINT (32.6114400000000018 44.0084700000000026)"
-        name: Karbalā’
-        population: 434450
-        slug: karbala
-      - 
-        districts: []
-        location: "POINT (32.2979899999999986 44.6828100000000035)"
-        name: "Al Qāsim"
-        population: 36992
-        slug: al-qasim
-      - 
-        districts: []
-        location: "POINT (32.7833200000000033 44.2825100000000020)"
-        name: "Al Musayyib"
-        population: 42901
-        slug: al-musayyib
-      - 
-        districts: []
-        location: "POINT (32.4801399999999987 44.4352599999999995)"
-        name: "Al Ḩillah"
-        population: 289709
-        slug: al-hillah
-      - 
-        districts: []
-        location: "POINT (32.5433299999999974 44.2224999999999966)"
-        name: "Al Hindīyah"
-        population: 57490
-        slug: al-hindiyah
-    code: IQ.06
-    name: Bābil
-    slug: babil
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.1481700000000004 42.7000799999999998)"
-        name: Zākhū
-        population: 95052
-        slug: zakhu
-      - 
-        districts: []
-        location: "POINT (36.8090199999999967 43.0388599999999997)"
-        name: Sīnah
-        population: 128776
-        slug: sinah
-    code: IQ.08
-    name: Dahūk
-    slug: dahuk
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.0520500000000013 46.2610200000000020)"
-        name: "An Nāşirīyah"
-        population: 400249
-        slug: an-nasiriyah
-      - 
-        districts: []
-        location: "POINT (31.4117099999999994 46.1741799999999998)"
-        name: "Ash Shaţrah"
-        population: 82732
-        slug: ash-shatrah
-      - 
-        districts: []
-        location: "POINT (30.9697199999999988 46.7227800000000002)"
-        name: "Nāḩiyat al Fuhūd"
-        population: 21551
-        slug: nahiyat-al-fuhud
-    code: IQ.09
-    name: "Dhi Qar"
-    slug: dhi-qar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.7498599999999982 45.5540999999999983)"
-        name: Mandalī
-        population: 29785
-        slug: mandali
-      - 
-        districts: []
-        location: "POINT (34.6958699999999993 44.9660999999999973)"
-        name: Kifrī
-        population: 30143
-        slug: kifri
-      - 
-        districts: []
-        location: "POINT (33.3405800000000028 44.4008800000000008)"
-        name: Baghdad
-        population: 5672513
-        slug: baghdad
-      - 
-        districts: []
-        location: "POINT (33.7484600000000015 44.6554500000000019)"
-        name: Ba‘qūbah
-        population: 152550
-        slug: baqubah
-      - 
-        districts: []
-        location: "POINT (33.9786100000000033 44.9369399999999999)"
-        name: "Al Miqdādīyah"
-        population: 50698
-        slug: al-miqdadiyah
-      - 
-        districts: []
-        location: "POINT (33.8199600000000018 44.5263700000000000)"
-        name: Khāliş
-        population: 70046
-        slug: khalis
-    code: IQ.10
-    name: Diyala
-    slug: diyala
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.2789900000000003 44.4881499999999974)"
-        name: "Nāḩiyat Hīrān"
-        population: 0
-        slug: nahiyat-hiran
-      - 
-        districts: []
-        location: "POINT (36.6157800000000009 44.5275200000000027)"
-        name: Rāwandūz
-        population: 22943
-        slug: rawanduz
-      - 
-        districts: []
-        location: "POINT (36.0861599999999996 44.6294100000000000)"
-        name: Kūysanjaq
-        population: 44987
-        slug: kuysanjaq
-      - 
-        districts: []
-        location: "POINT (36.1925700000000035 44.0106200000000030)"
-        name: Arbīl
-        population: 932800
-        slug: arbil
-      - 
-        districts: []
-        location: "POINT (35.4680600000000013 44.3922200000000018)"
-        name: Kirkuk
-        population: 601433
-        slug: kirkuk
-      - 
-        districts: []
-        location: "POINT (36.2774100000000033 44.4939899999999966)"
-        name: "Markaz Nāḩiyat Khūshān"
-        population: 0
-        slug: markaz-nahiyat-khushan
-    code: IQ.11
-    name: Arbīl
-    slug: arbil
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.5860699999999994 47.1689999999999969)"
-        name: "Al Majar al Kabīr"
-        population: 35515
-        slug: al-majar-al-kabir
-      - 
-        districts: []
-        location: "POINT (32.4632599999999982 46.6863699999999966)"
-        name: "‘Alī al Gharbī"
-        population: 19711
-        slug: ali-al-gharbi
-      - 
-        districts: []
-        location: "POINT (31.8406400000000005 47.1396000000000015)"
-        name: "Al ‘Amārah"
-        population: 323302
-        slug: al-amarah
-      - 
-        districts: []
-        location: "POINT (32.1228699999999989 46.7492799999999988)"
-        name: "Nāḩiyat Alī ash Sharqī"
-        population: 0
-        slug: nahiyat-ali-ash-sharqi
-    code: IQ.14
-    name: Maysan
-    slug: maysan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.2714599999999976 43.3737300000000019)"
-        name: "Qaḑā’ al Ḩamdānīyah"
-        population: 28448
-        slug: qada-al-hamdaniyah
-      - 
-        districts: []
-        location: "POINT (36.4894400000000019 43.1191699999999969)"
-        name: "Qaḑā’ Talkīf"
-        population: 23524
-        slug: qada-talkif
-      - 
-        districts: []
-        location: "POINT (36.3350000000000009 43.1188900000000004)"
-        name: Mosul
-        population: 1739800
-        slug: mosul
-      - 
-        districts: []
-        location: "POINT (36.3209200000000010 41.8754199999999983)"
-        name: Sinjār
-        population: 38294
-        slug: sinjar
-    code: IQ.15
-    name: Nīnawá
-    slug: ninawa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.9255599999999973 44.7758299999999991)"
+        alternate_names: 
+          - "As Suwayrah"
+          - "Aş Şuwayrah"
+          - Jazira
+        ascii_name: "As Suwayrah"
         name: "Aş Şuwayrah"
+        names_en: ~
+        names_es: ~
         population: 42354
-        slug: as-suwayrah
       - 
-        districts: []
-        location: "POINT (32.5146999999999977 45.8190200000000019)"
+        alternate_names: 
+          - "Al Koet"
+          - "Al Kut"
+          - "Al Kūt"
+        ascii_name: "Al Kut"
         name: "Al Kūt"
+        names_en: 
+          - Kut
+        names_es: 
+          - Kut
         population: 315162
-        slug: al-kut
       - 
-        districts: []
-        location: "POINT (32.1734900000000010 46.0433000000000021)"
+        alternate_names: 
+          - "Al Hai"
+          - "Al Hay"
+          - "Al Hayy"
+        ascii_name: "Al Hayy"
         name: "Al Ḩayy"
+        names_en: ~
+        names_es: ~
         population: 78272
-        slug: al-hayy
       - 
-        districts: []
-        location: "POINT (32.9058300000000017 45.0616300000000010)"
+        alternate_names: 
+          - "Al `Aziziya"
+          - "Al `Aziziyah"
+          - "Al ‘Aziziya"
+        ascii_name: "Al `Aziziyah"
         name: "Al ‘Azīzīyah"
+        names_en: ~
+        names_es: ~
         population: 44751
-        slug: al-aziziyah
-    code: IQ.16
     name: Wāsiţ
-    slug: wasit
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Muhafazat Salah ad Din"
     cities: 
       - 
-        districts: []
-        location: "POINT (31.9985399999999984 44.3397599999999983)"
-        name: "An Najaf al Ashraf"
-        population: 482576
-        slug: an-najaf-al-ashraf
-      - 
-        districts: []
-        location: "POINT (31.8041599999999995 44.4910700000000006)"
-        name: "Al Mishkhāb"
-        population: 23189
-        slug: al-mishkhab
-    code: IQ.17
-    name: "An Najaf"
-    slug: an-najaf
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.8904599999999974 44.6299399999999977)"
-        name: Ţūzkhūrmātū
+        alternate_names: 
+          - Khurmati
+          - "Touz Hourmato"
+          - Tozkhurmato
+        ascii_name: Tozkhurmato
+        name: Tozkhurmato
+        names_en: ~
+        names_es: ~
         population: 59886
-        slug: tuzkhurmatu
       - 
-        districts: []
-        location: "POINT (34.6071200000000019 43.6782200000000032)"
+        alternate_names: 
+          - Tekrit
+          - Tikret
+          - Tikrit
+        ascii_name: Tikrit
         name: Tikrīt
+        names_en: 
+          - Tikrit
+        names_es: 
+          - Tikrit
         population: 42477
-        slug: tikrit
       - 
-        districts: []
-        location: "POINT (34.2009600000000020 43.8756199999999978)"
+        alternate_names: 
+          - Saimarreh
+          - Samarra
+          - Samarra'
+        ascii_name: Samarra'
         name: Sāmarrā’
+        names_en: 
+          - Samarra
+        names_es: ~
         population: 158508
-        slug: samarra
       - 
-        districts: []
-        location: "POINT (34.9311399999999992 43.4870000000000019)"
+        alternate_names: 
+          - Baiji
+          - Bajdzhi
+          - Bayji
+        ascii_name: Bayji
         name: Bayjī
+        names_en: ~
+        names_es: ~
         population: 36454
-        slug: bayji
       - 
-        districts: []
-        location: "POINT (34.0163799999999981 44.1453100000000020)"
+        alternate_names: 
+          - Balad
+          - Balada
+          - Belad
+        ascii_name: Balad
         name: Balad
+        names_en: ~
+        names_es: ~
         population: 42088
-        slug: balad
       - 
-        districts: []
-        location: "POINT (33.8466700000000031 44.2344399999999993)"
+        alternate_names: 
+          - "Ad Dujayl"
+          - "Al Ibrahimiyah"
+          - "Al Ibrāhīmīyah"
+        ascii_name: "Ad Dujayl"
         name: "Ad Dujayl"
+        names_en: 
+          - Dujail
+        names_es: ~
         population: 26362
-        slug: ad-dujayl
-    code: IQ.18
     name: "Şalāḩ ad Dīn"
-    slug: salah-ad-din
-tld: iq
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Ninawa"
+    cities: 
+      - 
+        alternate_names: 
+          - "Qada' Talkif"
+          - "Qaḑā’ Talkīf"
+          - "Tall Kaif"
+        ascii_name: "Qada' Talkif"
+        name: "Qaḑā’ Talkīf"
+        names_en: ~
+        names_es: ~
+        population: 23524
+      - 
+        alternate_names: 
+          - "Al Hamdaniya"
+          - "Al Hamdaniyah"
+          - "Qada' al Hamdaniyah"
+        ascii_name: "Qada' al Hamdaniyah"
+        name: "Qaḑā’ al Ḩamdānīyah"
+        names_en: ~
+        names_es: ~
+        population: 28448
+      - 
+        alternate_names: 
+          - "Al Mawsil"
+          - "Al Mawşil"
+          - "Al Musil"
+        ascii_name: Mosul
+        name: Mosul
+        names_en: 
+          - Mosul
+        names_es: 
+          - Mosul
+        population: 1739800
+      - 
+        alternate_names: 
+          - Sinjar
+          - Sinjār
+          - Sncar
+        ascii_name: Sinjar
+        name: Sinjār
+        names_en: ~
+        names_es: ~
+        population: 38294
+    name: Nīnawá
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Maysan
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Majar al Kabir"
+          - "Al Majar al Kabīr"
+          - "Al Majarr al Kabir"
+        ascii_name: "Al Majar al Kabir"
+        name: "Al Majar al Kabīr"
+        names_en: ~
+        names_es: ~
+        population: 35515
+      - 
+        alternate_names: 
+          - "Ali Gharbi"
+          - "Ali el Gharbi"
+          - "Imam Ali Gherbi"
+        ascii_name: "`Ali al Gharbi"
+        name: "‘Alī al Gharbī"
+        names_en: ~
+        names_es: ~
+        population: 19711
+      - 
+        alternate_names: 
+          - "Al `Amarah"
+          - "Al ‘Amārah"
+          - Amara
+        ascii_name: "Al `Amarah"
+        name: "Al ‘Amārah"
+        names_en: ~
+        names_es: ~
+        population: 323302
+      - 
+        alternate_names: 
+          - "Ali ash Sharqi"
+          - "Alī ash Sharqī"
+          - "Nahiyat Ali ash Sharqi"
+        ascii_name: "Nahiyat Ali ash Sharqi"
+        name: "Nāḩiyat Alī ash Sharqī"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Maysan
+    names_en: 
+      - Maysan
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Karbala'"
+    cities: 
+      - 
+        alternate_names: 
+          - Karbala
+          - Karbala'
+          - Karbalaa
+        ascii_name: Karbala'
+        name: Karbalā’
+        names_en: 
+          - Karbala
+        names_es: 
+          - Kerbala
+        population: 434450
+    name: Karbalāʼ
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Arbil"
+    cities: 
+      - 
+        alternate_names: 
+          - Ravanduz
+          - Rawandiz
+          - Rawandoz
+        ascii_name: Rawanduz
+        name: Rāwandūz
+        names_en: ~
+        names_es: ~
+        population: 22943
+      - 
+        alternate_names: 
+          - "Koi Sanjaq"
+          - "Kou Senaq"
+          - "Kou Senjaq"
+        ascii_name: Kuysanjaq
+        name: Kūysanjaq
+        names_en: ~
+        names_es: ~
+        population: 44987
+      - 
+        alternate_names: 
+          - (Erbil)
+          - Arba`ilu
+          - Arba‘ilu
+        ascii_name: Arbil
+        name: Arbīl
+        names_en: 
+          - "Arbil Governorate"
+        names_es: 
+          - Erbil
+        population: 932800
+      - 
+        alternate_names: 
+          - "Nahiyat Hiran"
+          - "Nāḩiyat Hīrān"
+          - "nahyt hyran"
+        ascii_name: "Nahiyat Hiran"
+        name: "Nāḩiyat Hīrān"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Khoshnaw
+          - "Markaz Nahiyat Khushan"
+          - "Markaz Nāḩiyat Khūshān"
+        ascii_name: "Markaz Nahiyat Khushan"
+        name: "Markaz Nāḩiyat Khūshān"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Arbīl
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Diyala
+    cities: 
+      - 
+        alternate_names: 
+          - Mandali
+          - Mandalī
+          - Mendali
+        ascii_name: Mandali
+        name: Mandalī
+        names_en: ~
+        names_es: ~
+        population: 29785
+      - 
+        alternate_names: 
+          - Kiffri
+          - Kiffrī
+          - Kifri
+        ascii_name: Kifri
+        name: Kifrī
+        names_en: ~
+        names_es: ~
+        population: 30143
+      - 
+        alternate_names: 
+          - Ba'quba
+          - Ba`qubah
+          - Bakouba
+        ascii_name: Ba`qubah
+        name: Ba‘qūbah
+        names_en: 
+          - Baqubah
+        names_es: 
+          - Baquba
+        population: 152550
+      - 
+        alternate_names: 
+          - "Al Miqdadiyah"
+          - "Al Miqdādīyah"
+          - Muqdadiyah
+        ascii_name: "Al Miqdadiyah"
+        name: "Al Miqdādīyah"
+        names_en: ~
+        names_es: ~
+        population: 50698
+      - 
+        alternate_names: 
+          - "Al Khalis"
+          - "Al Khāliş"
+          - Al'-Khalisa
+        ascii_name: Khalis
+        name: Khāliş
+        names_en: ~
+        names_es: ~
+        population: 70046
+    name: Diyala
+    names_en: 
+      - Diyala
+      - "Diyala Province"
+    names_es: ~
+  - 
+    ascii_name: "Dhi Qar"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ash Shatrah"
+          - "Ash Shaţrah"
+          - Shatra
+        ascii_name: "Ash Shatrah"
+        name: "Ash Shaţrah"
+        names_en: ~
+        names_es: ~
+        population: 82732
+      - 
+        alternate_names: 
+          - Al-Nasiriya
+          - "An Nasiriya"
+          - "An Nasiriyah"
+        ascii_name: "An Nasiriyah"
+        name: "An Nāşirīyah"
+        names_en: 
+          - Nasiriyah
+        names_es: 
+          - Nasiriya
+        population: 400249
+      - 
+        alternate_names: 
+          - "Al Fuhud"
+          - "Al Fuhūd"
+          - Fuhud
+        ascii_name: "Nahiyat al Fuhud"
+        name: "Nāḩiyat al Fuhūd"
+        names_en: ~
+        names_es: ~
+        population: 21551
+    name: "Dhi Qar"
+    names_en: 
+      - "Dhi Qar"
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Dahuk"
+    cities: 
+      - 
+        alternate_names: 
+          - Zakho
+          - Zakhu
+          - Zaxo
+        ascii_name: Zakhu
+        name: Zākhū
+        names_en: 
+          - Zakho
+        names_es: ~
+        population: 95052
+      - 
+        alternate_names: 
+          - Sina
+          - Sinah
+          - Sine
+        ascii_name: Sinah
+        name: Sīnah
+        names_en: ~
+        names_es: ~
+        population: 128776
+      - 
+        alternate_names: 
+          - Dahuk
+          - Dahūk
+          - Dakhuk
+        ascii_name: Dahuk
+        name: Dahūk
+        names_en: 
+          - Dahuk
+        names_es: ~
+        population: 0
+    name: Dahūk
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Baghdad"
+    cities: 
+      - 
+        alternate_names: 
+          - Bagda
+          - Bagdad
+          - Bagdadas
+        ascii_name: Baghdad
+        name: Baghdad
+        names_en: 
+          - Baghdad
+        names_es: 
+          - Bagdad
+        population: 5672513
+      - 
+        alternate_names: 
+          - "Abou Ghraib"
+          - "Abu Ghraib"
+          - "Abu Ghraib - abw ghryb"
+        ascii_name: "Abu Ghurayb"
+        name: "Abū Ghurayb"
+        names_en: 
+          - "Abu Ghraib"
+        names_es: 
+          - "Abu Ghraib"
+        population: 900000
+    name: Baghdād
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Babil"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Hindiyah"
+          - "Al Hindīyah"
+          - Hindiya
+        ascii_name: "Saddat al Hindiyah"
+        name: "Saddat al Hindīyah"
+        names_en: ~
+        names_es: ~
+        population: 30622
+      - 
+        alternate_names: 
+          - "Al Qasim"
+          - "Al Qāsim"
+          - Al'-Kasim
+        ascii_name: "Al Qasim"
+        name: "Al Qāsim"
+        names_en: ~
+        names_es: ~
+        population: 36992
+      - 
+        alternate_names: 
+          - "Al Musaiyib"
+          - "Al Musayyib"
+          - Al'-Ehl'-Musajibe
+        ascii_name: "Al Musayyib"
+        name: "Al Musayyib"
+        names_en: ~
+        names_es: ~
+        population: 42901
+      - 
+        alternate_names: 
+          - "Al Hilla"
+          - "Al Hillah"
+          - "Al Ḩillah"
+        ascii_name: "Al Hillah"
+        name: "Al Ḩillah"
+        names_en: 
+          - "Al Hillah"
+        names_es: ~
+        population: 289709
+    name: Bābil
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Kirkuk"
+    cities: 
+      - 
+        alternate_names: 
+          - "Karkh Slukh"
+          - Karkuk
+          - Karkūk
+        ascii_name: Kirkuk
+        name: Kirkuk
+        names_en: 
+          - Kirkuk
+        names_es: 
+          - Kirkuk
+        population: 601433
+    name: "At Taʼmīm"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat as Sulaymaniyah"
+    cities: 
+      - 
+        alternate_names: 
+          - Alabja
+          - Halabdscha
+          - Halabia
+        ascii_name: Halabjah
+        name: Ḩalabjah
+        names_en: 
+          - Halabja
+        names_es: ~
+        population: 57333
+      - 
+        alternate_names: 
+          - Chamchamal
+          - Chamchamāl
+          - Chemchemal
+        ascii_name: Chamchamal
+        name: Chamchamāl
+        names_en: ~
+        names_es: ~
+        population: 75634
+      - 
+        alternate_names: 
+          - Banjuwayn
+          - Banjwin
+          - Banjwīn
+        ascii_name: Paynjuwayn
+        name: Paynjuwayn
+        names_en: ~
+        names_es: ~
+        population: 27116
+      - 
+        alternate_names: 
+          - Al-Sulaimaniya
+          - "As Sulaymaniyah"
+          - "As Sulaymānīyah"
+        ascii_name: "As Sulaymaniyah"
+        name: "As Sulaymānīyah"
+        names_en: 
+          - Sulaymaniyah
+        names_es: 
+          - Suleimaniya
+        population: 723170
+    name: "As Sulaymānīyah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat an Najaf"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Najaf al Ashraf"
+          - "An Najaf"
+          - "An Najaf al Ashraf"
+        ascii_name: "An Najaf al Ashraf"
+        name: "An Najaf al Ashraf"
+        names_en: 
+          - Najaf
+        names_es: 
+          - Nayaf
+        population: 482576
+      - 
+        alternate_names: 
+          - "Al Faysaliyah"
+          - "Al Fayşalīyah"
+          - "Al Mishkhab"
+        ascii_name: "Al Mishkhab"
+        name: "Al Mishkhāb"
+        names_en: ~
+        names_es: ~
+        population: 23189
+    name: "An Najaf"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Qadisiyah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ash Shinafiyah"
+          - "Ash Shināfīyah"
+          - Chinafiyah
+        ascii_name: "Nahiyat ash Shinafiyah"
+        name: "Nāḩiyat ash Shināfīyah"
+        names_en: ~
+        names_es: ~
+        population: 22643
+      - 
+        alternate_names: 
+          - "Ash Shamiya"
+          - "Ash Shamiyah"
+          - "Ash Shāmīya"
+        ascii_name: "Ash Shamiyah"
+        name: "Ash Shāmīyah"
+        names_en: ~
+        names_es: ~
+        population: 57661
+      - 
+        alternate_names: 
+          - "Al Ghammas"
+          - "Al Ghammās"
+          - Ghammas
+        ascii_name: "Nahiyat Ghammas"
+        name: "Nāḩiyat Ghammās"
+        names_en: ~
+        names_es: ~
+        population: 30909
+      - 
+        alternate_names: 
+          - Afag
+          - Afak
+          - Afaq
+        ascii_name: "`Afak"
+        name: ‘Afak
+        names_en: ~
+        names_es: ~
+        population: 21888
+      - 
+        alternate_names: 
+          - "Ad Diwania"
+          - "Ad Diwaniya"
+          - "Ad Diwaniyah"
+        ascii_name: "Ad Diwaniyah"
+        name: "Ad Dīwānīyah"
+        names_en: ~
+        names_es: ~
+        population: 318801
+    name: "Al Qādisīyah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Muthanna"
+    cities: 
+      - 
+        alternate_names: 
+          - "As Samawah"
+          - "As Samāwah"
+          - SAMAWA
+        ascii_name: "As Samawah"
+        name: "As Samāwah"
+        names_en: ~
+        names_es: ~
+        population: 152890
+      - 
+        alternate_names: 
+          - Al-Rumitha
+          - "Ar Rumaythah"
+          - Rumaith
+        ascii_name: "Ar Rumaythah"
+        name: "Ar Rumaythah"
+        names_en: ~
+        names_es: ~
+        population: 47248
+    name: "Al Muthanná"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Anbar
+    cities: 
+      - 
+        alternate_names: 
+          - Rawa
+          - Rawah
+          - Rāwah
+        ascii_name: Rawah
+        name: Rāwah
+        names_en: ~
+        names_es: ~
+        population: 20580
+      - 
+        alternate_names: 
+          - Hit
+          - Hīt
+          - هيت
+        ascii_name: Hit
+        name: Hīt
+        names_en: ~
+        names_es: ~
+        population: 31901
+      - 
+        alternate_names: 
+          - "Al Hadithah"
+          - "Al Ḩadīthah"
+          - Haditha
+        ascii_name: Hadithah
+        name: Ḩadīthah
+        names_en: ~
+        names_es: ~
+        population: 30925
+      - 
+        alternate_names: 
+          - "Al Rutbah"
+          - "Ar Rutbah"
+          - "Ar Ruţbah"
+        ascii_name: "Ar Rutbah"
+        name: "Ar Ruţbah"
+        names_en: ~
+        names_es: ~
+        population: 22370
+      - 
+        alternate_names: 
+          - Al-Rumadi
+          - "Ar Ramadi"
+          - "Ar Ramādī"
+        ascii_name: "Ar Ramadi"
+        name: "Ar Ramādī"
+        names_en: 
+          - Ramadi
+        names_es: 
+          - Ramadi
+        population: 274539
+      - 
+        alternate_names: 
+          - Ana
+          - Anah
+          - "`Anah"
+        ascii_name: "`Anat al Qadimah"
+        name: "‘Anat al Qadīmah"
+        names_en: ~
+        names_es: ~
+        population: 19719
+      - 
+        alternate_names: 
+          - "Al Falludza"
+          - "Al Falludża"
+          - "Al Falluja"
+        ascii_name: "Al Fallujah"
+        name: "Al Fallūjah"
+        names_en: 
+          - Fallujah
+        names_es: 
+          - Faluya
+        population: 190159
+    name: Anbar
+    names_en: 
+      - Anbar
+    names_es: ~

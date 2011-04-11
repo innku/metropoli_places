@@ -1,921 +1,1805 @@
 --- 
-code: AZ
-continent: AS
 name: Azerbaijan
-population: 8303512
+names_en: 
+  - Azerbaijan
+  - "Republic of Azerbaijan"
+names_es: 
+  - Azerbaiyán
 regions: 
   - 
+    ascii_name: "Zhdanovskiy Rayon"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.5322200000000024 49.7163899999999970)"
-        name: Saray
-        population: 10173
-        slug: saray
-      - 
-        districts: []
-        location: "POINT (40.4047199999999975 49.7130599999999987)"
-        name: Qobu
-        population: 7377
-        slug: qobu
-      - 
-        districts: []
-        location: "POINT (40.3744399999999999 49.6819399999999973)"
-        name: Güzdək
-        population: 2462
-        slug: guzdk
-      - 
-        districts: []
-        location: "POINT (40.5408299999999997 49.6597200000000001)"
-        name: Ceyranbatan
-        population: 5684
-        slug: ceyranbatan
-      - 
-        districts: []
-        location: "POINT (40.4927800000000033 49.8727799999999988)"
-        name: Digah
-        population: 3211
-        slug: digah
-    code: AZ.01
-    name: Abşeron
-    slug: abseron
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.9930599999999998 46.9305599999999998)"
-        name: Ağdam
-        population: 39451
-        slug: agdam
-      - 
-        districts: []
-        location: "POINT (40.9052799999999976 45.5563900000000004)"
-        name: Ağdam
-        population: 0
-        slug: agdam
-    code: AZ.03
-    name: Ağdam
-    slug: agdam
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.0933300000000017 45.3661099999999990)"
-        name: Qazax
-        population: 18903
-        slug: qazax
-      - 
-        districts: []
-        location: "POINT (41.0942300000000031 45.4716200000000015)"
-        name: Vurğun
-        population: 2635
-        slug: vurgun
-      - 
-        districts: []
-        location: "POINT (40.9922200000000032 45.6288899999999984)"
-        name: Tovuz
-        population: 12626
-        slug: tovuz
-      - 
-        districts: []
-        location: "POINT (41.1188900000000004 45.4538900000000012)"
-        name: Ağstafa
-        population: 12542
-        slug: agstafa
-    code: AZ.05
-    name: Ağstafa
-    slug: agstafa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.5327800000000025 48.8166700000000020)"
-        name: Kijoba
-        population: 4567
-        slug: kijoba
-      - 
-        districts: []
-        location: "POINT (38.4561100000000025 48.8786100000000019)"
-        name: Astara
-        population: 15190
-        slug: astara
-      - 
-        districts: []
-        location: "POINT (38.7226199999999992 48.8146600000000035)"
-        name: Lǝnkǝran
-        population: 50244
-        slug: lnkran
-      - 
-        districts: []
-        location: "POINT (38.7641700000000000 48.7652799999999971)"
-        name: Haftoni
-        population: 2003
-        slug: haftoni
-    code: AZ.08
-    name: Astara
-    slug: astara
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.3966700000000003 49.9736100000000008)"
-        name: Qaraçuxur
-        population: 72989
-        slug: qaracuxur
-      - 
-        districts: []
-        location: "POINT (40.4425000000000026 49.9480599999999981)"
-        name: Sabunçu
-        population: 20996
-        slug: sabuncu
-      - 
-        districts: []
-        location: "POINT (40.0841700000000003 49.4158299999999997)"
-        name: Qobustan
-        population: 13398
-        slug: qobustan
-      - 
-        districts: []
-        location: "POINT (40.2966699999999989 49.6602800000000002)"
-        name: Puta
-        population: 1018
-        slug: puta
-      - 
-        districts: []
-        location: "POINT (40.5561099999999968 50.0055600000000027)"
-        name: Nardaran
-        population: 7700
-        slug: nardaran
-      - 
-        districts: []
-        location: "POINT (40.5327800000000025 50.0038899999999984)"
-        name: Maştağa
-        population: 40092
-        slug: mastaga
-      - 
-        districts: []
-        location: "POINT (40.4922200000000032 50.1388900000000035)"
-        name: Mərdəkan
-        population: 15267
-        slug: mrdkan
-      - 
-        districts: []
-        location: "POINT (40.3272199999999970 49.7299999999999969)"
-        name: Lökbatan
-        population: 30694
-        slug: lokbatan
-      - 
-        districts: []
-        location: "POINT (40.4122199999999978 49.7716700000000003)"
-        name: Xocəsən
-        population: 5089
-        slug: xocsn
-      - 
-        districts: []
-        location: "POINT (40.3030600000000021 49.6199999999999974)"
-        name: Korgöz
-        population: 2036
-        slug: korgoz
-      - 
-        districts: []
-        location: "POINT (40.5161099999999976 50.1163900000000027)"
-        name: Buzovna
-        population: 24795
-        slug: buzovna
-      - 
-        districts: []
-        location: "POINT (40.4758300000000020 49.8222200000000015)"
-        name: Binəqədi
-        population: 14012
-        slug: binqdi
-      - 
-        districts: []
-        location: "POINT (40.4538900000000012 50.0763900000000035)"
-        name: Binə
-        population: 24596
-        slug: bin
-      - 
-        districts: []
-        location: "POINT (40.3636100000000013 50.2902800000000028)"
-        name: Zirə
-        population: 10099
-        slug: zir
-      - 
-        districts: []
-        location: "POINT (40.4872200000000007 49.9525000000000006)"
-        name: Zabrat
-        population: 21396
-        slug: zabrat
-      - 
-        districts: []
-        location: "POINT (40.3638899999999978 50.2150000000000034)"
-        name: Türkan
-        population: 9699
-        slug: turkan
-      - 
-        districts: []
-        location: "POINT (40.4402800000000013 50.1761100000000013)"
-        name: Qala
-        population: 2709
-        slug: qala
-      - 
-        districts: []
-        location: "POINT (40.3744399999999999 50.0852799999999974)"
-        name: Hövsan
-        population: 36293
-        slug: hovsan
-      - 
-        districts: []
-        location: "POINT (40.5680600000000027 50.0377799999999979)"
-        name: Bilgəh
-        population: 8983
-        slug: bilgh
-      - 
-        districts: []
-        location: "POINT (40.4616699999999980 49.9200000000000017)"
-        name: Balaxanı
-        population: 10863
-        slug: balaxan
-      - 
-        districts: []
-        location: "POINT (40.4313900000000004 49.8080599999999976)"
-        name: Biləcəri
-        population: 42194
-        slug: bilcri
-      - 
-        districts: 
-          - 
-            location: "POINT (40.4216699999999989 49.9644400000000033)"
-            name: Bakıxanov
-            population: 66686
-            slug: bakxanov
-          - 
-            location: "POINT (40.3394400000000033 49.8038900000000027)"
-            name: Badamdar
-            population: 11398
-            slug: badamdar
-        location: "POINT (40.3776700000000019 49.8920099999999991)"
-        name: Baku
-        population: 1116513
-        slug: baku
-      - 
-        districts: []
-        location: "POINT (40.4708299999999994 50.3216699999999975)"
-        name: Artyom
-        population: 13435
-        slug: artyom
-      - 
-        districts: []
-        location: "POINT (40.4263899999999978 49.9836099999999988)"
-        name: Əmircan
-        population: 26798
-        slug: mircan
-      - 
-        districts: []
-        location: "POINT (40.4422199999999989 49.9805599999999970)"
-        name: Ramana
-        population: 8855
-        slug: ramana
-    code: AZ.09
-    name: Baki
-    slug: baki
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.7258300000000020 46.4083299999999994)"
-        name: Balakən
-        population: 9182
-        slug: balakn
-      - 
-        districts: []
-        location: "POINT (41.7199999999999989 46.2647199999999970)"
-        name: Qabaqçöl
-        population: 1293
-        slug: qabaqcol
-    code: AZ.10
-    name: Balakǝn
-    slug: balakn
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.0127799999999993 48.4788899999999998)"
-        name: Sabirabad
-        population: 28075
-        slug: sabirabad
-      - 
-        districts: []
-        location: "POINT (39.1166699999999992 48.5952800000000025)"
-        name: Göytəpə
-        population: 13340
-        slug: goytp
-      - 
-        districts: []
-        location: "POINT (39.2088899999999967 48.4972199999999987)"
-        name: Cəlilabad
-        population: 36259
-        slug: clilabad
-      - 
-        districts: []
-        location: "POINT (39.4583299999999966 48.5450000000000017)"
-        name: Biləsuvar
-        population: 18182
-        slug: bilsuvar
-      - 
-        districts: []
-        location: "POINT (38.9205600000000018 48.2372200000000007)"
-        name: Yardımlı
-        population: 4004
-        slug: yardml
-      - 
-        districts: []
-        location: "POINT (39.8905600000000007 48.3858299999999986)"
-        name: Tel’mankend
-        population: 17242
-        slug: telmankend
-      - 
-        districts: []
-        location: "POINT (39.8697200000000009 48.0600000000000023)"
-        name: İmişli
-        population: 31381
-        slug: imisli
-      - 
-        districts: []
-        location: "POINT (38.7752800000000022 48.4152800000000028)"
-        name: Lerik
-        population: 7094
-        slug: lerik
-    code: AZ.15
-    name: Cǝlilabad
-    slug: clilabad
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.5655599999999978 45.8161100000000019)"
-        name: Gədəbəy
-        population: 8657
-        slug: gdby
-      - 
-        districts: []
-        location: "POINT (40.4947200000000009 46.0772199999999970)"
-        name: Daşkəsən
-        population: 9900
-        slug: dasksn
-      - 
-        districts: []
-        location: "POINT (40.4922800000000009 46.0713700000000017)"
-        name: "Yuxarı Daşkəsən"
-        population: 1837
-        slug: yuxar-dasksn
-      - 
-        districts: []
-        location: "POINT (40.5869399999999985 46.3158299999999983)"
-        name: Xanlar
-        population: 17816
-        slug: xanlar
-      - 
-        districts: []
-        location: "POINT (40.1066700000000012 46.0383300000000020)"
-        name: Kəlbəcər
-        population: 8400
-        slug: klbcr
-    code: AZ.16
-    name: Daşkǝsǝn
-    slug: dasksn
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.6127299999999991 47.1423300000000012)"
-        name: Yevlax
-        population: 53716
-        slug: yevlax
-      - 
-        districts: []
-        location: "POINT (40.7639500000000012 47.0595300000000023)"
-        name: Mingəçevir
-        population: 95453
-        slug: mingcevir
-      - 
-        districts: []
-        location: "POINT (41.1919400000000024 47.1705600000000018)"
-        name: Şəki
-        population: 62191
-        slug: ski
-      - 
-        districts: []
-        location: "POINT (41.0708300000000008 47.4583299999999966)"
-        name: Oğuz
-        population: 6600
-        slug: oguz
-      - 
-        districts: []
-        location: "POINT (40.5066699999999997 46.8250000000000028)"
-        name: Naftalan
-        population: 7045
-        slug: naftalan
-      - 
-        districts: []
-        location: "POINT (40.5745599999999982 46.8409800000000018)"
-        name: Qızılhacılı
-        population: 6330
-        slug: qzlhacl
-      - 
-        districts: []
-        location: "POINT (40.6102800000000030 46.7897200000000026)"
-        name: Goranboy
-        population: 7333
-        slug: goranboy
-      - 
-        districts: []
-        location: "POINT (40.6252799999999965 46.9755600000000015)"
-        name: Aran
-        population: 6724
-        slug: aran
-      - 
-        districts: []
-        location: "POINT (40.6499999999999986 47.4761099999999985)"
-        name: Ağdaş
-        population: 23528
-        slug: agdas
-      - 
-        districts: []
-        location: "POINT (40.3744399999999999 47.1266699999999972)"
-        name: Bərdə
-        population: 37372
-        slug: brd
-    code: AZ.21
-    name: Goranboy
-    slug: goranboy
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.0433299999999974 48.9355600000000024)"
-        name: Qazıməmməd
-        population: 23102
-        slug: qazmmmd
-      - 
-        districts: []
-        location: "POINT (40.5366700000000009 48.9327800000000011)"
-        name: Mərəzə
-        population: 3754
-        slug: mrz
-      - 
-        districts: []
-        location: "POINT (40.0986100000000008 48.8188900000000032)"
-        name: Muğan
-        population: 4410
-        slug: mugan
-    code: AZ.23
-    name: Hacıqabul
-    slug: hacqabul
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.9813899999999975 47.8458299999999994)"
-        name: Qəbələ
-        population: 11867
-        slug: qbl
-      - 
-        districts: []
-        location: "POINT (40.6302799999999991 48.6413900000000012)"
-        name: Şamaxı
-        population: 29403
-        slug: samax
-      - 
-        districts: []
-        location: "POINT (40.7899999999999991 48.1519400000000033)"
-        name: İsmayıllı
-        population: 13610
-        slug: ismayll
-      - 
-        districts: []
-        location: "POINT (40.2183300000000017 47.7083299999999966)"
-        name: Zərdab
-        population: 10612
-        slug: zrdab
-      - 
-        districts: []
-        location: "POINT (40.5183299999999988 47.6541700000000006)"
-        name: Ucar
-        population: 15741
-        slug: ucar
-      - 
-        districts: []
-        location: "POINT (40.7555600000000027 48.3963899999999967)"
-        name: Basqal
-        population: 1234
-        slug: basqal
-      - 
-        districts: []
-        location: "POINT (40.6530600000000035 47.7405600000000021)"
-        name: Göyçay
-        population: 35348
-        slug: goycay
-      - 
-        districts: []
-        location: "POINT (40.5691699999999997 48.4008299999999991)"
-        name: Ağsu
-        population: 17209
-        slug: agsu
-    code: AZ.25
-    name: İsmayıllı
-    slug: ismayll
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.0341700000000031 48.6655599999999993)"
-        name: Masallı
-        population: 9604
-        slug: masall
-      - 
-        districts: []
-        location: "POINT (38.9277799999999985 48.7086100000000002)"
-        name: Boradigah
-        population: 5904
-        slug: boradigah
-    code: AZ.32
-    name: Masallı
-    slug: masall
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.4072200000000024 45.5738899999999987)"
-        name: Şahbuz
-        population: 2674
-        slug: sahbuz
-      - 
-        districts: []
-        location: "POINT (39.7175000000000011 44.8763900000000007)"
-        name: Sədərək
-        population: 1853
-        slug: sdrk
-      - 
-        districts: []
-        location: "POINT (38.9080599999999990 46.0277799999999999)"
-        name: Ordubad
-        population: 9781
-        slug: ordubad
-      - 
-        districts: []
-        location: "POINT (39.2088899999999967 45.4122199999999978)"
-        name: Naxçıvan
-        population: 64754
-        slug: naxcvan
-      - 
-        districts: []
-        location: "POINT (38.9558000000000035 45.6308000000000007)"
-        name: Julfa
-        population: 10820
-        slug: julfa
-    code: AZ.35
-    name: Nakhichevan
-    slug: nakhichevan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.3586099999999988 49.2469400000000022)"
-        name: Neftçala
-        population: 18661
-        slug: neftcala
-      - 
-        districts: []
-        location: "POINT (39.4266700000000014 49.1063899999999975)"
-        name: Xıllı
-        population: 3896
-        slug: xll
-      - 
-        districts: []
-        location: "POINT (39.4200000000000017 49.2475000000000023)"
-        name: Bankə
-        population: 7075
-        slug: bank
-      - 
-        districts: []
-        location: "POINT (39.3213900000000010 49.2091700000000003)"
-        name: Həsənabad
-        population: 4308
-        slug: hsnabad
-    code: AZ.36
-    name: Neftçala
-    slug: neftcala
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.4224999999999994 46.9241699999999966)"
-        name: Qax
-        population: 11992
-        slug: qax
-      - 
-        districts: []
-        location: "POINT (41.4722999999999971 46.9155999999999977)"
-        name: Çinarlı
-        population: 6508
-        slug: cinarl
-    code: AZ.39
-    name: Qǝx
-    slug: qx
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.6311099999999996 48.4266700000000014)"
-        name: Samur
-        population: 1760
-        slug: samur
-      - 
-        districts: []
-        location: "POINT (41.3597200000000029 48.5125000000000028)"
-        name: Quba
-        population: 22405
-        slug: quba
-      - 
-        districts: []
-        location: "POINT (41.4263899999999978 48.4355600000000024)"
-        name: Qusar
-        population: 16022
-        slug: qusar
-    code: AZ.44
-    name: Qusar
-    slug: qusar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.9319399999999973 48.9202799999999982)"
-        name: Şirvan
-        population: 70220
-        slug: sirvan
-      - 
-        districts: []
-        location: "POINT (39.5949999999999989 48.9791700000000034)"
-        name: Salyan
-        population: 36555
-        slug: salyan
-      - 
-        districts: []
-        location: "POINT (39.8077800000000011 48.9338899999999981)"
-        name: Qaraçala
-        population: 4211
-        slug: qaracala
-    code: AZ.49
-    name: Salyan
-    slug: salyan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.8297200000000018 46.0188899999999990)"
-        name: Şəmkir
-        population: 35421
-        slug: smkir
-      - 
-        districts: []
-        location: "POINT (40.7886200000000017 46.3065899999999999)"
-        name: Qarayeri
-        population: 5565
-        slug: qarayeri
-      - 
-        districts: []
-        location: "POINT (40.6827800000000011 46.3605599999999995)"
-        name: Gəncə
-        population: 303268
-        slug: gnc
-      - 
-        districts: []
-        location: "POINT (40.8627800000000008 46.0349300000000028)"
-        name: Dəlilər
-        population: 4399
-        slug: dlilr
-      - 
-        districts: []
-        location: "POINT (40.9033000000000015 45.8856400000000022)"
-        name: Zəyəm
-        population: 7442
-        slug: zym
-    code: AZ.51
-    name: Şǝmkir
-    slug: smkir
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.5897199999999998 49.6686100000000010)"
-        name: Sumqayıt
-        population: 265150
-        slug: sumqayt
-      - 
-        districts: []
-        location: "POINT (40.6233300000000028 49.5586100000000016)"
-        name: "Hacı Zeynalabdin"
-        population: 19019
-        slug: hac-zeynalabdin
-      - 
-        districts: []
-        location: "POINT (40.5724999999999980 49.7063899999999990)"
-        name: Corat
-        population: 8624
-        slug: corat
-    code: AZ.54
-    name: Sumqayit
-    slug: sumqayit
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.3449999999999989 46.9288900000000027)"
-        name: Tərtər
-        population: 18185
-        slug: trtr
-      - 
-        districts: []
-        location: "POINT (40.2152799999999999 46.8127799999999965)"
-        name: Ağdərə
-        population: 10167
-        slug: agdr
-    code: AZ.57
-    name: Tǝrtǝr
-    slug: trtr
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.6280599999999978 48.6827800000000011)"
-        name: Xudat
-        population: 13625
-        slug: xudat
-      - 
-        districts: []
-        location: "POINT (41.4708299999999994 48.8097199999999987)"
-        name: Xaçmaz
-        population: 37175
-        slug: xacmaz
-    code: AZ.60
-    name: Xaçmaz
-    slug: xacmaz
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.8188900000000032 49.4719399999999965)"
-        name: Şuraabad
-        population: 1945
-        slug: suraabad
-      - 
-        districts: []
-        location: "POINT (40.8677800000000033 49.3405600000000035)"
-        name: Giləzi
-        population: 3277
-        slug: gilzi
-      - 
-        districts: []
-        location: "POINT (40.9077800000000025 49.0733299999999986)"
-        name: Xızı
-        population: 1024
-        slug: xz
-      - 
-        districts: []
-        location: "POINT (40.8580600000000018 48.9361099999999993)"
-        name: Altıağac
-        population: 1126
-        slug: altagac
-    code: AZ.63
-    name: Xızı
-    slug: xz
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.9111100000000008 46.7891699999999986)"
-        name: Xocalı
-        population: 5810
-        slug: xocal
-      - 
-        districts: []
-        location: "POINT (39.9366699999999994 46.8327799999999996)"
-        name: Əsgəran
-        population: 1639
-        slug: sgran
-      - 
-        districts: []
-        location: "POINT (39.8299000000000021 46.7597000000000023)"
-        name: Xankǝndi
-        population: 53100
-        slug: xankndi
-      - 
-        districts: []
-        location: "POINT (39.5988100000000003 46.5504499999999979)"
-        name: Laçın
-        population: 2190
-        slug: lacn
-      - 
-        districts: []
-        location: "POINT (39.7563900000000032 46.7511099999999971)"
-        name: Şuşa
-        population: 18662
-        slug: susa
-    code: AZ.64
-    name: Xocalı
-    slug: xocal
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.7952799999999982 47.1130599999999973)"
-        name: Xocavənd
-        population: 5079
-        slug: xocavnd
-      - 
-        districts: []
-        location: "POINT (39.6758299999999977 46.9486100000000022)"
-        name: "Qırmızı Bazar"
-        population: 1211
-        slug: qrmz-bazar
-      - 
-        districts: []
-        location: "POINT (39.5166699999999977 47.0300000000000011)"
-        name: Hadrut
-        population: 2523
-        slug: hadrut
-      - 
-        districts: []
-        location: "POINT (39.4477800000000016 47.3363900000000015)"
-        name: Horadiz
-        population: 2714
-        slug: horadiz
-      - 
-        districts: []
-        location: "POINT (39.6322199999999967 47.6866699999999994)"
+        alternate_names: 
+          - Orconikidze
+          - Ordzhonikidze
+        ascii_name: Orconikidze
         name: Orconikidze
+        names_en: ~
+        names_es: ~
         population: 1557
-        slug: orconikidze
-      - 
-        districts: []
-        location: "POINT (39.3999999999999986 47.0261100000000027)"
-        name: Cəbrayıl
-        population: 8396
-        slug: cbrayl
-      - 
-        districts: []
-        location: "POINT (40.0527799999999985 47.4613900000000015)"
-        name: Ağcabədi
-        population: 34989
-        slug: agcabdi
-    code: AZ.65
-    name: Xocavǝnd
-    slug: xocavnd
+    name: Beyləqan
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Zangelanskiy Rayon"
     cities: 
       - 
-        districts: []
-        location: "POINT (39.0822199999999995 46.6550000000000011)"
-        name: İçəri
+        alternate_names: 
+          - Icari
+          - Ikari
+          - Zangelan
+        ascii_name: Zangilan
+        name: Zangilan
+        names_en: ~
+        names_es: ~
         population: 7483
-        slug: icri
       - 
-        districts: []
-        location: "POINT (39.0300000000000011 46.7186099999999982)"
+        alternate_names: 
+          - Mincivan
+          - Mindshewan
+          - Mindzhevan'
+        ascii_name: Mincivan
         name: Mincivan
+        names_en: ~
+        names_es: ~
         population: 6353
-        slug: mincivan
-      - 
-        districts: []
-        location: "POINT (39.3438900000000018 46.5797200000000018)"
-        name: Qubadlı
-        population: 6890
-        slug: qubadl
-    code: AZ.69
     name: Zǝngilan
-    slug: zngilan
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Yardimli Rayonu"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.3227800000000016 47.1133299999999977)"
-        name: "Baş Göynük"
-        population: 1658
-        slug: bas-goynuk
+        alternate_names: 
+          - Iardymly
+          - Jardymly
+          - Yardimli
+        ascii_name: Yardimli
+        name: Yardımlı
+        names_en: ~
+        names_es: ~
+        population: 4004
+    name: Yardımlı
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Susa Rayonu"
+    cities: []
+    name: Şuşa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Salyan Rayonu"
+    cities: 
       - 
-        districts: []
-        location: "POINT (41.6336099999999973 46.6433299999999988)"
+        alternate_names: 
+          - Sal'jan
+          - Sal'yany
+          - Salian
+        ascii_name: Salyan
+        name: Salyan
+        names_en: ~
+        names_es: ~
+        population: 36555
+      - 
+        alternate_names: 
+          - Karachala
+          - Karachalinskaya
+          - Qaracala
+        ascii_name: Qaracala
+        name: Qaraçala
+        names_en: ~
+        names_es: ~
+        population: 4211
+    name: Salyan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sabirabad Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Petropavlovka
+          - Petropavlovskoye
+          - SABIRABAD
+        ascii_name: Sabirabad
+        name: Sabirabad
+        names_en: 
+          - Sabirabad
+        names_es: ~
+        population: 28075
+    name: Sabirabad
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saatli Rayonu"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tel'mankend
+        name: Tel’mankend
+        names_en: ~
+        names_es: ~
+        population: 17242
+    name: Saatlı
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Pushkinskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - Bilasuvar
+          - Biləsuvar
+          - Pushkin
+        ascii_name: Pushkino
+        name: Pushkino
+        names_en: ~
+        names_es: ~
+        population: 18182
+    name: Bilǝsuvar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Neftcala Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Neftcala
+          - Neftechala
+          - Neftçala
+        ascii_name: Neftcala
+        name: Neftçala
+        names_en: ~
+        names_es: ~
+        population: 18661
+      - 
+        alternate_names: 
+          - Khilly
+          - Xilli
+          - Xıllı
+        ascii_name: Xilli
+        name: Xıllı
+        names_en: ~
+        names_es: ~
+        population: 3896
+      - 
+        alternate_names: 
+          - Bank
+          - Banka
+          - Bankov
+        ascii_name: "Severo-Vostotchnyi Bank"
+        name: "Severo-Vostotchnyi Bank"
+        names_en: ~
+        names_es: ~
+        population: 7075
+      - 
+        alternate_names: 
+          - Hasanabad
+          - Həsənabad
+          - Sovetabad
+        ascii_name: Sovetabad
+        name: Sovetabad
+        names_en: ~
+        names_es: ~
+        population: 4308
+    name: Neftçala
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Nakhichevan
+    cities: 
+      - 
+        alternate_names: 
+          - Chay-Shakhbuz
+          - Sahbuz
+          - Shahbuz
+        ascii_name: Sahbuz
+        name: Şahbuz
+        names_en: ~
+        names_es: ~
+        population: 2674
+      - 
+        alternate_names: 
+          - Sadarak
+          - Sedarak
+          - Sədərək
+        ascii_name: Sedarak
+        name: Sedarak
+        names_en: ~
+        names_es: ~
+        population: 1853
+      - 
+        alternate_names: 
+          - Ordoubat
+          - Ordubad
+          - Ordubat
+        ascii_name: Ordubad
+        name: Ordubad
+        names_en: ~
+        names_es: ~
+        population: 9781
+      - 
+        alternate_names: 
+          - Nachitschewan
+          - Nakhchyvan
+          - Nakhicevan
+        ascii_name: Naxcivan
+        name: Naxçıvan
+        names_en: ~
+        names_es: ~
+        population: 64754
+      - 
+        alternate_names: 
+          - Culfa
+          - Dzhul'fa
+          - Dzhul’fa
+        ascii_name: Julfa
+        name: Julfa
+        names_en: ~
+        names_es: ~
+        population: 10820
+    name: Nakhichevan
+    names_en: 
+      - Nakhichevan
+    names_es: 
+      - "República autónoma de Najicheván"
+  - 
+    ascii_name: "Masalli Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Masali
+          - Masalli
+          - Masally
+        ascii_name: Masalli
+        name: Masallı
+        names_en: ~
+        names_es: ~
+        population: 9604
+      - 
+        alternate_names: 
+          - Baradigyakh
+          - Boradigah
+          - Boradigyakh
+        ascii_name: Boradigah
+        name: Boradigah
+        names_en: ~
+        names_es: ~
+        population: 5904
+    name: Masallı
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lerik Rayonu"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Lerik
+        name: Lerik
+        names_en: ~
+        names_es: ~
+        population: 7094
+    name: Lerik
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lenkoranskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - Gaftoni
+          - Haftoni
+          - Гафтони
+        ascii_name: Haftoni
+        name: Haftoni
+        names_en: ~
+        names_es: ~
+        population: 2003
+    name: Lənkəran
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lacin Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Abdallyar
+          - Abdalyar
+          - Berdzor
+        ascii_name: Lacin
+        name: Laçın
+        names_en: ~
+        names_es: ~
+        population: 2190
+    name: Laçın
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qubadli Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Ghubat'ly
+          - Ghubat’ly
+          - Koubatly
+        ascii_name: Qubadli
+        name: Qubadlı
+        names_en: ~
+        names_es: ~
+        population: 6890
+    name: Qubadlı
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Imisli Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Emishti
+          - Imishli
+          - Imishly
+        ascii_name: Imisli
+        name: İmişli
+        names_en: ~
+        names_es: ~
+        population: 31381
+    name: İmişli
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Fuzuli Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Geradiz
+          - Goradiz
+          - Gorodiz
+        ascii_name: Horadiz
+        name: Horadiz
+        names_en: ~
+        names_es: ~
+        population: 2714
+    name: Füzuli
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Cabrayil Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Cabrayil
+          - Cəbrayıl
+          - Djebrail
+        ascii_name: Jebrail
+        name: Jebrail
+        names_en: ~
+        names_es: ~
+        population: 8396
+    name: Cǝbrayıl
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dzhalilabadskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - Geytepe
+          - Goytapa
+          - Göytəpə
+        ascii_name: Prishibinskoye
+        name: Prishibinskoye
+        names_en: ~
+        names_es: ~
+        population: 13340
+      - 
+        alternate_names: 
+          - Astrahanka
+          - Astrakhan-Bazar
+          - Astrakhanka
+        ascii_name: Dzhalilabad
+        name: Dzhalilabad
+        names_en: ~
+        names_es: ~
+        population: 36259
+    name: Cəlilabad
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Astara Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Kijaba
+          - Kijoba
+          - Kijäba
+        ascii_name: Kijoba
+        name: Kijoba
+        names_en: ~
+        names_es: ~
+        population: 4567
+      - 
+        alternate_names: 
+          - Astara
+          - "Azerbaydzhanskaya Astara"
+          - Астара
+        ascii_name: Astara
+        name: Astara
+        names_en: ~
+        names_es: ~
+        population: 15190
+    name: Astara
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Xocali Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Ay-Khodzhaly
+          - Khodgalou
+          - Khodzhalv
+        ascii_name: Xocali
+        name: Xocalı
+        names_en: ~
+        names_es: ~
+        population: 5810
+      - 
+        alternate_names: 
+          - Asgaran
+          - Askeran
+          - Askyaran
+        ascii_name: Askyaran
+        name: Askyaran
+        names_en: ~
+        names_es: ~
+        population: 1639
+    name: Xocalı
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Agdzhabedinskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - AGDZHABEDI
+          - Agcabadi
+          - Agdzhabedi
+        ascii_name: Agdzhabedy
+        name: Agdzhabedy
+        names_en: 
+          - Ağcabǝdi
+        names_es: ~
+        population: 34989
+    name: Ağcabǝdi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Agdam Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Agdam
+          - Aghdam
+          - Ağdam
+        ascii_name: Agdam
+        name: Ağdam
+        names_en: ~
+        names_es: ~
+        population: 39451
+      - 
+        alternate_names: ~
+        ascii_name: Agdam
+        name: Ağdam
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Ağdam
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ali Bajramly"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ali Bairamly"
+          - "Ali Bayramli"
+          - Ali-Bairamli
+        ascii_name: Zubovka
+        name: Zubovka
+        names_en: ~
+        names_es: ~
+        population: 70220
+    name: "Əli Bayramli"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lankaran Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - Lankaran
+          - Lencoran
+          - Lenkoran'
+        ascii_name: ~
+        name: Lǝnkǝran
+        names_en: ~
+        names_es: ~
+        population: 50244
+    name: "Lənkəran Şəhəri"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Susa Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - Shoushi
+          - Shusha
+          - Shushe
+        ascii_name: Shushi
+        name: Shushi
+        names_en: 
+          - Shusha
+        names_es: ~
+        population: 18662
+    name: "Şuşa Şəhəri"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tartar Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - "Mir Bashir"
+          - Mirbashir
+          - Mirbäshir
+        ascii_name: Terter
+        name: Terter
+        names_en: 
+          - Tǝrtǝr
+        names_es: ~
+        population: 18185
+      - 
+        alternate_names: 
+          - Agdara
+          - Ağdǝrǝ
+          - Ağdərə
+        ascii_name: Martakert
+        name: Martakert
+        names_en: 
+          - Ağdǝrǝ
+        names_es: ~
+        population: 10167
+    name: Tǝrtǝr
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Xankandi Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - Chankaendi
+          - Chankändi
+          - Hankendi
+        ascii_name: ~
+        name: Xankǝndi
+        names_en: 
+          - Stepanakert
+        names_es: 
+          - Stepanakert
+        population: 53100
+    name: Xankǝndi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Xocavand Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Martouni
+          - Martuni
+          - "Novyy Karanlug"
+        ascii_name: "Novyy Karanlug"
+        name: "Novyy Karanlug"
+        names_en: ~
+        names_es: ~
+        population: 5079
+      - 
+        alternate_names: 
+          - "Karmir Shouka"
+          - "Karmir Shuka"
+          - "Krasnyy Bazar"
+        ascii_name: "Qirmizi Bazar"
+        name: "Qırmızı Bazar"
+        names_en: ~
+        names_es: ~
+        population: 1211
+      - 
+        alternate_names: 
+          - Gadrut
+          - Hadrout
+          - Hadrut
+        ascii_name: Hadrut
+        name: Hadrut
+        names_en: ~
+        names_es: ~
+        population: 2523
+    name: Xocavǝnd
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zardobskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - ZARDOB
+          - Zardab
+          - Zardob
+        ascii_name: Zardob
+        name: Zardob
+        names_en: 
+          - Zǝrdab
+        names_es: ~
+        population: 10612
+    name: Zərdab
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zaqatala Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Sakataly
+          - ZAKATALY
+          - Zakatali
+        ascii_name: Zaqatala
         name: Zaqatala
+        names_en: 
+          - Zaqatala
+        names_es: ~
         population: 18277
-        slug: zaqatala
       - 
-        districts: []
-        location: "POINT (41.4822399999999973 46.6352800000000016)"
+        alternate_names: 
+          - Aliabad
+          - Əliabad
+          - Алиабад
+        ascii_name: Aliabad
         name: Əliabad
+        names_en: 
+          - Əliabad
+        names_es: ~
         population: 9103
-        slug: liabad
-    code: AZ.70
     name: Zaqatala
-    slug: zaqatala
-tld: az
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Yevlax Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - ARAI
+          - Aran
+          - АРАИ
+        ascii_name: Aran
+        name: Aran
+        names_en: 
+          - Aran
+        names_es: ~
+        population: 6724
+    name: Yevlax
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oguz Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Bartashen
+          - OGUZ
+          - Oguz
+        ascii_name: Oguz
+        name: Oğuz
+        names_en: 
+          - Oğuz
+        names_es: ~
+        population: 6600
+    name: Oğuz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ucar Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - UDZHARY
+          - Ucar
+          - Udshary
+        ascii_name: Ucar
+        name: Ucar
+        names_en: 
+          - Ucar
+        names_es: ~
+        population: 15741
+    name: Ucar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tovuz Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Tauz
+          - Tavus
+          - Tovuz
+        ascii_name: Tovuz
+        name: Tovuz
+        names_en: 
+          - Tovuz
+        names_es: ~
+        population: 12626
+    name: Tovuz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Samaxi Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - SHEMAKHA
+          - Samaxi
+          - Schemacha
+        ascii_name: Samaxi
+        name: Şamaxı
+        names_en: 
+          - Şamaxı
+        names_es: ~
+        population: 29403
+    name: Şamaxı
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Shekinskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bas Goeynuek"
+          - "Bas Goynuk"
+          - "Bas Koynuk"
+        ascii_name: "Bas Goynuk"
+        name: "Baş Göynük"
+        names_en: 
+          - "Baş Göynük"
+        names_es: ~
+        population: 1658
+    name: Şǝki
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Shamkhorskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - Anino
+          - Annenfel'd
+          - Annenfel’d
+        ascii_name: Shamkhor
+        name: Shamkhor
+        names_en: 
+          - Şǝmkir
+        names_es: ~
+        population: 35421
+      - 
+        alternate_names: 
+          - DZEGAM
+          - Dzagam
+          - Dzegam
+        ascii_name: "Star Agozam"
+        name: "Star Agozam"
+        names_en: 
+          - Zǝyǝm
+        names_es: ~
+        population: 7442
+      - 
+        alternate_names: 
+          - DALLJAR
+          - Dalilar
+          - Dallyar
+        ascii_name: Dolyar
+        name: Dolyar
+        names_en: 
+          - Dǝlilǝr
+        names_es: ~
+        population: 4399
+    name: Şǝmkir
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kyurdamirskiy Rayon"
+    cities: []
+    name: Kürdǝmir
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qutqashen Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Kutkashen
+          - Kutkashin
+          - Qabala
+        ascii_name: Qutqashen
+        name: Qutqashen
+        names_en: ~
+        names_es: ~
+        population: 11867
+    name: Qǝbǝlǝ
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qusar Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Samur
+          - Самур
+        ascii_name: Samur
+        name: Samur
+        names_en: 
+          - Samur
+        names_es: ~
+        population: 1760
+      - 
+        alternate_names: 
+          - KUSARY
+          - Kusary
+          - Qusar
+        ascii_name: Qusar
+        name: Qusar
+        names_en: 
+          - Qusar
+        names_es: ~
+        population: 16022
+    name: Qusar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Quba Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - KUBA
+          - Kuba
+          - Kuwa
+        ascii_name: Quba
+        name: Quba
+        names_en: 
+          - Quba
+        names_es: ~
+        population: 22405
+    name: Quba
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Xanlar Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Elenendorf
+          - Gjojgjol'
+          - Khanlar
+        ascii_name: Xanlar
+        name: Xanlar
+        names_en: 
+          - Khanlar
+          - Xanlar
+        names_es: ~
+        population: 17816
+    name: Xanlar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Xacmaz Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - KHUDAT
+          - Khudaf
+          - Khudat
+        ascii_name: Xudat
+        name: Xudat
+        names_en: 
+          - Xudat
+        names_es: ~
+        population: 13625
+      - 
+        alternate_names: 
+          - Chatschmas
+          - KHACHMAS
+          - "Kegna Khachmas"
+        ascii_name: Xacmaz
+        name: Xaçmaz
+        names_en: 
+          - Xaçmaz
+        names_es: ~
+        population: 37175
+    name: Xaçmaz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kalbacar Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - KEL'BADZHAR
+          - Kalbacar
+          - Kalbajar
+        ascii_name: Kerbakhiar
+        name: Kerbakhiar
+        names_en: 
+          - Kǝlbǝcǝr
+        names_es: ~
+        population: 8400
+    name: Kǝlbǝcǝr
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qazax Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Agkeynak
+          - Agkëynak
+          - KAZAKH
+        ascii_name: Qazax
+        name: Qazax
+        names_en: 
+          - Qazax
+        names_es: ~
+        population: 18903
+    name: Qazax
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Goranboy Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Kyzylgadzhily
+          - Kyzylgadzhyly
+          - Qizilhacili
+        ascii_name: Qizilhacili
+        name: Qızılhacılı
+        names_en: 
+          - Qızılhacılı
+        names_es: ~
+        population: 6330
+      - 
+        alternate_names: 
+          - GERANBOJ
+          - Geran'boy
+          - Geran’boy
+        ascii_name: Goranboy
+        name: Goranboy
+        names_en: 
+          - Goranboy
+        names_es: ~
+        population: 7333
+    name: Goranboy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qax Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - KAKHI
+          - Kakhi
+          - Qakh
+        ascii_name: Qax
+        name: Qax
+        names_en: 
+          - Qax
+        names_es: ~
+        population: 11992
+      - 
+        alternate_names: 
+          - Chinarly
+          - Cinarli
+          - Lenin
+        ascii_name: Cinarli
+        name: Çinarlı
+        names_en: ~
+        names_es: ~
+        population: 6508
+    name: Qǝx
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ismayilli Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - ISMAILLY
+          - Ismailly
+          - Ismaily
+        ascii_name: Ismayilli
+        name: İsmayıllı
+        names_en: 
+          - İsmayıllı
+        names_es: ~
+        population: 13610
+      - 
+        alternate_names: 
+          - Azizbekovo
+          - Baskal
+          - Baskhal
+        ascii_name: Basqal
+        name: Basqal
+        names_en: 
+          - Basqal
+        names_es: ~
+        population: 1234
+    name: İsmayıllı
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Goycay Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - GEOKCHAJ
+          - Gekchai
+          - Geokchai
+        ascii_name: Geoktschai
+        name: Geoktschai
+        names_en: 
+          - Göyçay
+        names_es: ~
+        population: 35348
+    name: Göyçay
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Divichinskiy Rayon"
+    cities: []
+    name: Dǝvǝçi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dastafyurskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - VERKH.DASHKESAN
+          - "Verkhniy Dashkesan"
+          - "Yuxari Daskasan"
+        ascii_name: "Verkhniy Dashkesan"
+        name: "Verkhniy Dashkesan"
+        names_en: 
+          - "Yuxarı Daşkǝsǝn"
+        names_es: ~
+        population: 1837
+      - 
+        alternate_names: 
+          - DASHKESAN
+          - Dashkasan
+          - Dashkesan
+        ascii_name: Yukhary-Dashkesan
+        name: Yukhary-Dashkesan
+        names_en: 
+          - Daşkǝsǝn
+        names_es: ~
+        population: 9900
+    name: Daşkǝsǝn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Belokanskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - BELOKANY
+          - Balakan
+          - Balakon
+        ascii_name: Belokany
+        name: Belokany
+        names_en: 
+          - Balakǝn
+        names_es: ~
+        population: 9182
+      - 
+        alternate_names: ~
+        ascii_name: Qabaqcol
+        name: Qabaqçöl
+        names_en: ~
+        names_es: ~
+        population: 1293
+    name: Balakǝn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bardinskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - BARDA
+          - Barda
+          - Bärdä
+        ascii_name: Barda
+        name: Barda
+        names_en: 
+          - Bǝrdǝ
+        names_es: ~
+        population: 37372
+    name: Bǝrdǝ
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Baku
+    cities: 
+      - 
+        alternate_names: 
+          - ZIRJA
+          - Zira
+          - Zirya
+        ascii_name: Zyrya
+        name: Zyrya
+        names_en: 
+          - Zirǝ
+        names_es: ~
+        population: 10099
+      - 
+        alternate_names: 
+          - Sabrat
+          - ZABRAT
+          - Zabrat
+        ascii_name: Zabrat
+        name: Zabrat
+        names_en: 
+          - Zabrat
+        names_es: ~
+        population: 21396
+      - 
+        alternate_names: 
+          - TJURKJAN
+          - Tuerkan
+          - Turkan
+        ascii_name: Turkan
+        name: Türkan
+        names_en: 
+          - Türkan
+        names_es: ~
+        population: 9699
+      - 
+        alternate_names: 
+          - GARACHUKHUR
+          - Garachukhur
+          - "Imeni Kaganovicha"
+        ascii_name: Qaracuxur
+        name: Qaraçuxur
+        names_en: 
+          - Qaraçuxur
+        names_es: ~
+        population: 72989
+      - 
+        alternate_names: 
+          - SABUNCHI
+          - Sabunchi
+          - Sabunchy
+        ascii_name: Sabuncu
+        name: Sabunçu
+        names_en: 
+          - Sabunçu
+        names_es: ~
+        population: 20996
+      - 
+        alternate_names: 
+          - Duvannaya
+          - Duvanny
+          - Duvannyy
+        ascii_name: Qobustan
+        name: Qobustan
+        names_en: 
+          - Qobustan
+        names_es: ~
+        population: 13398
+      - 
+        alternate_names: 
+          - PUTA
+          - Puta
+          - "Staraya Puta"
+        ascii_name: Puta
+        name: Puta
+        names_en: 
+          - Puta
+        names_es: ~
+        population: 1018
+      - 
+        alternate_names: 
+          - Nardaran
+        ascii_name: Nardaran
+        name: Nardaran
+        names_en: ~
+        names_es: ~
+        population: 7700
+      - 
+        alternate_names: 
+          - MASHTAGA
+          - Mashtaga
+          - Mashtaghy
+        ascii_name: Mastaga
+        name: Maştağa
+        names_en: 
+          - Maştağa
+        names_es: ~
+        population: 40092
+      - 
+        alternate_names: 
+          - MARDAKJAN
+          - Mardakan
+          - Mardakjan
+        ascii_name: Mardakyany
+        name: Mardakyany
+        names_en: 
+          - Mǝrdǝkan
+        names_es: ~
+        population: 15267
+      - 
+        alternate_names: 
+          - LOKBATAN
+          - Loekbatan
+          - Lokbatan
+        ascii_name: Lokbatan
+        name: Lökbatan
+        names_en: 
+          - Lökbatan
+        names_es: ~
+        population: 30694
+      - 
+        alternate_names: 
+          - Gadzhi-Gasan
+          - Khodzhagasan
+          - Khodzhasan
+        ascii_name: Khodzhi-Gasan
+        name: Khodzhi-Gasan
+        names_en: ~
+        names_es: ~
+        population: 5089
+      - 
+        alternate_names: 
+          - KERGEZ
+          - Kar'yery
+          - Kar’yery
+        ascii_name: Korgoz
+        name: Korgöz
+        names_en: 
+          - Korgöz
+        names_es: ~
+        population: 2036
+      - 
+        alternate_names: 
+          - KALA
+          - Kala
+          - Kala-Machtagi
+        ascii_name: Qala
+        name: Qala
+        names_en: 
+          - Qala
+        names_es: ~
+        population: 2709
+      - 
+        alternate_names: 
+          - GOVSAN
+          - Gousan
+          - Gousany
+        ascii_name: Hovsan
+        name: Hövsan
+        names_en: 
+          - Hövsan
+        names_es: ~
+        population: 36293
+      - 
+        alternate_names: 
+          - BUZOVNA
+          - Busovny
+          - Busowny
+        ascii_name: Buzovna
+        name: Buzovna
+        names_en: 
+          - Buzovna
+        names_es: ~
+        population: 24795
+      - 
+        alternate_names: 
+          - BINAGADI
+          - Binagadi
+          - Binagady
+        ascii_name: Bonogady
+        name: Bonogady
+        names_en: 
+          - Binǝqǝdi
+        names_es: ~
+        population: 14012
+      - 
+        alternate_names: 
+          - BINA
+          - Bina
+          - "Bina Staraya"
+        ascii_name: "Biny Selo"
+        name: "Biny Selo"
+        names_en: 
+          - Binǝ
+        names_es: ~
+        population: 24596
+      - 
+        alternate_names: 
+          - BIL'GJAKH
+          - Bil'gya
+          - Bil'gyakh
+        ascii_name: Bilajer
+        name: Bilajer
+        names_en: 
+          - Bilgǝh
+        names_es: ~
+        population: 8983
+      - 
+        alternate_names: 
+          - BALAKHANY
+          - Balaban
+          - Balachany
+        ascii_name: Balaxani
+        name: Balaxanı
+        names_en: 
+          - Balaxanı
+        names_es: ~
+        population: 10863
+      - 
+        alternate_names: 
+          - Baku-Baladshary
+          - Baladjary
+          - Baladzhary
+        ascii_name: Baladzhary
+        name: Baladzhary
+        names_en: ~
+        names_es: ~
+        population: 42194
+      - 
+        alternate_names: 
+          - Bacu
+          - Baki
+          - Bako
+        ascii_name: Baku
+        name: Baku
+        names_en: 
+          - Baku
+        names_es: 
+          - Bakú
+        population: 1116513
+      - 
+        alternate_names: 
+          - Artem-Ostrov
+          - Artyom
+          - Artëm-Ostrov
+        ascii_name: Artyom
+        name: Artyom
+        names_en: 
+          - Artyom
+        names_es: ~
+        population: 13435
+      - 
+        alternate_names: 
+          - Amirabdzhan
+          - Amiradzhan
+          - Amiradzhany
+        ascii_name: Amirdzhan
+        name: Amirdzhan
+        names_en: 
+          - Amiradzhan
+        names_es: ~
+        population: 26798
+      - 
+        alternate_names: 
+          - RAMANA
+          - Ramana
+          - РАМАНА
+        ascii_name: Ramana
+        name: Ramana
+        names_en: 
+          - Ramana
+        names_es: ~
+        population: 8855
+    name: Baki
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Abseron Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - SARAJ
+          - Sarai
+          - Saray
+        ascii_name: Saray
+        name: Saray
+        names_en: 
+          - Saray
+        names_es: ~
+        population: 10173
+      - 
+        alternate_names: 
+          - KOBU
+          - Kobi
+          - Kobu
+        ascii_name: Qobu
+        name: Qobu
+        names_en: 
+          - Qobu
+        names_es: ~
+        population: 7377
+      - 
+        alternate_names: 
+          - GJUZDEK
+          - Gezdek
+          - Guzdak
+        ascii_name: Gyuzdek
+        name: Gyuzdek
+        names_en: 
+          - Güzdǝk
+        names_es: ~
+        population: 2462
+      - 
+        alternate_names: 
+          - Ceyranbatan
+          - DZHEJRANBATAN
+          - Dzheyranbatan
+        ascii_name: Ceyranbatan
+        name: Ceyranbatan
+        names_en: 
+          - Ceyranbatan
+        names_es: ~
+        population: 5684
+      - 
+        alternate_names: 
+          - DIGJAKH
+          - Digah
+          - Digyakh
+        ascii_name: Digah
+        name: Digah
+        names_en: 
+          - Digah
+        names_es: ~
+        population: 3211
+    name: Abşeron
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Agsu Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - AKHSU
+          - Aghsu
+          - Agsu
+        ascii_name: Agsu
+        name: Ağsu
+        names_en: 
+          - Ağsu
+        names_es: ~
+        population: 17209
+    name: Ağsu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Agdas Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - AGDASH
+          - Agdas
+          - Agdasch
+        ascii_name: Agdas
+        name: Ağdaş
+        names_en: 
+          - Ağdaş
+        names_es: ~
+        population: 23528
+    name: Ağdaş
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kedabekskiy Rayon"
+    cities: 
+      - 
+        alternate_names: 
+          - Gadabay
+          - Gǝdǝbǝy
+          - Gədəbəy
+        ascii_name: Kyadabek
+        name: Kyadabek
+        names_en: 
+          - Gǝdǝbǝy
+        names_es: ~
+        population: 8657
+    name: Gǝdǝbǝy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Agstafa Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Gryunfel'd
+          - Gryunfel’d
+          - KALININKEND
+        ascii_name: Vurgun
+        name: Vurğun
+        names_en: 
+          - Vurğun
+        names_es: ~
+        population: 2635
+      - 
+        alternate_names: 
+          - AKSTAFA
+          - Agstafa
+          - Akstafa
+        ascii_name: Agstafa
+        name: Ağstafa
+        names_en: 
+          - Ağstafa
+        names_es: ~
+        population: 12542
+    name: Ağstafa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ganca Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - Elisavetpol
+          - Elizavetpol'
+          - Elizavetpol’
+        ascii_name: Kirowabad
+        name: Kirowabad
+        names_en: 
+          - Ganja
+          - Gǝncǝ
+        names_es: 
+          - Gandja
+        population: 303268
+    name: Gǝncǝ
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mingacevir Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - MINGECHAUR
+          - Mengechaur
+          - Min'nkatsebir
+        ascii_name: Mingelchaur
+        name: Mingelchaur
+        names_en: 
+          - Mingachevir
+          - Mingǝçevir
+        names_es: 
+          - Mingacevir
+        population: 95453
+    name: Mingǝcevir
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Naftalan Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - NAFTALAN
+          - Naftalan
+          - НАФТАЛАН
+        ascii_name: Naftalan
+        name: Naftalan
+        names_en: 
+          - Naftalan
+        names_es: ~
+        population: 7045
+    name: Naftalan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qobustan Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - MARAZA
+          - Maraza
+          - Marazi
+        ascii_name: Marazy
+        name: Marazy
+        names_en: 
+          - Mǝrǝzǝ
+        names_es: ~
+        population: 3754
+    name: Qobustan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Samux Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - KARAERI
+          - Karayeri
+          - Qarayeri
+        ascii_name: Qarayeri
+        name: Qarayeri
+        names_en: 
+          - Qarayeri
+        names_es: ~
+        population: 5565
+    name: Samux
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saki Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - Nucha
+          - Nukha
+          - Nuxa
+        ascii_name: Sheki
+        name: Sheki
+        names_en: 
+          - Şǝki
+        names_es: ~
+        population: 62191
+    name: Şǝki
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Siyazan Rayonu"
+    cities: []
+    name: Siyǝzǝn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sumqayit Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - SUMGAIT
+          - Sumgait
+          - Sumgjajet
+        ascii_name: Sumqayit
+        name: Sumqayıt
+        names_en: 
+          - Sumqayit
+        names_es: ~
+        population: 265150
+      - 
+        alternate_names: 
+          - "Haci Zeynalabdin"
+          - "Hacı Zeynalabdin"
+          - Nasoslu
+        ascii_name: "Haci Zeynalabdin"
+        name: "Hacı Zeynalabdin"
+        names_en: ~
+        names_es: ~
+        population: 19019
+      - 
+        alternate_names: 
+          - Corat
+          - DZHORAT
+          - Dzhorat
+        ascii_name: Corat
+        name: Corat
+        names_en: 
+          - Corat
+        names_es: ~
+        population: 8624
+    name: Sumqayit
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Xizi Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Mikhailabad
+          - Shuraabad
+          - Sovetabad
+        ascii_name: Suraabad
+        name: Şuraabad
+        names_en: 
+          - Şuraabad
+        names_es: ~
+        population: 1945
+      - 
+        alternate_names: 
+          - Gilazi
+          - Giləzi
+          - Kiljasi
+        ascii_name: Kilyazi
+        name: Kilyazi
+        names_en: ~
+        names_es: ~
+        population: 3277
+      - 
+        alternate_names: 
+          - Khizy
+          - Khyzy
+          - Xizi
+        ascii_name: Khyzy
+        name: Khyzy
+        names_en: 
+          - Xızı
+        names_es: ~
+        population: 1024
+      - 
+        alternate_names: 
+          - Altiagac
+          - Altiagach
+          - Alty-Agatsch
+        ascii_name: Altiagac
+        name: Altıağac
+        names_en: 
+          - Altıağac
+        names_es: ~
+        population: 1126
+    name: Xızı
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Yevlax Sahari"
+    cities: 
+      - 
+        alternate_names: 
+          - Avlakh
+          - EVLAKH
+          - Jewlach
+        ascii_name: Yevlax
+        name: Yevlax
+        names_en: 
+          - Yevlax
+        names_es: ~
+        population: 53716
+    name: Yevlax
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Haciqabul Rayonu"
+    cities: 
+      - 
+        alternate_names: 
+          - Adshikabul
+          - Adzha-Kabul
+          - Adzhikabul
+        ascii_name: "Aja Kabul"
+        name: "Aja Kabul"
+        names_en: 
+          - Qazımǝmmǝd
+        names_es: ~
+        population: 23102
+      - 
+        alternate_names: 
+          - MUGAN'
+          - Mugan
+          - Muğan
+        ascii_name: Mugan
+        name: Muğan
+        names_en: 
+          - Muğan
+        names_es: ~
+        population: 4410
+    name: Hacıqabul
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Babek
+    cities: []
+    name: Babek
+    names_en: ~
+    names_es: ~

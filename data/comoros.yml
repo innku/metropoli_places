@@ -1,513 +1,681 @@
 --- 
-code: KM
-continent: AF
 name: Comoros
-population: 773407
+names_en: 
+  - Comoros
+  - "Union of the Comoros"
+names_es: 
+  - Comoras
 regions: 
   - 
+    ascii_name: Mwali
     cities: 
       - 
-        districts: []
-        location: "POINT (-12.1833299999999998 44.4833300000000023)"
-        name: Dziani
-        population: 1754
-        slug: dziani
-      - 
-        districts: []
-        location: "POINT (-12.1883300000000006 44.2355599999999995)"
-        name: Bimbini
-        population: 2052
-        slug: bimbini
-    code: KM.00
-    name: "Comoros (general)"
-    slug: comoros-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-12.3066700000000004 44.4377799999999965)"
-        name: Moya
-        population: 7529
-        slug: moya
-      - 
-        districts: []
-        location: "POINT (-12.2055600000000002 44.2994399999999970)"
-        name: Boungouéni
-        population: 2465
-        slug: boungoueni
-      - 
-        districts: []
-        location: "POINT (-12.2441700000000004 44.3744399999999999)"
-        name: Vouani
-        population: 2513
-        slug: vouani
-      - 
-        districts: []
-        location: "POINT (-12.1955600000000004 44.2766700000000029)"
-        name: Sima
-        population: 10374
-        slug: sima
-      - 
-        districts: []
-        location: "POINT (-12.1555599999999995 44.4372200000000035)"
-        name: Patsi
-        population: 1498
-        slug: patsi
-      - 
-        districts: []
-        location: "POINT (-12.2672200000000000 44.4797200000000004)"
-        name: Ouzini
-        population: 1886
-        slug: ouzini
-      - 
-        districts: []
-        location: "POINT (-12.1322200000000002 44.4258299999999977)"
-        name: Ouani
-        population: 10179
-        slug: ouani
-      - 
-        districts: []
-        location: "POINT (-12.1702800000000000 44.5069400000000002)"
-        name: Ongoni
-        population: 2058
-        slug: ongoni
-      - 
-        districts: []
-        location: "POINT (-12.3322199999999995 44.5191700000000026)"
-        name: Kyo
-        population: 2209
-        slug: kyo
-      - 
-        districts: []
-        location: "POINT (-12.1627799999999997 44.3963899999999967)"
-        name: Moutsamoudou
-        population: 23594
-        slug: moutsamoudou
-      - 
-        districts: []
-        location: "POINT (-12.3083299999999998 44.4986099999999993)"
-        name: Mrémani
-        population: 4996
-        slug: mremani
-      - 
-        districts: []
-        location: "POINT (-12.3463899999999995 44.5286100000000005)"
-        name: Mramani
-        population: 5126
-        slug: mramani
-      - 
-        districts: []
-        location: "POINT (-12.1916700000000002 44.3702800000000011)"
-        name: Mjimandra
-        population: 3114
-        slug: mjimandra
-      - 
-        districts: []
-        location: "POINT (-12.1936099999999996 44.3100000000000023)"
-        name: Mjamaoué
-        population: 1490
-        slug: mjamaoue
-      - 
-        districts: []
-        location: "POINT (-12.2308299999999992 44.3133300000000006)"
-        name: Maraharé
-        population: 1415
-        slug: marahare
-      - 
-        districts: []
-        location: "POINT (-12.2297200000000004 44.4816700000000012)"
-        name: Koni-Djodjo
-        population: 8109
-        slug: koni-djodjo
-      - 
-        districts: []
-        location: "POINT (-12.2158300000000004 44.4799999999999969)"
-        name: Koni-Ngani
-        population: 3288
-        slug: koni-ngani
-      - 
-        districts: []
-        location: "POINT (-12.1713900000000006 44.4416700000000020)"
-        name: Koki
-        population: 4929
-        slug: koki
-      - 
-        districts: []
-        location: "POINT (-12.3116699999999994 44.4747199999999978)"
-        name: Kangani
-        population: 3711
-        slug: kangani
-      - 
-        districts: []
-        location: "POINT (-12.2569400000000002 44.5319399999999987)"
-        name: Domoni
-        population: 14509
-        slug: domoni
-      - 
-        districts: []
-        location: "POINT (-12.1911100000000001 44.3524999999999991)"
-        name: Chironkamba
-        population: 2391
-        slug: chironkamba
-      - 
-        districts: []
-        location: "POINT (-12.1950000000000003 44.4647199999999998)"
-        name: Chandra
-        population: 5645
-        slug: chandra
-      - 
-        districts: []
-        location: "POINT (-12.2330600000000000 44.3197199999999967)"
-        name: Assimpao
-        population: 1112
-        slug: assimpao
-      - 
-        districts: []
-        location: "POINT (-12.3563899999999993 44.5225000000000009)"
-        name: Antsahé
-        population: 1180
-        slug: antsahe
-      - 
-        districts: []
-        location: "POINT (-12.1919400000000007 44.2694400000000030)"
-        name: Kavani
-        population: 2160
-        slug: kavani
-      - 
-        districts: []
-        location: "POINT (-12.1916700000000002 44.2869400000000013)"
-        name: Bandajou
-        population: 1816
-        slug: bandajou
-      - 
-        districts: []
-        location: "POINT (-12.1858299999999993 44.3355600000000010)"
-        name: Chitrouni
-        population: 1081
-        slug: chitrouni
-      - 
-        districts: []
-        location: "POINT (-12.1174999999999997 44.4883299999999977)"
-        name: Hajoho
-        population: 2505
-        slug: hajoho
-      - 
-        districts: []
-        location: "POINT (-12.1436100000000007 44.4983300000000028)"
-        name: Harembo
-        population: 1698
-        slug: harembo
-      - 
-        districts: []
-        location: "POINT (-12.1566700000000001 44.4080599999999990)"
-        name: Mirontsi
-        population: 10168
-        slug: mirontsi
-      - 
-        districts: []
-        location: "POINT (-12.1697199999999999 44.3880600000000030)"
-        name: Pajé
-        population: 1894
-        slug: paje
-      - 
-        districts: []
-        location: "POINT (-12.2394400000000001 44.5052799999999991)"
-        name: Limbi
-        population: 1037
-        slug: limbi
-      - 
-        districts: []
-        location: "POINT (-12.2558299999999996 44.4183299999999974)"
-        name: Lingoni
-        population: 3583
-        slug: lingoni
-      - 
-        districts: []
-        location: "POINT (-12.2780600000000000 44.4158299999999997)"
-        name: Magnassini-Nindri
-        population: 2213
-        slug: magnassini-nindri
-      - 
-        districts: []
-        location: "POINT (-12.3258299999999998 44.4886100000000013)"
-        name: Daji
-        population: 2676
-        slug: daji
-    code: KM.01
-    name: Anjouan
-    slug: anjouan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-11.3847199999999997 43.2844399999999965)"
-        name: Mitsamiouli
-        population: 6102
-        slug: mitsamiouli
-      - 
-        districts: []
-        location: "POINT (-11.4786099999999998 43.3772200000000012)"
-        name: Bambadjani
-        population: 1355
-        slug: bambadjani
-      - 
-        districts: []
-        location: "POINT (-11.6113900000000001 43.2530599999999978)"
-        name: Vanambouani
-        population: 1654
-        slug: vanambouani
-      - 
-        districts: []
-        location: "POINT (-11.8455600000000008 43.3091700000000017)"
-        name: Singani
-        population: 2309
-        slug: singani
-      - 
-        districts: []
-        location: "POINT (-11.8080599999999993 43.2591699999999975)"
-        name: Salimani
-        population: 1662
-        slug: salimani
-      - 
-        districts: []
-        location: "POINT (-11.5850000000000009 43.2672200000000018)"
-        name: Oussivo
-        population: 1708
-        slug: oussivo
-      - 
-        districts: []
-        location: "POINT (-11.9097200000000001 43.4886100000000013)"
-        name: Ourovéni
-        population: 1419
-        slug: ouroveni
-      - 
-        districts: []
-        location: "POINT (-11.6597200000000001 43.2613899999999987)"
-        name: Ntsoudjini
-        population: 3799
-        slug: ntsoudjini
-      - 
-        districts: []
-        location: "POINT (-11.4658300000000004 43.2627799999999993)"
-        name: Ntsaouéni
-        population: 3481
-        slug: ntsaoueni
-      - 
-        districts: []
-        location: "POINT (-11.6069399999999998 43.3805600000000027)"
-        name: Mtsamdou
-        population: 1171
-        slug: mtsamdou
-      - 
-        districts: []
-        location: "POINT (-11.7021599999999992 43.2550600000000003)"
-        name: Moroni
-        population: 42872
-        slug: moroni
-      - 
-        districts: []
-        location: "POINT (-11.8258299999999998 43.4461099999999973)"
-        name: Mohoro
-        population: 2014
-        slug: mohoro
-      - 
-        districts: []
-        location: "POINT (-11.5013900000000007 43.3774999999999977)"
-        name: Mbéni
-        population: 6516
-        slug: mbeni
-      - 
-        districts: []
-        location: "POINT (-11.3874999999999993 43.3863899999999987)"
-        name: Ivouani
-        population: 1317
-        slug: ivouani
-      - 
-        districts: []
-        location: "POINT (-11.6711100000000005 43.2547199999999989)"
-        name: Itsandra
-        population: 3168
-        slug: itsandra
-      - 
-        districts: []
-        location: "POINT (-11.5438899999999993 43.3797199999999989)"
-        name: Héroumbili
-        population: 1463
-        slug: heroumbili
-      - 
-        districts: []
-        location: "POINT (-11.8616700000000002 43.4841699999999989)"
-        name: Foumbouni
-        population: 4496
-        slug: foumbouni
-      - 
-        districts: []
-        location: "POINT (-11.8736099999999993 43.3977799999999974)"
-        name: Dembéni
-        population: 4133
-        slug: dembeni
-      - 
-        districts: []
-        location: "POINT (-11.9208300000000005 43.4811100000000010)"
-        name: Chindini
-        population: 1471
-        slug: chindini
-      - 
-        districts: []
-        location: "POINT (-11.4280600000000003 43.3875000000000028)"
-        name: Chezani
-        population: 2322
-        slug: chezani
-      - 
-        districts: []
-        location: "POINT (-11.4869400000000006 43.3883300000000034)"
-        name: Bouni
-        population: 1104
-        slug: bouni
-      - 
-        districts: []
-        location: "POINT (-11.4049999999999994 43.2822200000000024)"
-        name: Ouhozi
-        population: 1930
-        slug: ouhozi
-      - 
-        districts: []
-        location: "POINT (-11.4180600000000005 43.2952799999999982)"
-        name: Mandza
-        population: 1602
-        slug: mandza
-      - 
-        districts: []
-        location: "POINT (-11.4211100000000005 43.2888900000000021)"
-        name: Douniani
-        population: 1778
-        slug: douniani
-      - 
-        districts: []
-        location: "POINT (-11.4208300000000005 43.2763899999999992)"
-        name: Koua
-        population: 1391
-        slug: koua
-      - 
-        districts: []
-        location: "POINT (-11.4291699999999992 43.4022199999999998)"
-        name: Hantsindzi
-        population: 2004
-        slug: hantsindzi
-      - 
-        districts: []
-        location: "POINT (-11.4727800000000002 43.3844399999999979)"
-        name: Itsandzéni
-        population: 1382
-        slug: itsandzeni
-      - 
-        districts: []
-        location: "POINT (-11.5177800000000001 43.3738900000000029)"
-        name: Mnoungou
-        population: 1013
-        slug: mnoungou
-      - 
-        districts: []
-        location: "POINT (-11.6074999999999999 43.2761100000000027)"
-        name: Vanadjou
-        population: 1830
-        slug: vanadjou
-      - 
-        districts: []
-        location: "POINT (-11.6397200000000005 43.2841700000000031)"
-        name: Bahani
-        population: 1272
-        slug: bahani
-      - 
-        districts: []
-        location: "POINT (-11.6536100000000005 43.2805600000000013)"
-        name: Ouella
-        population: 5478
-        slug: ouella
-      - 
-        districts: []
-        location: "POINT (-11.6980599999999999 43.2619400000000027)"
-        name: Tsidjé
-        population: 4600
-        slug: tsidje
-      - 
-        districts: []
-        location: "POINT (-11.7161100000000005 43.2647199999999970)"
-        name: Mvouni
-        population: 4791
-        slug: mvouni
-      - 
-        districts: []
-        location: "POINT (-11.7163900000000005 43.2524999999999977)"
-        name: Mavingouni
-        population: 1390
-        slug: mavingouni
-      - 
-        districts: []
-        location: "POINT (-11.7844400000000000 43.2608299999999986)"
-        name: Séléa
-        population: 1662
-        slug: selea
-      - 
-        districts: []
-        location: "POINT (-11.8216699999999992 43.2780600000000035)"
-        name: Madjeouéni
-        population: 1320
-        slug: madjeoueni
-      - 
-        districts: []
-        location: "POINT (-11.8511100000000003 43.4372200000000035)"
-        name: Nioumamilima
-        population: 1068
-        slug: nioumamilima
-    code: KM.02
-    name: "Grande Comore"
-    slug: grande-comore
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-12.3375000000000004 43.7974999999999994)"
+        alternate_names: 
+          - Oanani
+          - Ouanani
+          - Wanani
+        ascii_name: Ouanani
         name: Ouanani
+        names_en: ~
+        names_es: ~
         population: 2401
-        slug: ouanani
       - 
-        districts: []
-        location: "POINT (-12.3613900000000001 43.7152799999999999)"
+        alternate_names: 
+          - Niomachoi
+          - Nioumachoi
+          - Nioumachoua
+        ascii_name: Nioumachoua
         name: Nioumachoua
+        names_en: ~
+        names_es: ~
         population: 3412
-        slug: nioumachoua
       - 
-        districts: []
-        location: "POINT (-12.2508300000000006 43.6747200000000007)"
+        alternate_names: 
+          - Hoani
+        ascii_name: Hoani
         name: Hoani
+        names_en: ~
+        names_es: ~
         population: 1114
-        slug: hoani
       - 
-        districts: []
-        location: "POINT (-12.2799999999999994 43.7424999999999997)"
+        alternate_names: 
+          - Fomboni
+          - Fumboni
+        ascii_name: Fomboni
         name: Fomboni
+        names_en: ~
+        names_es: ~
         population: 14966
-        slug: fomboni
       - 
-        districts: []
-        location: "POINT (-12.2974999999999994 43.7733300000000014)"
+        alternate_names: 
+          - Djoiezi
+          - Djoyezi
+          - Djoyézi
+        ascii_name: Djoyezi
         name: Djoyézi
+        names_en: ~
+        names_es: ~
         population: 2854
-        slug: djoyezi
       - 
-        districts: []
-        location: "POINT (-12.2611100000000004 43.7036099999999976)"
+        alternate_names: 
+          - Mtakoudja
+        ascii_name: Mtakoudja
         name: Mtakoudja
+        names_en: ~
+        names_es: ~
         population: 1410
-        slug: mtakoudja
       - 
-        districts: []
-        location: "POINT (-12.3324999999999996 43.7775000000000034)"
+        alternate_names: 
+          - Ziroudani
+        ascii_name: Ziroudani
         name: Ziroudani
+        names_en: ~
+        names_es: ~
         population: 1197
-        slug: ziroudani
-    code: KM.03
     name: Mohéli
-    slug: moheli
-tld: km
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ile Autonome de Grande Comore"
+    cities: 
+      - 
+        alternate_names: 
+          - Vanamboini
+          - Vanambouani
+        ascii_name: Vanambouani
+        name: Vanambouani
+        names_en: ~
+        names_es: ~
+        population: 1654
+      - 
+        alternate_names: 
+          - Singani
+        ascii_name: Singani
+        name: Singani
+        names_en: ~
+        names_es: ~
+        population: 2309
+      - 
+        alternate_names: 
+          - Salimani
+          - Selimani
+        ascii_name: Salimani
+        name: Salimani
+        names_en: ~
+        names_es: ~
+        population: 1662
+      - 
+        alternate_names: 
+          - Ousivo
+          - Oussivo
+        ascii_name: Oussivo
+        name: Oussivo
+        names_en: ~
+        names_es: ~
+        population: 1708
+      - 
+        alternate_names: ~
+        ascii_name: Ouroveni
+        name: Ourovéni
+        names_en: ~
+        names_es: ~
+        population: 1419
+      - 
+        alternate_names: 
+          - Mitsoudjini
+          - Mitsudje
+          - Mitsuje
+        ascii_name: Ntsoudjini
+        name: Ntsoudjini
+        names_en: ~
+        names_es: ~
+        population: 3799
+      - 
+        alternate_names: 
+          - Mitsaoueni
+          - Mtsaoueni
+          - Ntsaoueni
+        ascii_name: Ntsaoueni
+        name: Ntsaouéni
+        names_en: ~
+        names_es: ~
+        population: 3481
+      - 
+        alternate_names: ~
+        ascii_name: Mtsamdou
+        name: Mtsamdou
+        names_en: ~
+        names_es: ~
+        population: 1171
+      - 
+        alternate_names: 
+          - Moroni
+          - Moronis
+          - "mo luo ni"
+        ascii_name: Moroni
+        name: Moroni
+        names_en: 
+          - Moroni
+        names_es: 
+          - Moroni
+        population: 42872
+      - 
+        alternate_names: 
+          - Mohoro
+        ascii_name: Mohoro
+        name: Mohoro
+        names_en: ~
+        names_es: ~
+        population: 2014
+      - 
+        alternate_names: 
+          - Mitsamihouh
+          - Mitsamiouli
+          - Mitsumiuli
+        ascii_name: Mitsamiouli
+        name: Mitsamiouli
+        names_en: ~
+        names_es: ~
+        population: 6102
+      - 
+        alternate_names: 
+          - Mbeni
+          - Mbéni
+        ascii_name: Mbeni
+        name: Mbéni
+        names_en: ~
+        names_es: ~
+        population: 6516
+      - 
+        alternate_names: 
+          - Inani
+          - Iuani
+          - Ivoini
+        ascii_name: Ivouani
+        name: Ivouani
+        names_en: ~
+        names_es: ~
+        population: 1317
+      - 
+        alternate_names: 
+          - Itsandha
+          - Itsandra
+        ascii_name: Itsandra
+        name: Itsandra
+        names_en: ~
+        names_es: ~
+        population: 3168
+      - 
+        alternate_names: 
+          - Heroumbili
+          - Héroumbili
+          - Iroumbili
+        ascii_name: Heroumbili
+        name: Héroumbili
+        names_en: ~
+        names_es: ~
+        population: 1463
+      - 
+        alternate_names: 
+          - Fomboni
+          - Foumbouni
+          - Mbagini
+        ascii_name: Foumbouni
+        name: Foumbouni
+        names_en: ~
+        names_es: ~
+        population: 4496
+      - 
+        alternate_names: 
+          - Debeni
+          - Dembeni
+          - Dembéni
+        ascii_name: Dembeni
+        name: Dembéni
+        names_en: ~
+        names_es: ~
+        population: 4133
+      - 
+        alternate_names: 
+          - Chendini
+          - Chindini
+          - Shendini
+        ascii_name: Chindini
+        name: Chindini
+        names_en: ~
+        names_es: ~
+        population: 1471
+      - 
+        alternate_names: 
+          - Cezani
+          - Chezani
+        ascii_name: Chezani
+        name: Chezani
+        names_en: ~
+        names_es: ~
+        population: 2322
+      - 
+        alternate_names: ~
+        ascii_name: Bouni
+        name: Bouni
+        names_en: ~
+        names_es: ~
+        population: 1104
+      - 
+        alternate_names: ~
+        ascii_name: Ouhozi
+        name: Ouhozi
+        names_en: ~
+        names_es: ~
+        population: 1930
+      - 
+        alternate_names: ~
+        ascii_name: Mandza
+        name: Mandza
+        names_en: ~
+        names_es: ~
+        population: 1602
+      - 
+        alternate_names: ~
+        ascii_name: Douniani
+        name: Douniani
+        names_en: ~
+        names_es: ~
+        population: 1778
+      - 
+        alternate_names: ~
+        ascii_name: Koua
+        name: Koua
+        names_en: ~
+        names_es: ~
+        population: 1391
+      - 
+        alternate_names: ~
+        ascii_name: Hantsindzi
+        name: Hantsindzi
+        names_en: ~
+        names_es: ~
+        population: 2004
+      - 
+        alternate_names: ~
+        ascii_name: Itsandzeni
+        name: Itsandzéni
+        names_en: ~
+        names_es: ~
+        population: 1382
+      - 
+        alternate_names: ~
+        ascii_name: Bambadjani
+        name: Bambadjani
+        names_en: ~
+        names_es: ~
+        population: 1355
+      - 
+        alternate_names: ~
+        ascii_name: Mnoungou
+        name: Mnoungou
+        names_en: ~
+        names_es: ~
+        population: 1013
+      - 
+        alternate_names: ~
+        ascii_name: Vanadjou
+        name: Vanadjou
+        names_en: ~
+        names_es: ~
+        population: 1830
+      - 
+        alternate_names: ~
+        ascii_name: Bahani
+        name: Bahani
+        names_en: ~
+        names_es: ~
+        population: 1272
+      - 
+        alternate_names: ~
+        ascii_name: Ouella
+        name: Ouella
+        names_en: ~
+        names_es: ~
+        population: 5478
+      - 
+        alternate_names: 
+          - Tsidje
+          - Tsidjé
+        ascii_name: Tsidje
+        name: Tsidjé
+        names_en: ~
+        names_es: ~
+        population: 4600
+      - 
+        alternate_names: 
+          - Mvouni
+        ascii_name: Mvouni
+        name: Mvouni
+        names_en: ~
+        names_es: ~
+        population: 4791
+      - 
+        alternate_names: ~
+        ascii_name: Mavingouni
+        name: Mavingouni
+        names_en: ~
+        names_es: ~
+        population: 1390
+      - 
+        alternate_names: ~
+        ascii_name: Selea
+        name: Séléa
+        names_en: ~
+        names_es: ~
+        population: 1662
+      - 
+        alternate_names: ~
+        ascii_name: Madjeoueni
+        name: Madjeouéni
+        names_en: ~
+        names_es: ~
+        population: 1320
+      - 
+        alternate_names: ~
+        ascii_name: Nioumamilima
+        name: Nioumamilima
+        names_en: ~
+        names_es: ~
+        population: 1068
+    name: "Grande Comore"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Ndzuwani
+    cities: 
+      - 
+        alternate_names: 
+          - Voani
+          - Voany
+          - Vouani
+        ascii_name: Vouani
+        name: Vouani
+        names_en: ~
+        names_es: ~
+        population: 2513
+      - 
+        alternate_names: ~
+        ascii_name: Sima
+        name: Sima
+        names_en: ~
+        names_es: ~
+        population: 10374
+      - 
+        alternate_names: 
+          - Patsi
+          - Patsy
+          - Wilson
+        ascii_name: Patsi
+        name: Patsi
+        names_en: ~
+        names_es: ~
+        population: 1498
+      - 
+        alternate_names: 
+          - Ousini
+          - Ouzini
+        ascii_name: Ouzini
+        name: Ouzini
+        names_en: ~
+        names_es: ~
+        population: 1886
+      - 
+        alternate_names: 
+          - Oani
+          - Ouani
+          - Ouany
+        ascii_name: Ouani
+        name: Ouani
+        names_en: ~
+        names_es: ~
+        population: 10179
+      - 
+        alternate_names: ~
+        ascii_name: Ongoni
+        name: Ongoni
+        names_en: ~
+        names_es: ~
+        population: 2058
+      - 
+        alternate_names: 
+          - Kyo
+          - Niambahamoro
+        ascii_name: Kyo
+        name: Kyo
+        names_en: ~
+        names_es: ~
+        population: 2209
+      - 
+        alternate_names: 
+          - Matsamudu
+          - Moutsamoudou
+          - Mutsamudu
+        ascii_name: Moutsamoudou
+        name: Moutsamoudou
+        names_en: ~
+        names_es: ~
+        population: 23594
+      - 
+        alternate_names: 
+          - Mremani
+          - Mrenani
+          - Mrémani
+        ascii_name: Mremani
+        name: Mrémani
+        names_en: ~
+        names_es: ~
+        population: 4996
+      - 
+        alternate_names: 
+          - M'Ramoni
+          - M'ramoni
+          - Mramani
+        ascii_name: Mramani
+        name: Mramani
+        names_en: ~
+        names_es: ~
+        population: 5126
+      - 
+        alternate_names: 
+          - Moya
+        ascii_name: Moya
+        name: Moya
+        names_en: ~
+        names_es: ~
+        population: 7529
+      - 
+        alternate_names: 
+          - M'Jimanda
+          - Mjimandra
+          - Moujimada
+        ascii_name: Mjimandra
+        name: Mjimandra
+        names_en: ~
+        names_es: ~
+        population: 3114
+      - 
+        alternate_names: 
+          - Jamaue
+          - Jamaué
+          - Mjamaoue
+        ascii_name: Mjamaoue
+        name: Mjamaoué
+        names_en: ~
+        names_es: ~
+        population: 1490
+      - 
+        alternate_names: 
+          - Marahabe
+          - Marahabé
+          - Marahare
+        ascii_name: Marahare
+        name: Maraharé
+        names_en: ~
+        names_es: ~
+        population: 1415
+      - 
+        alternate_names: 
+          - Koni
+          - Koni-Djodjo
+        ascii_name: Koni-Djodjo
+        name: Koni-Djodjo
+        names_en: ~
+        names_es: ~
+        population: 8109
+      - 
+        alternate_names: 
+          - "Kone N'Goni"
+          - "Kone N’Goni"
+          - Koni-Ngani
+        ascii_name: Koni-Ngani
+        name: Koni-Ngani
+        names_en: ~
+        names_es: ~
+        population: 3288
+      - 
+        alternate_names: ~
+        ascii_name: Koki
+        name: Koki
+        names_en: ~
+        names_es: ~
+        population: 4929
+      - 
+        alternate_names: ~
+        ascii_name: Kangani
+        name: Kangani
+        names_en: ~
+        names_es: ~
+        population: 3711
+      - 
+        alternate_names: 
+          - Deumoni
+          - Domoni
+        ascii_name: Domoni
+        name: Domoni
+        names_en: ~
+        names_es: ~
+        population: 14509
+      - 
+        alternate_names: ~
+        ascii_name: Chironkamba
+        name: Chironkamba
+        names_en: ~
+        names_es: ~
+        population: 2391
+      - 
+        alternate_names: 
+          - Chanda
+          - Chandra
+        ascii_name: Chandra
+        name: Chandra
+        names_en: ~
+        names_es: ~
+        population: 5645
+      - 
+        alternate_names: ~
+        ascii_name: Boungoueni
+        name: Boungouéni
+        names_en: ~
+        names_es: ~
+        population: 2465
+      - 
+        alternate_names: ~
+        ascii_name: Assimpao
+        name: Assimpao
+        names_en: ~
+        names_es: ~
+        population: 1112
+      - 
+        alternate_names: ~
+        ascii_name: Antsahe
+        name: Antsahé
+        names_en: ~
+        names_es: ~
+        population: 1180
+      - 
+        alternate_names: ~
+        ascii_name: Kavani
+        name: Kavani
+        names_en: ~
+        names_es: ~
+        population: 2160
+      - 
+        alternate_names: ~
+        ascii_name: Bandajou
+        name: Bandajou
+        names_en: ~
+        names_es: ~
+        population: 1816
+      - 
+        alternate_names: ~
+        ascii_name: Chitrouni
+        name: Chitrouni
+        names_en: ~
+        names_es: ~
+        population: 1081
+      - 
+        alternate_names: ~
+        ascii_name: Hajoho
+        name: Hajoho
+        names_en: ~
+        names_es: ~
+        population: 2505
+      - 
+        alternate_names: ~
+        ascii_name: Harembo
+        name: Harembo
+        names_en: ~
+        names_es: ~
+        population: 1698
+      - 
+        alternate_names: 
+          - Mirontsi
+        ascii_name: Mirontsi
+        name: Mirontsi
+        names_en: ~
+        names_es: ~
+        population: 10168
+      - 
+        alternate_names: ~
+        ascii_name: Paje
+        name: Pajé
+        names_en: ~
+        names_es: ~
+        population: 1894
+      - 
+        alternate_names: ~
+        ascii_name: Limbi
+        name: Limbi
+        names_en: ~
+        names_es: ~
+        population: 1037
+      - 
+        alternate_names: ~
+        ascii_name: Lingoni
+        name: Lingoni
+        names_en: ~
+        names_es: ~
+        population: 3583
+      - 
+        alternate_names: ~
+        ascii_name: Magnassini-Nindri
+        name: Magnassini-Nindri
+        names_en: ~
+        names_es: ~
+        population: 2213
+      - 
+        alternate_names: ~
+        ascii_name: Daji
+        name: Daji
+        names_en: ~
+        names_es: ~
+        population: 2676
+    name: Anjouan
+    names_en: ~
+    names_es: ~

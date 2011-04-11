@@ -1,82 +1,140 @@
 --- 
-code: ER
-continent: AF
 name: Eritrea
-population: 5792984
+names_en: 
+  - Eritrea
+  - "State of Eritrea"
+names_es: 
+  - Eritrea
 regions: 
   - 
+    ascii_name: "Zoba Anseba"
     cities: 
       - 
-        districts: []
-        location: "POINT (15.0700000000000003 39.0474999999999994)"
-        name: Dek’emhare
-        population: 10959
-        slug: dekemhare
-      - 
-        districts: []
-        location: "POINT (14.8872199999999992 38.8152800000000013)"
-        name: Mendefera
-        population: 17781
-        slug: mendefera
-    code: ER.02
-    name: Debub
-    slug: debub
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.9297199999999997 41.6925000000000026)"
-        name: ‘Idī
-        population: 11259
-        slug: idi
-      - 
-        districts: []
-        location: "POINT (13.0091699999999992 42.7394400000000019)"
-        name: Assab
-        population: 21300
-        slug: assab
-    code: ER.03
-    name: "Debubawī Kʼeyih Bahrī"
-    slug: debubawi-keyih-bahri
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.1138899999999996 37.5927799999999976)"
-        name: Barentu
-        population: 15891
-        slug: barentu
-      - 
-        districts: []
-        location: "POINT (15.5486100000000000 37.8866700000000023)"
-        name: Ak’ordat
-        population: 8857
-        slug: akordat
-      - 
-        districts: []
-        location: "POINT (15.6097199999999994 39.4500000000000028)"
-        name: Massawa
-        population: 23100
-        slug: massawa
-      - 
-        districts: []
-        location: "POINT (15.3333300000000001 38.9333299999999980)"
-        name: Asmara
-        population: 563930
-        slug: asmara
-      - 
-        districts: []
-        location: "POINT (14.8444400000000005 39.3772200000000012)"
-        name: "Adi Keyh"
-        population: 13061
-        slug: adi-keyh
-      - 
-        districts: []
-        location: "POINT (15.7777799999999999 38.4580600000000032)"
+        alternate_names: 
+          - Cheren
+          - Hamelmalo
+          - Kehrehn
+        ascii_name: Keren
         name: Keren
+        names_en: ~
+        names_es: ~
         population: 74800
-        slug: keren
-    code: ER.04
+    name: Ānseba
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zoba Debub"
+    cities: 
+      - 
+        alternate_names: 
+          - Decamere
+          - Dek'emhare
+          - Dekamere
+        ascii_name: Dek'emhare
+        name: Dek’emhare
+        names_en: ~
+        names_es: ~
+        population: 10959
+      - 
+        alternate_names: 
+          - "Addi Ugri"
+          - "Adi Ugri"
+          - Mehndehfehra
+        ascii_name: Mendefera
+        name: Mendefera
+        names_en: ~
+        names_es: ~
+        population: 17781
+    name: Debub
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zoba Debubawi K'eyih Bahri"
+    cities: 
+      - 
+        alternate_names: 
+          - Ed
+          - Edd
+          - Eid
+        ascii_name: Eid
+        name: Eid
+        names_en: ~
+        names_es: ~
+        population: 11259
+      - 
+        alternate_names: 
+          - Aseb
+          - Assab
+          - "Baia di Assab"
+        ascii_name: Assab
+        name: Assab
+        names_en: 
+          - Assab
+        names_es: 
+          - Assab
+        population: 21300
+    name: "Debubawī Kʼeyih Bahrī"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zoba Gash-Barka"
+    cities: 
+      - 
+        alternate_names: 
+          - Barehntu
+          - Barentu
+          - "Mai Tsada"
+        ascii_name: Barentu
+        name: Barentu
+        names_en: ~
+        names_es: ~
+        population: 15891
+      - 
+        alternate_names: 
+          - Agordat
+          - "Ak' Wirdet"
+          - Ak'irdat
+        ascii_name: Ak'ordat
+        name: Ak’ordat
+        names_en: ~
+        names_es: ~
+        population: 8857
     name: "Gash Barka"
-    slug: gash-barka
-tld: er
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zoba Ma'akel"
+    cities: 
+      - 
+        alternate_names: 
+          - Asmara
+          - Asmehra
+          - Asmera
+        ascii_name: Asmara
+        name: Asmara
+        names_en: 
+          - Asmara
+        names_es: 
+          - Asmara
+        population: 563930
+    name: Maʼākel
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zoba Semenawi K'eyih Bahri"
+    cities: 
+      - 
+        alternate_names: 
+          - Masava
+          - Masawa
+          - Massaoua
+        ascii_name: Massawa
+        name: Massawa
+        names_en: 
+          - Massawa
+        names_es: 
+          - Massawa
+        population: 23100
+    name: "Semēnawī Kʼeyih Bahrī"
+    names_en: ~
+    names_es: ~

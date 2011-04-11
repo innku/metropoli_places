@@ -1,1211 +1,1840 @@
 --- 
-code: IE
-continent: EU
 name: Ireland
-population: 4622917
+names_en: 
+  - "Republic of Ireland"
+  - Ireland
+names_es: 
+  - Irlanda
+  - "República de Irlanda"
 regions: 
   - 
+    ascii_name: Connaught
     cities: 
       - 
-        districts: []
-        location: "POINT (52.8002800000000008 -6.7369399999999997)"
-        name: Tullow
-        population: 2424
-        slug: tullow
-      - 
-        districts: []
-        location: "POINT (52.8408299999999969 -6.9261100000000004)"
-        name: Ceatharlach
-        population: 20055
-        slug: ceatharlach
-      - 
-        districts: []
-        location: "POINT (52.7061399999999978 -6.9598399999999998)"
-        name: "Muine Bheag"
-        population: 3033
-        slug: muine-bheag
-    code: IE.01
-    name: Carlow
-    slug: carlow
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (54.0724999999999980 -7.0819400000000003)"
-        name: Cootehill
-        population: 1713
-        slug: cootehill
-      - 
-        districts: []
-        location: "POINT (53.9908300000000025 -7.3605600000000004)"
-        name: "An Cabhán"
-        population: 6388
-        slug: an-cabhan
-      - 
-        districts: []
-        location: "POINT (54.1000000000000014 -7.4500000000000002)"
-        name: Belturbet
-        population: 1277
-        slug: belturbet
-      - 
-        districts: []
-        location: "POINT (53.9166700000000034 -6.9666699999999997)"
-        name: Bailieborough
-        population: 1703
-        slug: bailieborough
-    code: IE.02
-    name: Cavan
-    slug: cavan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.7599999999999980 -8.8955599999999997)"
-        name: "Newmarket on Fergus"
-        population: 1754
-        slug: newmarket-on-fergus
-      - 
-        districts: []
-        location: "POINT (52.6397199999999970 -9.4833300000000005)"
-        name: "Cill Rois"
-        population: 2712
-        slug: cill-rois
-      - 
-        districts: []
-        location: "POINT (52.8436099999999982 -8.9863900000000001)"
-        name: Inis
-        population: 24427
-        slug: inis
-      - 
-        districts: []
-        location: "POINT (52.7038900000000012 -8.8641699999999997)"
-        name: Shannon
-        population: 8781
-        slug: shannon
-    code: IE.03
-    name: Clare
-    slug: clare
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (51.9500000000000028 -7.8505599999999998)"
-        name: Eochaill
-        population: 6868
-        slug: eochaill
-      - 
-        districts: []
-        location: "POINT (51.9166700000000034 -8.5999999999999996)"
-        name: Tower
-        population: 3099
-        slug: tower
-      - 
-        districts: []
-        location: "POINT (51.5499999999999972 -9.2666699999999995)"
-        name: "An Sciobairin"
-        population: 2098
-        slug: an-sciobairin
-      - 
-        districts: []
-        location: "POINT (51.8738900000000029 -8.3444400000000005)"
-        name: "Passage West"
-        population: 4907
-        slug: passage-west
-      - 
-        districts: []
-        location: "POINT (52.2658300000000011 -8.2680600000000002)"
-        name: Mitchelstown
-        population: 3357
-        slug: mitchelstown
-      - 
-        districts: []
-        location: "POINT (51.9094399999999965 -8.1736100000000000)"
-        name: "Mainister na Corann"
-        population: 8891
-        slug: mainister-na-corann
-      - 
-        districts: []
-        location: "POINT (52.1333300000000008 -8.6333300000000008)"
-        name: Mallow
-        population: 9495
-        slug: mallow
-      - 
-        districts: []
-        location: "POINT (51.8999999999999986 -8.9499999999999993)"
-        name: Macroom
-        population: 3169
-        slug: macroom
-      - 
-        districts: []
-        location: "POINT (51.7075000000000031 -8.5305599999999995)"
-        name: "Cionn tSáile"
-        population: 3843
-        slug: cionn-tsaile
-      - 
-        districts: []
-        location: "POINT (52.1666700000000034 -8.9000000000000004)"
-        name: Kanturk
-        population: 1628
-        slug: kanturk
-      - 
-        districts: []
-        location: "POINT (52.1358299999999986 -8.2758299999999991)"
-        name: "Mainistir Fhear Maí"
-        population: 4933
-        slug: mainistir-fhear-mai
-      - 
-        districts: []
-        location: "POINT (51.7166700000000006 -9.1166699999999992)"
-        name: Dunmanway
-        population: 1566
-        slug: dunmanway
-      - 
-        districts: []
-        location: "POINT (51.5866600000000020 -9.0502599999999997)"
-        name: Derry
-        population: 10000
-        slug: derry
-      - 
-        districts: []
-        location: "POINT (51.8986099999999979 -8.4958299999999998)"
-        name: Cork
-        population: 190384
-        slug: cork
-      - 
-        districts: []
-        location: "POINT (51.8572199999999981 -8.2991700000000002)"
-        name: Cobh
-        population: 10501
-        slug: cobh
-      - 
-        districts: []
-        location: "POINT (51.6230600000000024 -8.8705599999999993)"
-        name: Clonakilty
-        population: 4065
-        slug: clonakilty
-      - 
-        districts: []
-        location: "POINT (52.3500000000000014 -8.6833299999999998)"
-        name: "Ráth Luirc"
-        population: 2674
-        slug: rath-luirc
-      - 
-        districts: []
-        location: "POINT (51.8116699999999994 -8.3986099999999997)"
-        name: Carrigaline
-        population: 12902
-        slug: carrigaline
-      - 
-        districts: []
-        location: "POINT (51.9333299999999980 -8.5666700000000002)"
-        name: Blarney
-        population: 2215
-        slug: blarney
-      - 
-        districts: []
-        location: "POINT (51.6833299999999980 -9.4499999999999993)"
-        name: Bantry
-        population: 3234
-        slug: bantry
-      - 
-        districts: []
-        location: "POINT (51.7469400000000022 -8.7424999999999997)"
-        name: Bandon
-        population: 5492
-        slug: bandon
-    code: IE.04
-    name: Cork
-    slug: cork
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (54.2696899999999971 -8.4694299999999991)"
-        name: Sligeach
-        population: 20228
-        slug: sligeach
-      - 
-        districts: []
-        location: "POINT (55.1333300000000008 -7.4500000000000002)"
-        name: "Bun Cranncha"
-        population: 5546
-        slug: bun-cranncha
-      - 
-        districts: []
-        location: "POINT (55.1833299999999980 -7.0499999999999998)"
-        name: Moville
-        population: 1402
-        slug: moville
-      - 
-        districts: []
-        location: "POINT (54.8319400000000030 -7.4836099999999997)"
-        name: Leifear
-        population: 1617
-        slug: leifear
-      - 
-        districts: []
-        location: "POINT (54.9500000000000028 -7.7333299999999996)"
-        name: Letterkenny
-        population: 16901
-        slug: letterkenny
-      - 
-        districts: []
-        location: "POINT (54.6333300000000008 -8.4499999999999993)"
-        name: Killybegs
-        population: 1725
-        slug: killybegs
-      - 
-        districts: []
-        location: "POINT (55.0502800000000008 -8.2319399999999998)"
-        name: Gweedore
-        population: 4200
-        slug: gweedore
-      - 
-        districts: []
-        location: "POINT (54.7974999999999994 -8.2825000000000006)"
-        name: Glenties
-        population: 1500
-        slug: glenties
-      - 
-        districts: []
-        location: "POINT (55.0166699999999977 -8.0999999999999996)"
-        name: Dunlewy
-        population: 3400
-        slug: dunlewy
-      - 
-        districts: []
-        location: "POINT (54.6499999999999986 -8.1166699999999992)"
-        name: Donegal
-        population: 2513
-        slug: donegal
-      - 
-        districts: []
-        location: "POINT (55.2500000000000000 -7.2666700000000004)"
-        name: Carndonagh
-        population: 1581
-        slug: carndonagh
-      - 
-        districts: []
-        location: "POINT (54.4666700000000006 -8.2833299999999994)"
-        name: "Bun Dobhráin"
-        population: 1865
-        slug: bun-dobhrain
-      - 
-        districts: []
-        location: "POINT (54.5000000000000000 -8.1833299999999998)"
-        name: Ballyshannon
-        population: 2683
-        slug: ballyshannon
-      - 
-        districts: []
-        location: "POINT (54.7999999999999972 -7.7833300000000003)"
-        name: Ballybofey
-        population: 3848
-        slug: ballybofey
-      - 
-        districts: []
-        location: "POINT (54.7644400000000005 -8.4075000000000006)"
-        name: Ardara
-        population: 2000
-        slug: ardara
-    code: IE.06
-    name: Donegal
-    slug: donegal
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.2858999999999980 -6.3734400000000004)"
-        name: Tallaght
-        population: 64282
-        slug: tallaght
-      - 
-        districts: []
-        location: "POINT (53.5223000000000013 -6.0930799999999996)"
-        name: "An Ros"
-        population: 7294
-        slug: an-ros
-      - 
-        districts: []
-        location: "POINT (53.4230599999999995 -6.1375000000000002)"
-        name: Portmarnock
-        population: 8037
-        slug: portmarnock
-      - 
-        districts: []
-        location: "POINT (53.4508300000000034 -6.1544400000000001)"
-        name: Malahide
-        population: 14057
-        slug: malahide
-      - 
-        districts: []
-        location: "POINT (53.5274300000000025 -6.1642299999999999)"
-        name: Lusca
-        population: 2508
-        slug: lusca
-      - 
-        districts: []
-        location: "POINT (53.3439899999999980 -6.2671900000000003)"
-        name: Dublin
-        population: 1024027
-        slug: dublin
-      - 
-        districts: []
-        location: "POINT (53.3137499999999989 -6.2227399999999999)"
-        name: Donnybrook
-        population: 2000
-        slug: donnybrook
-      - 
-        districts: []
-        location: "POINT (53.4872200000000007 -6.1519399999999997)"
-        name: Donabate
-        population: 3936
-        slug: donabate
-      - 
-        districts: []
-        location: "POINT (53.3014999999999972 -6.1778000000000004)"
-        name: Blackrock
-        population: 20701
-        slug: blackrock
-      - 
-        districts: []
-        location: "POINT (53.2939500000000024 -6.1358600000000001)"
-        name: "Dún Laoghaire"
-        population: 185400
-        slug: dun-laoghaire
-      - 
-        districts: []
-        location: "POINT (53.6127800000000008 -6.1819400000000000)"
-        name: Balbriggan
-        population: 11293
-        slug: balbriggan
-      - 
-        districts: []
-        location: "POINT (53.4966700000000017 -6.1111100000000000)"
-        name: Portraine
-        population: 1763
-        slug: portraine
-      - 
-        districts: []
-        location: "POINT (53.2747000000000028 -6.2252999999999998)"
-        name: Sandyford
-        population: 5844
-        slug: sandyford
-    code: IE.07
-    name: Dublin
-    slug: dublin
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.5166699999999977 -8.8499999999999996)"
-        name: Tuam
-        population: 6130
-        slug: tuam
-      - 
-        districts: []
-        location: "POINT (53.2683299999999988 -8.9199999999999999)"
-        name: Oranmore
-        population: 1758
-        slug: oranmore
-      - 
-        districts: []
-        location: "POINT (53.3378299999999967 -9.1800200000000007)"
-        name: Moycullen
-        population: 1402
-        slug: moycullen
-      - 
-        districts: []
-        location: "POINT (53.1969399999999979 -8.5669400000000007)"
-        name: Loughrea
-        population: 4296
-        slug: loughrea
-      - 
-        districts: []
-        location: "POINT (53.0663899999999984 -8.8166700000000002)"
-        name: Gort
-        population: 2098
-        slug: gort
-      - 
-        districts: []
-        location: "POINT (53.2719400000000007 -9.0488900000000001)"
-        name: Galway
-        population: 70686
-        slug: galway
-      - 
-        districts: []
-        location: "POINT (53.4833300000000023 -10.0166699999999995)"
-        name: "An Clochán"
-        population: 1929
-        slug: an-clochan
-      - 
-        districts: []
-        location: "POINT (53.3275000000000006 -8.2194400000000005)"
-        name: "Béal Átha na Sluaighe"
-        population: 6388
-        slug: beal-atha-na-sluaighe
-      - 
-        districts: []
-        location: "POINT (53.2963900000000024 -8.7430599999999998)"
-        name: Athenry
-        population: 2419
-        slug: athenry
-    code: IE.10
-    name: Galway
-    slug: galway
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.2704200000000014 -9.7026400000000006)"
-        name: "Trá Lí"
-        population: 22941
-        slug: tra-li
-      - 
-        districts: []
-        location: "POINT (52.4463900000000010 -9.4849999999999994)"
-        name: "Lios Tuathail"
-        population: 4143
-        slug: lios-tuathail
-      - 
-        districts: []
-        location: "POINT (52.1000000000000014 -9.7833299999999994)"
-        name: Killorglin
-        population: 1409
-        slug: killorglin
-      - 
-        districts: []
-        location: "POINT (52.0499999999999972 -9.5166699999999995)"
-        name: "Cill Airne"
-        population: 7300
-        slug: cill-airne
-      - 
-        districts: []
-        location: "POINT (51.8833300000000008 -9.5833300000000001)"
-        name: Kenmare
-        population: 2023
-        slug: kenmare
-      - 
-        districts: []
-        location: "POINT (52.1408300000000011 -10.2688900000000007)"
-        name: Dingle
-        population: 1971
-        slug: dingle
-      - 
-        districts: []
-        location: "POINT (52.2333300000000023 -9.4666700000000006)"
-        name: Castleisland
-        population: 2122
-        slug: castleisland
-      - 
-        districts: []
-        location: "POINT (51.9486100000000022 -10.2222200000000001)"
-        name: Cahersiveen
-        population: 1409
-        slug: cahersiveen
-      - 
-        districts: []
-        location: "POINT (52.5097200000000015 -9.6716700000000007)"
-        name: Ballybunnion
-        population: 1626
-        slug: ballybunnion
-    code: IE.11
-    name: Kerry
-    slug: kerry
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.3658300000000025 -6.4955600000000002)"
-        name: Leixlip
-        population: 15729
-        slug: leixlip
-      - 
-        districts: []
-        location: "POINT (53.2488900000000029 -6.6661099999999998)"
-        name: Sallins
-        population: 3164
-        slug: sallins
-      - 
-        districts: []
-        location: "POINT (53.2213899999999995 -6.9950000000000001)"
-        name: Rathangan
-        population: 1961
-        slug: rathangan
-      - 
-        districts: []
-        location: "POINT (53.2902800000000028 -6.7538900000000002)"
-        name: Prosperous
-        population: 1649
-        slug: prosperous
-      - 
-        districts: []
-        location: "POINT (53.1063899999999975 -6.7652799999999997)"
-        name: "Old Kilcullen"
-        population: 2110
-        slug: old-kilcullen
-      - 
-        districts: []
-        location: "POINT (53.1819399999999973 -6.7966699999999998)"
-        name: "Droichead Nua"
-        population: 18860
-        slug: droichead-nua
-      - 
-        districts: []
-        location: "POINT (53.2158299999999969 -6.6669400000000003)"
-        name: "An Nás"
-        population: 20554
-        slug: an-nas
-      - 
-        districts: []
-        location: "POINT (53.1405600000000007 -7.0663900000000002)"
-        name: Monasterevin
-        population: 2704
-        slug: monasterevin
-      - 
-        districts: []
-        location: "POINT (53.3849999999999980 -6.5936100000000000)"
-        name: Maynooth
-        population: 11318
-        slug: maynooth
-      - 
-        districts: []
-        location: "POINT (53.4022199999999998 -6.6708299999999996)"
-        name: Kilcock
-        population: 3293
-        slug: kilcock
-      - 
-        districts: []
-        location: "POINT (53.2913899999999998 -6.6891699999999998)"
-        name: Clane
-        population: 5155
-        slug: clane
-      - 
-        districts: []
-        location: "POINT (53.1569399999999987 -6.9666699999999997)"
-        name: Cherryville
-        population: 6380
-        slug: cherryville
-      - 
-        districts: []
-        location: "POINT (53.3386100000000027 -6.5436100000000001)"
-        name: Celbridge
-        population: 18167
-        slug: celbridge
-      - 
-        districts: []
-        location: "POINT (52.9913900000000027 -6.9802799999999996)"
-        name: "Baile Átha Í"
-        population: 6382
-        slug: baile-atha-i
-    code: IE.12
-    name: Kildare
-    slug: kildare
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.5266700000000029 -7.1372200000000001)"
-        name: Thomastown
-        population: 1603
-        slug: thomastown
-      - 
-        districts: []
-        location: "POINT (52.6541700000000006 -7.2522200000000003)"
-        name: "Cill Chainnigh"
-        population: 21589
-        slug: cill-chainnigh
-      - 
-        districts: []
-        location: "POINT (52.8061099999999968 -7.2105600000000001)"
-        name: Castlecomer
-        population: 1686
-        slug: castlecomer
-    code: IE.13
-    name: Kilkenny
-    slug: kilkenny
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.0344100000000012 -7.2997899999999998)"
-        name: "Port Laoise"
-        population: 13622
-        slug: port-laoise
-      - 
-        districts: []
-        location: "POINT (53.1622199999999978 -7.1911100000000001)"
-        name: Portarlington
-        population: 4293
-        slug: portarlington
-      - 
-        districts: []
-        location: "POINT (52.9988900000000029 -7.4727800000000002)"
-        name: Mountrath
-        population: 1597
-        slug: mountrath
-      - 
-        districts: []
-        location: "POINT (53.1136100000000013 -7.3200000000000003)"
-        name: Mountmellick
-        population: 3547
-        slug: mountmellick
-      - 
-        districts: []
-        location: "POINT (52.8991699999999980 -7.3574999999999999)"
-        name: Abbeyleix
-        population: 1711
-        slug: abbeyleix
-    code: IE.15
-    name: Laois
-    slug: laois
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.5244399999999985 -8.9380600000000001)"
-        name: Rathkeale
-        population: 1470
-        slug: rathkeale
-      - 
-        districts: []
-        location: "POINT (52.4491700000000023 -9.0611099999999993)"
-        name: "Newcastle West"
-        population: 4184
-        slug: newcastle-west
-      - 
-        districts: []
-        location: "POINT (52.6647200000000026 -8.6230600000000006)"
-        name: Limerick
-        population: 90054
-        slug: limerick
-      - 
-        districts: []
-        location: "POINT (52.3999999999999986 -8.5772200000000005)"
-        name: Kilmallock
-        population: 1523
-        slug: kilmallock
-      - 
-        districts: []
-        location: "POINT (52.3813900000000032 -9.3025000000000002)"
-        name: Abbeyfeale
-        population: 1734
-        slug: abbeyfeale
-    code: IE.16
-    name: Limerick
-    slug: limerick
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.7333300000000023 -7.7999999999999998)"
-        name: "An Longfort"
-        population: 7787
-        slug: an-longfort
-      - 
-        districts: []
-        location: "POINT (53.7666699999999977 -7.5000000000000000)"
-        name: Granard
-        population: 1292
-        slug: granard
-    code: IE.18
-    name: Longford
-    slug: longford
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.9731999999999985 -6.4859700000000000)"
-        name: Knockbridge
-        population: 1700
-        slug: knockbridge
-      - 
-        districts: []
-        location: "POINT (54.0000000000000000 -6.4166699999999999)"
-        name: "Dún Dealgan"
-        population: 33428
-        slug: dun-dealgan
-      - 
-        districts: []
-        location: "POINT (53.7188900000000018 -6.3477800000000002)"
-        name: Drogheda
-        population: 33441
-        slug: drogheda
-      - 
-        districts: []
-        location: "POINT (53.9640500000000003 -6.3651400000000002)"
-        name: Blackrock
-        population: 3000
-        slug: blackrock
-      - 
-        districts: []
-        location: "POINT (53.8597200000000029 -6.5405600000000002)"
-        name: Ardee
-        population: 4008
-        slug: ardee
-    code: IE.19
-    name: Louth
-    slug: louth
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.7999999999999972 -9.5166699999999995)"
+        alternate_names: 
+          - Westport
+        ascii_name: "Cathair na Mart"
         name: "Cathair na Mart"
+        names_en: 
+          - Westport
+        names_es: ~
         population: 6200
-        slug: cathair-na-mart
       - 
-        districts: []
-        location: "POINT (53.9500000000000028 -8.9499999999999993)"
+        alternate_names: 
+          - Tuaim
+          - Tuam
+        ascii_name: Tuam
+        name: Tuam
+        names_en: 
+          - Tuam
+        names_es: ~
+        population: 6130
+      - 
+        alternate_names: 
+          - "Beal Atha na Muice"
+          - "Béal Átha na Muice"
+          - Swineford
+        ascii_name: Swinford
         name: Swinford
+        names_en: 
+          - Swinford
+        names_es: ~
         population: 1241
-        slug: swinford
       - 
-        districts: []
-        location: "POINT (53.7166700000000006 -9.0000000000000000)"
-        name: Claremorris
-        population: 2168
-        slug: claremorris
+        alternate_names: 
+          - Slajgou
+          - Sligeach
+          - Sligo
+        ascii_name: Sligeach
+        name: Sligeach
+        names_en: 
+          - Sligo
+        names_es: 
+          - Sligo
+        population: 20228
       - 
-        districts: []
-        location: "POINT (53.8500000000000014 -9.3000000000000007)"
-        name: Castlebar
-        population: 12874
-        slug: castlebar
-      - 
-        districts: []
-        location: "POINT (53.7666699999999977 -8.7666699999999995)"
-        name: Ballyhaunis
-        population: 1344
-        slug: ballyhaunis
-      - 
-        districts: []
-        location: "POINT (53.6333300000000008 -9.2333300000000005)"
-        name: Ballinrobe
-        population: 1707
-        slug: ballinrobe
-      - 
-        districts: []
-        location: "POINT (54.1166699999999992 -9.1666699999999999)"
-        name: "Béal An Átha"
-        population: 10087
-        slug: beal-an-atha
-    code: IE.20
-    name: Mayo
-    slug: mayo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.5549999999999997 -6.7916699999999999)"
-        name: "Baile Átha Troim"
-        population: 1800
-        slug: baile-atha-troim
-      - 
-        districts: []
-        location: "POINT (53.5080600000000004 -6.4625000000000004)"
-        name: Ratoath
-        population: 4084
-        slug: ratoath
-      - 
-        districts: []
-        location: "POINT (53.5561099999999968 -6.7699999999999996)"
-        name: "Newtown Trim"
-        population: 6781
-        slug: newtown-trim
-      - 
-        districts: []
-        location: "POINT (53.6527799999999999 -6.6813900000000004)"
-        name: "An Uaimh"
-        population: 24545
-        slug: an-uaimh
-      - 
-        districts: []
-        location: "POINT (53.6819399999999973 -6.2391699999999997)"
-        name: Laytown
-        population: 6342
-        slug: laytown
-      - 
-        districts: []
-        location: "POINT (53.7263900000000021 -6.8791700000000002)"
-        name: Ceanannas
-        population: 4820
-        slug: ceanannas
-      - 
-        districts: []
-        location: "POINT (53.5125000000000028 -6.5400000000000000)"
-        name: Dunshaughlin
-        population: 3567
-        slug: dunshaughlin
-      - 
-        districts: []
-        location: "POINT (53.3999999999999986 -6.4666699999999997)"
-        name: Dunboyne
-        population: 6718
-        slug: dunboyne
-      - 
-        districts: []
-        location: "POINT (53.6566699999999983 -6.4191700000000003)"
-        name: Duleek
-        population: 2376
-        slug: duleek
-      - 
-        districts: []
-        location: "POINT (53.6186099999999968 -6.9205600000000000)"
-        name: Athboy
-        population: 1656
-        slug: athboy
-      - 
-        districts: []
-        location: "POINT (53.5108299999999986 -6.4272200000000002)"
-        name: Ashbourne
-        population: 7001
-        slug: ashbourne
-    code: IE.21
-    name: Meath
-    slug: meath
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (54.2500000000000000 -6.9666699999999997)"
-        name: Muineachán
-        population: 5937
-        slug: muineachan
-      - 
-        districts: []
-        location: "POINT (54.1833299999999980 -7.2333299999999996)"
-        name: "Cluain Eois"
-        population: 1834
-        slug: cluain-eois
-      - 
-        districts: []
-        location: "POINT (54.1166699999999992 -6.7333299999999996)"
-        name: "Baile na Lorgan"
-        population: 3006
-        slug: baile-na-lorgan
-      - 
-        districts: []
-        location: "POINT (53.9727800000000002 -6.7188900000000000)"
-        name: "Carraig Mhachaire Rois"
-        population: 3995
-        slug: carraig-mhachaire-rois
-    code: IE.22
-    name: Monaghan
-    slug: monaghan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.2738900000000015 -7.4888899999999996)"
-        name: Tullamore
-        population: 11575
-        slug: tullamore
-      - 
-        districts: []
-        location: "POINT (53.3452800000000025 -7.0497199999999998)"
-        name: Edenderry
-        population: 4890
-        slug: edenderry
-      - 
-        districts: []
-        location: "POINT (53.3425000000000011 -7.6138899999999996)"
-        name: Clara
-        population: 2783
-        slug: clara
-      - 
-        districts: []
-        location: "POINT (53.0913899999999970 -7.9133300000000002)"
-        name: Birr
-        population: 4549
-        slug: birr
-      - 
-        districts: []
-        location: "POINT (53.1886099999999971 -7.9866700000000002)"
-        name: Banagher
-        population: 1586
-        slug: banagher
-      - 
-        districts: []
-        location: "POINT (53.1741699999999966 -7.7255599999999998)"
-        name: Kilcormac
-        population: 1200
-        slug: kilcormac
-    code: IE.23
-    name: Offaly
-    slug: offaly
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.9469399999999979 -8.0899999999999999)"
-        name: "Cora Droma Rúisc"
-        population: 2389
-        slug: cora-droma-ruisc
-      - 
-        districts: []
-        location: "POINT (53.6333300000000008 -8.1833299999999998)"
+        alternate_names: 
+          - "Ros Comain"
+          - "Ros Comáin"
+          - Roscommon
+        ascii_name: "Ros Comain"
         name: "Ros Comáin"
+        names_en: 
+          - Roscommon
+        names_es: ~
         population: 4860
-        slug: ros-comain
       - 
-        districts: []
-        location: "POINT (53.7666699999999977 -8.5000000000000000)"
+        alternate_names: 
+          - "Oran Mor"
+          - Oranmore
+          - "Órán Mór"
+        ascii_name: Oranmore
+        name: Oranmore
+        names_en: 
+          - Oranmore
+        names_es: ~
+        population: 1758
+      - 
+        alternate_names: 
+          - "Maigh Cuilinn"
+        ascii_name: Moycullen
+        name: Moycullen
+        names_en: ~
+        names_es: ~
+        population: 1402
+      - 
+        alternate_names: 
+          - "Baile Locha Riach"
+          - Loughrea
+        ascii_name: Loughrea
+        name: Loughrea
+        names_en: 
+          - Loughrea
+        names_es: ~
+        population: 4296
+      - 
+        alternate_names: 
+          - "An Gort"
+          - Gort
+        ascii_name: Gort
+        name: Gort
+        names_en: 
+          - Gort
+        names_es: ~
+        population: 2098
+      - 
+        alternate_names: 
+          - Gaillimh
+          - Galway
+          - "Galway - Gaillimh"
+        ascii_name: Galway
+        name: Galway
+        names_en: 
+          - Galway
+          - "Galway city"
+        names_es: 
+          - Galway
+        population: 70686
+      - 
+        alternate_names: 
+          - "An Clochan"
+          - "An Clochán"
+          - Clifden
+        ascii_name: Clifden
+        name: Clifden
+        names_en: 
+          - Clifden
+        names_es: ~
+        population: 1929
+      - 
+        alternate_names: 
+          - "Clar Chlainne Mhuiris"
+          - Claremorris
+          - "Clár Chlainne Mhuiris"
+        ascii_name: Claremorris
+        name: Claremorris
+        names_en: 
+          - Claremorris
+        names_es: ~
+        population: 2168
+      - 
+        alternate_names: 
+          - "An Caislean Riabhach"
+          - "An Caisleán Riabhach"
+          - Castlerea
+        ascii_name: Castlerea
         name: Castlerea
+        names_en: 
+          - Castlerea
+        names_es: ~
         population: 1770
-        slug: castlerea
       - 
-        districts: []
-        location: "POINT (53.9666700000000006 -8.3000000000000007)"
+        alternate_names: 
+          - "Caislean an Bharraigh"
+          - "Caisleán an Bharraigh"
+        ascii_name: Castlebar
+        name: Castlebar
+        names_en: ~
+        names_es: ~
+        population: 12874
+      - 
+        alternate_names: 
+          - "Carrick on Shannon"
+          - Carrick-on-Shannon
+          - "Cora Droma Ruisc"
+        ascii_name: "Cora Droma Ruisc"
+        name: "Cora Droma Rúisc"
+        names_en: 
+          - "Carrick on Shannon"
+        names_es: ~
+        population: 2389
+      - 
+        alternate_names: 
+          - Boyle
+          - "Mainistir na Buille"
+          - "Mainistir na Búille"
+        ascii_name: Boyle
         name: Boyle
+        names_en: 
+          - Boyle
+        names_es: ~
         population: 2199
-        slug: boyle
       - 
-        districts: []
-        location: "POINT (53.8999999999999986 -8.5833300000000001)"
+        alternate_names: 
+          - Ballyhaunis
+          - "Beal Atha hAmhnais"
+          - "Béal Átha hAmhnais"
+        ascii_name: Ballyhaunis
+        name: Ballyhaunis
+        names_en: 
+          - Ballyhaunis
+        names_es: ~
+        population: 1344
+      - 
+        alternate_names: 
+          - "Baile an Roba"
+          - "Baile an Róba"
+          - Ballinrobe
+        ascii_name: Ballinrobe
+        name: Ballinrobe
+        names_en: 
+          - Ballinrobe
+        names_es: ~
+        population: 1707
+      - 
+        alternate_names: 
+          - Ballinasloe
+        ascii_name: "Beal Atha na Sluaighe"
+        name: "Béal Átha na Sluaighe"
+        names_en: 
+          - Ballinasloe
+        names_es: ~
+        population: 6388
+      - 
+        alternate_names: 
+          - Ballina
+        ascii_name: "Beal An Atha"
+        name: "Béal An Átha"
+        names_en: 
+          - Ballina
+        names_es: ~
+        population: 10087
+      - 
+        alternate_names: 
+          - Ballaghaderreen
+          - "Bealach an Doirin"
+          - "Bealach an Doirín"
+        ascii_name: Ballaghaderreen
         name: Ballaghaderreen
+        names_en: 
+          - Ballaghaderreen
+        names_es: ~
         population: 1389
-        slug: ballaghaderreen
-    code: IE.24
-    name: Roscommon
-    slug: roscommon
+      - 
+        alternate_names: 
+          - Athenry
+          - "Baile Atha an Ri"
+          - "Baile Átha an Rí"
+        ascii_name: Athenry
+        name: Athenry
+        names_en: 
+          - Athenry
+        names_es: ~
+        population: 2419
+    name: Connaught
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Leinster
     cities: 
       - 
-        districts: []
-        location: "POINT (52.4733299999999971 -8.1558299999999999)"
-        name: "Tiobraid Árann"
-        population: 4976
-        slug: tiobraid-arann
-      - 
-        districts: []
-        location: "POINT (52.6819399999999973 -7.8022200000000002)"
-        name: Durlas
-        population: 7588
-        slug: durlas
-      - 
-        districts: []
-        location: "POINT (52.7947199999999981 -7.8338900000000002)"
-        name: "An Teampall Mór"
-        population: 2264
-        slug: an-teampall-mor
-      - 
-        districts: []
-        location: "POINT (52.3549999999999969 -7.7038900000000003)"
-        name: Clonmel
-        population: 17394
-        slug: clonmel
-      - 
-        districts: []
-        location: "POINT (52.5158300000000011 -7.8855599999999999)"
-        name: Cashel
-        population: 2798
-        slug: cashel
-      - 
-        districts: []
-        location: "POINT (52.3491700000000009 -7.4130599999999998)"
-        name: Carrick-on-Suir
-        population: 5710
-        slug: carrick-on-suir
-      - 
-        districts: []
-        location: "POINT (52.3769399999999976 -7.9216699999999998)"
-        name: Caher
-        population: 3057
-        slug: caher
-      - 
-        districts: []
-        location: "POINT (52.8816699999999997 -8.1958300000000008)"
-        name: "Nenagh Bridge"
-        population: 6672
-        slug: nenagh-bridge
-    code: IE.26
-    name: Tipperary
-    slug: tipperary
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.2583300000000008 -7.1119399999999997)"
-        name: "Port Láirge"
-        population: 47904
-        slug: port-lairge
-      - 
-        districts: []
-        location: "POINT (52.1623500000000035 -7.1524400000000004)"
-        name: "Trá Mhór"
-        population: 9164
-        slug: tra-mhor
-      - 
-        districts: []
-        location: "POINT (52.1761100000000013 -7.3350000000000000)"
-        name: Kill
-        population: 2304
-        slug: kill
-      - 
-        districts: []
-        location: "POINT (52.1513899999999992 -6.9861100000000000)"
-        name: "Dunmore East"
-        population: 1795
-        slug: dunmore-east
-      - 
-        districts: []
-        location: "POINT (52.0880599999999987 -7.6252800000000001)"
-        name: Dungarvan
-        population: 7551
-        slug: dungarvan
-    code: IE.27
-    name: Waterford
-    slug: waterford
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.5333299999999994 -7.3499999999999996)"
-        name: "An Muileann gCearr"
-        population: 17262
-        slug: an-muileann-gcearr
-      - 
-        districts: []
-        location: "POINT (53.5499999999999972 -7.7166699999999997)"
-        name: Moate
-        population: 1504
-        slug: moate
-      - 
-        districts: []
-        location: "POINT (53.4333299999999980 -7.9500000000000002)"
-        name: "Baile Átha Luain"
-        population: 15951
-        slug: baile-atha-luain
-    code: IE.29
-    name: Westmeath
-    slug: westmeath
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.3341700000000003 -6.4574999999999996)"
-        name: "Loch Garman"
-        population: 17708
-        slug: loch-garman
-      - 
-        districts: []
-        location: "POINT (52.2758299999999991 -6.3844399999999997)"
-        name: Rosslare
-        population: 1145
-        slug: rosslare
-      - 
-        districts: []
-        location: "POINT (52.3966700000000003 -6.9366700000000003)"
-        name: "Ros Mhic Thriúin"
-        population: 6695
-        slug: ros-mhic-thriuin
-      - 
-        districts: []
-        location: "POINT (52.6747200000000007 -6.2925000000000004)"
-        name: Gorey
-        population: 6040
-        slug: gorey
-      - 
-        districts: []
-        location: "POINT (52.5008300000000006 -6.5577800000000002)"
-        name: "Inis Córthaidh"
-        population: 9709
-        slug: inis-corthaidh
-    code: IE.30
-    name: Wexford
-    slug: wexford
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.9750000000000014 -6.0494399999999997)"
+        alternate_names: 
+          - "Cill Maintain"
+          - "Cill Maintainn"
+          - "Cill Maintáinn"
+        ascii_name: "Cill Mhantain"
         name: "Cill Mhantáin"
+        names_en: 
+          - Wicklow
+        names_es: ~
         population: 10461
-        slug: cill-mhantain
       - 
-        districts: []
-        location: "POINT (52.9263899999999978 -6.2355600000000004)"
-        name: Rathdrum
-        population: 1649
-        slug: rathdrum
+        alternate_names: 
+          - "Loch Garman"
+          - Wexford
+        ascii_name: "Loch Garman"
+        name: "Loch Garman"
+        names_en: 
+          - Wexford
+        names_es: 
+          - Wexford
+        population: 17708
       - 
-        districts: []
-        location: "POINT (53.1027800000000028 -6.0650000000000004)"
-        name: Kilcoole
-        population: 2869
-        slug: kilcoole
+        alternate_names: 
+          - "An Tulach"
+          - Tullow
+        ascii_name: Tullow
+        name: Tullow
+        names_en: 
+          - Tullow
+        names_es: ~
+        population: 2424
       - 
-        districts: []
-        location: "POINT (53.1408300000000011 -6.0630600000000001)"
-        name: Greystones
-        population: 12260
-        slug: greystones
+        alternate_names: 
+          - "Tulach Mhor"
+          - "Tulach Mhór"
+        ascii_name: Tullamore
+        name: Tullamore
+        names_en: ~
+        names_es: ~
+        population: 11575
       - 
-        districts: []
-        location: "POINT (53.1925000000000026 -6.1691700000000003)"
-        name: Enniskerry
-        population: 1990
-        slug: enniskerry
+        alternate_names: 
+          - "Baile Atha Troim"
+          - "Baile Átha Troim"
+          - Trim
+        ascii_name: "Baile Atha Troim"
+        name: "Baile Átha Troim"
+        names_en: 
+          - Trim
+        names_es: ~
+        population: 1800
       - 
-        districts: []
-        location: "POINT (53.2027799999999971 -6.0983299999999998)"
-        name: Bray
-        population: 32317
-        slug: bray
+        alternate_names: 
+          - "Baile Mhic Andain"
+          - "Baile Mhic Andáin"
+          - Thomastown
+        ascii_name: Thomastown
+        name: Thomastown
+        names_en: 
+          - Thomastown
+        names_es: ~
+        population: 1603
       - 
-        districts: []
-        location: "POINT (53.1700000000000017 -6.5324999999999998)"
-        name: Blessington
-        population: 2874
-        slug: blessington
+        alternate_names: 
+          - Tallaght
+        ascii_name: Tallaght
+        name: Tallaght
+        names_en: 
+          - Tallaght
+        names_es: ~
+        population: 64282
       - 
-        districts: []
-        location: "POINT (52.7930599999999970 -6.1413900000000003)"
-        name: Arklow
-        population: 10622
-        slug: arklow
-    code: IE.31
-    name: Wicklow
-    slug: wicklow
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.4597199999999972 -6.2180600000000004)"
+        alternate_names: 
+          - Sord
+          - Swords
+        ascii_name: Swords
         name: Swords
+        names_en: 
+          - Swords
+        names_es: ~
         population: 29816
-        slug: swords
       - 
-        districts: []
-        location: "POINT (53.5827799999999996 -6.1083299999999996)"
+        alternate_names: 
+          - "Na Sceiri"
+          - "Na Sceirí"
+          - Skerries
+        ascii_name: Skerries
         name: Skerries
+        names_en: 
+          - Skerries
+        names_es: ~
         population: 10014
-        slug: skerries
       - 
-        districts: []
-        location: "POINT (53.2827800000000025 -6.4727800000000002)"
+        alternate_names: 
+          - "Na Sollain"
+          - "Na Solláin"
+          - Sallins
+        ascii_name: Sallins
+        name: Sallins
+        names_en: 
+          - Sallins
+        names_es: ~
+        population: 3164
+      - 
+        alternate_names: 
+          - Rush
+        ascii_name: "An Ros"
+        name: "An Ros"
+        names_en: 
+          - Rush
+        names_es: ~
+        population: 7294
+      - 
+        alternate_names: 
+          - "Ros Lair"
+          - "Ros Láir"
+          - Rosslare
+        ascii_name: Rosslare
+        name: Rosslare
+        names_en: 
+          - Rosslare
+        names_es: ~
+        population: 1145
+      - 
+        alternate_names: 
+          - "Rath To"
+          - Ratoath
+          - "Ráth Tó"
+        ascii_name: Ratoath
+        name: Ratoath
+        names_en: 
+          - Ratoath
+        names_es: ~
+        population: 4084
+      - 
+        alternate_names: 
+          - "Rath Droma"
+          - Rathdrum
+          - "Ráth Droma"
+        ascii_name: Rathdrum
+        name: Rathdrum
+        names_en: 
+          - Rathdrum
+        names_es: ~
+        population: 1649
+      - 
+        alternate_names: 
+          - "Rath Cuil"
+          - Rathcoole
+          - "Ráth Cúil"
+        ascii_name: Rathcoole
         name: Rathcoole
+        names_en: 
+          - Rathcoole
+        names_es: ~
         population: 2443
-        slug: rathcoole
-    code: IE.L
+      - 
+        alternate_names: 
+          - "Rath Iomghain"
+          - Rathangan
+          - "Ráth Iomgháin"
+        ascii_name: Rathangan
+        name: Rathangan
+        names_en: 
+          - Rathangan
+        names_es: ~
+        population: 1961
+      - 
+        alternate_names: 
+          - "An Chorrchoill"
+          - Prosperous
+        ascii_name: Prosperous
+        name: Prosperous
+        names_en: 
+          - Prosperous
+        names_es: ~
+        population: 1649
+      - 
+        alternate_names: 
+          - "Port Mearnog"
+          - "Port Mearnóg"
+          - Portmarnock
+        ascii_name: Portmarnock
+        name: Portmarnock
+        names_en: 
+          - Portmarnock
+        names_es: ~
+        population: 8037
+      - 
+        alternate_names: 
+          - Maryboro'
+          - Maryborough
+          - "Port Laoighise"
+        ascii_name: "Port Laoise"
+        name: "Port Laoise"
+        names_en: 
+          - Maryboro'
+          - Maryborough
+          - "Port Leix"
+          - Portlaoise
+        names_es: ~
+        population: 13622
+      - 
+        alternate_names: 
+          - "Cuil an tSudaire"
+          - "Cúil an tSúdaire"
+          - Portarlington
+        ascii_name: Portarlington
+        name: Portarlington
+        names_en: 
+          - Portarlington
+        names_es: ~
+        population: 4293
+      - 
+        alternate_names: ~
+        ascii_name: "Old Kilcullen"
+        name: "Old Kilcullen"
+        names_en: ~
+        names_es: ~
+        population: 2110
+      - 
+        alternate_names: ~
+        ascii_name: "Newtown Trim"
+        name: "Newtown Trim"
+        names_en: ~
+        names_es: ~
+        population: 6781
+      - 
+        alternate_names: 
+          - "New Ross"
+          - Ross
+        ascii_name: "Ros Mhic Thriuin"
+        name: "Ros Mhic Thriúin"
+        names_en: 
+          - "New Ross"
+        names_es: ~
+        population: 6695
+      - 
+        alternate_names: 
+          - "Droichead Nua"
+          - "Droichead Nuadh"
+          - Newbridge
+        ascii_name: "Droichead Nua"
+        name: "Droichead Nua"
+        names_en: ~
+        names_es: ~
+        population: 18860
+      - 
+        alternate_names: 
+          - Navan
+        ascii_name: "An Uaimh"
+        name: "An Uaimh"
+        names_en: 
+          - Navan
+        names_es: ~
+        population: 24545
+      - 
+        alternate_names: 
+          - Naas
+        ascii_name: "An Nas"
+        name: "An Nás"
+        names_en: 
+          - Naas
+        names_es: ~
+        population: 20554
+      - 
+        alternate_names: 
+          - "An Muileann gCearr"
+          - Mullingar
+        ascii_name: "An Muileann gCearr"
+        name: "An Muileann gCearr"
+        names_en: 
+          - Mullingar
+        names_es: ~
+        population: 17262
+      - 
+        alternate_names: 
+          - "Maighean Ratha"
+          - "Maighean Rátha"
+          - Mountrath
+        ascii_name: Mountrath
+        name: Mountrath
+        names_en: 
+          - Mountrath
+        names_es: ~
+        population: 1597
+      - 
+        alternate_names: 
+          - "Mointeach Milic"
+          - Mountmellick
+          - "Móinteach Mílic"
+        ascii_name: Mountmellick
+        name: Mountmellick
+        names_en: 
+          - Mountmellick
+        names_es: ~
+        population: 3547
+      - 
+        alternate_names: 
+          - "Mainistir Eimhin"
+          - "Mainistir Eimhín"
+          - Monasterevan
+        ascii_name: Monasterevin
+        name: Monasterevin
+        names_en: 
+          - Monasterevin
+        names_es: ~
+        population: 2704
+      - 
+        alternate_names: ~
+        ascii_name: Moate
+        name: Moate
+        names_en: ~
+        names_es: ~
+        population: 1504
+      - 
+        alternate_names: 
+          - "Maigh Nuad"
+          - Maynooth
+        ascii_name: Maynooth
+        name: Maynooth
+        names_en: 
+          - Maynooth
+        names_es: ~
+        population: 11318
+      - 
+        alternate_names: 
+          - Malahide
+          - "Mullach Ide"
+          - "Mullach Íde"
+        ascii_name: Malahide
+        name: Malahide
+        names_en: 
+          - Malahide
+        names_es: ~
+        population: 14057
+      - 
+        alternate_names: 
+          - Lusk
+        ascii_name: Lusca
+        name: Lusca
+        names_en: 
+          - Lusk
+        names_es: ~
+        population: 2508
+      - 
+        alternate_names: 
+          - Longford
+        ascii_name: "An Longfort"
+        name: "An Longfort"
+        names_en: 
+          - Longford
+        names_es: ~
+        population: 7787
+      - 
+        alternate_names: 
+          - "Leim an Bhradain"
+          - Leixlip
+          - "Léim an Bhradáin"
+        ascii_name: Leixlip
+        name: Leixlip
+        names_en: 
+          - Leixlip
+        names_es: ~
+        population: 15729
+      - 
+        alternate_names: 
+          - "An Inse"
+          - Laytown
+        ascii_name: Laytown
+        name: Laytown
+        names_en: 
+          - Laytown
+        names_es: ~
+        population: 6342
+      - 
+        alternate_names: 
+          - Knockbridge
+          - "Nok Bride"
+          - "Нок Бриде"
+        ascii_name: Knockbridge
+        name: Knockbridge
+        names_en: 
+          - Knockbridge
+        names_es: ~
+        population: 1700
+      - 
+        alternate_names: 
+          - "Cill Chainnigh"
+          - Kilkenni
+          - Kilkenny
+        ascii_name: "Cill Chainnigh"
+        name: "Cill Chainnigh"
+        names_en: 
+          - Kilkenny
+          - "Kilkenny city"
+        names_es: 
+          - Kilkenny
+        population: 21589
+      - 
+        alternate_names: 
+          - "Cill Chomhghaill"
+          - Kilcoole
+        ascii_name: Kilcoole
+        name: Kilcoole
+        names_en: 
+          - Kilcoole
+        names_es: ~
+        population: 2869
+      - 
+        alternate_names: 
+          - "Cill Choca"
+          - Kilcock
+        ascii_name: Kilcock
+        name: Kilcock
+        names_en: 
+          - Kilcock
+        names_es: ~
+        population: 3293
+      - 
+        alternate_names: 
+          - "Ceanannus Mor"
+          - "Ceanannus Mór"
+          - Kells
+        ascii_name: Ceanannas
+        name: Ceanannas
+        names_en: 
+          - Kells
+        names_es: ~
+        population: 4820
+      - 
+        alternate_names: 
+          - Greystones
+          - "Na Clocha Liatha"
+        ascii_name: Greystones
+        name: Greystones
+        names_en: 
+          - Greystones
+        names_es: ~
+        population: 12260
+      - 
+        alternate_names: 
+          - Granard
+          - Gránard
+          - Гранард
+        ascii_name: Granard
+        name: Granard
+        names_en: 
+          - Granard
+        names_es: ~
+        population: 1292
+      - 
+        alternate_names: 
+          - Gorey
+          - Guaire
+        ascii_name: Gorey
+        name: Gorey
+        names_en: 
+          - Gorey
+        names_es: ~
+        population: 6040
+      - 
+        alternate_names: 
+          - "Ath na Sceire"
+          - Enniskerry
+          - "Áth na Sceire"
+        ascii_name: Enniskerry
+        name: Enniskerry
+        names_en: 
+          - Enniskerry
+        names_es: ~
+        population: 1990
+      - 
+        alternate_names: 
+          - Enniscorthy
+        ascii_name: "Inis Corthaidh"
+        name: "Inis Córthaidh"
+        names_en: 
+          - Enniscorthy
+        names_es: ~
+        population: 9709
+      - 
+        alternate_names: 
+          - "Eaden Doire"
+          - Edenderry
+          - "Éaden Doire"
+        ascii_name: Edenderry
+        name: Edenderry
+        names_en: 
+          - Edenderry
+        names_es: ~
+        population: 4890
+      - 
+        alternate_names: 
+          - "Dun Seachlainn"
+          - Dunshaughlin
+          - "Dún Seachlainn"
+        ascii_name: Dunshaughlin
+        name: Dunshaughlin
+        names_en: 
+          - Dunshaughlin
+        names_es: ~
+        population: 3567
+      - 
+        alternate_names: 
+          - D"ndok
+          - "Dun Dealgan"
+          - Dundalk
+        ascii_name: "Dun Dealgan"
+        name: "Dún Dealgan"
+        names_en: 
+          - Dundalk
+        names_es: 
+          - Dundalk
+        population: 33428
+      - 
+        alternate_names: ~
+        ascii_name: Dunboyne
+        name: Dunboyne
+        names_en: ~
+        names_es: ~
+        population: 6718
+      - 
+        alternate_names: 
+          - Damhliag
+          - Duleek
+        ascii_name: Duleek
+        name: Duleek
+        names_en: 
+          - Duleek
+        names_es: ~
+        population: 2376
+      - 
+        alternate_names: 
+          - "Baile Atha Cliath"
+          - "Baile Átha Cliath"
+          - "Ciuda de Dublin"
+        ascii_name: Dublin
+        name: Dublin
+        names_en: 
+          - Dublin
+          - "Dublin city"
+        names_es: 
+          - Dublín
+        population: 1024027
+      - 
+        alternate_names: 
+          - Drogheda
+          - "Drogheda - Droichead Atha"
+          - "Drogheda - Droichead Átha"
+        ascii_name: Drogheda
+        name: Drogheda
+        names_en: 
+          - Drogheda
+        names_es: 
+          - Drogheda
+        population: 33441
+      - 
+        alternate_names: ~
+        ascii_name: Donnybrook
+        name: Donnybrook
+        names_en: ~
+        names_es: ~
+        population: 2000
+      - 
+        alternate_names: 
+          - "Domhnach Bat"
+          - Donabate
+        ascii_name: Donabate
+        name: Donabate
+        names_en: 
+          - Donabate
+        names_es: ~
+        population: 3936
+      - 
+        alternate_names: 
+          - Clara
+          - Cloirtheach
+          - Clóirtheach
+        ascii_name: Clara
+        name: Clara
+        names_en: 
+          - Clara
+        names_es: ~
+        population: 2783
+      - 
+        alternate_names: 
+          - Clane
+          - Claonadh
+        ascii_name: Clane
+        name: Clane
+        names_en: 
+          - Clane
+        names_es: ~
+        population: 5155
+      - 
+        alternate_names: ~
+        ascii_name: Cherryville
+        name: Cherryville
+        names_en: ~
+        names_es: ~
+        population: 6380
+      - 
+        alternate_names: 
+          - Celbridge
+          - "Cill Droichid"
+        ascii_name: Celbridge
+        name: Celbridge
+        names_en: 
+          - Celbridge
+        names_es: ~
+        population: 18167
+      - 
+        alternate_names: 
+          - "Caislean an Chomair"
+          - "Caisleán an Chomair"
+          - Castlecomer
+        ascii_name: Castlecomer
+        name: Castlecomer
+        names_en: 
+          - Castlecomer
+        names_es: ~
+        population: 1686
+      - 
+        alternate_names: 
+          - Carlow
+        ascii_name: Ceatharlach
+        name: Ceatharlach
+        names_en: 
+          - Carlow
+        names_es: ~
+        population: 20055
+      - 
+        alternate_names: 
+          - Bre
+          - Brej
+          - "Bri Chualann"
+        ascii_name: Bray
+        name: Bray
+        names_en: ~
+        names_es: ~
+        population: 32317
+      - 
+        alternate_names: 
+          - "Baile Coimin"
+          - "Baile Coimín"
+          - Blessington
+        ascii_name: Blessington
+        name: Blessington
+        names_en: 
+          - Blessington
+        names_es: ~
+        population: 2874
+      - 
+        alternate_names: ~
+        ascii_name: Blackrock
+        name: Blackrock
+        names_en: ~
+        names_es: ~
+        population: 3000
+      - 
+        alternate_names: 
+          - Blackrock
+          - "Carraig Dubh"
+        ascii_name: Blackrock
+        name: Blackrock
+        names_en: 
+          - Blackrock
+        names_es: ~
+        population: 20701
+      - 
+        alternate_names: 
+          - Biorra
+          - Birr
+          - Parsonstown
+        ascii_name: Birr
+        name: Birr
+        names_en: ~
+        names_es: ~
+        population: 4549
+      - 
+        alternate_names: 
+          - Banagher
+          - Beannchar
+        ascii_name: Banagher
+        name: Banagher
+        names_en: 
+          - Banagher
+        names_es: ~
+        population: 1586
+      - 
+        alternate_names: 
+          - "Baile Brigin"
+          - "Baile Brigín"
+          - Balbriggan
+        ascii_name: Balbriggan
+        name: Balbriggan
+        names_en: 
+          - Balbriggan
+        names_es: ~
+        population: 11293
+      - 
+        alternate_names: 
+          - Bagenalstown
+          - "Muine Bheag"
+        ascii_name: "Muine Bheag"
+        name: "Muine Bheag"
+        names_en: 
+          - Bagenalstown
+        names_es: ~
+        population: 3033
+      - 
+        alternate_names: 
+          - Athy
+        ascii_name: "Baile Atha I"
+        name: "Baile Átha Í"
+        names_en: 
+          - Athy
+        names_es: ~
+        population: 6382
+      - 
+        alternate_names: 
+          - Athlone
+        ascii_name: "Baile Atha Luain"
+        name: "Baile Átha Luain"
+        names_en: 
+          - Athlone
+        names_es: ~
+        population: 15951
+      - 
+        alternate_names: 
+          - Athboy
+          - "Baile Atha Bui"
+          - "Baile Átha Buí"
+        ascii_name: Athboy
+        name: Athboy
+        names_en: 
+          - Athboy
+        names_es: ~
+        population: 1656
+      - 
+        alternate_names: 
+          - Ashbourne
+          - "Cill Dheaglain"
+          - "Cill Dhéagláin"
+        ascii_name: Ashbourne
+        name: Ashbourne
+        names_en: 
+          - Ashbourne
+        names_es: ~
+        population: 7001
+      - 
+        alternate_names: 
+          - "An tInbhear Mor"
+          - "An tInbhear Mór"
+        ascii_name: Arklow
+        name: Arklow
+        names_en: ~
+        names_es: ~
+        population: 10622
+      - 
+        alternate_names: 
+          - Ardee
+          - "Baile Atha Fhirdhia"
+          - "Baile Átha Fhirdhia"
+        ascii_name: Ardee
+        name: Ardee
+        names_en: 
+          - Ardee
+        names_es: ~
+        population: 4008
+      - 
+        alternate_names: 
+          - Abbeyleix
+          - "Mainistir Laoise"
+        ascii_name: Abbeyleix
+        name: Abbeyleix
+        names_en: 
+          - Abbeyleix
+        names_es: ~
+        population: 1711
+      - 
+        alternate_names: ~
+        ascii_name: Portraine
+        name: Portraine
+        names_en: ~
+        names_es: ~
+        population: 1763
+      - 
+        alternate_names: 
+          - "Cill Chormaic"
+          - Kilcormac
+        ascii_name: Kilcormac
+        name: Kilcormac
+        names_en: 
+          - Kilcormac
+        names_es: ~
+        population: 1200
+      - 
+        alternate_names: ~
+        ascii_name: Sandyford
+        name: Sandyford
+        names_en: ~
+        names_es: ~
+        population: 5844
     name: Leinster
-    slug: leinster
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Munster
     cities: 
       - 
-        districts: []
-        location: "POINT (52.9511099999999999 -7.8016699999999997)"
-        name: "Ros Cré"
-        population: 4721
-        slug: ros-cre
+        alternate_names: 
+          - Youghal
+        ascii_name: Eochaill
+        name: Eochaill
+        names_en: 
+          - Youghal
+        names_es: ~
+        population: 6868
       - 
-        districts: []
-        location: "POINT (52.8619399999999970 -8.1966699999999992)"
+        alternate_names: 
+          - "Port Lairge"
+          - "Port Láirge"
+          - Uoterford
+        ascii_name: "Port Lairge"
+        name: "Port Láirge"
+        names_en: 
+          - Waterford
+          - "Waterford city"
+        names_es: 
+          - Waterford
+        population: 47904
+      - 
+        alternate_names: 
+          - Tramore
+        ascii_name: "Tra Mhor"
+        name: "Trá Mhór"
+        names_en: 
+          - Tramore
+        names_es: ~
+        population: 9164
+      - 
+        alternate_names: 
+          - "Tra Li"
+          - Tralee
+          - "Trá Lí"
+        ascii_name: "Tra Li"
+        name: "Trá Lí"
+        names_en: 
+          - Tralee
+        names_es: 
+          - Tralee
+        population: 22941
+      - 
+        alternate_names: 
+          - Tower
+          - "Tower Village"
+        ascii_name: Tower
+        name: Tower
+        names_en: ~
+        names_es: ~
+        population: 3099
+      - 
+        alternate_names: 
+          - Tipperary
+        ascii_name: "Tiobraid Arann"
+        name: "Tiobraid Árann"
+        names_en: 
+          - Tipperary
+        names_es: ~
+        population: 4976
+      - 
+        alternate_names: 
+          - Thurles
+        ascii_name: Durlas
+        name: Durlas
+        names_en: 
+          - Thurles
+        names_es: ~
+        population: 7588
+      - 
+        alternate_names: 
+          - Templemore
+        ascii_name: "An Teampall Mor"
+        name: "An Teampall Mór"
+        names_en: 
+          - Templemore
+        names_es: ~
+        population: 2264
+      - 
+        alternate_names: 
+          - Skibbereen
+        ascii_name: "An Sciobairin"
+        name: "An Sciobairin"
+        names_en: 
+          - Skibbereen
+        names_es: ~
+        population: 2098
+      - 
+        alternate_names: 
+          - "Ros Cre"
+          - "Ros Cré"
+          - Roscrea
+        ascii_name: Roscrea
+        name: Roscrea
+        names_en: 
+          - Roscrea
+        names_es: ~
+        population: 4721
+      - 
+        alternate_names: 
+          - "Rath Caola"
+          - Rathkeale
+          - "Ráth Caola"
+        ascii_name: Rathkeale
+        name: Rathkeale
+        names_en: 
+          - Rathkeale
+        names_es: ~
+        population: 1470
+      - 
+        alternate_names: 
+          - "An Pasaiste"
+          - "An Pasáiste"
+          - Passage
+        ascii_name: "Passage West"
+        name: "Passage West"
+        names_en: 
+          - "Passage West"
+        names_es: ~
+        population: 4907
+      - 
+        alternate_names: 
+          - "Cora Chaitlin"
+          - "Cora Chaitlín"
+          - "Newmarket on Fergus"
+        ascii_name: "Newmarket on Fergus"
+        name: "Newmarket on Fergus"
+        names_en: 
+          - "Newmarket on Fergus"
+        names_es: ~
+        population: 1754
+      - 
+        alternate_names: 
+          - "An Caislean Nua"
+          - "An Caisleán Nua"
+          - Newcastle
+        ascii_name: "Newcastle West"
+        name: "Newcastle West"
+        names_en: 
+          - "Newcastle West"
+        names_es: ~
+        population: 4184
+      - 
+        alternate_names: 
+          - "An tAonach"
+          - Nenagh
+          - "The Meeting"
+        ascii_name: Nenagh
         name: Nenagh
+        names_en: 
+          - Nenagh
+        names_es: ~
         population: 5500
-        slug: nenagh
-    code: IE.M
+      - 
+        alternate_names: 
+          - "Baile Mhisteala"
+          - "Baile Mhistéala"
+          - Mitchelstown
+        ascii_name: Mitchelstown
+        name: Mitchelstown
+        names_en: 
+          - Mitchelstown
+        names_es: ~
+        population: 3357
+      - 
+        alternate_names: 
+          - Middleton
+          - Midleton
+        ascii_name: "Mainister na Corann"
+        name: "Mainister na Corann"
+        names_en: 
+          - Midleton
+        names_es: ~
+        population: 8891
+      - 
+        alternate_names: 
+          - Mala
+        ascii_name: Mallow
+        name: Mallow
+        names_en: ~
+        names_es: ~
+        population: 9495
+      - 
+        alternate_names: 
+          - "Maigh Chromtha"
+        ascii_name: Macroom
+        name: Macroom
+        names_en: ~
+        names_es: ~
+        population: 3169
+      - 
+        alternate_names: 
+          - Listowel
+        ascii_name: "Lios Tuathail"
+        name: "Lios Tuathail"
+        names_en: 
+          - Listowel
+        names_es: ~
+        population: 4143
+      - 
+        alternate_names: 
+          - Limereick
+          - Limerick
+          - "Limerick - Luimneach"
+        ascii_name: Limerick
+        name: Limerick
+        names_en: 
+          - Limerick
+          - "Limerick city"
+        names_es: 
+          - Limerick
+        population: 90054
+      - 
+        alternate_names: 
+          - "Cionn tSaile"
+          - "Cionn tSáile"
+          - Kinsale
+        ascii_name: "Cionn tSaile"
+        name: "Cionn tSáile"
+        names_en: 
+          - Kinsale
+        names_es: 
+          - Kinsale
+        population: 3843
+      - 
+        alternate_names: 
+          - Kilrush
+        ascii_name: "Cill Rois"
+        name: "Cill Rois"
+        names_en: 
+          - Kilrush
+        names_es: ~
+        population: 2712
+      - 
+        alternate_names: 
+          - "Cill Mocheallog"
+          - "Cill Mocheallóg"
+          - Kilmailock
+        ascii_name: Kilmallock
+        name: Kilmallock
+        names_en: 
+          - Kilmallock
+        names_es: ~
+        population: 1523
+      - 
+        alternate_names: 
+          - "Cill Orglan"
+          - Killorglin
+        ascii_name: Killorglin
+        name: Killorglin
+        names_en: 
+          - Killorglin
+        names_es: ~
+        population: 1409
+      - 
+        alternate_names: 
+          - "Cill Airne"
+          - Killarney
+        ascii_name: "Cill Airne"
+        name: "Cill Airne"
+        names_en: 
+          - Killarney
+        names_es: 
+          - Killarney
+        population: 7300
+      - 
+        alternate_names: ~
+        ascii_name: Kill
+        name: Kill
+        names_en: ~
+        names_es: ~
+        population: 2304
+      - 
+        alternate_names: 
+          - Kenmare
+          - Kevmare
+          - Neidin
+        ascii_name: Kenmare
+        name: Kenmare
+        names_en: 
+          - Kenmare
+        names_es: ~
+        population: 2023
+      - 
+        alternate_names: 
+          - "Ceann Toirc"
+          - Kanturk
+        ascii_name: Kanturk
+        name: Kanturk
+        names_en: 
+          - Kanturk
+        names_es: ~
+        population: 1628
+      - 
+        alternate_names: 
+          - Fermoy
+        ascii_name: "Mainistir Fhear Mai"
+        name: "Mainistir Fhear Maí"
+        names_en: 
+          - Fermoy
+        names_es: ~
+        population: 4933
+      - 
+        alternate_names: 
+          - Enis
+          - Ennis
+          - Inis
+        ascii_name: Inis
+        name: Inis
+        names_en: 
+          - Ennis
+        names_es: ~
+        population: 24427
+      - 
+        alternate_names: 
+          - "Dun Mor"
+          - Dunmore
+          - "Dunmore East"
+        ascii_name: "Dunmore East"
+        name: "Dunmore East"
+        names_en: 
+          - "Dunmore East"
+        names_es: ~
+        population: 1795
+      - 
+        alternate_names: 
+          - "Dun Manmhai"
+          - Dunmanway
+          - "Dún Mánmhaí"
+        ascii_name: Dunmanway
+        name: Dunmanway
+        names_en: 
+          - Dunmanway
+        names_es: ~
+        population: 1566
+      - 
+        alternate_names: 
+          - "Dun Garbhan"
+          - "Dún Garbhán"
+        ascii_name: Dungarvan
+        name: Dungarvan
+        names_en: ~
+        names_es: ~
+        population: 7551
+      - 
+        alternate_names: 
+          - "An Daingean"
+          - Dingle
+        ascii_name: Dingle
+        name: Dingle
+        names_en: 
+          - Dingle
+        names_es: ~
+        population: 1971
+      - 
+        alternate_names: ~
+        ascii_name: Derry
+        name: Derry
+        names_en: ~
+        names_es: ~
+        population: 10000
+      - 
+        alternate_names: 
+          - Corcaigh
+          - Cork
+          - "Cork - Corcaigh"
+        ascii_name: Cork
+        name: Cork
+        names_en: 
+          - Cork
+          - "Cork city"
+        names_es: 
+          - Cork
+        population: 190384
+      - 
+        alternate_names: 
+          - "An Cobh"
+          - "An Cóbh"
+          - Cobh
+        ascii_name: Cobh
+        name: Cobh
+        names_en: 
+          - Cobh
+        names_es: ~
+        population: 10501
+      - 
+        alternate_names: 
+          - "Cluain Meala"
+        ascii_name: Clonmel
+        name: Clonmel
+        names_en: ~
+        names_es: ~
+        population: 17394
+      - 
+        alternate_names: 
+          - "Cloich na Coillte"
+        ascii_name: Clonakilty
+        name: Clonakilty
+        names_en: ~
+        names_es: ~
+        population: 4065
+      - 
+        alternate_names: 
+          - Charleville
+          - "Rath Luirc"
+          - "Ráth Luirc"
+        ascii_name: "Rath Luirc"
+        name: "Ráth Luirc"
+        names_en: ~
+        names_es: ~
+        population: 2674
+      - 
+        alternate_names: 
+          - Castleisland
+          - "Oilean Ciarrai"
+          - "Oileán Ciarraí"
+        ascii_name: Castleisland
+        name: Castleisland
+        names_en: 
+          - Castleisland
+        names_es: ~
+        population: 2122
+      - 
+        alternate_names: 
+          - Caiseal
+        ascii_name: Cashel
+        name: Cashel
+        names_en: ~
+        names_es: ~
+        population: 2798
+      - 
+        alternate_names: 
+          - "Carraig Ui Leighin"
+          - "Carraig Uí Leighin"
+          - Carrigaline
+        ascii_name: Carrigaline
+        name: Carrigaline
+        names_en: 
+          - Carrigaline
+        names_es: ~
+        population: 12902
+      - 
+        alternate_names: 
+          - "Carraig na Siuire"
+          - "Carraig na Siúire"
+        ascii_name: Carrick-on-Suir
+        name: Carrick-on-Suir
+        names_en: ~
+        names_es: ~
+        population: 5710
+      - 
+        alternate_names: 
+          - Cahersiveen
+          - Cahersween
+          - "Cathair Saidhbhin"
+        ascii_name: Cahersiveen
+        name: Cahersiveen
+        names_en: 
+          - Cahersiveen
+        names_es: ~
+        population: 1409
+      - 
+        alternate_names: 
+          - "An Chathair"
+          - Caher
+          - Cahir
+        ascii_name: Caher
+        name: Caher
+        names_en: 
+          - Caher
+        names_es: ~
+        population: 3057
+      - 
+        alternate_names: 
+          - "An Bhlarna"
+          - Blarney
+        ascii_name: Blarney
+        name: Blarney
+        names_en: 
+          - Blarney
+        names_es: ~
+        population: 2215
+      - 
+        alternate_names: 
+          - Bantry
+          - Beanntrai
+          - Beanntraí
+        ascii_name: Bantry
+        name: Bantry
+        names_en: 
+          - Bantry
+        names_es: ~
+        population: 3234
+      - 
+        alternate_names: 
+          - Bandon
+          - "Droichead na Bandon"
+        ascii_name: Bandon
+        name: Bandon
+        names_en: 
+          - Bandon
+        names_es: ~
+        population: 5492
+      - 
+        alternate_names: 
+          - "Baile an Bhuinneanaigh"
+          - "Baile an Bhuinneánaigh"
+          - Ballybunnion
+        ascii_name: Ballybunnion
+        name: Ballybunnion
+        names_en: 
+          - Ballybunnion
+        names_es: ~
+        population: 1626
+      - 
+        alternate_names: 
+          - Abbeyfeale
+          - "Mainistir na Feile"
+          - "Mainistir na Féile"
+        ascii_name: Abbeyfeale
+        name: Abbeyfeale
+        names_en: 
+          - Abbeyfeale
+        names_es: ~
+        population: 1734
+      - 
+        alternate_names: ~
+        ascii_name: "Nenagh Bridge"
+        name: "Nenagh Bridge"
+        names_en: ~
+        names_es: ~
+        population: 6672
+      - 
+        alternate_names: 
+          - "An tSionna"
+          - Shannon
+          - "Shannon Town"
+        ascii_name: Shannon
+        name: Shannon
+        names_en: 
+          - Shannon
+        names_es: ~
+        population: 8781
     name: Munster
-    slug: munster
-tld: ie
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Ulster
+    cities: 
+      - 
+        alternate_names: 
+          - Buncrana
+        ascii_name: "Bun Cranncha"
+        name: "Bun Cranncha"
+        names_en: 
+          - Buncrana
+        names_es: ~
+        population: 5546
+      - 
+        alternate_names: 
+          - "Bun an Phobail"
+          - Moville
+        ascii_name: Moville
+        name: Moville
+        names_en: 
+          - Moville
+        names_es: ~
+        population: 1402
+      - 
+        alternate_names: 
+          - Monaghan
+        ascii_name: Muineachan
+        name: Muineachán
+        names_en: 
+          - Monaghan
+        names_es: ~
+        population: 5937
+      - 
+        alternate_names: 
+          - Leifear
+          - Lifford
+        ascii_name: Leifear
+        name: Leifear
+        names_en: 
+          - Lifford
+        names_es: ~
+        population: 1617
+      - 
+        alternate_names: 
+          - "Leitir Ceanainn"
+          - Letterkenny
+        ascii_name: Letterkenny
+        name: Letterkenny
+        names_en: 
+          - Letterkenny
+        names_es: 
+          - Letterkenny
+        population: 16901
+      - 
+        alternate_names: 
+          - Killybegs
+          - "Na Ceala Beaga"
+          - "Na Cealla Beaga"
+        ascii_name: Killybegs
+        name: Killybegs
+        names_en: 
+          - Killybegs
+        names_es: ~
+        population: 1725
+      - 
+        alternate_names: 
+          - "Gaoth Dobhair"
+          - Gweedore
+          - Krokh'li
+        ascii_name: Gweedore
+        name: Gweedore
+        names_en: 
+          - Gweedore
+        names_es: ~
+        population: 4200
+      - 
+        alternate_names: 
+          - Glenties
+          - "Na Gleannta"
+        ascii_name: Glenties
+        name: Glenties
+        names_en: 
+          - Glenties
+        names_es: ~
+        population: 1500
+      - 
+        alternate_names: 
+          - "Dun Luiche"
+          - "Dun Lukhe"
+          - Dunlewy
+        ascii_name: Dunlewy
+        name: Dunlewy
+        names_en: 
+          - "Dún Lúiche"
+          - Dunlewy
+        names_es: ~
+        population: 3400
+      - 
+        alternate_names: 
+          - Donegal
+          - "Dun na nGall"
+          - "Dún na nGall"
+        ascii_name: Donegal
+        name: Donegal
+        names_en: 
+          - Donegal
+        names_es: ~
+        population: 2513
+      - 
+        alternate_names: 
+          - Cootehill
+          - Muinchille
+        ascii_name: Cootehill
+        name: Cootehill
+        names_en: 
+          - Cootehill
+        names_es: ~
+        population: 1713
+      - 
+        alternate_names: 
+          - Clones
+        ascii_name: "Cluain Eois"
+        name: "Cluain Eois"
+        names_en: 
+          - Clones
+        names_es: ~
+        population: 1834
+      - 
+        alternate_names: 
+          - Cavan
+        ascii_name: "An Cabhan"
+        name: "An Cabhán"
+        names_en: 
+          - Cavan
+        names_es: ~
+        population: 6388
+      - 
+        alternate_names: 
+          - Castleblayney
+        ascii_name: "Baile na Lorgan"
+        name: "Baile na Lorgan"
+        names_en: 
+          - Castleblayney
+        names_es: ~
+        population: 3006
+      - 
+        alternate_names: 
+          - Carrickmacross
+          - Magheross
+        ascii_name: "Carraig Mhachaire Rois"
+        name: "Carraig Mhachaire Rois"
+        names_en: 
+          - Carrickmacross
+        names_es: ~
+        population: 3995
+      - 
+        alternate_names: 
+          - Cardonagh
+          - "Carn Domhnach"
+          - Carndonagh
+        ascii_name: Carndonagh
+        name: Carndonagh
+        names_en: 
+          - Carndonagh
+        names_es: ~
+        population: 1581
+      - 
+        alternate_names: 
+          - Bundoran
+        ascii_name: "Bun Dobhrain"
+        name: "Bun Dobhráin"
+        names_en: 
+          - Bundoran
+        names_es: ~
+        population: 1865
+      - 
+        alternate_names: 
+          - "Beal Tairbirt"
+          - Belturbet
+          - "Béal Tairbirt"
+        ascii_name: Belturbet
+        name: Belturbet
+        names_en: 
+          - Belturbet
+        names_es: ~
+        population: 1277
+      - 
+        alternate_names: 
+          - Ballyshannon
+          - "Beal Atha Seanaidh"
+          - "Béal Átha Seanaidh"
+        ascii_name: Ballyshannon
+        name: Ballyshannon
+        names_en: 
+          - Ballyshannon
+        names_es: ~
+        population: 2683
+      - 
+        alternate_names: 
+          - Ballybofey
+          - "Bealach Feich"
+          - "Bealach Féich"
+        ascii_name: Ballybofey
+        name: Ballybofey
+        names_en: 
+          - Ballybofey
+        names_es: ~
+        population: 3848
+      - 
+        alternate_names: 
+          - Baileborough
+          - Bailieborough
+          - "Coill an Chollaigh"
+        ascii_name: Bailieborough
+        name: Bailieborough
+        names_en: 
+          - Bailieborough
+        names_es: ~
+        population: 1703
+      - 
+        alternate_names: 
+          - "Ard an Ratha"
+          - "Ard an Rátha"
+          - Ardara
+        ascii_name: Ardara
+        name: Ardara
+        names_en: 
+          - Ardara
+        names_es: ~
+        population: 2000
+    name: Ulster
+    names_en: ~
+    names_es: ~

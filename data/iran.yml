@@ -1,1357 +1,2229 @@
 --- 
-code: IR
-continent: AS
 name: Iran
-population: 76923300
+names_en: 
+  - "Empire of Iran"
+  - Iran
+  - "Islamic Republic of Iran"
+names_es: 
+  - Irán
+  - Persia
+  - "Irán (República Islámica)"
 regions: 
   - 
+    ascii_name: "Ostan-e Tehran"
     cities: 
       - 
-        districts: []
-        location: "POINT (36.9694000000000003 46.1026999999999987)"
-        name: Mīāndowāb
-        population: 132819
-        slug: miandowab
-      - 
-        districts: []
-        location: "POINT (36.4009000000000000 47.1133000000000024)"
-        name: Takāb
-        population: 51541
-        slug: takab
-      - 
-        districts: []
-        location: "POINT (38.1972999999999985 44.7653000000000034)"
-        name: Salmās
-        population: 81606
-        slug: salmas
-      - 
-        districts: []
-        location: "POINT (38.8915000000000006 45.0255000000000010)"
-        name: "Qarah Ẕīā' od Dīn"
-        population: 31947
-        slug: qarah-zia-od-din
-      - 
-        districts: []
-        location: "POINT (36.7010000000000005 45.1413000000000011)"
-        name: Pīrānshahr
-        population: 61973
-        slug: piranshahr
-      - 
-        districts: []
-        location: "POINT (37.0397000000000034 45.0983000000000018)"
-        name: Oshnavīyeh
-        population: 50661
-        slug: oshnaviyeh
-      - 
-        districts: []
-        location: "POINT (37.5527400000000000 45.0760500000000022)"
-        name: Orūmīyeh
-        population: 577307
-        slug: orumiyeh
-      - 
-        districts: []
-        location: "POINT (36.9553000000000011 45.3879999999999981)"
-        name: Naqadeh
-        population: 73528
-        slug: naqadeh
-      - 
-        districts: []
-        location: "POINT (36.7631000000000014 45.7222000000000008)"
-        name: Mahābād
-        population: 162434
-        slug: mahabad
-      - 
-        districts: []
-        location: "POINT (38.5503000000000000 44.9521000000000015)"
-        name: Khvoy
-        population: 175370
-        slug: khvoy
-      - 
-        districts: []
-        location: "POINT (36.5210000000000008 46.2088999999999999)"
-        name: Būkān
-        population: 213331
-        slug: bukan
-    code: IR.01
-    name: "Āz̄ārbāyjān-e Gharbī"
-    slug: azarbayjan-e-gharbi
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.3255600000000030 50.8644400000000019)"
-        name: "Shahr-e Kord"
-        population: 129153
-        slug: shahr-e-kord
-      - 
-        districts: []
-        location: "POINT (32.2717400000000012 50.9800800000000010)"
-        name: "Farrokh Shahr"
-        population: 32391
-        slug: farrokh-shahr
-      - 
-        districts: []
-        location: "POINT (32.2569400000000002 50.5609600000000015)"
-        name: Fārsān
-        population: 25071
-        slug: farsan
-      - 
-        districts: []
-        location: "POINT (31.9652299999999983 51.2873000000000019)"
-        name: Borūjen
-        population: 52654
-        slug: borujen
-    code: IR.03
-    name: "Chahār Maḩāll va Bakhtīārī"
-    slug: chahar-mahall-va-bakhtiari
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.0287000000000006 61.5011999999999972)"
-        name: Zābol
-        population: 121989
-        slug: zabol
-      - 
-        districts: []
-        location: "POINT (29.4963000000000015 60.8629000000000033)"
-        name: Zāhedān
-        population: 551980
-        slug: zahedan
-      - 
-        districts: []
-        location: "POINT (28.2210700000000010 61.2158200000000008)"
-        name: Khāsh
-        population: 69603
-        slug: khash
-      - 
-        districts: []
-        location: "POINT (27.2024499999999989 60.6847599999999971)"
-        name: Īrānshahr
-        population: 131232
-        slug: iranshahr
-      - 
-        districts: []
-        location: "POINT (25.2918999999999983 60.6430000000000007)"
-        name: "Chāh Bahār"
-        population: 47287
-        slug: chah-bahar
-    code: IR.04
-    name: "Sīstān va Balūchestān"
-    slug: sistan-va-baluchestan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (30.3585999999999991 50.7980999999999980)"
-        name: "Do Gonbadān"
-        population: 94638
-        slug: do-gonbadan
-      - 
-        districts: []
-        location: "POINT (30.7948999999999984 50.5645799999999994)"
-        name: Dehdasht
-        population: 69726
-        slug: dehdasht
-    code: IR.05
-    name: "Kohgīlūyeh va Būyer Aḩmad"
-    slug: kohgiluyeh-va-buyer-ahmad
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (29.6036000000000001 52.5388000000000019)"
-        name: Shīrāz
-        population: 1249942
-        slug: shiraz
-      - 
-        districts: []
-        location: "POINT (30.1140499999999989 51.5217400000000012)"
-        name: Nūrābād
-        population: 64041
-        slug: nurabad
-      - 
-        districts: []
-        location: "POINT (29.1987999999999985 54.3278000000000034)"
-        name: Neyrīz
-        population: 45506
-        slug: neyriz
-      - 
-        districts: []
-        location: "POINT (29.8916700000000013 51.6866699999999994)"
-        name: "Khānī Yek"
-        population: 2493
-        slug: khani-yek
-      - 
-        districts: []
-        location: "POINT (29.6194899999999990 51.6541500000000013)"
-        name: Kāzerūn
-        population: 94511
-        slug: kazerun
-      - 
-        districts: []
-        location: "POINT (27.6651999999999987 54.1370999999999967)"
-        name: Gerāsh
-        population: 25316
-        slug: gerash
-      - 
-        districts: []
-        location: "POINT (28.8438000000000017 52.5707000000000022)"
-        name: Fīrūzābād
-        population: 66558
-        slug: firuzabad
-      - 
-        districts: []
-        location: "POINT (28.9383000000000017 53.6482000000000028)"
-        name: Fasā
-        population: 98061
-        slug: fasa
-      - 
-        districts: []
-        location: "POINT (28.7519400000000012 54.5444400000000016)"
-        name: Dārāb
-        population: 63319
-        slug: darab
-      - 
-        districts: []
-        location: "POINT (29.2464000000000013 52.7792999999999992)"
-        name: Akbarābād
-        population: 98342
-        slug: akbarabad
-      - 
-        districts: []
-        location: "POINT (31.1607999999999983 52.6505999999999972)"
-        name: Ābādeh
-        population: 56988
-        slug: abadeh
-    code: IR.07
-    name: Fārs
-    slug: fars
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.4727000000000032 49.4622000000000028)"
-        name: "Bandar-e Anzalī"
-        population: 110826
-        slug: bandar-e-anzali
-      - 
-        districts: []
-        location: "POINT (37.8008000000000024 48.9037000000000006)"
-        name: Hashtpar
-        population: 45305
-        slug: hashtpar
-      - 
-        districts: []
-        location: "POINT (37.1361100000000022 50.2866700000000009)"
-        name: Rūdsar
-        population: 47502
-        slug: rudsar
-      - 
-        districts: []
-        location: "POINT (37.2807699999999969 49.5831900000000019)"
-        name: Rasht
-        population: 594590
-        slug: rasht
-      - 
-        districts: []
-        location: "POINT (37.1952799999999968 50.1491699999999980)"
-        name: Langerūd
-        population: 68148
-        slug: langerud
-      - 
-        districts: []
-        location: "POINT (38.4290999999999983 48.8719999999999999)"
-        name: Āstārā
-        population: 39065
-        slug: astara
-      - 
-        districts: []
-        location: "POINT (37.2596199999999982 49.9444400000000002)"
-        name: "Āstāneh-ye Ashrafīyeh"
-        population: 42784
-        slug: astaneh-ye-ashrafiyeh
-    code: IR.08
-    name: Gīlān
-    slug: gilan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.0389699999999991 48.4626000000000019)"
-        name: Famast
-        population: 1081
-        slug: famast
-      - 
-        districts: []
-        location: "POINT (34.7908800000000014 48.5707299999999975)"
-        name: Āzādshahr
-        population: 514102
-        slug: azadshahr
-      - 
-        districts: []
-        location: "POINT (34.1884999999999977 48.3770000000000024)"
-        name: Nahāvand
-        population: 76250
-        slug: nahavand
-      - 
-        districts: []
-        location: "POINT (34.2969000000000008 48.8235000000000028)"
-        name: Malāyer
-        population: 176573
-        slug: malayer
-      - 
-        districts: []
-        location: "POINT (34.7992199999999983 48.5145600000000030)"
-        name: Hamedān
-        population: 528256
-        slug: hamedan
-      - 
-        districts: []
-        location: "POINT (34.0379199999999997 48.4620000000000033)"
-        name: pamas
-        population: 1081
-        slug: pamas
-      - 
-        districts: []
-        location: "POINT (34.9072000000000031 48.4414000000000016)"
-        name: Bahār
-        population: 28645
-        slug: bahar
-      - 
-        districts: []
-        location: "POINT (34.7824099999999987 48.1185299999999998)"
-        name: Asadābād
-        population: 59617
-        slug: asadabad
-    code: IR.09
-    name: Hamadān
-    slug: hamadan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.1221999999999994 46.1646000000000001)"
-        name: Mehrān
-        population: 11831
-        slug: mehran
-      - 
-        districts: []
-        location: "POINT (33.6373999999999995 46.4226999999999990)"
-        name: Īlām
-        population: 140940
-        slug: ilam
-      - 
-        districts: []
-        location: "POINT (32.6940999999999988 47.2678999999999974)"
-        name: Dehlorān
-        population: 46002
-        slug: dehloran
-      - 
-        districts: []
-        location: "POINT (32.9926000000000030 47.4198000000000022)"
-        name: Ābdānān
-        population: 19360
-        slug: abdanan
-    code: IR.10
-    name: Īlām
-    slug: ilam
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (26.5561100000000003 54.8808300000000031)"
-        name: "Bandar-e Lengeh"
-        population: 22768
-        slug: bandar-e-lengeh
-      - 
-        districts: []
-        location: "POINT (26.9581000000000017 56.2719000000000023)"
-        name: Qeshm
-        population: 95000
-        slug: qeshm
-      - 
-        districts: []
-        location: "POINT (27.1466999999999992 57.0801000000000016)"
-        name: Mīnāb
-        population: 70790
-        slug: minab
-      - 
-        districts: []
-        location: "POINT (26.5577800000000011 54.0194400000000030)"
-        name: Kīsh
-        population: 20922
-        slug: kish
-      - 
-        districts: []
-        location: "POINT (27.1864999999999988 56.2807999999999993)"
-        name: "Bandar ‘Abbās"
-        population: 352173
-        slug: bandar-abbas
-    code: IR.11
-    name: Hormozgān
-    slug: hormozgan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.3141699999999972 47.0649999999999977)"
-        name: Kermānshāh
-        population: 621100
-        slug: kermanshah
-      - 
-        districts: []
-        location: "POINT (34.3838000000000008 47.0553000000000026)"
-        name: Kahrīz
-        population: 766706
-        slug: kahriz
-      - 
-        districts: []
-        location: "POINT (34.7837000000000032 47.6004000000000005)"
-        name: Sonqor
-        population: 43174
-        slug: sonqor
-      - 
-        districts: []
-        location: "POINT (34.4610899999999987 45.8626399999999990)"
-        name: "Sarpol-e Z̄ahāb"
-        population: 51611
-        slug: sarpol-e-zahab
-      - 
-        districts: []
-        location: "POINT (35.0433999999999983 46.3564999999999969)"
-        name: Pāveh
-        population: 17779
-        slug: paveh
-      - 
-        districts: []
-        location: "POINT (34.5043000000000006 47.9652999999999992)"
-        name: Kangāvar
-        population: 53414
-        slug: kangavar
-      - 
-        districts: []
-        location: "POINT (34.7961099999999988 46.5172200000000018)"
-        name: Javānrūd
-        population: 38657
-        slug: javanrud
-      - 
-        districts: []
-        location: "POINT (34.2721000000000018 47.5861000000000018)"
-        name: Harsīn
-        population: 57647
-        slug: harsin
-    code: IR.13
-    name: Kermānshāh
-    slug: kermanshah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (30.7006000000000014 49.8314999999999984)"
-        name: Āghājārī
-        population: 21785
-        slug: aghajari
-      - 
-        districts: []
-        location: "POINT (31.2799699999999987 49.6035100000000000)"
-        name: Rāmhormoz
-        population: 38821
-        slug: ramhormoz
-      - 
-        districts: []
-        location: "POINT (32.0454999999999970 48.8566999999999965)"
-        name: Shūshtar
-        population: 77507
-        slug: shushtar
-      - 
-        districts: []
-        location: "POINT (32.1942000000000021 48.2436000000000007)"
-        name: Shūsh
-        population: 52284
-        slug: shush
-      - 
-        districts: []
-        location: "POINT (30.6497199999999985 48.6647200000000026)"
-        name: Shādegān
-        population: 37220
-        slug: shadegan
-      - 
-        districts: []
-        location: "POINT (30.8946000000000005 49.4091999999999985)"
-        name: Rāmshīr
-        population: 19454
-        slug: ramshir
-      - 
-        districts: []
-        location: "POINT (30.7597200000000015 49.7049999999999983)"
-        name: Omīdīyeh
-        population: 46983
-        slug: omidiyeh
-      - 
-        districts: []
-        location: "POINT (31.9363999999999990 49.3038999999999987)"
-        name: "Masjed Soleymān"
-        population: 111510
-        slug: masjed-soleyman
-      - 
-        districts: []
-        location: "POINT (30.4396999999999984 48.1664000000000030)"
-        name: Khorramshahr
-        population: 330606
-        slug: khorramshahr
-      - 
-        districts: []
-        location: "POINT (31.5608000000000004 48.1831000000000031)"
-        name: Sūsangerd
-        population: 41443
-        slug: susangerd
-      - 
-        districts: []
-        location: "POINT (30.5959000000000003 50.2417000000000016)"
-        name: Behbahān
-        population: 79327
-        slug: behbahan
-      - 
-        districts: []
-        location: "POINT (30.4355599999999988 49.1055599999999970)"
-        name: "Bandar-e-Emām Khomeynī"
-        population: 48061
-        slug: bandar-e-emam-khomeyni
-      - 
-        districts: []
-        location: "POINT (31.3202999999999996 48.6692999999999998)"
-        name: Ahvāz
-        population: 841145
-        slug: ahvaz
-      - 
-        districts: 
-          - 
-            location: "POINT (29.2691699999999990 47.9780599999999993)"
-            name: "Janūb as Surrah"
-            population: 18496
-            slug: janub-as-surrah
-          - 
-            location: "POINT (29.3032000000000004 48.0488100000000031)"
-            name: Bayān
-            population: 30635
-            slug: bayan
-          - 
-            location: "POINT (29.3338900000000002 48.0761099999999999)"
-            name: "As Sālimīyah"
-            population: 147649
-            slug: as-salimiyah
-          - 
-            location: "POINT (29.3472200000000001 47.9616699999999980)"
-            name: "Ash Shāmīyah"
-            population: 13762
-            slug: ash-shamiyah
-          - 
-            location: "POINT (29.3649999999999984 48.0013900000000007)"
-            name: "Ad Dasmah"
-            population: 17585
-            slug: ad-dasmah
-          - 
-            location: "POINT (29.2958299999999987 48.0786099999999976)"
-            name: Salwá
-            population: 40945
-            slug: salwa
-          - 
-            location: "POINT (29.2950000000000017 47.9330599999999976)"
-            name: "Ar Rābiyah"
-            population: 36447
-            slug: ar-rabiyah
-          - 
-            location: "POINT (29.2572200000000002 48.0572200000000009)"
-            name: "Şabāḩ as Sālim"
-            population: 139163
-            slug: sabah-as-salim
-        location: "POINT (30.3392000000000017 48.3042999999999978)"
-        name: Ābādān
-        population: 370180
-        slug: abadan
-    code: IR.15
-    name: Khūzestān
-    slug: khuzestan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.2499200000000030 46.2734999999999985)"
-        name: Saqqez
-        population: 151237
-        slug: saqqez
-      - 
-        districts: []
-        location: "POINT (35.3143999999999991 46.9923000000000002)"
-        name: Sanandaj
-        population: 349176
-        slug: sanandaj
-      - 
-        districts: []
-        location: "POINT (35.1664000000000030 47.8044999999999973)"
-        name: Qorveh
-        population: 87953
-        slug: qorveh
-      - 
-        districts: []
-        location: "POINT (34.7956000000000003 46.9354999999999976)"
-        name: Kāmyārān
-        population: 61642
-        slug: kamyaran
-      - 
-        districts: []
-        location: "POINT (35.8667999999999978 47.6050600000000017)"
-        name: Bījār
-        population: 53871
-        slug: bijar
-      - 
-        districts: []
-        location: "POINT (35.9975000000000023 45.8853000000000009)"
-        name: Bāneh
-        population: 104799
-        slug: baneh
-    code: IR.16
-    name: Kordestān
-    slug: kordestan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (29.5791000000000004 50.5170000000000030)"
-        name: "Bandar-e Ganāveh"
-        population: 52750
-        slug: bandar-e-ganaveh
-      - 
-        districts: []
-        location: "POINT (28.9683999999999990 50.8385000000000034)"
-        name: "Bandar Būshehr"
-        population: 165377
-        slug: bandar-bushehr
-      - 
-        districts: []
-        location: "POINT (29.2666000000000004 51.2158999999999978)"
-        name: Borāzjān
-        population: 86059
-        slug: borazjan
-    code: IR.22
-    name: Bushehr
-    slug: bushehr
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.0733999999999995 47.9724999999999966)"
-        name: Nūrābād
-        population: 73528
-        slug: nurabad
-      - 
-        districts: []
-        location: "POINT (33.5349999999999966 47.6060999999999979)"
-        name: Kūhdasht
-        population: 100208
-        slug: kuhdasht
-      - 
-        districts: []
-        location: "POINT (33.4877800000000008 48.3558299999999974)"
-        name: Khorramābād
-        population: 329825
-        slug: khorramabad
-      - 
-        districts: []
-        location: "POINT (33.8973000000000013 48.7516000000000034)"
-        name: Borūjerd
-        population: 251958
-        slug: borujerd
-      - 
-        districts: []
-        location: "POINT (33.6094999999999970 48.9307000000000016)"
-        name: Aznā
-        population: 47482
-        slug: azna
-      - 
-        districts: []
-        location: "POINT (33.4006299999999996 49.6948999999999970)"
-        name: Alīgūdarz
-        population: 91041
-        slug: aligudarz
-      - 
-        districts: []
-        location: "POINT (33.8633000000000024 48.2618999999999971)"
-        name: Aleshtar
-        population: 27701
-        slug: aleshtar
-    code: IR.23
-    name: Lorestān
-    slug: lorestan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.2358300000000000 52.3141699999999972)"
-        name: "Īstgāh-e Rāh Āhan-e Garmsār"
-        population: 49491
-        slug: istgah-e-rah-ahan-e-garmsar
-      - 
-        districts: []
-        location: "POINT (35.5729100000000003 53.3971400000000003)"
-        name: Semnān
-        population: 124826
-        slug: semnan
-      - 
-        districts: []
-        location: "POINT (36.4181900000000027 54.9762800000000027)"
-        name: Shāhrūd
-        population: 131889
-        slug: shahrud
-      - 
-        districts: []
-        location: "POINT (36.1683000000000021 54.3479999999999990)"
-        name: Dāmghān
-        population: 67694
-        slug: damghan
-    code: IR.25
-    name: Semnān
-    slug: semnan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.4394399999999976 51.5688900000000032)"
+        alternate_names: 
+          - Qarchak
+          - "Qareh Chak"
+          - "qarih chak"
+        ascii_name: Qarchak
         name: Qarchak
+        names_en: ~
+        names_es: ~
         population: 251834
-        slug: qarchak
       - 
-        districts: []
-        location: "POINT (35.3241999999999976 51.6456999999999979)"
+        alternate_names: 
+          - Varamin
+          - Varāmīn
+          - Veramin
+        ascii_name: Varamin
         name: Varāmīn
+        names_en: ~
+        names_es: ~
         population: 179603
-        slug: varamin
       - 
-        districts: []
-        location: "POINT (35.6943899999999985 51.4215099999999978)"
+        alternate_names: 
+          - Taekhran
+          - Tahran
+          - Techerane
+        ascii_name: Tehran
         name: Tehrān
+        names_en: 
+          - Tehran
+        names_es: 
+          - Teherán
         population: 7153309
-        slug: tehran
       - 
-        districts: []
-        location: "POINT (35.4846000000000004 51.0829000000000022)"
+        alternate_names: 
+          - "Robat Karim"
+          - "Robāţ Karīm"
+          - Shahriar
+        ascii_name: "Robat Karim"
         name: "Robāţ Karīm"
+        names_en: ~
+        names_es: ~
         population: 62753
-        slug: robat-karim
       - 
-        districts: []
-        location: "POINT (34.6400999999999968 50.8763999999999967)"
-        name: Qom
-        population: 900000
-        slug: qom
-      - 
-        districts: []
-        location: "POINT (35.3079999999999998 51.7267000000000010)"
+        alternate_names: 
+          - "Emamzadeh Ja`far"
+          - "Emāmzādeh Ja‘far"
+          - Pichva
+        ascii_name: Pishva
         name: Pīshvā
+        names_en: ~
+        names_es: ~
         population: 53856
-        slug: pishva
       - 
-        districts: []
-        location: "POINT (35.9521000000000015 50.6075000000000017)"
-        name: Naz̧arābād
-        population: 213388
-        slug: nazarabad
-      - 
-        districts: []
-        location: "POINT (35.6659000000000006 50.9767000000000010)"
+        alternate_names: 
+          - Malar
+          - Malard
+          - Malār
+        ascii_name: Malard
         name: Malārd
+        names_en: ~
+        names_es: ~
         population: 56745
-        slug: malard
       - 
-        districts: []
-        location: "POINT (35.8287600000000026 50.9981999999999971)"
-        name: Karaj
-        population: 1448075
-        slug: karaj
-      - 
-        districts: []
-        location: "POINT (35.7177799999999976 52.0649999999999977)"
+        alternate_names: 
+          - Damavand
+          - Damāvand
+          - Demavend
+        ascii_name: Damavand
         name: Damāvand
+        names_en: ~
+        names_es: ~
         population: 29144
-        slug: damavand
       - 
-        districts: []
-        location: "POINT (35.6595999999999975 51.0593000000000004)"
+        alternate_names: 
+          - "Ali Shah `Iwaz"
+          - "Ali Shāh ‘Iwaz"
+          - Shahreyar
+        ascii_name: Shahriar
         name: Shahrīār
+        names_en: ~
+        names_es: ~
         population: 58849
-        slug: shahriar
       - 
-        districts: []
-        location: "POINT (35.3021999999999991 51.5358000000000018)"
+        alternate_names: 
+          - Eqbalieh
+          - Eqbaliyeh
+          - Eqbālīeh
+        ascii_name: Eqbaliyeh
         name: Eqbālīyeh
+        names_en: ~
+        names_es: ~
         population: 36709
-        slug: eqbaliyeh
-    code: IR.26
     name: Tehrān
-    slug: tehran
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Zanjan
     cities: 
       - 
-        districts: []
-        location: "POINT (32.9409800000000033 50.1210000000000022)"
-        name: Fereydūnshahr
-        population: 11562
-        slug: fereydunshahr
-      - 
-        districts: []
-        location: "POINT (31.4166699999999999 51.5666700000000020)"
-        name: Semīrom
-        population: 27220
-        slug: semirom
-      - 
-        districts: []
-        location: "POINT (33.2205200000000005 50.3149700000000024)"
-        name: Khvānsār
-        population: 21146
-        slug: khvansar
-      - 
-        districts: []
-        location: "POINT (33.9830800000000011 51.4364399999999975)"
-        name: Kāshān
-        population: 272359
-        slug: kashan
-      - 
-        districts: []
-        location: "POINT (33.4536999999999978 50.2883599999999973)"
-        name: Golpāyegān
-        population: 44916
-        slug: golpayegan
-      - 
-        districts: []
-        location: "POINT (33.3761000000000010 52.3693999999999988)"
-        name: Ardestān
-        population: 16058
-        slug: ardestan
-      - 
-        districts: []
-        location: "POINT (32.0338899999999995 51.8794400000000024)"
-        name: Shāhreẕā
-        population: 100790
-        slug: shahreza
-      - 
-        districts: []
-        location: "POINT (32.6850000000000023 51.6043999999999983)"
-        name: Rehnān
-        population: 49143
-        slug: rehnan
-      - 
-        districts: []
-        location: "POINT (32.5767000000000024 51.4549999999999983)"
-        name: Qahderījān
-        population: 29392
-        slug: qahderijan
-      - 
-        districts: []
-        location: "POINT (32.6343999999999994 51.3667999999999978)"
-        name: Najafābād
-        population: 223450
-        slug: najafabad
-      - 
-        districts: []
-        location: "POINT (32.7001800000000031 51.5211299999999994)"
-        name: "Khomeynī Shahr"
-        population: 277334
-        slug: khomeyni-shahr
-      - 
-        districts: []
-        location: "POINT (32.5523099999999985 51.5289000000000001)"
-        name: Kelīshād
-        population: 33630
-        slug: kelishad
-      - 
-        districts: []
-        location: "POINT (32.5563999999999965 51.5099999999999980)"
-        name: Mollāvarjān
-        population: 49843
-        slug: mollavarjan
-      - 
-        districts: []
-        location: "POINT (32.6572200000000024 51.6776100000000014)"
-        name: Eşfehān
-        population: 1547164
-        slug: esfehan
-      - 
-        districts: []
-        location: "POINT (32.7997799999999984 51.6955299999999980)"
-        name: Dowlatābād
-        population: 33607
-        slug: dowlatabad
-      - 
-        districts: []
-        location: "POINT (32.6152799999999985 51.5555599999999998)"
-        name: "Dorcheh Pīāz"
-        population: 37462
-        slug: dorcheh-piaz
-    code: IR.28
-    name: Eşfahān
-    slug: esfahan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (29.4520000000000017 55.6813999999999965)"
-        name: Sīrjān
-        population: 207645
-        slug: sirjan
-      - 
-        districts: []
-        location: "POINT (30.8108299999999993 56.5672199999999989)"
-        name: Zarand
-        population: 58983
-        slug: zarand
-      - 
-        districts: []
-        location: "POINT (30.1164999999999985 55.1186000000000007)"
-        name: "Shahr-e Bābak"
-        population: 52409
-        slug: shahr-e-babak
-      - 
-        districts: []
-        location: "POINT (31.2722200000000008 56.8147200000000012)"
-        name: Rāvar
-        population: 40167
-        slug: ravar
-      - 
-        districts: []
-        location: "POINT (30.4067000000000007 55.9938999999999965)"
-        name: Rafsanjān
-        population: 147680
-        slug: rafsanjan
-      - 
-        districts: []
-        location: "POINT (29.9274999999999984 56.5722000000000023)"
-        name: Bardsīr
-        population: 37192
-        slug: bardsir
-      - 
-        districts: []
-        location: "POINT (30.2936799999999984 57.0812299999999979)"
-        name: Kermān
-        population: 577514
-        slug: kerman
-      - 
-        districts: []
-        location: "POINT (29.1060000000000016 58.3569999999999993)"
-        name: Bam
-        population: 99268
-        slug: bam
-      - 
-        districts: []
-        location: "POINT (29.2761999999999993 56.8014000000000010)"
-        name: "Kūh Sefīd"
-        population: 2850
-        slug: kuh-sefid
-    code: IR.29
-    name: Kermān
-    slug: kerman
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.6482000000000028 47.9174000000000007)"
-        name: Pārsābād
-        population: 101661
-        slug: parsabad
-      - 
-        districts: []
-        location: "POINT (37.6188999999999965 48.5257999999999967)"
-        name: Herowābād
-        population: 51024
-        slug: herowabad
-      - 
-        districts: []
-        location: "POINT (38.2498000000000005 48.2933000000000021)"
-        name: Ardabīl
-        population: 410753
-        slug: ardabil
-    code: IR.32
-    name: Ardabīl
-    slug: ardabil
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (38.0799999999999983 46.2918999999999983)"
-        name: Tabrīz
-        population: 1424641
-        slug: tabriz
-      - 
-        districts: []
-        location: "POINT (36.6691700000000012 46.5672199999999989)"
-        name: "Shāhīn Dezh"
-        population: 41442
-        slug: shahin-dezh
-      - 
-        districts: []
-        location: "POINT (38.4328999999999965 45.7749000000000024)"
-        name: Marand
-        population: 124191
-        slug: marand
-      - 
-        districts: []
-        location: "POINT (37.3404000000000025 46.0561000000000007)"
-        name: Bonāb
-        population: 80359
-        slug: bonab
-      - 
-        districts: []
-        location: "POINT (37.4778999999999982 47.0508000000000024)"
-        name: Hashtrūd
-        population: 16888
-        slug: hashtrud
-      - 
-        districts: []
-        location: "POINT (37.4776000000000025 45.8943000000000012)"
-        name: "‘Ajab Shīr"
-        population: 29675
-        slug: ajab-shir
-      - 
-        districts: []
-        location: "POINT (38.4774000000000029 47.0698999999999970)"
-        name: Ahar
-        population: 94348
-        slug: ahar
-    code: IR.33
-    name: "East Azarbaijan"
-    slug: east-azarbaijan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.6920000000000002 50.0129999999999981)"
-        name: Tafresh
-        population: 14399
-        slug: tafresh
-      - 
-        districts: []
-        location: "POINT (35.0212999999999965 50.3566000000000003)"
-        name: Sāveh
-        population: 175533
-        slug: saveh
-      - 
-        districts: []
-        location: "POINT (33.6422600000000003 50.0788999999999973)"
-        name: Khomeyn
-        population: 77425
-        slug: khomeyn
-      - 
-        districts: []
-        location: "POINT (33.9904999999999973 50.6837999999999980)"
-        name: Delījān
-        population: 33508
-        slug: delijan
-      - 
-        districts: []
-        location: "POINT (34.0917400000000015 49.6891600000000011)"
-        name: Arāk
-        population: 503647
-        slug: arak
-      - 
-        districts: []
-        location: "POINT (36.0666700000000020 50.5499999999999972)"
-        name: Ābyek
-        population: 55128
-        slug: abyek
-    code: IR.34
-    name: Markazi
-    slug: markazi
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.8086100000000016 50.8819400000000002)"
-        name: Tonekābon
-        population: 37501
-        slug: tonekabon
-      - 
-        districts: []
-        location: "POINT (36.5629700000000000 53.0565199999999990)"
-        name: Sārī
-        population: 255396
-        slug: sari
-      - 
-        districts: []
-        location: "POINT (36.6514299999999977 53.2959299999999985)"
-        name: Nekā’
-        population: 48847
-        slug: neka
-      - 
-        districts: []
-        location: "POINT (36.6380600000000030 52.9119400000000013)"
-        name: Jūybār
-        population: 28404
-        slug: juybar
-      - 
-        districts: []
-        location: "POINT (36.6888900000000007 52.5358299999999971)"
-        name: "Fereydūn Kenār"
-        population: 34097
-        slug: fereydun-kenar
-      - 
-        districts: []
-        location: "POINT (36.6550000000000011 51.4204000000000008)"
-        name: Chālūs
-        population: 69638
-        slug: chalus
-      - 
-        districts: []
-        location: "POINT (36.6927599999999998 53.5459800000000001)"
-        name: Behshahr
-        population: 93500
-        slug: behshahr
-      - 
-        districts: []
-        location: "POINT (36.7008300000000034 52.6455600000000032)"
-        name: "Bābol Sar"
-        population: 48051
-        slug: babol-sar
-      - 
-        districts: []
-        location: "POINT (36.5441700000000012 52.6788900000000027)"
-        name: Bābol
-        population: 202796
-        slug: babol
-      - 
-        districts: []
-        location: "POINT (36.4708299999999994 52.3633299999999977)"
-        name: Āmol
-        population: 199382
-        slug: amol
-    code: IR.35
-    name: Māzandarān
-    slug: mazandaran
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.2130000000000010 49.1959999999999980)"
+        alternate_names: 
+          - "Khorram Darreh"
+          - "khrm drh"
+          - "خرم درّه"
+        ascii_name: "Khorram Darreh"
         name: "Khorram Darreh"
+        names_en: ~
+        names_es: ~
         population: 50528
-        slug: khorram-darreh
       - 
-        districts: []
-        location: "POINT (36.6736000000000004 48.4787000000000035)"
+        alternate_names: 
+          - Zanjan
+          - Zanjān
+          - Zendzhan
+        ascii_name: Zanjan
         name: Zanjān
+        names_en: ~
+        names_es: ~
         population: 357471
-        slug: zanjan
       - 
-        districts: []
-        location: "POINT (36.3186999999999998 49.1677999999999997)"
+        alternate_names: 
+          - Alband
+          - Alvand
+          - Alwand
+        ascii_name: Alvand
         name: Alvand
+        names_en: ~
+        names_es: ~
         population: 74889
-        slug: alvand
       - 
-        districts: []
-        location: "POINT (36.1467999999999989 49.2180000000000035)"
+        alternate_names: 
+          - Abhar
+          - Abkhar
+          - aabkhar
+        ascii_name: Abhar
         name: Abhar
+        names_en: ~
+        names_es: ~
         population: 69889
-        slug: abhar
-    code: IR.36
     name: Zanjan
-    slug: zanjan
+    names_en: 
+      - "Zanjan Province"
+      - Zanjan
+    names_es: 
+      - "Provincia de Zanjan"
   - 
+    ascii_name: "Ostan-e Yazd"
     cities: 
       - 
-        districts: []
-        location: "POINT (37.0870099999999994 55.1739699999999971)"
-        name: "Shāh Pasand"
-        population: 47590
-        slug: shah-pasand
-      - 
-        districts: []
-        location: "POINT (37.3807100000000005 55.4916399999999967)"
-        name: Kalāleh
-        population: 33700
-        slug: kalaleh
-      - 
-        districts: []
-        location: "POINT (36.8386599999999973 54.4347500000000011)"
-        name: Gorgān
-        population: 244937
-        slug: gorgan
-      - 
-        districts: []
-        location: "POINT (37.2500399999999985 55.1672099999999972)"
-        name: "Gonbad-e Qābūs"
-        population: 131416
-        slug: gonbad-e-qabus
-    code: IR.37
-    name: Golestān
-    slug: golestan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.2796999999999983 50.0048999999999992)"
-        name: Qazvīn
-        population: 333635
-        slug: qazvin
-      - 
-        districts: []
-        location: "POINT (36.0696000000000012 49.6959000000000017)"
-        name: Tākestān
-        population: 71499
-        slug: takestan
-    code: IR.38
-    name: Qazvīn
-    slug: qazvin
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.8972200000000008 54.3674999999999997)"
+        alternate_names: 
+          - Jazd
+          - Jazdo
+          - Jezd
+        ascii_name: Yazd
         name: Yazd
+        names_en: 
+          - Yazd
+        names_es: 
+          - Yazd
         population: 477905
-        slug: yazd
       - 
-        districts: []
-        location: "POINT (31.7474999999999987 54.2041699999999977)"
+        alternate_names: 
+          - Taft
+          - taft
+          - Тафт
+        ascii_name: Taft
         name: Taft
+        names_en: ~
+        names_es: ~
         population: 19394
-        slug: taft
       - 
-        districts: []
-        location: "POINT (33.5883299999999991 56.9224999999999994)"
+        alternate_names: 
+          - Golshan
+          - Gulshan
+          - Tabas
+        ascii_name: Tabas
         name: Ţabas
+        names_en: ~
+        names_es: ~
         population: 49993
-        slug: tabas
       - 
-        districts: []
-        location: "POINT (32.2482800000000012 53.9503899999999987)"
+        alternate_names: 
+          - Maibud
+          - Meybod
+          - mibud
+        ascii_name: Meybod
         name: Meybod
+        names_en: ~
+        names_es: ~
         population: 51874
-        slug: meybod
       - 
-        districts: []
-        location: "POINT (31.5838900000000002 54.4280600000000021)"
+        alternate_names: 
+          - Mehriz
+          - Mehrīz
+          - mihryz
+        ascii_name: Mehriz
         name: Mehrīz
+        names_en: ~
+        names_es: ~
         population: 36720
-        slug: mehriz
       - 
-        districts: []
-        location: "POINT (31.6128299999999989 55.4106700000000032)"
+        alternate_names: 
+          - Bafk
+          - Bafq
+          - Bāfq
+        ascii_name: Bafq
         name: Bāfq
+        names_en: ~
+        names_es: ~
         population: 31215
-        slug: bafq
       - 
-        districts: []
-        location: "POINT (32.3100099999999983 54.0174700000000030)"
+        alternate_names: 
+          - Ardakan
+          - Ardakān
+          - Ardekan
+        ascii_name: Ardakan
         name: Ardakān
+        names_en: ~
+        names_es: ~
         population: 58834
-        slug: ardakan
       - 
-        districts: []
-        location: "POINT (32.3061099999999968 53.6744399999999970)"
+        alternate_names: 
+          - "Khas Kuh"
+          - "Khas Kuhi"
+          - "Khas Kūhī"
+        ascii_name: "Khavas Kuh"
         name: "Khavāş Kūh"
+        names_en: ~
+        names_es: ~
         population: 1971
-        slug: khavas-kuh
-    code: IR.40
     name: Yazd
-    slug: yazd
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Semnan
     cities: 
       - 
-        districts: []
-        location: "POINT (35.2439999999999998 60.6225000000000023)"
-        name: "Torbat-e Jām"
-        population: 58928
-        slug: torbat-e-jam
+        alternate_names: 
+          - "Istgah-e Garmsar"
+          - "Istgah-e Rah Ahan Garmsar"
+          - "Istgah-e Rah Ahan-e Garmsar"
+        ascii_name: "Istgah-e Garmsar"
+        name: "Īstgāh-e Garmsār"
+        names_en: ~
+        names_es: ~
+        population: 49491
       - 
-        districts: []
-        location: "POINT (35.2740099999999970 59.2194900000000004)"
-        name: "Torbat-e Ḩeydarīyeh"
-        population: 125633
-        slug: torbat-e-heydariyeh
+        alternate_names: 
+          - Samnan
+          - Samnān
+          - Semnan
+        ascii_name: Semnan
+        name: Semnān
+        names_en: ~
+        names_es: ~
+        population: 124826
       - 
-        districts: []
-        location: "POINT (36.2126000000000019 57.6819100000000020)"
-        name: Sabzevār
-        population: 226183
-        slug: sabzevar
+        alternate_names: 
+          - Emamshahr
+          - Emāmshahr
+          - Shahrud
+        ascii_name: Shahrud
+        name: Shāhrūd
+        names_en: 
+          - Emamshahr
+        names_es: ~
+        population: 131889
       - 
-        districts: []
-        location: "POINT (37.1060000000000016 58.5095499999999973)"
-        name: Qūchān
-        population: 111752
-        slug: quchan
+        alternate_names: 
+          - Damghan
+          - Dāmghān
+          - damghan
+        ascii_name: Damghan
+        name: Dāmghān
+        names_en: ~
+        names_es: ~
+        population: 67694
+    name: Semnān
+    names_en: 
+      - "Semnān Province"
+      - Semnān
+    names_es: 
+      - "Provincia de Semnan"
+  - 
+    ascii_name: Mazandaran
+    cities: 
       - 
-        districts: []
-        location: "POINT (33.7265400000000000 59.1843900000000005)"
-        name: Qāyen
-        population: 40157
-        slug: qayen
+        alternate_names: 
+          - Shahsavar
+          - Shahsavār
+          - Shahsawar
+        ascii_name: Tonekabon
+        name: Tonekābon
+        names_en: ~
+        names_es: ~
+        population: 37501
       - 
-        districts: []
-        location: "POINT (36.2132900000000006 58.7957600000000014)"
-        name: Neyshābūr
-        population: 220929
-        slug: neyshabur
+        alternate_names: 
+          - Sari
+          - "Sari i Iran"
+          - Sariyo
+        ascii_name: Shari-i-Tajan
+        name: Shari-i-Tajan
+        names_en: 
+          - Sari
+        names_es: 
+          - Sári
+        population: 255396
       - 
-        districts: []
-        location: "POINT (36.2969999999999970 59.6062000000000012)"
-        name: Mashhad
-        population: 2307177
-        slug: mashhad
+        alternate_names: 
+          - "Naranj Bagh"
+          - Neka
+          - Neka'
+        ascii_name: Neka'
+        name: Nekā’
+        names_en: ~
+        names_es: ~
+        population: 48847
       - 
-        districts: []
-        location: "POINT (35.2383099999999985 58.4655800000000028)"
-        name: Kāshmar
-        population: 96151
-        slug: kashmar
+        alternate_names: 
+          - Baghlu
+          - Bāghlū
+          - Juybar
+        ascii_name: Juybar
+        name: Jūybār
+        names_en: ~
+        names_es: ~
+        population: 28404
       - 
-        districts: []
-        location: "POINT (34.3528599999999997 58.6836500000000001)"
-        name: Gonābād
-        population: 43465
-        slug: gonabad
+        alternate_names: 
+          - "Faridun Kinar"
+          - "Fereidun Kenar"
+          - "Fereydun Kenar"
+        ascii_name: "Fereydun Kenar"
+        name: "Fereydūn Kenār"
+        names_en: ~
+        names_es: ~
+        population: 34097
       - 
-        districts: []
-        location: "POINT (36.6454599999999999 59.1212299999999971)"
-        name: Chenārān
-        population: 46940
-        slug: chenaran
+        alternate_names: 
+          - Chalus
+          - Chālūs
+          - chalws
+        ascii_name: Chalus
+        name: Chālūs
+        names_en: ~
+        names_es: ~
+        population: 69638
       - 
-        districts: []
-        location: "POINT (32.8662800000000033 59.2211399999999983)"
+        alternate_names: 
+          - Ashraf
+          - Behshahr
+          - Bekhshekhr
+        ascii_name: Behshahr
+        name: Behshahr
+        names_en: 
+          - Behshahr
+        names_es: ~
+        population: 93500
+      - 
+        alternate_names: 
+          - Babolsar
+          - "Babul Sar"
+          - Bābolsar
+        ascii_name: Babolsar
+        name: Bābolsar
+        names_en: ~
+        names_es: ~
+        population: 48051
+      - 
+        alternate_names: 
+          - Babol
+          - Babol'
+          - Babul
+        ascii_name: Babol
+        name: Bābol
+        names_en: 
+          - Babol
+        names_es: ~
+        population: 202796
+      - 
+        alternate_names: 
+          - Amol
+          - Amol'
+          - Amul
+        ascii_name: Amol
+        name: Āmol
+        names_en: ~
+        names_es: ~
+        population: 199382
+    name: Māzandarān
+    names_en: 
+      - "Māzandarān Province"
+      - Māzandarān
+    names_es: 
+      - Mazandarán
+  - 
+    ascii_name: Markazi
+    cities: 
+      - 
+        alternate_names: 
+          - Tafresh
+          - Тафреш
+          - تفرش
+        ascii_name: Tafresh
+        name: Tafresh
+        names_en: ~
+        names_es: ~
+        population: 14399
+      - 
+        alternate_names: 
+          - Sava
+          - Saveh
+          - Sāveh
+        ascii_name: Saveh
+        name: Sāveh
+        names_en: ~
+        names_es: ~
+        population: 175533
+      - 
+        alternate_names: 
+          - Khomein
+          - Khomeyn
+          - Khomeīn
+        ascii_name: Khomeyn
+        name: Khomeyn
+        names_en: ~
+        names_es: ~
+        population: 77425
+      - 
+        alternate_names: 
+          - Dalijan
+          - Dalijān
+          - Delijan
+        ascii_name: Delijan
+        name: Delījān
+        names_en: ~
+        names_es: ~
+        population: 33508
+      - 
+        alternate_names: 
+          - Arak
+          - "Arak - sawh"
+          - "Arak - ساوه"
+        ascii_name: Arak
+        name: Arāk
+        names_en: 
+          - Arak
+        names_es: 
+          - Arak
+        population: 503647
+      - 
+        alternate_names: 
+          - Abiak
+          - abyik
+          - آبيِك
+        ascii_name: Abyek
+        name: Ābyek
+        names_en: ~
+        names_es: ~
+        population: 55128
+    name: Markazi
+    names_en: 
+      - "Markazi Province"
+      - Markazi
+    names_es: 
+      - Markazi
+  - 
+    ascii_name: "Ostan-e Lorestan"
+    cities: 
+      - 
+        alternate_names: 
+          - Nurabad
+          - Nūrābād
+          - "nwr abad"
+        ascii_name: Nurabad
+        name: Nūrābād
+        names_en: ~
+        names_es: ~
+        population: 73528
+      - 
+        alternate_names: 
+          - Kuh-i-Dasht
+          - Kuhdasht
+          - Kūh-ī-Dasht
+        ascii_name: Kuhdasht
+        name: Kūhdasht
+        names_en: ~
+        names_es: ~
+        population: 100208
+      - 
+        alternate_names: 
+          - Khorramabad
+          - Khorramābād
+          - "Khur Ramabad"
+        ascii_name: Khorramabad
+        name: Khorramābād
+        names_en: 
+          - Khorramabad
+        names_es: ~
+        population: 329825
+      - 
+        alternate_names: 
+          - Borudzherd
+          - Borujerd
+          - Borūjerd
+        ascii_name: Borujerd
+        name: Borūjerd
+        names_en: ~
+        names_es: ~
+        population: 251958
+      - 
+        alternate_names: 
+          - Azna
+          - Aznā
+          - azna
+        ascii_name: Azna
+        name: Aznā
+        names_en: ~
+        names_es: ~
+        population: 47482
+      - 
+        alternate_names: 
+          - Aligoodarz
+          - Aligudarz
+          - Alīgūdarz
+        ascii_name: Aligudarz
+        name: Alīgūdarz
+        names_en: 
+          - Aligoodarz
+        names_es: ~
+        population: 91041
+      - 
+        alternate_names: 
+          - Alashtar
+          - Aleshtar
+          - Alishtar
+        ascii_name: Aleshtar
+        name: Aleshtar
+        names_en: ~
+        names_es: ~
+        population: 27701
+    name: Lorestān
+    names_en: ~
+    names_es: 
+      - Lorestán
+  - 
+    ascii_name: "Ostan-e Kordestan"
+    cities: 
+      - 
+        alternate_names: 
+          - Saghez
+          - Sakezo
+          - Sakiz
+        ascii_name: Saqqez
+        name: Saqqez
+        names_en: 
+          - Saqqez
+        names_es: ~
+        population: 151237
+      - 
+        alternate_names: 
+          - Sanandadsch
+          - Sanandadz
+          - Sanandadż
+        ascii_name: Sanandaj
+        name: Sanandaj
+        names_en: 
+          - Sanandaj
+        names_es: 
+          - Sanandaj
+        population: 349176
+      - 
+        alternate_names: 
+          - Qorveh
+          - Qurve
+          - Qurveh
+        ascii_name: Qorveh
+        name: Qorveh
+        names_en: ~
+        names_es: ~
+        population: 87953
+      - 
+        alternate_names: 
+          - Kamyaran
+          - Kāmyārān
+          - کامیاران
+        ascii_name: Kamyaran
+        name: Kāmyārān
+        names_en: ~
+        names_es: ~
+        population: 61642
+      - 
+        alternate_names: 
+          - Bidzhar
+          - Bijar
+          - Bījār
+        ascii_name: Bijar
+        name: Bījār
+        names_en: ~
+        names_es: ~
+        population: 53871
+      - 
+        alternate_names: 
+          - Bane
+          - Baneh
+          - Bani
+        ascii_name: Baneh
+        name: Bāneh
+        names_en: ~
+        names_es: ~
+        population: 104799
+    name: Kordestān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Kohgiluyeh va Bowyer Ahmad"
+    cities: 
+      - 
+        alternate_names: 
+          - Yasooj
+          - Yasuj
+          - Yesuj
+        ascii_name: Yasuj
+        name: Yāsūj
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Do Gonbadan"
+          - "Do Gonbadān"
+          - "Dow Gonbadan"
+        ascii_name: "Do Gonbadan"
+        name: "Do Gonbadān"
+        names_en: ~
+        names_es: ~
+        population: 94638
+      - 
+        alternate_names: 
+          - Dehdasht
+          - Dehdast
+          - Kuhgiluyeh
+        ascii_name: Dehdasht
+        name: Dehdasht
+        names_en: ~
+        names_es: ~
+        population: 69726
+    name: "Kohgīlūyeh va Būyer Aḩmad"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Khuzestan"
+    cities: 
+      - 
+        alternate_names: 
+          - Shooshtar
+          - Shushtar
+          - Shushtehr
+        ascii_name: Shushtar
+        name: Shūshtar
+        names_en: ~
+        names_es: ~
+        population: 77507
+      - 
+        alternate_names: 
+          - Shoosh
+          - Shush
+          - Shūsh
+        ascii_name: Shush
+        name: Shūsh
+        names_en: 
+          - Susa
+        names_es: 
+          - Susa
+        population: 52284
+      - 
+        alternate_names: 
+          - Fallabiyeh
+          - Fallahiyeh
+          - Fallehiyeh
+        ascii_name: Shadegan
+        name: Shādegān
+        names_en: ~
+        names_es: ~
+        population: 37220
+      - 
+        alternate_names: 
+          - Khalafabad
+          - Khalafābād
+          - "Khalas Abad"
+        ascii_name: Ramshir
+        name: Rāmshīr
+        names_en: ~
+        names_es: ~
+        population: 19454
+      - 
+        alternate_names: 
+          - "Ram Hormuz"
+          - Ramhormoz
+          - Ramuz
+        ascii_name: Ramhormoz
+        name: Rāmhormoz
+        names_en: ~
+        names_es: ~
+        population: 38821
+      - 
+        alternate_names: 
+          - Omidiyeh
+          - "Omidiyeh Sherkat-e Naft"
+          - Omīdīyeh
+        ascii_name: Omidiyeh
+        name: Omīdīyeh
+        names_en: ~
+        names_es: ~
+        population: 46983
+      - 
+        alternate_names: 
+          - "Masjed Soleiman"
+          - "Masjed Soleyman"
+          - "Masjed Soleymān"
+        ascii_name: "Masjed Soleyman"
+        name: "Masjed Soleymān"
+        names_en: ~
+        names_es: ~
+        population: 111510
+      - 
+        alternate_names: 
+          - Al-Muhammarah
+          - Chorramschahr
+          - "Khorram Shahr Abadan"
+        ascii_name: Khorramshahr
+        name: Khorramshahr
+        names_en: 
+          - Khorramshahr
+        names_es: ~
+        population: 330606
+      - 
+        alternate_names: 
+          - "Dasht-e Azadegan"
+          - "Dasht-e Āzādegān"
+          - Dasht-i-Mishan
+        ascii_name: Susangerd
+        name: Sūsangerd
+        names_en: ~
+        names_es: ~
+        population: 41443
+      - 
+        alternate_names: 
+          - Behbahan
+          - Behbahān
+          - Behbehan
+        ascii_name: Behbahan
+        name: Behbahān
+        names_en: ~
+        names_es: ~
+        population: 79327
+      - 
+        alternate_names: 
+          - "Bandar Chahpour"
+          - "Bandar Khomani"
+          - "Bandar Khomeini"
+        ascii_name: "Bandar-e-Emam Khomeyni"
+        name: "Bandar-e-Emām Khomeynī"
+        names_en: ~
+        names_es: ~
+        population: 48061
+      - 
+        alternate_names: 
+          - Ahvaz
+          - "Ahvaz - ahwaz"
+          - "Ahvaz - اهواز"
+        ascii_name: Ahvaz
+        name: Ahvāz
+        names_en: 
+          - Ahvaz
+        names_es: ~
+        population: 841145
+      - 
+        alternate_names: 
+          - "Agha Jari"
+          - Aghajari
+          - "Aqa Jari"
+        ascii_name: Aghajari
+        name: Āghājārī
+        names_en: ~
+        names_es: ~
+        population: 21785
+      - 
+        alternate_names: 
+          - Abadan
+          - "Abadan - abadan"
+          - Abadano
+        ascii_name: Abadan
+        name: Ābādān
+        names_en: 
+          - Abadan
+        names_es: 
+          - Abadán
+        population: 370180
+    name: Khūzestān
+    names_en: ~
+    names_es: 
+      - Khuzestán
+  - 
+    ascii_name: "Ostan-e Kermanshah"
+    cities: 
+      - 
+        alternate_names: 
+          - Kahriz
+          - Kahrīz
+          - کهریز
+        ascii_name: Kahriz
+        name: Kahrīz
+        names_en: ~
+        names_es: ~
+        population: 766706
+      - 
+        alternate_names: 
+          - Sanghur
+          - Sanghūr
+          - Sonqor
+        ascii_name: Sonqor
+        name: Sonqor
+        names_en: ~
+        names_es: ~
+        population: 43174
+      - 
+        alternate_names: 
+          - "Pol-e Zahab"
+          - "Pol-e Zohab"
+          - "Pol-e Z̄ahāb"
+        ascii_name: "Sarpol-e Zahab"
+        name: "Sarpol-e Z̄ahāb"
+        names_en: ~
+        names_es: ~
+        population: 51611
+      - 
+        alternate_names: 
+          - Paveh
+          - Pawah
+          - Paweh
+        ascii_name: Paveh
+        name: Pāveh
+        names_en: ~
+        names_es: ~
+        population: 17779
+      - 
+        alternate_names: 
+          - Bahtaran
+          - Bakhtaran
+          - Bākhtarān
+        ascii_name: Kermanshah
+        name: Kermānshāh
+        names_en: 
+          - Kermanshah
+        names_es: 
+          - Kermanshah
+        population: 621100
+      - 
+        alternate_names: 
+          - Kangavar
+          - Kangāvar
+          - کنگاور
+        ascii_name: Kangavar
+        name: Kangāvar
+        names_en: ~
+        names_es: ~
+        population: 53414
+      - 
+        alternate_names: 
+          - Juanru
+          - Jūānrū
+          - "Qal`a Juanrud"
+        ascii_name: Javanrud
+        name: Javānrūd
+        names_en: ~
+        names_es: ~
+        population: 38657
+      - 
+        alternate_names: 
+          - Harsin
+          - Harsīn
+          - هرسین
+        ascii_name: Harsin
+        name: Harsīn
+        names_en: ~
+        names_es: ~
+        population: 57647
+    name: Kermānshāh
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Kerman"
+    cities: 
+      - 
+        alternate_names: 
+          - Zarand
+          - زرند
+        ascii_name: Zarand
+        name: Zarand
+        names_en: ~
+        names_es: ~
+        population: 58983
+      - 
+        alternate_names: 
+          - Sa`idabad
+          - Sa‘īdābād
+          - Sirdschan
+        ascii_name: Sirjan
+        name: Sīrjān
+        names_en: 
+          - Sirjan
+        names_es: ~
+        population: 207645
+      - 
+        alternate_names: 
+          - "Shahr Babak"
+          - "Shahr Bābak"
+          - "Shahr-e Babak"
+        ascii_name: "Shahr-e Babak"
+        name: "Shahr-e Bābak"
+        names_en: ~
+        names_es: ~
+        population: 52409
+      - 
+        alternate_names: 
+          - Ravar
+          - Rāvar
+          - rawr
+        ascii_name: Ravar
+        name: Rāvar
+        names_en: ~
+        names_es: ~
+        population: 40167
+      - 
+        alternate_names: 
+          - Bahramabad
+          - Bahrāmābād
+          - Rafsandzhane
+        ascii_name: Rafsanjan
+        name: Rafsanjān
+        names_en: ~
+        names_es: ~
+        population: 147680
+      - 
+        alternate_names: 
+          - Bardesir
+          - Bardesīr
+          - Bardsir
+        ascii_name: Bardsir
+        name: Bardsīr
+        names_en: ~
+        names_es: ~
+        population: 37192
+      - 
+        alternate_names: 
+          - Carmana
+          - Kerman
+          - Kermán
+        ascii_name: Kerman
+        name: Kermān
+        names_en: 
+          - Kerman
+        names_es: 
+          - Kermán
+        population: 577514
+      - 
+        alternate_names: 
+          - Bam
+          - bamu
+          - bm
+        ascii_name: Bam
+        name: Bam
+        names_en: 
+          - Bam
+        names_es: ~
+        population: 99268
+      - 
+        alternate_names: 
+          - "Kuh Sefid"
+          - "Kuh-e Sefid"
+          - "Kūh Sefīd"
+        ascii_name: "Kuh Sefid"
+        name: "Kūh Sefīd"
+        names_en: ~
+        names_es: ~
+        population: 2850
+    name: Kermān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Ilam"
+    cities: 
+      - 
+        alternate_names: 
+          - Mansurabad
+          - Mansūrābād
+          - Mehran
+        ascii_name: Mehran
+        name: Mehrān
+        names_en: ~
+        names_es: ~
+        population: 11831
+      - 
+        alternate_names: 
+          - Elam
+          - Elām
+          - Ilam
+        ascii_name: Ilam
+        name: Īlām
+        names_en: ~
+        names_es: ~
+        population: 140940
+      - 
+        alternate_names: 
+          - "Deh Lovan"
+          - "Deh Lovān"
+          - "Deh Luran"
+        ascii_name: Dehloran
+        name: Dehlorān
+        names_en: ~
+        names_es: ~
+        population: 46002
+      - 
+        alternate_names: 
+          - Abdanan
+          - "Qal`a Ab-i-Danan"
+          - "Qal`eh Ab-i-Danan"
+        ascii_name: Abdanan
+        name: Ābdānān
+        names_en: ~
+        names_es: ~
+        population: 19360
+    name: Īlām
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Hormozgan
+    cities: 
+      - 
+        alternate_names: 
+          - "Bandar-e Qeshm"
+          - Gheshm
+          - Keshm
+        ascii_name: Qeshm
+        name: Qeshm
+        names_en: 
+          - Qishm
+          - Gheshm
+        names_es: ~
+        population: 95000
+      - 
+        alternate_names: 
+          - Minab
+          - Mīnāb
+          - mynab
+        ascii_name: Minab
+        name: Mīnāb
+        names_en: ~
+        names_es: ~
+        population: 70790
+      - 
+        alternate_names: 
+          - Kish
+          - Kīsh
+          - kysh
+        ascii_name: Kish
+        name: Kīsh
+        names_en: ~
+        names_es: ~
+        population: 20922
+      - 
+        alternate_names: 
+          - "Bandar Langeh"
+          - "Bandar-e Lengeh"
+          - Bandar-e-Langeh
+        ascii_name: "Bandar-e Lengeh"
+        name: "Bandar-e Lengeh"
+        names_en: ~
+        names_es: ~
+        population: 22768
+      - 
+        alternate_names: 
+          - "Bandar Abbas"
+          - "Bandar Abbas - بندر عباس"
+          - "Bandar `Abbas"
+        ascii_name: "Bandar 'Abbas"
+        name: "Bandar ‘Abbās"
+        names_en: 
+          - "Bandar Abbas"
+        names_es: ~
+        population: 352173
+    name: Hormozgān
+    names_en: 
+      - "Hormozgān Province"
+      - Hormozgān
+    names_es: 
+      - Hormozgan
+  - 
+    ascii_name: "Ostan-e Hamadan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Azad Shahr"
+          - Azadshahr
+          - Āzādshahr
+        ascii_name: Azadshahr
+        name: Āzādshahr
+        names_en: ~
+        names_es: ~
+        population: 514102
+      - 
+        alternate_names: 
+          - Antiocheia
+          - Nagavande
+          - Nahavand
+        ascii_name: Nahavand
+        name: Nahāvand
+        names_en: 
+          - Nahavand
+        names_es: ~
+        population: 76250
+      - 
+        alternate_names: 
+          - Daulatabad
+          - Daūlatābād
+          - Dowlatabad
+        ascii_name: Malayer
+        name: Malāyer
+        names_en: ~
+        names_es: ~
+        population: 176573
+      - 
+        alternate_names: 
+          - Ecbatana
+          - Hamadan
+          - Hamadān
+        ascii_name: Hamadan
+        name: Hamadān
+        names_en: 
+          - Hamadan
+        names_es: ~
+        population: 528256
+      - 
+        alternate_names: 
+          - Famast
+          - Fāmāst
+          - Gamasb
+        ascii_name: pamas
+        name: pamas
+        names_en: ~
+        names_es: ~
+        population: 1081
+      - 
+        alternate_names: 
+          - Bahar
+          - Bahār
+          - Bakhar
+        ascii_name: Bahar
+        name: Bahār
+        names_en: ~
+        names_es: ~
+        population: 28645
+      - 
+        alternate_names: 
+          - Asadabad
+          - Asadabada
+          - Asadābād
+        ascii_name: Asadabad
+        name: Asadābād
+        names_en: ~
+        names_es: ~
+        population: 59617
+      - 
+        alternate_names: ~
+        ascii_name: Famast
+        name: Famast
+        names_en: ~
+        names_es: ~
+        population: 1081
+    name: Hamadān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Gilan"
+    cities: 
+      - 
+        alternate_names: 
+          - Gashpar
+          - Hashtpar
+          - "Hashtpar-e Tavalesh"
+        ascii_name: Hashtpar
+        name: Hashtpar
+        names_en: ~
+        names_es: ~
+        population: 45305
+      - 
+        alternate_names: 
+          - Rud-i-Sar
+          - Rudsar
+          - Rūd-i-Sar
+        ascii_name: Rudsar
+        name: Rūdsar
+        names_en: ~
+        names_es: ~
+        population: 47502
+      - 
+        alternate_names: 
+          - Rashjt
+          - Rasht
+          - Rast
+        ascii_name: Rasht
+        name: Rasht
+        names_en: 
+          - Rasht
+        names_es: ~
+        population: 594590
+      - 
+        alternate_names: 
+          - Langarood
+          - Langarud
+          - Langarūd
+        ascii_name: Langerud
+        name: Langerūd
+        names_en: ~
+        names_es: ~
+        population: 68148
+      - 
+        alternate_names: 
+          - "Bandar Anzali"
+          - "Bandar Pahlavi"
+          - "Bandar Pahlevi"
+        ascii_name: "Bandar-e Anzali"
+        name: "Bandar-e Anzalī"
+        names_en: 
+          - "Bandar-e Anzali"
+        names_es: ~
+        population: 110826
+      - 
+        alternate_names: 
+          - Astara
+          - Āstārā
+          - Астара
+        ascii_name: Astara
+        name: Āstārā
+        names_en: ~
+        names_es: ~
+        population: 39065
+      - 
+        alternate_names: 
+          - Astane
+          - Astaneh
+          - "Astaneh-ye Ashrafiyeh"
+        ascii_name: "Astaneh-ye Ashrafiyeh"
+        name: "Āstāneh-ye Ashrafīyeh"
+        names_en: ~
+        names_es: ~
+        population: 42784
+    name: Gīlān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Fars
+    cities: 
+      - 
+        alternate_names: 
+          - Chimaz
+          - Chiraz
+          - Schiras
+        ascii_name: Shiraz
+        name: Shīrāz
+        names_en: ~
+        names_es: ~
+        population: 1249942
+      - 
+        alternate_names: 
+          - Nurabad
+          - Nūrābād
+          - "نور آباد"
+        ascii_name: Nurabad
+        name: Nūrābād
+        names_en: ~
+        names_es: ~
+        population: 64041
+      - 
+        alternate_names: 
+          - Neyriz
+          - Neyrīz
+          - Niriz
+        ascii_name: Neyriz
+        name: Neyrīz
+        names_en: ~
+        names_es: ~
+        population: 45506
+      - 
+        alternate_names: 
+          - "Khani Yek"
+          - "Khānī Yek"
+        ascii_name: "Khani Yek"
+        name: "Khānī Yek"
+        names_en: ~
+        names_es: ~
+        population: 2493
+      - 
+        alternate_names: 
+          - Kasrun
+          - Kazarun
+          - Kazeroun
+        ascii_name: Kazerun
+        name: Kāzerūn
+        names_en: ~
+        names_es: ~
+        population: 94511
+      - 
+        alternate_names: 
+          - Gerash
+          - Gerāsh
+          - Girash
+        ascii_name: Gerash
+        name: Gerāsh
+        names_en: ~
+        names_es: ~
+        population: 25316
+      - 
+        alternate_names: 
+          - Firuzabad
+          - Fīrūzābād
+          - "فیروز آباد"
+        ascii_name: Firuzabad
+        name: Fīrūzābād
+        names_en: ~
+        names_es: ~
+        population: 66558
+      - 
+        alternate_names: 
+          - Fasa
+          - Fassa
+          - Fasā
+        ascii_name: Fasa
+        name: Fasā
+        names_en: ~
+        names_es: ~
+        population: 98061
+      - 
+        alternate_names: 
+          - Darab
+          - Dārāb
+        ascii_name: Darab
+        name: Dārāb
+        names_en: ~
+        names_es: ~
+        population: 63319
+      - 
+        alternate_names: 
+          - "Akbar Abad Kawar"
+          - Akbarabad
+          - "Akbarabad-e Kavar"
+        ascii_name: Akbarabad
+        name: Akbarābād
+        names_en: ~
+        names_es: ~
+        population: 98342
+      - 
+        alternate_names: 
+          - Abadeh
+          - Ābādeh
+          - آباده
+        ascii_name: Abadeh
+        name: Ābādeh
+        names_en: ~
+        names_es: ~
+        population: 56988
+    name: Fārs
+    names_en: 
+      - "Fārs Province"
+      - Fārs
+    names_es: 
+      - Fars
+  - 
+    ascii_name: "Ostan-e Chahar Mahal va Bakhtiari"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sahr-e Kord"
+          - "Shahr Kord"
+          - "Shahr Kurd"
+        ascii_name: "Shahr-e Kord"
+        name: "Shahr-e Kord"
+        names_en: ~
+        names_es: ~
+        population: 129153
+      - 
+        alternate_names: 
+          - "Farrokh Shahr"
+          - Qahferokh
+          - Qahofrokh
+        ascii_name: "Farrokh Shahr"
+        name: "Farrokh Shahr"
+        names_en: ~
+        names_es: ~
+        population: 32391
+      - 
+        alternate_names: 
+          - Farsa
+          - Farsan
+          - Farsian
+        ascii_name: Farsan
+        name: Fārsān
+        names_en: ~
+        names_es: ~
+        population: 25071
+      - 
+        alternate_names: 
+          - Amrujan
+          - Amrūjān
+          - Beroojen
+        ascii_name: Borujen
+        name: Borūjen
+        names_en: ~
+        names_es: ~
+        population: 52654
+    name: "Chahār Maḩāll va Bakhtīārī"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Bushehr
+    cities: 
+      - 
+        alternate_names: 
+          - "Bandar-e Ganaveh"
+          - "Bandar-e Ganāveh"
+          - "Bandar-e Genaveh"
+        ascii_name: "Bandar-e Ganaveh"
+        name: "Bandar-e Ganāveh"
+        names_en: ~
+        names_es: ~
+        population: 52750
+      - 
+        alternate_names: 
+          - "Abu Shehr"
+          - Abuschehr
+          - "Bandar Abu Shehr"
+        ascii_name: "Bandar Bushehr"
+        name: "Bandar Būshehr"
+        names_en: 
+          - Bushehr
+        names_es: ~
+        population: 165377
+      - 
+        alternate_names: 
+          - Borazdjan
+          - Borazjan
+          - Borazjun
+        ascii_name: Borazjan
+        name: Borāzjān
+        names_en: 
+          - Borazjan
+        names_es: ~
+        population: 86059
+    name: Bushehr
+    names_en: 
+      - "Bushehr Province"
+      - Bushehr
+    names_es: 
+      - "Provincia de Bushehr"
+  - 
+    ascii_name: "East Azarbaijan"
+    cities: 
+      - 
+        alternate_names: 
+          - Tabriz
+          - Tabríz
+          - Tabrīz
+        ascii_name: Tabriz
+        name: Tabrīz
+        names_en: 
+          - Tabriz
+        names_es: 
+          - Tabriz
+        population: 1424641
+      - 
+        alternate_names: 
+          - Marand
+          - Morand
+          - mrnd
+        ascii_name: Marand
+        name: Marand
+        names_en: ~
+        names_es: ~
+        population: 124191
+      - 
+        alternate_names: 
+          - Benab
+          - Benāb
+          - Binab
+        ascii_name: Bonab
+        name: Bonāb
+        names_en: ~
+        names_es: ~
+        population: 80359
+      - 
+        alternate_names: 
+          - Azaran
+          - Hashtrud
+          - Hashtrūd
+        ascii_name: Hashtrud
+        name: Hashtrūd
+        names_en: ~
+        names_es: ~
+        population: 16888
+      - 
+        alternate_names: 
+          - Ajabshahr
+          - "`Ajab Shir"
+          - aajabshahr
+        ascii_name: "`Ajab Shir"
+        name: "‘Ajab Shīr"
+        names_en: ~
+        names_es: ~
+        population: 29675
+      - 
+        alternate_names: 
+          - Ahar
+          - Akhar
+          - ahr
+        ascii_name: Ahar
+        name: Ahar
+        names_en: ~
+        names_es: ~
+        population: 94348
+    name: "East Azarbaijan"
+    names_en: 
+      - "East Azarbaijan"
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Azarbayjan-e Gharbi"
+    cities: 
+      - 
+        alternate_names: 
+          - Takab
+          - "Takan Tepe"
+          - Takāb
+        ascii_name: Takab
+        name: Takāb
+        names_en: ~
+        names_es: ~
+        population: 51541
+      - 
+        alternate_names: 
+          - Dilmagan
+          - Dilman
+          - Dīlmagān
+        ascii_name: Salmas
+        name: Salmās
+        names_en: ~
+        names_es: ~
+        population: 81606
+      - 
+        alternate_names: 
+          - "Sa'in Dezh"
+          - "Sa'in Qal`eh"
+          - "Sahin Dazh"
+        ascii_name: "Shahin Dezh"
+        name: "Shāhīn Dezh"
+        names_en: ~
+        names_es: ~
+        population: 41442
+      - 
+        alternate_names: 
+          - "Ghareh Ziya' Oddin"
+          - "Ghareh Ziya’ Oddin"
+          - "Qara Zia ud Din"
+        ascii_name: "Qarah Zia' od Din"
+        name: "Qarah Ẕīā' od Dīn"
+        names_en: ~
+        names_es: ~
+        population: 31947
+      - 
+        alternate_names: 
+          - Khaneh
+          - Khāneh
+          - "Piran Shahr"
+        ascii_name: Piranshahr
+        name: Pīrānshahr
+        names_en: ~
+        names_es: ~
+        population: 61973
+      - 
+        alternate_names: 
+          - Ashnooyeh
+          - Oshnaviyeh
+          - Oshnavīyeh
+        ascii_name: Oshnaviyeh
+        name: Oshnavīyeh
+        names_en: ~
+        names_es: ~
+        population: 50661
+      - 
+        alternate_names: 
+          - Orumieh
+          - Orumiyeh
+          - Orūmīyeh
+        ascii_name: Orumiyeh
+        name: Orūmīyeh
+        names_en: 
+          - Urmia
+        names_es: 
+          - Urmía
+        population: 577307
+      - 
+        alternate_names: 
+          - Nagadeh
+          - Naghadeh
+          - Naghdeh
+        ascii_name: Naqadeh
+        name: Naqadeh
+        names_en: 
+          - Naghadeh
+        names_es: ~
+        population: 73528
+      - 
+        alternate_names: 
+          - Meyandoab
+          - Meyāndoāb
+          - Miandoab
+        ascii_name: Miandowab
+        name: Mīāndowāb
+        names_en: ~
+        names_es: ~
+        population: 132819
+      - 
+        alternate_names: 
+          - Mahabad
+          - Mahābād
+          - Makhabad
+        ascii_name: Mahabad
+        name: Mahābād
+        names_en: 
+          - Mahabad
+        names_es: 
+          - Mahabad
+        population: 162434
+      - 
+        alternate_names: 
+          - Khoi
+          - Khowy
+          - Khoy
+        ascii_name: Khvoy
+        name: Khvoy
+        names_en: ~
+        names_es: ~
+        population: 175370
+      - 
+        alternate_names: 
+          - Bokan
+          - Bowkan
+          - Bowkān
+        ascii_name: Bukan
+        name: Būkān
+        names_en: ~
+        names_es: ~
+        population: 213331
+    name: "Āz̄ārbāyjān-e Gharbī"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Ardabil"
+    cities: 
+      - 
+        alternate_names: 
+          - Farsabad
+          - Fārsābād
+          - Parsabad
+        ascii_name: Parsabad
+        name: Pārsābād
+        names_en: ~
+        names_es: ~
+        population: 101661
+      - 
+        alternate_names: 
+          - Harau
+          - Harowabad
+          - Herau
+        ascii_name: Herowabad
+        name: Herowābād
+        names_en: ~
+        names_es: ~
+        population: 51024
+      - 
+        alternate_names: 
+          - Ardabil
+          - Ardabīl
+          - Ardebil
+        ascii_name: Ardabil
+        name: Ardabīl
+        names_en: 
+          - Ardabil
+        names_es: ~
+        population: 410753
+    name: Ardabīl
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Esfahan"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Semirom
+        name: Semīrom
+        names_en: ~
+        names_es: ~
+        population: 27220
+      - 
+        alternate_names: 
+          - Khansar
+          - Khavansar
+          - Khonsar
+        ascii_name: Khvansar
+        name: Khvānsār
+        names_en: ~
+        names_es: ~
+        population: 21146
+      - 
+        alternate_names: 
+          - Kachan
+          - Kashan
+          - kashan
+        ascii_name: Kashan
+        name: Kāshān
+        names_en: 
+          - Kashan
+        names_es: ~
+        population: 272359
+      - 
+        alternate_names: 
+          - Golpayagan
+          - Golpayegan
+          - Golpāyagān
+        ascii_name: Golpayegan
+        name: Golpāyegān
+        names_en: ~
+        names_es: ~
+        population: 44916
+      - 
+        alternate_names: 
+          - Fereydunshahr
+          - Fereydūnshahr
+          - فریدونشهر
+        ascii_name: Fereydunshahr
+        name: Fereydūnshahr
+        names_en: ~
+        names_es: ~
+        population: 11562
+      - 
+        alternate_names: 
+          - Ardestan
+          - Ardestān
+          - Ardistan
+        ascii_name: Ardestan
+        name: Ardestān
+        names_en: ~
+        names_es: ~
+        population: 16058
+      - 
+        alternate_names: ~
+        ascii_name: Shahreza
+        name: Shāhreẕā
+        names_en: ~
+        names_es: ~
+        population: 100790
+      - 
+        alternate_names: 
+          - Rahnan
+          - Rehnan
+          - Rehnān
+        ascii_name: Rehnan
+        name: Rehnān
+        names_en: ~
+        names_es: ~
+        population: 49143
+      - 
+        alternate_names: 
+          - Kedargun
+          - Kedargūn
+          - Qadrijan
+        ascii_name: Qahderijan
+        name: Qahderījān
+        names_en: ~
+        names_es: ~
+        population: 29392
+      - 
+        alternate_names: 
+          - Nadzhafabad
+          - Najafabad
+          - Najafābād
+        ascii_name: Najafabad
+        name: Najafābād
+        names_en: ~
+        names_es: ~
+        population: 223450
+      - 
+        alternate_names: 
+          - "Homayoon Shahr"
+          - Homayunshahr
+          - Homāyūnshahr
+        ascii_name: "Khomeyni Shahr"
+        name: "Khomeynī Shahr"
+        names_en: ~
+        names_es: ~
+        population: 277334
+      - 
+        alternate_names: 
+          - Gulshad
+          - Gulshād
+          - Kalushad
+        ascii_name: Kelishad
+        name: Kelīshād
+        names_en: ~
+        names_es: ~
+        population: 33630
+      - 
+        alternate_names: 
+          - Falavarjan
+          - Falāvarjān
+          - Felavarjan
+        ascii_name: Mollavarjan
+        name: Mollāvarjān
+        names_en: ~
+        names_es: ~
+        population: 49843
+      - 
+        alternate_names: 
+          - Aspadana
+          - Esfahan
+          - Esfehan
+        ascii_name: Esfahan
+        name: Eşfahān
+        names_en: 
+          - Isfahan
+        names_es: ~
+        population: 1547164
+      - 
+        alternate_names: 
+          - Daulatabad
+          - Daulatābād
+          - Dowlatabad
+        ascii_name: Dowlatabad
+        name: Dowlatābād
+        names_en: ~
+        names_es: ~
+        population: 33607
+      - 
+        alternate_names: 
+          - "Darcheh Piaz"
+          - "Darcheh Pīāz"
+          - "Dorcheh Peyaz"
+        ascii_name: "Dorcheh Piaz"
+        name: "Dorcheh Pīāz"
+        names_en: ~
+        names_es: ~
+        population: 37462
+    name: Eşfahān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Golestan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Azad Shahr"
+          - "Shah Pasand"
+          - "Shāh Pasand"
+        ascii_name: "Shah Pasand"
+        name: "Shāh Pasand"
+        names_en: ~
+        names_es: ~
+        population: 47590
+      - 
+        alternate_names: 
+          - Kalalah
+          - Kalaleh
+          - Kalālah
+        ascii_name: Kalaleh
+        name: Kalāleh
+        names_en: ~
+        names_es: ~
+        population: 33700
+      - 
+        alternate_names: 
+          - Asterabad
+          - Asterābād
+          - Girkanija
+        ascii_name: Gorgan
+        name: Gorgān
+        names_en: 
+          - Gorgan
+        names_es: ~
+        population: 244937
+      - 
+        alternate_names: 
+          - "Dashte Gorgan"
+          - "Gonbad Qabus"
+          - "Gonbad Qavoos"
+        ascii_name: "Gonbad-e Qabus"
+        name: "Gonbad-e Qābūs"
+        names_en: ~
+        names_es: ~
+        population: 131416
+    name: Golestān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Qazvin"
+    cities: 
+      - 
+        alternate_names: 
+          - Seyadahan
+          - Seyādahan
+          - Siadehan
+        ascii_name: Takestan
+        name: Tākestān
+        names_en: ~
+        names_es: ~
+        population: 71499
+      - 
+        alternate_names: 
+          - Kazvin
+          - Kazwin
+          - Qazvin
+        ascii_name: Qazvin
+        name: Qazvīn
+        names_en: 
+          - Qazvin
+        names_es: ~
+        population: 333635
+    name: Qazvīn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Qom"
+    cities: 
+      - 
+        alternate_names: 
+          - Ghom
+          - Kum
+          - Qom
+        ascii_name: Qom
+        name: Qom
+        names_en: 
+          - Qom
+        names_es: ~
+        population: 900000
+    name: Qom
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Sistan va Baluchestan"
+    cities: 
+      - 
+        alternate_names: 
+          - Zabol
+          - Zabol'
+          - Zābol
+        ascii_name: Zabol
+        name: Zābol
+        names_en: 
+          - Zabol
+        names_es: ~
+        population: 121989
+      - 
+        alternate_names: 
+          - Dowzdab
+          - Dowzdāb
+          - Duzdab
+        ascii_name: Zahedan
+        name: Zāhedān
+        names_en: ~
+        names_es: ~
+        population: 551980
+      - 
+        alternate_names: 
+          - Kavash
+          - Khash
+          - Khāsh
+        ascii_name: Khash
+        name: Khāsh
+        names_en: ~
+        names_es: ~
+        population: 69603
+      - 
+        alternate_names: 
+          - Fahrej
+          - Fehruj
+          - Iranshahr
+        ascii_name: Iranshahr
+        name: Īrānshahr
+        names_en: ~
+        names_es: ~
+        population: 131232
+      - 
+        alternate_names: 
+          - "Bandar Beheshti"
+          - "Bandar Beheshtī"
+          - Chabahar
+        ascii_name: "Chah Bahar"
+        name: "Chāh Bahār"
+        names_en: ~
+        names_es: ~
+        population: 47287
+    name: "Sīstān va Balūchestān"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Khorasan-e Jonubi"
+    cities: 
+      - 
+        alternate_names: 
+          - Birdjand
+          - Birdzhend
+          - Birjand
+        ascii_name: Birjand
         name: Bīrjand
+        names_en: 
+          - Birjand
+        names_es: ~
         population: 196982
-        slug: birjand
-      - 
-        districts: []
-        location: "POINT (34.7400000000000020 60.7755999999999972)"
-        name: Tāybād
-        population: 37513
-        slug: taybad
-      - 
-        districts: []
-        location: "POINT (36.5448999999999984 61.1576999999999984)"
-        name: Sarakhs
-        population: 46499
-        slug: sarakhs
-    code: IR.42
-    name: "Razavi Khorasan"
-    slug: razavi-khorasan
+    name: "Khorāsān-e Jonūbī"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Razavi Khorasan"
     cities: 
       - 
-        districts: []
-        location: "POINT (37.0764500000000012 57.5100899999999982)"
-        name: Esfarāyen
-        population: 59678
-        slug: esfarayen
+        alternate_names: 
+          - "Torbat-e Heydariyeh"
+          - "Torbat-e Ḩeydarīyeh"
+          - Torbat-e-Heydari
+        ascii_name: "Torbat-e Heydariyeh"
+        name: "Torbat-e Ḩeydarīyeh"
+        names_en: ~
+        names_es: ~
+        population: 125633
       - 
-        districts: []
-        location: "POINT (37.4747300000000010 57.3290300000000030)"
+        alternate_names: 
+          - Sabzawar
+          - Sabzawār
+          - Sabzevar
+        ascii_name: Sabzevar
+        name: Sabzevār
+        names_en: ~
+        names_es: ~
+        population: 226183
+      - 
+        alternate_names: 
+          - Gochan
+          - Quchan
+          - Qūchān
+        ascii_name: Quchan
+        name: Qūchān
+        names_en: ~
+        names_es: ~
+        population: 111752
+      - 
+        alternate_names: 
+          - Qa'en
+          - Qain
+          - Qayen
+        ascii_name: Qayen
+        name: Qāyen
+        names_en: ~
+        names_es: ~
+        population: 40157
+      - 
+        alternate_names: 
+          - Nejsaburo
+          - Nejŝaburo
+          - Neyshabur
+        ascii_name: Neyshabur
+        name: Neyshābūr
+        names_en: 
+          - Neyshabur
+        names_es: 
+          - Nishapur
+        population: 220929
+      - 
+        alternate_names: 
+          - Maschhad
+          - Mashad
+          - Mashado
+        ascii_name: Mashhad
+        name: Mashhad
+        names_en: 
+          - Mashhad
+        names_es: 
+          - Mashhad
+        population: 2307177
+      - 
+        alternate_names: 
+          - Kashmar
+          - Khashmar
+          - Kāshmar
+        ascii_name: Kashmar
+        name: Kāshmar
+        names_en: ~
+        names_es: ~
+        population: 96151
+      - 
+        alternate_names: 
+          - Gonabad
+          - Gonābād
+          - Gunabad
+        ascii_name: Gonabad
+        name: Gonābād
+        names_en: ~
+        names_es: ~
+        population: 43465
+      - 
+        alternate_names: 
+          - Chanaran
+          - Chanārān
+          - Chenaran
+        ascii_name: Chenaran
+        name: Chenārān
+        names_en: ~
+        names_es: ~
+        population: 46940
+      - 
+        alternate_names: 
+          - "Torbat-e Jam"
+          - "Torbat-e Jām"
+          - "Torbat-e Sheykh Jam"
+        ascii_name: "Torbat-e Jam"
+        name: "Torbat-e Jām"
+        names_en: ~
+        names_es: ~
+        population: 58928
+      - 
+        alternate_names: 
+          - Taiabad
+          - Taybad
+          - Tayebad
+        ascii_name: Taybad
+        name: Tāybād
+        names_en: ~
+        names_es: ~
+        population: 37513
+      - 
+        alternate_names: 
+          - Sarakhs
+          - Serakhs
+          - Сарахс
+        ascii_name: Sarakhs
+        name: Sarakhs
+        names_en: ~
+        names_es: ~
+        population: 46499
+    name: "Razavi Khorasan"
+    names_en: 
+      - "Razavi Khorasan Province"
+      - "Razavi Khorasan"
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Khorasan-e Shomali"
+    cities: 
+      - 
+        alternate_names: 
+          - Esfarayen
+          - Esfarāyen
+          - Meyanabad
+        ascii_name: Esfarayen
+        name: Esfarāyen
+        names_en: ~
+        names_es: ~
+        population: 59678
+      - 
+        alternate_names: 
+          - Bodzhnurd
+          - Bojnourd
+          - Bojnurd
+        ascii_name: Bojnurd
         name: Bojnūrd
+        names_en: 
+          - Bojnourd
+        names_es: ~
         population: 192041
-        slug: bojnurd
-    code: IR.43
     name: "Khorāsān-e Shomālī"
-    slug: khorasan-e-shomali
-tld: ir
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ostan-e Alborz"
+    cities: 
+      - 
+        alternate_names: 
+          - Nazarabad
+          - "Nazarabad-e Bozorg"
+          - Naz̧arābād
+        ascii_name: Nazarabad
+        name: Naz̧arābād
+        names_en: ~
+        names_es: ~
+        population: 213388
+      - 
+        alternate_names: 
+          - Heredi
+          - Karadj
+          - Karadje
+        ascii_name: Karaj
+        name: Karaj
+        names_en: 
+          - Karaj
+        names_es: ~
+        population: 1448075
+    name: "Ostān-e Alborz"
+    names_en: ~
+    names_es: ~

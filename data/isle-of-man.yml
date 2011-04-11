@@ -1,24 +1,34 @@
 --- 
-code: IM
-continent: EU
 name: "Isle of Man"
-population: 75049
+names_en: 
+  - "Isle of Man"
+names_es: 
+  - "Isla de Man"
 regions: 
   - 
+    ascii_name: "Isle of Man"
     cities: 
       - 
-        districts: []
-        location: "POINT (54.0848700000000022 -4.7509899999999998)"
+        alternate_names: 
+          - Port-Ehrin
+          - Порт-Эрин
+        ascii_name: "Port Erin"
         name: "Port Erin"
+        names_en: ~
+        names_es: ~
         population: 3369
-        slug: port-erin
       - 
-        districts: []
-        location: "POINT (54.1499999999999986 -4.4833299999999996)"
+        alternate_names: 
+          - Daglas
+          - Daglasas
+          - Doolish
+        ascii_name: Douglas
         name: Douglas
+        names_en: 
+          - "Douglas, Isle of Man"
+          - Douglas
+        names_es: ~
         population: 26218
-        slug: douglas
-    code: IM.00
-    name: "Isle of Man (general)"
-    slug: isle-of-man-general
-tld: im
+    name: ~
+    names_en: ~
+    names_es: ~

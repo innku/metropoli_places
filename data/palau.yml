@@ -1,54 +1,214 @@
 --- 
-code: PW
-continent: OC
 name: Palau
-population: 20303
+names_en: 
+  - Palau
+names_es: 
+  - Palau
 regions: 
   - 
+    ascii_name: "State of Ngatpang"
     cities: 
       - 
-        districts: []
-        location: "POINT (6.9013900000000001 134.1294399999999882)"
-        name: Ngaramasch
-        population: 135
-        slug: ngaramasch
+        alternate_names: 
+          - Madarabae
+          - Madarabaye
+          - Ngedbang
+        ascii_name: Ngereklmadel
+        name: Ngereklmadel
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Ngatpang
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Sonsorol"
+    cities: []
+    name: Sonsorol
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Kayangel"
+    cities: 
       - 
-        districts: []
-        location: "POINT (7.3574999999999999 134.5577800000000082)"
-        name: Airai
-        population: 960
-        slug: airai
+        alternate_names: ~
+        ascii_name: Kayangel
+        name: Kayangel
+        names_en: ~
+        names_es: ~
+        population: 188
+    name: Kayangel
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Hatohobei"
+    cities: []
+    name: "State of Hatohobei"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Aimeliik"
+    cities: 
       - 
-        districts: []
-        location: "POINT (7.6216699999999999 134.6388900000000035)"
-        name: Ulimang
-        population: 130
-        slug: ulimang
+        alternate_names: ~
+        ascii_name: Ngchemiangel
+        name: Ngchemiangel
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Aimeliik
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Airai"
+    cities: 
       - 
-        districts: []
-        location: "POINT (7.5011099999999997 134.6191699999999969)"
+        alternate_names: ~
+        ascii_name: Ngetkib
+        name: Ngetkib
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Airai
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Angaur"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Angaur State"
+        name: "Angaur State"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Angaur
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Koror"
+    cities: 
+      - 
+        alternate_names: 
+          - Goreor
+          - Goror
+          - Koreor
+        ascii_name: "Koror State"
+        name: "Koror State"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Little Tokyo"
+        ascii_name: "Koror Town"
+        name: "Koror Town"
+        names_en: ~
+        names_es: ~
+        population: 12676
+    name: Koror
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Melekeok"
+    cities: 
+      - 
+        alternate_names: 
+          - Artingall
+          - Athermal
+          - Athernal
+        ascii_name: "Melekeok Village"
+        name: "Melekeok Village"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Melekeok
         name: Melekeok
-        population: 217
-        slug: melekeok
-      - 
-        districts: []
-        location: "POINT (7.3422099999999997 134.4790900000000136)"
-        name: Koror
-        population: 14000
-        slug: koror
-      - 
-        districts: []
-        location: "POINT (7.5004299999999997 134.6235499999999945)"
-        name: Ngerulmud
-        population: 100
-        slug: ngerulmud
-      - 
-        districts: []
-        location: "POINT (7.3519399999999999 134.4544400000000053)"
-        name: Meyungs
-        population: 1275
-        slug: meyungs
-    code: PW.07
+        names_en: ~
+        names_es: ~
+        population: 0
     name: Melekeok
-    slug: melekeok
-tld: pw
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Ngaraard"
+    cities: 
+      - 
+        alternate_names: 
+          - "A Ulimang"
+          - Galap
+          - Uliman
+        ascii_name: Ulimang
+        name: Ulimang
+        names_en: ~
+        names_es: ~
+        population: 130
+    name: Ngaraard
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Ngchesar"
+    cities: []
+    name: Ngchesar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Ngarchelong"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Mengellang
+        name: Mengellang
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Ngarchelong
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Ngardmau"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Ngardmau
+        name: Ngardmau
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Ngardmau
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Ngeremlengui"
+    cities: []
+    name: "State of Ngeremlengui"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Ngiwal"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Ngerkeai
+        name: Ngerkeai
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Ngiwal
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Peleliu"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kloulklubed
+        name: Kloulklubed
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Peleliu
+    names_en: ~
+    names_es: ~

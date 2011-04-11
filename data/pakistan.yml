@@ -1,2580 +1,3785 @@
 --- 
-code: PK
-continent: AS
 name: Pakistan
-population: 184404791
+names_en: 
+  - Pakistan
+  - "Islamic Republic of Pakistan"
+names_es: 
+  - Pakistán
 regions: 
   - 
+    ascii_name: "Islamabad Capital Territory"
     cities: 
       - 
-        districts: []
-        location: "POINT (33.8233099999999993 71.8899399999999957)"
-        name: Cherāt
-        population: 2986
-        slug: cherat
-      - 
-        districts: []
-        location: "POINT (32.2988900000000001 69.5725000000000051)"
-        name: Wāna
-        population: 2223
-        slug: wana
-      - 
-        districts: []
-        location: "POINT (34.3291699999999977 71.1780600000000021)"
-        name: Shīnpokh
-        population: 1111
-        slug: shinpokh
-      - 
-        districts: []
-        location: "POINT (33.0086099999999973 70.0697200000000038)"
-        name: "Mīram Shāh"
-        population: 3334
-        slug: miram-shah
-      - 
-        districts: []
-        location: "POINT (34.1016699999999986 71.1466700000000003)"
-        name: "Landi Kotal"
-        population: 2223
-        slug: landi-kotal
-      - 
-        districts: []
-        location: "POINT (33.5358299999999971 70.3441700000000054)"
-        name: Alīzai
-        population: 3334
-        slug: alizai
-    code: PK.01
-    name: "Federally Administered Tribal Areas"
-    slug: federally-administered-tribal-areas
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (28.1097299999999990 68.0263999999999953)"
-        name: Mehrābpur
-        population: 35263
-        slug: mehrabpur
-      - 
-        districts: []
-        location: "POINT (30.3822299999999998 67.7260700000000071)"
-        name: Ziārat
-        population: 733
-        slug: ziarat
-      - 
-        districts: []
-        location: "POINT (31.3411100000000005 69.4480599999999981)"
-        name: Zhob
-        population: 50537
-        slug: zhob
-      - 
-        districts: []
-        location: "POINT (25.8072200000000009 66.6219399999999951)"
-        name: Uthal
-        population: 16483
-        slug: uthal
-      - 
-        districts: []
-        location: "POINT (28.1794300000000000 68.0445399999999978)"
-        name: "Usta Muhammad"
-        population: 43983
-        slug: usta-muhammad
-      - 
-        districts: []
-        location: "POINT (26.0030000000000001 63.0433999999999983)"
-        name: Turbat
-        population: 75694
-        slug: turbat
-      - 
-        districts: []
-        location: "POINT (28.4915999999999983 66.2562999999999960)"
-        name: Sūrāb
-        population: 13104
-        slug: surab
-      - 
-        districts: []
-        location: "POINT (28.5208300000000001 68.5416699999999963)"
-        name: Sohbatpur
-        population: 8940
-        slug: sohbatpur
-      - 
-        districts: []
-        location: "POINT (29.5447999999999986 67.8764000000000038)"
-        name: Sibi
-        population: 64069
-        slug: sibi
-      - 
-        districts: []
-        location: "POINT (30.1872199999999999 67.0125000000000028)"
-        name: Quetta
-        population: 733675
-        slug: quetta
-      - 
-        districts: []
-        location: "POINT (30.7012999999999998 68.3599300000000056)"
-        name: "Qila Saifullāh"
-        population: 0
-        slug: qila-saifullah
-      - 
-        districts: []
-        location: "POINT (30.7291699999999999 66.6608300000000042)"
-        name: "Qila Abdullāh"
-        population: 0
-        slug: qila-abdullah
-      - 
-        districts: []
-        location: "POINT (30.5802799999999984 66.9961100000000016)"
-        name: Pishin
-        population: 24239
-        slug: pishin
-      - 
-        districts: []
-        location: "POINT (25.2624999999999993 63.4675000000000011)"
-        name: Pasni
-        population: 33110
-        slug: pasni
-      - 
-        districts: []
-        location: "POINT (26.9666700000000006 64.0999999999999943)"
-        name: Panjgūr
-        population: 0
-        slug: panjgur
-      - 
-        districts: []
-        location: "POINT (25.2088000000000001 64.6356999999999999)"
-        name: Ormāra
-        population: 13026
-        slug: ormara
-      - 
-        districts: []
-        location: "POINT (29.5500000000000007 66.0166700000000048)"
-        name: Nushki
-        population: 27680
-        slug: nushki
-      - 
-        districts: []
-        location: "POINT (30.8605699999999992 69.8229500000000058)"
-        name: "Mūsa Khel Bāzār"
-        population: 0
-        slug: musa-khel-bazar
-      - 
-        districts: []
-        location: "POINT (29.7993600000000001 66.8450500000000005)"
-        name: Mastung
-        population: 29082
-        slug: mastung
-      - 
-        districts: []
-        location: "POINT (29.8639000000000010 67.3293000000000035)"
-        name: Mach
-        population: 16930
-        slug: mach
-      - 
-        districts: []
-        location: "POINT (30.3708199999999984 68.5998000000000019)"
-        name: Loralai
-        population: 37787
-        slug: loralai
-      - 
-        districts: []
-        location: "POINT (29.8961499999999987 69.2519900000000064)"
-        name: Kohlu
-        population: 11089
-        slug: kohlu
-      - 
-        districts: []
-        location: "POINT (28.5833300000000001 65.4166699999999963)"
-        name: Khārān
-        population: 30841
-        slug: kharan
-      - 
-        districts: []
-        location: "POINT (29.0333299999999994 66.5833300000000037)"
-        name: Kalāt
-        population: 26701
-        slug: kalat
-      - 
-        districts: []
-        location: "POINT (25.0499200000000002 61.7468000000000004)"
-        name: Jīwani
-        population: 16322
-        slug: jiwani
-      - 
-        districts: []
-        location: "POINT (28.3747700000000016 68.3487400000000065)"
-        name: Jhatpat
-        population: 0
-        slug: jhatpat
-      - 
-        districts: []
-        location: "POINT (30.1004700000000014 67.9374099999999999)"
-        name: Harnai
-        population: 11066
-        slug: harnai
-      - 
-        districts: []
-        location: "POINT (25.8130799999999994 68.4227300000000014)"
-        name: Hāla
-        population: 47915
-        slug: hala
-      - 
-        districts: []
-        location: "POINT (25.1216299999999997 62.3254099999999980)"
-        name: Gwādar
-        population: 51901
-        slug: gwadar
-      - 
-        districts: []
-        location: "POINT (28.6127000000000002 67.4853999999999985)"
-        name: Gandāva
-        population: 0
-        slug: gandava
-      - 
-        districts: []
-        location: "POINT (25.1155599999999986 66.7247200000000049)"
-        name: Gadāni
-        population: 13427
-        slug: gadani
-      - 
-        districts: []
-        location: "POINT (30.1541999999999994 68.5705300000000051)"
-        name: Duki
-        population: 6384
-        slug: duki
-      - 
-        districts: []
-        location: "POINT (29.0306899999999999 69.1509899999999931)"
-        name: "Dera Bugti"
-        population: 18120
-        slug: dera-bugti
-      - 
-        districts: []
-        location: "POINT (28.8936999999999991 64.4097000000000008)"
-        name: Dālbandīn
-        population: 14621
-        slug: dalbandin
-      - 
-        districts: []
-        location: "POINT (29.4816000000000003 67.6494000000000000)"
-        name: Dādhar
-        population: 15090
-        slug: dadhar
-      - 
-        districts: []
-        location: "POINT (30.9169400000000003 66.4597200000000043)"
-        name: Chaman
-        population: 88568
-        slug: chaman
-      - 
-        districts: []
-        location: "POINT (29.0414999999999992 67.8238999999999947)"
-        name: Bhāg
-        population: 14555
-        slug: bhag
-      - 
-        districts: []
-        location: "POINT (26.2271000000000001 66.3110999999999962)"
-        name: Bela
-        population: 20119
-        slug: bela
-      - 
-        districts: []
-        location: "POINT (29.8997799999999998 69.5247600000000006)"
-        name: Bārkhān
-        population: 8760
-        slug: barkhan
-      - 
-        districts: []
-        location: "POINT (26.4555000000000007 65.2312000000000012)"
-        name: Awārān
-        population: 0
-        slug: awaran
-      - 
-        districts: []
-        location: "POINT (30.4893000000000001 67.5217399999999941)"
-        name: "Alik Ghund"
-        population: 7630
-        slug: alik-ghund
-      - 
-        districts: []
-        location: "POINT (28.5465699999999991 68.2230799999999959)"
-        name: "Dera Murād Jamāli"
-        population: 0
-        slug: dera-murad-jamali
-      - 
-        districts: []
-        location: "POINT (28.0194399999999995 67.9208299999999952)"
-        name: "Chowki Jamali"
-        population: 2000
-        slug: chowki-jamali
-      - 
-        districts: []
-        location: "POINT (27.7383799999999994 66.6433600000000013)"
-        name: Khuzdār
-        population: 0
-        slug: khuzdar
-    code: PK.02
-    name: Balochistān
-    slug: balochistan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.1452799999999996 71.7313900000000046)"
-        name: Chārsadda
-        population: 95319
-        slug: charsadda
-      - 
-        districts: []
-        location: "POINT (34.0633300000000006 71.9936100000000039)"
-        name: Risālpur
-        population: 37084
-        slug: risalpur
-      - 
-        districts: []
-        location: "POINT (34.8263900000000035 71.8427800000000047)"
-        name: Tīmurgara
-        population: 0
-        slug: timurgara
-      - 
-        districts: []
-        location: "POINT (34.0602799999999988 72.4677800000000047)"
-        name: Zaida
-        population: 26787
-        slug: zaida
-      - 
-        districts: []
-        location: "POINT (34.1858300000000028 71.7633299999999963)"
-        name: Utmānzai
-        population: 29423
-        slug: utmanzai
-      - 
-        districts: []
-        location: "POINT (34.0688900000000032 72.6244400000000070)"
-        name: Topi
-        population: 36340
-        slug: topi
-      - 
-        districts: []
-        location: "POINT (32.2216799999999992 70.3792799999999943)"
-        name: Tānk
-        population: 38488
-        slug: tank
-      - 
-        districts: []
-        location: "POINT (34.3005599999999973 71.6536100000000005)"
-        name: Tangi
-        population: 29444
-        slug: tangi
-      - 
-        districts: []
-        location: "POINT (35.4866999999999990 72.2343000000000046)"
-        name: Tāl
-        population: 29331
-        slug: tal
-      - 
-        districts: []
-        location: "POINT (34.1199999999999974 72.4722199999999930)"
-        name: Swābi
-        population: 97363
-        slug: swabi
-      - 
-        districts: []
-        location: "POINT (31.9099100000000000 70.8774099999999976)"
-        name: Shorko
-        population: 67439
-        slug: shorko
-      - 
-        districts: []
-        location: "POINT (34.2152799999999999 71.5552799999999962)"
-        name: Shabqadar
-        population: 66541
-        slug: shabqadar
-      - 
-        districts: []
-        location: "POINT (32.8259100000000004 70.7813600000000065)"
-        name: "Sarāi Naurang"
-        population: 19694
-        slug: sarai-naurang
-      - 
-        districts: []
-        location: "POINT (34.7447000000000017 72.3546000000000049)"
-        name: "Saidu Sharīf"
-        population: 0
-        slug: saidu-sharif
-      - 
-        districts: []
-        location: "POINT (34.0083699999999993 71.5801799999999986)"
-        name: Peshāwar
-        population: 1218773
-        slug: peshawar
-      - 
-        districts: []
-        location: "POINT (32.1038399999999982 70.9723500000000058)"
-        name: Pahārpur
-        population: 17294
-        slug: paharpur
-      - 
-        districts: []
-        location: "POINT (34.0105599999999981 71.7988900000000001)"
-        name: Pabbi
-        population: 37307
-        slug: pabbi
-      - 
-        districts: []
-        location: "POINT (34.0163900000000012 71.9747200000000049)"
-        name: Nowshera
-        population: 0
-        slug: nowshera
-      - 
-        districts: []
-        location: "POINT (34.7749999999999986 72.3622000000000014)"
-        name: Mingāora
-        population: 227331
-        slug: mingaora
-      - 
-        districts: []
-        location: "POINT (34.1983299999999986 72.0458299999999952)"
-        name: Mardān
-        population: 300424
-        slug: mardan
-      - 
-        districts: []
-        location: "POINT (34.3333299999999966 73.2000000000000028)"
-        name: Mānsehra
-        population: 66486
-        slug: mansehra
-      - 
-        districts: []
-        location: "POINT (34.5655599999999978 71.9311100000000039)"
-        name: Malakand
-        population: 0
-        slug: malakand
-      - 
-        districts: []
-        location: "POINT (32.6079500000000024 70.9114200000000068)"
-        name: "Lakki Marwat"
-        population: 36391
-        slug: lakki-marwat
-      - 
-        districts: []
-        location: "POINT (33.3832499999999968 71.3385799999999932)"
-        name: Lāchi
-        population: 18537
-        slug: lachi
-      - 
-        districts: []
-        location: "POINT (31.9286099999999990 70.4591700000000003)"
-        name: Kulāchi
-        population: 22376
-        slug: kulachi
-      - 
-        districts: []
-        location: "POINT (33.5869399999999985 71.4422200000000061)"
-        name: Kohāt
-        population: 151427
-        slug: kohat
-      - 
-        districts: []
-        location: "POINT (33.1199999999999974 71.0947199999999953)"
-        name: Karak
-        population: 13679
-        slug: karak
-      - 
-        districts: []
-        location: "POINT (34.0600000000000023 72.8894399999999933)"
-        name: Khalābat
-        population: 39148
-        slug: khalabat
-      - 
-        districts: []
-        location: "POINT (34.0536799999999999 73.1564400000000035)"
-        name: Haveliān
-        population: 40481
-        slug: havelian
-      - 
-        districts: []
-        location: "POINT (33.9999699999999976 72.9340899999999976)"
-        name: Harīpur
-        population: 56977
-        slug: haripur
-      - 
-        districts: []
-        location: "POINT (33.5286100000000005 71.0583299999999980)"
-        name: Hangu
-        population: 36150
-        slug: hangu
-      - 
-        districts: []
-        location: "POINT (33.4244399999999970 70.7363900000000001)"
-        name: Doāba
-        population: 8893
-        slug: doaba
-      - 
-        districts: []
-        location: "POINT (35.2058299999999988 71.8755599999999930)"
-        name: Dīr
-        population: 29869
-        slug: dir
-      - 
-        districts: []
-        location: "POINT (31.8326899999999995 70.9024000000000001)"
-        name: "Dera Ismāīl Khān"
-        population: 101616
-        slug: dera-ismail-khan
-      - 
-        districts: []
-        location: "POINT (34.5113899999999987 72.4838900000000024)"
-        name: Daggar
-        population: 0
-        slug: daggar
-      - 
-        districts: []
-        location: "POINT (35.8422199999999975 71.7819400000000059)"
-        name: Chitrāl
-        population: 0
-        slug: chitral
-      - 
-        districts: []
-        location: "POINT (34.6166699999999992 71.9713899999999995)"
-        name: "Bat Khela"
-        population: 46079
-        slug: bat-khela
-      - 
-        districts: []
-        location: "POINT (34.6818400000000011 73.0317100000000039)"
-        name: Batgrām
-        population: 0
-        slug: batgram
-      - 
-        districts: []
-        location: "POINT (32.9899100000000018 70.6067199999999957)"
-        name: Bannu
-        population: 49008
-        slug: bannu
-      - 
-        districts: []
-        location: "POINT (34.4367900000000020 73.2191899999999976)"
-        name: Baffa
-        population: 14047
-        slug: baffa
-      - 
-        districts: []
-        location: "POINT (34.0058300000000031 71.9300000000000068)"
-        name: Amangarh
-        population: 25723
-        slug: amangarh
-      - 
-        districts: []
-        location: "POINT (34.0036100000000019 72.1261099999999971)"
-        name: Akora
-        population: 23288
-        slug: akora
-      - 
-        districts: []
-        location: "POINT (34.1468500000000006 73.2144899999999978)"
-        name: Abbottābād
-        population: 0
-        slug: abbottabad
-      - 
-        districts: []
-        location: "POINT (33.9966700000000017 72.0130599999999959)"
-        name: "Nowshera Cantonment"
-        population: 96766
-        slug: nowshera-cantonment
-      - 
-        districts: []
-        location: "POINT (34.2522200000000012 71.9663900000000041)"
-        name: Noorābād
-        population: 1100
-        slug: noorabad
-      - 
-        districts: []
-        location: "POINT (34.9202799999999982 72.6319400000000002)"
-        name: Alpūrai
-        population: 0
-        slug: alpurai
-      - 
-        districts: []
-        location: "POINT (35.2916900000000027 73.2905999999999977)"
-        name: Dasu
-        population: 0
-        slug: dasu
-    code: PK.03
-    name: "North West Frontier Province"
-    slug: north-west-frontier-province
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.6007000000000033 73.0678999999999945)"
-        name: Rāwalpindi
-        population: 1743101
-        slug: rawalpindi
-      - 
-        districts: []
-        location: "POINT (32.2641300000000015 74.6634200000000021)"
-        name: Pasrūr
-        population: 53364
-        slug: pasrur
-      - 
-        districts: []
-        location: "POINT (32.6989400000000003 73.9589600000000047)"
-        name: "Lāla Mūsa"
-        population: 65197
-        slug: lala-musa
-      - 
-        districts: []
-        location: "POINT (31.5005600000000001 73.2666700000000048)"
-        name: Khurriānwāla
-        population: 35292
-        slug: khurrianwala
-      - 
-        districts: []
-        location: "POINT (32.8438900000000018 71.3669399999999996)"
-        name: "Kamar Mushāni"
-        population: 15867
-        slug: kamar-mushani
-      - 
-        districts: []
-        location: "POINT (31.8198599999999985 73.9181200000000018)"
-        name: "Jāndiāla Sher Khān"
-        population: 10985
-        slug: jandiala-sher-khan
-      - 
-        districts: []
-        location: "POINT (32.1616700000000009 74.1883100000000013)"
-        name: Gujrānwāla
-        population: 1384471
-        slug: gujranwala
-      - 
-        districts: []
-        location: "POINT (31.1795900000000010 71.2094600000000071)"
-        name: "Chak Two Hundred Forty-Nine TDA"
-        population: 18126
-        slug: chak-two-hundred-forty-nine-tda
-      - 
-        districts: []
-        location: "POINT (31.8358699999999999 71.4362500000000011)"
-        name: Dullewāla
-        population: 48682
-        slug: dullewala
-      - 
-        districts: []
-        location: "POINT (32.8749800000000008 71.5701200000000028)"
-        name: "Dāūd Khel"
-        population: 26395
-        slug: daud-khel
-      - 
-        districts: []
-        location: "POINT (30.5333299999999994 72.7000000000000028)"
-        name: Chīchāwatni
-        population: 82762
-        slug: chichawatni
-      - 
-        districts: []
-        location: "POINT (32.3469199999999972 74.7061199999999985)"
-        name: Chawinda
-        population: 23599
-        slug: chawinda
-      - 
-        districts: []
-        location: "POINT (28.8166699999999985 70.5166700000000048)"
-        name: "Zāhir Pīr"
-        population: 34121
-        slug: zahir-pir
-      - 
-        districts: []
-        location: "POINT (32.3463100000000026 74.8998700000000071)"
-        name: Zafarwāl
-        population: 23078
-        slug: zafarwal
-      - 
-        districts: []
-        location: "POINT (29.1237400000000015 71.7443600000000004)"
-        name: "Yazmān Mandi"
-        population: 24580
-        slug: yazman-mandi
-      - 
-        districts: []
-        location: "POINT (32.4446500000000029 74.1159999999999997)"
-        name: Wazīrābād
-        population: 102444
-        slug: wazirabad
-      - 
-        districts: []
-        location: "POINT (31.5500000000000007 73.8333300000000037)"
-        name: Warburton
-        population: 24295
-        slug: warburton
-      - 
-        districts: []
-        location: "POINT (30.0333299999999994 72.3499999999999943)"
-        name: Vihāri
-        population: 112840
-        slug: vihari
-      - 
-        districts: []
-        location: "POINT (30.9745899999999992 72.4826599999999956)"
-        name: "Toba Tek Singh"
-        population: 69064
-        slug: toba-tek-singh
-      - 
-        districts: []
-        location: "POINT (30.7048400000000008 70.6505099999999970)"
-        name: Taunsa
-        population: 44869
-        slug: taunsa
-      - 
-        districts: []
-        location: "POINT (31.0333299999999994 73.1333300000000008)"
-        name: Tāndliānwāla
-        population: 38285
-        slug: tandlianwala
-      - 
-        districts: []
-        location: "POINT (30.5270800000000015 72.2401100000000014)"
-        name: Talamba
-        population: 28151
-        slug: talamba
-      - 
-        districts: []
-        location: "POINT (32.9297299999999993 72.4158299999999997)"
-        name: Talagang
-        population: 44960
-        slug: talagang
-      - 
-        districts: []
-        location: "POINT (31.8638800000000018 73.5112199999999945)"
-        name: "Sukheke Mandi"
-        population: 32836
-        slug: sukheke-mandi
-      - 
-        districts: []
-        location: "POINT (32.4616200000000035 74.1823399999999964)"
-        name: Sodhra
-        population: 15977
-        slug: sodhra
-      - 
-        districts: []
-        location: "POINT (31.8291700000000013 72.5394399999999990)"
-        name: Sillānwāli
-        population: 27023
-        slug: sillanwali
-      - 
-        districts: []
-        location: "POINT (32.5101000000000013 74.5431300000000050)"
-        name: Siālkot
-        population: 477396
-        slug: sialkot
-      - 
-        districts: []
-        location: "POINT (29.8796700000000008 71.2931300000000050)"
-        name: Shujāābād
-        population: 65952
-        slug: shujaabad
-      - 
-        districts: []
-        location: "POINT (31.7130599999999987 73.9783299999999997)"
-        name: Sheikhupura
-        population: 361303
-        slug: sheikhupura
-      - 
-        districts: []
-        location: "POINT (31.4633299999999991 74.0999999999999943)"
-        name: Sharqpur
-        population: 31855
-        slug: sharqpur
-      - 
-        districts: []
-        location: "POINT (32.2623200000000026 75.1668200000000013)"
-        name: Shakargarr
-        population: 64304
-        slug: shakargarr
-      - 
-        districts: []
-        location: "POINT (29.5764600000000009 71.0211599999999947)"
-        name: "Shahr Sultān"
-        population: 16166
-        slug: shahr-sultan
-      - 
-        districts: []
-        location: "POINT (32.2676700000000025 72.4733399999999932)"
-        name: Shāhpur
-        population: 14153
-        slug: shahpur
-      - 
-        districts: []
-        location: "POINT (32.0836100000000002 72.6711099999999988)"
-        name: Sargodha
-        population: 542603
-        slug: sargodha
-      - 
-        districts: []
-        location: "POINT (30.5948899999999995 71.9697699999999969)"
-        name: "Sarāi Sidhu"
-        population: 15632
-        slug: sarai-sidhu
-      - 
-        districts: []
-        location: "POINT (32.9012200000000021 73.7559100000000001)"
-        name: "Sarāi Ālamgīr"
-        population: 44120
-        slug: sarai-alamgir
-      - 
-        districts: []
-        location: "POINT (33.7608299999999986 72.4336100000000016)"
-        name: Sanjwāl
-        population: 10657
-        slug: sanjwal
-      - 
-        districts: []
-        location: "POINT (31.7166700000000006 73.3833300000000008)"
-        name: Sāngla
-        population: 57002
-        slug: sangla
-      - 
-        districts: []
-        location: "POINT (32.4745500000000007 74.3520900000000040)"
-        name: Sambriāl
-        population: 62874
-        slug: sambrial
-      - 
-        districts: []
-        location: "POINT (31.9730600000000003 72.3255599999999959)"
-        name: Sāhīwāl
-        population: 37186
-        slug: sahiwal
-      - 
-        districts: []
-        location: "POINT (30.6666699999999999 73.0999999999999943)"
-        name: Sāhīwāl
-        population: 235695
-        slug: sahiwal
-      - 
-        districts: []
-        location: "POINT (28.3000000000000007 70.1333300000000008)"
-        name: Sādiqābād
-        population: 189876
-        slug: sadiqabad
-      - 
-        districts: []
-        location: "POINT (28.6879600000000003 69.9539000000000044)"
-        name: Rojhān
-        population: 13031
-        slug: rojhan
-      - 
-        districts: []
-        location: "POINT (30.8833300000000008 73.5999999999999943)"
-        name: "Renāla Khurd"
-        population: 37111
-        slug: renala-khurd
-      - 
-        districts: []
-        location: "POINT (32.3285300000000007 73.7813600000000065)"
-        name: Rasūlnagar
-        population: 14392
-        slug: rasulnagar
-      - 
-        districts: []
-        location: "POINT (29.1035100000000000 70.3250400000000013)"
-        name: Rājanpur
-        population: 50682
-        slug: rajanpur
-      - 
-        districts: []
-        location: "POINT (31.2208299999999994 74.2519400000000047)"
-        name: "Rāja Jang"
-        population: 24407
-        slug: raja-jang
-      - 
-        districts: []
-        location: "POINT (31.2544399999999989 74.2177800000000047)"
-        name: Rāiwind
-        population: 31592
-        slug: raiwind
-      - 
-        districts: []
-        location: "POINT (28.4166699999999999 70.2999999999999972)"
-        name: "Rahīmyār Khān"
-        population: 0
-        slug: rahimyar-khan
-      - 
-        districts: []
-        location: "POINT (30.2923800000000014 71.6711700000000036)"
-        name: "Qādirpur Rān"
-        population: 20407
-        slug: qadirpur-ran
-      - 
-        districts: []
-        location: "POINT (30.7666700000000013 72.4333299999999980)"
-        name: "Pīr Mahal"
-        population: 35343
-        slug: pir-mahal
-      - 
-        districts: []
-        location: "POINT (33.2402400000000000 72.2660900000000055)"
-        name: "Pindi Gheb"
-        population: 34301
-        slug: pindi-gheb
-      - 
-        districts: []
-        location: "POINT (31.8978099999999998 73.2730200000000025)"
-        name: "Pindi Bhattiān"
-        population: 35088
-        slug: pindi-bhattian
-      - 
-        districts: []
-        location: "POINT (32.5878900000000016 73.0456400000000059)"
-        name: "Pind Dādan Khān"
-        population: 22001
-        slug: pind-dadan-khan
-      - 
-        districts: []
-        location: "POINT (32.4297299999999993 73.5774499999999989)"
-        name: Phālia
-        population: 24789
-        slug: phalia
-      - 
-        districts: []
-        location: "POINT (31.0166700000000013 73.8499999999999943)"
-        name: Pattoki
-        population: 70436
-        slug: pattoki
-      - 
-        districts: []
-        location: "POINT (30.3500000000000014 73.4000000000000057)"
-        name: Pākpattan
-        population: 126706
-        slug: pakpattan
-      - 
-        districts: []
-        location: "POINT (30.8080600000000011 73.4458300000000008)"
-        name: Okāra
-        population: 223648
-        slug: okara
-      - 
-        districts: []
-        location: "POINT (31.9609799999999993 73.9730899999999991)"
-        name: "Naushahra Virkān"
-        population: 40853
-        slug: naushahra-virkan
-      - 
-        districts: []
-        location: "POINT (32.1000000000000014 74.8833300000000008)"
-        name: Nārowāl
-        population: 68291
-        slug: narowal
-      - 
-        districts: []
-        location: "POINT (31.9131999999999998 74.5175600000000031)"
-        name: Nārang
-        population: 34778
-        slug: narang
-      - 
-        districts: []
-        location: "POINT (31.4475000000000016 73.6972200000000015)"
-        name: "Nankāna Sāhib"
-        population: 56366
-        slug: nankana-sahib
-      - 
-        districts: []
-        location: "POINT (30.0753699999999995 71.1921300000000059)"
-        name: Muzaffargarh
-        population: 165192
-        slug: muzaffargarh
-      - 
-        districts: []
-        location: "POINT (30.8922199999999982 73.4988900000000029)"
-        name: Mustafābād
-        population: 45795
-        slug: mustafabad
-      - 
-        districts: []
-        location: "POINT (33.9048999999999978 73.3924999999999983)"
-        name: Murree
-        population: 25247
-        slug: murree
-      - 
-        districts: []
-        location: "POINT (31.8024999999999984 74.2616699999999952)"
-        name: Murīdke
-        population: 164246
-        slug: muridke
-      - 
-        districts: []
-        location: "POINT (30.1955600000000004 71.4752799999999979)"
-        name: Multān
-        population: 1437230
-        slug: multan
-      - 
-        districts: []
-        location: "POINT (32.2486099999999993 72.1108300000000071)"
-        name: "Mitha Tiwāna"
-        population: 26390
-        slug: mitha-tiwana
-      - 
-        districts: []
-        location: "POINT (30.1666699999999999 73.5666700000000020)"
-        name: Minchinābād
-        population: 29253
-        slug: minchinabad
-      - 
-        districts: []
-        location: "POINT (32.5741000000000014 71.5263900000000064)"
-        name: Miānwāli
-        population: 89570
-        slug: mianwali
-      - 
-        districts: []
-        location: "POINT (30.4499999999999993 72.3666699999999992)"
-        name: "Miān Channūn"
-        population: 76226
-        slug: mian-channun
-      - 
-        districts: []
-        location: "POINT (31.3865599999999993 71.4406699999999972)"
-        name: Mankera
-        population: 10819
-        slug: mankera
-      - 
-        districts: []
-        location: "POINT (31.8930599999999984 72.3816699999999997)"
-        name: Mangla
-        population: 16264
-        slug: mangla
-      - 
-        districts: []
-        location: "POINT (32.5833900000000014 73.4843199999999968)"
-        name: "Mandi Bahāuddīn"
-        population: 129733
-        slug: mandi-bahauddin
-      - 
-        districts: []
-        location: "POINT (31.5841700000000003 73.6877800000000036)"
-        name: Mānānwāla
-        population: 28432
-        slug: mananwala
-      - 
-        districts: []
-        location: "POINT (30.8333300000000001 72.7999999999999972)"
-        name: "Māmu Kānjan"
-        population: 31914
-        slug: mamu-kanjan
-      - 
-        districts: []
-        location: "POINT (32.5536200000000022 73.2123399999999975)"
-        name: Malakwāl
-        population: 34589
-        slug: malakwal
-      - 
-        districts: []
-        location: "POINT (29.8002800000000008 72.1758300000000048)"
-        name: Mailsi
-        population: 64545
-        slug: mailsi
-      - 
-        districts: []
-        location: "POINT (29.5405100000000012 71.6335700000000060)"
-        name: Lodhrān
-        population: 97249
-        slug: lodhran
-      - 
-        districts: []
-        location: "POINT (32.2065100000000015 72.9537200000000041)"
-        name: Liliāni
-        population: 12211
-        slug: liliani
-      - 
-        districts: []
-        location: "POINT (30.9612799999999986 70.9390400000000056)"
-        name: Leiah
-        population: 78954
-        slug: leiah
-      - 
-        districts: []
-        location: "POINT (31.8225000000000016 72.7972199999999958)"
-        name: Lāliān
-        population: 31355
-        slug: lalian
-      - 
-        districts: []
-        location: "POINT (31.5497200000000007 74.3436099999999982)"
-        name: Lahore
-        population: 6310888
-        slug: lahore
-      - 
-        districts: []
-        location: "POINT (32.1565599999999989 74.1170099999999934)"
-        name: "Ladhewāla Warāich"
-        population: 39757
-        slug: ladhewala-waraich
-      - 
-        districts: []
-        location: "POINT (32.5284800000000018 73.9736800000000017)"
-        name: Kunjāh
-        population: 28103
-        slug: kunjah
-      - 
-        districts: []
-        location: "POINT (32.4573099999999997 71.4795600000000064)"
-        name: Kundiān
-        population: 35406
-        slug: kundian
-      - 
-        districts: []
-        location: "POINT (30.7737000000000016 70.9312500000000057)"
-        name: "Kot Sultan"
-        population: 10000
-        slug: kot-sultan
-      - 
-        districts: []
-        location: "POINT (28.5521999999999991 70.4683699999999931)"
-        name: "Kot Samāba"
-        population: 22953
-        slug: kot-samaba
-      - 
-        districts: []
-        location: "POINT (31.1724999999999994 74.0997200000000049)"
-        name: "Kot Rādha Kishan"
-        population: 45938
-        slug: kot-radha-kishan
-      - 
-        districts: []
-        location: "POINT (32.1895400000000009 73.0279799999999994)"
-        name: "Kot Mūmin"
-        population: 38355
-        slug: kot-mumin
-      - 
-        districts: []
-        location: "POINT (32.5882999999999967 74.4932100000000048)"
-        name: "Kotli Lohārān"
-        population: 21463
-        slug: kotli-loharan
-      - 
-        districts: []
-        location: "POINT (32.3329799999999992 74.5479799999999955)"
-        name: "Kot Ghulām Muhammad"
-        population: 20897
-        slug: kot-ghulam-muhammad
-      - 
-        districts: []
-        location: "POINT (30.4692000000000007 70.9671400000000006)"
-        name: "Kot Addu"
-        population: 104217
-        slug: kot-addu
-      - 
-        districts: []
-        location: "POINT (32.2966699999999989 72.3525000000000063)"
-        name: Khushāb
-        population: 102793
-        slug: khushab
-      - 
-        districts: []
-        location: "POINT (32.6479300000000023 73.0105800000000045)"
-        name: Khewra
-        population: 32620
-        slug: khewra
-      - 
-        districts: []
-        location: "POINT (32.8149299999999968 73.8635900000000021)"
-        name: Khāriān
-        population: 81435
-        slug: kharian
-      - 
-        districts: []
-        location: "POINT (28.6499999999999986 70.6500000000000057)"
-        name: Khānpur
-        population: 142426
-        slug: khanpur
-      - 
-        districts: []
-        location: "POINT (29.9173000000000009 71.1618399999999980)"
-        name: Khāngarh
-        population: 19698
-        slug: khangarh
-      - 
-        districts: []
-        location: "POINT (31.8316699999999990 73.6230599999999953)"
-        name: "Khāngāh Dogrān"
-        population: 30314
-        slug: khangah-dogran
-      - 
-        districts: []
-        location: "POINT (30.3000000000000007 71.9333299999999980)"
-        name: Khānewāl
-        population: 0
-        slug: khanewal
-      - 
-        districts: []
-        location: "POINT (29.5811099999999989 72.2363900000000001)"
-        name: Khairpur
-        population: 30967
-        slug: khairpur
-      - 
-        districts: []
-        location: "POINT (31.1155599999999986 74.4466699999999975)"
-        name: Kasūr
-        population: 290643
-        slug: kasur
-      - 
-        districts: []
-        location: "POINT (31.2274099999999990 70.9492300000000000)"
-        name: Karor
-        population: 25634
-        slug: karor
-      - 
-        districts: []
-        location: "POINT (30.7666700000000013 74.1333300000000008)"
-        name: Kanganpur
-        population: 21788
-        slug: kanganpur
-      - 
-        districts: []
-        location: "POINT (33.7473400000000012 73.5110700000000037)"
-        name: Kāmra
-        population: 43779
-        slug: kamra
-      - 
-        districts: []
-        location: "POINT (31.9744400000000013 74.2244400000000013)"
-        name: Kamoke
-        population: 199531
-        slug: kamoke
-      - 
-        districts: []
-        location: "POINT (30.4333300000000015 73.0499999999999972)"
-        name: Kamīr
-        population: 24053
-        slug: kamir
-      - 
-        districts: []
-        location: "POINT (30.7333299999999987 72.6500000000000057)"
-        name: Kamālia
-        population: 112426
-        slug: kamalia
-      - 
-        districts: []
-        location: "POINT (32.1563900000000018 71.2594399999999979)"
-        name: "Kalūr Kot"
-        population: 25574
-        slug: kalur-kot
-      - 
-        districts: []
-        location: "POINT (32.7833299999999994 72.7000000000000028)"
-        name: "Kallar Kahār"
-        population: 15800
-        slug: kallar-kahar
-      - 
-        districts: []
-        location: "POINT (31.9771800000000006 73.6025900000000064)"
-        name: "Kāleke Mandi"
-        population: 16361
-        slug: kaleke-mandi
-      - 
-        districts: []
-        location: "POINT (32.2009299999999996 74.6491400000000027)"
-        name: Kalāswāla
-        population: 12576
-        slug: kalaswala
-      - 
-        districts: []
-        location: "POINT (32.9650000000000034 71.5569700000000068)"
-        name: Kālābāgh
-        population: 15976
-        slug: kalabagh
-      - 
-        districts: []
-        location: "POINT (33.5935500000000005 73.3864700000000028)"
-        name: Kahūta
-        population: 22551
-        slug: kahuta
-      - 
-        districts: []
-        location: "POINT (29.6238199999999985 71.9167300000000012)"
-        name: "Kohror Pakka"
-        population: 69743
-        slug: kohror-pakka
-      - 
-        districts: []
-        location: "POINT (31.3691700000000004 74.3652799999999985)"
-        name: Kāhna
-        population: 45888
-        slug: kahna
-      - 
-        districts: []
-        location: "POINT (30.4042999999999992 71.8665699999999958)"
-        name: Kabīrwāla
-        population: 60782
-        slug: kabirwala
-      - 
-        districts: []
-        location: "POINT (31.5678100000000015 73.1834699999999998)"
-        name: Jhumra
-        population: 37214
-        slug: jhumra
-      - 
-        districts: []
-        location: "POINT (32.9331299999999985 73.7263700000000028)"
-        name: Jhelum
-        population: 164080
-        slug: jhelum
-      - 
-        districts: []
-        location: "POINT (32.3613900000000001 72.6227800000000059)"
-        name: Jhawāriān
-        population: 27893
-        slug: jhawarian
-      - 
-        districts: []
-        location: "POINT (31.2739599999999989 72.3160400000000010)"
-        name: "Jhang Sadr"
-        population: 341210
-        slug: jhang-sadr
-      - 
-        districts: []
-        location: "POINT (32.2841700000000031 72.2786100000000005)"
-        name: Jauharābād
-        population: 46545
-        slug: jauharabad
-      - 
-        districts: []
-        location: "POINT (29.5165399999999991 70.8503199999999964)"
-        name: "Jatoi Shimāli"
-        population: 47144
-        slug: jatoi-shimali
-      - 
-        districts: []
-        location: "POINT (31.3333300000000001 73.4333299999999980)"
-        name: Jarānwāla
-        population: 119785
-        slug: jaranwala
-      - 
-        districts: []
-        location: "POINT (33.4288900000000027 72.0199999999999960)"
-        name: Jand
-        population: 18170
-        slug: jand
-      - 
-        districts: []
-        location: "POINT (29.6441400000000002 70.5954399999999964)"
-        name: Jāmpur
-        population: 63791
-        slug: jampur
-      - 
-        districts: []
-        location: "POINT (29.5068699999999993 71.2191700000000054)"
-        name: "Jalālpur Pīrwāla"
-        population: 37393
-        slug: jalalpur-pirwala
-      - 
-        districts: []
-        location: "POINT (32.6406800000000032 74.2161200000000036)"
-        name: Jalālpur
-        population: 93883
-        slug: jalalpur
-      - 
-        districts: []
-        location: "POINT (31.8052799999999998 72.2772199999999998)"
-        name: "Jahāniān Shāh"
-        population: 29095
-        slug: jahanian-shah
-      - 
-        districts: []
-        location: "POINT (30.7333299999999987 73.8166700000000020)"
-        name: Hujra
-        population: 61546
-        slug: hujra
-      - 
-        districts: []
-        location: "POINT (33.9097200000000001 72.4927799999999962)"
-        name: Hazro
-        population: 26309
-        slug: hazro
-      - 
-        districts: []
-        location: "POINT (30.4499999999999993 73.7000000000000028)"
-        name: Haveli
-        population: 65289
-        slug: haveli
-      - 
-        districts: []
-        location: "POINT (29.7122199999999985 72.5552799999999962)"
-        name: Hāsilpur
-        population: 88031
-        slug: hasilpur
-      - 
-        districts: []
-        location: "POINT (30.4333300000000015 72.7000000000000028)"
-        name: "Hasan Abdāl"
-        population: 45665
-        slug: hasan-abdal
-      - 
-        districts: []
-        location: "POINT (29.6133300000000013 73.1388900000000035)"
-        name: Hārūnābād
-        population: 72432
-        slug: harunabad
-      - 
-        districts: []
-        location: "POINT (32.2791700000000006 71.5538899999999956)"
-        name: Harnoli
-        population: 15669
-        slug: harnoli
-      - 
-        districts: []
-        location: "POINT (32.0678600000000031 73.6854500000000030)"
-        name: Hāfizābād
-        population: 153656
-        slug: hafizabad
-      - 
-        districts: []
-        location: "POINT (32.6413200000000003 74.5690400000000011)"
-        name: Hadāli
-        population: 49663
-        slug: hadali
-      - 
-        districts: []
-        location: "POINT (32.5727600000000024 74.0895900000000012)"
-        name: Gujrāt
-        population: 301506
-        slug: gujrat
-      - 
-        districts: []
-        location: "POINT (33.2535499999999971 73.3041900000000055)"
-        name: "Gūjar Khān"
-        population: 69374
-        slug: gujar-khan
-      - 
-        districts: []
-        location: "POINT (31.1487400000000001 72.6865600000000001)"
-        name: Gojra
-        population: 139726
-        slug: gojra
-      - 
-        districts: []
-        location: "POINT (30.8338800000000006 71.9052899999999937)"
-        name: "Garh Mahārāja"
-        population: 29153
-        slug: garh-maharaja
-      - 
-        districts: []
-        location: "POINT (29.1924999999999990 72.8536100000000033)"
-        name: "Fort Abbās"
-        population: 40626
-        slug: fort-abbas
-      - 
-        districts: []
-        location: "POINT (32.1833299999999980 75.0666700000000020)"
-        name: Fazalpur
-        population: 28213
-        slug: fazalpur
-      - 
-        districts: []
-        location: "POINT (31.8883299999999998 72.4108300000000042)"
-        name: Faruka
-        population: 21747
-        slug: faruka
-      - 
-        districts: []
-        location: "POINT (29.4694399999999987 73.0311099999999982)"
-        name: Faqīrwāli
-        population: 25186
-        slug: faqirwali
-      - 
-        districts: []
-        location: "POINT (31.4166699999999999 73.0833300000000037)"
-        name: Faisalābād
-        population: 2506595
-        slug: faisalabad
-      - 
-        districts: []
-        location: "POINT (32.0436100000000010 74.2620000000000005)"
-        name: Eminābād
-        population: 22679
-        slug: eminabad
-      - 
-        districts: []
-        location: "POINT (29.7994999999999983 71.7195799999999934)"
-        name: Dunyāpur
-        population: 34044
-        slug: dunyapur
-      - 
-        districts: []
-        location: "POINT (29.7500000000000000 73.2500000000000000)"
-        name: "Dunga Bunga"
-        population: 25893
-        slug: dunga-bunga
-      - 
-        districts: []
-        location: "POINT (33.7214799999999997 73.0432899999999989)"
+        alternate_names: 
+          - Islamabad
+          - Islamabade
+          - Islamahbad
+        ascii_name: Islamabad
         name: Islāmābād
+        names_en: 
+          - Islamabad
+        names_es: 
+          - Islamabad
         population: 601600
-        slug: islamabad
-      - 
-        districts: []
-        location: "POINT (30.6666699999999999 73.6500000000000057)"
-        name: Dīpālpur
-        population: 74640
-        slug: dipalpur
-      - 
-        districts: []
-        location: "POINT (32.6397600000000025 73.7220200000000006)"
-        name: Dinga
-        population: 39784
-        slug: dinga
-      - 
-        districts: []
-        location: "POINT (31.2166700000000006 72.9833299999999952)"
-        name: Dijkot
-        population: 27469
-        slug: dijkot
-      - 
-        districts: []
-        location: "POINT (32.4054300000000026 74.1373200000000026)"
-        name: Dhaunkal
-        population: 12117
-        slug: dhaunkal
-      - 
-        districts: []
-        location: "POINT (29.5799100000000017 71.7521299999999940)"
-        name: Dhanot
-        population: 18729
-        slug: dhanot
-      - 
-        districts: []
-        location: "POINT (30.0561399999999992 70.6347700000000032)"
-        name: "Dera Ghāzi Khān"
-        population: 236093
-        slug: dera-ghazi-khan
-      - 
-        districts: []
-        location: "POINT (33.1912099999999981 73.1410199999999975)"
-        name: Daultāla
-        population: 11814
-        slug: daultala
-      - 
-        districts: []
-        location: "POINT (32.3242600000000024 74.3497399999999971)"
-        name: Daska
-        population: 126924
-        slug: daska
-      - 
-        districts: []
-        location: "POINT (31.7912299999999988 71.1039399999999944)"
-        name: "Darya Khān"
-        population: 15048
-        slug: darya-khan
-      - 
-        districts: []
-        location: "POINT (29.5576700000000017 70.3761499999999955)"
-        name: Dājal
-        population: 17630
-        slug: dajal
-      - 
-        districts: []
-        location: "POINT (30.5701999999999998 70.9361099999999993)"
-        name: "Dāira Dīn Panāh"
-        population: 14878
-        slug: daira-din-panah
-      - 
-        districts: []
-        location: "POINT (30.9666700000000006 73.9833299999999952)"
-        name: Chūniān
-        population: 57312
-        slug: chunian
-      - 
-        districts: []
-        location: "POINT (31.7500000000000000 73.7999999999999972)"
-        name: "Chūhar Kāna"
-        population: 69321
-        slug: chuhar-kana
-      - 
-        districts: []
-        location: "POINT (32.7200599999999966 72.9848599999999976)"
-        name: "Choa Saidān Shāh"
-        population: 15344
-        slug: choa-saidan-shah
-      - 
-        districts: []
-        location: "POINT (29.8000000000000007 72.8666699999999992)"
-        name: "Chishtiān Mandi"
-        population: 122199
-        slug: chishtian-mandi
-      - 
-        districts: []
-        location: "POINT (31.7199999999999989 72.9788900000000069)"
-        name: Chiniot
-        population: 201781
-        slug: chiniot
-      - 
-        districts: []
-        location: "POINT (32.9333299999999980 72.8666699999999992)"
-        name: Chakwāl
-        population: 101200
-        slug: chakwal
-      - 
-        districts: []
-        location: "POINT (30.7500000000000000 73.0333300000000065)"
-        name: "Chak Āzam Saffo"
-        population: 38216
-        slug: chak-azam-saffo
-      - 
-        districts: []
-        location: "POINT (30.1666699999999999 72.6500000000000057)"
-        name: Būrewāla
-        population: 183915
-        slug: burewala
-      - 
-        districts: []
-        location: "POINT (32.4288799999999995 74.3632999999999953)"
-        name: Bhopālwāla
-        population: 17341
-        slug: bhopalwala
-      - 
-        districts: []
-        location: "POINT (32.4831799999999973 72.9097000000000008)"
-        name: Bhera
-        population: 31781
-        slug: bhera
-      - 
-        districts: []
-        location: "POINT (31.5691799999999994 72.6489899999999977)"
-        name: Bhawāna
-        population: 16218
-        slug: bhawana
-      - 
-        districts: []
-        location: "POINT (32.2720399999999970 72.9042500000000047)"
-        name: Bhalwāl
-        population: 74744
-        slug: bhalwal
-      - 
-        districts: []
-        location: "POINT (31.6252500000000012 71.0657400000000052)"
-        name: Bhakkar
-        population: 81950
-        slug: bhakkar
-      - 
-        districts: []
-        location: "POINT (31.1999999999999993 73.9500000000000028)"
-        name: "Bhāi Pheru"
-        population: 86900
-        slug: bhai-pheru
-      - 
-        districts: []
-        location: "POINT (32.4375900000000001 74.2682400000000058)"
-        name: Begowāla
-        population: 9259
-        slug: begowala
-      - 
-        districts: []
-        location: "POINT (30.5833300000000001 73.8333300000000037)"
-        name: Basīrpur
-        population: 41617
-        slug: basirpur
-      - 
-        districts: []
-        location: "POINT (30.7358599999999988 70.8379599999999954)"
-        name: "Bakhri Ahmad Khan"
-        population: 2000
-        slug: bakhri-ahmad-khan
-      - 
-        districts: []
-        location: "POINT (29.3999999999999986 71.6833299999999980)"
-        name: Bahāwalpur
-        population: 552607
-        slug: bahawalpur
-      - 
-        districts: []
-        location: "POINT (29.9833299999999987 73.2666700000000048)"
-        name: Bahāwalnagar
-        population: 126617
-        slug: bahawalnagar
-      - 
-        districts: []
-        location: "POINT (31.9928300000000014 74.6683400000000006)"
-        name: Baddomalhi
-        population: 18435
-        slug: baddomalhi
-      - 
-        districts: []
-        location: "POINT (33.7722199999999972 72.3683300000000003)"
-        name: "Attock City"
-        population: 85479
-        slug: attock-city
-      - 
-        districts: []
-        location: "POINT (30.2833299999999994 73.0666700000000020)"
-        name: Ārifwāla
-        population: 87360
-        slug: arifwala
-      - 
-        districts: []
-        location: "POINT (29.3846400000000010 70.9115699999999975)"
-        name: Alīpur
-        population: 33601
-        slug: alipur
-      - 
-        districts: []
-        location: "POINT (29.1446199999999997 71.2608400000000017)"
-        name: "Ahmadpur East"
-        population: 116579
-        slug: ahmadpur-east
-      - 
-        districts: []
-        location: "POINT (31.3067700000000002 72.3281400000000048)"
-        name: "Jhang City"
-        population: 0
-        slug: jhang-city
-      - 
-        districts: []
-        location: "POINT (30.5508300000000013 73.3908299999999940)"
-        name: Bahāwalnagar
-        population: 126700
-        slug: bahawalnagar
-      - 
-        districts: []
-        location: "POINT (30.6751900000000006 71.7490499999999969)"
-        name: "Ahmadpur Siāl"
-        population: 24889
-        slug: ahmadpur-sial
-      - 
-        districts: []
-        location: "POINT (32.5549200000000027 73.2121999999999957)"
-        name: "Malakwal City"
-        population: 35000
-        slug: malakwal-city
-      - 
-        districts: []
-        location: "POINT (30.7876900000000013 70.8685300000000069)"
-        name: "Basti Dosa"
-        population: 2000
-        slug: basti-dosa
-      - 
-        districts: []
-        location: "POINT (30.8056300000000007 70.8491099999999960)"
-        name: "Moza Shahwala"
-        population: 1200
-        slug: moza-shahwala
-    code: PK.04
-    name: Punjab
-    slug: punjab
+    name: Islāmābād
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Sindh
     cities: 
       - 
-        districts: []
-        location: "POINT (24.7833299999999994 68.9666699999999935)"
-        name: "Tando Bāgo"
-        population: 14095
-        slug: tando-bago
-      - 
-        districts: []
-        location: "POINT (25.4626300000000008 68.7192299999999960)"
-        name: "Tando Allāhyār"
-        population: 127202
-        slug: tando-allahyar
-      - 
-        districts: []
-        location: "POINT (26.1549699999999987 68.6509300000000025)"
-        name: "Shāhpur Chākar"
-        population: 21446
-        slug: shahpur-chakar
-      - 
-        districts: []
-        location: "POINT (26.2528900000000007 68.4105200000000053)"
-        name: Nawābshāh
-        population: 229504
-        slug: nawabshah
-      - 
-        districts: []
-        location: "POINT (26.8423799999999986 68.1229799999999983)"
-        name: "Naushahro Fīroz"
-        population: 17631
-        slug: naushahro-firoz
-      - 
-        districts: []
-        location: "POINT (28.0500000000000007 69.7000000000000028)"
-        name: Khairpur
-        population: 40083
-        slug: khairpur
-      - 
-        districts: []
-        location: "POINT (25.2931300000000014 68.8120100000000008)"
-        name: Chambar
-        population: 12746
-        slug: chambar
-      - 
-        districts: []
-        location: "POINT (25.1305599999999991 68.8666699999999992)"
-        name: "Tando Ghulām Ali"
-        population: 16299
-        slug: tando-ghulam-ali
-      - 
-        districts: []
-        location: "POINT (24.3888900000000000 67.9930599999999998)"
+        alternate_names: ~
+        ascii_name: "Chuhar Jamali"
         name: "Chuhar Jamāli"
+        names_en: ~
+        names_es: ~
         population: 15781
-        slug: chuhar-jamali
       - 
-        districts: []
-        location: "POINT (27.5910200000000003 68.6178599999999932)"
+        alternate_names: 
+          - "Pir Goth"
+          - "Pir jo Goth"
+          - "Pīr jo Goth"
+        ascii_name: "Pir jo Goth"
         name: "Pīr jo Goth"
+        names_en: ~
+        names_es: ~
         population: 35537
-        slug: pir-jo-goth
       - 
-        districts: []
-        location: "POINT (27.5333299999999994 68.7666700000000048)"
+        alternate_names: 
+          - Khaipur
+          - Khairpur
+          - "Khairpur Mirs"
+        ascii_name: Khairpur
         name: Khairpur
+        names_en: ~
+        names_es: ~
         population: 124602
-        slug: khairpur
       - 
-        districts: []
-        location: "POINT (27.9375800000000005 69.3192599999999999)"
+        alternate_names: 
+          - Adalpur
+          - Adilpur
+          - Adulpoor
+        ascii_name: Adilpur
         name: Ādilpur
+        names_en: ~
+        names_es: ~
         population: 8247
-        slug: adilpur
       - 
-        districts: []
-        location: "POINT (27.4499999999999993 67.7999999999999972)"
+        alternate_names: ~
+        ascii_name: Warah
         name: Wārāh
+        names_en: ~
+        names_es: ~
         population: 18724
-        slug: warah
       - 
-        districts: []
-        location: "POINT (25.3666699999999992 69.7333299999999952)"
+        alternate_names: ~
+        ascii_name: Umarkot
         name: Umarkot
+        names_en: ~
+        names_es: ~
         population: 42074
-        slug: umarkot
       - 
-        districts: []
-        location: "POINT (28.1666699999999999 69.7333299999999952)"
+        alternate_names: ~
+        ascii_name: Ubauro
         name: Ubauro
+        names_en: ~
+        names_es: ~
         population: 23462
-        slug: ubauro
       - 
-        districts: []
-        location: "POINT (28.2418499999999995 68.7776000000000067)"
+        alternate_names: 
+          - Thul
+          - "Thul Sind"
+        ascii_name: Thul
         name: Thul
+        names_en: ~
+        names_es: ~
         population: 34472
-        slug: thul
       - 
-        districts: []
-        location: "POINT (24.7474500000000006 67.9235299999999995)"
+        alternate_names: 
+          - Tatta
+          - Thatta
+        ascii_name: Thatta
         name: Thatta
+        names_en: ~
+        names_es: ~
         population: 44302
-        slug: thatta
       - 
-        districts: []
-        location: "POINT (26.9442300000000010 68.1160200000000060)"
+        alternate_names: ~
+        ascii_name: "Tharu Shah"
         name: "Thāru Shāh"
+        names_en: ~
+        names_es: ~
         population: 17698
-        slug: tharu-shah
       - 
-        districts: []
-        location: "POINT (28.2787000000000006 68.9971800000000002)"
+        alternate_names: 
+          - Tangwan
+          - Tangwani
+          - Tangwān
+        ascii_name: Tangwani
         name: Tangwāni
+        names_en: ~
+        names_es: ~
         population: 9255
-        slug: tangwani
       - 
-        districts: []
-        location: "POINT (25.1333300000000008 68.5333300000000065)"
+        alternate_names: 
+          - "Tando Mohammad Khan"
+          - "Tando Muhammad Khan"
+          - "Tando Muhammad Khān"
+        ascii_name: "Tando Muhammad Khan"
         name: "Tando Muhammad Khān"
+        names_en: ~
+        names_es: ~
         population: 72659
-        slug: tando-muhammad-khan
       - 
-        districts: []
-        location: "POINT (25.9833299999999987 69.2000000000000028)"
+        alternate_names: 
+          - "Tando Mittha Khan"
+          - Tandomithakhan
+          - "Tāndo Mittha Khān"
+        ascii_name: "Tando Mittha Khan"
         name: "Tāndo Mittha Khān"
+        names_en: ~
+        names_es: ~
         population: 2723
-        slug: tando-mittha-khan
       - 
-        districts: []
-        location: "POINT (25.4271799999999999 68.5361900000000048)"
+        alternate_names: ~
+        ascii_name: "Tando Jam"
         name: "Tando Jām"
+        names_en: ~
+        names_es: ~
         population: 31612
-        slug: tando-jam
       - 
-        districts: []
-        location: "POINT (25.7666700000000013 68.6666699999999963)"
+        alternate_names: ~
+        ascii_name: "Tando Bago"
+        name: "Tando Bāgo"
+        names_en: ~
+        names_es: ~
+        population: 14095
+      - 
+        alternate_names: 
+          - "Tando Alahyar"
+          - "Tando Allahyar"
+          - "Tando Allāhyār"
+        ascii_name: "Tando Allahyar"
+        name: "Tando Allāhyār"
+        names_en: ~
+        names_es: ~
+        population: 127202
+      - 
+        alternate_names: ~
+        ascii_name: "Tando Adam"
         name: "Tando Ādam"
+        names_en: ~
+        names_es: ~
         population: 125598
-        slug: tando-adam
       - 
-        districts: []
-        location: "POINT (24.8833300000000008 68.8166700000000020)"
+        alternate_names: ~
+        ascii_name: Talhar
         name: Talhār
+        names_en: ~
+        names_es: ~
         population: 21154
-        slug: talhar
       - 
-        districts: []
-        location: "POINT (27.6999999999999993 68.8666699999999992)"
+        alternate_names: 
+          - Sukkur
+          - Суккур
+        ascii_name: Sukkur
         name: Sukkur
+        names_en: ~
+        names_es: ~
         population: 417767
-        slug: sukkur
       - 
-        districts: []
-        location: "POINT (27.3055599999999998 68.3974900000000048)"
+        alternate_names: 
+          - Sobbodero
+          - Sobhadero
+          - "Sobho Dero"
+        ascii_name: Sobhadero
         name: Sobhādero
+        names_en: ~
+        names_es: ~
         population: 14623
-        slug: sobhadero
       - 
-        districts: []
-        location: "POINT (27.0333299999999994 67.8499999999999943)"
+        alternate_names: ~
+        ascii_name: "Sita Road"
         name: "Sīta Road"
+        names_en: ~
+        names_es: ~
         population: 27587
-        slug: sita-road
       - 
-        districts: []
-        location: "POINT (26.0333299999999994 68.7999999999999972)"
+        alternate_names: 
+          - Sinjhoro
+          - Sinjihoro
+        ascii_name: Sinjhoro
         name: Sinjhoro
+        names_en: ~
+        names_es: ~
         population: 15970
-        slug: sinjhoro
       - 
-        districts: []
-        location: "POINT (27.9570599999999985 68.6378899999999987)"
+        alternate_names: ~
+        ascii_name: Shikarpur
         name: Shikārpur
+        names_en: ~
+        names_es: ~
         population: 156901
-        slug: shikarpur
       - 
-        districts: []
-        location: "POINT (25.9333300000000015 68.6166699999999992)"
+        alternate_names: 
+          - "Shahpur Chaka"
+          - "Shahpur Chakar"
+          - "Shahpur Chaker"
+        ascii_name: "Shahpur Chakar"
+        name: "Shāhpur Chākar"
+        names_en: ~
+        names_es: ~
+        population: 21446
+      - 
+        alternate_names: ~
+        ascii_name: Shahdadpur
         name: Shāhdādpur
+        names_en: ~
+        names_es: ~
         population: 67249
-        slug: shahdadpur
       - 
-        districts: []
-        location: "POINT (27.8477099999999993 67.9055000000000035)"
+        alternate_names: 
+          - Shahdadkot
+          - Shahdadpur
+          - Shāhdādkot
+        ascii_name: Shahdadkot
         name: Shāhdādkot
+        names_en: ~
+        names_es: ~
         population: 75411
-        slug: shahdadkot
       - 
-        districts: []
-        location: "POINT (26.4333300000000015 67.8666699999999992)"
+        alternate_names: 
+          - Sehwan
+          - Sehwān
+        ascii_name: Sehwan
         name: Sehwān
+        names_en: ~
+        names_es: ~
         population: 41150
-        slug: sehwan
       - 
-        districts: []
-        location: "POINT (26.0418400000000005 68.1377700000000033)"
+        alternate_names: ~
+        ascii_name: Sann
         name: Sann
+        names_en: ~
+        names_es: ~
         population: 8834
-        slug: sann
       - 
-        districts: []
-        location: "POINT (26.0333299999999994 68.9500000000000028)"
+        alternate_names: 
+          - Sangar
+          - Sanghar
+          - Sānghar
+        ascii_name: Sanghar
         name: Sānghar
+        names_en: ~
+        names_es: ~
         population: 62033
-        slug: sanghar
       - 
-        districts: []
-        location: "POINT (25.2833299999999994 69.4000000000000057)"
+        alternate_names: 
+          - Samara
+          - Samaro
+        ascii_name: Samaro
         name: Samaro
+        names_en: ~
+        names_es: ~
         population: 8784
-        slug: samaro
       - 
-        districts: []
-        location: "POINT (26.1383900000000011 68.2736100000000050)"
+        alternate_names: 
+          - Sakrand
+          - Sakrano
+        ascii_name: Sakrand
         name: Sakrand
+        names_en: ~
+        names_es: ~
         population: 31630
-        slug: sakrand
       - 
-        districts: []
-        location: "POINT (27.9689699999999988 68.8048100000000034)"
+        alternate_names: 
+          - Rustam
+          - "Rustam jo Goth"
+          - Rustom
+        ascii_name: "Rustam jo Goth"
         name: "Rustam jo Goth"
+        names_en: ~
+        names_es: ~
         population: 9048
-        slug: rustam-jo-goth
       - 
-        districts: []
-        location: "POINT (27.6833300000000015 68.9000000000000057)"
+        alternate_names: 
+          - Lohri
+          - Rohri
+        ascii_name: Rohri
         name: Rohri
+        names_en: ~
+        names_es: ~
         population: 50649
-        slug: rohri
       - 
-        districts: []
-        location: "POINT (27.8029599999999988 68.2870800000000031)"
+        alternate_names: 
+          - Dero
+          - Rato
+          - Ratodero
+        ascii_name: Ratodero
         name: Ratodero
+        names_en: ~
+        names_es: ~
         population: 47819
-        slug: ratodero
       - 
-        districts: []
-        location: "POINT (27.2902400000000007 68.5059200000000033)"
+        alternate_names: 
+          - Ranipur
+          - Raripur
+          - Rānīpur
+        ascii_name: Ranipur
         name: Rānīpur
+        names_en: ~
+        names_es: ~
         population: 22495
-        slug: ranipur
       - 
-        districts: []
-        location: "POINT (24.9833299999999987 68.8499999999999943)"
+        alternate_names: ~
+        ascii_name: "Rajo Khanani"
         name: "Rājo Khanāni"
+        names_en: ~
+        names_es: ~
         population: 7683
-        slug: rajo-khanani
       - 
-        districts: []
-        location: "POINT (27.1833300000000015 67.9500000000000028)"
+        alternate_names: ~
+        ascii_name: Radhan
         name: Rādhan
+        names_en: ~
+        names_es: ~
         population: 16786
-        slug: radhan
       - 
-        districts: []
-        location: "POINT (27.5867600000000017 68.0010300000000001)"
+        alternate_names: 
+          - Kambar
+          - Qambar
+          - Камбар
+        ascii_name: Kambar
         name: Kambar
+        names_en: ~
+        names_es: ~
         population: 77481
-        slug: kambar
       - 
-        districts: []
-        location: "POINT (25.5166700000000013 69.3833300000000008)"
+        alternate_names: ~
+        ascii_name: Pithoro
         name: Pithoro
+        names_en: ~
+        names_es: ~
         population: 6440
-        slug: pithoro
       - 
-        districts: []
-        location: "POINT (26.8833300000000008 67.6833299999999980)"
+        alternate_names: ~
+        ascii_name: Phulji
         name: Phūlji
+        names_en: ~
+        names_es: ~
         population: 7877
-        slug: phulji
       - 
-        districts: []
-        location: "POINT (27.8587500000000006 69.1096900000000005)"
+        alternate_names: 
+          - "Pano Akil"
+          - "Pano Aqil"
+          - "Pāno Āqil"
+        ascii_name: "Pano Aqil"
         name: "Pāno Āqil"
+        names_en: ~
+        names_es: ~
         population: 72881
-        slug: pano-aqil
       - 
-        districts: []
-        location: "POINT (26.7747500000000009 68.3019699999999972)"
+        alternate_names: ~
+        ascii_name: "Pad Idan"
         name: "Pad Īdan"
+        names_en: ~
+        names_es: ~
         population: 20919
-        slug: pad-idan
       - 
-        districts: []
-        location: "POINT (27.6647700000000007 68.3621700000000061)"
+        alternate_names: 
+          - Nawabshah
+          - Nawābshāh
+        ascii_name: Nawabshah
+        name: Nawābshāh
+        names_en: 
+          - Nawabshah
+        names_es: ~
+        population: 229504
+      - 
+        alternate_names: 
+          - Naushahro
+          - "Naushahro Firoz"
+          - "Naushahro Fīroz"
+        ascii_name: "Naushahro Firoz"
+        name: "Naushahro Fīroz"
+        names_en: ~
+        names_es: ~
+        population: 17631
+      - 
+        alternate_names: 
+          - Naudero
+          - Naundero
+        ascii_name: Naudero
         name: Naudero
+        names_en: ~
+        names_es: ~
         population: 33455
-        slug: naudero
       - 
-        districts: []
-        location: "POINT (27.3833300000000008 67.9166699999999963)"
+        alternate_names: ~
+        ascii_name: Nasirabad
         name: Nasīrābād
+        names_en: ~
+        names_es: ~
         population: 27809
-        slug: nasirabad
       - 
-        districts: []
-        location: "POINT (24.8569999999999993 69.4033699999999953)"
+        alternate_names: 
+          - Naokot
+          - Naukot
+          - Nawakot
+        ascii_name: Naukot
         name: Naukot
+        names_en: ~
+        names_es: ~
         population: 22081
-        slug: naukot
       - 
-        districts: []
-        location: "POINT (25.0666699999999985 69.6500000000000057)"
+        alternate_names: 
+          - Nabisar
+          - Nabisarpat
+          - Nabīsar
+        ascii_name: Nabisar
         name: Nabīsar
+        names_en: ~
+        names_es: ~
         population: 6256
-        slug: nabisar
       - 
-        districts: []
-        location: "POINT (26.6645900000000005 68.0015599999999978)"
+        alternate_names: ~
+        ascii_name: Moro
         name: Moro
+        names_en: ~
+        names_es: ~
         population: 76765
-        slug: moro
       - 
-        districts: []
-        location: "POINT (24.7318299999999986 69.7981099999999941)"
+        alternate_names: 
+          - Mithi
+          - Mitti
+        ascii_name: Mithi
         name: Mithi
+        names_en: ~
+        names_es: ~
         population: 23431
-        slug: mithi
       - 
-        districts: []
-        location: "POINT (25.3166699999999985 69.0499999999999972)"
+        alternate_names: 
+          - Mirwah
+          - "Mirwah Gorchani"
+          - Mīrwāh
+        ascii_name: "Mirwah Gorchani"
         name: "Mīrwāh Gorchani"
+        names_en: ~
+        names_es: ~
         population: 12139
-        slug: mirwah-gorchani
       - 
-        districts: []
-        location: "POINT (24.5474199999999989 67.6277099999999933)"
+        alternate_names: 
+          - "Mipur Sakro"
+          - "Mirpur Sakro"
+          - "Mirpur Sukro"
+        ascii_name: "Mirpur Sakro"
         name: "Mīrpur Sakro"
+        names_en: ~
+        names_es: ~
         population: 8371
-        slug: mirpur-sakro
       - 
-        districts: []
-        location: "POINT (28.0333299999999994 69.5499999999999972)"
+        alternate_names: 
+          - Mirpur
+          - "Mirpur Mathelo"
+          - Mīrpur
+        ascii_name: "Mirpur Mathelo"
         name: "Mīrpur Māthelo"
+        names_en: ~
+        names_es: ~
         population: 49311
-        slug: mirpur-mathelo
       - 
-        districts: []
-        location: "POINT (25.5250999999999983 69.0159000000000020)"
+        alternate_names: 
+          - "Mirpur Khas"
+          - "Mīrpur Khās"
+        ascii_name: "Mirpur Khas"
         name: "Mīrpur Khās"
+        names_en: 
+          - "Mīrpur Khās"
+        names_es: ~
         population: 215657
-        slug: mirpur-khas
       - 
-        districts: []
-        location: "POINT (24.7291300000000014 68.2623700000000042)"
+        alternate_names: 
+          - "Mirpur Bathoro"
+          - "Mirpur Batoro"
+          - "Mīrpur Batoro"
+        ascii_name: "Mirpur Batoro"
         name: "Mīrpur Batoro"
+        names_en: 
+          - "Mīrpur Batoro"
+        names_es: ~
         population: 8866
-        slug: mirpur-batoro
       - 
-        districts: []
-        location: "POINT (27.7604000000000006 68.0933399999999978)"
+        alternate_names: ~
+        ascii_name: "Miro Khan"
         name: "Mīro Khān"
+        names_en: ~
+        names_es: ~
         population: 10590
-        slug: miro-khan
       - 
-        districts: []
-        location: "POINT (27.1833300000000015 67.8166700000000020)"
+        alternate_names: ~
+        ascii_name: Mehar
         name: Mehar
+        names_en: ~
+        names_es: ~
         population: 30429
-        slug: mehar
       - 
-        districts: []
-        location: "POINT (25.0431199999999983 68.6556800000000038)"
+        alternate_names: ~
+        ascii_name: Matli
         name: Mātli
+        names_en: ~
+        names_es: ~
         population: 50398
-        slug: matli
       - 
-        districts: []
-        location: "POINT (25.5960900000000002 68.4466599999999943)"
+        alternate_names: 
+          - Matari
+          - Matiari
+          - Matiāri
+        ascii_name: Matiari
         name: Matiāri
+        names_en: 
+          - Matiāri
+        names_es: ~
         population: 18929
-        slug: matiari
       - 
-        districts: []
-        location: "POINT (27.7534400000000012 68.4633500000000055)"
+        alternate_names: ~
+        ascii_name: Madeji
         name: Madeji
+        names_en: ~
+        names_es: ~
         population: 14802
-        slug: madeji
       - 
-        districts: []
-        location: "POINT (27.5500000000000007 68.2166699999999935)"
+        alternate_names: 
+          - Larkana
+          - Larkane
+          - Lārkāna
+        ascii_name: Larkana
         name: Lārkāna
+        names_en: 
+          - Larkana
+        names_es: ~
         population: 364033
-        slug: larkana
       - 
-        districts: []
-        location: "POINT (27.8495799999999996 68.6993599999999986)"
+        alternate_names: ~
+        ascii_name: Lakhi
         name: Lakhi
+        names_en: ~
+        names_es: ~
         population: 13600
-        slug: lakhi
       - 
-        districts: []
-        location: "POINT (25.1833300000000015 69.5666700000000020)"
+        alternate_names: ~
+        ascii_name: Kunri
         name: Kunri
+        names_en: ~
+        names_es: ~
         population: 26773
-        slug: kunri
       - 
-        districts: []
-        location: "POINT (25.3652000000000015 68.3152000000000044)"
+        alternate_names: 
+          - Koti
+          - Kotri
+        ascii_name: Kotri
         name: Kotri
+        names_en: 
+          - Kotri
+        names_es: ~
         population: 72672
-        slug: kotri
       - 
-        districts: []
-        location: "POINT (27.3427199999999999 68.7083400000000069)"
+        alternate_names: 
+          - Diji
+          - "Kot Diji"
+        ascii_name: "Kot Diji"
         name: "Kot Diji"
+        names_en: ~
+        names_es: ~
         population: 25616
-        slug: kot-diji
       - 
-        districts: []
-        location: "POINT (25.8333300000000001 69.3666699999999992)"
+        alternate_names: ~
+        ascii_name: Khipro
         name: Khipro
+        names_en: ~
+        names_es: ~
         population: 28729
-        slug: khipro
       - 
-        districts: []
-        location: "POINT (27.8435799999999993 69.4137300000000010)"
+        alternate_names: 
+          - Khanpoor
+          - Khanpur
+          - Khānpur
+        ascii_name: Khanpur
         name: Khānpur
+        names_en: ~
+        names_es: ~
         population: 22273
-        slug: khanpur
       - 
-        districts: []
-        location: "POINT (27.1000000000000014 67.7333299999999952)"
+        alternate_names: 
+          - Khairpur
+          - "Khairpur Nathan Shah"
+          - "Khairpur Nathan Shāh"
+        ascii_name: "Khairpur Nathan Shah"
         name: "Khairpur Nathan Shāh"
+        names_en: ~
+        names_es: ~
         population: 30286
-        slug: khairpur-nathan-shah
       - 
-        districts: []
-        location: "POINT (26.1479500000000016 68.7155199999999979)"
+        alternate_names: 
+          - Khairpur
+          - "Khairpur Daherki"
+          - Khajrpura
+        ascii_name: Khairpur
+        name: Khairpur
+        names_en: ~
+        names_es: ~
+        population: 40083
+      - 
+        alternate_names: ~
+        ascii_name: Khadro
         name: Khadro
+        names_en: ~
+        names_es: ~
         population: 9997
-        slug: khadro
       - 
-        districts: []
-        location: "POINT (24.1447199999999995 67.4497199999999992)"
+        alternate_names: 
+          - Keti
+          - "Keti Bandar"
+          - Ketibunder
+        ascii_name: "Keti Bandar"
         name: "Keti Bandar"
+        names_en: ~
+        names_es: ~
         population: 2934
-        slug: keti-bandar
       - 
-        districts: []
-        location: "POINT (28.4333300000000015 69.5833300000000037)"
+        alternate_names: 
+          - Kashmor
+          - Kashmore
+        ascii_name: Kashmor
         name: Kashmor
+        names_en: ~
+        names_es: ~
         population: 33732
-        slug: kashmor
       - 
-        districts: []
-        location: "POINT (24.8166699999999985 68.5999999999999943)"
+        alternate_names: ~
+        ascii_name: Kario
         name: Kario
+        names_en: ~
+        names_es: ~
         population: 5685
-        slug: kario
       - 
-        districts: []
-        location: "POINT (26.8833300000000008 68.4500000000000028)"
+        alternate_names: 
+          - Karaundi
+          - Karundi
+        ascii_name: Karaundi
         name: Karaundi
+        names_en: ~
+        names_es: ~
         population: 8604
-        slug: karaundi
       - 
-        districts: []
-        location: "POINT (24.9055999999999997 67.0822000000000003)"
+        alternate_names: 
+          - Carachi
+          - Karachi
+          - "Karachi - krachy"
+        ascii_name: Karachi
         name: Karachi
+        names_en: 
+          - Karachi
+          - Karāchi
+        names_es: 
+          - Karachi
         population: 11624219
-        slug: karachi
       - 
-        districts: []
-        location: "POINT (27.0625900000000001 68.2101600000000019)"
+        alternate_names: 
+          - Kandiaro
+          - Kandiāro
+        ascii_name: Kandiaro
         name: Kandiāro
+        names_en: ~
+        names_es: ~
         population: 26807
-        slug: kandiaro
       - 
-        districts: []
-        location: "POINT (26.9166699999999999 68.5166700000000048)"
+        alternate_names: ~
+        ascii_name: Kandiari
         name: Kandiāri
+        names_en: ~
+        names_es: ~
         population: 6861
-        slug: kandiari
       - 
-        districts: []
-        location: "POINT (28.2333299999999987 69.1833299999999980)"
+        alternate_names: ~
+        ascii_name: Kandhkot
         name: Kandhkot
+        names_en: ~
+        names_es: ~
         population: 88468
-        slug: kandhkot
       - 
-        districts: []
-        location: "POINT (24.4833299999999987 68.9833299999999952)"
+        alternate_names: ~
+        ascii_name: Kadhan
         name: Kadhan
+        names_en: ~
+        names_es: ~
         population: 6854
-        slug: kadhan
       - 
-        districts: []
-        location: "POINT (26.6833300000000015 67.6166699999999992)"
+        alternate_names: ~
+        ascii_name: Johi
         name: Johi
+        names_en: ~
+        names_es: ~
         population: 16311
-        slug: johi
       - 
-        districts: []
-        location: "POINT (25.9550699999999992 68.8882100000000008)"
+        alternate_names: ~
+        ascii_name: Jhol
         name: Jhol
+        names_en: ~
+        names_es: ~
         population: 16067
-        slug: jhol
       - 
-        districts: []
-        location: "POINT (24.3556300000000014 68.2722499999999997)"
+        alternate_names: 
+          - Jati
+          - Jāti
+          - "Mughal Bhim"
+        ascii_name: Jati
         name: Jāti
+        names_en: ~
+        names_es: ~
         population: 9152
-        slug: jati
       - 
-        districts: []
-        location: "POINT (25.4268000000000001 68.2798999999999978)"
+        alternate_names: 
+          - "Jam Shoro"
+          - "Jams Shoro"
+          - Jamsboro
+        ascii_name: Jamshoro
         name: Jamshoro
+        names_en: 
+          - "Jām Shoro"
+          - Jamshoro
+        names_es: ~
         population: 0
-        slug: jamshoro
       - 
-        districts: []
-        location: "POINT (28.2867299999999986 68.4331600000000009)"
+        alternate_names: 
+          - Jacobabad
+          - Jacobadad
+          - Jacobābād
+        ascii_name: Jacobabad
         name: Jacobābād
+        names_en: ~
+        names_es: ~
         population: 170588
-        slug: jacobabad
       - 
-        districts: []
-        location: "POINT (24.6997000000000000 70.1770000000000067)"
+        alternate_names: ~
+        ascii_name: Islamkot
         name: Islāmkot
+        names_en: ~
+        names_es: ~
         population: 12426
-        slug: islamkot
       - 
-        districts: []
-        location: "POINT (25.3823000000000008 68.3699000000000012)"
+        alternate_names: 
+          - Haidarabad
+          - Hyderabad
+          - Hyderābād
+        ascii_name: Hyderabad
         name: Hyderābād
+        names_en: 
+          - Hyderabad
+          - Hyderābād
+        names_es: 
+          - Hyderabad
         population: 1386330
-        slug: hyderabad
       - 
-        districts: []
-        location: "POINT (27.2116800000000012 68.4157699999999949)"
+        alternate_names: ~
+        ascii_name: Hingorja
         name: Hingorja
+        names_en: ~
+        names_es: ~
         population: 22263
-        slug: hingorja
       - 
-        districts: []
-        location: "POINT (28.0060399999999987 69.3160799999999995)"
+        alternate_names: 
+          - Ghotki
+          - Gotki
+        ascii_name: Ghotki
         name: Ghotki
+        names_en: 
+          - Ghotki
+        names_es: ~
         population: 64295
-        slug: ghotki
       - 
-        districts: []
-        location: "POINT (28.1376199999999983 69.0831600000000066)"
+        alternate_names: 
+          - Ghauspur
+          - Ghouspur
+        ascii_name: Ghauspur
         name: Ghauspur
+        names_en: ~
+        names_es: ~
         population: 29767
-        slug: ghauspur
       - 
-        districts: []
-        location: "POINT (24.7424099999999996 67.5856500000000011)"
+        alternate_names: 
+          - Garho
+          - Gharo
+          - Ghāro
+        ascii_name: Gharo
         name: Ghāro
+        names_en: ~
+        names_es: ~
         population: 19524
-        slug: gharo
       - 
-        districts: []
-        location: "POINT (27.9069000000000003 68.5109599999999972)"
+        alternate_names: 
+          - "Garhi Yasin"
+          - "Garhi Yāsīn"
+          - "Gari Yasin"
+        ascii_name: "Garhi Yasin"
         name: "Garhi Yāsīn"
+        names_en: ~
+        names_es: ~
         population: 14810
-        slug: garhi-yasin
       - 
-        districts: []
-        location: "POINT (28.0609999999999999 67.9822000000000060)"
+        alternate_names: 
+          - "Garhi Khairo"
+          - "Khaira Garhi"
+          - "Khaira Gārhi"
+        ascii_name: "Garhi Khairo"
         name: "Garhi Khairo"
+        names_en: ~
+        names_es: ~
         population: 13666
-        slug: garhi-khairo
       - 
-        districts: []
-        location: "POINT (27.4351699999999994 68.0755000000000052)"
+        alternate_names: 
+          - Garelo
+          - "Goth Garelo"
+        ascii_name: "Goth Garelo"
         name: "Goth Garelo"
+        names_en: ~
+        names_es: ~
         population: 6853
-        slug: goth-garelo
       - 
-        districts: []
-        location: "POINT (27.3514499999999998 68.5205100000000016)"
+        alternate_names: 
+          - Gambat
+          - Gampat
+          - Gumbad
+        ascii_name: Gambat
         name: Gambat
+        names_en: ~
+        names_es: ~
         population: 34005
-        slug: gambat
       - 
-        districts: []
-        location: "POINT (27.3742699999999992 68.0967299999999938)"
+        alternate_names: ~
+        ascii_name: Dokri
         name: Dokri
+        names_en: ~
+        names_es: ~
         population: 14800
-        slug: dokri
       - 
-        districts: []
-        location: "POINT (24.4666700000000006 69.5840100000000064)"
+        alternate_names: ~
+        ascii_name: Diplo
         name: Diplo
+        names_en: ~
+        names_es: ~
         population: 11575
-        slug: diplo
       - 
-        districts: []
-        location: "POINT (25.1666699999999999 69.1166699999999992)"
+        alternate_names: ~
+        ascii_name: Digri
         name: Digri
+        names_en: ~
+        names_es: ~
         population: 31842
-        slug: digri
       - 
-        districts: []
-        location: "POINT (25.5000000000000000 69.5666700000000020)"
+        alternate_names: ~
+        ascii_name: "Dhoro Naro"
         name: "Dhoro Nāro"
+        names_en: ~
+        names_es: ~
         population: 19907
-        slug: dhoro-naro
       - 
-        districts: []
-        location: "POINT (26.4583399999999997 68.3191499999999934)"
+        alternate_names: ~
+        ascii_name: Daur
         name: Daur
+        names_en: ~
+        names_es: ~
         population: 17577
-        slug: daur
       - 
-        districts: []
-        location: "POINT (26.5018799999999999 67.9724199999999996)"
+        alternate_names: 
+          - Daulatpur
+          - Doulatpur
+        ascii_name: Daulatpur
         name: Daulatpur
+        names_en: ~
+        names_es: ~
         population: 14574
-        slug: daulatpur
       - 
-        districts: []
-        location: "POINT (26.6774799999999992 68.2858999999999980)"
+        alternate_names: 
+          - "Darya Khan Mari"
+          - "Darya Khan Marri"
+          - "Darya Khān Marri"
+        ascii_name: "Darya Khan Marri"
         name: "Darya Khān Marri"
+        names_en: ~
+        names_es: ~
         population: 8973
-        slug: darya-khan-marri
       - 
-        districts: []
-        location: "POINT (24.7946300000000015 68.1805200000000013)"
+        alternate_names: 
+          - Daro
+          - "Daro Mehar"
+          - Durro
+        ascii_name: "Daro Mehar"
         name: "Dāro Mehar"
+        names_en: ~
+        names_es: ~
         population: 10869
-        slug: daro-mehar
       - 
-        districts: []
-        location: "POINT (26.7333299999999987 67.7833300000000065)"
+        alternate_names: ~
+        ascii_name: Dadu
         name: Dādu
+        names_en: ~
+        names_es: ~
         population: 139784
-        slug: dadu
       - 
-        districts: []
-        location: "POINT (25.5166700000000013 69.7666700000000048)"
+        alternate_names: 
+          - Chhor
+          - "Chhor Purano"
+          - Chor
+        ascii_name: Chor
         name: Chor
+        names_en: ~
+        names_es: ~
         population: 16301
-        slug: chor
       - 
-        districts: []
-        location: "POINT (27.8575400000000002 68.8329200000000014)"
+        alternate_names: 
+          - Chakkar
+          - Chambar
+        ascii_name: Chambar
+        name: Chambar
+        names_en: ~
+        names_es: ~
+        population: 12746
+      - 
+        alternate_names: ~
+        ascii_name: Chak
         name: Chak
+        names_en: ~
+        names_es: ~
         population: 14275
-        slug: chak
       - 
-        districts: []
-        location: "POINT (24.8666699999999992 68.3333300000000037)"
+        alternate_names: ~
+        ascii_name: Bulri
         name: Bulri
+        names_en: ~
+        names_es: ~
         population: 4997
-        slug: bulri
       - 
-        districts: []
-        location: "POINT (27.1845199999999991 68.6364499999999964)"
+        alternate_names: ~
+        ascii_name: Bozdar
         name: Bozdar
+        names_en: ~
+        names_es: ~
         population: 9175
-        slug: bozdar
       - 
-        districts: []
-        location: "POINT (25.8043699999999987 68.4926499999999976)"
+        alternate_names: 
+          - "Bhit Shah"
+          - "Bhit Shāh"
+        ascii_name: "Bhit Shah"
         name: "Bhit Shāh"
+        names_en: 
+          - "Bhit Shāh"
+        names_es: ~
         population: 19325
-        slug: bhit-shah
       - 
-        districts: []
-        location: "POINT (26.9122200000000014 68.1949199999999962)"
+        alternate_names: ~
+        ascii_name: Bhiria
         name: Bhiria
+        names_en: ~
+        names_es: ~
         population: 12186
-        slug: bhiria
       - 
-        districts: []
-        location: "POINT (26.5500000000000007 67.7166699999999935)"
+        alternate_names: ~
+        ascii_name: Bhan
         name: Bhān
+        names_en: ~
+        names_es: ~
         population: 16961
-        slug: bhan
       - 
-        districts: []
-        location: "POINT (25.7850000000000001 68.8068600000000004)"
+        alternate_names: ~
+        ascii_name: Berani
         name: Berāni
+        names_en: ~
+        names_es: ~
         population: 9975
-        slug: berani
       - 
-        districts: []
-        location: "POINT (26.5841500000000011 68.3003700000000009)"
+        alternate_names: ~
+        ascii_name: Bandhi
         name: Bāndhi
+        names_en: ~
+        names_es: ~
         population: 8608
-        slug: bandhi
       - 
-        districts: []
-        location: "POINT (27.7559900000000006 68.7523599999999959)"
+        alternate_names: 
+          - Bagarji
+          - Bagerji
+          - Bāgarji
+        ascii_name: Bagarji
         name: Bāgarji
+        names_en: ~
+        names_es: ~
         population: 8005
-        slug: bagarji
       - 
-        districts: []
-        location: "POINT (24.6499999999999986 68.8333300000000037)"
+        alternate_names: ~
+        ascii_name: Badin
         name: Badīn
+        names_en: ~
+        names_es: ~
         population: 73569
-        slug: badin
       - 
-        districts: []
-        location: "POINT (27.3416700000000006 68.0319400000000059)"
+        alternate_names: ~
+        ascii_name: "New Badah"
         name: "New Bādāh"
+        names_en: ~
+        names_es: ~
         population: 38855
-        slug: new-badah
       - 
-        districts: []
-        location: "POINT (26.2958299999999987 68.6291700000000020)"
+        alternate_names: ~
+        ascii_name: "Tando Ghulam Ali"
+        name: "Tando Ghulām Ali"
+        names_en: ~
+        names_es: ~
+        population: 16299
+      - 
+        alternate_names: ~
+        ascii_name: "Jam Sahib"
         name: "Jām Sāhib"
+        names_en: ~
+        names_es: ~
         population: 6869
-        slug: jam-sahib
       - 
-        districts: []
-        location: "POINT (27.2142699999999991 68.4686800000000062)"
+        alternate_names: ~
+        ascii_name: "Setharja Old"
         name: "Sethārja Old"
+        names_en: ~
+        names_es: ~
         population: 32651
-        slug: setharja-old
-    code: PK.05
     name: Sindh
-    slug: sindh
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Punjab
     cities: 
       - 
-        districts: []
-        location: "POINT (33.8578499999999991 73.7609300000000019)"
-        name: "Rāwala Kot"
-        population: 50000
-        slug: rawala-kot
+        alternate_names: ~
+        ascii_name: "Zahir Pir"
+        name: "Zāhir Pīr"
+        names_en: ~
+        names_es: ~
+        population: 34121
       - 
-        districts: []
-        location: "POINT (33.7177000000000007 73.6873899999999935)"
-        name: Palandri
+        alternate_names: 
+          - Zafarwal
+          - Zafarwāl
+          - Zaffarwal
+        ascii_name: Zafarwal
+        name: Zafarwāl
+        names_en: ~
+        names_es: ~
+        population: 23078
+      - 
+        alternate_names: 
+          - Rohotwali
+          - Rohotwāli
+          - Yazman
+        ascii_name: "Yazman Mandi"
+        name: "Yazmān Mandi"
+        names_en: 
+          - "Yazmān Mandi"
+          - Yazmān
+        names_es: ~
+        population: 24580
+      - 
+        alternate_names: ~
+        ascii_name: Wazirabad
+        name: Wazīrābād
+        names_en: ~
+        names_es: ~
+        population: 102444
+      - 
+        alternate_names: 
+          - Uorberton
+          - Warburton
+          - Уорбертон
+        ascii_name: Warburton
+        name: Warburton
+        names_en: ~
+        names_es: ~
+        population: 24295
+      - 
+        alternate_names: 
+          - Vehari
+          - Vihari
+          - Vihāri
+        ascii_name: Vihari
+        name: Vihāri
+        names_en: 
+          - Vehari
+        names_es: ~
+        population: 112840
+      - 
+        alternate_names: 
+          - "Toba Tek Singh"
+        ascii_name: "Toba Tek Singh"
+        name: "Toba Tek Singh"
+        names_en: ~
+        names_es: ~
+        population: 69064
+      - 
+        alternate_names: ~
+        ascii_name: Taunsa
+        name: Taunsa
+        names_en: ~
+        names_es: ~
+        population: 44869
+      - 
+        alternate_names: ~
+        ascii_name: Tandlianwala
+        name: Tāndliānwāla
+        names_en: ~
+        names_es: ~
+        population: 38285
+      - 
+        alternate_names: 
+          - Talamba
+          - Tolamba
+          - "Tulamba Town"
+        ascii_name: Talamba
+        name: Talamba
+        names_en: ~
+        names_es: ~
+        population: 28151
+      - 
+        alternate_names: ~
+        ascii_name: Talagang
+        name: Talagang
+        names_en: ~
+        names_es: ~
+        population: 44960
+      - 
+        alternate_names: ~
+        ascii_name: "Sukheke Mandi"
+        name: "Sukheke Mandi"
+        names_en: ~
+        names_es: ~
+        population: 32836
+      - 
+        alternate_names: 
+          - Sodhra
+          - Sodlira
+          - "Sohdra Town"
+        ascii_name: Sodhra
+        name: Sodhra
+        names_en: ~
+        names_es: ~
+        population: 15977
+      - 
+        alternate_names: 
+          - Sillanwali
+          - Sillānwāli
+        ascii_name: Sillanwali
+        name: Sillānwāli
+        names_en: ~
+        names_es: ~
+        population: 27023
+      - 
+        alternate_names: 
+          - Sialkot
+          - Siālkot
+          - Сиалкот
+        ascii_name: Sialkot
+        name: Siālkot
+        names_en: 
+          - Sialkot
+        names_es: ~
+        population: 477396
+      - 
+        alternate_names: 
+          - Shujaabad
+          - Shujabad
+          - Shujāābād
+        ascii_name: Shujaabad
+        name: Shujāābād
+        names_en: ~
+        names_es: ~
+        population: 65952
+      - 
+        alternate_names: 
+          - "Qila Sheikhupura"
+          - Sheikhupura
+          - Shekhupura
+        ascii_name: Sheikhupura
+        name: Sheikhupura
+        names_en: ~
+        names_es: ~
+        population: 361303
+      - 
+        alternate_names: 
+          - Sharakpur
+          - Shargpur
+          - Sharqpur
+        ascii_name: Sharqpur
+        name: Sharqpur
+        names_en: ~
+        names_es: ~
+        population: 31855
+      - 
+        alternate_names: ~
+        ascii_name: Shakargarr
+        name: Shakargarr
+        names_en: ~
+        names_es: ~
+        population: 64304
+      - 
+        alternate_names: ~
+        ascii_name: "Shahr Sultan"
+        name: "Shahr Sultān"
+        names_en: ~
+        names_es: ~
+        population: 16166
+      - 
+        alternate_names: ~
+        ascii_name: Shahpur
+        name: Shāhpur
+        names_en: ~
+        names_es: ~
+        population: 14153
+      - 
+        alternate_names: 
+          - Sargodha
+          - Sargodkha
+          - Саргодха
+        ascii_name: Sargodha
+        name: Sargodha
+        names_en: 
+          - Sargodha
+        names_es: ~
+        population: 542603
+      - 
+        alternate_names: ~
+        ascii_name: "Sarai Sidhu"
+        name: "Sarāi Sidhu"
+        names_en: ~
+        names_es: ~
+        population: 15632
+      - 
+        alternate_names: 
+          - "Sarai Alamgir"
+          - "Sarāi Ālamgīr"
+        ascii_name: "Sarai Alamgir"
+        name: "Sarāi Ālamgīr"
+        names_en: ~
+        names_es: ~
+        population: 44120
+      - 
+        alternate_names: ~
+        ascii_name: Sanjwal
+        name: Sanjwāl
+        names_en: ~
+        names_es: ~
+        population: 10657
+      - 
+        alternate_names: 
+          - Sangla
+          - "Sangla Hill"
+          - Sāngla
+        ascii_name: Sangla
+        name: Sāngla
+        names_en: ~
+        names_es: ~
+        population: 57002
+      - 
+        alternate_names: 
+          - Sambrial
+          - Sambriāl
+        ascii_name: Sambrial
+        name: Sambriāl
+        names_en: ~
+        names_es: ~
+        population: 62874
+      - 
+        alternate_names: 
+          - Sahiwal
+          - Sakhivale
+          - Sohiwal
+        ascii_name: Sahiwal
+        name: Sāhīwāl
+        names_en: ~
+        names_es: ~
+        population: 37186
+      - 
+        alternate_names: 
+          - Montgomery
+          - Sahiwal
+          - Sakhivale
+        ascii_name: Montgomery
+        name: Montgomery
+        names_en: ~
+        names_es: ~
+        population: 235695
+      - 
+        alternate_names: 
+          - Sadikabad
+          - Sadiqabad
+          - Sādikābād
+        ascii_name: Sadiqabad
+        name: Sādiqābād
+        names_en: ~
+        names_es: ~
+        population: 189876
+      - 
+        alternate_names: ~
+        ascii_name: Rojhan
+        name: Rojhān
+        names_en: ~
+        names_es: ~
+        population: 13031
+      - 
+        alternate_names: 
+          - Renala
+          - "Renala Khurd"
+          - Renāla
+        ascii_name: "Renala Khurd"
+        name: "Renāla Khurd"
+        names_en: ~
+        names_es: ~
+        population: 37111
+      - 
+        alternate_names: 
+          - Ralalpindi
+          - Ravalpindi
+          - Ravalpindis
+        ascii_name: Rawalpindi
+        name: Rāwalpindi
+        names_en: 
+          - Rawalpindi
+          - Rāwalpindi
+        names_es: 
+          - Rawalpindi
+        population: 1743101
+      - 
+        alternate_names: 
+          - Ramnagar
+          - Rasulnagar
+          - Rasulnager
+        ascii_name: Rasulnagar
+        name: Rasūlnagar
+        names_en: ~
+        names_es: ~
+        population: 14392
+      - 
+        alternate_names: ~
+        ascii_name: Rajanpur
+        name: Rājanpur
+        names_en: ~
+        names_es: ~
+        population: 50682
+      - 
+        alternate_names: 
+          - "Baja Jang"
+          - "Raja Jang"
+          - "Rāja Jang"
+        ascii_name: "Raja Jang"
+        name: "Rāja Jang"
+        names_en: ~
+        names_es: ~
+        population: 24407
+      - 
+        alternate_names: 
+          - Raiwind
+          - Rāiwind
+        ascii_name: Raiwind
+        name: Rāiwind
+        names_en: ~
+        names_es: ~
+        population: 31592
+      - 
+        alternate_names: ~
+        ascii_name: "Qadirpur Ran"
+        name: "Qādirpur Rān"
+        names_en: ~
+        names_es: ~
+        population: 20407
+      - 
+        alternate_names: ~
+        ascii_name: "Pir Mahal"
+        name: "Pīr Mahal"
+        names_en: ~
+        names_es: ~
+        population: 35343
+      - 
+        alternate_names: ~
+        ascii_name: "Pindi Gheb"
+        name: "Pindi Gheb"
+        names_en: ~
+        names_es: ~
+        population: 34301
+      - 
+        alternate_names: 
+          - "Pindi Battian"
+          - "Pindi Bhatian"
+          - "Pindi Bhattian"
+        ascii_name: "Pindi Bhattian"
+        name: "Pindi Bhattiān"
+        names_en: ~
+        names_es: ~
+        population: 35088
+      - 
+        alternate_names: 
+          - "Pind Dadan Khan"
+          - "Pind Dādan Khān"
+          - "Pindi Dadan Khan"
+        ascii_name: "Pind Dadan Khan"
+        name: "Pind Dādan Khān"
+        names_en: ~
+        names_es: ~
+        population: 22001
+      - 
+        alternate_names: 
+          - Phalia
+          - Phālia
+        ascii_name: Phalia
+        name: Phālia
+        names_en: ~
+        names_es: ~
+        population: 24789
+      - 
+        alternate_names: 
+          - "Mandi Pattoki"
+          - Pattoki
+        ascii_name: Pattoki
+        name: Pattoki
+        names_en: ~
+        names_es: ~
+        population: 70436
+      - 
+        alternate_names: 
+          - Pasrur
+          - Pasrūr
+          - Pasur
+        ascii_name: Pasrur
+        name: Pasrūr
+        names_en: ~
+        names_es: ~
+        population: 53364
+      - 
+        alternate_names: 
+          - Pakpattan
+          - Pākpattan
+        ascii_name: Pakpattan
+        name: Pākpattan
+        names_en: ~
+        names_es: ~
+        population: 126706
+      - 
+        alternate_names: 
+          - Okara
+          - Okāra
+          - Окара
+        ascii_name: Okara
+        name: Okāra
+        names_en: ~
+        names_es: ~
+        population: 223648
+      - 
+        alternate_names: 
+          - "Naushahra Virkan"
+          - "Naushahra Virkhan"
+          - "Naushahra Virkān"
+        ascii_name: "Naushahra Virkan"
+        name: "Naushahra Virkān"
+        names_en: ~
+        names_es: ~
+        population: 40853
+      - 
+        alternate_names: ~
+        ascii_name: Narowal
+        name: Nārowāl
+        names_en: ~
+        names_es: ~
+        population: 68291
+      - 
+        alternate_names: 
+          - Narang
+          - Nārang
+          - Наранг
+        ascii_name: Narang
+        name: Nārang
+        names_en: ~
+        names_es: ~
+        population: 34778
+      - 
+        alternate_names: 
+          - "Nanakana Sahib"
+          - "Nankana Municipality"
+          - "Nankana Sahib"
+        ascii_name: "Nankana Sahib"
+        name: "Nankāna Sāhib"
+        names_en: ~
+        names_es: ~
+        population: 56366
+      - 
+        alternate_names: 
+          - Muzaffargar
+          - Muzaffargarh
+          - Музаффаргар
+        ascii_name: Muzaffargarh
+        name: Muzaffargarh
+        names_en: 
+          - Muzaffargarh
+        names_es: 
+          - Muzaffargarh
+        population: 165192
+      - 
+        alternate_names: ~
+        ascii_name: Mustafabad
+        name: Mustafābād
+        names_en: ~
+        names_es: ~
+        population: 45795
+      - 
+        alternate_names: 
+          - Murree
+        ascii_name: Murree
+        name: Murree
+        names_en: 
+          - Murree
+        names_es: ~
+        population: 25247
+      - 
+        alternate_names: ~
+        ascii_name: Muridke
+        name: Murīdke
+        names_en: ~
+        names_es: ~
+        population: 164246
+      - 
+        alternate_names: 
+          - Multan
+          - Multanas
+          - Multān
+        ascii_name: Multan
+        name: Multān
+        names_en: 
+          - Multan
+        names_es: 
+          - Multan
+        population: 1437230
+      - 
+        alternate_names: ~
+        ascii_name: "Mitha Tiwana"
+        name: "Mitha Tiwāna"
+        names_en: ~
+        names_es: ~
+        population: 26390
+      - 
+        alternate_names: 
+          - Manchinabad
+          - Minchinabad
+          - Minchinābād
+        ascii_name: Minchinabad
+        name: Minchinābād
+        names_en: ~
+        names_es: ~
+        population: 29253
+      - 
+        alternate_names: ~
+        ascii_name: Mianwali
+        name: Miānwāli
+        names_en: ~
+        names_es: ~
+        population: 89570
+      - 
+        alternate_names: 
+          - "Mian Channu"
+          - "Mian Channun"
+          - "Miān Channūn"
+        ascii_name: "Mian Channun"
+        name: "Miān Channūn"
+        names_en: 
+          - "Mian Channu"
+        names_es: ~
+        population: 76226
+      - 
+        alternate_names: 
+          - Mankera
+          - Mankora
+        ascii_name: Mankera
+        name: Mankera
+        names_en: ~
+        names_es: ~
+        population: 10819
+      - 
+        alternate_names: ~
+        ascii_name: Mangla
+        name: Mangla
+        names_en: ~
+        names_es: ~
+        population: 16264
+      - 
+        alternate_names: 
+          - Bahauddin
+          - "Mandi Bahauddin"
+          - "Mandi Bahāuddīn"
+        ascii_name: "Mandi Bahauddin"
+        name: "Mandi Bahāuddīn"
+        names_en: ~
+        names_es: ~
+        population: 129733
+      - 
+        alternate_names: ~
+        ascii_name: Mananwala
+        name: Mānānwāla
+        names_en: ~
+        names_es: ~
+        population: 28432
+      - 
+        alternate_names: ~
+        ascii_name: "Mamu Kanjan"
+        name: "Māmu Kānjan"
+        names_en: ~
+        names_es: ~
+        population: 31914
+      - 
+        alternate_names: 
+          - Malakwal
+          - Malakwāl
+        ascii_name: Malakwal
+        name: Malakwāl
+        names_en: ~
+        names_es: ~
+        population: 34589
+      - 
+        alternate_names: ~
+        ascii_name: Mailsi
+        name: Mailsi
+        names_en: ~
+        names_es: ~
+        population: 64545
+      - 
+        alternate_names: 
+          - Lodhran
+          - Lodhrān
+        ascii_name: Lodhran
+        name: Lodhrān
+        names_en: ~
+        names_es: ~
+        population: 97249
+      - 
+        alternate_names: 
+          - Laliani
+          - Laliāni
+          - Lalliani
+        ascii_name: Liliani
+        name: Liliāni
+        names_en: ~
+        names_es: ~
+        population: 12211
+      - 
+        alternate_names: 
+          - Leiah
+          - Lelah
+          - Lerah
+        ascii_name: Leiah
+        name: Leiah
+        names_en: ~
+        names_es: ~
+        population: 78954
+      - 
+        alternate_names: 
+          - Lalian
+          - Lāliān
+        ascii_name: Lalian
+        name: Lāliān
+        names_en: ~
+        names_es: ~
+        population: 31355
+      - 
+        alternate_names: ~
+        ascii_name: "Lala Musa"
+        name: "Lāla Mūsa"
+        names_en: ~
+        names_es: ~
+        population: 65197
+      - 
+        alternate_names: 
+          - Lahaur
+          - Lahor
+          - Lahoras
+        ascii_name: Lahore
+        name: Lahore
+        names_en: 
+          - Lahore
+        names_es: 
+          - Lahore
+        population: 6310888
+      - 
+        alternate_names: ~
+        ascii_name: "Ladhewala Waraich"
+        name: "Ladhewāla Warāich"
+        names_en: ~
+        names_es: ~
+        population: 39757
+      - 
+        alternate_names: ~
+        ascii_name: Kunjah
+        name: Kunjāh
+        names_en: ~
+        names_es: ~
+        population: 28103
+      - 
+        alternate_names: 
+          - Kundian
+          - "Kundian Pacca"
+          - Kundiān
+        ascii_name: Kundian
+        name: Kundiān
+        names_en: ~
+        names_es: ~
+        population: 35406
+      - 
+        alternate_names: ~
+        ascii_name: "Kot Sultan"
+        name: "Kot Sultan"
+        names_en: ~
+        names_es: ~
+        population: 10000
+      - 
+        alternate_names: ~
+        ascii_name: "Kot Samaba"
+        name: "Kot Samāba"
+        names_en: ~
+        names_es: ~
+        population: 22953
+      - 
+        alternate_names: ~
+        ascii_name: "Kot Radha Kishan"
+        name: "Kot Rādha Kishan"
+        names_en: ~
+        names_es: ~
+        population: 45938
+      - 
+        alternate_names: 
+          - "Kot Mamin"
+          - "Kot Mumin"
+          - "Kot Mūmin"
+        ascii_name: "Kot Mumin"
+        name: "Kot Mūmin"
+        names_en: ~
+        names_es: ~
+        population: 38355
+      - 
+        alternate_names: ~
+        ascii_name: "Kotli Loharan"
+        name: "Kotli Lohārān"
+        names_en: ~
+        names_es: ~
+        population: 21463
+      - 
+        alternate_names: ~
+        ascii_name: "Kot Ghulam Muhammad"
+        name: "Kot Ghulām Muhammad"
+        names_en: ~
+        names_es: ~
+        population: 20897
+      - 
+        alternate_names: 
+          - "Kot Addu"
+          - Kot-Adu
+        ascii_name: "Kot Addu"
+        name: "Kot Addu"
+        names_en: 
+          - "Kot Addu"
+        names_es: ~
+        population: 104217
+      - 
+        alternate_names: 
+          - Khushab
+          - Khushah
+          - Khushāb
+        ascii_name: Khushab
+        name: Khushāb
+        names_en: ~
+        names_es: ~
+        population: 102793
+      - 
+        alternate_names: 
+          - Khurianwala
+          - Khurrianwala
+          - Khurriānwāla
+        ascii_name: Khurrianwala
+        name: Khurriānwāla
+        names_en: ~
+        names_es: ~
+        population: 35292
+      - 
+        alternate_names: ~
+        ascii_name: Khewra
+        name: Khewra
+        names_en: ~
+        names_es: ~
+        population: 32620
+      - 
+        alternate_names: ~
+        ascii_name: Kharian
+        name: Khāriān
+        names_en: ~
+        names_es: ~
+        population: 81435
+      - 
+        alternate_names: ~
+        ascii_name: Khanpur
+        name: Khānpur
+        names_en: ~
+        names_es: ~
+        population: 142426
+      - 
+        alternate_names: ~
+        ascii_name: Khangarh
+        name: Khāngarh
+        names_en: ~
+        names_es: ~
+        population: 19698
+      - 
+        alternate_names: 
+          - "Khanga Dogran"
+          - "Khangah Dogran"
+          - Khangah-Dogra
+        ascii_name: "Khangah Dogran"
+        name: "Khāngāh Dogrān"
+        names_en: ~
+        names_es: ~
+        population: 30314
+      - 
+        alternate_names: 
+          - Khanewal
+          - Khānewāl
+        ascii_name: Khanewal
+        name: Khānewāl
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: palandri
       - 
-        districts: []
-        location: "POINT (33.1417599999999979 73.7673599999999965)"
-        name: "New Mīrpur"
+        alternate_names: ~
+        ascii_name: Khairpur
+        name: Khairpur
+        names_en: ~
+        names_es: ~
+        population: 30967
+      - 
+        alternate_names: 
+          - Kansur
+          - Kansūr
+          - Kasur
+        ascii_name: Kasur
+        name: Kasūr
+        names_en: ~
+        names_es: ~
+        population: 290643
+      - 
+        alternate_names: 
+          - Haror
+          - Karor
+          - "Karor Lal Isa"
+        ascii_name: Karor
+        name: Karor
+        names_en: ~
+        names_es: ~
+        population: 25634
+      - 
+        alternate_names: ~
+        ascii_name: Kanganpur
+        name: Kanganpur
+        names_en: ~
+        names_es: ~
+        population: 21788
+      - 
+        alternate_names: 
+          - Kamara
+          - Kamra
+          - Kāmra
+        ascii_name: Kamra
+        name: Kāmra
+        names_en: ~
+        names_es: ~
+        population: 43779
+      - 
+        alternate_names: 
+          - Kamoke
+          - Kamoki
+          - Kāmoke
+        ascii_name: Kamoke
+        name: Kamoke
+        names_en: ~
+        names_es: ~
+        population: 199531
+      - 
+        alternate_names: ~
+        ascii_name: Kamir
+        name: Kamīr
+        names_en: ~
+        names_es: ~
+        population: 24053
+      - 
+        alternate_names: 
+          - "Kamar Mushani"
+          - "Kamar Mushāni"
+        ascii_name: "Kamar Mushani"
+        name: "Kamar Mushāni"
+        names_en: ~
+        names_es: ~
+        population: 15867
+      - 
+        alternate_names: ~
+        ascii_name: Kamalia
+        name: Kamālia
+        names_en: ~
+        names_es: ~
+        population: 112426
+      - 
+        alternate_names: 
+          - "Kallur Kot Town"
+          - "Kalur Kot"
+          - "Kalūr Kot"
+        ascii_name: "Kalur Kot"
+        name: "Kalūr Kot"
+        names_en: ~
+        names_es: ~
+        population: 25574
+      - 
+        alternate_names: 
+          - "Kalar Kahar"
+          - "Kallar Kahar"
+          - "Kallar Kahār"
+        ascii_name: "Kallar Kahar"
+        name: "Kallar Kahār"
+        names_en: ~
+        names_es: ~
+        population: 15800
+      - 
+        alternate_names: 
+          - "Kaleke Mandi"
+          - "Kāleke Mandi"
+          - "Mandi Kaleke"
+        ascii_name: "Kaleke Mandi"
+        name: "Kāleke Mandi"
+        names_en: ~
+        names_es: ~
+        population: 16361
+      - 
+        alternate_names: ~
+        ascii_name: Kalaswala
+        name: Kalāswāla
+        names_en: ~
+        names_es: ~
+        population: 12576
+      - 
+        alternate_names: 
+          - Kalabagh
+          - Kālābāgh
+        ascii_name: Kalabagh
+        name: Kālābāgh
+        names_en: ~
+        names_es: ~
+        population: 15976
+      - 
+        alternate_names: 
+          - Kahuta
+          - Kahūta
+          - Kakhute
+        ascii_name: Kahuta
+        name: Kahūta
+        names_en: ~
+        names_es: ~
+        population: 22551
+      - 
+        alternate_names: 
+          - Kahror
+          - "Kehror Pakka Town"
+          - Kharor
+        ascii_name: "Kohror Pakka"
+        name: "Kohror Pakka"
+        names_en: ~
+        names_es: ~
+        population: 69743
+      - 
+        alternate_names: 
+          - Kahna
+          - "Kahna Nau"
+          - Khana
+        ascii_name: Kahna
+        name: Kāhna
+        names_en: ~
+        names_es: ~
+        population: 45888
+      - 
+        alternate_names: ~
+        ascii_name: Kabirwala
+        name: Kabīrwāla
+        names_en: ~
+        names_es: ~
+        population: 60782
+      - 
+        alternate_names: 
+          - "Chak Jhumra"
+          - "Chak Jumra"
+          - Jhumra
+        ascii_name: Jhumra
+        name: Jhumra
+        names_en: ~
+        names_es: ~
+        population: 37214
+      - 
+        alternate_names: 
+          - Dzhelam
+          - Jhelum
+          - Джелам
+        ascii_name: Jhelum
+        name: Jhelum
+        names_en: ~
+        names_es: ~
+        population: 164080
+      - 
+        alternate_names: ~
+        ascii_name: Jhawarian
+        name: Jhawāriān
+        names_en: ~
+        names_es: ~
+        population: 27893
+      - 
+        alternate_names: 
+          - "Jhang Marghiana"
+          - "Jhang Marghiānā"
+          - "Jhang Sadar"
+        ascii_name: "Jhang Sadr"
+        name: "Jhang Sadr"
+        names_en: ~
+        names_es: ~
+        population: 341210
+      - 
+        alternate_names: 
+          - Jauharabad
+          - Jauharābād
+          - Joharabad
+        ascii_name: Jauharabad
+        name: Jauharābād
+        names_en: ~
+        names_es: ~
+        population: 46545
+      - 
+        alternate_names: 
+          - "Jatoi Shimali"
+          - "Jatoi Shimāli"
+          - "Jatoi Shumali"
+        ascii_name: "Jatoi Shimali"
+        name: "Jatoi Shimāli"
+        names_en: ~
+        names_es: ~
+        population: 47144
+      - 
+        alternate_names: ~
+        ascii_name: Jaranwala
+        name: Jarānwāla
+        names_en: ~
+        names_es: ~
+        population: 119785
+      - 
+        alternate_names: ~
+        ascii_name: "Jandiala Sher Khan"
+        name: "Jāndiāla Sher Khān"
+        names_en: ~
+        names_es: ~
+        population: 10985
+      - 
+        alternate_names: ~
+        ascii_name: Jand
+        name: Jand
+        names_en: ~
+        names_es: ~
+        population: 18170
+      - 
+        alternate_names: ~
+        ascii_name: Jampur
+        name: Jāmpur
+        names_en: ~
+        names_es: ~
+        population: 63791
+      - 
+        alternate_names: 
+          - Jalalpur
+          - "Jalalpur Pirwala"
+          - "Jalālpur Pīrwāla"
+        ascii_name: "Jalalpur Pirwala"
+        name: "Jalālpur Pīrwāla"
+        names_en: ~
+        names_es: ~
+        population: 37393
+      - 
+        alternate_names: 
+          - Jalalpur
+          - "Jalalpur Jattan"
+          - Jalālpur
+        ascii_name: Jalalpur
+        name: Jalālpur
+        names_en: ~
+        names_es: ~
+        population: 93883
+      - 
+        alternate_names: ~
+        ascii_name: "Jahanian Shah"
+        name: "Jahāniān Shāh"
+        names_en: ~
+        names_es: ~
+        population: 29095
+      - 
+        alternate_names: ~
+        ascii_name: Hujra
+        name: Hujra
+        names_en: ~
+        names_es: ~
+        population: 61546
+      - 
+        alternate_names: ~
+        ascii_name: Hazro
+        name: Hazro
+        names_en: ~
+        names_es: ~
+        population: 26309
+      - 
+        alternate_names: ~
+        ascii_name: Haveli
+        name: Haveli
+        names_en: ~
+        names_es: ~
+        population: 65289
+      - 
+        alternate_names: 
+          - Hasilpur
+          - Hasipur
+          - Hāsilpur
+        ascii_name: Hasilpur
+        name: Hāsilpur
+        names_en: ~
+        names_es: ~
+        population: 88031
+      - 
+        alternate_names: ~
+        ascii_name: "Hasan Abdal"
+        name: "Hasan Abdāl"
+        names_en: ~
+        names_es: ~
+        population: 45665
+      - 
+        alternate_names: 
+          - "Badruwala Mandi"
+          - "Badruwāla Mandi"
+          - "Haroonabad Municipality"
+        ascii_name: "Haru Zbad"
+        name: "Haru Zbad"
+        names_en: ~
+        names_es: ~
+        population: 72432
+      - 
+        alternate_names: 
+          - Haranoli
+          - Harnoli
+        ascii_name: Harnoli
+        name: Harnoli
+        names_en: ~
+        names_es: ~
+        population: 15669
+      - 
+        alternate_names: ~
+        ascii_name: Hafizabad
+        name: Hāfizābād
+        names_en: ~
+        names_es: ~
+        population: 153656
+      - 
+        alternate_names: ~
+        ascii_name: Hadali
+        name: Hadāli
+        names_en: ~
+        names_es: ~
+        population: 49663
+      - 
+        alternate_names: 
+          - Gudzharat
+          - Gujrat
+          - Gujrāt
+        ascii_name: Gujrat
+        name: Gujrāt
+        names_en: 
+          - Gujrat
+        names_es: ~
+        population: 301506
+      - 
+        alternate_names: 
+          - Gajranvala
+          - Gujranwala
+          - Gujrānwāla
+        ascii_name: Gujranwala
+        name: Gujrānwāla
+        names_en: 
+          - Gujranwala
+        names_es: ~
+        population: 1384471
+      - 
+        alternate_names: ~
+        ascii_name: "Gujar Khan"
+        name: "Gūjar Khān"
+        names_en: ~
+        names_es: ~
+        population: 69374
+      - 
+        alternate_names: ~
+        ascii_name: Gojra
+        name: Gojra
+        names_en: ~
+        names_es: ~
+        population: 139726
+      - 
+        alternate_names: ~
+        ascii_name: "Garh Maharaja"
+        name: "Garh Mahārāja"
+        names_en: ~
+        names_es: ~
+        population: 29153
+      - 
+        alternate_names: 
+          - Abbas
+          - "Fort Abbas"
+          - "Fort Abbās"
+        ascii_name: "Fort Abbas"
+        name: "Fort Abbās"
+        names_en: ~
+        names_es: ~
+        population: 40626
+      - 
+        alternate_names: ~
+        ascii_name: Fazalpur
+        name: Fazalpur
+        names_en: ~
+        names_es: ~
+        population: 28213
+      - 
+        alternate_names: 
+          - "Chak Two Hundred Forty-Nine TDA"
+          - Fatehpur
+        ascii_name: "Chak Two Hundred Forty-Nine TDA"
+        name: "Chak Two Hundred Forty-Nine TDA"
+        names_en: ~
+        names_es: ~
+        population: 18126
+      - 
+        alternate_names: 
+          - Farooka
+          - Faruka
+        ascii_name: Faruka
+        name: Faruka
+        names_en: ~
+        names_es: ~
+        population: 21747
+      - 
+        alternate_names: 
+          - Fagirwali
+          - Fagīrwāli
+          - Faqirwala
+        ascii_name: Faqirwali
+        name: Faqīrwāli
+        names_en: ~
+        names_es: ~
+        population: 25186
+      - 
+        alternate_names: 
+          - Faisalabad
+          - Faisalābād
+          - Feisalabada
+        ascii_name: Faisalabad
+        name: Faisalābād
+        names_en: 
+          - Faisalabad
+        names_es: ~
+        population: 2506595
+      - 
+        alternate_names: 
+          - Eminabad
+          - Eminābād
+        ascii_name: Eminabad
+        name: Eminābād
+        names_en: ~
+        names_es: ~
+        population: 22679
+      - 
+        alternate_names: ~
+        ascii_name: Dunyapur
+        name: Dunyāpur
+        names_en: ~
+        names_es: ~
+        population: 34044
+      - 
+        alternate_names: ~
+        ascii_name: "Dunga Bunga"
+        name: "Dunga Bunga"
+        names_en: ~
+        names_es: ~
+        population: 25893
+      - 
+        alternate_names: 
+          - Dull-wali
+          - Dullewala
+          - Dullewali
+        ascii_name: Dullewala
+        name: Dullewāla
+        names_en: ~
+        names_es: ~
+        population: 48682
+      - 
+        alternate_names: 
+          - Dipalpur
+          - Dīpālpur
+        ascii_name: Dipalpur
+        name: Dīpālpur
+        names_en: ~
+        names_es: ~
+        population: 74640
+      - 
+        alternate_names: ~
+        ascii_name: Dinga
+        name: Dinga
+        names_en: ~
+        names_es: ~
+        population: 39784
+      - 
+        alternate_names: ~
+        ascii_name: Dijkot
+        name: Dijkot
+        names_en: ~
+        names_es: ~
+        population: 27469
+      - 
+        alternate_names: 
+          - Dhaonkal
+          - Dhaunkal
+        ascii_name: Dhaunkal
+        name: Dhaunkal
+        names_en: ~
+        names_es: ~
+        population: 12117
+      - 
+        alternate_names: ~
+        ascii_name: Dhanot
+        name: Dhanot
+        names_en: ~
+        names_es: ~
+        population: 18729
+      - 
+        alternate_names: 
+          - "Dera Ghazi Khan"
+          - "Dera Ghoz Khan"
+          - "Dera Ghāzi Khān"
+        ascii_name: "Dera Ghazi Khan"
+        name: "Dera Ghāzi Khān"
+        names_en: ~
+        names_es: ~
+        population: 236093
+      - 
+        alternate_names: ~
+        ascii_name: Daultala
+        name: Daultāla
+        names_en: ~
+        names_es: ~
+        population: 11814
+      - 
+        alternate_names: ~
+        ascii_name: "Daud Khel"
+        name: "Dāūd Khel"
+        names_en: ~
+        names_es: ~
+        population: 26395
+      - 
+        alternate_names: ~
+        ascii_name: Daska
+        name: Daska
+        names_en: ~
+        names_es: ~
+        population: 126924
+      - 
+        alternate_names: 
+          - "Darva Khan"
+          - "Darva Khān"
+          - "Darya Khan"
+        ascii_name: "Darya Khan"
+        name: "Darya Khān"
+        names_en: ~
+        names_es: ~
+        population: 15048
+      - 
+        alternate_names: ~
+        ascii_name: Dajal
+        name: Dājal
+        names_en: ~
+        names_es: ~
+        population: 17630
+      - 
+        alternate_names: 
+          - "Daira Din Panah"
+          - "Daira Din Pannah Mustaqil"
+          - "Dāira Dīn Panāh"
+        ascii_name: "Daira Din Panah"
+        name: "Dāira Dīn Panāh"
+        names_en: ~
+        names_es: ~
+        population: 14878
+      - 
+        alternate_names: 
+          - Chunian
+          - Chūniān
+        ascii_name: Chunian
+        name: Chūniān
+        names_en: ~
+        names_es: ~
+        population: 57312
+      - 
+        alternate_names: 
+          - "Chuchar-kana Mandi"
+          - "Chuhar Kana"
+          - "Chuhar Kand"
+        ascii_name: "Chuhar Kana"
+        name: "Chūhar Kāna"
+        names_en: ~
+        names_es: ~
+        population: 69321
+      - 
+        alternate_names: 
+          - "Choa Saidan Shah"
+          - "Choa Saidān Shāh"
+          - "Saidan Shah"
+        ascii_name: "Choa Saidan Shah"
+        name: "Choa Saidān Shāh"
+        names_en: ~
+        names_es: ~
+        population: 15344
+      - 
+        alternate_names: 
+          - "Chishtian Mandi"
+          - "Chishtiān Mandi"
+          - Chistian
+        ascii_name: "Chishtian Mandi"
+        name: "Chishtiān Mandi"
+        names_en: ~
+        names_es: ~
+        population: 122199
+      - 
+        alternate_names: 
+          - Chaniot
+          - Chiniot
+          - Chinot
+        ascii_name: Chiniot
+        name: Chiniot
+        names_en: ~
+        names_es: ~
+        population: 201781
+      - 
+        alternate_names: 
+          - Chichawatni
+          - Chīchāwatni
+        ascii_name: Chichawatni
+        name: Chīchāwatni
+        names_en: ~
+        names_es: ~
+        population: 82762
+      - 
+        alternate_names: ~
+        ascii_name: Chawinda
+        name: Chawinda
+        names_en: ~
+        names_es: ~
+        population: 23599
+      - 
+        alternate_names: 
+          - Chakwal
+          - Chakwāl
+        ascii_name: Chakwal
+        name: Chakwāl
+        names_en: ~
+        names_es: ~
+        population: 101200
+      - 
+        alternate_names: 
+          - "Chak Azam Saffo"
+          - "Chak Azam Saho"
+          - "Chak Azam Sahu"
+        ascii_name: "Chak Azam Saffo"
+        name: "Chak Āzam Saffo"
+        names_en: ~
+        names_es: ~
+        population: 38216
+      - 
+        alternate_names: ~
+        ascii_name: Burewala
+        name: Būrewāla
+        names_en: ~
+        names_es: ~
+        population: 183915
+      - 
+        alternate_names: ~
+        ascii_name: Bhopalwala
+        name: Bhopālwāla
+        names_en: ~
+        names_es: ~
+        population: 17341
+      - 
+        alternate_names: 
+          - Bhera
+          - Bwera
+        ascii_name: Bhera
+        name: Bhera
+        names_en: ~
+        names_es: ~
+        population: 31781
+      - 
+        alternate_names: 
+          - Bawana
+          - Bhawana
+          - Bhawāna
+        ascii_name: Bhawana
+        name: Bhawāna
+        names_en: ~
+        names_es: ~
+        population: 16218
+      - 
+        alternate_names: ~
+        ascii_name: Bhalwal
+        name: Bhalwāl
+        names_en: ~
+        names_es: ~
+        population: 74744
+      - 
+        alternate_names: 
+          - Bhakkar
+        ascii_name: Bhakkar
+        name: Bhakkar
+        names_en: 
+          - Bhakkar
+        names_es: ~
+        population: 81950
+      - 
+        alternate_names: 
+          - "Bhai Pheru"
+          - "Bhar Pheru"
+          - "Bhāi Pheru"
+        ascii_name: "Bhai Pheru"
+        name: "Bhāi Pheru"
+        names_en: ~
+        names_es: ~
+        population: 86900
+      - 
+        alternate_names: 
+          - Begawala
+          - Begowala
+          - Begowāla
+        ascii_name: Begowala
+        name: Begowāla
+        names_en: ~
+        names_es: ~
+        population: 9259
+      - 
+        alternate_names: ~
+        ascii_name: Basirpur
+        name: Basīrpur
+        names_en: ~
+        names_es: ~
+        population: 41617
+      - 
+        alternate_names: ~
+        ascii_name: "Bakhri Ahmad Khan"
+        name: "Bakhri Ahmad Khan"
+        names_en: ~
+        names_es: ~
+        population: 2000
+      - 
+        alternate_names: 
+          - Bahawalpur
+          - Bahāwalpur
+          - Bakhavalpura
+        ascii_name: Bahawalpur
+        name: Bahāwalpur
+        names_en: 
+          - Bahāwalpur
+        names_es: ~
+        population: 552607
+      - 
+        alternate_names: 
+          - Bahawalnagar
+          - Bahawalpur
+          - Bahawatnagar
+        ascii_name: Bahawalnagar
+        name: Bahāwalnagar
+        names_en: 
+          - Bahawalpur
+        names_es: 
+          - Bahawalpur
+        population: 126617
+      - 
+        alternate_names: ~
+        ascii_name: Baddomalhi
+        name: Baddomalhi
+        names_en: ~
+        names_es: ~
+        population: 18435
+      - 
+        alternate_names: 
+          - "Attock City"
+          - Campbellpore
+          - Campbellpur
+        ascii_name: "Attock City"
+        name: "Attock City"
+        names_en: ~
+        names_es: ~
+        population: 85479
+      - 
+        alternate_names: 
+          - Arifwala
+          - Ārifwāla
+        ascii_name: Arifwala
+        name: Ārifwāla
+        names_en: ~
+        names_es: ~
+        population: 87360
+      - 
+        alternate_names: ~
+        ascii_name: Alipur
+        name: Alīpur
+        names_en: ~
+        names_es: ~
+        population: 33601
+      - 
+        alternate_names: 
+          - Ahmadpur
+          - "Ahmadpur East"
+          - "Ahmedpur East"
+        ascii_name: "Ahmadpur East"
+        name: "Ahmadpur East"
+        names_en: 
+          - "Ahmadpur East"
+        names_es: ~
+        population: 116579
+      - 
+        alternate_names: 
+          - Jhang
+          - "Jhang City"
+        ascii_name: "Jhang City"
+        name: "Jhang City"
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: new-mirpur
       - 
-        districts: []
-        location: "POINT (34.3699999999999974 73.4711099999999959)"
-        name: Muzaffarābād
-        population: 19750
-        slug: muzaffarabad
+        alternate_names: 
+          - Bahawalnagar
+          - Bahāwalnagar
+        ascii_name: Bahawalnagar
+        name: Bahāwalnagar
+        names_en: ~
+        names_es: ~
+        population: 126700
       - 
-        districts: []
-        location: "POINT (33.5166699999999977 73.9166699999999963)"
-        name: Kotli
-        population: 640000
-        slug: kotli
+        alternate_names: ~
+        ascii_name: "Ahmadpur Sial"
+        name: "Ahmadpur Siāl"
+        names_en: ~
+        names_es: ~
+        population: 24889
       - 
-        districts: []
-        location: "POINT (32.9756799999999970 74.0792600000000050)"
-        name: Bhimbar
-        population: 342900
-        slug: bhimbar
+        alternate_names: ~
+        ascii_name: "Malakwal City"
+        name: "Malakwal City"
+        names_en: ~
+        names_es: ~
+        population: 35000
       - 
-        districts: []
-        location: "POINT (33.9805800000000033 73.7757000000000005)"
-        name: Bāgh
-        population: 0
-        slug: bagh
+        alternate_names: ~
+        ascii_name: "Basti Dosa"
+        name: "Basti Dosa"
+        names_en: ~
+        names_es: ~
+        population: 2000
       - 
-        districts: []
-        location: "POINT (34.5717300000000023 73.8972399999999965)"
-        name: Athmuqam
-        population: 0
-        slug: athmuqam
-    code: PK.06
-    name: "Azad Kashmir"
-    slug: azad-kashmir
+        alternate_names: ~
+        ascii_name: "Moza Shahwala"
+        name: "Moza Shahwala"
+        names_en: ~
+        names_es: ~
+        population: 1200
+      - 
+        alternate_names: ~
+        ascii_name: "Nazir Town"
+        name: "Nazir Town"
+        names_en: ~
+        names_es: ~
+        population: 6750
+    name: Punjab
+    names_en: 
+      - Punjab
+    names_es: ~
   - 
+    ascii_name: "North West Frontier Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (35.4104000000000028 74.1068000000000069)"
-        name: Chilās
+        alternate_names: 
+          - Timugara
+          - Timurgara
+          - Tīmurgara
+        ascii_name: Timurgara
+        name: Tīmurgara
+        names_en: 
+          - Tīmurgara
+        names_es: ~
         population: 0
-        slug: chilas
       - 
-        districts: []
-        location: "POINT (35.3029500000000027 75.6199500000000029)"
+        alternate_names: 
+          - Zaida
+        ascii_name: Zaida
+        name: Zaida
+        names_en: 
+          - Zaida
+        names_es: ~
+        population: 26787
+      - 
+        alternate_names: 
+          - Utmanzai
+          - Utmānzai
+          - Uttamanza
+        ascii_name: Utmanzai
+        name: Utmānzai
+        names_en: 
+          - Utmānzai
+        names_es: ~
+        population: 29423
+      - 
+        alternate_names: 
+          - Topi
+          - Топи
+        ascii_name: Topi
+        name: Topi
+        names_en: ~
+        names_es: ~
+        population: 36340
+      - 
+        alternate_names: ~
+        ascii_name: Tank
+        name: Tānk
+        names_en: ~
+        names_es: ~
+        population: 38488
+      - 
+        alternate_names: 
+          - Tangi
+        ascii_name: Tangi
+        name: Tangi
+        names_en: 
+          - Tangi
+        names_es: ~
+        population: 29444
+      - 
+        alternate_names: 
+          - Tal
+          - Tal'
+          - Thal
+        ascii_name: Tal
+        name: Tāl
+        names_en: ~
+        names_es: ~
+        population: 29331
+      - 
+        alternate_names: 
+          - Swabi
+          - Swābi
+        ascii_name: Swabi
+        name: Swābi
+        names_en: 
+          - Swābi
+        names_es: ~
+        population: 97363
+      - 
+        alternate_names: 
+          - Shorko
+          - Shorkot
+        ascii_name: Shorko
+        name: Shorko
+        names_en: ~
+        names_es: ~
+        population: 67439
+      - 
+        alternate_names: 
+          - "Shabgadar Fort"
+          - Shabkadar
+          - Shabqadar
+        ascii_name: Shabqadar
+        name: Shabqadar
+        names_en: 
+          - Shabqadar
+        names_es: ~
+        population: 66541
+      - 
+        alternate_names: 
+          - "Naurang Sarai"
+          - "Naurang Sarāi"
+          - "Sarai Naurang"
+        ascii_name: "Sarai Naurang"
+        name: "Sarāi Naurang"
+        names_en: ~
+        names_es: ~
+        population: 19694
+      - 
+        alternate_names: 
+          - Saidu
+          - "Saidu Sharif"
+          - "Saidu Sharīf"
+        ascii_name: "Saidu Sharif"
+        name: "Saidu Sharīf"
+        names_en: 
+          - "Saidu Sharīf"
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Pesabar
+          - Pesavaras
+          - Peschawar
+        ascii_name: Peshawar
+        name: Peshāwar
+        names_en: 
+          - Peshawar
+          - Peshāwar
+        names_es: 
+          - Peshawar
+        population: 1218773
+      - 
+        alternate_names: ~
+        ascii_name: Paharpur
+        name: Pahārpur
+        names_en: ~
+        names_es: ~
+        population: 17294
+      - 
+        alternate_names: 
+          - Pabbi
+        ascii_name: Pabbi
+        name: Pabbi
+        names_en: 
+          - Pabbi
+        names_es: ~
+        population: 37307
+      - 
+        alternate_names: 
+          - Naushahra
+          - Nowshehra
+          - Nowshera
+        ascii_name: Nowshera
+        name: Nowshera
+        names_en: 
+          - Nowshera
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Mingaora
+          - Mingora
+          - Mingāora
+        ascii_name: Mingaora
+        name: Mingāora
+        names_en: 
+          - Mingora
+          - Mingāora
+        names_es: ~
+        population: 227331
+      - 
+        alternate_names: 
+          - Mardan
+          - Mardān
+          - Мардан
+        ascii_name: Mardan
+        name: Mardān
+        names_en: 
+          - Mardan
+          - Mardān
+        names_es: ~
+        population: 300424
+      - 
+        alternate_names: 
+          - Mansehra
+          - Mansekhra
+          - Mānsehra
+        ascii_name: Mansehra
+        name: Mānsehra
+        names_en: ~
+        names_es: ~
+        population: 66486
+      - 
+        alternate_names: 
+          - Malakand
+          - Malakaud
+        ascii_name: Malakand
+        name: Malakand
+        names_en: 
+          - Malakand
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Laki-Marwat
+          - Lakki
+          - "Lakki Marwat"
+        ascii_name: "Lakki Marwat"
+        name: "Lakki Marwat"
+        names_en: ~
+        names_es: ~
+        population: 36391
+      - 
+        alternate_names: ~
+        ascii_name: Lachi
+        name: Lāchi
+        names_en: ~
+        names_es: ~
+        population: 18537
+      - 
+        alternate_names: ~
+        ascii_name: Kulachi
+        name: Kulāchi
+        names_en: ~
+        names_es: ~
+        population: 22376
+      - 
+        alternate_names: 
+          - Kohat
+          - Kohāt
+          - Kokhat
+        ascii_name: Kohat
+        name: Kohāt
+        names_en: ~
+        names_es: ~
+        population: 151427
+      - 
+        alternate_names: 
+          - Karak
+          - Kark
+          - Kharak
+        ascii_name: Karak
+        name: Karak
+        names_en: ~
+        names_es: ~
+        population: 13679
+      - 
+        alternate_names: ~
+        ascii_name: Khalabat
+        name: Khalābat
+        names_en: ~
+        names_es: ~
+        population: 39148
+      - 
+        alternate_names: 
+          - Havelian
+          - Haveliān
+        ascii_name: Havelian
+        name: Haveliān
+        names_en: ~
+        names_es: ~
+        population: 40481
+      - 
+        alternate_names: 
+          - Haripur
+          - Harīpur
+          - Kharipur
+        ascii_name: Haripur
+        name: Harīpur
+        names_en: ~
+        names_es: ~
+        population: 56977
+      - 
+        alternate_names: ~
+        ascii_name: Hangu
+        name: Hangu
+        names_en: ~
+        names_es: ~
+        population: 36150
+      - 
+        alternate_names: ~
+        ascii_name: Doaba
+        name: Doāba
+        names_en: ~
+        names_es: ~
+        population: 8893
+      - 
+        alternate_names: 
+          - Dir
+          - Dīr
+        ascii_name: Dir
+        name: Dīr
+        names_en: 
+          - Dīr
+        names_es: ~
+        population: 29869
+      - 
+        alternate_names: 
+          - "Dera Ismail Khan"
+          - "Dera Ismāīl Khān"
+        ascii_name: "Dera Ismail Khan"
+        name: "Dera Ismāīl Khān"
+        names_en: ~
+        names_es: ~
+        population: 101616
+      - 
+        alternate_names: 
+          - Dagar
+          - Daggar
+        ascii_name: Daggar
+        name: Daggar
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Chitral
+          - Chitrāl
+        ascii_name: Chitral
+        name: Chitrāl
+        names_en: 
+          - Chitrāl
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Charsadda
+          - Chārsadda
+        ascii_name: Charsadda
+        name: Chārsadda
+        names_en: 
+          - Chārsadda
+        names_es: ~
+        population: 95319
+      - 
+        alternate_names: 
+          - "Bat Khela"
+          - Batkhel
+        ascii_name: "Bat Khela"
+        name: "Bat Khela"
+        names_en: 
+          - "Bat Khela"
+        names_es: ~
+        population: 46079
+      - 
+        alternate_names: 
+          - Batagram
+          - Batagrām
+          - Batgram
+        ascii_name: Batgram
+        name: Batgrām
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Bannu
+        name: Bannu
+        names_en: ~
+        names_es: ~
+        population: 49008
+      - 
+        alternate_names: ~
+        ascii_name: Baffa
+        name: Baffa
+        names_en: ~
+        names_es: ~
+        population: 14047
+      - 
+        alternate_names: 
+          - Amangarh
+        ascii_name: Amangarh
+        name: Amangarh
+        names_en: 
+          - Amangarh
+        names_es: ~
+        population: 25723
+      - 
+        alternate_names: 
+          - Akora
+          - "Akora Khattak"
+          - "Akora Khāttak"
+        ascii_name: Akora
+        name: Akora
+        names_en: 
+          - Akora
+        names_es: ~
+        population: 23288
+      - 
+        alternate_names: 
+          - Abbottabad
+          - Abbottābād
+        ascii_name: Abbottabad
+        name: Abbottābād
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Nowshera Cantonment"
+        name: "Nowshera Cantonment"
+        names_en: ~
+        names_es: ~
+        population: 96766
+      - 
+        alternate_names: 
+          - Risalpur
+          - Risālpur
+        ascii_name: Risalpur
+        name: Risālpur
+        names_en: 
+          - Risālpur
+        names_es: ~
+        population: 37084
+      - 
+        alternate_names: 
+          - Noorabad
+          - Nooriabad
+          - Noorābād
+        ascii_name: Noorabad
+        name: Noorābād
+        names_en: 
+          - Nooriabad
+          - Noorābād
+        names_es: ~
+        population: 1100
+      - 
+        alternate_names: ~
+        ascii_name: Alpurai
+        name: Alpūrai
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Dasu
+        name: Dasu
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "North West Frontier Province"
+    names_en: 
+      - "North West Frontier Province"
+      - "North-West Frontier Province"
+    names_es: ~
+  - 
+    ascii_name: Gilgit-Baltistan
+    cities: 
+      - 
+        alternate_names: 
+          - Shardu
+          - Skardo
+          - Skardu
+        ascii_name: Skardu
         name: Skārdu
+        names_en: ~
+        names_es: ~
         population: 2100
-        slug: skardu
       - 
-        districts: []
-        location: "POINT (35.1544799999999995 76.3522200000000026)"
+        alternate_names: ~
+        ascii_name: Khapalu
         name: Khapalu
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: khapalu
       - 
-        districts: []
-        location: "POINT (35.9221000000000004 74.3087000000000018)"
+        alternate_names: 
+          - Gilghit
+          - Gilgit
+          - گلگت
+        ascii_name: Gilgit
         name: Gilgit
+        names_en: ~
+        names_es: ~
         population: 9892
-        slug: gilgit
       - 
-        districts: []
-        location: "POINT (36.1666700000000034 73.7500000000000000)"
+        alternate_names: 
+          - Gakuch
+          - Gākuch
+        ascii_name: Gakuch
         name: Gākuch
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: gakuch
       - 
-        districts: []
-        location: "POINT (36.3014999999999972 74.6169000000000011)"
+        alternate_names: 
+          - Chilas
+          - Chilās
+          - chlas
+        ascii_name: Chilas
+        name: Chilās
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Aliabad
         name: Alīābad
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: aliabad
       - 
-        districts: []
-        location: "POINT (35.3447000000000031 74.8560999999999979)"
+        alternate_names: ~
+        ascii_name: Idgah
         name: Īdgāh
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: idgah
-    code: PK.07
+      - 
+        alternate_names: ~
+        ascii_name: Barishal
+        name: Barishāl
+        names_en: ~
+        names_es: ~
+        population: 2005
     name: Gilgit-Baltistan
-    slug: gilgit-baltistan
-tld: pk
+    names_en: 
+      - Gilgit-Baltistan
+    names_es: ~
+  - 
+    ascii_name: "Federally Administered Tribal Areas"
+    cities: 
+      - 
+        alternate_names: 
+          - Waha
+          - Wana
+          - Wano
+        ascii_name: Wana
+        name: Wāna
+        names_en: ~
+        names_es: ~
+        population: 2223
+      - 
+        alternate_names: ~
+        ascii_name: Shinpokh
+        name: Shīnpokh
+        names_en: ~
+        names_es: ~
+        population: 1111
+      - 
+        alternate_names: 
+          - Miram
+          - "Miram Shah"
+          - "Miram Shah Post"
+        ascii_name: "Miram Shah"
+        name: "Mīram Shāh"
+        names_en: ~
+        names_es: ~
+        population: 3334
+      - 
+        alternate_names: 
+          - "Landi Kotal"
+          - "Landlandi Kotal"
+        ascii_name: "Landi Kotal"
+        name: "Landi Kotal"
+        names_en: ~
+        names_es: ~
+        population: 2223
+      - 
+        alternate_names: 
+          - Cherat
+          - "Cherat Cantonement"
+          - Cherāt
+        ascii_name: Cherat
+        name: Cherāt
+        names_en: ~
+        names_es: ~
+        population: 2986
+      - 
+        alternate_names: ~
+        ascii_name: Alizai
+        name: Alīzai
+        names_en: ~
+        names_es: ~
+        population: 3334
+    name: "Federally Administered Tribal Areas"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Balochistan
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Ziarat
+        name: Ziārat
+        names_en: ~
+        names_es: ~
+        population: 733
+      - 
+        alternate_names: 
+          - Apozai
+          - "Fort Sandeman"
+          - "Fort Sanderman"
+        ascii_name: Zhob
+        name: Zhob
+        names_en: ~
+        names_es: ~
+        population: 50537
+      - 
+        alternate_names: 
+          - Utal
+          - Uthal
+        ascii_name: Uthal
+        name: Uthal
+        names_en: ~
+        names_es: ~
+        population: 16483
+      - 
+        alternate_names: 
+          - Ushda
+          - Usta
+          - "Usta Muhammad"
+        ascii_name: "Usta Muhammad"
+        name: "Usta Muhammad"
+        names_en: ~
+        names_es: ~
+        population: 43983
+      - 
+        alternate_names: ~
+        ascii_name: Turbat
+        name: Turbat
+        names_en: ~
+        names_es: ~
+        population: 75694
+      - 
+        alternate_names: 
+          - Soorab
+          - Sorab
+          - Surab
+        ascii_name: Surab
+        name: Sūrāb
+        names_en: ~
+        names_es: ~
+        population: 13104
+      - 
+        alternate_names: ~
+        ascii_name: Sohbatpur
+        name: Sohbatpur
+        names_en: ~
+        names_es: ~
+        population: 8940
+      - 
+        alternate_names: 
+          - Ibis
+          - Sibi
+          - Сиби
+        ascii_name: Sibi
+        name: Sibi
+        names_en: 
+          - Sibi
+        names_es: ~
+        population: 64069
+      - 
+        alternate_names: 
+          - Kotah
+          - Kvetta
+          - Kwatah
+        ascii_name: Quetta
+        name: Quetta
+        names_en: 
+          - Quetta
+        names_es: 
+          - Quetta
+        population: 733675
+      - 
+        alternate_names: 
+          - "Kila Saifulla"
+          - "Killa Saifulla Bazar"
+          - Killa-Saifulla
+        ascii_name: "Qila Saifullah"
+        name: "Qila Saifullāh"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Killa Abdullah"
+          - "Qila Abdullah"
+          - "Qila Abdullāh"
+        ascii_name: "Qila Abdullah"
+        name: "Qila Abdullāh"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Pishin
+          - pshy
+          - Пишин
+        ascii_name: Pishin
+        name: Pishin
+        names_en: 
+          - Pishin
+        names_es: ~
+        population: 24239
+      - 
+        alternate_names: 
+          - Pansi
+          - Pasni
+          - Пасни
+        ascii_name: Pasni
+        name: Pasni
+        names_en: ~
+        names_es: ~
+        population: 33110
+      - 
+        alternate_names: 
+          - Chukan
+          - Panjgur
+          - Panjgūr
+        ascii_name: Panjgur
+        name: Panjgūr
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ormara
+          - Ormāra
+        ascii_name: Ormara
+        name: Ormāra
+        names_en: ~
+        names_es: ~
+        population: 13026
+      - 
+        alternate_names: ~
+        ascii_name: Nushki
+        name: Nushki
+        names_en: ~
+        names_es: ~
+        population: 27680
+      - 
+        alternate_names: 
+          - "Musa Khel Bazar"
+          - Musakhel
+          - "Mūsa Khel Bāzār"
+        ascii_name: "Musa Khel Bazar"
+        name: "Mūsa Khel Bāzār"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Mahrabpur
+          - Mehrabpur
+          - Mehrābpur
+        ascii_name: Mehrabpur
+        name: Mehrābpur
+        names_en: ~
+        names_es: ~
+        population: 35263
+      - 
+        alternate_names: ~
+        ascii_name: Mastung
+        name: Mastung
+        names_en: ~
+        names_es: ~
+        population: 29082
+      - 
+        alternate_names: 
+          - Mach
+        ascii_name: Mach
+        name: Mach
+        names_en: 
+          - Mach
+        names_es: ~
+        population: 16930
+      - 
+        alternate_names: 
+          - Loraiar
+          - Loralai
+        ascii_name: Loralai
+        name: Loralai
+        names_en: ~
+        names_es: ~
+        population: 37787
+      - 
+        alternate_names: 
+          - Kohlu
+        ascii_name: Kohlu
+        name: Kohlu
+        names_en: ~
+        names_es: ~
+        population: 11089
+      - 
+        alternate_names: 
+          - Kharan
+          - "Kharan Kalat"
+          - "Kharon Kalat"
+        ascii_name: Kharan
+        name: Khārān
+        names_en: ~
+        names_es: ~
+        population: 30841
+      - 
+        alternate_names: 
+          - Kalat
+          - Kalāt
+          - Kelat
+        ascii_name: Kalat
+        name: Kalāt
+        names_en: ~
+        names_es: ~
+        population: 26701
+      - 
+        alternate_names: 
+          - Jinwri
+          - Jiunri
+          - Jiwani
+        ascii_name: Jiwani
+        name: Jīwani
+        names_en: ~
+        names_es: ~
+        population: 16322
+      - 
+        alternate_names: 
+          - Jhatpat
+          - "Jhatpat Sadar"
+        ascii_name: Jhatpat
+        name: Jhatpat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Harnai
+          - "Harnai Bazar"
+        ascii_name: Harnai
+        name: Harnai
+        names_en: ~
+        names_es: ~
+        population: 11066
+      - 
+        alternate_names: 
+          - Hala
+          - Halu
+          - Hāla
+        ascii_name: Hala
+        name: Hāla
+        names_en: 
+          - Hāla
+        names_es: ~
+        population: 47915
+      - 
+        alternate_names: 
+          - Gvadar
+          - Gwadar
+          - Gwadur
+        ascii_name: Gwadar
+        name: Gwādar
+        names_en: 
+          - Gwadar
+        names_es: ~
+        population: 51901
+      - 
+        alternate_names: 
+          - Gandava
+          - Gandawah
+          - Gandāva
+        ascii_name: Gandava
+        name: Gandāva
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Gadani
+          - Gadāni
+        ascii_name: Gadani
+        name: Gadāni
+        names_en: ~
+        names_es: ~
+        population: 13427
+      - 
+        alternate_names: ~
+        ascii_name: Duki
+        name: Duki
+        names_en: ~
+        names_es: ~
+        population: 6384
+      - 
+        alternate_names: 
+          - "Dera Bagti"
+          - "Dera Bugti"
+        ascii_name: "Dera Bugti"
+        name: "Dera Bugti"
+        names_en: ~
+        names_es: ~
+        population: 18120
+      - 
+        alternate_names: 
+          - Dalbandin
+          - Dālbandīn
+        ascii_name: Dalbandin
+        name: Dālbandīn
+        names_en: ~
+        names_es: ~
+        population: 14621
+      - 
+        alternate_names: 
+          - Dadhar
+          - Dhadar
+          - Dādhar
+        ascii_name: Dadhar
+        name: Dādhar
+        names_en: ~
+        names_es: ~
+        population: 15090
+      - 
+        alternate_names: ~
+        ascii_name: Chaman
+        name: Chaman
+        names_en: ~
+        names_es: ~
+        population: 88568
+      - 
+        alternate_names: ~
+        ascii_name: Bhag
+        name: Bhāg
+        names_en: ~
+        names_es: ~
+        population: 14555
+      - 
+        alternate_names: 
+          - Armabel
+          - Armail
+          - Armel
+        ascii_name: Bela
+        name: Bela
+        names_en: ~
+        names_es: ~
+        population: 20119
+      - 
+        alternate_names: 
+          - Barkhan
+          - Bārkhān
+          - بارکھان
+        ascii_name: Barkhan
+        name: Bārkhān
+        names_en: ~
+        names_es: ~
+        population: 8760
+      - 
+        alternate_names: 
+          - Awaran
+          - Awārān
+        ascii_name: Awaran
+        name: Awārān
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Alik Ghund"
+        name: "Alik Ghund"
+        names_en: ~
+        names_es: ~
+        population: 7630
+      - 
+        alternate_names: 
+          - "Dera Murad Jamali"
+          - "Dera Murād Jamāli"
+          - "Temple Dera"
+        ascii_name: "Dera Murad Jamali"
+        name: "Dera Murād Jamāli"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Chowki Jamali"
+        name: "Chowki Jamali"
+        names_en: ~
+        names_es: ~
+        population: 2000
+      - 
+        alternate_names: 
+          - Khuzdar
+          - "Khuzdar Cantonment"
+          - Khuzdār
+        ascii_name: Khuzdar
+        name: Khuzdār
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Balochistān
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Azad Kashmir"
+    cities: 
+      - 
+        alternate_names: 
+          - "Rawala Kot"
+          - Rawalkote
+          - Rawlakot
+        ascii_name: "Rawala Kot"
+        name: "Rāwala Kot"
+        names_en: 
+          - Rawlakot
+        names_es: ~
+        population: 50000
+      - 
+        alternate_names: 
+          - Palandri
+        ascii_name: Palandri
+        name: Palandri
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Mirpur
+          - Mīrpur
+          - "New Mirpur"
+        ascii_name: "New Mirpur"
+        name: "New Mīrpur"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Musaffarabad
+          - Musaffarābād
+          - Muzafarabad
+        ascii_name: Muzaffarabad
+        name: Muzaffarābād
+        names_en: 
+          - Muzaffarabad
+          - Muzaffarābād
+        names_es: ~
+        population: 19750
+      - 
+        alternate_names: ~
+        ascii_name: Kotli
+        name: Kotli
+        names_en: ~
+        names_es: ~
+        population: 640000
+      - 
+        alternate_names: 
+          - Bhimbar
+          - Bhimber
+        ascii_name: Bhimbar
+        name: Bhimbar
+        names_en: ~
+        names_es: ~
+        population: 342900
+      - 
+        alternate_names: ~
+        ascii_name: Bagh
+        name: Bāgh
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Athmuqam
+        name: Athmuqam
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Azad Kashmir"
+    names_en: ~
+    names_es: ~

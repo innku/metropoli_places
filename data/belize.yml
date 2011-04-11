@@ -1,77 +1,138 @@
 --- 
-code: BZ
-continent: NA
 name: Belize
-population: 314522
+names_en: 
+  - Belize
+names_es: 
+  - Belice
 regions: 
   - 
+    ascii_name: "Toledo District"
     cities: 
       - 
-        districts: []
-        location: "POINT (17.9159800000000011 -87.9659000000000049)"
-        name: "San Pedro"
-        population: 8418
-        slug: san-pedro
-      - 
-        districts: []
-        location: "POINT (17.4995200000000004 -88.1975599999999957)"
-        name: "Belize City"
-        population: 61461
-        slug: belize-city
-      - 
-        districts: []
-        location: "POINT (16.9666700000000006 -88.2166699999999935)"
-        name: Dangriga
-        population: 10750
-        slug: dangriga
-    code: BZ.01
-    name: Belize
-    slug: belize
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (18.3833300000000008 -88.3833300000000008)"
-        name: Corozal
-        population: 8724
-        slug: corozal
-      - 
-        districts: []
-        location: "POINT (17.1561100000000017 -89.0713899999999938)"
-        name: "San Ignacio"
-        population: 16812
-        slug: san-ignacio
-      - 
-        districts: []
-        location: "POINT (17.0749999999999993 -89.1391699999999929)"
-        name: "Benque Viejo del Carmen"
-        population: 7092
-        slug: benque-viejo-del-carmen
-      - 
-        districts: []
-        location: "POINT (17.2500000000000000 -88.7666700000000048)"
-        name: Belmopan
-        population: 13381
-        slug: belmopan
-      - 
-        districts: []
-        location: "POINT (17.3347200000000008 -88.8347200000000043)"
-        name: "Valley of Peace"
-        population: 1809
-        slug: valley-of-peace
-      - 
-        districts: []
-        location: "POINT (18.0666699999999985 -88.5499999999999972)"
-        name: "Orange Walk"
-        population: 15298
-        slug: orange-walk
-      - 
-        districts: []
-        location: "POINT (16.1000000000000014 -88.7999999999999972)"
+        alternate_names: 
+          - "Punta Gorda"
+        ascii_name: "Punta Gorda"
         name: "Punta Gorda"
+        names_en: ~
+        names_es: ~
         population: 5026
-        slug: punta-gorda
-    code: BZ.02
+    name: Toledo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Stann Creek District"
+    cities: 
+      - 
+        alternate_names: 
+          - Dangriga
+          - "Dangriga Town"
+          - "Stann Creek"
+        ascii_name: Dangriga
+        name: Dangriga
+        names_en: ~
+        names_es: ~
+        population: 10750
+    name: "Stann Creek"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Orange Walk District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Orange Walk"
+        ascii_name: "Orange Walk"
+        name: "Orange Walk"
+        names_en: ~
+        names_es: ~
+        population: 15298
+    name: "Orange Walk"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Corozal District"
+    cities: 
+      - 
+        alternate_names: 
+          - Corasal
+          - Corazal
+          - Corosal
+        ascii_name: Corozal
+        name: Corozal
+        names_en: ~
+        names_es: ~
+        population: 8724
+    name: Corozal
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Cayo District"
+    cities: 
+      - 
+        alternate_names: 
+          - Cayo
+          - "Cayo Town"
+          - "El Cayo"
+        ascii_name: "San Ignacio"
+        name: "San Ignacio"
+        names_en: ~
+        names_es: ~
+        population: 16812
+      - 
+        alternate_names: 
+          - "Bengue Viejo"
+          - "Benique Viejo del Carmen"
+          - "Benque Viejo"
+        ascii_name: "Benque Viejo del Carmen"
+        name: "Benque Viejo del Carmen"
+        names_en: ~
+        names_es: ~
+        population: 7092
+      - 
+        alternate_names: 
+          - Bel'mopan
+          - Belmopan
+          - Belmopanas
+        ascii_name: Belmopan
+        name: Belmopan
+        names_en: 
+          - Belmopan
+        names_es: 
+          - Belmopán
+        population: 13381
+      - 
+        alternate_names: 
+          - "Valley of Peace"
+        ascii_name: "Valley of Peace"
+        name: "Valley of Peace"
+        names_en: ~
+        names_es: ~
+        population: 1809
     name: Cayo
-    slug: cayo
-tld: bz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Belize District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "San Pedro"
+        name: "San Pedro"
+        names_en: ~
+        names_es: ~
+        population: 8418
+      - 
+        alternate_names: 
+          - Belice
+          - Belizas
+          - Belize
+        ascii_name: "Belize City"
+        name: "Belize City"
+        names_en: 
+          - "Belize City"
+        names_es: 
+          - "Ciudad de Belice"
+        population: 61461
+    name: Belize
+    names_en: ~
+    names_es: ~

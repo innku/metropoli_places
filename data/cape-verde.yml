@@ -1,131 +1,322 @@
 --- 
-code: CV
-continent: AF
 name: "Cape Verde"
-population: 508659
+names_en: 
+  - "Cape Verde"
+  - "Republic of Cape Verde"
+names_es: 
+  - "Cabo Verde"
 regions: 
   - 
+    ascii_name: "Concelho do Tarrafal"
     cities: 
       - 
-        districts: []
-        location: "POINT (16.6166699999999992 -24.3000000000000007)"
-        name: "Vila da Ribeira Brava"
-        population: 5324
-        slug: vila-da-ribeira-brava
-      - 
-        districts: []
-        location: "POINT (17.0196900000000007 -25.0647100000000016)"
-        name: "Porto Novo"
-        population: 5580
-        slug: porto-novo
-      - 
-        districts: []
-        location: "POINT (15.0243800000000007 -23.5625000000000000)"
-        name: "São Domingos"
-        population: 1850
-        slug: sao-domingos
-      - 
-        districts: []
-        location: "POINT (15.1333300000000008 -23.5666699999999985)"
-        name: "Santa Cruz"
-        population: 9488
-        slug: santa-cruz
-      - 
-        districts: []
-        location: "POINT (17.1499999999999986 -25.0166700000000013)"
-        name: Pombas
-        population: 1818
-        slug: pombas
-      - 
-        districts: []
-        location: "POINT (14.8666699999999992 -24.7166700000000006)"
-        name: "Vila Nova Sintra"
-        population: 0
-        slug: vila-nova-sintra
-      - 
-        districts: []
-        location: "POINT (14.9214800000000007 -23.5086799999999982)"
-        name: Praia
-        population: 113364
-        slug: praia
-      - 
-        districts: []
-        location: "POINT (15.0333299999999994 -24.3333300000000001)"
-        name: "Porto dos Mosteiros"
-        population: 477
-        slug: porto-dos-mosteiros
-      - 
-        districts: []
-        location: "POINT (14.9166699999999999 -23.6166699999999992)"
-        name: "Cidade Velha"
-        population: 2148
-        slug: cidade-velha
-      - 
-        districts: []
-        location: "POINT (15.2833299999999994 -23.7666700000000013)"
+        alternate_names: 
+          - Tarrafal
+          - "Vila do Tarrafal"
+        ascii_name: Tarrafal
         name: Tarrafal
+        names_en: ~
+        names_es: ~
         population: 6463
-        slug: tarrafal
-      - 
-        districts: []
-        location: "POINT (15.1833299999999998 -23.6000000000000014)"
-        name: Calheta
-        population: 0
-        slug: calheta
-      - 
-        districts: []
-        location: "POINT (16.6000000000000014 -22.8999999999999986)"
-        name: "Santa Maria"
-        population: 17231
-        slug: santa-maria
-      - 
-        districts: []
-        location: "POINT (15.0999999999999996 -23.6833300000000015)"
-        name: Assomada
-        population: 7927
-        slug: assomada
-      - 
-        districts: []
-        location: "POINT (16.8901399999999988 -24.9804199999999987)"
-        name: Mindelo
-        population: 70611
-        slug: mindelo
-      - 
-        districts: []
-        location: "POINT (15.1333300000000008 -23.2166700000000006)"
-        name: "Vila do Maio"
-        population: 3009
-        slug: vila-do-maio
-      - 
-        districts: []
-        location: "POINT (14.8961000000000006 -24.4955600000000011)"
-        name: "São Filipe"
-        population: 8189
-        slug: sao-filipe
-    code: CV.00
-    name: "Cape Verde (general)"
-    slug: cape-verde-general
+    name: Tarrafal
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Concelho de Sao Vicente"
     cities: 
       - 
-        districts: []
-        location: "POINT (16.1833300000000015 -22.9166699999999999)"
-        name: "Sal Rei"
-        population: 2122
-        slug: sal-rei
+        alternate_names: 
+          - Mihdelo
+          - Mindello
+          - Mindelo
+        ascii_name: Mindelo
+        name: Mindelo
+        names_en: 
+          - Mindelo
+        names_es: ~
+        population: 70611
+    name: "São Vicente"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho de Santa Catarina"
+    cities: 
       - 
-        districts: []
-        location: "POINT (17.1833300000000015 -25.0666699999999985)"
+        alternate_names: 
+          - Assomada
+          - Assumada
+        ascii_name: Assomada
+        name: Assomada
+        names_en: ~
+        names_es: ~
+        population: 7927
+    name: "Santa Catarina"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho do Sal"
+    cities: 
+      - 
+        alternate_names: 
+          - "Santa Maria"
+        ascii_name: "Santa Maria"
+        name: "Santa Maria"
+        names_en: ~
+        names_es: ~
+        population: 17231
+    name: Sal
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho da Ribeira Grande"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Ribeira Grande"
         name: "Ribeira Grande"
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: ribeira-grande
       - 
-        districts: []
-        location: "POINT (17.1994199999999999 -25.0919199999999982)"
+        alternate_names: 
+          - "Sol Point"
+        ascii_name: "Ponta do Sol"
         name: "Ponta do Sol"
+        names_en: ~
+        names_es: ~
         population: 4064
-        slug: ponta-do-sol
-    code: CV.07
     name: "Ribeira Grande"
-    slug: ribeira-grande
-tld: cv
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho da Praia"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cidade da Praia"
+          - "Municipio da Praia"
+          - "Município da Praia"
+        ascii_name: Praia
+        name: Praia
+        names_en: 
+          - Praia
+        names_es: 
+          - Praia
+        population: 113364
+    name: Praia
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho do Paul"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Pombas
+        name: Pombas
+        names_en: ~
+        names_es: ~
+        population: 1818
+    name: Paul
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho do Maio"
+    cities: 
+      - 
+        alternate_names: 
+          - Maio
+          - "Nossa Senhora da Luz"
+          - "Port Ingles"
+        ascii_name: "Vila do Maio"
+        name: "Vila do Maio"
+        names_en: ~
+        names_es: ~
+        population: 3009
+    name: Maio
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho da Brava"
+    cities: 
+      - 
+        alternate_names: 
+          - "Vila Nova Cinteus"
+          - "Vila Nova Sintra"
+          - "Vila de Nova Cintra"
+        ascii_name: "Vila Nova Sintra"
+        name: "Vila Nova Sintra"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Brava
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho da Boa Vista"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sal Rei"
+          - Sal-Rel
+        ascii_name: "Sal Rei"
+        name: "Sal Rei"
+        names_en: ~
+        names_es: ~
+        population: 2122
+    name: "Boa Vista"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho dos Mosteiros"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Porto dos Mosteiros"
+        name: "Porto dos Mosteiros"
+        names_en: ~
+        names_es: ~
+        population: 477
+    name: Mosteiros
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho de Santa Cruz"
+    cities: 
+      - 
+        alternate_names: 
+          - "Santa Cruz"
+        ascii_name: "Santa Cruz"
+        name: "Santa Cruz"
+        names_en: ~
+        names_es: ~
+        population: 9488
+    name: "Santa Cruz"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho de Sao Domingos"
+    cities: 
+      - 
+        alternate_names: 
+          - San-Domingos
+          - Сан-Домингос
+        ascii_name: "Sao Domingos"
+        name: "São Domingos"
+        names_en: ~
+        names_es: ~
+        population: 1850
+    name: "São Domingos"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho do Sao Filipe"
+    cities: 
+      - 
+        alternate_names: 
+          - "Vila Sao Filipe"
+          - "Vila São Filipe"
+          - "Vila de Sao Filippe"
+        ascii_name: "Sao Filipe"
+        name: "São Filipe"
+        names_en: ~
+        names_es: ~
+        population: 8189
+    name: "São Filipe"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho de Sao Miguel"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Calheta
+        name: Calheta
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "São Miguel"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho do Porto Novo"
+    cities: []
+    name: "Concelho do Porto Novo"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho da Ribeira Brava"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ribeira Brava"
+          - "Vila da Ribeira Brava"
+        ascii_name: "Vila da Ribeira Brava"
+        name: "Vila da Ribeira Brava"
+        names_en: ~
+        names_es: ~
+        population: 5324
+    name: "Concelho da Ribeira Brava"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho de Santa Catarina do Fogo"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cova Figueira"
+        ascii_name: "Cova Figueira"
+        name: "Cova Figueira"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Concelho de Santa Catarina do Fogo"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho de Sao Salvador do Mundo"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Picos
+        name: Picos
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Concelho de São Salvador do Mundo"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho do Tarrafal de Sao Nicolau"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tarrafal
+        name: Tarrafal
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Concelho do Tarrafal de São Nicolau"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho de Sao Lourenco dos Orgaos"
+    cities: []
+    name: "Concelho de São Lourenço dos Orgãos"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho de Ribeira Grande de Santiago"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cidade Velha"
+          - "Sidade Vel'ja"
+          - Velha
+        ascii_name: "Cidade Velha"
+        name: "Cidade Velha"
+        names_en: ~
+        names_es: ~
+        population: 2148
+    name: "Concelho de Ribeira Grande de Santiago"
+    names_en: ~
+    names_es: ~

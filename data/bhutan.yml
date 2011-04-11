@@ -1,128 +1,232 @@
 --- 
-code: BT
-continent: AS
 name: Bhutan
-population: 699847
+names_en: 
+  - Bhutan
+names_es: 
+  - Bután
 regions: 
   - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (27.5333299999999994 89.8833300000000008)"
-        name: Pajo
-        population: 3032
-        slug: pajo
-    code: BT.00
-    name: "Bhutan (general)"
-    slug: bhutan-general
+    ascii_name: "Bumthang Dzongkhag"
+    cities: []
+    name: Bumthang
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Chhukha Dzongkhag"
     cities: 
       - 
-        districts: []
-        location: "POINT (26.8516399999999997 89.3883699999999948)"
+        alternate_names: 
+          - Phunchholing
+          - Phuntsoling
+        ascii_name: Phuntsholing
         name: Phuntsholing
+        names_en: ~
+        names_es: ~
         population: 17043
-        slug: phuntsholing
-    code: BT.06
     name: Chhukha
-    slug: chhukha
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Dagana Dzongkhag"
     cities: 
       - 
-        districts: []
-        location: "POINT (27.0666699999999985 89.8833300000000008)"
+        alternate_names: 
+          - Daga
+          - Ta-Ga-Na
+          - "Taga Dzong"
+        ascii_name: Daga
         name: Daga
+        names_en: ~
+        names_es: ~
         population: 2243
-        slug: daga
-    code: BT.08
     name: Daga
-    slug: daga
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Tsirang Dzongkhag"
+    cities: []
+    name: Chirang
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sarpang Dzongkhag"
+    cities: []
+    name: Geylegphug
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Haa Dzongkhag"
     cities: 
       - 
-        districts: []
-        location: "POINT (27.3666699999999992 89.2833300000000065)"
+        alternate_names: 
+          - Ha
+          - "Ha Dzong"
+        ascii_name: Ha
         name: Ha
+        names_en: ~
+        names_es: ~
         population: 1449
-        slug: ha
-    code: BT.10
     name: Ha
-    slug: ha
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Lhuentse Dzongkhag"
+    cities: []
+    name: Lhuntshi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mongar Dzongkhag"
     cities: 
       - 
-        districts: []
-        location: "POINT (27.2500000000000000 91.2000000000000028)"
+        alternate_names: 
+          - Mongar
+          - "Mongar Dzong"
+          - Монгар
+        ascii_name: Mongar
         name: Mongar
+        names_en: ~
+        names_es: ~
         population: 2969
-        slug: mongar
-    code: BT.12
     name: Mongar
-    slug: mongar
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Paro
     cities: 
       - 
-        districts: []
-        location: "POINT (27.4333300000000015 89.4166699999999963)"
+        alternate_names: 
+          - Paro
+          - "Paro Dzong"
+          - "Rimpung Dzong"
+        ascii_name: Paro
         name: Paro
+        names_en: 
+          - Paro
+        names_es: 
+          - Paro
         population: 2169
-        slug: paro
-    code: BT.13
     name: Paro
-    slug: paro
+    names_en: 
+      - "Paro District"
+      - Paro
+    names_es: 
+      - Paro
   - 
+    ascii_name: "Pemagatshel Dzongkhag"
+    cities: []
+    name: Pemagatsel
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Punakha Dzongkhag"
+    cities: []
+    name: Punakha
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Samtse Dzongkhag"
+    cities: []
+    name: Samchi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Samdrup Jongkhar"
+    cities: []
+    name: "Samdrup Jongkhar"
+    names_en: 
+      - "Samdrup Jongkhar District"
+      - "Samdrup Jongkhar"
+    names_es: 
+      - "Distrito de Samdrup Jongkhar"
+  - 
+    ascii_name: "Zhemgang Dzongkhag"
     cities: 
       - 
-        districts: []
-        location: "POINT (26.8666699999999992 90.9833299999999952)"
+        alternate_names: ~
+        ascii_name: Panbang
         name: Panbang
+        names_en: ~
+        names_es: ~
         population: 1360
-        slug: panbang
-    code: BT.18
     name: Shemgang
-    slug: shemgang
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Trashigang Dzongkhag"
+    cities: []
+    name: Tashigang
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Thimphu Dzongkhag"
     cities: 
       - 
-        districts: []
-        location: "POINT (27.4660900000000012 89.6419099999999958)"
+        alternate_names: 
+          - Thimbu
+          - Thimpago
+          - Thimphou
+        ascii_name: Thimphu
         name: Thimphu
+        names_en: 
+          - Thimphu
+        names_es: 
+          - Thimphu
+          - Timbu
         population: 98676
-        slug: thimphu
-    code: BT.20
     name: Thimphu
-    slug: thimphu
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Trongsa Dzongkhag"
     cities: 
       - 
-        districts: []
-        location: "POINT (27.5166700000000013 90.5000000000000000)"
+        alternate_names: 
+          - Tongsa
+          - "Tongsa Dzong"
+          - Тонгса
+        ascii_name: Tongsa
         name: Tongsa
+        names_en: ~
+        names_es: ~
         population: 2805
-        slug: tongsa
-    code: BT.21
     name: Tongsa
-    slug: tongsa
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wangdue Phodrang Dzongkhag"
+    cities: []
+    name: "Wangdi Phodrang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Gasa
     cities: 
       - 
-        districts: []
-        location: "POINT (27.9037199999999999 89.7268899999999974)"
+        alternate_names: 
+          - Gasa
+          - "Gasa Dzong"
+        ascii_name: Gasa
         name: Gasa
+        names_en: ~
+        names_es: ~
         population: 548
-        slug: gasa
-    code: BT.GA
     name: Gasa
-    slug: gasa
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Trashi Yangste"
     cities: 
       - 
-        districts: []
-        location: "POINT (27.5833300000000001 91.4666699999999935)"
+        alternate_names: 
+          - "Tashi Tang-tsi Dzong"
+          - "Tashi Yang-tsi Dzong"
+          - "Tashi Yangtse"
+        ascii_name: "Tashi Yangtse"
         name: "Tashi Yangtse"
+        names_en: ~
+        names_es: ~
         population: 3025
-        slug: tashi-yangtse
-    code: BT.TY
     name: "Trashi Yangste"
-    slug: trashi-yangste
-tld: bt
+    names_en: ~
+    names_es: ~

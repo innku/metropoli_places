@@ -1,18 +1,33 @@
 --- 
-code: MO
-continent: AS
 name: Macao
-population: 449198
+names_en: 
+  - Macau
+  - Macao
+  - "Macau Special Administrative Region"
+names_es: 
+  - Macao
 regions: 
   - 
+    ascii_name: "Concelho de Macau"
     cities: 
       - 
-        districts: []
-        location: "POINT (22.2005599999999994 113.5461099999999988)"
+        alternate_names: 
+          - Aomen
+          - "Cidade de Macau"
+          - "Cidade do Santo Nome de Deus de Macau"
+        ascii_name: Macau
         name: Macau
+        names_en: 
+          - Macao
+        names_es: 
+          - Macao
         population: 520400
-        slug: macau
-    code: MO.02
     name: Macau
-    slug: macau
-tld: mo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Concelho das Ilhas"
+    cities: []
+    name: Ilhas
+    names_en: ~
+    names_es: ~

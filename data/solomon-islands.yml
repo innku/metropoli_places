@@ -1,48 +1,81 @@
 --- 
-code: SB
-continent: OC
 name: "Solomon Islands"
-population: 559198
+names_en: 
+  - "Solomon Islands"
+names_es: 
+  - "Islas Salomón"
+  - Salomón
 regions: 
   - 
+    ascii_name: "Western Province"
+    cities: []
+    name: "Western Province"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Malaita Province"
+    cities: []
+    name: Malaita
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Isabel Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (-9.0999999999999996 160.1500000000000057)"
-        name: Tulaghi
-        population: 1472
-        slug: tulaghi
-      - 
-        districts: []
-        location: "POINT (-8.0999999999999996 156.8499999999999943)"
-        name: Gizo
-        population: 6154
-        slug: gizo
-      - 
-        districts: []
-        location: "POINT (-9.4333299999999998 159.9499999999999886)"
-        name: Honiara
-        population: 56298
-        slug: honiara
-      - 
-        districts: []
-        location: "POINT (-8.7666699999999995 160.6999999999999886)"
-        name: Auki
-        population: 4336
-        slug: auki
-      - 
-        districts: []
-        location: "POINT (-10.4499999999999993 161.9166700000000105)"
-        name: Kirakira
-        population: 1122
-        slug: kirakira
-      - 
-        districts: []
-        location: "POINT (-8.1449700000000007 159.5921199999999942)"
+        alternate_names: ~
+        ascii_name: Buala
         name: Buala
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: buala
-    code: SB.00
-    name: "Solomon Islands (general)"
-    slug: solomon-islands-general
-tld: sb
+    name: Isabel
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Guadalcanal Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Honiara
+          - Honiaro
+          - Khoniara
+        ascii_name: Honiara
+        name: Honiara
+        names_en: 
+          - Honiara
+        names_es: 
+          - Honiara
+        population: 56298
+    name: Guadalcanal
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Central Province"
+    cities: []
+    name: "Central Province"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Temotu Province"
+    cities: []
+    name: Temotu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Makira-Ulawa Province"
+    cities: []
+    name: Makira
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Choiseul
+    cities: []
+    name: Choiseul
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rennell and Bellona"
+    cities: []
+    name: "Rennell and Bellona"
+    names_en: ~
+    names_es: ~

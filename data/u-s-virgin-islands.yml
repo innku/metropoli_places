@@ -1,18 +1,37 @@
 --- 
-code: VI
-continent: NA
 name: "U.S. Virgin Islands"
-population: 108708
+names_en: 
+  - "U.S. Virgin Islands"
+names_es: 
+  - "Islas Vírgenes, EE.UU."
 regions: 
   - 
+    ascii_name: "Saint Croix Island"
+    cities: []
+    name: "Saint Croix Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint John Island"
+    cities: []
+    name: "Saint John Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Thomas Island"
     cities: 
       - 
-        districts: []
-        location: "POINT (18.3418999999999990 -64.9307000000000016)"
+        alternate_names: 
+          - "Charlotte Amalie"
+          - "Sharlota Amalija"
+          - "Шарлота Амалия"
+        ascii_name: "Charlotte Amalie"
         name: "Charlotte Amalie"
+        names_en: 
+          - "Charlotte Amalie"
+        names_es: 
+          - "Charlotte Amalie"
         population: 20000
-        slug: charlotte-amalie
-    code: VI.030
     name: "Saint Thomas Island"
-    slug: saint-thomas-island
-tld: vi
+    names_en: ~
+    names_es: ~

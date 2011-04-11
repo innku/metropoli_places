@@ -1,959 +1,1516 @@
 --- 
-code: PS
-continent: AS
 name: "Palestinian Territory"
-population: 3800000
+names_en: 
+  - "Palestinian Territory"
+  - Palestine
+names_es: 
+  - Palestina
 regions: 
   - 
+    ascii_name: "Gaza Strip"
     cities: 
       - 
-        districts: []
-        location: "POINT (31.2869999999999990 34.2595200000000020)"
+        alternate_names: 
+          - "Er Rafa"
+          - Rafa
+          - Rafaa
+        ascii_name: Rafah
         name: Rafaḩ
+        names_en: 
+          - Rafah
+        names_es: ~
         population: 126305
-        slug: rafah
       - 
-        districts: []
-        location: "POINT (31.3401800000000001 34.3062699999999978)"
+        alternate_names: 
+          - "Hanut Yona"
+          - "Hanūt Yōnā"
+          - "Jan Yunis"
+        ascii_name: "Khan Yunis"
         name: "Khān Yūnis"
+        names_en: 
+          - "Khan Yunis"
+        names_es: 
+          - "Jan Yunís"
+          - "Jan Yunis"
         population: 173183
-        slug: khan-yunis
       - 
-        districts: []
-        location: "POINT (31.5272199999999998 34.4863399999999984)"
+        alternate_names: 
+          - Dzhabalija
+          - Jabalia
+          - Jabaliya
+        ascii_name: Jabalya
         name: Jabālyā
+        names_en: 
+          - Jabalia
+        names_es: ~
         population: 168568
-        slug: jabalya
       - 
-        districts: []
-        location: "POINT (31.5000000000000000 34.4666700000000006)"
+        alternate_names: 
+          - Azzah
+          - Gaza
+          - "Gaza City"
+        ascii_name: Gaza
         name: Gaza
+        names_en: 
+          - "Gaza City"
+          - Gaza
+        names_es: 
+          - Gaza
         population: 410000
-        slug: gaza
       - 
-        districts: []
-        location: "POINT (31.4165500000000009 34.3452500000000001)"
+        alternate_names: 
+          - Belar
+          - "Dayr al Balah"
+          - "Dayr al Balaḩ"
+        ascii_name: "Dayr al Balah"
         name: "Dayr al Balaḩ"
+        names_en: 
+          - "Deir el-Balah"
+        names_es: ~
         population: 59504
-        slug: dayr-al-balah
       - 
-        districts: []
-        location: "POINT (31.5463999999999984 34.4951399999999992)"
+        alternate_names: 
+          - "Bayt La'iya"
+          - "Bayt Lahiya"
+          - "Bayt Lahiyah"
+        ascii_name: "Bayt La'iya"
         name: "Bayt Lā’īyā"
+        names_en: 
+          - "Beit Lahia"
+        names_es: ~
         population: 56919
-        slug: bayt-laiya
       - 
-        districts: []
-        location: "POINT (31.4394400000000012 34.4030600000000035)"
+        alternate_names: 
+          - "Al Burayj"
+          - Al-Bureij
+          - "El Bureij"
+        ascii_name: "Al Burayj"
         name: "Al Burayj"
+        names_en: ~
+        names_es: ~
         population: 34951
-        slug: al-burayj
-    code: PS.GZ
     name: "Gaza Strip"
-    slug: gaza-strip
+    names_en: 
+      - "Gaza Strip"
+    names_es: 
+      - "Franja de Gaza"
   - 
+    ascii_name: "West Bank"
     cities: 
       - 
-        districts: []
-        location: "POINT (31.6499999999999986 35.0666700000000020)"
-        name: Şūrīf
-        population: 12992
-        slug: surif
-      - 
-        districts: []
-        location: "POINT (31.8999999999999986 35.2000000000000028)"
-        name: Ramallah
-        population: 24599
-        slug: ramallah
-      - 
-        districts: []
-        location: "POINT (32.0780600000000007 35.0441700000000012)"
-        name: Rāfāt
-        population: 1952
-        slug: rafat
-      - 
-        districts: []
-        location: "POINT (32.0166699999999977 35.2999999999999972)"
-        name: "Khirbat Abū Falāḩ"
-        population: 3961
-        slug: khirbat-abu-falah
-      - 
-        districts: []
-        location: "POINT (32.2538899999999984 35.1888900000000007)"
-        name: "Dayr Sharaf"
-        population: 2681
-        slug: dayr-sharaf
-      - 
-        districts: []
-        location: "POINT (31.5666699999999985 35.0666700000000020)"
-        name: "Bayt Kāḩil"
-        population: 5663
-        slug: bayt-kahil
-      - 
-        districts: []
-        location: "POINT (32.3847200000000015 35.3224999999999980)"
-        name: "Az Zabābidah"
-        population: 3751
-        slug: az-zababidah
-      - 
-        districts: []
-        location: "POINT (32.3208300000000008 35.2033300000000011)"
-        name: "Al Fandaqūmīyah"
-        population: 3266
-        slug: al-fandaqumiyah
-      - 
-        districts: []
-        location: "POINT (32.5455600000000018 35.2241700000000009)"
+        alternate_names: 
+          - Zububah
+          - Zubūbah
+        ascii_name: Zububa
         name: Zubūbā
+        names_en: ~
+        names_es: ~
         population: 2063
-        slug: zububa
       - 
-        districts: []
-        location: "POINT (32.3844399999999979 35.0497200000000007)"
+        alternate_names: 
+          - Zayta
+          - Zaytā
+          - Zeita
+        ascii_name: Zayta
         name: Zaytā
+        names_en: ~
+        names_es: ~
         population: 3052
-        slug: zayta
       - 
-        districts: []
-        location: "POINT (31.4499999999999993 35.0833299999999966)"
+        alternate_names: 
+          - Jatta
+          - Yatta
+          - Yattah
+        ascii_name: Yattah
         name: Yaţţah
+        names_en: ~
+        names_es: ~
         population: 41425
-        slug: yattah
       - 
-        districts: []
-        location: "POINT (32.1069400000000016 35.2655600000000007)"
+        alternate_names: ~
+        ascii_name: Yatma
         name: Yatmā
+        names_en: ~
+        names_es: ~
         population: 2897
-        slug: yatma
       - 
-        districts: []
-        location: "POINT (32.2944400000000016 35.2769400000000033)"
+        alternate_names: ~
+        ascii_name: Yasid
         name: Yāşīd
+        names_en: ~
+        names_es: ~
         population: 2226
-        slug: yasid
       - 
-        districts: []
-        location: "POINT (32.3108300000000028 35.0258299999999991)"
+        alternate_names: 
+          - Keram
+          - Toelkarem
+          - "Tul Kerem"
+        ascii_name: Tulkarm
         name: Ţūlkarm
+        names_en: 
+          - Tulkarm
+        names_es: ~
         population: 44169
-        slug: tulkarm
       - 
-        districts: []
-        location: "POINT (32.3213900000000010 35.3691699999999969)"
+        alternate_names: 
+          - Tubas
+          - Ţūbās
+        ascii_name: Tubas
         name: Ţūbās
+        names_en: ~
+        names_es: ~
         population: 15591
-        slug: tubas
       - 
-        districts: []
-        location: "POINT (32.3380599999999987 35.3955600000000032)"
+        alternate_names: ~
+        ascii_name: Tayasir
         name: Tayāsīr
+        names_en: ~
+        names_es: ~
         population: 2323
-        slug: tayasir
       - 
-        districts: []
-        location: "POINT (31.5833300000000001 35.0166699999999977)"
+        alternate_names: 
+          - Tarqumiya
+          - Tarqumiyah
+          - Tarqumye
+        ascii_name: Tarqumiyah
         name: Tarqūmiyah
+        names_en: ~
+        names_es: ~
         population: 14202
-        slug: tarqumiyah
       - 
-        districts: []
-        location: "POINT (32.2824999999999989 35.3836099999999973)"
+        alternate_names: ~
+        ascii_name: Tammun
         name: Ţammūn
+        names_en: ~
+        names_es: ~
         population: 10119
-        slug: tammun
       - 
-        districts: []
-        location: "POINT (32.2719400000000007 35.2938899999999975)"
+        alternate_names: 
+          - Talluza
+          - Talluzah
+          - Ţallūzah
+        ascii_name: Talluza
         name: Ţallūzā
+        names_en: ~
+        names_es: ~
         population: 2604
-        slug: talluza
       - 
-        districts: []
-        location: "POINT (32.2000000000000028 35.2091700000000003)"
+        alternate_names: 
+          - Tall
+          - Tell
+          - Til
+        ascii_name: Tall
         name: Tall
+        names_en: ~
+        names_es: ~
         population: 4605
-        slug: tall
       - 
-        districts: []
-        location: "POINT (32.0841700000000003 35.2897200000000026)"
+        alternate_names: 
+          - Talfit
+          - Talfīt
+          - Tilfit
+        ascii_name: Talfit
         name: Talfīt
+        names_en: ~
+        names_es: ~
         population: 2906
-        slug: talfit
       - 
-        districts: []
-        location: "POINT (31.5333299999999994 35.0499999999999972)"
+        alternate_names: ~
+        ascii_name: Taffuh
         name: Taffūḩ
+        names_en: ~
+        names_es: ~
         population: 9480
-        slug: taffuh
       - 
-        districts: []
-        location: "POINT (32.3294399999999982 35.2897200000000026)"
+        alternate_names: ~
+        ascii_name: Surif
+        name: Şūrīf
+        names_en: ~
+        names_es: ~
+        population: 12992
+      - 
+        alternate_names: ~
+        ascii_name: Siris
         name: Sīrīs
+        names_en: ~
+        names_es: ~
         population: 4898
-        slug: siris
       - 
-        districts: []
-        location: "POINT (32.0333299999999994 35.2666699999999977)"
+        alternate_names: 
+          - "Saint Gilles"
+          - Sindjil
+          - Sinjil
+        ascii_name: Sinjil
         name: Sinjil
+        names_en: ~
+        names_es: ~
         population: 5371
-        slug: sinjil
       - 
-        districts: []
-        location: "POINT (31.9833299999999987 35.2666699999999977)"
+        alternate_names: ~
+        ascii_name: Silwad
         name: Silwād
+        names_en: ~
+        names_es: ~
         population: 7006
-        slug: silwad
       - 
-        districts: []
-        location: "POINT (32.3188900000000032 35.1836100000000016)"
+        alternate_names: 
+          - "Saylat ad Dahr"
+          - "Saylat aḑ Ḑahr"
+          - "Silat adh Dhahr"
+        ascii_name: "Silat az Zahr"
         name: "Sīlat az̧ Z̧ahr"
+        names_en: ~
+        names_es: ~
         population: 6079
-        slug: silat-az-zahr
       - 
-        districts: []
-        location: "POINT (32.5080600000000004 35.2277800000000028)"
+        alternate_names: 
+          - "Silat al Harithiya"
+          - "Silat al Harithiyah"
+          - "Silat el Harithiya"
+        ascii_name: "Silat al Harithiyah"
         name: "Sīlat al Ḩārithīyah"
+        names_en: ~
+        names_es: ~
         population: 9557
-        slug: silat-al-harithiyah
       - 
-        districts: []
-        location: "POINT (31.9833299999999987 35.0333299999999994)"
+        alternate_names: 
+          - Shuqba
+          - Shuqbah
+          - Shuqbā
+        ascii_name: Shuqba
         name: Shuqbā
+        names_en: ~
+        names_es: ~
         population: 4188
-        slug: shuqba
       - 
-        districts: []
-        location: "POINT (32.3852800000000016 35.1197200000000009)"
+        alternate_names: 
+          - "Khirbat Saydah"
+          - "Khirbat Şaydāh"
+          - Sayda
+        ascii_name: Sayda
         name: Şaydā
+        names_en: ~
+        names_es: ~
         population: 2988
-        slug: sayda
       - 
-        districts: []
-        location: "POINT (32.1024999999999991 35.0891700000000029)"
+        alternate_names: 
+          - Sarta
+          - Sartah
+          - Şarţah
+        ascii_name: Sartah
         name: Şarţah
+        names_en: ~
+        names_es: ~
         population: 2528
-        slug: sartah
       - 
-        districts: []
-        location: "POINT (32.2113900000000015 35.1922199999999989)"
+        alternate_names: 
+          - Sarra
+          - Sarrah
+          - Şarrah
+        ascii_name: Sarrah
         name: Şarrah
+        names_en: ~
+        names_es: ~
         population: 2810
-        slug: sarrah
       - 
-        districts: []
-        location: "POINT (32.3561100000000010 35.2469400000000022)"
+        alternate_names: ~
+        ascii_name: Sanur
         name: Şānūr
+        names_en: ~
+        names_es: ~
         population: 4141
-        slug: sanur
       - 
-        districts: []
-        location: "POINT (32.1286100000000019 35.0472200000000029)"
+        alternate_names: 
+          - Samiriyyah
+          - Sanirah
+          - Sanireh
+        ascii_name: Sanniriyah
         name: Sannīrīyah
+        names_en: ~
+        names_es: ~
         population: 2887
-        slug: sanniriyah
       - 
-        districts: []
-        location: "POINT (32.2091700000000003 35.3277799999999971)"
+        alternate_names: 
+          - Salem
+          - Salim
+          - Sālem
+        ascii_name: Salim
         name: Sālim
+        names_en: ~
+        names_es: ~
         population: 4940
-        slug: salim
       - 
-        districts: []
-        location: "POINT (32.0808299999999988 35.1761100000000013)"
+        alternate_names: 
+          - Salfit
+          - Salfīt
+        ascii_name: Salfit
         name: Salfīt
+        names_en: ~
+        names_es: ~
         population: 9452
-        slug: salfit
       - 
-        districts: []
-        location: "POINT (31.8999999999999986 35.0666700000000020)"
+        alternate_names: ~
+        ascii_name: Saffa
         name: Şaffā
+        names_en: ~
+        names_es: ~
         population: 3904
-        slug: saffa
       - 
-        districts: []
-        location: "POINT (32.2763899999999992 35.1950000000000003)"
+        alternate_names: 
+          - Sabastiya
+          - Sabastiyah
+          - Sabasţīyah
+        ascii_name: Sabastiyah
         name: Sabasţīyah
+        names_en: ~
+        names_es: ~
         population: 2823
-        slug: sabastiyah
       - 
-        districts: []
-        location: "POINT (32.5233300000000014 35.2055599999999984)"
+        alternate_names: 
+          - Rummana
+          - Rummanah
+          - Rummāna
+        ascii_name: Rummanah
         name: Rummānah
+        names_en: ~
+        names_es: ~
         population: 3275
-        slug: rummanah
       - 
-        districts: []
-        location: "POINT (32.1833299999999980 35.2999999999999972)"
+        alternate_names: 
+          - Rujayb
+          - Rujeib
+          - Rūjayb
+        ascii_name: Rujayb
         name: Rūjayb
+        names_en: ~
+        names_es: ~
         population: 3805
-        slug: rujayb
       - 
-        districts: []
-        location: "POINT (32.0249999999999986 35.0174999999999983)"
+        alternate_names: ~
+        ascii_name: Rantis
         name: Rantīs
+        names_en: ~
+        names_es: ~
         population: 2795
-        slug: rantis
       - 
-        districts: []
-        location: "POINT (31.9333300000000015 35.2999999999999972)"
+        alternate_names: 
+          - Rammun
+          - Rammūn
+          - Rimmon
+        ascii_name: Rammun
         name: Rammūn
+        names_en: ~
+        names_es: ~
         population: 3101
-        slug: rammun
       - 
-        districts: []
-        location: "POINT (32.2836100000000030 35.1491699999999980)"
+        alternate_names: ~
+        ascii_name: Ramin
         name: Rāmīn
+        names_en: ~
+        names_es: ~
         population: 2040
-        slug: ramin
       - 
-        districts: []
-        location: "POINT (31.8666699999999992 35.2000000000000028)"
+        alternate_names: 
+          - "Rahm Alla"
+          - "Ram Allah"
+          - Ramala
+        ascii_name: Ramallah
+        name: Ramallah
+        names_en: 
+          - Ramallah
+        names_es: 
+          - Ramala
+        population: 24599
+      - 
+        alternate_names: ~
+        ascii_name: Rafat
         name: Rāfāt
+        names_en: ~
+        names_es: ~
+        population: 1952
+      - 
+        alternate_names: ~
+        ascii_name: Rafat
+        name: Rāfāt
+        names_en: ~
+        names_es: ~
         population: 2061
-        slug: rafat
       - 
-        districts: []
-        location: "POINT (32.3858299999999986 35.3819400000000002)"
+        alternate_names: ~
+        ascii_name: Raba
         name: Rābā
+        names_en: ~
+        names_es: ~
         population: 2951
-        slug: raba
       - 
-        districts: []
-        location: "POINT (32.0833299999999966 35.3333299999999966)"
+        alternate_names: 
+          - Kusrah
+          - Qusra
+          - Qusrah
+        ascii_name: Qusrah
         name: Quşrah
+        names_en: ~
+        names_es: ~
         population: 4316
-        slug: qusrah
       - 
-        districts: []
-        location: "POINT (31.9833299999999987 35.0166699999999977)"
+        alternate_names: 
+          - Kibbia
+          - Qibya
+          - Qibyah
+        ascii_name: Qibya
         name: Qibyā
+        names_en: ~
+        names_es: ~
         population: 4761
-        slug: qibya
       - 
-        districts: []
-        location: "POINT (31.8333300000000001 35.1000000000000014)"
+        alternate_names: 
+          - Katanneh
+          - Qatana
+          - Qatanna
+        ascii_name: Qatannah
         name: Qaţannah
+        names_en: ~
+        names_es: ~
         population: 7274
-        slug: qatannah
       - 
-        districts: []
-        location: "POINT (32.0666700000000020 35.2999999999999972)"
+        alternate_names: 
+          - Kuriyut
+        ascii_name: Qaryut
         name: Qaryūt
+        names_en: ~
+        names_es: ~
         population: 2399
-        slug: qaryut
       - 
-        districts: []
-        location: "POINT (32.0533300000000025 35.1266699999999972)"
+        alternate_names: 
+          - "Qarawat Bani Zayd"
+          - "Qarawat Bani Zeid"
+          - "Qarāwat Banī Zayd"
+        ascii_name: "Qarawat Bani Zayd"
         name: "Qarāwat Banī Zayd"
+        names_en: ~
+        names_es: ~
         population: 2673
-        slug: qarawat-bani-zayd
       - 
-        districts: []
-        location: "POINT (32.1863900000000029 34.9630599999999987)"
+        alternate_names: 
+          - "Kal Kiliya"
+          - Kal'kilija
+          - Kalkilieh
+        ascii_name: Qalqilyah
         name: Qalqīlyah
+        names_en: 
+          - Qalqilyah
+        names_es: ~
         population: 43212
-        slug: qalqilyah
       - 
-        districts: []
-        location: "POINT (32.4313900000000004 35.0819400000000030)"
+        alternate_names: 
+          - Kuffin
+          - Qaffin
+          - Qaffīn
+        ascii_name: Qaffin
         name: Qaffīn
+        names_en: ~
+        names_es: ~
         population: 8489
-        slug: qaffin
       - 
-        districts: []
-        location: "POINT (32.4086100000000030 35.2800000000000011)"
+        alternate_names: 
+          - Kubatie
+          - Kubatiya
+          - Qabatiya
+        ascii_name: Qabatiyah
         name: Qabāţīyah
+        names_en: ~
+        names_es: ~
         population: 19127
-        slug: qabatiyah
       - 
-        districts: []
-        location: "POINT (32.1000000000000014 35.2833299999999994)"
+        alternate_names: 
+          - Kubalan
+          - Qabalan
+          - Qabalān
+        ascii_name: Qabalan
         name: Qabalān
+        names_en: ~
+        names_es: ~
         population: 7043
-        slug: qabalan
       - 
-        districts: []
-        location: "POINT (31.6000000000000014 35.0333299999999994)"
+        alternate_names: ~
+        ascii_name: Nuba
         name: Nūbā
+        names_en: ~
+        names_es: ~
         population: 4328
-        slug: nuba
       - 
-        districts: []
-        location: "POINT (31.6833300000000015 35.1166699999999992)"
+        alternate_names: ~
+        ascii_name: Nahhalin
         name: Naḩḩālīn
+        names_en: ~
+        names_es: ~
         population: 6215
-        slug: nahhalin
       - 
-        districts: []
-        location: "POINT (32.2211100000000030 35.2544400000000024)"
+        alternate_names: 
+          - "Flavia Neapolis"
+          - Nablus
+          - Nabulus
+        ascii_name: Nablus
         name: Nablus
+        names_en: 
+          - Nablus
+          - Shechem
+        names_es: 
+          - Siquem
         population: 130326
-        slug: nablus
       - 
-        districts: []
-        location: "POINT (32.3833300000000008 35.2833299999999994)"
+        alternate_names: 
+          - Misilya
+          - Misilyah
+          - Misliya
+        ascii_name: Misilyah
         name: Misilyah
+        names_en: ~
+        names_es: ~
         population: 2187
-        slug: misilyah
       - 
-        districts: []
-        location: "POINT (32.3500000000000014 35.2666699999999977)"
+        alternate_names: 
+          - Maysalun
+          - Maysalūn
+          - Maythalun
+        ascii_name: Maythalun
         name: Maythalūn
+        names_en: ~
+        names_es: ~
         population: 6804
-        slug: maythalun
       - 
-        districts: []
-        location: "POINT (32.1119399999999970 35.1916700000000020)"
+        alternate_names: 
+          - Marda
+          - Mardah
+        ascii_name: Mardah
         name: Mardah
+        names_en: ~
+        names_es: ~
         population: 2142
-        slug: mardah
       - 
-        districts: []
-        location: "POINT (32.0822199999999995 35.3622200000000007)"
+        alternate_names: 
+          - "Majdal Bani Fadil"
+          - "Majdal Bani Fadl"
+          - "Majdal Banī Fāḑil"
+        ascii_name: "Majdal Bani Fadil"
         name: "Majdal Banī Fāḑil"
+        names_en: ~
+        names_es: ~
         population: 2122
-        slug: majdal-bani-fadil
       - 
-        districts: []
-        location: "POINT (32.4436099999999996 35.2013900000000035)"
+        alternate_names: 
+          - Kufayrat
+          - Kufayrāt
+          - Kufeirat
+        ascii_name: Kufayrat
         name: Kufayrāt
+        names_en: ~
+        names_es: ~
         population: 2376
-        slug: kufayrat
       - 
-        districts: []
-        location: "POINT (32.1155600000000021 35.1541700000000006)"
+        alternate_names: 
+          - "Kafr Haris"
+          - "Kafr Ḩaris"
+          - "Kiel Harith"
+        ascii_name: "Kifl Harith"
         name: "Kifl Ḩārith"
+        names_en: ~
+        names_es: ~
         population: 3132
-        slug: kifl-harith
       - 
-        districts: []
-        location: "POINT (31.4499999999999993 34.8999999999999986)"
+        alternate_names: 
+          - "Burj el Baiyara"
+          - "Burj el Baiyāra"
+          - "Khirbat al Burj"
+        ascii_name: "Khirbat al Burj"
         name: "Khirbat al Burj"
+        names_en: ~
+        names_es: ~
         population: 2381
-        slug: khirbat-al-burj
       - 
-        districts: []
-        location: "POINT (31.6166699999999992 35.0333299999999994)"
+        alternate_names: 
+          - "Al Jardah"
+          - "Khirbat Abu Falah"
+          - "Khirbat Abū Falāḩ"
+        ascii_name: "Khirbat Abu Falah"
+        name: "Khirbat Abū Falāḩ"
+        names_en: ~
+        names_es: ~
+        population: 3961
+      - 
+        alternate_names: ~
+        ascii_name: Kharas
         name: Khārās
+        names_en: ~
+        names_es: ~
         population: 6885
-        slug: kharas
       - 
-        districts: []
-        location: "POINT (31.9833299999999987 35.1666700000000034)"
+        alternate_names: 
+          - Kaubar
+          - Kawbar
+        ascii_name: Kawbar
         name: Kawbar
+        names_en: ~
+        names_es: ~
         population: 3546
-        slug: kawbar
       - 
-        districts: []
-        location: "POINT (32.1497200000000021 35.0433299999999974)"
+        alternate_names: ~
+        ascii_name: "Kafr Thulth"
         name: "Kafr Thulth"
+        names_en: ~
+        names_es: ~
         population: 4218
-        slug: kafr-thulth
       - 
-        districts: []
-        location: "POINT (32.2000000000000028 35.2833299999999994)"
+        alternate_names: 
+          - "Kafr Qalil"
+          - "Kafr Qallil"
+          - "Kafr Qallīl"
+        ascii_name: "Kafr Qallil"
         name: "Kafr Qallīl"
+        names_en: ~
+        names_es: ~
         population: 2421
-        slug: kafr-qallil
       - 
-        districts: []
-        location: "POINT (32.2213899999999995 35.1422200000000018)"
+        alternate_names: 
+          - "Allen More"
+          - "Alon Moreh"
+          - Alon-Morah
+        ascii_name: "Kafr Qaddum"
         name: "Kafr Qaddūm"
+        names_en: ~
+        names_es: ~
         population: 3376
-        slug: kafr-qaddum
       - 
-        districts: []
-        location: "POINT (31.9833299999999987 35.3166700000000020)"
+        alternate_names: ~
+        ascii_name: "Kafr Malik"
         name: "Kafr Mālik"
+        names_en: ~
+        names_es: ~
         population: 2903
-        slug: kafr-malik
       - 
-        districts: []
-        location: "POINT (32.2252799999999979 35.0433299999999974)"
+        alternate_names: ~
+        ascii_name: "Kafr Jammal"
         name: "Kafr Jammāl"
+        names_en: ~
+        names_es: ~
         population: 2481
-        slug: kafr-jammal
       - 
-        districts: []
-        location: "POINT (32.4786100000000033 35.2538899999999984)"
+        alternate_names: ~
+        ascii_name: "Kafr Dan"
         name: "Kafr Dān"
+        names_en: ~
+        names_es: ~
         population: 4967
-        slug: kafr-dan
       - 
-        districts: []
-        location: "POINT (32.2972200000000029 35.1108300000000000)"
+        alternate_names: 
+          - "Kafr al Labad"
+          - "Kafr el Labad"
+        ascii_name: "Kafr al Labad"
         name: "Kafr al Labad"
+        names_en: ~
+        names_es: ~
         population: 3915
-        slug: kafr-al-labad
       - 
-        districts: []
-        location: "POINT (32.0647200000000012 35.0786099999999976)"
+        alternate_names: 
+          - "Kafr ad Dik"
+          - "Kafr ad Dīk"
+          - "Kafr ed Dik"
+        ascii_name: "Kafr ad Dik"
         name: "Kafr ad Dīk"
+        names_en: ~
+        names_es: ~
         population: 4986
-        slug: kafr-ad-dik
       - 
-        districts: []
-        location: "POINT (32.2161100000000005 35.1677800000000005)"
+        alternate_names: 
+          - Jit
+          - Jitt
+          - Jīt
+        ascii_name: Jit
         name: Jīt
+        names_en: ~
+        names_es: ~
         population: 2243
-        slug: jit
       - 
-        districts: []
-        location: "POINT (32.2008300000000034 35.0352800000000002)"
+        alternate_names: 
+          - Jaiyus
+          - Jaiyūs
+          - Jayyus
+        ascii_name: Jayyus
         name: Jayyūs
+        names_en: ~
+        names_es: ~
         population: 3196
-        slug: jayyus
       - 
-        districts: []
-        location: "POINT (32.4563899999999990 35.2958300000000023)"
+        alternate_names: 
+          - Djenin
+          - Dschenin
+          - Dzhanin
+        ascii_name: Janin
         name: Janīn
+        names_en: 
+          - Jenin
+        names_es: ~
         population: 34730
-        slug: janin
       - 
-        districts: []
-        location: "POINT (32.4577799999999996 35.4144399999999990)"
+        alternate_names: 
+          - Djelbon
+          - Gilbo`a
+          - Gilbo‘a
+        ascii_name: Jalbun
         name: Jalbūn
+        names_en: ~
+        names_es: ~
         population: 2421
-        slug: jalbun
       - 
-        districts: []
-        location: "POINT (32.1925000000000026 35.1586100000000030)"
+        alternate_names: 
+          - Immatin
+          - Immātīn
+          - "Um et Tin"
+        ascii_name: Immatin
         name: Immātīn
+        names_en: ~
+        names_es: ~
         population: 2368
-        slug: immatin
       - 
-        districts: []
-        location: "POINT (32.3711100000000016 35.1063899999999975)"
+        alternate_names: ~
+        ascii_name: "`Illar"
         name: ‘Illār
+        names_en: ~
+        names_es: ~
         population: 6681
-        slug: illar
       - 
-        districts: []
-        location: "POINT (32.3258300000000034 35.0583299999999980)"
+        alternate_names: 
+          - Iktaba
+          - Iktabah
+          - Iktābah
+        ascii_name: Iktabah
         name: Iktābah
+        names_en: ~
+        names_es: ~
         population: 1919
-        slug: iktabah
       - 
-        districts: []
-        location: "POINT (32.1469400000000007 35.2566699999999997)"
+        alternate_names: 
+          - Huwarah
+          - Huwwara
+          - Huwwarah
+        ascii_name: Huwarah
         name: Ḩūwārah
+        names_en: ~
+        names_es: ~
         population: 5633
-        slug: huwarah
       - 
-        districts: []
-        location: "POINT (31.7166700000000006 35.1333300000000008)"
+        alternate_names: ~
+        ascii_name: Husan
         name: Ḩūsān
+        names_en: ~
+        names_es: ~
         population: 5535
-        slug: husan
       - 
-        districts: []
-        location: "POINT (31.8333300000000001 35.2666699999999977)"
+        alternate_names: 
+          - Hizma
+          - Hizmah
+          - Ḩizmah
+        ascii_name: Hizma
         name: Ḩizmā
+        names_en: ~
+        names_es: ~
         population: 5916
-        slug: hizma
       - 
-        districts: []
-        location: "POINT (32.1141700000000014 35.1424999999999983)"
+        alternate_names: ~
+        ascii_name: Haris
         name: Ḩāris
+        names_en: ~
+        names_es: ~
         population: 2967
-        slug: haris
       - 
-        districts: []
-        location: "POINT (31.5833300000000001 35.1166699999999992)"
+        alternate_names: ~
+        ascii_name: Halhul
         name: Ḩalḩūl
+        names_en: ~
+        names_es: ~
         population: 21076
-        slug: halhul
       - 
-        districts: []
-        location: "POINT (32.2047200000000018 35.1308300000000031)"
+        alternate_names: 
+          - Hajja
+          - Hajjah
+          - "Qaryat Hajja"
+        ascii_name: Hajjah
         name: Ḩajjah
+        names_en: ~
+        names_es: ~
         population: 2444
-        slug: hajjah
       - 
-        districts: []
-        location: "POINT (32.1613899999999973 34.9750000000000014)"
+        alternate_names: 
+          - Habla
+          - Hablah
+          - Ḩablah
+        ascii_name: Hablah
         name: Ḩablah
+        names_en: ~
+        names_es: ~
         population: 5945
-        slug: hablah
       - 
-        districts: []
-        location: "POINT (32.3825000000000003 35.1797200000000032)"
+        alternate_names: 
+          - Fahma
+          - Fahmah
+          - Faḥma
+        ascii_name: Fahmah
         name: Faḩmah
+        names_en: ~
+        names_es: ~
         population: 2369
-        slug: fahmah
       - 
-        districts: []
-        location: "POINT (31.5000000000000000 35.0333299999999994)"
+        alternate_names: 
+          - Dura
+          - Durah
+          - Dury
+        ascii_name: Dura
         name: Dūrā
+        names_en: ~
+        names_es: ~
         population: 20835
-        slug: dura
       - 
-        districts: []
-        location: "POINT (32.0499999999999972 35.3666699999999992)"
-        name: Dūmā
+        alternate_names: 
+          - Doma
+          - Domea
+          - Duma
+        ascii_name: Domea
+        name: Domea
+        names_en: ~
+        names_es: ~
         population: 2157
-        slug: duma
       - 
-        districts: []
-        location: "POINT (32.3141699999999972 35.0413899999999998)"
+        alternate_names: 
+          - Dannaba
+          - Dannabah
+          - Dannāba
+        ascii_name: Dhannabah
         name: Dhannābah
+        names_en: ~
+        names_es: ~
         population: 8193
-        slug: dhannabah
       - 
-        districts: []
-        location: "POINT (31.9666700000000006 35.2999999999999972)"
+        alternate_names: 
+          - "Dayr Sharaf"
+          - "Deir Sharaf"
+        ascii_name: "Dayr Sharaf"
+        name: "Dayr Sharaf"
+        names_en: ~
+        names_es: ~
+        population: 2681
+      - 
+        alternate_names: 
+          - "Dayr Jarir"
+          - "Dayr Jarīr"
+          - "Deir Jarir"
+        ascii_name: "Dayr Jarir"
         name: "Dayr Jarīr"
+        names_en: ~
+        names_es: ~
         population: 4156
-        slug: dayr-jarir
       - 
-        districts: []
-        location: "POINT (32.1291700000000020 35.1380600000000030)"
+        alternate_names: 
+          - "Dayr Istiya"
+          - "Dayr Istiyā"
+          - "Dayr Istya"
+        ascii_name: "Dayr Istiya"
         name: "Dayr Istiyā"
+        names_en: ~
+        names_es: ~
         population: 3730
-        slug: dayr-istiya
       - 
-        districts: []
-        location: "POINT (31.9166699999999999 35.2666699999999977)"
+        alternate_names: 
+          - "Dayr Dibwan"
+          - "Dayr Dibwān"
+          - "Deir Dibwan"
+        ascii_name: "Dayr Dibwan"
         name: "Dayr Dibwān"
+        names_en: ~
+        names_es: ~
         population: 6692
-        slug: dayr-dibwan
       - 
-        districts: []
-        location: "POINT (32.0638900000000007 35.0233300000000014)"
+        alternate_names: 
+          - "Dair Balut"
+          - "Dayr Ballut"
+          - "Dayr Ballūţ"
+        ascii_name: "Dayr Ballut"
         name: "Dayr Ballūţ"
+        names_en: ~
+        names_es: ~
         population: 3566
-        slug: dayr-ballut
       - 
-        districts: []
-        location: "POINT (32.0338899999999995 35.1483300000000014)"
+        alternate_names: 
+          - "Dayr as Sudan"
+          - "Dayr as Sūdān"
+          - "Deir as Sudan"
+        ascii_name: "Dayr as Sudan"
         name: "Dayr as Sūdān"
+        names_en: ~
+        names_es: ~
         population: 2104
-        slug: dayr-as-sudan
       - 
-        districts: []
-        location: "POINT (32.2166700000000006 35.3166700000000020)"
+        alternate_names: 
+          - "Dayr al Hatab"
+          - "Dayr al Ḩaţab"
+          - "Deir al Hatab"
+        ascii_name: "Dayr al Hatab"
         name: "Dayr al Ḩaţab"
+        names_en: ~
+        names_es: ~
         population: 2194
-        slug: dayr-al-hatab
       - 
-        districts: []
-        location: "POINT (32.3524999999999991 35.0744400000000027)"
+        alternate_names: 
+          - "Dayr al Ghusn"
+          - "Dayr al Ghusun"
+          - "Dayr al Ghuşn"
+        ascii_name: "Dayr al Ghusun"
         name: "Dayr al Ghuşūn"
+        names_en: ~
+        names_es: ~
         population: 9187
-        slug: dayr-al-ghusun
       - 
-        districts: []
-        location: "POINT (32.0691699999999997 35.0994400000000013)"
+        alternate_names: 
+          - Bruqin
+          - Burgin
+          - Burgīn
+        ascii_name: Buruqin
         name: Burūqīn
+        names_en: ~
+        names_es: ~
         population: 3538
-        slug: buruqin
       - 
-        districts: []
-        location: "POINT (32.4530600000000007 35.2583300000000008)"
+        alternate_names: 
+          - Birqin
+          - Birqīn
+        ascii_name: Burqin
         name: Burqīn
+        names_en: ~
+        names_es: ~
         population: 5730
-        slug: burqin
       - 
-        districts: []
-        location: "POINT (31.8999999999999986 35.2500000000000000)"
+        alternate_names: 
+          - Burqa
+          - Burqah
+          - Burqā
+        ascii_name: Burqa
         name: Burqā
+        names_en: ~
+        names_es: ~
         population: 2238
-        slug: burqa
       - 
-        districts: []
-        location: "POINT (32.1811099999999968 35.2486099999999993)"
+        alternate_names: ~
+        ascii_name: Burin
         name: Būrīn
+        names_en: ~
+        names_es: ~
         population: 2500
-        slug: burin
       - 
-        districts: []
-        location: "POINT (31.9666700000000006 35.2000000000000028)"
+        alternate_names: 
+          - "Az Zayt"
+          - "Bi'r Zayt"
+          - "Bi'r az Zayt"
+        ascii_name: "Bi'r Zayt"
         name: "Bi’r Zayt"
+        names_en: ~
+        names_es: ~
         population: 6398
-        slug: bir-zayt
       - 
-        districts: []
-        location: "POINT (31.8333300000000001 35.1499999999999986)"
+        alternate_names: 
+          - Biddu
+          - Biddū
+          - Bidu
+        ascii_name: Biddu
         name: Biddū
+        names_en: ~
+        names_es: ~
         population: 6180
-        slug: biddu
       - 
-        districts: []
-        location: "POINT (32.1130599999999973 35.0763900000000035)"
+        alternate_names: 
+          - Biddiya
+          - Biddiyā
+          - Biddya
+        ascii_name: Biddiya
         name: Biddiyā
+        names_en: ~
+        names_es: ~
         population: 8065
-        slug: biddiya
       - 
-        districts: []
-        location: "POINT (32.3069399999999973 35.1661100000000033)"
+        alternate_names: 
+          - Bazariya
+          - Bazariyah
+          - Bazzariya
+        ascii_name: Bazzariyah
         name: Bazzārīyah
+        names_en: ~
+        names_es: ~
         population: 2091
-        slug: bazzariyah
       - 
-        districts: []
-        location: "POINT (31.8833300000000008 35.1666700000000034)"
+        alternate_names: 
+          - Baytuniya
+          - Baytūniyā
+          - Beitunia
+        ascii_name: Baytuniya
         name: Baytūniyā
+        names_en: ~
+        names_es: ~
         population: 12822
-        slug: baytuniya
       - 
-        districts: []
-        location: "POINT (32.2911100000000033 35.2155600000000035)"
+        alternate_names: 
+          - "Bayt Umrin"
+          - "Bayt Umrīn"
+          - "Beit Umrin"
+        ascii_name: "Bayt Umrin"
         name: "Bayt Umrīn"
+        names_en: ~
+        names_es: ~
         population: 2794
-        slug: bayt-umrin
       - 
-        districts: []
-        location: "POINT (31.8333300000000001 35.1499999999999986)"
+        alternate_names: 
+          - "Bayt Surik"
+          - "Bayt Sūrīk"
+          - "Beit Surik"
+        ascii_name: "Bayt Surik"
         name: "Bayt Sūrīk"
+        names_en: ~
+        names_es: ~
         population: 3705
-        slug: bayt-surik
       - 
-        districts: []
-        location: "POINT (31.8833300000000008 35.0499999999999972)"
+        alternate_names: 
+          - "Bayt Sira"
+          - "Bayt Sīrā"
+          - "Beit Sira"
+        ascii_name: "Bayt Sira"
         name: "Bayt Sīrā"
+        names_en: ~
+        names_es: ~
         population: 2744
-        slug: bayt-sira
       - 
-        districts: []
-        location: "POINT (31.6999999999999993 35.2166700000000006)"
+        alternate_names: 
+          - "Bayt Sahur"
+          - "Bayt Sāḩūr"
+          - "Beit Sahur"
+        ascii_name: "Bayt Sahur"
         name: "Bayt Sāḩūr"
+        names_en: ~
+        names_es: ~
         population: 14921
-        slug: bayt-sahur
       - 
-        districts: []
-        location: "POINT (31.8666699999999992 35.0666700000000020)"
+        alternate_names: 
+          - "Bayt Liqya"
+          - "Bayt Liqyā"
+          - "Beit Liqya"
+        ascii_name: "Bayt Liqya"
         name: "Bayt Liqyā"
+        names_en: ~
+        names_es: ~
         population: 7795
-        slug: bayt-liqya
       - 
-        districts: []
-        location: "POINT (32.2599999999999980 35.1313900000000032)"
+        alternate_names: 
+          - "Bayt Lid"
+          - "Bayt Līd"
+          - "Beit Lid"
+        ascii_name: "Bayt Lid"
         name: "Bayt Līd"
+        names_en: ~
+        names_es: ~
         population: 5740
-        slug: bayt-lid
       - 
-        districts: []
-        location: "POINT (31.7166700000000006 35.2000000000000028)"
+        alternate_names: 
+          - "Bayt Lahm"
+          - "Bayt Laḩm"
+          - "Beit Lahm"
+        ascii_name: Bethlehem
         name: Bethlehem
+        names_en: 
+          - Bethlehem
+        names_es: 
+          - Belén
+          - "Belén de Judá"
         population: 29019
-        slug: bethlehem
       - 
-        districts: []
-        location: "POINT (31.7166700000000006 35.1833299999999980)"
+        alternate_names: 
+          - "Bayt Kahil"
+          - "Bayt Kāḩil"
+          - "Beit Kahil"
+        ascii_name: "Bayt Kahil"
+        name: "Bayt Kāḩil"
+        names_en: ~
+        names_es: ~
+        population: 5663
+      - 
+        alternate_names: 
+          - "Bayt Jala"
+          - "Bayt Jālā"
+          - "Beit Jala"
+        ascii_name: "Bayt Jala"
         name: "Bayt Jālā"
+        names_en: ~
+        names_es: ~
         population: 16183
-        slug: bayt-jala
       - 
-        districts: []
-        location: "POINT (31.9333300000000015 35.2333300000000023)"
+        alternate_names: 
+          - Baytin
+          - Baytīn
+          - Beitin
+        ascii_name: Baytin
         name: Baytīn
+        names_en: ~
+        names_es: ~
         population: 2948
-        slug: baytin
       - 
-        districts: []
-        location: "POINT (31.6166699999999992 35.1000000000000014)"
+        alternate_names: 
+          - "Bayt Immar"
+          - "Bayt `Umar"
+          - "Bayt ‘Umar"
+        ascii_name: "Bayt Immar"
         name: "Bayt Immar"
+        names_en: ~
+        names_es: ~
         population: 12238
-        slug: bayt-immar
       - 
-        districts: []
-        location: "POINT (31.9833299999999987 35.1166699999999992)"
+        alternate_names: 
+          - Baytillu
+          - Baytillū
+          - Beitillu
+        ascii_name: Baytillu
         name: Baytillū
+        names_en: ~
+        names_es: ~
         population: 2978
-        slug: baytillu
       - 
-        districts: []
-        location: "POINT (32.2355599999999995 35.2086100000000002)"
+        alternate_names: 
+          - "Bayt Iba"
+          - "Bayt Ībā"
+          - "Beit Iba"
+        ascii_name: "Bayt Iba"
         name: "Bayt Ībā"
+        names_en: ~
+        names_es: ~
         population: 3175
-        slug: bayt-iba
       - 
-        districts: []
-        location: "POINT (32.1766700000000014 35.3322199999999995)"
+        alternate_names: 
+          - "Bayt Furik"
+          - "Bayt Fūrīk"
+          - "Bayt Nurik"
+        ascii_name: "Bayt Furik"
         name: "Bayt Fūrīk"
+        names_en: ~
+        names_es: ~
         population: 10108
-        slug: bayt-furik
       - 
-        districts: []
-        location: "POINT (31.6166699999999992 35.1499999999999986)"
+        alternate_names: 
+          - "Bayt Fajjar"
+          - "Bayt Fajjār"
+          - "Beit Fajjar"
+        ascii_name: "Bayt Fajjar"
         name: "Bayt Fajjār"
+        names_en: ~
+        names_es: ~
         population: 10579
-        slug: bayt-fajjar
       - 
-        districts: []
-        location: "POINT (32.1925000000000026 35.3680599999999998)"
+        alternate_names: 
+          - "Bayt Dajan"
+          - "Beit Dajan"
+        ascii_name: "Bayt Dajan"
         name: "Bayt Dajan"
+        names_en: ~
+        names_es: ~
         population: 3487
-        slug: bayt-dajan
       - 
-        districts: []
-        location: "POINT (31.6000000000000014 35.0333299999999994)"
+        alternate_names: 
+          - "Bayt Awla"
+          - "Bayt Awlā"
+          - "Beit Aula"
+        ascii_name: "Bayt Awla"
         name: "Bayt Awlā"
+        names_en: ~
+        names_es: ~
         population: 9159
-        slug: bayt-awla
       - 
-        districts: []
-        location: "POINT (32.1416699999999977 35.2847200000000001)"
+        alternate_names: 
+          - "Bayta al Fawqa"
+          - "Baytā al Fawqā"
+          - "Beita al Fauqa"
+        ascii_name: "Bayta al Fawqa"
         name: "Baytā al Fawqā"
+        names_en: ~
+        names_es: ~
         population: 8535
-        slug: bayta-al-fawqa
       - 
-        districts: []
-        location: "POINT (31.7333299999999987 35.1333300000000008)"
+        alternate_names: 
+          - Battir
+          - Battīr
+          - Betar
+        ascii_name: Battir
         name: Battīr
+        names_en: ~
+        names_es: ~
         population: 4092
-        slug: battir
       - 
-        districts: []
-        location: "POINT (32.4099999999999966 35.0697199999999967)"
+        alternate_names: 
+          - "Baqa ash Sharqiya"
+          - "Baqa esh Sharqiya"
+          - "Baqah ash Sharqiyah"
+        ascii_name: "Baqah ash Sharqiyah"
         name: "Bāqah ash Sharqīyah"
+        names_en: ~
+        names_es: ~
         population: 4165
-        slug: baqah-ash-sharqiyah
       - 
-        districts: []
-        location: "POINT (32.2049999999999983 35.2847200000000001)"
+        alternate_names: 
+          - Balata
+          - Balatah
+          - Balāta
+        ascii_name: Balatah
         name: Balāţah
+        names_en: ~
+        names_es: ~
         population: 17146
-        slug: balatah
       - 
-        districts: []
-        location: "POINT (32.0958299999999994 35.0402800000000028)"
+        alternate_names: 
+          - "Az Zawiyah"
+          - "Az Zāwiyah"
+          - "Ez Zawiya"
+        ascii_name: "Az Zawiyah"
         name: "Az Zāwiyah"
+        names_en: ~
+        names_es: ~
         population: 4917
-        slug: az-zawiyah
       - 
-        districts: []
-        location: "POINT (31.4166699999999999 34.9666700000000006)"
+        alternate_names: 
+          - "Ad Dahiriyah"
+          - "Adh Dhahiriya"
+          - "Az Zahiriyah"
+        ascii_name: "Az Zahiriyah"
         name: "Az̧ Z̧āhirīyah"
+        names_en: ~
+        names_es: ~
         population: 27616
-        slug: az-zahiriyah
       - 
-        districts: []
-        location: "POINT (32.3691699999999969 35.0697199999999967)"
+        alternate_names: 
+          - "Az Zababida"
+          - "Az Zababidah"
+          - "Az Zababide"
+        ascii_name: "Az Zababidah"
+        name: "Az Zabābidah"
+        names_en: ~
+        names_es: ~
+        population: 3751
+      - 
+        alternate_names: ~
+        ascii_name: "`Attil"
         name: ‘Attīl
+        names_en: ~
+        names_es: ~
         population: 10100
-        slug: attil
       - 
-        districts: []
-        location: "POINT (32.0833299999999966 35.2666699999999977)"
+        alternate_names: 
+          - "As Sawiya"
+          - "As Sawiyah"
+          - "As Sāwiyah"
+        ascii_name: "As Sawiyah"
         name: "As Sāwiyah"
+        names_en: ~
+        names_es: ~
         population: 2236
-        slug: as-sawiyah
       - 
-        districts: []
-        location: "POINT (31.5833300000000001 35.1499999999999986)"
+        alternate_names: 
+          - "Ash Shuyukh"
+          - "Ash Shuyūkh"
+          - "Esh Shuyukh"
+        ascii_name: "Ash Shuyukh"
         name: "Ash Shuyūkh"
+        names_en: ~
+        names_es: ~
         population: 8151
-        slug: ash-shuyukh
       - 
-        districts: []
-        location: "POINT (31.6833300000000015 35.1833299999999980)"
+        alternate_names: 
+          - Artas
+          - Artasium
+          - Arţās
+        ascii_name: Artas
         name: Arţās
+        names_en: ~
+        names_es: ~
         population: 3552
-        slug: artas
       - 
-        districts: []
-        location: "POINT (31.4666700000000006 35.0833299999999966)"
+        alternate_names: 
+          - "Ar Rihiya"
+          - "Ar Rihiyah"
+          - "Ar Rīḩīyah"
+        ascii_name: "Ar Rihiyah"
         name: "Ar Rīḩīyah"
+        names_en: ~
+        names_es: ~
         population: 3369
-        slug: ar-rihiyah
       - 
-        districts: []
-        location: "POINT (31.8500000000000014 35.2333300000000023)"
+        alternate_names: 
+          - "Ar Ram"
+          - "Ar Rām"
+          - "Er Ram"
+        ascii_name: "Ar Ram"
         name: "Ar Rām"
+        names_en: ~
+        names_es: ~
         population: 24838
-        slug: ar-ram
       - 
-        districts: []
-        location: "POINT (32.4050000000000011 35.2019400000000005)"
+        alternate_names: 
+          - Arabeh
+          - "`Arava"
+          - "`Arraba"
+        ascii_name: "`Arrabah"
         name: ‘Arrābah
+        names_en: ~
+        names_es: ~
         population: 9703
-        slug: arrabah
       - 
-        districts: []
-        location: "POINT (31.8666699999999992 35.4500000000000028)"
+        alternate_names: 
+          - Ariha
+          - Arīḩā
+          - Eriha
+        ascii_name: Jericho
         name: Jericho
+        names_en: 
+          - Jericho
+        names_es: 
+          - Jericó
         population: 19783
-        slug: jericho
       - 
-        districts: []
-        location: "POINT (32.1274999999999977 35.3422199999999975)"
+        alternate_names: 
+          - "`Aqraba"
+          - "`Aqrabah"
+          - "`Aqrabe"
+        ascii_name: "`Aqrabah"
         name: ‘Aqrabah
+        names_en: ~
+        names_es: ~
         population: 7707
-        slug: aqrabah
       - 
-        districts: []
-        location: "POINT (32.3080599999999976 35.1186099999999968)"
+        alternate_names: 
+          - "`Anabta"
+          - "`Anabtah"
+          - "`Anebta"
+        ascii_name: "`Anabta"
         name: ‘Anabtā
+        names_en: ~
+        names_es: ~
         population: 7106
-        slug: anabta
       - 
-        districts: []
-        location: "POINT (32.4825000000000017 35.2274999999999991)"
+        alternate_names: 
+          - "Al Yamun"
+          - "Al Yāmūn"
+          - "El Yamun"
+        ascii_name: "Al Yamun"
         name: "Al Yāmūn"
+        names_en: ~
+        names_es: ~
         population: 16164
-        slug: al-yamun
       - 
-        districts: []
-        location: "POINT (31.8333300000000001 35.1333300000000008)"
+        alternate_names: 
+          - "Al Qubaybah"
+          - "Al Qubeiba"
+          - "El Qubeiba"
+        ascii_name: "Al Qubaybah"
         name: "Al Qubaybah"
+        names_en: ~
+        names_es: ~
         population: 2008
-        slug: al-qubaybah
       - 
-        districts: []
-        location: "POINT (32.4166700000000034 35.3833300000000008)"
+        alternate_names: 
+          - "Al Mughaiyir"
+          - "Al Mughayyir"
+          - "El Mughaiyir"
+        ascii_name: "Al Mughayyir"
         name: "Al Mughayyir"
+        names_en: ~
+        names_es: ~
         population: 2175
-        slug: al-mughayyir
       - 
-        districts: []
-        location: "POINT (32.0197199999999995 35.3447200000000024)"
+        alternate_names: 
+          - "Al Mughaiyir"
+          - "Al Mughayir"
+          - "Al Mughayyir"
+        ascii_name: "Al Mughayyir"
         name: "Al Mughayyir"
+        names_en: ~
+        names_es: ~
         population: 2328
-        slug: al-mughayyir
       - 
-        districts: []
-        location: "POINT (31.6999999999999993 35.1666700000000034)"
+        alternate_names: 
+          - "Al Khadr"
+          - "Al Khidr"
+          - "Al Khiḑr"
+        ascii_name: "Al Khidr"
         name: "Al Khiḑr"
+        names_en: ~
+        names_es: ~
         population: 9003
-        slug: al-khidr
       - 
-        districts: []
-        location: "POINT (31.5333299999999994 35.1000000000000014)"
+        alternate_names: 
+          - "Al Khalil"
+          - "Al Khalīl"
+          - "El Khalil"
+        ascii_name: Hebron
         name: Hebron
+        names_en: 
+          - Hebron
+        names_es: 
+          - Hebrón
         population: 160470
-        slug: hebron
       - 
-        districts: []
-        location: "POINT (31.8666699999999992 35.2000000000000028)"
+        alternate_names: 
+          - "Al Judayrah"
+          - Judayrah
+          - Judeira
+        ascii_name: "Al Judayrah"
         name: "Al Judayrah"
+        names_en: ~
+        names_es: ~
         population: 2059
-        slug: al-judayrah
       - 
-        districts: []
-        location: "POINT (31.8500000000000014 35.1833299999999980)"
+        alternate_names: 
+          - "Al Jib"
+          - "Al Jīb"
+          - "El Jib"
+        ascii_name: "Al Jib"
         name: "Al Jīb"
+        names_en: ~
+        names_es: ~
         population: 4505
-        slug: al-jib
       - 
-        districts: []
-        location: "POINT (31.8999999999999986 35.2166700000000006)"
+        alternate_names: 
+          - "Al Fandaqumiya"
+          - "Al Fandaqumiyah"
+          - "Al Fandaqūmīyah"
+        ascii_name: "Al Fandaqumiyah"
+        name: "Al Fandaqūmīyah"
+        names_en: ~
+        names_es: ~
+        population: 3266
+      - 
+        alternate_names: 
+          - "Al Bira"
+          - "Al Birah"
+          - "Al Bīrah"
+        ascii_name: "Al Birah"
         name: "Al Bīrah"
+        names_en: ~
+        names_es: ~
         population: 38192
-        slug: al-birah
       - 
-        districts: []
-        location: "POINT (31.7666700000000013 35.2666699999999977)"
+        alternate_names: ~
+        ascii_name: "Abu Dis"
         name: "Abū Dīs"
+        names_en: ~
+        names_es: ~
         population: 11753
-        slug: abu-dis
       - 
-        districts: []
-        location: "POINT (32.1713999999999984 35.0976700000000008)"
+        alternate_names: ~
+        ascii_name: "Karney Shomron"
         name: "Karney Shomron"
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: karney-shomron
-    code: PS.WE
     name: "West Bank"
-    slug: west-bank
-tld: ps
+    names_en: ~
+    names_es: ~

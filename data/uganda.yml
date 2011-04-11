@@ -1,574 +1,1093 @@
 --- 
-code: UG
-continent: AF
 name: Uganda
-population: 33398682
+names_en: 
+  - Uganda
+names_es: 
+  - Uganda
 regions: 
   - 
+    ascii_name: "Masaka District"
     cities: 
       - 
-        districts: []
-        location: "POINT (2.4166699999999999 30.9833299999999987)"
-        name: Paidha
-        population: 28348
-        slug: paidha
-      - 
-        districts: []
-        location: "POINT (-0.8833299999999999 29.6499999999999986)"
-        name: Ntungamo
-        population: 16915
-        slug: ntungamo
-      - 
-        districts: []
-        location: "POINT (0.6894400000000001 32.4213900000000024)"
-        name: Namasuba
-        population: 22507
-        slug: namasuba
-      - 
-        districts: []
-        location: "POINT (0.3475000000000000 32.6491699999999980)"
-        name: Kireka
-        population: 17947
-        slug: kireka
-      - 
-        districts: []
-        location: "POINT (0.2000000000000000 30.0000000000000000)"
-        name: Kilembe
-        population: 7914
-        slug: kilembe
-      - 
-        districts: []
-        location: "POINT (0.3772200000000000 32.9197199999999981)"
-        name: Lugazi
-        population: 35036
-        slug: lugazi
-      - 
-        districts: []
-        location: "POINT (0.3558300000000000 32.6672200000000004)"
-        name: Bweyogerere
-        population: 11473
-        slug: bweyogerere
-      - 
-        districts: []
-        location: "POINT (0.4797200000000000 33.2344399999999993)"
-        name: Bugembe
-        population: 11598
-        slug: bugembe
-      - 
-        districts: []
-        location: "POINT (1.9500000000000000 34.9500000000000028)"
-        name: Amudat
-        population: 1873
-        slug: amudat
-    code: UG.00
-    name: "Uganda (general)"
-    slug: uganda-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (1.6200000000000001 31.3108299999999993)"
-        name: Kigorobya
-        population: 5420
-        slug: kigorobya
-      - 
-        districts: []
-        location: "POINT (1.4355599999999999 31.3436100000000017)"
-        name: Hoima
-        population: 39625
-        slug: hoima
-    code: UG.31
-    name: Hoima
-    slug: hoima
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.7025000000000000 32.8886099999999999)"
-        name: Kayunga
-        population: 21704
-        slug: kayunga
-      - 
-        districts: []
-        location: "POINT (0.4244400000000000 33.2041699999999977)"
-        name: Jinja
-        population: 93061
-        slug: jinja
-      - 
-        districts: []
-        location: "POINT (0.6422200000000000 33.1744399999999970)"
-        name: Buwenge
-        population: 15130
-        slug: buwenge
-      - 
-        districts: []
-        location: "POINT (0.9472200000000000 33.1197200000000009)"
-        name: Kamuli
-        population: 12764
-        slug: kamuli
-    code: UG.33
-    name: Jinja
-    slug: jinja
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.3088900000000000 32.2250000000000014)"
-        name: Kalangala
-        population: 0
-        slug: kalangala
-      - 
-        districts: []
-        location: "POINT (0.0644400000000000 32.4469399999999979)"
-        name: Entebbe
-        population: 62969
-        slug: entebbe
-    code: UG.36
-    name: Kalangala
-    slug: kalangala
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.2300000000000000 29.9883300000000013)"
-        name: Kasese
-        population: 67269
-        slug: kasese
-      - 
-        districts: []
-        location: "POINT (0.2111100000000000 30.4208299999999987)"
-        name: Kamwenge
-        population: 17169
-        slug: kamwenge
-      - 
-        districts: []
-        location: "POINT (0.6938900000000000 30.2663900000000012)"
-        name: "Fort Portal"
-        population: 42670
-        slug: fort-portal
-      - 
-        districts: []
-        location: "POINT (0.4186100000000000 29.8911100000000012)"
-        name: Margherita
-        population: 5109
-        slug: margherita
-      - 
-        districts: []
-        location: "POINT (0.7413900000000000 30.0416699999999999)"
-        name: Bundibugyo
-        population: 16919
-        slug: bundibugyo
-    code: UG.40
-    name: Kasese
-    slug: kasese
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.9380600000000000 30.7594400000000014)"
-        name: Muhororo
-        population: 1567
-        slug: muhororo
-      - 
-        districts: []
-        location: "POINT (0.6327800000000000 30.6213900000000017)"
-        name: Kyenjojo
-        population: 18600
-        slug: kyenjojo
-      - 
-        districts: []
-        location: "POINT (0.8000000000000000 31.0666699999999985)"
-        name: Kibale
-        population: 5200
-        slug: kibale
-      - 
-        districts: []
-        location: "POINT (0.9605600000000000 30.7966699999999989)"
-        name: Kagadi
-        population: 2097
-        slug: kagadi
-    code: UG.41
-    name: Kibale
-    slug: kibale
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (2.8005599999999999 33.1349999999999980)"
-        name: "Pader Palwo"
-        population: 11152
-        slug: pader-palwo
-      - 
-        districts: []
-        location: "POINT (1.6855599999999999 33.6163900000000027)"
-        name: Soroti
-        population: 56400
-        slug: soroti
-      - 
-        districts: []
-        location: "POINT (3.4463900000000001 31.2702799999999996)"
-        name: Yumbe
-        population: 24300
-        slug: yumbe
-      - 
-        districts: []
-        location: "POINT (2.9805600000000001 34.1330600000000004)"
-        name: Kotido
-        population: 18800
-        slug: kotido
-      - 
-        districts: []
-        location: "POINT (3.3613900000000001 31.8097199999999987)"
-        name: Adjumani
-        population: 28700
-        slug: adjumani
-      - 
-        districts: []
-        location: "POINT (2.2349999999999999 32.9097200000000001)"
-        name: Lira
-        population: 119323
-        slug: lira
-      - 
-        districts: []
-        location: "POINT (3.2783300000000000 32.8866700000000023)"
-        name: Kitgum
-        population: 56891
-        slug: kitgum
-      - 
-        districts: []
-        location: "POINT (2.4958300000000002 34.6694400000000016)"
-        name: Moroto
-        population: 10300
-        slug: moroto
-      - 
-        districts: []
-        location: "POINT (2.7666700000000000 32.3055599999999998)"
-        name: Gulu
-        population: 146858
-        slug: gulu
-      - 
-        districts: []
-        location: "POINT (3.6280600000000001 31.7536099999999983)"
-        name: Moyo
-        population: 18800
-        slug: moyo
-      - 
-        districts: []
-        location: "POINT (3.0499999999999998 33.2166700000000006)"
-        name: Pader
-        population: 11600
-        slug: pader
-      - 
-        districts: []
-        location: "POINT (3.0191699999999999 30.9308300000000003)"
-        name: Arua
-        population: 55585
-        slug: arua
-      - 
-        districts: []
-        location: "POINT (1.9755600000000000 32.5386099999999985)"
-        name: Apac
-        population: 11776
-        slug: apac
-      - 
-        districts: []
-        location: "POINT (1.7388900000000000 33.1594399999999965)"
-        name: Kaberamaido
-        population: 0
-        slug: kaberamaido
-    code: UG.47
-    name: Lira
-    slug: lira
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (1.6858299999999999 32.0830600000000032)"
-        name: "Masindi Port"
-        population: 7828
-        slug: masindi-port
-      - 
-        districts: []
-        location: "POINT (1.6744399999999999 31.7149999999999999)"
-        name: Masindi
-        population: 31486
-        slug: masindi
-      - 
-        districts: []
-        location: "POINT (2.4758300000000002 31.1024999999999991)"
-        name: Nebbi
-        population: 30354
-        slug: nebbi
-    code: UG.50
-    name: Masindi
-    slug: masindi
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.8411100000000000 29.9419399999999989)"
-        name: Rukungiri
-        population: 14000
-        slug: rukungiri
-      - 
-        districts: []
-        location: "POINT (-1.3538900000000000 29.6983299999999986)"
-        name: Kisoro
-        population: 12400
-        slug: kisoro
-      - 
-        districts: []
-        location: "POINT (-0.9575000000000000 29.7897199999999991)"
-        name: Kanungu
-        population: 14600
-        slug: kanungu
-      - 
-        districts: []
-        location: "POINT (-1.3261099999999999 30.0038899999999984)"
-        name: Kabale
-        population: 43500
-        slug: kabale
-      - 
-        districts: []
-        location: "POINT (-0.6583300000000000 30.6758300000000013)"
-        name: Mbarara
-        population: 97500
-        slug: mbarara
-      - 
-        districts: []
-        location: "POINT (-0.5852800000000000 30.2113900000000015)"
-        name: Bushenyi
-        population: 0
-        slug: bushenyi
-      - 
-        districts: []
-        location: "POINT (-0.5916700000000000 30.6286099999999983)"
-        name: Bwizibwera
-        population: 79157
-        slug: bwizibwera
-      - 
-        districts: []
-        location: "POINT (-0.8794400000000000 30.2641700000000000)"
-        name: Ntungamo
-        population: 15300
-        slug: ntungamo
-    code: UG.52
-    name: Mbarara
-    slug: mbarara
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.5891700000000000 31.3599999999999994)"
-        name: Mubende
-        population: 18936
-        slug: mubende
-      - 
-        districts: []
-        location: "POINT (0.4175000000000000 32.0227799999999974)"
-        name: Mityana
-        population: 41131
-        slug: mityana
-      - 
-        districts: []
-        location: "POINT (0.9161100000000000 31.7741700000000016)"
-        name: Kiboga
-        population: 14512
-        slug: kiboga
-    code: UG.56
-    name: Mubende
-    slug: mubende
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.4030600000000000 31.1572199999999988)"
-        name: Lyantonde
-        population: 8039
-        slug: lyantonde
-      - 
-        districts: []
-        location: "POINT (-0.0772200000000000 31.4566699999999990)"
-        name: Sembabule
-        population: 4320
-        slug: sembabule
-      - 
-        districts: []
-        location: "POINT (-0.7200000000000000 31.4838899999999988)"
-        name: Rakai
-        population: 0
-        slug: rakai
-      - 
-        districts: []
-        location: "POINT (-0.6155600000000000 31.5174999999999983)"
-        name: Kyotera
-        population: 8472
-        slug: kyotera
-      - 
-        districts: []
-        location: "POINT (-0.7425000000000000 31.4063899999999983)"
-        name: Byakabanda
-        population: 7608
-        slug: byakabanda
-      - 
-        districts: []
-        location: "POINT (-0.3127800000000000 31.7130599999999987)"
+        alternate_names: 
+          - Masaka
+          - Masaki
+          - Масаки
+        ascii_name: Masaka
         name: Masaka
+        names_en: 
+          - Masaka
+        names_es: ~
         population: 65373
-        slug: masaka
-    code: UG.61
-    name: Rakai
-    slug: rakai
+    name: Masaka
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Mpigi District"
     cities: 
       - 
-        districts: []
-        location: "POINT (0.7283300000000000 32.5122199999999992)"
-        name: Wobulenzi
-        population: 24415
-        slug: wobulenzi
-      - 
-        districts: []
-        location: "POINT (1.3088900000000001 32.4563899999999990)"
-        name: Nakasongola
-        population: 6921
-        slug: nakasongola
-      - 
-        districts: []
-        location: "POINT (0.8491700000000000 32.4730599999999967)"
-        name: Luwero
-        population: 28338
-        slug: luwero
-    code: UG.70
-    name: Luwero
-    slug: luwero
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.7697200000000000 33.6130599999999973)"
-        name: Busembatia
-        population: 15889
-        slug: busembatia
-      - 
-        districts: []
-        location: "POINT (1.1450000000000000 33.7094400000000007)"
-        name: Pallisa
-        population: 30745
-        slug: pallisa
-      - 
-        districts: []
-        location: "POINT (0.6847200000000000 34.1811099999999968)"
-        name: Tororo
-        population: 40400
-        slug: tororo
-      - 
-        districts: []
-        location: "POINT (1.8911100000000001 33.9661100000000005)"
-        name: Katakwi
-        population: 0
-        slug: katakwi
-      - 
-        districts: []
-        location: "POINT (0.4544400000000000 34.0758300000000034)"
-        name: Busia
-        population: 43200
-        slug: busia
-      - 
-        districts: []
-        location: "POINT (1.2500000000000000 34.2999999999999972)"
-        name: Sironko
-        population: 13000
-        slug: sironko
-      - 
-        districts: []
-        location: "POINT (1.9166700000000001 34.7833299999999994)"
-        name: Nakapiripirit
-        population: 0
-        slug: nakapiripirit
-      - 
-        districts: []
-        location: "POINT (1.3827799999999999 34.5244399999999985)"
-        name: Kapchorwa
-        population: 11300
-        slug: kapchorwa
-      - 
-        districts: []
-        location: "POINT (0.5713900000000000 33.7416699999999992)"
-        name: Bugiri
-        population: 22500
-        slug: bugiri
-      - 
-        districts: []
-        location: "POINT (0.6091700000000000 33.4686099999999982)"
-        name: Iganga
-        population: 45024
-        slug: iganga
-      - 
-        districts: []
-        location: "POINT (0.4597200000000000 33.4802800000000005)"
-        name: Mayuge
-        population: 11503
-        slug: mayuge
-      - 
-        districts: []
-        location: "POINT (1.0644400000000001 34.1794399999999996)"
-        name: Mbale
-        population: 76493
-        slug: mbale
-      - 
-        districts: []
-        location: "POINT (1.4608300000000001 33.9361099999999993)"
-        name: Kumi
-        population: 11400
-        slug: kumi
-    code: UG.78
-    name: Iganga
-    slug: iganga
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.4186100000000000 33.1730599999999995)"
-        name: Njeru
-        population: 61952
-        slug: njeru
-      - 
-        districts: []
-        location: "POINT (0.3533300000000000 32.7552799999999991)"
-        name: Mukono
-        population: 67290
-        slug: mukono
-    code: UG.90
-    name: Mukono
-    slug: mukono
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.4044400000000000 32.4594400000000007)"
-        name: Wakiso
-        population: 20530
-        slug: wakiso
-      - 
-        districts: []
-        location: "POINT (0.3162800000000000 32.5821899999999971)"
-        name: Kampala
-        population: 1353189
-        slug: kampala
-      - 
-        districts: []
-        location: "POINT (0.2080600000000000 32.5222199999999972)"
-        name: Kajansi
-        population: 7530
-        slug: kajansi
-      - 
-        districts: []
-        location: "POINT (0.2250000000000000 32.3136099999999971)"
+        alternate_names: ~
+        ascii_name: Mpigi
         name: Mpigi
+        names_en: ~
+        names_es: ~
         population: 11082
-        slug: mpigi
-    code: UG.96
+    name: Mpigi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Namutumba District"
+    cities: []
+    name: Namutumba
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Bukedea
+    cities: []
+    name: Bukedea
+    names_en: 
+      - Bukedea
+    names_es: ~
+  - 
+    ascii_name: "Apac District"
+    cities: 
+      - 
+        alternate_names: 
+          - Apac
+          - Apach
+        ascii_name: Apac
+        name: Apac
+        names_en: 
+          - Apac
+        names_es: ~
+        population: 11776
+    name: Apac
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Arua District"
+    cities: 
+      - 
+        alternate_names: 
+          - Arua
+          - Аруа
+        ascii_name: Arua
+        name: Arua
+        names_en: 
+          - Arua
+        names_es: ~
+        population: 55585
+    name: Arua
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bundibugyo District"
+    cities: 
+      - 
+        alternate_names: 
+          - Bundibugyo
+        ascii_name: Bundibugyo
+        name: Bundibugyo
+        names_en: 
+          - Bundibugyo
+        names_es: ~
+        population: 16919
+    name: Bundibugyo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bushenyi District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Bushenyi
+        name: Bushenyi
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Bushenyi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gulu District"
+    cities: 
+      - 
+        alternate_names: 
+          - Gul
+          - Gulu
+          - Гул
+        ascii_name: Gulu
+        name: Gulu
+        names_en: ~
+        names_es: ~
+        population: 146858
+    name: Gulu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Hoima District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kigorobya
+        name: Kigorobya
+        names_en: ~
+        names_es: ~
+        population: 5420
+      - 
+        alternate_names: 
+          - Hoima
+        ascii_name: Hoima
+        name: Hoima
+        names_en: 
+          - Hoima
+        names_es: ~
+        population: 39625
+    name: Hoima
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Iganga District"
+    cities: 
+      - 
+        alternate_names: 
+          - Igang
+          - Iganga
+        ascii_name: Iganga
+        name: Iganga
+        names_en: 
+          - Iganga
+        names_es: ~
+        population: 45024
+      - 
+        alternate_names: ~
+        ascii_name: Busembatia
+        name: Busembatia
+        names_en: ~
+        names_es: ~
+        population: 15889
+    name: Iganga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Jinja District"
+    cities: 
+      - 
+        alternate_names: 
+          - Jinga
+          - Jinja
+        ascii_name: Jinja
+        name: Jinja
+        names_en: ~
+        names_es: ~
+        population: 93061
+      - 
+        alternate_names: ~
+        ascii_name: Buwenge
+        name: Buwenge
+        names_en: ~
+        names_es: ~
+        population: 15130
+    name: Jinja
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kabale District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kabale
+        name: Kabale
+        names_en: ~
+        names_es: ~
+        population: 43500
+    name: Kabale
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kabarole District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fort Portal"
+          - Fort-Portal
+          - Kabarole
+        ascii_name: "Fort Portal"
+        name: "Fort Portal"
+        names_en: 
+          - "Fort Portal"
+        names_es: ~
+        population: 42670
+    name: Kabarole
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kalangala District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kalangala
+        name: Kalangala
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Kalangala
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kampala District"
+    cities: 
+      - 
+        alternate_names: 
+          - Campala
+          - Kampala
+          - Kampalo
+        ascii_name: Kampala
+        name: Kampala
+        names_en: 
+          - Kampala
+        names_es: 
+          - Kampala
+        population: 1353189
+    name: Kampala
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kamuli District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kamuli
+        name: Kamuli
+        names_en: ~
+        names_es: ~
+        population: 12764
+    name: Kamuli
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kapchorwa District"
+    cities: 
+      - 
+        alternate_names: 
+          - Kapchorwa
+          - Sabei
+          - Sebei
+        ascii_name: Kapchorwa
+        name: Kapchorwa
+        names_en: ~
+        names_es: ~
+        population: 11300
+    name: Kapchorwa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kasese District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kasese
+        name: Kasese
+        names_en: ~
+        names_es: ~
+        population: 67269
+      - 
+        alternate_names: ~
+        ascii_name: Margherita
+        name: Margherita
+        names_en: ~
+        names_es: ~
+        population: 5109
+    name: Kasese
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kibale District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Muhororo
+        name: Muhororo
+        names_en: ~
+        names_es: ~
+        population: 1567
+      - 
+        alternate_names: ~
+        ascii_name: Kibale
+        name: Kibale
+        names_en: ~
+        names_es: ~
+        population: 5200
+      - 
+        alternate_names: ~
+        ascii_name: Kagadi
+        name: Kagadi
+        names_en: ~
+        names_es: ~
+        population: 2097
+    name: Kibale
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kiboga District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kiboga
+        name: Kiboga
+        names_en: ~
+        names_es: ~
+        population: 14512
+    name: Kiboga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kisoro District"
+    cities: 
+      - 
+        alternate_names: 
+          - Kisolo
+          - Kisoro
+        ascii_name: Kisoro
+        name: Kisoro
+        names_en: 
+          - Kisoro
+        names_es: ~
+        population: 12400
+    name: Kisoro
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kitgum District"
+    cities: 
+      - 
+        alternate_names: 
+          - Kitgum
+          - Kitgumo
+          - Китгум
+        ascii_name: Kitgum
+        name: Kitgum
+        names_en: ~
+        names_es: ~
+        population: 56891
+    name: Kitgum
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kotido District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kotido
+        name: Kotido
+        names_en: ~
+        names_es: ~
+        population: 18800
+    name: Kotido
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kumi District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kumi
+        name: Kumi
+        names_en: ~
+        names_es: ~
+        population: 11400
+    name: Kumi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lira District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Pader Palwo"
+        name: "Pader Palwo"
+        names_en: ~
+        names_es: ~
+        population: 11152
+      - 
+        alternate_names: ~
+        ascii_name: Lira
+        name: Lira
+        names_en: ~
+        names_es: ~
+        population: 119323
+    name: Lira
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Luwero District"
+    cities: 
+      - 
+        alternate_names: 
+          - Wobolenzi
+          - Wobulenzil
+        ascii_name: Wobulenzi
+        name: Wobulenzi
+        names_en: ~
+        names_es: ~
+        population: 24415
+      - 
+        alternate_names: ~
+        ascii_name: Luwero
+        name: Luwero
+        names_en: ~
+        names_es: ~
+        population: 28338
+    name: Luwero
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Masindi District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Masindi Port"
+        name: "Masindi Port"
+        names_en: ~
+        names_es: ~
+        population: 7828
+      - 
+        alternate_names: 
+          - Masinai
+          - Masindi
+          - Масинди
+        ascii_name: Masindi
+        name: Masindi
+        names_en: 
+          - Masindi
+        names_es: ~
+        population: 31486
+    name: Masindi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mbale District"
+    cities: 
+      - 
+        alternate_names: 
+          - Mbale
+          - Мбале
+        ascii_name: Mbale
+        name: Mbale
+        names_en: 
+          - Mbale
+        names_es: ~
+        population: 76493
+    name: Mbale
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mbarara District"
+    cities: 
+      - 
+        alternate_names: 
+          - Mbarara
+        ascii_name: Mbarara
+        name: Mbarara
+        names_en: 
+          - Mbarara
+        names_es: ~
+        population: 97500
+      - 
+        alternate_names: ~
+        ascii_name: Bwizibwera
+        name: Bwizibwera
+        names_en: ~
+        names_es: ~
+        population: 79157
+    name: Mbarara
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Moroto District"
+    cities: 
+      - 
+        alternate_names: 
+          - Maroto
+          - Moroto
+        ascii_name: Moroto
+        name: Moroto
+        names_en: 
+          - Moroto
+        names_es: ~
+        population: 10300
+    name: Moroto
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Moyo District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Moyo
+        name: Moyo
+        names_en: ~
+        names_es: ~
+        population: 18800
+    name: Moyo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mubende District"
+    cities: 
+      - 
+        alternate_names: 
+          - Mubende
+          - Mubendi
+        ascii_name: Mubende
+        name: Mubende
+        names_en: ~
+        names_es: ~
+        population: 18936
+      - 
+        alternate_names: 
+          - Mit'jana
+          - Mitiyana
+          - Митьяна
+        ascii_name: Mityana
+        name: Mityana
+        names_en: ~
+        names_es: ~
+        population: 41131
+    name: Mubende
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mukono District"
+    cities: 
+      - 
+        alternate_names: 
+          - Daru
+          - Njeru
+        ascii_name: Njeru
+        name: Njeru
+        names_en: ~
+        names_es: ~
+        population: 61952
+      - 
+        alternate_names: ~
+        ascii_name: Mukono
+        name: Mukono
+        names_en: ~
+        names_es: ~
+        population: 67290
+    name: Mukono
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nebbi District"
+    cities: 
+      - 
+        alternate_names: 
+          - Nebbi
+          - Nebi
+        ascii_name: Nebbi
+        name: Nebbi
+        names_en: ~
+        names_es: ~
+        population: 30354
+    name: Nebbi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ntungamo District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Ntungamo
+        name: Ntungamo
+        names_en: ~
+        names_es: ~
+        population: 15300
+    name: Ntungamo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Pallisa District"
+    cities: 
+      - 
+        alternate_names: 
+          - Palissa
+          - Pallisa
+          - Паллиса
+        ascii_name: Pallisa
+        name: Pallisa
+        names_en: 
+          - Pallisa
+        names_es: ~
+        population: 30745
+    name: Pallisa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rakai District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Rakai
+        name: Rakai
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Lyantonde
+        name: Lyantonde
+        names_en: ~
+        names_es: ~
+        population: 8039
+      - 
+        alternate_names: ~
+        ascii_name: Kyotera
+        name: Kyotera
+        names_en: ~
+        names_es: ~
+        population: 8472
+      - 
+        alternate_names: 
+          - Byakabanda
+          - Kyakabanda
+        ascii_name: Byakabanda
+        name: Byakabanda
+        names_en: ~
+        names_es: ~
+        population: 7608
+    name: Rakai
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rukungiri District"
+    cities: 
+      - 
+        alternate_names: 
+          - Kinyasano
+          - Rukungire
+          - Rukungiri
+        ascii_name: Rukungiri
+        name: Rukungiri
+        names_en: ~
+        names_es: ~
+        population: 14000
+    name: Rukungiri
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Soroti District"
+    cities: 
+      - 
+        alternate_names: 
+          - Soroti
+        ascii_name: Soroti
+        name: Soroti
+        names_en: 
+          - Soroti
+        names_es: ~
+        population: 56400
+    name: Soroti
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tororo District"
+    cities: 
+      - 
+        alternate_names: 
+          - Tororo
+        ascii_name: Tororo
+        name: Tororo
+        names_en: 
+          - Tororo
+        names_es: ~
+        population: 40400
+    name: Tororo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Adjumani District"
+    cities: 
+      - 
+        alternate_names: 
+          - Adjumani
+          - Ajumani
+        ascii_name: Adjumani
+        name: Adjumani
+        names_en: 
+          - Adjumani
+        names_es: ~
+        population: 28700
+    name: Adjumani
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bugiri District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Bugiri
+        name: Bugiri
+        names_en: ~
+        names_es: ~
+        population: 22500
+    name: Bugiri
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Busia District"
+    cities: 
+      - 
+        alternate_names: 
+          - Busia
+          - Busla
+        ascii_name: Busia
+        name: Busia
+        names_en: ~
+        names_es: ~
+        population: 43200
+    name: Busia
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Katakwi District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Katakwi
+        name: Katakwi
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Katakwi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nakasongola District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Nakasongola
+        name: Nakasongola
+        names_en: ~
+        names_es: ~
+        population: 6921
+    name: Nakasongola
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sembabule District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Sembabule
+        name: Sembabule
+        names_en: ~
+        names_es: ~
+        population: 4320
+    name: Sembabule
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kaberamaido District"
+    cities: 
+      - 
+        alternate_names: 
+          - Kaberamaido
+          - Kabiramaido
+        ascii_name: Kaberamaido
+        name: Kaberamaido
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Kaberamaido
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kamwenge District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Kamwenge
+        name: Kamwenge
+        names_en: ~
+        names_es: ~
+        population: 17169
+    name: Kamwenge
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kanungu District"
+    cities: 
+      - 
+        alternate_names: 
+          - Kanungu
+          - Kinkizi
+          - Makiro
+        ascii_name: Kanungu
+        name: Kanungu
+        names_en: ~
+        names_es: ~
+        population: 14600
+    name: Kanungu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kayunga District"
+    cities: 
+      - 
+        alternate_names: 
+          - Kayunga
+        ascii_name: Kayunga
+        name: Kayunga
+        names_en: ~
+        names_es: ~
+        population: 21704
+    name: Kayunga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kyenjojo District"
+    cities: 
+      - 
+        alternate_names: 
+          - Kyanjojo
+          - Kyenjojo
+          - Kyonjojo
+        ascii_name: Kyenjojo
+        name: Kyenjojo
+        names_en: ~
+        names_es: ~
+        population: 18600
+    name: Kyenjojo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mayuge District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Mayuge
+        name: Mayuge
+        names_en: ~
+        names_es: ~
+        population: 11503
+    name: Mayuge
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nakapiripirit District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Nakapiripirit
+        name: Nakapiripirit
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Nakapiripirit
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Pader District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Pader
+        name: Pader
+        names_en: ~
+        names_es: ~
+        population: 11600
+    name: Pader
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sironko District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Sironko
+        name: Sironko
+        names_en: ~
+        names_es: ~
+        population: 13000
+    name: Sironko
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wakiso District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Wakiso
+        name: Wakiso
+        names_en: ~
+        names_es: ~
+        population: 20530
+      - 
+        alternate_names: ~
+        ascii_name: Kajansi
+        name: Kajansi
+        names_en: ~
+        names_es: ~
+        population: 7530
+      - 
+        alternate_names: 
+          - Entebbe
+          - Entebe
+          - Ентебе
+        ascii_name: Entebbe
+        name: Entebbe
+        names_en: ~
+        names_es: 
+          - Entebbe
+        population: 62969
     name: Wakiso
-    slug: wakiso
-tld: ug
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Yumbe District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Yumbe
+        name: Yumbe
+        names_en: ~
+        names_es: ~
+        population: 24300
+    name: Yumbe
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Abim District"
+    cities: []
+    name: Abim
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Amolatar District"
+    cities: []
+    name: Amolatar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Amuria District"
+    cities: []
+    name: Amuria
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Amuru District"
+    cities: []
+    name: Amuru
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Budaka District"
+    cities: []
+    name: Budaka
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bududa District"
+    cities: []
+    name: Bududa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bulisa District"
+    cities: []
+    name: Bulisa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Butaleja District"
+    cities: []
+    name: Butaleja
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dokolo District"
+    cities: []
+    name: Dokolo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ibanda District"
+    cities: []
+    name: Ibanda
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Isingiro District"
+    cities: []
+    name: Isingiro
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kaabong District"
+    cities: []
+    name: Kaabong
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kaliro District"
+    cities: []
+    name: Kaliro
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kiruhura District"
+    cities: []
+    name: Kiruhura
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Koboko District"
+    cities: []
+    name: Koboko
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lyantonde District"
+    cities: []
+    name: Lyantonde
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Manafwa District"
+    cities: []
+    name: Manafwa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Maracha District"
+    cities: []
+    name: Maracha
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mityana District"
+    cities: []
+    name: Mityana
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nakaseke District"
+    cities: []
+    name: Nakaseke
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oyam District"
+    cities: []
+    name: Oyam
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bukwa District"
+    cities: []
+    name: Bukwa
+    names_en: ~
+    names_es: ~

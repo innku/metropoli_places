@@ -1,625 +1,1779 @@
 --- 
-code: LV
-continent: EU
 name: Latvia
-population: 2217969
+names_en: 
+  - Latvia
+  - "Republic of Latvia"
+names_es: 
+  - Letonia
 regions: 
   - 
+    ascii_name: "Ventspils Rajons"
     cities: 
       - 
-        districts: []
-        location: "POINT (56.9669400000000010 23.1552800000000012)"
-        name: Tukums
-        population: 18348
-        slug: tukums
-      - 
-        districts: []
-        location: "POINT (56.8416700000000006 23.5874999999999986)"
-        name: Tīreļi
-        population: 2103
-        slug: tireli
-      - 
-        districts: []
-        location: "POINT (56.6863900000000029 23.7877800000000015)"
-        name: Ozolnieki
-        population: 3400
-        slug: ozolnieki
-      - 
-        districts: []
-        location: "POINT (56.7852800000000002 23.9380600000000001)"
-        name: Olaine
-        population: 12584
-        slug: olaine
-      - 
-        districts: []
-        location: "POINT (56.9680000000000035 23.7703799999999994)"
-        name: Jūrmala
-        population: 54088
-        slug: jurmala
-      - 
-        districts: []
-        location: "POINT (56.6499999999999986 23.7127799999999986)"
-        name: Jelgava
-        population: 61791
-        slug: jelgava
-      - 
-        districts: []
-        location: "POINT (56.6250000000000000 23.2786100000000005)"
-        name: Dobele
-        population: 11225
-        slug: dobele
-      - 
-        districts: []
-        location: "POINT (56.4666700000000006 22.8833300000000008)"
-        name: Auce
-        population: 3125
-        slug: auce
-    code: LV.00
-    name: "Latvia (general)"
-    slug: latvia-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.6178000000000026 25.7255199999999995)"
-        name: Pļaviņas
-        population: 3848
-        slug: plavinas
-      - 
-        districts: []
-        location: "POINT (56.6047700000000020 25.2553400000000003)"
-        name: Aizkraukle
-        population: 8840
-        slug: aizkraukle
-    code: LV.01
-    name: "Aizkraukles Rajons"
-    slug: aizkraukles-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.1833299999999980 26.7500000000000000)"
-        name: Gulbene
-        population: 9355
-        slug: gulbene
-      - 
-        districts: []
-        location: "POINT (57.5333299999999994 26.6666699999999999)"
-        name: Ape
-        population: 1521
-        slug: ape
-      - 
-        districts: []
-        location: "POINT (57.4166700000000034 27.0500000000000007)"
-        name: Alūksne
-        population: 2264
-        slug: aluksne
-    code: LV.02
-    name: "Alūksnes Rajons"
-    slug: aluksnes-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.6063899999999975 24.5222200000000008)"
-        name: Vecumnieki
-        population: 4500
-        slug: vecumnieki
-      - 
-        districts: []
-        location: "POINT (56.6166699999999992 25.0833300000000001)"
-        name: Jaunjelgava
-        population: 1938
-        slug: jaunjelgava
-      - 
-        districts: []
-        location: "POINT (56.5986100000000008 24.2022200000000005)"
-        name: Iecava
-        population: 4000
-        slug: iecava
-      - 
-        districts: []
-        location: "POINT (56.4074999999999989 24.1905600000000014)"
-        name: Bauska
-        population: 10532
-        slug: bauska
-    code: LV.04
-    name: "Bauskas Rajons"
-    slug: bauskas-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.2333300000000023 25.0500000000000007)"
-        name: Līgatne
-        population: 1433
-        slug: ligatne
-      - 
-        districts: []
-        location: "POINT (57.2999999999999972 25.2500000000000000)"
-        name: Cēsis
-        population: 18198
-        slug: cesis
-    code: LV.05
-    name: "Cēsu Rajons"
-    slug: cesu-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.3500000000000014 25.5500000000000007)"
-        name: Viesīte
-        population: 2162
-        slug: viesite
-      - 
-        districts: []
-        location: "POINT (56.4833300000000023 25.8500000000000014)"
-        name: Jēkabpils
-        population: 27078
-        slug: jekabpils
-      - 
-        districts: []
-        location: "POINT (56.1666700000000034 25.7500000000000000)"
-        name: Aknīste
-        population: 1314
-        slug: akniste
-    code: LV.10
-    name: "Jēkabpils Rajons"
-    slug: jekabpils-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (55.8999999999999986 27.1666699999999999)"
-        name: Krāslava
-        population: 11088
-        slug: kraslava
-      - 
-        districts: []
-        location: "POINT (56.1000000000000014 27.5333299999999994)"
-        name: Dagda
-        population: 2740
-        slug: dagda
-    code: LV.14
-    name: "Krāslavas Rajons"
-    slug: kraslavas-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.6833299999999980 22.0166700000000013)"
-        name: Skrunda
-        population: 2659
-        slug: skrunda
-      - 
-        districts: []
-        location: "POINT (56.9666700000000006 21.9833299999999987)"
-        name: Kuldīga
-        population: 13289
-        slug: kuldiga
-    code: LV.15
-    name: "Kuldīgas Rajons"
-    slug: kuldigas-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.5166699999999977 21.0166700000000013)"
-        name: Liepāja
-        population: 85132
-        slug: liepaja
-      - 
-        districts: []
-        location: "POINT (56.5352099999999993 21.1678199999999990)"
-        name: Grobiņa
-        population: 4203
-        slug: grobina
-    code: LV.16
-    name: Liepāja
-    slug: liepaja
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.2166700000000006 21.6666699999999999)"
-        name: Piltene
-        population: 1103
-        slug: piltene
-      - 
-        districts: []
-        location: "POINT (57.3894400000000005 21.5605599999999988)"
+        alternate_names: 
+          - Ventspils
+          - Vindau
+          - Vindava
+        ascii_name: Ventspils
         name: Ventspils
+        names_en: ~
+        names_es: ~
         population: 42644
-        slug: ventspils
       - 
-        districts: []
-        location: "POINT (56.4467900000000000 21.5896800000000013)"
-        name: Priekule
-        population: 2550
-        slug: priekule
-      - 
-        districts: []
-        location: "POINT (56.8879099999999980 21.1859299999999990)"
-        name: Pāvilosta
-        population: 1171
-        slug: pavilosta
-      - 
-        districts: []
-        location: "POINT (56.7166700000000006 21.6000000000000014)"
-        name: Aizpute
-        population: 5634
-        slug: aizpute
-    code: LV.17
-    name: "Liepājas Rajons"
-    slug: liepajas-rajons
+        alternate_names: 
+          - Pilten
+          - Piltene
+          - Пилтене
+        ascii_name: Piltene
+        name: Piltene
+        names_en: ~
+        names_es: ~
+        population: 1103
+    name: "Ventspils Rajons"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Ventspils
+    cities: []
+    name: Ventspils
+    names_en: 
+      - Ventspils
+    names_es: 
+      - Ventspils
+  - 
+    ascii_name: "Valmieras Rajons"
     cities: 
       - 
-        districts: []
-        location: "POINT (57.8363900000000015 24.7500000000000000)"
-        name: Staicele
-        population: 1175
-        slug: staicele
-      - 
-        districts: []
-        location: "POINT (57.7536100000000019 24.3580599999999983)"
-        name: Salacgrīva
-        population: 3427
-        slug: salacgriva
-      - 
-        districts: []
-        location: "POINT (57.5102800000000016 24.7141699999999993)"
-        name: Limbaži
-        population: 8974
-        slug: limbazi
-      - 
-        districts: []
-        location: "POINT (57.7669399999999982 24.8825000000000003)"
-        name: Aloja
-        population: 1509
-        slug: aloja
-      - 
-        districts: []
-        location: "POINT (57.8636100000000013 24.3577800000000018)"
-        name: Ainaži
-        population: 1278
-        slug: ainazi
-    code: LV.18
-    name: "Limbažu Rajons"
-    slug: limbazu-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.5499999999999972 27.7166700000000006)"
-        name: Ludza
-        population: 10514
-        slug: ludza
-      - 
-        districts: []
-        location: "POINT (56.3833300000000008 28.1166699999999992)"
-        name: Zilupe
-        population: 1897
-        slug: zilupe
-      - 
-        districts: []
-        location: "POINT (56.5000000000000000 27.3166699999999985)"
-        name: Rēzekne
-        population: 38340
-        slug: rezekne
-      - 
-        districts: []
-        location: "POINT (56.7833299999999994 27.6666699999999999)"
-        name: Kārsava
-        population: 2645
-        slug: karsava
-      - 
-        districts: []
-        location: "POINT (57.1333300000000008 27.2500000000000000)"
-        name: Balvi
-        population: 8409
-        slug: balvi
-    code: LV.19
-    name: "Ludzas Rajons"
-    slug: ludzas-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.8500000000000014 26.2166700000000006)"
-        name: Madona
-        population: 9280
-        slug: madona
-      - 
-        districts: []
-        location: "POINT (56.5525299999999973 26.9244899999999987)"
-        name: Viļāni
-        population: 3934
-        slug: vilani
-      - 
-        districts: []
-        location: "POINT (56.8999999999999986 26.7166700000000006)"
-        name: Lubāna
-        population: 1918
-        slug: lubana
-      - 
-        districts: []
-        location: "POINT (56.9666700000000006 26.3166699999999985)"
-        name: Cesvaine
-        population: 1811
-        slug: cesvaine
-    code: LV.20
-    name: "Madonas Rajons"
-    slug: madonas-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.8162000000000020 24.6140100000000004)"
-        name: Ogre
-        population: 25818
-        slug: ogre
-      - 
-        districts: []
-        location: "POINT (56.7206600000000023 24.8074300000000001)"
-        name: Lielvārde
-        population: 5114
-        slug: lielvarde
-      - 
-        districts: []
-        location: "POINT (56.7451000000000008 24.7243899999999996)"
-        name: Ķegums
-        population: 2372
-        slug: kegums
-      - 
-        districts: []
-        location: "POINT (56.6761300000000006 24.9721000000000011)"
-        name: Jumprava
-        population: 2177
-        slug: jumprava
-      - 
-        districts: []
-        location: "POINT (56.8333299999999966 24.5000000000000000)"
-        name: Ikšķile
-        population: 3368
-        slug: ikskile
-    code: LV.21
-    name: "Ogres Rajons"
-    slug: ogres-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (55.8833300000000008 26.5333299999999994)"
-        name: Daugavpils
-        population: 111564
-        slug: daugavpils
-      - 
-        districts: []
-        location: "POINT (56.2944400000000016 26.7245899999999992)"
-        name: Preiļi
-        population: 8656
-        slug: preili
-      - 
-        districts: []
-        location: "POINT (56.3666699999999992 26.1833300000000015)"
-        name: Līvāni
-        population: 10073
-        slug: livani
-      - 
-        districts: []
-        location: "POINT (55.9666700000000006 26.3000000000000007)"
-        name: Ilūkste
-        population: 2898
-        slug: ilukste
-    code: LV.22
-    name: "Preiļu Rajons"
-    slug: preilu-rajons
-  - 
-    cities: 
-      - 
-        districts: 
-          - 
-            location: "POINT (57.0431499999999971 24.0361300000000000)"
-            name: Daugavgrīva
-            population: 9952
-            slug: daugavgriva
-          - 
-            location: "POINT (57.0313200000000009 24.0557100000000013)"
-            name: Bolderaja
-            population: 14771
-            slug: bolderaja
-        location: "POINT (56.9459999999999980 24.1058899999999987)"
-        name: Riga
-        population: 742572
-        slug: riga
-      - 
-        districts: []
-        location: "POINT (57.0390999999999977 24.1741300000000017)"
-        name: Jaunciems
-        population: 2684
-        slug: jaunciems
-    code: LV.25
-    name: Rīga
-    slug: riga
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.0936099999999982 24.5486100000000000)"
-        name: Vangaži
-        population: 4020
-        slug: vangazi
-      - 
-        districts: []
-        location: "POINT (56.9411100000000019 24.2897199999999991)"
-        name: Ulbroka
-        population: 2800
-        slug: ulbroka
-      - 
-        districts: []
-        location: "POINT (57.1519400000000033 24.8647199999999984)"
-        name: Sigulda
-        population: 10422
-        slug: sigulda
-      - 
-        districts: []
-        location: "POINT (57.2636099999999999 24.4180600000000005)"
-        name: Saulkrasti
-        population: 3184
-        slug: saulkrasti
-      - 
-        districts: []
-        location: "POINT (56.8601400000000012 24.3654399999999995)"
-        name: Salaspils
-        population: 17606
-        slug: salaspils
-      - 
-        districts: []
-        location: "POINT (56.8294399999999982 24.2372200000000007)"
-        name: Ķekava
-        population: 4600
-        slug: kekava
-      - 
-        districts: []
-        location: "POINT (56.7427800000000033 24.3944399999999995)"
-        name: Baldone
-        population: 2025
-        slug: baldone
-      - 
-        districts: []
-        location: "POINT (56.8761099999999971 24.1186100000000003)"
-        name: Baloži
-        population: 3854
-        slug: balozi
-    code: LV.26
-    name: "Rīgas Rajons"
-    slug: rigas-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (56.6636299999999977 22.4880700000000004)"
-        name: Saldus
-        population: 12224
-        slug: saldus
-      - 
-        districts: []
-        location: "POINT (56.7000000000000028 22.5333299999999994)"
-        name: Brocēni
-        population: 3486
-        slug: broceni
-    code: LV.27
-    name: "Saldus Rajons"
-    slug: saldus-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.3666699999999992 22.5833300000000001)"
-        name: Valdemārpils
-        population: 1447
-        slug: valdemarpils
-      - 
-        districts: []
-        location: "POINT (57.2500000000000000 22.6000000000000014)"
-        name: Talsi
-        population: 12022
-        slug: talsi
-      - 
-        districts: []
-        location: "POINT (57.1499999999999986 22.5333299999999994)"
-        name: Stende
-        population: 1955
-        slug: stende
-      - 
-        districts: []
-        location: "POINT (57.0499999999999972 22.5833300000000001)"
-        name: Sabile
-        population: 1580
-        slug: sabile
-      - 
-        districts: []
-        location: "POINT (57.5000000000000000 22.8166699999999985)"
-        name: Roja
-        population: 1800
-        slug: roja
-      - 
-        districts: []
-        location: "POINT (57.3400000000000034 23.1213900000000017)"
-        name: Mērsrags
-        population: 1860
-        slug: mersrags
-    code: LV.28
-    name: "Talsu Rajons"
-    slug: talsu-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.0333299999999994 22.7666700000000013)"
-        name: Kandava
-        population: 3592
-        slug: kandava
-      - 
-        districts: []
-        location: "POINT (57.1630600000000015 23.2241700000000009)"
-        name: Engure
-        population: 1600
-        slug: engure
-    code: LV.29
-    name: "Tukuma Rajons"
-    slug: tukuma-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.7751999999999981 26.0101300000000002)"
-        name: Valka
-        population: 6589
-        slug: valka
-      - 
-        districts: []
-        location: "POINT (57.6257400000000004 25.6853499999999997)"
-        name: Strenči
-        population: 1593
-        slug: strenci
-      - 
-        districts: []
-        location: "POINT (57.4333299999999980 25.8999999999999986)"
-        name: Smiltene
-        population: 6108
-        slug: smiltene
-      - 
-        districts: []
-        location: "POINT (57.6499999999999986 25.7500000000000000)"
-        name: Seda
-        population: 1778
-        slug: seda
-    code: LV.30
-    name: "Valkas Rajons"
-    slug: valkas-rajons
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (57.5410800000000009 25.4275100000000016)"
+        alternate_names: 
+          - Valmeena
+          - Valmeera
+          - Valmera
+        ascii_name: Valmiera
         name: Valmiera
+        names_en: 
+          - Valmiera
+        names_es: ~
         population: 26963
-        slug: valmiera
       - 
-        districts: []
-        location: "POINT (57.8975200000000001 25.3315500000000000)"
+        alternate_names: 
+          - Aujiena
+          - RUIENA
+          - Ruiyena
+        ascii_name: Rujiena
         name: Rūjiena
+        names_en: 
+          - Rūjiena
+        names_es: ~
         population: 3638
-        slug: rujiena
       - 
-        districts: []
-        location: "POINT (57.8632899999999992 25.0547499999999985)"
+        alternate_names: 
+          - Mazsalaca
+          - Mazsalace
+          - Mazsalatsa
+        ascii_name: Mazsalaca
         name: Mazsalaca
+        names_en: ~
+        names_es: ~
         population: 1701
-        slug: mazsalaca
-    code: LV.31
     name: "Valmieras Rajons"
-    slug: valmieras-rajons
-tld: lv
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Valkas Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Valga
+          - Valk
+          - Valka
+        ascii_name: Valka
+        name: Valka
+        names_en: ~
+        names_es: ~
+        population: 6589
+      - 
+        alternate_names: 
+          - STRENCHI
+          - Stackeln
+          - Stakkeln
+        ascii_name: Strenci
+        name: Strenči
+        names_en: 
+          - Strenči
+        names_es: ~
+        population: 1593
+      - 
+        alternate_names: 
+          - Smilten
+          - Smiltene
+        ascii_name: Smiltene
+        name: Smiltene
+        names_en: ~
+        names_es: ~
+        population: 6108
+    name: "Valkas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tukuma Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Tukkum
+          - Tukum
+          - Tukumas
+        ascii_name: Tukums
+        name: Tukums
+        names_en: 
+          - Tukums
+        names_es: ~
+        population: 18348
+      - 
+        alternate_names: 
+          - Kandau
+          - Kandava
+          - Кандава
+        ascii_name: Kandava
+        name: Kandava
+        names_en: ~
+        names_es: ~
+        population: 3592
+      - 
+        alternate_names: 
+          - Anger
+          - Engurciems
+          - Engure
+        ascii_name: Engure
+        name: Engure
+        names_en: ~
+        names_es: ~
+        population: 1600
+    name: "Tukuma Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Talsu Rajons"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Valdemarpils
+        name: Valdemārpils
+        names_en: ~
+        names_es: ~
+        population: 1447
+      - 
+        alternate_names: 
+          - Talsai
+          - Talsen
+          - Talsi
+        ascii_name: Talsi
+        name: Talsi
+        names_en: 
+          - Talsi
+        names_es: ~
+        population: 12022
+      - 
+        alternate_names: 
+          - Stende
+          - Stendesciems
+          - Стенде
+        ascii_name: Stende
+        name: Stende
+        names_en: ~
+        names_es: ~
+        population: 1955
+      - 
+        alternate_names: 
+          - Sabile
+          - Zabeln
+          - Сабиле
+        ascii_name: Sabile
+        name: Sabile
+        names_en: ~
+        names_es: ~
+        population: 1580
+      - 
+        alternate_names: 
+          - Margraf
+          - Markgrafen
+          - Mererags
+        ascii_name: Mersrags
+        name: Mērsrags
+        names_en: ~
+        names_es: ~
+        population: 1860
+    name: "Talsu Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saldus Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Frauenburg
+          - Saldus
+          - Салдус
+        ascii_name: Saldus
+        name: Saldus
+        names_en: ~
+        names_es: ~
+        population: 12224
+    name: "Saldus Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rigas Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - VANGAZHI
+          - Vangazhi
+          - Vangazi
+        ascii_name: Vangazi
+        name: Vangaži
+        names_en: 
+          - Vangaži
+        names_es: ~
+        population: 4020
+      - 
+        alternate_names: 
+          - Neibade
+          - Neybade
+          - SAULKRASTI
+        ascii_name: Saulkrasti
+        name: Saulkrasti
+        names_en: 
+          - Saulkrasti
+        names_es: ~
+        population: 3184
+      - 
+        alternate_names: 
+          - Kirchholm
+          - Kirkholm
+          - Salaspilis
+        ascii_name: Salaspils
+        name: Salaspils
+        names_en: 
+          - Salaspils
+        names_es: ~
+        population: 17606
+      - 
+        alternate_names: 
+          - Kekava
+          - "Liel Kekava"
+          - "Liel Ķekava"
+        ascii_name: Kekava
+        name: Ķekava
+        names_en: 
+          - Ķekava
+        names_es: ~
+        population: 4600
+      - 
+        alternate_names: ~
+        ascii_name: Baldone
+        name: Baldone
+        names_en: ~
+        names_es: ~
+        population: 2025
+    name: "Rīgas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Riga
+    cities: 
+      - 
+        alternate_names: 
+          - RIGA
+          - Riga
+          - Rigae
+        ascii_name: Riga
+        name: Riga
+        names_en: 
+          - Riga
+        names_es: 
+          - Riga
+        population: 742572
+      - 
+        alternate_names: 
+          - Jaunciems
+          - Yauntsiyems
+          - Яунциемс
+        ascii_name: Jaunciems
+        name: Jaunciems
+        names_en: ~
+        names_es: ~
+        population: 2684
+    name: Rīga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rezeknes Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - VILJANY
+          - Veleny
+          - Vilani
+        ascii_name: Vilani
+        name: Viļāni
+        names_en: 
+          - Viļāni
+        names_es: ~
+        population: 3934
+      - 
+        alternate_names: 
+          - REZEKNE
+          - Rezekne
+          - Rezeknė
+        ascii_name: Rezekne
+        name: Rēzekne
+        names_en: 
+          - Rēzekne
+        names_es: 
+          - Rēzekne
+        population: 38340
+    name: "Rēzeknes Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Rezekne
+    cities: []
+    name: Rēzekne
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Preilu Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - PREJLI
+          - Preili
+          - Preiļi
+        ascii_name: Preili
+        name: Preiļi
+        names_en: 
+          - Preiļi
+        names_es: ~
+        population: 8656
+      - 
+        alternate_names: 
+          - LIVANY
+          - Livani
+          - Livany
+        ascii_name: Livani
+        name: Līvāni
+        names_en: 
+          - Līvāni
+        names_es: ~
+        population: 10073
+    name: "Preiļu Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ogres Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - OGRE
+          - Ogre
+          - Uogre
+        ascii_name: Ogre
+        name: Ogre
+        names_en: 
+          - Ogre
+        names_es: ~
+        population: 25818
+      - 
+        alternate_names: 
+          - LIELVARDE
+          - Lielvarde
+          - Lielvārde
+        ascii_name: Lielvarde
+        name: Lielvārde
+        names_en: 
+          - Lielvārde
+        names_es: ~
+        population: 5114
+      - 
+        alternate_names: 
+          - KEGUMS
+          - Keggum
+          - Keggums
+        ascii_name: Kegums
+        name: Ķegums
+        names_en: 
+          - Ķegums
+        names_es: ~
+        population: 2372
+      - 
+        alternate_names: 
+          - Jumprava
+          - Yumprava
+        ascii_name: Jumprava
+        name: Jumprava
+        names_en: ~
+        names_es: ~
+        population: 2177
+      - 
+        alternate_names: 
+          - IKSHKILE
+          - Ikshkile
+          - Ikshtile
+        ascii_name: Ikskile
+        name: Ikšķile
+        names_en: 
+          - Ikšķile
+        names_es: ~
+        population: 3368
+    name: "Ogres Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Madonas Rajons"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Madona
+        name: Madona
+        names_en: ~
+        names_es: ~
+        population: 9280
+    name: "Madonas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ludzas Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - ZILUPE
+          - Zilupe
+          - Zilupes
+        ascii_name: Zilupe
+        name: Zilupe
+        names_en: 
+          - Zilupe
+        names_es: ~
+        population: 1897
+      - 
+        alternate_names: 
+          - LUDZA
+          - Ljucyn
+          - Lountza
+        ascii_name: Ludza
+        name: Ludza
+        names_en: 
+          - Ludza
+        names_es: ~
+        population: 10514
+      - 
+        alternate_names: 
+          - KARSAVA
+          - Karsava
+          - Korsovka
+        ascii_name: Karsava
+        name: Kārsava
+        names_en: 
+          - Kārsava
+        names_es: ~
+        population: 2645
+    name: "Ludzas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Limbazu Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - LIMBAZHI
+          - Lemsal
+          - Lemzal
+        ascii_name: Limbazi
+        name: Limbaži
+        names_en: 
+          - Limbaži
+        names_es: ~
+        population: 8974
+    name: "Limbažu Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Liepajas Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Preekuln
+          - Prekule
+          - Prekuln
+        ascii_name: Priekule
+        name: Priekule
+        names_en: ~
+        names_es: ~
+        population: 2550
+      - 
+        alternate_names: 
+          - Akagals
+          - Paulshafen
+          - Pavilosta
+        ascii_name: Pavilosta
+        name: Pāvilosta
+        names_en: ~
+        names_es: ~
+        population: 1171
+    name: "Liepājas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Liepaja
+    cities: 
+      - 
+        alternate_names: 
+          - Leepaja
+          - Lepaya
+          - Libau
+        ascii_name: Liepaja
+        name: Liepāja
+        names_en: 
+          - Liepāja
+        names_es: 
+          - Liepāja
+        population: 85132
+      - 
+        alternate_names: 
+          - Gerobin
+          - Grobin
+          - Grobina
+        ascii_name: Grobina
+        name: Grobiņa
+        names_en: ~
+        names_es: ~
+        population: 4203
+    name: Liepāja
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kuldigas Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Goldingen
+          - Kuldiga
+          - Kuldigas
+        ascii_name: Kuldiga
+        name: Kuldīga
+        names_en: 
+          - Kuldīga
+        names_es: ~
+        population: 13289
+    name: "Kuldīgas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kraslavas Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - KRASLAVA
+          - Kraaslava
+          - Kraslava
+        ascii_name: Kraslava
+        name: Krāslava
+        names_en: 
+          - Krāslava
+        names_es: ~
+        population: 11088
+      - 
+        alternate_names: 
+          - DAGDA
+          - Dagda
+          - ДАГДА
+        ascii_name: Dagda
+        name: Dagda
+        names_en: 
+          - Dagda
+        names_es: ~
+        population: 2740
+    name: "Krāslavas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Jurmala
+    cities: []
+    name: Jūrmala
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Jelgavas Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Elgava
+          - Iyelgava
+          - Jelgava
+        ascii_name: Jelgava
+        name: Jelgava
+        names_en: 
+          - Jelgava
+        names_es: ~
+        population: 61791
+    name: "Jelgavas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Jelgava
+    cities: []
+    name: Jelgava
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Jekabpils Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Eckengrafen
+          - VIESITE
+          - Vesite
+        ascii_name: Viesite
+        name: Viesīte
+        names_en: 
+          - Viesīte
+        names_es: ~
+        population: 2162
+      - 
+        alternate_names: 
+          - EKABPILS
+          - Jakobstadt
+          - Jekabpilis
+        ascii_name: Jekabpils
+        name: Jēkabpils
+        names_en: 
+          - Jēkabpils
+        names_es: ~
+        population: 27078
+      - 
+        alternate_names: 
+          - AKNISTE
+          - Akniste
+          - Aknīste
+        ascii_name: Akniste
+        name: Aknīste
+        names_en: 
+          - Aknīste
+        names_es: ~
+        population: 1314
+    name: "Jēkabpils Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gulbenes Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Alt-Schwaneburg
+          - GULBENE
+          - Gulbene
+        ascii_name: Gulbene
+        name: Gulbene
+        names_en: 
+          - Gulbene
+        names_es: ~
+        population: 9355
+    name: "Gulbenes Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dobeles Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - Dobele
+          - Doblen
+          - Duobele
+        ascii_name: Dobele
+        name: Dobele
+        names_en: 
+          - Dobele
+        names_es: ~
+        population: 11225
+      - 
+        alternate_names: 
+          - Auce
+          - Aucė
+          - Autse
+        ascii_name: Auce
+        name: Auce
+        names_en: 
+          - Auce
+        names_es: ~
+        population: 3125
+    name: "Dobeles Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Daugavpils Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - ILUKSTE
+          - Ilukste
+          - Ilūkste
+        ascii_name: Ilukste
+        name: Ilūkste
+        names_en: 
+          - Ilūkste
+        names_es: ~
+        population: 2898
+      - 
+        alternate_names: 
+          - DAUGAVPILS
+          - Daugaupils
+          - Daugavpils
+        ascii_name: Daugavpils
+        name: Daugavpils
+        names_en: 
+          - Daugavpils
+        names_es: 
+          - Daugavpils
+        population: 111564
+    name: "Daugavpils Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Daugavpils
+    cities: []
+    name: Daugavpils
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Cesu Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - LIGATNE
+          - Ligat
+          - Ligatne
+        ascii_name: Ligatne
+        name: Līgatne
+        names_en: 
+          - Līgatne
+        names_es: ~
+        population: 1433
+      - 
+        alternate_names: 
+          - CESIS
+          - Cesis
+          - Cesys
+        ascii_name: Cesis
+        name: Cēsis
+        names_en: 
+          - Cēsis
+        names_es: ~
+        population: 18198
+    name: "Cēsu Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bauskas Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - BAUSKA
+          - Bauska
+          - Bauske
+        ascii_name: Bauska
+        name: Bauska
+        names_en: 
+          - Bauska
+        names_es: ~
+        population: 10532
+    name: "Bauskas Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Balvu Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - BALVI
+          - Balvi
+          - Balvy
+        ascii_name: Balvi
+        name: Balvi
+        names_en: 
+          - Balvi
+        names_es: ~
+        population: 8409
+    name: "Balvu Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Aluksnes Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - APE
+          - Ape
+          - Ope
+        ascii_name: Ape
+        name: Ape
+        names_en: 
+          - Ape
+        names_es: ~
+        population: 1521
+      - 
+        alternate_names: 
+          - Alksne
+          - Alouksne
+          - Aluksne
+        ascii_name: Aluksne
+        name: Alūksne
+        names_en: 
+          - Alūksne
+        names_es: ~
+        population: 2264
+    name: "Alūksnes Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Aizkraukles Rajons"
+    cities: 
+      - 
+        alternate_names: 
+          - PLJAVINJAS
+          - Plavinas
+          - Plavinyas
+        ascii_name: Plavinas
+        name: Pļaviņas
+        names_en: 
+          - Pļaviņas
+        names_es: ~
+        population: 3848
+      - 
+        alternate_names: 
+          - Aizkraukle
+          - "Aizkraukles Muiza"
+          - "Aizkraukles Muiža"
+        ascii_name: Aizkraukle
+        name: Aizkraukle
+        names_en: ~
+        names_es: ~
+        population: 8840
+    name: "Aizkraukles Rajons"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dundagas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Dundaga
+          - Dundagas
+        ascii_name: Dundaga
+        name: Dundaga
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Dundagas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Alsungas Novads"
+    cities: []
+    name: "Alsungas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Pavilostas Novads"
+    cities: []
+    name: "Pāvilostas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nicas Novads"
+    cities: []
+    name: "Nīcas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rucavas Novads"
+    cities: []
+    name: "Rucavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Grobinas Novads"
+    cities: []
+    name: "Grobiņas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Durbes Novads"
+    cities: []
+    name: "Durbes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Aizputes Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Aispute
+          - Aizpute
+          - Aizputė
+        ascii_name: Aizpute
+        name: Aizpute
+        names_en: 
+          - Aizpute
+        names_es: ~
+        population: 5634
+    name: "Aizputes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Priekules Novads"
+    cities: []
+    name: "Priekules Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Vainodes Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Vain'ody
+          - Vainode
+          - Vainodes
+        ascii_name: Vainode
+        name: Vaiņode
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Vaiņodes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Skrundas Novads"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Skrunda
+        name: Skrunda
+        names_en: ~
+        names_es: ~
+        population: 2659
+    name: "Skrundas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Brocenu Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Broceni
+          - "Brocenu Muiza"
+          - Brocēni
+        ascii_name: Broceni
+        name: Brocēni
+        names_en: ~
+        names_es: ~
+        population: 3486
+    name: "Brocēnu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rojas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Roja
+          - Roya
+          - Роя
+        ascii_name: Roja
+        name: Roja
+        names_en: 
+          - Roya
+        names_es: ~
+        population: 1800
+    name: "Rojas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kandavas Novads"
+    cities: []
+    name: "Kandavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Auces Novads"
+    cities: []
+    name: "Auces Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Jaunpils Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Jaunpils
+          - "Jaunpils Muiza"
+          - "Jaunpils Muiža"
+        ascii_name: Jaunpils
+        name: Jaunpils
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Jaunpils Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Engures Novads"
+    cities: []
+    name: "Engures Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tervetes Novads"
+    cities: []
+    name: "Tērvetes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ozolnieku Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Ozolnieki
+          - Ozolniyeki
+        ascii_name: Ozolnieki
+        name: Ozolnieki
+        names_en: ~
+        names_es: ~
+        population: 3400
+    name: "Ozolnieku Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rundales Novads"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Pilsrundale
+        name: Pilsrundāle
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Rundāles Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Babites Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - "Myza Pintu"
+          - Pin'ti
+          - Pinki
+        ascii_name: Pinki
+        name: Piņķi
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Babītes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Marupes Novads"
+    cities: []
+    name: "Mārupes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Olaines Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Olaine
+          - Olayne
+        ascii_name: Olaine
+        name: Olaine
+        names_en: ~
+        names_es: ~
+        population: 12584
+    name: "Olaines Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Iecavas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Eckau
+          - IECAVA
+          - Iecava
+        ascii_name: Iecava
+        name: Iecava
+        names_en: 
+          - Iecava
+        names_es: ~
+        population: 4000
+    name: "Iecavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kekavas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - BALOZHI
+          - Balozhi
+          - Balozi
+        ascii_name: Balozi
+        name: Baloži
+        names_en: 
+          - Baloži
+        names_es: ~
+        population: 3854
+    name: "Ķekavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Salaspils Novads"
+    cities: []
+    name: "Salaspils Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baldones Novads"
+    cities: []
+    name: "Baldones Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Stopinu Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Sarkanmuiza
+          - Sarkanmuiža
+          - Ulbroka
+        ascii_name: Ulbroka
+        name: Ulbroka
+        names_en: ~
+        names_es: ~
+        population: 2800
+    name: "Stopiņu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Carnikavas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Carnikava
+          - "Carnikavas Muiza"
+          - "Carnikavas Muiža"
+        ascii_name: Carnikava
+        name: Carnikava
+        names_en: 
+          - Carnikava
+        names_es: ~
+        population: 0
+    name: "Carnikavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Adazu Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Adazhi
+          - Adazi
+          - Ādaži
+        ascii_name: Adazi
+        name: Ādaži
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Ādažu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Garkalnes Novads"
+    cities: []
+    name: "Garkalnes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Vecumnieku Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Vecmuiza
+          - Vecmuiža
+          - Vecumnieki
+        ascii_name: Vecumnieki
+        name: Vecumnieki
+        names_en: 
+          - Vecumnieki
+        names_es: ~
+        population: 4500
+    name: "Vecumnieku Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Keguma Novads"
+    cities: []
+    name: "Ķeguma Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lielvardes Novads"
+    cities: []
+    name: "Lielvārdes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Skriveru Novads"
+    cities: []
+    name: "Skrīveru Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Jaunjelgavas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Friedrichstadt
+          - JAUNELGAVA
+          - Jaunjelgava
+        ascii_name: Jaunjelgava
+        name: Jaunjelgava
+        names_en: 
+          - Jaunjelgava
+        names_es: ~
+        population: 1938
+    name: "Jaunjelgavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Neretas Novads"
+    cities: []
+    name: "Neretas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Viesites Novads"
+    cities: []
+    name: "Viesītes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Salas Novads"
+    cities: []
+    name: "Salas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Jekabpils
+    cities: []
+    name: Jēkabpils
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Aknistes Novads"
+    cities: []
+    name: "Aknīstes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ilukstes Novads"
+    cities: []
+    name: "Ilūkstes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Varkavas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Varkava
+          - "Varkava II"
+          - Vecvarkava
+        ascii_name: Vecvarkava
+        name: Vecvārkava
+        names_en: 
+          - Vecvārkava
+        names_es: ~
+        population: 0
+    name: "Vārkavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Livanu Novads"
+    cities: []
+    name: "Līvānu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Varaklanu Novads"
+    cities: []
+    name: "Varakļānu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Vilanu Novads"
+    cities: []
+    name: "Viļānu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Riebinu Novads"
+    cities: []
+    name: "Riebiņu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Aglonas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Aglona
+          - "Aglonas Muiza"
+          - "Aglonas Muiža"
+        ascii_name: Aglona
+        name: Aglona
+        names_en: 
+          - Aglona
+        names_es: ~
+        population: 0
+    name: "Aglonas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ciblas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Cibla
+          - Eversmuiza
+          - Eversmuiža
+        ascii_name: Cibla
+        name: Cibla
+        names_en: 
+          - Eversmuiža
+        names_es: ~
+        population: 0
+    name: "Ciblas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Zilupes Novads"
+    cities: []
+    name: "Zilupes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Vilakas Novads"
+    cities: []
+    name: "Viļakas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baltinavas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Baltinava
+          - Baltinova
+          - Балтинава
+        ascii_name: Baltinava
+        name: Baltinava
+        names_en: 
+          - Baltinava
+        names_es: ~
+        population: 0
+    name: "Baltinavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dagdas Novads"
+    cities: []
+    name: "Dagdas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Karsavas Novads"
+    cities: []
+    name: "Kārsavas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rugaju Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Rugai
+          - Rugaji
+          - Rugaju
+        ascii_name: Rugaji
+        name: Rugāji
+        names_en: 
+          - Rugāji
+        names_es: ~
+        population: 0
+    name: "Rugāju Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Cesvaines Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - CESVAJNE
+          - Cesvaine
+          - "Cesvaines Muiza"
+        ascii_name: Cesvaine
+        name: Cesvaine
+        names_en: 
+          - Cesvaine
+        names_es: ~
+        population: 1811
+    name: "Cesvaines Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lubanas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - LUBANA
+          - Lubana
+          - Lubāna
+        ascii_name: Lubana
+        name: Lubāna
+        names_en: 
+          - Lubāna
+        names_es: ~
+        population: 1918
+    name: "Lubānas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Krustpils Novads"
+    cities: []
+    name: "Krustpils Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Plavinu Novads"
+    cities: []
+    name: "Pļaviņu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kokneses Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - KOKNESE
+          - Koaknese
+          - Kokenhusen
+        ascii_name: Koknese
+        name: Koknese
+        names_en: 
+          - Koknese
+        names_es: ~
+        population: 0
+    name: "Kokneses Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ikskiles Novads"
+    cities: []
+    name: "Ikšķiles Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ropazu Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - "Myza Ropazhi"
+          - "Myza Ropazhu"
+          - Ropazhi
+        ascii_name: Ropazi
+        name: Ropaži
+        names_en: 
+          - Ropaži
+        names_es: ~
+        population: 0
+    name: "Ropažu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Incukalna Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Inchukaln
+          - Inchukalns
+          - Incukalns
+        ascii_name: Incukalns
+        name: Inčukalns
+        names_en: 
+          - Inčukalns
+        names_es: ~
+        population: 0
+    name: "Inčukalna Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Krimuldas Novads"
+    cities: []
+    name: "Krimuldas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Siguldas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - SIGULDA
+          - Segewold
+          - Sigulda
+        ascii_name: Sigulda
+        name: Sigulda
+        names_en: 
+          - Sigulda
+        names_es: ~
+        population: 10422
+    name: "Siguldas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ligatnes Novads"
+    cities: []
+    name: "Līgatnes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Malpils Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Malpils
+          - "Malpils Muiza"
+          - "Malpils Muiža"
+        ascii_name: Malpils
+        name: Mālpils
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Mālpils Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sejas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Loja
+          - Loya
+        ascii_name: Loja
+        name: Loja
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Sējas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saulkrastu Novads"
+    cities: []
+    name: "Saulkrastu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Salacgrivas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - SALACGRIVA
+          - Salacgriva
+          - Salacgrīva
+        ascii_name: Salacgriva
+        name: Salacgrīva
+        names_en: 
+          - Salacgrīva
+        names_es: ~
+        population: 3427
+      - 
+        alternate_names: 
+          - AJNAZHI
+          - Ainazi
+          - Ainaži
+        ascii_name: Ainazi
+        name: Ainaži
+        names_en: 
+          - Ainaži
+        names_es: ~
+        population: 1278
+    name: "Salacgrīvas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Alojas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - STAJCELE
+          - Staicele
+          - Staytsele
+        ascii_name: Staicele
+        name: Staicele
+        names_en: 
+          - Staicele
+        names_es: ~
+        population: 1175
+      - 
+        alternate_names: 
+          - ALOJA
+          - Aloja
+          - "Alojas Muiza"
+        ascii_name: Aloja
+        name: Aloja
+        names_en: 
+          - Aloja
+        names_es: ~
+        population: 1509
+    name: "Alojas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nauksenu Novads"
+    cities: []
+    name: "Naukšēnu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rujienas Novads"
+    cities: []
+    name: "Rūjienas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mazsalacas Novads"
+    cities: []
+    name: "Mazsalacas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Burtnieku Novads"
+    cities: []
+    name: "Burtnieku Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Pargaujas Novads"
+    cities: []
+    name: "Pārgaujas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kocenu Novads"
+    cities: []
+    name: "Kocēnu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Amatas Novads"
+    cities: []
+    name: "Amatas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Priekulu Novads"
+    cities: []
+    name: "Priekuļu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Raunas Novads"
+    cities: []
+    name: "Raunas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Strencu Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - SEDA
+          - Salanietis
+          - Salanyetys
+        ascii_name: Seda
+        name: Seda
+        names_en: 
+          - Seda
+        names_es: ~
+        population: 1778
+    name: "Strenču Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Beverinas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - Murmuiza
+          - Murmuiža
+          - Murmujzha
+        ascii_name: Murmuiza
+        name: Murmuiža
+        names_en: 
+          - Murmuiža
+        names_es: ~
+        population: 0
+    name: "Beverīnas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Smiltenes Novads"
+    cities: []
+    name: "Smiltenes Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Jaunpiebalgas Novads"
+    cities: 
+      - 
+        alternate_names: 
+          - "Jaun Piebalga Muizas Centrs"
+          - "Jaun Piebalga Muižas Centrs"
+          - Jaunpiebalga
+        ascii_name: Jaunpiebalga
+        name: Jaunpiebalga
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Jaunpiebalgas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Erglu Novads"
+    cities: []
+    name: "Ērgļu Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Vecpiebalgas Novads"
+    cities: []
+    name: "Vecpiebalgas Novads"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Apes Novads"
+    cities: []
+    name: "Apes Novads"
+    names_en: ~
+    names_es: ~

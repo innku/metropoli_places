@@ -1,81 +1,131 @@
 --- 
-code: BH
-continent: AS
 name: Bahrain
-population: 738004
+names_en: 
+  - Bahrain
+  - "Kingdom of Bahrain"
+names_es: 
+  - Bahréin
 regions: 
   - 
+    ascii_name: Muharraq
     cities: 
       - 
-        districts: []
-        location: "POINT (26.2572200000000002 50.6119399999999970)"
+        alternate_names: 
+          - "Al Muharrak"
+          - "Al Muharraq"
+          - "Al Muḩarraq"
+        ascii_name: "Al Muharraq"
         name: "Al Muḩarraq"
+        names_en: 
+          - "Al Muharraq"
+        names_es: ~
         population: 97458
-        slug: al-muharraq
       - 
-        districts: []
-        location: "POINT (26.2455600000000011 50.6541700000000006)"
+        alternate_names: 
+          - "Al Hadd"
+          - "Al Hidd"
+          - "Al Ḩadd"
+        ascii_name: "Al Hadd"
         name: "Al Ḩadd"
+        names_en: ~
+        names_es: ~
         population: 12797
-        slug: al-hadd
-    code: BH.15
     name: Muharraq
-    slug: muharraq
+    names_en: 
+      - Muharraq
+    names_es: ~
   - 
+    ascii_name: "Capital Governorate"
     cities: 
       - 
-        districts: []
-        location: "POINT (26.2186100000000017 50.5477800000000030)"
+        alternate_names: 
+          - "Djidd Hafs"
+          - "Djidd Ḥafṣ"
+          - "Jadd Hafs"
+        ascii_name: "Jidd Hafs"
         name: "Jidd Ḩafş"
+        names_en: ~
+        names_es: ~
         population: 31735
-        slug: jidd-hafs
       - 
-        districts: []
-        location: "POINT (26.2153600000000004 50.5831999999999979)"
+        alternate_names: 
+          - "Al Manama"
+          - "Al Manamah"
+          - "Al Manāma"
+        ascii_name: Manama
         name: Manama
+        names_en: 
+          - Manama
+        names_es: 
+          - Manama
         population: 147074
-        slug: manama
-    code: BH.16
     name: "Capital Governorate"
-    slug: capital-governorate
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Southern Governorate"
+    cities: []
+    name: "Southern Governorate"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Central Governorate"
     cities: 
       - 
-        districts: []
-        location: "POINT (26.1547200000000011 50.6205599999999976)"
+        alternate_names: 
+          - Sitra
+          - Sitrah
+          - Ситра
+        ascii_name: Sitrah
         name: Sitrah
+        names_en: ~
+        names_es: ~
         population: 37657
-        slug: sitrah
       - 
-        districts: []
-        location: "POINT (26.1736100000000000 50.5477800000000030)"
+        alternate_names: 
+          - Isa
+          - "Isa Town"
+          - "Madinat `Isa"
+        ascii_name: "Madinat `Isa"
         name: "Madīnat ‘Īsá"
+        names_en: ~
+        names_es: ~
         population: 38090
-        slug: madinat-isa
       - 
-        districts: []
-        location: "POINT (26.1299999999999990 50.5549999999999997)"
+        alternate_names: 
+          - "Ar Rifa"
+          - اَلرِّفَاع
+        ascii_name: "Ar Rifa'"
         name: "Ar Rifā‘"
-        population: 79985
-        slug: ar-rifa
-    code: BH.18
+        names_en: ~
+        names_es: ~
+        population: 79550
     name: "Central Governorate"
-    slug: central-governorate
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Northern Governorate"
     cities: 
       - 
-        districts: []
-        location: "POINT (26.1152799999999985 50.5069400000000002)"
+        alternate_names: 
+          - "Hamad Town"
+          - "Madinat Hamad"
+          - "Madīnat Ḩamad"
+        ascii_name: "Madinat Hamad"
         name: "Madīnat Ḩamad"
+        names_en: ~
+        names_es: ~
         population: 52718
-        slug: madinat-hamad
       - 
-        districts: []
-        location: "POINT (26.0686099999999996 50.5038899999999984)"
+        alternate_names: 
+          - "Dar Chulaib"
+          - "Dar Kulaib"
+          - "Dar Kulayb"
+        ascii_name: "Dar Kulayb"
         name: "Dār Kulayb"
+        names_en: ~
+        names_es: ~
         population: 65466
-        slug: dar-kulayb
-    code: BH.19
     name: "Northern Governorate"
-    slug: northern-governorate
-tld: bh
+    names_en: ~
+    names_es: ~

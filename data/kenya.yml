@@ -1,654 +1,944 @@
 --- 
-code: KE
-continent: AF
 name: Kenya
-population: 40046566
+names_en: 
+  - Kenya
+names_es: 
+  - Kenia
 regions: 
   - 
+    ascii_name: "Nyanza Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (-1.0332600000000001 37.0693300000000008)"
-        name: Thika
-        population: 99322
-        slug: thika
-      - 
-        districts: []
-        location: "POINT (-0.6666700000000000 37.2000000000000028)"
-        name: Sagana
-        population: 3297
-        slug: sagana
-      - 
-        districts: []
-        location: "POINT (-0.5666700000000000 36.9500000000000028)"
-        name: Othaya
-        population: 4468
-        slug: othaya
-      - 
-        districts: []
-        location: "POINT (-0.4166700000000000 36.9500000000000028)"
-        name: Nyeri
-        population: 51084
-        slug: nyeri
-      - 
-        districts: []
-        location: "POINT (0.0333300000000000 36.3666699999999992)"
-        name: Nyahururu
-        population: 31978
-        slug: nyahururu
-      - 
-        districts: []
-        location: "POINT (-0.7166700000000000 37.1499999999999986)"
-        name: Murang’a
-        population: 11987
-        slug: muranga
-      - 
-        districts: []
-        location: "POINT (-0.7833300000000000 37.1333300000000008)"
-        name: Maragua
-        population: 4661
-        slug: maragua
-      - 
-        districts: []
-        location: "POINT (-1.1000000000000001 36.6499999999999986)"
-        name: Limuru
-        population: 6317
-        slug: limuru
-      - 
-        districts: []
-        location: "POINT (-1.2500000000000000 36.6666700000000034)"
-        name: Kikuyu
-        population: 3953
-        slug: kikuyu
-      - 
-        districts: []
-        location: "POINT (-0.9333300000000000 36.5666700000000020)"
-        name: Kijabe
-        population: 4679
-        slug: kijabe
-      - 
-        districts: []
-        location: "POINT (-1.1666700000000001 36.8333299999999966)"
-        name: Kiambu
-        population: 21234
-        slug: kiambu
-      - 
-        districts: []
-        location: "POINT (-0.5000000000000000 37.2833299999999994)"
-        name: Keruguya
-        population: 15287
-        slug: keruguya
-      - 
-        districts: []
-        location: "POINT (-0.7000000000000000 37.1833299999999980)"
-        name: Karuri
-        population: 21476
-        slug: karuri
-      - 
-        districts: []
-        location: "POINT (-1.2833300000000001 36.8166700000000020)"
-        name: Nairobi
-        population: 2750547
-        slug: nairobi
-      - 
-        districts: []
-        location: "POINT (-0.6833300000000000 36.9666700000000006)"
-        name: Kangema
-        population: 4319
-        slug: kangema
-    code: KE.01
-    name: Central
-    slug: central
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-3.6333299999999999 39.8500000000000014)"
-        name: Kilifi
-        population: 46118
-        slug: kilifi
-      - 
-        districts: []
-        location: "POINT (-3.3999999999999999 38.3666699999999992)"
-        name: Wundanyi
-        population: 12501
-        slug: wundanyi
-      - 
-        districts: []
-        location: "POINT (-2.3905599999999998 40.4530600000000007)"
-        name: Witu
-        population: 5380
-        slug: witu
-      - 
-        districts: []
-        location: "POINT (-3.3833299999999999 38.5666700000000020)"
-        name: Voi
-        population: 19624
-        slug: voi
-      - 
-        districts: []
-        location: "POINT (-3.3999999999999999 37.6833299999999980)"
-        name: Taveta
-        population: 13377
-        slug: taveta
-      - 
-        districts: []
-        location: "POINT (-3.6833300000000002 39.8500000000000014)"
-        name: Takaungu
-        population: 10760
-        slug: takaungu
-      - 
-        districts: []
-        location: "POINT (-4.6500000000000004 39.3833300000000008)"
-        name: Shimoni
-        population: 2374
-        slug: shimoni
-      - 
-        districts: []
-        location: "POINT (-4.4666699999999997 39.4833300000000023)"
-        name: Sawasawa
-        population: 12975
-        slug: sawasawa
-      - 
-        districts: []
-        location: "POINT (-4.0499999999999998 39.6666700000000034)"
-        name: Mombasa
-        population: 799668
-        slug: mombasa
-      - 
-        districts: []
-        location: "POINT (-3.8666700000000001 39.4666700000000006)"
-        name: Mariakani
-        population: 12786
-        slug: mariakani
-      - 
-        districts: []
-        location: "POINT (-3.2166700000000001 40.1166699999999992)"
-        name: Malindi
-        population: 68304
-        slug: malindi
-      - 
-        districts: []
-        location: "POINT (-2.2783300000000000 40.9033299999999969)"
-        name: Lamu
-        population: 24525
-        slug: lamu
-      - 
-        districts: []
-        location: "POINT (-4.1833299999999998 39.4500000000000028)"
-        name: Kwale
-        population: 4883
-        slug: kwale
-      - 
-        districts: []
-        location: "POINT (-2.5252599999999998 40.5293700000000001)"
-        name: Kipini
-        population: 4114
-        slug: kipini
-      - 
-        districts: []
-        location: "POINT (-4.1333299999999999 39.3166700000000020)"
-        name: Kinango
-        population: 8070
-        slug: kinango
-      - 
-        districts: []
-        location: "POINT (-4.4166699999999999 39.5000000000000000)"
-        name: Gazi
-        population: 5222
-        slug: gazi
-    code: KE.02
-    name: Coast
-    slug: coast
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-1.7833300000000001 37.6333300000000008)"
-        name: Wote
-        population: 6133
-        slug: wote
-      - 
-        districts: []
-        location: "POINT (-0.9333300000000000 38.0666700000000020)"
-        name: Mwingi
-        population: 11219
-        slug: mwingi
-      - 
-        districts: []
-        location: "POINT (-2.6833300000000002 38.1666700000000034)"
-        name: "Mtito Andei"
-        population: 4763
-        slug: mtito-andei
-      - 
-        districts: []
-        location: "POINT (3.5167000000000002 39.0584199999999981)"
-        name: Moyale
-        population: 16243
-        slug: moyale
-      - 
-        districts: []
-        location: "POINT (0.0500000000000000 37.6499999999999986)"
-        name: Meru
-        population: 47226
-        slug: meru
-      - 
-        districts: []
-        location: "POINT (0.2333300000000000 37.9333299999999980)"
-        name: Maua
-        population: 10804
-        slug: maua
-      - 
-        districts: []
-        location: "POINT (2.3283900000000002 37.9898600000000002)"
-        name: Marsabit
-        population: 15361
-        slug: marsabit
-      - 
-        districts: []
-        location: "POINT (-1.8000000000000000 37.6166699999999992)"
-        name: Makueni
-        population: 20681
-        slug: makueni
-      - 
-        districts: []
-        location: "POINT (-1.5166700000000000 37.2666699999999977)"
-        name: Machakos
-        population: 31971
-        slug: machakos
-      - 
-        districts: []
-        location: "POINT (-1.3666700000000001 38.0166699999999977)"
-        name: Kitui
-        population: 15954
-        slug: kitui
-      - 
-        districts: []
-        location: "POINT (-1.3000000000000000 37.3500000000000014)"
-        name: Kangundo
-        population: 10094
-        slug: kangundo
-      - 
-        districts: []
-        location: "POINT (0.3500000000000000 37.5833299999999966)"
-        name: Isiolo
-        population: 33207
-        slug: isiolo
-      - 
-        districts: []
-        location: "POINT (-0.5333300000000000 37.4500000000000028)"
-        name: Embu
-        population: 34922
-        slug: embu
-      - 
-        districts: []
-        location: "POINT (-0.3333300000000000 37.6499999999999986)"
-        name: Chuka
-        population: 9347
-        slug: chuka
-      - 
-        districts: []
-        location: "POINT (-1.4500000000000000 36.9833300000000023)"
-        name: "Athi River"
-        population: 24530
-        slug: athi-river
-    code: KE.03
-    name: Eastern
-    slug: eastern
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.4535500000000000 39.6401100000000000)"
-        name: Garissa
-        population: 67861
-        slug: garissa
-      - 
-        districts: []
-        location: "POINT (1.7471000000000001 40.0573199999999972)"
-        name: Wajir
-        population: 45771
-        slug: wajir
-      - 
-        districts: []
-        location: "POINT (3.9366300000000001 41.8670100000000005)"
-        name: Mandera
-        population: 36076
-        slug: mandera
-    code: KE.06
-    name: North-Eastern
-    slug: north-eastern
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.5000000000000000 34.7166700000000006)"
+        alternate_names: 
+          - Oyugis
+        ascii_name: Oyugis
         name: Oyugis
+        names_en: ~
+        names_es: ~
         population: 10116
-        slug: oyugis
       - 
-        districts: []
-        location: "POINT (-0.8000000000000000 34.7166700000000006)"
+        alternate_names: ~
+        ascii_name: Ogembo
         name: Ogembo
+        names_en: ~
+        names_es: ~
         population: 1842
-        slug: ogembo
       - 
-        districts: []
-        location: "POINT (-0.1500000000000000 35.2000000000000028)"
+        alternate_names: 
+          - Muhoroni
+        ascii_name: Muhoroni
         name: Muhoroni
+        names_en: ~
+        names_es: ~
         population: 15217
-        slug: muhoroni
       - 
-        districts: []
-        location: "POINT (-1.0666700000000000 34.4666700000000006)"
+        alternate_names: 
+          - Migori
+        ascii_name: Migori
         name: Migori
+        names_en: ~
+        names_es: ~
         population: 35240
-        slug: migori
       - 
-        districts: []
-        location: "POINT (-0.1000000000000000 34.7500000000000000)"
+        alternate_names: 
+          - Kisumo
+          - Kisumu
+          - "Lady Whitehouse"
+        ascii_name: Kisumu
         name: Kisumu
+        names_en: 
+          - Kisumu
+        names_es: ~
         population: 216479
-        slug: kisumu
       - 
-        districts: []
-        location: "POINT (-0.6833300000000000 34.7666699999999977)"
+        alternate_names: 
+          - Kisii
+        ascii_name: Kisii
         name: Kisii
+        names_en: ~
+        names_es: ~
         population: 28547
-        slug: kisii
       - 
-        districts: []
-        location: "POINT (-1.1833300000000000 34.6166699999999992)"
+        alternate_names: 
+          - Kihancha
+          - Kinancha
+        ascii_name: Kinancha
         name: Kinancha
+        names_en: ~
+        names_es: ~
         population: 13162
-        slug: kinancha
       - 
-        districts: []
-        location: "POINT (-0.7833300000000000 34.9500000000000028)"
+        alternate_names: ~
+        ascii_name: Keroka
         name: Keroka
+        names_en: ~
+        names_es: ~
         population: 4143
-        slug: keroka
       - 
-        districts: []
-        location: "POINT (-0.5166700000000000 34.4500000000000028)"
+        alternate_names: 
+          - Homa
+          - "Homa Bay"
+        ascii_name: "Homa Bay"
         name: "Homa Bay"
+        names_en: ~
+        names_es: ~
         population: 40319
-        slug: homa-bay
       - 
-        districts: []
-        location: "POINT (0.2386100000000000 34.2694400000000030)"
+        alternate_names: 
+          - Bondo
+        ascii_name: Bondo
         name: Bondo
+        names_en: ~
+        names_es: ~
         population: 8683
-        slug: bondo
       - 
-        districts: []
-        location: "POINT (-0.1833300000000000 34.9166700000000034)"
+        alternate_names: 
+          - Ahero
+        ascii_name: Ahero
         name: Ahero
+        names_en: ~
+        names_es: ~
         population: 8788
-        slug: ahero
       - 
-        districts: []
-        location: "POINT (0.0600000000000000 34.2861100000000008)"
+        alternate_names: 
+          - Siaya
+        ascii_name: Siaya
         name: Siaya
+        names_en: ~
+        names_es: ~
         population: 15354
-        slug: siaya
-    code: KE.07
     name: Nyanza
-    slug: nyanza
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Nairobi Area"
     cities: 
       - 
-        districts: []
-        location: "POINT (-0.2833300000000000 36.0666700000000020)"
-        name: Nakuru
-        population: 259903
-        slug: nakuru
-      - 
-        districts: []
-        location: "POINT (0.2000000000000000 35.1000000000000014)"
-        name: Kapsabet
-        population: 3758
-        slug: kapsabet
-      - 
-        districts: []
-        location: "POINT (-0.6833300000000000 35.1166699999999992)"
-        name: Sotik
-        population: 2600
-        slug: sotik
-      - 
-        districts: []
-        location: "POINT (0.2666700000000000 36.5333299999999994)"
-        name: Rumuruti
-        population: 4501
-        slug: rumuruti
-      - 
-        districts: []
-        location: "POINT (-0.1666700000000000 35.8500000000000014)"
-        name: Rongai
-        population: 30471
-        slug: rongai
-      - 
-        districts: []
-        location: "POINT (-1.3666700000000001 36.6499999999999986)"
-        name: Ngong
-        population: 9519
-        slug: ngong
-      - 
-        districts: []
-        location: "POINT (-0.1666700000000000 37.0166699999999977)"
-        name: "Naro Moru"
-        population: 9018
-        slug: naro-moru
-      - 
-        districts: []
-        location: "POINT (-1.0833299999999999 35.8666699999999992)"
-        name: Narok
-        population: 36061
-        slug: narok
-      - 
-        districts: []
-        location: "POINT (0.0166700000000000 37.0666700000000020)"
-        name: Nanyuki
-        population: 36142
-        slug: nanyuki
-      - 
-        districts: []
-        location: "POINT (0.1166700000000000 35.1833299999999980)"
-        name: "Nandi Hills"
-        population: 4257
-        slug: nandi-hills
-      - 
-        districts: []
-        location: "POINT (-2.5499999999999998 36.7833299999999994)"
-        name: Namanga
-        population: 13193
-        slug: namanga
-      - 
-        districts: []
-        location: "POINT (-0.7166700000000000 36.4333299999999980)"
-        name: Naivasha
-        population: 38366
-        slug: naivasha
-      - 
-        districts: []
-        location: "POINT (-0.2500000000000000 35.7333300000000023)"
-        name: Molo
-        population: 27896
-        slug: molo
-      - 
-        districts: []
-        location: "POINT (1.1000000000000001 36.7000000000000028)"
-        name: Maralal
-        population: 20841
-        slug: maralal
-      - 
-        districts: []
-        location: "POINT (-1.8999999999999999 36.2833299999999994)"
-        name: Magadi
-        population: 14529
-        slug: magadi
-      - 
-        districts: []
-        location: "POINT (-0.2000000000000000 35.4666700000000006)"
-        name: Lumbwa
-        population: 2952
-        slug: lumbwa
-      - 
-        districts: []
-        location: "POINT (-0.1666700000000000 35.6000000000000014)"
-        name: Londiani
-        population: 4758
-        slug: londiani
-      - 
-        districts: []
-        location: "POINT (3.1166700000000001 35.6000000000000014)"
-        name: Lodwar
-        population: 20219
-        slug: lodwar
-      - 
-        districts: []
-        location: "POINT (-0.5833300000000000 35.1833299999999980)"
-        name: Litein
-        population: 3129
-        slug: litein
-      - 
-        districts: []
-        location: "POINT (-1.7500000000000000 37.1166699999999992)"
-        name: Konza
-        population: 2004
-        slug: konza
-      - 
-        districts: []
-        location: "POINT (1.0166700000000000 35.0000000000000000)"
-        name: Kitale
-        population: 75123
-        slug: kitale
-      - 
-        districts: []
-        location: "POINT (-0.3666700000000000 35.2833299999999994)"
-        name: Kericho
-        population: 35748
-        slug: kericho
-      - 
-        districts: []
-        location: "POINT (-1.8500000000000001 36.7833299999999994)"
-        name: Kajiado
-        population: 11198
-        slug: kajiado
-      - 
-        districts: []
-        location: "POINT (0.5000000000000000 35.7500000000000000)"
-        name: Kabarnet
-        population: 10132
-        slug: kabarnet
-      - 
-        districts: []
-        location: "POINT (0.5166700000000000 35.2833299999999994)"
-        name: Eldoret
-        population: 218446
-        slug: eldoret
-      - 
-        districts: []
-        location: "POINT (0.0500000000000000 35.7166700000000006)"
-        name: "Eldama Ravine"
-        population: 12524
-        slug: eldama-ravine
-      - 
-        districts: []
-        location: "POINT (1.3166700000000000 35.2000000000000028)"
-        name: Chepareria
-        population: 1073
-        slug: chepareria
-      - 
-        districts: []
-        location: "POINT (-0.7833300000000000 35.3500000000000014)"
-        name: Bomet
-        population: 5270
-        slug: bomet
-      - 
-        districts: []
-        location: "POINT (0.4666700000000000 35.9666700000000006)"
-        name: Baringo
-        population: 7656
-        slug: baringo
-    code: KE.08
-    name: "Rift Valley"
-    slug: rift-valley
+        alternate_names: 
+          - Nairoba
+          - Nairobi
+          - Nairobis
+        ascii_name: Nairobi
+        name: Nairobi
+        names_en: 
+          - Nairobi
+        names_es: 
+          - Nairobi
+        population: 2750547
+    name: "Nairobi Area"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Coast Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (0.6327800000000000 34.2694400000000030)"
-        name: Malaba
-        population: 8383
-        slug: malaba
+        alternate_names: 
+          - Wundanyi
+        ascii_name: Wundanyi
+        name: Wundanyi
+        names_en: ~
+        names_es: ~
+        population: 12501
       - 
-        districts: []
-        location: "POINT (0.1000000000000000 34.5333299999999994)"
-        name: Yala
-        population: 2715
-        slug: yala
+        alternate_names: ~
+        ascii_name: Witu
+        name: Witu
+        names_en: ~
+        names_es: ~
+        population: 5380
       - 
-        districts: []
-        location: "POINT (0.6166700000000001 34.7666699999999977)"
-        name: Webuye
-        population: 22507
-        slug: webuye
+        alternate_names: 
+          - Voi
+        ascii_name: Voi
+        name: Voi
+        names_en: ~
+        names_es: ~
+        population: 19624
       - 
-        districts: []
-        location: "POINT (0.4472200000000000 34.2519399999999976)"
-        name: Nambale
-        population: 1154
-        slug: nambale
+        alternate_names: 
+          - Taveta
+        ascii_name: Taveta
+        name: Taveta
+        names_en: ~
+        names_es: ~
+        population: 13377
       - 
-        districts: []
-        location: "POINT (0.3363900000000000 34.4891700000000014)"
-        name: Mumias
-        population: 45485
-        slug: mumias
+        alternate_names: 
+          - Takaungu
+        ascii_name: Takaungu
+        name: Takaungu
+        names_en: ~
+        names_es: ~
+        population: 10760
       - 
-        districts: []
-        location: "POINT (0.6769400000000000 34.4216699999999989)"
-        name: Malikisi
+        alternate_names: ~
+        ascii_name: Shimoni
+        name: Shimoni
+        names_en: ~
+        names_es: ~
+        population: 2374
+      - 
+        alternate_names: ~
+        ascii_name: Sawasawa
+        name: Sawasawa
+        names_en: ~
+        names_es: ~
+        population: 12975
+      - 
+        alternate_names: 
+          - Mombaca
+          - Mombasa
+          - Mombassa
+        ascii_name: Mombasa
+        name: Mombasa
+        names_en: 
+          - Mombasa
+        names_es: 
+          - Mombasa
+        population: 799668
+      - 
+        alternate_names: 
+          - Mariakani
+        ascii_name: Mariakani
+        name: Mariakani
+        names_en: ~
+        names_es: ~
+        population: 12786
+      - 
+        alternate_names: 
+          - Malindi
+          - Melinde
+          - marindi
+        ascii_name: Malindi
+        name: Malindi
+        names_en: 
+          - Malindi
+        names_es: ~
+        population: 68304
+      - 
+        alternate_names: 
+          - Amu
+          - Lama
+          - Lamu
+        ascii_name: Lamu
+        name: Lamu
+        names_en: ~
+        names_es: ~
+        population: 24525
+      - 
+        alternate_names: 
+          - Kwale
+        ascii_name: Kwale
+        name: Kwale
+        names_en: ~
+        names_es: ~
+        population: 4883
+      - 
+        alternate_names: ~
+        ascii_name: Kipini
+        name: Kipini
+        names_en: ~
+        names_es: ~
+        population: 4114
+      - 
+        alternate_names: ~
+        ascii_name: Kinango
+        name: Kinango
+        names_en: ~
+        names_es: ~
+        population: 8070
+      - 
+        alternate_names: 
+          - Kilifi
+        ascii_name: Kilifi
+        name: Kilifi
+        names_en: ~
+        names_es: ~
+        population: 46118
+      - 
+        alternate_names: 
+          - Gasi
+          - Gaze
+          - Gazi
+        ascii_name: Gazi
+        name: Gazi
+        names_en: ~
+        names_es: ~
+        population: 5222
+    name: Coast
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Eastern
+    cities: 
+      - 
+        alternate_names: 
+          - Wote
+        ascii_name: Wote
+        name: Wote
+        names_en: ~
+        names_es: ~
+        population: 6133
+      - 
+        alternate_names: ~
+        ascii_name: Mwingi
+        name: Mwingi
+        names_en: ~
+        names_es: ~
+        population: 11219
+      - 
+        alternate_names: 
+          - "Mtito Andei"
+          - "Mutitu Andei"
+        ascii_name: "Mtito Andei"
+        name: "Mtito Andei"
+        names_en: ~
+        names_es: ~
+        population: 4763
+      - 
+        alternate_names: 
+          - "Fort Harrington"
+          - Moyale
+          - "Port Harrington"
+        ascii_name: Moyale
+        name: Moyale
+        names_en: ~
+        names_es: ~
+        population: 16243
+      - 
+        alternate_names: 
+          - Meru
+          - Mery
+          - Меры
+        ascii_name: Meru
+        name: Meru
+        names_en: ~
+        names_es: ~
+        population: 47226
+      - 
+        alternate_names: 
+          - Maua
+        ascii_name: Maua
+        name: Maua
+        names_en: ~
+        names_es: ~
+        population: 10804
+      - 
+        alternate_names: 
+          - Marsabit
+        ascii_name: Marsabit
+        name: Marsabit
+        names_en: ~
+        names_es: ~
+        population: 15361
+      - 
+        alternate_names: 
+          - Makueni
+          - "Makueni Boma"
+        ascii_name: Makueni
+        name: Makueni
+        names_en: ~
+        names_es: ~
+        population: 20681
+      - 
+        alternate_names: 
+          - Machakos
+          - Machakosskij
+          - Masaku
+        ascii_name: Machakos
+        name: Machakos
+        names_en: ~
+        names_es: ~
+        population: 31971
+      - 
+        alternate_names: 
+          - Kitui
+        ascii_name: Kitui
+        name: Kitui
+        names_en: ~
+        names_es: ~
+        population: 15954
+      - 
+        alternate_names: 
+          - Kangundo
+          - Kangundu
+        ascii_name: Kangundo
+        name: Kangundo
+        names_en: ~
+        names_es: ~
+        population: 10094
+      - 
+        alternate_names: 
+          - Isiolo
+          - Исиоло
+        ascii_name: Isiolo
+        name: Isiolo
+        names_en: ~
+        names_es: ~
+        population: 33207
+      - 
+        alternate_names: 
+          - Ehmba
+          - Embu
+          - Kirimari
+        ascii_name: Embu
+        name: Embu
+        names_en: 
+          - Embu
+        names_es: ~
+        population: 34922
+      - 
+        alternate_names: 
+          - Chuka
+        ascii_name: Chuka
+        name: Chuka
+        names_en: ~
+        names_es: ~
+        population: 9347
+      - 
+        alternate_names: 
+          - "Athi River"
+        ascii_name: "Athi River"
+        name: "Athi River"
+        names_en: ~
+        names_es: ~
+        population: 24530
+    name: Eastern
+    names_en: 
+      - Eastern
+    names_es: ~
+  - 
+    ascii_name: "Central Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Dhika
+          - Thika
+          - Tik
+        ascii_name: Thika
+        name: Thika
+        names_en: 
+          - Thika
+        names_es: 
+          - Thika
+        population: 99322
+      - 
+        alternate_names: ~
+        ascii_name: Sagana
+        name: Sagana
+        names_en: ~
+        names_es: ~
+        population: 3297
+      - 
+        alternate_names: 
+          - Othaya
+        ascii_name: Othaya
+        name: Othaya
+        names_en: ~
+        names_es: ~
+        population: 4468
+      - 
+        alternate_names: 
+          - Nyeri
+          - Nyiri
+          - nieri
+        ascii_name: Nyeri
+        name: Nyeri
+        names_en: 
+          - Nyeri
+        names_es: ~
+        population: 51084
+      - 
+        alternate_names: 
+          - Nyahururu
+          - "Nyahururu Falls"
+          - "Thompsons Falls"
+        ascii_name: Nyahururu
+        name: Nyahururu
+        names_en: ~
+        names_es: ~
+        population: 31978
+      - 
+        alternate_names: 
+          - "Fort Hall"
+          - Murang'a
+          - Murang’a
+        ascii_name: Murang'a
+        name: Murang’a
+        names_en: ~
+        names_es: ~
+        population: 11987
+      - 
+        alternate_names: ~
+        ascii_name: Maragua
+        name: Maragua
+        names_en: ~
+        names_es: ~
+        population: 4661
+      - 
+        alternate_names: 
+          - Limuru
+        ascii_name: Limuru
+        name: Limuru
+        names_en: ~
+        names_es: ~
+        population: 6317
+      - 
+        alternate_names: 
+          - Gikuyu
+          - Kikuyu
+        ascii_name: Kikuyu
+        name: Kikuyu
+        names_en: ~
+        names_es: ~
+        population: 3953
+      - 
+        alternate_names: 
+          - Kijabe
+        ascii_name: Kijabe
+        name: Kijabe
+        names_en: ~
+        names_es: ~
+        population: 4679
+      - 
+        alternate_names: 
+          - Kiambu
+          - Kiambuu
+          - Киамбу
+        ascii_name: Kiambu
+        name: Kiambu
+        names_en: ~
+        names_es: ~
+        population: 21234
+      - 
+        alternate_names: 
+          - Kerugoya
+          - Keruguya
+        ascii_name: Keruguya
+        name: Keruguya
+        names_en: ~
+        names_es: ~
+        population: 15287
+      - 
+        alternate_names: ~
+        ascii_name: Karuri
+        name: Karuri
+        names_en: ~
+        names_es: ~
+        population: 21476
+      - 
+        alternate_names: ~
+        ascii_name: Kangema
+        name: Kangema
+        names_en: ~
+        names_es: ~
         population: 4319
-        slug: malikisi
+    name: Central
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Western Province"
+    cities: 
       - 
-        districts: []
-        location: "POINT (0.3936100000000000 34.3052800000000033)"
+        alternate_names: 
+          - Yala
+          - "Yala Station"
+        ascii_name: Yala
+        name: Yala
+        names_en: ~
+        names_es: ~
+        population: 2715
+      - 
+        alternate_names: 
+          - "Broderick Falls"
+          - Webuye
+        ascii_name: Webuye
+        name: Webuye
+        names_en: ~
+        names_es: ~
+        population: 22507
+      - 
+        alternate_names: 
+          - Nambale
+          - Nambare
+        ascii_name: Nambale
+        name: Nambale
+        names_en: ~
+        names_es: ~
+        population: 1154
+      - 
+        alternate_names: 
+          - Mumias
+        ascii_name: Mumias
+        name: Mumias
+        names_en: ~
+        names_es: ~
+        population: 45485
+      - 
+        alternate_names: 
+          - Malakisi
+          - Malikisi
+        ascii_name: Malikisi
+        name: Malikisi
+        names_en: ~
+        names_es: ~
+        population: 4319
+      - 
+        alternate_names: 
+          - Malaba
+        ascii_name: Malaba
+        name: Malaba
+        names_en: ~
+        names_es: ~
+        population: 8383
+      - 
+        alternate_names: 
+          - Busia
+          - Lugulu
+        ascii_name: Lugulu
         name: Lugulu
+        names_en: ~
+        names_es: ~
         population: 40894
-        slug: lugulu
       - 
-        districts: []
-        location: "POINT (0.3077800000000000 34.0586100000000016)"
+        alternate_names: 
+          - Luanda
+          - Lwanda
+        ascii_name: Luanda
         name: Luanda
+        names_en: ~
+        names_es: ~
         population: 10053
-        slug: luanda
       - 
-        districts: []
-        location: "POINT (0.2833300000000000 34.7500000000000000)"
+        alternate_names: 
+          - Kakamega
+          - Kakamege
+          - Какамеге
+        ascii_name: Kakamega
         name: Kakamega
+        names_en: 
+          - Kakamega
+        names_es: ~
         population: 63426
-        slug: kakamega
       - 
-        districts: []
-        location: "POINT (0.2094400000000000 34.4927800000000033)"
+        alternate_names: 
+          - Butere
+        ascii_name: Butere
         name: Butere
+        names_en: ~
+        names_es: ~
         population: 11205
-        slug: butere
       - 
-        districts: []
-        location: "POINT (0.1000000000000000 33.9666700000000006)"
+        alternate_names: 
+          - Bunyala
+          - "Port Bunyala"
+          - "Port Victoria"
+        ascii_name: "Port Bunyala"
         name: "Port Bunyala"
+        names_en: ~
+        names_es: ~
         population: 6793
-        slug: port-bunyala
       - 
-        districts: []
-        location: "POINT (0.5666700000000000 34.5666700000000020)"
+        alternate_names: 
+          - Bungoma
+          - Бунгома
+        ascii_name: Bungoma
         name: Bungoma
+        names_en: ~
+        names_es: ~
         population: 55962
-        slug: bungoma
-    code: KE.09
     name: Western
-    slug: western
-tld: ke
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rift Valley Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Chamagel
+          - Chemagal
+          - Chemagel
+        ascii_name: Sotik
+        name: Sotik
+        names_en: ~
+        names_es: ~
+        population: 2600
+      - 
+        alternate_names: ~
+        ascii_name: Rumuruti
+        name: Rumuruti
+        names_en: ~
+        names_es: ~
+        population: 4501
+      - 
+        alternate_names: ~
+        ascii_name: Rongai
+        name: Rongai
+        names_en: ~
+        names_es: ~
+        population: 30471
+      - 
+        alternate_names: 
+          - Ngong
+        ascii_name: Ngong
+        name: Ngong
+        names_en: ~
+        names_es: ~
+        population: 9519
+      - 
+        alternate_names: 
+          - "Naro Moru"
+        ascii_name: "Naro Moru"
+        name: "Naro Moru"
+        names_en: ~
+        names_es: ~
+        population: 9018
+      - 
+        alternate_names: 
+          - Narok
+        ascii_name: Narok
+        name: Narok
+        names_en: ~
+        names_es: ~
+        population: 36061
+      - 
+        alternate_names: 
+          - Nanyuki
+        ascii_name: Nanyuki
+        name: Nanyuki
+        names_en: ~
+        names_es: ~
+        population: 36142
+      - 
+        alternate_names: ~
+        ascii_name: "Nandi Hills"
+        name: "Nandi Hills"
+        names_en: ~
+        names_es: ~
+        population: 4257
+      - 
+        alternate_names: 
+          - Namanga
+        ascii_name: Namanga
+        name: Namanga
+        names_en: ~
+        names_es: ~
+        population: 13193
+      - 
+        alternate_names: 
+          - Nakuru
+          - Накуру
+        ascii_name: Nakuru
+        name: Nakuru
+        names_en: 
+          - Nakuru
+        names_es: 
+          - Nakuru
+        population: 259903
+      - 
+        alternate_names: 
+          - Naivasha
+          - Najvasha
+          - Найваша
+        ascii_name: Naivasha
+        name: Naivasha
+        names_en: ~
+        names_es: ~
+        population: 38366
+      - 
+        alternate_names: 
+          - Molo
+          - Моло
+        ascii_name: Molo
+        name: Molo
+        names_en: ~
+        names_es: ~
+        population: 27896
+      - 
+        alternate_names: 
+          - Maralal
+        ascii_name: Maralal
+        name: Maralal
+        names_en: ~
+        names_es: ~
+        population: 20841
+      - 
+        alternate_names: 
+          - Magadi
+        ascii_name: Magadi
+        name: Magadi
+        names_en: ~
+        names_es: ~
+        population: 14529
+      - 
+        alternate_names: 
+          - Lumbwa
+          - Lumowa
+        ascii_name: Lumbwa
+        name: Lumbwa
+        names_en: ~
+        names_es: ~
+        population: 2952
+      - 
+        alternate_names: 
+          - Londiani
+        ascii_name: Londiani
+        name: Londiani
+        names_en: ~
+        names_es: ~
+        population: 4758
+      - 
+        alternate_names: 
+          - Lodvar
+          - Lodwar
+          - Лодвар
+        ascii_name: Lodwar
+        name: Lodwar
+        names_en: ~
+        names_es: ~
+        population: 20219
+      - 
+        alternate_names: 
+          - Litein
+        ascii_name: Litein
+        name: Litein
+        names_en: ~
+        names_es: ~
+        population: 3129
+      - 
+        alternate_names: ~
+        ascii_name: Konza
+        name: Konza
+        names_en: ~
+        names_es: ~
+        population: 2004
+      - 
+        alternate_names: 
+          - Kitale
+          - Китале
+        ascii_name: Kitale
+        name: Kitale
+        names_en: 
+          - Kitale
+        names_es: 
+          - Kitale
+        population: 75123
+      - 
+        alternate_names: ~
+        ascii_name: Kericho
+        name: Kericho
+        names_en: ~
+        names_es: ~
+        population: 35748
+      - 
+        alternate_names: 
+          - Kapsabet
+          - Nandi
+        ascii_name: Kapsabet
+        name: Kapsabet
+        names_en: ~
+        names_es: ~
+        population: 3758
+      - 
+        alternate_names: 
+          - Kajiado
+          - "Ol Kejuado"
+        ascii_name: Kajiado
+        name: Kajiado
+        names_en: ~
+        names_es: ~
+        population: 11198
+      - 
+        alternate_names: 
+          - Kabarnet
+        ascii_name: Kabarnet
+        name: Kabarnet
+        names_en: ~
+        names_es: ~
+        population: 10132
+      - 
+        alternate_names: 
+          - Ehldoret
+          - Eldoret
+          - Olderet
+        ascii_name: Eldoret
+        name: Eldoret
+        names_en: 
+          - Eldoret
+        names_es: ~
+        population: 218446
+      - 
+        alternate_names: 
+          - Eldama
+          - "Eldama Ravine"
+          - Shimoni
+        ascii_name: "Eldama Ravine"
+        name: "Eldama Ravine"
+        names_en: ~
+        names_es: ~
+        population: 12524
+      - 
+        alternate_names: 
+          - Cheberia
+          - Chepareria
+        ascii_name: Chepareria
+        name: Chepareria
+        names_en: ~
+        names_es: ~
+        population: 1073
+      - 
+        alternate_names: 
+          - Bomet
+          - Sotik
+          - "Sotik Post"
+        ascii_name: Bomet
+        name: Bomet
+        names_en: ~
+        names_es: ~
+        population: 5270
+      - 
+        alternate_names: ~
+        ascii_name: Baringo
+        name: Baringo
+        names_en: ~
+        names_es: ~
+        population: 7656
+    name: "Rift Valley"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "North Eastern Province"
+    cities: 
+      - 
+        alternate_names: 
+          - "El Sadi"
+          - Wajir
+        ascii_name: Wajir
+        name: Wajir
+        names_en: ~
+        names_es: ~
+        population: 45771
+      - 
+        alternate_names: 
+          - Madera
+          - Mandera
+          - Mandere
+        ascii_name: Mandera
+        name: Mandera
+        names_en: ~
+        names_es: ~
+        population: 36076
+      - 
+        alternate_names: 
+          - Garisa
+          - Garissa
+          - Гариса
+        ascii_name: Garissa
+        name: Garissa
+        names_en: 
+          - Garissa
+        names_es: ~
+        population: 67861
+    name: North-Eastern
+    names_en: ~
+    names_es: ~

@@ -1,48 +1,98 @@
 --- 
-code: VU
-continent: OC
 name: Vanuatu
-population: 221552
+names_en: 
+  - Vanuatu
+  - "Republic of Vanuatu"
+names_es: 
+  - Vanutu
 regions: 
   - 
+    ascii_name: "Tafea Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (-19.5500000000000007 169.2666700000000048)"
+        alternate_names: 
+          - Isangel
+          - Исангел
+        ascii_name: Isangel
         name: Isangel
+        names_en: ~
+        names_es: ~
         population: 1437
-        slug: isangel
+    name: Tafea
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sanma Province"
+    cities: 
       - 
-        districts: []
-        location: "POINT (-16.0666699999999985 167.3833300000000008)"
-        name: Norsup
-        population: 2998
-        slug: norsup
-      - 
-        districts: []
-        location: "POINT (-15.0500000000000007 167.0500000000000114)"
+        alternate_names: ~
+        ascii_name: Port-Olry
         name: Port-Olry
+        names_en: ~
+        names_es: ~
         population: 1951
-        slug: port-olry
       - 
-        districts: []
-        location: "POINT (-15.5333299999999994 167.1666700000000105)"
+        alternate_names: 
+          - Louganville
+          - Luganville
+          - "Luganville Bay"
+        ascii_name: Luganville
         name: Luganville
+        names_en: ~
+        names_es: ~
         population: 13397
-        slug: luganville
-      - 
-        districts: []
-        location: "POINT (-17.7338099999999983 168.3218799999999931)"
-        name: Port-Vila
-        population: 35901
-        slug: port-vila
-      - 
-        districts: []
-        location: "POINT (-13.8833300000000008 167.5500000000000114)"
-        name: Sola
-        population: 1171
-        slug: sola
-    code: VU.13
     name: Sanma
-    slug: sanma
-tld: vu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Torba Province"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Sola
+        name: Sola
+        names_en: ~
+        names_es: ~
+        population: 1171
+    name: Torba
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Malampa Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Norsoup
+          - Norsup
+        ascii_name: Norsup
+        name: Norsup
+        names_en: ~
+        names_es: ~
+        population: 2998
+    name: Malampa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Penama Province"
+    cities: []
+    name: Penama
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Shefa Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Bila
+          - Fila
+          - "Port Fila"
+        ascii_name: Port-Vila
+        name: Port-Vila
+        names_en: 
+          - "Port Vila"
+        names_es: 
+          - "Port Vila"
+        population: 35901
+    name: Shefa
+    names_en: ~
+    names_es: ~

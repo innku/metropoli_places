@@ -1,18 +1,33 @@
 --- 
-code: WF
-continent: OC
 name: "Wallis and Futuna"
-population: 16025
+names_en: 
+  - "Wallis and Futuna"
+names_es: 
+  - "Wallis y Futuna"
 regions: 
   - 
+    ascii_name: "Circonscription d'Uvea"
     cities: 
       - 
-        districts: []
-        location: "POINT (-13.2816299999999998 -176.1745300000000043)"
+        alternate_names: 
+          - "Regina Spit"
+        ascii_name: Mata'utu
         name: Matâ'utu
+        names_en: ~
+        names_es: ~
         population: 1200
-        slug: matautu
-    code: WF.98613
     name: "Circonscription d'Uvéa"
-    slug: circonscription-duvea
-tld: wf
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Circonscription de Sigave"
+    cities: []
+    name: "Circonscription de Sigavé"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Circonscription d'Alo"
+    cities: []
+    name: "Circonscription d'Alo"
+    names_en: ~
+    names_es: ~

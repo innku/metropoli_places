@@ -1,29 +1,43 @@
 --- 
-code: ST
-continent: AF
 name: "Sao Tome and Principe"
-population: 175808
+names_en: 
+  - "Sao Tome and Principe"
+  - "São Tomé and Príncipe"
+  - "Democratic Republic of Sao Tome and Principe"
+names_es: 
+  - "Santo Tomé y Príncipe"
 regions: 
   - 
+    ascii_name: "Sao Tome"
     cities: 
       - 
-        districts: []
-        location: "POINT (1.6499999999999999 7.4333299999999998)"
-        name: "Santo António"
-        population: 0
-        slug: santo-antonio
-    code: ST.01
-    name: Príncipe
-    slug: principe
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.3365400000000000 6.7273199999999997)"
+        alternate_names: 
+          - Salazar
+          - "San Tome"
+          - "San Tomė"
+        ascii_name: "Sao Tome"
         name: "São Tomé"
+        names_en: 
+          - "São Tomé"
+        names_es: 
+          - "Santo Tomé"
         population: 53300
-        slug: sao-tome
-    code: ST.02
     name: "São Tomé"
-    slug: sao-tome
-tld: st
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Principe
+    cities: 
+      - 
+        alternate_names: 
+          - "Cidade de Santo Antonio"
+          - "Cidade de Santo António"
+          - "San Antonio"
+        ascii_name: "Santo Antonio"
+        name: "Santo António"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Príncipe
+    names_en: ~
+    names_es: ~

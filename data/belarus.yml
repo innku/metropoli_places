@@ -1,774 +1,1136 @@
 --- 
-code: BY
-continent: EU
 name: Belarus
-population: 9685000
+names_en: 
+  - Belarus
+  - "Republic of Belarus"
+names_es: 
+  - Bielorrusia
 regions: 
   - 
+    ascii_name: "Vitsyebskaya Voblasts'"
     cities: 
       - 
-        districts: []
-        location: "POINT (53.0166699999999977 25.3500000000000014)"
-        name: Zhirovichi
-        population: 1800
-        slug: zhirovichi
-      - 
-        districts: []
-        location: "POINT (54.7166700000000006 26.5333299999999994)"
-        name: Vishnevo
-        population: 7000
-        slug: vishnevo
-      - 
-        districts: []
-        location: "POINT (52.2500000000000000 29.8333300000000001)"
-        name: Vasilevichi
-        population: 4749
-        slug: vasilevichi
-      - 
-        districts: []
-        location: "POINT (52.0666700000000020 27.7333299999999987)"
-        name: Turov
-        population: 3100
-        slug: turov
-      - 
-        districts: []
-        location: "POINT (54.8500000000000014 26.3999999999999986)"
-        name: Svir’
-        population: 1300
-        slug: svir
-      - 
-        districts: []
-        location: "POINT (52.7333300000000023 27.4666700000000006)"
-        name: Starobin
-        population: 6000
-        slug: starobin
-      - 
-        districts: []
-        location: "POINT (53.7500000000000000 28.0166700000000013)"
-        name: Smilovichi
-        population: 5200
-        slug: smilovichi
-      - 
-        districts: []
-        location: "POINT (53.6000000000000014 27.8666699999999992)"
-        name: Rudensk
-        population: 2900
-        slug: rudensk
-      - 
-        districts: []
-        location: "POINT (53.2833299999999994 24.3999999999999986)"
-        name: Ros’
-        population: 6200
-        slug: ros
-      - 
-        districts: []
-        location: "POINT (53.9666700000000006 27.0500000000000007)"
-        name: Rakov
-        population: 6300
-        slug: rakov
-      - 
-        districts: []
-        location: "POINT (54.4166700000000034 27.8333300000000001)"
-        name: Pleshchenitsy
-        population: 7800
-        slug: pleshchenitsy
-      - 
-        districts: []
-        location: "POINT (55.5333299999999994 28.6499999999999986)"
-        name: Navapolatsk
-        population: 100885
-        slug: navapolatsk
-      - 
-        districts: []
-        location: "POINT (54.5666700000000020 26.7333299999999987)"
-        name: Naroch’
-        population: 3400
-        slug: naroch
-      - 
-        districts: []
-        location: "POINT (55.2333300000000023 27.4499999999999993)"
-        name: Mosar’
-        population: 1500
-        slug: mosar
-      - 
-        districts: []
-        location: "POINT (53.4500000000000028 26.4666700000000006)"
-        name: Mir
-        population: 2500
-        slug: mir
-      - 
-        districts: []
-        location: "POINT (54.3166700000000020 26.2833299999999994)"
-        name: Krevo
-        population: 3100
-        slug: krevo
-      - 
-        districts: []
-        location: "POINT (53.2666699999999977 24.4333300000000015)"
-        name: Krasnosel’skiy
-        population: 7300
-        slug: krasnoselskiy
-      - 
-        districts: []
-        location: "POINT (54.6666700000000034 29.2666700000000013)"
-        name: Konstantinovo
-        population: 3800
-        slug: konstantinovo
-      - 
-        districts: []
-        location: "POINT (53.8833300000000008 26.7500000000000000)"
-        name: Ivenets
-        population: 5000
-        slug: ivenets
-      - 
-        districts: []
-        location: "POINT (54.2500000000000000 26.0166700000000013)"
-        name: Gol’shany
-        population: 5000
-        slug: golshany
-      - 
-        districts: []
-        location: "POINT (55.7833299999999994 27.4499999999999993)"
-        name: Druya
-        population: 1500
-        slug: druya
-      - 
-        districts: []
-        location: "POINT (55.5666700000000020 28.2166700000000006)"
-        name: Disna
-        population: 2738
-        slug: disna
-      - 
-        districts: []
-        location: "POINT (54.3166700000000020 26.1333300000000008)"
-        name: Boruny
-        population: 2500
-        slug: boruny
-      - 
-        districts: []
-        location: "POINT (53.7666699999999977 25.5333299999999994)"
-        name: Berëzovka
-        population: 11800
-        slug: berezovka
-      - 
-        districts: []
-        location: "POINT (54.7333300000000023 28.0666699999999985)"
-        name: Begoml’
-        population: 3500
-        slug: begoml
-    code: BY.00
-    name: "Belarus (general)"
-    slug: belarus-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.2005600000000030 24.0233300000000014)"
-        name: Zhabinka
-        population: 10921
-        slug: zhabinka
-      - 
-        districts: []
-        location: "POINT (52.3730600000000024 23.3674999999999997)"
-        name: Vysokaye
-        population: 4496
-        slug: vysokaye
-      - 
-        districts: []
-        location: "POINT (51.8833300000000008 26.8500000000000014)"
-        name: Stolin
-        population: 10491
-        slug: stolin
-      - 
-        districts: []
-        location: "POINT (52.5566699999999969 24.4644399999999997)"
-        name: Pruzhany
-        population: 19135
-        slug: pruzhany
-      - 
-        districts: []
-        location: "POINT (52.1213899999999981 26.0727800000000016)"
-        name: Pinsk
-        population: 130777
-        slug: pinsk
-      - 
-        districts: []
-        location: "POINT (51.7833299999999994 24.0833300000000001)"
-        name: Malaryta
-        population: 9692
-        slug: malaryta
-      - 
-        districts: []
-        location: "POINT (52.2502799999999965 26.7994400000000006)"
-        name: Luninyets
-        population: 25000
-        slug: luninyets
-      - 
-        districts: []
-        location: "POINT (52.7500000000000000 25.1499999999999986)"
-        name: Kosava
-        population: 2698
-        slug: kosava
-      - 
-        districts: []
-        location: "POINT (52.2161100000000005 24.3663899999999991)"
-        name: Kobryn
-        population: 50691
-        slug: kobryn
-      - 
-        districts: []
-        location: "POINT (52.4008299999999991 23.8244399999999992)"
-        name: Kamyanyets
-        population: 8700
-        slug: kamyanyets
-      - 
-        districts: []
-        location: "POINT (52.7091700000000003 25.3388899999999992)"
-        name: Ivatsevichy
-        population: 24200
-        slug: ivatsevichy
-      - 
-        districts: []
-        location: "POINT (52.1325000000000003 25.5461099999999988)"
-        name: Ivanava
-        population: 13614
-        slug: ivanava
-      - 
-        districts: []
-        location: "POINT (52.1897200000000012 25.1502799999999986)"
-        name: Drahichyn
-        population: 13389
-        slug: drahichyn
-      - 
-        districts: []
-        location: "POINT (52.0499999999999972 27.2166700000000006)"
-        name: Davyd-Haradok
-        population: 7694
-        slug: davyd-haradok
-      - 
-        districts: []
-        location: "POINT (52.5336100000000030 24.9838899999999988)"
-        name: Byaroza
-        population: 29645
-        slug: byaroza
-      - 
-        districts: []
-        location: "POINT (52.1000000000000014 23.6999999999999993)"
-        name: Brest
-        population: 300715
-        slug: brest
-      - 
-        districts: []
-        location: "POINT (52.4711100000000030 25.1733300000000000)"
-        name: Byelaazyorsk
-        population: 10691
-        slug: byelaazyorsk
-      - 
-        districts: []
-        location: "POINT (53.1333300000000008 26.0333299999999994)"
-        name: Baranavichy
-        population: 168772
-        slug: baranavichy
-    code: BY.01
-    name: "Brestskaya Voblastsʼ"
-    slug: brestskaya-voblasts
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (52.8922200000000018 30.0280600000000000)"
-        name: Zhlobin
-        population: 73089
-        slug: zhlobin
-      - 
-        districts: []
-        location: "POINT (52.2286100000000033 27.8636100000000013)"
-        name: Zhytkavichy
-        population: 13630
-        slug: zhytkavichy
-      - 
-        districts: []
-        location: "POINT (52.5591700000000017 31.1808300000000003)"
-        name: Vyetka
-        population: 8969
-        slug: vyetka
-      - 
-        districts: []
-        location: "POINT (52.6291700000000020 29.7338899999999988)"
-        name: Svyetlahorsk
-        population: 71250
-        slug: svyetlahorsk
-      - 
-        districts: []
-        location: "POINT (53.0850000000000009 30.0500000000000007)"
-        name: Rahachow
-        population: 34700
-        slug: rahachow
-      - 
-        districts: []
-        location: "POINT (52.3638899999999978 30.3947199999999995)"
-        name: Rechytsa
-        population: 65400
-        slug: rechytsa
-      - 
-        districts: []
-        location: "POINT (52.1280599999999978 28.4944400000000009)"
-        name: Pyetrykaw
-        population: 10552
-        slug: pyetrykaw
-      - 
-        districts: []
-        location: "POINT (52.0499999999999972 29.2666700000000013)"
-        name: Mazyr
-        population: 112137
-        slug: mazyr
-      - 
-        districts: []
-        location: "POINT (52.5386099999999985 30.9158299999999997)"
-        name: Kostyukovka
-        population: 10552
-        slug: kostyukovka
-      - 
-        districts: []
-        location: "POINT (51.8999999999999986 29.9666700000000006)"
-        name: Khoyniki
-        population: 13200
-        slug: khoyniki
-      - 
-        districts: []
-        location: "POINT (52.1333300000000008 29.3288900000000012)"
-        name: Kalinkavichy
-        population: 37190
-        slug: kalinkavichy
-      - 
-        districts: []
-        location: "POINT (52.4416700000000020 30.9833299999999987)"
-        name: Homyel’
-        population: 480951
-        slug: homyel
-      - 
-        districts: []
-        location: "POINT (52.4094399999999965 31.3227800000000016)"
-        name: Dobrush
-        population: 19083
-        slug: dobrush
-      - 
-        districts: []
-        location: "POINT (51.7833299999999994 30.2666700000000013)"
-        name: Brahin
-        population: 3900
-        slug: brahin
-    code: BY.02
-    name: "Homyelʼskaya Voblastsʼ"
-    slug: homyelskaya-voblasts
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.5916700000000006 24.2436100000000003)"
-        name: Skidel’
-        population: 10700
-        slug: skidel
-      - 
-        districts: []
-        location: "POINT (53.1519400000000033 24.4555599999999984)"
-        name: Vawkavysk
-        population: 47300
-        slug: vawkavysk
-      - 
-        districts: []
-        location: "POINT (54.4836099999999988 26.3999999999999986)"
-        name: Smarhon’
-        population: 36900
-        slug: smarhon
-      - 
-        districts: []
-        location: "POINT (53.0866699999999980 25.3219400000000014)"
-        name: Slonim
-        population: 51434
-        slug: slonim
-      - 
-        districts: []
-        location: "POINT (53.6097200000000029 24.7377800000000008)"
-        name: Shchuchyn
-        population: 15700
-        slug: shchuchyn
-      - 
-        districts: []
-        location: "POINT (53.6000000000000014 25.8333300000000001)"
-        name: Navahrudak
-        population: 30748
-        slug: navahrudak
-      - 
-        districts: []
-        location: "POINT (53.4077800000000025 24.5327799999999989)"
-        name: Masty
-        population: 16102
-        slug: masty
-      - 
-        districts: []
-        location: "POINT (53.8833300000000008 25.2997200000000007)"
-        name: Lida
-        population: 98036
-        slug: lida
-      - 
-        districts: []
-        location: "POINT (53.5652800000000013 26.1377799999999993)"
-        name: Karelichy
-        population: 7800
-        slug: karelichy
-      - 
-        districts: []
-        location: "POINT (53.9277799999999985 25.7669400000000017)"
-        name: Iwye
-        population: 9684
-        slug: iwye
-      - 
-        districts: []
-        location: "POINT (53.6813900000000004 23.8147200000000012)"
-        name: Hrodna
-        population: 317365
-        slug: hrodna
-      - 
-        districts: []
-        location: "POINT (53.4880599999999973 25.4133299999999984)"
-        name: Dzyatlava
-        population: 8300
-        slug: dzyatlava
-      - 
-        districts: []
-        location: "POINT (53.1955600000000004 24.0208300000000001)"
-        name: "Vyalikaya Byerastavitsa"
-        population: 5900
-        slug: vyalikaya-byerastavitsa
-      - 
-        districts: []
-        location: "POINT (54.4169399999999968 25.9327800000000011)"
-        name: Ashmyany
-        population: 14345
-        slug: ashmyany
-    code: BY.03
-    name: "Hrodzyenskaya Voblastsʼ"
-    slug: hrodzyenskaya-voblasts
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (54.0983299999999971 28.3324999999999996)"
-        name: Zhodzina
-        population: 61007
-        slug: zhodzina
-      - 
-        districts: []
-        location: "POINT (54.0000000000000000 27.2833299999999994)"
-        name: Zaslawye
-        population: 13500
-        slug: zaslawye
-      - 
-        districts: []
-        location: "POINT (54.4975000000000023 26.9211099999999988)"
-        name: Vilyeyka
-        population: 30000
-        slug: vilyeyka
-      - 
-        districts: []
-        location: "POINT (54.0830600000000032 26.5324999999999989)"
-        name: Valozhyn
-        population: 9727
-        slug: valozhyn
-      - 
-        districts: []
-        location: "POINT (53.4786100000000033 26.7474999999999987)"
-        name: Stowbtsy
-        population: 15500
-        slug: stowbtsy
-      - 
-        districts: []
-        location: "POINT (53.0391699999999986 28.2725000000000009)"
-        name: "Staryya Darohi"
-        population: 10094
-        slug: staryya-darohi
-      - 
-        districts: []
-        location: "POINT (54.0333299999999994 28.0841700000000003)"
-        name: Smalyavichy
-        population: 12516
-        slug: smalyavichy
-      - 
-        districts: []
-        location: "POINT (53.0272199999999998 27.5619399999999999)"
-        name: Slutsk
-        population: 62228
-        slug: slutsk
-      - 
-        districts: []
-        location: "POINT (52.7999999999999972 27.5333299999999994)"
-        name: Salihorsk
-        population: 101614
-        slug: salihorsk
-      - 
-        districts: []
-        location: "POINT (53.2180600000000013 26.6724999999999994)"
-        name: Nyasvizh
-        population: 12847
-        slug: nyasvizh
-      - 
-        districts: []
-        location: "POINT (54.8686099999999968 26.9372199999999999)"
-        name: Myadzyel
-        population: 10000
-        slug: myadzyel
-      - 
-        districts: []
-        location: "POINT (53.8999999999999986 27.5666699999999985)"
-        name: Minsk
-        population: 1742124
-        slug: minsk
-      - 
-        districts: []
-        location: "POINT (53.5166699999999977 28.1499999999999986)"
-        name: "Mar’’ina Horka"
-        population: 20100
-        slug: marina-horka
-      - 
-        districts: []
-        location: "POINT (54.3166700000000020 26.8497200000000014)"
-        name: Maladzyechna
-        population: 101300
-        slug: maladzyechna
-      - 
-        districts: []
-        location: "POINT (52.7999999999999972 28.0000000000000000)"
-        name: Lyuban’
-        population: 10107
-        slug: lyuban
-      - 
-        districts: []
-        location: "POINT (54.2061100000000025 27.8544400000000003)"
-        name: Lahoysk
-        population: 10321
-        slug: lahoysk
-      - 
-        districts: []
-        location: "POINT (53.0652800000000013 26.6416700000000013)"
-        name: Klyetsk
-        population: 9641
-        slug: klyetsk
-      - 
-        districts: []
-        location: "POINT (53.6850000000000023 27.1419400000000017)"
-        name: Dzyarzhynsk
-        population: 24609
-        slug: dzyarzhynsk
-      - 
-        districts: []
-        location: "POINT (53.7077799999999996 28.4322200000000009)"
-        name: Chervyen’
-        population: 9900
-        slug: chervyen
-      - 
-        districts: []
-        location: "POINT (53.8438900000000018 29.0000000000000000)"
-        name: Byerazino
-        population: 12800
-        slug: byerazino
-      - 
-        districts: []
-        location: "POINT (54.2255600000000015 28.4913899999999991)"
-        name: Barysaw
-        population: 100000
-        slug: barysaw
-    code: BY.05
-    name: "Minskaya Voblastsʼ"
-    slug: minskaya-voblasts
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (53.4452799999999968 30.9963900000000017)"
-        name: Slawharad
-        population: 7331
-        slug: slawharad
-      - 
-        districts: []
-        location: "POINT (54.2108300000000014 30.2919400000000003)"
-        name: Shklow
-        population: 13485
-        slug: shklow
-      - 
-        districts: []
-        location: "POINT (53.2933299999999974 28.6422199999999982)"
-        name: Asipovichy
-        population: 34591
-        slug: asipovichy
-      - 
-        districts: []
-        location: "POINT (54.0208299999999966 31.7263899999999985)"
-        name: Mstsislaw
-        population: 11500
-        slug: mstsislaw
-      - 
-        districts: []
-        location: "POINT (53.9138900000000021 30.3363900000000015)"
-        name: Mahilyow
-        population: 369200
-        slug: mahilyow
-      - 
-        districts: []
-        location: "POINT (53.6988899999999987 31.7141699999999993)"
-        name: Krychaw
-        population: 27681
-        slug: krychaw
-      - 
-        districts: []
-        location: "POINT (53.3388899999999992 32.0461099999999988)"
-        name: Kastsyukovichy
-        population: 11946
-        slug: kastsyukovichy
-      - 
-        districts: []
-        location: "POINT (53.6094399999999993 31.9519400000000005)"
-        name: Klimavichy
-        population: 14951
-        slug: klimavichy
-      - 
-        districts: []
-        location: "POINT (54.2833299999999994 30.9911099999999990)"
-        name: Horki
-        population: 33897
-        slug: horki
-      - 
-        districts: []
-        location: "POINT (54.1194399999999973 31.0930600000000013)"
-        name: Drybin
-        population: 2900
-        slug: drybin
-      - 
-        districts: []
-        location: "POINT (53.5722200000000015 31.3805599999999991)"
-        name: Cherykaw
-        population: 7874
-        slug: cherykaw
-      - 
-        districts: []
-        location: "POINT (53.8127799999999965 30.9836099999999988)"
-        name: Chavusi
-        population: 11313
-        slug: chavusi
-      - 
-        districts: []
-        location: "POINT (53.5183299999999988 30.2461100000000016)"
-        name: Bykhaw
-        population: 17500
-        slug: bykhaw
-      - 
-        districts: []
-        location: "POINT (54.0000000000000000 29.7044400000000017)"
-        name: Byalynichy
-        population: 9600
-        slug: byalynichy
-      - 
-        districts: []
-        location: "POINT (53.1499999999999986 29.2333299999999987)"
-        name: Babruysk
-        population: 220517
-        slug: babruysk
-    code: BY.06
-    name: "Mahilyowskaya Voblastsʼ"
-    slug: mahilyowskaya-voblasts
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (55.1925000000000026 30.1944400000000002)"
+        alternate_names: 
+          - Vicebsk
+          - Vicebska
+          - Vicebszk
+        ascii_name: Vitsyebsk
         name: Vitsyebsk
+        names_en: 
+          - Vitebsk
+          - Vitsyebsk
+        names_es: 
+          - Vitebsk
         population: 342700
-        slug: vitsyebsk
       - 
-        districts: []
-        location: "POINT (55.7794400000000010 27.9469400000000014)"
+        alternate_names: 
+          - Drissa
+          - Dryassa
+          - Verkhnedvinsk
+        ascii_name: Vyerkhnyadzvinsk
         name: Vyerkhnyadzvinsk
+        names_en: 
+          - Vyerkhnyadzvinsk
+        names_es: ~
         population: 7700
-        slug: vyerkhnyadzvinsk
       - 
-        districts: []
-        location: "POINT (54.4108299999999971 29.7033300000000011)"
+        alternate_names: 
+          - Talachyn
+          - Tolochin
+          - Tolochino
+        ascii_name: Talachyn
         name: Talachyn
+        names_en: ~
+        names_es: ~
         population: 11381
-        slug: talachyn
       - 
-        districts: []
-        location: "POINT (55.3666699999999992 27.4666700000000006)"
+        alternate_names: 
+          - Sharkovshchina
+          - Sharkovshchizna
+          - Sharkovshchyzna
+        ascii_name: Sharkowshchyna
         name: Sharkowshchyna
+        names_en: 
+          - Sharkowshchyna
+        names_es: ~
         population: 7500
-        slug: sharkowshchyna
       - 
-        districts: []
-        location: "POINT (54.8041699999999992 29.7044400000000017)"
+        alternate_names: 
+          - SENNO
+          - Senno
+          - Syanno
+        ascii_name: Syanno
         name: Syanno
+        names_en: 
+          - Syanno
+        names_es: ~
         population: 9987
-        slug: syanno
       - 
-        districts: []
-        location: "POINT (55.4855599999999995 28.8041699999999992)"
+        alternate_names: 
+          - POLOCK
+          - Podolsk
+          - Polacak
+        ascii_name: Polatsk
         name: Polatsk
+        names_en: 
+          - Polatsk
+        names_es: ~
         population: 82258
-        slug: polatsk
       - 
-        districts: []
-        location: "POINT (55.1167599999999993 26.8326300000000018)"
+        alternate_names: 
+          - POSTAVY
+          - Pastavy
+          - Postavy
+        ascii_name: Pastavy
         name: Pastavy
+        names_en: 
+          - Pastavy
+        names_es: ~
         population: 20218
-        slug: pastavy
       - 
-        districts: []
-        location: "POINT (54.5152799999999971 30.4052800000000012)"
+        alternate_names: 
+          - ORSHA
+          - Orsa
+          - Orscha
+        ascii_name: Orsha
         name: Orsha
+        names_en: 
+          - Orsha
+        names_es: ~
         population: 125347
-        slug: orsha
       - 
-        districts: []
-        location: "POINT (55.6155600000000021 27.6286099999999983)"
+        alternate_names: 
+          - MIORY
+          - Mery
+          - Miory
+        ascii_name: Miyory
         name: Miyory
+        names_en: 
+          - Miyory
+        names_es: ~
         population: 10649
-        slug: miyory
       - 
-        districts: []
-        location: "POINT (54.8833300000000008 28.6999999999999993)"
+        alternate_names: 
+          - Lepel'
+          - Lepel’
+          - Lyepyel'
+        ascii_name: Lyepyel'
         name: Lyepyel’
+        names_en: 
+          - Lyepyel'
+        names_es: ~
         population: 17400
-        slug: lyepyel
       - 
-        districts: []
-        location: "POINT (55.1333300000000008 27.6833300000000015)"
+        alternate_names: 
+          - Glebokie
+          - Glenboke
+          - Glubokoe
+        ascii_name: Hlybokaye
         name: Hlybokaye
+        names_en: 
+          - Hlybokaye
+        names_es: ~
         population: 22000
-        slug: hlybokaye
       - 
-        districts: []
-        location: "POINT (55.4602799999999974 30.0000000000000000)"
+        alternate_names: 
+          - GORODOK
+          - Gorodok
+          - Haradok
+        ascii_name: Haradok
         name: Haradok
+        names_en: 
+          - Haradok
+        names_es: ~
         population: 13380
-        slug: haradok
       - 
-        districts: []
-        location: "POINT (54.8961100000000002 27.7583300000000008)"
+        alternate_names: 
+          - DOKSHICY
+          - Dokshitsy
+          - Dokshytse
+        ascii_name: Dokshytsy
         name: Dokshytsy
+        names_en: 
+          - Dokshytsy
+        names_es: ~
         population: 8190
-        slug: dokshytsy
       - 
-        districts: []
-        location: "POINT (54.8588900000000024 29.1558300000000017)"
+        alternate_names: 
+          - CHASHNIKI
+          - Chashniki
+          - ЧАШНИКИ
+        ascii_name: Chashniki
         name: Chashniki
+        names_en: 
+          - Chashniki
+        names_es: ~
         population: 11484
-        slug: chashniki
       - 
-        districts: []
-        location: "POINT (55.6338900000000010 27.0538899999999991)"
+        alternate_names: 
+          - BRASLAV
+          - Braslav
+          - Braslaw
+        ascii_name: Braslaw
         name: Braslaw
+        names_en: 
+          - Braslaw
+        names_es: ~
         population: 12378
-        slug: braslaw
-    code: BY.07
     name: "Vitsyebskaya Voblastsʼ"
-    slug: vitsyebskaya-voblasts
-tld: by
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mahilyowskaya Voblasts'"
+    cities: 
+      - 
+        alternate_names: 
+          - Propoisk
+          - Propoysk
+          - SLAVGOROD
+        ascii_name: Slawharad
+        name: Slawharad
+        names_en: 
+          - Slawharad
+        names_es: ~
+        population: 7331
+      - 
+        alternate_names: 
+          - SHKLOV
+          - Shklov
+          - Shklow
+        ascii_name: Shklow
+        name: Shklow
+        names_en: 
+          - Shklow
+        names_es: ~
+        population: 13485
+      - 
+        alternate_names: 
+          - Asipovichy
+          - OSIPOVICHI
+          - Osipovichi
+        ascii_name: Asipovichy
+        name: Asipovichy
+        names_en: 
+          - Asipovichy
+        names_es: ~
+        population: 34591
+      - 
+        alternate_names: 
+          - Mstislavl'
+          - Mstislavl’
+          - Mstsislaw
+        ascii_name: Mstsislaw
+        name: Mstsislaw
+        names_en: 
+          - Mstsislaw
+        names_es: ~
+        population: 11500
+      - 
+        alternate_names: 
+          - Magileu
+          - Magileva
+          - Magiļeva
+        ascii_name: Mahilyow
+        name: Mahilyow
+        names_en: 
+          - Mahilioŭ
+          - Mogilev
+          - Mahilyow
+        names_es: 
+          - Maguilov
+        population: 369200
+      - 
+        alternate_names: 
+          - KRICHEV
+          - Krichev
+          - Krichëv
+        ascii_name: Krychaw
+        name: Krychaw
+        names_en: 
+          - Krychaw
+        names_es: ~
+        population: 27681
+      - 
+        alternate_names: 
+          - KOSTJUKOVICHI
+          - Kastsyukovichy
+          - Kommunary
+        ascii_name: Kastsyukovichy
+        name: Kastsyukovichy
+        names_en: 
+          - Kastsyukovichy
+        names_es: ~
+        population: 11946
+      - 
+        alternate_names: 
+          - KLIMOVICHI
+          - Klimavichy
+          - Klimovichi
+        ascii_name: Klimavichy
+        name: Klimavichy
+        names_en: 
+          - Klimavichy
+        names_es: ~
+        population: 14951
+      - 
+        alternate_names: 
+          - GORKI
+          - Gorki
+          - Horki
+        ascii_name: Horki
+        name: Horki
+        names_en: 
+          - Horki
+        names_es: ~
+        population: 33897
+      - 
+        alternate_names: 
+          - Dribin
+          - Drybin
+          - "Staryy Dribin"
+        ascii_name: Drybin
+        name: Drybin
+        names_en: 
+          - Drybin
+        names_es: ~
+        population: 2900
+      - 
+        alternate_names: 
+          - CHERIKOV
+          - Cherikov
+          - Cherykaw
+        ascii_name: Cherykaw
+        name: Cherykaw
+        names_en: 
+          - Cherykaw
+        names_es: ~
+        population: 7874
+      - 
+        alternate_names: 
+          - CHAUSY
+          - Chausi
+          - Chausy
+        ascii_name: Chavusi
+        name: Chavusi
+        names_en: 
+          - Chavusi
+        names_es: ~
+        population: 11313
+      - 
+        alternate_names: 
+          - BYKHOV
+          - Bychow
+          - Bykhaw
+        ascii_name: Bykhaw
+        name: Bykhaw
+        names_en: 
+          - Bykhaw
+        names_es: ~
+        population: 17500
+      - 
+        alternate_names: 
+          - Belynichi
+          - Byalynichy
+          - Byelinichi
+        ascii_name: Byalynichy
+        name: Byalynichy
+        names_en: 
+          - Byalynichy
+        names_es: ~
+        population: 9600
+      - 
+        alternate_names: 
+          - BOBRUJSK
+          - Babroejsk
+          - Babruisk
+        ascii_name: Babruysk
+        name: Babruysk
+        names_en: 
+          - Babruysk
+        names_es: ~
+        population: 220517
+    name: "Mahilyowskaya Voblastsʼ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Minskaya Voblasts'"
+    cities: 
+      - 
+        alternate_names: 
+          - Schodsina
+          - ZHODINO
+          - Zhodino
+        ascii_name: Zhodzina
+        name: Zhodzina
+        names_en: 
+          - Zhodzina
+        names_es: ~
+        population: 61007
+      - 
+        alternate_names: 
+          - Zaslav
+          - Zaslavl'
+          - Zaslavl’
+        ascii_name: Zaslawye
+        name: Zaslawye
+        names_en: 
+          - Zaslawye
+        names_es: ~
+        population: 13500
+      - 
+        alternate_names: 
+          - Vilejka
+          - Vileyka
+          - Vilyeyka
+        ascii_name: Vilyeyka
+        name: Vilyeyka
+        names_en: 
+          - Vilyeyka
+        names_es: ~
+        population: 30000
+      - 
+        alternate_names: 
+          - VOLOZHIN
+          - Valozhyn
+          - Volozhin
+        ascii_name: Valozhyn
+        name: Valozhyn
+        names_en: 
+          - Valozhyn
+        names_es: ~
+        population: 9727
+      - 
+        alternate_names: 
+          - Stolbcy
+          - Stolbtsy
+          - Stolpce
+        ascii_name: Stowbtsy
+        name: Stowbtsy
+        names_en: 
+          - Stowbtsy
+        names_es: ~
+        population: 15500
+      - 
+        alternate_names: 
+          - "STARYE DOROGI"
+          - "Starye Dorogi"
+          - "Staryya Darohi"
+        ascii_name: "Staryya Darohi"
+        name: "Staryya Darohi"
+        names_en: ~
+        names_es: ~
+        population: 10094
+      - 
+        alternate_names: 
+          - SMOLEVICHI
+          - Smalyavichy
+          - Smolevichi
+        ascii_name: Smalyavichy
+        name: Smalyavichy
+        names_en: 
+          - Smalyavichy
+        names_es: ~
+        population: 12516
+      - 
+        alternate_names: 
+          - SLUCK
+          - Slucak
+          - Sluck
+        ascii_name: Slutsk
+        name: Slutsk
+        names_en: 
+          - Slutsk
+        names_es: ~
+        population: 62228
+      - 
+        alternate_names: 
+          - Chizhevichi
+          - SOLIGORSK
+          - Saligorsk
+        ascii_name: Salihorsk
+        name: Salihorsk
+        names_en: 
+          - Salihorsk
+        names_es: ~
+        population: 101614
+      - 
+        alternate_names: 
+          - NESVIZH
+          - Nes'vezh
+          - Nesvizh
+        ascii_name: Nyasvizh
+        name: Nyasvizh
+        names_en: 
+          - Nyasvizh
+        names_es: ~
+        population: 12847
+      - 
+        alternate_names: 
+          - Mjadel'
+          - Myadel'
+          - Myadel’
+        ascii_name: Myadzyel
+        name: Myadzyel
+        names_en: 
+          - Myadzyel
+        names_es: ~
+        population: 10000
+      - 
+        alternate_names: 
+          - Mensk
+          - Minsc
+          - Minscum
+        ascii_name: Minsk
+        name: Minsk
+        names_en: 
+          - Minsk
+        names_es: 
+          - Minsk
+        population: 1742124
+      - 
+        alternate_names: 
+          - "Mar''ina Horka"
+          - "Mar'ina Gorka"
+          - "Maryina Gorka"
+        ascii_name: "Mar''ina Horka"
+        name: "Mar’’ina Horka"
+        names_en: 
+          - "Mar''ina Horka"
+        names_es: ~
+        population: 20100
+      - 
+        alternate_names: 
+          - Maladzyechna
+          - Molodechno
+          - Molodeczno
+        ascii_name: Maladzyechna
+        name: Maladzyechna
+        names_en: 
+          - Maladzyechna
+        names_es: ~
+        population: 101300
+      - 
+        alternate_names: 
+          - LJUBAN'
+          - Luban
+          - Lyuban'
+        ascii_name: Lyuban'
+        name: Lyuban’
+        names_en: 
+          - Lyuban'
+        names_es: ~
+        population: 10107
+      - 
+        alternate_names: 
+          - Lahoysk
+          - Logojsk
+          - Logoysk
+        ascii_name: Lahoysk
+        name: Lahoysk
+        names_en: 
+          - Lahoysk
+        names_es: ~
+        population: 10321
+      - 
+        alternate_names: 
+          - KLECK
+          - Kleck
+          - Kletsk
+        ascii_name: Klyetsk
+        name: Klyetsk
+        names_en: 
+          - Klyetsk
+        names_es: ~
+        population: 9641
+      - 
+        alternate_names: 
+          - DZERZHINSK
+          - Dsjarschynsk
+          - Dzerjinsk
+        ascii_name: Dzyarzhynsk
+        name: Dzyarzhynsk
+        names_en: 
+          - Dzyarzhynsk
+        names_es: ~
+        population: 24609
+      - 
+        alternate_names: 
+          - Cherven'
+          - Cherven’
+          - Chervyen'
+        ascii_name: Chervyen'
+        name: Chervyen’
+        names_en: 
+          - Chervyen'
+        names_es: ~
+        population: 9900
+      - 
+        alternate_names: 
+          - Berezino
+          - Byerazino
+          - Березино
+        ascii_name: Byerazino
+        name: Byerazino
+        names_en: 
+          - Byerazino
+        names_es: ~
+        population: 12800
+      - 
+        alternate_names: 
+          - BORISOV
+          - Barysaw
+          - Borisov
+        ascii_name: Barysaw
+        name: Barysaw
+        names_en: 
+          - Barysaw
+        names_es: ~
+        population: 100000
+    name: "Minskaya Voblastsʼ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Horad Minsk"
+    cities: []
+    name: "Horad Minsk"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Hrodzyenskaya Voblasts'"
+    cities: 
+      - 
+        alternate_names: 
+          - Skidel'
+          - Skidel’
+          - Скидель
+        ascii_name: Skidel'
+        name: Skidel’
+        names_en: 
+          - Skidel'
+        names_es: ~
+        population: 10700
+      - 
+        alternate_names: 
+          - VOLKOVYSK
+          - Vawkavysk
+          - Volkovysk
+        ascii_name: Vawkavysk
+        name: Vawkavysk
+        names_en: 
+          - Vawkavysk
+        names_es: ~
+        population: 47300
+      - 
+        alternate_names: 
+          - Smarhon'
+          - Smarhon’
+          - Smorgon'
+        ascii_name: Smarhon'
+        name: Smarhon’
+        names_en: 
+          - Smarhon'
+        names_es: ~
+        population: 36900
+      - 
+        alternate_names: 
+          - SLONIM
+          - Slonim
+          - Slonimas
+        ascii_name: Slonim
+        name: Slonim
+        names_en: 
+          - Slonim
+        names_es: 
+          - Slonim
+        population: 51434
+      - 
+        alternate_names: 
+          - Shchuchin
+          - Shchuchyn
+          - Shhuchin
+        ascii_name: Shchuchyn
+        name: Shchuchyn
+        names_en: 
+          - Shchuchyn
+        names_es: ~
+        population: 15700
+      - 
+        alternate_names: 
+          - Astravyets
+          - Ostrov
+          - Ostrovec
+        ascii_name: Astravyets
+        name: Astravyets
+        names_en: 
+          - Astravyets
+        names_es: ~
+        population: 8300
+      - 
+        alternate_names: 
+          - NOVOGRUDOK
+          - Naugardukas
+          - Navagradak
+        ascii_name: Navahrudak
+        name: Navahrudak
+        names_en: 
+          - Navahrudak
+        names_es: ~
+        population: 30748
+      - 
+        alternate_names: 
+          - MOSTY
+          - Masty
+          - Mosty
+        ascii_name: Masty
+        name: Masty
+        names_en: 
+          - Masty
+        names_es: ~
+        population: 16102
+      - 
+        alternate_names: 
+          - LIDA
+          - Lida
+          - Lieda
+        ascii_name: Lida
+        name: Lida
+        names_en: 
+          - Lida
+        names_es: ~
+        population: 98036
+      - 
+        alternate_names: 
+          - KORELICHI
+          - Karelichy
+          - Korelichi
+        ascii_name: Karelichy
+        name: Karelichy
+        names_en: 
+          - Karelichy
+        names_es: ~
+        population: 7800
+      - 
+        alternate_names: 
+          - Iv'e
+          - Iv'ye
+          - Iv’ye
+        ascii_name: Iwye
+        name: Iwye
+        names_en: 
+          - Iwye
+        names_es: ~
+        population: 9684
+      - 
+        alternate_names: 
+          - GRODNO
+          - Gardinas
+          - Goradnia
+        ascii_name: Hrodna
+        name: Hrodna
+        names_en: 
+          - Hrodna
+        names_es: 
+          - Goradnia
+        population: 317365
+      - 
+        alternate_names: 
+          - DJATLOVO
+          - Dyatlovo
+          - Dzentsel
+        ascii_name: Dzyatlava
+        name: Dzyatlava
+        names_en: 
+          - Dzyatlava
+        names_es: ~
+        population: 8300
+      - 
+        alternate_names: 
+          - Berestovitsa
+          - "Bol'saja Berestovica"
+          - "Bol'shaja Berestovica"
+        ascii_name: "Vyalikaya Byerastavitsa"
+        name: "Vyalikaya Byerastavitsa"
+        names_en: ~
+        names_es: ~
+        population: 5900
+      - 
+        alternate_names: 
+          - Ashmyany
+          - Asmena
+          - Ašmena
+        ascii_name: Ashmyany
+        name: Ashmyany
+        names_en: 
+          - Ashmyany
+        names_es: ~
+        population: 14345
+    name: "Hrodzyenskaya Voblastsʼ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Homyel'skaya Voblasts'"
+    cities: 
+      - 
+        alternate_names: 
+          - Korpilovka
+          - Zhlobin
+          - Zlobin
+        ascii_name: Zhlobin
+        name: Zhlobin
+        names_en: 
+          - Zhlobin
+        names_es: ~
+        population: 73089
+      - 
+        alternate_names: 
+          - Jitkovichi
+          - ZHITKOVICHI
+          - Zhitkovichi
+        ascii_name: Zhytkavichy
+        name: Zhytkavichy
+        names_en: 
+          - Zhytkavichy
+        names_es: ~
+        population: 13630
+      - 
+        alternate_names: 
+          - VETKA
+          - Vetka
+          - Vyetka
+        ascii_name: Vyetka
+        name: Vyetka
+        names_en: 
+          - Vyetka
+        names_es: ~
+        population: 8969
+      - 
+        alternate_names: 
+          - SVETLOGORSK
+          - Shatilki
+          - Shatsilki
+        ascii_name: Svyetlahorsk
+        name: Svyetlahorsk
+        names_en: 
+          - Svyetlahorsk
+        names_es: ~
+        population: 71250
+      - 
+        alternate_names: 
+          - Rahachow
+          - Rogachev
+          - Rogatschew
+        ascii_name: Rahachow
+        name: Rahachow
+        names_en: 
+          - Rahachow
+        names_es: ~
+        population: 34700
+      - 
+        alternate_names: 
+          - Rechica
+          - Rechitsa
+          - Rechysta
+        ascii_name: Rechytsa
+        name: Rechytsa
+        names_en: 
+          - Rechytsa
+        names_es: ~
+        population: 65400
+      - 
+        alternate_names: 
+          - PETRIKOV
+          - Petrikov
+          - Petrikovo
+        ascii_name: Pyetrykaw
+        name: Pyetrykaw
+        names_en: 
+          - Pyetrykaw
+        names_es: ~
+        population: 10552
+      - 
+        alternate_names: 
+          - MOZYR'
+          - Masyr
+          - Mazir
+        ascii_name: Mazyr
+        name: Mazyr
+        names_en: 
+          - Mazyr
+        names_es: ~
+        population: 112137
+      - 
+        alternate_names: 
+          - KOSTJUKOVKA
+          - Kastsyukowka
+          - Kostjubowka
+        ascii_name: Kostyukovka
+        name: Kostyukovka
+        names_en: 
+          - Kostyukovka
+        names_es: ~
+        population: 10552
+      - 
+        alternate_names: 
+          - Choiniki
+          - Khojniki
+          - Khoyniki
+        ascii_name: Khoyniki
+        name: Khoyniki
+        names_en: 
+          - Khoyniki
+        names_es: ~
+        population: 13200
+      - 
+        alternate_names: 
+          - KALINKOVICHI
+          - Kalinkavichy
+          - Kalinkovichi
+        ascii_name: Kalinkavichy
+        name: Kalinkavichy
+        names_en: 
+          - Kalinkavichy
+        names_es: ~
+        population: 37190
+      - 
+        alternate_names: 
+          - GOMEL'
+          - Gomel
+          - Gomel'
+        ascii_name: Homyel'
+        name: Homyel’
+        names_en: 
+          - Homyel
+          - Homyel'
+        names_es: 
+          - Homiel
+        population: 480951
+      - 
+        alternate_names: 
+          - DOBRUSH
+          - Dobrush
+          - ДОБРУШ
+        ascii_name: Dobrush
+        name: Dobrush
+        names_en: 
+          - Dobrush
+        names_es: ~
+        population: 19083
+      - 
+        alternate_names: 
+          - Bragin
+          - Brahin
+          - Брагин
+        ascii_name: Brahin
+        name: Brahin
+        names_en: 
+          - Brahin
+        names_es: ~
+        population: 3900
+    name: "Homyelʼskaya Voblastsʼ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Brestskaya Voblasts'"
+    cities: 
+      - 
+        alternate_names: 
+          - "Stara Sabinka"
+          - ZHABINKA
+          - Zabinaa
+        ascii_name: Zhabinka
+        name: Zhabinka
+        names_en: 
+          - Zhabinka
+        names_es: ~
+        population: 10921
+      - 
+        alternate_names: 
+          - VYSOKOE
+          - Vysokaye
+          - Vysoke-Litevske
+        ascii_name: Vysokaye
+        name: Vysokaye
+        names_en: 
+          - Vysokoye
+        names_es: ~
+        population: 4496
+      - 
+        alternate_names: 
+          - Stolin
+          - Столин
+          - Столін
+        ascii_name: Stolin
+        name: Stolin
+        names_en: ~
+        names_es: ~
+        population: 10491
+      - 
+        alternate_names: 
+          - PRUZHANY
+          - Pruzana
+          - Pruzhana
+        ascii_name: Pruzhany
+        name: Pruzhany
+        names_en: 
+          - Pruzhany
+        names_es: ~
+        population: 19135
+      - 
+        alternate_names: 
+          - PINSK
+          - Pinsk
+          - Pinskas
+        ascii_name: Pinsk
+        name: Pinsk
+        names_en: 
+          - Pinsk
+        names_es: 
+          - Pinsk
+        population: 130777
+      - 
+        alternate_names: 
+          - Malaryta
+          - Malorita
+          - Maloryta
+        ascii_name: Malaryta
+        name: Malaryta
+        names_en: ~
+        names_es: ~
+        population: 9692
+      - 
+        alternate_names: 
+          - Luninec
+          - Luninets
+          - Luniniec
+        ascii_name: Luninyets
+        name: Luninyets
+        names_en: 
+          - Luninyets
+        names_es: ~
+        population: 25000
+      - 
+        alternate_names: 
+          - KOSSOVO
+          - Kosava
+          - Kosov
+        ascii_name: Kosava
+        name: Kosava
+        names_en: 
+          - Kossovo
+        names_es: ~
+        population: 2698
+      - 
+        alternate_names: 
+          - KOBRIN
+          - Kobrin
+          - Kobryn
+        ascii_name: Kobryn
+        name: Kobryn
+        names_en: 
+          - Kobryn
+        names_es: ~
+        population: 50691
+      - 
+        alternate_names: 
+          - Kamenec
+          - Kamenets
+          - Kamenets-Litevske
+        ascii_name: Kamyanyets
+        name: Kamyanyets
+        names_en: 
+          - Kamyanyets
+        names_es: ~
+        population: 8700
+      - 
+        alternate_names: 
+          - "Fol'vark Ivatseviche"
+          - "Fol’vark Ivatseviche"
+          - Ivacevichi
+        ascii_name: Ivatsevichy
+        name: Ivatsevichy
+        names_en: 
+          - Ivatsevichy
+        names_es: ~
+        population: 24200
+      - 
+        alternate_names: 
+          - IVANOVO
+          - Ivanava
+          - Ivanovo
+        ascii_name: Ivanava
+        name: Ivanava
+        names_en: 
+          - Ivanava
+        names_es: ~
+        population: 13614
+      - 
+        alternate_names: 
+          - DROGICHIN
+          - Drahichyn
+          - Drogichin
+        ascii_name: Drahichyn
+        name: Drahichyn
+        names_en: 
+          - Drahichyn
+        names_es: ~
+        population: 13389
+      - 
+        alternate_names: 
+          - David-Gorodok
+          - Davidgrodek
+          - Davyd-Haradok
+        ascii_name: Davyd-Haradok
+        name: Davyd-Haradok
+        names_en: 
+          - David-Gorodok
+        names_es: ~
+        population: 7694
+      - 
+        alternate_names: 
+          - BEREZA
+          - Bereza
+          - "Bereza Kartuska"
+        ascii_name: Byaroza
+        name: Byaroza
+        names_en: 
+          - Byaroza
+        names_es: ~
+        population: 29645
+      - 
+        alternate_names: 
+          - BREST
+          - Beras'ce
+          - Berestja
+        ascii_name: Brest
+        name: Brest
+        names_en: 
+          - Brest
+        names_es: 
+          - Brest
+        population: 300715
+      - 
+        alternate_names: 
+          - BELOOZERSK
+          - Beloozersk
+          - Berezovskiy
+        ascii_name: Byelaazyorsk
+        name: Byelaazyorsk
+        names_en: 
+          - Beloozersk
+        names_es: ~
+        population: 10691
+      - 
+        alternate_names: 
+          - BARANOVICHI
+          - Baranavichy
+          - Baranavitsjy
+        ascii_name: Baranavichy
+        name: Baranavichy
+        names_en: 
+          - Baranavichy
+          - Baranovichi
+        names_es: ~
+        population: 168772
+    name: "Brestskaya Voblastsʼ"
+    names_en: ~
+    names_es: ~

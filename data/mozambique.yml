@@ -1,192 +1,327 @@
 --- 
-code: MZ
-continent: AF
 name: Mozambique
-population: 22061451
+names_en: 
+  - Mozambique
+  - "Republic of Mozambique"
+names_es: 
+  - Mozambique
 regions: 
   - 
+    ascii_name: "Provincia de Zambezia"
     cities: 
       - 
-        districts: []
-        location: "POINT (-12.9739500000000003 40.5177499999999995)"
-        name: Pemba
-        population: 108737
-        slug: pemba
-      - 
-        districts: []
-        location: "POINT (-13.1255600000000001 38.9997200000000035)"
-        name: Montepuez
-        population: 72279
-        slug: montepuez
-    code: MZ.01
-    name: "Cabo Delgado"
-    slug: cabo-delgado
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-25.0519399999999983 33.6441700000000026)"
-        name: Xai-Xai
-        population: 127366
-        slug: xai-xai
-      - 
-        districts: []
-        location: "POINT (-25.0269399999999997 33.0988899999999973)"
-        name: Macia
-        population: 23156
-        slug: macia
-      - 
-        districts: []
-        location: "POINT (-24.7116700000000016 33.8827799999999968)"
-        name: Manjacaze
-        population: 25541
-        slug: manjacaze
-      - 
-        districts: []
-        location: "POINT (-24.5333299999999994 32.9833300000000023)"
-        name: Chokwé
-        population: 63695
-        slug: chokwe
-      - 
-        districts: []
-        location: "POINT (-24.6866699999999994 33.5305600000000013)"
-        name: Chibuto
-        population: 59165
-        slug: chibuto
-      - 
-        districts: []
-        location: "POINT (-25.9622199999999985 32.4588899999999967)"
-        name: Matola
-        population: 543907
-        slug: matola
-      - 
-        districts: []
-        location: "POINT (-25.9652799999999999 32.5891700000000029)"
-        name: Maputo
-        population: 1191613
-        slug: maputo
-    code: MZ.02
-    name: Gaza
-    slug: gaza
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-23.8597199999999994 35.3472200000000001)"
-        name: Maxixe
-        population: 119868
-        slug: maxixe
-      - 
-        districts: []
-        location: "POINT (-23.8649999999999984 35.3833300000000008)"
-        name: Inhambane
-        population: 73884
-        slug: inhambane
-    code: MZ.03
-    name: Inhambane
-    slug: inhambane
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-19.6094399999999993 34.7430599999999998)"
-        name: Dondo
-        population: 78648
-        slug: dondo
-      - 
-        districts: []
-        location: "POINT (-19.8436100000000017 34.8388899999999992)"
-        name: Beira
-        population: 530604
-        slug: beira
-      - 
-        districts: []
-        location: "POINT (-19.1163899999999991 33.4833300000000023)"
-        name: Chimoio
-        population: 256936
-        slug: chimoio
-    code: MZ.05
-    name: Sofala
-    slug: sofala
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-15.0341699999999996 40.7358300000000000)"
-        name: "Ilha de Moçambique"
-        population: 54315
-        slug: ilha-de-mocambique
-      - 
-        districts: []
-        location: "POINT (-15.1164600000000000 39.2665999999999968)"
-        name: Nampula
-        population: 388526
-        slug: nampula
-      - 
-        districts: []
-        location: "POINT (-14.5427800000000005 40.6727800000000030)"
-        name: "Cidade de Nacala"
-        population: 224795
-        slug: cidade-de-nacala
-      - 
-        districts: []
-        location: "POINT (-16.2325000000000017 39.9086100000000030)"
-        name: "António Enes"
-        population: 74624
-        slug: antonio-enes
-      - 
-        districts: []
-        location: "POINT (-14.8705599999999993 37.0044400000000024)"
-        name: Mutuáli
-        population: 30523
-        slug: mutuali
-      - 
-        districts: []
-        location: "POINT (-11.3166700000000002 40.3500000000000014)"
-        name: Mocímboa
-        population: 27909
-        slug: mocimboa
-    code: MZ.06
-    name: Nampula
-    slug: nampula
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-13.3127800000000001 35.2405600000000021)"
-        name: Lichinga
-        population: 109839
-        slug: lichinga
-      - 
-        districts: []
-        location: "POINT (-14.8030600000000003 36.5372199999999978)"
-        name: Cuamba
-        population: 73268
-        slug: cuamba
-      - 
-        districts: []
-        location: "POINT (-16.1563899999999983 33.5866699999999980)"
-        name: Tete
-        population: 129316
-        slug: tete
-    code: MZ.07
-    name: Niassa
-    slug: niassa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-17.8786099999999983 36.8883300000000034)"
+        alternate_names: 
+          - Kelimane
+          - Kelimanė
+          - Quelimane
+        ascii_name: Quelimane
         name: Quelimane
+        names_en: 
+          - Quelimane
+        names_es: 
+          - Quelimane
         population: 188964
-        slug: quelimane
       - 
-        districts: []
-        location: "POINT (-16.8402799999999999 38.2569400000000002)"
+        alternate_names: ~
+        ascii_name: Mocuba
         name: Mocuba
+        names_en: ~
+        names_es: ~
         population: 68984
-        slug: mocuba
-    code: MZ.09
     name: Zambézia
-    slug: zambezia
-tld: mz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Tete"
+    cities: 
+      - 
+        alternate_names: 
+          - Tete
+          - Vila-de-Santiago-Maior
+          - "tai te"
+        ascii_name: Tete
+        name: Tete
+        names_en: 
+          - Tete
+        names_es: 
+          - Tete
+        population: 129316
+    name: Tete
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Sofala"
+    cities: 
+      - 
+        alternate_names: 
+          - Dondo
+          - "Vila do Dondo"
+          - Дондо
+        ascii_name: Dondo
+        name: Dondo
+        names_en: 
+          - Dondo
+        names_es: ~
+        population: 78648
+      - 
+        alternate_names: 
+          - Beira
+          - Bejra
+          - "bei la"
+        ascii_name: Beira
+        name: Beira
+        names_en: 
+          - Beira
+        names_es: ~
+        population: 530604
+    name: Sofala
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Niassa"
+    cities: 
+      - 
+        alternate_names: 
+          - Lichinga
+          - Lisinga
+          - Lišinga
+        ascii_name: Lichinga
+        name: Lichinga
+        names_en: 
+          - Lichinga
+        names_es: 
+          - Lichinga
+        population: 109839
+      - 
+        alternate_names: 
+          - Cuamba
+          - Cuanda
+          - Guamba
+        ascii_name: Cuamba
+        name: Cuamba
+        names_en: 
+          - Cuamba
+        names_es: ~
+        population: 73268
+    name: Niassa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Nampula"
+    cities: 
+      - 
+        alternate_names: 
+          - Nampula
+          - Нампула
+        ascii_name: Nampula
+        name: Nampula
+        names_en: 
+          - Nampula
+        names_es: 
+          - Nampula
+        population: 388526
+      - 
+        alternate_names: 
+          - "Cidade de Nacala"
+          - "Fernao Veloso"
+          - "Fernão Veloso"
+        ascii_name: "Cidade de Nacala"
+        name: "Cidade de Nacala"
+        names_en: ~
+        names_es: ~
+        population: 224795
+      - 
+        alternate_names: 
+          - "Ilha de Mocambique"
+          - "Ilha de Moçambique"
+          - Mocambique
+        ascii_name: "Ilha de Mocambique"
+        name: "Ilha de Moçambique"
+        names_en: ~
+        names_es: ~
+        population: 54315
+      - 
+        alternate_names: 
+          - Angoche
+          - "Antonio Enes"
+          - "Antonio Engs"
+        ascii_name: "Antonio Enes"
+        name: "António Enes"
+        names_en: 
+          - Angoche
+        names_es: ~
+        population: 74624
+      - 
+        alternate_names: ~
+        ascii_name: Mutuali
+        name: Mutuáli
+        names_en: ~
+        names_es: ~
+        population: 30523
+    name: Nampula
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Maputo
+    cities: 
+      - 
+        alternate_names: 
+          - "Cidade da Matola"
+          - Matola
+          - "Vila Salazar"
+        ascii_name: Matola
+        name: Matola
+        names_en: 
+          - Matola
+        names_es: ~
+        population: 543907
+    name: Maputo
+    names_en: 
+      - "Maputo Province"
+      - Maputo
+    names_es: 
+      - Maputo
+  - 
+    ascii_name: "Provincia de Manica"
+    cities: 
+      - 
+        alternate_names: 
+          - Chimoio
+          - Chimoyo
+          - Shimojo
+        ascii_name: Chimoio
+        name: Chimoio
+        names_en: ~
+        names_es: ~
+        population: 256936
+    name: Manica
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Inhambane"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Maxixe
+        name: Maxixe
+        names_en: ~
+        names_es: ~
+        population: 119868
+      - 
+        alternate_names: 
+          - In'jambane
+          - Inhambane
+          - Иньямбане
+        ascii_name: Inhambane
+        name: Inhambane
+        names_en: 
+          - Inhambane
+        names_es: 
+          - Inhambane
+        population: 73884
+    name: Inhambane
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Gaza"
+    cities: 
+      - 
+        alternate_names: 
+          - "Chai Chai"
+          - "Joa Belo"
+          - "Joao Belo"
+        ascii_name: Xai-Xai
+        name: Xai-Xai
+        names_en: 
+          - Xai-Xai
+        names_es: 
+          - "Xai Xai"
+        population: 127366
+      - 
+        alternate_names: 
+          - Macia
+          - "Vila de Macia"
+        ascii_name: Macia
+        name: Macia
+        names_en: ~
+        names_es: ~
+        population: 23156
+      - 
+        alternate_names: 
+          - Cheverine
+          - Manjacaze
+          - "Vila de Manjacaze"
+        ascii_name: Manjacaze
+        name: Manjacaze
+        names_en: ~
+        names_es: ~
+        population: 25541
+      - 
+        alternate_names: 
+          - Chokue
+          - Chokué
+          - Chokwe
+        ascii_name: Chokwe
+        name: Chokwé
+        names_en: 
+          - Chokwé
+        names_es: ~
+        population: 63695
+      - 
+        alternate_names: 
+          - Chibuto
+          - "Vila do Chibuto"
+        ascii_name: Chibuto
+        name: Chibuto
+        names_en: ~
+        names_es: ~
+        population: 59165
+    name: Gaza
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Cabo Delgado"
+    cities: 
+      - 
+        alternate_names: 
+          - Pemba
+          - "Porto Amelia"
+          - Пемба
+        ascii_name: Pemba
+        name: Pemba
+        names_en: ~
+        names_es: ~
+        population: 108737
+      - 
+        alternate_names: 
+          - Montepuez
+          - Montepveze
+          - "Vila de Montepuez"
+        ascii_name: Montepuez
+        name: Montepuez
+        names_en: 
+          - Montepuez
+        names_es: 
+          - Montepuez
+        population: 72279
+    name: "Cabo Delgado"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Cidade de Maputo"
+    cities: 
+      - 
+        alternate_names: 
+          - "Can Pfumo"
+          - Kapfumo
+          - "Lourenco Marques"
+        ascii_name: Maputo
+        name: Maputo
+        names_en: 
+          - Maputo
+        names_es: 
+          - Maputo
+        population: 1191613
+    name: Maputo
+    names_en: ~
+    names_es: ~

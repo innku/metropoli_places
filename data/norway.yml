@@ -1,1915 +1,4762 @@
 --- 
-code: "NO"
-continent: EU
 name: Norway
-population: 4907000
+names_en: 
+  - Norway
+  - "Kingdom of Norway"
+names_es: 
+  - Noruega
 regions: 
   - 
-    abbr: AK
+    ascii_name: "Finnmark Fylke"
     cities: 
       - 
-        districts: []
-        location: "POINT (59.6000000000000014 10.7500000000000000)"
-        name: Vestby
-        population: 5330
-        slug: vestby
-      - 
-        districts: []
-        location: "POINT (59.9852899999999991 11.2391900000000007)"
-        name: Sørumsand
-        population: 3563
-        slug: srumsand
-      - 
-        districts: []
-        location: "POINT (59.9274600000000035 10.4474999999999998)"
-        name: Skui
-        population: 3487
-        slug: skui
-      - 
-        districts: []
-        location: "POINT (59.7166700000000006 10.8333300000000001)"
-        name: Ski
-        population: 12513
-        slug: ski
-      - 
-        districts: []
-        location: "POINT (60.0499999999999972 10.8833300000000008)"
-        name: Rotnes
-        population: 4705
-        slug: rotnes
-      - 
-        districts: []
-        location: "POINT (60.2666699999999977 11.1833299999999998)"
-        name: Råholt
-        population: 8593
-        slug: raholt
-      - 
-        districts: []
-        location: "POINT (60.2500000000000000 11.0166699999999995)"
-        name: Maura
-        population: 2400
-        slug: maura
-      - 
-        districts: []
-        location: "POINT (59.9570700000000016 11.0495000000000001)"
-        name: Lillestrøm
-        population: 14000
-        slug: lillestrm
-      - 
-        districts: []
-        location: "POINT (60.0000000000000000 11.0999999999999996)"
-        name: Leirsund
-        population: 1177
-        slug: leirsund
-      - 
-        districts: []
-        location: "POINT (60.0666700000000020 11.1500000000000004)"
-        name: Kløfta
-        population: 5942
-        slug: klfta
-      - 
-        districts: []
-        location: "POINT (60.1449199999999990 11.1717200000000005)"
-        name: Jessheim
-        population: 12365
-        slug: jessheim
-      - 
-        districts: []
-        location: "POINT (60.0833299999999966 11.0999999999999996)"
-        name: Gjerdrum
-        population: 2174
-        slug: gjerdrum
-      - 
-        districts: []
-        location: "POINT (60.0166699999999977 11.0999999999999996)"
-        name: Frogner
-        population: 1108
-        slug: frogner
-      - 
-        districts: []
-        location: "POINT (59.8333299999999966 11.1666699999999999)"
-        name: Flateby
-        population: 3175
-        slug: flateby
-      - 
-        districts: []
-        location: "POINT (59.9280100000000004 11.1632300000000004)"
-        name: Fetsund
-        population: 6441
-        slug: fetsund
-      - 
-        districts: []
-        location: "POINT (59.7347200000000029 10.5930599999999995)"
-        name: Fagerstrand
-        population: 1990
-        slug: fagerstrand
-      - 
-        districts: []
-        location: "POINT (59.6633300000000020 10.6311099999999996)"
-        name: Drøbak
-        population: 11363
-        slug: drbak
-      - 
-        districts: []
-        location: "POINT (59.8191699999999997 10.4747199999999996)"
-        name: Blakstad
-        population: 1898
-        slug: blakstad
-      - 
-        districts: []
-        location: "POINT (59.8833300000000008 11.5666700000000002)"
-        name: Bjørkelangen
-        population: 2346
-        slug: bjrkelangen
-      - 
-        districts: []
-        location: "POINT (59.9166700000000034 11.4333299999999998)"
-        name: Aurskog
-        population: 2173
-        slug: aurskog
-      - 
-        districts: []
-        location: "POINT (60.0345000000000013 11.3604599999999998)"
-        name: Auli
-        population: 2638
-        slug: auli
-      - 
-        districts: []
-        location: "POINT (60.0734899999999996 11.0316500000000008)"
-        name: Ask
-        population: 1038
-        slug: ask
-      - 
-        districts: []
-        location: "POINT (59.6666700000000034 10.8000000000000007)"
-        name: Ås
-        population: 7961
-        slug: as
-      - 
-        districts: []
-        location: "POINT (60.1199599999999990 11.4747000000000003)"
-        name: Årnes
-        population: 3289
-        slug: arnes
-      - 
-        districts: []
-        location: "POINT (60.0833299999999966 10.8666699999999992)"
-        name: Åneby
-        population: 1373
-        slug: aneby
-      - 
-        districts: []
-        location: "POINT (59.8707399999999978 10.6570400000000003)"
-        name: Nesoddtangen
-        population: 10911
-        slug: nesoddtangen
-      - 
-        districts: []
-        location: "POINT (60.0896699999999981 11.4722200000000001)"
-        name: Fjellfoten
-        population: 1029
-        slug: fjellfoten
-      - 
-        districts: []
-        location: "POINT (60.1215899999999976 11.3392599999999995)"
-        name: Neskollen
-        population: 1157
-        slug: neskollen
-      - 
-        districts: []
-        location: "POINT (59.9132499999999979 10.7389200000000002)"
-        name: Oslo
-        population: 580000
-        slug: oslo
-    code: NO.01
-    name: Akershus
-    slug: akershus
-  - 
-    abbr: AA
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.6244399999999999 8.9286100000000008)"
-        name: Tvedestrand
-        population: 1975
-        slug: tvedestrand
-      - 
-        districts: []
-        location: "POINT (58.7166700000000006 9.2333300000000005)"
-        name: Risør
-        population: 4475
-        slug: risr
-      - 
-        districts: []
-        location: "POINT (58.2522200000000012 8.3783300000000001)"
-        name: Lillesand
-        population: 6081
-        slug: lillesand
-      - 
-        districts: []
-        location: "POINT (58.3405600000000035 8.5886099999999992)"
-        name: Grimstad
-        population: 9561
-        slug: grimstad
-      - 
-        districts: []
-        location: "POINT (58.3793799999999976 8.6765799999999995)"
-        name: Fevik
-        population: 4989
-        slug: fevik
-      - 
-        districts: []
-        location: "POINT (58.3333299999999966 8.2333300000000005)"
-        name: Birkeland
-        population: 2254
-        slug: birkeland
-      - 
-        districts: []
-        location: "POINT (58.4602799999999974 8.7666699999999995)"
-        name: Arendal
-        population: 30916
-        slug: arendal
-    code: NO.02
-    name: Aust-Agder
-    slug: aust-agder
-  - 
-    abbr: BU
-    cities: 
-      - 
-        districts: []
-        location: "POINT (59.9833300000000023 10.0333299999999994)"
-        name: Vikersund
-        population: 2448
-        slug: vikersund
-      - 
-        districts: []
-        location: "POINT (59.8166700000000020 10.2500000000000000)"
-        name: Tranby
-        population: 5552
-        slug: tranby
-      - 
-        districts: []
-        location: "POINT (59.5483300000000000 10.5661100000000001)"
-        name: Tofte
-        population: 3109
-        slug: tofte
-      - 
-        districts: []
-        location: "POINT (59.6816699999999969 10.5247200000000003)"
-        name: Sætre
-        population: 3009
-        slug: stre
-      - 
-        districts: []
-        location: "POINT (59.7475000000000023 10.3936100000000007)"
-        name: Røyken
-        population: 2775
-        slug: ryken
-      - 
-        districts: []
-        location: "POINT (60.5666700000000020 9.0999999999999996)"
-        name: Nesbyen
-        population: 2086
-        slug: nesbyen
-      - 
-        districts: []
-        location: "POINT (59.6499999999999986 9.6500000000000004)"
-        name: Kongsberg
-        population: 17667
-        slug: kongsberg
-      - 
-        districts: []
-        location: "POINT (59.4833300000000023 10.0166699999999995)"
-        name: Hvittingfoss
-        population: 1016
-        slug: hvittingfoss
-      - 
-        districts: []
-        location: "POINT (60.1666700000000034 10.3000000000000007)"
-        name: Hønefoss
-        population: 13678
-        slug: hnefoss
-      - 
-        districts: []
-        location: "POINT (60.8629299999999986 8.5533699999999993)"
-        name: Hemsedal
-        population: 1876
-        slug: hemsedal
-      - 
-        districts: []
-        location: "POINT (60.7000000000000028 8.9499999999999993)"
-        name: Gol
-        population: 2530
-        slug: gol
-      - 
-        districts: []
-        location: "POINT (60.5333100000000002 8.2076499999999992)"
-        name: Geilo
-        population: 2276
-        slug: geilo
-      - 
-        districts: []
-        location: "POINT (59.7439400000000020 10.2044899999999998)"
-        name: Drammen
-        population: 90722
-        slug: drammen
-      - 
-        districts: []
-        location: "POINT (59.7030600000000007 10.5136099999999999)"
-        name: Åros
-        population: 1142
-        slug: aros
-      - 
-        districts: []
-        location: "POINT (60.6333300000000008 8.5666700000000002)"
-        name: Ål
-        population: 2278
-        slug: al
-    code: NO.04
-    name: Buskerud
-    slug: buskerud
-  - 
-    abbr: FI
-    cities: 
-      - 
-        districts: []
-        location: "POINT (70.3666699999999992 31.1000000000000014)"
+        alternate_names: 
+          - VARDE
+          - Vard'o
+          - Varde
+        ascii_name: Vardo
         name: Vardø
+        names_en: 
+          - Vardø
+        names_es: ~
         population: 2075
-        slug: vard
       - 
-        districts: []
-        location: "POINT (70.0765800000000070 29.7671099999999988)"
+        alternate_names: 
+          - Varangerboti
+          - Varangerbotn
+          - Варангерботи
+        ascii_name: Varangerbotn
+        name: Varangerbotn
+        names_en: 
+          - Varangerbotn
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Cahcesuolu
+          - VADSE
+          - Vadse
+        ascii_name: Vadso
         name: Vadsø
+        names_en: 
+          - Vadsø
+        names_es: 
+          - Vadsø
         population: 5139
-        slug: vads
       - 
-        districts: []
-        location: "POINT (70.0499999999999972 24.9333300000000015)"
+        alternate_names: 
+          - Oksfjord
+          - Øksfjord
+        ascii_name: Oksfjord
+        name: Øksfjord
+        names_en: ~
+        names_es: ~
+        population: 515
+      - 
+        alternate_names: 
+          - Mehamn
+          - Mehavn
+          - Mekhamn
+        ascii_name: Mehamn
+        name: Mehamn
+        names_en: 
+          - Mehamn
+        names_es: ~
+        population: 742
+      - 
+        alternate_names: 
+          - Lakeselv
+          - Laksehl'v
+          - Lakselv
+        ascii_name: Lakselv
         name: Lakselv
+        names_en: 
+          - Lakselv
+        names_es: ~
         population: 2168
-        slug: lakselv
       - 
-        districts: []
-        location: "POINT (69.7270999999999930 30.0448799999999991)"
+        alternate_names: ~
+        ascii_name: Kvalsund
+        name: Kvalsund
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kjollefjord
+        name: Kjøllefjord
+        names_en: ~
+        names_es: ~
+        population: 975
+      - 
+        alternate_names: 
+          - Girkonjarga
+          - Girkonjárga
+          - KIRKENES
+        ascii_name: Kirkenes
         name: Kirkenes
+        names_en: 
+          - Kirkenes
+        names_es: ~
         population: 3282
-        slug: kirkenes
       - 
-        districts: []
-        location: "POINT (69.0123600000000010 23.0411600000000014)"
+        alternate_names: 
+          - Guovdagaeidno
+          - Guovdagaeino
+          - Guovdageaidnu
+        ascii_name: Kautokeino
         name: Kautokeino
+        names_en: ~
+        names_es: ~
         population: 2000
-        slug: kautokeino
       - 
-        districts: []
-        location: "POINT (69.4738100000000003 25.5174599999999998)"
+        alternate_names: 
+          - Karasjohka
+          - Karasjok
+          - Kárášjohka
+        ascii_name: Karasjok
         name: Karasjok
+        names_en: 
+          - Karasjok
+        names_es: ~
         population: 1908
-        slug: karasjok
       - 
-        districts: []
-        location: "POINT (70.9766300000000001 25.9825799999999987)"
+        alternate_names: 
+          - Honnesvahki
+          - Honnesváhki
+          - Honningsvaag
+        ascii_name: Honningsvag
         name: Honningsvåg
+        names_en: 
+          - Honningsvåg
+        names_es: ~
         population: 2541
-        slug: honningsvag
       - 
-        districts: []
-        location: "POINT (71.0005599999999930 24.6961100000000009)"
+        alternate_names: 
+          - Havosund
+          - Havoysund
+          - Havøsund
+        ascii_name: Havoysund
         name: Havøysund
+        names_en: 
+          - Havøysund
+        names_es: ~
         population: 1138
-        slug: havysund
       - 
-        districts: []
-        location: "POINT (70.6633900000000068 23.6819300000000013)"
+        alternate_names: 
+          - Hammarfeasta
+          - Hammerfest
+          - Hámmárfeasta
+        ascii_name: Hammerfest
         name: Hammerfest
+        names_en: 
+          - Hammerfest
+        names_es: 
+          - Hammerfest
         population: 6788
-        slug: hammerfest
       - 
-        districts: []
-        location: "POINT (69.6672200000000004 29.9847199999999994)"
+        alternate_names: 
+          - Bjornevand
+          - Bjornevatn
+          - Bjornvandet
+        ascii_name: Bjornevatn
         name: Bjørnevatn
+        names_en: ~
+        names_es: ~
         population: 2392
-        slug: bjrnevatn
       - 
-        districts: []
-        location: "POINT (70.8499999999999943 29.1000000000000014)"
+        alternate_names: 
+          - Berlevaag
+          - Berlevag
+          - Berlevog
+        ascii_name: Berlevag
         name: Berlevåg
+        names_en: 
+          - Berlevåg
+        names_es: ~
         population: 1085
-        slug: berlevag
       - 
-        districts: []
-        location: "POINT (70.6322200000000038 29.6997199999999992)"
+        alternate_names: 
+          - Baasfjord
+          - Batsfjord
+          - Botsf'ord
+        ascii_name: Batsfjord
         name: Båtsfjord
+        names_en: 
+          - Båtsfjord
+        names_es: ~
         population: 2166
-        slug: batsfjord
       - 
-        districts: []
-        location: "POINT (69.9666699999999935 23.2416699999999992)"
+        alternate_names: 
+          - Alaheadju
+          - Alattio
+          - Alta
+        ascii_name: Alta
         name: Alta
+        names_en: 
+          - Alta
+        names_es: 
+          - Alta
         population: 12077
-        slug: alta
       - 
-        districts: []
-        location: "POINT (70.6333300000000008 23.6666699999999999)"
+        alternate_names: 
+          - Rypefjord
+        ascii_name: Rypefjord
         name: Rypefjord
+        names_en: ~
+        names_es: ~
         population: 1731
-        slug: rypefjord
-    code: NO.05
+      - 
+        alternate_names: ~
+        ascii_name: Breivikbotn
+        name: Breivikbotn
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Tana bru"
+        name: "Tana bru"
+        names_en: ~
+        names_es: ~
+        population: 0
     name: Finnmark
-    slug: finnmark
+    names_en: ~
+    names_es: ~
   - 
-    abbr: HE
+    ascii_name: "Vestfold Fylke"
     cities: 
       - 
-        districts: []
-        location: "POINT (60.6666700000000034 11.8333300000000001)"
-        name: Våler
-        population: 1188
-        slug: valer
-      - 
-        districts: []
-        location: "POINT (62.2833299999999994 10.7833299999999994)"
-        name: Tynset
-        population: 2356
-        slug: tynset
-      - 
-        districts: []
-        location: "POINT (61.3166700000000020 12.2666699999999995)"
-        name: Trysil
-        population: 2250
-        slug: trysil
-      - 
-        districts: []
-        location: "POINT (60.7166700000000006 11.1833299999999998)"
-        name: Stange
-        population: 2416
-        slug: stange
-      - 
-        districts: []
-        location: "POINT (60.1833299999999980 11.9000000000000004)"
-        name: Spetalen
-        population: 1969
-        slug: spetalen
-      - 
-        districts: []
-        location: "POINT (59.9833300000000023 12.1166699999999992)"
-        name: Skotterud
-        population: 1361
-        slug: skotterud
-      - 
-        districts: []
-        location: "POINT (60.2500000000000000 11.6833299999999998)"
-        name: Skarnes
-        population: 2172
-        slug: skarnes
-      - 
-        districts: []
-        location: "POINT (61.1333300000000008 11.3666699999999992)"
-        name: Rena
-        population: 2009
-        slug: rena
-      - 
-        districts: []
-        location: "POINT (60.9333299999999980 10.6999999999999993)"
-        name: Moelv
-        population: 4049
-        slug: moelv
-      - 
-        districts: []
-        location: "POINT (60.8166700000000020 11.3166700000000002)"
-        name: Løten
-        population: 2458
-        slug: lten
-      - 
-        districts: []
-        location: "POINT (61.5666700000000020 11.0666700000000002)"
-        name: Koppang
-        population: 1182
-        slug: koppang
-      - 
-        districts: []
-        location: "POINT (60.2000000000000028 12.0000000000000000)"
-        name: Kongsvinger
-        population: 11181
-        slug: kongsvinger
-      - 
-        districts: []
-        location: "POINT (60.4666700000000006 12.0500000000000007)"
-        name: Kirkenær
-        population: 1252
-        slug: kirkenr
-      - 
-        districts: []
-        location: "POINT (60.7999999999999972 11.0999999999999996)"
-        name: Hamar
-        population: 29479
-        slug: hamar
-      - 
-        districts: []
-        location: "POINT (60.8833300000000008 11.5666700000000002)"
-        name: Elverum
-        population: 12490
-        slug: elverum
-      - 
-        districts: []
-        location: "POINT (60.8833300000000008 10.9333299999999998)"
-        name: Brumunddal
-        population: 8441
-        slug: brumunddal
-    code: NO.06
-    name: Hedmark
-    slug: hedmark
-  - 
-    abbr: HO
-    cities: 
-      - 
-        districts: []
-        location: "POINT (60.4666700000000006 5.4333299999999998)"
-        name: "Ytre Arna"
-        population: 2484
-        slug: ytre-arna
-      - 
-        districts: []
-        location: "POINT (60.6333300000000008 6.4333299999999998)"
-        name: Vossevangen
-        population: 5571
-        slug: vossevangen
-      - 
-        districts: []
-        location: "POINT (60.2374999999999972 5.4483300000000003)"
-        name: Syfteland
-        population: 1170
-        slug: syfteland
-      - 
-        districts: []
-        location: "POINT (60.1000000000000014 5.2333299999999996)"
-        name: Storabø
-        population: 1026
-        slug: storab
-      - 
-        districts: []
-        location: "POINT (59.7786100000000005 5.3961100000000002)"
-        name: Sagvåg
-        population: 3288
-        slug: sagvag
-      - 
-        districts: []
-        location: "POINT (59.8147200000000012 5.2680600000000002)"
-        name: Rubbestadneset
-        population: 1130
-        slug: rubbestadneset
-      - 
-        districts: []
-        location: "POINT (60.3882499999999993 6.1925100000000004)"
-        name: Øystese
-        population: 1634
-        slug: ystese
-      - 
-        districts: []
-        location: "POINT (60.0666700000000020 6.5499999999999998)"
-        name: Odda
-        population: 5359
-        slug: odda
-      - 
-        districts: []
-        location: "POINT (60.3666699999999992 6.1333299999999999)"
-        name: Norheimsund
-        population: 2146
-        slug: norheimsund
-      - 
-        districts: []
-        location: "POINT (59.7000000000000028 5.3833299999999999)"
-        name: Mosterhamn
-        population: 1167
-        slug: mosterhamn
-      - 
-        districts: []
-        location: "POINT (60.7380599999999973 5.1600000000000001)"
-        name: Lindås
-        population: 1087
-        slug: lindas
-      - 
-        districts: []
-        location: "POINT (59.7800000000000011 5.4994399999999999)"
-        name: Leirvik
-        population: 11028
-        slug: leirvik
-      - 
-        districts: []
-        location: "POINT (60.3819400000000002 5.0558300000000003)"
-        name: Knappskog
-        population: 1045
-        slug: knappskog
-      - 
-        districts: []
-        location: "POINT (60.5102800000000016 5.3544400000000003)"
-        name: Hylkje
-        population: 1853
-        slug: hylkje
-      - 
-        districts: []
-        location: "POINT (60.1833299999999980 5.4333299999999998)"
-        name: Hagavik
-        population: 1305
-        slug: hagavik
-      - 
-        districts: []
-        location: "POINT (60.5172200000000018 5.2461099999999998)"
-        name: Frekhaug
-        population: 1610
-        slug: frekhaug
-      - 
-        districts: []
-        location: "POINT (59.9174999999999969 5.3227799999999998)"
-        name: Fitjar
-        population: 1280
-        slug: fitjar
-      - 
-        districts: []
-        location: "POINT (59.6666700000000034 5.9333299999999998)"
-        name: Etnesjøen
-        population: 1002
-        slug: etnesjen
-      - 
-        districts: []
-        location: "POINT (60.3833300000000008 5.4666699999999997)"
-        name: Espeland
-        population: 1793
-        slug: espeland
-      - 
-        districts: []
-        location: "POINT (60.5833299999999966 5.8166700000000002)"
-        name: Dale
-        population: 1167
-        slug: dale
-      - 
-        districts: []
-        location: "POINT (60.3931600000000017 5.3242799999999999)"
-        name: Bergen
-        population: 213585
-        slug: bergen
-      - 
-        districts: []
-        location: "POINT (60.4247200000000007 5.4763900000000003)"
-        name: "Indre Arna"
-        population: 6117
-        slug: indre-arna
-      - 
-        districts: []
-        location: "POINT (60.4061099999999982 5.0188899999999999)"
-        name: Ågotnes
-        population: 1344
-        slug: agotnes
-      - 
-        districts: []
-        location: "POINT (60.3999999999999986 5.1833299999999998)"
-        name: Askøy
-        population: 17224
-        slug: asky
-      - 
-        districts: []
-        location: "POINT (60.3032299999999992 5.2855400000000001)"
-        name: Sandsli
-        population: 1070
-        slug: sandsli
-    code: NO.07
-    name: Hordaland
-    slug: hordaland
-  - 
-    abbr: MR
-    cities: 
-      - 
-        districts: []
-        location: "POINT (62.1499999999999986 6.0999999999999996)"
-        name: Volda
-        population: 5376
-        slug: volda
-      - 
-        districts: []
-        location: "POINT (62.5666700000000020 6.6500000000000004)"
-        name: Vatne
-        population: 1609
-        slug: vatne
-      - 
-        districts: []
-        location: "POINT (62.3333299999999966 5.8833299999999999)"
-        name: Ulsteinvik
-        population: 5103
-        slug: ulsteinvik
-      - 
-        districts: []
-        location: "POINT (62.5833299999999966 6.9333299999999998)"
-        name: Tomra
-        population: 1167
-        slug: tomra
-      - 
-        districts: []
-        location: "POINT (62.6666700000000034 8.5500000000000007)"
-        name: Sunndalsøra
-        population: 4159
-        slug: sunndalsra
-      - 
-        districts: []
-        location: "POINT (62.3166700000000020 6.9000000000000004)"
-        name: Stranda
-        population: 2499
-        slug: stranda
-      - 
-        districts: []
-        location: "POINT (62.5166699999999977 6.7166699999999997)"
-        name: Skodje
-        population: 1634
-        slug: skodje
-      - 
-        districts: []
-        location: "POINT (62.4833300000000023 6.7999999999999998)"
-        name: Sjøholt
-        population: 1133
-        slug: sjholt
-      - 
-        districts: []
-        location: "POINT (63.1000000000000014 7.8166700000000002)"
-        name: Reinsvik
-        population: 2121
-        slug: reinsvik
-      - 
-        districts: []
-        location: "POINT (62.7333300000000023 7.1833299999999998)"
-        name: Molde
-        population: 18594
-        slug: molde
-      - 
-        districts: []
-        location: "POINT (63.1204999999999998 7.7128300000000003)"
-        name: Kristiansund
-        population: 16785
-        slug: kristiansund
-      - 
-        districts: []
-        location: "POINT (62.7833299999999994 7.4833299999999996)"
-        name: Hjelset
-        population: 1011
-        slug: hjelset
-      - 
-        districts: []
-        location: "POINT (62.3666699999999992 6.0333300000000003)"
-        name: Hareid
-        population: 3626
-        slug: hareid
-      - 
-        districts: []
-        location: "POINT (62.9166700000000034 7.4333299999999998)"
-        name: Eide
-        population: 1155
-        slug: eide
-      - 
-        districts: []
-        location: "POINT (62.6000000000000014 6.4500000000000002)"
-        name: Brattvåg
-        population: 2146
-        slug: brattvag
-      - 
-        districts: []
-        location: "POINT (62.5666700000000020 7.7000000000000002)"
-        name: Åndalsnes
-        population: 2035
-        slug: andalsnes
-      - 
-        districts: []
-        location: "POINT (62.4708299999999994 6.1521299999999997)"
-        name: Ålesund
-        population: 44096
-        slug: alesund
-      - 
-        districts: []
-        location: "POINT (62.9130600000000015 8.2055600000000002)"
-        name: Tingvoll
-        population: 1005
-        slug: tingvoll
-      - 
-        districts: []
-        location: "POINT (62.2033899999999988 6.1296799999999996)"
-        name: Ørsta
-        population: 6337
-        slug: rsta
-      - 
-        districts: []
-        location: "POINT (62.6333300000000008 7.0833300000000001)"
-        name: Vestnes
-        population: 2088
-        slug: vestnes
-    code: NO.08
-    name: "Møre og Romsdal"
-    slug: mre-og-romsdal
-  - 
-    abbr: false
-    cities: 
-      - 
-        districts: []
-        location: "POINT (68.2333299999999952 14.5666700000000002)"
-        name: Svolvær
-        population: 4197
-        slug: svolvr
-      - 
-        districts: []
-        location: "POINT (68.5619400000000070 14.9086099999999995)"
-        name: Stokmarknes
-        population: 3119
-        slug: stokmarknes
-      - 
-        districts: []
-        location: "POINT (68.7019399999999933 15.4238900000000001)"
-        name: Sortland
-        population: 4620
-        slug: sortland
-      - 
-        districts: []
-        location: "POINT (66.0166700000000048 12.6333300000000008)"
-        name: Sandnessjøen
-        population: 5778
-        slug: sandnessjen
-      - 
-        districts: []
-        location: "POINT (67.0999999999999943 15.3833300000000008)"
-        name: Rognan
-        population: 2499
-        slug: rognan
-      - 
-        districts: []
-        location: "POINT (66.8666699999999992 13.6999999999999993)"
-        name: Ørnes
-        population: 1538
-        slug: rnes
-      - 
-        districts: []
-        location: "POINT (66.2000000000000028 13.0333299999999994)"
-        name: Nesna
-        population: 1211
-        slug: nesna
-      - 
-        districts: []
-        location: "POINT (68.4355599999999953 17.4372199999999999)"
-        name: Narvik
-        population: 14114
-        slug: narvik
-      - 
-        districts: []
-        location: "POINT (69.1036100000000033 15.9491700000000005)"
-        name: Myre
-        population: 1995
-        slug: myre
-      - 
-        districts: []
-        location: "POINT (65.8333300000000037 13.1999999999999993)"
-        name: Mosjøen
-        population: 9636
-        slug: mosjen
-      - 
-        districts: []
-        location: "POINT (66.3166700000000020 14.1666699999999999)"
-        name: "Mo i Rana"
-        population: 17853
-        slug: mo-i-rana
-      - 
-        districts: []
-        location: "POINT (68.5044400000000024 14.8297200000000000)"
-        name: Melbu
-        population: 2161
-        slug: melbu
-      - 
-        districts: []
-        location: "POINT (67.3166700000000020 14.4499999999999993)"
-        name: Løpsmarka
-        population: 2308
-        slug: lpsmarka
-      - 
-        districts: []
-        location: "POINT (68.4072199999999953 15.9919399999999996)"
-        name: Lødingen
-        population: 1808
-        slug: ldingen
-      - 
-        districts: []
-        location: "POINT (67.2999999999999972 14.7500000000000000)"
-        name: Løding
-        population: 2835
-        slug: lding
-      - 
-        districts: []
-        location: "POINT (68.2113899999999944 14.4816699999999994)"
-        name: Kabelvåg
-        population: 1638
-        slug: kabelvag
-      - 
-        districts: []
-        location: "POINT (66.2333299999999952 13.6333300000000008)"
-        name: Hemnesberget
-        population: 1243
-        slug: hemnesberget
-      - 
-        districts: []
-        location: "POINT (66.2833300000000065 14.0666700000000002)"
-        name: Hauknes
-        population: 1864
-        slug: hauknes
-      - 
-        districts: []
-        location: "POINT (68.1213900000000052 13.5030599999999996)"
-        name: Gravdal
-        population: 1624
-        slug: gravdal
-      - 
-        districts: []
-        location: "POINT (66.8166700000000020 13.9666700000000006)"
-        name: Glomfjord
-        population: 1204
-        slug: glomfjord
-      - 
-        districts: []
-        location: "POINT (67.2598700000000065 15.3842900000000000)"
-        name: Fauske
-        population: 5953
-        slug: fauske
-      - 
-        districts: []
-        location: "POINT (68.2666700000000048 13.7333300000000005)"
-        name: Evjen
-        population: 2127
-        slug: evjen
-      - 
-        districts: []
-        location: "POINT (65.4666699999999935 12.2166700000000006)"
-        name: Brønnøysund
-        population: 4366
-        slug: brnnysund
-      - 
-        districts: []
-        location: "POINT (67.2833300000000065 14.3833300000000008)"
-        name: Bodø
-        population: 34073
-        slug: bod
-      - 
-        districts: []
-        location: "POINT (68.5597199999999987 17.5188899999999990)"
-        name: Bjørkvang
-        population: 1220
-        slug: bjrkvang
-      - 
-        districts: []
-        location: "POINT (69.3188099999999991 16.1279299999999992)"
-        name: Andenes
-        population: 2766
-        slug: andenes
-    code: NO.09
-    name: Nordland
-    slug: nordland
-  - 
-    abbr: NT
-    cities: 
-      - 
-        districts: []
-        location: "POINT (63.7980700000000027 11.4845799999999993)"
-        name: Verdalsøra
-        population: 7154
-        slug: verdalsra
-      - 
-        districts: []
-        location: "POINT (63.8666699999999992 11.3000000000000007)"
-        name: Straumen
-        population: 1147
-        slug: straumen
-      - 
-        districts: []
-        location: "POINT (63.4666700000000006 10.9333299999999998)"
-        name: Stjørdalshalsen
-        population: 9873
-        slug: stjrdalshalsen
-      - 
-        districts: []
-        location: "POINT (64.0166700000000048 11.5000000000000000)"
-        name: Steinkjer
-        population: 20000
-        slug: steinkjer
-      - 
-        districts: []
-        location: "POINT (63.7000000000000028 11.1999999999999993)"
-        name: Skogn
-        population: 1884
-        slug: skogn
-      - 
-        districts: []
-        location: "POINT (64.8499999999999943 11.2333300000000005)"
-        name: Rørvik
-        population: 2615
-        slug: rrvik
-      - 
-        districts: []
-        location: "POINT (64.4833299999999952 11.5000000000000000)"
-        name: Namsos
-        population: 9035
-        slug: namsos
-      - 
-        districts: []
-        location: "POINT (64.0666700000000020 11.2166700000000006)"
-        name: Malm
-        population: 1230
-        slug: malm
-      - 
-        districts: []
-        location: "POINT (63.7500000000000000 11.3000000000000007)"
-        name: Levanger
-        population: 8411
-        slug: levanger
-      - 
-        districts: []
-        location: "POINT (64.8499999999999943 11.5999999999999996)"
-        name: Kolvereid
-        population: 1467
-        slug: kolvereid
-      - 
-        districts: []
-        location: "POINT (64.4665799999999933 12.3094900000000003)"
-        name: Grong
-        population: 1052
-        slug: grong
-      - 
-        districts: []
-        location: "POINT (63.5861500000000035 10.7405100000000004)"
-        name: Frosta
-        population: 2495
-        slug: frosta
-    code: NO.10
-    name: Nord-Trøndelag
-    slug: nord-trndelag
-  - 
-    abbr: OP
-    cities: 
-      - 
-        districts: []
-        location: "POINT (61.6000000000000014 9.7500000000000000)"
-        name: Vinstra
-        population: 2449
-        slug: vinstra
-      - 
-        districts: []
-        location: "POINT (61.8833300000000008 9.0999999999999996)"
-        name: Vågåmo
-        population: 1463
-        slug: vagamo
-      - 
-        districts: []
-        location: "POINT (60.6499999999999986 10.9333299999999998)"
-        name: Skreia
-        population: 1285
-        slug: skreia
-      - 
-        districts: []
-        location: "POINT (61.5166699999999977 10.1666699999999999)"
-        name: Ringebu
-        population: 1341
-        slug: ringebu
-      - 
-        districts: []
-        location: "POINT (60.6833299999999980 10.6166699999999992)"
-        name: Reinsvoll
-        population: 1145
-        slug: reinsvoll
-      - 
-        districts: []
-        location: "POINT (60.7257699999999971 10.6110799999999994)"
-        name: Raufoss
-        population: 6052
-        slug: raufoss
-      - 
-        districts: []
-        location: "POINT (61.7666699999999977 9.5333299999999994)"
-        name: Otta
-        population: 1602
-        slug: otta
-      - 
-        districts: []
-        location: "POINT (61.8333299999999966 8.5500000000000007)"
-        name: Lom
-        population: 2406
-        slug: lom
-      - 
-        districts: []
-        location: "POINT (61.1308099999999968 10.4497099999999996)"
-        name: Lillehammer
-        population: 19096
-        slug: lillehammer
-      - 
-        districts: []
-        location: "POINT (60.6666700000000034 10.8000000000000007)"
-        name: Lena
-        population: 1092
-        slug: lena
-      - 
-        districts: []
-        location: "POINT (60.2500000000000000 10.4666700000000006)"
-        name: Jevnaker
-        population: 4308
-        slug: jevnaker
-      - 
-        districts: []
-        location: "POINT (60.7000000000000028 10.3499999999999996)"
-        name: Hov
-        population: 2095
-        slug: hov
-      - 
-        districts: []
-        location: "POINT (60.2666699999999977 10.6666699999999999)"
-        name: Grua
-        population: 1477
-        slug: grua
-      - 
-        districts: []
-        location: "POINT (60.7999999999999972 10.6999999999999993)"
-        name: Gjøvik
-        population: 17596
-        slug: gjvik
-      - 
-        districts: []
-        location: "POINT (60.9833300000000023 9.2500000000000000)"
-        name: Fagernes
-        population: 1788
-        slug: fagernes
-      - 
-        districts: []
-        location: "POINT (62.0696500000000029 9.1234599999999997)"
-        name: Dombås
-        population: 1156
-        slug: dombas
-      - 
-        districts: []
-        location: "POINT (60.8333299999999966 10.0833300000000001)"
-        name: Dokka
-        population: 2796
-        slug: dokka
-    code: NO.11
-    name: Oppland
-    slug: oppland
-  - 
-    abbr: ØF
-    cities: 
-      - 
-        districts: []
-        location: "POINT (59.6499999999999986 11.0000000000000000)"
-        name: Tomter
-        population: 1307
-        slug: tomter
-      - 
-        districts: []
-        location: "POINT (59.6000000000000014 11.0833300000000001)"
-        name: Spydeberg
-        population: 3166
-        slug: spydeberg
-      - 
-        districts: []
-        location: "POINT (59.2333300000000023 11.1999999999999993)"
-        name: Skjeberg
-        population: 1862
-        slug: skjeberg
-      - 
-        districts: []
-        location: "POINT (59.2833299999999994 11.1166699999999992)"
-        name: Sarpsborg
-        population: 52159
-        slug: sarpsborg
-      - 
-        districts: []
-        location: "POINT (59.3975700000000018 10.7278099999999998)"
-        name: Rygge
-        population: 2567
-        slug: rygge
-      - 
-        districts: []
-        location: "POINT (59.4333299999999980 11.3499999999999996)"
-        name: Rakkestad
-        population: 3779
-        slug: rakkestad
-      - 
-        districts: []
-        location: "POINT (59.4833300000000023 11.6500000000000004)"
-        name: Ørje
-        population: 1722
-        slug: rje
-      - 
-        districts: []
-        location: "POINT (59.5499999999999972 11.3333300000000001)"
-        name: Mysen
-        population: 5516
-        slug: mysen
-      - 
-        districts: []
-        location: "POINT (59.4366699999999994 10.6691699999999994)"
-        name: Moss
-        population: 34492
-        slug: moss
-      - 
-        districts: []
-        location: "POINT (59.2666699999999977 10.7500000000000000)"
-        name: Lervik
-        population: 2331
-        slug: lervik
-      - 
-        districts: []
-        location: "POINT (59.3338899999999967 10.6655599999999993)"
-        name: Larkollen
-        population: 1373
-        slug: larkollen
-      - 
-        districts: []
-        location: "POINT (59.6333300000000008 11.0500000000000007)"
-        name: Knappstad
-        population: 1133
-        slug: knappstad
-      - 
-        districts: []
-        location: "POINT (59.3500000000000014 10.8666699999999992)"
-        name: Karlshus
-        population: 1801
-        slug: karlshus
-      - 
-        districts: []
-        location: "POINT (59.1499999999999986 11.3833300000000008)"
-        name: Halden
-        population: 21970
-        slug: halden
-      - 
-        districts: []
-        location: "POINT (59.2180999999999997 10.9298000000000002)"
-        name: Fredrikstad
-        population: 72760
-        slug: fredrikstad
-      - 
-        districts: []
-        location: "POINT (59.5833299999999966 11.1666699999999999)"
-        name: Askim
-        population: 12482
-        slug: askim
-      - 
-        districts: []
-        location: "POINT (59.3750000000000000 10.7500000000000000)"
-        name: Ryggebyen
-        population: 2416
-        slug: ryggebyen
-    code: NO.13
-    name: Østfold
-    slug: stfold
-  - 
-    abbr: RO
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.5666700000000020 5.7000000000000002)"
-        name: Vigrestad
-        population: 1764
-        slug: vigrestad
-      - 
-        districts: []
-        location: "POINT (58.6166699999999992 5.6500000000000004)"
-        name: Varhaug
-        population: 2484
-        slug: varhaug
-      - 
-        districts: []
-        location: "POINT (59.3333299999999966 5.5000000000000000)"
-        name: Tysvær
-        population: 1077
-        slug: tysvr
-      - 
-        districts: []
-        location: "POINT (59.0666700000000020 5.9000000000000004)"
-        name: Tau
-        population: 2548
-        slug: tau
-      - 
-        districts: []
-        location: "POINT (58.9333299999999980 5.5999999999999996)"
-        name: Tananger
-        population: 5817
-        slug: tananger
-      - 
-        districts: []
-        location: "POINT (58.9644400000000033 5.7263700000000002)"
-        name: Stavanger
-        population: 121610
-        slug: stavanger
-      - 
-        districts: []
-        location: "POINT (59.1499999999999986 5.2833300000000003)"
-        name: Skudeneshavn
-        population: 3187
-        slug: skudeneshavn
-      - 
-        districts: []
-        location: "POINT (59.6499999999999986 6.3333300000000001)"
-        name: Sauda
-        population: 4290
-        slug: sauda
-      - 
-        districts: []
-        location: "POINT (58.8500000000000014 5.7333299999999996)"
-        name: Sandnes
-        population: 63032
-        slug: sandnes
-      - 
-        districts: []
-        location: "POINT (58.6666700000000034 5.6500000000000004)"
-        name: Nærbø
-        population: 4975
-        slug: nrb
-      - 
-        districts: []
-        location: "POINT (58.4666700000000006 6.5333300000000003)"
-        name: Moi
-        population: 1740
-        slug: moi
-      - 
-        districts: []
-        location: "POINT (59.2833299999999994 5.2999999999999998)"
-        name: Kopervik
-        population: 6507
-        slug: kopervik
-      - 
-        districts: []
-        location: "POINT (59.0166699999999977 6.0499999999999998)"
-        name: Jørpeland
-        population: 5537
-        slug: jrpeland
-      - 
-        districts: []
-        location: "POINT (59.2333300000000023 6.1833299999999998)"
-        name: Hjelmeland
-        population: 2701
-        slug: hjelmeland
-      - 
-        districts: []
-        location: "POINT (59.4119400000000013 5.2774999999999999)"
-        name: Haugesund
-        population: 40321
-        slug: haugesund
-      - 
-        districts: []
-        location: "POINT (58.3500000000000014 6.2833300000000003)"
-        name: Hauge
-        population: 2148
-        slug: hauge
-      - 
-        districts: []
-        location: "POINT (59.3983300000000014 5.3638899999999996)"
-        name: Eike
-        population: 1408
-        slug: eike
-      - 
-        districts: []
-        location: "POINT (58.4500000000000028 6.0000000000000000)"
-        name: Egersund
-        population: 9502
-        slug: egersund
-      - 
-        districts: []
-        location: "POINT (58.7333300000000023 5.6500000000000004)"
-        name: Bryne
-        population: 8006
-        slug: bryne
-      - 
-        districts: []
-        location: "POINT (59.2666699999999977 5.1833299999999998)"
-        name: Åkrehamn
-        population: 5018
-        slug: akrehamn
-      - 
-        districts: []
-        location: "POINT (59.3549999999999969 5.3188899999999997)"
-        name: Vormedal
-        population: 2774
-        slug: vormedal
-      - 
-        districts: []
-        location: "POINT (58.9316699999999969 5.8511100000000003)"
-        name: Hommersåk
-        population: 5692
-        slug: hommersak
-      - 
-        districts: []
-        location: "POINT (59.2916700000000034 5.2333299999999996)"
-        name: Vedavågen
-        population: 2728
-        slug: vedavagen
-    code: NO.14
-    name: Rogaland
-    slug: rogaland
-  - 
-    abbr: SF
-    cities: 
-      - 
-        districts: []
-        location: "POINT (61.7666699999999977 5.2999999999999998)"
-        name: Svelgen
-        population: 1173
-        slug: svelgen
-      - 
-        districts: []
-        location: "POINT (61.9166700000000034 6.7833300000000003)"
-        name: Stryn
-        population: 2106
-        slug: stryn
-      - 
-        districts: []
-        location: "POINT (61.7666699999999977 6.2166699999999997)"
-        name: Sandane
-        population: 2149
-        slug: sandane
-      - 
-        districts: []
-        location: "POINT (61.3166700000000020 7.7999999999999998)"
-        name: "Øvre Årdal"
-        population: 3465
-        slug: vre-ardal
-      - 
-        districts: []
-        location: "POINT (61.9067099999999968 5.9918399999999998)"
-        name: Nordfjordeid
-        population: 2553
-        slug: nordfjordeid
-      - 
-        districts: []
-        location: "POINT (61.5166699999999977 5.7166699999999997)"
-        name: Naustdal
-        population: 1071
-        slug: naustdal
-      - 
-        districts: []
-        location: "POINT (61.9383300000000006 5.1133300000000004)"
-        name: Måløy
-        population: 3062
-        slug: maly
-      - 
-        districts: []
-        location: "POINT (61.1000000000000014 7.4833299999999996)"
-        name: Lærdalsøyri
-        population: 1110
-        slug: lrdalsyri
-      - 
-        districts: []
-        location: "POINT (61.2166700000000006 6.0833300000000001)"
-        name: Høyanger
-        population: 2266
-        slug: hyanger
-      - 
-        districts: []
-        location: "POINT (61.1833299999999980 6.8499999999999996)"
-        name: Hermansverk
-        population: 2000
-        slug: hermansverk
-      - 
-        districts: []
-        location: "POINT (61.4517299999999977 5.8433500000000000)"
-        name: Førde
-        population: 8510
-        slug: frde
-      - 
-        districts: []
-        location: "POINT (61.6000000000000014 5.0000000000000000)"
-        name: Florø
-        population: 8230
-        slug: flor
-      - 
-        districts: []
-        location: "POINT (61.2333300000000023 7.7166699999999997)"
-        name: Årdalstangen
-        population: 1510
-        slug: ardalstangen
-      - 
-        districts: []
-        location: "POINT (61.0571199999999976 6.5780599999999998)"
-        name: Vik
-        population: 2899
-        slug: vik
-      - 
-        districts: []
-        location: "POINT (61.2282900000000012 7.1002599999999996)"
-        name: Sogndal
-        population: 6700
-        slug: sogndal
-    code: NO.15
-    name: "Sogn og Fjordane"
-    slug: sogn-og-fjordane
-  - 
-    abbr: ST
-    cities: 
-      - 
-        districts: []
-        location: "POINT (63.4305200000000013 10.3949800000000003)"
-        name: Trondheim
-        population: 147139
-        slug: trondheim
-      - 
-        districts: []
-        location: "POINT (63.2500000000000000 10.0666700000000002)"
-        name: Skaun
-        population: 1682
-        slug: skaun
-      - 
-        districts: []
-        location: "POINT (62.5833299999999966 11.4000000000000004)"
-        name: Røros
-        population: 3496
-        slug: rros
-      - 
-        districts: []
-        location: "POINT (62.5954699999999988 9.6925200000000000)"
-        name: Oppdal
-        population: 3706
-        slug: oppdal
-      - 
-        districts: []
-        location: "POINT (63.2833299999999994 10.2666699999999995)"
-        name: Melhus
-        population: 4593
-        slug: melhus
-      - 
-        districts: []
-        location: "POINT (63.4333299999999980 10.6833299999999998)"
-        name: Malvik
-        population: 6419
-        slug: malvik
-      - 
-        districts: []
-        location: "POINT (63.1333300000000008 10.3000000000000007)"
-        name: Lundamo
-        population: 1063
-        slug: lundamo
-      - 
-        districts: []
-        location: "POINT (63.2833299999999994 9.0999999999999996)"
-        name: Kyrksæterøra
-        population: 2471
-        slug: kyrksterra
-      - 
-        districts: []
-        location: "POINT (63.4166700000000034 10.8000000000000007)"
-        name: Hommelvik
-        population: 4000
-        slug: hommelvik
-      - 
-        districts: []
-        location: "POINT (63.6833299999999980 9.6833299999999998)"
-        name: Brekstad
-        population: 1835
-        slug: brekstad
-      - 
-        districts: []
-        location: "POINT (63.7666699999999977 9.8166700000000002)"
-        name: Botngard
-        population: 1144
-        slug: botngard
-      - 
-        districts: []
-        location: "POINT (63.9666700000000006 10.1999999999999993)"
-        name: Å
-        population: 1145
-        slug: a
-    code: NO.16
-    name: Sør-Trøndelag
-    slug: sr-trndelag
-  - 
-    abbr: TE
-    cities: 
-      - 
-        districts: []
-        location: "POINT (59.2833299999999994 9.2666699999999995)"
-        name: Ulefoss
-        population: 2697
-        slug: ulefoss
-      - 
-        districts: []
-        location: "POINT (59.2000000000000028 9.5999999999999996)"
-        name: Skien
-        population: 50595
-        slug: skien
-      - 
-        districts: []
-        location: "POINT (59.4833300000000023 8.6166699999999992)"
-        name: Seljord
-        population: 1185
-        slug: seljord
-      - 
-        districts: []
-        location: "POINT (59.8787700000000029 8.5919100000000004)"
-        name: Rjukan
-        population: 3568
-        slug: rjukan
-      - 
-        districts: []
-        location: "POINT (59.1000000000000014 9.0666700000000002)"
-        name: Prestestranda
-        population: 1215
-        slug: prestestranda
-      - 
-        districts: []
-        location: "POINT (59.1499999999999986 9.6666699999999999)"
-        name: Porsgrunn
-        population: 34377
-        slug: porsgrunn
-      - 
-        districts: []
-        location: "POINT (59.5666700000000020 9.2833299999999994)"
-        name: Notodden
-        population: 8306
-        slug: notodden
-      - 
-        districts: []
-        location: "POINT (59.3166700000000020 9.1333300000000008)"
-        name: Lunde
-        population: 1422
-        slug: lunde
-      - 
-        districts: []
-        location: "POINT (58.8666699999999992 9.4166699999999999)"
-        name: Kragerø
-        population: 5158
-        slug: krager
-      - 
-        districts: []
-        location: "POINT (59.1000000000000014 9.5666700000000002)"
-        name: Herre
-        population: 1356
-        slug: herre
-      - 
-        districts: []
-        location: "POINT (59.4166700000000034 9.0666700000000002)"
-        name: Bø
-        population: 2522
-        slug: b
-    code: NO.17
-    name: Telemark
-    slug: telemark
-  - 
-    abbr: TR
-    cities: 
-      - 
-        districts: []
-        location: "POINT (69.7666700000000048 21.0166700000000013)"
-        name: Storslett
-        population: 1455
-        slug: storslett
-      - 
-        districts: []
-        location: "POINT (70.0333300000000065 20.9833299999999987)"
-        name: Skjervøy
-        population: 2376
-        slug: skjervy
-      - 
-        districts: []
-        location: "POINT (69.6536200000000036 18.9606899999999996)"
-        name: Tromsø
-        population: 52436
-        slug: troms
-      - 
-        districts: []
-        location: "POINT (68.8610400000000027 18.3439100000000010)"
-        name: Sætermoen
-        population: 2410
-        slug: stermoen
-      - 
-        districts: []
-        location: "POINT (68.8024999999999949 16.5455599999999983)"
-        name: Harstad
-        population: 19433
-        slug: harstad
-      - 
-        districts: []
-        location: "POINT (69.2333299999999952 17.9833299999999987)"
-        name: Finnsnes
-        population: 3907
-        slug: finnsnes
-      - 
-        districts: []
-        location: "POINT (68.7833300000000065 16.1833300000000015)"
-        name: Borkenes
-        population: 1460
-        slug: borkenes
-    code: NO.18
-    name: Troms
-    slug: troms
-  - 
-    abbr: VA
-    cities: 
-      - 
-        districts: []
-        location: "POINT (58.2000000000000028 7.9000000000000004)"
-        name: "Ytre Strai"
-        population: 1266
-        slug: ytre-strai
-      - 
-        districts: []
-        location: "POINT (58.0833299999999966 8.0166699999999995)"
-        name: "Ytre Skålevik"
-        population: 2599
-        slug: ytre-skalevik
-      - 
-        districts: []
-        location: "POINT (58.0833299999999966 7.2999999999999998)"
-        name: Vigeland
-        population: 1258
-        slug: vigeland
-      - 
-        districts: []
-        location: "POINT (58.1000000000000014 6.5833300000000001)"
-        name: Vestbygd
-        population: 1083
-        slug: vestbygd
-      - 
-        districts: []
-        location: "POINT (58.2695200000000000 7.9719499999999996)"
-        name: Vennesla
-        population: 10931
-        slug: vennesla
-      - 
-        districts: []
-        location: "POINT (58.1166699999999992 6.7000000000000002)"
-        name: Vanse
-        population: 1953
-        slug: vanse
-      - 
-        districts: []
-        location: "POINT (58.0833299999999966 7.8166700000000002)"
-        name: Søgne
-        population: 9000
-        slug: sgne
-      - 
-        districts: []
-        location: "POINT (58.1499999999999986 7.8499999999999996)"
-        name: Nodeland
-        population: 1834
-        slug: nodeland
-      - 
-        districts: []
-        location: "POINT (58.0333299999999994 7.4500000000000002)"
-        name: Mandal
-        population: 10143
-        slug: mandal
-      - 
-        districts: []
-        location: "POINT (58.1333300000000008 7.0833300000000001)"
-        name: Lyngdal
-        population: 3671
-        slug: lyngdal
-      - 
-        districts: []
-        location: "POINT (58.3166700000000020 6.9833299999999996)"
-        name: Liknes
-        population: 2141
-        slug: liknes
-      - 
-        districts: []
-        location: "POINT (58.1473799999999983 7.9995099999999999)"
-        name: Kristiansand
-        population: 63814
-        slug: kristiansand
-      - 
-        districts: []
-        location: "POINT (58.2833299999999994 6.6833299999999998)"
-        name: Flekkefjord
-        population: 5615
-        slug: flekkefjord
-      - 
-        districts: []
-        location: "POINT (58.0947600000000008 6.8018200000000002)"
-        name: Farsund
-        population: 3151
-        slug: farsund
-    code: NO.19
-    name: Vest-Agder
-    slug: vest-agder
-  - 
-    abbr: VF
-    cities: 
-      - 
-        districts: []
-        location: "POINT (59.2676500000000033 10.4074500000000008)"
+        alternate_names: 
+          - Tonsberg
+          - Tønsberg
+          - "teng si bei ge"
+        ascii_name: Tonsberg
         name: Tønsberg
+        names_en: 
+          - Tønsberg
+        names_es: 
+          - Tønsberg
         population: 38914
-        slug: tnsberg
       - 
-        districts: []
-        location: "POINT (59.1168600000000026 10.3911800000000003)"
+        alternate_names: 
+          - Tjome
+          - "Tjome kommun"
+          - Tjøme
+        ascii_name: Tjome
         name: Tjøme
+        names_en: 
+          - Tjøme
+        names_es: ~
         population: 4663
-        slug: tjme
       - 
-        districts: []
-        location: "POINT (59.6108300000000000 10.4058299999999999)"
+        alternate_names: 
+          - Svelvik
+          - "Svelvik kommun"
+          - Свелвик
+        ascii_name: Svelvik
         name: Svelvik
+        names_en: 
+          - Svelvik
+        names_es: ~
         population: 3926
-        slug: svelvik
       - 
-        districts: []
-        location: "POINT (59.2166700000000006 10.2833299999999994)"
+        alternate_names: 
+          - Stokke
+          - "Stokke kommun"
+        ascii_name: Stokke
         name: Stokke
+        names_en: 
+          - Stokke
+        names_es: ~
         population: 2618
-        slug: stokke
       - 
-        districts: []
-        location: "POINT (59.0000000000000000 10.0333299999999994)"
+        alternate_names: 
+          - Fredriksvaern
+          - Fredriksvern
+          - Fredriksværn
+        ascii_name: Stavern
         name: Stavern
+        names_en: ~
+        names_es: ~
         population: 5593
-        slug: stavern
       - 
-        districts: []
-        location: "POINT (59.3833300000000008 10.4166699999999999)"
+        alternate_names: 
+          - Skoppum
+        ascii_name: Skoppum
         name: Skoppum
+        names_en: ~
+        names_es: ~
         population: 1633
-        slug: skoppum
       - 
-        districts: []
-        location: "POINT (59.6666700000000034 10.2333300000000005)"
+        alternate_names: 
+          - Skoger
+        ascii_name: Skoger
         name: Skoger
+        names_en: ~
+        names_es: ~
         population: 1082
-        slug: skoger
       - 
-        districts: []
-        location: "POINT (59.2833299999999994 10.3333300000000001)"
+        alternate_names: ~
+        ascii_name: Sem
         name: Sem
+        names_en: ~
+        names_es: ~
         population: 1827
-        slug: sem
       - 
-        districts: []
-        location: "POINT (59.5688900000000032 10.2583300000000008)"
+        alternate_names: 
+          - Selvik
+        ascii_name: Selvik
         name: Selvik
+        names_en: ~
+        names_es: ~
         population: 1829
-        slug: selvik
       - 
-        districts: []
-        location: "POINT (59.1333300000000008 10.2333300000000005)"
+        alternate_names: 
+          - Sandefjord
+        ascii_name: Sandefjord
         name: Sandefjord
+        names_en: 
+          - Sandefjord
+        names_es: ~
         population: 42654
-        slug: sandefjord
       - 
-        districts: []
-        location: "POINT (59.6000000000000014 10.1999999999999993)"
+        alternate_names: 
+          - Sande
+          - "Sande i Vestfold"
+        ascii_name: Sande
         name: Sande
+        names_en: ~
+        names_es: ~
         population: 1389
-        slug: sande
       - 
-        districts: []
-        location: "POINT (59.2238899999999973 10.3447200000000006)"
+        alternate_names: 
+          - Melsomvik
+        ascii_name: Melsomvik
         name: Melsomvik
+        names_en: ~
+        names_es: ~
         population: 1498
-        slug: melsomvik
       - 
-        districts: []
-        location: "POINT (59.0566200000000023 10.0373800000000006)"
+        alternate_names: 
+          - Larvik
+          - "Larvik kommun"
+          - Ларвик
+        ascii_name: Larvik
         name: Larvik
+        names_en: 
+          - Larvik
+        names_es: ~
         population: 23113
-        slug: larvik
       - 
-        districts: []
-        location: "POINT (59.4136099999999985 10.4669399999999992)"
+        alternate_names: 
+          - Horten
+          - Khorten
+          - Хортен
+        ascii_name: Horten
         name: Horten
+        names_en: 
+          - Horten
+        names_es: ~
         population: 17660
-        slug: horten
       - 
-        districts: []
-        location: "POINT (59.4883299999999977 10.3027800000000003)"
+        alternate_names: 
+          - Holmestrand
+          - "Holmestrand kommun"
+        ascii_name: Holmestrand
         name: Holmestrand
+        names_en: 
+          - Holmestrand
+        names_es: ~
         population: 6135
-        slug: holmestrand
       - 
-        districts: []
-        location: "POINT (59.5000000000000000 10.2500000000000000)"
+        alternate_names: 
+          - Guldhaug
+          - Gullaug
+          - Gullhaug
+        ascii_name: Gullhaug
         name: Gullhaug
+        names_en: ~
+        names_es: ~
         population: 1912
-        slug: gullhaug
       - 
-        districts: []
-        location: "POINT (59.5450000000000017 10.3713899999999999)"
+        alternate_names: 
+          - Berger
+          - "Berger i Vestfold"
+        ascii_name: Berger
         name: Berger
+        names_en: ~
+        names_es: ~
         population: 1108
-        slug: berger
       - 
-        districts: []
-        location: "POINT (59.3166700000000020 10.3833300000000008)"
+        alternate_names: 
+          - Barkaaker
+          - Barkaker
+          - Barkåker
+        ascii_name: Barkaker
         name: Barkåker
+        names_en: ~
+        names_es: ~
         population: 1238
-        slug: barkaker
       - 
-        districts: []
-        location: "POINT (59.3488899999999973 10.4674999999999994)"
+        alternate_names: 
+          - Aasgaardstrand
+          - Asgardstrand
+          - Åsgårdstrand
+        ascii_name: Asgardstrand
         name: Åsgårdstrand
+        names_en: ~
+        names_es: ~
         population: 2934
-        slug: asgardstrand
       - 
-        districts: []
-        location: "POINT (59.1805599999999998 10.4550000000000001)"
+        alternate_names: 
+          - Aroysund
+          - Aroysundet
+          - Årøysund
+        ascii_name: Aroysund
         name: Årøysund
+        names_en: ~
+        names_es: ~
         population: 2052
-        slug: arysund
-    code: NO.20
+      - 
+        alternate_names: ~
+        ascii_name: Hof
+        name: Hof
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Revetal
+        name: Revetal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Andebu
+        name: Andebu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Borgheim
+        name: Borgheim
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Svarstad
+        name: Svarstad
+        names_en: ~
+        names_es: ~
+        population: 0
     name: Vestfold
-    slug: vestfold
-tld: "no"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Vest-Agder Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Strai
+          - "Ytre Strai"
+        ascii_name: "Ytre Strai"
+        name: "Ytre Strai"
+        names_en: ~
+        names_es: ~
+        population: 1266
+      - 
+        alternate_names: 
+          - Skaalevig
+          - "Ytre Skalevik"
+          - "Ytre Skålevik"
+        ascii_name: "Ytre Skalevik"
+        name: "Ytre Skålevik"
+        names_en: ~
+        names_es: ~
+        population: 2599
+      - 
+        alternate_names: ~
+        ascii_name: Vigeland
+        name: Vigeland
+        names_en: ~
+        names_es: ~
+        population: 1258
+      - 
+        alternate_names: 
+          - Vestbygd
+          - Vestbygda
+          - Vestbygden
+        ascii_name: Vestbygd
+        name: Vestbygd
+        names_en: ~
+        names_es: ~
+        population: 1083
+      - 
+        alternate_names: 
+          - Vennesla
+          - "Vennesla kommun"
+        ascii_name: Vennesla
+        name: Vennesla
+        names_en: 
+          - Vennesla
+        names_es: ~
+        population: 10931
+      - 
+        alternate_names: 
+          - Lista
+          - Vanse
+        ascii_name: Vanse
+        name: Vanse
+        names_en: ~
+        names_es: ~
+        population: 1953
+      - 
+        alternate_names: 
+          - Sirdal
+          - Siredalen
+          - Tonstad
+        ascii_name: Tonstad
+        name: Tonstad
+        names_en: ~
+        names_es: ~
+        population: 751
+      - 
+        alternate_names: 
+          - Tingpatn
+          - Tingvatn
+          - Tingvatne
+        ascii_name: Tingvatn
+        name: Tingvatn
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tangvall
+          - Tufteland
+        ascii_name: Tangvall
+        name: Tangvall
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sogne
+          - "Sogne kommun"
+          - Søgne
+        ascii_name: Sogne
+        name: Søgne
+        names_en: 
+          - Søgne
+        names_es: ~
+        population: 9000
+      - 
+        alternate_names: 
+          - Naadeland
+          - Nadeland
+          - Nodeland
+        ascii_name: Nodeland
+        name: Nodeland
+        names_en: ~
+        names_es: ~
+        population: 1834
+      - 
+        alternate_names: 
+          - Mandal
+          - "Mandal kommun"
+          - Мандал
+        ascii_name: Mandal
+        name: Mandal
+        names_en: 
+          - Mandal
+        names_es: ~
+        population: 10143
+      - 
+        alternate_names: 
+          - Lyngdal
+          - "Lyngdal kommun"
+        ascii_name: Lyngdal
+        name: Lyngdal
+        names_en: 
+          - Lyngdal
+        names_es: ~
+        population: 3671
+      - 
+        alternate_names: 
+          - Liknes
+        ascii_name: Liknes
+        name: Liknes
+        names_en: ~
+        names_es: ~
+        population: 2141
+      - 
+        alternate_names: 
+          - Christiansand
+          - Krisjansanna
+          - Krisjānsanna
+        ascii_name: Kristiansand
+        name: Kristiansand
+        names_en: 
+          - Kristiansand
+        names_es: 
+          - Kristiansand
+        population: 63814
+      - 
+        alternate_names: 
+          - Konsmo
+        ascii_name: Konsmo
+        name: Konsmo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Flekkefjord
+        name: Flekkefjord
+        names_en: ~
+        names_es: ~
+        population: 5615
+      - 
+        alternate_names: ~
+        ascii_name: Farsund
+        name: Farsund
+        names_en: ~
+        names_es: ~
+        population: 3151
+      - 
+        alternate_names: ~
+        ascii_name: Helland
+        name: Helland
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kyrkjebygda
+        name: Kyrkjebygda
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Vest-Agder
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Troms Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Storslet
+          - Storslett
+        ascii_name: Storslett
+        name: Storslett
+        names_en: ~
+        names_es: ~
+        population: 1455
+      - 
+        alternate_names: 
+          - Skjarvoy
+          - Skjarvöy
+          - Skjervo
+        ascii_name: Skjervoy
+        name: Skjervøy
+        names_en: ~
+        names_es: ~
+        population: 2376
+      - 
+        alternate_names: 
+          - Olderdal
+          - Olderdalen
+        ascii_name: Olderdalen
+        name: Olderdalen
+        names_en: ~
+        names_es: ~
+        population: 312
+      - 
+        alternate_names: 
+          - Lyngseidet
+          - Lyngsejdet
+        ascii_name: Lyngseidet
+        name: Lyngseidet
+        names_en: ~
+        names_es: ~
+        population: 821
+      - 
+        alternate_names: 
+          - Burfjord
+        ascii_name: Burfjord
+        name: Burfjord
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Vangsvik
+          - Vangsvika
+        ascii_name: Vangsvika
+        name: Vangsvika
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Romsa
+          - Tromse
+          - Tromsjo
+        ascii_name: Tromso
+        name: Tromsø
+        names_en: 
+          - Tromsø
+        names_es: 
+          - Tromsø
+        population: 52436
+      - 
+        alternate_names: ~
+        ascii_name: Storsteinnes
+        name: Storsteinnes
+        names_en: ~
+        names_es: ~
+        population: 890
+      - 
+        alternate_names: 
+          - Skaland
+        ascii_name: Skaland
+        name: Skaland
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sjovegan
+          - Sjøvegan
+        ascii_name: Sjovegan
+        name: Sjøvegan
+        names_en: ~
+        names_es: ~
+        population: 723
+      - 
+        alternate_names: 
+          - Saetermoen
+          - Sætermoen
+        ascii_name: Setermoen
+        name: Setermoen
+        names_en: ~
+        names_es: ~
+        population: 2410
+      - 
+        alternate_names: 
+          - Moen
+          - "Moen i Malselv"
+          - "Moen i Målselv"
+        ascii_name: Moen
+        name: Moen
+        names_en: ~
+        names_es: ~
+        population: 840
+      - 
+        alternate_names: 
+          - Harsta
+          - Harstad
+          - Hárštá
+        ascii_name: Harstad
+        name: Harstad
+        names_en: 
+          - Harstad
+        names_es: ~
+        population: 19433
+      - 
+        alternate_names: 
+          - Hansnes
+        ascii_name: Hansnes
+        name: Hansnes
+        names_en: ~
+        names_es: ~
+        population: 342
+      - 
+        alternate_names: ~
+        ascii_name: Hamnvik
+        name: Hamnvik
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Gryllefjord
+        name: Gryllefjord
+        names_en: ~
+        names_es: ~
+        population: 439
+      - 
+        alternate_names: 
+          - Finnsnes
+          - Finsnes
+          - Финнснес
+        ascii_name: Finnsnes
+        name: Finnsnes
+        names_en: ~
+        names_es: ~
+        population: 3907
+      - 
+        alternate_names: 
+          - Evenskjaer
+          - Evenskjer
+          - Evenskjær
+        ascii_name: Evenskjer
+        name: Evenskjer
+        names_en: ~
+        names_es: ~
+        population: 601
+      - 
+        alternate_names: 
+          - Borkenes
+        ascii_name: Borkenes
+        name: Borkenes
+        names_en: ~
+        names_es: ~
+        population: 1460
+      - 
+        alternate_names: 
+          - Aarstein
+          - Arstein
+          - Årstein
+        ascii_name: Arstein
+        name: Årstein
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Bjarkoy
+        name: Bjarkøy
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Tennevoll
+        name: Tennevoll
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Sorreisa
+        name: Sørreisa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Brostadbotn
+        name: Brøstadbotn
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hatteng
+        name: Hatteng
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Troms
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Telemark Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Ulefoss
+        ascii_name: Ulefoss
+        name: Ulefoss
+        names_en: ~
+        names_es: ~
+        population: 2697
+      - 
+        alternate_names: ~
+        ascii_name: Treungen
+        name: Treungen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Skien
+        ascii_name: Skien
+        name: Skien
+        names_en: 
+          - Skien
+        names_es: ~
+        population: 50595
+      - 
+        alternate_names: 
+          - Siljan
+        ascii_name: Siljan
+        name: Siljan
+        names_en: ~
+        names_es: ~
+        population: 891
+      - 
+        alternate_names: ~
+        ascii_name: Seljord
+        name: Seljord
+        names_en: ~
+        names_es: ~
+        population: 1185
+      - 
+        alternate_names: ~
+        ascii_name: Rjukan
+        name: Rjukan
+        names_en: ~
+        names_es: ~
+        population: 3568
+      - 
+        alternate_names: 
+          - Prestestrand
+          - Prestestranda
+        ascii_name: Prestestranda
+        name: Prestestranda
+        names_en: ~
+        names_es: ~
+        population: 1215
+      - 
+        alternate_names: 
+          - Porsgrund
+          - Porsgrunn
+          - Pushgrjon
+        ascii_name: Porsgrunn
+        name: Porsgrunn
+        names_en: ~
+        names_es: ~
+        population: 34377
+      - 
+        alternate_names: 
+          - Notodden
+        ascii_name: Notodden
+        name: Notodden
+        names_en: 
+          - Notodden
+        names_es: ~
+        population: 8306
+      - 
+        alternate_names: 
+          - Fyresdal
+          - Moland
+        ascii_name: Moland
+        name: Moland
+        names_en: ~
+        names_es: ~
+        population: 359
+      - 
+        alternate_names: 
+          - Lunde
+          - "Lunde i Telemark"
+        ascii_name: Lunde
+        name: Lunde
+        names_en: ~
+        names_es: ~
+        population: 1422
+      - 
+        alternate_names: 
+          - Langesund
+        ascii_name: Langesund
+        name: Langesund
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kviteseid
+        name: Kviteseid
+        names_en: ~
+        names_es: ~
+        population: 640
+      - 
+        alternate_names: ~
+        ascii_name: Kragero
+        name: Kragerø
+        names_en: ~
+        names_es: ~
+        population: 5158
+      - 
+        alternate_names: 
+          - Herre
+        ascii_name: Herre
+        name: Herre
+        names_en: ~
+        names_es: ~
+        population: 1356
+      - 
+        alternate_names: 
+          - Gvarv
+        ascii_name: Gvarv
+        name: Gvarv
+        names_en: ~
+        names_es: ~
+        population: 871
+      - 
+        alternate_names: 
+          - Dalen
+          - "Dalen i Telemark"
+        ascii_name: Dalen
+        name: Dalen
+        names_en: ~
+        names_es: ~
+        population: 801
+      - 
+        alternate_names: 
+          - Bo
+          - "Bo i Telemark"
+          - Bø
+        ascii_name: Bo
+        name: Bø
+        names_en: ~
+        names_es: ~
+        population: 2522
+      - 
+        alternate_names: ~
+        ascii_name: Amot
+        name: Åmot
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Sauland
+        name: Sauland
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Telemark
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sor-Trondelag Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Nidaros
+          - THrandheimur
+          - Trondheim
+        ascii_name: Trondheim
+        name: Trondheim
+        names_en: 
+          - Trondheim
+        names_es: 
+          - Trondheim
+        population: 147139
+      - 
+        alternate_names: 
+          - Skauan
+          - Skaun
+          - "Skaun kommun"
+        ascii_name: Skaun
+        name: Skaun
+        names_en: 
+          - Skaun
+        names_es: ~
+        population: 1682
+      - 
+        alternate_names: 
+          - Sistranda
+          - Sistranden
+        ascii_name: Sistranda
+        name: Sistranda
+        names_en: ~
+        names_es: ~
+        population: 685
+      - 
+        alternate_names: 
+          - Roros
+          - Røros
+        ascii_name: Roros
+        name: Røros
+        names_en: ~
+        names_es: ~
+        population: 3496
+      - 
+        alternate_names: ~
+        ascii_name: Orkanger
+        name: Orkanger
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Opdal
+          - Oppdal
+          - "Oppdal kommun"
+        ascii_name: Oppdal
+        name: Oppdal
+        names_en: 
+          - Oppdal
+        names_es: ~
+        population: 3706
+      - 
+        alternate_names: ~
+        ascii_name: Melhus
+        name: Melhus
+        names_en: ~
+        names_es: ~
+        population: 4593
+      - 
+        alternate_names: 
+          - Malvik
+          - "Malvik kommun"
+        ascii_name: Malvik
+        name: Malvik
+        names_en: 
+          - Malvik
+        names_es: ~
+        population: 6419
+      - 
+        alternate_names: 
+          - Lund
+          - Lundamo
+          - Lunde
+        ascii_name: Lundamo
+        name: Lundamo
+        names_en: ~
+        names_es: ~
+        population: 1063
+      - 
+        alternate_names: 
+          - Lensvik
+          - Lensviken
+        ascii_name: Lensvik
+        name: Lensvik
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Kirksaeteroren
+          - Kirksaeterören
+          - Kyrksaeterora
+        ascii_name: Kyrksaeterora
+        name: Kyrksæterøra
+        names_en: ~
+        names_es: ~
+        population: 2471
+      - 
+        alternate_names: 
+          - Krokstadora
+          - Krokstadoren
+          - Krokstadören
+        ascii_name: Krokstadora
+        name: Krokstadøra
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hommelvik
+        name: Hommelvik
+        names_en: ~
+        names_es: ~
+        population: 4000
+      - 
+        alternate_names: 
+          - Fillan
+        ascii_name: Fillan
+        name: Fillan
+        names_en: ~
+        names_es: ~
+        population: 510
+      - 
+        alternate_names: 
+          - Brekkstad
+          - Brekstad
+          - Brokstad
+        ascii_name: Brekstad
+        name: Brekstad
+        names_en: ~
+        names_es: ~
+        population: 1835
+      - 
+        alternate_names: 
+          - Botngaard
+          - Botngard
+        ascii_name: Botngard
+        name: Botngård
+        names_en: ~
+        names_es: ~
+        population: 1144
+      - 
+        alternate_names: 
+          - Berkaak
+          - Berkak
+          - Berkåk
+        ascii_name: Berkak
+        name: Berkåk
+        names_en: ~
+        names_es: ~
+        population: 914
+      - 
+        alternate_names: 
+          - Aarnes
+          - Arnes
+          - Årnes
+        ascii_name: Arnes
+        name: Årnes
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Aalen
+          - Alen
+          - Ålen
+        ascii_name: Alen
+        name: Ålen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - A
+          - "A i Afjord"
+          - "A i Aford"
+        ascii_name: As
+        name: As
+        names_en: 
+          - Åfjord
+        names_es: ~
+        population: 1145
+      - 
+        alternate_names: ~
+        ascii_name: Rissa
+        name: Rissa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Roan
+        name: Roan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Steinsdalen
+        name: Steinsdalen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Meldal
+        name: Meldal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Storen
+        name: Støren
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Borsa
+        name: Børsa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Klaebu
+        name: Klæbu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Mebonden
+        name: Mebonden
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Stugudalen
+        name: Stugudalen
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Sør-Trøndelag
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sogn og Fjordane Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Vikora
+          - Vikoyri
+          - Vikøra
+        ascii_name: Vikoyri
+        name: Vikøyri
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Svelgen
+        name: Svelgen
+        names_en: ~
+        names_es: ~
+        population: 1173
+      - 
+        alternate_names: 
+          - Nedstryn
+          - Stryn
+        ascii_name: Stryn
+        name: Stryn
+        names_en: ~
+        names_es: ~
+        population: 2106
+      - 
+        alternate_names: 
+          - Sogndalsfjaera
+          - Sogndalsfjora
+          - Sogndalsfjæra
+        ascii_name: Sogndalsfjora
+        name: Sogndalsfjøra
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Selje
+        name: Selje
+        names_en: ~
+        names_es: ~
+        population: 694
+      - 
+        alternate_names: 
+          - Sande
+          - "Sande i Sunnfjord"
+        ascii_name: Sande
+        name: Sande
+        names_en: ~
+        names_es: ~
+        population: 542
+      - 
+        alternate_names: 
+          - Sandane
+          - Sandene
+        ascii_name: Sandane
+        name: Sandane
+        names_en: ~
+        names_es: ~
+        population: 2149
+      - 
+        alternate_names: 
+          - Farnes
+          - "Ovre Aardal"
+          - "Ovre Ardal"
+        ascii_name: "Ovre Ardal"
+        name: "Øvre Årdal"
+        names_en: ~
+        names_es: ~
+        population: 3465
+      - 
+        alternate_names: 
+          - Nordfjordeidet
+        ascii_name: Nordfjordeid
+        name: Nordfjordeid
+        names_en: ~
+        names_es: ~
+        population: 2553
+      - 
+        alternate_names: 
+          - Naustdal
+          - "Naustdal i Sunnfjord"
+        ascii_name: Naustdal
+        name: Naustdal
+        names_en: 
+          - Naustdal
+        names_es: ~
+        population: 1071
+      - 
+        alternate_names: 
+          - Maaloey
+          - Maloy
+          - Maloya
+        ascii_name: Maloy
+        name: Måløy
+        names_en: ~
+        names_es: ~
+        population: 3062
+      - 
+        alternate_names: 
+          - Laedalsoyra
+          - Laerdalsora
+          - Laerdalsoren
+        ascii_name: Laerdalsoyri
+        name: Lærdalsøyri
+        names_en: 
+          - Lærdalsøyri
+        names_es: ~
+        population: 1110
+      - 
+        alternate_names: 
+          - Hyllestad
+          - "Hyllestad kommun"
+        ascii_name: Hyllestad
+        name: Hyllestad
+        names_en: 
+          - Hyllestad
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hoyanger
+        name: Høyanger
+        names_en: ~
+        names_es: ~
+        population: 2266
+      - 
+        alternate_names: ~
+        ascii_name: Hermansverk
+        name: Hermansverk
+        names_en: ~
+        names_es: ~
+        population: 2000
+      - 
+        alternate_names: 
+          - Hardbakke
+        ascii_name: Hardbakke
+        name: Hardbakke
+        names_en: ~
+        names_es: ~
+        population: 235
+      - 
+        alternate_names: 
+          - Forde
+          - Fords
+          - Førde
+        ascii_name: Forde
+        name: Førde
+        names_en: 
+          - Førde
+        names_es: ~
+        population: 8510
+      - 
+        alternate_names: 
+          - Floro
+          - Florø
+          - Kinn
+        ascii_name: Floro
+        name: Florø
+        names_en: ~
+        names_es: ~
+        population: 8230
+      - 
+        alternate_names: 
+          - Eivindvik
+          - Eivinvik
+          - Ejvindvik
+        ascii_name: Eivinvik
+        name: Eivinvik
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dale
+          - "Dale i Sunnfjord"
+          - Fjaler
+        ascii_name: Dale
+        name: Dale
+        names_en: ~
+        names_es: ~
+        population: 988
+      - 
+        alternate_names: ~
+        ascii_name: Balestrand
+        name: Balestrand
+        names_en: ~
+        names_es: ~
+        population: 769
+      - 
+        alternate_names: 
+          - Ardalstangen
+          - Årdalstangen
+        ascii_name: Ardalstangen
+        name: Årdalstangen
+        names_en: ~
+        names_es: ~
+        population: 1510
+      - 
+        alternate_names: ~
+        ascii_name: Skei
+        name: Skei
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Vik
+          - Вик
+        ascii_name: Vik
+        name: Vik
+        names_en: ~
+        names_es: ~
+        population: 2899
+      - 
+        alternate_names: 
+          - Sogdal'
+          - Согдаль
+        ascii_name: Sogndal
+        name: Sogndal
+        names_en: ~
+        names_es: ~
+        population: 6700
+      - 
+        alternate_names: ~
+        ascii_name: Aurlandsvangen
+        name: Aurlandsvangen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Gaupne
+        name: Gaupne
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Askvoll
+        name: Askvoll
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hornindal
+        name: Hornindal
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Sogn og Fjordane"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rogaland Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Vigesa
+          - Vigesaa
+          - Vigeså
+        ascii_name: Vikesa
+        name: Vikeså
+        names_en: ~
+        names_es: ~
+        population: 715
+      - 
+        alternate_names: 
+          - Vigrestad
+        ascii_name: Vigrestad
+        name: Vigrestad
+        names_en: ~
+        names_es: ~
+        population: 1764
+      - 
+        alternate_names: 
+          - Varhaug
+        ascii_name: Varhaug
+        name: Varhaug
+        names_en: ~
+        names_es: ~
+        population: 2484
+      - 
+        alternate_names: 
+          - Utsira
+          - "Utsira kommun"
+          - Utsire
+        ascii_name: Utsira
+        name: Utsira
+        names_en: 
+          - Utsira
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tysvaer
+          - "Tysvaer kommun"
+          - Tysvær
+        ascii_name: Tysvaer
+        name: Tysvær
+        names_en: 
+          - Tysvær
+        names_es: ~
+        population: 1077
+      - 
+        alternate_names: 
+          - Tau
+        ascii_name: Tau
+        name: Tau
+        names_en: ~
+        names_es: ~
+        population: 2548
+      - 
+        alternate_names: 
+          - Tananger
+        ascii_name: Tananger
+        name: Tananger
+        names_en: ~
+        names_es: ~
+        population: 5817
+      - 
+        alternate_names: 
+          - Stafangur
+          - Stavanger
+          - Stavangera
+        ascii_name: Stavanger
+        name: Stavanger
+        names_en: 
+          - Stavanger
+        names_es: 
+          - Stavanger
+        population: 121610
+      - 
+        alternate_names: 
+          - Haaland
+          - Haland
+          - Håland
+        ascii_name: Sola
+        name: Sola
+        names_en: 
+          - Sola
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Skudeneshavn
+          - Skudeneskhavn
+          - Skudneshavn
+        ascii_name: Skudeneshavn
+        name: Skudeneshavn
+        names_en: ~
+        names_es: ~
+        population: 3187
+      - 
+        alternate_names: 
+          - "Mirza Rafi Sauda"
+          - Sauda
+          - "Sauda kommun"
+        ascii_name: Sauda
+        name: Sauda
+        names_en: 
+          - "Mirza Rafi Sauda"
+        names_es: ~
+        population: 4290
+      - 
+        alternate_names: 
+          - Sandnes
+          - "Sandnes kommun"
+        ascii_name: Sandnes
+        name: Sandnes
+        names_en: 
+          - Sandnes
+        names_es: ~
+        population: 63032
+      - 
+        alternate_names: 
+          - Randaberg
+          - "Randaberg kommun"
+          - "Randaberg pa Jaeren"
+        ascii_name: Randaberg
+        name: Randaberg
+        names_en: 
+          - Randaberg
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Olen
+        name: Ølen
+        names_en: ~
+        names_es: ~
+        population: 891
+      - 
+        alternate_names: 
+          - Naerbo
+          - Narbo
+          - Narbø
+        ascii_name: Naerbo
+        name: Nærbø
+        names_en: ~
+        names_es: ~
+        population: 4975
+      - 
+        alternate_names: ~
+        ascii_name: Moi
+        name: Moi
+        names_en: ~
+        names_es: ~
+        population: 1740
+      - 
+        alternate_names: 
+          - Kopervik
+        ascii_name: Kopervik
+        name: Kopervik
+        names_en: ~
+        names_es: ~
+        population: 6507
+      - 
+        alternate_names: 
+          - Judaberg
+        ascii_name: Judaberg
+        name: Judaberg
+        names_en: ~
+        names_es: ~
+        population: 560
+      - 
+        alternate_names: 
+          - Jorpeland
+          - Jørpeland
+        ascii_name: Jorpeland
+        name: Jørpeland
+        names_en: ~
+        names_es: ~
+        population: 5537
+      - 
+        alternate_names: 
+          - Hjelmeland
+          - "Hjelmeland kommun"
+          - Jel'meland
+        ascii_name: Hjelmeland
+        name: Hjelmeland
+        names_en: 
+          - Hjelmeland
+        names_es: ~
+        population: 2701
+      - 
+        alternate_names: 
+          - Haugesund
+          - "Haugesund kommun"
+          - Khaugezund
+        ascii_name: Haugesund
+        name: Haugesund
+        names_en: 
+          - Haugesund
+        names_es: ~
+        population: 40321
+      - 
+        alternate_names: ~
+        ascii_name: Hauge
+        name: Hauge
+        names_en: ~
+        names_es: ~
+        population: 2148
+      - 
+        alternate_names: 
+          - Eike
+        ascii_name: Eike
+        name: Eike
+        names_en: ~
+        names_es: ~
+        population: 1408
+      - 
+        alternate_names: 
+          - Egersund
+        ascii_name: Egersund
+        name: Egersund
+        names_en: ~
+        names_es: ~
+        population: 9502
+      - 
+        alternate_names: 
+          - Bryne
+        ascii_name: Bryne
+        name: Bryne
+        names_en: ~
+        names_es: ~
+        population: 8006
+      - 
+        alternate_names: 
+          - Aalgaard
+          - Algard
+          - Ålgård
+        ascii_name: Algard
+        name: Ålgård
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Aakrehamn
+          - Akrahamn
+          - Akrehamn
+        ascii_name: Akrehamn
+        name: Åkrehamn
+        names_en: ~
+        names_es: ~
+        population: 5018
+      - 
+        alternate_names: 
+          - Vormedal
+        ascii_name: Vormedal
+        name: Vormedal
+        names_en: ~
+        names_es: ~
+        population: 2774
+      - 
+        alternate_names: 
+          - Hommarsak
+          - Hommarsåk
+          - Hommersak
+        ascii_name: Hommersak
+        name: Hommersåk
+        names_en: ~
+        names_es: ~
+        population: 5692
+      - 
+        alternate_names: ~
+        ascii_name: Vikevag
+        name: Vikevåg
+        names_en: ~
+        names_es: ~
+        population: 529
+      - 
+        alternate_names: 
+          - Vedavagen
+          - Vedavågen
+        ascii_name: Vedavagen
+        name: Vedavågen
+        names_en: ~
+        names_es: ~
+        population: 2728
+      - 
+        alternate_names: ~
+        ascii_name: Forsand
+        name: Forsand
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kleppe
+        name: Kleppe
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hjelmelandsvagen
+        name: Hjelmelandsvågen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Sand
+        name: Sand
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Ystabohamn
+        name: Ystabøhamn
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Bokn
+        name: Bokn
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Aksdal
+        name: Aksdal
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Rogaland
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Ostfold
+    cities: 
+      - 
+        alternate_names: 
+          - Tomter
+        ascii_name: Tomter
+        name: Tomter
+        names_en: ~
+        names_es: ~
+        population: 1307
+      - 
+        alternate_names: ~
+        ascii_name: Spydeberg
+        name: Spydeberg
+        names_en: ~
+        names_es: ~
+        population: 3166
+      - 
+        alternate_names: 
+          - Skjeberg
+        ascii_name: Skjeberg
+        name: Skjeberg
+        names_en: ~
+        names_es: ~
+        population: 1862
+      - 
+        alternate_names: 
+          - Skjaerhalden
+          - Skjaerholla
+          - Skjaerhollen
+        ascii_name: Skjaerhalden
+        name: Skjærhalden
+        names_en: ~
+        names_es: ~
+        population: 642
+      - 
+        alternate_names: 
+          - Sjonhaug
+          - Sjønhaug
+        ascii_name: Skjonhaug
+        name: Skjønhaug
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sarpsborg
+          - Сарпсборг
+        ascii_name: Sarpsborg
+        name: Sarpsborg
+        names_en: 
+          - Sarpsborg
+        names_es: ~
+        population: 52159
+      - 
+        alternate_names: 
+          - Rjugge
+          - Рюгге
+        ascii_name: Rygge
+        name: Rygge
+        names_en: ~
+        names_es: ~
+        population: 2567
+      - 
+        alternate_names: ~
+        ascii_name: Rakkestad
+        name: Rakkestad
+        names_en: ~
+        names_es: ~
+        population: 3779
+      - 
+        alternate_names: 
+          - Orje
+          - Ørje
+        ascii_name: Orje
+        name: Ørje
+        names_en: ~
+        names_es: ~
+        population: 1722
+      - 
+        alternate_names: 
+          - Mysen
+        ascii_name: Mysen
+        name: Mysen
+        names_en: ~
+        names_es: ~
+        population: 5516
+      - 
+        alternate_names: 
+          - Moss
+          - Мосс
+        ascii_name: Moss
+        name: Moss
+        names_en: 
+          - Moss
+        names_es: ~
+        population: 34492
+      - 
+        alternate_names: ~
+        ascii_name: Lervik
+        name: Lervik
+        names_en: ~
+        names_es: ~
+        population: 2331
+      - 
+        alternate_names: 
+          - Larkollen
+          - Laurkollen
+        ascii_name: Larkollen
+        name: Larkollen
+        names_en: ~
+        names_es: ~
+        population: 1373
+      - 
+        alternate_names: 
+          - Knappstad
+          - Knapstad
+        ascii_name: Knappstad
+        name: Knappstad
+        names_en: ~
+        names_es: ~
+        population: 1133
+      - 
+        alternate_names: 
+          - Carlshuus
+          - Karlsbunden
+          - Karlshus
+        ascii_name: Karlshus
+        name: Karlshus
+        names_en: ~
+        names_es: ~
+        population: 1801
+      - 
+        alternate_names: 
+          - Fredrikshald
+          - Halden
+          - Khalden
+        ascii_name: Halden
+        name: Halden
+        names_en: 
+          - Halden
+        names_es: ~
+        population: 21970
+      - 
+        alternate_names: 
+          - Frederikstad
+          - Fredrikstad
+          - furedorikusuta
+        ascii_name: Fredrikstad
+        name: Fredrikstad
+        names_en: 
+          - Fredrikstad
+        names_es: ~
+        population: 72760
+      - 
+        alternate_names: 
+          - Fosby
+          - Fossby
+        ascii_name: Fossby
+        name: Fossby
+        names_en: ~
+        names_es: ~
+        population: 318
+      - 
+        alternate_names: ~
+        ascii_name: Askim
+        name: Askim
+        names_en: ~
+        names_es: ~
+        population: 12482
+      - 
+        alternate_names: ~
+        ascii_name: Ryggebyen
+        name: Ryggebyen
+        names_en: ~
+        names_es: ~
+        population: 2416
+      - 
+        alternate_names: ~
+        ascii_name: Romskog
+        name: Rømskog
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Meieribyen
+        name: Meieribyen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kirkebygda
+        name: Kirkebygda
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Elvestad
+        name: Elvestad
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Østfold
+    names_en: 
+      - Østfold
+    names_es: ~
+  - 
+    ascii_name: Oslo
+    cities: 
+      - 
+        alternate_names: 
+          - Asloa
+          - "Christiania (historical)"
+          - "Kristiania (historical)"
+        ascii_name: Oslo
+        name: Oslo
+        names_en: 
+          - Oslo
+        names_es: 
+          - Oslo
+        population: 580000
+    name: Oslo
+    names_en: 
+      - Oslo
+      - "Oslo county"
+    names_es: ~
+  - 
+    ascii_name: "Oppland Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Vinstra
+        ascii_name: Vinstra
+        name: Vinstra
+        names_en: ~
+        names_es: ~
+        population: 2449
+      - 
+        alternate_names: 
+          - Vagamo
+          - Vågåmo
+        ascii_name: Vagamo
+        name: Vågåmo
+        names_en: ~
+        names_es: ~
+        population: 1463
+      - 
+        alternate_names: 
+          - Tretten
+        ascii_name: Tretten
+        name: Tretten
+        names_en: ~
+        names_es: ~
+        population: 859
+      - 
+        alternate_names: 
+          - Skreia
+        ascii_name: Skreia
+        name: Skreia
+        names_en: ~
+        names_es: ~
+        population: 1285
+      - 
+        alternate_names: ~
+        ascii_name: Roa
+        name: Roa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ringebu
+        ascii_name: Ringebu
+        name: Ringebu
+        names_en: ~
+        names_es: ~
+        population: 1341
+      - 
+        alternate_names: ~
+        ascii_name: Reinsvoll
+        name: Reinsvoll
+        names_en: ~
+        names_es: ~
+        population: 1145
+      - 
+        alternate_names: ~
+        ascii_name: Raufoss
+        name: Raufoss
+        names_en: ~
+        names_es: ~
+        population: 6052
+      - 
+        alternate_names: 
+          - Otta
+        ascii_name: Otta
+        name: Otta
+        names_en: ~
+        names_es: ~
+        population: 1602
+      - 
+        alternate_names: 
+          - Lom
+          - "Lom kommun"
+          - "Lom kommune"
+        ascii_name: Lom
+        name: Lom
+        names_en: 
+          - Lom
+        names_es: ~
+        population: 2406
+      - 
+        alternate_names: 
+          - Lillehammer
+          - Lillekhammer
+          - rirehanmeru
+        ascii_name: Lillehammer
+        name: Lillehammer
+        names_en: 
+          - Lillehammer
+        names_es: 
+          - Lillehammer
+        population: 19096
+      - 
+        alternate_names: 
+          - Lena
+        ascii_name: Lena
+        name: Lena
+        names_en: ~
+        names_es: ~
+        population: 1092
+      - 
+        alternate_names: ~
+        ascii_name: Jevnaker
+        name: Jevnaker
+        names_en: ~
+        names_es: ~
+        population: 4308
+      - 
+        alternate_names: 
+          - Jaren
+        ascii_name: Jaren
+        name: Jaren
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hundorp
+        ascii_name: Hundorp
+        name: Hundorp
+        names_en: ~
+        names_es: ~
+        population: 615
+      - 
+        alternate_names: 
+          - Hov
+          - "Hov i Land"
+        ascii_name: Hov
+        name: Hov
+        names_en: ~
+        names_es: ~
+        population: 2095
+      - 
+        alternate_names: ~
+        ascii_name: Heggenes
+        name: Heggenes
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Grua
+        ascii_name: Grua
+        name: Grua
+        names_en: ~
+        names_es: ~
+        population: 1477
+      - 
+        alternate_names: 
+          - Gjovik
+          - "Gjovik kommun"
+          - Gjøvik
+        ascii_name: Gjovik
+        name: Gjøvik
+        names_en: 
+          - Gjøvik
+        names_es: ~
+        population: 17596
+      - 
+        alternate_names: ~
+        ascii_name: Fagernes
+        name: Fagernes
+        names_en: ~
+        names_es: ~
+        population: 1788
+      - 
+        alternate_names: ~
+        ascii_name: Dovre
+        name: Dovre
+        names_en: ~
+        names_es: ~
+        population: 439
+      - 
+        alternate_names: 
+          - Dombaas
+        ascii_name: Dombas
+        name: Dombås
+        names_en: ~
+        names_es: ~
+        population: 1156
+      - 
+        alternate_names: 
+          - Dokka
+        ascii_name: Dokka
+        name: Dokka
+        names_en: ~
+        names_es: ~
+        population: 2796
+      - 
+        alternate_names: 
+          - Bruflat
+          - Etnedalen
+        ascii_name: Bruflat
+        name: Bruflat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bagn
+        ascii_name: Bagn
+        name: Bagn
+        names_en: ~
+        names_es: ~
+        population: 607
+      - 
+        alternate_names: ~
+        ascii_name: Lesja
+        name: Lesja
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Bismo
+        name: Bismo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Fossbergom
+        name: Fossbergom
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Valebrua
+        name: Vålebrua
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Segalstad bru"
+        name: "Segalstad bru"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Slidre
+        name: Slidre
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Vang
+        name: Vang
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Oppland
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nord-Trondelag Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Vaerdalsoren
+          - Verdalsora
+          - Verdalsoren
+        ascii_name: Verdal
+        name: Verdal
+        names_en: ~
+        names_es: ~
+        population: 7154
+      - 
+        alternate_names: 
+          - Straumen
+          - Strommen
+          - Strömmen
+        ascii_name: Straumen
+        name: Straumen
+        names_en: ~
+        names_es: ~
+        population: 1147
+      - 
+        alternate_names: ~
+        ascii_name: Stjordalshalsen
+        name: Stjørdalshalsen
+        names_en: ~
+        names_es: ~
+        population: 9873
+      - 
+        alternate_names: 
+          - Steinkjer
+          - Stenkjaer
+        ascii_name: Steinkjer
+        name: Steinkjer
+        names_en: ~
+        names_es: ~
+        population: 20000
+      - 
+        alternate_names: 
+          - Snaasen
+          - Snasa
+          - Snåsa
+        ascii_name: Snasa
+        name: Snåsa
+        names_en: ~
+        names_es: ~
+        population: 733
+      - 
+        alternate_names: ~
+        ascii_name: Skogn
+        name: Skogn
+        names_en: ~
+        names_es: ~
+        population: 1884
+      - 
+        alternate_names: 
+          - Royrvik
+          - Røyrvik
+        ascii_name: Royrvik
+        name: Røyrvik
+        names_en: ~
+        names_es: ~
+        population: 254
+      - 
+        alternate_names: 
+          - Rorvik
+          - Rørvik
+        ascii_name: Rorvik
+        name: Rørvik
+        names_en: ~
+        names_es: ~
+        population: 2615
+      - 
+        alternate_names: 
+          - Ranemsletta
+        ascii_name: Ranemsletta
+        name: Ranemsletta
+        names_en: ~
+        names_es: ~
+        population: 307
+      - 
+        alternate_names: ~
+        ascii_name: Namsskogan
+        name: Namsskogan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Namsos
+          - "Namsos kommun"
+          - namsus
+        ascii_name: Namsos
+        name: Namsos
+        names_en: 
+          - Namsos
+        names_es: 
+          - Namsos
+        population: 9035
+      - 
+        alternate_names: 
+          - Maraker
+          - Maråker
+          - Meraaker
+        ascii_name: Meraker
+        name: Meråker
+        names_en: ~
+        names_es: ~
+        population: 961
+      - 
+        alternate_names: ~
+        ascii_name: Malm
+        name: Malm
+        names_en: ~
+        names_es: ~
+        population: 1230
+      - 
+        alternate_names: ~
+        ascii_name: Levanger
+        name: Levanger
+        names_en: ~
+        names_es: ~
+        population: 8411
+      - 
+        alternate_names: 
+          - Lauvsnes
+        ascii_name: Lauvsnes
+        name: Lauvsnes
+        names_en: ~
+        names_es: ~
+        population: 453
+      - 
+        alternate_names: 
+          - Kolnereid
+          - Kolvereid
+        ascii_name: Kolvereid
+        name: Kolvereid
+        names_en: ~
+        names_es: ~
+        population: 1467
+      - 
+        alternate_names: ~
+        ascii_name: Grong
+        name: Grong
+        names_en: ~
+        names_es: ~
+        population: 1052
+      - 
+        alternate_names: ~
+        ascii_name: Stjordal
+        name: Stjørdal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Frosta
+          - Фроста
+        ascii_name: Frosta
+        name: Frosta
+        names_en: ~
+        names_es: ~
+        population: 2495
+      - 
+        alternate_names: ~
+        ascii_name: Leksvik
+        name: Leksvik
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Mosvik
+        name: Mosvik
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Namdalseid
+        name: Namdalseid
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Nordli
+        name: Nordli
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hoylandet
+        name: Høylandet
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Joa
+        name: Jøa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Leka
+        name: Leka
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Nord-Trøndelag
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nordland Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Vik
+          - "Vik i Helgeland"
+        ascii_name: Vik
+        name: Vik
+        names_en: ~
+        names_es: ~
+        population: 365
+      - 
+        alternate_names: ~
+        ascii_name: Vevelstad
+        name: Vevelstad
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Trofors
+        ascii_name: Trofors
+        name: Trofors
+        names_en: ~
+        names_es: ~
+        population: 808
+      - 
+        alternate_names: 
+          - Terraak
+          - Terrak
+          - Terråk
+        ascii_name: Terrak
+        name: Terråk
+        names_en: ~
+        names_es: ~
+        population: 623
+      - 
+        alternate_names: 
+          - Svolvaer
+          - Svolvær
+        ascii_name: Svolvaer
+        name: Svolvær
+        names_en: 
+          - Svolvær
+        names_es: ~
+        population: 4197
+      - 
+        alternate_names: ~
+        ascii_name: Straumen
+        name: Straumen
+        names_en: ~
+        names_es: ~
+        population: 827
+      - 
+        alternate_names: 
+          - Straume
+          - Stromme
+          - Strömme
+        ascii_name: Straume
+        name: Straume
+        names_en: ~
+        names_es: ~
+        population: 291
+      - 
+        alternate_names: 
+          - Stokkmarknes
+          - Stokmarknes
+        ascii_name: Stokmarknes
+        name: Stokmarknes
+        names_en: ~
+        names_es: ~
+        population: 3119
+      - 
+        alternate_names: 
+          - Sortland
+          - "Sortland kommun"
+          - Сортланд
+        ascii_name: Sortland
+        name: Sortland
+        names_en: 
+          - Sortland
+        names_es: ~
+        population: 4620
+      - 
+        alternate_names: ~
+        ascii_name: Sorland
+        name: Sørland
+        names_en: ~
+        names_es: ~
+        population: 556
+      - 
+        alternate_names: 
+          - Sandnessjoen
+          - Sandnessjøen
+        ascii_name: Sandnessjoen
+        name: Sandnessjøen
+        names_en: ~
+        names_es: ~
+        population: 5778
+      - 
+        alternate_names: ~
+        ascii_name: Rost
+        name: Røst
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Rognan
+        ascii_name: Rognan
+        name: Rognan
+        names_en: ~
+        names_es: ~
+        population: 2499
+      - 
+        alternate_names: ~
+        ascii_name: Reine
+        name: Reine
+        names_en: ~
+        names_es: ~
+        population: 342
+      - 
+        alternate_names: ~
+        ascii_name: Ramberg
+        name: Ramberg
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ornes
+          - Ørnes
+        ascii_name: Ornes
+        name: Ørnes
+        names_en: ~
+        names_es: ~
+        population: 1538
+      - 
+        alternate_names: ~
+        ascii_name: Nesna
+        name: Nesna
+        names_en: ~
+        names_es: ~
+        population: 1211
+      - 
+        alternate_names: 
+          - Narvik
+          - Narwik
+          - naleubikeu
+        ascii_name: Narvik
+        name: Narvik
+        names_en: 
+          - Narvik
+        names_es: 
+          - Narvik
+        population: 14114
+      - 
+        alternate_names: ~
+        ascii_name: Myre
+        name: Myre
+        names_en: ~
+        names_es: ~
+        population: 1995
+      - 
+        alternate_names: 
+          - Mosjoen
+          - Mosjøen
+        ascii_name: Mosjoen
+        name: Mosjøen
+        names_en: ~
+        names_es: ~
+        population: 9636
+      - 
+        alternate_names: 
+          - Moldjord
+          - Moldjorden
+        ascii_name: Moldjord
+        name: Moldjord
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Mo
+          - "Mo i Rana"
+        ascii_name: "Mo i Rana"
+        name: "Mo i Rana"
+        names_en: 
+          - "Mo i Rana"
+        names_es: ~
+        population: 17853
+      - 
+        alternate_names: 
+          - Melbu
+        ascii_name: Melbu
+        name: Melbu
+        names_en: ~
+        names_es: ~
+        population: 2161
+      - 
+        alternate_names: 
+          - Laupsmarka
+          - Lopsmarka
+          - Lopsmarken
+        ascii_name: Lopsmarka
+        name: Løpsmarka
+        names_en: ~
+        names_es: ~
+        population: 2308
+      - 
+        alternate_names: 
+          - Lodingen
+          - Loedingen
+          - Lødingen
+        ascii_name: Lodingen
+        name: Lødingen
+        names_en: ~
+        names_es: ~
+        population: 1808
+      - 
+        alternate_names: ~
+        ascii_name: Loding
+        name: Løding
+        names_en: ~
+        names_es: ~
+        population: 2835
+      - 
+        alternate_names: ~
+        ascii_name: Leland
+        name: Leland
+        names_en: ~
+        names_es: ~
+        population: 563
+      - 
+        alternate_names: 
+          - Korgen
+        ascii_name: Korgen
+        name: Korgen
+        names_en: ~
+        names_es: ~
+        population: 858
+      - 
+        alternate_names: 
+          - Kjonsvik
+          - Kjopsvik
+          - Kjönsvik
+        ascii_name: Kjopsvik
+        name: Kjøpsvik
+        names_en: ~
+        names_es: ~
+        population: 960
+      - 
+        alternate_names: 
+          - Kabelvaag
+          - Kabelvag
+          - Kabelvåg
+        ascii_name: Kabelvag
+        name: Kabelvåg
+        names_en: ~
+        names_es: ~
+        population: 1638
+      - 
+        alternate_names: 
+          - Indyr
+          - Inndyr
+        ascii_name: Inndyr
+        name: Inndyr
+        names_en: ~
+        names_es: ~
+        population: 666
+      - 
+        alternate_names: ~
+        ascii_name: Hol
+        name: Hol
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hemnesberget
+        ascii_name: Hemnesberget
+        name: Hemnesberget
+        names_en: ~
+        names_es: ~
+        population: 1243
+      - 
+        alternate_names: ~
+        ascii_name: Hauknes
+        name: Hauknes
+        names_en: ~
+        names_es: ~
+        population: 1864
+      - 
+        alternate_names: ~
+        ascii_name: Gravdal
+        name: Gravdal
+        names_en: ~
+        names_es: ~
+        population: 1624
+      - 
+        alternate_names: 
+          - Glaamen
+          - Glamfjord
+          - Glomfjord
+        ascii_name: Glomfjord
+        name: Glomfjord
+        names_en: ~
+        names_es: ~
+        population: 1204
+      - 
+        alternate_names: 
+          - Gladstad
+        ascii_name: Gladstad
+        name: Gladstad
+        names_en: ~
+        names_es: ~
+        population: 300
+      - 
+        alternate_names: 
+          - Fauske
+          - Фауске
+        ascii_name: Fauske
+        name: Fauske
+        names_en: ~
+        names_es: ~
+        population: 5953
+      - 
+        alternate_names: ~
+        ascii_name: Evjen
+        name: Evjen
+        names_en: ~
+        names_es: ~
+        population: 2127
+      - 
+        alternate_names: 
+          - Bronno
+          - Bronnoy
+          - Bronnoysund
+        ascii_name: Bronnoysund
+        name: Brønnøysund
+        names_en: ~
+        names_es: ~
+        population: 4366
+      - 
+        alternate_names: 
+          - Bogen
+          - "Bogen i Ofoten"
+        ascii_name: Bogen
+        name: Bogen
+        names_en: ~
+        names_es: ~
+        population: 392
+      - 
+        alternate_names: 
+          - Bodo
+          - Bodoe
+          - Bodö
+        ascii_name: Bodo
+        name: Bodø
+        names_en: 
+          - Bodø
+        names_es: ~
+        population: 34073
+      - 
+        alternate_names: 
+          - Bjerkvik
+          - Bjorkvang
+          - Bjorkvik
+        ascii_name: Bjorkvang
+        name: Bjørkvang
+        names_en: ~
+        names_es: ~
+        population: 1220
+      - 
+        alternate_names: ~
+        ascii_name: Ballangen
+        name: Ballangen
+        names_en: ~
+        names_es: ~
+        population: 956
+      - 
+        alternate_names: ~
+        ascii_name: Andenes
+        name: Andenes
+        names_en: ~
+        names_es: ~
+        population: 2766
+      - 
+        alternate_names: ~
+        ascii_name: Myre
+        name: Myre
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Silvalen
+        name: Silvalen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hattfjelldal
+        name: Hattfjelldal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Solfjellsjyen
+        name: Solfjellsjyen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Luroy
+        name: Lurøy
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Husoya
+        name: Husøya
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Vagaholmen
+        name: Vågaholmen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Leinesfjorden
+        name: Leinesfjorden
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Oppeide
+        name: Oppeide
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Leknes
+        name: Leknes
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Nordland
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "More og Romsdal fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Hallkjellsvik
+          - Hallkjelsvik
+          - Volda
+        ascii_name: Volda
+        name: Volda
+        names_en: 
+          - Volda
+        names_es: ~
+        population: 5376
+      - 
+        alternate_names: ~
+        ascii_name: Vatne
+        name: Vatne
+        names_en: ~
+        names_es: ~
+        population: 1609
+      - 
+        alternate_names: 
+          - Valdal
+          - Valldal
+        ascii_name: Valldal
+        name: Valldal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ulsteinvik
+        ascii_name: Ulsteinvik
+        name: Ulsteinvik
+        names_en: ~
+        names_es: ~
+        population: 5103
+      - 
+        alternate_names: 
+          - Tomra
+          - "Tomra i Romsdal"
+          - Tomren
+        ascii_name: Tomra
+        name: Tomra
+        names_en: ~
+        names_es: ~
+        population: 1167
+      - 
+        alternate_names: 
+          - Sundalsoren
+          - Sundalsören
+          - Sunndalsora
+        ascii_name: Sunndalsora
+        name: Sunndalsøra
+        names_en: ~
+        names_es: ~
+        population: 4159
+      - 
+        alternate_names: 
+          - Stranda
+          - Stranden
+        ascii_name: Stranda
+        name: Stranda
+        names_en: ~
+        names_es: ~
+        population: 2499
+      - 
+        alternate_names: 
+          - Steinshamn
+        ascii_name: Steinshamn
+        name: Steinshamn
+        names_en: ~
+        names_es: ~
+        population: 475
+      - 
+        alternate_names: 
+          - Skodje
+        ascii_name: Skodje
+        name: Skodje
+        names_en: ~
+        names_es: ~
+        population: 1634
+      - 
+        alternate_names: 
+          - Sjoholt
+          - Sjøholt
+          - Soholt
+        ascii_name: Sjoholt
+        name: Sjøholt
+        names_en: ~
+        names_es: ~
+        population: 1133
+      - 
+        alternate_names: 
+          - Rindal
+          - "Rindal pa Nordmore"
+          - "Rindal på Nordmøre"
+        ascii_name: Rindal
+        name: Rindal
+        names_en: ~
+        names_es: ~
+        population: 649
+      - 
+        alternate_names: 
+          - Reinsvik
+          - Rensvik
+        ascii_name: Reinsvik
+        name: Reinsvik
+        names_en: ~
+        names_es: ~
+        population: 2121
+      - 
+        alternate_names: 
+          - Molde
+          - "mo er de"
+          - Молде
+        ascii_name: Molde
+        name: Molde
+        names_en: 
+          - Molde
+        names_es: ~
+        population: 18594
+      - 
+        alternate_names: 
+          - Midsund
+          - "Midsund kommun"
+          - Misund
+        ascii_name: Midsund
+        name: Midsund
+        names_en: 
+          - Midsund
+        names_es: ~
+        population: 468
+      - 
+        alternate_names: 
+          - Larnes
+          - Larsnes
+        ascii_name: Larsnes
+        name: Larsnes
+        names_en: ~
+        names_es: ~
+        population: 511
+      - 
+        alternate_names: 
+          - Langevaag
+          - Langevag
+          - Langevåg
+        ascii_name: Langevag
+        name: Langevåg
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Kristiansund
+          - "Kristiansund Nord"
+          - "Kristiansund kommun"
+        ascii_name: Kristiansund
+        name: Kristiansund
+        names_en: 
+          - Kristiansund
+        names_es: ~
+        population: 16785
+      - 
+        alternate_names: ~
+        ascii_name: Hopen
+        name: Hopen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hjellset
+          - Hjelset
+        ascii_name: Hjelset
+        name: Hjelset
+        names_en: ~
+        names_es: ~
+        population: 1011
+      - 
+        alternate_names: 
+          - Hareid
+          - "Indre Hareid"
+          - "Midtre Hareid"
+        ascii_name: Hareid
+        name: Hareid
+        names_en: ~
+        names_es: ~
+        population: 3626
+      - 
+        alternate_names: 
+          - Forsnevaag
+          - Fosnavag
+          - Fosnavåg
+        ascii_name: Fosnavag
+        name: Fosnavåg
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Eidsvaag
+          - Eidsvag
+          - Eidsvåg
+        ascii_name: Eidsvag
+        name: Eidsvåg
+        names_en: ~
+        names_es: ~
+        population: 891
+      - 
+        alternate_names: 
+          - Eide
+          - "Eide kommun"
+          - "Eide pa Nordmore"
+        ascii_name: Eide
+        name: Eide
+        names_en: 
+          - Eide
+        names_es: ~
+        population: 1155
+      - 
+        alternate_names: 
+          - Brattvag
+          - Brattvåg
+          - Bratvaag
+        ascii_name: Brattvag
+        name: Brattvåg
+        names_en: ~
+        names_es: ~
+        population: 2146
+      - 
+        alternate_names: 
+          - Batnfjordsora
+          - Batnfjordsoren
+          - Batnfjordsören
+        ascii_name: Batnfjordsora
+        name: Batnfjordsøra
+        names_en: ~
+        names_es: ~
+        population: 339
+      - 
+        alternate_names: 
+          - Aure
+          - "Aure kommun"
+          - "Aure kommune"
+        ascii_name: Aure
+        name: Aure
+        names_en: 
+          - Aure
+        names_es: ~
+        population: 596
+      - 
+        alternate_names: 
+          - Anbalsnes
+          - Andalsnes
+          - Åndalsnes
+        ascii_name: Andalsnes
+        name: Åndalsnes
+        names_en: ~
+        names_es: ~
+        population: 2035
+      - 
+        alternate_names: 
+          - Aalesund
+          - Alasund
+          - Alesund
+        ascii_name: Alesund
+        name: Ålesund
+        names_en: 
+          - Ålesund
+        names_es: 
+          - Ålesund
+        population: 44096
+      - 
+        alternate_names: ~
+        ascii_name: Tingvoll
+        name: Tingvoll
+        names_en: ~
+        names_es: ~
+        population: 1005
+      - 
+        alternate_names: 
+          - Orsta
+          - "Orsta kommun"
+          - Ørsta
+        ascii_name: Orsta
+        name: Ørsta
+        names_en: 
+          - Ørsta
+        names_es: ~
+        population: 6337
+      - 
+        alternate_names: 
+          - Vestnes
+          - "Vestnes kommun"
+        ascii_name: Vestnes
+        name: Vestnes
+        names_en: 
+          - Vestnes
+        names_es: ~
+        population: 2088
+      - 
+        alternate_names: ~
+        ascii_name: Fiska
+        name: Fiskå
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Stordal
+        name: Stordal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Sykkylven
+        name: Sykkylven
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Valderoy
+        name: Valderøy
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Falkhytta
+        name: Falkhytta
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Elnesvagen
+        name: Elnesvågen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Bruhagen
+        name: Bruhagen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Surnadal
+        name: Surnadal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Liaboen
+        name: Liabøen
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Møre og Romsdal"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Hordaland Fylke"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Ytre Arna"
+        name: "Ytre Arna"
+        names_en: ~
+        names_es: ~
+        population: 2484
+      - 
+        alternate_names: 
+          - Voss
+          - Vossavangen
+          - Vossevangen
+        ascii_name: Vossevangen
+        name: Vossevangen
+        names_en: ~
+        names_es: ~
+        population: 5571
+      - 
+        alternate_names: 
+          - Ulvik
+          - "Ulvik i Hardanger"
+        ascii_name: Ulvik
+        name: Ulvik
+        names_en: ~
+        names_es: ~
+        population: 675
+      - 
+        alternate_names: ~
+        ascii_name: Uggdal
+        name: Uggdal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Tysse
+        name: Tysse
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Tjeldsto
+        name: Tjeldstø
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Syfteland
+        name: Syfteland
+        names_en: ~
+        names_es: ~
+        population: 1170
+      - 
+        alternate_names: 
+          - Sveio
+          - "Sveio kommun"
+        ascii_name: Sveio
+        name: Sveio
+        names_en: 
+          - Sveio
+        names_es: ~
+        population: 960
+      - 
+        alternate_names: 
+          - Storabo
+          - Storabø
+          - Storebo
+        ascii_name: Storebo
+        name: Storebø
+        names_en: ~
+        names_es: ~
+        population: 1026
+      - 
+        alternate_names: ~
+        ascii_name: Sagvag
+        name: Sagvåg
+        names_en: ~
+        names_es: ~
+        population: 3288
+      - 
+        alternate_names: 
+          - Rubben
+          - Rubbestadneset
+        ascii_name: Rubbestadneset
+        name: Rubbestadneset
+        names_en: ~
+        names_es: ~
+        population: 1130
+      - 
+        alternate_names: 
+          - Rosendal
+        ascii_name: Rosendal
+        name: Rosendal
+        names_en: ~
+        names_es: ~
+        population: 945
+      - 
+        alternate_names: 
+          - Oysteso
+          - Öystesö
+        ascii_name: Oystese
+        name: Øystese
+        names_en: ~
+        names_es: ~
+        population: 1634
+      - 
+        alternate_names: 
+          - Oosoren
+          - Oosøren
+          - Osora
+        ascii_name: Osoyro
+        name: Osøyro
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Odda
+          - "Odda kommun"
+          - Odde
+        ascii_name: Odda
+        name: Odda
+        names_en: 
+          - Odda
+        names_es: ~
+        population: 5359
+      - 
+        alternate_names: 
+          - Nordheimsund
+          - Norheimsund
+        ascii_name: Norheimsund
+        name: Norheimsund
+        names_en: ~
+        names_es: ~
+        population: 2146
+      - 
+        alternate_names: 
+          - Moster
+          - Mosterham
+          - Mosterhamn
+        ascii_name: Mosterhamn
+        name: Mosterhamn
+        names_en: ~
+        names_es: ~
+        population: 1167
+      - 
+        alternate_names: ~
+        ascii_name: Mo
+        name: Mo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Masfjorden
+          - "Masfjorden kommun"
+          - Masfjordnes
+        ascii_name: Masfjorden
+        name: Masfjorden
+        names_en: 
+          - Masfjorden
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Manger
+        name: Manger
+        names_en: ~
+        names_es: ~
+        population: 814
+      - 
+        alternate_names: 
+          - Lonevaag
+          - Lonevag
+          - Lonevåg
+        ascii_name: Lonevag
+        name: Lonevåg
+        names_en: ~
+        names_es: ~
+        population: 513
+      - 
+        alternate_names: ~
+        ascii_name: Lindas
+        name: Lindås
+        names_en: ~
+        names_es: ~
+        population: 1087
+      - 
+        alternate_names: 
+          - Leirvik
+        ascii_name: Leirvik
+        name: Leirvik
+        names_en: ~
+        names_es: ~
+        population: 11028
+      - 
+        alternate_names: ~
+        ascii_name: Knappskog
+        name: Knappskog
+        names_en: ~
+        names_es: ~
+        population: 1045
+      - 
+        alternate_names: 
+          - Kleppesto
+          - Kleppestø
+        ascii_name: Kleppesto
+        name: Kleppestø
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Jondal
+          - "Jondal kommun"
+        ascii_name: Jondal
+        name: Jondal
+        names_en: 
+          - Jondal
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Isdalssto
+          - Isdalsstø
+          - Isdalsto
+        ascii_name: Isdalssto
+        name: Isdalsstø
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hylkje
+        name: Hylkje
+        names_en: ~
+        names_es: ~
+        population: 1853
+      - 
+        alternate_names: ~
+        ascii_name: Hagavik
+        name: Hagavik
+        names_en: ~
+        names_es: ~
+        population: 1305
+      - 
+        alternate_names: 
+          - Granvin
+          - "Granvin kommun"
+        ascii_name: Granvin
+        name: Granvin
+        names_en: 
+          - Granvin
+        names_es: ~
+        population: 460
+      - 
+        alternate_names: 
+          - Frekhaug
+        ascii_name: Frekhaug
+        name: Frekhaug
+        names_en: ~
+        names_es: ~
+        population: 1610
+      - 
+        alternate_names: 
+          - Fitjar
+          - "Fitjar kommun"
+        ascii_name: Fitjar
+        name: Fitjar
+        names_en: 
+          - Fitjar
+        names_es: ~
+        population: 1280
+      - 
+        alternate_names: 
+          - Fedje
+          - "Fedje kommun"
+        ascii_name: Fedje
+        name: Fedje
+        names_en: 
+          - Fedje
+        names_es: ~
+        population: 480
+      - 
+        alternate_names: 
+          - Etne
+          - "Etne kommun"
+          - Etnesjoen
+        ascii_name: Etnesjoen
+        name: Etnesjøen
+        names_en: 
+          - Etne
+        names_es: ~
+        population: 1002
+      - 
+        alternate_names: ~
+        ascii_name: Espeland
+        name: Espeland
+        names_en: ~
+        names_es: ~
+        population: 1793
+      - 
+        alternate_names: ~
+        ascii_name: Eikelandsosen
+        name: Eikelandsosen
+        names_en: ~
+        names_es: ~
+        population: 434
+      - 
+        alternate_names: 
+          - Eidfjord
+          - "Eidfjord i Hardanger"
+          - "Eidfjord kommun"
+        ascii_name: Eidfjord
+        name: Eidfjord
+        names_en: 
+          - Eidfjord
+        names_es: ~
+        population: 569
+      - 
+        alternate_names: 
+          - Dale
+          - "Dale i Bruvik"
+        ascii_name: Dale
+        name: Dale
+        names_en: ~
+        names_es: ~
+        population: 1167
+      - 
+        alternate_names: 
+          - Bremnes
+          - Sortland
+        ascii_name: Svortland
+        name: Svortland
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Berga
+          - Bergen
+          - Bergena
+        ascii_name: Bergen
+        name: Bergen
+        names_en: 
+          - Bergen
+        names_es: 
+          - Bergen
+        population: 213585
+      - 
+        alternate_names: ~
+        ascii_name: Austrheim
+        name: Austrheim
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Arna
+          - "Indre Arna"
+        ascii_name: "Indre Arna"
+        name: "Indre Arna"
+        names_en: ~
+        names_es: ~
+        population: 6117
+      - 
+        alternate_names: 
+          - Agotnes
+          - Ågotnes
+        ascii_name: Agotnes
+        name: Ågotnes
+        names_en: ~
+        names_es: ~
+        population: 1344
+      - 
+        alternate_names: 
+          - Askoy
+          - "Askoy kommun"
+          - Askøy
+        ascii_name: Askoy
+        name: Askøy
+        names_en: 
+          - Askøy
+        names_es: 
+          - Askøy
+        population: 17224
+      - 
+        alternate_names: ~
+        ascii_name: Kinsarvik
+        name: Kinsarvik
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Sandsli
+        name: Sandsli
+        names_en: ~
+        names_es: ~
+        population: 1070
+      - 
+        alternate_names: ~
+        ascii_name: Skogsvagen
+        name: Skogsvågen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Straume
+        name: Straume
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Hordaland
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Hedmark Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Vaaler
+          - Valer
+          - "Valer i Solor"
+        ascii_name: Valer
+        name: Våler
+        names_en: ~
+        names_es: ~
+        population: 1188
+      - 
+        alternate_names: 
+          - Tonset
+          - Tynset
+          - Tönset
+        ascii_name: Tynset
+        name: Tynset
+        names_en: ~
+        names_es: ~
+        population: 2356
+      - 
+        alternate_names: 
+          - Trysil
+        ascii_name: Innbygda
+        name: Innbygda
+        names_en: ~
+        names_es: ~
+        population: 2250
+      - 
+        alternate_names: 
+          - Tolga
+          - Tolgen
+        ascii_name: Tolga
+        name: Tolga
+        names_en: ~
+        names_es: ~
+        population: 646
+      - 
+        alternate_names: 
+          - Stange
+          - "Stange Stasjonsby"
+        ascii_name: Stange
+        name: Stange
+        names_en: ~
+        names_es: ~
+        population: 2416
+      - 
+        alternate_names: ~
+        ascii_name: Spetalen
+        name: Spetalen
+        names_en: ~
+        names_es: ~
+        population: 1969
+      - 
+        alternate_names: 
+          - Skotterud
+        ascii_name: Skotterud
+        name: Skotterud
+        names_en: ~
+        names_es: ~
+        population: 1361
+      - 
+        alternate_names: 
+          - Skarnes
+          - "Skarnes Stasjonsby"
+        ascii_name: Skarnes
+        name: Skarnes
+        names_en: ~
+        names_es: ~
+        population: 2172
+      - 
+        alternate_names: 
+          - "Nord Odalen"
+          - Nord-Odal
+          - Sand
+        ascii_name: Sand
+        name: Sand
+        names_en: ~
+        names_es: ~
+        population: 946
+      - 
+        alternate_names: 
+          - Rena
+        ascii_name: Rena
+        name: Rena
+        names_en: ~
+        names_es: ~
+        population: 2009
+      - 
+        alternate_names: 
+          - Os
+          - "Os i Hedmark"
+          - "Os i Osterdalen"
+        ascii_name: Os
+        name: Os
+        names_en: 
+          - Os
+        names_es: ~
+        population: 626
+      - 
+        alternate_names: 
+          - Moelv
+          - Moelven
+        ascii_name: Moelv
+        name: Moelv
+        names_en: ~
+        names_es: ~
+        population: 4049
+      - 
+        alternate_names: 
+          - Loiten
+          - Loten
+          - Löiten
+        ascii_name: Loten
+        name: Løten
+        names_en: ~
+        names_es: ~
+        population: 2458
+      - 
+        alternate_names: 
+          - Koppang
+        ascii_name: Koppang
+        name: Koppang
+        names_en: ~
+        names_es: ~
+        population: 1182
+      - 
+        alternate_names: 
+          - Kongsvinger
+          - Конгсвингер
+        ascii_name: Kongsvinger
+        name: Kongsvinger
+        names_en: 
+          - Kongsvinger
+        names_es: ~
+        population: 11181
+      - 
+        alternate_names: 
+          - Kirkenaer
+          - "Kirkenaer i Solor"
+          - Kirkenær
+        ascii_name: Kirkenaer
+        name: Kirkenær
+        names_en: ~
+        names_es: ~
+        population: 1252
+      - 
+        alternate_names: 
+          - Hamar
+          - Khamar
+          - "ha ma er"
+        ascii_name: Hamar
+        name: Hamar
+        names_en: 
+          - Hamar
+        names_es: ~
+        population: 29479
+      - 
+        alternate_names: 
+          - Foldal
+          - Folldal
+        ascii_name: Folldal
+        name: Folldal
+        names_en: ~
+        names_es: ~
+        population: 586
+      - 
+        alternate_names: 
+          - Ehl'verum
+          - Elverum
+          - Эльверум
+        ascii_name: Elverum
+        name: Elverum
+        names_en: 
+          - Elverum
+        names_es: ~
+        population: 12490
+      - 
+        alternate_names: 
+          - Brumunddal
+          - Brumunddalen
+        ascii_name: Brumunddal
+        name: Brumunddal
+        names_en: ~
+        names_es: ~
+        population: 8441
+      - 
+        alternate_names: 
+          - Alvdal
+          - "Alvdal kommun"
+        ascii_name: Alvdal
+        name: Alvdal
+        names_en: 
+          - Alvdal
+        names_es: ~
+        population: 677
+      - 
+        alternate_names: ~
+        ascii_name: Flisa
+        name: Flisa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Bergset
+        name: Bergset
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Engerdal
+        name: Engerdal
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Hedmark
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Buskerud Fylke"
+    cities: 
+      - 
+        alternate_names: 
+          - Vikersund
+          - Vikesund
+        ascii_name: Vikersund
+        name: Vikersund
+        names_en: ~
+        names_es: ~
+        population: 2448
+      - 
+        alternate_names: 
+          - Tranby
+        ascii_name: Tranby
+        name: Tranby
+        names_en: ~
+        names_es: ~
+        population: 5552
+      - 
+        alternate_names: 
+          - Tofte
+          - "Tofte i Hurum"
+        ascii_name: Tofte
+        name: Tofte
+        names_en: ~
+        names_es: ~
+        population: 3109
+      - 
+        alternate_names: 
+          - Slemmestad
+        ascii_name: Slemmestad
+        name: Slemmestad
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Saetre
+          - "Saetre i Hurum"
+          - Setre
+        ascii_name: Saetre
+        name: Sætre
+        names_en: ~
+        names_es: ~
+        population: 3009
+      - 
+        alternate_names: ~
+        ascii_name: Royken
+        name: Røyken
+        names_en: ~
+        names_es: ~
+        population: 2775
+      - 
+        alternate_names: 
+          - Rollag
+          - Rollang
+        ascii_name: Rollag
+        name: Rollag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Prestfoss
+        ascii_name: Prestfoss
+        name: Prestfoss
+        names_en: ~
+        names_es: ~
+        population: 465
+      - 
+        alternate_names: 
+          - "Nore Sundet"
+        ascii_name: Noresund
+        name: Noresund
+        names_en: ~
+        names_es: ~
+        population: 330
+      - 
+        alternate_names: 
+          - Nesbyen
+        ascii_name: Nesbyen
+        name: Nesbyen
+        names_en: ~
+        names_es: ~
+        population: 2086
+      - 
+        alternate_names: 
+          - Mjondalen
+          - Mjøndalen
+        ascii_name: Mjondalen
+        name: Mjøndalen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Kongsberg
+          - "Kongsberg kommun"
+          - Конгсберг
+        ascii_name: Kongsberg
+        name: Kongsberg
+        names_en: 
+          - Kongsberg
+        names_es: ~
+        population: 17667
+      - 
+        alternate_names: 
+          - Hvittingfoss
+          - Vittingfos
+          - Vittingfoss
+        ascii_name: Hvittingfoss
+        name: Hvittingfoss
+        names_en: ~
+        names_es: ~
+        population: 1016
+      - 
+        alternate_names: 
+          - Honefoss
+          - Hønefoss
+        ascii_name: Honefoss
+        name: Hønefoss
+        names_en: ~
+        names_es: ~
+        population: 13678
+      - 
+        alternate_names: 
+          - Hokksund
+        ascii_name: Hokksund
+        name: Hokksund
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Khemsedal'
+          - Хемседаль
+        ascii_name: Hemsedal
+        name: Hemsedal
+        names_en: ~
+        names_es: ~
+        population: 1876
+      - 
+        alternate_names: 
+          - Gol
+          - "Gol kommun"
+        ascii_name: Gol
+        name: Gol
+        names_en: 
+          - Gol
+        names_es: ~
+        population: 2530
+      - 
+        alternate_names: 
+          - Geilo
+          - Gejlo
+          - Gielo
+        ascii_name: Geilo
+        name: Geilo
+        names_en: 
+          - Geilo
+        names_es: ~
+        population: 2276
+      - 
+        alternate_names: 
+          - Fla
+          - Flaa
+          - Flå
+        ascii_name: Fla
+        name: Flå
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Drammen
+          - Драммен
+        ascii_name: Drammen
+        name: Drammen
+        names_en: 
+          - Drammen
+        names_es: ~
+        population: 90722
+      - 
+        alternate_names: ~
+        ascii_name: Aros
+        name: Åros
+        names_en: ~
+        names_es: ~
+        population: 1142
+      - 
+        alternate_names: 
+          - Aal
+          - Al
+          - Ål
+        ascii_name: Al
+        name: Ål
+        names_en: ~
+        names_es: ~
+        population: 2278
+      - 
+        alternate_names: ~
+        ascii_name: Vik
+        name: Vik
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Troim
+        name: Trøim
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hol
+        name: Hol
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Lierbyen
+        name: Lierbyen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Lampeland
+        name: Lampeland
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Rodberg
+        name: Rødberg
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Buskerud
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Aust-Agder Fylke"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Valle
+        name: Valle
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tvedestrand
+        ascii_name: Tvedestrand
+        name: Tvedestrand
+        names_en: ~
+        names_es: ~
+        population: 1975
+      - 
+        alternate_names: 
+          - Risor
+          - "Risor kommun"
+          - Risør
+        ascii_name: Risor
+        name: Risør
+        names_en: 
+          - Risør
+        names_es: ~
+        population: 4475
+      - 
+        alternate_names: ~
+        ascii_name: Myra
+        name: Myra
+        names_en: ~
+        names_es: ~
+        population: 544
+      - 
+        alternate_names: 
+          - Lillesand
+          - "Lillesand kommun"
+        ascii_name: Lillesand
+        name: Lillesand
+        names_en: 
+          - Lillesand
+        names_es: ~
+        population: 6081
+      - 
+        alternate_names: 
+          - Hovde
+          - Hovden
+        ascii_name: Hovden
+        name: Hovden
+        names_en: ~
+        names_es: ~
+        population: 265
+      - 
+        alternate_names: 
+          - Grimstad
+          - Гримстад
+        ascii_name: Grimstad
+        name: Grimstad
+        names_en: 
+          - Grimstad
+        names_es: ~
+        population: 9561
+      - 
+        alternate_names: ~
+        ascii_name: Gjerstad
+        name: Gjerstad
+        names_en: ~
+        names_es: ~
+        population: 339
+      - 
+        alternate_names: 
+          - Fevig
+          - Fevik
+        ascii_name: Fevik
+        name: Fevik
+        names_en: ~
+        names_es: ~
+        population: 4989
+      - 
+        alternate_names: 
+          - Evje
+        ascii_name: Evje
+        name: Evje
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Bygland
+        name: Bygland
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Birkeland
+        name: Birkeland
+        names_en: ~
+        names_es: ~
+        population: 2254
+      - 
+        alternate_names: 
+          - Arendal
+          - "Arendal kommun"
+          - Arendal'
+        ascii_name: Arendal
+        name: Arendal
+        names_en: 
+          - Arendal
+        names_es: 
+          - Arendal
+        population: 30916
+      - 
+        alternate_names: ~
+        ascii_name: Amli
+        name: Åmli
+        names_en: ~
+        names_es: ~
+        population: 572
+      - 
+        alternate_names: ~
+        ascii_name: Blakstad
+        name: Blakstad
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Birketveit
+        name: Birketveit
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Aust-Agder
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Akershus Fylke"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Vestby
+        name: Vestby
+        names_en: ~
+        names_es: ~
+        population: 5330
+      - 
+        alternate_names: ~
+        ascii_name: Sorumsand
+        name: Sørumsand
+        names_en: ~
+        names_es: ~
+        population: 3563
+      - 
+        alternate_names: ~
+        ascii_name: Skui
+        name: Skui
+        names_en: ~
+        names_es: ~
+        population: 3487
+      - 
+        alternate_names: ~
+        ascii_name: Ski
+        name: Ski
+        names_en: ~
+        names_es: ~
+        population: 12513
+      - 
+        alternate_names: 
+          - Sandvik
+          - Sandvika
+          - Sandviken
+        ascii_name: Sandvika
+        name: Sandvika
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Rotnes
+        ascii_name: Rotnes
+        name: Rotnes
+        names_en: ~
+        names_es: ~
+        population: 4705
+      - 
+        alternate_names: 
+          - Raholt
+          - Råholt
+        ascii_name: Raholt
+        name: Råholt
+        names_en: ~
+        names_es: ~
+        population: 8593
+      - 
+        alternate_names: 
+          - Maura
+        ascii_name: Maura
+        name: Maura
+        names_en: ~
+        names_es: ~
+        population: 2400
+      - 
+        alternate_names: 
+          - Lillestrom
+          - Lillestrøm
+        ascii_name: Lillestrom
+        name: Lillestrøm
+        names_en: 
+          - Lillestrøm
+        names_es: ~
+        population: 14000
+      - 
+        alternate_names: 
+          - Leirsund
+        ascii_name: Leirsund
+        name: Leirsund
+        names_en: ~
+        names_es: ~
+        population: 1177
+      - 
+        alternate_names: 
+          - Kolbotn
+          - Kollbotn
+        ascii_name: Kolbotn
+        name: Kolbotn
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Klofta
+        name: Kløfta
+        names_en: ~
+        names_es: ~
+        population: 5942
+      - 
+        alternate_names: 
+          - Jesseim
+        ascii_name: Jessheim
+        name: Jessheim
+        names_en: ~
+        names_es: ~
+        population: 12365
+      - 
+        alternate_names: ~
+        ascii_name: Gjerdrum
+        name: Gjerdrum
+        names_en: ~
+        names_es: ~
+        population: 2174
+      - 
+        alternate_names: ~
+        ascii_name: Frogner
+        name: Frogner
+        names_en: ~
+        names_es: ~
+        population: 1108
+      - 
+        alternate_names: 
+          - Flateby
+        ascii_name: Flateby
+        name: Flateby
+        names_en: ~
+        names_es: ~
+        population: 3175
+      - 
+        alternate_names: ~
+        ascii_name: Fetsund
+        name: Fetsund
+        names_en: ~
+        names_es: ~
+        population: 6441
+      - 
+        alternate_names: ~
+        ascii_name: Fagerstrand
+        name: Fagerstrand
+        names_en: ~
+        names_es: ~
+        population: 1990
+      - 
+        alternate_names: 
+          - Eidsvold
+          - Eidsvoll
+          - "Eidsvoll kommun"
+        ascii_name: Eidsvoll
+        name: Eidsvoll
+        names_en: 
+          - Eidsvoll
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Drobak
+          - Drøbak
+        ascii_name: Drobak
+        name: Drøbak
+        names_en: ~
+        names_es: ~
+        population: 11363
+      - 
+        alternate_names: 
+          - Blakkestad
+          - Blakstad
+        ascii_name: Blakstad
+        name: Blakstad
+        names_en: ~
+        names_es: ~
+        population: 1898
+      - 
+        alternate_names: 
+          - Bjorkelangen
+          - Bjørkelangen
+        ascii_name: Bjorkelangen
+        name: Bjørkelangen
+        names_en: ~
+        names_es: ~
+        population: 2346
+      - 
+        alternate_names: 
+          - Aurskog
+          - Urskog
+        ascii_name: Aurskog
+        name: Aurskog
+        names_en: ~
+        names_es: ~
+        population: 2173
+      - 
+        alternate_names: ~
+        ascii_name: Auli
+        name: Auli
+        names_en: ~
+        names_es: ~
+        population: 2638
+      - 
+        alternate_names: 
+          - Asker
+          - "Asker kommun"
+        ascii_name: Asker
+        name: Asker
+        names_en: 
+          - Asker
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Ask
+        name: Ask
+        names_en: ~
+        names_es: ~
+        population: 1038
+      - 
+        alternate_names: 
+          - Aas
+          - As
+          - Ås
+        ascii_name: As
+        name: Ås
+        names_en: ~
+        names_es: ~
+        population: 7961
+      - 
+        alternate_names: 
+          - Aarnes
+        ascii_name: Arnes
+        name: Årnes
+        names_en: ~
+        names_es: ~
+        population: 3289
+      - 
+        alternate_names: 
+          - Aaneby
+          - Aneby
+          - Åneby
+        ascii_name: Aneby
+        name: Åneby
+        names_en: ~
+        names_es: ~
+        population: 1373
+      - 
+        alternate_names: ~
+        ascii_name: Nesoddtangen
+        name: Nesoddtangen
+        names_en: ~
+        names_es: ~
+        population: 10911
+      - 
+        alternate_names: ~
+        ascii_name: Fjellfoten
+        name: Fjellfoten
+        names_en: ~
+        names_es: ~
+        population: 1029
+      - 
+        alternate_names: ~
+        ascii_name: Neskollen
+        name: Neskollen
+        names_en: ~
+        names_es: ~
+        population: 1157
+      - 
+        alternate_names: ~
+        ascii_name: Fjerdingby
+        name: Fjerdingby
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kirkebygda
+        name: Kirkebygda
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kjenn
+        name: Kjenn
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Teigebyen
+        name: Teigebyen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Hurdal
+        name: Hurdal
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Akershus
+    names_en: ~
+    names_es: ~

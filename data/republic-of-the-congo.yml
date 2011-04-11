@@ -1,134 +1,251 @@
 --- 
-code: CG
-continent: AF
 name: "Republic of the Congo"
-population: 3039126
+names_en: 
+  - "Congo (Brazzaville)"
+  - Congo-Brazzaville
+  - "Republic of the Congo"
+names_es: 
+  - Congo
+  - "República del Congo"
 regions: 
   - 
+    ascii_name: "Region de la Sangha"
     cities: 
       - 
-        districts: []
-        location: "POINT (-4.1536099999999996 13.5500000000000007)"
-        name: Madingou
-        population: 22760
-        slug: madingou
-      - 
-        districts: []
-        location: "POINT (-4.1655600000000002 13.2927800000000005)"
-        name: Kayes
-        population: 58737
-        slug: kayes
-      - 
-        districts: []
-        location: "POINT (-4.3613900000000001 14.7644400000000005)"
-        name: Kinkala
-        population: 13882
-        slug: kinkala
-      - 
-        districts: []
-        location: "POINT (-4.2668999999999997 15.2832699999999999)"
-        name: Brazzaville
-        population: 1284609
-        slug: brazzaville
-    code: CG.01
-    name: Bouenza
-    slug: bouenza
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-2.9505599999999998 12.7261100000000003)"
-        name: Mossendjo
-        population: 18231
-        slug: mossendjo
-      - 
-        districts: []
-        location: "POINT (-4.1997200000000001 12.6738900000000001)"
-        name: Dolisie
-        population: 103894
-        slug: dolisie
-      - 
-        districts: []
-        location: "POINT (-4.7561099999999996 11.8577800000000000)"
-        name: Loandjili
-        population: 23204
-        slug: loandjili
-      - 
-        districts: []
-        location: "POINT (-4.7947199999999999 11.8461099999999995)"
-        name: Pointe-Noire
-        population: 659084
-        slug: pointe-noire
-      - 
-        districts: []
-        location: "POINT (-3.6858300000000002 13.3458299999999994)"
-        name: Sibiti
-        population: 19089
-        slug: sibiti
-    code: CG.07
-    name: Niari
-    slug: niari
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-1.8763900000000000 15.8644400000000001)"
-        name: Gamboma
-        population: 20877
-        slug: gamboma
-      - 
-        districts: []
-        location: "POINT (-2.5447199999999999 14.7533300000000001)"
-        name: Djambala
-        population: 9650
-        slug: djambala
-    code: CG.08
-    name: Plateaux
-    slug: plateaux
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (1.6480600000000001 14.5805600000000002)"
+        alternate_names: 
+          - Sembe
+          - Ssembe
+          - Sémbé
+        ascii_name: Sembe
         name: Sémbé
+        names_en: ~
+        names_es: ~
         population: 3113
-        slug: sembe
       - 
-        districts: []
-        location: "POINT (1.6136100000000000 16.0516700000000014)"
+        alternate_names: 
+          - Ouesso
+          - Ouésso
+        ascii_name: Ouesso
         name: Ouésso
+        names_en: 
+          - Ouésso
+        names_es: ~
         population: 23915
-        slug: ouesso
-    code: CG.10
     name: Sangha
-    slug: sangha
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region du Pool"
     cities: 
       - 
-        districts: []
-        location: "POINT (-0.4869400000000000 15.9080600000000008)"
-        name: Owando
-        population: 23952
-        slug: owando
+        alternate_names: ~
+        ascii_name: Kinkala
+        name: Kinkala
+        names_en: ~
+        names_es: ~
+        population: 13882
+    name: Pool
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region des Plateaux"
+    cities: 
       - 
-        districts: []
-        location: "POINT (0.0069400000000000 15.6333300000000008)"
-        name: Makoua
-        population: 11355
-        slug: makoua
+        alternate_names: ~
+        ascii_name: Gamboma
+        name: Gamboma
+        names_en: ~
+        names_es: ~
+        population: 20877
       - 
-        districts: []
-        location: "POINT (-0.8725000000000001 14.8205600000000004)"
-        name: Ewo
-        population: 4923
-        slug: ewo
+        alternate_names: 
+          - Dambala
+          - Djambala
+          - Djamballa
+        ascii_name: Djambala
+        name: Djambala
+        names_en: 
+          - Djambala
+        names_es: ~
+        population: 9650
+    name: Plateaux
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Niari"
+    cities: 
       - 
-        districts: []
-        location: "POINT (1.6380600000000001 18.0666699999999985)"
+        alternate_names: 
+          - Massendjo
+          - Mossendio
+          - Mossendjo
+        ascii_name: Mossendjo
+        name: Mossendjo
+        names_en: ~
+        names_es: ~
+        population: 18231
+      - 
+        alternate_names: 
+          - Dolisi
+          - Dolisie
+          - Dolosie
+        ascii_name: Dolisie
+        name: Dolisie
+        names_en: 
+          - Loubomo
+        names_es: ~
+        population: 103894
+    name: Niari
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region de la Likouala"
+    cities: 
+      - 
+        alternate_names: 
+          - Desbordesville
+          - Impfondo
+          - Imponfo
+        ascii_name: Impfondo
         name: Impfondo
+        names_en: 
+          - Impfondo
+        names_es: ~
         population: 20859
-        slug: impfondo
-    code: CG.13
+    name: Likouala
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region de la Lekoumou"
+    cities: 
+      - 
+        alternate_names: 
+          - Sibidi
+          - Sibiti
+        ascii_name: Sibiti
+        name: Sibiti
+        names_en: 
+          - Sibiti
+        names_es: ~
+        population: 19089
+    name: Lékoumou
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Kouilou"
+    cities: 
+      - 
+        alternate_names: 
+          - Loandjili
+          - Louantili
+        ascii_name: Loandjili
+        name: Loandjili
+        names_en: ~
+        names_es: ~
+        population: 23204
+    name: Kouilou
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region de la Cuvette"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fort Pousset"
+          - Fort-Rousset
+          - Ouando
+        ascii_name: Owando
+        name: Owando
+        names_en: 
+          - Owando
+        names_es: ~
+        population: 23952
+      - 
+        alternate_names: 
+          - Makoua
+          - Makoue
+        ascii_name: Makoua
+        name: Makoua
+        names_en: ~
+        names_es: ~
+        population: 11355
     name: Cuvette
-    slug: cuvette
-tld: cg
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region de la Bouenza"
+    cities: 
+      - 
+        alternate_names: 
+          - Madingo
+          - Madingou
+          - Madingu
+        ascii_name: Madingou
+        name: Madingou
+        names_en: ~
+        names_es: ~
+        population: 22760
+      - 
+        alternate_names: 
+          - Jacob
+          - Kai
+          - Kajes
+        ascii_name: Kayes
+        name: Kayes
+        names_en: ~
+        names_es: ~
+        population: 58737
+    name: Bouenza
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Commune de Brazzaville"
+    cities: 
+      - 
+        alternate_names: 
+          - Braza
+          - Brazavil
+          - Brazavilis
+        ascii_name: Brazzaville
+        name: Brazzaville
+        names_en: 
+          - Brazzaville
+        names_es: 
+          - Brazzaville
+        population: 1284609
+    name: Brazzaville
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region de la Cuvette-Ouest"
+    cities: 
+      - 
+        alternate_names: 
+          - Eouo
+          - Ewo
+        ascii_name: Ewo
+        name: Ewo
+        names_en: ~
+        names_es: ~
+        population: 4923
+    name: Cuvette-Ouest
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Pointe-Noire
+    cities: 
+      - 
+        alternate_names: 
+          - Pointe-Noire
+          - Puehnt-Nuar
+          - "Puent Nuaras"
+        ascii_name: Pointe-Noire
+        name: Pointe-Noire
+        names_en: 
+          - Pointe-Noire
+        names_es: 
+          - Pointe-Noire
+        population: 659084
+    name: Pointe-Noire
+    names_en: ~
+    names_es: ~

@@ -1,111 +1,195 @@
 --- 
-code: RW
-continent: AF
 name: Rwanda
-population: 11055976
+names_en: 
+  - "Republic of Rwanda"
+  - Rwanda
+names_es: 
+  - Ruanda
 regions: 
   - 
+    ascii_name: "Eastern Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (-2.1644399999999999 30.5419400000000003)"
-        name: Kibungo
-        population: 46240
-        slug: kibungo
-      - 
-        districts: []
-        location: "POINT (-1.9524999999999999 30.4377800000000001)"
+        alternate_names: 
+          - Rwamagana
+          - Rwanagana
+        ascii_name: Rwamagana
         name: Rwamagana
-        population: 50081
-        slug: rwamagana
-    code: RW.11
+        names_en: ~
+        names_es: ~
+        population: 47203
+      - 
+        alternate_names: 
+          - Kibungo
+          - Kibungu
+          - Кибунго
+        ascii_name: Kibungo
+        name: Kibungo
+        names_en: ~
+        names_es: ~
+        population: 46240
     name: "Eastern Province"
-    slug: eastern-province
+    names_en: 
+      - "Eastern Province"
+    names_es: ~
   - 
+    ascii_name: "Kigali City"
     cities: 
       - 
-        districts: []
-        location: "POINT (-1.4998400000000001 29.6349699999999991)"
-        name: Ruhengeri
-        population: 86685
-        slug: ruhengeri
-      - 
-        districts: []
-        location: "POINT (-1.5763000000000000 30.0674999999999990)"
-        name: Byumba
-        population: 70593
-        slug: byumba
-    code: RW.13
-    name: "Northern Province"
-    slug: northern-province
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-2.0555599999999998 29.3497200000000014)"
-        name: Kibuye
-        population: 48024
-        slug: kibuye
-      - 
-        districts: []
-        location: "POINT (-2.4845999999999999 28.9074999999999989)"
-        name: Cyangugu
-        population: 63883
-        slug: cyangugu
-      - 
-        districts: []
-        location: "POINT (-1.7027800000000000 29.2563899999999997)"
-        name: Gisenyi
-        population: 83623
-        slug: gisenyi
-    code: RW.14
-    name: "Western Province"
-    slug: western-province
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-2.4790000000000001 29.5564000000000000)"
-        name: Nzega
-        population: 33832
-        slug: nzega
-      - 
-        districts: []
-        location: "POINT (-2.0744400000000001 29.7566699999999997)"
-        name: Gitarama
-        population: 87613
-        slug: gitarama
-      - 
-        districts: []
-        location: "POINT (-2.4639700000000002 29.5738899999999987)"
-        name: Gikongoro
-        population: 0
-        slug: gikongoro
-      - 
-        districts: []
-        location: "POINT (-2.5966700000000000 29.7394399999999983)"
-        name: Butare
-        population: 89600
-        slug: butare
-      - 
-        districts: []
-        location: "POINT (-2.6038000000000001 29.7430999999999983)"
-        name: Butare
-        population: 0
-        slug: butare
-      - 
-        districts: []
-        location: "POINT (-2.3518699999999999 29.7508899999999983)"
-        name: Nyanza
-        population: 0
-        slug: nyanza
-      - 
-        districts: []
-        location: "POINT (-1.9499500000000001 30.0588499999999996)"
+        alternate_names: 
+          - Kigale
+          - Kigali
+          - Kigalis
+        ascii_name: Kigali
         name: Kigali
+        names_en: 
+          - Kigali
+        names_es: 
+          - Kigali
         population: 745261
-        slug: kigali
-    code: RW.15
+    name: "Kigali City"
+    names_en: 
+      - "Kigali City"
+    names_es: ~
+  - 
+    ascii_name: "Northern Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Ruhengeri
+          - Ruhengeris
+          - Rukhengeri
+        ascii_name: Ruhengeri
+        name: Ruhengeri
+        names_en: 
+          - Ruhengeri
+        names_es: 
+          - Ruhengeri
+        population: 86685
+      - 
+        alternate_names: 
+          - Biumba
+          - Bjumba
+          - Byumba
+        ascii_name: Byumba
+        name: Byumba
+        names_en: 
+          - Byumba
+        names_es: ~
+        population: 70593
+    name: "Northern Province"
+    names_en: 
+      - "Northern Province"
+    names_es: ~
+  - 
+    ascii_name: "Western Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Kibue
+          - Kibuje
+          - Kibujė
+        ascii_name: Kibuye
+        name: Kibuye
+        names_en: 
+          - Kibuye
+        names_es: ~
+        population: 48024
+      - 
+        alternate_names: 
+          - Cyangugu
+          - Shangugu
+          - Siangugu
+        ascii_name: Cyangugu
+        name: Cyangugu
+        names_en: ~
+        names_es: ~
+        population: 63883
+      - 
+        alternate_names: 
+          - "Colline Gosenyi"
+          - Gisen'i
+          - Gisenjis
+        ascii_name: Gisenyi
+        name: Gisenyi
+        names_en: 
+          - Gisenyi
+        names_es: ~
+        population: 83623
+    name: "Western Province"
+    names_en: 
+      - "Western Province"
+    names_es: ~
+  - 
+    ascii_name: "Southern Province"
+    cities: 
+      - 
+        alternate_names: 
+          - "Mont Nzega"
+          - Nseka
+          - Nzega
+        ascii_name: Nzega
+        name: Nzega
+        names_en: ~
+        names_es: ~
+        population: 33832
+      - 
+        alternate_names: 
+          - Kibeho
+        ascii_name: Kibeho
+        name: Kibeho
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Gitarama
+          - Gitarame
+          - Гитараме
+        ascii_name: Gitarama
+        name: Gitarama
+        names_en: 
+          - Gitarama
+        names_es: 
+          - Gitarama
+        population: 87613
+      - 
+        alternate_names: ~
+        ascii_name: Gikongoro
+        name: Gikongoro
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Butare
+          - Butaré
+          - Butarė
+        ascii_name: Butare
+        name: Butare
+        names_en: 
+          - Butare
+        names_es: 
+          - Butare
+        population: 89600
+      - 
+        alternate_names: 
+          - Astrida
+          - Butare
+          - Бутаре
+        ascii_name: Butare
+        name: Butare
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Nyanza
+        name: Nyanza
+        names_en: ~
+        names_es: ~
+        population: 0
     name: "Southern Province"
-    slug: southern-province
-tld: rw
+    names_en: 
+      - "Southern Province"
+    names_es: ~

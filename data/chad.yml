@@ -1,325 +1,548 @@
 --- 
-code: TD
-continent: AF
 name: Chad
-population: 10543464
+names_en: 
+  - Chad
+  - "Republic of Chad"
+names_es: 
+  - Chad
 regions: 
   - 
+    ascii_name: "Region du Salamat"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.2954000000000008 19.6966000000000001)"
-        name: "Oum Hadjer"
-        population: 19271
-        slug: oum-hadjer
-      - 
-        districts: []
-        location: "POINT (13.2154000000000007 18.3353000000000002)"
-        name: Ati
-        population: 24074
-        slug: ati
-    code: TD.01
-    name: Batha
-    slug: batha
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.1166699999999992 22.2500000000000000)"
-        name: Iriba
-        population: 1100
-        slug: iriba
-      - 
-        districts: []
-        location: "POINT (14.5333299999999994 20.9166699999999999)"
-        name: Biltine
-        population: 11000
-        slug: biltine
-    code: TD.02
-    name: Biltine
-    slug: biltine
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (17.9166699999999999 19.1166699999999992)"
-        name: Faya
-        population: 13400
-        slug: faya
-      - 
-        districts: []
-        location: "POINT (21.8374999999999986 17.4274999999999984)"
-        name: Aozou
-        population: 1880
-        slug: aozou
-    code: TD.03
-    name: Borkou-Ennedi-Tibesti
-    slug: borkou-ennedi-tibesti
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (12.1844099999999997 18.6930300000000003)"
-        name: Mongo
-        population: 27763
-        slug: mongo
-      - 
-        districts: []
-        location: "POINT (11.0597999999999992 17.9355000000000011)"
-        name: Melfi
-        population: 5784
-        slug: melfi
-      - 
-        districts: []
-        location: "POINT (11.9801000000000002 18.2137999999999991)"
-        name: Bitkine
-        population: 18495
-        slug: bitkine
-      - 
-        districts: []
-        location: "POINT (11.0297000000000001 20.2826999999999984)"
+        alternate_names: 
+          - "Am Timan"
+          - "Am Timane"
+          - "Am Timmane"
+        ascii_name: "Am Timan"
         name: "Am Timan"
+        names_en: 
+          - "Am Timan"
+        names_es: ~
         population: 28885
-        slug: am-timan
-    code: TD.05
-    name: Guéra
-    slug: guera
+    name: Salamat
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region du Ouaddai"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.6425000000000001 16.4888900000000014)"
-        name: Moussoro
-        population: 15190
-        slug: moussoro
-      - 
-        districts: []
-        location: "POINT (14.1211599999999997 15.3102999999999998)"
-        name: Mao
-        population: 18031
-        slug: mao
-    code: TD.06
-    name: Kanem
-    slug: kanem
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.5666700000000002 16.0833300000000001)"
-        name: Moundou
-        population: 135167
-        slug: moundou
-      - 
-        districts: []
-        location: "POINT (8.9832699999999992 16.3199100000000001)"
-        name: Benoy
-        population: 15717
-        slug: benoy
-      - 
-        districts: []
-        location: "POINT (8.6698000000000004 15.3812999999999995)"
-        name: Beïnamar
-        population: 7445
-        slug: beinamar
-    code: TD.08
-    name: "Logone Occidental"
-    slug: logone-occidental
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.6500000000000004 16.8500000000000014)"
-        name: Doba
-        population: 24336
-        slug: doba
-      - 
-        districts: []
-        location: "POINT (8.2668199999999992 16.9389800000000008)"
-        name: Béboto
-        population: 5432
-        slug: beboto
-      - 
-        districts: []
-        location: "POINT (8.6760999999999999 16.5659999999999989)"
-        name: Bébédja
-        population: 12671
-        slug: bebedja
-    code: TD.09
-    name: "Logone Oriental"
-    slug: logone-oriental
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.7666699999999995 14.1500000000000004)"
-        name: "Mboursou Léré"
-        population: 17132
-        slug: mboursou-lere
-      - 
-        districts: []
-        location: "POINT (9.3666699999999992 14.9000000000000004)"
-        name: Pala
-        population: 35466
-        slug: pala
-      - 
-        districts: []
-        location: "POINT (10.9333299999999998 15.5333299999999994)"
-        name: Guélengdeng
-        population: 11379
-        slug: guelengdeng
-      - 
-        districts: []
-        location: "POINT (9.6272199999999994 15.5138900000000000)"
-        name: Gounou-Gaya
-        population: 9521
-        slug: gounou-gaya
-      - 
-        districts: []
-        location: "POINT (10.2805599999999995 15.3722200000000004)"
-        name: Bongor
-        population: 27770
-        slug: bongor
-    code: TD.10
-    name: Mayo-Kébbi
-    slug: mayo-kebbi
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.1500000000000004 18.3833300000000008)"
-        name: Sarh
-        population: 102528
-        slug: sarh
-      - 
-        districts: []
-        location: "POINT (8.3499999999999996 17.7666700000000013)"
-        name: Moïssala
-        population: 11264
-        slug: moissala
-      - 
-        districts: []
-        location: "POINT (9.4499999999999993 18.9499999999999993)"
-        name: Kyabé
-        population: 16177
-        slug: kyabe
-      - 
-        districts: []
-        location: "POINT (8.9166699999999999 17.5500000000000007)"
-        name: Koumra
-        population: 36263
-        slug: koumra
-      - 
-        districts: []
-        location: "POINT (9.3666699999999992 17.3666699999999992)"
-        name: Goundi
-        population: 10052
-        slug: goundi
-    code: TD.11
-    name: Moyen-Chari
-    slug: moyen-chari
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.9499999999999993 20.5500000000000007)"
+        alternate_names: 
+          - "Goz Beida"
+          - "Goz Béïda"
+        ascii_name: "Goz Beida"
         name: "Goz Béïda"
+        names_en: 
+          - "Goz Beida"
+        names_es: ~
         population: 1500
-        slug: goz-beida
       - 
-        districts: []
-        location: "POINT (13.4666700000000006 22.1999999999999993)"
+        alternate_names: 
+          - Adre
+          - Adré
+        ascii_name: Adre
         name: Adré
+        names_en: ~
+        names_es: ~
         population: 11928
-        slug: adre
       - 
-        districts: []
-        location: "POINT (13.8291599999999999 20.8323999999999998)"
+        alternate_names: 
+          - Abacher
+          - Abeche
+          - Abecher
+        ascii_name: Abeche
         name: Abéché
+        names_en: 
+          - Abéché
+        names_es: 
+          - Abéché
         population: 74188
-        slug: abeche
-    code: TD.12
     name: Ouaddaï
-    slug: ouaddai
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region du Wadi Fira"
     cities: 
       - 
-        districts: []
-        location: "POINT (9.3952000000000009 16.2988999999999997)"
+        alternate_names: 
+          - Iriba
+        ascii_name: Iriba
+        name: Iriba
+        names_en: 
+          - Iriba
+        names_es: ~
+        population: 1100
+      - 
+        alternate_names: 
+          - Biltine
+        ascii_name: Biltine
+        name: Biltine
+        names_en: 
+          - Biltine
+        names_es: ~
+        population: 11000
+    name: Biltine
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Tandjile"
+    cities: 
+      - 
+        alternate_names: 
+          - Behagie
+          - Behagle
+          - Lai
+        ascii_name: Lai
         name: Laï
+        names_en: 
+          - Laï
+        names_es: ~
         population: 19382
-        slug: lai
       - 
-        districts: []
-        location: "POINT (9.3085900000000006 15.8065800000000003)"
+        alternate_names: 
+          - Kel
+          - Kelo
+          - Кел
+        ascii_name: Kelo
         name: Kelo
+        names_en: ~
+        names_es: ~
         population: 42533
-        slug: kelo
       - 
-        districts: []
-        location: "POINT (9.3201999999999998 16.1552000000000007)"
+        alternate_names: ~
+        ascii_name: Bere
         name: Béré
+        names_en: ~
+        names_es: ~
         population: 14666
-        slug: bere
-    code: TD.14
     name: Tandjilé
-    slug: tandjile
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Region du Moyen-Chari"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.4586100000000002 14.7147199999999998)"
+        alternate_names: 
+          - Archambault
+          - Fort-Archambault
+          - Sagh
+        ascii_name: Sagh
+        name: Sagh
+        names_en: 
+          - Sarh
+        names_es: 
+          - Sarh
+        population: 102528
+      - 
+        alternate_names: 
+          - Kiyabe
+          - Kiyabi
+          - Kiyabé
+        ascii_name: Kyabe
+        name: Kyabé
+        names_en: ~
+        names_es: ~
+        population: 16177
+    name: Moyen-Chari
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Mayo-Kebbi Est"
+    cities: 
+      - 
+        alternate_names: 
+          - Gelengdeng
+          - Guelendeng
+          - Guelengdeng
+        ascii_name: Guelendeng
+        name: Guelendeng
+        names_en: ~
+        names_es: ~
+        population: 11379
+      - 
+        alternate_names: 
+          - Gounou
+          - "Gounou Foursoum"
+          - "Gounou Gaya"
+        ascii_name: "Gounou Gaya"
+        name: "Gounou Gaya"
+        names_en: ~
+        names_es: ~
+        population: 9521
+      - 
+        alternate_names: 
+          - Bongor
+          - Бонгор
+        ascii_name: Bongor
+        name: Bongor
+        names_en: 
+          - Bongor
+        names_es: ~
+        population: 27770
+    name: Mayo-Kébbi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Logone Oriental"
+    cities: 
+      - 
+        alternate_names: 
+          - Doba
+          - Доба
+        ascii_name: Doba
+        name: Doba
+        names_en: 
+          - Doba
+        names_es: ~
+        population: 24336
+      - 
+        alternate_names: 
+          - Beboto
+          - Béboto
+        ascii_name: Beboto
+        name: Béboto
+        names_en: ~
+        names_es: ~
+        population: 5432
+      - 
+        alternate_names: 
+          - Bebedja
+          - Bebedjia
+          - Bebeidja
+        ascii_name: Bebedja
+        name: Bébédja
+        names_en: ~
+        names_es: ~
+        population: 12671
+    name: "Logone Oriental"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Logone Occidental"
+    cities: 
+      - 
+        alternate_names: 
+          - Mondou
+          - Mondu
+          - Moundou
+        ascii_name: Moundou
+        name: Moundou
+        names_en: 
+          - Moundou
+        names_es: ~
+        population: 135167
+      - 
+        alternate_names: 
+          - Benoy
+          - Benoye
+          - Bénoye
+        ascii_name: Benoy
+        name: Benoy
+        names_en: ~
+        names_es: ~
+        population: 15717
+      - 
+        alternate_names: ~
+        ascii_name: Beinamar
+        name: Beïnamar
+        names_en: ~
+        names_es: ~
+        population: 7445
+    name: "Logone Occidental"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Lac"
+    cities: 
+      - 
+        alternate_names: 
+          - Bol
+          - "Bol I"
+        ascii_name: Bol
         name: Bol
+        names_en: ~
+        names_es: ~
         population: 11700
-        slug: bol
+    name: Lac
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Kanem"
+    cities: 
       - 
-        districts: []
-        location: "POINT (11.7833299999999994 17.1666699999999999)"
+        alternate_names: 
+          - Mao
+        ascii_name: Mao
+        name: Mao
+        names_en: 
+          - Mao
+        names_es: ~
+        population: 18031
+    name: Kanem
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Guera"
+    cities: 
+      - 
+        alternate_names: 
+          - Mongo
+          - Монго
+        ascii_name: Mongo
+        name: Mongo
+        names_en: ~
+        names_es: ~
+        population: 27763
+      - 
+        alternate_names: ~
+        ascii_name: Melfi
+        name: Melfi
+        names_en: ~
+        names_es: ~
+        population: 5784
+      - 
+        alternate_names: 
+          - Bitkin
+          - Bitkine
+        ascii_name: Bitkine
+        name: Bitkine
+        names_en: ~
+        names_es: ~
+        population: 18495
+    name: Guéra
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Chari-Baguirmi"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ngama Yakoud"
+        ascii_name: Ngama
         name: Ngama
+        names_en: ~
+        names_es: ~
         population: 12438
-        slug: ngama
       - 
-        districts: []
-        location: "POINT (12.1105800000000006 15.0347899999999992)"
+        alternate_names: 
+          - Fort-Lamy
+          - Lamy
+          - N'Djamena
+        ascii_name: N'Djamena
         name: N'Djamena
+        names_en: 
+          - N'Djamena
+        names_es: 
+          - N'Djamena
+          - Yamena
         population: 721081
-        slug: ndjamena
       - 
-        districts: []
-        location: "POINT (11.4039000000000001 16.1705000000000005)"
+        alternate_names: 
+          - Chekna
+          - Massenia
+          - Massenya
+        ascii_name: Massenya
         name: Massenya
+        names_en: 
+          - Massenya
+        names_es: ~
         population: 3680
-        slug: massenya
       - 
-        districts: []
-        location: "POINT (12.9980600000000006 15.7375000000000007)"
-        name: Massakory
-        population: 15406
-        slug: massakory
-      - 
-        districts: []
-        location: "POINT (12.4741700000000009 15.4427800000000008)"
-        name: Massaguet
-        population: 17906
-        slug: massaguet
-      - 
-        districts: []
-        location: "POINT (11.8090899999999994 15.8632299999999997)"
+        alternate_names: 
+          - Dourbali
+          - Ndourbali
+        ascii_name: Dourbali
         name: Dourbali
+        names_en: ~
+        names_es: ~
         population: 17682
-        slug: dourbali
       - 
-        districts: []
-        location: "POINT (10.4794999999999998 16.7117000000000004)"
+        alternate_names: 
+          - Bousso
+          - "Fort Bretonnet"
+        ascii_name: Bousso
         name: Bousso
+        names_en: ~
+        names_es: ~
         population: 13555
-        slug: bousso
-      - 
-        districts: []
-        location: "POINT (12.3766700000000007 17.0580600000000011)"
-        name: Bokoro
-        population: 14723
-        slug: bokoro
-    code: TD.15
     name: Chari-Baguirmi
-    slug: chari-baguirmi
-tld: td
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Batha"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Oum Hadjer"
+        name: "Oum Hadjer"
+        names_en: ~
+        names_es: ~
+        population: 19271
+      - 
+        alternate_names: 
+          - Ati
+          - Ати
+        ascii_name: Ati
+        name: Ati
+        names_en: 
+          - Ati
+        names_es: ~
+        population: 24074
+    name: Batha
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Borkou"
+    cities: 
+      - 
+        alternate_names: 
+          - Faya
+          - Faya-Largeau
+          - Largeau
+        ascii_name: Largeau
+        name: Largeau
+        names_en: 
+          - Faya-Largeau
+        names_es: ~
+        population: 13400
+    name: "Région du Borkou"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Hadjer-Lamis"
+    cities: 
+      - 
+        alternate_names: 
+          - Dagana
+          - Massakori
+          - Massakory
+        ascii_name: Massakory
+        name: Massakory
+        names_en: ~
+        names_es: ~
+        population: 15406
+      - 
+        alternate_names: 
+          - "Massa Gueit"
+          - Massaguet
+          - Massaguete
+        ascii_name: Massaguet
+        name: Massaguet
+        names_en: ~
+        names_es: ~
+        population: 17906
+      - 
+        alternate_names: ~
+        ascii_name: Bokoro
+        name: Bokoro
+        names_en: ~
+        names_es: ~
+        population: 14723
+    name: "Région du Hadjer-Lamis"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Mandoul"
+    cities: 
+      - 
+        alternate_names: 
+          - Moissaia
+          - Moissala
+          - Moïssala
+        ascii_name: Moissala
+        name: Moïssala
+        names_en: ~
+        names_es: ~
+        population: 11264
+      - 
+        alternate_names: 
+          - Koumbra
+          - Koumra
+        ascii_name: Koumra
+        name: Koumra
+        names_en: ~
+        names_es: ~
+        population: 36263
+      - 
+        alternate_names: 
+          - Goundi
+          - Gundi
+        ascii_name: Goundi
+        name: Goundi
+        names_en: ~
+        names_es: ~
+        population: 10052
+    name: "Région du Mandoul"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Mayo-Kebbi Ouest"
+    cities: 
+      - 
+        alternate_names: 
+          - Pala
+          - Palla
+          - Пала
+        ascii_name: Pala
+        name: Pala
+        names_en: ~
+        names_es: ~
+        population: 35466
+      - 
+        alternate_names: ~
+        ascii_name: "Mboursou Lere"
+        name: "Mboursou Léré"
+        names_en: ~
+        names_es: ~
+        population: 17132
+    name: "Région du Mayo-Kébbi Ouest"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region de la Ville de N'Djamena"
+    cities: []
+    name: "Région de la Ville de N'Djaména"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Barh el Gazel"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bahr el Ghazal"
+          - Moussoro
+        ascii_name: Moussoro
+        name: Moussoro
+        names_en: ~
+        names_es: ~
+        population: 15190
+    name: "Région du Barh el Gazel"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Ennedi
+    cities: []
+    name: Ennedi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Sila"
+    cities: []
+    name: "Région du Sila"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Region du Tibesti"
+    cities: 
+      - 
+        alternate_names: 
+          - Aozou
+          - Ozu
+        ascii_name: Aozou
+        name: Aozou
+        names_en: ~
+        names_es: ~
+        population: 1880
+    name: "Région du Tibesti"
+    names_en: ~
+    names_es: ~

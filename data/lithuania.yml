@@ -1,643 +1,248 @@
 --- 
-code: LT
-continent: EU
 name: Lithuania
-population: 3565000
+names_en: 
+  - Lithuania
+  - "Republic of Lithuania"
+names_es: 
+  - Lituania
 regions: 
   - 
+    ascii_name: "Alytaus Apskritis"
     cities: 
       - 
-        districts: []
-        location: "POINT (55.3591699999999989 21.7022200000000005)"
-        name: "Žemaičių Naumiestis"
-        population: 1284
-        slug: zemaiciu-naumiestis
-      - 
-        districts: []
-        location: "POINT (54.2999999999999972 25.3833300000000008)"
-        name: Šalčininkai
-        population: 6891
-        slug: salcininkai
-      - 
-        districts: []
-        location: "POINT (54.8500000000000014 25.4833299999999987)"
-        name: Nemenčinė
-        population: 6062
-        slug: nemencine
-      - 
-        districts: []
-        location: "POINT (55.0833299999999966 24.2833299999999994)"
-        name: Jonava
-        population: 34993
-        slug: jonava
-      - 
-        districts: []
-        location: "POINT (55.9813899999999975 22.2472199999999987)"
-        name: Telšiai
-        population: 30098
-        slug: telsiai
-      - 
-        districts: []
-        location: "POINT (54.7999999999999972 24.4499999999999993)"
-        name: Žiežmariai
-        population: 4060
-        slug: ziezmariai
-      - 
-        districts: []
-        location: "POINT (55.7333300000000023 26.2500000000000000)"
-        name: Zarasai
-        population: 8095
-        slug: zarasai
-      - 
-        districts: []
-        location: "POINT (56.3591699999999989 23.2500000000000000)"
-        name: Žagarė
-        population: 2201
-        slug: zagare
-      - 
-        districts: []
-        location: "POINT (55.6000000000000014 26.4166699999999999)"
-        name: Visaginas
-        population: 28348
-        slug: visaginas
-      - 
-        districts: []
-        location: "POINT (54.6266699999999972 22.8169399999999989)"
-        name: Virbalis
-        population: 1281
-        slug: virbalis
-      - 
-        districts: []
-        location: "POINT (55.0499999999999972 23.5833300000000001)"
-        name: Vilkija
-        population: 2289
-        slug: vilkija
-      - 
-        districts: []
-        location: "POINT (54.6516700000000029 23.0322199999999988)"
-        name: Vilkaviškis
-        population: 13011
-        slug: vilkaviskis
-      - 
-        districts: []
-        location: "POINT (54.7666699999999977 24.8000000000000007)"
-        name: Vievis
-        population: 5269
-        slug: vievis
-      - 
-        districts: []
-        location: "POINT (56.2333300000000023 22.5166700000000013)"
-        name: Viekšniai
-        population: 2212
-        slug: vieksniai
-      - 
-        districts: []
-        location: "POINT (56.2000000000000028 22.6999999999999993)"
-        name: Venta
-        population: 3270
-        slug: venta
-      - 
-        districts: []
-        location: "POINT (54.1000000000000014 23.6999999999999993)"
-        name: Veisiejai
-        population: 1654
-        slug: veisiejai
-      - 
-        districts: []
-        location: "POINT (55.7405600000000021 22.3644399999999983)"
-        name: Varniai
-        population: 1227
-        slug: varniai
-      - 
-        districts: []
-        location: "POINT (54.2166700000000006 24.5666699999999985)"
-        name: Varėna
-        population: 10304
-        slug: varena
-      - 
-        districts: []
-        location: "POINT (55.9666700000000006 24.7500000000000000)"
-        name: Vabalninkas
-        population: 1177
-        slug: vabalninkas
-      - 
-        districts: []
-        location: "POINT (55.2500000000000000 24.7500000000000000)"
-        name: Ukmergė
-        population: 28659
-        slug: ukmerge
-      - 
-        districts: []
-        location: "POINT (55.6166699999999992 23.1833300000000015)"
-        name: Tytuvėnėliai
-        population: 2775
-        slug: tytuveneliai
-      - 
-        districts: []
-        location: "POINT (54.6333300000000008 24.9333300000000015)"
-        name: Trakai
-        population: 5530
-        slug: trakai
-      - 
-        districts: []
-        location: "POINT (55.2522200000000012 22.2897199999999991)"
-        name: Tauragė
-        population: 27662
-        slug: taurage
-      - 
-        districts: []
-        location: "POINT (54.5666700000000020 23.3500000000000014)"
-        name: Marijampolė
-        population: 47613
-        slug: marijampole
-      - 
-        districts: []
-        location: "POINT (56.0333299999999994 21.0833300000000001)"
-        name: Šventoji
-        population: 2000
-        slug: sventoji
-      - 
-        districts: []
-        location: "POINT (55.1499999999999986 26.1666699999999999)"
-        name: Švenčionys
-        population: 5538
-        slug: svencionys
-      - 
-        districts: []
-        location: "POINT (55.1666700000000034 26.0000000000000000)"
-        name: Švenčionėliai
-        population: 6790
-        slug: svencioneliai
-      - 
-        districts: []
-        location: "POINT (56.2666699999999977 21.5333299999999994)"
-        name: Skuodas
-        population: 7726
-        slug: skuodas
-      - 
-        districts: []
-        location: "POINT (55.4166700000000034 22.6166699999999992)"
-        name: Skaudvilė
-        population: 1976
-        slug: skaudvile
-      - 
-        districts: []
-        location: "POINT (55.0499999999999972 24.9499999999999993)"
-        name: Širvintos
-        population: 7321
-        slug: sirvintos
-      - 
-        districts: []
-        location: "POINT (54.3999999999999986 23.6499999999999986)"
-        name: Simnas
-        population: 1864
-        slug: simnas
-      - 
-        districts: []
-        location: "POINT (55.3488899999999973 21.4830599999999983)"
-        name: Šilutė
-        population: 21760
-        slug: silute
-      - 
-        districts: []
-        location: "POINT (55.4905600000000021 22.1813900000000004)"
-        name: Šilalė
-        population: 6026
-        slug: silale
-      - 
-        districts: []
-        location: "POINT (55.7666699999999977 23.7666700000000013)"
-        name: Šeduva
-        population: 3321
-        slug: seduva
-      - 
-        districts: []
-        location: "POINT (56.1666700000000034 22.1000000000000014)"
-        name: Seda
-        population: 1224
-        slug: seda
-      - 
-        districts: []
-        location: "POINT (56.0666700000000020 21.5666699999999985)"
-        name: Salantai
-        population: 1829
-        slug: salantai
-      - 
-        districts: []
-        location: "POINT (54.9547200000000018 23.0358300000000007)"
-        name: Šakiai
-        population: 6613
-        slug: sakiai
-      - 
-        districts: []
-        location: "POINT (55.2963900000000024 21.3758300000000006)"
-        name: Rusnė
-        population: 2484
-        slug: rusne
-      - 
-        districts: []
-        location: "POINT (54.5166699999999977 24.8333300000000001)"
-        name: Rūdiškės
-        population: 2616
-        slug: rudiskes
-      - 
-        districts: []
-        location: "POINT (55.9666700000000006 25.5833300000000001)"
-        name: Rokiškis
-        population: 16255
-        slug: rokiskis
-      - 
-        districts: []
-        location: "POINT (55.7194399999999987 21.9311100000000003)"
-        name: Rietavas
-        population: 3737
-        slug: rietavas
-      - 
-        districts: []
-        location: "POINT (55.3736099999999993 23.1216700000000017)"
-        name: Raseiniai
-        population: 12523
-        slug: raseiniai
-      - 
-        districts: []
-        location: "POINT (55.5166699999999977 24.3000000000000007)"
-        name: Ramygala
-        population: 1637
-        slug: ramygala
-      - 
-        districts: []
-        location: "POINT (55.8166700000000020 23.5333299999999994)"
-        name: Radviliškis
-        population: 19914
-        slug: radviliskis
-      - 
-        districts: []
-        location: "POINT (54.6333300000000008 23.9499999999999993)"
-        name: Prienai
-        population: 11352
-        slug: prienai
-      - 
-        districts: []
-        location: "POINT (55.5536099999999990 21.3266700000000000)"
-        name: Priekulė
-        population: 1710
-        slug: priekule
-      - 
-        districts: []
-        location: "POINT (55.9113899999999973 21.8441699999999983)"
-        name: Plungė
-        population: 23381
-        slug: plunge
-      - 
-        districts: []
-        location: "POINT (55.9666700000000006 23.8666699999999992)"
-        name: Pakruojis
-        population: 5964
-        slug: pakruojis
-      - 
-        districts: []
-        location: "POINT (55.1380600000000030 21.9088899999999995)"
-        name: Pagėgiai
-        population: 2363
-        slug: pagegiai
-      - 
-        districts: []
-        location: "POINT (55.0000000000000000 25.7833299999999994)"
-        name: Pabradė
-        population: 6375
-        slug: pabrade
-      - 
-        districts: []
-        location: "POINT (55.9666700000000006 25.1499999999999986)"
-        name: Obeliai
-        population: 1247
-        slug: obeliai
-      - 
-        districts: []
-        location: "POINT (55.3080599999999976 21.0066699999999997)"
-        name: Nida
-        population: 1650
-        slug: nida
-      - 
-        districts: []
-        location: "POINT (55.3719400000000022 21.0647200000000012)"
-        name: Neringa
-        population: 2380
-        slug: neringa
-      - 
-        districts: []
-        location: "POINT (56.3166700000000020 22.8999999999999986)"
-        name: "Naujoji Akmenė"
-        population: 11922
-        slug: naujoji-akmene
-      - 
-        districts: []
-        location: "POINT (55.2333300000000023 25.4166699999999999)"
-        name: Molėtai
-        population: 7243
-        slug: moletai
-      - 
-        districts: []
-        location: "POINT (56.3166700000000020 22.3333300000000001)"
-        name: Mažeikiai
-        population: 41309
-        slug: mazeikiai
-      - 
-        districts: []
-        location: "POINT (54.8999999999999986 23.8999999999999986)"
-        name: Kaunas
-        population: 374643
-        slug: kaunas
-      - 
-        districts: []
-        location: "POINT (56.0855600000000010 23.9725000000000001)"
-        name: Linkuva
-        population: 1719
-        slug: linkuva
-      - 
-        districts: []
-        location: "POINT (54.6499999999999986 25.0500000000000007)"
-        name: Lentvaris
-        population: 11588
-        slug: lentvaris
-      - 
-        districts: []
-        location: "POINT (54.2333300000000023 23.5166700000000013)"
-        name: Lazdijai
-        population: 4975
-        slug: lazdijai
-      - 
-        districts: []
-        location: "POINT (54.6355599999999981 22.7383300000000013)"
-        name: Kybartai
-        population: 6355
-        slug: kybartai
-      - 
-        districts: []
-        location: "POINT (55.9849999999999994 22.9188900000000011)"
-        name: Kuršėnai
-        population: 13914
-        slug: kursenai
-      - 
-        districts: []
-        location: "POINT (55.8333299999999966 24.9666700000000006)"
-        name: Kupiškis
-        population: 8263
-        slug: kupiskis
-      - 
-        districts: []
-        location: "POINT (54.9333299999999980 23.6000000000000014)"
-        name: Kulautuva
-        population: 1401
-        slug: kulautuva
-      - 
-        districts: []
-        location: "POINT (54.7730600000000010 22.8630600000000008)"
-        name: "Kudirkos Naumiestis"
-        population: 1961
-        slug: kudirkos-naumiestis
-      - 
-        districts: []
-        location: "POINT (55.8758300000000006 21.2508300000000006)"
-        name: Kretinga
-        population: 22236
-        slug: kretinga
-      - 
-        districts: []
-        location: "POINT (55.6338900000000010 22.9341700000000017)"
-        name: Kelmė
-        population: 10626
-        slug: kelme
-      - 
-        districts: []
-        location: "POINT (55.2883300000000020 23.9747200000000014)"
-        name: Kėdainiai
-        population: 31980
-        slug: kedainiai
-      - 
-        districts: []
-        location: "POINT (54.7666699999999977 23.5000000000000000)"
-        name: "Kazlų Rūda"
-        population: 7247
-        slug: kazlu-ruda
-      - 
-        districts: []
-        location: "POINT (54.6891600000000011 25.2798000000000016)"
-        name: Vilnius
-        population: 542366
-        slug: vilnius
-      - 
-        districts: []
-        location: "POINT (54.3999999999999986 23.2333299999999987)"
-        name: Kalvarija
-        population: 4875
-        slug: kalvarija
-      - 
-        districts: []
-        location: "POINT (54.8666699999999992 24.4499999999999993)"
-        name: Kaišiadorys
-        population: 9867
-        slug: kaisiadorys
-      - 
-        districts: []
-        location: "POINT (55.0777799999999971 22.7663900000000012)"
-        name: Jurbarkas
-        population: 13102
-        slug: jurbarkas
-      - 
-        districts: []
-        location: "POINT (56.0833299999999966 25.6166699999999992)"
-        name: Juodupė
-        population: 1989
-        slug: juodupe
-      - 
-        districts: []
-        location: "POINT (54.6000000000000014 24.1666699999999999)"
-        name: Jieznas
-        population: 1390
-        slug: jieznas
-      - 
-        districts: []
-        location: "POINT (55.3500000000000014 26.1666699999999999)"
-        name: Ignalina
-        population: 6421
-        slug: ignalina
-      - 
-        districts: []
-        location: "POINT (54.6833299999999980 25.0833300000000001)"
-        name: Grigiškės
-        population: 11555
-        slug: grigiskes
-      - 
-        districts: []
-        location: "POINT (55.0791699999999977 22.9758299999999984)"
-        name: Gelgaudiškis
-        population: 1839
-        slug: gelgaudiskis
-      - 
-        districts: []
-        location: "POINT (54.8166700000000020 23.8666699999999992)"
-        name: Garliava
-        population: 13809
-        slug: garliava
-      - 
-        districts: []
-        location: "POINT (55.7127800000000022 21.4033300000000004)"
-        name: Gargždai
-        population: 15949
-        slug: gargzdai
-      - 
-        districts: []
-        location: "POINT (54.8833300000000008 23.6166699999999992)"
-        name: Ežerėlis
-        population: 2051
-        slug: ezerelis
-      - 
-        districts: []
-        location: "POINT (54.7666699999999977 24.6333300000000008)"
-        name: Elektrėnai
-        population: 13721
-        slug: elektrenai
-      - 
-        districts: []
-        location: "POINT (54.1666700000000034 25.0000000000000000)"
-        name: Eišiškės
-        population: 3809
-        slug: eisiskes
-      - 
-        districts: []
-        location: "POINT (55.5333299999999994 26.3333300000000001)"
-        name: Dūkštas
-        population: 1021
-        slug: dukstas
-      - 
-        districts: []
-        location: "POINT (54.0166699999999977 23.9666700000000006)"
-        name: Druskininkai
-        population: 17791
-        slug: druskininkai
-      - 
-        districts: []
-        location: "POINT (54.6166699999999992 24.0333299999999994)"
-        name: Birštonas
-        population: 3181
-        slug: birstonas
-      - 
-        districts: []
-        location: "POINT (54.6000000000000014 25.1999999999999993)"
-        name: "Baltoji Vokė"
-        population: 1071
-        slug: baltoji-voke
-      - 
-        districts: []
-        location: "POINT (54.5833299999999966 24.5333299999999994)"
-        name: Aukštadvaris
-        population: 1031
-        slug: aukstadvaris
-      - 
-        districts: []
-        location: "POINT (55.2666699999999977 23.4666700000000006)"
-        name: Ariogala
-        population: 3653
-        slug: ariogala
-      - 
-        districts: []
-        location: "POINT (56.2500000000000000 22.7500000000000000)"
-        name: Akmenė
-        population: 3026
-        slug: akmene
-    code: LT.00
-    name: "Lithuania (general)"
-    slug: lithuania-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (54.3666699999999992 24.3333300000000001)"
+        alternate_names: 
+          - DAUGAJ
+          - Daugai
+          - Daugay
+        ascii_name: Daugai
         name: Daugai
+        names_en: 
+          - Daugai
+        names_es: ~
         population: 1279
-        slug: daugai
       - 
-        districts: []
-        location: "POINT (54.3999999999999986 24.0500000000000007)"
+        alternate_names: 
+          - ALITUS
+          - Alita
+          - Alitus
+        ascii_name: Alytus
         name: Alytus
+        names_en: 
+          - Alytus
+        names_es: ~
         population: 70747
-        slug: alytus
-    code: LT.56
     name: "Alytaus Apskritis"
-    slug: alytaus-apskritis
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Kauno Apskritis"
     cities: 
       - 
-        districts: []
-        location: "POINT (55.9174999999999969 21.0686099999999996)"
+        alternate_names: 
+          - Caunas
+          - KAUNAS
+          - Kauen
+        ascii_name: Kaunas
+        name: Kaunas
+        names_en: 
+          - Kaunas
+        names_es: ~
+        population: 374643
+    name: "Kauno Apskritis"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Klaipedos Apskritis"
+    cities: 
+      - 
+        alternate_names: 
+          - PALANGA
+          - Palanga
+          - Palangos
+        ascii_name: Palanga
         name: Palanga
+        names_en: ~
+        names_es: ~
         population: 17796
-        slug: palanga
       - 
-        districts: []
-        location: "POINT (55.7172199999999975 21.1174999999999997)"
+        alternate_names: 
+          - Klaipada
+          - Klaipeda
+          - Klaipenta
+        ascii_name: Klaipeda
         name: Klaipėda
+        names_en: 
+          - Klaipėda
+        names_es: 
+          - Klaipėda
         population: 192307
-        slug: klaipeda
-    code: LT.58
     name: "Klaipėdos Apskritis"
-    slug: klaipedos-apskritis
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Marijampoles Apskritis"
     cities: 
       - 
-        districts: []
-        location: "POINT (56.2000000000000028 24.7500000000000000)"
-        name: Biržai
-        population: 14911
-        slug: birzai
+        alternate_names: 
+          - Kapsukas
+          - MARIJAMPOLE
+          - Mariampol
+        ascii_name: Marijampole
+        name: Marijampolė
+        names_en: 
+          - Marijampolė
+        names_es: ~
+        population: 47613
+    name: "Marijampolės Apskritis"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Panevezio Apskritis"
+    cities: 
       - 
-        districts: []
-        location: "POINT (56.0594400000000022 24.4036100000000005)"
+        alternate_names: 
+          - PASVALIS
+          - Pasvalio
+          - Pasvalis
+        ascii_name: Pasvalys
         name: Pasvalys
+        names_en: 
+          - Pasvalys
+        names_es: ~
         population: 8510
-        slug: pasvalys
       - 
-        districts: []
-        location: "POINT (55.7333300000000023 24.3500000000000014)"
+        alternate_names: 
+          - PANEVEZHIS
+          - Paneveza
+          - Panevezhi
+        ascii_name: Panevezys
         name: Panevėžys
+        names_en: 
+          - Panevėžys
+        names_es: ~
         population: 117395
-        slug: panevezys
-    code: LT.60
+      - 
+        alternate_names: 
+          - BIRZHAJ
+          - Birsche
+          - Birsen
+        ascii_name: Birzai
+        name: Biržai
+        names_en: 
+          - Biržai
+        names_es: ~
+        population: 14911
     name: "Panevėžio Apskritis"
-    slug: panevezio-apskritis
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Siauliu Apskritis"
     cities: 
       - 
-        districts: []
-        location: "POINT (55.9333299999999980 23.3166699999999985)"
+        alternate_names: 
+          - Sauli
+          - Schaulen
+          - Shaulyay
+        ascii_name: Siauliai
         name: Šiauliai
+        names_en: 
+          - Šiauliai
+        names_es: 
+          - Šiauliai
         population: 130587
-        slug: siauliai
       - 
-        districts: []
-        location: "POINT (56.2402799999999985 23.6152799999999985)"
+        alternate_names: 
+          - Gioniskis
+          - Ionishkis
+          - Janiszki
+        ascii_name: Joniskis
         name: Joniškis
+        names_en: 
+          - Joniškis
+        names_es: ~
         population: 11113
-        slug: joniskis
-    code: LT.61
     name: "Šiaulių Apskritis"
-    slug: siauliu-apskritis
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Taurages Apskritis"
     cities: 
       - 
-        districts: []
-        location: "POINT (55.5255700000000019 25.1026400000000010)"
-        name: Anykščiai
-        population: 11958
-        slug: anyksciai
+        alternate_names: 
+          - Taouranke
+          - Taurage
+          - Taurages
+        ascii_name: Taurage
+        name: Tauragė
+        names_en: 
+          - Tauragė
+        names_es: 
+          - Tauragė
+        population: 27662
+    name: "Tauragės Apskritis"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Telsiu Apskritis"
+    cities: 
       - 
-        districts: []
-        location: "POINT (55.5000000000000000 25.6000000000000014)"
+        alternate_names: 
+          - TEL'SHJAJ
+          - Tel'shjaj
+          - Telsai
+        ascii_name: Telsiai
+        name: Telšiai
+        names_en: 
+          - Telšiai
+        names_es: 
+          - Telšiai
+        population: 30098
+    name: "Telšių Apskritis"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Utenos Apskritis"
+    cities: 
+      - 
+        alternate_names: 
+          - Outena
+          - UTENA
+          - Uciana
+        ascii_name: Utena
         name: Utena
+        names_en: 
+          - Utena
+        names_es: ~
         population: 33240
-        slug: utena
-    code: LT.64
+      - 
+        alternate_names: 
+          - ANIKSHHJAJ
+          - Aniksci
+          - Anikshchay
+        ascii_name: Anyksciai
+        name: Anykščiai
+        names_en: 
+          - Anykščiai
+        names_es: ~
+        population: 11958
     name: "Utenos Apskritis"
-    slug: utenos-apskritis
-tld: lt
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Vilniaus Apskritis"
+    cities: 
+      - 
+        alternate_names: 
+          - Bilna
+          - Bilnious
+          - VIL'NJUS
+        ascii_name: Vilnius
+        name: Vilnius
+        names_en: 
+          - Vilnius
+        names_es: 
+          - Vilna
+        population: 542366
+    name: "Vilniaus Apskritis"
+    names_en: ~
+    names_es: ~

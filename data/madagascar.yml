@@ -1,463 +1,211 @@
 --- 
-code: MG
-continent: AF
 name: Madagascar
-population: 21281844
+names_en: 
+  - Madagascar
+  - "Republic of Madagascar"
+names_es: 
+  - Madagascar
 regions: 
   - 
+    ascii_name: Diana
     cities: 
       - 
-        districts: []
-        location: "POINT (-14.2666699999999995 50.1666700000000034)"
-        name: Sambava
-        population: 31522
-        slug: sambava
-      - 
-        districts: []
-        location: "POINT (-14.5500000000000007 48.7333300000000023)"
-        name: Bealanana
-        population: 16948
-        slug: bealanana
-      - 
-        districts: []
-        location: "POINT (-12.2666699999999995 49.2833299999999994)"
+        alternate_names: 
+          - Anceranana
+          - Antseranana
+          - Antsirana
+        ascii_name: Antsiranana
         name: Antsiran̈ana
+        names_en: 
+          - Antsiranana
+        names_es: 
+          - Antsiranana
         population: 82937
-        slug: antsiranana
-      - 
-        districts: []
-        location: "POINT (-14.8833300000000008 50.2833299999999994)"
-        name: Antalaha
-        population: 34112
-        slug: antalaha
-      - 
-        districts: []
-        location: "POINT (-13.4000000000000004 48.2666699999999977)"
-        name: Andoany
-        population: 22680
-        slug: andoany
-      - 
-        districts: []
-        location: "POINT (-14.6500000000000004 49.6499999999999986)"
-        name: Andapa
-        population: 20798
-        slug: andapa
-      - 
-        districts: []
-        location: "POINT (-13.1999999999999993 49.0499999999999972)"
-        name: Ambilobe
-        population: 14635
-        slug: ambilobe
-      - 
-        districts: []
-        location: "POINT (-13.6833299999999998 48.4500000000000028)"
-        name: Ambanja
-        population: 30621
-        slug: ambanja
-    code: MG.01
-    name: Antsiranana
-    slug: antsiranana
+    name: Diana
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Sava
+    cities: []
+    name: Sava
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Sofia
+    cities: []
+    name: Sofia
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Analanjirofo
+    cities: []
+    name: Analanjirofo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Boeny
     cities: 
       - 
-        districts: []
-        location: "POINT (-22.8166699999999985 47.2833299999999994)"
-        name: Vondrozo
-        population: 19949
-        slug: vondrozo
-      - 
-        districts: []
-        location: "POINT (-23.3500000000000014 47.6000000000000014)"
-        name: Vangaindrano
-        population: 23523
-        slug: vangaindrano
-      - 
-        districts: []
-        location: "POINT (-20.5833300000000001 48.5333299999999994)"
-        name: "Nosy Varika"
-        population: 37152
-        slug: nosy-varika
-      - 
-        districts: []
-        location: "POINT (-21.2166700000000006 48.3333299999999966)"
-        name: Mananjary
-        population: 27686
-        slug: mananjary
-      - 
-        districts: []
-        location: "POINT (-22.1333300000000008 48.0166699999999977)"
-        name: Manakara
-        population: 35499
-        slug: manakara
-      - 
-        districts: []
-        location: "POINT (-21.8833300000000008 47.4333299999999980)"
-        name: Ikongo
-        population: 32374
-        slug: ikongo
-      - 
-        districts: []
-        location: "POINT (-21.1499999999999986 46.5833299999999966)"
-        name: Ikalamavony
-        population: 15601
-        slug: ikalamavony
-      - 
-        districts: []
-        location: "POINT (-22.3999999999999986 46.1166699999999992)"
-        name: Ihosy
-        population: 16990
-        slug: ihosy
-      - 
-        districts: []
-        location: "POINT (-21.3000000000000007 47.6333300000000008)"
-        name: Ifanadiana
-        population: 17543
-        slug: ifanadiana
-      - 
-        districts: []
-        location: "POINT (-21.4333300000000015 47.0833299999999966)"
-        name: Fianarantsoa
-        population: 167227
-        slug: fianarantsoa
-      - 
-        districts: []
-        location: "POINT (-22.8166699999999985 47.8333299999999966)"
-        name: Farafangana
-        population: 24764
-        slug: farafangana
-      - 
-        districts: []
-        location: "POINT (-20.2333299999999987 47.3833300000000008)"
-        name: Fandriana
-        population: 31437
-        slug: fandriana
-      - 
-        districts: []
-        location: "POINT (-20.5166700000000013 47.2500000000000000)"
-        name: Ambositra
-        population: 30353
-        slug: ambositra
-      - 
-        districts: []
-        location: "POINT (-20.5500000000000007 46.7999999999999972)"
-        name: Ambatofinandrahana
-        population: 25997
-        slug: ambatofinandrahana
-      - 
-        districts: []
-        location: "POINT (-21.8333300000000001 46.9333299999999980)"
-        name: Ambalavao
-        population: 28027
-        slug: ambalavao
-    code: MG.02
-    name: Fianarantsoa
-    slug: fianarantsoa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-16.7833299999999994 47.6499999999999986)"
-        name: Tsaratanana
-        population: 16761
-        slug: tsaratanana
-      - 
-        districts: []
-        location: "POINT (-16.1000000000000014 46.6333300000000008)"
-        name: Marovoay
-        population: 31253
-        slug: marovoay
-      - 
-        districts: []
-        location: "POINT (-15.7166700000000006 46.3166700000000020)"
+        alternate_names: 
+          - Mahajanga
+          - Majunga
+          - Makhadzanga
+        ascii_name: Mahajanga
         name: Mahajanga
+        names_en: 
+          - Mahajanga
+        names_es: ~
         population: 154657
-        slug: mahajanga
-      - 
-        districts: []
-        location: "POINT (-14.8666699999999992 47.9833300000000023)"
-        name: Antsohihy
-        population: 21290
-        slug: antsohihy
-      - 
-        districts: []
-        location: "POINT (-16.4666700000000006 46.7166700000000006)"
-        name: "Ambato Boeny"
-        population: 22529
-        slug: ambato-boeny
-    code: MG.03
-    name: Mahajanga
-    slug: mahajanga
+    name: Boeny
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: Betsiboka
+    cities: []
+    name: Betsiboka
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Alaotra-Mangoro
+    cities: []
+    name: Alaotra-Mangoro
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Melaky
+    cities: []
+    name: Melaky
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Bongolava
+    cities: []
+    name: Bongolava
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Vakinankaratra
+    cities: []
+    name: Vakinankaratra
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Itasy
+    cities: []
+    name: Itasy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Analamanga
     cities: 
       - 
-        districts: []
-        location: "POINT (-17.8333300000000001 48.4166700000000034)"
-        name: Ambatondrazaka
-        population: 43134
-        slug: ambatondrazaka
-      - 
-        districts: []
-        location: "POINT (-18.1666699999999999 49.3833300000000008)"
-        name: Toamasina
-        population: 206373
-        slug: toamasina
-      - 
-        districts: []
-        location: "POINT (-17.3500000000000014 49.0333299999999994)"
-        name: Vohibinany
-        population: 25311
-        slug: vohibinany
-      - 
-        districts: []
-        location: "POINT (-17.4666700000000006 49.2000000000000028)"
-        name: Vavatenina
-        population: 36916
-        slug: vavatenina
-      - 
-        districts: []
-        location: "POINT (-16.9166699999999999 49.5833299999999966)"
-        name: "Soanierana Ivongo"
-        population: 39271
-        slug: soanierana-ivongo
-      - 
-        districts: []
-        location: "POINT (-18.9333300000000015 48.2000000000000028)"
-        name: Moramanga
-        population: 29212
-        slug: moramanga
-      - 
-        districts: []
-        location: "POINT (-20.0500000000000007 48.1166699999999992)"
-        name: Marolambo
-        population: 26160
-        slug: marolambo
-      - 
-        districts: []
-        location: "POINT (-15.4333299999999998 49.7333300000000023)"
-        name: Maroantsetra
-        population: 23859
-        slug: maroantsetra
-      - 
-        districts: []
-        location: "POINT (-16.1666699999999999 49.7666699999999977)"
-        name: "Mananara Avaratra"
-        population: 41209
-        slug: mananara-avaratra
-      - 
-        districts: []
-        location: "POINT (-17.6847500000000011 49.5086900000000014)"
-        name: Mahavelona
-        population: 7987
-        slug: mahavelona
-      - 
-        districts: []
-        location: "POINT (-19.8999999999999986 48.7999999999999972)"
-        name: Mahanoro
-        population: 39879
-        slug: mahanoro
-      - 
-        districts: []
-        location: "POINT (-17.3666699999999992 49.4166700000000034)"
-        name: "Fenoarivo Atsinanana"
-        population: 21036
-        slug: fenoarivo-atsinanana
-      - 
-        districts: []
-        location: "POINT (-17.0166700000000013 48.5833299999999966)"
-        name: Andilamena
-        population: 19750
-        slug: andilamena
-      - 
-        districts: []
-        location: "POINT (-18.9499999999999993 49.1000000000000014)"
-        name: Andovoranto
-        population: 10429
-        slug: andovoranto
-      - 
-        districts: []
-        location: "POINT (-17.5833300000000001 48.2166700000000006)"
-        name: Amparafaravola
-        population: 51519
-        slug: amparafaravola
-      - 
-        districts: []
-        location: "POINT (-16.9833299999999987 49.8500000000000014)"
-        name: Ambodifotatra
-        population: 11830
-        slug: ambodifotatra
-    code: MG.04
-    name: Toamasina
-    slug: toamasina
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-18.7666700000000013 46.0333299999999994)"
-        name: Tsiroanomandidy
-        population: 27060
-        slug: tsiroanomandidy
-      - 
-        districts: []
-        location: "POINT (-19.1666699999999999 46.7333300000000023)"
-        name: Soavinandriana
-        population: 40453
-        slug: soavinandriana
-      - 
-        districts: []
-        location: "POINT (-18.9166699999999999 47.7999999999999972)"
-        name: Manjakandriana
-        population: 31840
-        slug: manjakandriana
-      - 
-        districts: []
-        location: "POINT (-18.4333300000000015 46.5666700000000020)"
-        name: "Fenoarivo Be"
-        population: 19605
-        slug: fenoarivo-be
-      - 
-        districts: []
-        location: "POINT (-19.3999999999999986 46.9500000000000028)"
-        name: Faratsiho
-        population: 37563
-        slug: faratsiho
-      - 
-        districts: []
-        location: "POINT (-19.8333300000000001 46.8500000000000014)"
-        name: Betafo
-        population: 29785
-        slug: betafo
-      - 
-        districts: []
-        location: "POINT (-19.0166700000000013 47.1833299999999980)"
-        name: Arivonimamo
-        population: 21982
-        slug: arivonimamo
-      - 
-        districts: []
-        location: "POINT (-19.6499999999999986 47.3166700000000020)"
-        name: Antanifotsy
-        population: 70626
-        slug: antanifotsy
-      - 
-        districts: []
-        location: "POINT (-18.9143299999999996 47.5309799999999996)"
+        alternate_names: 
+          - Antananarivo
+          - Antananarivu
+          - Antananaryvas
+        ascii_name: Antananarivo
         name: Antananarivo
+        names_en: 
+          - Antananarivo
+        names_es: 
+          - Antananarivo
         population: 1391433
-        slug: antananarivo
-      - 
-        districts: []
-        location: "POINT (-18.3166699999999985 47.1166699999999992)"
-        name: Ankazobe
-        population: 15722
-        slug: ankazobe
-      - 
-        districts: []
-        location: "POINT (-18.3999999999999986 47.8666699999999992)"
-        name: Anjozorobe
-        population: 19027
-        slug: anjozorobe
-      - 
-        districts: []
-        location: "POINT (-19.3833300000000008 47.4166700000000034)"
-        name: Ambatolampy
-        population: 28461
-        slug: ambatolampy
-    code: MG.05
-    name: Antananarivo
-    slug: antananarivo
+    name: Analamanga
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: East
     cities: 
       - 
-        districts: []
-        location: "POINT (-19.5166700000000013 45.4666700000000006)"
-        name: Miandrivazo
-        population: 20631
-        slug: miandrivazo
+        alternate_names: 
+          - Tamatave
+          - Toamasina
+          - Tuamasina
+        ascii_name: Toamasina
+        name: Toamasina
+        names_en: 
+          - Toamasina
+        names_es: ~
+        population: 206373
+    name: East
+    names_en: 
+      - East
+    names_es: ~
+  - 
+    ascii_name: Menabe
+    cities: []
+    name: Menabe
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Amoron'i Mania"
+    cities: []
+    name: "Amoron'i Mania"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Upper Matsiatra"
+    cities: 
       - 
-        districts: []
-        location: "POINT (-19.6999999999999993 44.5499999999999972)"
-        name: "Belo Tsiribihina"
-        population: 23900
-        slug: belo-tsiribihina
+        alternate_names: 
+          - Fianarancua
+          - Fianarantsoa
+          - Фианаранцуа
+        ascii_name: Fianarantsoa
+        name: Fianarantsoa
+        names_en: 
+          - Fianarantsoa
+        names_es: ~
+        population: 167227
+    name: "Upper Matsiatra"
+    names_en: 
+      - "Upper Matsiatra"
+    names_es: ~
+  - 
+    ascii_name: Vatovavy-Fitovinany
+    cities: []
+    name: Vatovavy-Fitovinany
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Ihorombe
+    cities: []
+    name: Ihorombe
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: South-East
+    cities: []
+    name: South-East
+    names_en: 
+      - South-East
+    names_es: ~
+  - 
+    ascii_name: Anosy
+    cities: []
+    name: Anosy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Androy
+    cities: []
+    name: Androy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: South-West
+    cities: 
       - 
-        districts: []
-        location: "POINT (-25.3000000000000007 45.4833300000000023)"
-        name: Tsiombe
-        population: 29825
-        slug: tsiombe
-      - 
-        districts: []
-        location: "POINT (-23.3500000000000014 43.6666700000000034)"
+        alternate_names: 
+          - Toliara
+          - Toliary
+          - Tulear
+        ascii_name: Toliara
         name: Toliara
+        names_en: ~
+        names_es: ~
         population: 115319
-        slug: toliara
-      - 
-        districts: []
-        location: "POINT (-25.0318299999999994 46.9998099999999965)"
-        name: "Fort Dauphin"
-        population: 45141
-        slug: fort-dauphin
-      - 
-        districts: []
-        location: "POINT (-22.8999999999999986 44.5333299999999994)"
-        name: Sakaraha
-        population: 21826
-        slug: sakaraha
-      - 
-        districts: []
-        location: "POINT (-20.2833299999999994 44.2833299999999994)"
-        name: Morondava
-        population: 36803
-        slug: morondava
-      - 
-        districts: []
-        location: "POINT (-23.7166700000000006 44.3833300000000008)"
-        name: Betioky
-        population: 31102
-        slug: betioky
-      - 
-        districts: []
-        location: "POINT (-21.6666699999999999 45.1666700000000034)"
-        name: Beroroha
-        population: 18632
-        slug: beroroha
-      - 
-        districts: []
-        location: "POINT (-25.1666699999999999 45.0499999999999972)"
-        name: Beloha
-        population: 23021
-        slug: beloha
-      - 
-        districts: []
-        location: "POINT (-22.2833299999999994 44.5166699999999977)"
-        name: Ankazoabo
-        population: 25961
-        slug: ankazoabo
-      - 
-        districts: []
-        location: "POINT (-23.6666699999999999 43.6499999999999986)"
-        name: Anakao
-        population: 3000
-        slug: anakao
-      - 
-        districts: []
-        location: "POINT (-24.6999999999999993 44.7500000000000000)"
-        name: Ampanihy
-        population: 25686
-        slug: ampanihy
-      - 
-        districts: []
-        location: "POINT (-25.1666699999999999 46.0833299999999966)"
-        name: Ambovombe
-        population: 66818
-        slug: ambovombe
-      - 
-        districts: []
-        location: "POINT (-25.0333299999999994 46.3833300000000008)"
-        name: Amboasary
-        population: 36082
-        slug: amboasary
-    code: MG.06
-    name: Toliara
-    slug: toliara
-tld: mg
+    name: South-West
+    names_en: 
+      - South-West
+    names_es: ~

@@ -1,29 +1,43 @@
 --- 
-code: SJ
-continent: EU
 name: "Svalbard and Jan Mayen"
-population: 2550
+names_en: 
+  - "Svalbard and Jan Mayen"
+names_es: 
+  - "Islas Svalbard y Jan Mayen"
 regions: 
   - 
+    ascii_name: "Jan Mayen"
     cities: 
       - 
-        districts: []
-        location: "POINT (78.2185999999999950 15.6400699999999997)"
-        name: Longyearbyen
-        population: 1232
-        slug: longyearbyen
-    code: SJ.21
-    name: Svalbard
-    slug: svalbard
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (70.9221000000000004 -8.7187000000000001)"
+        alternate_names: 
+          - "Olonkin City"
+          - Olonkinbjuehn
+          - Olonkinbyen
+        ascii_name: Olonkinbyen
         name: Olonkinbyen
+        names_en: 
+          - Olonkinbyen
+          - "Olonkin City"
+        names_es: ~
         population: 14
-        slug: olonkinbyen
-    code: SJ.22
     name: "Jan Mayen"
-    slug: jan-mayen
-tld: sj
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Svalbard
+    cities: 
+      - 
+        alternate_names: 
+          - Longyearbyen
+          - rongui~erubin
+          - ロングイェールビーン
+        ascii_name: Longyearbyen
+        name: Longyearbyen
+        names_en: 
+          - Longyearbyen
+        names_es: 
+          - Longyearbyen
+        population: 2060
+    name: Svalbard
+    names_en: ~
+    names_es: ~

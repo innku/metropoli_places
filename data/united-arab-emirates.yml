@@ -1,100 +1,193 @@
 --- 
-code: AE
-continent: AS
 name: "United Arab Emirates"
-population: 4975593
+names_en: 
+  - "United Arab Emirates"
+names_es: 
+  - "Emiratos Árabes Unidos"
 regions: 
   - 
+    ascii_name: "Umm al Qaywayn"
     cities: 
       - 
-        districts: []
-        location: "POINT (24.1102799999999995 52.7305599999999970)"
-        name: "Ar Ruways"
-        population: 16000
-        slug: ar-ruways
-      - 
-        districts: []
-        location: "POINT (24.1916699999999985 55.7605599999999981)"
-        name: "Al ‘Ayn"
-        population: 408733
-        slug: al-ayn
-      - 
-        districts: []
-        location: "POINT (24.4666700000000006 54.3666699999999992)"
-        name: "Abu Dhabi"
-        population: 603492
-        slug: abu-dhabi
-      - 
-        districts: []
-        location: "POINT (23.1386099999999999 53.7872199999999978)"
-        name: Muzayri‘
-        population: 10000
-        slug: muzayri
-    code: AE.01
-    name: "Abū Z̧aby"
-    slug: abu-zaby
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (25.3391699999999993 56.3561100000000010)"
-        name: "Khawr Fakkān"
-        population: 33575
-        slug: khawr-fakkan
-      - 
-        districts: []
-        location: "POINT (25.6166699999999992 56.2666699999999977)"
-        name: Dibā
-        population: 26395
-        slug: diba
-      - 
-        districts: []
-        location: "POINT (25.3622200000000007 55.3911099999999976)"
-        name: Sharjah
-        population: 543733
-        slug: sharjah
-      - 
-        districts: []
-        location: "POINT (25.1230599999999988 56.3374999999999986)"
-        name: "Al Fujayrah"
-        population: 62415
-        slug: al-fujayrah
-      - 
-        districts: []
-        location: "POINT (25.7911099999999998 55.9427799999999991)"
-        name: "Ra's al Khaymah"
-        population: 115949
-        slug: ras-al-khaymah
-      - 
-        districts: []
-        location: "POINT (25.2522200000000012 55.2800000000000011)"
-        name: Dubai
-        population: 1137347
-        slug: dubai
-      - 
-        districts: []
-        location: "POINT (25.4111100000000008 55.4350400000000008)"
-        name: "`Ajmān"
-        population: 226172
-        slug: ajman
-    code: AE.06
-    name: "Ash Shāriqah"
-    slug: ash-shariqah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (25.5652800000000013 55.5533300000000025)"
+        alternate_names: 
+          - "Um al Quweim"
+          - "Umm al Qaiwain"
+          - "Umm al Qawain"
+        ascii_name: "Umm al Qaywayn"
         name: "Umm al Qaywayn"
+        names_en: ~
+        names_es: ~
         population: 44411
-        slug: umm-al-qaywayn
       - 
-        districts: []
-        location: "POINT (25.2822199999999988 55.8902799999999971)"
+        alternate_names: 
+          - "Adh Dhaid"
+          - "Adh Dhayd"
+          - "Al Daid"
+        ascii_name: "Adh Dhayd"
         name: "Adh Dhayd"
+        names_en: ~
+        names_es: ~
         population: 24716
-        slug: adh-dhayd
-    code: AE.07
     name: "Umm al Qaywayn"
-    slug: umm-al-qaywayn
-tld: ae
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ra's al Khaymah"
+    cities: 
+      - 
+        alternate_names: 
+          - Julfa
+          - Khaimah
+          - "Ra's al Khaymah"
+        ascii_name: "Ra's al Khaymah"
+        name: "Ra’s al Khaymah"
+        names_en: ~
+        names_es: ~
+        population: 115949
+    name: "Raʼs al Khaymah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Dubayy
+    cities: 
+      - 
+        alternate_names: 
+          - Dabei
+          - Dibai
+          - Dibay
+        ascii_name: Dubai
+        name: Dubai
+        names_en: 
+          - Dubai
+        names_es: 
+          - Dubai
+        population: 1137347
+    name: Dubayy
+    names_en: ~
+    names_es: 
+      - Dubai
+  - 
+    ascii_name: "Ash Shariqah"
+    cities: 
+      - 
+        alternate_names: 
+          - Fakkan
+          - Fakkān
+          - "Khawr Fakkan"
+        ascii_name: "Khawr Fakkan"
+        name: "Khawr Fakkān"
+        names_en: ~
+        names_es: ~
+        population: 33575
+      - 
+        alternate_names: 
+          - Daba
+          - "Daba al-Hisn"
+          - Dabā
+        ascii_name: Diba
+        name: Dibā
+        names_en: ~
+        names_es: ~
+        population: 26395
+      - 
+        alternate_names: 
+          - "Al Sharjah"
+          - "Ash 'Mariqah"
+          - "Ash Shariqa"
+        ascii_name: Sharjah
+        name: Sharjah
+        names_en: 
+          - Sharjah
+        names_es: 
+          - Sharjah
+        population: 543733
+    name: "Ash Shāriqah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Al Fujayrah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Fujayrah"
+          - Al-Fudjayra
+          - "Al-Fujayrah' emiraat"
+        ascii_name: "Al Fujayrah"
+        name: "Al Fujayrah"
+        names_en: 
+          - Fujairah
+        names_es: 
+          - Fujairah
+        population: 62415
+    name: "Al Fujayrah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Ajman
+    cities: 
+      - 
+        alternate_names: 
+          - Ajman
+          - "Al Ajman"
+          - "`Ujman"
+        ascii_name: "`Ajman"
+        name: "`Ajmān"
+        names_en: 
+          - Ajman
+        names_es: ~
+        population: 226172
+    name: Ajman
+    names_en: 
+      - Ajman
+    names_es: 
+      - Ajman
+  - 
+    ascii_name: "Abu Zaby"
+    cities: 
+      - 
+        alternate_names: 
+          - Mezaira'a
+          - Mezaira’a
+          - Mizeir`ah
+        ascii_name: Muzayri`
+        name: Muzayri‘
+        names_en: ~
+        names_es: ~
+        population: 10000
+      - 
+        alternate_names: 
+          - "Ar Ru'ays"
+          - "Ar Ruways"
+          - "Ar Ru’ays"
+        ascii_name: "Ar Ruways"
+        name: "Ar Ruways"
+        names_en: ~
+        names_es: ~
+        population: 16000
+      - 
+        alternate_names: 
+          - "Al Ain"
+          - "Al Ajn"
+          - "Al `Ayn"
+        ascii_name: "Al `Ayn"
+        name: "Al ‘Ayn"
+        names_en: 
+          - "Al Ain"
+        names_es: ~
+        population: 408733
+      - 
+        alternate_names: 
+          - "AEbu Saby"
+          - "Abu Dabi"
+          - "Abu Dabis"
+        ascii_name: "Abu Dhabi"
+        name: "Abu Dhabi"
+        names_en: 
+          - "Abu Dhabi"
+        names_es: 
+          - "Abu Dhabi"
+        population: 603492
+    name: "Abū Z̧aby"
+    names_en: ~
+    names_es: 
+      - "Abu Dhabi"

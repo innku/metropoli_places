@@ -1,933 +1,1292 @@
 --- 
-code: TN
-continent: AF
 name: Tunisia
-population: 10589025
+names_en: 
+  - Tunisia
+  - "Tunisian Republic"
+names_es: 
+  - Túnez
 regions: 
   - 
+    ascii_name: "Gouvernorat de Zaghouan"
     cities: 
       - 
-        districts: []
-        location: "POINT (36.7833299999999994 10.6333300000000008)"
-        name: Tāklisah
-        population: 20659
-        slug: taklisah
-      - 
-        districts: []
-        location: "POINT (36.7277800000000028 10.9525000000000006)"
-        name: "Menzel Heurr"
-        population: 4717
-        slug: menzel-heurr
-      - 
-        districts: []
-        location: "POINT (37.0500200000000035 11.0144199999999994)"
-        name: "El Haouaria"
-        population: 9273
-        slug: el-haouaria
-      - 
-        districts: []
-        location: "POINT (36.6499999999999986 10.5833300000000001)"
-        name: "Zāwiyat al Jadīdī"
-        population: 6583
-        slug: zawiyat-al-jadidi
-      - 
-        districts: []
-        location: "POINT (37.0395899999999969 10.0387599999999999)"
-        name: Zahānah
-        population: 3765
-        slug: zahanah
-      - 
-        districts: []
-        location: "POINT (36.5499999999999972 9.4499999999999993)"
-        name: Tastūr
-        population: 13708
-        slug: tastur
-      - 
-        districts: []
-        location: "POINT (36.4666700000000006 9.2500000000000000)"
-        name: Tabursuq
-        population: 12727
-        slug: tabursuq
-      - 
-        districts: []
-        location: "POINT (37.0572200000000009 9.2380600000000008)"
-        name: Sejenane
-        population: 5009
-        slug: sejenane
-      - 
-        districts: []
-        location: "POINT (37.1904299999999992 10.1836500000000001)"
-        name: Rafrāf
-        population: 9255
-        slug: rafraf
-      - 
-        districts: []
-        location: "POINT (36.8166700000000020 10.5666700000000002)"
-        name: Qurbuş
-        population: 3581
-        slug: qurbus
-      - 
-        districts: []
-        location: "POINT (36.5786099999999976 10.8586100000000005)"
-        name: Korba
-        population: 33589
-        slug: korba
-      - 
-        districts: []
-        location: "POINT (36.8500000000000014 11.0999999999999996)"
-        name: Qulaybīyah
-        population: 43209
-        slug: qulaybiyah
-      - 
-        districts: []
-        location: "POINT (36.3333299999999966 9.3166700000000002)"
-        name: Qa‘fūr
-        population: 10556
-        slug: qafur
-      - 
-        districts: []
-        location: "POINT (36.6833299999999980 10.5833300000000001)"
-        name: "Manzil Bū Zalafah"
-        population: 16231
-        slug: manzil-bu-zalafah
-      - 
-        districts: []
-        location: "POINT (36.6499999999999986 9.6166699999999992)"
-        name: "Majāz al Bāb"
-        population: 20118
-        slug: majaz-al-bab
-      - 
-        districts: []
-        location: "POINT (36.0333299999999994 10.5000000000000000)"
-        name: Harqalah
-        population: 6942
-        slug: harqalah
-      - 
-        districts: []
-        location: "POINT (37.1666700000000034 9.7500000000000000)"
-        name: "Dawwār Tīnjah"
-        population: 18551
-        slug: dawwar-tinjah
-      - 
-        districts: []
-        location: "POINT (36.4694399999999987 10.7511100000000006)"
-        name: "Dar Chabanne"
-        population: 33953
-        slug: dar-chabanne
-      - 
-        districts: []
-        location: "POINT (36.5333299999999994 10.5500000000000007)"
-        name: "Bū ‘Urqūb"
-        population: 10024
-        slug: bu-urqub
-      - 
-        districts: []
-        location: "POINT (36.3500000000000014 9.6166699999999992)"
-        name: "Bū ‘Arādah"
-        population: 12158
-        slug: bu-aradah
-      - 
-        districts: []
-        location: "POINT (36.4691699999999983 10.7822200000000006)"
-        name: "Beni Khiar"
-        population: 18011
-        slug: beni-khiar
-      - 
-        districts: []
-        location: "POINT (36.6499999999999986 10.5999999999999996)"
-        name: "Banī Khallād"
-        population: 11300
-        slug: bani-khallad
-      - 
-        districts: []
-        location: "POINT (37.0628999999999991 10.1182900000000000)"
-        name: "Qal‘at al Andalus"
-        population: 15313
-        slug: qalat-al-andalus
-      - 
-        districts: []
-        location: "POINT (36.0833299999999966 9.0166699999999995)"
-        name: "As Sars"
-        population: 10979
-        slug: as-sars
-      - 
-        districts: []
-        location: "POINT (36.7255600000000015 10.8552800000000005)"
-        name: "El Mida"
-        population: 3602
-        slug: el-mida
-      - 
-        districts: []
-        location: "POINT (37.2451599999999985 10.0500000000000007)"
-        name: "Al Matlīn"
-        population: 7370
-        slug: al-matlin
-      - 
-        districts: []
-        location: "POINT (36.4672199999999975 10.8058300000000003)"
-        name: "El Maamoura"
-        population: 6969
-        slug: el-maamoura
-      - 
-        districts: []
-        location: "POINT (36.3333299999999966 9.1333300000000008)"
-        name: "Al Karīb"
-        population: 7691
-        slug: al-karib
-      - 
-        districts: []
-        location: "POINT (37.1691000000000003 10.0347799999999996)"
-        name: "Al ‘Āliyah"
-        population: 16083
-        slug: al-aliyah
-    code: TN.00
-    name: "Tunisia (general)"
-    slug: tunisia-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.5724400000000003 8.6703100000000006)"
-        name: Thala
-        population: 16068
-        slug: thala
-      - 
-        districts: []
-        location: "POINT (35.5455600000000018 9.0802800000000001)"
-        name: Sbiba
-        population: 6291
-        slug: sbiba
-      - 
-        districts: []
-        location: "POINT (35.6647200000000026 9.0547199999999997)"
-        name: Rohia
-        population: 4231
-        slug: rohia
-      - 
-        districts: []
-        location: "POINT (35.1675800000000010 8.8365100000000005)"
-        name: Kasserine
-        population: 81987
-        slug: kasserine
-    code: TN.02
-    name: "Al Qaşrayn"
-    slug: al-qasrayn
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.6349999999999980 9.6769400000000001)"
-        name: Haffouz
-        population: 7765
-        slug: haffouz
-      - 
-        districts: []
-        location: "POINT (35.9338899999999981 10.0208300000000001)"
-        name: Sbikha
-        population: 7062
-        slug: sbikha
-      - 
-        districts: []
-        location: "POINT (35.6744399999999970 10.1016700000000004)"
-        name: Kairouan
-        population: 119794
-        slug: kairouan
-    code: TN.03
-    name: "Al Qayrawān"
-    slug: al-qayrawan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.4677799999999976 8.5497200000000007)"
-        name: "Wādī Malīz"
-        population: 2148
-        slug: wadi-maliz
-      - 
-        districts: []
-        location: "POINT (36.9544199999999989 8.7580100000000005)"
-        name: Tabarka
-        population: 13712
-        slug: tabarka
-      - 
-        districts: []
-        location: "POINT (36.5011099999999971 8.7794399999999992)"
-        name: Jendouba
-        population: 51408
-        slug: jendouba
-      - 
-        districts: []
-        location: "POINT (36.6547199999999975 8.6974999999999998)"
-        name: "Al Firnānah"
-        population: 1962
-        slug: al-firnanah
-    code: TN.06
-    name: Jundūbah
-    slug: jundubah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.2247199999999978 8.3561099999999993)"
-        name: "Sakiet Sidi Youssef"
-        population: 6442
-        slug: sakiet-sidi-youssef
-      - 
-        districts: []
-        location: "POINT (35.8917399999999986 8.5527599999999993)"
-        name: Tajerouine
-        population: 18909
-        slug: tajerouine
-      - 
-        districts: []
-        location: "POINT (36.2908299999999997 8.7566699999999997)"
-        name: Nibbar
-        population: 3393
-        slug: nibbar
-      - 
-        districts: []
-        location: "POINT (35.8567299999999989 8.4765400000000000)"
-        name: "Manzil Sālim"
-        population: 2856
-        slug: manzil-salim
-      - 
-        districts: []
-        location: "POINT (35.8960700000000017 8.8849300000000007)"
-        name: "El Ksour"
-        population: 5034
-        slug: el-ksour
-      - 
-        districts: []
-        location: "POINT (36.1822200000000009 8.7147199999999998)"
-        name: "El Kef"
-        population: 47979
-        slug: el-kef
-    code: TN.14
-    name: Kef
-    slug: kef
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.3833300000000008 10.9333299999999998)"
-        name: "Sīdī ‘Ulwān"
-        population: 7051
-        slug: sidi-ulwan
-      - 
-        districts: []
-        location: "POINT (35.2833299999999994 10.3833300000000008)"
-        name: Shurbān
-        population: 6430
-        slug: shurban
-      - 
-        districts: []
-        location: "POINT (35.4202799999999982 10.9980600000000006)"
-        name: "Ksour Essaf"
-        population: 27936
-        slug: ksour-essaf
-      - 
-        districts: []
-        location: "POINT (35.1666700000000034 11.0363900000000008)"
-        name: Melloulèche
-        population: 6441
-        slug: mellouleche
-      - 
-        districts: []
-        location: "POINT (35.2372200000000007 11.1150000000000002)"
-        name: Chebba
-        population: 21559
-        slug: chebba
-      - 
-        districts: []
-        location: "POINT (35.5047199999999989 11.0622199999999999)"
-        name: Mahdia
-        population: 45977
-        slug: mahdia
-      - 
-        districts: []
-        location: "POINT (35.2999999999999972 10.7166700000000006)"
-        name: "El Jem"
-        population: 20029
-        slug: el-jem
-    code: TN.15
-    name: "Al Mahdīyah"
-    slug: al-mahdiyah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.7000000000000028 10.8000000000000007)"
-        name: Banbalah
-        population: 12367
-        slug: banbalah
-      - 
-        districts: []
-        location: "POINT (35.6333300000000008 10.8333300000000001)"
-        name: Ţūzah
-        population: 6085
-        slug: tuzah
-      - 
-        districts: []
-        location: "POINT (35.5333299999999994 10.9166699999999999)"
-        name: "Sīdī Bin Nūr"
-        population: 4042
-        slug: sidi-bin-nur
-      - 
-        districts: []
-        location: "POINT (35.7833299999999994 10.8000000000000007)"
-        name: Şaqānis
-        population: 64222
-        slug: saqanis
-      - 
-        districts: []
-        location: "POINT (35.6833299999999980 10.8499999999999996)"
-        name: "Quşaybat al Madyūnī"
-        population: 11313
-        slug: qusaybat-al-madyuni
-      - 
-        districts: []
-        location: "POINT (35.6499999999999986 10.9000000000000004)"
-        name: "Qaşr Hallāl"
-        population: 39792
-        slug: qasr-hallal
-      - 
-        districts: []
-        location: "POINT (35.6333300000000008 10.6666699999999999)"
-        name: "Manzil Kāmil"
-        population: 8314
-        slug: manzil-kamil
-      - 
-        districts: []
-        location: "POINT (35.6666700000000034 10.8833300000000008)"
-        name: Lamţah
-        population: 5382
-        slug: lamtah
-      - 
-        districts: []
-        location: "POINT (35.6333300000000008 10.7666699999999995)"
-        name: Jammāl
-        population: 39990
-        slug: jammal
-      - 
-        districts: []
-        location: "POINT (35.5666700000000020 10.8166700000000002)"
-        name: "Banī Ḩassān"
-        population: 8139
-        slug: bani-hassan
-      - 
-        districts: []
-        location: "POINT (35.6666700000000034 10.9000000000000004)"
-        name: "Aş Şayyādah"
-        population: 13718
-        slug: as-sayyadah
-      - 
-        districts: []
-        location: "POINT (35.7533299999999983 10.7116699999999998)"
-        name: Sahline
-        population: 13806
-        slug: sahline
-      - 
-        districts: []
-        location: "POINT (35.7166700000000006 10.6666699999999999)"
-        name: "Al Wardānīn"
-        population: 18287
-        slug: al-wardanin
-      - 
-        districts: []
-        location: "POINT (35.7833299999999994 10.8333300000000001)"
-        name: Monastir
-        population: 71546
-        slug: monastir
-      - 
-        districts: []
-        location: "POINT (35.6833299999999980 10.7333300000000005)"
-        name: "Al Maşdūr"
-        population: 3372
-        slug: al-masdur
-      - 
-        districts: []
-        location: "POINT (35.6166699999999992 11.0000000000000000)"
-        name: "Al Baqāliţah"
-        population: 15937
-        slug: al-baqalitah
-    code: TN.16
-    name: "Al Munastīr"
-    slug: al-munastir
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.5333299999999994 9.6666699999999999)"
-        name: Quballāţ
-        population: 3353
-        slug: quballat
-      - 
-        districts: []
-        location: "POINT (36.7333300000000023 9.1833299999999998)"
-        name: Béja
-        population: 57233
-        slug: beja
-    code: TN.17
-    name: Bājah
-    slug: bajah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.1693899999999999 10.1906400000000001)"
-        name: "Ghār al Milḩ"
-        population: 5018
-        slug: ghar-al-milh
-      - 
-        districts: []
-        location: "POINT (37.0404499999999999 9.6655700000000007)"
-        name: Mateur
-        population: 31005
-        slug: mateur
-      - 
-        districts: []
-        location: "POINT (37.2361799999999974 9.9144799999999993)"
-        name: "Menzel Jemil"
-        population: 21542
-        slug: menzel-jemil
-      - 
-        districts: []
-        location: "POINT (37.1536800000000014 9.7859400000000001)"
-        name: "Menzel Bourguiba"
-        population: 46245
-        slug: menzel-bourguiba
-      - 
-        districts: []
-        location: "POINT (37.2373699999999985 9.8631300000000000)"
-        name: "Menzel Abderhaman"
-        population: 15769
-        slug: menzel-abderhaman
-      - 
-        districts: []
-        location: "POINT (37.2744199999999992 9.8739100000000004)"
-        name: Bizerte
-        population: 115268
-        slug: bizerte
-    code: TN.18
-    name: Banzart
-    slug: banzart
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.3999999999999986 10.6166699999999992)"
-        name: "Al Ḩammāmāt"
-        population: 53733
-        slug: al-hammamat
-      - 
-        districts: []
-        location: "POINT (36.4447199999999967 10.7508300000000006)"
-        name: Douane
-        population: 60192
-        slug: douane
-    code: TN.19
-    name: Nābul
-    slug: nabul
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.0833299999999966 9.3666699999999992)"
-        name: Siliana
-        population: 26960
-        slug: siliana
-      - 
-        districts: []
-        location: "POINT (35.8605599999999995 9.2058300000000006)"
-        name: Maktar
-        population: 14500
-        slug: maktar
-      - 
-        districts: []
-        location: "POINT (35.8119399999999999 9.3644400000000001)"
-        name: Kesra
-        population: 2598
-        slug: kesra
-    code: TN.22
-    name: Silyānah
-    slug: silyanah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.8255600000000030 10.6411099999999994)"
-        name: Sousse
-        population: 164123
-        slug: sousse
-      - 
-        districts: []
-        location: "POINT (35.9566700000000026 10.4730600000000003)"
-        name: "Sidi Bou Ali"
-        population: 8855
-        slug: sidi-bou-ali
-      - 
-        districts: []
-        location: "POINT (35.6713900000000024 10.3158300000000001)"
-        name: "Sidi el Hani"
-        population: 2820
-        slug: sidi-el-hani
-      - 
-        districts: []
-        location: "POINT (35.7333300000000023 10.5833300000000001)"
-        name: Masākin
-        population: 64563
-        slug: masakin
-      - 
-        districts: []
-        location: "POINT (35.8588900000000024 10.5938900000000000)"
-        name: "Hammam Sousse"
-        population: 33834
-        slug: hammam-sousse
-      - 
-        districts: []
-        location: "POINT (35.8708299999999980 10.5683299999999996)"
-        name: Akouda
-        population: 20027
-        slug: akouda
-      - 
-        districts: []
-        location: "POINT (35.8923899999999989 10.5943400000000008)"
-        name: "Port el Kantaoui"
-        population: 6000
-        slug: port-el-kantaoui
-    code: TN.23
-    name: Sūsah
-    slug: susah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.8081299999999985 10.9922799999999992)"
-        name: Midoun
-        population: 120000
-        slug: midoun
-      - 
-        districts: []
-        location: "POINT (33.5039799999999985 11.1121599999999994)"
-        name: Zarzis
-        population: 79316
-        slug: zarzis
-      - 
-        districts: []
-        location: "POINT (33.8757599999999996 10.8574500000000000)"
-        name: "Houmt Souk"
-        population: 62583
-        slug: houmt-souk
-      - 
-        districts: []
-        location: "POINT (33.1378300000000010 11.2196499999999997)"
-        name: "Bin Qirdān"
-        population: 13364
-        slug: bin-qirdan
-      - 
-        districts: []
-        location: "POINT (33.2528000000000006 10.1988299999999992)"
-        name: "Banī Khaddāsh"
-        population: 3588
-        slug: bani-khaddash
-    code: TN.28
-    name: Madanīn
-    slug: madanin
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.5444499999999977 9.9715699999999998)"
-        name: Matmata
-        population: 2406
-        slug: matmata
-      - 
-        districts: []
-        location: "POINT (33.8814599999999970 10.0982000000000003)"
-        name: Gabès
-        population: 110075
-        slug: gabes
-      - 
-        districts: []
-        location: "POINT (33.8915199999999999 9.7962900000000008)"
-        name: "El Hamma"
-        population: 36458
-        slug: el-hamma
-    code: TN.29
-    name: Qābis
-    slug: qabis
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.3826999999999998 8.1554900000000004)"
-        name: "Ar Rudayyif"
-        population: 30048
-        slug: ar-rudayyif
-      - 
-        districts: []
-        location: "POINT (34.4249999999999972 8.7841699999999996)"
-        name: Gafsa
-        population: 81232
-        slug: gafsa
-      - 
-        districts: []
-        location: "POINT (34.4628000000000014 9.2640399999999996)"
-        name: "As Sanad"
-        population: 7859
-        slug: as-sanad
-      - 
-        districts: []
-        location: "POINT (34.3208100000000016 8.4015799999999992)"
-        name: "Al Metlaoui"
-        population: 41899
-        slug: al-metlaoui
-    code: TN.30
-    name: Qafşah
-    slug: qafsah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.7043899999999965 8.9690300000000001)"
-        name: Kebili
-        population: 19875
-        slug: kebili
-      - 
-        districts: []
-        location: "POINT (33.5777799999999971 9.0147200000000005)"
-        name: Jemna
-        population: 6254
-        slug: jemna
-      - 
-        districts: []
-        location: "POINT (33.4663200000000032 9.0203000000000007)"
-        name: Douz
-        population: 28127
-        slug: douz
-      - 
-        districts: []
-        location: "POINT (33.4848500000000016 9.0067799999999991)"
-        name: "El Golaa"
-        population: 7189
-        slug: el-golaa
-    code: TN.31
-    name: Qibilī
-    slug: qibili
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.7405600000000021 10.7602799999999998)"
-        name: Sfax
-        population: 277278
-        slug: sfax
-      - 
-        districts: []
-        location: "POINT (35.0333299999999994 10.9166699999999999)"
-        name: Jabinyānah
-        population: 7349
-        slug: jabinyanah
-      - 
-        districts: []
-        location: "POINT (34.7333300000000023 10.0999999999999996)"
-        name: "Bi’r ‘Alī Bin Khalīfah"
-        population: 4864
-        slug: bir-ali-bin-khalifah
-      - 
-        districts: []
-        location: "POINT (34.2833299999999994 10.0999999999999996)"
-        name: Skhira
-        population: 9211
-        slug: skhira
-      - 
-        districts: []
-        location: "POINT (34.7500000000000000 10.7833299999999994)"
-        name: "Al Qarmadah"
-        population: 33744
-        slug: al-qarmadah
-    code: TN.32
-    name: Şafāqis
-    slug: safaqis
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.0382299999999987 9.4849399999999999)"
-        name: "Sidi Bouzid"
-        population: 42098
-        slug: sidi-bouzid
-      - 
-        districts: []
-        location: "POINT (35.2741699999999980 9.4252800000000008)"
-        name: Jilma
-        population: 5647
-        slug: jilma
-      - 
-        districts: []
-        location: "POINT (34.9321199999999976 9.1932100000000005)"
-        name: "Bi’r al Ḩufayy"
-        population: 5016
-        slug: bir-al-hufayy
-      - 
-        districts: []
-        location: "POINT (34.8593199999999968 9.7865400000000005)"
-        name: "Ar Riqāb"
-        population: 6702
-        slug: ar-riqab
-      - 
-        districts: []
-        location: "POINT (34.5775799999999975 9.8419299999999996)"
-        name: "Al Mazzūnah"
-        population: 5564
-        slug: al-mazzunah
-    code: TN.33
-    name: "Sīdī Bū Zayd"
-    slug: sidi-bu-zayd
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.9296700000000016 10.4517699999999998)"
-        name: Tataouine
-        population: 62577
-        slug: tataouine
-      - 
-        districts: []
-        location: "POINT (32.3166200000000003 10.3955099999999998)"
-        name: Remada
-        population: 4322
-        slug: remada
-    code: TN.34
-    name: Taţāwīn
-    slug: tatawin
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.9196799999999996 8.1335200000000007)"
-        name: Tozeur
-        population: 34943
-        slug: tozeur
-      - 
-        districts: []
-        location: "POINT (34.3884899999999973 7.9431300000000000)"
-        name: Tamaghzah
-        population: 2750
-        slug: tamaghzah
-      - 
-        districts: []
-        location: "POINT (34.3190900000000028 7.9351900000000004)"
-        name: Shabīkah
-        population: 1820
-        slug: shabikah
-      - 
-        districts: []
-        location: "POINT (33.8730899999999977 7.8776500000000000)"
-        name: Nefta
-        population: 21720
-        slug: nefta
-      - 
-        districts: []
-        location: "POINT (33.9760599999999968 8.2081000000000000)"
-        name: Degache
-        population: 8134
-        slug: degache
-    code: TN.35
-    name: Tawzar
-    slug: tawzar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.8341700000000003 10.0422200000000004)"
-        name: "Oued Lill"
-        population: 47101
-        slug: oued-lill
-      - 
-        districts: []
-        location: "POINT (36.8189700000000002 10.1657899999999994)"
-        name: Tunis
-        population: 693210
-        slug: tunis
-      - 
-        districts: []
-        location: "POINT (36.8686999999999969 10.3417399999999997)"
-        name: "Sidi Bou Saïd"
-        population: 5000
-        slug: sidi-bou-said
-      - 
-        districts: []
-        location: "POINT (36.6816699999999969 10.2888900000000003)"
-        name: "La Sebala du Mornag"
-        population: 33421
-        slug: la-sebala-du-mornag
-      - 
-        districts: []
-        location: "POINT (36.7680599999999984 10.2752800000000004)"
-        name: Radès
-        population: 44298
-        slug: rades
-      - 
-        districts: []
-        location: "POINT (36.8610800000000012 10.3316099999999995)"
-        name: Carthage
-        population: 15922
-        slug: carthage
-      - 
-        districts: []
-        location: "POINT (36.8077800000000011 10.1011100000000003)"
-        name: Manouba
-        population: 24948
-        slug: manouba
-      - 
-        districts: []
-        location: "POINT (36.7330600000000018 10.3361099999999997)"
-        name: Hammam-Lif
-        population: 47760
-        slug: hammam-lif
-      - 
-        districts: []
-        location: "POINT (36.8180600000000027 10.3049999999999997)"
-        name: "La Goulette"
-        population: 79795
-        slug: la-goulette
-      - 
-        districts: []
-        location: "POINT (36.6769400000000019 10.1555599999999995)"
-        name: "La Mohammedia"
-        population: 66593
-        slug: la-mohammedia
-      - 
-        districts: []
-        location: "POINT (36.8781800000000004 10.3246599999999997)"
-        name: "Al Marsá"
-        population: 65640
-        slug: al-marsa
-      - 
-        districts: []
-        location: "POINT (36.8161100000000019 9.8399999999999999)"
-        name: "El Battan"
-        population: 6047
-        slug: el-battan
-    code: TN.36
-    name: Tūnis
-    slug: tunis
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.3999999999999986 10.1500000000000004)"
+        alternate_names: 
+          - Zaghouan
+          - Zaghouane
+          - Zaghwan
+        ascii_name: Zaghouan
         name: Zaghouan
+        names_en: ~
+        names_es: ~
         population: 16911
-        slug: zaghouan
       - 
-        districts: []
-        location: "POINT (36.3669399999999996 9.9049999999999994)"
+        alternate_names: 
+          - "Al Fahs"
+          - "Al Faḩş"
+          - "El Fahs"
+        ascii_name: "El Fahs"
         name: "El Fahs"
+        names_en: ~
+        names_es: ~
         population: 18083
-        slug: el-fahs
-    code: TN.37
     name: Zaghwān
-    slug: zaghwan
-tld: tn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Tunis"
+    cities: 
+      - 
+        alternate_names: 
+          - "Oued Ellil"
+          - "Oued Lill"
+          - "Wadi al Layl"
+        ascii_name: "Oued Lill"
+        name: "Oued Lill"
+        names_en: ~
+        names_es: ~
+        population: 47101
+      - 
+        alternate_names: 
+          - Tunes
+          - Tunez
+          - Tunis
+        ascii_name: Tunis
+        name: Tunis
+        names_en: 
+          - Tunis
+        names_es: 
+          - Tunez
+          - Túnez
+        population: 693210
+      - 
+        alternate_names: 
+          - "Sidi Abi Sa`id"
+          - "Sidi Bou Said"
+          - "Sidi Bou Saïd"
+        ascii_name: "Sidi Bou Said"
+        name: "Sidi Bou Saïd"
+        names_en: 
+          - "Sidi Bou Saïd"
+          - "Sidi Bou Said"
+        names_es: ~
+        population: 5000
+      - 
+        alternate_names: 
+          - Cebala-du-Mornag
+          - "La Cebala"
+          - "La Cebala du Mornag"
+        ascii_name: "La Sebala du Mornag"
+        name: "La Sebala du Mornag"
+        names_en: ~
+        names_es: ~
+        population: 33421
+      - 
+        alternate_names: 
+          - Maxula
+          - Maxula-Rades
+          - Maxula-Radès
+        ascii_name: Rades
+        name: Radès
+        names_en: ~
+        names_es: ~
+        population: 44298
+      - 
+        alternate_names: 
+          - Karfagen
+          - Qartajannah
+          - Qarţājannah
+        ascii_name: Carthage
+        name: Carthage
+        names_en: ~
+        names_es: ~
+        population: 15922
+      - 
+        alternate_names: 
+          - "Hammam al Anf"
+          - Hammam-Lif
+          - Hamman-Lif
+        ascii_name: Hammam-Lif
+        name: Hammam-Lif
+        names_en: ~
+        names_es: ~
+        population: 47760
+      - 
+        alternate_names: 
+          - "El Aouina"
+          - Goletta
+          - Goulette
+        ascii_name: "La Goulette"
+        name: "La Goulette"
+        names_en: 
+          - "La Goulette"
+        names_es: ~
+        population: 79795
+      - 
+        alternate_names: 
+          - "Al Muhammadiyah"
+          - "Al Muḩammadīyah"
+          - "La Mohammedia"
+        ascii_name: "La Mohammedia"
+        name: "La Mohammedia"
+        names_en: ~
+        names_es: ~
+        population: 66593
+      - 
+        alternate_names: 
+          - "Al Marsa"
+          - "Al Marsá"
+          - "El Marsa"
+        ascii_name: "Al Marsa"
+        name: "Al Marsá"
+        names_en: 
+          - "La Marsa"
+        names_es: ~
+        population: 65640
+    name: Tūnis
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Tozeur"
+    cities: 
+      - 
+        alternate_names: 
+          - Tawzar
+          - Tozer
+          - Tozeur
+        ascii_name: Tozeur
+        name: Tozeur
+        names_en: ~
+        names_es: ~
+        population: 34943
+      - 
+        alternate_names: 
+          - Tamaghzah
+          - Tamerza
+          - Тамерза
+        ascii_name: Tamaghzah
+        name: Tamaghzah
+        names_en: 
+          - Tamerza
+        names_es: ~
+        population: 2750
+      - 
+        alternate_names: 
+          - Chebica
+          - Chebika
+          - Chebikha
+        ascii_name: Shabikah
+        name: Shabīkah
+        names_en: 
+          - Chebika
+        names_es: 
+          - Chebica
+        population: 1820
+      - 
+        alternate_names: 
+          - "Aggarset Nepte"
+          - Naftah
+          - Nafţah
+        ascii_name: Nefta
+        name: Nefta
+        names_en: ~
+        names_es: ~
+        population: 21720
+      - 
+        alternate_names: 
+          - Degache
+          - Deguach
+        ascii_name: Degache
+        name: Degache
+        names_en: ~
+        names_es: ~
+        population: 8134
+    name: Tawzar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Tataouine"
+    cities: 
+      - 
+        alternate_names: 
+          - "Foum Tatahouine"
+          - "Foum Tataouine"
+          - "Fum Tatawin"
+        ascii_name: Tataouine
+        name: Tataouine
+        names_en: 
+          - Tataouine
+        names_es: ~
+        population: 62577
+      - 
+        alternate_names: 
+          - Ramadah
+          - Ramādah
+          - Remada
+        ascii_name: Remada
+        name: Remada
+        names_en: ~
+        names_es: ~
+        population: 4322
+    name: Taţāwīn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Sousse"
+    cities: 
+      - 
+        alternate_names: 
+          - Hadrumetum
+          - Sousa
+          - Souse
+        ascii_name: Sousse
+        name: Sousse
+        names_en: 
+          - Sousse
+        names_es: ~
+        population: 164123
+      - 
+        alternate_names: 
+          - "Sidi Bou Ali"
+          - "Sidi Bu `Ali"
+          - "Sīdī Bū ‘Alī"
+        ascii_name: "Sidi Bou Ali"
+        name: "Sidi Bou Ali"
+        names_en: ~
+        names_es: ~
+        population: 8855
+      - 
+        alternate_names: 
+          - "Camp de Sidi el Hani"
+          - "El Hani"
+          - "Sidi al Hani'"
+        ascii_name: "Sidi el Hani"
+        name: "Sidi el Hani"
+        names_en: ~
+        names_es: ~
+        population: 2820
+      - 
+        alternate_names: 
+          - M'saken
+          - Masakin
+          - Masākin
+        ascii_name: Masakin
+        name: Masākin
+        names_en: 
+          - Masakin
+        names_es: ~
+        population: 64563
+      - 
+        alternate_names: 
+          - Hadrumete
+          - Hadrumète
+          - "Hammam Sousse"
+        ascii_name: "Hammam Sousse"
+        name: "Hammam Sousse"
+        names_en: ~
+        names_es: ~
+        population: 33834
+      - 
+        alternate_names: 
+          - Akkudah
+          - Akkūdah
+          - Akouda
+        ascii_name: Akouda
+        name: Akouda
+        names_en: ~
+        names_es: ~
+        population: 20027
+      - 
+        alternate_names: ~
+        ascii_name: "Port el Kantaoui"
+        name: "Port el Kantaoui"
+        names_en: ~
+        names_es: ~
+        population: 6000
+    name: Sūsah
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Siliana"
+    cities: 
+      - 
+        alternate_names: 
+          - Siliana
+          - Silyanah
+          - Silyānah
+        ascii_name: Siliana
+        name: Siliana
+        names_en: ~
+        names_es: ~
+        population: 26960
+      - 
+        alternate_names: 
+          - Mactaris
+          - Maktar
+          - Makthar
+        ascii_name: Maktar
+        name: Maktar
+        names_en: ~
+        names_es: ~
+        population: 14500
+      - 
+        alternate_names: 
+          - Kasra
+          - Kesra
+          - Kessera
+        ascii_name: Kesra
+        name: Kesra
+        names_en: ~
+        names_es: ~
+        population: 2598
+    name: Silyānah
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Sidi Bou Zid"
+    cities: 
+      - 
+        alternate_names: 
+          - Gammouda
+          - Qamudah
+          - Qamūdah
+        ascii_name: "Sidi Bouzid"
+        name: "Sidi Bouzid"
+        names_en: ~
+        names_es: ~
+        population: 42098
+      - 
+        alternate_names: 
+          - Djilma
+          - Jilma
+          - Jilmah
+        ascii_name: Jilma
+        name: Jilma
+        names_en: ~
+        names_es: ~
+        population: 5647
+      - 
+        alternate_names: 
+          - "Bi'r al Hufayy"
+          - "Bir el Afey"
+          - "Bir el Hafey"
+        ascii_name: "Bi'r al Hufayy"
+        name: "Bi’r al Ḩufayy"
+        names_en: ~
+        names_es: ~
+        population: 5016
+      - 
+        alternate_names: 
+          - "Ar Riqab"
+          - "Ar Riqāb"
+          - "El Regueb"
+        ascii_name: "Ar Riqab"
+        name: "Ar Riqāb"
+        names_en: ~
+        names_es: ~
+        population: 6702
+      - 
+        alternate_names: 
+          - "Al Mazzunah"
+          - "Al Mazzūnah"
+          - Merzouna
+        ascii_name: "Al Mazzunah"
+        name: "Al Mazzūnah"
+        names_en: ~
+        names_es: ~
+        population: 5564
+    name: "Sīdī Bū Zayd"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Sfax"
+    cities: 
+      - 
+        alternate_names: 
+          - Safakis
+          - Safaqis
+          - Sfax
+        ascii_name: Sfax
+        name: Sfax
+        names_en: 
+          - Sfax
+        names_es: ~
+        population: 277278
+      - 
+        alternate_names: 
+          - Djebaniana
+          - Djebeliana
+          - Djebeniana
+        ascii_name: Jabinyanah
+        name: Jabinyānah
+        names_en: ~
+        names_es: ~
+        population: 7349
+      - 
+        alternate_names: 
+          - "Bi'r `Ali Bin Khalifah"
+          - "Bir Ali Ben Khalifa"
+          - "Bir Ali Ben Khalifat"
+        ascii_name: "Bi'r `Ali Bin Khalifah"
+        name: "Bi’r ‘Alī Bin Khalīfah"
+        names_en: ~
+        names_es: ~
+        population: 4864
+      - 
+        alternate_names: 
+          - "As Sukhayrah"
+          - "Aş Şukhayrah"
+          - Cekhira
+        ascii_name: Skhira
+        name: Skhira
+        names_en: ~
+        names_es: ~
+        population: 9211
+      - 
+        alternate_names: 
+          - "Al Qarmadah"
+          - Gremda
+        ascii_name: "Al Qarmadah"
+        name: "Al Qarmadah"
+        names_en: ~
+        names_es: ~
+        population: 33744
+    name: Şafāqis
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Kebili"
+    cities: 
+      - 
+        alternate_names: 
+          - Kebili
+          - Qibili
+          - Qibilī
+        ascii_name: Kebili
+        name: Kebili
+        names_en: ~
+        names_es: ~
+        population: 19875
+      - 
+        alternate_names: 
+          - Djemma
+          - Djemna
+          - Jamnah
+        ascii_name: Jemna
+        name: Jemna
+        names_en: ~
+        names_es: ~
+        population: 6254
+      - 
+        alternate_names: 
+          - Douz
+          - Duz
+          - Dūz
+        ascii_name: Douz
+        name: Douz
+        names_en: ~
+        names_es: ~
+        population: 28127
+      - 
+        alternate_names: 
+          - "Al Qal`ah"
+          - "Al Qal‘ah"
+          - "El Golaa"
+        ascii_name: "El Golaa"
+        name: "El Golaa"
+        names_en: ~
+        names_es: ~
+        population: 7189
+    name: Qibilī
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Gafsa"
+    cities: 
+      - 
+        alternate_names: 
+          - Capsa
+          - Gafsa
+          - Gafso
+        ascii_name: Gafsa
+        name: Gafsa
+        names_en: 
+          - Gafsa
+        names_es: ~
+        population: 81232
+      - 
+        alternate_names: 
+          - "As Sanad"
+          - "Es Send"
+          - "Es Sened"
+        ascii_name: "As Sanad"
+        name: "As Sanad"
+        names_en: ~
+        names_es: ~
+        population: 7859
+      - 
+        alternate_names: 
+          - "Ar Rudayyif"
+          - Redevef
+          - Redevel
+        ascii_name: "Ar Rudayyif"
+        name: "Ar Rudayyif"
+        names_en: ~
+        names_es: ~
+        population: 30048
+      - 
+        alternate_names: 
+          - "Al Metlaoui"
+          - Matlaoui
+          - Metlaoni
+        ascii_name: "Al Metlaoui"
+        name: "Al Metlaoui"
+        names_en: ~
+        names_es: ~
+        population: 41899
+    name: Qafşah
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Gabes"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kalaa Matmata"
+          - Matmata
+          - Matmatah
+        ascii_name: Matmata
+        name: Matmata
+        names_en: ~
+        names_es: ~
+        population: 2406
+      - 
+        alternate_names: 
+          - Abes
+          - Gabes
+          - Gabès
+        ascii_name: Gabes
+        name: Gabès
+        names_en: 
+          - Gabès
+        names_es: 
+          - Gabes
+        population: 110075
+      - 
+        alternate_names: 
+          - "Al Hammah"
+          - "Al Ḩāmmah"
+          - Ehl'-Khamma
+        ascii_name: "El Hamma"
+        name: "El Hamma"
+        names_en: ~
+        names_es: ~
+        population: 36458
+    name: Qābis
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Nabeul"
+    cities: 
+      - 
+        alternate_names: 
+          - Nabeul
+          - Naboel
+          - Nabul
+        ascii_name: Nabeul
+        name: Nabeul
+        names_en: ~
+        names_es: ~
+        population: 56387
+      - 
+        alternate_names: 
+          - "Al Hammamat"
+          - "Al Ḩammāmāt"
+          - Hammamet
+        ascii_name: "Al Hammamat"
+        name: "Al Ḩammāmāt"
+        names_en: 
+          - Hammamet
+        names_es: 
+          - Hammamet
+        population: 53733
+      - 
+        alternate_names: ~
+        ascii_name: Douane
+        name: Douane
+        names_en: ~
+        names_es: ~
+        population: 60192
+    name: Nābul
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Medenine"
+    cities: 
+      - 
+        alternate_names: 
+          - Midoun
+          - Midun
+          - Mīdūn
+        ascii_name: Midoun
+        name: Midoun
+        names_en: 
+          - Midoun
+        names_es: ~
+        population: 120000
+      - 
+        alternate_names: 
+          - Madanin
+          - Madanīn
+          - Medenine
+        ascii_name: Medenine
+        name: Medenine
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Jarjis
+          - Jarjīs
+          - Zarzia
+        ascii_name: Zarzis
+        name: Zarzis
+        names_en: 
+          - Zarzis
+        names_es: ~
+        population: 79316
+      - 
+        alternate_names: 
+          - Djerba
+          - "Hawmat as Suq"
+          - "Houmet Es Souk"
+        ascii_name: "Houmt Souk"
+        name: "Houmt Souk"
+        names_en: ~
+        names_es: ~
+        population: 62583
+      - 
+        alternate_names: 
+          - "Ben Gardan"
+          - "Ben Gardane"
+          - Ben-Gardan
+        ascii_name: "Bin Qirdan"
+        name: "Bin Qirdān"
+        names_en: ~
+        names_es: ~
+        population: 13364
+      - 
+        alternate_names: 
+          - "Bani Khaddash"
+          - "Banī Khaddāsh"
+          - "Beni Kheddache"
+        ascii_name: "Bani Khaddash"
+        name: "Banī Khaddāsh"
+        names_en: ~
+        names_es: ~
+        population: 3588
+    name: Madanīn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Jendouba"
+    cities: 
+      - 
+        alternate_names: 
+          - "Oued Meliz"
+          - "Wadi Maliz"
+          - "Wādī Malīz"
+        ascii_name: "Wadi Maliz"
+        name: "Wādī Malīz"
+        names_en: ~
+        names_es: ~
+        population: 2148
+      - 
+        alternate_names: 
+          - Tabarca
+          - Tabarka
+          - Tabarqa
+        ascii_name: Tabarka
+        name: Tabarka
+        names_en: ~
+        names_es: ~
+        population: 13712
+      - 
+        alternate_names: 
+          - Dzhenduba
+          - Jendouba
+          - Jundubah
+        ascii_name: Jendouba
+        name: Jendouba
+        names_en: ~
+        names_es: ~
+        population: 51408
+      - 
+        alternate_names: 
+          - "Al Firnanah"
+          - "Al Firnānah"
+          - Fernana
+        ascii_name: "Al Firnanah"
+        name: "Al Firnānah"
+        names_en: ~
+        names_es: ~
+        population: 1962
+    name: Jundūbah
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Ben Arous"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ben Arous"
+          - "Bin `Arus"
+          - "Bin ‘Arūs"
+        ascii_name: "Ben Arous"
+        name: "Ben Arous"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Bin ‘Arūs"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Bizerte"
+    cities: 
+      - 
+        alternate_names: 
+          - Matem
+          - Mateur
+          - Matir
+        ascii_name: Mateur
+        name: Mateur
+        names_en: ~
+        names_es: ~
+        population: 31005
+      - 
+        alternate_names: 
+          - Djemil
+          - "Manzil Jamil"
+          - "Manzil Jamīl"
+        ascii_name: "Menzel Jemil"
+        name: "Menzel Jemil"
+        names_en: ~
+        names_es: ~
+        population: 21542
+      - 
+        alternate_names: 
+          - Bourguiba
+          - Ferryville
+          - "Manzil Bu Ruqaybah"
+        ascii_name: "Menzel Bourguiba"
+        name: "Menzel Bourguiba"
+        names_en: ~
+        names_es: ~
+        population: 46245
+      - 
+        alternate_names: 
+          - "Manzil `Abd ar Rahman"
+          - "Manzil ‘Abd ar Raḩmān"
+          - "Mennzel Abd er Rahmane"
+        ascii_name: "Menzel Abderhaman"
+        name: "Menzel Abderhaman"
+        names_en: ~
+        names_es: ~
+        population: 15769
+      - 
+        alternate_names: 
+          - Gar-ehl'-Mela
+          - "Ghar al Milh"
+          - "Ghar el Melah"
+        ascii_name: "Ghar al Milh"
+        name: "Ghār al Milḩ"
+        names_en: ~
+        names_es: ~
+        population: 5018
+      - 
+        alternate_names: 
+          - Banzart
+          - Biserta
+          - Bizerta
+        ascii_name: Bizerte
+        name: Bizerte
+        names_en: 
+          - Bizerte
+        names_es: 
+          - Bizerta
+        population: 115268
+    name: Banzart
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Beja"
+    cities: 
+      - 
+        alternate_names: 
+          - Goubellat
+          - Quballat
+          - Quballāţ
+        ascii_name: Quballat
+        name: Quballāţ
+        names_en: ~
+        names_es: ~
+        population: 3353
+      - 
+        alternate_names: 
+          - Bajah
+          - Bedja
+          - Bedzha
+        ascii_name: Beja
+        name: Béja
+        names_en: ~
+        names_es: ~
+        population: 57233
+    name: Bājah
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Ariana"
+    cities: 
+      - 
+        alternate_names: 
+          - "El Gelaah"
+          - "Galaat el Andeless"
+          - "Galaat el Andless"
+        ascii_name: "Qal'at al Andalus"
+        name: "Qal‘at al Andalus"
+        names_en: ~
+        names_es: ~
+        population: 15313
+      - 
+        alternate_names: 
+          - Ariana
+          - Aryanah
+          - Aryānah
+        ascii_name: Ariana
+        name: Ariana
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Ariana
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Kairouan"
+    cities: 
+      - 
+        alternate_names: 
+          - Haffouz
+          - Haffuz
+          - Pichon
+        ascii_name: Haffouz
+        name: Haffouz
+        names_en: ~
+        names_es: ~
+        population: 7765
+      - 
+        alternate_names: 
+          - "As Subaykhah"
+          - Sbikha
+          - Sbikra
+        ascii_name: Sbikha
+        name: Sbikha
+        names_en: ~
+        names_es: ~
+        population: 7062
+      - 
+        alternate_names: 
+          - "Al Qayrawan"
+          - "Al Qayrawān"
+          - Al-Kayrawan
+        ascii_name: Kairouan
+        name: Kairouan
+        names_en: 
+          - Kairouan
+        names_es: ~
+        population: 119794
+    name: "Al Qayrawān"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Kasserine"
+    cities: 
+      - 
+        alternate_names: 
+          - Tala
+          - Talah
+          - Thala
+        ascii_name: Thala
+        name: Thala
+        names_en: ~
+        names_es: ~
+        population: 16068
+      - 
+        alternate_names: 
+          - Sabibah
+          - Sabībah
+          - Sbiba
+        ascii_name: Sbiba
+        name: Sbiba
+        names_en: ~
+        names_es: ~
+        population: 6291
+      - 
+        alternate_names: 
+          - "Ar Rawhiyah"
+          - "Ar Rawḩīyah"
+          - Rohia
+        ascii_name: Rohia
+        name: Rohia
+        names_en: ~
+        names_es: ~
+        population: 4231
+      - 
+        alternate_names: 
+          - "Al Qasrayn"
+          - "Al Qaşrayn"
+          - Kasserin
+        ascii_name: Kasserine
+        name: Kasserine
+        names_en: 
+          - Kasserine
+        names_es: ~
+        population: 81987
+    name: "Al Qaşrayn"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Monastir"
+    cities: 
+      - 
+        alternate_names: 
+          - Touza
+          - Tuza
+          - Tuzah
+        ascii_name: Tuzah
+        name: Ţūzah
+        names_en: ~
+        names_es: ~
+        population: 6085
+      - 
+        alternate_names: 
+          - "Sidi Ben Nour"
+          - "Sidi Ben Nur"
+          - "Sidi Bin Nur"
+        ascii_name: "Sidi Bin Nur"
+        name: "Sīdī Bin Nūr"
+        names_en: ~
+        names_es: ~
+        population: 4042
+      - 
+        alternate_names: 
+          - Chekanes
+          - Saqanis
+          - Skanes
+        ascii_name: Saqanis
+        name: Şaqānis
+        names_en: ~
+        names_es: ~
+        population: 64222
+      - 
+        alternate_names: 
+          - Ksib-el-Mediouni
+          - Ksiba-el-Mediouni
+          - "Ksibet el Mediouni"
+        ascii_name: "Qusaybat al Madyuni"
+        name: "Quşaybat al Madyūnī"
+        names_en: ~
+        names_es: ~
+        population: 11313
+      - 
+        alternate_names: 
+          - "Kassar el Hal"
+          - "Kesser el Hal"
+          - "Ksar Hellal"
+        ascii_name: "Qasr Hallal"
+        name: "Qaşr Hallāl"
+        names_en: ~
+        names_es: ~
+        population: 39792
+      - 
+        alternate_names: 
+          - "Manzil Kamil"
+          - "Manzil Kāmil"
+          - "Menzel Kamel"
+        ascii_name: "Manzil Kamil"
+        name: "Manzil Kāmil"
+        names_en: ~
+        names_es: ~
+        population: 8314
+      - 
+        alternate_names: 
+          - Lampta
+          - Lamta
+          - Lamtah
+        ascii_name: Lamtah
+        name: Lamţah
+        names_en: ~
+        names_es: ~
+        population: 5382
+      - 
+        alternate_names: 
+          - Djemal
+          - Djemmal
+          - Djemmel
+        ascii_name: Jammal
+        name: Jammāl
+        names_en: ~
+        names_es: ~
+        population: 39990
+      - 
+        alternate_names: 
+          - "Bani Hassan"
+          - "Banī Ḩassān"
+          - "Beni Hassan"
+        ascii_name: "Bani Hassan"
+        name: "Banī Ḩassān"
+        names_en: ~
+        names_es: ~
+        population: 8139
+      - 
+        alternate_names: 
+          - Banbalah
+          - Bembla
+        ascii_name: Banbalah
+        name: Banbalah
+        names_en: ~
+        names_es: ~
+        population: 12367
+      - 
+        alternate_names: 
+          - "As Sayyadah"
+          - "Aş Şayyādah"
+          - Saiada
+        ascii_name: "As Sayyadah"
+        name: "Aş Şayyādah"
+        names_en: ~
+        names_es: ~
+        population: 13718
+      - 
+        alternate_names: 
+          - "Ain Sahalin"
+          - "As Sahilin"
+          - "As Sāḩilīn"
+        ascii_name: Sahline
+        name: Sahline
+        names_en: ~
+        names_es: ~
+        population: 13806
+      - 
+        alternate_names: 
+          - "Al Wardanin"
+          - "Al Wardānīn"
+          - Ouadenine
+        ascii_name: "Al Wardanin"
+        name: "Al Wardānīn"
+        names_en: ~
+        names_es: ~
+        population: 18287
+      - 
+        alternate_names: 
+          - "Al Munastir"
+          - "Al Munastīr"
+          - "El Menstir"
+        ascii_name: Monastir
+        name: Monastir
+        names_en: 
+          - Monastir
+        names_es: 
+          - Monastir
+        population: 71546
+      - 
+        alternate_names: 
+          - "Al Masdur"
+          - "Al Maşdūr"
+          - Mesdour
+        ascii_name: "Al Masdur"
+        name: "Al Maşdūr"
+        names_en: ~
+        names_es: ~
+        population: 3372
+      - 
+        alternate_names: 
+          - "Al Baqalitah"
+          - "Al Baqāliţah"
+          - Bekalta
+        ascii_name: "Al Baqalitah"
+        name: "Al Baqāliţah"
+        names_en: ~
+        names_es: ~
+        population: 15937
+    name: "Al Munastīr"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Mahdia"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sidi Allouane"
+          - "Sidi Alluan"
+          - "Sidi Alouane"
+        ascii_name: "Sidi `Ulwan"
+        name: "Sīdī ‘Ulwān"
+        names_en: 
+          - "Sidi Alouane"
+        names_es: ~
+        population: 7051
+      - 
+        alternate_names: 
+          - Chorbane
+          - Chourbane
+          - Shurban
+        ascii_name: Shurban
+        name: Shurbān
+        names_en: ~
+        names_es: ~
+        population: 6430
+      - 
+        alternate_names: 
+          - "Ksour Essaf"
+          - Ksursef
+          - "Qsour Essaf"
+        ascii_name: "Ksour Essaf"
+        name: "Ksour Essaf"
+        names_en: ~
+        names_es: ~
+        population: 27936
+      - 
+        alternate_names: 
+          - Mallulash
+          - Mallūlash
+          - Meliouneche
+        ascii_name: Mellouleche
+        name: Melloulèche
+        names_en: ~
+        names_es: ~
+        population: 6441
+      - 
+        alternate_names: 
+          - "Ash Shabbah"
+          - "Ash Shābbah"
+          - Chebba
+        ascii_name: Chebba
+        name: Chebba
+        names_en: ~
+        names_es: ~
+        population: 21559
+      - 
+        alternate_names: 
+          - Africa
+          - "Al Mahdiyah"
+          - "Al Mahdīyah"
+        ascii_name: Mahdia
+        name: Mahdia
+        names_en: 
+          - Mahdia
+        names_es: ~
+        population: 45977
+      - 
+        alternate_names: 
+          - "Al Jamm"
+          - "Ehl' Dzhem"
+          - "El Djem"
+        ascii_name: "El Jem"
+        name: "El Jem"
+        names_en: 
+          - "El Jem"
+        names_es: ~
+        population: 20029
+    name: "Al Mahdīyah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de Kef"
+    cities: 
+      - 
+        alternate_names: 
+          - Tadjerouine
+          - Tadjrouine
+          - Tadjrouïne
+        ascii_name: Tajerouine
+        name: Tajerouine
+        names_en: ~
+        names_es: ~
+        population: 18909
+      - 
+        alternate_names: 
+          - "Sakiet Sidi Youssef"
+          - "Sakiet Sidi Youssof"
+          - "Saqiyat Sidi Yusuf"
+        ascii_name: "Sakiet Sidi Youssef"
+        name: "Sakiet Sidi Youssef"
+        names_en: ~
+        names_es: ~
+        population: 6442
+      - 
+        alternate_names: 
+          - Nebeur
+          - Nibbar
+        ascii_name: Nibbar
+        name: Nibbar
+        names_en: ~
+        names_es: ~
+        population: 3393
+      - 
+        alternate_names: 
+          - "Manzil Salim"
+          - "Manzil Sālim"
+          - "Menzel Salem"
+        ascii_name: "Manzil Salim"
+        name: "Manzil Sālim"
+        names_en: ~
+        names_es: ~
+        population: 2856
+      - 
+        alternate_names: 
+          - "Al Qusur"
+          - "Al Quşūr"
+          - Ebba-Ksour
+        ascii_name: "El Ksour"
+        name: "El Ksour"
+        names_en: ~
+        names_es: ~
+        population: 5034
+      - 
+        alternate_names: 
+          - "Al Kaf"
+          - "Al Kāf"
+          - Chakbanaria
+        ascii_name: "El Kef"
+        name: "El Kef"
+        names_en: ~
+        names_es: ~
+        population: 47979
+    name: Kef
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gouvernorat de la Manouba"
+    cities: 
+      - 
+        alternate_names: 
+          - "La Manouba"
+          - Manouba
+          - Manubah
+        ascii_name: Manouba
+        name: Manouba
+        names_en: ~
+        names_es: ~
+        population: 24948
+      - 
+        alternate_names: 
+          - "Al Batan"
+          - "Al Baţān"
+          - "El Batane"
+        ascii_name: "El Battan"
+        name: "El Battan"
+        names_en: ~
+        names_es: ~
+        population: 6047
+    name: Manouba
+    names_en: ~
+    names_es: ~

@@ -1,78 +1,192 @@
 --- 
-code: LS
-continent: AF
 name: Lesotho
-population: 1919552
+names_en: 
+  - Lesotho
+names_es: 
+  - Lesotho
+  - Lesoto
 regions: 
   - 
+    ascii_name: Thaba-Tseka
     cities: 
       - 
-        districts: []
-        location: "POINT (-29.1499999999999986 27.7333299999999987)"
-        name: Teyateyaneng
-        population: 5115
-        slug: teyateyaneng
-      - 
-        districts: []
-        location: "POINT (-29.8166699999999985 27.2500000000000000)"
-        name: Mafeteng
-        population: 57059
-        slug: mafeteng
-      - 
-        districts: []
-        location: "POINT (-30.4000100000000018 27.7002699999999997)"
-        name: Quthing
-        population: 24130
-        slug: quthing
-      - 
-        districts: []
-        location: "POINT (-29.2893900000000009 29.0675099999999986)"
-        name: Mokhotlong
-        population: 8809
-        slug: mokhotlong
-      - 
-        districts: []
-        location: "POINT (-29.3166699999999985 27.4833299999999987)"
-        name: Maseru
-        population: 118355
-        slug: maseru
-      - 
-        districts: []
-        location: "POINT (-30.1166699999999992 28.6833300000000015)"
-        name: "Qacha’s Nek"
-        population: 25573
-        slug: qachas-nek
-      - 
-        districts: []
-        location: "POINT (-30.1499999999999986 27.4666700000000006)"
-        name: "Mohale’s Hoek"
-        population: 28310
-        slug: mohales-hoek
-      - 
-        districts: []
-        location: "POINT (-28.8833300000000008 27.8999999999999986)"
-        name: Maputsoe
-        population: 32117
-        slug: maputsoe
-      - 
-        districts: []
-        location: "POINT (-28.8833300000000008 28.0500000000000007)"
-        name: Leribe
-        population: 47675
-        slug: leribe
-      - 
-        districts: []
-        location: "POINT (-29.5333299999999994 28.6000000000000014)"
+        alternate_names: 
+          - Taba-Ceka
+          - Thaba-Tseka
+          - Таба-Цека
+        ascii_name: Thaba-Tseka
         name: Thaba-Tseka
+        names_en: ~
+        names_es: ~
         population: 5423
-        slug: thaba-tseka
+    name: Thaba-Tseka
+    names_en: 
+      - "Thaba-Tseka District"
+      - Thaba-Tseka
+    names_es: 
+      - "Distrito de Thaba-Tseka"
+  - 
+    ascii_name: Quthing
+    cities: 
       - 
-        districts: []
-        location: "POINT (-28.7833299999999994 28.2333299999999987)"
-        name: Butha-Buthe
-        population: 16330
-        slug: butha-buthe
-    code: LS.12
+        alternate_names: 
+          - Cguting
+          - Moyeni
+          - Quthing
+        ascii_name: Quthing
+        name: Quthing
+        names_en: 
+          - Quthing
+        names_es: ~
+        population: 24130
+    name: Quthing
+    names_en: 
+      - "Quthing District"
+      - Quthing
+    names_es: 
+      - "Distrito de Quthing"
+  - 
+    ascii_name: "Qacha's Nek District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Qacha's Neck"
+          - "Qacha's Nek"
+          - "Qacha's Nek Residency"
+        ascii_name: "Qacha's Nek"
+        name: "Qacha’s Nek"
+        names_en: 
+          - "Qacha's Nek"
+        names_es: ~
+        population: 25573
+    name: "Qachaʼs Nek"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mokhotlong District"
+    cities: 
+      - 
+        alternate_names: 
+          - Mokhotlong
+          - Мохотлонг
+        ascii_name: Mokhotlong
+        name: Mokhotlong
+        names_en: ~
+        names_es: ~
+        population: 8809
+    name: Mokhotlong
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mohale's Hoek District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Mohale's Hoek"
+          - "Mohale’s Hoek"
+        ascii_name: "Mohale's Hoek"
+        name: "Mohale’s Hoek"
+        names_en: 
+          - "Mohale's Hoek"
+        names_es: ~
+        population: 28310
+    name: "Mohaleʼs Hoek"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Maseru District"
+    cities: 
+      - 
+        alternate_names: 
+          - Maserou
+          - Maseru
+          - "ma sai lu"
+        ascii_name: Maseru
+        name: Maseru
+        names_en: 
+          - Maseru
+        names_es: 
+          - Maseru
+        population: 118355
+    name: Maseru
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mafeteng District"
+    cities: 
+      - 
+        alternate_names: 
+          - Mafeteng
+        ascii_name: Mafeteng
+        name: Mafeteng
+        names_en: 
+          - Mafeteng
+        names_es: ~
+        population: 57059
+    name: Mafeteng
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Leribe
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Maputsoe
+        name: Maputsoe
+        names_en: ~
+        names_es: ~
+        population: 32117
+      - 
+        alternate_names: 
+          - Hlotse
+          - Leribe
+          - Лерибе
+        ascii_name: Leribe
+        name: Leribe
+        names_en: 
+          - Hlotse
+        names_es: ~
+        population: 47675
     name: Leribe
-    slug: leribe
-tld: ls
+    names_en: 
+      - "Leribe District"
+      - Leribe
+    names_es: 
+      - "Distrito de Leribe"
+  - 
+    ascii_name: Butha-Buthe
+    cities: 
+      - 
+        alternate_names: 
+          - Buta-Buteh
+          - Butha-Buthe
+          - Бута-Бутэ
+        ascii_name: Butha-Buthe
+        name: Butha-Buthe
+        names_en: 
+          - Butha-Buthe
+        names_es: ~
+        population: 16330
+    name: Butha-Buthe
+    names_en: 
+      - "Butha-Buthe District"
+      - Butha-Buthe
+    names_es: 
+      - "Distrito de Butha-Buthe"
+  - 
+    ascii_name: Berea
+    cities: 
+      - 
+        alternate_names: 
+          - Teyateyaneng
+        ascii_name: Teyateyaneng
+        name: Teyateyaneng
+        names_en: ~
+        names_es: ~
+        population: 5115
+    name: Berea
+    names_en: 
+      - "Berea District"
+      - Berea
+    names_es: 
+      - "Distrito de Berea"

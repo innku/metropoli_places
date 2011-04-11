@@ -1,18 +1,35 @@
 --- 
-code: MS
-continent: NA
 name: Montserrat
-population: 9341
+names_en: 
+  - Montserrat
+names_es: 
+  - Montserrat
 regions: 
   - 
+    ascii_name: "Parish of Saint Peter"
+    cities: []
+    name: "Saint Peter"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Parish of Saint Georges"
+    cities: []
+    name: "Saint Georges"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Parish of Saint Anthony"
     cities: 
       - 
-        districts: []
-        location: "POINT (16.7055499999999988 -62.2129199999999969)"
+        alternate_names: 
+          - Plymouth
+        ascii_name: Plymouth
         name: Plymouth
+        names_en: 
+          - Plymouth
+        names_es: 
+          - Plymouth
         population: 0
-        slug: plymouth
-    code: MS.01
     name: "Saint Anthony"
-    slug: saint-anthony
-tld: ms
+    names_en: ~
+    names_es: ~

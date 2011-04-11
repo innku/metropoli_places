@@ -1,557 +1,1202 @@
 --- 
-code: VN
-continent: AS
 name: Vietnam
-population: 89571130
+names_en: 
+  - Vietnam
+  - "Socialist Republic of Vietnam"
+names_es: 
+  - Vietnam
 regions: 
   - 
+    ascii_name: "Tinh Nghe An"
     cities: 
       - 
-        districts: []
-        location: "POINT (10.3833300000000008 105.4166699999999963)"
-        name: "Long Xuyên"
-        population: 158153
-        slug: long-xuyen
-      - 
-        districts: []
-        location: "POINT (9.1769400000000001 105.1500000000000057)"
-        name: "Cà Mau"
-        population: 111894
-        slug: ca-mau
-      - 
-        districts: []
-        location: "POINT (10.6999999999999993 105.1166699999999992)"
-        name: "Châu Ðốc"
-        population: 70239
-        slug: chau-oc
-    code: VN.01
-    name: "An Giang"
-    slug: an-giang
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.2500000000000000 105.9666699999999935)"
-        name: "Vĩnh Long"
-        population: 103314
-        slug: vinh-long
-      - 
-        districts: []
-        location: "POINT (10.3000000000000007 105.7666700000000048)"
-        name: "Sa Ðéc"
-        population: 60073
-        slug: sa-ec
-      - 
-        districts: []
-        location: "POINT (10.4499999999999993 105.6333300000000008)"
-        name: "Cao Lãnh"
-        population: 63770
-        slug: cao-lanh
-      - 
-        districts: []
-        location: "POINT (9.2850000000000001 105.7244400000000013)"
-        name: "Bạc Liêu"
-        population: 107911
-        slug: bac-lieu
-      - 
-        districts: []
-        location: "POINT (10.0333299999999994 105.7833300000000065)"
-        name: "Cần Thơ"
-        population: 259598
-        slug: can-tho
-    code: VN.09
-    name: "Ðồng Tháp"
-    slug: ong-thap
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.7500000000000000 106.6666699999999963)"
-        name: "Thành phố Hồ Chí Minh"
-        population: 3467331
-        slug: thanh-pho-ho-chi-minh
-      - 
-        districts: []
-        location: "POINT (10.3499999999999996 106.3499999999999943)"
-        name: "Mỹ Tho"
-        population: 122310
-        slug: my-tho
-      - 
-        districts: []
-        location: "POINT (10.3499999999999996 107.0666700000000020)"
-        name: "Vũng Tàu"
-        population: 209683
-        slug: vung-tau
-      - 
-        districts: []
-        location: "POINT (10.9499999999999993 106.8166700000000020)"
-        name: "Biên Hòa"
-        population: 407208
-        slug: bien-hoa
-      - 
-        districts: []
-        location: "POINT (10.9666700000000006 106.4666699999999935)"
-        name: "Củ Chi"
-        population: 75000
-        slug: cu-chi
-      - 
-        districts: []
-        location: "POINT (10.4166699999999999 106.9666699999999935)"
-        name: "Cần Giờ"
-        population: 55137
-        slug: can-gio
-      - 
-        districts: []
-        location: "POINT (11.5333299999999994 106.9166699999999963)"
-        name: "Dồng Xoài"
-        population: 23978
-        slug: dong-xoai
-      - 
-        districts: []
-        location: "POINT (10.9666700000000006 106.6500000000000057)"
-        name: "Thủ Dầu Một"
-        population: 91009
-        slug: thu-dau-mot
-    code: VN.20
-    name: "Hồ Chí Minh"
-    slug: ho-chi-minh
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.0166699999999995 105.0833300000000037)"
-        name: "Rạch Giá"
-        population: 228356
-        slug: rach-gia
-      - 
-        districts: []
-        location: "POINT (10.2166700000000006 103.9666699999999935)"
-        name: "Dương Đông"
-        population: 15000
-        slug: duong-ong
-      - 
-        districts: []
-        location: "POINT (10.3833300000000008 104.4833299999999952)"
-        name: "Hà Tiên"
-        population: 40000
-        slug: ha-tien
-    code: VN.21
-    name: "Kiến Giang"
-    slug: kien-giang
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.9347200000000004 106.3452800000000025)"
-        name: "Trà Vinh"
-        population: 57408
-        slug: tra-vinh
-      - 
-        districts: []
-        location: "POINT (10.5333299999999994 106.4166699999999963)"
-        name: "Tân An"
-        population: 64801
-        slug: tan-an
-      - 
-        districts: []
-        location: "POINT (10.6166699999999992 106.6666699999999963)"
-        name: "Cần Duộc"
-        population: 152200
-        slug: can-duoc
-      - 
-        districts: []
-        location: "POINT (10.2333300000000005 106.3833300000000008)"
-        name: "Bến Tre"
-        population: 59442
-        slug: ben-tre
-    code: VN.24
-    name: "Long An"
-    slug: long-an
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (21.0333299999999994 106.7833300000000065)"
-        name: "Uông Bí"
-        population: 63829
-        slug: uong-bi
-      - 
-        districts: []
-        location: "POINT (20.9511099999999999 107.0799999999999983)"
-        name: "Hạ Long"
-        population: 148066
-        slug: ha-long
-      - 
-        districts: []
-        location: "POINT (21.0166700000000013 107.2999999999999972)"
-        name: "Cẩm Phả Mines"
-        population: 135477
-        slug: cam-pha-mines
-    code: VN.30
-    name: "Quảng Ninh"
-    slug: quang-ninh
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (11.3000000000000007 106.0999999999999943)"
-        name: "Tây Ninh"
-        population: 36456
-        slug: tay-ninh
-      - 
-        districts: []
-        location: "POINT (11.2833299999999994 106.1333300000000008)"
-        name: "Phú Khương"
-        population: 47966
-        slug: phu-khuong
-    code: VN.33
-    name: "Tây Ninh"
-    slug: tay-ninh
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (18.6666699999999999 105.6666699999999963)"
+        alternate_names: 
+          - Vin
+          - Vinh
+        ascii_name: Vinh
         name: Vinh
+        names_en: ~
+        names_es: ~
         population: 163759
-        slug: vinh
-      - 
-        districts: []
-        location: "POINT (19.8000000000000007 105.7666700000000048)"
-        name: "Thanh Hóa"
-        population: 112473
-        slug: thanh-hoa
-      - 
-        districts: []
-        location: "POINT (18.6666699999999999 105.6666699999999963)"
-        name: "Yên Vinh"
-        population: 107082
-        slug: yen-vinh
-      - 
-        districts: []
-        location: "POINT (20.0780600000000007 105.8602800000000030)"
-        name: "Bỉm Sơn"
-        population: 53754
-        slug: bim-son
-    code: VN.34
-    name: "Thanh Hóa"
-    slug: thanh-hoa
+    name: "Nghệ An"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Tinh Ninh Binh"
     cities: 
       - 
-        districts: []
-        location: "POINT (21.3166699999999985 103.9000000000000057)"
-        name: "Sơn La"
-        population: 19054
-        slug: son-la
-      - 
-        districts: []
-        location: "POINT (20.2538899999999984 105.9749999999999943)"
+        alternate_names: 
+          - "Nin Bin\""
+          - "Nin Bin”"
+          - Ninbinh
+        ascii_name: "Ninh Binh"
         name: "Ninh Bình"
+        names_en: ~
+        names_es: ~
         population: 36864
-        slug: ninh-binh
-      - 
-        districts: []
-        location: "POINT (20.4499999999999993 106.3333300000000037)"
-        name: "Thái Bình"
-        population: 53071
-        slug: thai-binh
-      - 
-        districts: []
-        location: "POINT (22.5333299999999994 103.3499999999999943)"
-        name: "Phong Thổ"
-        population: 0
-        slug: phong-tho
-      - 
-        districts: []
-        location: "POINT (20.5411099999999998 105.9138899999999950)"
-        name: "Phủ Lý"
-        population: 31801
-        slug: phu-ly
-      - 
-        districts: []
-        location: "POINT (21.8233299999999986 105.2180599999999941)"
-        name: "Tuyên Quang"
-        population: 36430
-        slug: tuyen-quang
-      - 
-        districts: []
-        location: "POINT (21.1377799999999993 105.5049999999999955)"
-        name: "Sơn Tây"
-        population: 40636
-        slug: son-tay
-      - 
-        districts: []
-        location: "POINT (21.6999999999999993 104.8666699999999992)"
-        name: "Yên Bái"
-        population: 96540
-        slug: yen-bai
-      - 
-        districts: []
-        location: "POINT (20.4166699999999999 106.1666699999999963)"
-        name: "Nam Ðịnh"
-        population: 193499
-        slug: nam-inh
-      - 
-        districts: []
-        location: "POINT (21.5927800000000012 105.8441700000000054)"
-        name: "Thái Nguyên"
-        population: 133877
-        slug: thai-nguyen
-      - 
-        districts: []
-        location: "POINT (21.3019399999999983 105.4308300000000003)"
-        name: "Việt Trì"
-        population: 93475
-        slug: viet-tri
-      - 
-        districts: []
-        location: "POINT (21.3099999999999987 105.5966700000000031)"
-        name: "Vĩnh Yên"
-        population: 17876
-        slug: vinh-yen
-      - 
-        districts: []
-        location: "POINT (21.0244999999999997 105.8411700000000053)"
-        name: "Hà Nội"
-        population: 1431270
-        slug: ha-noi
-      - 
-        districts: []
-        location: "POINT (20.9333300000000015 106.3166700000000020)"
-        name: "Hải Dương"
-        population: 58030
-        slug: hai-duong
-      - 
-        districts: []
-        location: "POINT (20.9725000000000001 105.7772199999999998)"
-        name: "Hà Ðông"
-        population: 50877
-        slug: ha-ong
-      - 
-        districts: []
-        location: "POINT (20.8561100000000010 106.6822200000000009)"
-        name: Haiphong
-        population: 602695
-        slug: haiphong
-      - 
-        districts: []
-        location: "POINT (20.8133300000000006 105.3383299999999991)"
-        name: "Hòa Bình"
-        population: 105260
-        slug: hoa-binh
-      - 
-        districts: []
-        location: "POINT (20.6499999999999986 106.0666700000000020)"
-        name: "Hưng Yên"
-        population: 40273
-        slug: hung-yen
-      - 
-        districts: []
-        location: "POINT (18.3333300000000001 105.9000000000000057)"
-        name: "Hà Tĩnh"
-        population: 27728
-        slug: ha-tinh
-      - 
-        districts: []
-        location: "POINT (22.8333300000000001 104.9833299999999952)"
-        name: "Hà Giang"
-        population: 32690
-        slug: ha-giang
-      - 
-        districts: []
-        location: "POINT (22.6666699999999999 106.2500000000000000)"
-        name: "Cao Bằng"
-        population: 41112
-        slug: cao-bang
-      - 
-        districts: []
-        location: "POINT (17.4833299999999987 106.5999999999999943)"
-        name: "Ðồng Hới"
-        population: 31040
-        slug: ong-hoi
-      - 
-        districts: []
-        location: "POINT (21.2666700000000013 106.2000000000000028)"
-        name: "Bắc Giang"
-        population: 53728
-        slug: bac-giang
-      - 
-        districts: []
-        location: "POINT (21.1833300000000015 106.0499999999999972)"
-        name: "Bắc Ninh"
-        population: 43564
-        slug: bac-ninh
-      - 
-        districts: []
-        location: "POINT (21.8333300000000001 106.7333299999999952)"
-        name: "Lạng Sơn"
-        population: 55981
-        slug: lang-son
-      - 
-        districts: []
-        location: "POINT (22.1333300000000008 105.8333300000000037)"
-        name: "Bắc Kạn"
-        population: 17701
-        slug: bac-kan
-      - 
-        districts: []
-        location: "POINT (21.3833300000000008 103.0166700000000048)"
-        name: "Diện Biên Phủ"
-        population: 40282
-        slug: dien-bien-phu
-      - 
-        districts: []
-        location: "POINT (22.4833299999999987 103.9500000000000028)"
-        name: "Lào Cai"
-        population: 36502
-        slug: lao-cai
-    code: VN.51
-    name: "Hà Tây"
-    slug: ha-tay
+    name: "Ninh Bình"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Tinh Ninh Thuan"
     cities: 
       - 
-        districts: []
-        location: "POINT (11.5666700000000002 108.9833299999999952)"
+        alternate_names: 
+          - "Phan Rang"
+          - "Phan Rang- Thap Cham"
+          - "Phan Rang-Thap Cham"
+        ascii_name: "Phan Rang-Thap Cham"
         name: "Phan Rang-Tháp Chàm"
+        names_en: 
+          - "Phan Rang-Tháp Chàm"
+        names_es: ~
         population: 91520
-        slug: phan-rang-thap-cham
-      - 
-        districts: []
-        location: "POINT (12.2500000000000000 109.1833299999999980)"
-        name: "Nha Trang"
-        population: 283441
-        slug: nha-trang
-      - 
-        districts: []
-        location: "POINT (10.9333299999999998 108.0999999999999943)"
-        name: "Phan Thiết"
-        population: 160652
-        slug: phan-thiet
-      - 
-        districts: []
-        location: "POINT (11.9214400000000005 109.1591300000000047)"
-        name: "Cam Ranh"
-        population: 146771
-        slug: cam-ranh
-    code: VN.54
-    name: "Khánh Hòa"
-    slug: khanh-hoa
+    name: "Ninh Thuận"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Tinh Soc Trang"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.0833300000000001 109.2999999999999972)"
-        name: "Tuy Hòa"
-        population: 69596
-        slug: tuy-hoa
-      - 
-        districts: []
-        location: "POINT (13.7666699999999995 109.2333299999999952)"
-        name: "Quy Nhơn"
-        population: 210338
-        slug: quy-nhon
-      - 
-        districts: []
-        location: "POINT (11.9464600000000001 108.4419299999999993)"
-        name: "Ðà Lạt"
-        population: 197000
-        slug: a-lat
-      - 
-        districts: []
-        location: "POINT (13.4499999999999993 109.2166699999999935)"
-        name: "Sông Cầu"
-        population: 94066
-        slug: song-cau
-    code: VN.61
-    name: "Phú Yên"
-    slug: phu-yen
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (22.3402299999999983 103.8441499999999991)"
-        name: "Sa Pá"
-        population: 138622
-        slug: sa-pa
-      - 
-        districts: []
-        location: "POINT (16.8162500000000001 107.1003099999999932)"
-        name: "Ðông Hà"
-        population: 17662
-        slug: ong-ha
-    code: VN.64
-    name: "Quảng Trị"
-    slug: quang-tri
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.6033299999999997 105.9800000000000040)"
+        alternate_names: 
+          - "Khanh Hong"
+          - "Khanh Hung"
+          - "Khánh Hưng"
+        ascii_name: "Soc Trang"
         name: "Sóc Trăng"
+        names_en: ~
+        names_es: ~
         population: 114453
-        slug: soc-trang
       - 
-        districts: []
-        location: "POINT (8.6833299999999998 106.6166699999999992)"
+        alternate_names: 
+          - "Con Son"
+          - "Con Son City"
+          - "Côn Sơn"
+        ascii_name: "Con Son"
         name: "Côn Sơn"
+        names_en: ~
+        names_es: ~
         population: 1500
-        slug: con-son
-    code: VN.65
     name: "Sóc Trăng"
-    slug: soc-trang
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Tinh Tra Vinh"
     cities: 
       - 
-        districts: []
-        location: "POINT (15.1166699999999992 108.7999999999999972)"
-        name: "Quảng Ngãi"
-        population: 32992
-        slug: quang-ngai
+        alternate_names: 
+          - "Phu Vinh"
+          - "Phú Vinh"
+          - "Tra Vin\""
+        ascii_name: "Tra Vinh"
+        name: "Trà Vinh"
+        names_en: ~
+        names_es: ~
+        population: 57408
+    name: "Trà Vinh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Tuyen Quang"
+    cities: 
       - 
-        districts: []
-        location: "POINT (13.9833300000000005 108.0000000000000000)"
-        name: Pleiku
-        population: 114225
-        slug: pleiku
+        alternate_names: 
+          - "Tuyen Kang"
+          - "Tuyen Kwang"
+          - "Tuyen Quang"
+        ascii_name: "Tuyen Quang"
+        name: "Tuyên Quang"
+        names_en: ~
+        names_es: ~
+        population: 36430
+    name: "Tuyên Quang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Vinh Long"
+    cities: 
       - 
-        districts: []
-        location: "POINT (15.5666700000000002 108.4833299999999952)"
-        name: "Tam Kỳ"
-        population: 59000
-        slug: tam-ky
+        alternate_names: 
+          - "Vinh Long"
+          - "Vĩnh Long"
+        ascii_name: "Vinh Long"
+        name: "Vĩnh Long"
+        names_en: ~
+        names_es: ~
+        population: 103314
+    name: "Vĩnh Long"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Yen Bai"
+    cities: 
       - 
-        districts: []
-        location: "POINT (15.8794400000000007 108.3349999999999937)"
-        name: "Hội An"
-        population: 32757
-        slug: hoi-an
+        alternate_names: 
+          - Jenbaj
+          - "Yen Bai"
+          - "Yen Bay"
+        ascii_name: "Yen Bai"
+        name: "Yên Bái"
+        names_en: ~
+        names_es: ~
+        population: 96540
+    name: "Yên Bái"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Lao Cai"
+    cities: 
       - 
-        districts: []
-        location: "POINT (16.0677799999999991 108.2208300000000065)"
-        name: "Ðà Nẵng"
-        population: 752493
-        slug: a-nang
+        alternate_names: 
+          - "Lao Kay"
+          - Laokai
+          - Laokaj
+        ascii_name: "Lao Cai"
+        name: "Lào Cai"
+        names_en: ~
+        names_es: ~
+        population: 36502
+    name: "Lào Cai"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Tien Giang"
+    cities: 
       - 
-        districts: []
-        location: "POINT (12.6666699999999999 108.0499999999999972)"
-        name: "Buôn Ma Thuột"
-        population: 146975
-        slug: buon-ma-thuot
+        alternate_names: 
+          - Mitho
+          - "My Tho"
+          - "Mỹ Tho"
+        ascii_name: "My Tho"
+        name: "Mỹ Tho"
+        names_en: 
+          - "Mỹ Tho"
+        names_es: ~
+        population: 122310
+    name: "Tiền Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Thua Thien-Hue"
+    cities: 
       - 
-        districts: []
-        location: "POINT (14.3499999999999996 108.0000000000000000)"
-        name: "Kon Tum"
-        population: 47409
-        slug: kon-tum
-      - 
-        districts: []
-        location: "POINT (16.4666700000000006 107.5999999999999943)"
+        alternate_names: 
+          - Hue
+          - Hué
+          - Huế
+        ascii_name: Hue
         name: Huế
+        names_en: 
+          - Huế
+        names_es: 
+          - Hué
         population: 287217
-        slug: hue
-    code: VN.84
+    name: "Thừa Thiên-Huế"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Kon Tum"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cong Tum"
+          - "Công Tum"
+          - "Kon Tum"
+        ascii_name: "Kon Tum"
+        name: "Kon Tum"
+        names_en: ~
+        names_es: ~
+        population: 47409
+    name: "Kon Tum"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Thanh Hoa"
+    cities: 
+      - 
+        alternate_names: 
+          - "Than\" Hoa"
+          - "Thanh Hoa"
+          - "Thanh Hóa"
+        ascii_name: "Thanh Hoa"
+        name: "Thanh Hóa"
+        names_en: 
+          - "Thanh Hóa"
+        names_es: ~
+        population: 112473
+      - 
+        alternate_names: 
+          - "Bien Son"
+          - "Bim Son"
+          - "Biên Sơn"
+        ascii_name: "Bim Son"
+        name: "Bỉm Sơn"
+        names_en: ~
+        names_es: ~
+        population: 53754
+    name: "Thanh Hóa"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Thai Binh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kua Loc"
+          - Taibinh
+          - "Thai Bin\""
+        ascii_name: "Thai Binh"
+        name: "Thái Bình"
+        names_en: ~
+        names_es: ~
+        population: 53071
+    name: "Thái Bình"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Tay Ninh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Tai nin"
+          - "Tay Ninh"
+          - "Tei Nin"
+        ascii_name: "Tay Ninh"
+        name: "Tây Ninh"
+        names_en: ~
+        names_es: ~
+        population: 36456
+      - 
+        alternate_names: ~
+        ascii_name: "Phu Khuong"
+        name: "Phú Khương"
+        names_en: ~
+        names_es: ~
+        population: 47966
+    name: "Tây Ninh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Son La"
+    cities: 
+      - 
+        alternate_names: 
+          - "Son La"
+          - "Son La Chau"
+          - "Son Lu"
+        ascii_name: "Son La"
+        name: "Sơn La"
+        names_en: ~
+        names_es: ~
+        population: 19054
+    name: "Sơn La"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Tri"
+    cities: 
+      - 
+        alternate_names: 
+          - Chapa
+          - Shapa
+          - Шапа
+        ascii_name: "Sa Pa"
+        name: "Sa Pá"
+        names_en: ~
+        names_es: ~
+        population: 138622
+      - 
+        alternate_names: 
+          - "Dong Ha"
+          - "Dong Na"
+          - "Thi Xa Dong Ha"
+        ascii_name: "Dong Ha"
+        name: "Ðông Hà"
+        names_en: 
+          - "Dong Ha"
+        names_es: ~
+        population: 17662
+    name: "Quảng Trị"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Ninh"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Uong Bi"
+        name: "Uông Bí"
+        names_en: ~
+        names_es: ~
+        population: 63829
+      - 
+        alternate_names: 
+          - "Ha Long"
+          - "Hon Cay"
+          - "Hon Gai"
+        ascii_name: "Ha Long"
+        name: "Hạ Long"
+        names_en: 
+          - "Ha Long"
+        names_es: ~
+        population: 148066
+      - 
+        alternate_names: ~
+        ascii_name: "Cam Pha Mines"
+        name: "Cẩm Phả Mines"
+        names_en: ~
+        names_es: ~
+        population: 135477
+    name: "Quảng Ninh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Ngai"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kang Ngei"
+          - Kuangngaj
+          - "Kwang Ngai"
+        ascii_name: "Quang Ngai"
+        name: "Quảng Ngãi"
+        names_en: 
+          - "Quảng Ngãi"
+        names_es: ~
+        population: 32992
+    name: "Quảng Ngãi"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Binh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Dong Hoi"
+          - Dongkhoj
+          - "Kwang Binh"
+        ascii_name: "Dong Hoi"
+        name: "Ðồng Hới"
+        names_en: 
+          - "Dong Hoi"
+        names_es: 
+          - "Dong Hoi"
+        population: 31040
+    name: "Quảng Bình"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Phu Yen"
+    cities: 
+      - 
+        alternate_names: 
+          - "Chau Thanh"
+          - "Thuy Hoa"
+          - "Toy Hoa"
+        ascii_name: "Tuy Hoa"
+        name: "Tuy Hòa"
+        names_en: ~
+        names_es: ~
+        population: 69596
+      - 
+        alternate_names: 
+          - "Bong Cau"
+          - "Bông Cầu"
+          - "Song Cau"
+        ascii_name: "Song Cau"
+        name: "Sông Cầu"
+        names_en: 
+          - "Song Cau"
+        names_es: ~
+        population: 94066
+    name: "Phú Yên"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Hoa Binh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hao Binh"
+          - "Hoa Bin"
+          - "Hoa Binh"
+        ascii_name: "Hoa Binh"
+        name: "Hòa Bình"
+        names_en: ~
+        names_es: ~
+        population: 105260
+    name: "Hòa Bình"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Long An"
+    cities: 
+      - 
+        alternate_names: 
+          - Tan
+          - "Tan Am"
+          - "Tan An"
+        ascii_name: "Tan An"
+        name: "Tân An"
+        names_en: ~
+        names_es: ~
+        population: 64801
+      - 
+        alternate_names: 
+          - "Can Duoc"
+          - "Can Gioc"
+          - "Can Giuoc"
+        ascii_name: "Can Duoc"
+        name: "Cần Duộc"
+        names_en: 
+          - "Can Giuoc"
+        names_es: ~
+        population: 152200
+    name: "Long An"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Lang Son"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Lang Son"
+        name: "Lạng Sơn"
+        names_en: ~
+        names_es: ~
+        population: 55981
+    name: "Lạng Sơn"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Lam Dong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Da Lat"
+          - "Da lat"
+          - Dalat
+        ascii_name: "Da Lat"
+        name: "Ðà Lạt"
+        names_en: 
+          - "Da Lat"
+        names_es: ~
+        population: 197000
+    name: "Lâm Ðồng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Lai Chau"
+    cities: 
+      - 
+        alternate_names: 
+          - "Muong So"
+        ascii_name: "Phong Tho"
+        name: "Phong Thổ"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Lai Châu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Kien Giang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Rach Gia"
+          - "Rach Zhia"
+          - "Rạch Giá"
+        ascii_name: "Rach Gia"
+        name: "Rạch Giá"
+        names_en: 
+          - "Rach Gia"
+        names_es: ~
+        population: 228356
+      - 
+        alternate_names: 
+          - "Duong Dong"
+          - Duong-Dong
+          - "Dương Dông"
+        ascii_name: "Duong GJong"
+        name: "Dương Đông"
+        names_en: 
+          - "Duong Dong"
+        names_es: ~
+        population: 15000
+      - 
+        alternate_names: 
+          - "Ha Tien"
+          - "Hà Tiên"
+          - Khat'en
+        ascii_name: "Ha Tien"
+        name: "Hà Tiên"
+        names_en: ~
+        names_es: ~
+        population: 40000
+    name: "Kiến Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Khanh Hoa"
+    cities: 
+      - 
+        alternate_names: 
+          - Kanh-Hoa
+          - "Nha Trang"
+          - Njachang
+        ascii_name: "Nha Trang"
+        name: "Nha Trang"
+        names_en: 
+          - "Nha Trang"
+        names_es: 
+          - "Nha Trang"
+        population: 283441
+      - 
+        alternate_names: 
+          - "Cam Linh"
+          - "Cam Ranh Port"
+          - Kamran'
+        ascii_name: "Cam Ranh"
+        name: "Cam Ranh"
+        names_en: ~
+        names_es: ~
+        population: 146771
+    name: "Khánh Hòa"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Thanh pho Ho Chi Minh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cathair Ho Chi Minh"
+          - "Cidade de Ho Chi Minh"
+          - "Ciudad Ho Chi Minh"
+        ascii_name: "Thanh pho Ho Chi Minh"
+        name: "Thành phố Hồ Chí Minh"
+        names_en: 
+          - HCMC
+          - "Ho Chi Minh City"
+        names_es: 
+          - "Ciudad Ho Chi Minh"
+        population: 3467331
+      - 
+        alternate_names: 
+          - "Cu Chi"
+          - "Củ Chi"
+          - Ku-Chi
+        ascii_name: "Cu Chi"
+        name: "Củ Chi"
+        names_en: ~
+        names_es: ~
+        population: 75000
+      - 
+        alternate_names: 
+          - "Can Gio"
+          - "Cần Giờ"
+        ascii_name: "Can Gio"
+        name: "Cần Giờ"
+        names_en: 
+          - "Can Gio"
+        names_es: ~
+        population: 55137
+    name: "Hồ Chí Minh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ha Tinh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ha Tin'"
+          - "Ha Tinh"
+          - "Ha Tin’"
+        ascii_name: "Ha Tinh"
+        name: "Hà Tĩnh"
+        names_en: ~
+        names_es: ~
+        population: 27728
+    name: "Hà Tĩnh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ha Tay"
+    cities: 
+      - 
+        alternate_names: 
+          - "Son Tay"
+          - Son-Taj
+          - Sontai
+        ascii_name: "Son Tay"
+        name: "Sơn Tây"
+        names_en: ~
+        names_es: ~
+        population: 40636
+      - 
+        alternate_names: ~
+        ascii_name: "Ha Dong"
+        name: "Hà Ðông"
+        names_en: ~
+        names_es: ~
+        population: 50877
+    name: "Hà Tây"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ha Giang"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Ha Giang"
+        name: "Hà Giang"
+        names_en: ~
+        names_es: ~
+        population: 32690
+    name: "Hà Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Gia Lai"
+    cities: 
+      - 
+        alternate_names: 
+          - "Gia Lai"
+          - "Play Cu"
+          - "Play Ku"
+        ascii_name: Pleiku
+        name: Pleiku
+        names_en: 
+          - Pleiku
+        names_es: ~
+        population: 114225
+    name: "Gia Lai"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Thu Do Ha Noi"
+    cities: 
+      - 
+        alternate_names: 
+          - Anoi
+          - "Ha Noi"
+          - Hanoi
+        ascii_name: "Ha Noi"
+        name: "Hà Nội"
+        names_en: 
+          - Hanoi
+        names_es: 
+          - Hanoi
+          - Hanói
+        population: 1431270
+    name: "Ha Nội"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Can Tho"
+    cities: 
+      - 
+        alternate_names: 
+          - "Can Tho"
+          - "Cần Thơ"
+          - "Kan Tho"
+        ascii_name: "Can Tho"
+        name: "Cần Thơ"
+        names_en: 
+          - "Can Tho"
+        names_es: 
+          - "Can Tho"
+        population: 259598
+    name: "Cần Thơ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Thanh Pho Hai Phong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hai Phong"
+          - Haiphong
+          - Hajfong
+        ascii_name: Haiphong
+        name: Haiphong
+        names_en: 
+          - Haiphong
+        names_es: ~
+        population: 602695
+    name: "Hải Phòng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Binh Thuan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fan Thiet"
+          - Fant'et
+          - Fanthit
+        ascii_name: "Phan Thiet"
+        name: "Phan Thiết"
+        names_en: 
+          - "Phan Thiết"
+        names_es: ~
+        population: 160652
+    name: "Bình Thuận"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Dong Thap"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sa Dec"
+          - "Sa Ðéc"
+          - Sadek
+        ascii_name: "Sa Dec"
+        name: "Sa Ðéc"
+        names_en: ~
+        names_es: ~
+        population: 60073
+      - 
+        alternate_names: 
+          - "Cao Lanh"
+          - "Cao Lãnh"
+          - "Phong Thanh"
+        ascii_name: "Cao Lanh"
+        name: "Cao Lãnh"
+        names_en: 
+          - "Cao Lanh"
+        names_es: ~
+        population: 63770
+    name: "Ðồng Tháp"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Dong Nai"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bia Hoa"
+          - "Bien Hoa"
+          - "Biên Hòa"
+        ascii_name: "Bien Hoa"
+        name: "Biên Hòa"
+        names_en: ~
+        names_es: ~
+        population: 407208
+    name: "Ðồng Nai"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Dac Lak"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ban Me Thaut"
+          - "Ban Me Thnot"
+          - "Ban Me Thot"
+        ascii_name: "Buon Ma Thuot"
+        name: "Buôn Ma Thuột"
+        names_en: 
+          - "Buon Ma Thuot"
+        names_es: ~
+        population: 146975
+    name: "Ðắc Lắk"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ba Ria-Vung Tau"
+    cities: 
+      - 
+        alternate_names: 
+          - Cap-Saint-Jacques
+          - "Saint James"
+          - "Ville du Cap"
+        ascii_name: "Vung Tau"
+        name: "Vũng Tàu"
+        names_en: 
+          - "Vũng Tàu"
+        names_es: 
+          - "Vung Tau"
+        population: 209683
+    name: "Bà Rịa-Vũng Tàu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Cao Bang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cao Bang"
+          - "Cao Bằng"
+          - "Cao Pang"
+        ascii_name: "Cao Bang"
+        name: "Cao Bằng"
+        names_en: ~
+        names_es: ~
+        population: 41112
+    name: "Cao Bằng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Binh Dinh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ki N'on"
+          - "Ki N’on"
+          - Kin-hon
+        ascii_name: "Quy Nhon"
+        name: "Quy Nhơn"
+        names_en: ~
+        names_es: ~
+        population: 210338
+    name: "Bình Ðịnh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ben Tre"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ben Tre"
+          - "Bến Tre"
+          - "Truc Giang"
+        ascii_name: "Ben Tre"
+        name: "Bến Tre"
+        names_en: 
+          - "Bến Tre"
+        names_es: ~
+        population: 59442
+    name: "Bến Tre"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh An Giang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cholong Xuyen"
+          - "Chơlong Xuyen"
+          - "Long Swiyen"
+        ascii_name: "Long Xuyen"
+        name: "Long Xuyên"
+        names_en: 
+          - "Long Xuyen"
+        names_es: ~
+        population: 158153
+      - 
+        alternate_names: 
+          - Angiang
+          - "Chau Doc"
+          - "Chau Phu"
+        ascii_name: "Chau Doc"
+        name: "Châu Ðốc"
+        names_en: ~
+        names_es: ~
+        population: 70239
+    name: "An Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dak Nong"
+    cities: []
+    name: "Ðắk Nông"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Huyen Dien Bien"
+    cities: 
+      - 
+        alternate_names: 
+          - "D'en B'en Fu"
+          - "Dien Bien"
+          - "Dien Bien Phu"
+        ascii_name: "Dien Bien Phu"
+        name: "Diện Biên Phủ"
+        names_en: 
+          - "Dien Bien Phu"
+        names_es: 
+          - "Dien Bien Phu"
+        population: 40282
+    name: "Huyện Ðiện Biên"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Bac Ninh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bac Ninh"
+          - "Bacht Ninh"
+          - "Bak Nin"
+        ascii_name: "Bac Ninh"
+        name: "Bắc Ninh"
+        names_en: ~
+        names_es: ~
+        population: 43564
+    name: "Bắc Ninh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Bac Giang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bac Giang"
+          - "Bắc Giang"
+          - "Phu Lang Thong"
+        ascii_name: "Bac Giang"
+        name: "Bắc Giang"
+        names_en: ~
+        names_es: ~
+        population: 53728
+    name: "Bắc Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Da Nang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Da Nang"
+          - Danang
+          - Tourane
+        ascii_name: Turan
+        name: Turan
+        names_en: 
+          - "Da Nang"
+        names_es: 
+          - "Da Nang"
+        population: 752493
+    name: "Ðà Nẵng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Binh Duong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Phu Cuong"
+          - "Phú Cường"
+          - "Thu Dau Mot"
+        ascii_name: "Thu Dau Mot"
+        name: "Thủ Dầu Một"
+        names_en: 
+          - "Thu Dau Mot"
+        names_es: ~
+        population: 91009
+    name: "Bình Dương"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Binh Phuoc"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ap Dong Xoai"
+          - "Don Luan"
+          - "Dong Xoa"
+        ascii_name: "Dong Xoai"
+        name: "Dồng Xoài"
+        names_en: 
+          - "Dong Xoai"
+        names_es: ~
+        population: 23978
+    name: "Bình Phước"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Thai Nguyen"
+    cities: 
+      - 
+        alternate_names: 
+          - Taj-Nguen
+          - "Thai Nguyen"
+          - "Thái Nguyên"
+        ascii_name: "Thai Nguyen"
+        name: "Thái Nguyên"
+        names_en: ~
+        names_es: ~
+        population: 133877
+    name: "Thái Nguyên"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Nam"
+    cities: 
+      - 
+        alternate_names: 
+          - "Tam Ky"
+          - "Tam Kỳ"
+          - Tanky
+        ascii_name: "Tam Ky"
+        name: "Tam Kỳ"
+        names_en: ~
+        names_es: ~
+        population: 59000
+      - 
+        alternate_names: 
+          - Faifo
+          - Faifoh
+          - Faifoo
+        ascii_name: "Hoi An"
+        name: "Hội An"
+        names_en: 
+          - "Hoi An"
+        names_es: ~
+        population: 32757
     name: "Quảng Nam"
-    slug: quang-nam
-tld: vn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Phu Tho"
+    cities: 
+      - 
+        alternate_names: 
+          - "Viet Tri"
+          - Vietri
+          - "Việt Trì"
+        ascii_name: "Viet Tri"
+        name: "Việt Trì"
+        names_en: ~
+        names_es: ~
+        population: 93475
+    name: "Phú Thọ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Nam Dinh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Nam Din\""
+          - "Nam Dinh"
+          - "Nam Din”"
+        ascii_name: "Nam Dinh"
+        name: "Nam Ðịnh"
+        names_en: ~
+        names_es: ~
+        population: 193499
+    name: "Nam Ðịnh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ha Nam"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fu Li"
+          - Ha-Nam
+          - "Phu Ly"
+        ascii_name: "Phu Ly"
+        name: "Phủ Lý"
+        names_en: ~
+        names_es: ~
+        population: 31801
+    name: "Hà Nam"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Bac Kan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bac Can"
+          - "Bac Kan"
+          - "Bak Kan"
+        ascii_name: "Bac Kan"
+        name: "Bắc Kạn"
+        names_en: 
+          - "Bac Kan"
+        names_es: ~
+        population: 17701
+    name: "Bắc Kạn"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Bac Lieu"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bac Lieu"
+          - Bac-Lien
+          - "Bach Lieu"
+        ascii_name: "Bac Lieu"
+        name: "Bạc Liêu"
+        names_en: ~
+        names_es: ~
+        population: 107911
+    name: "Bạc Liêu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ca Mau"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ca Mau"
+          - Camo
+          - "Cu Mau"
+        ascii_name: "Ca Mau"
+        name: "Cà Mau"
+        names_en: ~
+        names_es: ~
+        population: 111894
+    name: "Cà Mau"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Hai Duong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hai Doong"
+          - "Hai Duong"
+          - "Hai dzung"
+        ascii_name: "Hai Duong"
+        name: "Hải Dương"
+        names_en: ~
+        names_es: ~
+        population: 58030
+    name: "Hải Dương"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Hung Yen"
+    cities: 
+      - 
+        alternate_names: 
+          - Hong-Yen
+          - "Hung Yen"
+          - "Hưng Yên"
+        ascii_name: "Hung Yen"
+        name: "Hưng Yên"
+        names_en: ~
+        names_es: ~
+        population: 40273
+    name: "Hưng Yên"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Vinh Phuc"
+    cities: 
+      - 
+        alternate_names: 
+          - "Vieh Yen"
+          - "Vinh Yen"
+          - "Vĩnh Yên"
+        ascii_name: "Vinh Yen"
+        name: "Vĩnh Yên"
+        names_en: ~
+        names_es: ~
+        population: 17876
+    name: "Vĩnh Phúc"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Hau Giang"
+    cities: []
+    name: "Hau Giang"
+    names_en: ~
+    names_es: ~

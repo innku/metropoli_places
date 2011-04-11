@@ -1,268 +1,488 @@
 --- 
-code: AO
-continent: AF
 name: Angola
-population: 13068161
+names_en: 
+  - Angola
+  - "Republic of Angola"
+names_es: 
+  - Angola
 regions: 
   - 
+    ascii_name: "Provincia da Lunda Sul"
     cities: 
       - 
-        districts: []
-        location: "POINT (-12.3480600000000003 13.5455600000000000)"
-        name: Lobito
-        population: 207932
-        slug: lobito
-      - 
-        districts: []
-        location: "POINT (-12.4313900000000004 13.5472199999999994)"
-        name: Catumbela
-        population: 16977
-        slug: catumbela
-      - 
-        districts: []
-        location: "POINT (-12.5783299999999993 13.4072200000000006)"
-        name: Benguela
-        population: 151226
-        slug: benguela
-    code: AO.01
-    name: Benguela
-    slug: benguela
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-12.3833300000000008 16.9333300000000015)"
-        name: Kuito
-        population: 113624
-        slug: kuito
-      - 
-        districts: []
-        location: "POINT (-12.1666699999999999 17.3333300000000001)"
-        name: Chissamba
-        population: 7677
-        slug: chissamba
-      - 
-        districts: []
-        location: "POINT (-12.1500000000000004 17.2833299999999994)"
-        name: Catabola
-        population: 18855
-        slug: catabola
-      - 
-        districts: []
-        location: "POINT (-12.0166699999999995 17.4833299999999987)"
-        name: Camacupa
-        population: 19150
-        slug: camacupa
-      - 
-        districts: []
-        location: "POINT (-14.6585000000000001 17.6909899999999993)"
-        name: Menongue
-        population: 32203
-        slug: menongue
-    code: AO.02
-    name: Bié
-    slug: bie
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-8.5800000000000001 13.6641700000000004)"
-        name: Caxito
-        population: 28224
-        slug: caxito
-      - 
-        districts: []
-        location: "POINT (-8.8383299999999991 13.2344399999999993)"
-        name: Luanda
-        population: 2776168
-        slug: luanda
-      - 
-        districts: []
-        location: "POINT (-9.3000000000000007 14.9166699999999999)"
-        name: N’dalatando
-        population: 0
-        slug: ndalatando
-      - 
-        districts: []
-        location: "POINT (-8.1833299999999998 15.3666699999999992)"
-        name: Camabatela
-        population: 12837
-        slug: camabatela
-      - 
-        districts: []
-        location: "POINT (-7.6166700000000001 15.0500000000000007)"
-        name: Uíge
-        population: 60008
-        slug: uige
-      - 
-        districts: []
-        location: "POINT (-9.5447199999999999 16.3452799999999989)"
-        name: Malanje
-        population: 87046
-        slug: malanje
-    code: AO.05
-    name: "Cuanza Norte"
-    slug: cuanza-norte
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-11.3499999999999996 15.1166699999999992)"
-        name: "Waku Kungo"
-        population: 10970
-        slug: waku-kungo
-      - 
-        districts: []
-        location: "POINT (-11.1999999999999993 13.8333300000000001)"
-        name: Sumbe
-        population: 33277
-        slug: sumbe
-      - 
-        districts: []
-        location: "POINT (-10.7333300000000005 14.9833300000000005)"
-        name: Quibala
-        population: 8915
-        slug: quibala
-    code: AO.06
-    name: "Cuanza Sul"
-    slug: cuanza-sul
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-12.9066700000000001 15.2533300000000001)"
-        name: Longonjo
-        population: 24346
-        slug: longonjo
-      - 
-        districts: []
-        location: "POINT (-12.7761099999999992 15.7391699999999997)"
-        name: Huambo
-        population: 226145
-        slug: huambo
-      - 
-        districts: []
-        location: "POINT (-12.8524999999999991 15.5605600000000006)"
-        name: Caála
-        population: 21205
-        slug: caala
-    code: AO.08
-    name: Huambo
-    slug: huambo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-14.9166699999999999 13.5000000000000000)"
-        name: Lubango
-        population: 102541
-        slug: lubango
-      - 
-        districts: []
-        location: "POINT (-13.7833299999999994 14.6833299999999998)"
-        name: Caluquembe
-        population: 30300
-        slug: caluquembe
-      - 
-        districts: []
-        location: "POINT (-13.7333300000000005 15.0666700000000002)"
-        name: Caconda
-        population: 10549
-        slug: caconda
-      - 
-        districts: []
-        location: "POINT (-17.0666699999999985 15.7333300000000005)"
-        name: Ondjiva
-        population: 10169
-        slug: ondjiva
-      - 
-        districts: []
-        location: "POINT (-15.1961099999999991 12.1522199999999998)"
-        name: Namibe
-        population: 80149
-        slug: namibe
-    code: AO.09
-    name: Huíla
-    slug: huila
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-11.5500000000000007 20.7833299999999994)"
-        name: Lumeje
-        population: 4972
-        slug: lumeje
-      - 
-        districts: []
-        location: "POINT (-10.6999999999999993 22.2333299999999987)"
-        name: Luau
-        population: 18465
-        slug: luau
-      - 
-        districts: []
-        location: "POINT (-11.6500000000000004 20.4499999999999993)"
-        name: Leúa
-        population: 5168
-        slug: leua
-      - 
-        districts: []
-        location: "POINT (-8.4166699999999999 20.7500000000000000)"
-        name: Lucapa
-        population: 20115
-        slug: lucapa
-      - 
-        districts: []
-        location: "POINT (-11.7833299999999994 19.9166699999999999)"
-        name: Luena
-        population: 21115
-        slug: luena
-    code: AO.14
-    name: Moxico
-    slug: moxico
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-6.1333299999999999 12.3666699999999992)"
-        name: Soyo
-        population: 67491
-        slug: soyo
-      - 
-        districts: []
-        location: "POINT (-7.2333299999999996 12.8666699999999992)"
-        name: N’zeto
-        population: 18352
-        slug: nzeto
-      - 
-        districts: []
-        location: "POINT (-6.2666700000000004 14.2500000000000000)"
-        name: "M’banza Congo"
-        population: 24220
-        slug: mbanza-congo
-      - 
-        districts: []
-        location: "POINT (-5.5499999999999998 12.1999999999999993)"
-        name: Cabinda
-        population: 66020
-        slug: cabinda
-    code: AO.16
-    name: Zaire
-    slug: zaire
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-9.6500000000000004 20.3999999999999986)"
+        alternate_names: 
+          - "Henrique de Carvalho"
+          - Saurimo
+          - Saurimu
+        ascii_name: Saurimo
         name: Saurimo
+        names_en: 
+          - Saurimo
+        names_es: ~
         population: 40498
-        slug: saurimo
       - 
-        districts: []
-        location: "POINT (-11.0666700000000002 20.6999999999999993)"
+        alternate_names: 
+          - Cazage
+          - Cazaje
+          - Kazagi
+        ascii_name: Cazage
         name: Cazage
+        names_en: ~
+        names_es: ~
         population: 4764
-        slug: cazage
-    code: AO.18
     name: "Lunda Sul"
-    slug: lunda-sul
-tld: ao
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia da Lunda Norte"
+    cities: 
+      - 
+        alternate_names: 
+          - Lucapa
+          - Lukapa
+          - Лукапа
+        ascii_name: Lucapa
+        name: Lucapa
+        names_en: 
+          - Lucapa
+        names_es: ~
+        population: 20115
+    name: "Lunda Norte"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Moxico"
+    cities: 
+      - 
+        alternate_names: 
+          - Cameia
+          - Lumege
+          - Lumeje
+        ascii_name: Lumeje
+        name: Lumeje
+        names_en: ~
+        names_es: ~
+        population: 4972
+      - 
+        alternate_names: 
+          - Luao
+          - Luau
+          - "Teixeira de Sousa"
+        ascii_name: Luau
+        name: Luau
+        names_en: ~
+        names_es: ~
+        population: 18465
+      - 
+        alternate_names: 
+          - Leua
+          - Leúa
+          - Sandando
+        ascii_name: Leua
+        name: Leúa
+        names_en: ~
+        names_es: ~
+        population: 5168
+      - 
+        alternate_names: 
+          - Luehna
+          - Luena
+          - Luene
+        ascii_name: Luena
+        name: Luena
+        names_en: ~
+        names_es: ~
+        population: 21115
+    name: Moxico
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Cuando Cubango"
+    cities: 
+      - 
+        alternate_names: 
+          - Menonge
+          - "Serpa Pinto"
+          - "Vila Serpa Pinto"
+        ascii_name: Menongue
+        name: Menongue
+        names_en: ~
+        names_es: ~
+        population: 32203
+    name: "Cuando Cubango"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Zaire"
+    cities: 
+      - 
+        alternate_names: 
+          - "Saint Antonio do Zaire"
+          - "San Antonio"
+          - "Santo Antoni"
+        ascii_name: Soio
+        name: Soio
+        names_en: 
+          - Soyo
+        names_es: ~
+        population: 67491
+      - 
+        alternate_names: 
+          - Ambrisette
+          - Ambrizete
+          - Ambrizette
+        ascii_name: N'zeto
+        name: N’zeto
+        names_en: ~
+        names_es: ~
+        population: 18352
+      - 
+        alternate_names: 
+          - "Mbanza Congo"
+          - "Mbanza Kongo"
+          - "San Salvador"
+        ascii_name: "Mbanza Congo"
+        name: "Mbanza Congo"
+        names_en: ~
+        names_es: ~
+        population: 24220
+    name: Zaire
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Uige"
+    cities: 
+      - 
+        alternate_names: 
+          - Carmona
+          - Uige
+          - Uije
+        ascii_name: Uige
+        name: Uíge
+        names_en: 
+          - Uíge
+        names_es: ~
+        population: 60008
+    name: Uíge
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Malanje"
+    cities: 
+      - 
+        alternate_names: 
+          - Malandje
+          - Malange
+          - Malanje
+        ascii_name: Malanje
+        name: Malanje
+        names_en: ~
+        names_es: ~
+        population: 87046
+    name: Malanje
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Luanda"
+    cities: 
+      - 
+        alternate_names: 
+          - Loanda
+          - Louanta
+          - Luanda
+        ascii_name: Luanda
+        name: Luanda
+        names_en: 
+          - Luanda
+        names_es: 
+          - Luanda
+        population: 2776168
+    name: Luanda
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Cuanza Norte"
+    cities: 
+      - 
+        alternate_names: 
+          - Dalatando
+          - N'dalatando
+          - Ndalatanda
+        ascii_name: N'dalatando
+        name: N’dalatando
+        names_en: 
+          - N'dalatando
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ambaca
+          - Camabatela
+          - Kamabatela
+        ascii_name: Camabatela
+        name: Camabatela
+        names_en: ~
+        names_es: ~
+        population: 12837
+    name: "Cuanza Norte"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Cabinda"
+    cities: 
+      - 
+        alternate_names: 
+          - Cabinda
+          - Kabinda
+          - Кабинда
+        ascii_name: Cabinda
+        name: Cabinda
+        names_en: ~
+        names_es: ~
+        population: 66020
+    name: Cabinda
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Bengo"
+    cities: 
+      - 
+        alternate_names: 
+          - Caxito
+          - Kashito
+          - Kaxito
+        ascii_name: Caxito
+        name: Caxito
+        names_en: ~
+        names_es: ~
+        population: 28224
+    name: Bengo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Namibe"
+    cities: 
+      - 
+        alternate_names: 
+          - Mocamedes
+          - Mossamedes
+          - Moçâmedes
+        ascii_name: Namibe
+        name: Namibe
+        names_en: 
+          - Namibe
+        names_es: ~
+        population: 80149
+    name: Namibe
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia da Huila"
+    cities: 
+      - 
+        alternate_names: 
+          - Lubango
+          - "Sa da Bandeira"
+          - "Sá da Bandeira"
+        ascii_name: Lubango
+        name: Lubango
+        names_en: 
+          - Lubango
+        names_es: ~
+        population: 102541
+      - 
+        alternate_names: 
+          - Caluquembe
+          - Caluquembo
+          - Caluquemo
+        ascii_name: Caluquembe
+        name: Caluquembe
+        names_en: ~
+        names_es: ~
+        population: 30300
+      - 
+        alternate_names: 
+          - Caconda
+          - Kakonda
+          - Каконда
+        ascii_name: Caconda
+        name: Caconda
+        names_en: ~
+        names_es: ~
+        population: 10549
+    name: Huíla
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Huambo"
+    cities: 
+      - 
+        alternate_names: 
+          - Congonjo
+          - Logonzhu
+          - Longonjo
+        ascii_name: Longonjo
+        name: Longonjo
+        names_en: ~
+        names_es: ~
+        population: 24346
+      - 
+        alternate_names: 
+          - Huambo
+          - "Nova Lisboa"
+          - Uambo
+        ascii_name: Huambo
+        name: Huambo
+        names_en: 
+          - Huambo
+        names_es: ~
+        population: 226145
+      - 
+        alternate_names: 
+          - Caala
+          - Cahala
+          - Caála
+        ascii_name: Caala
+        name: Caála
+        names_en: ~
+        names_es: ~
+        population: 21205
+    name: Huambo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Cunene"
+    cities: 
+      - 
+        alternate_names: 
+          - N'Giva
+          - N'Jiva
+          - N’Giva
+        ascii_name: Ondjiva
+        name: Ondjiva
+        names_en: 
+          - Ondjiva
+        names_es: ~
+        population: 10169
+    name: Cunene
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Cuanza Sul"
+    cities: 
+      - 
+        alternate_names: 
+          - Cela
+          - "Santa Comba"
+          - "Santa Comba Dao"
+        ascii_name: "Waku Kungo"
+        name: "Waku Kungo"
+        names_en: ~
+        names_es: ~
+        population: 10970
+      - 
+        alternate_names: 
+          - Angungescapolo
+          - Ngunza
+          - "Nova Redonda"
+        ascii_name: Sumbe
+        name: Sumbe
+        names_en: 
+          - Sumbe
+        names_es: ~
+        population: 33277
+      - 
+        alternate_names: 
+          - Kibala
+          - Quibala
+          - Кибала
+        ascii_name: Quibala
+        name: Quibala
+        names_en: ~
+        names_es: ~
+        population: 8915
+    name: "Cuanza Sul"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia do Bie"
+    cities: 
+      - 
+        alternate_names: 
+          - Bie
+          - Bihe
+          - Bihé
+        ascii_name: Kuito
+        name: Kuito
+        names_en: 
+          - Kuito
+        names_es: ~
+        population: 113624
+      - 
+        alternate_names: ~
+        ascii_name: Chissamba
+        name: Chissamba
+        names_en: ~
+        names_es: ~
+        population: 7677
+      - 
+        alternate_names: 
+          - Catabola
+          - Katabola
+          - "Nova Sintra"
+        ascii_name: Catabola
+        name: Catabola
+        names_en: ~
+        names_es: ~
+        population: 18855
+      - 
+        alternate_names: 
+          - Camacupa
+          - "General Machado"
+          - "General Machado Villa"
+        ascii_name: Camacupa
+        name: Camacupa
+        names_en: ~
+        names_es: ~
+        population: 19150
+    name: Bié
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Provincia de Benguela"
+    cities: 
+      - 
+        alternate_names: 
+          - Lobito
+          - Lobitu
+          - robito
+        ascii_name: Lobito
+        name: Lobito
+        names_en: 
+          - Lobito
+        names_es: ~
+        population: 207932
+      - 
+        alternate_names: 
+          - Asseiceira
+          - Catumbela
+          - Catumbella
+        ascii_name: Catumbela
+        name: Catumbela
+        names_en: ~
+        names_es: ~
+        population: 16977
+      - 
+        alternate_names: 
+          - Bengela
+          - Benguela
+          - Benguella
+        ascii_name: Benguela
+        name: Benguela
+        names_en: 
+          - Benguela
+        names_es: ~
+        population: 151226
+    name: Benguela
+    names_en: ~
+    names_es: ~

@@ -1,70 +1,422 @@
 --- 
-code: FM
-continent: OC
 name: Micronesia
-population: 108105
+names_en: 
+  - "Federated States of Micronesia"
+  - Micronesia
+names_es: 
+  - "Estados Federados de Micronesia"
+  - "Micronesia, Estados Federados de"
 regions: 
   - 
+    ascii_name: "State of Yap"
     cities: 
       - 
-        districts: []
-        location: "POINT (5.3147200000000003 163.0036100000000090)"
-        name: Toynim
-        population: 4647
-        slug: toynim
+        alternate_names: ~
+        ascii_name: Rumung
+        name: Rumung
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (5.3630599999999999 162.9822200000000123)"
-        name: Tafunsak
-        population: 1967
-        slug: tafunsak
-    code: FM.01
-    name: Kosrae
-    slug: kosrae
-  - 
-    cities: 
+        alternate_names: ~
+        ascii_name: Satawal
+        name: Satawal
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (6.9166699999999999 158.1500000000000057)"
-        name: Palikir
-        population: 4645
-        slug: palikir
+        alternate_names: ~
+        ascii_name: Lamotrek
+        name: Lamotrek
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (6.9638900000000001 158.2083299999999895)"
-        name: Kolonia
-        population: 4540
-        slug: kolonia
-    code: FM.02
-    name: Pohnpei
-    slug: pohnpei
-  - 
-    cities: 
+        alternate_names: ~
+        ascii_name: Elato
+        name: Elato
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (7.4458299999999999 151.8499999999999943)"
-        name: Weno
-        population: 17624
-        slug: weno
+        alternate_names: ~
+        ascii_name: Faraulep
+        name: Faraulep
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (7.3666700000000001 151.9000000000000057)"
-        name: Tonoas
-        population: 4026
-        slug: tonoas
+        alternate_names: ~
+        ascii_name: Ifalik
+        name: Ifalik
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (7.3861100000000004 151.8733300000000099)"
-        name: Paata
-        population: 1860
-        slug: paata
+        alternate_names: ~
+        ascii_name: Eauripik
+        name: Eauripik
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (9.5144400000000005 138.1291699999999878)"
+        alternate_names: ~
+        ascii_name: Sorol
+        name: Sorol
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Fais
+        name: Fais
+        names_en: ~
+        names_es: ~
+        population: 215
+      - 
+        alternate_names: ~
+        ascii_name: Ngulu
+        name: Ngulu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Colonia
         name: Colonia
-        population: 2097
-        slug: colonia
-    code: FM.03
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Yap
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Pohnpei"
+    cities: 
+      - 
+        alternate_names: 
+          - Palakir
+          - Palikir
+          - Palikiras
+        ascii_name: "Palikir - National Government Center"
+        name: "Palikir - National Government Center"
+        names_en: 
+          - Palikir
+        names_es: 
+          - Palikir
+        population: 0
+      - 
+        alternate_names: 
+          - "Colony Koronia"
+          - Kolonie
+          - Koroni
+        ascii_name: "Kolonia Town"
+        name: "Kolonia Town"
+        names_en: ~
+        names_es: ~
+        population: 5681
+      - 
+        alternate_names: ~
+        ascii_name: Kolonia
+        name: Kolonia
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kapingamarangi
+        name: Kapingamarangi
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Nukuoro
+        name: Nukuoro
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Ngatik
+        name: Ngatik
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Pingelap
+        name: Pingelap
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Mokil
+        name: Mokil
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kolonia
+        name: Kolonia
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Madolenihm Municipality Government"
+        name: "Madolenihm Municipality Government"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Pohnpei
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Kosrae"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Kosrae State Legislature"
+        name: "Kosrae State Legislature"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Lelu
+        name: Lelu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Tafunsak
+        name: Tafunsak
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Malem
+        name: Malem
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Utwe
+        name: Utwe
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Kosrae
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "State of Chuuk"
+    cities: 
+      - 
+        alternate_names: 
+          - Moen
+        ascii_name: "Weno Town"
+        name: "Weno Town"
+        names_en: ~
+        names_es: ~
+        population: 13802
+      - 
+        alternate_names: ~
+        ascii_name: Namoluk
+        name: Namoluk
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Houk
+        name: Houk
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Polowat
+        name: Polowat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Pulap
+        name: Pulap
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Tamatam
+        name: Tamatam
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Onoun
+        name: Onoun
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Pisaras
+        name: Pisaras
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Onou
+        name: Onou
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Unanu
+        name: Unanu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Makur
+        name: Makur
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Nomwin
+        name: Nomwin
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Fananu
+        name: Fananu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Murilo
+        name: Murilo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Ruo
+        name: Ruo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Nama
+        ascii_name: Nema
+        name: Nema
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Losap
+        name: Losap
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Piis
+        name: Piis
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Ettal
+        name: Ettal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Lekinioch
+        ascii_name: Lukunor
+        name: Lukunor
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Oneop
+        name: Oneop
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Moch
+        name: Moch
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Kuttu
+        name: Kuttu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Ta
+        name: Ta
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Satowan
+        name: Satowan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Tonoas Municipal Building"
+        name: "Tonoas Municipal Building"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Weno Municipal Offices"
+        name: "Weno Municipal Offices"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Weno - Chuuk State Legislature"
+        name: "Weno - Chuuk State Legislature"
+        names_en: ~
+        names_es: ~
+        population: 13802
     name: Chuuk
-    slug: chuuk
-tld: fm
+    names_en: ~
+    names_es: ~

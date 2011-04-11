@@ -1,297 +1,638 @@
 --- 
-code: XK
-continent: EU
 name: Kosovo
-population: 1800000
+names_en: 
+  - Kosovo
+  - "Republic of Kosovo"
+names_es: 
+  - Kosovo
 regions: 
   - 
+    ascii_name: "Opstina Vucitrn"
     cities: 
       - 
-        districts: []
-        location: "POINT (42.5200000000000031 20.3472200000000001)"
-        name: Irzniq
-        population: 2200
-        slug: irzniq
-      - 
-        districts: []
-        location: "POINT (42.5075000000000003 20.3177799999999991)"
-        name: Prilep
-        population: 2500
-        slug: prilep
-      - 
-        districts: []
-        location: "POINT (42.5630600000000001 20.2908299999999997)"
-        name: Ljubuša
-        population: 1250
-        slug: ljubusa
-      - 
-        districts: []
-        location: "POINT (42.5574999999999974 20.3027799999999985)"
-        name: Isniq
-        population: 5500
-        slug: isniq
-      - 
-        districts: []
-        location: "POINT (42.5783500000000004 20.2934599999999996)"
-        name: "Strellc i Epërm"
-        population: 6100
-        slug: strellc-i-eperm
-      - 
-        districts: []
-        location: "POINT (42.5450000000000017 20.3077800000000011)"
-        name: "Lluka e Eperme"
-        population: 1500
-        slug: lluka-e-eperme
-      - 
-        districts: []
-        location: "POINT (42.5072199999999967 20.3627800000000008)"
-        name: Gllogjan
-        population: 2000
-        slug: gllogjan
-      - 
-        districts: []
-        location: "POINT (42.5806299999999993 20.3161899999999989)"
-        name: "Strellc i Ulët"
-        population: 2850
-        slug: strellc-i-ulet
-      - 
-        districts: []
-        location: "POINT (42.5401799999999994 20.2879299999999994)"
-        name: Deçan
-        population: 50500
-        slug: decan
-      - 
-        districts: []
-        location: "POINT (42.5527799999999985 20.3311099999999989)"
-        name: Papraqan
-        population: 1288
-        slug: papraqan
-      - 
-        districts: []
-        location: "POINT (42.5244399999999985 20.2808300000000017)"
-        name: Lloqan
-        population: 1050
-        slug: lloqan
-      - 
-        districts: []
-        location: "POINT (42.5466699999999989 20.3466699999999996)"
-        name: Lumbardhi
-        population: 1500
-        slug: lumbardhi
-    code: XK.01
-    name: "Komuna e Deçanit"
-    slug: komuna-e-decanit
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.9074999999999989 20.8402799999999999)"
-        name: Zvečan
-        population: 0
-        slug: zvecan
-      - 
-        districts: []
-        location: "POINT (42.8230599999999981 20.9675000000000011)"
-        name: Vučitrn
+        alternate_names: 
+          - Vicianum
+          - Vicitirin
+          - Vuchitrn
+        ascii_name: Vushtrri
+        name: Vushtrri
+        names_en: ~
+        names_es: ~
         population: 30651
-        slug: vucitrn
-      - 
-        districts: []
-        location: "POINT (42.6216700000000017 20.5777800000000006)"
-        name: Klina
-        population: 8050
-        slug: klina
-      - 
-        districts: []
-        location: "POINT (42.7466700000000017 20.7886099999999985)"
-        name: Srbica
-        population: 5089
-        slug: srbica
-      - 
-        districts: []
-        location: "POINT (43.1038899999999998 20.8027799999999985)"
-        name: Leposavić
-        population: 19000
-        slug: leposavic
-      - 
-        districts: []
-        location: "POINT (42.9144399999999990 20.6897200000000012)"
-        name: "Zubin Potok"
-        population: 0
-        slug: zubin-potok
-      - 
-        districts: []
-        location: "POINT (42.9105599999999967 21.1930599999999991)"
-        name: Podujeva
-        population: 35000
-        slug: podujeva
-      - 
-        districts: []
-        location: "POINT (42.4822199999999981 20.7458300000000015)"
-        name: Mališevo
-        population: 2300
-        slug: malisevo
-      - 
-        districts: []
-        location: "POINT (42.5552800000000033 20.7633299999999998)"
-        name: Llazicë
-        population: 19863
-        slug: llazice
-      - 
-        districts: []
-        location: "POINT (42.6869399999999999 21.0702800000000003)"
-        name: Obilić
-        population: 11612
-        slug: obilic
-      - 
-        districts: []
-        location: "POINT (42.6394400000000005 21.0961099999999995)"
-        name: "Kosovo Polje"
-        population: 16154
-        slug: kosovo-polje
-      - 
-        districts: []
-        location: "POINT (42.8833300000000008 20.8666699999999992)"
-        name: Mitrovicë
-        population: 107045
-        slug: mitrovice
-      - 
-        districts: []
-        location: "POINT (42.6283299999999983 20.8938899999999990)"
-        name: Glogovac
-        population: 0
-        slug: glogovac
-    code: XK.14
-    name: "Komuna e Malisheves"
-    slug: komuna-e-malisheves
+    name: "Opština Vučitrn"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Komuna e Vitise"
     cities: 
       - 
-        districts: []
-        location: "POINT (42.6591299999999976 20.2882800000000003)"
-        name: Pejë
-        population: 81800
-        slug: peje
-      - 
-        districts: []
-        location: "POINT (42.5702799999999968 20.4647199999999998)"
-        name: Kosuriq
-        population: 1200
-        slug: kosuriq
-      - 
-        districts: []
-        location: "POINT (42.7808300000000017 20.4875000000000007)"
-        name: Istok
-        population: 4
-        slug: istok
-    code: XK.18
-    name: "Komuna e Pejës"
-    slug: komuna-e-pejes
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.3994399999999985 20.6547200000000011)"
-        name: Orahovac
-        population: 22049
-        slug: orahovac
-      - 
-        districts: []
-        location: "POINT (42.3705599999999976 21.1552800000000012)"
-        name: Uroševac
-        population: 59504
-        slug: urosevac
-      - 
-        districts: []
-        location: "POINT (42.3213900000000010 21.3583299999999987)"
+        alternate_names: 
+          - Viti
+          - Vitina
+          - Витина
+        ascii_name: Vitina
         name: Vitina
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: vitina
+    name: "Komuna e Vitisë"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Ferizajt"
+    cities: 
       - 
-        districts: []
-        location: "POINT (42.5780600000000007 21.5802799999999984)"
-        name: Kamenica
-        population: 9312
-        slug: kamenica
+        alternate_names: 
+          - Ferezaj
+          - Ferizaj
+          - Ferizovik
+        ascii_name: Ferizaj
+        name: Ferizaj
+        names_en: ~
+        names_es: ~
+        population: 59504
+    name: "Komuna e Ferizajt"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Mitrovices"
+    cities: 
       - 
-        districts: []
-        location: "POINT (42.2138899999999992 20.7397199999999984)"
-        name: Prizren
-        population: 171464
-        slug: prizren
+        alternate_names: 
+          - "Kosovska Mitrovica"
+          - Mitrovica
+          - Mitrovice
+        ascii_name: Mitrovice
+        name: Mitrovicë
+        names_en: 
+          - "Kosovska Mitrovica"
+          - Mitrovica
+        names_es: ~
+        population: 107045
+    name: "Komuna e Mitrovicës"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Therandes"
+    cities: 
       - 
-        districts: []
-        location: "POINT (42.4330599999999976 21.0397199999999991)"
-        name: Shtime
-        population: 35000
-        slug: shtime
-      - 
-        districts: []
-        location: "POINT (42.2394400000000019 21.0272199999999998)"
-        name: Štrpce
-        population: 0
-        slug: strpce
-      - 
-        districts: []
-        location: "POINT (42.3586099999999988 20.8249999999999993)"
-        name: Thëranda
+        alternate_names: 
+          - Lumthate
+          - Lumthatë
+          - "Suha Reka"
+        ascii_name: "Suva Reka"
+        name: "Suva Reka"
+        names_en: 
+          - "Suva Reka"
+        names_es: ~
         population: 72229
-        slug: theranda
       - 
-        districts: []
-        location: "POINT (42.6727199999999982 21.1668799999999990)"
-        name: Pristina
-        population: 550000
-        slug: pristina
-      - 
-        districts: []
-        location: "POINT (42.3836099999999973 20.8219400000000014)"
-        name: Pećane
+        alternate_names: 
+          - Pecane
+          - Peqan
+          - Pećane
+        ascii_name: Peqan
+        name: Peqan
+        names_en: ~
+        names_es: ~
         population: 1883
-        slug: pecane
       - 
-        districts: []
-        location: "POINT (42.3277799999999971 20.7811100000000017)"
-        name: Lešane
+        alternate_names: 
+          - Lesane
+          - Leshan
+          - Leshane
+        ascii_name: Leshan
+        name: Leshan
+        names_en: ~
+        names_es: ~
         population: 1575
-        slug: lesane
       - 
-        districts: []
-        location: "POINT (42.5216700000000003 21.1258300000000006)"
-        name: Lipljan
-        population: 9047
-        slug: lipljan
-      - 
-        districts: []
-        location: "POINT (42.4604500000000016 21.4698600000000006)"
-        name: Gjilan
-        population: 51912
-        slug: gjilan
-      - 
-        districts: []
-        location: "POINT (42.0625000000000000 20.6533300000000004)"
-        name: Dragaš
-        population: 35000
-        slug: dragas
-      - 
-        districts: []
-        location: "POINT (42.3183300000000031 20.8186099999999996)"
+        alternate_names: 
+          - Dinovce
+          - Dzinovce
+          - Džinovce
+        ascii_name: Gjinoc
         name: Gjinoc
+        names_en: ~
+        names_es: ~
         population: 1571
-        slug: gjinoc
-      - 
-        districts: []
-        location: "POINT (42.6013900000000021 21.4261100000000013)"
-        name: Bostane
-        population: 288
-        slug: bostane
-      - 
-        districts: []
-        location: "POINT (42.2319400000000016 21.2594400000000014)"
-        name: Kačanik
-        population: 9800
-        slug: kacanik
-    code: XK.26
     name: "Komuna e Thërandës"
-    slug: komuna-e-therandes
-tld: ""
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Skenderajt"
+    cities: 
+      - 
+        alternate_names: 
+          - Skenderaj
+          - Skënderaj
+          - Srbica
+        ascii_name: Srbica
+        name: Srbica
+        names_en: ~
+        names_es: ~
+        population: 5089
+    name: "Komuna e Skenderajt"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Prizrenit"
+    cities: 
+      - 
+        alternate_names: 
+          - Perzeren
+          - Perzerin
+          - Prizren
+        ascii_name: Prizren
+        name: Prizren
+        names_en: 
+          - Prizren
+        names_es: 
+          - Prizren
+        population: 171464
+    name: "Komuna e Prizrenit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Prishtines"
+    cities: 
+      - 
+        alternate_names: 
+          - Prishhina
+          - Prishtina
+          - Prishtine
+        ascii_name: Pristina
+        name: Pristina
+        names_en: 
+          - Pristina
+        names_es: 
+          - Priština
+        population: 550000
+    name: "Komuna e Prishtinës"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Opstina Podujevo"
+    cities: 
+      - 
+        alternate_names: 
+          - Besiana
+          - Besiane
+          - Besianë
+        ascii_name: Podujeva
+        name: Podujeva
+        names_en: 
+          - Podujevo
+        names_es: ~
+        population: 35000
+    name: "Opština Podujevo"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Pejes"
+    cities: 
+      - 
+        alternate_names: 
+          - Ipek
+          - Pec
+          - Pecas
+        ascii_name: Peje
+        name: Pejë
+        names_en: 
+          - Peć
+        names_es: ~
+        population: 81800
+      - 
+        alternate_names: 
+          - Kosuric
+          - Kosuriq
+          - Kosurić
+        ascii_name: Kosuriq
+        name: Kosuriq
+        names_en: ~
+        names_es: ~
+        population: 1200
+    name: "Komuna e Pejës"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Rahovecit"
+    cities: 
+      - 
+        alternate_names: 
+          - Orahovac
+          - Orakhovac
+          - Rahavec
+        ascii_name: Orahovac
+        name: Orahovac
+        names_en: 
+          - Orahovac
+        names_es: ~
+        population: 22049
+    name: "Komuna e Rahovecit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Lipjanit"
+    cities: 
+      - 
+        alternate_names: 
+          - Lipjan
+          - Liplan
+          - Lipljan
+        ascii_name: Lipljan
+        name: Lipljan
+        names_en: ~
+        names_es: ~
+        population: 9047
+    name: "Komuna e Lipjanit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Leposaviqit"
+    cities: 
+      - 
+        alternate_names: 
+          - Albaniku
+          - Leposavic
+          - Leposavici
+        ascii_name: Leposavic
+        name: Leposavić
+        names_en: ~
+        names_es: ~
+        population: 19000
+    name: "Komuna e Leposaviqit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Opstina Kamenica"
+    cities: 
+      - 
+        alternate_names: 
+          - Dardana
+          - Dardane
+          - Dardanë
+        ascii_name: Kamenica
+        name: Kamenica
+        names_en: ~
+        names_es: ~
+        population: 9312
+    name: "Opština Kamenica"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Opstina Klina"
+    cities: 
+      - 
+        alternate_names: 
+          - Kliha
+          - Klina
+          - Kline
+        ascii_name: Klina
+        name: Klina
+        names_en: ~
+        names_es: ~
+        population: 8050
+    name: "Opština Klina"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Kacanikut"
+    cities: 
+      - 
+        alternate_names: 
+          - Kacanik
+          - Kachanik
+          - Kaçanik
+        ascii_name: Kacanik
+        name: Kačanik
+        names_en: ~
+        names_es: ~
+        population: 9800
+    name: "Komuna e Kaçanikut"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Istogut"
+    cities: 
+      - 
+        alternate_names: 
+          - Burim
+          - Burimi
+          - Istog
+        ascii_name: Istok
+        name: Istok
+        names_en: ~
+        names_es: ~
+        population: 40000
+    name: "Komuna e Istogut"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Gjilanit"
+    cities: 
+      - 
+        alternate_names: 
+          - Gilan
+          - Gjilan
+          - Gjilani
+        ascii_name: Gjilan
+        name: Gjilan
+        names_en: 
+          - Gnjilane
+        names_es: ~
+        population: 51912
+    name: "Komuna e Gjilanit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Drenasit"
+    cities: 
+      - 
+        alternate_names: 
+          - Drenas
+          - Drenasi
+          - Gllogoc
+        ascii_name: Glogovac
+        name: Glogovac
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Komuna e Drenasit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Dragashit"
+    cities: 
+      - 
+        alternate_names: 
+          - Dagash
+          - Dragas
+          - Dragash
+        ascii_name: Dragash
+        name: Dragash
+        names_en: ~
+        names_es: ~
+        population: 35000
+    name: "Komuna e Dragashit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Decanit"
+    cities: 
+      - 
+        alternate_names: 
+          - Irzniq
+          - Irzniqi
+          - Rrezar
+        ascii_name: Irzniq
+        name: Irzniq
+        names_en: ~
+        names_es: ~
+        population: 2200
+      - 
+        alternate_names: 
+          - Arrnjet
+          - Arrnjeti
+          - Perlep
+        ascii_name: Prilep
+        name: Prilep
+        names_en: ~
+        names_es: ~
+        population: 2500
+      - 
+        alternate_names: 
+          - Ljumbardh
+          - Lumbarda
+          - Lumbardh
+        ascii_name: Lumbardhi
+        name: Lumbardhi
+        names_en: ~
+        names_es: ~
+        population: 1500
+      - 
+        alternate_names: 
+          - Lebusha
+          - Lebushe
+          - Ljebuse
+        ascii_name: Ljubusa
+        name: Ljubuša
+        names_en: ~
+        names_es: ~
+        population: 1250
+      - 
+        alternate_names: 
+          - Isniqi
+          - Rrezari
+        ascii_name: Isniq
+        name: Isniq
+        names_en: ~
+        names_es: ~
+        population: 5500
+      - 
+        alternate_names: 
+          - "Strallc i Eperm"
+          - "Strallc i Epërm"
+          - "Strellc i Eperm"
+        ascii_name: "Strellc i Eperm"
+        name: "Strellc i Epërm"
+        names_en: ~
+        names_es: ~
+        population: 6100
+      - 
+        alternate_names: 
+          - "Lluka e Eperme"
+          - "Lluka e Epërme"
+          - "Lluke e Eperme"
+        ascii_name: "Lluka e Eperme"
+        name: "Lluka e Eperme"
+        names_en: ~
+        names_es: ~
+        population: 1500
+      - 
+        alternate_names: 
+          - Fortesa
+          - Glacani
+          - Gladane
+        ascii_name: Gllogjan
+        name: Gllogjan
+        names_en: ~
+        names_es: ~
+        population: 2000
+      - 
+        alternate_names: 
+          - "Strellc i Poshtem"
+          - "Strellc i Poshtëm"
+        ascii_name: "Strellc i Ulet"
+        name: "Strellc i Ulët"
+        names_en: ~
+        names_es: ~
+        population: 2850
+      - 
+        alternate_names: 
+          - Decan
+          - Decani
+          - Dekan
+        ascii_name: Decan
+        name: Deçan
+        names_en: 
+          - Deçan
+        names_es: ~
+        population: 50500
+      - 
+        alternate_names: 
+          - Papracane
+          - Papraqan
+          - Papraćane
+        ascii_name: Papraqan
+        name: Papraqan
+        names_en: ~
+        names_es: ~
+        population: 1288
+      - 
+        alternate_names: 
+          - Llocan
+          - Llocani
+          - Lloqan
+        ascii_name: Lloqan
+        name: Lloqan
+        names_en: ~
+        names_es: ~
+        population: 1050
+    name: "Komuna e Deçanit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Gjakoves"
+    cities: []
+    name: "Komuna e Gjakovës"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Opstina Kosovo Polje"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fushe Kosove"
+          - Fushe-Kosova
+          - "Fushë Kosovë"
+        ascii_name: "Kosovo Polje"
+        name: "Kosovo Polje"
+        names_en: ~
+        names_es: ~
+        population: 16154
+    name: "Opština Kosovo Polje"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Opstina Strpce"
+    cities: 
+      - 
+        alternate_names: 
+          - Shterpce
+          - Shtrpce
+          - Shtërpcë
+        ascii_name: Strpce
+        name: Štrpce
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Opština Štrpce"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Shtimes"
+    cities: 
+      - 
+        alternate_names: 
+          - Shtime
+          - Shtimle
+          - Stimle
+        ascii_name: Shtime
+        name: Shtime
+        names_en: ~
+        names_es: ~
+        population: 35000
+    name: "Komuna e Shtimes"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Opstina Novo Brdo"
+    cities: []
+    name: "Opština Novo Brdo"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Obiliqit"
+    cities: 
+      - 
+        alternate_names: 
+          - Gllaboder
+          - Kastriot
+          - Obilic
+        ascii_name: Obiliq
+        name: Obiliq
+        names_en: ~
+        names_es: ~
+        population: 11612
+    name: "Komuna e Obiliqit"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Malisheves"
+    cities: 
+      - 
+        alternate_names: 
+          - Malisevo
+          - Malisheve
+          - Malishevo
+        ascii_name: Malisevo
+        name: Mališevo
+        names_en: ~
+        names_es: ~
+        population: 2300
+      - 
+        alternate_names: 
+          - Llazice
+          - Llazicë
+          - Llozice
+        ascii_name: Llazice
+        name: Llazicë
+        names_en: ~
+        names_es: ~
+        population: 19863
+    name: "Komuna e Malisheves"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Komuna e Zubin Potokut"
+    cities: 
+      - 
+        alternate_names: 
+          - "Zubin Potok"
+          - Zubinpotok
+          - "Зубин Поток"
+        ascii_name: "Zubin Potok"
+        name: "Zubin Potok"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Komuna e Zubin Potokut"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Opstina Zvecan"
+    cities: 
+      - 
+        alternate_names: 
+          - Zaccan
+          - Zvecan
+          - Zvechan
+        ascii_name: Zvecan
+        name: Zvečan
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Opština Zvečan"
+    names_en: ~
+    names_es: ~

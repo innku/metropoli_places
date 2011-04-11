@@ -1,253 +1,404 @@
 --- 
-code: NA
-continent: AF
 name: Namibia
-population: 2128471
+names_en: 
+  - Namibia
+names_es: 
+  - Namibia
 regions: 
   - 
+    ascii_name: Caprivi
     cities: 
       - 
-        districts: []
-        location: "POINT (-22.9574999999999996 14.5052800000000008)"
-        name: "Walvis Bay"
-        population: 52058
-        slug: walvis-bay
-      - 
-        districts: []
-        location: "POINT (-22.0000000000000000 15.5999999999999996)"
-        name: Usakos
-        population: 9147
-        slug: usakos
-      - 
-        districts: []
-        location: "POINT (-22.6833300000000015 14.5333299999999994)"
-        name: Swakopmund
-        population: 25047
-        slug: swakopmund
-      - 
-        districts: []
-        location: "POINT (-22.3500000000000014 16.1333300000000008)"
-        name: Otjimbingwe
-        population: 7677
-        slug: otjimbingwe
-      - 
-        districts: []
-        location: "POINT (-21.4333300000000015 15.9333299999999998)"
-        name: Omaruru
-        population: 11547
-        slug: omaruru
-      - 
-        districts: []
-        location: "POINT (-21.9333300000000015 15.8333300000000001)"
-        name: Karibib
-        population: 6898
-        slug: karibib
-      - 
-        districts: []
-        location: "POINT (-22.1166699999999992 14.2833299999999994)"
-        name: Hentiesbaai
-        population: 3837
-        slug: hentiesbaai
-      - 
-        districts: []
-        location: "POINT (-22.4166699999999999 14.9666700000000006)"
-        name: Arandis
-        population: 4507
-        slug: arandis
-      - 
-        districts: []
-        location: "POINT (-22.5594099999999997 17.0832300000000004)"
-        name: Windhoek
-        population: 268132
-        slug: windhoek
-    code: NA.29
-    name: Erongo
-    slug: erongo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-22.4499999999999993 18.9666700000000006)"
-        name: Gobabis
-        population: 16321
-        slug: gobabis
-      - 
-        districts: []
-        location: "POINT (-23.3166699999999985 17.0833300000000001)"
-        name: Rehoboth
-        population: 21377
-        slug: rehoboth
-      - 
-        districts: []
-        location: "POINT (-24.6333300000000008 17.9666700000000006)"
-        name: Mariental
-        population: 13380
-        slug: mariental
-      - 
-        districts: []
-        location: "POINT (-24.8333300000000001 16.9833299999999987)"
-        name: Maltahöhe
-        population: 2329
-        slug: maltahohe
-      - 
-        districts: []
-        location: "POINT (-24.1333300000000008 19.1166699999999992)"
-        name: Aranos
-        population: 3430
-        slug: aranos
-    code: NA.30
-    name: Hardap
-    slug: hardap
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-28.5500000000000007 16.4333300000000015)"
-        name: Oranjemund
-        population: 8496
-        slug: oranjemund
-      - 
-        districts: []
-        location: "POINT (-28.4499999999999993 18.7333299999999987)"
-        name: Warmbad
-        population: 6700
-        slug: warmbad
-      - 
-        districts: []
-        location: "POINT (-26.6480600000000010 15.1594400000000000)"
-        name: Lüderitz
-        population: 15137
-        slug: luderitz
-      - 
-        districts: []
-        location: "POINT (-26.5833300000000001 18.1333300000000008)"
-        name: Keetmanshoop
-        population: 15608
-        slug: keetmanshoop
-      - 
-        districts: []
-        location: "POINT (-28.0166700000000013 18.7500000000000000)"
-        name: Karasburg
-        population: 6054
-        slug: karasburg
-      - 
-        districts: []
-        location: "POINT (-26.4833299999999987 17.1499999999999986)"
-        name: Bethanie
-        population: 10363
-        slug: bethanie
-    code: NA.31
-    name: Karas
-    slug: karas
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-20.1166699999999992 16.1499999999999986)"
-        name: Outjo
-        population: 6557
-        slug: outjo
-      - 
-        districts: []
-        location: "POINT (-20.3666699999999992 14.9666700000000006)"
-        name: Khorixas
-        population: 12021
-        slug: khorixas
-    code: NA.32
-    name: Kunene
-    slug: kunene
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-17.3999999999999986 15.8833300000000008)"
-        name: Oshikango
-        population: 2658
-        slug: oshikango
-      - 
-        districts: []
-        location: "POINT (-18.0606800000000014 13.8399800000000006)"
-        name: Opuwo
-        population: 4857
-        slug: opuwo
-      - 
-        districts: []
-        location: "POINT (-17.7833299999999994 15.6833299999999998)"
-        name: Oshakati
-        population: 33618
-        slug: oshakati
-      - 
-        districts: []
-        location: "POINT (-17.8833300000000008 15.0666700000000002)"
-        name: Ongandjera
-        population: 2719
-        slug: ongandjera
-      - 
-        districts: []
-        location: "POINT (-17.7833299999999994 15.7666699999999995)"
-        name: Ongwediva
-        population: 9654
-        slug: ongwediva
-      - 
-        districts: []
-        location: "POINT (-17.9166699999999999 15.9499999999999993)"
-        name: Ondangwa
-        population: 9124
-        slug: ondangwa
-    code: NA.37
-    name: Oshana
-    slug: oshana
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-17.5000000000000000 24.2666700000000013)"
+        alternate_names: 
+          - "Katima Molilo"
+          - "Katima Mulilo"
+          - Katima-Mulilo
+        ascii_name: "Katima Mulilo"
         name: "Katima Mulilo"
+        names_en: 
+          - "Katima Mulilo"
+        names_es: 
+          - "Katima Mulilo"
         population: 25027
-        slug: katima-mulilo
+    name: Caprivi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Khomas
+    cities: 
       - 
-        districts: []
-        location: "POINT (-17.9333300000000015 19.7666700000000013)"
+        alternate_names: 
+          - Gouintchouk
+          - Vindhuk
+          - Vindhukas
+        ascii_name: Windhoek
+        name: Windhoek
+        names_en: 
+          - Windhoek
+        names_es: 
+          - Windhoek
+        population: 268132
+    name: Khomas
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Erongo
+    cities: 
+      - 
+        alternate_names: 
+          - Usakos
+        ascii_name: Usakos
+        name: Usakos
+        names_en: ~
+        names_es: ~
+        population: 9147
+      - 
+        alternate_names: 
+          - Svakopmund
+          - Swakopmund
+          - suwakopumunto
+        ascii_name: Swakopmund
+        name: Swakopmund
+        names_en: 
+          - Swakopmund
+        names_es: 
+          - Swakopmund
+        population: 25047
+      - 
+        alternate_names: 
+          - Otjimbingue
+          - Otjimbingwe
+        ascii_name: Otjimbingwe
+        name: Otjimbingwe
+        names_en: ~
+        names_es: ~
+        population: 7677
+      - 
+        alternate_names: 
+          - Omaruru
+        ascii_name: Omaruru
+        name: Omaruru
+        names_en: ~
+        names_es: ~
+        population: 11547
+      - 
+        alternate_names: 
+          - Karibib
+        ascii_name: Karibib
+        name: Karibib
+        names_en: ~
+        names_es: ~
+        population: 6898
+      - 
+        alternate_names: 
+          - "Henties Bay"
+          - Hentiesbaai
+        ascii_name: Hentiesbaai
+        name: Hentiesbaai
+        names_en: ~
+        names_es: ~
+        population: 3837
+      - 
+        alternate_names: 
+          - Arandis
+        ascii_name: Arandis
+        name: Arandis
+        names_en: ~
+        names_es: ~
+        population: 4507
+      - 
+        alternate_names: 
+          - "Valvis Bej"
+          - Volfis-Bej
+          - Walfisch-Bucht-Niederland
+        ascii_name: "Walvis Bay"
+        name: "Walvis Bay"
+        names_en: 
+          - "Walvis Bay"
+        names_es: 
+          - "Walvis Bay"
+        population: 52058
+    name: Erongo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Hardap
+    cities: 
+      - 
+        alternate_names: 
+          - Rehoboth
+          - Rekhobot
+          - Рехобот
+        ascii_name: Rehoboth
+        name: Rehoboth
+        names_en: ~
+        names_es: ~
+        population: 21377
+      - 
+        alternate_names: 
+          - Mariental
+        ascii_name: Mariental
+        name: Mariental
+        names_en: ~
+        names_es: ~
+        population: 13380
+      - 
+        alternate_names: 
+          - Maltahohe
+          - Maltahöhe
+        ascii_name: Maltahohe
+        name: Maltahöhe
+        names_en: ~
+        names_es: ~
+        population: 2329
+      - 
+        alternate_names: ~
+        ascii_name: Aranos
+        name: Aranos
+        names_en: ~
+        names_es: ~
+        population: 3430
+    name: Hardap
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Karas
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Warmbad
+        name: Warmbad
+        names_en: ~
+        names_es: ~
+        population: 6700
+      - 
+        alternate_names: 
+          - "Orange Mouth"
+          - Orangemund
+          - Oranjemond
+        ascii_name: Oranjemund
+        name: Oranjemund
+        names_en: ~
+        names_es: ~
+        population: 8496
+      - 
+        alternate_names: 
+          - Ljuderic
+          - Luderitz
+          - Luederitz
+        ascii_name: Luderitz
+        name: Lüderitz
+        names_en: 
+          - Lüderitz
+        names_es: 
+          - Lüderitz
+        population: 15137
+      - 
+        alternate_names: 
+          - Keetmanshoop
+        ascii_name: Keetmanshoop
+        name: Keetmanshoop
+        names_en: 
+          - Keetmanshoop
+        names_es: 
+          - Keetmanshoop
+        population: 15608
+      - 
+        alternate_names: 
+          - Kalkfontein
+          - "Kalkfontein South"
+          - Karasburg
+        ascii_name: Karasburg
+        name: Karasburg
+        names_en: ~
+        names_es: ~
+        population: 6054
+      - 
+        alternate_names: 
+          - Bethanie
+          - Bethanien
+          - Bethany
+        ascii_name: Bethanie
+        name: Bethanie
+        names_en: ~
+        names_es: ~
+        population: 10363
+    name: Karas
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Kunene
+    cities: 
+      - 
+        alternate_names: 
+          - Outjo
+        ascii_name: Outjo
+        name: Outjo
+        names_en: ~
+        names_es: ~
+        population: 6557
+      - 
+        alternate_names: 
+          - Khorixas
+          - Wallwitch
+          - Wellwitsch
+        ascii_name: Khorixas
+        name: Khorixas
+        names_en: ~
+        names_es: ~
+        population: 12021
+    name: Kunene
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Ohangwena
+    cities: 
+      - 
+        alternate_names: 
+          - Oshikango
+        ascii_name: Oshikango
+        name: Oshikango
+        names_en: ~
+        names_es: ~
+        population: 2658
+    name: Ohangwena
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Okavango
+    cities: 
+      - 
+        alternate_names: 
+          - Rundu
+          - Runtu
+          - Рунду
+        ascii_name: Rundu
         name: Rundu
+        names_en: ~
+        names_es: ~
         population: 58172
-        slug: rundu
+    name: Okavango
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Omaheke
+    cities: 
       - 
-        districts: []
-        location: "POINT (-19.2333299999999987 17.7166700000000006)"
+        alternate_names: 
+          - Gobabis
+        ascii_name: Gobabis
+        name: Gobabis
+        names_en: ~
+        names_es: ~
+        population: 16321
+    name: Omaheke
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Omusati
+    cities: 
+      - 
+        alternate_names: 
+          - Okandjera
+          - Ongandjera
+          - Rehoboth
+        ascii_name: Ongandjera
+        name: Ongandjera
+        names_en: ~
+        names_es: ~
+        population: 2719
+    name: Omusati
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Oshana
+    cities: 
+      - 
+        alternate_names: 
+          - Okatana
+          - Oshakati
+          - Ошакати
+        ascii_name: Oshakati
+        name: Oshakati
+        names_en: ~
+        names_es: ~
+        population: 33618
+      - 
+        alternate_names: 
+          - Onguedira
+          - Onguediva
+          - Ongwediva
+        ascii_name: Ongwediva
+        name: Ongwediva
+        names_en: ~
+        names_es: ~
+        population: 9654
+      - 
+        alternate_names: 
+          - Ondangua
+          - Ondangwa
+          - Ondonga
+        ascii_name: Ondangwa
+        name: Ondangwa
+        names_en: ~
+        names_es: ~
+        population: 9124
+    name: Oshana
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Oshikoto
+    cities: 
+      - 
+        alternate_names: 
+          - Tsumeb
+        ascii_name: Tsumeb
         name: Tsumeb
+        names_en: ~
+        names_es: ~
         population: 12190
-        slug: tsumeb
+    name: Oshikoto
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Otjozondjupa
+    cities: 
       - 
-        districts: []
-        location: "POINT (-19.6499999999999986 17.3333300000000001)"
+        alternate_names: 
+          - Otavi
+          - Otawi
+        ascii_name: Otavi
         name: Otavi
+        names_en: ~
+        names_es: ~
         population: 4562
-        slug: otavi
       - 
-        districts: []
-        location: "POINT (-20.5833300000000001 17.4333300000000015)"
+        alternate_names: ~
+        ascii_name: Okakarara
         name: Okakarara
+        names_en: ~
+        names_es: ~
         population: 5255
-        slug: okakarara
       - 
-        districts: []
-        location: "POINT (-21.9833299999999987 16.9166699999999999)"
+        alternate_names: 
+          - Okahandja
+          - Okahanja
+        ascii_name: Okahandja
         name: Okahandja
+        names_en: 
+          - Okahandja
+        names_es: 
+          - Okahandja
         population: 20879
-        slug: okahandja
       - 
-        districts: []
-        location: "POINT (-19.5666699999999985 18.1166699999999992)"
+        alternate_names: 
+          - Grootfontein
+          - Groutfontein
+        ascii_name: Grootfontein
         name: Grootfontein
+        names_en: ~
+        names_es: ~
         population: 24099
-        slug: grootfontein
-      - 
-        districts: []
-        location: "POINT (-20.4636899999999997 16.6477199999999996)"
-        name: Otjiwarongo
-        population: 21224
-        slug: otjiwarongo
-    code: NA.39
     name: Otjozondjupa
-    slug: otjozondjupa
-tld: na
+    names_en: ~
+    names_es: ~

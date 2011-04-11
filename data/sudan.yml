@@ -1,629 +1,1064 @@
 --- 
-code: SD
-continent: AF
 name: Sudan
-population: 43939598
+names_en: 
+  - Sudan
+names_es: 
+  - Sudán
 regions: 
   - 
+    ascii_name: "Northern State"
     cities: 
       - 
-        districts: []
-        location: "POINT (15.6361100000000004 32.4372200000000035)"
-        name: Omdurman
-        population: 1200000
-        slug: omdurman
-      - 
-        districts: []
-        location: "POINT (15.5466499999999996 32.5336100000000030)"
-        name: Khartoum
-        population: 1974647
-        slug: khartoum
-    code: SD.29
-    name: Khartoum
-    slug: khartoum
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (19.1058999999999983 37.3320999999999970)"
-        name: Sawākin
-        population: 28570
-        slug: sawakin
-      - 
-        districts: []
-        location: "POINT (18.4253999999999998 37.7289999999999992)"
-        name: Tokār
-        population: 22250
-        slug: tokar
-      - 
-        districts: []
-        location: "POINT (21.0666699999999985 36.3166700000000020)"
-        name: Gebeit
-        population: 11095
-        slug: gebeit
-      - 
-        districts: []
-        location: "POINT (19.6158299999999990 37.2163899999999970)"
-        name: "Port Sudan"
-        population: 489725
-        slug: port-sudan
-    code: SD.36
-    name: "Red Sea"
-    slug: red-sea
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.1602800000000002 33.1397199999999970)"
-        name: "Wad Rāwah"
-        population: 10348
-        slug: wad-rawah
-      - 
-        districts: []
-        location: "POINT (14.4055999999999997 33.4988999999999990)"
-        name: "Wad Medani"
-        population: 332714
-        slug: wad-medani
-      - 
-        districts: []
-        location: "POINT (14.5747999999999998 33.3372999999999990)"
-        name: "Al Masallamiyya"
-        population: 9373
-        slug: al-masallamiyya
-      - 
-        districts: []
-        location: "POINT (14.2459000000000007 32.9891000000000005)"
-        name: "Al Manāqil"
-        population: 128297
-        slug: al-manaqil
-      - 
-        districts: []
-        location: "POINT (14.3475999999999999 32.9436999999999998)"
-        name: "Al Kiremit al ‘Arakiyyīn"
-        population: 9775
-        slug: al-kiremit-al-arakiyyin
-      - 
-        districts: []
-        location: "POINT (14.9398000000000000 33.2340000000000018)"
-        name: "Al Hilāliyya"
-        population: 17345
-        slug: al-hilaliyya
-      - 
-        districts: []
-        location: "POINT (14.7324000000000002 33.3019000000000034)"
-        name: "Al Ḩaşāḩīşa"
-        population: 28735
-        slug: al-hasahisa
-    code: SD.38
-    name: "Al Jazirah"
-    slug: al-jazirah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.5166699999999995 35.7666699999999977)"
-        name: Doka
-        population: 19821
-        slug: doka
-      - 
-        districts: []
-        location: "POINT (14.0333299999999994 35.3999999999999986)"
-        name: Gedaref
-        population: 0
-        slug: gedaref
-      - 
-        districts: []
-        location: "POINT (13.4166699999999999 34.6333300000000008)"
-        name: "Al Ḩawātah"
-        population: 24513
-        slug: al-hawatah
-    code: SD.39
-    name: "Al Qadarif"
-    slug: al-qadarif
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.5369399999999995 31.6561100000000017)"
-        name: Malakal
-        population: 160765
-        slug: malakal
-      - 
-        districts: []
-        location: "POINT (6.8038999999999996 29.6909700000000001)"
-        name: Rumbek
-        population: 32083
-        slug: rumbek
-      - 
-        districts: []
-        location: "POINT (8.3000000000000007 30.1333300000000008)"
-        name: Ler
-        population: 10486
-        slug: ler
-      - 
-        districts: []
-        location: "POINT (9.2333300000000005 29.8333300000000001)"
-        name: Bentiu
-        population: 7653
-        slug: bentiu
-    code: SD.40
-    name: Unity
-    slug: unity
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.4619000000000000 32.2064999999999984)"
-        name: "Wad az Zāki"
-        population: 9271
-        slug: wad-az-zaki
-      - 
-        districts: []
-        location: "POINT (13.8012999999999995 32.4078000000000017)"
-        name: "Um Jar Al Gharbiyya"
-        population: 9038
-        slug: um-jar-al-gharbiyya
-      - 
-        districts: []
-        location: "POINT (13.0166699999999995 31.8666699999999992)"
-        name: Tandaltī
-        population: 27275
-        slug: tandalti
-      - 
-        districts: []
-        location: "POINT (13.1500000000000004 32.7333300000000023)"
-        name: Rabaq
-        population: 135281
-        slug: rabaq
-      - 
-        districts: []
-        location: "POINT (12.3499999999999996 32.1833299999999980)"
-        name: Marabba
-        population: 12108
-        slug: marabba
-      - 
-        districts: []
-        location: "POINT (13.1666699999999999 32.6666700000000034)"
-        name: Kūstī
-        population: 345068
-        slug: kusti
-      - 
-        districts: []
-        location: "POINT (14.8648000000000007 32.3667999999999978)"
-        name: "Al Qiţena"
-        population: 18321
-        slug: al-qitena
-      - 
-        districts: []
-        location: "POINT (13.7462999999999997 32.4996000000000009)"
-        name: "Al Kawa"
-        population: 10167
-        slug: al-kawa
-      - 
-        districts: []
-        location: "POINT (14.0012000000000008 32.3115999999999985)"
-        name: "Ad Diwem"
-        population: 87068
-        slug: ad-diwem
-    code: SD.41
-    name: "White Nile"
-    slug: white-nile
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.5500000000000007 34.2833299999999994)"
-        name: Kurmuk
-        population: 10375
-        slug: kurmuk
-      - 
-        districts: []
-        location: "POINT (11.8658999999999999 34.3868999999999971)"
-        name: "Ar Ruseris"
-        population: 28862
-        slug: ar-ruseris
-      - 
-        districts: []
-        location: "POINT (11.7890999999999995 34.3592000000000013)"
-        name: "Ed Damazin"
-        population: 186051
-        slug: ed-damazin
-    code: SD.42
-    name: "Blue Nile"
-    slug: blue-nile
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (19.6333300000000008 30.4166699999999999)"
-        name: "Karmah an Nuzul"
-        population: 3928
-        slug: karmah-an-nuzul
-      - 
-        districts: []
-        location: "POINT (19.1666699999999999 30.4833299999999987)"
+        alternate_names: 
+          - "Ciutat de Dongola"
+          - Dongola
+          - Donkola
+        ascii_name: Dongola
         name: Dongola
+        names_en: 
+          - Dongola
+        names_es: ~
         population: 0
-        slug: dongola
       - 
-        districts: []
-        location: "POINT (18.4833299999999987 31.8166699999999985)"
+        alternate_names: 
+          - Marawi
+          - Marawī
+          - Merawi
+        ascii_name: Marawi
         name: Marawī
+        names_en: ~
+        names_es: ~
         population: 10234
-        slug: marawi
       - 
-        districts: []
-        location: "POINT (18.5500000000000007 31.8500000000000014)"
+        alternate_names: 
+          - Kareima
+          - Karemah
+          - Karima
+        ascii_name: Kuraymah
         name: Kuraymah
+        names_en: ~
+        names_es: ~
         population: 19593
-        slug: kuraymah
       - 
-        districts: []
-        location: "POINT (19.5166700000000013 30.4166699999999999)"
+        alternate_names: 
+          - "Karma An Nuzul"
+          - Karmah
+          - "Karmah an Nuzul"
+        ascii_name: "Karmah an Nuzul"
+        name: "Karmah an Nuzul"
+        names_en: ~
+        names_es: ~
+        population: 3928
+      - 
+        alternate_names: 
+          - Argo
+          - Arqo
+        ascii_name: Argo
         name: Argo
+        names_en: ~
+        names_es: ~
         population: 7716
-        slug: argo
       - 
-        districts: []
-        location: "POINT (18.0500000000000007 30.9499999999999993)"
+        alternate_names: 
+          - "Ad Dabba"
+          - "Ad Dabbah"
+          - "Al Dabbah"
+        ascii_name: "Ad Dabbah"
         name: "Ad Dabbah"
+        names_en: ~
+        names_es: ~
         population: 11626
-        slug: ad-dabbah
-    code: SD.43
-    name: Northern
-    slug: northern
+    name: "Northern State"
+    names_en: 
+      - Northern
+      - "Northern State"
+    names_es: ~
   - 
+    ascii_name: Khartoum
     cities: 
       - 
-        districts: []
-        location: "POINT (4.0913899999999996 30.6786099999999990)"
+        alternate_names: 
+          - Omdourman
+          - Omdurman
+          - Omdurmana
+        ascii_name: Omdurman
+        name: Omdurman
+        names_en: 
+          - Omdurman
+        names_es: ~
+        population: 1200000
+      - 
+        alternate_names: 
+          - "Al Khartum"
+          - "Al Kharţūm"
+          - "Al Khurtum"
+        ascii_name: Khartoum
+        name: Khartoum
+        names_en: 
+          - Khartoum
+        names_es: 
+          - Jartum
+        population: 1974647
+    name: Khartoum
+    names_en: 
+      - Khartoum
+      - "Khartoum Province"
+      - "Khartoum State"
+    names_es: ~
+  - 
+    ascii_name: "Upper Nile"
+    cities: 
+      - 
+        alternate_names: 
+          - Malakal
+          - Malakal'
+          - Малакаль
+        ascii_name: Malakal
+        name: Malakal
+        names_en: 
+          - Malakal
+        names_es: ~
+        population: 160765
+    name: "Upper Nile"
+    names_en: 
+      - "Upper Nile"
+      - "Upper Nile State"
+    names_es: ~
+  - 
+    ascii_name: "Red Sea"
+    cities: 
+      - 
+        alternate_names: 
+          - Tawkar
+          - Tokar
+          - Tokār
+        ascii_name: Tokar
+        name: Tokār
+        names_en: ~
+        names_es: ~
+        population: 22250
+      - 
+        alternate_names: 
+          - Savakine
+          - Sawakin
+          - Sawākin
+        ascii_name: Sawakin
+        name: Sawākin
+        names_en: ~
+        names_es: ~
+        population: 28570
+      - 
+        alternate_names: 
+          - Gebeit
+          - Jabet
+          - Jabēt
+        ascii_name: Gebeit
+        name: Gebeit
+        names_en: ~
+        names_es: ~
+        population: 11095
+      - 
+        alternate_names: 
+          - "Bur Sudan"
+          - "Burt Sudan"
+          - "Būr Sūdān"
+        ascii_name: "Port Sudan"
+        name: "Port Sudan"
+        names_en: 
+          - "Port Sudan"
+        names_es: 
+          - "Port Sudan"
+        population: 489725
+    name: "Red Sea"
+    names_en: 
+      - "Red Sea"
+      - "Red Sea State"
+    names_es: ~
+  - 
+    ascii_name: Lakes
+    cities: 
+      - 
+        alternate_names: 
+          - Rumbek
+          - Rumbeke
+          - Rumbik
+        ascii_name: Rumbek
+        name: Rumbek
+        names_en: 
+          - Rumbek
+        names_es: 
+          - Rumbek
+        population: 32083
+    name: Lakes
+    names_en: 
+      - Lakes
+      - "Lakes State"
+    names_es: ~
+  - 
+    ascii_name: "Gezira State"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hillet Sa`id"
+          - "Hillet Sa‘id"
+          - "Wad Rawa"
+        ascii_name: "Wad Rawah"
+        name: "Wad Rāwah"
+        names_en: ~
+        names_es: ~
+        population: 10348
+      - 
+        alternate_names: 
+          - Medani
+          - "Wad Madani"
+          - "Wad Medani"
+        ascii_name: "Wad Medani"
+        name: "Wad Medani"
+        names_en: 
+          - "Wad Madani"
+        names_es: ~
+        population: 332714
+      - 
+        alternate_names: 
+          - "Al Masallamiyya"
+          - "Al Musallamiyah"
+          - "Al Musallamīyah"
+        ascii_name: "Al Masallamiyya"
+        name: "Al Masallamiyya"
+        names_en: ~
+        names_es: ~
+        population: 9373
+      - 
+        alternate_names: 
+          - "Al Manaqil"
+          - "Al Manāqil"
+          - "El Managil"
+        ascii_name: "Al Manaqil"
+        name: "Al Manāqil"
+        names_en: ~
+        names_es: ~
+        population: 128297
+      - 
+        alternate_names: 
+          - "Al Kereimet"
+          - "Al Kiremit al `Arakiyyin"
+          - "Al Kiremit al ‘Arakiyyīn"
+        ascii_name: "Al Kiremit al `Arakiyyin"
+        name: "Al Kiremit al ‘Arakiyyīn"
+        names_en: ~
+        names_es: ~
+        population: 9775
+      - 
+        alternate_names: 
+          - "Al Hilaliyah"
+          - "Al Hilaliyya"
+          - "Al Hilāliyya"
+        ascii_name: "Al Hilaliyya"
+        name: "Al Hilāliyya"
+        names_en: ~
+        names_es: ~
+        population: 17345
+      - 
+        alternate_names: 
+          - "Al Hasahisa"
+          - "Al Ḩaşāḩīşa"
+          - "El Hasaheisa"
+        ascii_name: Hasiheisa
+        name: Hasiheisa
+        names_en: ~
+        names_es: ~
+        population: 28735
+    name: "Gezira State"
+    names_en: 
+      - "Al Jazirah"
+      - "Gezira State"
+    names_es: ~
+  - 
+    ascii_name: "Gedaref State"
+    cities: 
+      - 
+        alternate_names: 
+          - Doka
+        ascii_name: Doka
+        name: Doka
+        names_en: ~
+        names_es: ~
+        population: 19821
+      - 
+        alternate_names: 
+          - "Al Qadarif"
+          - "Al Qaḑārif"
+          - Al-Qadarif
+        ascii_name: Gedaref
+        name: Gedaref
+        names_en: 
+          - "Al Qadarif"
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Al Hawatah"
+          - "Al Hawwata"
+          - "Al Ḩawātah"
+        ascii_name: "Al Hawatah"
+        name: "Al Ḩawātah"
+        names_en: ~
+        names_es: ~
+        population: 24513
+    name: "Gedaref State"
+    names_en: 
+      - "Al Qadarif"
+      - "Gedaref State"
+    names_es: ~
+  - 
+    ascii_name: "Unity State"
+    cities: 
+      - 
+        alternate_names: 
+          - Ler
+          - Lir
+          - Līr
+        ascii_name: Ler
+        name: Ler
+        names_en: ~
+        names_es: ~
+        population: 10486
+      - 
+        alternate_names: 
+          - Bantiyo
+          - Bentiu
+          - Kilwal
+        ascii_name: Bentiu
+        name: Bentiu
+        names_en: 
+          - Bentiu
+        names_es: ~
+        population: 7653
+    name: "Unity State"
+    names_en: 
+      - Unity
+      - "Unity State"
+    names_es: ~
+  - 
+    ascii_name: "White Nile"
+    cities: 
+      - 
+        alternate_names: 
+          - "Wad az Zaki"
+          - "Wad az Zāki"
+          - "Wad ez Zaki"
+        ascii_name: "Wad az Zaki"
+        name: "Wad az Zāki"
+        names_en: ~
+        names_es: ~
+        population: 9271
+      - 
+        alternate_names: 
+          - "Um Jar Al Gharbiyya"
+          - "Umm Garr"
+          - "Umm Jarr"
+        ascii_name: "Um Jar Al Gharbiyya"
+        name: "Um Jar Al Gharbiyya"
+        names_en: ~
+        names_es: ~
+        population: 9038
+      - 
+        alternate_names: 
+          - Tandalti
+          - Tandaltī
+          - Tendelti
+        ascii_name: Tandalti
+        name: Tandaltī
+        names_en: ~
+        names_es: ~
+        population: 27275
+      - 
+        alternate_names: 
+          - Rabak
+          - Rabaq
+          - rbk
+        ascii_name: Rabaq
+        name: Rabaq
+        names_en: 
+          - Rabak
+        names_es: ~
+        population: 135281
+      - 
+        alternate_names: ~
+        ascii_name: Marabba
+        name: Marabba
+        names_en: ~
+        names_es: ~
+        population: 12108
+      - 
+        alternate_names: 
+          - Costi
+          - Kosti
+          - Kusti
+        ascii_name: Kusti
+        name: Kūstī
+        names_en: ~
+        names_es: ~
+        population: 345068
+      - 
+        alternate_names: 
+          - "Al Qitena"
+          - "Al Qiţena"
+          - "Al Qutaynah"
+        ascii_name: "Al Qitena"
+        name: "Al Qiţena"
+        names_en: ~
+        names_es: ~
+        population: 18321
+      - 
+        alternate_names: 
+          - "Al Kawa"
+          - "Al Kawah"
+          - "El Kawa"
+        ascii_name: "Al Kawa"
+        name: "Al Kawa"
+        names_en: ~
+        names_es: ~
+        population: 10167
+      - 
+        alternate_names: 
+          - "Ad Diwem"
+          - "Ad Duwaym"
+          - "Ad Duwem"
+        ascii_name: "Ad Diwem"
+        name: "Ad Diwem"
+        names_en: ~
+        names_es: ~
+        population: 87068
+    name: "White Nile"
+    names_en: 
+      - "White Nile"
+      - "White Nile State"
+    names_es: ~
+  - 
+    ascii_name: "Blue Nile"
+    cities: 
+      - 
+        alternate_names: 
+          - Kurmuk
+          - Kurmul
+        ascii_name: Kurmuk
+        name: Kurmuk
+        names_en: ~
+        names_es: ~
+        population: 10375
+      - 
+        alternate_names: 
+          - "Ar Roseris"
+          - "Ar Rusayris"
+          - "Ar Ruseris"
+        ascii_name: "Ar Ruseris"
+        name: "Ar Ruseris"
+        names_en: ~
+        names_es: ~
+        population: 28862
+      - 
+        alternate_names: 
+          - "Ad Damazin"
+          - "Ad Damāzīn"
+          - Ad-Damazin
+        ascii_name: "Ed Damazin"
+        name: "Ed Damazin"
+        names_en: 
+          - Ad-Damazin
+        names_es: ~
+        population: 186051
+    name: "Blue Nile"
+    names_en: 
+      - "Blue Nile"
+      - "Blue Nile State"
+    names_es: ~
+  - 
+    ascii_name: "Central Equatoria State"
+    cities: 
+      - 
+        alternate_names: 
+          - Ej
+          - Yei
+          - Yey
+        ascii_name: Yei
         name: Yei
+        names_en: ~
+        names_es: ~
         population: 40382
-        slug: yei
       - 
-        districts: []
-        location: "POINT (6.2072200000000004 31.5591700000000017)"
-        name: Bor
-        population: 26782
-        slug: bor
-      - 
-        districts: []
-        location: "POINT (4.8499999999999996 31.6166699999999992)"
+        alternate_names: 
+          - Djouba
+          - Dzhuba
+          - Goba
+        ascii_name: Juba
         name: Juba
+        names_en: 
+          - Juba
+        names_es: ~
         population: 163442
-        slug: juba
-    code: SD.44
-    name: "Central Equatoria"
-    slug: central-equatoria
+    name: "Central Equatoria State"
+    names_en: 
+      - "Central Equatoria State"
+      - "Central Equatoria"
+    names_es: ~
   - 
+    ascii_name: "Western Equatoria State"
     cities: 
       - 
-        districts: []
-        location: "POINT (4.5705600000000004 28.4163899999999998)"
+        alternate_names: 
+          - Jambio
+          - Yambio
+          - Yambiyo
+        ascii_name: Yambio
         name: Yambio
+        names_en: 
+          - Yambio
+        names_es: ~
         population: 40382
-        slug: yambio
       - 
-        districts: []
-        location: "POINT (5.5999999999999996 27.4666700000000006)"
+        alternate_names: 
+          - Tambura
+          - Tembura
+          - Tumbura
+        ascii_name: Tambura
         name: Tambura
+        names_en: ~
+        names_es: ~
         population: 9483
-        slug: tambura
       - 
-        districts: []
-        location: "POINT (4.9147200000000000 29.4769399999999990)"
+        alternate_names: 
+          - Maridi
+          - Marīdī
+          - Meridi
+        ascii_name: Maridi
         name: Marīdī
+        names_en: ~
+        names_es: ~
         population: 14224
-        slug: maridi
-    code: SD.45
-    name: "Gharb al Istiwāʼīyah"
-    slug: gharb-al-istiwaiyah
+    name: "Western Equatoria State"
+    names_en: 
+      - "Western Equatoria State"
+    names_es: ~
   - 
+    ascii_name: "Western Bahr al Ghazal"
     cities: 
       - 
-        districts: []
-        location: "POINT (7.7000000000000002 28.0000000000000000)"
-        name: Wāw
+        alternate_names: 
+          - Vau
+          - Wau
+          - Waw
+        ascii_name: Wau
+        name: Wau
+        names_en: 
+          - Wau
+        names_es: ~
         population: 127384
-        slug: waw
       - 
-        districts: []
-        location: "POINT (8.4666700000000006 25.6833300000000015)"
+        alternate_names: 
+          - Raga
+          - Ragaa
+          - Raja
+        ascii_name: Raga
         name: Raga
+        names_en: ~
+        names_es: ~
         population: 3700
-        slug: raga
-      - 
-        districts: []
-        location: "POINT (8.7745800000000003 27.3942599999999992)"
-        name: Awel
-        population: 38745
-        slug: awel
-    code: SD.46
     name: "Western Bahr al Ghazal"
-    slug: western-bahr-al-ghazal
+    names_en: 
+      - "Western Bahr al Ghazal"
+      - "Western Bahr el Ghazal State"
+      - "Western Bahr el Ghazal"
+    names_es: ~
   - 
+    ascii_name: "Western Darfur State"
     cities: 
       - 
-        districts: []
-        location: "POINT (12.9000000000000004 23.4833299999999987)"
+        alternate_names: 
+          - Zalingee
+          - Zalingei
+          - Zalinje
+        ascii_name: Zalingei
         name: Zalingei
+        names_en: ~
+        names_es: ~
         population: 28687
-        slug: zalingei
       - 
-        districts: []
-        location: "POINT (13.4499999999999993 22.4499999999999993)"
+        alternate_names: 
+          - "Aj Jinena"
+          - "Aj Jinēna"
+          - "Al Geneina"
+        ascii_name: "El Geneina"
         name: "El Geneina"
+        names_en: 
+          - "El Geneina"
+        names_es: ~
         population: 162981
-        slug: el-geneina
-    code: SD.47
-    name: "Gharb Dārfūr"
-    slug: gharb-darfur
+    name: "Western Darfur State"
+    names_en: 
+      - "Western Darfur State"
+    names_es: ~
   - 
+    ascii_name: "Southern Darfur State"
     cities: 
       - 
-        districts: []
-        location: "POINT (10.6363900000000005 30.3797199999999989)"
-        name: Talawdī
-        population: 13188
-        slug: talawdi
-      - 
-        districts: []
-        location: "POINT (11.0166699999999995 29.7166700000000006)"
-        name: Kāduqlī
-        population: 87666
-        slug: kaduqli
-      - 
-        districts: []
-        location: "POINT (12.0500000000000007 29.6499999999999986)"
-        name: Dilling
-        population: 37113
-        slug: dilling
-      - 
-        districts: []
-        location: "POINT (11.0333299999999994 27.7333299999999987)"
-        name: "Al Mijlad"
-        population: 19997
-        slug: al-mijlad
-      - 
-        districts: []
-        location: "POINT (11.4000000000000004 29.1333300000000008)"
-        name: "Al Lagowa"
-        population: 11024
-        slug: al-lagowa
-      - 
-        districts: []
-        location: "POINT (11.8000000000000007 28.3999999999999986)"
-        name: "Al Fūlah"
-        population: 11238
-        slug: al-fulah
-      - 
-        districts: []
-        location: "POINT (11.4562000000000008 31.2285000000000004)"
-        name: "Abu Jibeha"
-        population: 21790
-        slug: abu-jibeha
-    code: SD.50
-    name: "Janūb Kurdufān"
-    slug: janub-kurdufan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.8166700000000002 36.1333300000000008)"
-        name: Aroma
-        population: 12708
-        slug: aroma
-      - 
-        districts: []
-        location: "POINT (16.1524999999999999 36.2032000000000025)"
-        name: Wagar
-        population: 11950
-        slug: wagar
-      - 
-        districts: []
-        location: "POINT (15.4570000000000007 36.4001000000000019)"
-        name: Kassala
-        population: 401477
-        slug: kassala
-    code: SD.52
-    name: Kassalā
-    slug: kassala
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (17.5927800000000012 33.9591700000000003)"
-        name: "Ed Damer"
-        population: 103941
-        slug: ed-damer
-      - 
-        districts: []
-        location: "POINT (16.6915000000000013 33.4341000000000008)"
-        name: Shendi
-        population: 53568
-        slug: shendi
-      - 
-        districts: []
-        location: "POINT (18.0215800000000002 33.9829900000000009)"
-        name: Berber
-        population: 22395
-        slug: berber
-      - 
-        districts: []
-        location: "POINT (17.6924999999999990 33.9851999999999990)"
-        name: "Madent Atbara"
-        population: 107930
-        slug: madent-atbara
-      - 
-        districts: []
-        location: "POINT (16.7094999999999985 33.3564999999999969)"
-        name: "El Matama"
-        population: 11366
-        slug: el-matama
-      - 
-        districts: []
-        location: "POINT (18.2619599999999984 33.9081199999999967)"
-        name: "El Bauga"
-        population: 19141
-        slug: el-bauga
-    code: SD.53
-    name: "Nahr an Nīl"
-    slug: nahr-an-nil
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.5999999999999996 26.6999999999999993)"
-        name: "Umm Kaddādah"
-        population: 10979
-        slug: umm-kaddadah
-      - 
-        districts: []
-        location: "POINT (14.1999999999999993 24.6666699999999999)"
-        name: Kutum
-        population: 9849
-        slug: kutum
-      - 
-        districts: []
-        location: "POINT (12.0500000000000007 24.8833300000000008)"
+        alternate_names: ~
+        ascii_name: Nyala
         name: Nyala
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: nyala
+    name: "Southern Darfur State"
+    names_en: 
+      - "Southern Darfur State"
+    names_es: ~
+  - 
+    ascii_name: "Southern Kordofan State"
+    cities: 
       - 
-        districts: []
-        location: "POINT (13.6333300000000008 25.3500000000000014)"
+        alternate_names: 
+          - Talawdi
+          - Talawdī
+          - Talodi
+        ascii_name: Talawdi
+        name: Talawdī
+        names_en: ~
+        names_es: ~
+        population: 13188
+      - 
+        alternate_names: 
+          - Kadugli
+          - Kaduqli
+          - Kāduqlī
+        ascii_name: Kadugli
+        name: Kadugli
+        names_en: 
+          - Kaduqli
+          - Kadugli
+        names_es: ~
+        population: 87666
+      - 
+        alternate_names: 
+          - "Ad Dalanj"
+          - Dilling
+          - Диллинг
+        ascii_name: Dilling
+        name: Dilling
+        names_en: ~
+        names_es: ~
+        population: 37113
+      - 
+        alternate_names: 
+          - "Al Mijlad"
+          - "Al Mujlad"
+          - "El Muglad"
+        ascii_name: "Al Mijlad"
+        name: "Al Mijlad"
+        names_en: ~
+        names_es: ~
+        population: 19997
+      - 
+        alternate_names: 
+          - "Al Lagawa"
+          - "Al Lagowa"
+          - "Al Lagāwa"
+        ascii_name: "Al Lagowa"
+        name: "Al Lagowa"
+        names_en: ~
+        names_es: ~
+        population: 11024
+      - 
+        alternate_names: 
+          - "Al Fulah"
+          - "Al Fūlah"
+          - Al-Fula
+        ascii_name: "Al Fulah"
+        name: "Al Fūlah"
+        names_en: ~
+        names_es: ~
+        population: 11238
+      - 
+        alternate_names: 
+          - "Abu Gibeyah"
+          - "Abu Gubeiha"
+          - "Abu Jibeha"
+        ascii_name: "Abu Jibeha"
+        name: "Abu Jibeha"
+        names_en: ~
+        names_es: ~
+        population: 21790
+    name: "Southern Kordofan State"
+    names_en: 
+      - "Southern Kordofan State"
+    names_es: ~
+  - 
+    ascii_name: "Jonglei State"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Bor
+        name: Bor
+        names_en: ~
+        names_es: ~
+        population: 26782
+    name: "Jonglei State"
+    names_en: 
+      - "Jonglei State"
+    names_es: ~
+  - 
+    ascii_name: "Kassala State"
+    cities: 
+      - 
+        alternate_names: 
+          - Wagar
+          - Wagga
+        ascii_name: Wagar
+        name: Wagar
+        names_en: ~
+        names_es: ~
+        population: 11950
+      - 
+        alternate_names: 
+          - Cassala
+          - Kasala
+          - Kassala
+        ascii_name: Kassala
+        name: Kassala
+        names_en: 
+          - Kassala
+        names_es: ~
+        population: 401477
+      - 
+        alternate_names: ~
+        ascii_name: Aroma
+        name: Aroma
+        names_en: ~
+        names_es: ~
+        population: 12708
+    name: "Kassala State"
+    names_en: 
+      - "Kassala State"
+    names_es: ~
+  - 
+    ascii_name: "River Nile State"
+    cities: 
+      - 
+        alternate_names: 
+          - Shandi
+          - Shendi
+          - Shindi
+        ascii_name: Shendi
+        name: Shendi
+        names_en: ~
+        names_es: ~
+        population: 53568
+      - 
+        alternate_names: 
+          - Barbar
+          - Berber
+        ascii_name: Berber
+        name: Berber
+        names_en: ~
+        names_es: ~
+        population: 22395
+      - 
+        alternate_names: 
+          - Atbara
+          - Atbarah
+          - Atbare
+        ascii_name: "Madent Atbara"
+        name: "Madent Atbara"
+        names_en: 
+          - Atbarah
+        names_es: ~
+        population: 107930
+      - 
+        alternate_names: 
+          - "Al Matamma"
+          - "Al Matammah"
+          - "El Matama"
+        ascii_name: "El Matama"
+        name: "El Matama"
+        names_en: ~
+        names_es: ~
+        population: 11366
+      - 
+        alternate_names: 
+          - "Al Bauga"
+          - "El Bauga"
+        ascii_name: "El Bauga"
+        name: "El Bauga"
+        names_en: ~
+        names_es: ~
+        population: 19141
+      - 
+        alternate_names: 
+          - "Ad Damar"
+          - "Ad Damir"
+          - "Ad Dāmir"
+        ascii_name: "Ed Damer"
+        name: "Ed Damer"
+        names_en: ~
+        names_es: ~
+        population: 103941
+    name: "River Nile State"
+    names_en: 
+      - "River Nile State"
+    names_es: ~
+  - 
+    ascii_name: "Northern Bahr el Ghazal State"
+    cities: 
+      - 
+        alternate_names: 
+          - Aweil
+          - Awel
+          - Eweil
+        ascii_name: Awel
+        name: Awel
+        names_en: ~
+        names_es: ~
+        population: 38745
+    name: "Northern Bahr el Ghazal State"
+    names_en: 
+      - "Northern Bahr el Ghazal State"
+    names_es: ~
+  - 
+    ascii_name: "Northern Darfur State"
+    cities: 
+      - 
+        alternate_names: 
+          - "Um Kaddada"
+          - "Umm Kaddadah"
+          - "Umm Kaddādah"
+        ascii_name: "Umm Kaddadah"
+        name: "Umm Kaddādah"
+        names_en: ~
+        names_es: ~
+        population: 10979
+      - 
+        alternate_names: 
+          - Kutum
+        ascii_name: Kutum
+        name: Kutum
+        names_en: ~
+        names_es: ~
+        population: 9849
+      - 
+        alternate_names: 
+          - "Al Fashir"
+          - "Al Fāshir"
+          - Al-Faschir
+        ascii_name: "El Fasher"
         name: "El Fasher"
+        names_en: 
+          - "El Fasher"
+          - Al-Fashir
+        names_es: ~
         population: 252609
-        slug: el-fasher
-    code: SD.55
-    name: "Shamāl Dārfūr"
-    slug: shamal-darfur
+    name: "Northern Darfur State"
+    names_en: 
+      - "Northern Darfur State"
+    names_es: ~
   - 
+    ascii_name: "Northern Kordofan State"
     cities: 
       - 
-        districts: []
-        location: "POINT (12.6999999999999993 28.4333300000000015)"
-        name: "An Nuhūd"
-        population: 108008
-        slug: an-nuhud
-      - 
-        districts: []
-        location: "POINT (12.9061000000000003 31.2158000000000015)"
+        alternate_names: 
+          - "Um Ruaba"
+          - "Um Ruwwaba"
+          - "Um Ruwwāba"
+        ascii_name: "Um Ruwwaba"
         name: "Um Ruwwāba"
+        names_en: ~
+        names_es: ~
         population: 55742
-        slug: um-ruwwaba
       - 
-        districts: []
-        location: "POINT (13.6999999999999993 30.3666699999999992)"
+        alternate_names: 
+          - Bara
+          - Barah
+          - Bāra
+        ascii_name: Barah
         name: Bārah
+        names_en: ~
+        names_es: ~
         population: 16969
-        slug: barah
       - 
-        districts: []
-        location: "POINT (12.7166700000000006 30.6499999999999986)"
+        alternate_names: 
+          - "Ar Rahad"
+          - "Er Rahad"
+          - Rahad
+        ascii_name: "Ar Rahad"
         name: "Ar Rahad"
+        names_en: ~
+        names_es: ~
         population: 26273
-        slug: ar-rahad
       - 
-        districts: []
-        location: "POINT (13.1833299999999998 30.2166700000000006)"
+        alternate_names: 
+          - "An Nahud"
+          - "An Nahūd"
+          - "An Nuhud"
+        ascii_name: "An Nuhud"
+        name: "An Nuhūd"
+        names_en: ~
+        names_es: ~
+        population: 108008
+      - 
+        alternate_names: 
+          - "Al Obayyid"
+          - "Al Ubayd"
+          - "Al Ubayyid"
+        ascii_name: "El Obeid"
         name: "El Obeid"
+        names_en: 
+          - Al-Ubayyid
+        names_es: 
+          - "El Obeid"
         population: 393311
-        slug: el-obeid
       - 
-        districts: []
-        location: "POINT (12.3499999999999996 29.2500000000000000)"
+        alternate_names: ~
+        ascii_name: "Abu Zabad"
         name: "Abū Zabad"
+        names_en: ~
+        names_es: ~
         population: 15304
-        slug: abu-zabad
-    code: SD.56
-    name: "Shamāl Kurdufān"
-    slug: shamal-kurdufan
+    name: "Northern Kordofan State"
+    names_en: 
+      - "Northern Kordofan State"
+    names_es: ~
   - 
+    ascii_name: "Eastern Equatoria"
     cities: 
       - 
-        districts: []
-        location: "POINT (4.4133300000000002 32.5677799999999991)"
+        alternate_names: 
+          - Torit
+          - Торит
+        ascii_name: Torit
         name: Torit
+        names_en: ~
+        names_es: ~
         population: 20048
-        slug: torit
       - 
-        districts: []
-        location: "POINT (4.7716700000000003 33.5902799999999999)"
+        alternate_names: 
+          - Kabuyta
+          - Kapoeta
+        ascii_name: Kapoeta
         name: Kapoeta
+        names_en: ~
+        names_es: ~
         population: 7042
-        slug: kapoeta
-    code: SD.57
     name: "Eastern Equatoria"
-    slug: eastern-equatoria
+    names_en: 
+      - "Eastern Equatoria"
+      - "Eastern Equatoria State"
+    names_es: ~
   - 
+    ascii_name: "Sinnar State"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.1500000000000004 33.9333299999999980)"
+        alternate_names: 
+          - Senga
+          - Singa
+          - Sinja
+        ascii_name: Sinja
         name: Sinja
+        names_en: ~
+        names_es: ~
         population: 44626
-        slug: sinja
       - 
-        districts: []
-        location: "POINT (13.5500000000000007 33.6333300000000008)"
+        alternate_names: 
+          - Sannar
+          - Sannār
+          - Sennaar
+        ascii_name: Sannar
         name: Sannār
+        names_en: 
+          - Sennar
+        names_es: ~
         population: 130122
-        slug: sannar
       - 
-        districts: []
-        location: "POINT (13.4166699999999999 33.6666700000000034)"
+        alternate_names: ~
+        ascii_name: Maiurno
         name: Maiurno
+        names_en: ~
+        names_es: ~
         population: 28727
-        slug: maiurno
       - 
-        districts: []
-        location: "POINT (14.0360999999999994 33.1711999999999989)"
+        alternate_names: 
+          - Kenana
+          - Kinana
+          - Kinanah
+        ascii_name: Kinana
         name: Kināna
+        names_en: ~
+        names_es: ~
         population: 26233
-        slug: kinana
       - 
-        districts: []
-        location: "POINT (12.4486000000000008 34.2186000000000021)"
+        alternate_names: 
+          - Galgani
+          - Jalqani
+        ascii_name: Jalqani
         name: Jalqani
+        names_en: ~
+        names_es: ~
         population: 9472
-        slug: jalqani
       - 
-        districts: []
-        location: "POINT (13.3166700000000002 33.8833300000000008)"
+        alternate_names: 
+          - "As Suki"
+          - "As Sūkī"
+          - "Es Suki"
+        ascii_name: "As Suki"
         name: "As Sūkī"
+        names_en: ~
+        names_es: ~
         population: 33524
-        slug: as-suki
       - 
-        districts: []
-        location: "POINT (13.1999999999999993 34.1666700000000034)"
+        alternate_names: ~
+        ascii_name: "Ad Dindar"
         name: "Ad Dindar"
+        names_en: ~
+        names_es: ~
         population: 15144
-        slug: ad-dindar
-    code: SD.58
-    name: Sinnār
-    slug: sinnar
+    name: "Sinnar State"
+    names_en: 
+      - "Sinnar State"
+    names_es: ~
   - 
+    ascii_name: "Warab State"
     cities: 
       - 
-        districts: []
-        location: "POINT (7.2733299999999996 28.6838900000000017)"
+        alternate_names: 
+          - "At Tonj"
+          - Ibba
+          - Ton'gh
+        ascii_name: Tonj
         name: Tonj
+        names_en: ~
+        names_es: ~
         population: 17338
-        slug: tonj
       - 
-        districts: []
-        location: "POINT (8.3083700000000000 27.9956600000000009)"
+        alternate_names: 
+          - Kajok
+          - Kuacjok
+          - Kuajok
+        ascii_name: Kajok
         name: Kajok
+        names_en: 
+          - Kuacjok
+        names_es: ~
         population: 0
-        slug: kajok
       - 
-        districts: []
-        location: "POINT (8.5334099999999999 28.1093100000000007)"
+        alternate_names: 
+          - Gogrial
+          - Gogriale
+          - Qaqriyal
+        ascii_name: Gogrial
         name: Gogrial
+        names_en: ~
+        names_es: ~
         population: 38572
-        slug: gogrial
-    code: SD.59
-    name: Warab
-    slug: warab
-tld: sd
+    name: "Warab State"
+    names_en: 
+      - "Warab State"
+      - "Warrap State"
+      - Warrap
+    names_es: ~

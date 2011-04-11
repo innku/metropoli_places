@@ -1,106 +1,189 @@
 --- 
-code: DM
-continent: NA
 name: Dominica
-population: 72813
+names_en: 
+  - Dominica
+  - "Commonwealth of Dominica"
+names_es: 
+  - Dominica
 regions: 
   - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.5666700000000002 -61.3333299999999966)"
-        name: "Woodford Hill"
-        population: 1063
-        slug: woodford-hill
-      - 
-        districts: []
-        location: "POINT (15.5666700000000002 -61.3166700000000020)"
-        name: Wesley
-        population: 1933
-        slug: wesley
-      - 
-        districts: []
-        location: "POINT (15.5333299999999994 -61.2999999999999972)"
-        name: Marigot
-        population: 2669
-        slug: marigot
-      - 
-        districts: []
-        location: "POINT (15.5833300000000001 -61.3500000000000014)"
-        name: Calibishie
-        population: 1020
-        slug: calibishie
-      - 
-        districts: []
-        location: "POINT (15.4333299999999998 -61.2666699999999977)"
-        name: "Castle Bruce"
-        population: 1387
-        slug: castle-bruce
-    code: DM.02
-    name: "Saint Andrew"
-    slug: saint-andrew
+    ascii_name: "Saint Peter"
+    cities: []
+    name: "Saint Peter"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Saint Paul"
     cities: 
       - 
-        districts: []
-        location: "POINT (15.2333300000000005 -61.3666699999999992)"
-        name: Soufrière
-        population: 1005
-        slug: soufriere
-      - 
-        districts: []
-        location: "POINT (15.4333299999999998 -61.4500000000000028)"
-        name: Salisbury
-        population: 1413
-        slug: salisbury
-      - 
-        districts: []
-        location: "POINT (15.4000000000000004 -61.4333299999999980)"
-        name: "Saint Joseph"
-        population: 2184
-        slug: saint-joseph
-      - 
-        districts: []
-        location: "POINT (15.3017400000000006 -61.3880800000000022)"
-        name: Roseau
-        population: 16571
-        slug: roseau
-      - 
-        districts: []
-        location: "POINT (15.3499999999999996 -61.3999999999999986)"
+        alternate_names: ~
+        ascii_name: Mahaut
         name: Mahaut
+        names_en: ~
+        names_es: ~
         population: 2369
-        slug: mahaut
-      - 
-        districts: []
-        location: "POINT (15.5833300000000001 -61.4666700000000006)"
-        name: Portsmouth
-        population: 3633
-        slug: portsmouth
-      - 
-        districts: []
-        location: "POINT (15.2500000000000000 -61.3833300000000008)"
-        name: "Pointe Michel"
-        population: 1202
-        slug: pointe-michel
-    code: DM.06
-    name: "Saint Joseph"
-    slug: saint-joseph
+    name: "Saint Paul"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Saint Patrick"
     cities: 
       - 
-        districts: []
-        location: "POINT (15.3333300000000001 -61.2500000000000000)"
+        alternate_names: 
+          - "La Plaine"
+        ascii_name: "La Plaine"
         name: "La Plaine"
+        names_en: ~
+        names_es: ~
         population: 1332
-        slug: la-plaine
       - 
-        districts: []
-        location: "POINT (15.2333300000000005 -61.3166700000000020)"
+        alternate_names: 
+          - Berekua
+          - "Grand Baie"
+          - "Grand Bay"
+        ascii_name: Berekua
         name: Berekua
+        names_en: ~
+        names_es: ~
         population: 2608
-        slug: berekua
-    code: DM.09
     name: "Saint Patrick"
-    slug: saint-patrick
-tld: dm
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Mark"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Soufriere
+        name: Soufrière
+        names_en: ~
+        names_es: ~
+        population: 1005
+    name: "Saint Mark"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Luke"
+    cities: 
+      - 
+        alternate_names: 
+          - "La Pointe"
+          - "Pointe Michel"
+        ascii_name: "Pointe Michel"
+        name: "Pointe Michel"
+        names_en: ~
+        names_es: ~
+        population: 1202
+    name: "Saint Luke"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Joseph"
+    cities: 
+      - 
+        alternate_names: 
+          - Baroui
+          - Barroui
+          - Salisbury
+        ascii_name: Salisbury
+        name: Salisbury
+        names_en: ~
+        names_es: ~
+        population: 1413
+      - 
+        alternate_names: ~
+        ascii_name: "Saint Joseph"
+        name: "Saint Joseph"
+        names_en: ~
+        names_es: ~
+        population: 2184
+    name: "Saint Joseph"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint John"
+    cities: 
+      - 
+        alternate_names: 
+          - Grand-Anse
+          - Portsmouth
+        ascii_name: Portsmouth
+        name: Portsmouth
+        names_en: ~
+        names_es: ~
+        population: 3633
+    name: "Saint John"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint George"
+    cities: 
+      - 
+        alternate_names: 
+          - "Charlotte Town"
+          - Roseau
+          - Rozo
+        ascii_name: Roseau
+        name: Roseau
+        names_en: 
+          - Roseau
+        names_es: 
+          - Roseau
+        population: 16571
+    name: "Saint George"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint David"
+    cities: 
+      - 
+        alternate_names: 
+          - "Castle Bruce"
+        ascii_name: "Castle Bruce"
+        name: "Castle Bruce"
+        names_en: ~
+        names_es: ~
+        population: 1387
+    name: "Saint David"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Andrew"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Woodford Hill"
+        name: "Woodford Hill"
+        names_en: ~
+        names_es: ~
+        population: 1063
+      - 
+        alternate_names: 
+          - "La Soie"
+          - Wesley
+        ascii_name: Wesley
+        name: Wesley
+        names_en: ~
+        names_es: ~
+        population: 1933
+      - 
+        alternate_names: 
+          - Marigot
+          - "Petit Marigot"
+        ascii_name: Marigot
+        name: Marigot
+        names_en: ~
+        names_es: ~
+        population: 2669
+      - 
+        alternate_names: 
+          - Calibishi
+          - Calibishie
+        ascii_name: Calibishie
+        name: Calibishie
+        names_en: ~
+        names_es: ~
+        population: 1020
+    name: "Saint Andrew"
+    names_en: ~
+    names_es: ~

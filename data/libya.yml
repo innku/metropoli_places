@@ -1,287 +1,378 @@
 --- 
-code: LY
-continent: AF
 name: Libya
-population: 6461454
+names_en: 
+  - Libya
+  - "Great Socialist People’s Libyan Arab Jamahiriya"
+names_es: 
+  - Libia
+  - "Libia, República Árabe"
 regions: 
   - 
+    ascii_name: "Sha`biyat Darnah"
     cities: 
       - 
-        districts: []
-        location: "POINT (29.1614000000000004 16.1390400000000014)"
-        name: Waddān
-        population: 27590
-        slug: waddan
-      - 
-        districts: []
-        location: "POINT (27.0500000000000007 14.4000000000000004)"
-        name: "Al Jadīd"
-        population: 126386
-        slug: al-jadid
-      - 
-        districts: []
-        location: "POINT (31.2089199999999991 16.5886600000000008)"
-        name: Surt
-        population: 128123
-        slug: surt
-      - 
-        districts: []
-        location: "POINT (29.1268400000000014 15.9477200000000003)"
-        name: Hūn
-        population: 18878
-        slug: hun
-    code: LY.05
-    name: "Al Jufrah"
-    slug: al-jufrah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (26.5833300000000001 12.7666699999999995)"
-        name: Awbārī
-        population: 42975
-        slug: awbari
-      - 
-        districts: []
-        location: "POINT (27.5495599999999996 14.2713800000000006)"
-        name: Birāk
-        population: 39444
-        slug: birak
-      - 
-        districts: []
-        location: "POINT (25.9044400000000010 13.8972200000000008)"
-        name: Murzuq
-        population: 43732
-        slug: murzuq
-      - 
-        districts: []
-        location: "POINT (24.9647199999999998 10.1727799999999995)"
-        name: Ghāt
-        population: 24347
-        slug: ghat
-    code: LY.30
-    name: Murzuq
-    slug: murzuq
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.7666700000000013 25.1000000000000014)"
-        name: Bardīyah
-        population: 9149
-        slug: bardiyah
-      - 
-        districts: []
-        location: "POINT (32.0836100000000002 23.9763899999999985)"
-        name: Tobruk
-        population: 121052
-        slug: tobruk
-    code: LY.42
-    name: Ţubruq
-    slug: tubruq
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (30.9538900000000012 20.1216700000000017)"
-        name: "Az Zuwaytīnah"
-        population: 21015
-        slug: az-zuwaytinah
-      - 
-        districts: []
-        location: "POINT (29.0333299999999994 21.5500000000000007)"
-        name: Jālū
-        population: 3334
-        slug: jalu
-      - 
-        districts: []
-        location: "POINT (29.1080599999999983 21.2869400000000013)"
-        name: Awjilah
-        population: 6610
-        slug: awjilah
-      - 
-        districts: []
-        location: "POINT (30.7591700000000010 20.2230600000000003)"
-        name: Ajdābiyā
-        population: 134358
-        slug: ajdabiya
-      - 
-        districts: []
-        location: "POINT (30.4062400000000004 19.5738599999999998)"
-        name: "Al Burayqah"
-        population: 13780
-        slug: al-burayqah
-      - 
-        districts: []
-        location: "POINT (24.2166700000000006 23.3000000000000007)"
-        name: "At Tāj"
-        population: 46050
-        slug: at-taj
-    code: LY.47
-    name: Ajdābiyā
-    slug: ajdabiya
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.9344400000000022 12.0791699999999995)"
-        name: Zuwārah
-        population: 180310
-        slug: zuwarah
-      - 
-        districts: []
-        location: "POINT (31.9499999999999993 12.0166699999999995)"
-        name: Jādū
-        population: 6013
-        slug: jadu
-      - 
-        districts: []
-        location: "POINT (32.7919399999999968 12.4847199999999994)"
-        name: Şabrātah
-        population: 102038
-        slug: sabratah
-      - 
-        districts: []
-        location: "POINT (31.7666700000000013 13.9833300000000005)"
-        name: "Banī Walīd"
-        population: 46350
-        slug: bani-walid
-    code: LY.51
-    name: "An Nuqāţ al Khams"
-    slug: an-nuqat-al-khams
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.7630600000000030 12.7149999999999999)"
-        name: "Ḩārat az Zāwiyah"
-        population: 186123
-        slug: harat-az-zawiyah
-      - 
-        districts: []
-        location: "POINT (32.6166699999999992 14.0000000000000000)"
-        name: Masallātah
-        population: 23702
-        slug: masallatah
-      - 
-        districts: []
-        location: "POINT (32.4350200000000015 13.6332000000000004)"
-        name: Tarhūnah
-        population: 210697
-        slug: tarhunah
-      - 
-        districts: []
-        location: "POINT (32.6499999999999986 14.2666699999999995)"
-        name: "Al Khums"
-        population: 201943
-        slug: al-khums
-      - 
-        districts: []
-        location: "POINT (31.4333300000000015 12.9833300000000005)"
-        name: Mizdah
-        population: 26107
-        slug: mizdah
-      - 
-        districts: []
-        location: "POINT (32.7563900000000032 12.5749999999999993)"
-        name: Şurmān
-        population: 25235
-        slug: surman
-      - 
-        districts: []
-        location: "POINT (32.0630600000000001 12.5269399999999997)"
-        name: Yafran
-        population: 67638
-        slug: yafran
-      - 
-        districts: []
-        location: "POINT (32.9470099999999988 11.8664699999999996)"
-        name: Zalţan
-        population: 16291
-        slug: zaltan
-      - 
-        districts: []
-        location: "POINT (32.3783299999999983 15.0905600000000000)"
-        name: Mişrātah
-        population: 386120
-        slug: misratah
-      - 
-        districts: []
-        location: "POINT (32.8751900000000035 13.1874599999999997)"
-        name: Tripoli
-        population: 1150989
-        slug: tripoli
-      - 
-        districts: []
-        location: "POINT (32.1722200000000029 13.0202799999999996)"
-        name: Gharyān
-        population: 85219
-        slug: gharyan
-    code: LY.53
-    name: "Az Zāwiyah"
-    slug: az-zawiyah
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (31.6686100000000010 20.2500000000000000)"
-        name: Sulūq
-        population: 15543
-        slug: suluq
-      - 
-        districts: []
-        location: "POINT (32.7666699999999977 22.2500000000000000)"
-        name: "Al Qubbah"
-        population: 53064
-        slug: al-qubbah
-      - 
-        districts: []
-        location: "POINT (32.1166699999999992 20.0666699999999985)"
-        name: Banghāzī
-        population: 650629
-        slug: banghazi
-      - 
-        districts: []
-        location: "POINT (32.5000000000000000 20.8333300000000001)"
-        name: "Al Marj"
-        population: 85315
-        slug: al-marj
-      - 
-        districts: []
-        location: "POINT (32.5333299999999994 20.5666699999999985)"
-        name: "Al `Āqūrīyah"
-        population: 23164
-        slug: al-aquriyah
-      - 
-        districts: []
-        location: "POINT (32.1833299999999980 20.6000000000000014)"
-        name: "Al Abyār"
-        population: 31248
-        slug: al-abyar
-      - 
-        districts: []
-        location: "POINT (32.7670400000000015 22.6366900000000015)"
+        alternate_names: 
+          - Daernae
+          - Darnah
+          - Darnis
+        ascii_name: Darnah
         name: Darnah
+        names_en: 
+          - Darnah
+        names_es: ~
         population: 78782
-        slug: darnah
-    code: LY.54
-    name: Banghāzī
-    slug: banghazi
+    name: Darnah
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Sha`biyat Banghazi"
     cities: 
       - 
-        districts: []
-        location: "POINT (31.8684800000000017 10.9811999999999994)"
-        name: Nālūt
-        population: 66228
-        slug: nalut
+        alternate_names: 
+          - Baengasi
+          - Banghazi
+          - Banghāzī
+        ascii_name: Banghazi
+        name: Banghāzī
+        names_en: 
+          - Benghazi
+        names_es: 
+          - Bengasi
+        population: 650629
+    name: Banghāzī
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat al Maraj"
+    cities: 
       - 
-        districts: []
-        location: "POINT (30.1336599999999990 9.5007199999999994)"
-        name: Ghadāmis
-        population: 7000
-        slug: ghadamis
-    code: LY.56
-    name: Ghadāmis
-    slug: ghadamis
-tld: ly
+        alternate_names: 
+          - "Al Marj"
+          - Al'-Mardzh
+          - "El Merj"
+        ascii_name: "Al Marj"
+        name: "Al Marj"
+        names_en: 
+          - "Al Marj"
+        names_es: ~
+        population: 85315
+    name: "Al Marj"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat al Kafrah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Kafrah"
+          - "Al Kufrah"
+          - alkfrt
+        ascii_name: "Al Kafrah"
+        name: "Al Kafrah"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Al Kufrah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha'biyat al Jabal al Akhdar"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Bayda'"
+          - "Al Bayḑā’"
+          - Al-Baida
+        ascii_name: "Al Bayda'"
+        name: "Al Bayḑā’"
+        names_en: ~
+        names_es: ~
+        population: 206180
+    name: "Al Jabal al Akhḑar"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat Tarabulus"
+    cities: 
+      - 
+        alternate_names: 
+          - Aea
+          - Ea
+          - Oea
+        ascii_name: Tripoli
+        name: Tripoli
+        names_en: 
+          - Tripolis
+        names_es: 
+          - Trípoli
+        population: 1150989
+    name: Ţarābulus
+    names_en: ~
+    names_es: 
+      - Tarabulus
+  - 
+    ascii_name: "Sha`biyat Surt"
+    cities: 
+      - 
+        alternate_names: 
+          - "Gasr Zaafran"
+          - "Gasr Zaafrán"
+          - Macomades-Euphranta
+        ascii_name: Surt
+        name: Surt
+        names_en: 
+          - Surt
+        names_es: 
+          - Sirte
+        population: 128123
+    name: Surt
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat Sabha"
+    cities: 
+      - 
+        alternate_names: 
+          - El-Gedid
+          - El-Gedíd
+          - "Fort Leclerc"
+        ascii_name: Sabha
+        name: Sabhā
+        names_en: 
+          - Sabha
+        names_es: ~
+        population: 130000
+    name: Sabhā
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat Nalut"
+    cities: 
+      - 
+        alternate_names: 
+          - Lalut
+          - Lalút
+          - Nalut
+        ascii_name: Nalut
+        name: Nālūt
+        names_en: ~
+        names_es: ~
+        population: 26256
+    name: Nālūt
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat Murzuq"
+    cities: 
+      - 
+        alternate_names: 
+          - Marzuq
+          - Marzūq
+          - Mourzouk
+        ascii_name: Murzuq
+        name: Murzuq
+        names_en: 
+          - Murzuq
+          - Murzuk
+        names_es: ~
+        population: 43732
+    name: Murzuq
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat Misratah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Misratah"
+          - "Madinat Misratah"
+          - "Madīnat Mişrātah"
+        ascii_name: Misratah
+        name: Mişrātah
+        names_en: 
+          - Misratah
+        names_es: ~
+        population: 386120
+    name: Mişrātah
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat Ghat"
+    cities: 
+      - 
+        alternate_names: 
+          - Gat
+          - Ghat
+          - Ghāt
+        ascii_name: Ghat
+        name: Ghāt
+        names_en: ~
+        names_es: ~
+        population: 24347
+    name: Ghāt
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat az Zawiyah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Az Zawiyah"
+          - "Az Zawiyah al Gherbiyah"
+          - "Az Zāwiyah al Gherbīyah"
+        ascii_name: "Az Zawiyah"
+        name: "Az Zāwīyah"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Az Zāwiyah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat Wadi ash Shati"
+    cities: 
+      - 
+        alternate_names: 
+          - Adiri
+          - Adri
+          - Adrī
+        ascii_name: Idri
+        name: Idrī
+        names_en: ~
+        names_es: ~
+        population: 4611
+    name: "Ash Shāţiʼ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat al Jafrah"
+    cities: 
+      - 
+        alternate_names: 
+          - Hon
+          - Hun
+          - Hūn
+        ascii_name: Hun
+        name: Hūn
+        names_en: ~
+        names_es: ~
+        population: 18878
+    name: "Al Jufrah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat an Nuqat al Khams"
+    cities: 
+      - 
+        alternate_names: 
+          - Zuara
+          - Zuava
+          - Zuwarah
+        ascii_name: Zuwarah
+        name: Zuwārah
+        names_en: ~
+        names_es: ~
+        population: 45000
+    name: "An Nuqāţ al Khams"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat al Butnan"
+    cities: 
+      - 
+        alternate_names: 
+          - Antipyrgos
+          - Antipyrgus
+          - Tobroek
+        ascii_name: Tobruk
+        name: Tobruk
+        names_en: 
+          - Tobruk
+        names_es: 
+          - Tobruk
+        population: 121052
+    name: "Sha‘bīyat al Buţnān"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat al Jabal al Gharbi"
+    cities: 
+      - 
+        alternate_names: 
+          - Garian
+          - "Gasr Garian"
+          - "Gasr Gariàn"
+        ascii_name: Gharyan
+        name: Gharyān
+        names_en: ~
+        names_es: ~
+        population: 85219
+    name: "Sha‘bīyat al Jabal al Gharbī"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat al Jafarah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al `Aziziyah"
+          - "Al ‘Azīzīyah"
+          - Azizia
+        ascii_name: "Al 'Aziziyah"
+        name: "Al ‘Azīzīyah"
+        names_en: ~
+        names_es: ~
+        population: 4000
+    name: "Sha‘bīyat al Jafārah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha`biyat al Marqab"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Khums"
+          - "El Choms"
+          - Homs
+        ascii_name: "Al Khums"
+        name: "Al Khums"
+        names_en: 
+          - "Al Khums"
+        names_es: ~
+        population: 201943
+    name: "Sha‘bīyat al Marqab"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha'biyat al Wahat"
+    cities: 
+      - 
+        alternate_names: 
+          - AEcdabiya
+          - Adjadabia
+          - Agedabia
+        ascii_name: Ajdabiya
+        name: Ajdābiyā
+        names_en: 
+          - Ajdabiya
+        names_es: ~
+        population: 134358
+    name: "Sha‘bīyat al Wāḩāt"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sha'biyat Wadi al Hayat"
+    cities: 
+      - 
+        alternate_names: 
+          - Awbari
+          - Awbārī
+          - Ubari
+        ascii_name: Awbari
+        name: Awbārī
+        names_en: ~
+        names_es: ~
+        population: 42975
+    name: "Sha‘bīyat Wādī al Ḩayāt"
+    names_en: ~
+    names_es: ~

@@ -1,729 +1,1086 @@
 --- 
-code: VE
-continent: SA
 name: Venezuela
-population: 27223228
+names_en: 
+  - Venezuela
+  - "Republic of Venezuela"
+  - "United States of Venezuela"
+  - "Bolivarian Republic of Venezuela"
+names_es: 
+  - "República de Venezuela"
+  - "Estados Unidos de Venezuela"
+  - "República Bolivariana de Venezuela"
+  - Venezuela
 regions: 
   - 
+    ascii_name: "Estado Zulia"
     cities: 
       - 
-        districts: []
-        location: "POINT (9.4388900000000007 -64.4727800000000002)"
-        name: Anaco
-        population: 117596
-        slug: anaco
-      - 
-        districts: []
-        location: "POINT (8.8933300000000006 -64.1591700000000031)"
-        name: "San José de Guanipa"
-        population: 62128
-        slug: san-jose-de-guanipa
-      - 
-        districts: []
-        location: "POINT (10.2166700000000006 -64.6166699999999992)"
-        name: "Puerto La Cruz"
-        population: 370000
-        slug: puerto-la-cruz
-      - 
-        districts: []
-        location: "POINT (8.8925000000000001 -64.2527800000000013)"
-        name: "El Tigre"
-        population: 150999
-        slug: el-tigre
-      - 
-        districts: []
-        location: "POINT (9.3105600000000006 -64.3594400000000064)"
-        name: Cantaura
-        population: 33040
-        slug: cantaura
-      - 
-        districts: []
-        location: "POINT (10.1333300000000008 -64.7000000000000028)"
-        name: Barcelona
-        population: 424795
-        slug: barcelona
-    code: VE.02
-    name: Anzoátegui
-    slug: anzoategui
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (7.2472200000000004 -70.7294399999999968)"
-        name: Guasdalito
-        population: 30860
-        slug: guasdalito
-      - 
-        districts: []
-        location: "POINT (7.8966700000000003 -67.4672199999999975)"
-        name: "San Fernando Apure"
-        population: 78779
-        slug: san-fernando-apure
-    code: VE.03
-    name: Apure
-    slug: apure
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.0333299999999994 -67.4833299999999952)"
-        name: "Villa de Cura"
-        population: 76614
-        slug: villa-de-cura
-      - 
-        districts: []
-        location: "POINT (10.2333300000000005 -67.4833299999999952)"
-        name: Turmero
-        population: 344700
-        slug: turmero
-      - 
-        districts: []
-        location: "POINT (10.2166700000000006 -67.4166699999999963)"
-        name: "San Mateo"
-        population: 50401
-        slug: san-mateo
-      - 
-        districts: []
-        location: "POINT (10.1738900000000001 -67.5419399999999968)"
-        name: "Palo Negro"
-        population: 128875
-        slug: palo-negro
-      - 
-        districts: []
-        location: "POINT (10.2469400000000004 -67.5958300000000065)"
-        name: Maracay
-        population: 1754256
-        slug: maracay
-      - 
-        districts: []
-        location: "POINT (10.2333300000000005 -67.3333300000000037)"
-        name: "La Victoria"
-        population: 87045
-        slug: la-victoria
-      - 
-        districts: []
-        location: "POINT (10.2500000000000000 -67.1666699999999963)"
-        name: "Las Tejerías"
-        population: 33320
-        slug: las-tejerias
-      - 
-        districts: []
-        location: "POINT (10.3091699999999999 -67.6324999999999932)"
-        name: "El Limón"
-        population: 148247
-        slug: el-limon
-      - 
-        districts: []
-        location: "POINT (10.1833299999999998 -67.4500000000000028)"
-        name: Cagua
-        population: 119033
-        slug: cagua
-    code: VE.04
-    name: Aragua
-    slug: aragua
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.5944400000000005 -70.2222199999999930)"
-        name: "Alto Barinas"
-        population: 284289
-        slug: alto-barinas
-      - 
-        districts: []
-        location: "POINT (8.7622199999999992 -70.4111099999999936)"
-        name: Barinitas
-        population: 34397
-        slug: barinitas
-    code: VE.05
-    name: Barinas
-    slug: barinas
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.0086099999999991 -62.3988900000000015)"
-        name: Upata
-        population: 53685
-        slug: upata
-      - 
-        districts: []
-        location: "POINT (9.0686099999999996 -62.0491699999999966)"
-        name: Tucupita
-        population: 51534
-        slug: tucupita
-      - 
-        districts: []
-        location: "POINT (8.1222200000000004 -63.5497200000000007)"
-        name: "Ciudad Bolívar"
-        population: 338000
-        slug: ciudad-bolivar
-      - 
-        districts: []
-        location: "POINT (9.7500000000000000 -63.1766700000000014)"
-        name: Maturín
-        population: 410972
-        slug: maturin
-      - 
-        districts: []
-        location: "POINT (8.3533299999999997 -62.6527799999999999)"
-        name: "Ciudad Guayana"
-        population: 746535
-        slug: ciudad-guayana
-    code: VE.06
-    name: Bolívar
-    slug: bolivar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.1805599999999998 -68.0038899999999984)"
-        name: Valencia
-        population: 1385083
-        slug: valencia
-      - 
-        districts: []
-        location: "POINT (10.2624999999999993 -67.7922200000000004)"
-        name: "San Joaquín"
-        population: 41630
-        slug: san-joaquin
-      - 
-        districts: []
-        location: "POINT (10.4730600000000003 -68.0125000000000028)"
-        name: "Puerto Cabello"
-        population: 174000
-        slug: puerto-cabello
-      - 
-        districts: []
-        location: "POINT (10.4888899999999996 -68.2002800000000065)"
-        name: Morón
-        population: 44308
-        slug: moron
-      - 
-        districts: []
-        location: "POINT (10.2983300000000000 -67.7161100000000005)"
-        name: Mariara
-        population: 105486
-        slug: mariara
-      - 
-        districts: []
-        location: "POINT (10.0852799999999991 -67.7791699999999935)"
-        name: Güigüe
-        population: 71530
-        slug: guigue
-      - 
-        districts: []
-        location: "POINT (10.2297200000000004 -67.8738900000000029)"
-        name: Guacara
-        population: 151752
-        slug: guacara
-      - 
-        districts: []
-        location: "POINT (10.0899999999999999 -67.9197199999999981)"
-        name: Tacarigua
-        population: 39205
-        slug: tacarigua
-    code: VE.07
-    name: Carabobo
-    slug: carabobo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.9186099999999993 -68.3047200000000032)"
-        name: Tinaquillo
-        population: 82145
-        slug: tinaquillo
-      - 
-        districts: []
-        location: "POINT (9.6666699999999999 -68.5999999999999943)"
-        name: "San Carlos"
-        population: 77192
-        slug: san-carlos
-    code: VE.08
-    name: Cojedes
-    slug: cojedes
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.7905999999999995 -68.3257700000000057)"
-        name: Tucacas
-        population: 12500
-        slug: tucacas
-      - 
-        districts: []
-        location: "POINT (11.6997199999999992 -70.1991699999999952)"
-        name: "Punto Fijo"
-        population: 131784
-        slug: punto-fijo
-      - 
-        districts: []
-        location: "POINT (11.6580600000000008 -70.2150000000000034)"
-        name: "Punta Cardón"
-        population: 58926
-        slug: punta-cardon
-      - 
-        districts: []
-        location: "POINT (11.4045000000000005 -69.6734399999999994)"
-        name: Coro
-        population: 195227
-        slug: coro
-      - 
-        districts: []
-        location: "POINT (10.9327799999999993 -68.2686099999999954)"
-        name: Chichiriviche
-        population: 7000
-        slug: chichiriviche
-    code: VE.11
-    name: Falcón
-    slug: falcon
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.3499999999999996 -65.3166700000000020)"
-        name: Zaraza
-        population: 41483
-        slug: zaraza
-      - 
-        districts: []
-        location: "POINT (9.9111100000000008 -67.3583299999999952)"
-        name: "San Juan de los Morros"
-        population: 87739
-        slug: san-juan-de-los-morros
-      - 
-        districts: []
-        location: "POINT (5.6638900000000003 -67.6236099999999993)"
-        name: "Puerto Ayacucho"
-        population: 52526
-        slug: puerto-ayacucho
-      - 
-        districts: []
-        location: "POINT (8.9344400000000004 -67.4266700000000014)"
-        name: Calabozo
-        population: 117132
-        slug: calabozo
-      - 
-        districts: []
-        location: "POINT (9.2166700000000006 -66.0000000000000000)"
-        name: "Valle de La Pascua"
-        population: 89080
-        slug: valle-de-la-pascua
-      - 
-        districts: []
-        location: "POINT (9.8622200000000007 -66.3805600000000027)"
-        name: "Altagracia de Orituco"
-        population: 40052
-        slug: altagracia-de-orituco
-    code: VE.12
-    name: Guárico
-    slug: guarico
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.9255600000000008 -69.6202799999999939)"
-        name: Quíbor
-        population: 41526
-        slug: quibor
-      - 
-        districts: []
-        location: "POINT (10.0227799999999991 -69.2444399999999973)"
-        name: "Los Rastrojos"
-        population: 34636
-        slug: los-rastrojos
-      - 
-        districts: []
-        location: "POINT (9.7861100000000008 -69.7894399999999990)"
-        name: "El Tocuyo"
-        population: 53099
-        slug: el-tocuyo
-      - 
-        districts: []
-        location: "POINT (10.1777800000000003 -70.0805600000000055)"
-        name: Carora
-        population: 93788
-        slug: carora
-      - 
-        districts: []
-        location: "POINT (10.0738900000000005 -69.3227799999999945)"
-        name: Barquisimeto
-        population: 809490
-        slug: barquisimeto
-    code: VE.13
-    name: Lara
-    slug: lara
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.4166699999999999 -71.1333300000000008)"
-        name: Mucumpiz
-        population: 215259
-        slug: mucumpiz
-      - 
-        districts: []
-        location: "POINT (8.5983300000000007 -71.1449999999999960)"
-        name: Mérida
-        population: 300000
-        slug: merida
-      - 
-        districts: []
-        location: "POINT (8.6219400000000004 -71.6505599999999987)"
-        name: "El Vigía"
-        population: 59092
-        slug: el-vigia
-      - 
-        districts: []
-        location: "POINT (8.5513899999999996 -71.2374999999999972)"
-        name: Ejido
-        population: 106915
-        slug: ejido
-    code: VE.14
-    name: Mérida
-    slug: merida
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.2313899999999993 -66.6636100000000056)"
-        name: "Santa Teresa"
-        population: 278890
-        slug: santa-teresa
-      - 
-        districts: 
-          - 
-            location: "POINT (10.4666700000000006 -66.8277800000000042)"
-            name: "El Cafetal"
-            population: 80029
-            slug: el-cafetal
-          - 
-            location: "POINT (10.4905600000000003 -66.7833300000000065)"
-            name: "La Dolorita"
-            population: 56846
-            slug: la-dolorita
-        location: "POINT (10.4833300000000005 -66.8166700000000020)"
-        name: Petare
-        population: 364684
-        slug: petare
-      - 
-        districts: []
-        location: "POINT (10.1216699999999999 -66.7716700000000003)"
-        name: "Ocumare del Tuy"
-        population: 166072
-        slug: ocumare-del-tuy
-      - 
-        districts: []
-        location: "POINT (10.4666700000000006 -66.5333300000000065)"
-        name: Guatire
-        population: 191903
-        slug: guatire
-      - 
-        districts: []
-        location: "POINT (10.4666700000000006 -66.6166699999999992)"
-        name: Guarenas
-        population: 181612
-        slug: guarenas
-      - 
-        districts: []
-        location: "POINT (10.4333299999999998 -66.8166700000000020)"
-        name: "El Hatillo"
-        population: 57591
-        slug: el-hatillo
-      - 
-        districts: []
-        location: "POINT (10.1622199999999996 -66.8852799999999945)"
-        name: Cúa
-        population: 182558
-        slug: cua
-      - 
-        districts: []
-        location: "POINT (10.2483299999999993 -66.8566699999999940)"
-        name: Charallave
-        population: 129182
-        slug: charallave
-      - 
-        districts: []
-        location: "POINT (10.5000000000000000 -66.8499999999999943)"
-        name: Chacao
-        population: 64609
-        slug: chacao
-      - 
-        districts: []
-        location: "POINT (10.4833300000000005 -66.7333299999999952)"
-        name: Caucagüito
-        population: 52556
-        slug: caucaguito
-      - 
-        districts: []
-        location: "POINT (10.3499999999999996 -66.9833299999999952)"
-        name: Carrizal
-        population: 40618
-        slug: carrizal
-      - 
-        districts: []
-        location: "POINT (10.4333299999999998 -66.8833300000000008)"
-        name: Baruta
-        population: 244216
-        slug: baruta
-      - 
-        districts: []
-        location: "POINT (10.3611100000000000 -66.8083299999999980)"
-        name: Caucaguita
-        population: 59000
-        slug: caucaguita
-      - 
-        districts: []
-        location: "POINT (10.3666699999999992 -66.9333299999999980)"
-        name: "San Antonio de Los Altos"
-        population: 63873
-        slug: san-antonio-de-los-altos
-      - 
-        districts: []
-        location: "POINT (10.5166699999999995 -66.8333300000000037)"
-        name: "Los Dos Caminos"
-        population: 58168
-        slug: los-dos-caminos
-    code: VE.15
-    name: Miranda
-    slug: miranda
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (11.0333299999999994 -63.8627800000000008)"
-        name: "La Asunción"
-        population: 35084
-        slug: la-asuncion
-      - 
-        districts: []
-        location: "POINT (10.9499999999999993 -63.8500000000000014)"
-        name: Porlamar
-        population: 87120
-        slug: porlamar
-      - 
-        districts: []
-        location: "POINT (11.0833300000000001 -63.9500000000000028)"
-        name: "Juan Griego"
-        population: 28256
-        slug: juan-griego
-    code: VE.17
-    name: "Isla Margarita"
-    slug: isla-margarita
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.3327799999999996 -69.1208299999999980)"
-        name: "Villa Bruzual"
-        population: 27993
-        slug: villa-bruzual
-      - 
-        districts: []
-        location: "POINT (9.0500000000000007 -69.7500000000000000)"
-        name: Guanare
-        population: 112286
-        slug: guanare
-      - 
-        districts: []
-        location: "POINT (9.5666700000000002 -69.2166699999999935)"
-        name: Araure
-        population: 73054
-        slug: araure
-      - 
-        districts: []
-        location: "POINT (9.5597200000000004 -69.2019399999999933)"
-        name: Acarigua
-        population: 143704
-        slug: acarigua
-    code: VE.18
-    name: Portuguesa
-    slug: portuguesa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.4666700000000006 -64.1666699999999963)"
-        name: Cumaná
-        population: 257783
-        slug: cumana
-      - 
-        districts: []
-        location: "POINT (10.6697199999999999 -63.2491699999999994)"
-        name: Carúpano
-        population: 112082
-        slug: carupano
-    code: VE.19
-    name: Sucre
-    slug: sucre
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (7.8236100000000004 -72.2213899999999995)"
-        name: Táriba
-        population: 27432
-        slug: tariba
-      - 
-        districts: []
-        location: "POINT (8.0377799999999997 -72.2519400000000047)"
-        name: "San Juan de Colón"
-        population: 38233
-        slug: san-juan-de-colon
-      - 
-        districts: []
-        location: "POINT (7.7669400000000000 -72.2249999999999943)"
-        name: "San Cristóbal"
-        population: 246583
-        slug: san-cristobal
-      - 
-        districts: []
-        location: "POINT (7.8177800000000000 -72.4424999999999955)"
-        name: "San Antonio del Táchira"
-        population: 32458
-        slug: san-antonio-del-tachira
-      - 
-        districts: []
-        location: "POINT (7.7072200000000004 -72.3538900000000069)"
-        name: Rubio
-        population: 51568
-        slug: rubio
-      - 
-        districts: []
-        location: "POINT (8.2188900000000000 -72.2483299999999957)"
-        name: "La Fría"
-        population: 27077
-        slug: la-fria
-    code: VE.20
-    name: Táchira
-    slug: tachira
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.3177800000000008 -70.6036100000000033)"
-        name: Valera
-        population: 93756
-        slug: valera
-      - 
-        districts: []
-        location: "POINT (9.3666699999999992 -70.4333299999999980)"
-        name: Trujillo
-        population: 38110
-        slug: trujillo
-    code: VE.21
-    name: Trujillo
-    slug: trujillo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.0800000000000001 -69.1261099999999971)"
-        name: Yaritagua
-        population: 89662
-        slug: yaritagua
-      - 
-        districts: []
-        location: "POINT (10.3405600000000000 -68.7372199999999935)"
-        name: "San Felipe"
-        population: 76766
-        slug: san-felipe
-      - 
-        districts: []
-        location: "POINT (10.1549999999999994 -68.5630599999999930)"
-        name: Nirgua
-        population: 30188
-        slug: nirgua
-      - 
-        districts: []
-        location: "POINT (10.1602800000000002 -68.8949999999999960)"
-        name: Chivacoa
-        population: 45904
-        slug: chivacoa
-    code: VE.22
-    name: Yaracuy
-    slug: yaracuy
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (10.5380599999999998 -71.5169400000000053)"
+        alternate_names: ~
+        ascii_name: "Santa Rita"
         name: "Santa Rita"
+        names_en: ~
+        names_es: ~
         population: 31810
-        slug: santa-rita
       - 
-        districts: []
-        location: "POINT (9.0041700000000002 -71.9163900000000069)"
+        alternate_names: 
+          - "Del Zulia"
+          - "San Carlos"
+          - "San Carlos del Zulia"
+        ascii_name: "San Carlos del Zulia"
         name: "San Carlos del Zulia"
+        names_en: ~
+        names_es: ~
         population: 56582
-        slug: san-carlos-del-zulia
       - 
-        districts: []
-        location: "POINT (10.3166700000000002 -72.3166700000000020)"
+        alternate_names: 
+          - "La Villa del Rosario"
+          - Rosario
+          - "Villa del Rosario"
+        ascii_name: Rosario
         name: Rosario
+        names_en: ~
+        names_es: ~
         population: 65011
-        slug: rosario
       - 
-        districts: []
-        location: "POINT (10.6316699999999997 -71.6405599999999936)"
+        alternate_names: 
+          - Maracaibo
+          - Marakaibo
+          - Marakajbo
+        ascii_name: Maracaibo
         name: Maracaibo
+        names_en: 
+          - Maracaibo
+        names_es: 
+          - Maracaibo
         population: 2225000
-        slug: maracaibo
       - 
-        districts: []
-        location: "POINT (10.0644399999999994 -72.5450000000000017)"
+        alternate_names: 
+          - Machiques
+        ascii_name: Machiques
         name: Machiques
+        names_en: 
+          - Machiques
+        names_es: ~
         population: 62968
-        slug: machiques
       - 
-        districts: []
-        location: "POINT (10.1408299999999993 -71.2613900000000058)"
+        alternate_names: ~
+        ascii_name: Lagunillas
         name: Lagunillas
+        names_en: ~
+        names_es: ~
         population: 44257
-        slug: lagunillas
       - 
-        districts: []
-        location: "POINT (10.4019399999999997 -71.4461100000000044)"
+        alternate_names: 
+          - Cabimas
+          - Caramas
+          - Kabimas
+        ascii_name: Cabimas
         name: Cabimas
+        names_en: 
+          - Cabimas
+        names_es: 
+          - Cabimas
         population: 200818
-        slug: cabimas
-    code: VE.23
     name: Zulia
-    slug: zulia
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Estado Yaracuy"
     cities: 
       - 
-        districts: []
-        location: "POINT (10.5999999999999996 -66.9500000000000028)"
-        name: Maiquetía
-        population: 52564
-        slug: maiquetia
+        alternate_names: ~
+        ascii_name: Yaritagua
+        name: Yaritagua
+        names_en: ~
+        names_es: ~
+        population: 89662
       - 
-        districts: []
-        location: "POINT (10.5990099999999998 -66.9346000000000032)"
-        name: "La Guaira"
-        population: 25259
-        slug: la-guaira
+        alternate_names: 
+          - "San Felipe"
+        ascii_name: "San Felipe"
+        name: "San Felipe"
+        names_en: ~
+        names_es: ~
+        population: 76766
       - 
-        districts: []
-        location: "POINT (10.5999999999999996 -67.0333300000000065)"
-        name: "Catia La Mar"
-        population: 106822
-        slug: catia-la-mar
+        alternate_names: ~
+        ascii_name: Nirgua
+        name: Nirgua
+        names_en: ~
+        names_es: ~
+        population: 30188
       - 
-        districts: []
-        location: "POINT (10.6166699999999992 -66.8333300000000037)"
-        name: Caraballeda
-        population: 37824
-        slug: caraballeda
+        alternate_names: 
+          - Chivacoa
+        ascii_name: Chivacoa
+        name: Chivacoa
+        names_en: ~
+        names_es: ~
+        population: 45904
+    name: Yaracuy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Trujillo"
+    cities: 
       - 
-        districts: []
-        location: "POINT (10.5000000000000000 -66.9166699999999963)"
+        alternate_names: 
+          - Valera
+          - Валера
+        ascii_name: Valera
+        name: Valera
+        names_en: 
+          - Valera
+        names_es: 
+          - Valera
+        population: 93756
+      - 
+        alternate_names: ~
+        ascii_name: Trujillo
+        name: Trujillo
+        names_en: ~
+        names_es: ~
+        population: 38110
+    name: Trujillo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Tachira"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tariba
+        name: Táriba
+        names_en: ~
+        names_es: ~
+        population: 27432
+      - 
+        alternate_names: 
+          - Colon
+          - Colón
+          - "San Juan de Colon"
+        ascii_name: "San Juan de Colon"
+        name: "San Juan de Colón"
+        names_en: ~
+        names_es: ~
+        population: 38233
+      - 
+        alternate_names: 
+          - "San Cristobal"
+          - "San Cristóbal"
+        ascii_name: "San Cristobal"
+        name: "San Cristóbal"
+        names_en: 
+          - "San Cristóbal"
+        names_es: 
+          - "San Cristóbal"
+        population: 246583
+      - 
+        alternate_names: 
+          - "San Antonio"
+          - "San Antonio de Tachira"
+          - "San Antonio de Táchira"
+        ascii_name: "San Antonio del Tachira"
+        name: "San Antonio del Táchira"
+        names_en: ~
+        names_es: ~
+        population: 32458
+      - 
+        alternate_names: 
+          - Rubio
+          - Рубио
+        ascii_name: Rubio
+        name: Rubio
+        names_en: ~
+        names_es: ~
+        population: 51568
+      - 
+        alternate_names: ~
+        ascii_name: "La Fria"
+        name: "La Fría"
+        names_en: ~
+        names_es: ~
+        population: 27077
+    name: Táchira
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Sucre"
+    cities: 
+      - 
+        alternate_names: 
+          - Cumana
+          - Cumaná
+          - Kumana
+        ascii_name: Cumana
+        name: Cumaná
+        names_en: 
+          - Cumaná
+        names_es: 
+          - Cumaná
+        population: 257783
+      - 
+        alternate_names: 
+          - Carupano
+          - Carúpano
+        ascii_name: Carupano
+        name: Carúpano
+        names_en: 
+          - Carúpano
+        names_es: 
+          - Carúpano
+        population: 112082
+    name: Sucre
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Portuguesa"
+    cities: 
+      - 
+        alternate_names: 
+          - Turen
+          - Turén
+          - "Villa Bruzual"
+        ascii_name: "Villa Bruzual"
+        name: "Villa Bruzual"
+        names_en: ~
+        names_es: ~
+        population: 27993
+      - 
+        alternate_names: ~
+        ascii_name: Guanare
+        name: Guanare
+        names_en: ~
+        names_es: ~
+        population: 112286
+      - 
+        alternate_names: 
+          - Araure
+        ascii_name: Araure
+        name: Araure
+        names_en: 
+          - Araure
+        names_es: 
+          - Araure
+        population: 73054
+      - 
+        alternate_names: 
+          - Acarigua
+        ascii_name: Acarigua
+        name: Acarigua
+        names_en: 
+          - Acarigua
+        names_es: 
+          - Acarigua
+        population: 143704
+    name: Portuguesa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Isla Margarita"
+    cities: 
+      - 
+        alternate_names: 
+          - "La Asuncion"
+          - "La Asunción"
+          - La-Asuns'on
+        ascii_name: "La Asuncion"
+        name: "La Asunción"
+        names_en: 
+          - "La Asunción"
+        names_es: 
+          - "La Asunción"
+        population: 35084
+      - 
+        alternate_names: 
+          - Porlamar
+          - Порламар
+        ascii_name: Porlamar
+        name: Porlamar
+        names_en: 
+          - Porlamar
+        names_es: 
+          - Porlamar
+        population: 87120
+      - 
+        alternate_names: 
+          - "Juan Griego"
+        ascii_name: "Juan Griego"
+        name: "Juan Griego"
+        names_en: ~
+        names_es: ~
+        population: 28256
+    name: "Isla Margarita"
+    names_en: 
+      - "Isla Margarita"
+    names_es: 
+      - "Isla de Margarita"
+  - 
+    ascii_name: "Estado Monagas"
+    cities: 
+      - 
+        alternate_names: 
+          - Maturin
+          - Maturín
+          - Матурин
+        ascii_name: Maturin
+        name: Maturín
+        names_en: 
+          - Maturín
+        names_es: 
+          - Maturín
+        population: 410972
+    name: Monagas
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Miranda"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Teresa"
+        name: "Santa Teresa"
+        names_en: ~
+        names_es: ~
+        population: 278890
+      - 
+        alternate_names: ~
+        ascii_name: "San Antonio de Los Altos"
+        name: "San Antonio de Los Altos"
+        names_en: ~
+        names_es: ~
+        population: 63873
+      - 
+        alternate_names: 
+          - Petare
+          - "petare qu"
+          - Петаре
+        ascii_name: Petare
+        name: Petare
+        names_en: 
+          - Petare
+        names_es: 
+          - Petare
+        population: 364684
+      - 
+        alternate_names: 
+          - Ocumare
+          - "Ocumare del Tuy"
+        ascii_name: "Ocumare del Tuy"
+        name: "Ocumare del Tuy"
+        names_en: 
+          - "Ocumare del Tuy"
+        names_es: 
+          - "Ocumare del Tuy"
+        population: 166072
+      - 
+        alternate_names: 
+          - "Dos Caminos"
+          - "Los Dos Caminos"
+        ascii_name: "Los Dos Caminos"
+        name: "Los Dos Caminos"
+        names_en: ~
+        names_es: ~
+        population: 58168
+      - 
+        alternate_names: ~
+        ascii_name: Guatire
+        name: Guatire
+        names_en: ~
+        names_es: ~
+        population: 191903
+      - 
+        alternate_names: 
+          - Guarenas
+        ascii_name: Guarenas
+        name: Guarenas
+        names_en: 
+          - Guarenas
+        names_es: 
+          - Guarenas
+        population: 181612
+      - 
+        alternate_names: ~
+        ascii_name: "El Hatillo"
+        name: "El Hatillo"
+        names_en: ~
+        names_es: ~
+        population: 57591
+      - 
+        alternate_names: 
+          - Cua
+          - Cúa
+          - Kua
+        ascii_name: Cua
+        name: Cúa
+        names_en: ~
+        names_es: ~
+        population: 182558
+      - 
+        alternate_names: ~
+        ascii_name: Charallave
+        name: Charallave
+        names_en: ~
+        names_es: ~
+        population: 129182
+      - 
+        alternate_names: ~
+        ascii_name: Chacao
+        name: Chacao
+        names_en: ~
+        names_es: ~
+        population: 64609
+      - 
+        alternate_names: 
+          - Caucaguita
+          - Caucaguito
+          - Caucagüito
+        ascii_name: Caucaguito
+        name: Caucagüito
+        names_en: ~
+        names_es: ~
+        population: 52556
+      - 
+        alternate_names: 
+          - Carrizal
+          - Carrizales
+          - Karrisal'
+        ascii_name: Carrizal
+        name: Carrizal
+        names_en: ~
+        names_es: ~
+        population: 40618
+      - 
+        alternate_names: 
+          - Baruta
+        ascii_name: Baruta
+        name: Baruta
+        names_en: ~
+        names_es: ~
+        population: 244216
+      - 
+        alternate_names: ~
+        ascii_name: Caucaguita
+        name: Caucaguita
+        names_en: ~
+        names_es: ~
+        population: 59000
+    name: Miranda
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Merida"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Mucumpiz
+        name: Mucumpiz
+        names_en: ~
+        names_es: ~
+        population: 215259
+      - 
+        alternate_names: 
+          - Merida
+          - Mérida
+          - merida
+        ascii_name: Merida
+        name: Mérida
+        names_en: 
+          - Mérida
+        names_es: 
+          - Mérida
+        population: 300000
+      - 
+        alternate_names: ~
+        ascii_name: "El Vigia"
+        name: "El Vigía"
+        names_en: ~
+        names_es: ~
+        population: 59092
+      - 
+        alternate_names: 
+          - Egido
+          - Ehkhido
+          - Ejido
+        ascii_name: Ejido
+        name: Ejido
+        names_en: ~
+        names_es: ~
+        population: 106915
+    name: Mérida
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Lara"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Quibor
+        name: Quíbor
+        names_en: ~
+        names_es: ~
+        population: 41526
+      - 
+        alternate_names: 
+          - "Los Rastrojos"
+          - Rastrojo
+          - Rastrojos
+        ascii_name: "Los Rastrojos"
+        name: "Los Rastrojos"
+        names_en: ~
+        names_es: ~
+        population: 34636
+      - 
+        alternate_names: 
+          - "El Tocuyo"
+          - Tocuyo
+        ascii_name: "El Tocuyo"
+        name: "El Tocuyo"
+        names_en: ~
+        names_es: ~
+        population: 53099
+      - 
+        alternate_names: 
+          - Carora
+        ascii_name: Carora
+        name: Carora
+        names_en: 
+          - Carora
+        names_es: 
+          - Carora
+        population: 93788
+      - 
+        alternate_names: 
+          - Barkisimeto
+          - Barquisimeto
+          - Barquisimito
+        ascii_name: Barquisimeto
+        name: Barquisimeto
+        names_en: 
+          - Barquisimeto
+        names_es: 
+          - Barquisimeto
+        population: 809490
+    name: Lara
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Guarico"
+    cities: 
+      - 
+        alternate_names: 
+          - Zaraza
+          - Зараза
+        ascii_name: Zaraza
+        name: Zaraza
+        names_en: ~
+        names_es: ~
+        population: 41483
+      - 
+        alternate_names: 
+          - Val'e-de-La-Paskua
+          - "Valle de La Pascua"
+          - "Valle de Pascua"
+        ascii_name: "Valle de La Pascua"
+        name: "Valle de La Pascua"
+        names_en: ~
+        names_es: ~
+        population: 89080
+      - 
+        alternate_names: 
+          - "San Juan de Los Morros"
+          - "San Juan de los Moros"
+          - "San Juan de los Morros"
+        ascii_name: "San Juan de los Morros"
+        name: "San Juan de los Morros"
+        names_en: 
+          - "San Juan de los Morros"
+        names_es: 
+          - "San Juan de Los Morros"
+        population: 87739
+      - 
+        alternate_names: 
+          - Calabozo
+        ascii_name: Calabozo
+        name: Calabozo
+        names_en: 
+          - Calabozo
+        names_es: 
+          - Calabozo
+        population: 117132
+      - 
+        alternate_names: ~
+        ascii_name: "Altagracia de Orituco"
+        name: "Altagracia de Orituco"
+        names_en: ~
+        names_es: ~
+        population: 40052
+    name: Guárico
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dependencias Federales"
+    cities: []
+    name: "Dependencias Federales"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Distrito Capital"
+    cities: 
+      - 
+        alternate_names: 
+          - Caracae
+          - Caracas
+          - Caraques
+        ascii_name: Caracas
         name: Caracas
+        names_en: 
+          - Caracas
+        names_es: 
+          - Caracas
         population: 3000000
-        slug: caracas
-    code: VE.26
+    name: "Distrito Capital"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Falcon"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tucacas
+        name: Tucacas
+        names_en: ~
+        names_es: ~
+        population: 12500
+      - 
+        alternate_names: 
+          - "Punto Fijo"
+        ascii_name: "Punto Fijo"
+        name: "Punto Fijo"
+        names_en: ~
+        names_es: ~
+        population: 131784
+      - 
+        alternate_names: 
+          - Cardon
+          - Cordon
+          - "El Cardon"
+        ascii_name: "Punta Cardon"
+        name: "Punta Cardón"
+        names_en: ~
+        names_es: ~
+        population: 58926
+      - 
+        alternate_names: 
+          - Coro
+          - Koro
+          - "Santa Ana de Coro"
+        ascii_name: Coro
+        name: Coro
+        names_en: 
+          - Coro
+          - "Santa Ana de Coro"
+        names_es: 
+          - Coro
+        population: 195227
+      - 
+        alternate_names: ~
+        ascii_name: Chichiriviche
+        name: Chichiriviche
+        names_en: ~
+        names_es: ~
+        population: 12500
+    name: Falcón
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Territorio Federal Delta Amacuro"
+    cities: 
+      - 
+        alternate_names: 
+          - Tucupita
+          - Tukupita
+          - Тукупита
+        ascii_name: Tucupita
+        name: Tucupita
+        names_en: 
+          - Tucupita
+        names_es: 
+          - Tucupita
+        population: 51534
+    name: "Delta Amacuro"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Cojedes"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tinaquillo
+        name: Tinaquillo
+        names_en: ~
+        names_es: ~
+        population: 82145
+      - 
+        alternate_names: ~
+        ascii_name: "San Carlos"
+        name: "San Carlos"
+        names_en: ~
+        names_es: ~
+        population: 77192
+    name: Cojedes
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Carabobo"
+    cities: 
+      - 
+        alternate_names: 
+          - Balenzia
+          - Valencia
+          - Valencio
+        ascii_name: Valencia
+        name: Valencia
+        names_en: 
+          - Valencia
+        names_es: 
+          - Valencia
+        population: 1385083
+      - 
+        alternate_names: ~
+        ascii_name: "San Joaquin"
+        name: "San Joaquín"
+        names_en: ~
+        names_es: ~
+        population: 41630
+      - 
+        alternate_names: 
+          - "Puerto Cabello"
+          - "Puerto Kabello"
+          - "Пуерто Кабелло"
+        ascii_name: "Puerto Cabello"
+        name: "Puerto Cabello"
+        names_en: 
+          - "Puerto Cabello"
+        names_es: ~
+        population: 174000
+      - 
+        alternate_names: ~
+        ascii_name: Moron
+        name: Morón
+        names_en: ~
+        names_es: ~
+        population: 44308
+      - 
+        alternate_names: ~
+        ascii_name: Mariara
+        name: Mariara
+        names_en: ~
+        names_es: ~
+        population: 105486
+      - 
+        alternate_names: ~
+        ascii_name: Guigue
+        name: Güigüe
+        names_en: ~
+        names_es: ~
+        population: 71530
+      - 
+        alternate_names: 
+          - Guacara
+        ascii_name: Guacara
+        name: Guacara
+        names_en: ~
+        names_es: 
+          - Guacara
+        population: 151752
+      - 
+        alternate_names: 
+          - "Central Tacarigua"
+          - "Central Tacariqua"
+          - Tacarigua
+        ascii_name: Tacarigua
+        name: Tacarigua
+        names_en: ~
+        names_es: ~
+        population: 39205
+    name: Carabobo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Bolivar"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Upata
+        name: Upata
+        names_en: ~
+        names_es: ~
+        population: 53685
+      - 
+        alternate_names: 
+          - "Ciudad Guayana"
+          - "Ciudad Guiana"
+          - Guayana
+        ascii_name: "Ciudad Guayana"
+        name: "Ciudad Guayana"
+        names_en: 
+          - "Ciudad Guayana"
+        names_es: 
+          - "Ciudad Guayana"
+        population: 746535
+      - 
+        alternate_names: 
+          - Angostura
+          - Bolivar
+          - Bolívar
+        ascii_name: "Ciudad Bolivar"
+        name: "Ciudad Bolívar"
+        names_en: 
+          - "Ciudad Bolívar"
+        names_es: 
+          - "Ciudad Bolívar"
+        population: 338000
+    name: Bolívar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Barinas"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Alto Barinas"
+        name: "Alto Barinas"
+        names_en: ~
+        names_es: ~
+        population: 284289
+      - 
+        alternate_names: ~
+        ascii_name: Barinitas
+        name: Barinitas
+        names_en: ~
+        names_es: ~
+        population: 34397
+    name: Barinas
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Aragua"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Villa de Cura"
+        name: "Villa de Cura"
+        names_en: ~
+        names_es: ~
+        population: 76614
+      - 
+        alternate_names: ~
+        ascii_name: Turmero
+        name: Turmero
+        names_en: ~
+        names_es: ~
+        population: 344700
+      - 
+        alternate_names: ~
+        ascii_name: "San Mateo"
+        name: "San Mateo"
+        names_en: ~
+        names_es: ~
+        population: 50401
+      - 
+        alternate_names: ~
+        ascii_name: "Palo Negro"
+        name: "Palo Negro"
+        names_en: ~
+        names_es: ~
+        population: 128875
+      - 
+        alternate_names: ~
+        ascii_name: Maracay
+        name: Maracay
+        names_en: ~
+        names_es: ~
+        population: 1754256
+      - 
+        alternate_names: ~
+        ascii_name: "La Victoria"
+        name: "La Victoria"
+        names_en: ~
+        names_es: ~
+        population: 87045
+      - 
+        alternate_names: 
+          - "Las Tejerias"
+          - "Las Tejerías"
+          - Tejerias
+        ascii_name: "Las Tejerias"
+        name: "Las Tejerías"
+        names_en: ~
+        names_es: ~
+        population: 33320
+      - 
+        alternate_names: ~
+        ascii_name: "El Limon"
+        name: "El Limón"
+        names_en: ~
+        names_es: ~
+        population: 148247
+      - 
+        alternate_names: 
+          - Cagua
+        ascii_name: Cagua
+        name: Cagua
+        names_en: ~
+        names_es: ~
+        population: 119033
+    name: Aragua
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Apure"
+    cities: 
+      - 
+        alternate_names: 
+          - Guasdalito
+          - Guasdualito
+        ascii_name: Guasdalito
+        name: Guasdalito
+        names_en: ~
+        names_es: ~
+        population: 30860
+      - 
+        alternate_names: 
+          - "San Fernando Apure"
+          - "San Fernando de Apure"
+        ascii_name: "San Fernando Apure"
+        name: "San Fernando Apure"
+        names_en: 
+          - "San Fernando de Apure"
+        names_es: 
+          - "San Fernando de Apure"
+        population: 78779
+    name: Apure
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Anzoategui"
+    cities: 
+      - 
+        alternate_names: 
+          - Anaco
+        ascii_name: Anaco
+        name: Anaco
+        names_en: ~
+        names_es: ~
+        population: 117596
+      - 
+        alternate_names: 
+          - "El Tigrito"
+          - "San Jose de Guanipa"
+          - "San José de Guanipa"
+        ascii_name: "San Jose de Guanipa"
+        name: "San José de Guanipa"
+        names_en: ~
+        names_es: ~
+        population: 62128
+      - 
+        alternate_names: 
+          - "Puehrto La Kruz"
+          - "Puerto de La Cruz"
+          - "Пуэрто Ла Круз"
+        ascii_name: "Puerto La Cruz"
+        name: "Puerto La Cruz"
+        names_en: ~
+        names_es: ~
+        population: 370000
+      - 
+        alternate_names: ~
+        ascii_name: "El Tigre"
+        name: "El Tigre"
+        names_en: ~
+        names_es: ~
+        population: 150999
+      - 
+        alternate_names: 
+          - Cantaura
+          - Cantura
+        ascii_name: Cantaura
+        name: Cantaura
+        names_en: ~
+        names_es: ~
+        population: 33040
+      - 
+        alternate_names: 
+          - Barcelona
+          - Barselona
+          - Барселона
+        ascii_name: Barcelona
+        name: Barcelona
+        names_en: 
+          - Barcelona
+        names_es: 
+          - Barcelona
+        population: 424795
+    name: Anzoátegui
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Amazonas"
+    cities: 
+      - 
+        alternate_names: 
+          - "Puerto Ayacucho"
+        ascii_name: "Puerto Ayacucho"
+        name: "Puerto Ayacucho"
+        names_en: 
+          - "Puerto Ayacucho"
+        names_es: 
+          - "Puerto Ayacucho"
+        population: 52526
+    name: Amazonas
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Estado Vargas"
+    cities: 
+      - 
+        alternate_names: 
+          - Maiquetia
+          - Maiquetía
+        ascii_name: Maiquetia
+        name: Maiquetía
+        names_en: ~
+        names_es: ~
+        population: 52564
+      - 
+        alternate_names: 
+          - "La Guaira"
+          - "La Guayra"
+          - raguaira
+        ascii_name: "La Guaira"
+        name: "La Guaira"
+        names_en: 
+          - "La Guaira"
+        names_es: 
+          - "La Guaira"
+        population: 25259
+      - 
+        alternate_names: 
+          - "Catia La Mar"
+          - "Catia de la Mar"
+        ascii_name: "Catia La Mar"
+        name: "Catia La Mar"
+        names_en: ~
+        names_es: ~
+        population: 106822
+      - 
+        alternate_names: ~
+        ascii_name: Caraballeda
+        name: Caraballeda
+        names_en: ~
+        names_es: ~
+        population: 37824
     name: Vargas
-    slug: vargas
-tld: ve
+    names_en: ~
+    names_es: ~

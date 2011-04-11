@@ -1,677 +1,931 @@
 --- 
-code: SV
-continent: NA
 name: "El Salvador"
-population: 6052064
+names_en: 
+  - "El Salvador"
+  - "Republic of El Salvador"
+names_es: 
+  - "El Salvador"
+  - "República de El Salvador"
 regions: 
   - 
+    ascii_name: "Departamento de Usulutan"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.8702799999999993 -89.8486099999999936)"
-        name: "Concepción de Ataco"
-        population: 7797
-        slug: concepcion-de-ataco
-      - 
-        districts: []
-        location: "POINT (13.9769400000000008 -89.7524999999999977)"
-        name: Atiquizaya
-        population: 9476
-        slug: atiquizaya
-      - 
-        districts: []
-        location: "POINT (13.9011099999999992 -89.9297200000000032)"
-        name: Tacuba
-        population: 5055
-        slug: tacuba
-      - 
-        districts: []
-        location: "POINT (13.8430599999999995 -90.0158299999999940)"
-        name: "San Francisco Menéndez"
-        population: 1264
-        slug: san-francisco-menendez
-      - 
-        districts: []
-        location: "POINT (13.7869399999999995 -89.8572199999999981)"
-        name: Jujutla
-        population: 2022
-        slug: jujutla
-      - 
-        districts: []
-        location: "POINT (13.7502800000000001 -89.8422199999999975)"
-        name: Guaymango
-        population: 1517
-        slug: guaymango
-      - 
-        districts: []
-        location: "POINT (13.9213900000000006 -89.8449999999999989)"
-        name: Ahuachapán
-        population: 34102
-        slug: ahuachapan
-    code: SV.01
-    name: Ahuachapán
-    slug: ahuachapan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.9499999999999993 -88.6333300000000008)"
-        name: Victoria
-        population: 2023
-        slug: victoria
-      - 
-        districts: []
-        location: "POINT (13.8666699999999992 -88.6333300000000008)"
-        name: Sensuntepeque
-        population: 20386
-        slug: sensuntepeque
-    code: SV.02
-    name: Cabañas
-    slug: cabanas
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.1333300000000008 -89.2999999999999972)"
-        name: "Nueva Concepción"
-        population: 9990
-        slug: nueva-concepcion
-      - 
-        districts: []
-        location: "POINT (14.0333299999999994 -88.9333299999999980)"
-        name: Chalatenango
-        population: 19364
-        slug: chalatenango
-    code: SV.03
-    name: Chalatenango
-    slug: chalatenango
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.8333300000000001 -88.9833299999999952)"
-        name: Tenancingo
-        population: 1011
-        slug: tenancingo
-      - 
-        districts: []
-        location: "POINT (13.7891700000000004 -89.0052799999999991)"
-        name: Tecoluca
-        population: 2781
-        slug: tecoluca
-      - 
-        districts: []
-        location: "POINT (13.9380600000000001 -89.0277800000000070)"
-        name: Suchitoto
-        population: 5735
-        slug: suchitoto
-      - 
-        districts: []
-        location: "POINT (13.7833299999999994 -88.9166699999999963)"
-        name: "San Martín"
-        population: 39361
-        slug: san-martin
-      - 
-        districts: []
-        location: "POINT (13.7166700000000006 -88.9333299999999980)"
-        name: Cojutepeque
-        population: 48411
-        slug: cojutepeque
-    code: SV.04
-    name: Cuscatlán
-    slug: cuscatlan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.4883299999999995 -89.3222200000000015)"
-        name: "La Libertad"
-        population: 16855
-        slug: la-libertad
-      - 
-        districts: []
-        location: "POINT (13.6730599999999995 -89.2408300000000025)"
-        name: "Antiguo Cuscatlán"
-        population: 33767
-        slug: antiguo-cuscatlan
-      - 
-        districts: []
-        location: "POINT (13.5894399999999997 -89.2888899999999950)"
-        name: Zaragoza
-        population: 11749
-        slug: zaragoza
-      - 
-        districts: []
-        location: "POINT (13.9755599999999998 -89.3400000000000034)"
-        name: "San Pablo Tacachico"
-        population: 3033
-        slug: san-pablo-tacachico
-      - 
-        districts: []
-        location: "POINT (13.8761100000000006 -89.3597199999999958)"
-        name: "San Juan Opico"
-        population: 7127
-        slug: san-juan-opico
-      - 
-        districts: []
-        location: "POINT (13.8350000000000009 -89.2744399999999985)"
-        name: Quezaltepeque
-        population: 28886
-        slug: quezaltepeque
-      - 
-        districts: []
-        location: "POINT (13.6486099999999997 -89.2652800000000042)"
-        name: "Nuevo Cuscatlán"
-        population: 6469
-        slug: nuevo-cuscatlan
-      - 
-        districts: []
-        location: "POINT (13.6769400000000001 -89.2797199999999975)"
-        name: "Nueva San Salvador"
-        population: 124694
-        slug: nueva-san-salvador
-      - 
-        districts: []
-        location: "POINT (13.8402799999999999 -89.4472200000000015)"
-        name: "Ciudad Arce"
-        population: 10095
-        slug: ciudad-arce
-    code: SV.05
-    name: "La Libertad"
-    slug: la-libertad
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.5000000000000000 -88.8666699999999992)"
-        name: Zacatecoluca
-        population: 39613
-        slug: zacatecoluca
-      - 
-        districts: []
-        location: "POINT (13.5166699999999995 -88.9500000000000028)"
-        name: "Santiago Nonualco"
-        population: 9490
-        slug: santiago-nonualco
-      - 
-        districts: []
-        location: "POINT (13.5436099999999993 -89.0386100000000056)"
-        name: "San Pedro Masahuat"
-        population: 2654
-        slug: san-pedro-masahuat
-      - 
-        districts: []
-        location: "POINT (13.5697200000000002 -89.1172200000000032)"
-        name: Olocuilta
-        population: 6324
-        slug: olocuilta
-      - 
-        districts: []
-        location: "POINT (13.4977800000000006 -89.0297199999999975)"
-        name: "El Rosario"
-        population: 5620
-        slug: el-rosario
-    code: SV.06
-    name: "La Paz"
-    slug: la-paz
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.6247199999999999 -87.8936099999999954)"
-        name: "Santa Rosa de Lima"
-        population: 13249
-        slug: santa-rosa-de-lima
-      - 
-        districts: []
-        location: "POINT (13.4313900000000004 -87.9630599999999987)"
-        name: "San Alejo"
-        population: 5149
-        slug: san-alejo
-      - 
-        districts: []
-        location: "POINT (13.5844400000000007 -87.8411100000000005)"
-        name: Pasaquina
-        population: 2149
-        slug: pasaquina
-      - 
-        districts: []
-        location: "POINT (13.7836099999999995 -87.8386100000000027)"
-        name: "Nueva Esparta"
-        population: 2528
-        slug: nueva-esparta
-      - 
-        districts: []
-        location: "POINT (13.3369400000000002 -87.8438900000000018)"
-        name: "La Unión"
-        population: 26807
-        slug: la-union
-      - 
-        districts: []
-        location: "POINT (13.1969399999999997 -88.0544399999999996)"
-        name: Intipucá
-        population: 3540
-        slug: intipuca
-      - 
-        districts: []
-        location: "POINT (13.3077799999999993 -87.8647200000000055)"
-        name: Conchagua
-        population: 3034
-        slug: conchagua
-      - 
-        districts: []
-        location: "POINT (13.7405600000000003 -87.8736099999999993)"
-        name: Anamorós
-        population: 2655
-        slug: anamoros
-    code: SV.07
-    name: "La Unión"
-    slug: la-union
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.6999999999999993 -88.0166700000000048)"
-        name: Sociedad
-        population: 1770
-        slug: sociedad
-      - 
-        districts: []
-        location: "POINT (13.6999999999999993 -88.0999999999999943)"
-        name: "San Francisco"
-        population: 16152
-        slug: san-francisco
-      - 
-        districts: []
-        location: "POINT (13.6166699999999992 -88.0166700000000048)"
-        name: Jocoro
-        population: 4298
-        slug: jocoro
-      - 
-        districts: []
-        location: "POINT (13.6666699999999999 -88.2000000000000028)"
-        name: Guatajiagua
-        population: 5273
-        slug: guatajiagua
-      - 
-        districts: []
-        location: "POINT (13.8108299999999993 -87.9713899999999995)"
-        name: Corinto
-        population: 3160
-        slug: corinto
-      - 
-        districts: []
-        location: "POINT (13.7666699999999995 -88.0833300000000037)"
-        name: Cacaopera
-        population: 2528
-        slug: cacaopera
-    code: SV.08
-    name: Morazán
-    slug: morazan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.3833300000000008 -88.3499999999999943)"
-        name: "San Rafael Oriente"
-        population: 19095
-        slug: san-rafael-oriente
-      - 
-        districts: []
-        location: "POINT (13.7166700000000006 -88.3666699999999992)"
-        name: Sesori
-        population: 1390
-        slug: sesori
-      - 
-        districts: []
-        location: "POINT (13.4833300000000005 -88.1833299999999980)"
-        name: "San Miquel"
-        population: 161880
-        slug: san-miquel
-      - 
-        districts: []
-        location: "POINT (13.5333299999999994 -88.3499999999999943)"
-        name: "Nueva Guadalupe"
-        population: 5798
-        slug: nueva-guadalupe
-      - 
-        districts: []
-        location: "POINT (13.5333299999999994 -88.2500000000000000)"
-        name: Moncagua
-        population: 2148
-        slug: moncagua
-      - 
-        districts: []
-        location: "POINT (13.5500000000000007 -88.3499999999999943)"
-        name: Lolotique
-        population: 2654
-        slug: lolotique
-      - 
-        districts: []
-        location: "POINT (13.3499999999999996 -88.3499999999999943)"
-        name: "El Tránsito"
-        population: 9485
-        slug: el-transito
-      - 
-        districts: []
-        location: "POINT (13.7666699999999995 -88.2666700000000048)"
-        name: "Ciudad Barrios"
-        population: 8491
-        slug: ciudad-barrios
-      - 
-        districts: []
-        location: "POINT (13.2202800000000007 -88.1386099999999999)"
-        name: Chirilagua
-        population: 6393
-        slug: chirilagua
-      - 
-        districts: []
-        location: "POINT (13.5000000000000000 -88.3499999999999943)"
-        name: Chinameca
-        population: 8646
-        slug: chinameca
-      - 
-        districts: []
-        location: "POINT (13.6333300000000008 -88.2666700000000048)"
-        name: Chapeltique
-        population: 3159
-        slug: chapeltique
-    code: SV.09
-    name: "San Miguel"
-    slug: san-miguel
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.7811100000000000 -89.1186100000000039)"
-        name: Tonacatepeque
-        population: 6245
-        slug: tonacatepeque
-      - 
-        districts: []
-        location: "POINT (13.7347199999999994 -89.1513900000000064)"
-        name: Soyapango
-        population: 329708
-        slug: soyapango
-      - 
-        districts: []
-        location: "POINT (13.6408299999999993 -89.1333300000000008)"
-        name: "Santo Tomás"
-        population: 14581
-        slug: santo-tomas
-      - 
-        districts: []
-        location: "POINT (13.6893499999999992 -89.1871799999999979)"
-        name: "San Salvador"
-        population: 525990
-        slug: san-salvador
-      - 
-        districts: []
-        location: "POINT (13.6588899999999995 -89.1830599999999976)"
-        name: "San Marcos"
-        population: 54615
-        slug: san-marcos
-      - 
-        districts: []
-        location: "POINT (13.5752799999999993 -89.2088899999999967)"
-        name: "Rosario de Mora"
-        population: 5178
-        slug: rosario-de-mora
-      - 
-        districts: []
-        location: "POINT (13.6127800000000008 -89.1800000000000068)"
-        name: Panchimalco
-        population: 6764
-        slug: panchimalco
-      - 
-        districts: []
-        location: "POINT (13.7402800000000003 -89.2130599999999987)"
-        name: Mejicanos
-        population: 160317
-        slug: mejicanos
-      - 
-        districts: []
-        location: "POINT (13.7016700000000000 -89.1094400000000064)"
-        name: Ilopango
-        population: 38890
-        slug: ilopango
-      - 
-        districts: []
-        location: "POINT (13.8769399999999994 -89.1730600000000067)"
-        name: Guazapa
-        population: 10995
-        slug: guazapa
-      - 
-        districts: []
-        location: "POINT (13.9736100000000008 -89.2186099999999982)"
-        name: "El Paisnal"
-        population: 1641
-        slug: el-paisnal
-      - 
-        districts: []
-        location: "POINT (13.7241700000000009 -89.1702800000000053)"
-        name: Delgado
-        population: 71594
-        slug: delgado
-      - 
-        districts: []
-        location: "POINT (13.7361100000000000 -89.1813899999999933)"
-        name: Cuscatancingo
-        population: 44369
-        slug: cuscatancingo
-      - 
-        districts: []
-        location: "POINT (13.7455599999999993 -89.2063899999999990)"
-        name: Ayutuxtepeque
-        population: 25426
-        slug: ayutuxtepeque
-      - 
-        districts: []
-        location: "POINT (13.8072199999999992 -89.1791699999999992)"
-        name: Apopa
-        population: 112158
-        slug: apopa
-      - 
-        districts: []
-        location: "POINT (13.9572199999999995 -89.1897199999999941)"
-        name: Aguilares
-        population: 21445
-        slug: aguilares
-    code: SV.10
-    name: "San Salvador"
-    slug: san-salvador
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.1333300000000008 -89.5000000000000000)"
-        name: Texistepeque
-        population: 2401
-        slug: texistepeque
-      - 
-        districts: []
-        location: "POINT (13.9941700000000004 -89.5597199999999987)"
-        name: "Santa Ana"
-        population: 176661
-        slug: santa-ana
-      - 
-        districts: []
-        location: "POINT (14.3333300000000001 -89.4500000000000028)"
-        name: Metapán
-        population: 19143
-        slug: metapan
-      - 
-        districts: []
-        location: "POINT (13.9088899999999995 -89.4958299999999980)"
-        name: "El Congo"
-        population: 8905
-        slug: el-congo
-      - 
-        districts: []
-        location: "POINT (13.9286100000000008 -89.5041700000000020)"
-        name: Coatepeque
-        population: 5773
-        slug: coatepeque
-      - 
-        districts: []
-        location: "POINT (13.9866700000000002 -89.6811100000000039)"
-        name: Chalchuapa
-        population: 32282
-        slug: chalchuapa
-      - 
-        districts: []
-        location: "POINT (14.1166699999999992 -89.6500000000000057)"
-        name: "Candelaria de La Frontera"
-        population: 6301
-        slug: candelaria-de-la-frontera
-    code: SV.11
-    name: "Santa Ana"
-    slug: santa-ana
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.6333300000000008 -88.7999999999999972)"
-        name: "San Vicente"
-        population: 37326
-        slug: san-vicente
-      - 
-        districts: []
-        location: "POINT (13.7333300000000005 -88.8333300000000037)"
-        name: "San Sebastián"
-        population: 7333
-        slug: san-sebastian
-      - 
-        districts: []
-        location: "POINT (13.6666699999999999 -88.7833300000000065)"
-        name: Apastepeque
-        population: 5785
-        slug: apastepeque
-    code: SV.12
-    name: "San Vicente"
-    slug: san-vicente
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.7341700000000007 -89.7147199999999998)"
-        name: Sonzacate
-        population: 15446
-        slug: sonzacate
-      - 
-        districts: []
-        location: "POINT (13.7188900000000000 -89.7241700000000009)"
-        name: Sonsonate
-        population: 59468
-        slug: sonsonate
-      - 
-        districts: []
-        location: "POINT (13.7163900000000005 -89.7383300000000048)"
-        name: "San Antonio del Monte"
-        population: 9135
-        slug: san-antonio-del-monte
-      - 
-        districts: []
-        location: "POINT (13.7774999999999999 -89.7366700000000037)"
-        name: Nahuizalco
-        population: 7358
-        slug: nahuizalco
-      - 
-        districts: []
-        location: "POINT (13.8413900000000005 -89.7455599999999976)"
-        name: Juayúa
-        population: 9936
-        slug: juayua
-      - 
-        districts: []
-        location: "POINT (13.7447199999999992 -89.6730600000000067)"
-        name: Izalco
-        population: 19197
-        slug: izalco
-      - 
-        districts: []
-        location: "POINT (13.7436100000000003 -89.4988900000000029)"
-        name: Armenia
-        population: 14997
-        slug: armenia
-      - 
-        districts: []
-        location: "POINT (13.5927799999999994 -89.8275000000000006)"
-        name: Acajutla
-        population: 22763
-        slug: acajutla
-    code: SV.13
-    name: Sonsonate
-    slug: sonsonate
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.3499999999999996 -88.4500000000000028)"
+        alternate_names: 
+          - Usulutan
+          - Usulutane
+          - Usulután
+        ascii_name: Usulutan
         name: Usulután
+        names_en: ~
+        names_es: ~
         population: 51910
-        slug: usulutan
       - 
-        districts: []
-        location: "POINT (13.4833300000000005 -88.4666699999999935)"
+        alternate_names: 
+          - Santiago
+          - "Santiago de Maria"
+          - "Santiago de María"
+        ascii_name: "Santiago de Maria"
         name: "Santiago de María"
+        names_en: ~
+        names_es: ~
         population: 15032
-        slug: santiago-de-maria
       - 
-        districts: []
-        location: "POINT (13.3833300000000008 -88.4166699999999963)"
+        alternate_names: ~
+        ascii_name: "Santa Elena"
         name: "Santa Elena"
+        names_en: ~
+        names_es: ~
         population: 5887
-        slug: santa-elena
       - 
-        districts: []
-        location: "POINT (13.4333299999999998 -88.5999999999999943)"
+        alternate_names: ~
+        ascii_name: "San Agustin"
         name: "San Agustín"
+        names_en: ~
+        names_es: ~
         population: 2149
-        slug: san-agustin
       - 
-        districts: []
-        location: "POINT (13.2833299999999994 -88.5499999999999972)"
+        alternate_names: 
+          - "Puerto Del Triunfo"
+          - "Puerto El Triunfo"
+        ascii_name: "Puerto El Triunfo"
         name: "Puerto El Triunfo"
+        names_en: ~
+        names_es: ~
         population: 19074
-        slug: puerto-el-triunfo
       - 
-        districts: []
-        location: "POINT (13.3833300000000008 -88.5000000000000000)"
+        alternate_names: ~
+        ascii_name: Ozatlan
         name: Ozatlán
+        names_en: ~
+        names_es: ~
         population: 4171
-        slug: ozatlan
       - 
-        districts: []
-        location: "POINT (13.2538900000000002 -88.2477800000000059)"
+        alternate_names: ~
+        ascii_name: Jucuaran
         name: Jucuarán
+        names_en: ~
+        names_es: ~
         population: 1643
-        slug: jucuaran
       - 
-        districts: []
-        location: "POINT (13.5166699999999995 -88.3833300000000008)"
+        alternate_names: ~
+        ascii_name: Jucuapa
         name: Jucuapa
+        names_en: ~
+        names_es: ~
         population: 10601
-        slug: jucuapa
       - 
-        districts: []
-        location: "POINT (13.3166700000000002 -88.5833300000000037)"
+        alternate_names: 
+          - Ilquilisco
+          - Jiquilisco
+        ascii_name: Jiquilisco
         name: Jiquilisco
+        names_en: ~
+        names_es: ~
         population: 9129
-        slug: jiquilisco
       - 
-        districts: []
-        location: "POINT (13.3499999999999996 -88.3666699999999992)"
+        alternate_names: ~
+        ascii_name: "Concepcion Batres"
         name: "Concepción Batres"
+        names_en: ~
+        names_es: ~
         population: 3286
-        slug: concepcion-batres
       - 
-        districts: []
-        location: "POINT (13.5000000000000000 -88.5333300000000065)"
+        alternate_names: 
+          - Berlin
+          - Berlín
+        ascii_name: Berlin
         name: Berlín
+        names_en: ~
+        names_es: ~
         population: 11313
-        slug: berlin
-    code: SV.14
     name: Usulután
-    slug: usulutan
-tld: sv
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Sonsonate"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Sonzacate
+        name: Sonzacate
+        names_en: ~
+        names_es: ~
+        population: 15446
+      - 
+        alternate_names: 
+          - "Ciudad de Sonsonate"
+          - Sonsonate
+          - Сонсонате
+        ascii_name: Sonsonate
+        name: Sonsonate
+        names_en: ~
+        names_es: ~
+        population: 59468
+      - 
+        alternate_names: 
+          - "San Antonio del Monte"
+        ascii_name: "San Antonio del Monte"
+        name: "San Antonio del Monte"
+        names_en: ~
+        names_es: ~
+        population: 9135
+      - 
+        alternate_names: 
+          - Nahuizalco
+          - Nauizalco
+        ascii_name: Nahuizalco
+        name: Nahuizalco
+        names_en: ~
+        names_es: ~
+        population: 7358
+      - 
+        alternate_names: ~
+        ascii_name: Juayua
+        name: Juayúa
+        names_en: ~
+        names_es: ~
+        population: 9936
+      - 
+        alternate_names: 
+          - Izalco
+          - Yzalco
+        ascii_name: Izalco
+        name: Izalco
+        names_en: ~
+        names_es: ~
+        population: 19197
+      - 
+        alternate_names: 
+          - Armenia
+          - Guaymoco
+        ascii_name: Armenia
+        name: Armenia
+        names_en: ~
+        names_es: ~
+        population: 14997
+      - 
+        alternate_names: 
+          - Acajutla
+          - Akakhutla
+          - "Puerto Acajutla"
+        ascii_name: Acajutla
+        name: Acajutla
+        names_en: ~
+        names_es: ~
+        population: 22763
+    name: Sonsonate
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de San Vicente"
+    cities: 
+      - 
+        alternate_names: 
+          - "San Vicente"
+          - "San Vincente"
+        ascii_name: "San Vicente"
+        name: "San Vicente"
+        names_en: ~
+        names_es: ~
+        population: 37326
+      - 
+        alternate_names: ~
+        ascii_name: "San Sebastian"
+        name: "San Sebastián"
+        names_en: ~
+        names_es: ~
+        population: 7333
+      - 
+        alternate_names: 
+          - Apastepeq
+          - Apastepeque
+        ascii_name: Apastepeque
+        name: Apastepeque
+        names_en: ~
+        names_es: ~
+        population: 5785
+    name: "San Vicente"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Santa Ana"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Texistepeque
+        name: Texistepeque
+        names_en: ~
+        names_es: ~
+        population: 2401
+      - 
+        alternate_names: 
+          - "Santa Ana"
+          - Santa-Ana
+          - Санта-Ана
+        ascii_name: "Santa Ana"
+        name: "Santa Ana"
+        names_en: 
+          - "Santa Ana"
+        names_es: ~
+        population: 176661
+      - 
+        alternate_names: 
+          - Metapan
+          - Metapán
+        ascii_name: Metapan
+        name: Metapán
+        names_en: ~
+        names_es: ~
+        population: 19143
+      - 
+        alternate_names: ~
+        ascii_name: "El Congo"
+        name: "El Congo"
+        names_en: ~
+        names_es: ~
+        population: 8905
+      - 
+        alternate_names: ~
+        ascii_name: Coatepeque
+        name: Coatepeque
+        names_en: ~
+        names_es: ~
+        population: 5773
+      - 
+        alternate_names: 
+          - Chalchuapa
+        ascii_name: Chalchuapa
+        name: Chalchuapa
+        names_en: ~
+        names_es: ~
+        population: 32282
+      - 
+        alternate_names: 
+          - Candelaria
+          - "Candelaria de La Frontera"
+          - Candelario
+        ascii_name: "Candelaria de La Frontera"
+        name: "Candelaria de La Frontera"
+        names_en: ~
+        names_es: ~
+        population: 6301
+    name: "Santa Ana"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de San Salvador"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tonacatepeque
+        name: Tonacatepeque
+        names_en: ~
+        names_es: ~
+        population: 6245
+      - 
+        alternate_names: 
+          - Sojapango
+          - Soyapango
+          - Soyopango
+        ascii_name: Soyapango
+        name: Soyapango
+        names_en: 
+          - Soyapango
+        names_es: ~
+        population: 329708
+      - 
+        alternate_names: ~
+        ascii_name: "Santo Tomas"
+        name: "Santo Tomás"
+        names_en: ~
+        names_es: ~
+        population: 14581
+      - 
+        alternate_names: 
+          - Salvador
+          - "San Salbador"
+          - "San Salvador"
+        ascii_name: "San Salvador"
+        name: "San Salvador"
+        names_en: 
+          - "San Salvador"
+        names_es: 
+          - "San Salvador"
+        population: 525990
+      - 
+        alternate_names: ~
+        ascii_name: "San Marcos"
+        name: "San Marcos"
+        names_en: ~
+        names_es: ~
+        population: 54615
+      - 
+        alternate_names: 
+          - "Rosario de Mora"
+        ascii_name: "Rosario de Mora"
+        name: "Rosario de Mora"
+        names_en: ~
+        names_es: ~
+        population: 5178
+      - 
+        alternate_names: 
+          - Panchimalco
+        ascii_name: Panchimalco
+        name: Panchimalco
+        names_en: ~
+        names_es: ~
+        population: 6764
+      - 
+        alternate_names: 
+          - Mejicanos
+          - Mekhikanos
+          - Mexicanos
+        ascii_name: Mejicanos
+        name: Mejicanos
+        names_en: 
+          - Mejicanos
+        names_es: ~
+        population: 160317
+      - 
+        alternate_names: 
+          - Ilopango
+          - Ylopango
+          - Илопанго
+        ascii_name: Ilopango
+        name: Ilopango
+        names_en: ~
+        names_es: ~
+        population: 38890
+      - 
+        alternate_names: 
+          - Guasapa
+          - Guazapa
+        ascii_name: Guazapa
+        name: Guazapa
+        names_en: ~
+        names_es: ~
+        population: 10995
+      - 
+        alternate_names: 
+          - "El Paisnal"
+          - Paisnal
+        ascii_name: "El Paisnal"
+        name: "El Paisnal"
+        names_en: ~
+        names_es: ~
+        population: 1641
+      - 
+        alternate_names: 
+          - Del'gado
+          - Delgado
+          - "Villa Delcado"
+        ascii_name: Delgado
+        name: Delgado
+        names_en: 
+          - Delgado
+        names_es: ~
+        population: 71594
+      - 
+        alternate_names: 
+          - Cuscatancingo
+        ascii_name: Cuscatancingo
+        name: Cuscatancingo
+        names_en: ~
+        names_es: ~
+        population: 44369
+      - 
+        alternate_names: 
+          - Ayutuxtepegue
+          - Ayutuxtepeque
+        ascii_name: Ayutuxtepeque
+        name: Ayutuxtepeque
+        names_en: ~
+        names_es: ~
+        population: 25426
+      - 
+        alternate_names: 
+          - Apopa
+        ascii_name: Apopa
+        name: Apopa
+        names_en: 
+          - Apopa
+        names_es: ~
+        population: 112158
+      - 
+        alternate_names: ~
+        ascii_name: Aguilares
+        name: Aguilares
+        names_en: ~
+        names_es: ~
+        population: 21445
+    name: "San Salvador"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de San Miguel"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Sesori
+        name: Sesori
+        names_en: ~
+        names_es: ~
+        population: 1390
+      - 
+        alternate_names: 
+          - "San Rafael Oriente"
+          - "San Rafael de Oriente"
+        ascii_name: "San Rafael Oriente"
+        name: "San Rafael Oriente"
+        names_en: ~
+        names_es: ~
+        population: 19095
+      - 
+        alternate_names: ~
+        ascii_name: "San Miquel"
+        name: "San Miquel"
+        names_en: ~
+        names_es: ~
+        population: 161880
+      - 
+        alternate_names: ~
+        ascii_name: "Nueva Guadalupe"
+        name: "Nueva Guadalupe"
+        names_en: ~
+        names_es: ~
+        population: 5798
+      - 
+        alternate_names: ~
+        ascii_name: Moncagua
+        name: Moncagua
+        names_en: ~
+        names_es: ~
+        population: 2148
+      - 
+        alternate_names: ~
+        ascii_name: Lolotique
+        name: Lolotique
+        names_en: ~
+        names_es: ~
+        population: 2654
+      - 
+        alternate_names: ~
+        ascii_name: "El Transito"
+        name: "El Tránsito"
+        names_en: ~
+        names_es: ~
+        population: 9485
+      - 
+        alternate_names: 
+          - "Ciudad Barrios"
+          - "Villa de Cacahuatique"
+        ascii_name: "Ciudad Barrios"
+        name: "Ciudad Barrios"
+        names_en: ~
+        names_es: ~
+        population: 8491
+      - 
+        alternate_names: ~
+        ascii_name: Chirilagua
+        name: Chirilagua
+        names_en: ~
+        names_es: ~
+        population: 6393
+      - 
+        alternate_names: 
+          - Chinameca
+        ascii_name: Chinameca
+        name: Chinameca
+        names_en: ~
+        names_es: ~
+        population: 8646
+      - 
+        alternate_names: 
+          - Chapelpique
+          - Chapeltique
+        ascii_name: Chapeltique
+        name: Chapeltique
+        names_en: ~
+        names_es: ~
+        population: 3159
+    name: "San Miguel"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Morazan"
+    cities: 
+      - 
+        alternate_names: 
+          - Sociedad
+        ascii_name: Sociedad
+        name: Sociedad
+        names_en: ~
+        names_es: ~
+        population: 1770
+      - 
+        alternate_names: 
+          - Gotera
+          - "San Francisco"
+          - "San Francisco Gotera"
+        ascii_name: "San Francisco"
+        name: "San Francisco"
+        names_en: ~
+        names_es: ~
+        population: 16152
+      - 
+        alternate_names: 
+          - Jocoro
+        ascii_name: Jocoro
+        name: Jocoro
+        names_en: ~
+        names_es: ~
+        population: 4298
+      - 
+        alternate_names: ~
+        ascii_name: Guatajiagua
+        name: Guatajiagua
+        names_en: ~
+        names_es: ~
+        population: 5273
+      - 
+        alternate_names: ~
+        ascii_name: Corinto
+        name: Corinto
+        names_en: ~
+        names_es: ~
+        population: 3160
+      - 
+        alternate_names: ~
+        ascii_name: Cacaopera
+        name: Cacaopera
+        names_en: ~
+        names_es: ~
+        population: 2528
+    name: Morazán
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de La Union"
+    cities: 
+      - 
+        alternate_names: 
+          - "Santa Rosa"
+          - "Santa Rosa de Lima"
+        ascii_name: "Santa Rosa de Lima"
+        name: "Santa Rosa de Lima"
+        names_en: ~
+        names_es: ~
+        population: 13249
+      - 
+        alternate_names: ~
+        ascii_name: "San Alejo"
+        name: "San Alejo"
+        names_en: ~
+        names_es: ~
+        population: 5149
+      - 
+        alternate_names: 
+          - Pasaguina
+          - Pasaquina
+        ascii_name: Pasaquina
+        name: Pasaquina
+        names_en: ~
+        names_es: ~
+        population: 2149
+      - 
+        alternate_names: ~
+        ascii_name: "Nueva Esparta"
+        name: "Nueva Esparta"
+        names_en: ~
+        names_es: ~
+        population: 2528
+      - 
+        alternate_names: 
+          - "La Union"
+          - "La Unión"
+          - "San Carlos de La Union"
+        ascii_name: "La Union"
+        name: "La Unión"
+        names_en: ~
+        names_es: ~
+        population: 26807
+      - 
+        alternate_names: ~
+        ascii_name: Intipuca
+        name: Intipucá
+        names_en: ~
+        names_es: ~
+        population: 3540
+      - 
+        alternate_names: 
+          - Conchagua
+        ascii_name: Conchagua
+        name: Conchagua
+        names_en: ~
+        names_es: ~
+        population: 3034
+      - 
+        alternate_names: ~
+        ascii_name: Anamoros
+        name: Anamorós
+        names_en: ~
+        names_es: ~
+        population: 2655
+    name: "La Unión"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de La Paz"
+    cities: 
+      - 
+        alternate_names: 
+          - Zacateccoluca
+          - Zacatecoluca
+        ascii_name: Zacatecoluca
+        name: Zacatecoluca
+        names_en: ~
+        names_es: ~
+        population: 39613
+      - 
+        alternate_names: 
+          - Santiago
+          - "Santiago Nonualco"
+        ascii_name: "Santiago Nonualco"
+        name: "Santiago Nonualco"
+        names_en: ~
+        names_es: ~
+        population: 9490
+      - 
+        alternate_names: ~
+        ascii_name: "San Pedro Masahuat"
+        name: "San Pedro Masahuat"
+        names_en: ~
+        names_es: ~
+        population: 2654
+      - 
+        alternate_names: ~
+        ascii_name: Olocuilta
+        name: Olocuilta
+        names_en: ~
+        names_es: ~
+        population: 6324
+      - 
+        alternate_names: 
+          - "El Rosario"
+          - "Rosario de la Paz"
+        ascii_name: "El Rosario"
+        name: "El Rosario"
+        names_en: ~
+        names_es: ~
+        population: 5620
+    name: "La Paz"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de La Libertad"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Zaragoza
+        name: Zaragoza
+        names_en: ~
+        names_es: ~
+        population: 11749
+      - 
+        alternate_names: 
+          - "San Pablo Tacachico"
+          - Tacachico
+        ascii_name: "San Pablo Tacachico"
+        name: "San Pablo Tacachico"
+        names_en: ~
+        names_es: ~
+        population: 3033
+      - 
+        alternate_names: 
+          - Opico
+          - "San Juan Opico"
+        ascii_name: "San Juan Opico"
+        name: "San Juan Opico"
+        names_en: ~
+        names_es: ~
+        population: 7127
+      - 
+        alternate_names: 
+          - Kesal'tepeke
+          - Quezaltepeque
+          - Quezaltepque
+        ascii_name: Quezaltepeque
+        name: Quezaltepeque
+        names_en: ~
+        names_es: ~
+        population: 28886
+      - 
+        alternate_names: ~
+        ascii_name: "Nuevo Cuscatlan"
+        name: "Nuevo Cuscatlán"
+        names_en: ~
+        names_es: ~
+        population: 6469
+      - 
+        alternate_names: 
+          - "Ciudad de Nueva San Salvador"
+          - "La Ciudad de Nueva San Salvador"
+          - Nuehva-San-Sal'vador
+        ascii_name: "Nueva San Salvador"
+        name: "Nueva San Salvador"
+        names_en: 
+          - "Santa Tecla"
+        names_es: 
+          - "Santa Tecla"
+        population: 124694
+      - 
+        alternate_names: 
+          - "La Libertad"
+          - "Puerto La Libertad"
+        ascii_name: "La Libertad"
+        name: "La Libertad"
+        names_en: ~
+        names_es: ~
+        population: 16855
+      - 
+        alternate_names: 
+          - Chilamatal
+          - "Ciudad Arce"
+          - "El Chilamatal"
+        ascii_name: "Ciudad Arce"
+        name: "Ciudad Arce"
+        names_en: ~
+        names_es: ~
+        population: 10095
+      - 
+        alternate_names: 
+          - "Antiguo Cuscatlan"
+          - "Antiguo Cuscatlán"
+        ascii_name: "Antiguo Cuscatlan"
+        name: "Antiguo Cuscatlán"
+        names_en: ~
+        names_es: ~
+        population: 33767
+    name: "La Libertad"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Cuscatlan"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tenancingo
+        name: Tenancingo
+        names_en: ~
+        names_es: ~
+        population: 1011
+      - 
+        alternate_names: ~
+        ascii_name: Tecoluca
+        name: Tecoluca
+        names_en: ~
+        names_es: ~
+        population: 2781
+      - 
+        alternate_names: 
+          - Suchioto
+          - Suchitoto
+        ascii_name: Suchitoto
+        name: Suchitoto
+        names_en: ~
+        names_es: ~
+        population: 5735
+      - 
+        alternate_names: ~
+        ascii_name: "San Martin"
+        name: "San Martín"
+        names_en: ~
+        names_es: ~
+        population: 39361
+      - 
+        alternate_names: 
+          - Cojutepeque
+        ascii_name: Cojutepeque
+        name: Cojutepeque
+        names_en: ~
+        names_es: ~
+        population: 48411
+    name: Cuscatlán
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Chalatenango"
+    cities: 
+      - 
+        alternate_names: 
+          - Chicunhuexo
+          - "Nueva Concepcion"
+          - "Nueva Concepción"
+        ascii_name: "Nueva Concepcion"
+        name: "Nueva Concepción"
+        names_en: ~
+        names_es: ~
+        population: 9990
+      - 
+        alternate_names: 
+          - Chalatenanga
+          - Chalatenango
+          - Чалатенанго
+        ascii_name: Chalatenango
+        name: Chalatenango
+        names_en: ~
+        names_es: ~
+        population: 19364
+    name: Chalatenango
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Cabanas"
+    cities: 
+      - 
+        alternate_names: 
+          - Chocoaique
+          - Victoria
+          - "Villa Victoria"
+        ascii_name: Victoria
+        name: Victoria
+        names_en: ~
+        names_es: ~
+        population: 2023
+      - 
+        alternate_names: 
+          - Sensuntepeque
+          - Sensuntepque
+          - Sensutepeke
+        ascii_name: Sensuntepeque
+        name: Sensuntepeque
+        names_en: ~
+        names_es: ~
+        population: 20386
+    name: Cabañas
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Ahuachapan"
+    cities: 
+      - 
+        alternate_names: 
+          - Tacuba
+          - Taucba
+        ascii_name: Tacuba
+        name: Tacuba
+        names_en: ~
+        names_es: ~
+        population: 5055
+      - 
+        alternate_names: ~
+        ascii_name: "San Francisco Menendez"
+        name: "San Francisco Menéndez"
+        names_en: ~
+        names_es: ~
+        population: 1264
+      - 
+        alternate_names: ~
+        ascii_name: Jujutla
+        name: Jujutla
+        names_en: ~
+        names_es: ~
+        population: 2022
+      - 
+        alternate_names: ~
+        ascii_name: Guaymango
+        name: Guaymango
+        names_en: ~
+        names_es: ~
+        population: 1517
+      - 
+        alternate_names: 
+          - Ataco
+          - "Concepcion de Ataco"
+          - "Concepción de Ataco"
+        ascii_name: "Concepcion de Ataco"
+        name: "Concepción de Ataco"
+        names_en: ~
+        names_es: ~
+        population: 7797
+      - 
+        alternate_names: ~
+        ascii_name: Atiquizaya
+        name: Atiquizaya
+        names_en: ~
+        names_es: ~
+        population: 9476
+      - 
+        alternate_names: 
+          - Achuachapan
+          - Ahuachapan
+          - Ahuachapán
+        ascii_name: Ahuachapan
+        name: Ahuachapán
+        names_en: ~
+        names_es: ~
+        population: 34102
+    name: Ahuachapán
+    names_en: ~
+    names_es: ~

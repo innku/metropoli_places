@@ -1,40 +1,42 @@
 --- 
-code: TK
-continent: OC
 name: Tokelau
-population: 1433
+names_en: 
+  - Tokelau
+names_es: 
+  - "Islas Tokelau"
 regions: 
   - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-8.5345099999999992 -172.5171899999999994)"
-        name: "Atafu Village"
-        population: 500
-        slug: atafu-village
-    code: TK.A
-    name: Atafu
-    slug: atafu
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-9.3833300000000008 -171.2500000000000000)"
-        name: Fale
-        population: 400
-        slug: fale
-    code: TK.F
-    name: Fakaofo
-    slug: fakaofo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-9.1976800000000001 -171.8515800000000127)"
-        name: Nukunonu
-        population: 426
-        slug: nukunonu
-    code: TK.N
+    ascii_name: Nukunonu
+    cities: []
     name: Nukunonu
-    slug: nukunonu
-tld: tk
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Fakaofo
+    cities: 
+      - 
+        alternate_names: 
+          - "Fakaofu Village"
+          - Fale
+        ascii_name: "Fale old settlement"
+        name: "Fale old settlement"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Fakaofo
+    names_en: 
+      - Fakaofo
+    names_es: ~
+  - 
+    ascii_name: Atafu
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Atafu Village"
+        name: "Atafu Village"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Atafu
+    names_en: ~
+    names_es: ~

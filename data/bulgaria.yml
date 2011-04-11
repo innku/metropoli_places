@@ -1,1725 +1,2833 @@
 --- 
-code: BG
-continent: EU
 name: Bulgaria
-population: 7148785
+names_en: 
+  - Bulgaria
+names_es: 
+  - Bulgaria
 regions: 
   - 
+    ascii_name: "Oblast Razgrad"
     cities: 
       - 
-        districts: []
-        location: "POINT (42.0252800000000022 23.6841700000000017)"
-        name: Yakoruda
-        population: 6008
-        slug: yakoruda
-      - 
-        districts: []
-        location: "POINT (41.6333300000000008 23.1999999999999993)"
-        name: Strumyani
-        population: 1058
-        slug: strumyani
-      - 
-        districts: []
-        location: "POINT (41.7999999999999972 23.1833300000000015)"
-        name: "Stara Kresna"
-        population: 3586
-        slug: stara-kresna
-      - 
-        districts: []
-        location: "POINT (41.8833300000000008 23.1166699999999992)"
-        name: Simitli
-        population: 6729
-        slug: simitli
-      - 
-        districts: []
-        location: "POINT (41.6166699999999992 23.9833299999999987)"
-        name: Satovcha
-        population: 2382
-        slug: satovcha
-      - 
-        districts: []
-        location: "POINT (41.5666700000000020 23.2833299999999994)"
-        name: Sandanski
-        population: 26459
-        slug: sandanski
-      - 
-        districts: []
-        location: "POINT (41.8862999999999985 23.4671400000000006)"
-        name: Razlog
-        population: 12486
-        slug: razlog
-      - 
-        districts: []
-        location: "POINT (41.3999999999999986 23.2166700000000006)"
-        name: Petrich
-        population: 30308
-        slug: petrich
-      - 
-        districts: []
-        location: "POINT (41.7333300000000023 23.1499999999999986)"
-        name: Kresna
-        population: 4117
-        slug: kresna
-      - 
-        districts: []
-        location: "POINT (41.5222199999999972 23.8686100000000003)"
-        name: Khadzhidimovo
-        population: 3167
-        slug: khadzhidimovo
-      - 
-        districts: []
-        location: "POINT (41.6000000000000014 23.8166699999999985)"
-        name: Gŭrmen
-        population: 1838
-        slug: gurmen
-      - 
-        districts: []
-        location: "POINT (41.5666700000000020 23.7333299999999987)"
-        name: "Gotse Delchev"
-        population: 20471
-        slug: gotse-delchev
-      - 
-        districts: []
-        location: "POINT (42.0166699999999977 23.1000000000000014)"
-        name: Blagoevgrad
-        population: 71306
-        slug: blagoevgrad
-      - 
-        districts: []
-        location: "POINT (41.9569400000000030 23.5725000000000016)"
-        name: Belitsa
-        population: 3166
-        slug: belitsa
-      - 
-        districts: []
-        location: "POINT (41.8382999999999967 23.4885100000000016)"
-        name: Bansko
-        population: 9232
-        slug: bansko
-    code: BG.38
-    name: Blagoevgrad
-    slug: blagoevgrad
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.7135999999999996 27.7586699999999986)"
-        name: "Sveti Vlas"
-        population: 3875
-        slug: sveti-vlas
-      - 
-        districts: []
-        location: "POINT (42.7666699999999977 26.7833299999999994)"
-        name: Sungurlare
-        population: 3834
-        slug: sungurlare
-      - 
-        districts: []
-        location: "POINT (42.4166700000000034 27.6999999999999993)"
-        name: Sozopol
-        population: 4500
-        slug: sozopol
-      - 
-        districts: []
-        location: "POINT (42.7999999999999972 27.2833299999999994)"
-        name: Ruen
-        population: 2339
-        slug: ruen
-      - 
-        districts: []
-        location: "POINT (42.2666699999999977 27.7666700000000013)"
-        name: Primorsko
-        population: 2798
-        slug: primorsko
-      - 
-        districts: []
-        location: "POINT (42.5588199999999972 27.6439300000000010)"
-        name: Pomorie
-        population: 13714
-        slug: pomorie
-      - 
-        districts: []
-        location: "POINT (42.8166700000000020 27.8833300000000008)"
-        name: Obzor
-        population: 2002
-        slug: obzor
-      - 
-        districts: []
-        location: "POINT (42.6592100000000016 27.7360199999999999)"
-        name: Nesebŭr
-        population: 6302
-        slug: nesebur
-      - 
-        districts: []
-        location: "POINT (42.1666700000000034 27.8500000000000014)"
-        name: Tsarevo
-        population: 6085
-        slug: tsarevo
-      - 
-        districts: []
-        location: "POINT (41.9833300000000023 27.5333299999999994)"
-        name: "Malko Tŭrnovo"
-        population: 3336
-        slug: malko-turnovo
-      - 
-        districts: []
-        location: "POINT (42.2342399999999998 27.7748999999999988)"
-        name: Kiten
-        population: 1115
-        slug: kiten
-      - 
-        districts: []
-        location: "POINT (42.6499999999999986 26.9833299999999987)"
-        name: Karnobat
-        population: 19709
-        slug: karnobat
-      - 
-        districts: []
-        location: "POINT (42.5666700000000020 27.3000000000000007)"
-        name: Kameno
-        population: 4952
-        slug: kameno
-      - 
-        districts: []
-        location: "POINT (42.3474700000000013 27.1789799999999993)"
-        name: Sredets
-        population: 9573
-        slug: sredets
-      - 
-        districts: []
-        location: "POINT (42.4458899999999986 27.6383399999999995)"
-        name: Chernomorets
-        population: 2194
-        slug: chernomorets
-      - 
-        districts: []
-        location: "POINT (42.5060599999999980 27.4678100000000001)"
-        name: Burgas
-        population: 195966
-        slug: burgas
-      - 
-        districts: []
-        location: "POINT (42.7000000000000028 27.2500000000000000)"
-        name: Aytos
-        population: 20986
-        slug: aytos
-      - 
-        districts: []
-        location: "POINT (42.1000000000000014 27.9499999999999993)"
-        name: Akhtopol
-        population: 1107
-        slug: akhtopol
-    code: BG.39
-    name: Burgas
-    slug: burgas
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.5666700000000020 27.8333300000000001)"
-        name: Dobrich
-        population: 94831
-        slug: dobrich
-      - 
-        districts: []
-        location: "POINT (43.7500000000000000 27.3999999999999986)"
-        name: Tervel
-        population: 6808
-        slug: tervel
-      - 
-        districts: []
-        location: "POINT (43.5333299999999994 28.5333299999999994)"
-        name: Shabla
-        population: 3901
-        slug: shabla
-      - 
-        districts: []
-        location: "POINT (43.8166700000000020 27.7500000000000000)"
-        name: Krushari
-        population: 1722
-        slug: krushari
-      - 
-        districts: []
-        location: "POINT (43.4333299999999980 28.3333300000000001)"
-        name: Kavarna
-        population: 11205
-        slug: kavarna
-      - 
-        districts: []
-        location: "POINT (43.7000000000000028 28.0333299999999994)"
-        name: General-Toshevo
-        population: 7758
-        slug: general-toshevo
-      - 
-        districts: []
-        location: "POINT (43.4166700000000034 28.1666699999999999)"
-        name: Balchik
-        population: 13000
-        slug: balchik
-    code: BG.40
-    name: Dobrich
-    slug: dobrich
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.8666699999999992 25.5000000000000000)"
-        name: Tryavna
-        population: 13818
-        slug: tryavna
-      - 
-        districts: []
-        location: "POINT (43.0258299999999991 25.1136100000000013)"
-        name: Sevlievo
-        population: 24582
-        slug: sevlievo
-      - 
-        districts: []
-        location: "POINT (42.8747200000000035 25.3341700000000003)"
-        name: Gabrovo
-        population: 66175
-        slug: gabrovo
-      - 
-        districts: []
-        location: "POINT (42.9789699999999968 25.4785000000000004)"
-        name: Dryanovo
-        population: 8346
-        slug: dryanovo
-    code: BG.41
-    name: Gabrovo
-    slug: gabrovo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.6975100000000012 23.3241499999999995)"
-        name: Sofia
-        population: 1152556
-        slug: sofia
-      - 
-        districts: []
-        location: "POINT (42.7666699999999977 23.5666699999999985)"
-        name: Bukhovo
-        population: 3283
-        slug: bukhovo
-    code: BG.42
-    name: Sofiya-Grad
-    slug: sofiya-grad
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.0833299999999966 26.3333300000000001)"
-        name: Topolovgrad
-        population: 6464
-        slug: topolovgrad
-      - 
-        districts: []
-        location: "POINT (41.7666699999999977 26.1999999999999993)"
-        name: Svilengrad
-        population: 19279
-        slug: svilengrad
-      - 
-        districts: []
-        location: "POINT (42.0333299999999994 25.8333300000000001)"
-        name: Simeonovgrad
-        population: 7388
-        slug: simeonovgrad
-      - 
-        districts: []
-        location: "POINT (41.9166700000000034 25.3500000000000014)"
-        name: "Mineralni Bani"
-        population: 1367
-        slug: mineralni-bani
-      - 
-        districts: []
-        location: "POINT (41.6333300000000008 25.8666699999999992)"
-        name: Madzharovo
-        population: 1319
-        slug: madzharovo
-      - 
-        districts: []
-        location: "POINT (41.8333299999999966 26.0833300000000001)"
-        name: Lyubimets
-        population: 8065
-        slug: lyubimets
-      - 
-        districts: []
-        location: "POINT (41.9402800000000013 25.5694400000000002)"
-        name: Khaskovo
-        population: 79699
-        slug: khaskovo
-      - 
-        districts: []
-        location: "POINT (41.9333299999999980 25.8999999999999986)"
-        name: Kharmanli
-        population: 18931
-        slug: kharmanli
-      - 
-        districts: []
-        location: "POINT (41.5333299999999994 26.1333300000000008)"
-        name: Ivaylovgrad
-        population: 3969
-        slug: ivaylovgrad
-      - 
-        districts: []
-        location: "POINT (42.9333299999999980 25.8833300000000008)"
-        name: Elena
-        population: 6042
-        slug: elena
-      - 
-        districts: []
-        location: "POINT (42.0499999999999972 25.6000000000000014)"
-        name: Dimitrovgrad
-        population: 43288
-        slug: dimitrovgrad
-    code: BG.43
-    name: Khaskovo
-    slug: khaskovo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.6499999999999986 25.3666699999999992)"
-        name: Kŭrdzhali
-        population: 51000
-        slug: kurdzhali
-      - 
-        districts: []
-        location: "POINT (41.4666700000000006 25.6499999999999986)"
-        name: Krumovgrad
-        population: 5271
-        slug: krumovgrad
-      - 
-        districts: []
-        location: "POINT (41.5000000000000000 25.3000000000000007)"
-        name: Dzhebel
-        population: 3329
-        slug: dzhebel
-      - 
-        districts: []
-        location: "POINT (41.5833299999999966 25.1333300000000008)"
-        name: Ardino
-        population: 3531
-        slug: ardino
-    code: BG.44
-    name: Kŭrdzhali
-    slug: kurdzhali
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.2666699999999977 23.1166699999999992)"
-        name: Dupnitsa
-        population: 34764
-        slug: dupnitsa
-      - 
-        districts: []
-        location: "POINT (42.1333300000000008 23.1333300000000008)"
-        name: Rila
-        population: 3002
-        slug: rila
-      - 
-        districts: []
-        location: "POINT (42.2838899999999995 22.6911099999999983)"
-        name: Kyustendil
-        population: 48286
-        slug: kyustendil
-      - 
-        districts: []
-        location: "POINT (42.0833299999999966 23.0666699999999985)"
-        name: Kocherinovo
-        population: 2872
-        slug: kocherinovo
-      - 
-        districts: []
-        location: "POINT (42.3697200000000009 23.0172199999999982)"
-        name: Bobovdol
-        population: 6184
-        slug: bobovdol
-      - 
-        districts: []
-        location: "POINT (42.1597200000000001 23.0163900000000012)"
-        name: Boboshevo
-        population: 1784
-        slug: boboshevo
-      - 
-        districts: []
-        location: "POINT (42.2833299999999994 23.2666700000000013)"
-        name: "Sapareva Banya"
-        population: 4610
-        slug: sapareva-banya
-    code: BG.45
-    name: Kyustendil
-    slug: kyustendil
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.0313900000000018 24.1127800000000008)"
-        name: Yablanitsa
-        population: 3237
-        slug: yablanitsa
-      - 
-        districts: []
-        location: "POINT (43.1000000000000014 24.4166699999999999)"
-        name: Ugŭrchin
-        population: 2965
-        slug: ugurchin
-      - 
-        districts: []
-        location: "POINT (42.8942699999999988 24.7158900000000017)"
-        name: Troyan
-        population: 21162
-        slug: troyan
-      - 
-        districts: []
-        location: "POINT (42.9166700000000034 24.2666700000000013)"
-        name: Teteven
-        population: 10790
-        slug: teteven
-      - 
-        districts: []
-        location: "POINT (43.2000000000000028 24.1666699999999999)"
-        name: Lukovit
-        population: 9792
-        slug: lukovit
-      - 
-        districts: []
-        location: "POINT (43.1333300000000008 24.7166700000000006)"
-        name: Lovech
-        population: 42211
-        slug: lovech
-      - 
-        districts: []
-        location: "POINT (43.3116699999999994 25.0733299999999986)"
-        name: Letnitsa
-        population: 3528
-        slug: letnitsa
-      - 
-        districts: []
-        location: "POINT (42.8414199999999994 24.9175900000000006)"
-        name: Apriltsi
-        population: 3851
-        slug: apriltsi
-    code: BG.46
-    name: Lovech
-    slug: lovech
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.6430599999999984 23.3677799999999998)"
-        name: Yakimovo
-        population: 2665
-        slug: yakimovo
-      - 
-        districts: []
-        location: "POINT (43.1952799999999968 23.2861100000000008)"
-        name: Vŭrshets
-        population: 7512
-        slug: vurshets
-      - 
-        districts: []
-        location: "POINT (43.6963900000000010 23.4447200000000002)"
-        name: Vŭlchedrŭm
-        population: 5207
-        slug: vulchedrum
-      - 
-        districts: []
-        location: "POINT (43.4125000000000014 23.2250000000000014)"
-        name: Montana
-        population: 47445
-        slug: montana
-      - 
-        districts: []
-        location: "POINT (43.6297199999999989 23.1811100000000003)"
-        name: Medkovets
-        population: 2690
-        slug: medkovets
-      - 
-        districts: []
-        location: "POINT (43.8138900000000007 23.2361100000000000)"
-        name: Lom
-        population: 26594
-        slug: lom
-      - 
-        districts: []
-        location: "POINT (43.3841699999999975 22.8808299999999996)"
-        name: Chiprovtsi
-        population: 2080
-        slug: chiprovtsi
-      - 
-        districts: []
-        location: "POINT (43.6666700000000034 23.0666699999999985)"
-        name: Brusartsi
-        population: 1734
-        slug: brusartsi
-      - 
-        districts: []
-        location: "POINT (43.4722200000000001 23.3358300000000014)"
-        name: Boychinovtsi
-        population: 2181
-        slug: boychinovtsi
-      - 
-        districts: []
-        location: "POINT (43.2361099999999965 23.1258300000000006)"
-        name: Berkovitsa
-        population: 15027
-        slug: berkovitsa
-    code: BG.47
-    name: Montana
-    slug: montana
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.0272399999999990 23.9956899999999997)"
-        name: Velingrad
-        population: 24036
-        slug: velingrad
-      - 
-        districts: []
-        location: "POINT (42.5000000000000000 24.3166699999999985)"
-        name: Strelcha
-        population: 4545
-        slug: strelcha
-      - 
-        districts: []
-        location: "POINT (42.2166700000000006 24.1000000000000014)"
-        name: Septemvri
-        population: 8745
-        slug: septemvri
-      - 
-        districts: []
-        location: "POINT (41.9833300000000023 24.0833300000000001)"
-        name: Rakitovo
-        population: 8376
-        slug: rakitovo
-      - 
-        districts: []
-        location: "POINT (42.0333299999999994 24.3000000000000007)"
-        name: Peshtera
-        population: 18676
-        slug: peshtera
-      - 
-        districts: []
-        location: "POINT (42.2000000000000028 24.3333300000000001)"
-        name: Pazardzhik
-        population: 75977
-        slug: pazardzhik
-      - 
-        districts: []
-        location: "POINT (42.5000000000000000 24.1833300000000015)"
-        name: Panagyurishte
-        population: 19389
-        slug: panagyurishte
-      - 
-        districts: []
-        location: "POINT (42.3500000000000014 24.1166699999999992)"
-        name: Lesichevo
-        population: 1206
-        slug: lesichevo
-      - 
-        districts: []
-        location: "POINT (42.0166699999999977 24.3666699999999992)"
-        name: Bratsigovo
-        population: 4577
-        slug: bratsigovo
-      - 
-        districts: []
-        location: "POINT (42.2166700000000006 24.0166700000000013)"
-        name: Belovo
-        population: 4155
-        slug: belovo
-      - 
-        districts: []
-        location: "POINT (41.9500000000000028 24.2166700000000006)"
-        name: Batak
-        population: 3917
-        slug: batak
-    code: BG.48
-    name: Pazardzhit
-    slug: pazardzhit
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.4788899999999998 22.7491699999999994)"
-        name: Zemen
-        population: 2107
-        slug: zemen
-      - 
-        districts: []
-        location: "POINT (42.8352799999999974 22.6516699999999993)"
-        name: Trŭn
-        population: 3102
-        slug: trun
-      - 
-        districts: []
-        location: "POINT (42.5997199999999978 22.9505599999999994)"
-        name: Batanovtsi
-        population: 2519
-        slug: batanovtsi
-      - 
-        districts: []
-        location: "POINT (42.5444400000000016 22.9577799999999996)"
-        name: Radomir
-        population: 14755
-        slug: radomir
-      - 
-        districts: []
-        location: "POINT (42.6000000000000014 23.0333299999999994)"
-        name: Pernik
-        population: 82467
-        slug: pernik
-      - 
-        districts: []
-        location: "POINT (42.7413900000000027 22.8980600000000010)"
-        name: Breznik
-        population: 4004
-        slug: breznik
-    code: BG.49
-    name: Pernik
-    slug: pernik
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.4666700000000006 24.8666699999999992)"
-        name: Slavyanovo
-        population: 4793
-        slug: slavyanovo
-      - 
-        districts: []
-        location: "POINT (43.3833300000000008 24.8500000000000014)"
-        name: Pordim
-        population: 2230
-        slug: pordim
-      - 
-        districts: []
-        location: "POINT (43.4166700000000034 24.6166699999999992)"
-        name: Pleven
-        population: 118675
-        slug: pleven
-      - 
-        districts: []
-        location: "POINT (43.4500000000000028 24.2666700000000013)"
-        name: Iskŭr
-        population: 4329
-        slug: iskur
-      - 
-        districts: []
-        location: "POINT (43.7000000000000028 24.8999999999999986)"
-        name: Nikopol
-        population: 4137
-        slug: nikopol
-      - 
-        districts: []
-        location: "POINT (43.3666699999999992 25.1333300000000008)"
-        name: Levski
-        population: 11467
-        slug: levski
-      - 
-        districts: []
-        location: "POINT (43.3500000000000014 24.1333300000000008)"
-        name: Koynare
-        population: 2926
-        slug: koynare
-      - 
-        districts: []
-        location: "POINT (43.6333300000000008 24.6999999999999993)"
-        name: Gulyantsi
-        population: 3589
-        slug: gulyantsi
-      - 
-        districts: []
-        location: "POINT (43.3999999999999986 24.4333300000000015)"
-        name: "Dolni Dŭbnik"
-        population: 5259
-        slug: dolni-dubnik
-      - 
-        districts: []
-        location: "POINT (43.4666700000000006 24.5333299999999994)"
-        name: "Dolna Mitropoliya"
-        population: 3479
-        slug: dolna-mitropoliya
-      - 
-        districts: []
-        location: "POINT (43.2666699999999977 24.1000000000000014)"
-        name: "Cherven Bryag"
-        population: 21688
-        slug: cherven-bryag
-      - 
-        districts: []
-        location: "POINT (43.6499999999999986 25.1166699999999992)"
-        name: Belene
-        population: 9781
-        slug: belene
-    code: BG.50
-    name: Pleven
-    slug: pleven
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.2666699999999977 24.5500000000000007)"
-        name: Sŭedinenie
-        population: 6427
-        slug: suedinenie
-      - 
-        districts: []
-        location: "POINT (42.1333300000000008 24.9333300000000015)"
-        name: Sadovo
-        population: 2656
-        slug: sadovo
-      - 
-        districts: []
-        location: "POINT (42.2999999999999972 24.9666700000000006)"
-        name: Rakovski
-        population: 15782
-        slug: rakovski
-      - 
-        districts: []
-        location: "POINT (42.1499999999999986 24.7500000000000000)"
-        name: Plovdiv
-        population: 340494
-        slug: plovdiv
-      - 
-        districts: []
-        location: "POINT (42.0499999999999972 24.5500000000000007)"
-        name: Perushtitsa
-        population: 5350
-        slug: perushtitsa
-      - 
-        districts: []
-        location: "POINT (41.8500000000000014 24.8166699999999985)"
-        name: Lŭki
-        population: 3258
-        slug: luki
-      - 
-        districts: []
-        location: "POINT (42.0499999999999972 24.4666700000000006)"
-        name: Krichim
-        population: 8580
-        slug: krichim
-      - 
-        districts: []
-        location: "POINT (42.7000000000000028 24.4499999999999993)"
-        name: Klisura
-        population: 1485
-        slug: klisura
-      - 
-        districts: []
-        location: "POINT (42.5000000000000000 24.6999999999999993)"
-        name: Khisarya
-        population: 7903
-        slug: khisarya
-      - 
-        districts: []
-        location: "POINT (42.6333300000000008 24.8000000000000007)"
-        name: Karlovo
-        population: 19958
-        slug: karlovo
-      - 
-        districts: []
-        location: "POINT (42.3500000000000014 24.7333299999999987)"
-        name: Kaloyanovo
-        population: 2782
-        slug: kaloyanovo
-      - 
-        districts: []
-        location: "POINT (42.6166699999999992 24.9833299999999987)"
-        name: Kalofer
-        population: 3248
-        slug: kalofer
-      - 
-        districts: []
-        location: "POINT (41.7432700000000025 24.4000300000000010)"
-        name: Devin
-        population: 7393
-        slug: devin
-      - 
-        districts: []
-        location: "POINT (42.3500000000000014 25.0833300000000001)"
-        name: Brezovo
-        population: 1947
-        slug: brezovo
-      - 
-        districts: []
-        location: "POINT (42.0166699999999977 24.8666699999999992)"
-        name: Asenovgrad
-        population: 52170
-        slug: asenovgrad
-      - 
-        districts: []
-        location: "POINT (42.1333300000000008 24.5333299999999994)"
-        name: Stamboliyski
-        population: 12070
-        slug: stamboliyski
-    code: BG.51
-    name: Plovdiv
-    slug: plovdiv
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.7666699999999977 26.6666699999999999)"
+        alternate_names: 
+          - Sawet
+          - Zavet
+          - Zavjet
+        ascii_name: Zavet
         name: Zavet
+        names_en: ~
+        names_es: ~
         population: 3589
-        slug: zavet
       - 
-        districts: []
-        location: "POINT (43.5166699999999977 26.7500000000000000)"
+        alternate_names: 
+          - Ashiklar
+          - Samuil
+          - Самуил
+        ascii_name: Samuil
         name: Samuil
+        names_en: ~
+        names_es: ~
         population: 2283
-        slug: samuil
       - 
-        districts: []
-        location: "POINT (43.5333299999999994 26.5166700000000013)"
+        alternate_names: 
+          - Rasgrad
+          - Razgrad
+          - Разград
+        ascii_name: Razgrad
         name: Razgrad
+        names_en: ~
+        names_es: ~
         population: 38285
-        slug: razgrad
       - 
-        districts: []
-        location: "POINT (43.3666699999999992 26.6000000000000014)"
+        alternate_names: 
+          - Kobadin
+          - Kobadun
+          - Kobadŭn
+        ascii_name: Loznitsa
         name: Loznitsa
+        names_en: ~
+        names_es: ~
         population: 2971
-        slug: loznitsa
       - 
-        districts: []
-        location: "POINT (43.7999999999999972 26.5000000000000000)"
+        alternate_names: 
+          - Balbunar
+          - Kubrat
+          - Кубрат
+        ascii_name: Kubrat
         name: Kubrat
+        names_en: ~
+        names_es: ~
         population: 8980
-        slug: kubrat
       - 
-        districts: []
-        location: "POINT (43.6166699999999992 26.2500000000000000)"
+        alternate_names: 
+          - "Car Kalojan"
+          - Khlebarovo
+          - Torlak
+        ascii_name: "Tsar Kaloyan"
         name: "Tsar Kaloyan"
+        names_en: ~
+        names_es: ~
         population: 3994
-        slug: tsar-kaloyan
       - 
-        districts: []
-        location: "POINT (43.7166700000000006 26.8333300000000001)"
+        alternate_names: 
+          - Isperich
+          - Isperih
+          - Isperikh
+        ascii_name: Isperikh
         name: Isperikh
+        names_en: ~
+        names_es: ~
         population: 9735
-        slug: isperikh
-    code: BG.52
     name: Razgrad
-    slug: razgrad
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Oblast Montana"
     cities: 
       - 
-        districts: []
-        location: "POINT (43.7000000000000028 26.2666700000000013)"
-        name: Vetovo
-        population: 5175
-        slug: vetovo
+        alternate_names: 
+          - Jakimovo
+          - Kotenovtsi
+          - Progorelets
+        ascii_name: Yakimovo
+        name: Yakimovo
+        names_en: ~
+        names_es: ~
+        population: 2665
       - 
-        districts: []
-        location: "POINT (43.5333299999999994 25.6499999999999986)"
-        name: Tsenovo
-        population: 2229
-        slug: tsenovo
+        alternate_names: 
+          - Varshets
+          - Varshetz
+          - Vershets
+        ascii_name: Vurshets
+        name: Vŭrshets
+        names_en: ~
+        names_es: ~
+        population: 7512
       - 
-        districts: []
-        location: "POINT (43.9500000000000028 26.1999999999999993)"
-        name: "Slivo Pole"
-        population: 3252
-        slug: slivo-pole
+        alternate_names: 
+          - Valchedarma
+          - Valtchedram
+          - Valtchidarma
+        ascii_name: Vulchedrum
+        name: Vŭlchedrŭm
+        names_en: ~
+        names_es: ~
+        population: 5207
       - 
-        districts: []
-        location: "POINT (43.6499999999999986 26.3666699999999992)"
-        name: Senovo
-        population: 1459
-        slug: senovo
+        alternate_names: 
+          - Ferdinand
+          - Ferdinandovo
+          - "Golyama Kutlovitsa"
+        ascii_name: Montana
+        name: Montana
+        names_en: ~
+        names_es: ~
+        population: 47445
       - 
-        districts: []
-        location: "POINT (43.8563899999999975 25.9708299999999994)"
-        name: Ruse
-        population: 156238
-        slug: ruse
+        alternate_names: 
+          - Medkovec
+          - Medkovets
+          - Medkovetz
+        ascii_name: Medkovets
+        name: Medkovets
+        names_en: ~
+        names_es: ~
+        population: 2690
       - 
-        districts: []
-        location: "POINT (43.7000000000000028 25.9833299999999987)"
-        name: Ivanovo
-        population: 1031
-        slug: ivanovo
+        alternate_names: 
+          - "Aligina Makhala"
+          - "Dzhembek Makhala"
+          - "Kalen Potok"
+        ascii_name: Lom
+        name: Lom
+        names_en: ~
+        names_es: ~
+        population: 26594
       - 
-        districts: []
-        location: "POINT (43.6000000000000014 25.8666699999999992)"
-        name: "Dve Mogili"
-        population: 4526
-        slug: dve-mogili
+        alternate_names: 
+          - Chiporovtsi
+          - Chiporovtsu
+          - Chiporovtsŭ
+        ascii_name: Chiprovtsi
+        name: Chiprovtsi
+        names_en: ~
+        names_es: ~
+        population: 2080
       - 
-        districts: []
-        location: "POINT (43.5000000000000000 25.8000000000000007)"
-        name: Borovo
-        population: 2467
-        slug: borovo
-    code: BG.53
-    name: Ruse
-    slug: ruse
+        alternate_names: 
+          - Brusarci
+          - Brusartsi
+          - Brussarz
+        ascii_name: Brusartsi
+        name: Brusartsi
+        names_en: ~
+        names_es: ~
+        population: 1734
+      - 
+        alternate_names: 
+          - Boichinovtsi
+          - Bojchinovci
+          - Bojtschinowzi
+        ascii_name: Boychinovtsi
+        name: Boychinovtsi
+        names_en: ~
+        names_es: ~
+        population: 2181
+      - 
+        alternate_names: 
+          - Berkovica
+          - Berkovitsa
+          - Berkovitsay
+        ascii_name: Berkovitsa
+        name: Berkovitsa
+        names_en: ~
+        names_es: ~
+        population: 15027
+    name: Montana
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Oblast Vratsa"
     cities: 
       - 
-        districts: []
-        location: "POINT (43.0000000000000000 26.6333300000000008)"
-        name: Vŭrbitsa
-        population: 3803
-        slug: vurbitsa
-      - 
-        districts: []
-        location: "POINT (43.5499999999999972 26.9333300000000015)"
-        name: Venets
-        population: 1450
-        slug: venets
-      - 
-        districts: []
-        location: "POINT (43.0666700000000020 27.0166700000000013)"
-        name: Smyadovo
-        population: 4231
-        slug: smyadovo
-      - 
-        districts: []
-        location: "POINT (43.2706400000000002 26.9228600000000000)"
-        name: Shumen
-        population: 87283
-        slug: shumen
-      - 
-        districts: []
-        location: "POINT (43.1666700000000034 26.8166699999999985)"
-        name: "Veliki Preslav"
-        population: 9425
-        slug: veliki-preslav
-      - 
-        districts: []
-        location: "POINT (43.3666699999999992 27.1166699999999992)"
-        name: Pliska
-        population: 1263
-        slug: pliska
-      - 
-        districts: []
-        location: "POINT (43.3500000000000014 27.1999999999999993)"
-        name: "Novi Pazar"
-        population: 13276
-        slug: novi-pazar
-      - 
-        districts: []
-        location: "POINT (43.3166700000000020 27.1666699999999999)"
-        name: Kaspichan
-        population: 3635
-        slug: kaspichan
-      - 
-        districts: []
-        location: "POINT (43.6166699999999992 27.1166699999999992)"
-        name: Kaolinovo
-        population: 1537
-        slug: kaolinovo
-      - 
-        districts: []
-        location: "POINT (43.4333299999999980 26.9166699999999999)"
-        name: "Gara Khitrino"
-        population: 1302
-        slug: gara-khitrino
-    code: BG.54
-    name: Shumen
-    slug: shumen
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (44.0499999999999972 26.6166699999999992)"
-        name: Tutrakan
-        population: 10022
-        slug: tutrakan
-      - 
-        districts: []
-        location: "POINT (44.0166699999999977 27.0166700000000013)"
-        name: Sitovo
-        population: 1140
-        slug: sitovo
-      - 
-        districts: []
-        location: "POINT (44.1166699999999992 27.2666700000000013)"
-        name: Silistra
-        population: 39715
-        slug: silistra
-      - 
-        districts: []
-        location: "POINT (43.9833300000000023 27.5000000000000000)"
-        name: Kaynardzha
-        population: 1107
-        slug: kaynardzha
-      - 
-        districts: []
-        location: "POINT (43.9166700000000034 26.8333300000000001)"
-        name: Glavinitsa
-        population: 2220
-        slug: glavinitsa
-      - 
-        districts: []
-        location: "POINT (43.8166700000000020 27.1499999999999986)"
-        name: Dulovo
-        population: 6788
-        slug: dulovo
-      - 
-        districts: []
-        location: "POINT (43.9500000000000028 27.2833299999999994)"
-        name: Alfatar
-        population: 1916
-        slug: alfatar
-    code: BG.55
-    name: Silistra
-    slug: silistra
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.7000000000000028 25.8999999999999986)"
-        name: Tvŭrditsa
-        population: 6519
-        slug: tvurditsa
-      - 
-        districts: []
-        location: "POINT (42.6858300000000028 26.3291700000000013)"
-        name: Sliven
-        population: 96368
-        slug: sliven
-      - 
-        districts: []
-        location: "POINT (42.4833300000000023 26.0166700000000013)"
-        name: "Nova Zagora"
-        population: 24340
-        slug: nova-zagora
-      - 
-        districts: []
-        location: "POINT (42.8833300000000008 26.4499999999999993)"
-        name: Kotel
-        population: 6421
-        slug: kotel
-      - 
-        districts: []
-        location: "POINT (42.5000000000000000 26.2500000000000000)"
-        name: Kermen
-        population: 2222
-        slug: kermen
-    code: BG.56
-    name: Sliven
-    slug: sliven
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.3833300000000008 25.1000000000000014)"
-        name: Zlatograd
-        population: 7331
-        slug: zlatograd
-      - 
-        districts: []
-        location: "POINT (41.5852799999999974 24.6919399999999989)"
-        name: Smolyan
-        population: 32069
-        slug: smolyan
-      - 
-        districts: []
-        location: "POINT (41.4833300000000023 24.8500000000000014)"
-        name: Rudozem
-        population: 3783
-        slug: rudozem
-      - 
-        districts: []
-        location: "POINT (41.4500000000000028 25.0833300000000001)"
-        name: Nedelino
-        population: 5017
-        slug: nedelino
-      - 
-        districts: []
-        location: "POINT (41.5000000000000000 24.9499999999999993)"
-        name: Madan
-        population: 5661
-        slug: madan
-      - 
-        districts: []
-        location: "POINT (41.3999999999999986 24.2300000000000004)"
-        name: Gyovren
-        population: 1040
-        slug: gyovren
-      - 
-        districts: []
-        location: "POINT (41.6499999999999986 24.1666699999999999)"
-        name: Dospat
-        population: 2802
-        slug: dospat
-      - 
-        districts: []
-        location: "POINT (41.7333300000000023 24.6833300000000015)"
-        name: Chepelare
-        population: 5478
-        slug: chepelare
-      - 
-        districts: []
-        location: "POINT (41.6833299999999980 24.2833299999999994)"
-        name: Borino
-        population: 3084
-        slug: borino
-      - 
-        districts: []
-        location: "POINT (41.6166699999999992 25.0166700000000013)"
-        name: Banite
-        population: 1279
-        slug: banite
-    code: BG.57
-    name: Smolyan
-    slug: smolyan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.7166700000000006 24.1333300000000008)"
-        name: Zlatitsa
-        population: 5786
-        slug: zlatitsa
-      - 
-        districts: []
-        location: "POINT (42.9666700000000006 23.3500000000000014)"
-        name: Svoge
-        population: 8964
-        slug: svoge
-      - 
-        districts: []
-        location: "POINT (42.8500000000000014 23.0333299999999994)"
-        name: Slivnitsa
-        population: 7545
-        slug: slivnitsa
-      - 
-        districts: []
-        location: "POINT (42.3333299999999966 23.5500000000000007)"
-        name: Samokov
-        population: 26765
-        slug: samokov
-      - 
-        districts: []
-        location: "POINT (42.8833300000000008 23.9166699999999999)"
-        name: Pravets
-        population: 4400
-        slug: pravets
-      - 
-        districts: []
-        location: "POINT (42.7000000000000028 24.1833300000000015)"
-        name: Pirdop
-        population: 8136
-        slug: pirdop
-      - 
-        districts: []
-        location: "POINT (42.7000000000000028 23.9833299999999987)"
-        name: Mirkovo
-        population: 1882
-        slug: mirkovo
-      - 
-        districts: []
-        location: "POINT (42.8166700000000020 23.2166700000000006)"
-        name: Kostinbrod
-        population: 12175
-        slug: kostinbrod
-      - 
-        districts: []
-        location: "POINT (42.6333300000000008 24.3500000000000014)"
-        name: Koprivshtitsa
-        population: 2885
-        slug: koprivshtitsa
-      - 
-        districts: []
-        location: "POINT (42.4333299999999980 23.8166699999999985)"
-        name: Ikhtiman
-        population: 14154
-        slug: ikhtiman
-      - 
-        districts: []
-        location: "POINT (42.6833299999999980 23.6999999999999993)"
-        name: "Gorna Malina"
-        population: 1501
-        slug: gorna-malina
-      - 
-        districts: []
-        location: "POINT (43.0150000000000006 23.0441700000000012)"
-        name: Godech
-        population: 5154
-        slug: godech
-      - 
-        districts: []
-        location: "POINT (42.8333299999999966 24.0000000000000000)"
-        name: Etropole
-        population: 11031
-        slug: etropole
-      - 
-        districts: []
-        location: "POINT (42.6666700000000034 23.6000000000000014)"
-        name: "Elin Pelin"
-        population: 7373
-        slug: elin-pelin
-      - 
-        districts: []
-        location: "POINT (42.9188899999999975 22.9316700000000004)"
-        name: Dragoman
-        population: 3814
-        slug: dragoman
-      - 
-        districts: []
-        location: "POINT (42.2999999999999972 23.7666700000000013)"
-        name: "Dolna Banya"
-        population: 4990
-        slug: dolna-banya
-      - 
-        districts: []
-        location: "POINT (42.7000000000000028 24.0833300000000001)"
-        name: Chelopech
-        population: 1760
-        slug: chelopech
-      - 
-        districts: []
-        location: "POINT (42.6499999999999986 24.0500000000000007)"
-        name: Chavdar
-        population: 1398
-        slug: chavdar
-      - 
-        districts: []
-        location: "POINT (42.7500000000000000 23.1999999999999993)"
-        name: Bozhurishte
-        population: 4360
-        slug: bozhurishte
-      - 
-        districts: []
-        location: "POINT (42.8999999999999986 23.7833299999999994)"
-        name: Botevgrad
-        population: 20909
-        slug: botevgrad
-      - 
-        districts: []
-        location: "POINT (42.7500000000000000 24.2833299999999994)"
-        name: Anton
-        population: 1697
-        slug: anton
-    code: BG.58
-    name: Sofiya
-    slug: sofiya
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.4327800000000011 25.6419400000000017)"
-        name: "Stara Zagora"
-        population: 143431
-        slug: stara-zagora
-      - 
-        districts: []
-        location: "POINT (42.7166700000000006 25.3333300000000001)"
-        name: Shipka
-        population: 1604
-        slug: shipka
-      - 
-        districts: []
-        location: "POINT (42.2999999999999972 25.9333300000000015)"
-        name: Radnevo
-        population: 14667
-        slug: radnevo
-      - 
-        districts: []
-        location: "POINT (42.6000000000000014 25.1999999999999993)"
-        name: "Pavel Banya"
-        population: 3212
-        slug: pavel-banya
-      - 
-        districts: []
-        location: "POINT (42.6333300000000008 25.8000000000000007)"
-        name: Nikolaevo
-        population: 3160
-        slug: nikolaevo
-      - 
-        districts: []
-        location: "POINT (42.6000000000000014 25.5500000000000007)"
-        name: Mŭglizh
-        population: 3643
-        slug: muglizh
-      - 
-        districts: []
-        location: "POINT (42.6166699999999992 25.3999999999999986)"
-        name: Kazanlŭk
-        population: 55196
-        slug: kazanluk
-      - 
-        districts: []
-        location: "POINT (42.6666700000000034 25.8000000000000007)"
-        name: Gurkovo
-        population: 2889
-        slug: gurkovo
-      - 
-        districts: []
-        location: "POINT (42.2000000000000028 25.3333300000000001)"
-        name: Chirpan
-        population: 17243
-        slug: chirpan
-    code: BG.59
-    name: "Stara Zagora"
-    slug: stara-zagora
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.2591699999999975 26.5891699999999993)"
-        name: Tŭrgovishte
-        population: 37774
-        slug: turgovishte
-      - 
-        districts: []
-        location: "POINT (43.3500000000000014 26.2333299999999987)"
-        name: Popovo
-        population: 16571
-        slug: popovo
-      - 
-        districts: []
-        location: "POINT (43.4500000000000028 26.1666699999999999)"
-        name: Opaka
-        population: 3002
-        slug: opaka
-      - 
-        districts: []
-        location: "POINT (43.1000000000000014 26.4166699999999999)"
-        name: Omurtag
-        population: 9070
-        slug: omurtag
-      - 
-        districts: []
-        location: "POINT (43.1499999999999986 26.1666699999999999)"
-        name: Antonovo
-        population: 1543
-        slug: antonovo
-    code: BG.60
-    name: Tŭrgovishte
-    slug: turgovishte
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.1833299999999980 27.6999999999999993)"
-        name: Beloslav
-        population: 7989
-        slug: beloslav
-      - 
-        districts: []
-        location: "POINT (43.3166700000000020 27.4333300000000015)"
-        name: Vetrino
-        population: 1368
-        slug: vetrino
-      - 
-        districts: []
-        location: "POINT (43.2166700000000006 27.9166699999999999)"
-        name: Varna
-        population: 312770
-        slug: varna
-      - 
-        districts: []
-        location: "POINT (43.3333299999999966 27.6000000000000014)"
-        name: Suvorovo
-        population: 4563
-        slug: suvorovo
-      - 
-        districts: []
-        location: "POINT (43.1833299999999980 27.4333300000000015)"
-        name: Provadiya
-        population: 13755
-        slug: provadiya
-      - 
-        districts: []
-        location: "POINT (43.0833299999999966 27.3166699999999985)"
-        name: Kiten
-        population: 1115
-        slug: kiten
-      - 
-        districts: []
-        location: "POINT (42.9833300000000023 27.7166700000000006)"
-        name: "Dolni Chiflik"
-        population: 7169
-        slug: dolni-chiflik
-      - 
-        districts: []
-        location: "POINT (43.0499999999999972 27.3500000000000014)"
-        name: Dŭlgopol
-        population: 5272
-        slug: dulgopol
-      - 
-        districts: []
-        location: "POINT (43.2222200000000001 27.5694400000000002)"
-        name: Devnya
-        population: 8171
-        slug: devnya
-      - 
-        districts: []
-        location: "POINT (42.8833300000000008 27.8833300000000008)"
-        name: Byala
-        population: 2327
-        slug: byala
-      - 
-        districts: []
-        location: "POINT (43.2500000000000000 27.8166699999999985)"
-        name: Aksakovo
-        population: 7132
-        slug: aksakovo
-      - 
-        districts: []
-        location: "POINT (43.2849999999999966 28.0417999999999985)"
-        name: "Zlatni Pyasatsi"
-        population: 9760
-        slug: zlatni-pyasatsi
-      - 
-        districts: []
-        location: "POINT (43.3999999999999986 27.5500000000000007)"
-        name: Vŭlchidol
-        population: 3697
-        slug: vulchidol
-    code: BG.61
-    name: Varna
-    slug: varna
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.0499999999999972 25.8999999999999986)"
-        name: Zlataritsa
-        population: 2468
-        slug: zlataritsa
-      - 
-        districts: []
-        location: "POINT (43.0812400000000011 25.6290399999999998)"
-        name: "Veliko Tŭrnovo"
-        population: 66217
-        slug: veliko-turnovo
-      - 
-        districts: []
-        location: "POINT (43.6230600000000024 25.3538899999999998)"
-        name: Svishtov
-        population: 32256
-        slug: svishtov
-      - 
-        districts: []
-        location: "POINT (43.1916700000000020 25.1811100000000003)"
-        name: Sukhindol
-        population: 2364
-        slug: sukhindol
-      - 
-        districts: []
-        location: "POINT (43.2333300000000023 25.9666700000000006)"
-        name: Strazhitsa
-        population: 5728
-        slug: strazhitsa
-      - 
-        districts: []
-        location: "POINT (43.1499999999999986 25.6499999999999986)"
-        name: Pŭrvomaytsi
-        population: 2867
-        slug: purvomaytsi
-      - 
-        districts: []
-        location: "POINT (43.3836099999999973 25.6497199999999985)"
-        name: "Polski Trŭmbesh"
-        population: 5663
-        slug: polski-trumbesh
-      - 
-        districts: []
-        location: "POINT (43.2427800000000033 25.3219400000000014)"
-        name: Pavlikeni
-        population: 12214
-        slug: pavlikeni
-      - 
-        districts: []
-        location: "POINT (43.1111099999999965 25.7283299999999997)"
-        name: Lyaskovets
-        population: 8488
-        slug: lyaskovets
-      - 
-        districts: []
-        location: "POINT (42.9833300000000023 25.6333300000000008)"
-        name: Kilifarevo
-        population: 2497
-        slug: kilifarevo
-      - 
-        districts: []
-        location: "POINT (43.1277800000000013 25.7016700000000000)"
-        name: "Gorna Oryakhovitsa"
-        population: 38553
-        slug: gorna-oryakhovitsa
-      - 
-        districts: []
-        location: "POINT (43.0333299999999994 25.6166699999999992)"
-        name: Debelets
-        population: 4418
-        slug: debelets
-      - 
-        districts: []
-        location: "POINT (43.2000000000000028 25.3000000000000007)"
-        name: "Byala Cherkva"
-        population: 3010
-        slug: byala-cherkva
-    code: BG.62
-    name: "Veliko Tŭrnovo"
-    slug: veliko-turnovo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.9900000000000020 22.8724999999999987)"
-        name: Vidin
-        population: 54409
-        slug: vidin
-      - 
-        districts: []
-        location: "POINT (43.6233300000000028 22.8308299999999988)"
-        name: Ruzhintsi
-        population: 1269
-        slug: ruzhintsi
-      - 
-        districts: []
-        location: "POINT (44.1586100000000030 22.7866700000000009)"
-        name: "Novo Selo"
-        population: 1574
-        slug: novo-selo
-      - 
-        districts: []
-        location: "POINT (43.8877799999999993 22.5213900000000002)"
-        name: Kula
-        population: 3738
-        slug: kula
-      - 
-        districts: []
-        location: "POINT (43.8344400000000007 22.6586099999999995)"
-        name: Gramada
-        population: 1872
-        slug: gramada
-      - 
-        districts: []
-        location: "POINT (43.9211099999999988 22.8211100000000009)"
-        name: Dunavtsi
-        population: 3371
-        slug: dunavtsi
-      - 
-        districts: []
-        location: "POINT (43.7416699999999992 22.7269399999999990)"
-        name: Dimovo
-        population: 1461
-        slug: dimovo
-      - 
-        districts: []
-        location: "POINT (44.1516700000000029 22.6424999999999983)"
-        name: Bregovo
-        population: 2892
-        slug: bregovo
-      - 
-        districts: []
-        location: "POINT (43.6272200000000012 22.6836100000000016)"
-        name: Belogradchik
-        population: 5688
-        slug: belogradchik
-    code: BG.63
-    name: Vidin
-    slug: vidin
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.2100000000000009 23.5625000000000000)"
+        alternate_names: 
+          - Vraca
+          - Vratca
+          - Vratsa
+        ascii_name: Vratsa
         name: Vratsa
+        names_en: ~
+        names_es: ~
         population: 64941
-        slug: vratsa
       - 
-        districts: []
-        location: "POINT (43.1499999999999986 23.9166699999999999)"
+        alternate_names: 
+          - Roman
+          - Роман
+        ascii_name: Roman
         name: Roman
+        names_en: ~
+        names_es: ~
         population: 3571
-        slug: roman
       - 
-        districts: []
-        location: "POINT (43.7333300000000023 23.9666700000000006)"
+        alternate_names: 
+          - Orechovo
+          - Orechowo
+          - Orehovo
+        ascii_name: Oryakhovo
         name: Oryakhovo
+        names_en: ~
+        names_es: ~
         population: 5706
-        slug: oryakhovo
       - 
-        districts: []
-        location: "POINT (43.6833299999999980 23.8500000000000014)"
+        alternate_names: 
+          - Buk'ovtsi
+          - Bukiowzi
+          - Bukyuvtsy
+        ascii_name: Miziya
         name: Miziya
+        names_en: ~
+        names_es: ~
         population: 3712
-        slug: miziya
       - 
-        districts: []
-        location: "POINT (43.1499999999999986 23.6999999999999993)"
+        alternate_names: 
+          - Mesdra
+          - Mezdra
+          - Mezhdra
+        ascii_name: Mezdra
         name: Mezdra
+        names_en: ~
+        names_es: ~
         population: 11975
-        slug: mezdra
       - 
-        districts: []
-        location: "POINT (43.3744399999999999 23.4844399999999993)"
+        alternate_names: 
+          - Krivdol
+          - Krivodol
+          - "Krivodolska Makhala"
+        ascii_name: Krivodol
         name: Krivodol
+        names_en: ~
+        names_es: ~
         population: 3651
-        slug: krivodol
       - 
-        districts: []
-        location: "POINT (43.7833299999999994 23.7333299999999987)"
+        alternate_names: 
+          - Koslodui
+          - Kozlodui
+          - Kozloduj
+        ascii_name: Kozloduy
         name: Kozloduy
+        names_en: ~
+        names_es: ~
         population: 14717
-        slug: kozloduy
       - 
-        districts: []
-        location: "POINT (43.5000000000000000 24.0833300000000001)"
+        alternate_names: 
+          - Kneja
+          - Knesha
+          - Kneza
+        ascii_name: Knezha
         name: Knezha
+        names_en: ~
+        names_es: ~
         population: 6889
-        slug: knezha
       - 
-        districts: []
-        location: "POINT (43.6000000000000014 23.6666699999999999)"
+        alternate_names: 
+          - Chairedin
+          - Eredin
+          - Hajredin
+        ascii_name: Khayredin
         name: Khayredin
+        names_en: ~
+        names_es: ~
         population: 2228
-        slug: khayredin
       - 
-        districts: []
-        location: "POINT (43.4666700000000006 23.9333300000000015)"
+        alternate_names: 
+          - "Bela Slatina"
+          - "Biela Slatina"
+          - "Bjala Slatina"
+        ascii_name: "Byala Slatina"
         name: "Byala Slatina"
+        names_en: ~
+        names_es: ~
         population: 13307
-        slug: byala-slatina
       - 
-        districts: []
-        location: "POINT (43.4333299999999980 23.7500000000000000)"
+        alternate_names: 
+          - Borovan
+          - Borowan
+          - Борован
+        ascii_name: Borovan
         name: Borovan
+        names_en: ~
+        names_es: ~
         population: 2941
-        slug: borovan
-    code: BG.64
     name: Vratsa
-    slug: vratsa
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Oblast Varna"
     cities: 
       - 
-        districts: []
-        location: "POINT (42.4833300000000023 26.5000000000000000)"
-        name: Yambol
-        population: 80116
-        slug: yambol
+        alternate_names: 
+          - Belevo
+          - Belewo
+          - Beloslav
+        ascii_name: Beloslav
+        name: Beloslav
+        names_en: ~
+        names_es: ~
+        population: 7989
       - 
-        districts: []
-        location: "POINT (42.6000000000000014 26.6833300000000015)"
-        name: Straldzha
-        population: 5817
-        slug: straldzha
+        alternate_names: 
+          - "Kurt Dere"
+          - Vulchidol
+          - Vŭlchidol
+        ascii_name: Vulchidol
+        name: Vŭlchidol
+        names_en: ~
+        names_es: ~
+        population: 3697
       - 
-        districts: []
-        location: "POINT (42.1666700000000034 26.5666699999999985)"
-        name: Elkhovo
-        population: 11107
-        slug: elkhovo
-      - 
-        districts: []
-        location: "POINT (42.1499999999999986 26.8166699999999985)"
-        name: Bolyarovo
+        alternate_names: 
+          - Asya-Tepe
+          - "Jasi Tepe"
+          - Vetrino
+        ascii_name: Vetrino
+        name: Vetrino
+        names_en: ~
+        names_es: ~
         population: 1368
-        slug: bolyarovo
-    code: BG.65
+      - 
+        alternate_names: 
+          - Barna
+          - Odessos
+          - Odessus
+        ascii_name: Varna
+        name: Varna
+        names_en: 
+          - Varna
+        names_es: 
+          - Varna
+        population: 312770
+      - 
+        alternate_names: 
+          - Kozludza
+          - Kozludzha
+          - Kozludža
+        ascii_name: Suvorovo
+        name: Suvorovo
+        names_en: ~
+        names_es: ~
+        population: 4563
+      - 
+        alternate_names: 
+          - Pravodi
+          - Provadia
+          - Provadidija
+        ascii_name: Provadiya
+        name: Provadiya
+        names_en: ~
+        names_es: ~
+        population: 13755
+      - 
+        alternate_names: 
+          - Kiten
+          - Mukhalii
+          - Китен
+        ascii_name: Kiten
+        name: Kiten
+        names_en: ~
+        names_es: ~
+        population: 1115
+      - 
+        alternate_names: 
+          - "Dolen Chiflik"
+          - "Dolen Tchiflik"
+          - "Dolni Chifl"
+        ascii_name: "Dolni Chiflik"
+        name: "Dolni Chiflik"
+        names_en: ~
+        names_es: ~
+        population: 7169
+      - 
+        alternate_names: 
+          - Dalgopol
+          - Delgopol
+          - Dulgopol
+        ascii_name: Dulgopol
+        name: Dŭlgopol
+        names_en: ~
+        names_es: ~
+        population: 5272
+      - 
+        alternate_names: 
+          - Devne
+          - Devnja
+          - Dewnja
+        ascii_name: Devnya
+        name: Devnya
+        names_en: ~
+        names_es: ~
+        population: 8171
+      - 
+        alternate_names: 
+          - "Ak Dere"
+          - Bela
+          - Biela
+        ascii_name: Byala
+        name: Byala
+        names_en: ~
+        names_es: ~
+        population: 2327
+      - 
+        alternate_names: 
+          - Adzemler
+          - Adzhemler
+          - Adžemler
+        ascii_name: Aksakovo
+        name: Aksakovo
+        names_en: ~
+        names_es: ~
+        population: 7132
+      - 
+        alternate_names: 
+          - "Golden Sands"
+          - "Zlatni pjasuci"
+          - "Zolotye Peski"
+        ascii_name: "Zlatni Pyasatsi"
+        name: "Zlatni Pyasatsi"
+        names_en: 
+          - "Golden Sands"
+        names_es: ~
+        population: 9760
+    name: Varna
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Dobrich"
+    cities: 
+      - 
+        alternate_names: 
+          - Bazargic
+          - Dobric
+          - Dobrich
+        ascii_name: Dobrich
+        name: Dobrich
+        names_en: 
+          - Dobrich
+        names_es: ~
+        population: 94831
+      - 
+        alternate_names: 
+          - "Curt Bunar"
+          - Curtburnar
+          - "Dshami Machala"
+        ascii_name: Tervel
+        name: Tervel
+        names_en: ~
+        names_es: ~
+        population: 6808
+      - 
+        alternate_names: 
+          - Sabla
+          - Shabla
+          - Şabla
+        ascii_name: Shabla
+        name: Shabla
+        names_en: ~
+        names_es: ~
+        population: 3901
+      - 
+        alternate_names: 
+          - Armuchi
+          - Armutli
+          - Armutlia
+        ascii_name: Krushari
+        name: Krushari
+        names_en: ~
+        names_es: ~
+        population: 1722
+      - 
+        alternate_names: 
+          - Cavarna
+          - Kavarna
+          - Kawarna
+        ascii_name: Kavarna
+        name: Kavarna
+        names_en: ~
+        names_es: ~
+        population: 11205
+      - 
+        alternate_names: 
+          - Casim
+          - "General Tosevo"
+          - "General Toševo"
+        ascii_name: General-Toshevo
+        name: General-Toshevo
+        names_en: ~
+        names_es: ~
+        population: 7758
+      - 
+        alternate_names: 
+          - Balchik
+          - Balchiq
+          - Balcic
+        ascii_name: Balchik
+        name: Balchik
+        names_en: 
+          - Baltchik
+        names_es: ~
+        population: 13000
+    name: Dobrich
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Sofiya"
+    cities: 
+      - 
+        alternate_names: 
+          - Slatiza
+          - Zlatica
+          - Zlatitza
+        ascii_name: Zlatitsa
+        name: Zlatitsa
+        names_en: ~
+        names_es: ~
+        population: 5786
+      - 
+        alternate_names: 
+          - Svogbe
+          - Svoge
+          - Svoghe
+        ascii_name: Svoge
+        name: Svoge
+        names_en: ~
+        names_es: ~
+        population: 8964
+      - 
+        alternate_names: 
+          - Slivica
+          - Slivnica
+          - Slivnitza
+        ascii_name: Slivnitsa
+        name: Slivnitsa
+        names_en: ~
+        names_es: ~
+        population: 7545
+      - 
+        alternate_names: 
+          - Samakov
+          - Samokov
+          - Samokow
+        ascii_name: Samokov
+        name: Samokov
+        names_en: ~
+        names_es: ~
+        population: 26765
+      - 
+        alternate_names: 
+          - Pravec
+          - Pravetz
+          - Prawez
+        ascii_name: Pravets
+        name: Pravets
+        names_en: ~
+        names_es: ~
+        population: 4400
+      - 
+        alternate_names: 
+          - Pirdop
+          - Пирдоп
+        ascii_name: Pirdop
+        name: Pirdop
+        names_en: ~
+        names_es: ~
+        population: 8136
+      - 
+        alternate_names: 
+          - Mirkovo
+          - Mirkowo
+          - Мирково
+        ascii_name: Mirkovo
+        name: Mirkovo
+        names_en: ~
+        names_es: ~
+        population: 1882
+      - 
+        alternate_names: 
+          - Kostinbrod
+          - Костинброд
+        ascii_name: Kostinbrod
+        name: Kostinbrod
+        names_en: ~
+        names_es: ~
+        population: 12175
+      - 
+        alternate_names: 
+          - "Avrat Alan"
+          - Koprivcica
+          - Koprivichtitza
+        ascii_name: Koprivshtitsa
+        name: Koprivshtitsa
+        names_en: ~
+        names_es: ~
+        population: 2885
+      - 
+        alternate_names: 
+          - Ichtiman
+          - Ihtiman
+          - Ikhitman
+        ascii_name: Ikhtiman
+        name: Ikhtiman
+        names_en: ~
+        names_es: ~
+        population: 14154
+      - 
+        alternate_names: 
+          - "Gorna Malina"
+          - "Горна Малина"
+        ascii_name: "Gorna Malina"
+        name: "Gorna Malina"
+        names_en: ~
+        names_es: ~
+        population: 1501
+      - 
+        alternate_names: 
+          - Glotnitsa
+          - Godec
+          - Godech
+        ascii_name: Godech
+        name: Godech
+        names_en: ~
+        names_es: ~
+        population: 5154
+      - 
+        alternate_names: 
+          - Etropole
+          - Etropolje
+          - Етрополе
+        ascii_name: Etropole
+        name: Etropole
+        names_en: ~
+        names_es: ~
+        population: 11031
+      - 
+        alternate_names: 
+          - "Elin Pelin"
+          - Novoselci
+          - Novoseltsi
+        ascii_name: "Elin Pelin"
+        name: "Elin Pelin"
+        names_en: ~
+        names_es: ~
+        population: 7373
+      - 
+        alternate_names: 
+          - Dragoman
+          - Драгоман
+        ascii_name: Dragoman
+        name: Dragoman
+        names_en: ~
+        names_es: ~
+        population: 3814
+      - 
+        alternate_names: 
+          - Banja
+          - "Dolna Bania"
+          - "Dolna Banja"
+        ascii_name: "Dolna Banya"
+        name: "Dolna Banya"
+        names_en: ~
+        names_es: ~
+        population: 4990
+      - 
+        alternate_names: 
+          - Celopec
+          - Chelopech
+          - Tschelopetsch
+        ascii_name: Chelopech
+        name: Chelopech
+        names_en: ~
+        names_es: ~
+        population: 1760
+      - 
+        alternate_names: 
+          - Chavdar
+          - Kolanlare
+          - Kolanlari
+        ascii_name: Chavdar
+        name: Chavdar
+        names_en: ~
+        names_es: ~
+        population: 1398
+      - 
+        alternate_names: 
+          - Bojurishe
+          - Boshurischte
+          - Bozhurishhe
+        ascii_name: Bozhurishte
+        name: Bozhurishte
+        names_en: ~
+        names_es: ~
+        population: 4360
+      - 
+        alternate_names: 
+          - Botevgrad
+          - Botewgrad
+          - Orchanie
+        ascii_name: Botevgrad
+        name: Botevgrad
+        names_en: ~
+        names_es: ~
+        population: 20909
+      - 
+        alternate_names: 
+          - Anton
+          - Lashene
+          - Lezhene
+        ascii_name: Anton
+        name: Anton
+        names_en: ~
+        names_es: ~
+        population: 1697
+    name: Sofiya
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Ruse"
+    cities: 
+      - 
+        alternate_names: 
+          - Vetova
+          - Vetovo
+          - Vjetevo
+        ascii_name: Vetovo
+        name: Vetovo
+        names_en: ~
+        names_es: ~
+        population: 5175
+      - 
+        alternate_names: 
+          - Causevo
+          - Causkioj
+          - Causovo
+        ascii_name: Tsenovo
+        name: Tsenovo
+        names_en: ~
+        names_es: ~
+        population: 2229
+      - 
+        alternate_names: 
+          - Kashikler
+          - "Slivo Pole"
+          - "Sliwo Pole"
+        ascii_name: "Slivo Pole"
+        name: "Slivo Pole"
+        names_en: ~
+        names_es: ~
+        population: 3252
+      - 
+        alternate_names: 
+          - Senevo
+          - Senovo
+          - Senowo
+        ascii_name: Senovo
+        name: Senovo
+        names_en: ~
+        names_es: ~
+        population: 1459
+      - 
+        alternate_names: 
+          - Roese
+          - Rousse
+          - Roussé
+        ascii_name: Ruse
+        name: Ruse
+        names_en: 
+          - Rousse
+        names_es: 
+          - Ruse
+        population: 156238
+      - 
+        alternate_names: 
+          - Ivanovo
+          - Iwanowo
+          - Иваново
+        ascii_name: Ivanovo
+        name: Ivanovo
+        names_en: ~
+        names_es: ~
+        population: 1031
+      - 
+        alternate_names: 
+          - Damogila
+          - "Dbb Mogili"
+          - "Dve mogili"
+        ascii_name: "Dve Mogili"
+        name: "Dve Mogili"
+        names_en: ~
+        names_es: ~
+        population: 4526
+      - 
+        alternate_names: 
+          - Borovo
+          - "Gorna Manastiritsa"
+          - Gorna-Manastiriza
+        ascii_name: Borovo
+        name: Borovo
+        names_en: ~
+        names_es: ~
+        population: 2467
+    name: Ruse
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Plovdiv"
+    cities: 
+      - 
+        alternate_names: 
+          - "Golemo Konare"
+          - "Goljamo Konare"
+          - "Goljemo Konare"
+        ascii_name: Suedinenie
+        name: Sŭedinenie
+        names_en: ~
+        names_es: ~
+        population: 6427
+      - 
+        alternate_names: 
+          - "Gara Krichim"
+          - Krichim
+          - "Novi Krichim"
+        ascii_name: Stamboliyski
+        name: Stamboliyski
+        names_en: ~
+        names_es: ~
+        population: 12070
+      - 
+        alternate_names: 
+          - Cheshnegir
+          - Cheshnigurovo
+          - Cheshnigŭrovo
+        ascii_name: Sadovo
+        name: Sadovo
+        names_en: ~
+        names_es: ~
+        population: 2656
+      - 
+        alternate_names: 
+          - "General Niklaevo"
+          - "General Nikolaevo"
+          - "General Nikolaewo"
+        ascii_name: Rakovski
+        name: Rakovski
+        names_en: ~
+        names_es: ~
+        population: 15782
+      - 
+        alternate_names: 
+          - Eumolpias
+          - Filiba
+          - Filibe
+        ascii_name: Plovdiv
+        name: Plovdiv
+        names_en: 
+          - Plovdiv
+        names_es: 
+          - Plovdiv
+        population: 340494
+      - 
+        alternate_names: 
+          - Perishchitsa
+          - Peruschtiza
+          - Perushchitsa
+        ascii_name: Perushtitsa
+        name: Perushtitsa
+        names_en: ~
+        names_es: ~
+        population: 5350
+      - 
+        alternate_names: 
+          - Laki
+          - Luki
+          - Lŭki
+        ascii_name: Luki
+        name: Lŭki
+        names_en: ~
+        names_es: ~
+        population: 3258
+      - 
+        alternate_names: 
+          - Krichim
+          - Kricim
+          - Kricima
+        ascii_name: Krichim
+        name: Krichim
+        names_en: ~
+        names_es: ~
+        population: 8580
+      - 
+        alternate_names: 
+          - Derbend
+          - Klissoura
+          - Klissura
+        ascii_name: Klisura
+        name: Klisura
+        names_en: ~
+        names_es: ~
+        population: 1485
+      - 
+        alternate_names: 
+          - Banja
+          - Banya
+          - Chissar
+        ascii_name: Khisarya
+        name: Khisarya
+        names_en: ~
+        names_es: ~
+        population: 7903
+      - 
+        alternate_names: 
+          - "Grad Karlove"
+          - Karliova
+          - Karlovo
+        ascii_name: Karlovo
+        name: Karlovo
+        names_en: 
+          - Karlovo
+        names_es: ~
+        population: 19958
+      - 
+        alternate_names: 
+          - Kalojanovo
+          - Kalojanowo
+          - Kaloyanovo
+        ascii_name: Kaloyanovo
+        name: Kaloyanovo
+        names_en: ~
+        names_es: ~
+        population: 2782
+      - 
+        alternate_names: 
+          - Kalofer
+          - Kaloter
+          - Калофер
+        ascii_name: Kalofer
+        name: Kalofer
+        names_en: ~
+        names_es: ~
+        population: 3248
+      - 
+        alternate_names: 
+          - D'ovlen
+          - Devin
+          - Devine
+        ascii_name: Devin
+        name: Devin
+        names_en: 
+          - Devin
+        names_es: ~
+        population: 7393
+      - 
+        alternate_names: 
+          - Abrashlare
+          - Abraslare
+          - Bresowo
+        ascii_name: Brezovo
+        name: Brezovo
+        names_en: ~
+        names_es: ~
+        population: 1947
+      - 
+        alternate_names: 
+          - Asenovgrad
+          - Assenovgrad
+          - Assenovgrade
+        ascii_name: Asenovgrad
+        name: Asenovgrad
+        names_en: ~
+        names_es: ~
+        population: 52170
+    name: Plovdiv
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Pleven"
+    cities: 
+      - 
+        alternate_names: 
+          - Slavianovo
+          - Slavjanovo
+          - Slavyanovo
+        ascii_name: Slavyanovo
+        name: Slavyanovo
+        names_en: ~
+        names_es: ~
+        population: 4793
+      - 
+        alternate_names: 
+          - Pordim
+          - Pordime
+          - Porodim
+        ascii_name: Pordim
+        name: Pordim
+        names_en: ~
+        names_es: ~
+        population: 2230
+      - 
+        alternate_names: 
+          - Pleven
+          - Plevna
+          - Plevne
+        ascii_name: Pleven
+        name: Pleven
+        names_en: 
+          - Pleven
+        names_es: 
+          - Pleven
+        population: 118675
+      - 
+        alternate_names: 
+          - Iskur
+          - Iskŭr
+          - Machalata
+        ascii_name: Iskur
+        name: Iskŭr
+        names_en: ~
+        names_es: ~
+        population: 4329
+      - 
+        alternate_names: 
+          - Nicopol
+          - Nikopil
+          - Nikopol
+        ascii_name: Nikopol
+        name: Nikopol
+        names_en: ~
+        names_es: ~
+        population: 4137
+      - 
+        alternate_names: 
+          - "Kara Agach"
+          - Levski
+          - Lewski
+        ascii_name: Levski
+        name: Levski
+        names_en: ~
+        names_es: ~
+        population: 11467
+      - 
+        alternate_names: 
+          - Koinare
+          - Kojnare
+          - Koynare
+        ascii_name: Koynare
+        name: Koynare
+        names_en: ~
+        names_es: ~
+        population: 2926
+      - 
+        alternate_names: 
+          - Galyantsi
+          - Golenci
+          - Guleanci
+        ascii_name: Gulyantsi
+        name: Gulyantsi
+        names_en: ~
+        names_es: ~
+        population: 3589
+      - 
+        alternate_names: 
+          - Diubnik
+          - "Dolni Dabnik"
+          - "Dolni Dibnik"
+        ascii_name: "Dolni Dubnik"
+        name: "Dolni Dŭbnik"
+        names_en: ~
+        names_es: ~
+        population: 5259
+      - 
+        alternate_names: 
+          - "Dolna Metropolja"
+          - "Dolna Mitropolia"
+          - "Dolna Mitropolija"
+        ascii_name: "Dolna Mitropoliya"
+        name: "Dolna Mitropoliya"
+        names_en: ~
+        names_es: ~
+        population: 3479
+      - 
+        alternate_names: 
+          - Cerven-Breg
+          - "Cherven brjag"
+          - Cherven-Breg
+        ascii_name: "Cherven Bryag"
+        name: "Cherven Bryag"
+        names_en: ~
+        names_es: ~
+        population: 21688
+      - 
+        alternate_names: 
+          - Beleke
+          - Belene
+          - Belina
+        ascii_name: Belene
+        name: Belene
+        names_en: ~
+        names_es: ~
+        population: 9781
+    name: Pleven
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Pernik"
+    cities: 
+      - 
+        alternate_names: 
+          - Belovo
+          - Bjelovo
+          - Byelovo
+        ascii_name: Zemen
+        name: Zemen
+        names_en: ~
+        names_es: ~
+        population: 2107
+      - 
+        alternate_names: 
+          - Tran
+          - Tren
+          - Trin
+        ascii_name: Trun
+        name: Trŭn
+        names_en: ~
+        names_es: ~
+        population: 3102
+      - 
+        alternate_names: 
+          - Batanovci
+          - Batanovitsi
+          - Batanovtsi
+        ascii_name: Batanovtsi
+        name: Batanovtsi
+        names_en: ~
+        names_es: ~
+        population: 2519
+      - 
+        alternate_names: 
+          - Radomir
+          - Радомир
+        ascii_name: Radomir
+        name: Radomir
+        names_en: ~
+        names_es: ~
+        population: 14755
+      - 
+        alternate_names: 
+          - Dimitrovo
+          - Pernik
+          - Перник
+        ascii_name: Pernik
+        name: Pernik
+        names_en: ~
+        names_es: ~
+        population: 82467
+      - 
+        alternate_names: 
+          - Berznik
+          - Bresnik
+          - Breznik
+        ascii_name: Breznik
+        name: Breznik
+        names_en: ~
+        names_es: ~
+        population: 4004
+    name: Pernik
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Pazardzhik"
+    cities: 
+      - 
+        alternate_names: 
+          - Velingrad
+          - Велинград
+        ascii_name: Velingrad
+        name: Velingrad
+        names_en: ~
+        names_es: ~
+        population: 24036
+      - 
+        alternate_names: 
+          - Strelca
+          - Strelcha
+          - Streltscha
+        ascii_name: Strelcha
+        name: Strelcha
+        names_en: ~
+        names_es: ~
+        population: 4545
+      - 
+        alternate_names: 
+          - Sarambei
+          - Sarambey
+          - Saran'ovo
+        ascii_name: Septemvri
+        name: Septemvri
+        names_en: ~
+        names_es: ~
+        population: 8745
+      - 
+        alternate_names: 
+          - Rakitovo
+          - Rakitowo
+          - Ракитово
+        ascii_name: Rakitovo
+        name: Rakitovo
+        names_en: ~
+        names_es: ~
+        population: 8376
+      - 
+        alternate_names: 
+          - Momarsko
+          - Pechtera
+          - Pescera
+        ascii_name: Peshtera
+        name: Peshtera
+        names_en: ~
+        names_es: ~
+        population: 18676
+      - 
+        alternate_names: 
+          - Pasardschik
+          - Pasardshik
+          - Pazardjik
+        ascii_name: Pazardzhik
+        name: Pazardzhik
+        names_en: 
+          - Pazardzhik
+        names_es: 
+          - Pazardzhik
+        population: 75977
+      - 
+        alternate_names: 
+          - Otalkioj
+          - Otalkiöj
+          - Panaghiourichte
+        ascii_name: Panagyurishte
+        name: Panagyurishte
+        names_en: ~
+        names_es: ~
+        population: 19389
+      - 
+        alternate_names: 
+          - Lesicevo
+          - Lesichevo
+          - Lesichovo
+        ascii_name: Lesichevo
+        name: Lesichevo
+        names_en: ~
+        names_es: ~
+        population: 1206
+      - 
+        alternate_names: 
+          - Bracigovo
+          - Bratzigovo
+          - Brazigowo
+        ascii_name: Bratsigovo
+        name: Bratsigovo
+        names_en: ~
+        names_es: ~
+        population: 4577
+      - 
+        alternate_names: 
+          - Beljovo
+          - Belovo
+          - "Gara Bel'oro"
+        ascii_name: Belovo
+        name: Belovo
+        names_en: ~
+        names_es: ~
+        population: 4155
+      - 
+        alternate_names: 
+          - Batak
+          - Батак
+        ascii_name: Batak
+        name: Batak
+        names_en: ~
+        names_es: ~
+        population: 3917
+    name: Pazardzhit
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Lovech"
+    cities: 
+      - 
+        alternate_names: 
+          - Ablanitsa
+          - Iablanica
+          - Jablanica
+        ascii_name: Yablanitsa
+        name: Yablanitsa
+        names_en: ~
+        names_es: ~
+        population: 3237
+      - 
+        alternate_names: 
+          - Ugarchin
+          - Ugarcin
+          - Ugartschin
+        ascii_name: Ugurchin
+        name: Ugŭrchin
+        names_en: ~
+        names_es: ~
+        population: 2965
+      - 
+        alternate_names: 
+          - Troian
+          - Trojan
+          - Troïan
+        ascii_name: Troyan
+        name: Troyan
+        names_en: ~
+        names_es: ~
+        population: 21162
+      - 
+        alternate_names: 
+          - Teteven
+          - Tetevene
+          - Tetewene
+        ascii_name: Teteven
+        name: Teteven
+        names_en: ~
+        names_es: ~
+        population: 10790
+      - 
+        alternate_names: 
+          - "Gorni Lukovit"
+          - Loukovit
+          - Lukovit
+        ascii_name: Lukovit
+        name: Lukovit
+        names_en: ~
+        names_es: ~
+        population: 9792
+      - 
+        alternate_names: 
+          - Lovca
+          - Lovcha
+          - Lovec
+        ascii_name: Lovech
+        name: Lovech
+        names_en: ~
+        names_es: ~
+        population: 42211
+      - 
+        alternate_names: 
+          - Letnica
+          - Letnitza
+          - Letniza
+        ascii_name: Letnitsa
+        name: Letnitsa
+        names_en: ~
+        names_es: ~
+        population: 3528
+      - 
+        alternate_names: 
+          - Aprilci
+          - Apriltzi
+          - Априлци
+        ascii_name: Apriltsi
+        name: Apriltsi
+        names_en: ~
+        names_es: ~
+        population: 3851
+    name: Lovech
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Khaskovo"
+    cities: 
+      - 
+        alternate_names: 
+          - Kavaklii
+          - Kavakly
+          - Topolovgrad
+        ascii_name: Topolovgrad
+        name: Topolovgrad
+        names_en: ~
+        names_es: ~
+        population: 6464
+      - 
+        alternate_names: 
+          - Mustafa-Pasha
+          - Mustafapasa
+          - Mustafapaşa
+        ascii_name: Svilengrad
+        name: Svilengrad
+        names_en: ~
+        names_es: ~
+        population: 19279
+      - 
+        alternate_names: 
+          - Maritsa
+          - Seimen
+          - Sejmen
+        ascii_name: Simeonovgrad
+        name: Simeonovgrad
+        names_en: ~
+        names_es: ~
+        population: 7388
+      - 
+        alternate_names: 
+          - "Mineralni Bani"
+          - "Минерални Бани"
+        ascii_name: "Mineralni Bani"
+        name: "Mineralni Bani"
+        names_en: ~
+        names_es: ~
+        population: 1367
+      - 
+        alternate_names: 
+          - Dupnitsa
+          - Dupniza
+          - Madjarovo
+        ascii_name: Madzharovo
+        name: Madzharovo
+        names_en: ~
+        names_es: ~
+        population: 1319
+      - 
+        alternate_names: 
+          - Khebibchevo
+          - Lioubimetz
+          - Ljubimec
+        ascii_name: Lyubimets
+        name: Lyubimets
+        names_en: ~
+        names_es: ~
+        population: 8065
+      - 
+        alternate_names: 
+          - Chaskoi
+          - Chaskovo
+          - Chaskowo
+        ascii_name: Khaskovo
+        name: Khaskovo
+        names_en: ~
+        names_es: ~
+        population: 79699
+      - 
+        alternate_names: 
+          - Charmanlii
+          - Harmanli
+          - Harmanlii
+        ascii_name: Kharmanli
+        name: Kharmanli
+        names_en: ~
+        names_es: ~
+        population: 18931
+      - 
+        alternate_names: 
+          - Ivailovgrad
+          - Ivajlovgrad
+          - Ivatlovgrade
+        ascii_name: Ivaylovgrad
+        name: Ivaylovgrad
+        names_en: ~
+        names_es: ~
+        population: 3969
+      - 
+        alternate_names: 
+          - Elena
+          - Jelena
+          - Елена
+        ascii_name: Elena
+        name: Elena
+        names_en: ~
+        names_es: ~
+        population: 6042
+      - 
+        alternate_names: 
+          - Dimitrovgrad
+          - Димитровград
+        ascii_name: Dimitrovgrad
+        name: Dimitrovgrad
+        names_en: ~
+        names_es: ~
+        population: 43288
+    name: Khaskovo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Sofiya-Grad"
+    cities: 
+      - 
+        alternate_names: 
+          - Safia
+          - Serdica
+          - Sofia
+        ascii_name: Sofia
+        name: Sofia
+        names_en: 
+          - Sofia
+        names_es: 
+          - Sofía
+        population: 1152556
+      - 
+        alternate_names: 
+          - Buchowo
+          - Buhovo
+          - Bukhovo
+        ascii_name: Bukhovo
+        name: Bukhovo
+        names_en: ~
+        names_es: ~
+        population: 3283
+    name: Sofiya-Grad
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Burgas"
+    cities: 
+      - 
+        alternate_names: 
+          - Manasturkioy
+          - Manastŭrkioy
+          - Monasturkioy
+        ascii_name: "Sveti Vlas"
+        name: "Sveti Vlas"
+        names_en: 
+          - "Saint Vlas"
+        names_es: ~
+        population: 3875
+      - 
+        alternate_names: 
+          - Sungulare
+          - Sungulari
+          - Sungurlar
+        ascii_name: Sungurlare
+        name: Sungurlare
+        names_en: ~
+        names_es: ~
+        population: 3834
+      - 
+        alternate_names: 
+          - Apollonia
+          - Sizebolu
+          - Sizopol
+        ascii_name: Sozopol
+        name: Sozopol
+        names_en: 
+          - Sozopol
+        names_es: 
+          - Sozopol
+        population: 4500
+      - 
+        alternate_names: 
+          - Ruen
+          - Ulanli
+          - Ulanlii
+        ascii_name: Ruen
+        name: Ruen
+        names_en: ~
+        names_es: ~
+        population: 2339
+      - 
+        alternate_names: 
+          - Kjuprija
+          - Kyupriya
+          - Primorsko
+        ascii_name: Primorsko
+        name: Primorsko
+        names_en: ~
+        names_es: ~
+        population: 2798
+      - 
+        alternate_names: 
+          - Ahiolo
+          - Akhillo
+          - Akhilu
+        ascii_name: Pomorie
+        name: Pomorie
+        names_en: ~
+        names_es: ~
+        population: 13714
+      - 
+        alternate_names: 
+          - G'ozeken
+          - Giozeken
+          - Gjozeken
+        ascii_name: Obzor
+        name: Obzor
+        names_en: 
+          - Obzor
+        names_es: ~
+        population: 2002
+      - 
+        alternate_names: 
+          - Mesembrija
+          - Mesemvria
+          - Mesemvrija
+        ascii_name: Nesebur
+        name: Nesebŭr
+        names_en: 
+          - Nesebur
+          - Nessebur
+          - Nesebar
+        names_es: ~
+        population: 6302
+      - 
+        alternate_names: 
+          - Carevo
+          - Michurin
+          - Tsarevo
+        ascii_name: Tsarevo
+        name: Tsarevo
+        names_en: ~
+        names_es: ~
+        population: 6085
+      - 
+        alternate_names: 
+          - "Malko Tarnovo"
+          - "Malko Tarnowo"
+          - "Malko Turnovo"
+        ascii_name: "Malko Turnovo"
+        name: "Malko Tŭrnovo"
+        names_en: ~
+        names_es: ~
+        population: 3336
+      - 
+        alternate_names: 
+          - Avordovisa
+          - Bordovasca
+          - "Chiflik Urdoviza"
+        ascii_name: Kiten
+        name: Kiten
+        names_en: ~
+        names_es: ~
+        population: 1115
+      - 
+        alternate_names: 
+          - Karnabat
+          - Karnobat
+          - "Karnobatski prokhod"
+        ascii_name: Karnobat
+        name: Karnobat
+        names_en: ~
+        names_es: ~
+        population: 19709
+      - 
+        alternate_names: 
+          - Kaiali
+          - Kajali
+          - Kajalii
+        ascii_name: Kameno
+        name: Kameno
+        names_en: ~
+        names_es: ~
+        population: 4952
+      - 
+        alternate_names: 
+          - Grudovo
+          - Kara-Bunar
+          - Sradets
+        ascii_name: Sredets
+        name: Sredets
+        names_en: ~
+        names_es: ~
+        population: 9573
+      - 
+        alternate_names: 
+          - "Agios Nikolo"
+          - Chernomorec
+          - Chernomorets
+        ascii_name: Chernomorets
+        name: Chernomorets
+        names_en: ~
+        names_es: ~
+        population: 2194
+      - 
+        alternate_names: 
+          - Boergas
+          - Bourgas
+          - Bournkas
+        ascii_name: Burgas
+        name: Burgas
+        names_en: 
+          - Burgas
+        names_es: 
+          - Burgas
+        population: 195966
+      - 
+        alternate_names: 
+          - Aitos
+          - Ajtos
+          - Aytos
+        ascii_name: Aytos
+        name: Aytos
+        names_en: 
+          - Aytos
+        names_es: ~
+        population: 20986
+      - 
+        alternate_names: 
+          - Achtepol
+          - Achtopol
+          - Agathopolis
+        ascii_name: Akhtopol
+        name: Akhtopol
+        names_en: ~
+        names_es: ~
+        population: 1107
+    name: Burgas
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Blagoevgrad"
+    cities: 
+      - 
+        alternate_names: 
+          - Jakoruda
+          - Johurut
+          - Jokoruda
+        ascii_name: Yakoruda
+        name: Yakoruda
+        names_en: ~
+        names_es: ~
+        population: 6008
+      - 
+        alternate_names: 
+          - Strumjani
+          - Strumyani
+          - Струмяни
+        ascii_name: Strumyani
+        name: Strumyani
+        names_en: ~
+        names_es: ~
+        population: 1058
+      - 
+        alternate_names: 
+          - Kresna
+          - "Stara Kresna"
+          - "Стара Кресна"
+        ascii_name: "Stara Kresna"
+        name: "Stara Kresna"
+        names_en: ~
+        names_es: ~
+        population: 3586
+      - 
+        alternate_names: 
+          - Izvoritye
+          - Izworit
+          - Simeti
+        ascii_name: Simitli
+        name: Simitli
+        names_en: ~
+        names_es: ~
+        population: 6729
+      - 
+        alternate_names: 
+          - Satovca
+          - Satovcha
+          - Satovdza
+        ascii_name: Satovcha
+        name: Satovcha
+        names_en: ~
+        names_es: ~
+        population: 2382
+      - 
+        alternate_names: 
+          - Sandanski
+          - "Sveti Vrac"
+          - "Sveti Vrach"
+        ascii_name: Sandanski
+        name: Sandanski
+        names_en: ~
+        names_es: ~
+        population: 26459
+      - 
+        alternate_names: 
+          - Mahomia
+          - Mehomia
+          - Mekhomiya
+        ascii_name: Razlog
+        name: Razlog
+        names_en: ~
+        names_es: ~
+        population: 12486
+      - 
+        alternate_names: 
+          - Petric
+          - Petrich
+          - Petritch
+        ascii_name: Petrich
+        name: Petrich
+        names_en: ~
+        names_es: ~
+        population: 30308
+      - 
+        alternate_names: 
+          - "Bahnhof Pirin"
+          - "Gara Pirin"
+          - Kresna
+        ascii_name: Kresna
+        name: Kresna
+        names_en: ~
+        names_es: ~
+        population: 4117
+      - 
+        alternate_names: 
+          - Dolna-Singartiya
+          - Dolno-Singartiya
+          - Khadzhidimovo
+        ascii_name: Khadzhidimovo
+        name: Khadzhidimovo
+        names_en: ~
+        names_es: ~
+        population: 3167
+      - 
+        alternate_names: 
+          - Garmen
+          - Gurmen
+          - Gărmen
+        ascii_name: Gurmen
+        name: Gŭrmen
+        names_en: ~
+        names_es: ~
+        population: 1838
+      - 
+        alternate_names: 
+          - "Goce Delchev"
+          - "Gotse Delchev"
+          - "Gotsi Delchev"
+        ascii_name: "Gotse Delchev"
+        name: "Gotse Delchev"
+        names_en: ~
+        names_es: ~
+        population: 20471
+      - 
+        alternate_names: 
+          - Blagoevgrad
+          - Djumaja
+          - Dzhumaya
+        ascii_name: Blagoevgrad
+        name: Blagoevgrad
+        names_en: ~
+        names_es: ~
+        population: 71306
+      - 
+        alternate_names: 
+          - Belica
+          - Belitso
+          - Belitza
+        ascii_name: Belitsa
+        name: Belitsa
+        names_en: ~
+        names_es: ~
+        population: 3166
+      - 
+        alternate_names: 
+          - Banjska
+          - Banjsko
+          - Bansko
+        ascii_name: Bansko
+        name: Bansko
+        names_en: 
+          - Bansko
+        names_es: ~
+        population: 9232
+    name: Blagoevgrad
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Gabrovo"
+    cities: 
+      - 
+        alternate_names: 
+          - Trevna
+          - Trewna
+          - Trjavna
+        ascii_name: Tryavna
+        name: Tryavna
+        names_en: ~
+        names_es: ~
+        population: 13818
+      - 
+        alternate_names: 
+          - Savlievo
+          - Seljvi
+          - Selvi
+        ascii_name: Sevlievo
+        name: Sevlievo
+        names_en: ~
+        names_es: ~
+        population: 24582
+      - 
+        alternate_names: 
+          - Gabrova
+          - Gabrovo
+          - Gabrowo
+        ascii_name: Gabrovo
+        name: Gabrovo
+        names_en: 
+          - Gabrovo
+        names_es: ~
+        population: 66175
+      - 
+        alternate_names: 
+          - Drenova
+          - Drenovo
+          - Drenowo
+        ascii_name: Dryanovo
+        name: Dryanovo
+        names_en: ~
+        names_es: ~
+        population: 8346
+    name: Gabrovo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Kurdzhali"
+    cities: 
+      - 
+        alternate_names: 
+          - Exrdzhali
+          - Kardjali
+          - Kardschali
+        ascii_name: Kurdzhali
+        name: Kŭrdzhali
+        names_en: 
+          - Kardzhali
+        names_es: ~
+        population: 51000
+      - 
+        alternate_names: 
+          - Koshu-Kavak
+          - Kosikavak
+          - Kossukavak
+        ascii_name: Krumovgrad
+        name: Krumovgrad
+        names_en: ~
+        names_es: ~
+        population: 5271
+      - 
+        alternate_names: 
+          - Djebel
+          - Dzhebel
+          - Shekh-Dzhumaya
+        ascii_name: Dzhebel
+        name: Dzhebel
+        names_en: ~
+        names_es: ~
+        population: 3329
+      - 
+        alternate_names: 
+          - Ardino
+          - Egridere
+          - Eğridere
+        ascii_name: Ardino
+        name: Ardino
+        names_en: ~
+        names_es: ~
+        population: 3531
+    name: Kŭrdzhali
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Kyustendil"
+    cities: 
+      - 
+        alternate_names: 
+          - Doupnitza
+          - Dubnica
+          - Dupnica
+        ascii_name: Dupnitsa
+        name: Dupnitsa
+        names_en: ~
+        names_es: ~
+        population: 34764
+      - 
+        alternate_names: 
+          - "Gorna Banja"
+          - Gorna-Bania
+          - Gorna-Banya
+        ascii_name: "Sapareva Banya"
+        name: "Sapareva Banya"
+        names_en: ~
+        names_es: ~
+        population: 4610
+      - 
+        alternate_names: 
+          - Rila
+          - "Rila Selo"
+          - Riloselo
+        ascii_name: Rila
+        name: Rila
+        names_en: ~
+        names_es: ~
+        population: 3002
+      - 
+        alternate_names: 
+          - Keustendil
+          - Kioustendil
+          - Kiousténdil
+        ascii_name: Kyustendil
+        name: Kyustendil
+        names_en: 
+          - Kyustendil
+        names_es: ~
+        population: 48286
+      - 
+        alternate_names: 
+          - Kocarinovo
+          - Kocerinovo
+          - Kocherinobo
+        ascii_name: Kocherinovo
+        name: Kocherinovo
+        names_en: ~
+        names_es: ~
+        population: 2872
+      - 
+        alternate_names: 
+          - Bobor-Dol
+          - "Bobov Dol"
+          - "Bobov-Dol Mina"
+        ascii_name: Bobovdol
+        name: Bobovdol
+        names_en: ~
+        names_es: ~
+        population: 6184
+      - 
+        alternate_names: 
+          - Bobochevo
+          - Boboschewo
+          - Bobosevo
+        ascii_name: Boboshevo
+        name: Boboshevo
+        names_en: ~
+        names_es: ~
+        population: 1784
+    name: Kyustendil
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Shumen"
+    cities: 
+      - 
+        alternate_names: 
+          - Varbitsa
+          - Virbica
+          - Vrbica
+        ascii_name: Vurbitsa
+        name: Vŭrbitsa
+        names_en: ~
+        names_es: ~
+        population: 3803
+      - 
+        alternate_names: 
+          - K'okledzha
+          - K'oklyudzha
+          - K'okyudzha
+        ascii_name: Venets
+        name: Venets
+        names_en: ~
+        names_es: ~
+        population: 1450
+      - 
+        alternate_names: 
+          - Smedovo
+          - Smedowo
+          - Smjadovo
+        ascii_name: Smyadovo
+        name: Smyadovo
+        names_en: ~
+        names_es: ~
+        population: 4231
+      - 
+        alternate_names: 
+          - Choumen
+          - Choumèn
+          - Kolarovgrad
+        ascii_name: Shumen
+        name: Shumen
+        names_en: 
+          - Shumen
+        names_es: ~
+        population: 87283
+      - 
+        alternate_names: 
+          - "Eski Stambid"
+          - "Eski Stambolluk"
+          - Eski-Stambul
+        ascii_name: "Veliki Preslav"
+        name: "Veliki Preslav"
+        names_en: 
+          - Preslav
+        names_es: 
+          - Preslav
+        population: 9425
+      - 
+        alternate_names: 
+          - Aboba
+          - "Ak Baba"
+          - Pliska
+        ascii_name: Pliska
+        name: Pliska
+        names_en: 
+          - Pliska
+        names_es: ~
+        population: 1263
+      - 
+        alternate_names: 
+          - "Eni Bazar"
+          - "Eni Pazar"
+          - Jenibazar
+        ascii_name: "Novi Pazar"
+        name: "Novi Pazar"
+        names_en: ~
+        names_es: ~
+        population: 13276
+      - 
+        alternate_names: 
+          - "Bahnhof Kaspitschan"
+          - "Gara Kaspican"
+          - "Gara Kaspichan"
+        ascii_name: Kaspichan
+        name: Kaspichan
+        names_en: ~
+        names_es: ~
+        population: 3635
+      - 
+        alternate_names: 
+          - "Beyuk Bakchilar"
+          - Boshidar
+          - Bozhidar
+        ascii_name: Kaolinovo
+        name: Kaolinovo
+        names_en: ~
+        names_es: ~
+        population: 1537
+      - 
+        alternate_names: 
+          - "Bahnhof Chitrino"
+          - "Gara Khitino"
+          - "Gara Khitrino"
+        ascii_name: "Gara Khitrino"
+        name: "Gara Khitrino"
+        names_en: ~
+        names_es: ~
+        population: 1302
+    name: Shumen
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Silistra"
+    cities: 
+      - 
+        alternate_names: 
+          - Turtucaia
+          - Turtukai
+          - Tutrakan
+        ascii_name: Tutrakan
+        name: Tutrakan
+        names_en: ~
+        names_es: ~
+        population: 10022
+      - 
+        alternate_names: 
+          - Doimuslar
+          - Doimuşlar
+          - Donnuslar
+        ascii_name: Sitovo
+        name: Sitovo
+        names_en: ~
+        names_es: ~
+        population: 1140
+      - 
+        alternate_names: 
+          - Silistra
+          - Силистра
+        ascii_name: Silistra
+        name: Silistra
+        names_en: ~
+        names_es: ~
+        population: 39715
+      - 
+        alternate_names: 
+          - Cainargcaua-Mica
+          - "Cainargeaua Mica"
+          - "Cainargeaua Mică"
+        ascii_name: Kaynardzha
+        name: Kaynardzha
+        names_en: ~
+        names_es: ~
+        population: 1107
+      - 
+        alternate_names: 
+          - Asfatchioi
+          - Astvatchioi
+          - Asvatchioi
+        ascii_name: Glavinitsa
+        name: Glavinitsa
+        names_en: ~
+        names_es: ~
+        population: 2220
+      - 
+        alternate_names: 
+          - Acadanlar
+          - Accadanlar
+          - Accadânlar
+        ascii_name: Dulovo
+        name: Dulovo
+        names_en: ~
+        names_es: ~
+        population: 6788
+      - 
+        alternate_names: 
+          - Alfatar
+          - "General Lazarovo"
+          - "General Lazarow"
+        ascii_name: Alfatar
+        name: Alfatar
+        names_en: ~
+        names_es: ~
+        population: 1916
+    name: Silistra
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Sliven"
+    cities: 
+      - 
+        alternate_names: 
+          - Tvardica
+          - Tvarditsa
+          - Tvarditza
+        ascii_name: Tvurditsa
+        name: Tvŭrditsa
+        names_en: ~
+        names_es: ~
+        population: 6519
+      - 
+        alternate_names: 
+          - Islimiye
+          - Islimje
+          - Sliven
+        ascii_name: Sliven
+        name: Sliven
+        names_en: ~
+        names_es: ~
+        population: 96368
+      - 
+        alternate_names: 
+          - "Eni Zagra"
+          - Ienizagra
+          - "Jeni Saghra"
+        ascii_name: "Nova Zagora"
+        name: "Nova Zagora"
+        names_en: ~
+        names_es: ~
+        population: 24340
+      - 
+        alternate_names: 
+          - Kazan
+          - Kotel
+          - Котел
+        ascii_name: Kotel
+        name: Kotel
+        names_en: ~
+        names_es: ~
+        population: 6421
+      - 
+        alternate_names: 
+          - Keremenli
+          - Kermen
+          - Kermenli
+        ascii_name: Kermen
+        name: Kermen
+        names_en: ~
+        names_es: ~
+        population: 2222
+    name: Sliven
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Smolyan"
+    cities: 
+      - 
+        alternate_names: 
+          - Dara-Dere
+          - Daridere
+          - Dară-Dere
+        ascii_name: Zlatograd
+        name: Zlatograd
+        names_en: ~
+        names_es: ~
+        population: 7331
+      - 
+        alternate_names: 
+          - Paschmaklii
+          - Pashmakla
+          - Pashmakli
+        ascii_name: Smolyan
+        name: Smolyan
+        names_en: ~
+        names_es: ~
+        population: 32069
+      - 
+        alternate_names: 
+          - Chervenkovgrad
+          - Palas
+          - Palaz
+        ascii_name: Rudozem
+        name: Rudozem
+        names_en: ~
+        names_es: ~
+        population: 3783
+      - 
+        alternate_names: 
+          - Nedelino
+          - Nedelio
+          - Nedyelino
+        ascii_name: Nedelino
+        name: Nedelino
+        names_en: ~
+        names_es: ~
+        population: 5017
+      - 
+        alternate_names: 
+          - Madan
+          - Мадан
+        ascii_name: Madan
+        name: Madan
+        names_en: ~
+        names_es: ~
+        population: 5661
+      - 
+        alternate_names: 
+          - G'ovren
+          - Gjowren
+          - Goevren
+        ascii_name: Gyovren
+        name: Gyovren
+        names_en: 
+          - Gyovren
+        names_es: ~
+        population: 1040
+      - 
+        alternate_names: 
+          - Dospad
+          - Dospat
+          - Доспат
+        ascii_name: Dospat
+        name: Dospat
+        names_en: ~
+        names_es: ~
+        population: 2802
+      - 
+        alternate_names: 
+          - Cepelare
+          - Chepelare
+          - Chepelari
+        ascii_name: Chepelare
+        name: Chepelare
+        names_en: ~
+        names_es: ~
+        population: 5478
+      - 
+        alternate_names: 
+          - Boriio
+          - Borino
+          - Kara-Bulak
+        ascii_name: Borino
+        name: Borino
+        names_en: ~
+        names_es: ~
+        population: 3084
+      - 
+        alternate_names: 
+          - Banite
+          - Ladsha
+          - Ledzha
+        ascii_name: Banite
+        name: Banite
+        names_en: ~
+        names_es: ~
+        population: 1279
+    name: Smolyan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Stara Zagora"
+    cities: 
+      - 
+        alternate_names: 
+          - "Eski Zagra"
+          - "Eski Zağra"
+          - "Stara Sagora"
+        ascii_name: "Stara Zagora"
+        name: "Stara Zagora"
+        names_en: 
+          - "Stara Zagora"
+        names_es: 
+          - "Stara Zagora"
+        population: 143431
+      - 
+        alternate_names: 
+          - Schipka
+          - Shipka
+          - Sipka
+        ascii_name: Shipka
+        name: Shipka
+        names_en: ~
+        names_es: ~
+        population: 1604
+      - 
+        alternate_names: 
+          - "Radne Machale"
+          - "Radne Makhle"
+          - Radne-Makhala
+        ascii_name: Radnevo
+        name: Radnevo
+        names_en: ~
+        names_es: ~
+        population: 14667
+      - 
+        alternate_names: 
+          - Banya
+          - "Ludzha Ali"
+          - "Ludzha K'oy"
+        ascii_name: "Pavel Banya"
+        name: "Pavel Banya"
+        names_en: ~
+        names_es: ~
+        population: 3212
+      - 
+        alternate_names: 
+          - Eshekchii
+          - Eshekii
+          - Nikolaevo
+        ascii_name: Nikolaevo
+        name: Nikolaevo
+        names_en: ~
+        names_es: ~
+        population: 3160
+      - 
+        alternate_names: 
+          - Maglis
+          - Maglish
+          - Magliz
+        ascii_name: Muglizh
+        name: Mŭglizh
+        names_en: ~
+        names_es: ~
+        population: 3643
+      - 
+        alternate_names: 
+          - Kasanlak
+          - Kasanlăk
+          - Kazanl"k
+        ascii_name: Kazanluk
+        name: Kazanlŭk
+        names_en: 
+          - Kazanlak
+        names_es: ~
+        population: 55196
+      - 
+        alternate_names: 
+          - "General Gurkovo"
+          - Gurkovo
+          - Gurkowo
+        ascii_name: Gurkovo
+        name: Gurkovo
+        names_en: ~
+        names_es: ~
+        population: 2889
+      - 
+        alternate_names: 
+          - Chirpan
+          - Cirpan
+          - Tchirpan
+        ascii_name: Chirpan
+        name: Chirpan
+        names_en: ~
+        names_es: ~
+        population: 17243
+    name: "Stara Zagora"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Turgovishte"
+    cities: 
+      - 
+        alternate_names: 
+          - "Eski Djoumaia"
+          - "Eski Djoumaïa"
+          - "Eski Dschumaja"
+        ascii_name: Turgovishte
+        name: Tŭrgovishte
+        names_en: ~
+        names_es: ~
+        population: 37774
+      - 
+        alternate_names: 
+          - Popkioj
+          - Popkioy
+          - Popkiöj
+        ascii_name: Popovo
+        name: Popovo
+        names_en: ~
+        names_es: ~
+        population: 16571
+      - 
+        alternate_names: 
+          - Opaka
+          - Опака
+        ascii_name: Opaka
+        name: Opaka
+        names_en: ~
+        names_es: ~
+        population: 3002
+      - 
+        alternate_names: 
+          - Omortag
+          - Omurtag
+          - Osman-Pazar
+        ascii_name: Omurtag
+        name: Omurtag
+        names_en: ~
+        names_es: ~
+        population: 9070
+      - 
+        alternate_names: 
+          - Antonovo
+          - Poljana
+          - Poljane
+        ascii_name: Antonovo
+        name: Antonovo
+        names_en: ~
+        names_es: ~
+        population: 1543
+    name: Tŭrgovishte
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Veliko Turnovo"
+    cities: 
+      - 
+        alternate_names: 
+          - Slatariza
+          - Zlatarica
+          - Zlataritza
+        ascii_name: Zlataritsa
+        name: Zlataritsa
+        names_en: ~
+        names_es: ~
+        population: 2468
+      - 
+        alternate_names: 
+          - Tarnovo
+          - Tarnowo
+          - Ternovo
+        ascii_name: "Veliko Turnovo"
+        name: "Veliko Tŭrnovo"
+        names_en: 
+          - "Veliko Tarnovo"
+        names_es: 
+          - "Veliko Tarnovo"
+        population: 66217
+      - 
+        alternate_names: 
+          - Novae
+          - "Novensis Moesia Civitas"
+          - Sistov
+        ascii_name: Svishtov
+        name: Svishtov
+        names_en: ~
+        names_es: ~
+        population: 32256
+      - 
+        alternate_names: 
+          - Souhyndol
+          - Suchindol
+          - Suhindol
+        ascii_name: Sukhindol
+        name: Sukhindol
+        names_en: ~
+        names_es: ~
+        population: 2364
+      - 
+        alternate_names: 
+          - "Kada K'oy"
+          - "Kada K’oy"
+          - Kadikioy
+        ascii_name: Strazhitsa
+        name: Strazhitsa
+        names_en: ~
+        names_es: ~
+        population: 5728
+      - 
+        alternate_names: 
+          - Purvomajci
+          - Purvomaytsi
+          - Pŭrvomaytsi
+        ascii_name: Purvomaytsi
+        name: Pŭrvomaytsi
+        names_en: ~
+        names_es: ~
+        population: 2867
+      - 
+        alternate_names: 
+          - "Polsk Trumbesh"
+          - "Polsk Trŭmbesh"
+          - "Polski Trambech"
+        ascii_name: "Polski Trumbesh"
+        name: "Polski Trŭmbesh"
+        names_en: ~
+        names_es: ~
+        population: 5663
+      - 
+        alternate_names: 
+          - Pavlikem
+          - Pavlikene
+          - Pavlikeni
+        ascii_name: Pavlikeni
+        name: Pavlikeni
+        names_en: ~
+        names_es: ~
+        population: 12214
+      - 
+        alternate_names: 
+          - Leskovec
+          - Leskovets
+          - Leskovetz
+        ascii_name: Lyaskovets
+        name: Lyaskovets
+        names_en: ~
+        names_es: ~
+        population: 8488
+      - 
+        alternate_names: 
+          - Kilifarevo
+          - Kilifarewo
+          - Килифарево
+        ascii_name: Kilifarevo
+        name: Kilifarevo
+        names_en: ~
+        names_es: ~
+        population: 2497
+      - 
+        alternate_names: 
+          - "Gorna Orehovica"
+          - "Gorna Orehovitsa"
+          - "Gorna Orehovitza"
+        ascii_name: "Gorna Oryakhovitsa"
+        name: "Gorna Oryakhovitsa"
+        names_en: ~
+        names_es: ~
+        population: 38553
+      - 
+        alternate_names: 
+          - Debebletz
+          - Debelec
+          - Debelet
+        ascii_name: Debelets
+        name: Debelets
+        names_en: ~
+        names_es: ~
+        population: 4418
+      - 
+        alternate_names: 
+          - "Bela Cerkva"
+          - "Bela Cherkva"
+          - "Bela Tscherkwa"
+        ascii_name: "Byala Cherkva"
+        name: "Byala Cherkva"
+        names_en: ~
+        names_es: ~
+        population: 3010
+    name: "Veliko Tŭrnovo"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Vidin"
+    cities: 
+      - 
+        alternate_names: 
+          - Vidin
+          - Vidine
+          - Widin
+        ascii_name: Vidin
+        name: Vidin
+        names_en: 
+          - Vidin
+        names_es: ~
+        population: 54409
+      - 
+        alternate_names: 
+          - Rujintsi
+          - Rushinzi
+          - Ruzhentsi
+        ascii_name: Ruzhintsi
+        name: Ruzhintsi
+        names_en: ~
+        names_es: ~
+        population: 1269
+      - 
+        alternate_names: 
+          - "Novo Selo"
+          - Nowo-Selo
+          - "Ново Село"
+        ascii_name: "Novo Selo"
+        name: "Novo Selo"
+        names_en: ~
+        names_es: ~
+        population: 1574
+      - 
+        alternate_names: 
+          - Adlijo
+          - Adlye
+          - Koula
+        ascii_name: Kula
+        name: Kula
+        names_en: ~
+        names_es: ~
+        population: 3738
+      - 
+        alternate_names: 
+          - Gramada
+          - Грамада
+        ascii_name: Gramada
+        name: Gramada
+        names_en: ~
+        names_es: ~
+        population: 1872
+      - 
+        alternate_names: 
+          - Dunavci
+          - Dunavtsi
+          - Dunavtzi
+        ascii_name: Dunavtsi
+        name: Dunavtsi
+        names_en: ~
+        names_es: ~
+        population: 3371
+      - 
+        alternate_names: 
+          - Aleksandrovo
+          - Burzitsa
+          - Bŭrzitsa
+        ascii_name: Dimovo
+        name: Dimovo
+        names_en: ~
+        names_es: ~
+        population: 1461
+      - 
+        alternate_names: 
+          - Bregovo
+          - Bregowo
+          - Brjegovo
+        ascii_name: Bregovo
+        name: Bregovo
+        names_en: ~
+        names_es: ~
+        population: 2892
+      - 
+        alternate_names: 
+          - Belogradchik
+          - Belogradcik
+          - Belogradtchik
+        ascii_name: Belogradchik
+        name: Belogradchik
+        names_en: ~
+        names_es: ~
+        population: 5688
+    name: Vidin
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Oblast Yambol"
+    cities: 
+      - 
+        alternate_names: 
+          - Iambol
+          - Jambol
+          - Jamboli
+        ascii_name: Yambol
+        name: Yambol
+        names_en: ~
+        names_es: ~
+        population: 80116
+      - 
+        alternate_names: 
+          - Straldsha
+          - Straldza
+          - Straldzha
+        ascii_name: Straldzha
+        name: Straldzha
+        names_en: ~
+        names_es: ~
+        population: 5817
+      - 
+        alternate_names: 
+          - Elchovo
+          - Elchowo
+          - Elhovo
+        ascii_name: Elkhovo
+        name: Elkhovo
+        names_en: ~
+        names_es: ~
+        population: 11107
+      - 
+        alternate_names: 
+          - Boljarovo
+          - Boljarowo
+          - Pachakioi
+        ascii_name: Bolyarovo
+        name: Bolyarovo
+        names_en: ~
+        names_es: ~
+        population: 1368
     name: Yambol
-    slug: yambol
-tld: bg
+    names_en: ~
+    names_es: ~

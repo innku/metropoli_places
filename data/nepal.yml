@@ -1,281 +1,143 @@
 --- 
-code: NP
-continent: AS
 name: Nepal
-population: 28951852
+names_en: 
+  - Nepal
+names_es: 
+  - Nepal
 regions: 
   - 
+    ascii_name: "Far Western Region"
     cities: 
       - 
-        districts: []
-        location: "POINT (26.8166699999999985 87.2833300000000065)"
-        name: "Dharān Bāzār"
-        population: 108600
-        slug: dharan-bazar
-      - 
-        districts: []
-        location: "POINT (27.9833299999999987 83.7666700000000048)"
-        name: Wāling
-        population: 21867
-        slug: waling
-      - 
-        districts: []
-        location: "POINT (28.1333300000000008 82.2999999999999972)"
-        name: Tulsīpur
-        population: 39058
-        slug: tulsipur
-      - 
-        districts: []
-        location: "POINT (28.5000000000000000 81.1333300000000008)"
-        name: Tīkāpur
-        population: 44758
-        slug: tikapur
-      - 
-        districts: []
-        location: "POINT (27.8666699999999992 83.5499999999999972)"
-        name: Tānsen
-        population: 23693
-        slug: tansen
-      - 
-        districts: []
-        location: "POINT (26.6499999999999986 86.2000000000000028)"
-        name: Sirāhā
-        population: 24657
-        slug: siraha
-      - 
-        districts: []
-        location: "POINT (26.5333299999999994 86.7500000000000000)"
-        name: Rājbirāj
-        population: 33061
-        slug: rajbiraj
-      - 
-        districts: []
-        location: "POINT (26.4831000000000003 87.2833700000000050)"
-        name: Birātnagar
-        population: 182324
-        slug: biratnagar
-      - 
-        districts: []
-        location: "POINT (27.6666699999999999 85.3333300000000037)"
-        name: Pātan
-        population: 183310
-        slug: patan
-      - 
-        districts: []
-        location: "POINT (27.5833300000000001 85.5166700000000048)"
-        name: Panaoti
-        population: 27602
-        slug: panaoti
-      - 
-        districts: []
-        location: "POINT (27.8166699999999985 86.7166699999999935)"
-        name: "Nāmche Bāzār"
-        population: 2324
-        slug: namche-bazar
-      - 
-        districts: []
-        location: "POINT (26.8666699999999992 85.5666700000000020)"
-        name: Malangwa
-        population: 20284
-        slug: malangwa
-      - 
-        districts: []
-        location: "POINT (28.9166699999999999 80.3333300000000037)"
-        name: Mahendranagar
-        population: 88381
-        slug: mahendranagar
-      - 
-        districts: []
-        location: "POINT (26.7166700000000006 86.4833299999999952)"
-        name: Lahān
-        population: 31495
-        slug: lahan
-      - 
-        districts: []
-        location: "POINT (27.9666700000000006 85.9333299999999980)"
-        name: Kodāri
-        population: 1600
-        slug: kodari
-      - 
-        districts: []
-        location: "POINT (27.6666699999999999 85.2833300000000065)"
-        name: Kirtipur
-        population: 44632
-        slug: kirtipur
-      - 
-        districts: []
-        location: "POINT (27.3666699999999992 87.2166699999999935)"
-        name: Khāndbāri
-        population: 22903
-        slug: khandbari
-      - 
-        districts: []
-        location: "POINT (26.6999999999999993 85.9166699999999963)"
-        name: Janakpur
-        population: 93767
-        slug: janakpur
-      - 
-        districts: []
-        location: "POINT (26.6333300000000008 85.7999999999999972)"
-        name: Jaleswar
-        population: 23573
-        slug: jaleswar
-      - 
-        districts: []
-        location: "POINT (26.6666699999999999 87.2833300000000065)"
-        name: Ithari
-        population: 47984
-        slug: ithari
-      - 
-        districts: []
-        location: "POINT (26.8999999999999986 87.9333299999999980)"
-        name: Ilām
-        population: 17491
-        slug: ilam
-      - 
-        districts: []
-        location: "POINT (27.4166699999999999 85.0333300000000065)"
-        name: Heṭauḍā
-        population: 84775
-        slug: hetauda
-      - 
-        districts: []
-        location: "POINT (28.2333299999999987 81.3333300000000037)"
-        name: Gulariyā
-        population: 53107
-        slug: gulariya
-      - 
-        districts: []
-        location: "POINT (26.7666700000000013 85.2666700000000048)"
-        name: Gaur
-        population: 27325
-        slug: gaur
-      - 
-        districts: []
-        location: "POINT (26.9833299999999987 87.3333300000000037)"
-        name: Dhankutā
-        population: 22084
-        slug: dhankuta
-      - 
-        districts: []
-        location: "POINT (28.6833300000000015 80.5999999999999943)"
-        name: Dhangarhi
-        population: 92294
-        slug: dhangarhi
-      - 
-        districts: []
-        location: "POINT (29.8500000000000014 80.5499999999999972)"
-        name: Dārchulā
-        population: 18317
-        slug: darchula
-      - 
-        districts: []
-        location: "POINT (28.8333300000000001 81.7333299999999952)"
-        name: Dailekh
-        population: 20908
-        slug: dailekh
-      - 
-        districts: []
-        location: "POINT (29.3000000000000007 80.5833300000000037)"
-        name: Dadeldhurā
-        population: 19014
-        slug: dadeldhura
-      - 
-        districts: []
-        location: "POINT (27.6999999999999993 83.4500000000000028)"
-        name: Butwāl
-        population: 91733
-        slug: butwal
-      - 
-        districts: []
-        location: "POINT (27.0000000000000000 84.8666699999999992)"
-        name: Bīrganj
-        population: 133238
-        slug: birganj
-      - 
-        districts: []
-        location: "POINT (28.0500000000000007 81.6166699999999992)"
-        name: Nepalgunj
-        population: 64400
-        slug: nepalgunj
-      - 
-        districts: []
-        location: "POINT (27.6833300000000015 84.4333299999999980)"
-        name: Bharatpur
-        population: 107157
-        slug: bharatpur
-      - 
-        districts: []
-        location: "POINT (27.6673399999999994 85.4167300000000012)"
-        name: Bhaktapur
-        population: 76886
-        slug: bhaktapur
-      - 
-        districts: []
-        location: "POINT (27.5000000000000000 83.4500000000000028)"
-        name: Bhairāhawā
-        population: 63367
-        slug: bhairahawa
-      - 
-        districts: []
-        location: "POINT (26.5333299999999994 88.0833300000000037)"
-        name: Bhadrapur
-        population: 19523
-        slug: bhadrapur
-      - 
-        districts: []
-        location: "POINT (27.6333300000000008 85.5166700000000048)"
-        name: Banepa
-        population: 17153
-        slug: banepa
-      - 
-        districts: []
-        location: "POINT (28.2666700000000013 83.5999999999999943)"
-        name: Bāglung
-        population: 23296
-        slug: baglung
-      - 
-        districts: []
-        location: "POINT (28.6019399999999990 81.6338899999999938)"
-        name: Birendranagar
-        population: 31381
-        slug: birendranagar
-      - 
-        districts: []
-        location: "POINT (28.4267299999999992 83.6907599999999974)"
-        name: Chitre
-        population: 2860
-        slug: chitre
-      - 
-        districts: []
-        location: "POINT (29.2747199999999985 82.1838300000000004)"
-        name: Jumlā
-        population: 9073
-        slug: jumla
-      - 
-        districts: []
-        location: "POINT (28.2668900000000001 83.9685099999999949)"
-        name: Pokhara
-        population: 200000
-        slug: pokhara
-    code: NP.00
-    name: "Nepal (general)"
-    slug: nepal-general
+        alternate_names: ~
+        ascii_name: Dipayal
+        name: Dipayal
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Far Western Region"
+    names_en: 
+      - "Far Western Region"
+    names_es: ~
   - 
+    ascii_name: "Mid Western Region"
     cities: 
       - 
-        districts: []
-        location: "POINT (27.7152199999999986 85.5207500000000067)"
-        name: Nagarkot
-        population: 4000
-        slug: nagarkot
+        alternate_names: ~
+        ascii_name: Jumla
+        name: Jumlā
+        names_en: ~
+        names_es: ~
+        population: 9073
       - 
-        districts: []
-        location: "POINT (27.7016899999999993 85.3205999999999989)"
+        alternate_names: 
+          - Birendranagan
+          - Birendranagar
+          - Бирендранаган
+        ascii_name: Birendranagar
+        name: Birendranagar
+        names_en: ~
+        names_es: ~
+        population: 31381
+      - 
+        alternate_names: 
+          - Nepalgun
+          - Непалгун
+        ascii_name: Nepalgunj
+        name: Nepalgunj
+        names_en: ~
+        names_es: ~
+        population: 64400
+      - 
+        alternate_names: ~
+        ascii_name: Surkhet
+        name: Surkhet
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Mid Western Region"
+    names_en: 
+      - "Mid Western Region"
+    names_es: ~
+  - 
+    ascii_name: "Central Region"
+    cities: 
+      - 
+        alternate_names: 
+          - Nagarkot
+          - Нагаркот
+        ascii_name: Nagarkot
+        name: Nagarkot
+        names_en: ~
+        names_es: ~
+        population: 4000
+      - 
+        alternate_names: 
+          - Catmandu
+          - Kantipur
+          - Kantipura
+        ascii_name: Kathmandu
         name: Kathmandu
+        names_en: 
+          - Kathmandu
+        names_es: 
+          - Katmandú
         population: 1442271
-        slug: kathmandu
-    code: NP.01
-    name: "Bāgmatī Zone"
-    slug: bagmati-zone
-tld: np
+    name: "Central Region"
+    names_en: 
+      - "Central Region"
+    names_es: ~
+  - 
+    ascii_name: "Eastern Region"
+    cities: 
+      - 
+        alternate_names: 
+          - Dhankuta
+          - "Dhankuta Bazar"
+          - Dhankutta
+        ascii_name: Dhankuta
+        name: Dhankutā
+        names_en: ~
+        names_es: ~
+        population: 22084
+      - 
+        alternate_names: 
+          - Biratnagar
+          - Biratnagur
+          - Биратнагар
+        ascii_name: Biratnagar
+        name: Birātnagar
+        names_en: ~
+        names_es: ~
+        population: 182324
+    name: "Eastern Region"
+    names_en: 
+      - "Eastern Region"
+      - East
+    names_es: ~
+  - 
+    ascii_name: "Western Region"
+    cities: 
+      - 
+        alternate_names: 
+          - Pakhra
+          - Pokhar
+          - Pokhara
+        ascii_name: Pokhara
+        name: Pokhara
+        names_en: 
+          - Pokhara
+        names_es: 
+          - Pokhara
+        population: 200000
+      - 
+        alternate_names: ~
+        ascii_name: Chitre
+        name: Chitre
+        names_en: ~
+        names_es: ~
+        population: 2860
+    name: "Western Region"
+    names_en: 
+      - "Western Region"
+    names_es: ~

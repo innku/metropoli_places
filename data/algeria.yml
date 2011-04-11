@@ -1,1520 +1,2560 @@
 --- 
-code: DZ
-continent: AF
 name: Algeria
-population: 34586184
+names_en: 
+  - Algeria
+  - "People’s Democratic Republic of Algeria"
+names_es: 
+  - Argelia
 regions: 
   - 
+    ascii_name: "Wilaya de Tlemcen"
     cities: 
       - 
-        districts: []
-        location: "POINT (31.6166699999999992 -2.2166700000000001)"
-        name: Béchar
-        population: 143382
-        slug: bechar
-      - 
-        districts: []
-        location: "POINT (34.6828399999999988 6.5110900000000003)"
-        name: "Zeribet el Oued"
-        population: 23187
-        slug: zeribet-el-oued
-      - 
-        districts: []
-        location: "POINT (34.7222399999999993 5.3784500000000000)"
-        name: Tolga
-        population: 68246
-        slug: tolga
-      - 
-        districts: []
-        location: "POINT (36.6717599999999990 4.1917600000000004)"
-        name: "Tizi Rached"
-        population: 17872
-        slug: tizi-rached
-      - 
-        districts: []
-        location: "POINT (36.5456900000000005 4.0571200000000003)"
-        name: Tizi-n-Tleta
-        population: 22404
-        slug: tizi-n-tleta
-      - 
-        districts: []
-        location: "POINT (36.7999999999999972 4.2666700000000004)"
-        name: Timizart
-        population: 41158
-        slug: timizart
-      - 
-        districts: []
-        location: "POINT (29.2638800000000003 0.2309800000000000)"
-        name: Timimoun
-        population: 49237
-        slug: timimoun
-      - 
-        districts: []
-        location: "POINT (33.1166699999999992 6.0833300000000001)"
-        name: Tebesbest
-        population: 41091
-        slug: tebesbest
-      - 
-        districts: []
-        location: "POINT (34.7451200000000000 5.8983299999999996)"
-        name: "Sidi Okba"
-        population: 34985
-        slug: sidi-okba
-      - 
-        districts: []
-        location: "POINT (34.3870000000000005 4.9878499999999999)"
-        name: "Sidi Khaled"
-        population: 64476
-        slug: sidi-khaled
-      - 
-        districts: []
-        location: "POINT (33.4988499999999974 6.0080299999999998)"
-        name: "Sidi Amrane"
-        population: 29734
-        slug: sidi-amrane
-      - 
-        districts: []
-        location: "POINT (35.8854800000000012 3.7723599999999999)"
-        name: "Sidi Aïssa"
-        population: 69740
-        slug: sidi-aissa
-      - 
-        districts: []
-        location: "POINT (33.2796599999999998 6.9098400000000000)"
-        name: Robbah
-        population: 30446
-        slug: robbah
-      - 
-        districts: []
-        location: "POINT (33.5639099999999999 6.7032600000000002)"
-        name: Reguiba
-        population: 62185
-        slug: reguiba
-      - 
-        districts: []
-        location: "POINT (26.7157599999999995 0.1714000000000000)"
-        name: Reggane
-        population: 32974
-        slug: reggane
-      - 
-        districts: []
-        location: "POINT (34.6929200000000009 5.6809200000000004)"
-        name: Oumache
-        population: 10424
-        slug: oumache
-      - 
-        districts: []
-        location: "POINT (22.7850000000000001 5.5227800000000000)"
-        name: Tamanrasset
-        population: 73128
-        slug: tamanrasset
-      - 
-        districts: []
-        location: "POINT (33.2666699999999977 -0.3166700000000000)"
-        name: Naama
-        population: 8390
-        slug: naama
-      - 
-        districts: []
-        location: "POINT (32.2666699999999977 3.6333299999999999)"
-        name: "Metlili Chaamba"
-        population: 50117
-        slug: metlili-chaamba
-      - 
-        districts: []
-        location: "POINT (34.1542900000000031 3.5030899999999998)"
-        name: Messaad
-        population: 99485
-        slug: messaad
-      - 
-        districts: []
-        location: "POINT (35.9799900000000008 4.1866500000000002)"
-        name: Melouza
-        population: 25701
-        slug: melouza
-      - 
-        districts: []
-        location: "POINT (33.1919499999999985 6.0869499999999999)"
-        name: Megarine
-        population: 31711
-        slug: megarine
-      - 
-        districts: []
-        location: "POINT (36.7185899999999990 3.6692399999999998)"
-        name: Isser
-        population: 17953
-        slug: isser
-      - 
-        districts: []
-        location: "POINT (27.1935099999999998 2.4606900000000000)"
-        name: I-n-Salah
-        population: 49223
-        slug: i-n-salah
-      - 
-        districts: []
-        location: "POINT (26.4833299999999987 8.4666700000000006)"
-        name: Illizi
-        population: 6629
-        slug: illizi
-      - 
-        districts: []
-        location: "POINT (36.4629499999999993 4.5053200000000002)"
-        name: Ighram
-        population: 15030
-        slug: ighram
-      - 
-        districts: []
-        location: "POINT (32.8930000000000007 0.5483900000000000)"
-        name: "El Abiodh Sidi Cheikh"
-        population: 39283
-        slug: el-abiodh-sidi-cheikh
-      - 
-        districts: []
-        location: "POINT (33.5338800000000035 5.9930599999999998)"
-        name: Djamaa
-        population: 52882
-        slug: djamaa
-      - 
-        districts: []
-        location: "POINT (33.5166699999999977 6.9500000000000002)"
-        name: Debila
-        population: 36834
-        slug: debila
-      - 
-        districts: []
-        location: "POINT (34.8963800000000006 3.4854300000000000)"
-        name: "Dar Chioukh"
-        population: 54022
-        slug: dar-chioukh
-      - 
-        districts: []
-        location: "POINT (36.6000000000000014 4.6166700000000001)"
-        name: Chemini
-        population: 21585
-        slug: chemini
-      - 
-        districts: []
-        location: "POINT (36.3329299999999975 5.0884299999999998)"
-        name: Bougaa
-        population: 38597
-        slug: bougaa
-      - 
-        districts: []
-        location: "POINT (36.8021799999999999 4.1518699999999997)"
-        name: Boudjima
-        population: 20557
-        slug: boudjima
-      - 
-        districts: []
-        location: "POINT (36.4629800000000017 2.8146399999999998)"
-        name: "Boû Arfa"
-        population: 44143
-        slug: bou-arfa
-      - 
-        districts: []
-        location: "POINT (35.6349999999999980 3.2250000000000001)"
-        name: Birine
-        population: 51209
-        slug: birine
-      - 
-        districts: []
-        location: "POINT (34.7448800000000020 8.0602400000000003)"
-        name: "Bir el Ater"
-        population: 68703
-        slug: bir-el-ater
-      - 
-        districts: []
-        location: "POINT (32.8264799999999966 3.7669000000000001)"
-        name: Berriane
-        population: 44580
-        slug: berriane
-      - 
-        districts: []
-        location: "POINT (35.0746499999999983 -1.2243100000000000)"
-        name: Bensekrane
-        population: 21283
-        slug: bensekrane
-      - 
-        districts: []
-        location: "POINT (36.6195400000000006 4.0828199999999999)"
-        name: "Beni Douala"
-        population: 33611
-        slug: beni-douala
-      - 
-        districts: []
-        location: "POINT (36.6677400000000020 3.5911499999999998)"
-        name: "Beni Amrane"
-        population: 18414
-        slug: beni-amrane
-      - 
-        districts: []
-        location: "POINT (36.5666700000000020 4.9666699999999997)"
-        name: Barbacha
-        population: 31983
-        slug: barbacha
-      - 
-        districts: []
-        location: "POINT (36.7261499999999970 3.1829100000000001)"
-        name: "Bab Ezzouar"
-        population: 275630
-        slug: bab-ezzouar
-      - 
-        districts: []
-        location: "POINT (26.9666700000000006 1.0833299999999999)"
-        name: Aoulef
-        population: 24812
-        slug: aoulef
-      - 
-        districts: []
-        location: "POINT (32.7500000000000000 -0.5833300000000000)"
-        name: "Aïn Sefra"
-        population: 63420
-        slug: ain-sefra
-      - 
-        districts: []
-        location: "POINT (34.8414599999999979 4.1638299999999999)"
-        name: "’Aïn el Melh"
-        population: 39798
-        slug: ain-el-melh
-      - 
-        districts: []
-        location: "POINT (35.6700299999999970 3.8815300000000001)"
-        name: "‘Aïn el Hadjel"
-        population: 42527
-        slug: ain-el-hadjel
-      - 
-        districts: []
-        location: "POINT (34.7584599999999995 0.1452800000000000)"
-        name: "’Aïn el Hadjar"
-        population: 12996
-        slug: ain-el-hadjar
-      - 
-        districts: []
-        location: "POINT (34.3438000000000017 3.2247499999999998)"
-        name: "’Aïn el Bell"
-        population: 31916
-        slug: ain-el-bell
-      - 
-        districts: []
-        location: "POINT (35.8912300000000002 3.1585000000000001)"
-        name: "’Aïn Boucif"
-        population: 11989
-        slug: ain-boucif
-    code: DZ.00
-    name: "Algeria (general)"
-    slug: algeria-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.7116899999999973 2.8424399999999999)"
-        name: Zeralda
-        population: 17563
-        slug: zeralda
-      - 
-        districts: []
-        location: "POINT (36.7045600000000007 3.0246200000000001)"
-        name: Saoula
-        population: 16812
-        slug: saoula
-      - 
-        districts: []
-        location: "POINT (36.7382899999999992 3.2807900000000001)"
-        name: Rouiba
-        population: 20742
-        slug: rouiba
-      - 
-        districts: []
-        location: "POINT (36.7133299999999991 3.2124999999999999)"
-        name: "Dar el Beïda"
-        population: 37311
-        slug: dar-el-beida
-      - 
-        districts: []
-        location: "POINT (36.7677499999999995 2.9592399999999999)"
-        name: Cheraga
-        population: 27835
-        slug: cheraga
-      - 
-        districts: []
-        location: "POINT (36.7487100000000027 3.1924800000000002)"
-        name: "Bordj el Kiffan"
-        population: 123246
-        slug: bordj-el-kiffan
-      - 
-        districts: []
-        location: "POINT (36.7149900000000002 3.0500200000000000)"
-        name: Birkhadem
-        population: 71722
-        slug: birkhadem
-      - 
-        districts: []
-        location: "POINT (36.6665500000000009 3.0960600000000000)"
-        name: Baraki
-        population: 105402
-        slug: baraki
-      - 
-        districts: []
-        location: "POINT (36.7524999999999977 3.0419700000000001)"
-        name: Algiers
-        population: 1977663
-        slug: algiers
-      - 
-        districts: []
-        location: "POINT (36.7933299999999974 3.2869400000000000)"
-        name: "Aïn Taya"
-        population: 21815
-        slug: ain-taya
-      - 
-        districts: []
-        location: "POINT (36.8027700000000024 2.9218500000000001)"
-        name: "’Aïn Benian"
-        population: 31102
-        slug: ain-benian
-    code: DZ.01
-    name: Alger
-    slug: alger
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.4817099999999996 6.2607400000000002)"
-        name: Tazoult-Lambese
-        population: 41636
-        slug: tazoult-lambese
-      - 
-        districts: []
-        location: "POINT (35.6738399999999984 5.6452999999999998)"
-        name: "Râs el Aïoun"
-        population: 34167
-        slug: ras-el-aioun
-      - 
-        districts: []
-        location: "POINT (35.6310599999999980 5.9118599999999999)"
-        name: Merouana
-        population: 47646
-        slug: merouana
-      - 
-        districts: []
-        location: "POINT (35.5559700000000021 6.1741400000000004)"
-        name: Batna
-        population: 280798
-        slug: batna
-      - 
-        districts: []
-        location: "POINT (35.3890099999999990 5.3658400000000004)"
-        name: Barika
-        population: 98846
-        slug: barika
-      - 
-        districts: []
-        location: "POINT (35.2588099999999969 6.3470599999999999)"
-        name: Arris
-        population: 36641
-        slug: arris
-      - 
-        districts: []
-        location: "POINT (35.3767500000000013 5.9000100000000000)"
-        name: "Aïn Touta"
-        population: 72280
-        slug: ain-touta
-    code: DZ.03
-    name: Batna
-    slug: batna
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.1165299999999974 6.3543399999999997)"
-        name: Telerghma
-        population: 51708
-        slug: telerghma
-      - 
-        districts: []
-        location: "POINT (36.8761700000000019 6.9092099999999999)"
-        name: Skikda
-        population: 162702
-        slug: skikda
-      - 
-        districts: []
-        location: "POINT (36.4577400000000011 6.0426700000000002)"
-        name: Rouached
-        population: 40263
-        slug: rouached
-      - 
-        districts: []
-        location: "POINT (36.4120500000000007 6.5960299999999998)"
-        name: "Hamma Bouziane"
-        population: 63012
-        slug: hamma-bouziane
-      - 
-        districts: []
-        location: "POINT (36.2633300000000034 6.6936099999999996)"
-        name: "El Khroub"
-        population: 83746
-        slug: el-khroub
-      - 
-        districts: []
-        location: "POINT (36.4525000000000006 6.6363899999999996)"
-        name: "Didouche Mourad"
-        population: 25764
-        slug: didouche-mourad
-      - 
-        districts: []
-        location: "POINT (36.3650000000000020 6.6147200000000002)"
-        name: Constantine
-        population: 450097
-        slug: constantine
-      - 
-        districts: []
-        location: "POINT (36.1628600000000020 6.1665099999999997)"
-        name: "Chelghoum el Aïd"
-        population: 71660
-        slug: chelghoum-el-aid
-      - 
-        districts: []
-        location: "POINT (36.7394400000000019 7.1052799999999996)"
-        name: Azzaba
-        population: 75317
-        slug: azzaba
-      - 
-        districts: []
-        location: "POINT (36.2674000000000021 6.5013500000000004)"
-        name: "Aïn Smara"
-        population: 28968
-        slug: ain-smara
-      - 
-        districts: []
-        location: "POINT (36.2319400000000016 6.9433299999999996)"
-        name: "’Aïn Abid"
-        population: 29486
-        slug: ain-abid
-    code: DZ.04
-    name: Constantine
-    slug: constantine
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.2641700000000000 2.7539300000000000)"
-        name: Médéa
-        population: 147707
-        slug: medea
-      - 
-        districts: []
-        location: "POINT (35.8888900000000035 2.7490500000000000)"
-        name: "Ksar el Boukhari"
-        population: 77166
-        slug: ksar-el-boukhari
-      - 
-        districts: []
-        location: "POINT (36.1351599999999991 2.9108499999999999)"
-        name: Berrouaghia
-        population: 80573
-        slug: berrouaghia
-      - 
-        districts: []
-        location: "POINT (36.2933299999999974 3.6731900000000000)"
-        name: "Aïn Bessem"
-        population: 29461
-        slug: ain-bessem
-    code: DZ.06
-    name: Médéa
-    slug: medea
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.6590300000000013 -0.5216800000000000)"
-        name: "Sidi ech Chahmi"
-        population: 35512
-        slug: sidi-ech-chahmi
-      - 
-        districts: []
-        location: "POINT (35.6911100000000019 -0.6416700000000000)"
-        name: Oran
-        population: 645984
-        slug: oran
-      - 
-        districts: []
-        location: "POINT (35.7278999999999982 -0.7081000000000000)"
-        name: "Mers el Kebir"
-        population: 20178
-        slug: mers-el-kebir
-      - 
-        districts: []
-        location: "POINT (35.6477900000000005 -0.6239700000000000)"
-        name: "Es Senia"
-        population: 68084
-        slug: es-senia
-      - 
-        districts: []
-        location: "POINT (35.5727199999999968 -0.8996000000000000)"
-        name: "Bou Tlelis"
-        population: 26144
-        slug: bou-tlelis
-      - 
-        districts: []
-        location: "POINT (35.7199999999999989 -0.5450000000000000)"
-        name: "Bir el Djir"
-        population: 68032
-        slug: bir-el-djir
-      - 
-        districts: []
-        location: "POINT (35.7438100000000034 -0.7693000000000000)"
-        name: "’Aïn el Turk"
-        population: 45323
-        slug: ain-el-turk
-      - 
-        districts: []
-        location: "POINT (35.8038900000000027 -0.3017800000000000)"
-        name: "Aïn el Bya"
-        population: 37241
-        slug: ain-el-bya
-    code: DZ.09
-    name: Oran
-    slug: oran
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.8545000000000016 5.2905300000000004)"
-        name: "Salah Bey"
-        population: 23339
-        slug: salah-bey
-      - 
-        districts: []
-        location: "POINT (36.1528100000000023 5.6901599999999997)"
-        name: "El Eulma"
-        population: 128351
-        slug: el-eulma
-      - 
-        districts: []
-        location: "POINT (36.1868300000000005 5.3134699999999997)"
-        name: "’Aïn Arnat"
-        population: 35088
-        slug: ain-arnat
-      - 
-        districts: []
-        location: "POINT (36.4899399999999972 5.5392999999999999)"
-        name: "BABOR - VILLE"
-        population: 33000
-        slug: babor-ville
-    code: DZ.12
-    name: Sétif
-    slug: setif
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.1856799999999978 1.4961199999999999)"
-        name: Sougueur
-        population: 68654
-        slug: sougueur
-      - 
-        districts: []
-        location: "POINT (35.4305799999999991 1.7571399999999999)"
-        name: Mehdia
-        population: 39271
-        slug: mehdia
-      - 
-        districts: []
-        location: "POINT (35.2122200000000021 2.3188900000000001)"
-        name: "Ksar Chellala"
-        population: 58478
-        slug: ksar-chellala
-      - 
-        districts: []
-        location: "POINT (35.0654400000000024 1.0494500000000000)"
-        name: Frenda
-        population: 63319
-        slug: frenda
-      - 
-        districts: []
-        location: "POINT (34.8421799999999990 1.5469800000000000)"
-        name: "’Aïn Deheb"
-        population: 36146
-        slug: ain-deheb
-    code: DZ.13
-    name: Tiaret
-    slug: tiaret
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.5883899999999969 3.7744499999999999)"
-        name: "Tizi Gheniff"
-        population: 27974
-        slug: tizi-gheniff
-      - 
-        districts: []
-        location: "POINT (36.6539300000000026 3.9814300000000000)"
-        name: Tirmitine
-        population: 26261
-        slug: tirmitine
-      - 
-        districts: []
-        location: "POINT (36.7441299999999984 3.9004500000000002)"
-        name: Tadmaït
-        population: 20952
-        slug: tadmait
-      - 
-        districts: []
-        location: "POINT (36.7462500000000034 3.8316300000000001)"
-        name: Naciria
-        population: 15387
-        slug: naciria
-      - 
-        districts: []
-        location: "POINT (36.6817800000000034 4.2637799999999997)"
-        name: Mekla
-        population: 29560
-        slug: mekla
-      - 
-        districts: []
-        location: "POINT (36.7856700000000032 4.0627300000000002)"
-        name: Makouda
-        population: 34515
-        slug: makouda
-      - 
-        districts: []
-        location: "POINT (36.6311200000000028 4.1986400000000001)"
-        name: "L’Arbaa Naït Irathen"
-        population: 30609
-        slug: larbaa-nait-irathen
-      - 
-        districts: []
-        location: "POINT (36.7523399999999967 4.3155000000000001)"
-        name: Freha
-        population: 31068
-        slug: freha
-      - 
-        districts: []
-        location: "POINT (36.5362799999999979 3.8334000000000001)"
-        name: "Draa el Mizan"
-        population: 41263
-        slug: draa-el-mizan
-      - 
-        districts: []
-        location: "POINT (36.7343600000000023 3.9622299999999999)"
-        name: "Draa Ben Khedda"
-        population: 37443
-        slug: draa-ben-khedda
-      - 
-        districts: []
-        location: "POINT (36.6370900000000006 3.6947399999999999)"
-        name: "Chabet el Ameur"
-        population: 19522
-        slug: chabet-el-ameur
-      - 
-        districts: []
-        location: "POINT (36.5422200000000004 3.9530599999999998)"
-        name: Boghni
-        population: 54666
-        slug: boghni
-      - 
-        districts: []
-        location: "POINT (36.7447200000000009 4.3722200000000004)"
-        name: Azazga
-        population: 40623
-        slug: azazga
-      - 
-        districts: []
-        location: "POINT (36.7936100000000010 4.3115800000000002)"
-        name: Arhribs
-        population: 23958
-        slug: arhribs
-      - 
-        districts: []
-        location: "POINT (36.5647099999999980 4.3061900000000000)"
-        name: "’Aïn el Hammam"
-        population: 28029
-        slug: ain-el-hammam
-    code: DZ.14
-    name: "Tizi Ouzou"
-    slug: tizi-ouzou
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.8783299999999983 -1.3149999999999999)"
+        alternate_names: 
+          - Tilimsan
+          - Tlemcen
+          - Tlemecen
+        ascii_name: Tlemcen
         name: Tlemcen
+        names_en: 
+          - Tlemcen
+        names_es: 
+          - Tlemecén
         population: 132341
-        slug: tlemcen
       - 
-        districts: []
-        location: "POINT (35.0693699999999993 -1.1370600000000000)"
+        alternate_names: 
+          - "Les Abdellys"
+          - "Les Abdelys"
+          - "Sidi Abdelli"
+        ascii_name: "Sidi Abdelli"
         name: "Sidi Abdelli"
+        names_en: ~
+        names_es: ~
         population: 23543
-        slug: sidi-abdelli
       - 
-        districts: []
-        location: "POINT (34.6370300000000029 -1.3314299999999999)"
+        alternate_names: ~
+        ascii_name: Sebdou
         name: Sebdou
+        names_en: ~
+        names_es: ~
         population: 41146
-        slug: sebdou
       - 
-        districts: []
-        location: "POINT (35.0619599999999991 -1.4336199999999999)"
+        alternate_names: 
+          - Montagnac
+          - Remchi
+        ascii_name: Remchi
         name: Remchi
+        names_en: ~
+        names_es: ~
         population: 51224
-        slug: remchi
       - 
-        districts: []
-        location: "POINT (34.9047199999999975 -1.0339400000000001)"
+        alternate_names: 
+          - Lamariciere
+          - Lamaricière
+          - Lamoriciere
+        ascii_name: "Ouled Mimoun"
         name: "Ouled Mimoun"
+        names_en: ~
+        names_es: ~
         population: 33888
-        slug: ouled-mimoun
       - 
-        districts: []
-        location: "POINT (35.0136099999999999 -1.7479899999999999)"
+        alternate_names: 
+          - Nedroma
+        ascii_name: Nedroma
         name: Nedroma
+        names_en: ~
+        names_es: ~
         population: 36995
-        slug: nedroma
       - 
-        districts: []
-        location: "POINT (34.8615799999999965 -1.3393500000000000)"
+        alternate_names: 
+          - Mansoura
+          - Mansourah
+          - Mansoûra
+        ascii_name: Mansoura
         name: Mansoûra
+        names_en: ~
+        names_es: ~
         population: 52285
-        slug: mansoura
       - 
-        districts: []
-        location: "POINT (34.9513900000000035 -1.3680600000000001)"
+        alternate_names: 
+          - "Eugene Etienne"
+          - "Eugene-Etienne Hennaya"
+          - "Eugène Étienne"
+        ascii_name: Hennaya
         name: Hennaya
+        names_en: ~
+        names_es: ~
         population: 41959
-        slug: hennaya
       - 
-        districts: []
-        location: "POINT (34.9212899999999991 -1.2951200000000000)"
+        alternate_names: 
+          - Chetouane
+          - Negrier
+          - Négrier
+        ascii_name: Chetouane
         name: Chetouane
+        names_en: ~
+        names_es: ~
         population: 39913
-        slug: chetouane
       - 
-        districts: []
-        location: "POINT (35.3009899999999988 -1.3822600000000000)"
-        name: "Beni Saf"
-        population: 46382
-        slug: beni-saf
+        alternate_names: 
+          - "Ben Sokrane"
+          - Bensekrane
+          - "Pont de l'Isser"
+        ascii_name: Bensekrane
+        name: Bensekrane
+        names_en: ~
+        names_es: ~
+        population: 21283
       - 
-        districts: []
-        location: "POINT (34.8704499999999982 -1.4231900000000000)"
+        alternate_names: ~
+        ascii_name: "Beni Mester"
         name: "Beni Mester"
+        names_en: ~
+        names_es: ~
         population: 19808
-        slug: beni-mester
-    code: DZ.15
     name: Tlemcen
-    slug: tlemcen
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wilaya de Tizi Ouzou"
     cities: 
       - 
-        districts: []
-        location: "POINT (36.6499999999999986 4.7736099999999997)"
-        name: "el hed"
-        population: 31890
-        slug: el-hed
+        alternate_names: 
+          - "Tizi Ouzou"
+          - "Tizi Uzu"
+          - Tizi-Ouzou
+        ascii_name: "Tizi Ouzou"
+        name: "Tizi Ouzou"
+        names_en: 
+          - "Tizi Ouzou"
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (36.5472200000000029 4.6861100000000002)"
-        name: Seddouk
-        population: 19884
-        slug: seddouk
+        alternate_names: ~
+        ascii_name: Tirmitine
+        name: Tirmitine
+        names_en: ~
+        names_es: ~
+        population: 26261
       - 
-        districts: []
-        location: "POINT (36.5604000000000013 4.8545400000000001)"
-        name: Feraoun
-        population: 21700
-        slug: feraoun
+        alternate_names: ~
+        ascii_name: Mekla
+        name: Mekla
+        names_en: ~
+        names_es: ~
+        population: 29560
       - 
-        districts: []
-        location: "POINT (36.6794200000000004 4.8555000000000001)"
-        name: "El Kseur"
-        population: 26050
-        slug: el-kseur
+        alternate_names: 
+          - "Fort National"
+          - "L'Arbaa Irathen Nait"
+          - "L'Arbaa Nait Irathen"
+        ascii_name: "L'Arbaa Nait Irathen"
+        name: "L’Arbaa Naït Irathen"
+        names_en: ~
+        names_es: ~
+        population: 30609
       - 
-        districts: []
-        location: "POINT (36.7558700000000016 5.0843299999999996)"
-        name: Bejaïa
-        population: 164103
-        slug: bejaia
+        alternate_names: 
+          - Freda
+          - Freha
+        ascii_name: Freha
+        name: Freha
+        names_en: ~
+        names_es: ~
+        population: 31068
       - 
-        districts: []
-        location: "POINT (36.6402199999999993 4.9013099999999996)"
-        name: Amizour
-        population: 25825
-        slug: amizour
+        alternate_names: 
+          - Boghari
+          - Boghni
+          - Borhni
+        ascii_name: Boghni
+        name: Boghni
+        names_en: ~
+        names_es: ~
+        population: 54666
       - 
-        districts: []
-        location: "POINT (36.4575000000000031 4.5349399999999997)"
-        name: Akbou
-        population: 66654
-        slug: akbou
-    code: DZ.18
-    name: Bejaïa
-    slug: bejaia
+        alternate_names: 
+          - Agagza
+          - Agazza
+          - Azazga
+        ascii_name: Azazga
+        name: Azazga
+        names_en: ~
+        names_es: ~
+        population: 40623
+      - 
+        alternate_names: 
+          - Aghribs
+          - Arhribs
+        ascii_name: Arhribs
+        name: Arhribs
+        names_en: ~
+        names_es: ~
+        population: 23958
+      - 
+        alternate_names: 
+          - "'Ain el Hammam"
+          - "Ain El Hamman"
+          - Ain-el-Hamam
+        ascii_name: "'Ain el Hammam"
+        name: "’Aïn el Hammam"
+        names_en: ~
+        names_es: ~
+        population: 28029
+    name: "Tizi Ouzou"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wilaya de Tissemsilt"
     cities: 
       - 
-        districts: []
-        location: "POINT (36.5183299999999988 2.9052799999999999)"
-        name: Souma
-        population: 40745
-        slug: souma
-      - 
-        districts: []
-        location: "POINT (36.6063699999999983 3.0878299999999999)"
-        name: "Sidi Moussa"
-        population: 57928
-        slug: sidi-moussa
-      - 
-        districts: []
-        location: "POINT (36.6839399999999998 3.3666100000000001)"
-        name: "Ouled Moussa"
-        population: 13474
-        slug: ouled-moussa
-      - 
-        districts: []
-        location: "POINT (36.6203999999999965 3.2224800000000000)"
-        name: Meftah
-        population: 59990
-        slug: meftah
-      - 
-        districts: []
-        location: "POINT (36.5647099999999980 3.1543399999999999)"
-        name: L’Arba
-        population: 69298
-        slug: larba
-      - 
-        districts: []
-        location: "POINT (36.6499700000000033 3.3308000000000000)"
-        name: "Khemis el Khechna"
-        population: 49757
-        slug: khemis-el-khechna
-      - 
-        districts: []
-        location: "POINT (36.4701000000000022 2.6252800000000001)"
-        name: "El Affroun"
-        population: 42627
-        slug: el-affroun
-      - 
-        districts: []
-        location: "POINT (36.4629300000000001 2.7387299999999999)"
-        name: Chiffa
-        population: 23218
-        slug: chiffa
-      - 
-        districts: []
-        location: "POINT (36.5772199999999970 3.0091700000000001)"
-        name: Chebli
-        population: 19901
-        slug: chebli
-      - 
-        districts: []
-        location: "POINT (36.5316699999999983 2.9919400000000000)"
-        name: Bouinan
-        population: 30271
-        slug: bouinan
-      - 
-        districts: []
-        location: "POINT (36.5417800000000028 3.0810000000000000)"
-        name: Bougara
-        population: 63155
-        slug: bougara
-      - 
-        districts: []
-        location: "POINT (36.5741200000000006 2.9121400000000000)"
-        name: Boufarik
-        population: 59742
-        slug: boufarik
-      - 
-        districts: []
-        location: "POINT (36.5238900000000015 2.8613100000000000)"
-        name: "Beni Mered"
-        population: 92749
-        slug: beni-mered
-      - 
-        districts: []
-        location: "POINT (36.6377299999999977 3.3712700000000000)"
-        name: Arbatache
-        population: 17481
-        slug: arbatache
-    code: DZ.20
-    name: Blida
-    slug: blida
+        alternate_names: 
+          - Tissemsil
+          - Tissemsilt
+          - Vialar
+        ascii_name: Tissemsilt
+        name: Tissemsilt
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Tissemsilt
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wilaya de Tipaza"
     cities: 
       - 
-        districts: []
-        location: "POINT (36.1476600000000019 3.6912300000000000)"
-        name: "Sour el Ghozlane"
-        population: 50204
-        slug: sour-el-ghozlane
-      - 
-        districts: []
-        location: "POINT (36.5646300000000011 3.5933000000000002)"
-        name: Lakhdaria
-        population: 56719
-        slug: lakhdaria
-      - 
-        districts: []
-        location: "POINT (36.3650499999999965 4.3263600000000002)"
-        name: Chorfa
-        population: 20556
-        slug: chorfa
-    code: DZ.21
-    name: Bouira
-    slug: bouira
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (34.4454199999999986 2.5274899999999998)"
-        name: "El Idrissia"
-        population: 38714
-        slug: el-idrissia
-      - 
-        districts: []
-        location: "POINT (34.6209800000000030 2.7950300000000001)"
-        name: Charef
-        population: 27700
-        slug: charef
-      - 
-        districts: []
-        location: "POINT (35.4513900000000035 2.9058299999999999)"
-        name: "Aïn Oussera"
-        population: 118687
-        slug: ain-oussera
-    code: DZ.22
-    name: Djelfa
-    slug: djelfa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.7999999999999972 2.8651399999999998)"
-        name: Laghouat
-        population: 113872
-        slug: laghouat
-      - 
-        districts: []
-        location: "POINT (33.0989199999999997 1.2608200000000001)"
-        name: Brezina
-        population: 19084
-        slug: brezina
-      - 
-        districts: []
-        location: "POINT (34.1128000000000000 2.1022799999999999)"
-        name: Aflou
-        population: 84683
-        slug: aflou
-    code: DZ.25
-    name: Laghouat
-    slug: laghouat
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.9311500000000024 0.0891800000000000)"
-        name: Mostaganem
-        population: 130000
-        slug: mostaganem
-      - 
-        districts: []
-        location: "POINT (34.8303399999999996 0.1517100000000000)"
-        name: Saïda
-        population: 127497
-        slug: saida
-      - 
-        districts: []
-        location: "POINT (35.5283200000000008 -0.1936900000000000)"
-        name: Sig
-        population: 58877
-        slug: sig
-      - 
-        districts: []
-        location: "POINT (35.4559500000000014 0.6877799999999999)"
-        name: "Oued el Abtal"
-        population: 22819
-        slug: oued-el-abtal
-      - 
-        districts: []
-        location: "POINT (35.3147299999999973 -0.0503700000000000)"
-        name: "Bou Hanifia el Hamamat"
-        population: 27576
-        slug: bou-hanifia-el-hamamat
-    code: DZ.26
-    name: Mascara
-    slug: mascara
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.8754100000000022 7.1135299999999999)"
-        name: "Oum el Bouaghi"
-        population: 100821
-        slug: oum-el-bouaghi
-      - 
-        districts: []
-        location: "POINT (35.6305800000000019 7.6660599999999999)"
-        name: Meskiana
-        population: 30071
-        slug: meskiana
-      - 
-        districts: []
-        location: "POINT (35.9247200000000007 6.6952800000000003)"
-        name: "Aïn Kercha"
-        population: 32497
-        slug: ain-kercha
-      - 
-        districts: []
-        location: "POINT (35.9710800000000006 6.8737399999999997)"
-        name: "Aïn Fakroun"
-        population: 68433
-        slug: ain-fakroun
-      - 
-        districts: []
-        location: "POINT (35.7963900000000024 7.3927800000000001)"
-        name: "Aïn Beïda"
-        population: 105765
-        slug: ain-beida
-    code: DZ.29
-    name: "Oum el Bouaghi"
-    slug: oum-el-bouaghi
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.1899400000000000 -0.6308500000000000)"
-        name: "Sidi Bel Abbès"
-        population: 191769
-        slug: sidi-bel-abbes
-      - 
-        districts: []
-        location: "POINT (35.2346399999999988 -0.2443500000000000)"
-        name: Sfizef
-        population: 31081
-        slug: sfizef
-      - 
-        districts: []
-        location: "POINT (35.3639500000000027 -0.5127800000000000)"
-        name: "’Aïn el Berd"
-        population: 16548
-        slug: ain-el-berd
-    code: DZ.30
-    name: "Sidi Bel Abbès"
-    slug: sidi-bel-abbes
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.8376299999999972 6.6401800000000000)"
-        name: Tamalous
-        population: 32579
-        slug: tamalous
-      - 
-        districts: []
-        location: "POINT (36.9291699999999992 6.5855600000000001)"
-        name: Kerkera
-        population: 46747
-        slug: kerkera
-      - 
-        districts: []
-        location: "POINT (36.8999999999999986 7.7666700000000004)"
-        name: Annaba
-        population: 206570
-        slug: annaba
-    code: DZ.31
-    name: Skikda
-    slug: skikda
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.8711100000000016 2.0280600000000000)"
-        name: "Theniet el Had"
-        population: 27687
-        slug: theniet-el-had
-      - 
-        districts: []
-        location: "POINT (36.1850299999999976 1.5329900000000001)"
-        name: "Oued Fodda"
-        population: 44523
-        slug: oued-fodda
-      - 
-        districts: []
-        location: "POINT (36.2610400000000013 2.2201499999999998)"
-        name: "Khemis Miliana"
-        population: 75865
-        slug: khemis-miliana
-      - 
-        districts: []
-        location: "POINT (36.2239300000000028 1.6718700000000000)"
-        name: "El Attaf"
-        population: 43837
-        slug: el-attaf
-      - 
-        districts: []
-        location: "POINT (36.2695099999999968 1.6860900000000001)"
-        name: "El Abadia"
-        population: 28724
-        slug: el-abadia
-    code: DZ.35
-    name: "Aïn Defla"
-    slug: ain-defla
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.3788899999999984 -0.9677800000000000)"
-        name: "Hammam Bou Hadjar"
-        population: 35896
-        slug: hammam-bou-hadjar
-      - 
-        districts: []
-        location: "POINT (35.3913799999999981 -1.0923799999999999)"
-        name: "El Malah"
-        population: 19415
-        slug: el-malah
-      - 
-        districts: []
-        location: "POINT (35.5243899999999968 -1.0157700000000001)"
-        name: "El Amria"
-        population: 26407
-        slug: el-amria
-      - 
-        districts: []
-        location: "POINT (35.2974900000000034 -1.1403700000000001)"
-        name: "’Aïn Temouchent"
-        population: 57354
-        slug: ain-temouchent
-    code: DZ.36
-    name: "Aïn Temouchent"
-    slug: ain-temouchent
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.1286800000000028 7.5337600000000000)"
-        name: Sedrata
-        population: 53318
-        slug: sedrata
-      - 
-        districts: []
-        location: "POINT (36.5036100000000019 7.4427800000000000)"
-        name: Héliopolis
-        population: 40139
-        slug: heliopolis
-      - 
-        districts: []
-        location: "POINT (35.4486199999999982 7.9518399999999998)"
-        name: Hammamet
-        population: 28536
-        slug: hammamet
-      - 
-        districts: []
-        location: "POINT (36.4621399999999980 7.4260799999999998)"
-        name: Guelma
-        population: 123590
-        slug: guelma
-      - 
-        districts: []
-        location: "POINT (36.8955600000000032 8.4433299999999996)"
-        name: "El Kala"
-        population: 35449
-        slug: el-kala
-      - 
-        districts: []
-        location: "POINT (36.8037700000000001 7.7368399999999999)"
-        name: "El Hadjar"
-        population: 46656
-        slug: el-hadjar
-      - 
-        districts: []
-        location: "POINT (35.8669099999999972 7.8867200000000004)"
-        name: "El Aouinet"
-        population: 32971
-        slug: el-aouinet
-      - 
-        districts: []
-        location: "POINT (36.6848200000000020 7.7511099999999997)"
-        name: Drean
-        population: 55147
-        slug: drean
-      - 
-        districts: []
-        location: "POINT (35.2730600000000010 7.7519400000000003)"
-        name: Cheria
-        population: 72095
-        slug: cheria
-      - 
-        districts: []
-        location: "POINT (36.4583299999999966 7.5138900000000000)"
-        name: "Boumahra Ahmed"
-        population: 23022
-        slug: boumahra-ahmed
-      - 
-        districts: []
-        location: "POINT (36.7022199999999970 7.8472200000000001)"
-        name: Besbes
-        population: 66287
-        slug: besbes
-      - 
-        districts: []
-        location: "POINT (36.8352799999999974 7.4533300000000002)"
-        name: Berrahal
-        population: 19294
-        slug: berrahal
-      - 
-        districts: []
-        location: "POINT (36.7696699999999979 7.9063999999999997)"
-        name: "Ben Mehidi"
-        population: 28398
-        slug: ben-mehidi
-    code: DZ.37
-    name: Annaba
-    slug: annaba
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.9440999999999988 5.0310699999999997)"
-        name: "Râs el Oued"
-        population: 56726
-        slug: ras-el-oued
-      - 
-        districts: []
-        location: "POINT (36.0872499999999974 4.4519200000000003)"
-        name: Mansourah
-        population: 22117
-        slug: mansourah
-      - 
-        districts: []
-        location: "POINT (36.0638599999999983 4.6274400000000000)"
-        name: "El Achir"
-        population: 158333
-        slug: el-achir
-      - 
-        districts: []
-        location: "POINT (36.2746199999999988 4.8566799999999999)"
-        name: "Bordj Zemoura"
-        population: 19782
-        slug: bordj-zemoura
-      - 
-        districts: []
-        location: "POINT (35.9011100000000027 4.8980600000000001)"
-        name: "Bordj Ghdir"
-        population: 34136
-        slug: bordj-ghdir
-    code: DZ.39
-    name: "Bordj Bou Arréridj"
-    slug: bordj-bou-arreridj
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.7663900000000012 3.4771700000000001)"
-        name: Boumerdas
-        population: 786499
-        slug: boumerdas
-      - 
-        districts: []
-        location: "POINT (36.7254399999999990 3.5566499999999999)"
-        name: Thenia
-        population: 16180
-        slug: thenia
-      - 
-        districts: []
-        location: "POINT (36.7358699999999985 3.3401800000000001)"
-        name: Reghaïa
-        population: 54962
-        slug: reghaia
-      - 
-        districts: []
-        location: "POINT (36.9171600000000026 3.9131100000000001)"
-        name: Dellys
-        population: 26384
-        slug: dellys
-      - 
-        districts: []
-        location: "POINT (36.7273500000000013 3.4099499999999998)"
-        name: Boudouaou
-        population: 45153
-        slug: boudouaou
-    code: DZ.40
-    name: Boumerdes
-    slug: boumerdes
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.4647199999999998 1.3025800000000001)"
-        name: "Sidi Akkacha"
-        population: 26558
-        slug: sidi-akkacha
-      - 
-        districts: []
-        location: "POINT (36.1012399999999971 1.1994899999999999)"
-        name: "Oued Sly"
-        population: 30504
-        slug: oued-sly
-      - 
-        districts: []
-        location: "POINT (36.1959099999999978 1.2553799999999999)"
-        name: "Ech Chettia"
-        population: 167955
-        slug: ech-chettia
-      - 
-        districts: []
-        location: "POINT (36.0662900000000022 1.1260200000000000)"
-        name: Boukadir
-        population: 26662
-        slug: boukadir
-      - 
-        districts: []
-        location: "POINT (36.1627700000000019 0.9703700000000000)"
-        name: "’Aïn Merane"
-        population: 34413
-        slug: ain-merane
-      - 
-        districts: []
-        location: "POINT (36.4165700000000001 1.1961599999999999)"
-        name: "Abou el Hassan"
-        population: 24022
-        slug: abou-el-hassan
-    code: DZ.41
-    name: Chlef
-    slug: chlef
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.5205600000000032 6.2611100000000004)"
-        name: "Sidi Mérouane"
-        population: 25129
-        slug: sidi-merouane
-      - 
-        districts: []
-        location: "POINT (36.4502799999999993 6.2644399999999996)"
-        name: Mila
-        population: 68831
-        slug: mila
-    code: DZ.48
-    name: Mila
-    slug: mila
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (33.1052699999999973 6.0579599999999996)"
-        name: Touggourt
-        population: 49044
-        slug: touggourt
-      - 
-        districts: []
-        location: "POINT (31.9242699999999999 5.3501799999999999)"
-        name: Rouissat
-        population: 80784
-        slug: rouissat
-      - 
-        districts: []
-        location: "POINT (31.9493200000000002 5.3250200000000003)"
-        name: Ouargla
-        population: 129402
-        slug: ouargla
-      - 
-        districts: []
-        location: "POINT (31.6804099999999984 6.0728600000000004)"
-        name: "Hassi Messaoud"
-        population: 53000
-        slug: hassi-messaoud
-      - 
-        districts: []
-        location: "POINT (32.6133600000000001 5.5125900000000003)"
-        name: "El Hadjira"
-        population: 39744
-        slug: el-hadjira
-    code: DZ.50
-    name: Ouargla
-    slug: ouargla
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (35.7225099999999998 0.7550900000000000)"
-        name: Zemoura
-        population: 21770
-        slug: zemoura
-      - 
-        districts: []
-        location: "POINT (35.9612399999999965 0.9189600000000000)"
-        name: "Oued Rhiou"
-        population: 59864
-        slug: oued-rhiou
-      - 
-        districts: []
-        location: "POINT (36.1223200000000020 0.8986499999999999)"
-        name: Mazouna
-        population: 22366
-        slug: mazouna
-      - 
-        districts: []
-        location: "POINT (35.9298900000000003 0.8287099999999999)"
-        name: Djidiouia
-        population: 31996
-        slug: djidiouia
-      - 
-        districts: []
-        location: "POINT (35.8678099999999986 1.1114299999999999)"
-        name: "Ammi Moussa"
-        population: 23001
-        slug: ammi-moussa
-      - 
-        districts: []
-        location: "POINT (35.7165200000000027 0.7543700000000000)"
-        name: Smala
-        population: 4000
-        slug: smala
-    code: DZ.51
-    name: Relizane
-    slug: relizane
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (36.5552800000000033 2.7902800000000001)"
+        alternate_names: ~
+        ascii_name: Zeralda
+        name: Zeralda
+        names_en: ~
+        names_es: ~
+        population: 17563
+      - 
+        alternate_names: 
+          - Tipasa
+          - Tipaza
+          - tybazt
+        ascii_name: Tipasa
+        name: Tipasa
+        names_en: 
+          - Tipasa
+        names_es: 
+          - Tipasa
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Saoula
+        name: Saoula
+        names_en: ~
+        names_es: ~
+        population: 16812
+      - 
+        alternate_names: 
+          - "Oued Alleug"
+          - "Oued el Alleng"
+          - "Oued el Alleug"
+        ascii_name: "Oued el Alleug"
         name: "Oued el Alleug"
+        names_en: ~
+        names_es: ~
         population: 21146
-        slug: oued-el-alleug
       - 
-        districts: []
-        location: "POINT (36.4669499999999971 2.6899099999999998)"
+        alternate_names: 
+          - Mouzaia
+          - Mouzaiaville
+          - Mouzaïa
+        ascii_name: Mouzaia
         name: Mouzaïa
+        names_en: ~
+        names_es: ~
         population: 32981
-        slug: mouzaia
       - 
-        districts: []
-        location: "POINT (36.6388800000000003 2.7684500000000001)"
+        alternate_names: 
+          - Kolea
+        ascii_name: Kolea
         name: Kolea
+        names_en: ~
+        names_es: ~
         population: 31816
-        slug: kolea
       - 
-        districts: []
-        location: "POINT (36.5125699999999966 2.4138199999999999)"
+        alternate_names: 
+          - Hadjout
+          - Marengo
+        ascii_name: Hadjout
         name: Hadjout
+        names_en: ~
+        names_es: ~
         population: 27549
-        slug: hadjout
       - 
-        districts: []
-        location: "POINT (36.6700000000000017 2.9444400000000002)"
+        alternate_names: 
+          - "El Affroun"
+          - "El Afroun"
+          - "El Alfroun"
+        ascii_name: "El Affroun"
+        name: "El Affroun"
+        names_en: ~
+        names_es: ~
+        population: 42627
+      - 
+        alternate_names: ~
+        ascii_name: Douera
         name: Douera
+        names_en: ~
+        names_es: ~
         population: 26926
-        slug: douera
       - 
-        districts: []
-        location: "POINT (36.6426200000000009 2.6900700000000000)"
+        alternate_names: 
+          - Cheraga
+          - Cheragas
+        ascii_name: Cheraga
+        name: Cheraga
+        names_en: ~
+        names_es: ~
+        population: 27835
+      - 
+        alternate_names: 
+          - "Bou Ismael"
+          - "Bou Ismail"
+          - "Bou Ismaël"
+        ascii_name: "Bou Ismail"
         name: "Bou Ismaïl"
+        names_en: ~
+        names_es: ~
         population: 22411
-        slug: bou-ismail
-    code: DZ.55
+      - 
+        alternate_names: ~
+        ascii_name: Baraki
+        name: Baraki
+        names_en: ~
+        names_es: ~
+        population: 105402
+      - 
+        alternate_names: 
+          - "'Ain Benian"
+          - "Ain Berrian"
+          - "Bou Ismail"
+        ascii_name: "'Ain Benian"
+        name: "’Aïn Benian"
+        names_en: ~
+        names_es: ~
+        population: 31102
     name: Tipaza
-    slug: tipaza
-tld: dz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Tindouf"
+    cities: 
+      - 
+        alternate_names: 
+          - "Provinsi Tindouf"
+          - Tindouf
+          - Tinduf
+        ascii_name: Tindouf
+        name: Tindouf
+        names_en: 
+          - Tindouf
+        names_es: 
+          - Tinduf
+        population: 0
+    name: Tindouf
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Tiaret"
+    cities: 
+      - 
+        alternate_names: 
+          - Tiaret
+          - Тиарет
+        ascii_name: Tiaret
+        name: Tiaret
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Nadhora
+          - Nador
+          - Sougueur
+        ascii_name: Sougueur
+        name: Sougueur
+        names_en: ~
+        names_es: ~
+        population: 68654
+      - 
+        alternate_names: 
+          - Burdeau
+          - Mahdia
+          - Makhdija
+        ascii_name: Mehdia
+        name: Mehdia
+        names_en: ~
+        names_es: ~
+        population: 39271
+      - 
+        alternate_names: 
+          - Chellala
+          - Chellala-Reibell
+          - "Ksar Chellala"
+        ascii_name: "Ksar Chellala"
+        name: "Ksar Chellala"
+        names_en: ~
+        names_es: ~
+        population: 58478
+      - 
+        alternate_names: ~
+        ascii_name: Frenda
+        name: Frenda
+        names_en: ~
+        names_es: ~
+        population: 63319
+      - 
+        alternate_names: 
+          - "'Ain Deheb"
+          - "El Ousseukh"
+          - "El Ousseukhr"
+        ascii_name: "'Ain Deheb"
+        name: "’Aïn Deheb"
+        names_en: ~
+        names_es: ~
+        population: 36146
+    name: Tiaret
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Tebessa"
+    cities: 
+      - 
+        alternate_names: 
+          - Tebessa
+          - Theveste
+          - Tibissa
+        ascii_name: Tebessa
+        name: Tébessa
+        names_en: 
+          - Tébessa
+        names_es: 
+          - Tébessa
+        population: 0
+    name: Tébessa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Tamanghasset"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fort Laperine"
+          - "Fort Laperrine"
+          - Tamahrasset
+        ascii_name: Tamanrasset
+        name: Tamanrasset
+        names_en: 
+          - Tamanghasset
+        names_es: ~
+        population: 73128
+      - 
+        alternate_names: 
+          - "Ain Salah"
+          - "Aïn Salah"
+          - I-n-Salah
+        ascii_name: I-n-Salah
+        name: I-n-Salah
+        names_en: ~
+        names_es: ~
+        population: 49223
+    name: Tamanghasset
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Souk Ahras"
+    cities: 
+      - 
+        alternate_names: 
+          - "Souk Ahras"
+          - Soukaras
+          - "Suk Aras"
+        ascii_name: "Souk Ahras"
+        name: "Souk Ahras"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Souk Ahras"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Skikda"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tamalous
+        name: Tamalous
+        names_en: ~
+        names_es: ~
+        population: 32579
+      - 
+        alternate_names: 
+          - Philippeville
+          - Phillippville
+          - Skikda
+        ascii_name: Skikda
+        name: Skikda
+        names_en: 
+          - Skikda
+        names_es: 
+          - Skikda
+        population: 162702
+      - 
+        alternate_names: 
+          - "El Achra"
+          - Kerkera
+        ascii_name: Kerkera
+        name: Kerkera
+        names_en: ~
+        names_es: ~
+        population: 46747
+      - 
+        alternate_names: 
+          - Azzaba
+          - Jemmapes
+        ascii_name: Azzaba
+        name: Azzaba
+        names_en: ~
+        names_es: ~
+        population: 75317
+    name: Skikda
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Sidi Bel Abbes"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sid Bel Abbes"
+          - "Sid Bel Abbès"
+          - "Sidi Bel Abbes"
+        ascii_name: "Sidi Bel Abbes"
+        name: "Sidi Bel Abbès"
+        names_en: 
+          - "Sidi Bel Abbes"
+        names_es: ~
+        population: 191769
+      - 
+        alternate_names: 
+          - Mercier-Lacombe
+          - Sfisef
+          - Sfissef
+        ascii_name: Sfizef
+        name: Sfizef
+        names_en: ~
+        names_es: ~
+        population: 31081
+      - 
+        alternate_names: 
+          - "'Ain el Berd"
+          - "Oued Imbert"
+          - "’Aïn el Berd"
+        ascii_name: "'Ain el Berd"
+        name: "’Aïn el Berd"
+        names_en: ~
+        names_es: ~
+        population: 16548
+    name: "Sidi Bel Abbès"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Setif"
+    cities: 
+      - 
+        alternate_names: 
+          - Satif
+          - Setif
+          - Sétif
+        ascii_name: Setif
+        name: Sétif
+        names_en: 
+          - Sétif
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzeira
+          - Pascal
+          - "Salah Bey"
+        ascii_name: "Salah Bey"
+        name: "Salah Bey"
+        names_en: ~
+        names_es: ~
+        population: 23339
+      - 
+        alternate_names: 
+          - "El Eulma"
+          - Saint-Arnaud
+        ascii_name: "El Eulma"
+        name: "El Eulma"
+        names_en: ~
+        names_es: ~
+        population: 128351
+      - 
+        alternate_names: 
+          - Bougaa
+          - Lafayette
+        ascii_name: Bougaa
+        name: Bougaa
+        names_en: ~
+        names_es: ~
+        population: 38597
+      - 
+        alternate_names: 
+          - "'Ain Arnat"
+          - "Aine Arnat"
+          - Arnat
+        ascii_name: "'Ain Arnat"
+        name: "’Aïn Arnat"
+        names_en: ~
+        names_es: ~
+        population: 35088
+      - 
+        alternate_names: ~
+        ascii_name: "BABOR - VILLE"
+        name: "BABOR - VILLE"
+        names_en: ~
+        names_es: ~
+        population: 33000
+    name: Sétif
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Saida"
+    cities: 
+      - 
+        alternate_names: 
+          - Saida
+          - Sajda
+          - Saïda
+        ascii_name: Saida
+        name: Saïda
+        names_en: ~
+        names_es: ~
+        population: 127497
+      - 
+        alternate_names: 
+          - "'Ain el Hadjar"
+          - "Aine el Hadjar"
+          - "Aïne el Hadjar"
+        ascii_name: "'Ain el Hadjar"
+        name: "’Aïn el Hadjar"
+        names_en: ~
+        names_es: ~
+        population: 12996
+    name: Saïda
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Relizane"
+    cities: 
+      - 
+        alternate_names: 
+          - Zemmora
+          - Zemoura
+        ascii_name: Zemoura
+        name: Zemoura
+        names_en: ~
+        names_es: ~
+        population: 21770
+      - 
+        alternate_names: 
+          - "Ighil Izane"
+          - "Prowincja Relizane"
+          - Relizan
+        ascii_name: Relizane
+        name: Relizane
+        names_en: 
+          - Relizane
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Inkermann
+          - "Oued Rhiou"
+          - "Oued Riou"
+        ascii_name: "Oued Rhiou"
+        name: "Oued Rhiou"
+        names_en: ~
+        names_es: ~
+        population: 59864
+      - 
+        alternate_names: ~
+        ascii_name: Mazouna
+        name: Mazouna
+        names_en: ~
+        names_es: ~
+        population: 22366
+      - 
+        alternate_names: 
+          - Djidioua
+          - Djidiouia
+          - Djidjiouia
+        ascii_name: Djidiouia
+        name: Djidiouia
+        names_en: ~
+        names_es: ~
+        population: 31996
+      - 
+        alternate_names: ~
+        ascii_name: "Ammi Moussa"
+        name: "Ammi Moussa"
+        names_en: ~
+        names_es: ~
+        population: 23001
+      - 
+        alternate_names: 
+          - "'Ain Merane"
+          - "Aine Merane"
+          - "Aïne Merane"
+        ascii_name: "'Ain Merane"
+        name: "’Aïn Merane"
+        names_en: ~
+        names_es: ~
+        population: 34413
+      - 
+        alternate_names: ~
+        ascii_name: Smala
+        name: Smala
+        names_en: ~
+        names_es: ~
+        population: 4000
+    name: Relizane
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' Oum el Bouaghi"
+    cities: 
+      - 
+        alternate_names: 
+          - Canrobert
+          - "Oum el Bouaghi"
+          - Oum-el-Bouachi
+        ascii_name: "Oum el Bouaghi"
+        name: "Oum el Bouaghi"
+        names_en: ~
+        names_es: ~
+        population: 100821
+      - 
+        alternate_names: 
+          - "La Meskiana"
+          - Meskiana
+        ascii_name: Meskiana
+        name: Meskiana
+        names_en: ~
+        names_es: ~
+        population: 30071
+      - 
+        alternate_names: 
+          - "Ain Kercha"
+          - "Ain Kercka"
+          - "Aine Kercha"
+        ascii_name: "Ain Kercha"
+        name: "Aïn Kercha"
+        names_en: ~
+        names_es: ~
+        population: 32497
+      - 
+        alternate_names: 
+          - "Ain Fakroun"
+          - "Aine Fakroun"
+          - "Aïn Fakroun"
+        ascii_name: "Ain Fakroun"
+        name: "Aïn Fakroun"
+        names_en: ~
+        names_es: ~
+        population: 68433
+      - 
+        alternate_names: 
+          - "Ain Beida"
+          - "Aine Beida"
+          - "Aïn Beïda"
+        ascii_name: "Ain Beida"
+        name: "Aïn Beïda"
+        names_en: ~
+        names_es: ~
+        population: 105765
+    name: "Oum el Bouaghi"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Ouargla"
+    cities: 
+      - 
+        alternate_names: 
+          - Touggourt
+          - Tougourt
+          - Tuggurt
+        ascii_name: Touggourt
+        name: Touggourt
+        names_en: ~
+        names_es: ~
+        population: 49044
+      - 
+        alternate_names: ~
+        ascii_name: Tebesbest
+        name: Tebesbest
+        names_en: ~
+        names_es: ~
+        population: 41091
+      - 
+        alternate_names: ~
+        ascii_name: "Sidi Amrane"
+        name: "Sidi Amrane"
+        names_en: ~
+        names_es: ~
+        population: 29734
+      - 
+        alternate_names: ~
+        ascii_name: Rouissat
+        name: Rouissat
+        names_en: ~
+        names_es: ~
+        population: 80784
+      - 
+        alternate_names: 
+          - Ouargla
+          - Quargla
+          - Warkala
+        ascii_name: Ouargla
+        name: Ouargla
+        names_en: 
+          - Ouargla
+        names_es: ~
+        population: 129402
+      - 
+        alternate_names: 
+          - Megarine
+          - Meggarine
+        ascii_name: Megarine
+        name: Megarine
+        names_en: ~
+        names_es: ~
+        population: 31711
+      - 
+        alternate_names: 
+          - "Hassi Messaoud"
+          - Khassi-Messaud
+          - Хасси-Мессауд
+        ascii_name: "Hassi Messaoud"
+        name: "Hassi Messaoud"
+        names_en: ~
+        names_es: ~
+        population: 53000
+      - 
+        alternate_names: ~
+        ascii_name: "El Hadjira"
+        name: "El Hadjira"
+        names_en: ~
+        names_es: ~
+        population: 39744
+      - 
+        alternate_names: 
+          - Djama
+          - Djamaa
+          - Djemaa
+        ascii_name: Djamaa
+        name: Djamaa
+        names_en: ~
+        names_es: ~
+        population: 52882
+    name: Ouargla
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' Oran"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sidi Chami"
+          - "Sidi Chamy"
+          - "Sidi ech Chahmi"
+        ascii_name: "Sidi ech Chahmi"
+        name: "Sidi ech Chahmi"
+        names_en: ~
+        names_es: ~
+        population: 35512
+      - 
+        alternate_names: 
+          - Ora
+          - Oran
+          - Orà
+        ascii_name: Oran
+        name: Oran
+        names_en: 
+          - Oran
+        names_es: 
+          - Orán
+        population: 645984
+      - 
+        alternate_names: 
+          - "Mers el Kabir"
+          - "Mers el Kebir"
+          - Mers-ehl'-Kebir
+        ascii_name: "Mers el Kebir"
+        name: "Mers el Kebir"
+        names_en: ~
+        names_es: ~
+        population: 20178
+      - 
+        alternate_names: 
+          - "Es Senia"
+          - "La Senia"
+          - "La Sénia"
+        ascii_name: "Es Senia"
+        name: "Es Senia"
+        names_en: ~
+        names_es: ~
+        population: 68084
+      - 
+        alternate_names: ~
+        ascii_name: "Bou Tlelis"
+        name: "Bou Tlelis"
+        names_en: ~
+        names_es: ~
+        population: 26144
+      - 
+        alternate_names: 
+          - Arcole
+          - "Bir el Djir"
+        ascii_name: "Bir el Djir"
+        name: "Bir el Djir"
+        names_en: ~
+        names_es: ~
+        population: 68032
+      - 
+        alternate_names: 
+          - "'Ain el Turk"
+          - Ain-et-Turk
+          - "Aine et Turk"
+        ascii_name: "'Ain el Turk"
+        name: "’Aïn el Turk"
+        names_en: ~
+        names_es: ~
+        population: 45323
+      - 
+        alternate_names: 
+          - "'Ain el Bia"
+          - "Ain el Bya"
+          - "Aïn el Bya"
+        ascii_name: "Ain el Bya"
+        name: "Aïn el Bya"
+        names_en: ~
+        names_es: ~
+        population: 37241
+    name: Oran
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Naama"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Naama
+        name: Naama
+        names_en: ~
+        names_es: ~
+        population: 8390
+      - 
+        alternate_names: 
+          - "Ain Sefra"
+          - "Aine Sefra"
+          - "Aïn Sefra"
+        ascii_name: "Ain Sefra"
+        name: "Aïn Sefra"
+        names_en: ~
+        names_es: ~
+        population: 63420
+    name: "Naama النعامة"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de M'Sila"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sid Aissa"
+          - "Sid Aïssa"
+          - "Sidi Aissa"
+        ascii_name: "Sidi Aissa"
+        name: "Sidi Aïssa"
+        names_en: ~
+        names_es: ~
+        population: 69740
+      - 
+        alternate_names: 
+          - M'Sila
+          - M’Sila
+        ascii_name: M'Sila
+        name: M’Sila
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "'Ain el Melh"
+          - "Ain Melah"
+          - "Ain Melh"
+        ascii_name: "'Ain el Melh"
+        name: "’Aïn el Melh"
+        names_en: ~
+        names_es: ~
+        population: 39798
+      - 
+        alternate_names: 
+          - "Ain el Hadjel"
+          - "Aine el Hadjel"
+          - "Aïne el Hadjel"
+        ascii_name: "`Ain el Hadjel"
+        name: "‘Aïn el Hadjel"
+        names_en: 
+          - "Ain el Hadjel"
+        names_es: ~
+        population: 42527
+    name: Mʼsila
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Mostaganem"
+    cities: 
+      - 
+        alternate_names: 
+          - Mastaganeam
+          - Mostaganem
+          - Mustaghanam
+        ascii_name: Mostaganem
+        name: Mostaganem
+        names_en: 
+          - Mostaganem
+        names_es: 
+          - Mostaganem
+        population: 130000
+    name: Mostaganem
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Mila"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sidi Merouan"
+          - "Sidi Merouane"
+          - "Sidi Mérouane"
+        ascii_name: "Sidi Merouane"
+        name: "Sidi Mérouane"
+        names_en: ~
+        names_es: ~
+        population: 25129
+      - 
+        alternate_names: ~
+        ascii_name: Mila
+        name: Mila
+        names_en: ~
+        names_es: ~
+        population: 68831
+    name: Mila
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Medea"
+    cities: 
+      - 
+        alternate_names: 
+          - Lambdia
+          - Medea
+          - Medeah
+        ascii_name: Medea
+        name: Médéa
+        names_en: ~
+        names_es: ~
+        population: 147707
+      - 
+        alternate_names: 
+          - Boghari
+          - Borhari
+          - "Ksar el Boukhari"
+        ascii_name: "Ksar el Boukhari"
+        name: "Ksar el Boukhari"
+        names_en: ~
+        names_es: ~
+        population: 77166
+      - 
+        alternate_names: 
+          - Berrouaghia
+          - Berrouarhia
+        ascii_name: Berrouaghia
+        name: Berrouaghia
+        names_en: ~
+        names_es: ~
+        population: 80573
+      - 
+        alternate_names: 
+          - "'Ain Boucif"
+          - "Aine Boucif"
+          - "Aïne Boucif"
+        ascii_name: "'Ain Boucif"
+        name: "’Aïn Boucif"
+        names_en: ~
+        names_es: ~
+        population: 11989
+    name: Médéa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Mascara"
+    cities: 
+      - 
+        alternate_names: 
+          - Saint-Denis-du-Sig
+          - Sig
+        ascii_name: Sig
+        name: Sig
+        names_en: ~
+        names_es: ~
+        population: 58877
+      - 
+        alternate_names: 
+          - "Oued el Abtal"
+          - Torki-le-Djuk
+          - Uzes-le-Duc
+        ascii_name: "Oued el Abtal"
+        name: "Oued el Abtal"
+        names_en: ~
+        names_es: ~
+        population: 22819
+      - 
+        alternate_names: 
+          - Mascara
+          - Maskara
+        ascii_name: Mascara
+        name: Mascara
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bou Hanifia"
+          - "Bou Hanifia el Hamamat"
+          - "Bou Hanifia el Hammamet"
+        ascii_name: "Bou Hanifia el Hamamat"
+        name: "Bou Hanifia el Hamamat"
+        names_en: ~
+        names_es: ~
+        population: 27576
+    name: Mascara
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Laghouat"
+    cities: 
+      - 
+        alternate_names: 
+          - Laghouat
+          - Laguat
+          - Larhouat
+        ascii_name: Laghouat
+        name: Laghouat
+        names_en: 
+          - Laghouat
+        names_es: ~
+        population: 113872
+      - 
+        alternate_names: 
+          - Aflou
+          - Aflu
+        ascii_name: Aflou
+        name: Aflou
+        names_en: 
+          - Aflou
+        names_es: ~
+        population: 84683
+    name: Laghouat
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Khenchela"
+    cities: 
+      - 
+        alternate_names: 
+          - Khenchela
+          - Krenchela
+        ascii_name: Khenchela
+        name: Khenchela
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Khenchela
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Jijel"
+    cities: []
+    name: Jijel
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' Illizi"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fort Polignac"
+          - "Fort de Polignac"
+          - Illizi
+        ascii_name: Illizi
+        name: Illizi
+        names_en: ~
+        names_es: ~
+        population: 6629
+    name: Illizi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Guelma"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Heliopolis
+        name: Héliopolis
+        names_en: ~
+        names_es: ~
+        population: 40139
+      - 
+        alternate_names: 
+          - Guelma
+          - qalmt
+          - قالمة
+        ascii_name: Guelma
+        name: Guelma
+        names_en: 
+          - Guelma
+        names_es: 
+          - Guelma
+        population: 123590
+      - 
+        alternate_names: 
+          - "Boumahra Ahmed"
+          - Petit
+        ascii_name: "Boumahra Ahmed"
+        name: "Boumahra Ahmed"
+        names_en: ~
+        names_es: ~
+        population: 23022
+    name: Guelma
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Ghardaia"
+    cities: 
+      - 
+        alternate_names: 
+          - Metlili
+          - "Metlili Chaamba"
+          - "Metlili-les Chaamba"
+        ascii_name: "Metlili Chaamba"
+        name: "Metlili Chaamba"
+        names_en: ~
+        names_es: ~
+        population: 50117
+      - 
+        alternate_names: 
+          - Berrian
+          - Berriane
+        ascii_name: Berriane
+        name: Berriane
+        names_en: ~
+        names_es: ~
+        population: 44580
+    name: Ghardaïa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' El Tarf"
+    cities: 
+      - 
+        alternate_names: 
+          - "El Tarf"
+          - "Le Tarf"
+        ascii_name: "El Tarf"
+        name: "El Tarf"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "El Tarf"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' El Oued"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Robbah
+        name: Robbah
+        names_en: ~
+        names_es: ~
+        population: 30446
+      - 
+        alternate_names: ~
+        ascii_name: Reguiba
+        name: Reguiba
+        names_en: ~
+        names_es: ~
+        population: 62185
+      - 
+        alternate_names: 
+          - "El Oued"
+          - "El Qued"
+        ascii_name: "El Oued"
+        name: "El Oued"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Debila
+        name: Debila
+        names_en: ~
+        names_es: ~
+        population: 36834
+    name: "El Oued"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' El Bayadh"
+    cities: 
+      - 
+        alternate_names: 
+          - "El Bayadh"
+          - El-Bayadh
+          - Geryville
+        ascii_name: "El Bayadh"
+        name: "El Bayadh"
+        names_en: 
+          - "El Bayadh"
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "El Abiod Sidi Cheikh"
+          - "El Abiod Sidi Cheiki"
+          - "El Abiod Sidi Cheikr"
+        ascii_name: "El Abiodh Sidi Cheikh"
+        name: "El Abiodh Sidi Cheikh"
+        names_en: ~
+        names_es: ~
+        population: 39283
+      - 
+        alternate_names: 
+          - Brexina
+          - Brezina
+        ascii_name: Brezina
+        name: Brezina
+        names_en: ~
+        names_es: ~
+        population: 19084
+    name: "El Bayadh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Djelfa"
+    cities: 
+      - 
+        alternate_names: 
+          - Messaad
+          - Messad
+          - Мессад
+        ascii_name: Messaad
+        name: Messaad
+        names_en: ~
+        names_es: ~
+        population: 99485
+      - 
+        alternate_names: 
+          - "El Idrissia"
+          - Zenina
+        ascii_name: "El Idrissia"
+        name: "El Idrissia"
+        names_en: ~
+        names_es: ~
+        population: 38714
+      - 
+        alternate_names: 
+          - Djelfa
+          - Dzilfa
+          - Dżilfa
+        ascii_name: Djelfa
+        name: Djelfa
+        names_en: 
+          - Djelfa
+        names_es: 
+          - Djelfa
+        population: 0
+      - 
+        alternate_names: 
+          - "Dar Chioukh"
+          - "Diar el Chioukh"
+        ascii_name: "Dar Chioukh"
+        name: "Dar Chioukh"
+        names_en: ~
+        names_es: ~
+        population: 54022
+      - 
+        alternate_names: 
+          - Charef
+          - Charet
+        ascii_name: Charef
+        name: Charef
+        names_en: ~
+        names_es: ~
+        population: 27700
+      - 
+        alternate_names: 
+          - Birin
+          - Birine
+        ascii_name: Birine
+        name: Birine
+        names_en: ~
+        names_es: ~
+        population: 51209
+      - 
+        alternate_names: 
+          - "Ain Oussera"
+          - "Aïn Oussera"
+          - "El Oussera"
+        ascii_name: "Ain Oussera"
+        name: "Aïn Oussera"
+        names_en: ~
+        names_es: ~
+        population: 118687
+      - 
+        alternate_names: 
+          - "'Ain el Bell"
+          - "Ain el Ibel"
+          - Ajn-ehl'-Bella
+        ascii_name: "'Ain el Bell"
+        name: "’Aïn el Bell"
+        names_en: ~
+        names_es: ~
+        population: 31916
+    name: Djelfa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Constantine"
+    cities: 
+      - 
+        alternate_names: 
+          - Telerghma
+          - Telergma
+        ascii_name: Telerghma
+        name: Telerghma
+        names_en: ~
+        names_es: ~
+        population: 51708
+      - 
+        alternate_names: ~
+        ascii_name: Rouached
+        name: Rouached
+        names_en: ~
+        names_es: ~
+        population: 40263
+      - 
+        alternate_names: 
+          - Hamma
+          - "Hamma Bouniane"
+          - "Hamma Bouziane"
+        ascii_name: "Hamma Bouziane"
+        name: "Hamma Bouziane"
+        names_en: ~
+        names_es: ~
+        population: 63012
+      - 
+        alternate_names: 
+          - "El Khroub"
+          - El-Kroub
+          - Kroubs
+        ascii_name: "El Khroub"
+        name: "El Khroub"
+        names_en: ~
+        names_es: ~
+        population: 83746
+      - 
+        alternate_names: 
+          - Bizot
+          - "Didouche Mourad"
+        ascii_name: "Didouche Mourad"
+        name: "Didouche Mourad"
+        names_en: ~
+        names_es: ~
+        population: 25764
+      - 
+        alternate_names: ~
+        ascii_name: Constantine
+        name: Constantine
+        names_en: ~
+        names_es: ~
+        population: 450097
+      - 
+        alternate_names: 
+          - Chateaudun
+          - "Chateaudun de Rhumel"
+          - "Chateaudun-du Rummel"
+        ascii_name: "Chelghoum el Aid"
+        name: "Chelghoum el Aïd"
+        names_en: ~
+        names_es: ~
+        population: 71660
+      - 
+        alternate_names: 
+          - "Ain Smara"
+          - "Aine Smara"
+          - "Aïn Smara"
+        ascii_name: "Ain Smara"
+        name: "Aïn Smara"
+        names_en: ~
+        names_es: ~
+        population: 28968
+      - 
+        alternate_names: 
+          - "'Ain Abid"
+          - "Aine Abid"
+          - "Aïne Abid"
+        ascii_name: "'Ain Abid"
+        name: "’Aïn Abid"
+        names_en: ~
+        names_es: ~
+        population: 29486
+    name: Constantine
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Chlef"
+    cities: 
+      - 
+        alternate_names: 
+          - Montenotte
+          - "Sidi Akacha"
+          - "Sidi Akkacha"
+        ascii_name: "Sidi Akkacha"
+        name: "Sidi Akkacha"
+        names_en: ~
+        names_es: ~
+        population: 26558
+      - 
+        alternate_names: 
+          - Malakoff
+          - Malakoft
+          - "Oued Sli"
+        ascii_name: "Oued Sly"
+        name: "Oued Sly"
+        names_en: ~
+        names_es: ~
+        population: 30504
+      - 
+        alternate_names: ~
+        ascii_name: "Oued Fodda"
+        name: "Oued Fodda"
+        names_en: ~
+        names_es: ~
+        population: 44523
+      - 
+        alternate_names: 
+          - Chlef
+          - "Ech Chlef"
+          - "El Asnam"
+        ascii_name: Chlef
+        name: Chlef
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Ech Chetia"
+          - "Ech Chettia"
+          - "Ech Chettiâ"
+        ascii_name: "Ech Chettia"
+        name: "Ech Chettia"
+        names_en: ~
+        names_es: ~
+        population: 167955
+      - 
+        alternate_names: 
+          - "Bou Kadir"
+          - Boukadir
+          - Bu-Kadir
+        ascii_name: Boukadir
+        name: Boukadir
+        names_en: ~
+        names_es: ~
+        population: 26662
+      - 
+        alternate_names: 
+          - "Abou el Hassan"
+          - "Abou el Hassen"
+          - "Beni Madoun"
+        ascii_name: "Abou el Hassan"
+        name: "Abou el Hassan"
+        names_en: ~
+        names_es: ~
+        population: 24022
+    name: Chlef
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Boumerdes"
+    cities: 
+      - 
+        alternate_names: 
+          - Bou-Merdes
+          - Boumerdas
+          - Bumerdes
+        ascii_name: Boumerdas
+        name: Boumerdas
+        names_en: ~
+        names_es: ~
+        population: 786499
+      - 
+        alternate_names: 
+          - "Tizi Ghenif"
+          - "Tizi Gheniff"
+          - "Tizi R'Nif"
+        ascii_name: "Tizi Gheniff"
+        name: "Tizi Gheniff"
+        names_en: ~
+        names_es: ~
+        population: 27974
+      - 
+        alternate_names: 
+          - Menerville
+          - Ménerville
+          - Thenia
+        ascii_name: Thenia
+        name: Thenia
+        names_en: ~
+        names_es: ~
+        population: 16180
+      - 
+        alternate_names: 
+          - "Camp du Marechal"
+          - "Camp du Maréchal"
+          - Tadmait
+        ascii_name: Tadmait
+        name: Tadmaït
+        names_en: ~
+        names_es: ~
+        population: 20952
+      - 
+        alternate_names: 
+          - "La Reghaia"
+          - "La Reghaïa"
+          - "La Reghia-Alma"
+        ascii_name: Reghaia
+        name: Reghaïa
+        names_en: ~
+        names_es: ~
+        population: 54962
+      - 
+        alternate_names: 
+          - "Ouled Moussa"
+          - "Saint Pierre"
+          - Saint-Pierre-Saint-Paul
+        ascii_name: "Ouled Moussa"
+        name: "Ouled Moussa"
+        names_en: ~
+        names_es: ~
+        population: 13474
+      - 
+        alternate_names: 
+          - "Azib Zamoun"
+          - Haussonviller
+          - Haussonvillers
+        ascii_name: Naciria
+        name: Naciria
+        names_en: ~
+        names_es: ~
+        population: 15387
+      - 
+        alternate_names: 
+          - Macouda
+          - Makouda
+        ascii_name: Makouda
+        name: Makouda
+        names_en: ~
+        names_es: ~
+        population: 34515
+      - 
+        alternate_names: 
+          - Fondouk
+          - "Khemis El Khechma"
+          - "Khemis el Khechna"
+        ascii_name: "Khemis el Khechna"
+        name: "Khemis el Khechna"
+        names_en: ~
+        names_es: ~
+        population: 49757
+      - 
+        alternate_names: 
+          - Isser
+          - Isserville
+        ascii_name: Isser
+        name: Isser
+        names_en: ~
+        names_es: ~
+        population: 17953
+      - 
+        alternate_names: 
+          - "Dra Ben Khedda"
+          - "Draa Ben Kheda"
+          - "Draa Ben Khedda"
+        ascii_name: "Draa Ben Khedda"
+        name: "Draa Ben Khedda"
+        names_en: ~
+        names_es: ~
+        population: 37443
+      - 
+        alternate_names: 
+          - Delis
+          - Dellys
+        ascii_name: Dellys
+        name: Dellys
+        names_en: ~
+        names_es: ~
+        population: 26384
+      - 
+        alternate_names: 
+          - "Chabet -el -Ameuro"
+          - "Chabet el Ameur"
+        ascii_name: "Chabet el Ameur"
+        name: "Chabet el Ameur"
+        names_en: ~
+        names_es: ~
+        population: 19522
+      - 
+        alternate_names: 
+          - Alma
+          - Boudouaou
+          - L'Alma
+        ascii_name: Boudouaou
+        name: Boudouaou
+        names_en: ~
+        names_es: ~
+        population: 45153
+      - 
+        alternate_names: 
+          - "Beni Amran"
+          - "Beni Amrane"
+        ascii_name: "Beni Amrane"
+        name: "Beni Amrane"
+        names_en: ~
+        names_es: ~
+        population: 18414
+      - 
+        alternate_names: 
+          - Arbatach
+          - Arbatache
+          - L'Arbatach
+        ascii_name: Arbatache
+        name: Arbatache
+        names_en: ~
+        names_es: ~
+        population: 17481
+    name: Boumerdes
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Bouira"
+    cities: 
+      - 
+        alternate_names: 
+          - Aumale
+          - Aumale-d'Algerie
+          - Aumale-d’Algérie
+        ascii_name: "Sour el Ghozlane"
+        name: "Sour el Ghozlane"
+        names_en: ~
+        names_es: ~
+        population: 50204
+      - 
+        alternate_names: 
+          - Lakhdaria
+          - Palestro
+        ascii_name: Lakhdaria
+        name: Lakhdaria
+        names_en: ~
+        names_es: ~
+        population: 56719
+      - 
+        alternate_names: 
+          - "Dra el Mizan"
+          - "Dra el Mizane"
+          - Dra-ehl'-Mizan
+        ascii_name: "Draa el Mizan"
+        name: "Draa el Mizan"
+        names_en: ~
+        names_es: ~
+        population: 41263
+      - 
+        alternate_names: 
+          - Cheurfa
+          - Chorfa
+          - Чорфа
+        ascii_name: Chorfa
+        name: Chorfa
+        names_en: ~
+        names_es: ~
+        population: 20556
+      - 
+        alternate_names: ~
+        ascii_name: Bouira
+        name: Bouira
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Ain Bessem"
+        name: "Aïn Bessem"
+        names_en: ~
+        names_es: ~
+        population: 29461
+    name: Bouira
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Bordj Bou Arreridj"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ras el Oued"
+          - Ras-ehl'-Uehd
+          - "Rass el Oued"
+        ascii_name: "Ras el Oued"
+        name: "Râs el Oued"
+        names_en: ~
+        names_es: ~
+        population: 56726
+      - 
+        alternate_names: 
+          - Melouda
+          - Melouza
+          - "Ouan Ougha"
+        ascii_name: Melouza
+        name: Melouza
+        names_en: ~
+        names_es: ~
+        population: 25701
+      - 
+        alternate_names: 
+          - Mansoura
+          - Mansourah
+          - Mansur
+        ascii_name: Mansourah
+        name: Mansourah
+        names_en: ~
+        names_es: ~
+        population: 22117
+      - 
+        alternate_names: ~
+        ascii_name: "El Achir"
+        name: "El Achir"
+        names_en: ~
+        names_es: ~
+        population: 158333
+      - 
+        alternate_names: 
+          - "Bordj Zemoura"
+          - Zemmoura
+          - Zemmours
+        ascii_name: "Bordj Zemoura"
+        name: "Bordj Zemoura"
+        names_en: ~
+        names_es: ~
+        population: 19782
+      - 
+        alternate_names: 
+          - "Bordj Ghdir"
+          - "Bordj R'dir"
+          - "Bordj Redir"
+        ascii_name: "Bordj Ghdir"
+        name: "Bordj Ghdir"
+        names_en: ~
+        names_es: ~
+        population: 34136
+      - 
+        alternate_names: 
+          - "Bordj Bou Arerridj"
+          - "Bordj Bou Arreridj"
+          - Bordj-Bou-Arreridj
+        ascii_name: "Bordj Bou Arreridj"
+        name: "Bordj Bou Arreridj"
+        names_en: 
+          - "Bordj Bou Arreridj"
+        names_es: ~
+        population: 0
+    name: "Bordj Bou Arréridj"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Blida"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Souma
+        name: Souma
+        names_en: ~
+        names_es: ~
+        population: 40745
+      - 
+        alternate_names: ~
+        ascii_name: "Sidi Moussa"
+        name: "Sidi Moussa"
+        names_en: ~
+        names_es: ~
+        population: 57928
+      - 
+        alternate_names: 
+          - Meftah
+          - Meftakh
+          - Rivet
+        ascii_name: Meftah
+        name: Meftah
+        names_en: ~
+        names_es: ~
+        population: 59990
+      - 
+        alternate_names: 
+          - Arba
+          - El-Arba
+          - L'Arba
+        ascii_name: L'Arba
+        name: L’Arba
+        names_en: ~
+        names_es: ~
+        population: 69298
+      - 
+        alternate_names: 
+          - Chiffa
+          - "La Chiffa"
+        ascii_name: Chiffa
+        name: Chiffa
+        names_en: ~
+        names_es: ~
+        population: 23218
+      - 
+        alternate_names: ~
+        ascii_name: Chebli
+        name: Chebli
+        names_en: ~
+        names_es: ~
+        population: 19901
+      - 
+        alternate_names: 
+          - Bouinan
+          - Bouinane
+          - Bouïnane
+        ascii_name: Bouinan
+        name: Bouinan
+        names_en: ~
+        names_es: ~
+        population: 30271
+      - 
+        alternate_names: 
+          - Bougara
+          - Bouguera
+          - Bouguerra
+        ascii_name: Bougara
+        name: Bougara
+        names_en: ~
+        names_es: ~
+        population: 63155
+      - 
+        alternate_names: 
+          - Boufarik
+        ascii_name: Boufarik
+        name: Boufarik
+        names_en: ~
+        names_es: ~
+        population: 59742
+      - 
+        alternate_names: ~
+        ascii_name: "Bou Arfa"
+        name: "Boû Arfa"
+        names_en: ~
+        names_es: ~
+        population: 44143
+      - 
+        alternate_names: 
+          - Al-Bulaydah
+          - Blida
+          - Dilida
+        ascii_name: Blida
+        name: Blida
+        names_en: 
+          - Blida
+        names_es: 
+          - Blida
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: "Beni Mered"
+        name: "Beni Mered"
+        names_en: ~
+        names_es: ~
+        population: 92749
+    name: Blida
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Biskra"
+    cities: 
+      - 
+        alternate_names: 
+          - "Zeribet el Oued"
+          - "Zribet el Oued"
+        ascii_name: "Zeribet el Oued"
+        name: "Zeribet el Oued"
+        names_en: ~
+        names_es: ~
+        population: 23187
+      - 
+        alternate_names: 
+          - Tolga
+          - Толга
+        ascii_name: Tolga
+        name: Tolga
+        names_en: ~
+        names_es: ~
+        population: 68246
+      - 
+        alternate_names: ~
+        ascii_name: "Sidi Okba"
+        name: "Sidi Okba"
+        names_en: ~
+        names_es: ~
+        population: 34985
+      - 
+        alternate_names: 
+          - "Sidi Khaled"
+          - "Sidi Kraled"
+        ascii_name: "Sidi Khaled"
+        name: "Sidi Khaled"
+        names_en: ~
+        names_es: ~
+        population: 64476
+      - 
+        alternate_names: 
+          - Oumach
+          - Oumache
+          - Umash
+        ascii_name: Oumache
+        name: Oumache
+        names_en: ~
+        names_es: ~
+        population: 10424
+      - 
+        alternate_names: 
+          - Biskra
+          - Briskra
+          - bskrh
+        ascii_name: Biskra
+        name: Biskra
+        names_en: 
+          - Biskra
+        names_es: 
+          - Biskra
+        population: 0
+    name: Biskra
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Bejaia"
+    cities: 
+      - 
+        alternate_names: 
+          - "El Maten"
+          - "Il Maten"
+          - "Il Matene"
+        ascii_name: "el hed"
+        name: "el hed"
+        names_en: ~
+        names_es: ~
+        population: 31890
+      - 
+        alternate_names: ~
+        ascii_name: Seddouk
+        name: Seddouk
+        names_en: ~
+        names_es: ~
+        population: 19884
+      - 
+        alternate_names: ~
+        ascii_name: Feraoun
+        name: Feraoun
+        names_en: ~
+        names_es: ~
+        population: 21700
+      - 
+        alternate_names: ~
+        ascii_name: "El Kseur"
+        name: "El Kseur"
+        names_en: ~
+        names_es: ~
+        population: 26050
+      - 
+        alternate_names: 
+          - Bedzaja
+          - Bejaia
+          - Bejaïa
+        ascii_name: Bejaia
+        name: Bejaïa
+        names_en: 
+          - Béjaïa
+        names_es: 
+          - Bugía
+        population: 164103
+      - 
+        alternate_names: 
+          - Barbacha
+          - "Souk et Tleta"
+          - "Souk et Tléta"
+        ascii_name: Barbacha
+        name: Barbacha
+        names_en: ~
+        names_es: ~
+        population: 31983
+      - 
+        alternate_names: 
+          - Amizour
+          - Colmar
+          - "Oued Amizour"
+        ascii_name: Amizour
+        name: Amizour
+        names_en: ~
+        names_es: ~
+        population: 25825
+      - 
+        alternate_names: 
+          - Akbou
+          - Metz
+        ascii_name: Akbou
+        name: Akbou
+        names_en: ~
+        names_es: ~
+        population: 66654
+    name: Bejaïa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Bechar"
+    cities: 
+      - 
+        alternate_names: 
+          - Bechar
+          - Beshare
+          - Béchar
+        ascii_name: Bechar
+        name: Béchar
+        names_en: 
+          - Béchar
+        names_es: 
+          - Béchar
+        population: 143382
+    name: Béchar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Batna"
+    cities: 
+      - 
+        alternate_names: 
+          - Lambese
+          - Lambèse
+          - Tazoult
+        ascii_name: Tazoult-Lambese
+        name: Tazoult-Lambese
+        names_en: ~
+        names_es: ~
+        population: 41636
+      - 
+        alternate_names: 
+          - "Ras el Aioun"
+          - "Ras el Ayoun"
+          - "Rass el Aioun"
+        ascii_name: "Ras el Aioun"
+        name: "Râs el Aïoun"
+        names_en: ~
+        names_es: ~
+        population: 34167
+      - 
+        alternate_names: 
+          - Corneille
+          - Merouana
+        ascii_name: Merouana
+        name: Merouana
+        names_en: ~
+        names_es: ~
+        population: 47646
+      - 
+        alternate_names: 
+          - Batna
+          - "Batna City"
+          - "Wilaya de Batna"
+        ascii_name: Batna
+        name: Batna
+        names_en: 
+          - "Batna City"
+        names_es: 
+          - Batna
+        population: 280798
+      - 
+        alternate_names: 
+          - Barika
+          - Барика
+        ascii_name: Barika
+        name: Barika
+        names_en: ~
+        names_es: ~
+        population: 98846
+      - 
+        alternate_names: ~
+        ascii_name: Arris
+        name: Arris
+        names_en: ~
+        names_es: ~
+        population: 36641
+      - 
+        alternate_names: 
+          - "Ain Touta"
+          - "Aïn Touta"
+          - "Mac Mahon"
+        ascii_name: "Ain Touta"
+        name: "Aïn Touta"
+        names_en: ~
+        names_es: ~
+        population: 72280
+    name: Batna
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' Annaba"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Sedrata
+        name: Sedrata
+        names_en: ~
+        names_es: ~
+        population: 53318
+      - 
+        alternate_names: 
+          - Gidjel
+          - Hammamet
+          - Khammamet
+        ascii_name: Hammamet
+        name: Hammamet
+        names_en: ~
+        names_es: ~
+        population: 28536
+      - 
+        alternate_names: 
+          - Ehl'-Kaly
+          - "El Kala"
+          - "La Calle"
+        ascii_name: "El Kala"
+        name: "El Kala"
+        names_en: ~
+        names_es: ~
+        population: 35449
+      - 
+        alternate_names: 
+          - Duzerville
+          - "El Hadjar"
+        ascii_name: "El Hadjar"
+        name: "El Hadjar"
+        names_en: ~
+        names_es: ~
+        population: 46656
+      - 
+        alternate_names: 
+          - Aouinet-ed-Dieb
+          - Aouinet-el-Dieb
+          - Aouïnet-ed-Dieb
+        ascii_name: "El Aouinet"
+        name: "El Aouinet"
+        names_en: ~
+        names_es: ~
+        population: 32971
+      - 
+        alternate_names: 
+          - Drean
+          - Mondovi
+        ascii_name: Drean
+        name: Drean
+        names_en: ~
+        names_es: ~
+        population: 55147
+      - 
+        alternate_names: ~
+        ascii_name: Cheria
+        name: Cheria
+        names_en: ~
+        names_es: ~
+        population: 72095
+      - 
+        alternate_names: 
+          - Besbes
+          - Randon
+        ascii_name: Besbes
+        name: Besbes
+        names_en: ~
+        names_es: ~
+        population: 66287
+      - 
+        alternate_names: 
+          - "Ain Mokra"
+          - "Aine Mokra"
+          - "Aïn Mokra"
+        ascii_name: Berrahal
+        name: Berrahal
+        names_en: ~
+        names_es: ~
+        population: 19294
+      - 
+        alternate_names: 
+          - "Ben Mehidi"
+          - Morris
+        ascii_name: "Ben Mehidi"
+        name: "Ben Mehidi"
+        names_en: ~
+        names_es: ~
+        population: 28398
+      - 
+        alternate_names: 
+          - Anaba
+          - Annaba
+          - "Annaba - syaht"
+        ascii_name: Annaba
+        name: Annaba
+        names_en: 
+          - Annaba
+        names_es: 
+          - Annaba
+        population: 206570
+    name: Annaba
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' Alger"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Rouiba
+        name: Rouiba
+        names_en: ~
+        names_es: ~
+        population: 20742
+      - 
+        alternate_names: 
+          - "Dar El Baida"
+          - "Dar el Beida"
+          - "Dar el Beïda"
+        ascii_name: "Dar el Beida"
+        name: "Dar el Beïda"
+        names_en: ~
+        names_es: ~
+        population: 37311
+      - 
+        alternate_names: 
+          - "Bordj El Kifan"
+          - "Bordj el Kiffan"
+          - "Fort de l'Eau"
+        ascii_name: "Bordj el Kiffan"
+        name: "Bordj el Kiffan"
+        names_en: ~
+        names_es: ~
+        population: 123246
+      - 
+        alternate_names: 
+          - Birkadem
+          - Birkhadem
+        ascii_name: Birkhadem
+        name: Birkhadem
+        names_en: ~
+        names_es: ~
+        population: 71722
+      - 
+        alternate_names: 
+          - "Bab Ezzouar"
+          - "Le Retour de la Chasse"
+        ascii_name: "Bab Ezzouar"
+        name: "Bab Ezzouar"
+        names_en: ~
+        names_es: ~
+        population: 275630
+      - 
+        alternate_names: 
+          - "Al Jazair"
+          - Al-jezair
+          - Algeirsborg
+        ascii_name: Algiers
+        name: Algiers
+        names_en: 
+          - Algiers
+        names_es: 
+          - Argel
+        population: 1977663
+      - 
+        alternate_names: 
+          - "Ain Taya"
+          - "Aine Taya"
+          - "Aïn Taya"
+        ascii_name: "Ain Taya"
+        name: "Aïn Taya"
+        names_en: ~
+        names_es: ~
+        population: 21815
+    name: Alger
+    names_en: ~
+    names_es: 
+      - Argel
+  - 
+    ascii_name: "Wilaya de Ain Temouchent"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hammam Bou Hadjar"
+          - "Hamman Bou Habjar"
+          - "Hommam Bou Hadjar"
+        ascii_name: "Hammam Bou Hadjar"
+        name: "Hammam Bou Hadjar"
+        names_en: ~
+        names_es: ~
+        population: 35896
+      - 
+        alternate_names: 
+          - "El Malah"
+          - "El Melah"
+          - "Rio Salado"
+        ascii_name: "El Malah"
+        name: "El Malah"
+        names_en: ~
+        names_es: ~
+        population: 19415
+      - 
+        alternate_names: 
+          - "El Amiria"
+          - "El Amria"
+          - Lourmel
+        ascii_name: "El Amria"
+        name: "El Amria"
+        names_en: ~
+        names_es: ~
+        population: 26407
+      - 
+        alternate_names: 
+          - "Beni Saf"
+          - "Beni Sat"
+        ascii_name: "Beni Saf"
+        name: "Beni Saf"
+        names_en: ~
+        names_es: ~
+        population: 46382
+      - 
+        alternate_names: 
+          - "'Ain Temouchent"
+          - "Ain Temonchent"
+          - "Ain Temoucheni"
+        ascii_name: "'Ain Temouchent"
+        name: "’Aïn Temouchent"
+        names_en: ~
+        names_es: ~
+        population: 57354
+    name: "Aïn Temouchent"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Ain Defla"
+    cities: 
+      - 
+        alternate_names: 
+          - "Teniet el Haad"
+          - "Teniet el Had"
+          - Teniet-el-Ha
+        ascii_name: "Theniet el Had"
+        name: "Theniet el Had"
+        names_en: ~
+        names_es: ~
+        population: 27687
+      - 
+        alternate_names: 
+          - Affreville
+          - "El Khemis"
+          - "El Khemis Miliana"
+        ascii_name: "Khemis Miliana"
+        name: "Khemis Miliana"
+        names_en: ~
+        names_es: ~
+        population: 75865
+      - 
+        alternate_names: 
+          - Ehl'-Attafom
+          - "El Attaf"
+          - "Les Attafs"
+        ascii_name: "El Attaf"
+        name: "El Attaf"
+        names_en: ~
+        names_es: ~
+        population: 43837
+      - 
+        alternate_names: 
+          - "Al Abadia"
+          - Carnot
+          - "El Abadia"
+        ascii_name: "El Abadia"
+        name: "El Abadia"
+        names_en: ~
+        names_es: ~
+        population: 28724
+      - 
+        alternate_names: 
+          - "Ain Defla"
+          - "Aïn Defla"
+          - Duperre
+        ascii_name: "Ain Defla"
+        name: "Aïn Defla"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Aïn Defla"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya d' Adrar"
+    cities: 
+      - 
+        alternate_names: 
+          - Timimoun
+          - Timmoun
+        ascii_name: Timimoun
+        name: Timimoun
+        names_en: ~
+        names_es: ~
+        population: 49237
+      - 
+        alternate_names: 
+          - Reggan
+          - Reggane
+          - "Zaouiet Reggan"
+        ascii_name: Reggane
+        name: Reggane
+        names_en: ~
+        names_es: ~
+        population: 32974
+    name: Adrar
+    names_en: ~
+    names_es: ~

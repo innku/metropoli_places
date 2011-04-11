@@ -1,2611 +1,3517 @@
 --- 
-code: HN
-continent: NA
 name: Honduras
-population: 7989415
+names_en: 
+  - Honduras
+  - "Republic of Honduras"
+names_es: 
+  - Honduras
+  - "República de Honduras"
 regions: 
   - 
+    ascii_name: "Departamento de Yoro"
     cities: 
       - 
-        districts: []
-        location: "POINT (15.7500000000000000 -87.5499999999999972)"
-        name: Tornabé
-        population: 1452
-        slug: tornabe
-      - 
-        districts: []
-        location: "POINT (15.7833299999999994 -87.4500000000000028)"
-        name: Tela
-        population: 29325
-        slug: tela
-      - 
-        districts: []
-        location: "POINT (15.6500000000000004 -87.0666700000000020)"
-        name: "Santa Ana"
-        population: 3579
-        slug: santa-ana
-      - 
-        districts: []
-        location: "POINT (15.5833300000000001 -87.2333299999999952)"
-        name: "San Juan Pueblo"
-        population: 5735
-        slug: san-juan-pueblo
-      - 
-        districts: []
-        location: "POINT (15.6500000000000004 -87.0499999999999972)"
-        name: "San Francisco"
-        population: 2806
-        slug: san-francisco
-      - 
-        districts: []
-        location: "POINT (15.5999999999999996 -87.1500000000000057)"
-        name: "San Antonio"
-        population: 1151
-        slug: san-antonio
-      - 
-        districts: []
-        location: "POINT (15.8166700000000002 -86.6833299999999980)"
-        name: "Sambo Creek"
-        population: 2532
-        slug: sambo-creek
-      - 
-        districts: []
-        location: "POINT (15.8166700000000002 -86.5000000000000000)"
-        name: "Nueva Armenia"
-        population: 1392
-        slug: nueva-armenia
-      - 
-        districts: []
-        location: "POINT (15.5833300000000001 -87.6500000000000057)"
-        name: Mezapa
-        population: 6324
-        slug: mezapa
-      - 
-        districts: []
-        location: "POINT (15.7166700000000006 -87.0000000000000000)"
-        name: "La Unión"
-        population: 2382
-        slug: la-union
-      - 
-        districts: []
-        location: "POINT (15.6166699999999992 -87.1166699999999992)"
-        name: "La Masica"
-        population: 4022
-        slug: la-masica
-      - 
-        districts: []
-        location: "POINT (15.7833299999999994 -86.7999999999999972)"
-        name: "La Ceiba"
-        population: 130218
-        slug: la-ceiba
-      - 
-        districts: []
-        location: "POINT (15.7666699999999995 -86.5166700000000048)"
-        name: Jutiapa
-        population: 2815
-        slug: jutiapa
-      - 
-        districts: []
-        location: "POINT (15.7666699999999995 -87.4333299999999980)"
-        name: "El Triunfo de la Cruz"
-        population: 2190
-        slug: el-triunfo-de-la-cruz
-      - 
-        districts: []
-        location: "POINT (15.7500000000000000 -86.9333299999999980)"
-        name: "El Porvenir"
-        population: 2269
-        slug: el-porvenir
-      - 
-        districts: []
-        location: "POINT (15.6999999999999993 -86.9333299999999980)"
-        name: "El Pino"
-        population: 3004
-        slug: el-pino
-      - 
-        districts: []
-        location: "POINT (15.8000000000000007 -86.7166699999999935)"
-        name: Corozal
-        population: 2261
-        slug: corozal
-      - 
-        districts: []
-        location: "POINT (15.6833299999999998 -87.3166700000000020)"
-        name: "Atenas de San Cristóbal"
-        population: 1783
-        slug: atenas-de-san-cristobal
-      - 
-        districts: []
-        location: "POINT (15.6333300000000008 -87.3166700000000020)"
-        name: Arizona
-        population: 4444
-        slug: arizona
-    code: HN.01
-    name: Atlántida
-    slug: atlantida
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.2580600000000004 -87.3483300000000042)"
-        name: "Santa Cruz"
-        population: 1174
-        slug: santa-cruz
-      - 
-        districts: []
-        location: "POINT (13.3005600000000008 -87.1138899999999978)"
-        name: "Santa Ana de Yusguare"
-        population: 1823
-        slug: santa-ana-de-yusguare
-      - 
-        districts: []
-        location: "POINT (13.4333299999999998 -86.7999999999999972)"
-        name: "San Marcos de Colón"
-        population: 8821
-        slug: san-marcos-de-colon
-      - 
-        districts: []
-        location: "POINT (13.1766699999999997 -87.1363900000000058)"
-        name: "San Jerónimo"
-        population: 2381
-        slug: san-jeronimo
-      - 
-        districts: []
-        location: "POINT (13.5922199999999993 -87.3616700000000037)"
-        name: Pespire
-        population: 3172
-        slug: pespire
-      - 
-        districts: []
-        location: "POINT (13.4816699999999994 -87.1050000000000040)"
-        name: Orocuina
-        population: 1655
-        slug: orocuina
-      - 
-        districts: []
-        location: "POINT (13.2047200000000000 -87.1388900000000035)"
-        name: Namasigüe
-        population: 1804
-        slug: namasigue
-      - 
-        districts: []
-        location: "POINT (13.2005599999999994 -87.3741700000000066)"
-        name: Monjarás
-        population: 6772
-        slug: monjaras
-      - 
-        districts: []
-        location: "POINT (13.2880599999999998 -87.3097199999999987)"
-        name: Marcovia
-        population: 1928
-        slug: marcovia
-      - 
-        districts: []
-        location: "POINT (13.2869399999999995 -87.3344400000000007)"
-        name: "Los Llanitos"
-        population: 1040
-        slug: los-llanitos
-      - 
-        districts: []
-        location: "POINT (13.3252799999999993 -87.3955600000000032)"
-        name: "San José de Las Conchas"
-        population: 1084
-        slug: san-jose-de-las-conchas
-      - 
-        districts: []
-        location: "POINT (13.1166699999999992 -87.0000000000000000)"
-        name: "El Triunfo"
-        population: 7182
-        slug: el-triunfo
-      - 
-        districts: []
-        location: "POINT (13.2833299999999994 -87.1166699999999992)"
-        name: "El Puente"
-        population: 1325
-        slug: el-puente
-      - 
-        districts: []
-        location: "POINT (13.1541700000000006 -87.1308300000000031)"
-        name: "El Obraje"
-        population: 1172
-        slug: el-obraje
-      - 
-        districts: []
-        location: "POINT (13.2888900000000003 -87.0347199999999930)"
-        name: Corpus
-        population: 1199
-        slug: corpus
-      - 
-        districts: []
-        location: "POINT (13.6333300000000008 -86.8166700000000020)"
-        name: Duyure
-        population: 1164
-        slug: duyure
-      - 
-        districts: []
-        location: "POINT (13.3002800000000008 -87.1908300000000054)"
-        name: "Ciudad Choluteca"
-        population: 75872
-        slug: ciudad-choluteca
-    code: HN.02
-    name: Choluteca
-    slug: choluteca
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.6333300000000008 -86.0666700000000020)"
-        name: Zamora
-        population: 2999
-        slug: zamora
-      - 
-        districts: []
-        location: "POINT (15.9166699999999999 -86.0000000000000000)"
-        name: Trujillo
-        population: 9646
-        slug: trujillo
-      - 
-        districts: []
-        location: "POINT (15.6833299999999998 -86.0000000000000000)"
-        name: Tocoa
-        population: 30785
-        slug: tocoa
-      - 
-        districts: []
-        location: "POINT (15.6999999999999993 -85.9166699999999963)"
-        name: Taujica
-        population: 1271
-        slug: taujica
-      - 
-        districts: []
-        location: "POINT (15.4666700000000006 -86.2500000000000000)"
-        name: Sabá
-        population: 9666
-        slug: saba
-      - 
-        districts: []
-        location: "POINT (15.9499999999999993 -85.7166699999999935)"
-        name: "Santa Rosa de Aguán"
-        population: 1304
-        slug: santa-rosa-de-aguan
-      - 
-        districts: []
-        location: "POINT (15.7500000000000000 -85.9666699999999935)"
-        name: Salamá
-        population: 1737
-        slug: salama
-      - 
-        districts: []
-        location: "POINT (15.8333300000000001 -86.2999999999999972)"
-        name: "Río Esteban"
-        population: 1208
-        slug: rio-esteban
-      - 
-        districts: []
-        location: "POINT (15.7666699999999995 -85.9166699999999963)"
-        name: "Quebrada de Arena"
-        population: 2723
-        slug: quebrada-de-arena
-      - 
-        districts: []
-        location: "POINT (15.9000000000000004 -85.2833300000000065)"
-        name: "Punta Piedra"
-        population: 1188
-        slug: punta-piedra
-      - 
-        districts: []
-        location: "POINT (16.0166700000000013 -85.9666699999999935)"
-        name: "Puerto Castilla"
-        population: 1220
-        slug: puerto-castilla
-      - 
-        districts: []
-        location: "POINT (15.5833300000000001 -86.1833299999999980)"
-        name: Prieta
-        population: 1103
-        slug: prieta
-      - 
-        districts: []
-        location: "POINT (15.6333300000000008 -85.7666700000000048)"
-        name: "La Esperanza"
-        population: 2014
-        slug: la-esperanza
-      - 
-        districts: []
-        location: "POINT (15.8000000000000007 -85.9666699999999935)"
-        name: "La Brea"
-        population: 1055
-        slug: la-brea
-      - 
-        districts: []
-        location: "POINT (15.9499999999999993 -85.9666699999999935)"
-        name: Jericó
-        population: 2364
-        slug: jerico
-      - 
-        districts: []
-        location: "POINT (15.8499999999999996 -85.5833300000000037)"
-        name: Francia
-        population: 1331
-        slug: francia
-      - 
-        districts: []
-        location: "POINT (15.4833300000000005 -86.2999999999999972)"
-        name: Elíxir
-        population: 3079
-        slug: elixir
-      - 
-        districts: []
-        location: "POINT (15.8499999999999996 -85.2333299999999952)"
-        name: Cusuna
-        population: 1441
-        slug: cusuna
-      - 
-        districts: []
-        location: "POINT (15.7500000000000000 -85.7833300000000065)"
-        name: Corocito
-        population: 2855
-        slug: corocito
-      - 
-        districts: []
-        location: "POINT (15.7333300000000005 -85.7333299999999952)"
-        name: "Bonito Oriental"
-        population: 3732
-        slug: bonito-oriental
-    code: HN.03
-    name: Colón
-    slug: colon
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.3166700000000002 -87.6166699999999992)"
-        name: "Villa de San Antonio"
-        population: 5390
-        slug: villa-de-san-antonio
-      - 
-        districts: []
-        location: "POINT (14.5000000000000000 -87.6333300000000008)"
-        name: "Valle de Ángeles"
-        population: 1101
-        slug: valle-de-angeles
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -87.9666699999999935)"
-        name: Taulabé
-        population: 4660
-        slug: taulabe
-      - 
-        districts: []
-        location: "POINT (14.5999999999999996 -87.8333300000000037)"
-        name: Siguatepeque
-        population: 43141
-        slug: siguatepeque
-      - 
-        districts: []
-        location: "POINT (14.2500000000000000 -87.6333300000000008)"
-        name: "San Sebastián"
-        population: 1471
-        slug: san-sebastian
-      - 
-        districts: []
-        location: "POINT (14.7500000000000000 -87.4166699999999963)"
-        name: "San Luis"
-        population: 1967
-        slug: san-luis
-      - 
-        districts: []
-        location: "POINT (14.8333300000000001 -87.2833300000000065)"
-        name: "San José del Potrero"
-        population: 1091
-        slug: san-jose-del-potrero
-      - 
-        districts: []
-        location: "POINT (14.7333300000000005 -88.0333300000000065)"
-        name: "San José de Comayagua"
-        population: 1066
-        slug: san-jose-de-comayagua
-      - 
-        districts: []
-        location: "POINT (14.6333300000000008 -87.5999999999999943)"
-        name: "San Jerónimo"
-        population: 1789
-        slug: san-jeronimo
-      - 
-        districts: []
-        location: "POINT (14.6333300000000008 -87.5999999999999943)"
-        name: "San Antonio de la Cuesta"
-        population: 1033
-        slug: san-antonio-de-la-cuesta
-      - 
-        districts: []
-        location: "POINT (14.7666699999999995 -87.8833300000000008)"
-        name: "Río Bonito"
-        population: 1054
-        slug: rio-bonito
-      - 
-        districts: []
-        location: "POINT (14.5500000000000007 -87.8666699999999992)"
-        name: Potrerillos
-        population: 1334
-        slug: potrerillos
-      - 
-        districts: []
-        location: "POINT (14.5999999999999996 -87.9333299999999980)"
-        name: "Ojos de Agua"
-        population: 1146
-        slug: ojos-de-agua
-      - 
-        districts: []
-        location: "POINT (14.8000000000000007 -87.3499999999999943)"
-        name: "Minas de Oro"
-        population: 3554
-        slug: minas-de-oro
-      - 
-        districts: []
-        location: "POINT (14.3666699999999992 -87.7000000000000028)"
-        name: Lejamaní
-        population: 3835
-        slug: lejamani
-      - 
-        districts: []
-        location: "POINT (14.7833299999999994 -87.7500000000000000)"
-        name: "Las Lajas"
-        population: 3011
-        slug: las-lajas
-      - 
-        districts: []
-        location: "POINT (14.1999999999999993 -87.6166699999999992)"
-        name: Lamaní
-        population: 1791
-        slug: lamani
-      - 
-        districts: []
-        location: "POINT (14.7500000000000000 -87.6166699999999992)"
-        name: "La Libertad"
-        population: 4673
-        slug: la-libertad
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -87.5833300000000037)"
-        name: Jamalteca
-        population: 1107
-        slug: jamalteca
-      - 
-        districts: []
-        location: "POINT (14.2833299999999994 -87.5666700000000020)"
-        name: Flores
-        population: 3018
-        slug: flores
-      - 
-        districts: []
-        location: "POINT (14.7333300000000005 -87.3666699999999992)"
-        name: Esquías
-        population: 1339
-        slug: esquias
-      - 
-        districts: []
-        location: "POINT (14.6333300000000008 -87.9166699999999963)"
-        name: "El Socorro"
-        population: 1092
-        slug: el-socorro
-      - 
-        districts: []
-        location: "POINT (14.5333299999999994 -87.6666699999999963)"
-        name: "El Sauce"
-        population: 1389
-        slug: el-sauce
-      - 
-        districts: []
-        location: "POINT (14.8000000000000007 -87.7666700000000048)"
-        name: "El Rosario"
-        population: 2575
-        slug: el-rosario
-      - 
-        districts: []
-        location: "POINT (14.5833300000000001 -87.9333299999999980)"
-        name: "El Rincón"
-        population: 1522
-        slug: el-rincon
-      - 
-        districts: []
-        location: "POINT (14.6833299999999998 -87.5000000000000000)"
-        name: "El Rancho"
-        population: 1484
-        slug: el-rancho
-      - 
-        districts: []
-        location: "POINT (14.5833300000000001 -87.8833300000000008)"
-        name: "El Porvenir"
-        population: 1337
-        slug: el-porvenir
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -87.7500000000000000)"
-        name: "El Agua Dulcita"
-        population: 1017
-        slug: el-agua-dulcita
-      - 
-        districts: []
-        location: "POINT (14.5999999999999996 -87.6500000000000057)"
-        name: "Concepción de Guasistagua"
-        population: 1470
-        slug: concepcion-de-guasistagua
-      - 
-        districts: []
-        location: "POINT (14.4499999999999993 -87.6333300000000008)"
-        name: Comayagua
-        population: 58784
-        slug: comayagua
-      - 
-        districts: []
-        location: "POINT (14.6666699999999999 -87.7833300000000065)"
-        name: "Cerro Blanco"
-        population: 1169
-        slug: cerro-blanco
-      - 
-        districts: []
-        location: "POINT (14.3833300000000008 -87.7000000000000028)"
-        name: Ajuterique
-        population: 5354
-        slug: ajuterique
-      - 
-        districts: []
-        location: "POINT (14.5666700000000002 -87.8833300000000008)"
-        name: "Aguas del Padre"
-        population: 1104
-        slug: aguas-del-padre
-    code: HN.04
-    name: Comayagua
-    slug: comayagua
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.9166699999999999 -88.7833300000000065)"
-        name: Veracruz
-        population: 1045
-        slug: veracruz
-      - 
-        districts: []
-        location: "POINT (14.9499999999999993 -88.7500000000000000)"
-        name: "Trinidad de Copán"
-        population: 2232
-        slug: trinidad-de-copan
-      - 
-        districts: []
-        location: "POINT (14.7666699999999995 -88.7833300000000065)"
-        name: "Santa Rosa de Copán"
-        population: 27753
-        slug: santa-rosa-de-copan
-      - 
-        districts: []
-        location: "POINT (14.8666699999999992 -89.0999999999999943)"
-        name: "Santa Rita"
-        population: 2704
-        slug: santa-rita
-      - 
-        districts: []
-        location: "POINT (15.0000000000000000 -88.7500000000000000)"
-        name: "San Nicolás"
-        population: 2231
-        slug: san-nicolas
-      - 
-        districts: []
-        location: "POINT (14.9333299999999998 -88.7833300000000065)"
-        name: "San Juan de Planes"
-        population: 1048
-        slug: san-juan-de-planes
-      - 
-        districts: []
-        location: "POINT (14.7833299999999994 -88.7000000000000028)"
-        name: "San Juan de Opoa"
-        population: 1636
-        slug: san-juan-de-opoa
-      - 
-        districts: []
-        location: "POINT (14.9000000000000004 -88.7166699999999935)"
-        name: "San José de Copán"
-        population: 1789
-        slug: san-jose-de-copan
-      - 
-        districts: []
-        location: "POINT (15.0500000000000007 -88.9000000000000057)"
-        name: "San Joaquín"
-        population: 1130
-        slug: san-joaquin
-      - 
-        districts: []
-        location: "POINT (14.9666700000000006 -88.8666699999999992)"
-        name: "San Jerónimo"
-        population: 1046
-        slug: san-jeronimo
-      - 
-        districts: []
-        location: "POINT (14.8166700000000002 -88.9333299999999980)"
-        name: "San Agustín"
-        population: 1777
-        slug: san-agustin
-      - 
-        districts: []
-        location: "POINT (14.8833300000000008 -88.7333299999999952)"
-        name: Quezailica
-        population: 1115
-        slug: quezailica
-      - 
-        districts: []
-        location: "POINT (15.0000000000000000 -88.7500000000000000)"
-        name: "Pueblo Nuevo"
-        population: 1053
-        slug: pueblo-nuevo
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -88.8166700000000020)"
-        name: "Ojos de Agua"
-        population: 1340
-        slug: ojos-de-agua
-      - 
-        districts: []
-        location: "POINT (15.1500000000000004 -88.6833299999999980)"
-        name: "Los Tangos"
-        population: 1424
-        slug: los-tangos
-      - 
-        districts: []
-        location: "POINT (15.0166699999999995 -88.9000000000000057)"
-        name: "La Zumbadora"
-        population: 1086
-        slug: la-zumbadora
-      - 
-        districts: []
-        location: "POINT (15.1166699999999992 -88.9833299999999952)"
-        name: "La Playona"
-        population: 1285
-        slug: la-playona
-      - 
-        districts: []
-        location: "POINT (15.0500000000000007 -88.7333299999999952)"
-        name: "La Entrada"
-        population: 14705
-        slug: la-entrada
-      - 
-        districts: []
-        location: "POINT (15.0333299999999994 -88.8333300000000037)"
-        name: Florida
-        population: 5340
-        slug: florida
-      - 
-        districts: []
-        location: "POINT (15.0333299999999994 -88.8833300000000008)"
-        name: "El Ocotón"
-        population: 1038
-        slug: el-ocoton
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -88.9166699999999963)"
-        name: "El Corpus"
-        population: 1193
-        slug: el-corpus
-      - 
-        districts: []
-        location: "POINT (14.8499999999999996 -88.8333300000000037)"
-        name: "Dulce Nombre"
-        population: 3589
-        slug: dulce-nombre
-      - 
-        districts: []
-        location: "POINT (14.8666699999999992 -88.8333300000000037)"
-        name: Dolores
-        population: 1107
-        slug: dolores
-      - 
-        districts: []
-        location: "POINT (14.6500000000000004 -88.8666699999999992)"
-        name: Cucuyagua
-        population: 2939
-        slug: cucuyagua
-      - 
-        districts: []
-        location: "POINT (14.5666700000000002 -88.8666699999999992)"
-        name: Corquín
-        population: 4752
-        slug: corquin
-      - 
-        districts: []
-        location: "POINT (14.8333300000000001 -89.1500000000000057)"
-        name: Copán
-        population: 6336
-        slug: copan
-      - 
-        districts: []
-        location: "POINT (15.1666699999999999 -88.7166699999999935)"
-        name: "Concepción de la Barranca"
-        population: 1014
-        slug: concepcion-de-la-barranca
-      - 
-        districts: []
-        location: "POINT (15.0999999999999996 -88.6833299999999980)"
-        name: Chalmeca
-        population: 2008
-        slug: chalmeca
-      - 
-        districts: []
-        location: "POINT (15.0333299999999994 -88.9666699999999935)"
-        name: "Buenos Aires"
-        population: 1131
-        slug: buenos-aires
-      - 
-        districts: []
-        location: "POINT (14.8833300000000008 -88.8166700000000020)"
-        name: "Agua Caliente"
-        population: 1075
-        slug: agua-caliente
-    code: HN.05
-    name: Copán
-    slug: copan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.8333300000000001 -87.9500000000000028)"
-        name: "Puerto Cortez"
-        population: 48013
-        slug: puerto-cortez
-      - 
-        districts: []
-        location: "POINT (15.3166700000000002 -88.0000000000000000)"
-        name: Villanueva
-        population: 31571
-        slug: villanueva
-      - 
-        districts: []
-        location: "POINT (15.8666699999999992 -87.9000000000000057)"
-        name: Travesía
-        population: 1283
-        slug: travesia
-      - 
-        districts: []
-        location: "POINT (15.3833300000000008 -88.1333300000000008)"
-        name: "Santa Elena"
-        population: 1361
-        slug: santa-elena
-      - 
-        districts: []
-        location: "POINT (14.9833300000000005 -87.9000000000000057)"
-        name: "Santa Cruz de Yojoa"
-        population: 10230
-        slug: santa-cruz-de-yojoa
-      - 
-        districts: []
-        location: "POINT (15.5000000000000000 -88.0333300000000065)"
-        name: "San Pedro Sula"
-        population: 489466
-        slug: san-pedro-sula
-      - 
-        districts: []
-        location: "POINT (15.3333300000000001 -87.9166699999999963)"
-        name: "San Manuel"
-        population: 6389
-        slug: san-manuel
-      - 
-        districts: []
-        location: "POINT (15.4833300000000005 -87.8666699999999992)"
-        name: "San José del Boquerón"
-        population: 1432
-        slug: san-jose-del-boqueron
-      - 
-        districts: []
-        location: "POINT (15.0166699999999995 -87.9666699999999935)"
-        name: "San Francisco de Yojoa"
-        population: 1946
-        slug: san-francisco-de-yojoa
-      - 
-        districts: []
-        location: "POINT (15.0166699999999995 -88.0000000000000000)"
-        name: "San Buenaventura"
-        population: 1452
-        slug: san-buenaventura
-      - 
-        districts: []
-        location: "POINT (15.1166699999999992 -88.0333300000000065)"
-        name: "San Antonio de Cortés"
-        population: 4955
-        slug: san-antonio-de-cortes
-      - 
-        districts: []
-        location: "POINT (15.0333299999999994 -87.9833299999999952)"
-        name: "Río Lindo"
-        population: 3479
-        slug: rio-lindo
-      - 
-        districts: []
-        location: "POINT (15.6333300000000008 -88.2500000000000000)"
-        name: "Río Chiquito"
-        population: 1405
-        slug: rio-chiquito
-      - 
-        districts: []
-        location: "POINT (15.7333300000000005 -87.9000000000000057)"
-        name: "Río Blanquito"
-        population: 2458
-        slug: rio-blanquito
-      - 
-        districts: []
-        location: "POINT (15.6666699999999999 -87.9500000000000028)"
-        name: "Quebrada Seca"
-        population: 2248
-        slug: quebrada-seca
-      - 
-        districts: []
-        location: "POINT (15.6999999999999993 -87.8666699999999992)"
-        name: "Puerto Alto"
-        population: 1385
-        slug: puerto-alto
-      - 
-        districts: []
-        location: "POINT (15.2833299999999994 -88.0166700000000048)"
-        name: "Pueblo Nuevo"
-        population: 3556
-        slug: pueblo-nuevo
-      - 
-        districts: []
-        location: "POINT (15.6333300000000008 -88.2999999999999972)"
-        name: Potrerillos
-        population: 1102
-        slug: potrerillos
-      - 
-        districts: []
-        location: "POINT (15.2333300000000005 -87.9666699999999935)"
-        name: Potrerillos
-        population: 15707
-        slug: potrerillos
-      - 
-        districts: []
-        location: "POINT (15.2333300000000005 -87.9666699999999935)"
-        name: "Pimienta Vieja"
-        population: 8761
-        slug: pimienta-vieja
-      - 
-        districts: []
-        location: "POINT (15.5333299999999994 -88.0499999999999972)"
-        name: "Peña Blanca"
-        population: 3552
-        slug: pena-blanca
-      - 
-        districts: []
-        location: "POINT (15.0166699999999995 -87.9333299999999980)"
-        name: Oropéndolas
-        population: 1333
-        slug: oropendolas
-      - 
-        districts: []
-        location: "POINT (15.7666699999999995 -88.0333300000000065)"
-        name: Omoa
-        population: 4763
-        slug: omoa
-      - 
-        districts: []
-        location: "POINT (15.3833300000000008 -88.0166700000000048)"
-        name: "Nuevo Chamelecón"
-        population: 2098
-        slug: nuevo-chamelecon
-      - 
-        districts: []
-        location: "POINT (15.5833300000000001 -87.8833300000000008)"
-        name: Monterrey
-        population: 2234
-        slug: monterrey
-      - 
-        districts: []
-        location: "POINT (14.9000000000000004 -88.0499999999999972)"
-        name: "Los Naranjos"
-        population: 1684
-        slug: los-naranjos
-      - 
-        districts: []
-        location: "POINT (14.9499999999999993 -87.9666699999999935)"
-        name: "Los Caminos"
-        population: 1146
-        slug: los-caminos
-      - 
-        districts: []
-        location: "POINT (15.3666699999999992 -87.9333299999999980)"
-        name: "La Sabana"
-        population: 1524
-        slug: la-sabana
-      - 
-        districts: []
-        location: "POINT (15.4333299999999998 -87.9166699999999963)"
-        name: "La Lima"
-        population: 45955
-        slug: la-lima
-      - 
-        districts: []
-        location: "POINT (15.6333300000000008 -88.0000000000000000)"
-        name: "La Jutosa"
-        population: 4183
-        slug: la-jutosa
-      - 
-        districts: []
-        location: "POINT (15.5833300000000001 -87.8833300000000008)"
-        name: "La Huesa"
-        population: 1139
-        slug: la-huesa
-      - 
-        districts: []
-        location: "POINT (14.8833300000000008 -87.9333299999999980)"
-        name: "La Guama"
-        population: 1242
-        slug: la-guama
-      - 
-        districts: []
-        location: "POINT (15.5166699999999995 -88.0499999999999972)"
-        name: "El Zapotal del Norte"
-        population: 2508
-        slug: el-zapotal-del-norte
-      - 
-        districts: []
-        location: "POINT (14.9333299999999998 -87.9833299999999952)"
-        name: "El Tigre"
-        population: 1435
-        slug: el-tigre
-      - 
-        districts: []
-        location: "POINT (15.6666699999999999 -87.9500000000000028)"
-        name: "El Rancho"
-        population: 1101
-        slug: el-rancho
-      - 
-        districts: []
-        location: "POINT (15.8333300000000001 -87.9333299999999980)"
-        name: "El Porvenir"
-        population: 2940
-        slug: el-porvenir
-      - 
-        districts: []
-        location: "POINT (15.2833299999999994 -87.9666699999999935)"
-        name: "El Plan"
-        population: 2176
-        slug: el-plan
-      - 
-        districts: []
-        location: "POINT (15.0833300000000001 -88.0999999999999943)"
-        name: "El Perico"
-        population: 1141
-        slug: el-perico
-      - 
-        districts: []
-        location: "POINT (15.0833300000000001 -87.8833300000000008)"
-        name: "El Olivar"
-        population: 1279
-        slug: el-olivar
-      - 
-        districts: []
-        location: "POINT (15.4000000000000004 -87.9666699999999935)"
-        name: "El Milagro"
-        population: 1917
-        slug: el-milagro
-      - 
-        districts: []
-        location: "POINT (15.4000000000000004 -88.0499999999999972)"
-        name: "El Marañón"
-        population: 1836
-        slug: el-maranon
-      - 
-        districts: []
-        location: "POINT (15.1500000000000004 -87.8833300000000008)"
-        name: "El Llano"
-        population: 1923
-        slug: el-llano
-      - 
-        districts: []
-        location: "POINT (15.6666699999999999 -88.2000000000000028)"
-        name: Cuyamel
-        population: 5022
-        slug: cuyamel
-      - 
-        districts: []
-        location: "POINT (15.4000000000000004 -88.1500000000000057)"
-        name: Cofradía
-        population: 20353
-        slug: cofradia
-      - 
-        districts: []
-        location: "POINT (15.4166699999999999 -87.9833299999999952)"
-        name: Chotepe
-        population: 1564
-        slug: chotepe
-      - 
-        districts: []
-        location: "POINT (15.6144400000000001 -87.9530199999999951)"
-        name: Choloma
-        population: 139100
-        slug: choloma
-      - 
-        districts: []
-        location: "POINT (15.7500000000000000 -87.9833299999999952)"
-        name: Chivana
-        population: 1018
-        slug: chivana
-      - 
-        districts: []
-        location: "POINT (15.1166699999999992 -88.0833300000000037)"
-        name: "Casa Quemada"
-        population: 3036
-        slug: casa-quemada
-      - 
-        districts: []
-        location: "POINT (14.9833300000000005 -88.0166700000000048)"
-        name: Cañaveral
-        population: 2137
-        slug: canaveral
-      - 
-        districts: []
-        location: "POINT (15.1333300000000008 -87.9333299999999980)"
-        name: Bejuco
-        population: 1276
-        slug: bejuco
-      - 
-        districts: []
-        location: "POINT (15.7666699999999995 -87.8499999999999943)"
-        name: Baracoa
-        population: 9202
-        slug: baracoa
-      - 
-        districts: []
-        location: "POINT (15.8833300000000008 -87.8499999999999943)"
-        name: "Baja Mar"
-        population: 1064
-        slug: baja-mar
-      - 
-        districts: []
-        location: "POINT (15.5000000000000000 -88.0499999999999972)"
-        name: Armenta
-        population: 2989
-        slug: armenta
-      - 
-        districts: []
-        location: "POINT (14.9000000000000004 -87.9500000000000028)"
-        name: "Agua Azul Rancho"
-        population: 1043
-        slug: agua-azul-rancho
-      - 
-        districts: []
-        location: "POINT (14.9166699999999999 -87.9666699999999935)"
-        name: "Agua Azul"
-        population: 1079
-        slug: agua-azul
-    code: HN.06
-    name: Cortés
-    slug: cortes
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.9333299999999998 -86.8499999999999943)"
-        name: Yuscarán
-        population: 2371
-        slug: yuscaran
-      - 
-        districts: []
-        location: "POINT (14.2166700000000006 -86.7000000000000028)"
-        name: Teupasenti
-        population: 4207
-        slug: teupasenti
-      - 
-        districts: []
-        location: "POINT (13.8666699999999992 -86.6333300000000008)"
-        name: "Santa Cruz"
-        population: 1430
-        slug: santa-cruz
-      - 
-        districts: []
-        location: "POINT (13.9833300000000005 -86.6333300000000008)"
-        name: "San Matías"
-        population: 1251
-        slug: san-matias
-      - 
-        districts: []
-        location: "POINT (13.7333300000000005 -86.9500000000000028)"
-        name: "San Lucas"
-        population: 1307
-        slug: san-lucas
-      - 
-        districts: []
-        location: "POINT (14.0500000000000007 -86.4666699999999935)"
-        name: "San Diego"
-        population: 1306
-        slug: san-diego
-      - 
-        districts: []
-        location: "POINT (14.0999999999999996 -86.3666699999999992)"
-        name: "Quebrada Larga"
-        population: 1217
-        slug: quebrada-larga
-      - 
-        districts: []
-        location: "POINT (13.8166700000000002 -86.8166700000000020)"
-        name: Oropolí
-        population: 1412
-        slug: oropoli
-      - 
-        districts: []
-        location: "POINT (14.0166699999999995 -86.3499999999999943)"
-        name: "Ojo de Agua"
-        population: 2330
-        slug: ojo-de-agua
-      - 
-        districts: []
-        location: "POINT (14.1166699999999992 -86.8666699999999992)"
-        name: Morocelí
-        population: 2984
-        slug: moroceli
-      - 
-        districts: []
-        location: "POINT (13.5358300000000007 -87.0919399999999939)"
-        name: Liure
-        population: 1022
-        slug: liure
-      - 
-        districts: []
-        location: "POINT (14.0666700000000002 -85.9833299999999952)"
-        name: "Las Trojes"
-        population: 6253
-        slug: las-trojes
-      - 
-        districts: []
-        location: "POINT (14.2500000000000000 -86.5666700000000020)"
-        name: "Las Ánimas"
-        population: 1117
-        slug: las-animas
-      - 
-        districts: []
-        location: "POINT (13.9833300000000005 -86.4000000000000057)"
-        name: Jutiapa
-        population: 1153
-        slug: jutiapa
-      - 
-        districts: []
-        location: "POINT (14.0166699999999995 -86.6666699999999963)"
-        name: Jacaleapa
-        population: 2578
-        slug: jacaleapa
-      - 
-        districts: []
-        location: "POINT (13.8833300000000008 -86.9333299999999980)"
-        name: Güinope
-        population: 2716
-        slug: guinope
-      - 
-        districts: []
-        location: "POINT (13.8666699999999992 -86.5499999999999972)"
-        name: "El Paraíso"
-        population: 18779
-        slug: el-paraiso
-      - 
-        districts: []
-        location: "POINT (14.0000000000000000 -86.4333299999999980)"
-        name: "El Obraje"
-        population: 1703
-        slug: el-obraje
-      - 
-        districts: []
-        location: "POINT (14.0666700000000002 -86.2999999999999972)"
-        name: "El Chichicaste"
-        population: 1671
-        slug: el-chichicaste
-      - 
-        districts: []
-        location: "POINT (14.0333299999999994 -86.4666699999999935)"
-        name: "El Benque"
-        population: 1101
-        slug: el-benque
-      - 
-        districts: []
-        location: "POINT (14.0333299999999994 -86.5833300000000037)"
-        name: Danlí
-        population: 44799
-        slug: danli
-      - 
-        districts: []
-        location: "POINT (13.8833300000000008 -86.5499999999999972)"
-        name: Cuyalí
-        population: 1572
-        slug: cuyali
-      - 
-        districts: []
-        location: "POINT (13.9499999999999993 -86.5499999999999972)"
-        name: Araulí
-        population: 1160
-        slug: arauli
-      - 
-        districts: []
-        location: "POINT (13.6497200000000003 -87.0224999999999937)"
-        name: Texíguat
-        population: 1012
-        slug: texiguat
-    code: HN.07
-    name: "El Paraíso"
-    slug: el-paraiso
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.2666699999999995 -87.4000000000000057)"
-        name: Zambrano
-        population: 3873
-        slug: zambrano
-      - 
-        districts: []
-        location: "POINT (14.0166699999999995 -87.2166699999999935)"
-        name: Yaguacire
-        population: 1449
-        slug: yaguacire
-      - 
-        districts: []
-        location: "POINT (14.0333299999999994 -87.1333300000000008)"
-        name: "Villa Nueva"
-        population: 2295
-        slug: villa-nueva
-      - 
-        districts: []
-        location: "POINT (14.1666699999999999 -86.9666699999999935)"
-        name: "Villa de San Francisco"
-        population: 5914
-        slug: villa-de-san-francisco
-      - 
-        districts: []
-        location: "POINT (14.1500000000000004 -87.0333300000000065)"
-        name: "Valle de Ángeles"
-        population: 4649
-        slug: valle-de-angeles
-      - 
-        districts: []
-        location: "POINT (14.5166699999999995 -87.4000000000000057)"
-        name: Vallecillo
-        population: 1986
-        slug: vallecillo
-      - 
-        districts: []
-        location: "POINT (14.0817999999999994 -87.2068100000000044)"
-        name: Tegucigalpa
-        population: 850848
-        slug: tegucigalpa
-      - 
-        districts: []
-        location: "POINT (14.1500000000000004 -87.3333300000000037)"
-        name: Támara
-        population: 2683
-        slug: tamara
-      - 
-        districts: []
-        location: "POINT (14.4000000000000004 -87.0833300000000037)"
-        name: Talanga
-        population: 13492
-        slug: talanga
-      - 
-        districts: []
-        location: "POINT (14.0999999999999996 -87.1166699999999992)"
-        name: "Santa Lucía"
-        population: 2288
-        slug: santa-lucia
-      - 
-        districts: []
-        location: "POINT (13.9316700000000004 -87.2713899999999967)"
-        name: "Santa Ana"
-        population: 1052
-        slug: santa-ana
-      - 
-        districts: []
-        location: "POINT (14.2666699999999995 -87.0333300000000065)"
-        name: "San Juan de Flores"
-        population: 3633
-        slug: san-juan-de-flores
-      - 
-        districts: []
-        location: "POINT (14.6500000000000004 -87.0333300000000065)"
-        name: "San Ignacio"
-        population: 2330
-        slug: san-ignacio
-      - 
-        districts: []
-        location: "POINT (13.8077799999999993 -87.2591699999999975)"
-        name: Sabanagrande
-        population: 2056
-        slug: sabanagrande
-      - 
-        districts: []
-        location: "POINT (14.1666699999999999 -87.2166699999999935)"
-        name: "Río Abajo"
-        population: 2055
-        slug: rio-abajo
-      - 
-        districts: []
-        location: "POINT (13.8258299999999998 -87.4652800000000070)"
-        name: Reitoca
-        population: 1094
-        slug: reitoca
-      - 
-        districts: []
-        location: "POINT (14.5000000000000000 -87.3499999999999943)"
-        name: Quebradas
-        population: 1405
-        slug: quebradas
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -86.9500000000000028)"
-        name: Orica
-        population: 2342
-        slug: orica
-      - 
-        districts: []
-        location: "POINT (13.9338899999999999 -87.2958299999999952)"
-        name: Ojojona
-        population: 2790
-        slug: ojojona
-      - 
-        districts: []
-        location: "POINT (14.0833300000000001 -87.3166700000000020)"
-        name: Mateo
-        population: 1021
-        slug: mateo
-      - 
-        districts: []
-        location: "POINT (14.5999999999999996 -87.2833300000000065)"
-        name: "Mata de Plátano"
-        population: 1151
-        slug: mata-de-platano
-      - 
-        districts: []
-        location: "POINT (14.8833300000000008 -87.1500000000000057)"
-        name: Marale
-        population: 1523
-        slug: marale
-      - 
-        districts: []
-        location: "POINT (14.0666700000000002 -87.4666699999999935)"
-        name: Lepaterique
-        population: 2090
-        slug: lepaterique
-      - 
-        districts: []
-        location: "POINT (14.4666700000000006 -87.0666700000000020)"
-        name: "La Ermita"
-        population: 2495
-        slug: la-ermita
-      - 
-        districts: []
-        location: "POINT (14.5333299999999994 -86.8166700000000020)"
-        name: Guaimaca
-        population: 12899
-        slug: guaimaca
-      - 
-        districts: []
-        location: "POINT (14.0666700000000002 -87.0666700000000020)"
-        name: "El Terrero"
-        population: 1087
-        slug: el-terrero
-      - 
-        districts: []
-        location: "POINT (14.0333299999999994 -87.1666699999999963)"
-        name: "El Tablón"
-        population: 1121
-        slug: el-tablon
-      - 
-        districts: []
-        location: "POINT (14.5166699999999995 -87.2166699999999935)"
-        name: "El Suyatal"
-        population: 2027
-        slug: el-suyatal
-      - 
-        districts: []
-        location: "POINT (13.7616700000000005 -87.3458300000000065)"
-        name: "El Porvenir"
-        population: 3153
-        slug: el-porvenir
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -87.1166699999999992)"
-        name: "El Pedernal"
-        population: 1648
-        slug: el-pedernal
-      - 
-        districts: []
-        location: "POINT (14.1166699999999992 -87.2666700000000048)"
-        name: "El Lolo"
-        population: 1438
-        slug: el-lolo
-      - 
-        districts: []
-        location: "POINT (13.7666699999999995 -87.4666699999999935)"
-        name: "El Guapinol"
-        population: 1817
-        slug: el-guapinol
-      - 
-        districts: []
-        location: "POINT (14.5999999999999996 -87.2999999999999972)"
-        name: "El Guantillo"
-        population: 1223
-        slug: el-guantillo
-      - 
-        districts: []
-        location: "POINT (14.5500000000000007 -87.0999999999999943)"
-        name: "El Guante"
-        population: 1082
-        slug: el-guante
-      - 
-        districts: []
-        location: "POINT (14.7500000000000000 -87.0666700000000020)"
-        name: "El Escaño de Tepale"
-        population: 1026
-        slug: el-escano-de-tepale
-      - 
-        districts: []
-        location: "POINT (14.6666699999999999 -87.0999999999999943)"
-        name: "El Escanito"
-        population: 1184
-        slug: el-escanito
-      - 
-        districts: []
-        location: "POINT (14.1333300000000008 -87.1166699999999992)"
-        name: "El Chimbo"
-        population: 1145
-        slug: el-chimbo
-      - 
-        districts: []
-        location: "POINT (14.2166700000000006 -87.1833299999999980)"
-        name: Cofradía
-        population: 1301
-        slug: cofradia
-      - 
-        districts: []
-        location: "POINT (13.8166700000000002 -87.2500000000000000)"
-        name: "Cerro Grande"
-        population: 1093
-        slug: cerro-grande
-      - 
-        districts: []
-        location: "POINT (14.5999999999999996 -87.1166699999999992)"
-        name: Cedros
-        population: 1041
-        slug: cedros
-      - 
-        districts: []
-        location: "POINT (14.4499999999999993 -87.2666700000000048)"
-        name: Agalteca
-        population: 1029
-        slug: agalteca
-    code: HN.08
-    name: "Francisco Morazán"
-    slug: francisco-morazan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.4166699999999999 -84.4333299999999980)"
-        name: Wawina
-        population: 1481
-        slug: wawina
-      - 
-        districts: []
-        location: "POINT (15.1833299999999998 -84.6166699999999992)"
-        name: Wampusirpi
-        population: 1462
-        slug: wampusirpi
-      - 
-        districts: []
-        location: "POINT (15.2666699999999995 -83.7666700000000048)"
-        name: "Puerto Lempira"
-        population: 4856
-        slug: puerto-lempira
-      - 
-        districts: []
-        location: "POINT (15.5000000000000000 -84.3166700000000020)"
-        name: Paptalaya
-        population: 1227
-        slug: paptalaya
-      - 
-        districts: []
-        location: "POINT (15.0000000000000000 -83.2333299999999952)"
-        name: Iralaya
-        population: 1520
-        slug: iralaya
-      - 
-        districts: []
-        location: "POINT (15.7500000000000000 -84.4833299999999952)"
-        name: "Brus Laguna"
-        population: 4067
-        slug: brus-laguna
-      - 
-        districts: []
-        location: "POINT (15.8000000000000007 -84.2833300000000065)"
-        name: "Barra Patuca"
-        population: 2758
-        slug: barra-patuca
-      - 
-        districts: []
-        location: "POINT (14.9333299999999998 -83.8333300000000037)"
-        name: Auka
-        population: 1254
-        slug: auka
-      - 
-        districts: []
-        location: "POINT (15.4833300000000005 -84.3333300000000037)"
-        name: Auas
-        population: 1505
-        slug: auas
-    code: HN.09
-    name: "Gracias a Dios"
-    slug: gracias-a-dios
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.2833299999999994 -88.2500000000000000)"
-        name: Yamaranguila
-        population: 1187
-        slug: yamaranguila
-      - 
-        districts: []
-        location: "POINT (14.3000000000000007 -88.1833299999999980)"
-        name: "La Esperanza"
-        population: 5318
-        slug: la-esperanza
-      - 
-        districts: []
-        location: "POINT (14.0000000000000000 -88.3499999999999943)"
-        name: Jiquinlaca
-        population: 1248
-        slug: jiquinlaca
-      - 
-        districts: []
-        location: "POINT (14.4833300000000005 -87.9833299999999952)"
-        name: "Jesús de Otoro"
-        population: 6988
-        slug: jesus-de-otoro
-      - 
-        districts: []
-        location: "POINT (14.3166700000000002 -88.1666699999999963)"
-        name: Intibucá
-        population: 13741
-        slug: intibuca
-      - 
-        districts: []
-        location: "POINT (14.0000000000000000 -88.3833300000000008)"
-        name: Camasca
-        population: 1150
-        slug: camasca
-    code: HN.10
-    name: Intibucá
-    slug: intibuca
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (16.3000000000000007 -86.5499999999999972)"
-        name: Roatán
-        population: 7514
-        slug: roatan
-      - 
-        districts: []
-        location: "POINT (16.4499999999999993 -85.8499999999999943)"
-        name: "Savannah Bight"
-        population: 1031
-        slug: savannah-bight
-      - 
-        districts: []
-        location: "POINT (16.3166699999999985 -86.5666700000000020)"
-        name: "Sandy Bay"
-        population: 1072
-        slug: sandy-bay
-      - 
-        districts: []
-        location: "POINT (16.3999999999999986 -85.9000000000000057)"
-        name: Guanaja
-        population: 1942
-        slug: guanaja
-      - 
-        districts: []
-        location: "POINT (16.3500000000000014 -86.4333299999999980)"
-        name: "French Harbor"
-        population: 2698
-        slug: french-harbor
-    code: HN.11
-    name: "Islas de la Bahía"
-    slug: islas-de-la-bahia
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.3333300000000001 -87.6333300000000008)"
-        name: Yarumela
-        population: 3059
-        slug: yarumela
-      - 
-        districts: []
-        location: "POINT (14.3333300000000001 -87.7500000000000000)"
-        name: Tepanguare
-        population: 1040
-        slug: tepanguare
-      - 
-        districts: []
-        location: "POINT (14.3499999999999996 -87.9000000000000057)"
-        name: "Santiago Puringla"
-        population: 2433
-        slug: santiago-puringla
-      - 
-        districts: []
-        location: "POINT (14.2500000000000000 -87.8499999999999943)"
-        name: "San Pedro de Tutule"
-        population: 1876
-        slug: san-pedro-de-tutule
-      - 
-        districts: []
-        location: "POINT (14.2500000000000000 -87.9500000000000028)"
-        name: "San José"
-        population: 1463
-        slug: san-jose
-      - 
-        districts: []
-        location: "POINT (13.8844399999999997 -87.7030599999999936)"
-        name: "San Antonio del Norte"
-        population: 1002
-        slug: san-antonio-del-norte
-      - 
-        districts: []
-        location: "POINT (14.1500000000000004 -88.0333300000000065)"
-        name: Marcala
-        population: 10054
-        slug: marcala
-      - 
-        districts: []
-        location: "POINT (14.0500000000000007 -88.0166700000000048)"
-        name: "Los Planes"
-        population: 1320
-        slug: los-planes
-      - 
-        districts: []
-        location: "POINT (14.3166700000000002 -87.6833299999999980)"
-        name: "La Paz"
-        population: 17555
-        slug: la-paz
-      - 
-        districts: []
-        location: "POINT (14.2833299999999994 -87.6666699999999963)"
-        name: Cane
-        population: 2190
-        slug: cane
-    code: HN.12
-    name: "La Paz"
-    slug: la-paz
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.7500000000000000 -88.4833299999999952)"
-        name: Taragual
-        population: 1043
-        slug: taragual
-      - 
-        districts: []
-        location: "POINT (14.7833299999999994 -88.5833300000000037)"
-        name: Lepaera
-        population: 3137
-        slug: lepaera
-      - 
-        districts: []
-        location: "POINT (14.0500000000000007 -88.7000000000000028)"
-        name: "La Virtud"
-        population: 1315
-        slug: la-virtud
-      - 
-        districts: []
-        location: "POINT (14.8166700000000002 -88.4000000000000057)"
-        name: "La Unión"
-        population: 3054
-        slug: la-union
-      - 
-        districts: []
-        location: "POINT (14.8000000000000007 -88.5999999999999943)"
-        name: "Las Tejeras"
-        population: 1140
-        slug: las-tejeras
-      - 
-        districts: []
-        location: "POINT (14.8000000000000007 -88.5833300000000037)"
-        name: "La Libertad"
-        population: 1444
-        slug: la-libertad
-      - 
-        districts: []
-        location: "POINT (14.5833300000000001 -88.5833300000000037)"
-        name: Gracias
-        population: 7909
-        slug: gracias
-      - 
-        districts: []
-        location: "POINT (14.2333300000000005 -88.4666699999999935)"
-        name: Erandique
-        population: 1882
-        slug: erandique
-      - 
-        districts: []
-        location: "POINT (14.0833300000000001 -88.7500000000000000)"
-        name: "El Achiotal"
-        population: 1210
-        slug: el-achiotal
-      - 
-        districts: []
-        location: "POINT (14.3000000000000007 -88.8833300000000008)"
-        name: Cololaca
-        population: 1014
-        slug: cololaca
-    code: HN.13
-    name: Lempira
-    slug: lempira
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.5333299999999994 -88.8166700000000020)"
-        name: Yaruchel
-        population: 1105
-        slug: yaruchel
-      - 
-        districts: []
-        location: "POINT (14.4499999999999993 -89.1833299999999980)"
-        name: Sinuapa
-        population: 2389
-        slug: sinuapa
-      - 
-        districts: []
-        location: "POINT (14.4833300000000005 -88.9333299999999980)"
-        name: Sensenti
-        population: 1551
-        slug: sensenti
-      - 
-        districts: []
-        location: "POINT (14.4166699999999999 -89.2000000000000028)"
-        name: "Santa Lucía"
-        population: 1224
-        slug: santa-lucia
-      - 
-        districts: []
-        location: "POINT (14.4000000000000004 -88.9500000000000028)"
-        name: "San Marcos"
-        population: 5346
-        slug: san-marcos
-      - 
-        districts: []
-        location: "POINT (14.4333299999999998 -88.9500000000000028)"
-        name: "San Francisco del Valle"
-        population: 1878
-        slug: san-francisco-del-valle
-      - 
-        districts: []
-        location: "POINT (14.5166699999999995 -88.9000000000000057)"
-        name: "San Francisco de Cones"
-        population: 1066
-        slug: san-francisco-de-cones
-      - 
-        districts: []
-        location: "POINT (14.6833299999999998 -89.1166699999999992)"
-        name: "San Fernando"
-        population: 1026
-        slug: san-fernando
-      - 
-        districts: []
-        location: "POINT (14.4333299999999998 -89.1833299999999980)"
-        name: "Nueva Ocotepeque"
-        population: 8780
-        slug: nueva-ocotepeque
-      - 
-        districts: []
-        location: "POINT (14.5500000000000007 -88.9333299999999980)"
-        name: Lucerna
-        population: 1452
-        slug: lucerna
-      - 
-        districts: []
-        location: "POINT (14.4833300000000005 -89.0000000000000000)"
-        name: "La Labor"
-        population: 1416
-        slug: la-labor
-      - 
-        districts: []
-        location: "POINT (14.6666699999999999 -89.0833300000000037)"
-        name: "La Encarnación"
-        population: 1484
-        slug: la-encarnacion
-      - 
-        districts: []
-        location: "POINT (14.3833300000000008 -88.9166699999999963)"
-        name: "El Tránsito"
-        population: 1025
-        slug: el-transito
-      - 
-        districts: []
-        location: "POINT (14.4833300000000005 -88.7999999999999972)"
-        name: "Belén Gualcho"
-        population: 2359
-        slug: belen-gualcho
-      - 
-        districts: []
-        location: "POINT (14.4000000000000004 -89.2000000000000028)"
-        name: "Antigua Ocotepeque"
-        population: 1862
-        slug: antigua-ocotepeque
-    code: HN.14
-    name: Ocotepeque
-    slug: ocotepeque
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (14.5999999999999996 -86.2666700000000048)"
-        name: Zopilotepe
-        population: 1300
-        slug: zopilotepe
-      - 
-        districts: []
-        location: "POINT (14.8333300000000001 -86.5333300000000065)"
-        name: Silca
-        population: 1112
-        slug: silca
-      - 
-        districts: []
-        location: "POINT (14.7666699999999995 -85.9500000000000028)"
-        name: "Santa María del Real"
-        population: 4587
-        slug: santa-maria-del-real
-      - 
-        districts: []
-        location: "POINT (14.5500000000000007 -86.2500000000000000)"
-        name: "San Nicolás"
-        population: 1313
-        slug: san-nicolas
-      - 
-        districts: []
-        location: "POINT (14.9333299999999998 -85.7000000000000028)"
-        name: "San José de Río Tinto"
-        population: 1071
-        slug: san-jose-de-rio-tinto
-      - 
-        districts: []
-        location: "POINT (14.9000000000000004 -86.2000000000000028)"
-        name: "San Francisco de la Paz"
-        population: 5411
-        slug: san-francisco-de-la-paz
-      - 
-        districts: []
-        location: "POINT (14.6333300000000008 -86.0999999999999943)"
-        name: "San Francisco de Becerra"
-        population: 2411
-        slug: san-francisco-de-becerra
-      - 
-        districts: []
-        location: "POINT (15.1999999999999993 -85.7500000000000000)"
-        name: "San Esteban"
-        population: 3439
-        slug: san-esteban
-      - 
-        districts: []
-        location: "POINT (14.8333300000000001 -86.5833300000000037)"
-        name: Salamá
-        population: 2820
-        slug: salama
-      - 
-        districts: []
-        location: "POINT (14.7333300000000005 -85.9666699999999935)"
-        name: Punuare
-        population: 1905
-        slug: punuare
-      - 
-        districts: []
-        location: "POINT (14.9166699999999999 -86.3833300000000008)"
-        name: Manto
-        population: 1098
-        slug: manto
-      - 
-        districts: []
-        location: "POINT (15.0666700000000002 -86.7999999999999972)"
-        name: Mangulile
-        population: 1263
-        slug: mangulile
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -86.0999999999999943)"
-        name: "Laguna Seca"
-        population: 1131
-        slug: laguna-seca
-      - 
-        districts: []
-        location: "POINT (15.0833300000000001 -86.3833300000000008)"
-        name: "La Guata"
-        population: 1217
-        slug: la-guata
-      - 
-        districts: []
-        location: "POINT (15.0500000000000007 -86.3499999999999943)"
-        name: "La Estancia"
-        population: 1508
-        slug: la-estancia
-      - 
-        districts: []
-        location: "POINT (14.6999999999999993 -86.2333299999999952)"
-        name: "La Concepción"
-        population: 1985
-        slug: la-concepcion
-      - 
-        districts: []
-        location: "POINT (14.7166700000000006 -86.0833300000000037)"
-        name: Jutiquile
-        population: 3585
-        slug: jutiquile
-      - 
-        districts: []
-        location: "POINT (14.6500000000000004 -86.2000000000000028)"
-        name: Juticalpa
-        population: 33686
-        slug: juticalpa
-      - 
-        districts: []
-        location: "POINT (14.7166700000000006 -86.8333300000000037)"
-        name: Guayape
-        population: 1703
-        slug: guayape
-      - 
-        districts: []
-        location: "POINT (14.9166699999999999 -86.3333300000000037)"
-        name: Guarizama
-        population: 1300
-        slug: guarizama
-      - 
-        districts: []
-        location: "POINT (15.0500000000000007 -86.0499999999999972)"
-        name: Gualaco
-        population: 3601
-        slug: gualaco
-      - 
-        districts: []
-        location: "POINT (14.4666700000000006 -86.3666699999999992)"
-        name: "El Rusio"
-        population: 1016
-        slug: el-rusio
-      - 
-        districts: []
-        location: "POINT (14.8333300000000001 -86.0333300000000065)"
-        name: "El Guayabito"
-        population: 1404
-        slug: el-guayabito
-      - 
-        districts: []
-        location: "POINT (15.0999999999999996 -85.5333300000000065)"
-        name: "Dulce Nombre de Culmí"
-        population: 2091
-        slug: dulce-nombre-de-culmi
-      - 
-        districts: []
-        location: "POINT (14.6166699999999992 -86.6500000000000057)"
-        name: Concordia
-        population: 1272
-        slug: concordia
-      - 
-        districts: []
-        location: "POINT (14.5500000000000007 -86.6500000000000057)"
-        name: Campamento
-        population: 6560
-        slug: campamento
-      - 
-        districts: []
-        location: "POINT (14.7833299999999994 -86.0000000000000000)"
-        name: Arimís
-        population: 1817
-        slug: arimis
-    code: HN.15
-    name: Olancho
-    slug: olancho
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.1333300000000008 -88.2333299999999952)"
-        name: Trinidad
-        population: 4276
-        slug: trinidad
-      - 
-        districts: []
-        location: "POINT (15.3000000000000007 -88.6666699999999963)"
-        name: "Tras Cerros"
-        population: 4174
-        slug: tras-cerros
-      - 
-        districts: []
-        location: "POINT (15.2500000000000000 -88.5666700000000020)"
-        name: Sula
-        population: 2502
-        slug: sula
-      - 
-        districts: []
-        location: "POINT (14.8833300000000008 -88.2833300000000065)"
-        name: "San Vicente Centenario"
-        population: 2430
-        slug: san-vicente-centenario
-      - 
-        districts: []
-        location: "POINT (14.9166699999999999 -88.2166699999999935)"
-        name: "Santa Rita"
-        population: 1687
-        slug: santa-rita
-      - 
-        districts: []
-        location: "POINT (14.9166699999999999 -88.2333299999999952)"
-        name: "Santa Bárbara"
-        population: 15119
-        slug: santa-barbara
-      - 
-        districts: []
-        location: "POINT (14.7500000000000000 -88.1166699999999992)"
-        name: "San Pedro Zacapa"
-        population: 1065
-        slug: san-pedro-zacapa
-      - 
-        districts: []
-        location: "POINT (14.9333299999999998 -88.3166700000000020)"
-        name: "San Nicolás"
-        population: 3522
-        slug: san-nicolas
-      - 
-        districts: []
-        location: "POINT (15.3000000000000007 -88.4166699999999963)"
-        name: "San Marcos"
-        population: 3923
-        slug: san-marcos
-      - 
-        districts: []
-        location: "POINT (14.9833300000000005 -88.1333300000000008)"
-        name: "San Luis de Planes"
-        population: 1111
-        slug: san-luis-de-planes
-      - 
-        districts: []
-        location: "POINT (15.0833300000000001 -88.3833300000000008)"
-        name: "San Luis"
-        population: 5733
-        slug: san-luis
-      - 
-        districts: []
-        location: "POINT (15.3000000000000007 -88.7000000000000028)"
-        name: "San José de Tarros"
-        population: 1634
-        slug: san-jose-de-tarros
-      - 
-        districts: []
-        location: "POINT (15.0333299999999994 -88.2999999999999972)"
-        name: "San José de Colinas"
-        population: 3985
-        slug: san-jose-de-colinas
-      - 
-        districts: []
-        location: "POINT (15.3499999999999996 -88.4000000000000057)"
-        name: Quimistán
-        population: 3517
-        slug: quimistan
-      - 
-        districts: []
-        location: "POINT (15.0333299999999994 -88.6500000000000057)"
-        name: Protección
-        population: 2101
-        slug: proteccion
-      - 
-        districts: []
-        location: "POINT (15.3833300000000008 -88.4000000000000057)"
-        name: Pinalejo
-        population: 3767
-        slug: pinalejo
-      - 
-        districts: []
-        location: "POINT (15.2666699999999995 -88.2833300000000065)"
-        name: Petoa
-        population: 1067
-        slug: petoa
-      - 
-        districts: []
-        location: "POINT (14.9166699999999999 -88.3333300000000037)"
-        name: "Nueva Jalapa"
-        population: 1094
-        slug: nueva-jalapa
-      - 
-        districts: []
-        location: "POINT (14.9499999999999993 -88.6833299999999980)"
-        name: Naranjito
-        population: 3813
-        slug: naranjito
-      - 
-        districts: []
-        location: "POINT (15.3833300000000008 -88.1833299999999980)"
-        name: Naco
-        population: 3966
-        slug: naco
-      - 
-        districts: []
-        location: "POINT (15.3966700000000003 -88.5597199999999987)"
-        name: "Loma Alta"
-        population: 1067
-        slug: loma-alta
-      - 
-        districts: []
-        location: "POINT (14.8666699999999992 -88.0666700000000020)"
-        name: "Las Vegas"
-        population: 7487
-        slug: las-vegas
-      - 
-        districts: []
-        location: "POINT (15.1999999999999993 -88.1666699999999963)"
-        name: "Laguna Verde"
-        population: 1460
-        slug: laguna-verde
-      - 
-        districts: []
-        location: "POINT (15.2833299999999994 -88.4833299999999952)"
-        name: "La Flecha"
-        population: 2136
-        slug: la-flecha
-      - 
-        districts: []
-        location: "POINT (15.3544400000000003 -88.6355599999999981)"
-        name: Joconal
-        population: 1206
-        slug: joconal
-      - 
-        districts: []
-        location: "POINT (15.0666700000000002 -88.2166699999999935)"
-        name: Ilama
-        population: 1811
-        slug: ilama
-      - 
-        districts: []
-        location: "POINT (14.9499999999999993 -88.2333299999999952)"
-        name: Gualjoco
-        population: 1432
-        slug: gualjoco
-      - 
-        districts: []
-        location: "POINT (15.0166699999999995 -88.1500000000000057)"
-        name: Guacamaya
-        population: 1250
-        slug: guacamaya
-      - 
-        districts: []
-        location: "POINT (14.7666699999999995 -88.3333300000000037)"
-        name: "El Níspero"
-        population: 2474
-        slug: el-nispero
-      - 
-        districts: []
-        location: "POINT (14.8666699999999992 -88.0833300000000037)"
-        name: "El Mochito"
-        population: 1950
-        slug: el-mochito
-      - 
-        districts: []
-        location: "POINT (15.0666700000000002 -88.6166699999999992)"
-        name: "El Corozal"
-        population: 1039
-        slug: el-corozal
-      - 
-        districts: []
-        location: "POINT (15.3000000000000007 -88.5000000000000000)"
-        name: "El Ciruelo"
-        population: 2980
-        slug: el-ciruelo
-      - 
-        districts: []
-        location: "POINT (15.4166699999999999 -88.4500000000000028)"
-        name: Correderos
-        population: 1162
-        slug: correderos
-      - 
-        districts: []
-        location: "POINT (14.8000000000000007 -88.1666699999999963)"
-        name: "Concepción del Sur"
-        population: 1049
-        slug: concepcion-del-sur
-      - 
-        districts: []
-        location: "POINT (14.8000000000000007 -88.2000000000000028)"
-        name: Ceguaca
-        population: 1239
-        slug: ceguaca
-      - 
-        districts: []
-        location: "POINT (15.2666699999999995 -88.5499999999999972)"
-        name: "Casa Quemada"
-        population: 1030
-        slug: casa-quemada
-      - 
-        districts: []
-        location: "POINT (15.3333300000000001 -88.3333300000000037)"
-        name: Camalote
-        population: 1319
-        slug: camalote
-      - 
-        districts: []
-        location: "POINT (15.1666699999999999 -88.6500000000000057)"
-        name: Callejones
-        population: 1033
-        slug: callejones
-      - 
-        districts: []
-        location: "POINT (14.8333300000000001 -88.5000000000000000)"
-        name: Berlín
-        population: 1050
-        slug: berlin
-      - 
-        districts: []
-        location: "POINT (15.3433299999999999 -88.5513899999999978)"
-        name: Azacualpa
-        population: 5949
-        slug: azacualpa
-      - 
-        districts: []
-        location: "POINT (14.7166700000000006 -88.0999999999999943)"
-        name: Azacualpa
-        population: 1258
-        slug: azacualpa
-      - 
-        districts: []
-        location: "POINT (14.9333299999999998 -88.4833299999999952)"
-        name: Atima
-        population: 1703
-        slug: atima
-      - 
-        districts: []
-        location: "POINT (14.8499999999999996 -88.2999999999999972)"
-        name: Arada
-        population: 2913
-        slug: arada
-      - 
-        districts: []
-        location: "POINT (15.3352799999999991 -88.5530600000000021)"
-        name: Agualote
-        population: 1759
-        slug: agualote
-    code: HN.16
-    name: "Santa Bárbara"
-    slug: santa-barbara
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.4241700000000002 -87.4472200000000015)"
-        name: "San Lorenzo"
-        population: 22289
-        slug: san-lorenzo
-      - 
-        districts: []
-        location: "POINT (13.6613900000000008 -87.5327800000000025)"
-        name: "San Francisco de Coray"
-        population: 1330
-        slug: san-francisco-de-coray
-      - 
-        districts: []
-        location: "POINT (13.5361100000000008 -87.4874999999999972)"
-        name: Nacaome
-        population: 13929
-        slug: nacaome
-      - 
-        districts: []
-        location: "POINT (13.6208299999999998 -87.6525000000000034)"
-        name: Langue
-        population: 3679
-        slug: langue
-      - 
-        districts: []
-        location: "POINT (13.4536099999999994 -87.4133300000000020)"
-        name: "La Criba"
-        population: 1001
-        slug: la-criba
-      - 
-        districts: []
-        location: "POINT (13.5316700000000001 -87.4388900000000007)"
-        name: "Jícaro Galán"
-        population: 1370
-        slug: jicaro-galan
-      - 
-        districts: []
-        location: "POINT (13.5833300000000001 -87.6166699999999992)"
-        name: Goascorán
-        population: 1350
-        slug: goascoran
-      - 
-        districts: []
-        location: "POINT (13.4663900000000005 -87.5152800000000042)"
-        name: "El Tular"
-        population: 1927
-        slug: el-tular
-      - 
-        districts: []
-        location: "POINT (13.4666700000000006 -87.6666699999999963)"
-        name: "El Cubolero"
-        population: 1286
-        slug: el-cubolero
-      - 
-        districts: []
-        location: "POINT (13.7422199999999997 -87.7102799999999974)"
-        name: Aramecina
-        population: 1071
-        slug: aramecina
-      - 
-        districts: []
-        location: "POINT (13.2922200000000004 -87.6538900000000041)"
-        name: Amapala
-        population: 2136
-        slug: amapala
-      - 
-        districts: []
-        location: "POINT (13.4688900000000000 -87.5511099999999942)"
-        name: "Agua Fría"
-        population: 3196
-        slug: agua-fria
-    code: HN.17
-    name: Valle
-    slug: valle
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (15.1333300000000008 -87.1333300000000008)"
+        alternate_names: ~
+        ascii_name: Yoro
         name: Yoro
+        names_en: ~
+        names_es: ~
         population: 15774
-        slug: yoro
       - 
-        districts: []
-        location: "POINT (15.0666700000000002 -87.2833300000000065)"
+        alternate_names: ~
+        ascii_name: Yorito
         name: Yorito
+        names_en: ~
+        names_es: ~
         population: 2169
-        slug: yorito
       - 
-        districts: []
-        location: "POINT (15.4833300000000005 -87.8166700000000020)"
+        alternate_names: ~
+        ascii_name: Victoria
         name: Victoria
+        names_en: ~
+        names_es: ~
         population: 2884
-        slug: victoria
       - 
-        districts: []
-        location: "POINT (15.3499999999999996 -86.7000000000000028)"
+        alternate_names: 
+          - Trojas
+          - "Trojas Campo"
+        ascii_name: Trojas
         name: Trojas
+        names_en: ~
+        names_es: ~
         population: 1068
-        slug: trojas
       - 
-        districts: []
-        location: "POINT (15.5500000000000007 -87.6500000000000057)"
+        alternate_names: ~
+        ascii_name: Toyos
         name: Toyós
+        names_en: ~
+        names_es: ~
         population: 2530
-        slug: toyos
       - 
-        districts: []
-        location: "POINT (15.4166699999999999 -86.3166700000000020)"
+        alternate_names: ~
+        ascii_name: Tepusteca
         name: Tepusteca
+        names_en: ~
+        names_es: ~
         population: 1638
-        slug: tepusteca
       - 
-        districts: []
-        location: "POINT (15.3666699999999992 -86.5999999999999943)"
+        alternate_names: ~
+        ascii_name: Teguajinal
         name: Teguajinal
+        names_en: ~
+        names_es: ~
         population: 1117
-        slug: teguajinal
       - 
-        districts: []
-        location: "POINT (14.9166699999999999 -87.2666700000000048)"
+        alternate_names: ~
+        ascii_name: Sulaco
         name: Sulaco
+        names_en: ~
+        names_es: ~
         population: 2760
-        slug: sulaco
       - 
-        districts: []
-        location: "POINT (15.1999999999999993 -87.4500000000000028)"
+        alternate_names: ~
+        ascii_name: Subirana
         name: Subirana
+        names_en: ~
+        names_es: ~
         population: 1362
-        slug: subirana
       - 
-        districts: []
-        location: "POINT (15.1666699999999999 -87.2833300000000065)"
+        alternate_names: ~
+        ascii_name: "Santa Rita"
         name: "Santa Rita"
+        names_en: ~
+        names_es: ~
         population: 12869
-        slug: santa-rita
       - 
-        districts: []
-        location: "POINT (15.3166700000000002 -87.1666699999999963)"
+        alternate_names: ~
+        ascii_name: "San Jose"
         name: "San José"
+        names_en: ~
+        names_es: ~
         population: 1897
-        slug: san-jose
       - 
-        districts: []
-        location: "POINT (15.3333300000000001 -87.1500000000000057)"
+        alternate_names: 
+          - "San Antonio"
+          - "San Antonio de Jimia"
+        ascii_name: "San Antonio"
         name: "San Antonio"
+        names_en: ~
+        names_es: ~
         population: 1711
-        slug: san-antonio
       - 
-        districts: []
-        location: "POINT (15.1999999999999993 -87.2833300000000065)"
+        alternate_names: 
+          - "Punta Ocote"
+          - "Punta de Ocote"
+        ascii_name: "Punta Ocote"
         name: "Punta Ocote"
+        names_en: ~
+        names_es: ~
         population: 1399
-        slug: punta-ocote
       - 
-        districts: []
-        location: "POINT (15.0999999999999996 -87.3499999999999943)"
+        alternate_names: ~
+        ascii_name: Paujiles
         name: Paujiles
+        names_en: ~
+        names_es: ~
         population: 1244
-        slug: paujiles
       - 
-        districts: []
-        location: "POINT (15.5000000000000000 -86.5666700000000020)"
+        alternate_names: 
+          - Olanchita
+          - Olanchito
+          - Оланчито
+        ascii_name: Olanchito
         name: Olanchito
+        names_en: ~
+        names_es: ~
         population: 25969
-        slug: olanchito
       - 
-        districts: []
-        location: "POINT (15.4166699999999999 -87.5999999999999943)"
+        alternate_names: 
+          - "Ocote Paulino"
+          - "Ocote Pavlino"
+        ascii_name: "Ocote Paulino"
         name: "Ocote Paulino"
+        names_en: ~
+        names_es: ~
         population: 1697
-        slug: ocote-paulino
       - 
-        districts: []
-        location: "POINT (15.2666699999999995 -87.5999999999999943)"
+        alternate_names: ~
+        ascii_name: "Nueva Esperanza"
         name: "Nueva Esperanza"
+        names_en: ~
+        names_es: ~
         population: 2120
-        slug: nueva-esperanza
       - 
-        districts: []
-        location: "POINT (15.3499999999999996 -86.6833299999999980)"
+        alternate_names: 
+          - "Nombre Jesus"
+          - "Nombre Jesús"
+          - "Nombre de Jesus"
+        ascii_name: "Nombre de Jesus"
         name: "Nombre de Jesús"
+        names_en: ~
+        names_es: ~
         population: 1250
-        slug: nombre-de-jesus
       - 
-        districts: []
-        location: "POINT (15.3166700000000002 -87.5999999999999943)"
+        alternate_names: 
+          - "Fransisko Morasan"
+          - Morazan
+          - Morazon
+        ascii_name: Morazan
         name: Morazán
+        names_en: ~
+        names_es: ~
         population: 11076
-        slug: morazan
       - 
-        districts: []
-        location: "POINT (15.2666699999999995 -87.5999999999999943)"
+        alternate_names: 
+          - Moiiman
+          - Mojiman
+          - Mojimán
+        ascii_name: Mojiman
         name: Mojimán
+        names_en: ~
+        names_es: ~
         population: 1498
-        slug: mojiman
       - 
-        districts: []
-        location: "POINT (15.0999999999999996 -87.2166699999999935)"
+        alternate_names: ~
+        ascii_name: Lomitas
         name: Lomitas
+        names_en: ~
+        names_es: ~
         population: 1552
-        slug: lomitas
       - 
-        districts: []
-        location: "POINT (15.0999999999999996 -87.2000000000000028)"
+        alternate_names: 
+          - "La Trinidad"
+          - Trinidad
+        ascii_name: "La Trinidad"
         name: "La Trinidad"
+        names_en: ~
+        names_es: ~
         population: 1314
-        slug: la-trinidad
       - 
-        districts: []
-        location: "POINT (15.0166699999999995 -87.4500000000000028)"
+        alternate_names: ~
+        ascii_name: "Las Vegas"
         name: "Las Vegas"
+        names_en: ~
+        names_es: ~
         population: 1308
-        slug: las-vegas
       - 
-        districts: []
-        location: "POINT (15.2333300000000005 -87.8333300000000037)"
+        alternate_names: 
+          - "La Sarrosa"
+          - "La Zarrosa"
+          - Sarrosa
+        ascii_name: "La Sarrosa"
         name: "La Sarrosa"
+        names_en: ~
+        names_es: ~
         population: 2188
-        slug: la-sarrosa
       - 
-        districts: []
-        location: "POINT (15.3499999999999996 -87.0666700000000020)"
+        alternate_names: ~
+        ascii_name: "La Rosa"
         name: "La Rosa"
+        names_en: ~
+        names_es: ~
         population: 1552
-        slug: la-rosa
       - 
-        districts: []
-        location: "POINT (15.3166700000000002 -87.8333300000000037)"
+        alternate_names: ~
+        ascii_name: "La Mina"
         name: "La Mina"
+        names_en: ~
+        names_es: ~
         population: 2690
-        slug: la-mina
       - 
-        districts: []
-        location: "POINT (15.2500000000000000 -87.7999999999999972)"
+        alternate_names: ~
+        ascii_name: "La Guacamaya"
         name: "La Guacamaya"
+        names_en: ~
+        names_es: ~
         population: 2525
-        slug: la-guacamaya
       - 
-        districts: []
-        location: "POINT (15.2833299999999994 -87.5499999999999972)"
+        alternate_names: ~
+        ascii_name: "La Estancia"
         name: "La Estancia"
+        names_en: ~
+        names_es: ~
         population: 1668
-        slug: la-estancia
       - 
-        districts: []
-        location: "POINT (15.2833299999999994 -86.9666699999999935)"
+        alternate_names: 
+          - "El Jocon"
+          - Jocon
+          - Jocón
+        ascii_name: Jocon
         name: Jocón
+        names_en: ~
+        names_es: ~
         population: 1731
-        slug: jocon
       - 
-        districts: []
-        location: "POINT (15.5000000000000000 -87.7166699999999935)"
+        alternate_names: 
+          - Guaimitas
+          - Guaymitas
+        ascii_name: Guaimitas
         name: Guaimitas
+        names_en: ~
+        names_es: ~
         population: 2321
-        slug: guaimitas
       - 
-        districts: []
-        location: "POINT (15.4000000000000004 -87.7999999999999972)"
+        alternate_names: 
+          - Ehl'-Progreso
+          - "El Progreso"
+          - "El Progress"
+        ascii_name: "El Progreso"
         name: "El Progreso"
+        names_en: ~
+        names_es: ~
         population: 100810
-        slug: el-progreso
       - 
-        districts: []
-        location: "POINT (15.4166699999999999 -86.5666700000000020)"
+        alternate_names: ~
+        ascii_name: "El Ocote"
         name: "El Ocote"
+        names_en: ~
+        names_es: ~
         population: 1908
-        slug: el-ocote
       - 
-        districts: []
-        location: "POINT (15.3166700000000002 -87.7000000000000028)"
+        alternate_names: 
+          - "El Negrito"
+          - Negrito
+        ascii_name: "El Negrito"
         name: "El Negrito"
+        names_en: ~
+        names_es: ~
         population: 9303
-        slug: el-negrito
       - 
-        districts: []
-        location: "POINT (15.4499999999999993 -86.4333299999999980)"
+        alternate_names: 
+          - "El Juncal"
+          - Juncal
+        ascii_name: "El Juncal"
         name: "El Juncal"
+        names_en: ~
+        names_es: ~
         population: 1286
-        slug: el-juncal
       - 
-        districts: []
-        location: "POINT (15.0666700000000002 -87.4666699999999935)"
+        alternate_names: 
+          - Balsamo
+          - Bálsamo
+          - "El Balsamo"
+        ascii_name: "El Balsamo"
         name: "El Bálsamo"
+        names_en: ~
+        names_es: ~
         population: 1741
-        slug: el-balsamo
       - 
-        districts: []
-        location: "POINT (15.4000000000000004 -86.6666699999999963)"
+        alternate_names: ~
+        ascii_name: "Coyoles Central"
         name: "Coyoles Central"
+        names_en: ~
+        names_es: ~
         population: 1144
-        slug: coyoles-central
       - 
-        districts: []
-        location: "POINT (15.5166699999999995 -86.3499999999999943)"
+        alternate_names: ~
+        ascii_name: Carbajales
         name: Carbajales
+        names_en: ~
+        names_es: ~
         population: 1102
-        slug: carbajales
       - 
-        districts: []
-        location: "POINT (15.4833300000000005 -86.3333300000000037)"
+        alternate_names: 
+          - Balsamo
+          - "Balsamo Oriental"
+          - "Bálsamo Oriental"
+        ascii_name: "Balsamo Oriental"
         name: "Bálsamo Oriental"
+        names_en: ~
+        names_es: ~
         population: 1465
-        slug: balsamo-oriental
       - 
-        districts: []
-        location: "POINT (15.0999999999999996 -87.1500000000000057)"
+        alternate_names: ~
+        ascii_name: Ayapa
         name: Ayapa
+        names_en: ~
+        names_es: ~
         population: 1559
-        slug: ayapa
       - 
-        districts: []
-        location: "POINT (15.4666700000000006 -86.3666699999999992)"
+        alternate_names: ~
+        ascii_name: Armenia
         name: Armenia
+        names_en: ~
+        names_es: ~
         population: 1488
-        slug: armenia
       - 
-        districts: []
-        location: "POINT (15.3499999999999996 -86.8333300000000037)"
+        alternate_names: 
+          - Arenal
+          - "El Arenal"
+        ascii_name: Arenal
         name: Arenal
+        names_en: ~
+        names_es: ~
         population: 1722
-        slug: arenal
       - 
-        districts: []
-        location: "POINT (15.2500000000000000 -87.8833300000000008)"
+        alternate_names: 
+          - "Agua Blanca"
+          - "Agua Blanca Sur"
+          - "Agua Blanca del Sur"
+        ascii_name: "Agua Blanca Sur"
         name: "Agua Blanca Sur"
+        names_en: ~
+        names_es: ~
         population: 7592
-        slug: agua-blanca-sur
-    code: HN.18
     name: Yoro
-    slug: yoro
-tld: hn
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Valle"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "San Lorenzo"
+        name: "San Lorenzo"
+        names_en: ~
+        names_es: ~
+        population: 22289
+      - 
+        alternate_names: 
+          - Coray
+          - "San Francisco Coray"
+          - "San Francisco de Coray"
+        ascii_name: "San Francisco de Coray"
+        name: "San Francisco de Coray"
+        names_en: ~
+        names_es: ~
+        population: 1330
+      - 
+        alternate_names: 
+          - Nacaome
+        ascii_name: Nacaome
+        name: Nacaome
+        names_en: ~
+        names_es: ~
+        population: 13929
+      - 
+        alternate_names: ~
+        ascii_name: Langue
+        name: Langue
+        names_en: ~
+        names_es: ~
+        population: 3679
+      - 
+        alternate_names: ~
+        ascii_name: "La Criba"
+        name: "La Criba"
+        names_en: ~
+        names_es: ~
+        population: 1001
+      - 
+        alternate_names: ~
+        ascii_name: "Jicaro Galan"
+        name: "Jícaro Galán"
+        names_en: ~
+        names_es: ~
+        population: 1370
+      - 
+        alternate_names: 
+          - Goascoran
+          - Goascorán
+          - Guas-Coran
+        ascii_name: Goascoran
+        name: Goascorán
+        names_en: ~
+        names_es: ~
+        population: 1350
+      - 
+        alternate_names: ~
+        ascii_name: "El Tular"
+        name: "El Tular"
+        names_en: ~
+        names_es: ~
+        population: 1927
+      - 
+        alternate_names: 
+          - "El Cubolero"
+          - "El Cubulero"
+        ascii_name: "El Cubolero"
+        name: "El Cubolero"
+        names_en: ~
+        names_es: ~
+        population: 1286
+      - 
+        alternate_names: ~
+        ascii_name: Aramecina
+        name: Aramecina
+        names_en: ~
+        names_es: ~
+        population: 1071
+      - 
+        alternate_names: ~
+        ascii_name: Amapala
+        name: Amapala
+        names_en: ~
+        names_es: ~
+        population: 2136
+      - 
+        alternate_names: ~
+        ascii_name: "Agua Fria"
+        name: "Agua Fría"
+        names_en: ~
+        names_es: ~
+        population: 3196
+    name: Valle
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Santa Barbara"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Trinidad
+        name: Trinidad
+        names_en: ~
+        names_es: ~
+        population: 4276
+      - 
+        alternate_names: ~
+        ascii_name: "Tras Cerros"
+        name: "Tras Cerros"
+        names_en: ~
+        names_es: ~
+        population: 4174
+      - 
+        alternate_names: ~
+        ascii_name: Sula
+        name: Sula
+        names_en: ~
+        names_es: ~
+        population: 2502
+      - 
+        alternate_names: 
+          - "San Vicente"
+          - "San Vicente Centenario"
+          - "San Vicente del Centenario"
+        ascii_name: "San Vicente Centenario"
+        name: "San Vicente Centenario"
+        names_en: ~
+        names_es: ~
+        population: 2430
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Rita"
+        name: "Santa Rita"
+        names_en: ~
+        names_es: ~
+        population: 1687
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Barbara"
+        name: "Santa Bárbara"
+        names_en: ~
+        names_es: ~
+        population: 15119
+      - 
+        alternate_names: 
+          - "San Pedro Zacapa"
+          - Zacapa
+        ascii_name: "San Pedro Zacapa"
+        name: "San Pedro Zacapa"
+        names_en: ~
+        names_es: ~
+        population: 1065
+      - 
+        alternate_names: ~
+        ascii_name: "San Nicolas"
+        name: "San Nicolás"
+        names_en: ~
+        names_es: ~
+        population: 3522
+      - 
+        alternate_names: ~
+        ascii_name: "San Marcos"
+        name: "San Marcos"
+        names_en: ~
+        names_es: ~
+        population: 3923
+      - 
+        alternate_names: 
+          - "San Luis Planes"
+          - "San Luis de Planes"
+        ascii_name: "San Luis de Planes"
+        name: "San Luis de Planes"
+        names_en: ~
+        names_es: ~
+        population: 1111
+      - 
+        alternate_names: 
+          - "San Luis"
+          - "San Luis Pajon"
+          - "San Luis Pajón"
+        ascii_name: "San Luis"
+        name: "San Luis"
+        names_en: ~
+        names_es: ~
+        population: 5733
+      - 
+        alternate_names: ~
+        ascii_name: "San Jose de Tarros"
+        name: "San José de Tarros"
+        names_en: ~
+        names_es: ~
+        population: 1634
+      - 
+        alternate_names: 
+          - "San Jose Colinas"
+          - "San Jose de Colinas"
+          - "San José Colinas"
+        ascii_name: "San Jose de Colinas"
+        name: "San José de Colinas"
+        names_en: ~
+        names_es: ~
+        population: 3985
+      - 
+        alternate_names: 
+          - Ouimistan
+          - Quimistan
+          - Quimistán
+        ascii_name: Quimistan
+        name: Quimistán
+        names_en: ~
+        names_es: ~
+        population: 3517
+      - 
+        alternate_names: ~
+        ascii_name: Proteccion
+        name: Protección
+        names_en: ~
+        names_es: ~
+        population: 2101
+      - 
+        alternate_names: ~
+        ascii_name: Pinalejo
+        name: Pinalejo
+        names_en: ~
+        names_es: ~
+        population: 3767
+      - 
+        alternate_names: ~
+        ascii_name: Petoa
+        name: Petoa
+        names_en: ~
+        names_es: ~
+        population: 1067
+      - 
+        alternate_names: 
+          - "Nueva Jalapa"
+          - "Nuevo Jalapa"
+        ascii_name: "Nueva Jalapa"
+        name: "Nueva Jalapa"
+        names_en: ~
+        names_es: ~
+        population: 1094
+      - 
+        alternate_names: 
+          - "El Naranjito"
+          - Naranjito
+        ascii_name: Naranjito
+        name: Naranjito
+        names_en: ~
+        names_es: ~
+        population: 3813
+      - 
+        alternate_names: 
+          - "Las Flores de Naco"
+          - Naco
+        ascii_name: Naco
+        name: Naco
+        names_en: ~
+        names_es: ~
+        population: 3966
+      - 
+        alternate_names: ~
+        ascii_name: "Loma Alta"
+        name: "Loma Alta"
+        names_en: ~
+        names_es: ~
+        population: 1067
+      - 
+        alternate_names: ~
+        ascii_name: "Las Vegas"
+        name: "Las Vegas"
+        names_en: ~
+        names_es: ~
+        population: 7487
+      - 
+        alternate_names: ~
+        ascii_name: "Laguna Verde"
+        name: "Laguna Verde"
+        names_en: ~
+        names_es: ~
+        population: 1460
+      - 
+        alternate_names: ~
+        ascii_name: "La Flecha"
+        name: "La Flecha"
+        names_en: ~
+        names_es: ~
+        population: 2136
+      - 
+        alternate_names: 
+          - Goconal
+          - Jaconal
+          - Joconal
+        ascii_name: Joconal
+        name: Joconal
+        names_en: ~
+        names_es: ~
+        population: 1206
+      - 
+        alternate_names: ~
+        ascii_name: Ilama
+        name: Ilama
+        names_en: ~
+        names_es: ~
+        population: 1811
+      - 
+        alternate_names: 
+          - Gualjaco
+          - Gualjoco
+        ascii_name: Gualjoco
+        name: Gualjoco
+        names_en: ~
+        names_es: ~
+        population: 1432
+      - 
+        alternate_names: 
+          - Guacamaya
+          - Guacamayas
+        ascii_name: Guacamaya
+        name: Guacamaya
+        names_en: ~
+        names_es: ~
+        population: 1250
+      - 
+        alternate_names: 
+          - "El Nispero"
+          - "El Níspero"
+          - Nispero
+        ascii_name: "El Nispero"
+        name: "El Níspero"
+        names_en: ~
+        names_es: ~
+        population: 2474
+      - 
+        alternate_names: 
+          - "El Mochito"
+          - "El Nochito"
+          - Mochito
+        ascii_name: "El Mochito"
+        name: "El Mochito"
+        names_en: ~
+        names_es: ~
+        population: 1950
+      - 
+        alternate_names: ~
+        ascii_name: "El Corozal"
+        name: "El Corozal"
+        names_en: ~
+        names_es: ~
+        population: 1039
+      - 
+        alternate_names: 
+          - Ciruelo
+          - "El Ciruelo"
+        ascii_name: "El Ciruelo"
+        name: "El Ciruelo"
+        names_en: ~
+        names_es: ~
+        population: 2980
+      - 
+        alternate_names: 
+          - Corredero
+          - Correderos
+          - "San Miguel Correderos"
+        ascii_name: Correderos
+        name: Correderos
+        names_en: ~
+        names_es: ~
+        population: 1162
+      - 
+        alternate_names: 
+          - Concepcion
+          - "Concepcion Sur"
+          - "Concepcion del Sur"
+        ascii_name: "Concepcion del Sur"
+        name: "Concepción del Sur"
+        names_en: ~
+        names_es: ~
+        population: 1049
+      - 
+        alternate_names: ~
+        ascii_name: Ceguaca
+        name: Ceguaca
+        names_en: ~
+        names_es: ~
+        population: 1239
+      - 
+        alternate_names: ~
+        ascii_name: "Casa Quemada"
+        name: "Casa Quemada"
+        names_en: ~
+        names_es: ~
+        population: 1030
+      - 
+        alternate_names: ~
+        ascii_name: Camalote
+        name: Camalote
+        names_en: ~
+        names_es: ~
+        population: 1319
+      - 
+        alternate_names: 
+          - Callejones
+          - Collejones
+        ascii_name: Callejones
+        name: Callejones
+        names_en: ~
+        names_es: ~
+        population: 1033
+      - 
+        alternate_names: ~
+        ascii_name: Berlin
+        name: Berlín
+        names_en: ~
+        names_es: ~
+        population: 1050
+      - 
+        alternate_names: ~
+        ascii_name: Azacualpa
+        name: Azacualpa
+        names_en: ~
+        names_es: ~
+        population: 5949
+      - 
+        alternate_names: ~
+        ascii_name: Azacualpa
+        name: Azacualpa
+        names_en: ~
+        names_es: ~
+        population: 1258
+      - 
+        alternate_names: ~
+        ascii_name: Atima
+        name: Atima
+        names_en: ~
+        names_es: ~
+        population: 1703
+      - 
+        alternate_names: 
+          - Arada
+          - "La Arada"
+        ascii_name: Arada
+        name: Arada
+        names_en: ~
+        names_es: ~
+        population: 2913
+      - 
+        alternate_names: ~
+        ascii_name: Agualote
+        name: Agualote
+        names_en: ~
+        names_es: ~
+        population: 1759
+    name: "Santa Bárbara"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Olancho"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Zopilotepe
+        name: Zopilotepe
+        names_en: ~
+        names_es: ~
+        population: 1300
+      - 
+        alternate_names: ~
+        ascii_name: Silca
+        name: Silca
+        names_en: ~
+        names_es: ~
+        population: 1112
+      - 
+        alternate_names: 
+          - "El Real"
+          - "Santa Maria de El Real"
+          - "Santa Maria del Real"
+        ascii_name: "Santa Maria del Real"
+        name: "Santa María del Real"
+        names_en: ~
+        names_es: ~
+        population: 4587
+      - 
+        alternate_names: ~
+        ascii_name: "San Nicolas"
+        name: "San Nicolás"
+        names_en: ~
+        names_es: ~
+        population: 1313
+      - 
+        alternate_names: 
+          - "Rio Tinto"
+          - "Río Tinto"
+          - "San Jose"
+        ascii_name: "San Jose de Rio Tinto"
+        name: "San José de Río Tinto"
+        names_en: ~
+        names_es: ~
+        population: 1071
+      - 
+        alternate_names: 
+          - "San Francisco de la Paz"
+          - "San Francisco la Paz"
+        ascii_name: "San Francisco de la Paz"
+        name: "San Francisco de la Paz"
+        names_en: ~
+        names_es: ~
+        population: 5411
+      - 
+        alternate_names: 
+          - "San Francisco Becerra"
+          - "San Francisco de Becerra"
+        ascii_name: "San Francisco de Becerra"
+        name: "San Francisco de Becerra"
+        names_en: ~
+        names_es: ~
+        population: 2411
+      - 
+        alternate_names: ~
+        ascii_name: "San Esteban"
+        name: "San Esteban"
+        names_en: ~
+        names_es: ~
+        population: 3439
+      - 
+        alternate_names: ~
+        ascii_name: Salama
+        name: Salamá
+        names_en: ~
+        names_es: ~
+        population: 2820
+      - 
+        alternate_names: ~
+        ascii_name: Punuare
+        name: Punuare
+        names_en: ~
+        names_es: ~
+        population: 1905
+      - 
+        alternate_names: ~
+        ascii_name: Manto
+        name: Manto
+        names_en: ~
+        names_es: ~
+        population: 1098
+      - 
+        alternate_names: ~
+        ascii_name: Mangulile
+        name: Mangulile
+        names_en: ~
+        names_es: ~
+        population: 1263
+      - 
+        alternate_names: ~
+        ascii_name: "Laguna Seca"
+        name: "Laguna Seca"
+        names_en: ~
+        names_es: ~
+        population: 1131
+      - 
+        alternate_names: 
+          - Guata
+          - "La Guata"
+        ascii_name: "La Guata"
+        name: "La Guata"
+        names_en: ~
+        names_es: ~
+        population: 1217
+      - 
+        alternate_names: 
+          - Estancia
+          - "La Estancia"
+        ascii_name: "La Estancia"
+        name: "La Estancia"
+        names_en: ~
+        names_es: ~
+        population: 1508
+      - 
+        alternate_names: ~
+        ascii_name: "La Concepcion"
+        name: "La Concepción"
+        names_en: ~
+        names_es: ~
+        population: 1985
+      - 
+        alternate_names: ~
+        ascii_name: Jutiquile
+        name: Jutiquile
+        names_en: ~
+        names_es: ~
+        population: 3585
+      - 
+        alternate_names: ~
+        ascii_name: Juticalpa
+        name: Juticalpa
+        names_en: ~
+        names_es: ~
+        population: 33686
+      - 
+        alternate_names: 
+          - "El Guayabo"
+          - Guayape
+        ascii_name: Guayape
+        name: Guayape
+        names_en: ~
+        names_es: ~
+        population: 1703
+      - 
+        alternate_names: ~
+        ascii_name: Guarizama
+        name: Guarizama
+        names_en: ~
+        names_es: ~
+        population: 1300
+      - 
+        alternate_names: ~
+        ascii_name: Gualaco
+        name: Gualaco
+        names_en: ~
+        names_es: ~
+        population: 3601
+      - 
+        alternate_names: ~
+        ascii_name: "El Rusio"
+        name: "El Rusio"
+        names_en: ~
+        names_es: ~
+        population: 1016
+      - 
+        alternate_names: ~
+        ascii_name: "El Guayabito"
+        name: "El Guayabito"
+        names_en: ~
+        names_es: ~
+        population: 1404
+      - 
+        alternate_names: 
+          - Culmi
+          - Culmí
+          - "Ducle Nombre"
+        ascii_name: "Dulce Nombre de Culmi"
+        name: "Dulce Nombre de Culmí"
+        names_en: ~
+        names_es: ~
+        population: 2091
+      - 
+        alternate_names: ~
+        ascii_name: Concordia
+        name: Concordia
+        names_en: ~
+        names_es: ~
+        population: 1272
+      - 
+        alternate_names: ~
+        ascii_name: Campamento
+        name: Campamento
+        names_en: ~
+        names_es: ~
+        population: 6560
+      - 
+        alternate_names: ~
+        ascii_name: Arimis
+        name: Arimís
+        names_en: ~
+        names_es: ~
+        population: 1817
+    name: Olancho
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Ocotepeque"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Yaruchel
+        name: Yaruchel
+        names_en: ~
+        names_es: ~
+        population: 1105
+      - 
+        alternate_names: 
+          - Sinuapa
+        ascii_name: Sinuapa
+        name: Sinuapa
+        names_en: ~
+        names_es: ~
+        population: 2389
+      - 
+        alternate_names: 
+          - Sensenti
+        ascii_name: Sensenti
+        name: Sensenti
+        names_en: ~
+        names_es: ~
+        population: 1551
+      - 
+        alternate_names: 
+          - "Los Estanquillos"
+          - "Santa Lucia"
+          - "Santa Lucía"
+        ascii_name: "Santa Lucia"
+        name: "Santa Lucía"
+        names_en: ~
+        names_es: ~
+        population: 1224
+      - 
+        alternate_names: 
+          - "San Marcos"
+          - "San Marcos de Ocotepeque"
+        ascii_name: "San Marcos"
+        name: "San Marcos"
+        names_en: ~
+        names_es: ~
+        population: 5346
+      - 
+        alternate_names: 
+          - "San Francisco"
+          - "San Francisco del Valle"
+        ascii_name: "San Francisco del Valle"
+        name: "San Francisco del Valle"
+        names_en: ~
+        names_es: ~
+        population: 1878
+      - 
+        alternate_names: ~
+        ascii_name: "San Francisco de Cones"
+        name: "San Francisco de Cones"
+        names_en: ~
+        names_es: ~
+        population: 1066
+      - 
+        alternate_names: ~
+        ascii_name: "San Fernando"
+        name: "San Fernando"
+        names_en: ~
+        names_es: ~
+        population: 1026
+      - 
+        alternate_names: 
+          - "Nueva Ocotepeque"
+          - Ocotepeque
+        ascii_name: "Nueva Ocotepeque"
+        name: "Nueva Ocotepeque"
+        names_en: ~
+        names_es: ~
+        population: 8780
+      - 
+        alternate_names: ~
+        ascii_name: Lucerna
+        name: Lucerna
+        names_en: ~
+        names_es: ~
+        population: 1452
+      - 
+        alternate_names: ~
+        ascii_name: "La Labor"
+        name: "La Labor"
+        names_en: ~
+        names_es: ~
+        population: 1416
+      - 
+        alternate_names: 
+          - "La Encarnacion"
+          - "La Encarnación"
+          - "La Ercarnacion"
+        ascii_name: "La Encarnacion"
+        name: "La Encarnación"
+        names_en: ~
+        names_es: ~
+        population: 1484
+      - 
+        alternate_names: ~
+        ascii_name: "El Transito"
+        name: "El Tránsito"
+        names_en: ~
+        names_es: ~
+        population: 1025
+      - 
+        alternate_names: 
+          - Belen
+          - "Belen Gualcho"
+          - "Belén Gualcho"
+        ascii_name: "Belen Gualcho"
+        name: "Belén Gualcho"
+        names_en: ~
+        names_es: ~
+        population: 2359
+      - 
+        alternate_names: 
+          - "Antigua Ocotepeque"
+          - "Vieja Ocotepeque"
+        ascii_name: "Antigua Ocotepeque"
+        name: "Antigua Ocotepeque"
+        names_en: ~
+        names_es: ~
+        population: 1862
+    name: Ocotepeque
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Lempira"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Taragual
+        name: Taragual
+        names_en: ~
+        names_es: ~
+        population: 1043
+      - 
+        alternate_names: ~
+        ascii_name: Lepaera
+        name: Lepaera
+        names_en: ~
+        names_es: ~
+        population: 3137
+      - 
+        alternate_names: 
+          - "La Virtud"
+          - Virtud
+        ascii_name: "La Virtud"
+        name: "La Virtud"
+        names_en: ~
+        names_es: ~
+        population: 1315
+      - 
+        alternate_names: ~
+        ascii_name: "La Union"
+        name: "La Unión"
+        names_en: ~
+        names_es: ~
+        population: 3054
+      - 
+        alternate_names: 
+          - "Las Tejeras"
+          - Tejeras
+        ascii_name: "Las Tejeras"
+        name: "Las Tejeras"
+        names_en: ~
+        names_es: ~
+        population: 1140
+      - 
+        alternate_names: 
+          - "La Liberdad"
+          - "La Libertad"
+        ascii_name: "La Libertad"
+        name: "La Libertad"
+        names_en: ~
+        names_es: ~
+        population: 1444
+      - 
+        alternate_names: 
+          - Gracias
+        ascii_name: Gracias
+        name: Gracias
+        names_en: ~
+        names_es: ~
+        population: 7909
+      - 
+        alternate_names: ~
+        ascii_name: Erandique
+        name: Erandique
+        names_en: ~
+        names_es: ~
+        population: 1882
+      - 
+        alternate_names: 
+          - Achiotal
+          - "El Achiotal"
+          - "El Achotal"
+        ascii_name: "El Achiotal"
+        name: "El Achiotal"
+        names_en: ~
+        names_es: ~
+        population: 1210
+      - 
+        alternate_names: ~
+        ascii_name: Cololaca
+        name: Cololaca
+        names_en: ~
+        names_es: ~
+        population: 1014
+    name: Lempira
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departmento de La Paz"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Yarumela
+        name: Yarumela
+        names_en: ~
+        names_es: ~
+        population: 3059
+      - 
+        alternate_names: 
+          - Tepanguara
+          - Tepanguare
+        ascii_name: Tepanguare
+        name: Tepanguare
+        names_en: ~
+        names_es: ~
+        population: 1040
+      - 
+        alternate_names: 
+          - "Santiago Puringla"
+          - "Santiago de Puringla"
+        ascii_name: "Santiago Puringla"
+        name: "Santiago Puringla"
+        names_en: ~
+        names_es: ~
+        population: 2433
+      - 
+        alternate_names: 
+          - "San Pedro Tutule"
+          - "San Pedro de Tutule"
+          - Tutule
+        ascii_name: "San Pedro de Tutule"
+        name: "San Pedro de Tutule"
+        names_en: ~
+        names_es: ~
+        population: 1876
+      - 
+        alternate_names: ~
+        ascii_name: "San Jose"
+        name: "San José"
+        names_en: ~
+        names_es: ~
+        population: 1463
+      - 
+        alternate_names: 
+          - "San Antonio Norte"
+          - "San Antonio del Norte"
+        ascii_name: "San Antonio del Norte"
+        name: "San Antonio del Norte"
+        names_en: ~
+        names_es: ~
+        population: 1002
+      - 
+        alternate_names: ~
+        ascii_name: Marcala
+        name: Marcala
+        names_en: ~
+        names_es: ~
+        population: 10054
+      - 
+        alternate_names: 
+          - "Los Planes"
+          - Planes
+        ascii_name: "Los Planes"
+        name: "Los Planes"
+        names_en: ~
+        names_es: ~
+        population: 1320
+      - 
+        alternate_names: ~
+        ascii_name: "La Paz"
+        name: "La Paz"
+        names_en: ~
+        names_es: ~
+        population: 17555
+      - 
+        alternate_names: ~
+        ascii_name: Cane
+        name: Cane
+        names_en: ~
+        names_es: ~
+        population: 2190
+    name: "La Paz"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Islas de la Bahia"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sabana Bight"
+          - "Sabana Bigt"
+          - "Savannah Bight"
+        ascii_name: "Savannah Bight"
+        name: "Savannah Bight"
+        names_en: ~
+        names_es: ~
+        population: 1031
+      - 
+        alternate_names: 
+          - "Sand Bay"
+          - "Sandy Bay"
+        ascii_name: "Sandy Bay"
+        name: "Sandy Bay"
+        names_en: ~
+        names_es: ~
+        population: 1072
+      - 
+        alternate_names: 
+          - "Coxen Hole"
+          - "Coxin Hole"
+          - Roatan
+        ascii_name: Roatan
+        name: Roatán
+        names_en: ~
+        names_es: ~
+        population: 7514
+      - 
+        alternate_names: 
+          - Guanaja
+        ascii_name: Guanaja
+        name: Guanaja
+        names_en: ~
+        names_es: ~
+        population: 1942
+      - 
+        alternate_names: 
+          - "French Harbor"
+          - "French Harbour"
+        ascii_name: "French Harbor"
+        name: "French Harbor"
+        names_en: ~
+        names_es: ~
+        population: 2698
+    name: "Islas de la Bahía"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Intibuca"
+    cities: 
+      - 
+        alternate_names: 
+          - Yamaranguila
+        ascii_name: Yamaranguila
+        name: Yamaranguila
+        names_en: ~
+        names_es: ~
+        population: 1187
+      - 
+        alternate_names: 
+          - "La Esperanza"
+          - "Nueva Esperanza"
+        ascii_name: "La Esperanza"
+        name: "La Esperanza"
+        names_en: ~
+        names_es: ~
+        population: 5318
+      - 
+        alternate_names: 
+          - Jiquinlaca
+          - Jiquinlace
+        ascii_name: Jiquinlaca
+        name: Jiquinlaca
+        names_en: ~
+        names_es: ~
+        population: 1248
+      - 
+        alternate_names: 
+          - "Jesus de Otoro"
+          - "Jesús de Otoro"
+        ascii_name: "Jesus de Otoro"
+        name: "Jesús de Otoro"
+        names_en: ~
+        names_es: ~
+        population: 6988
+      - 
+        alternate_names: ~
+        ascii_name: Intibuca
+        name: Intibucá
+        names_en: ~
+        names_es: ~
+        population: 13741
+      - 
+        alternate_names: 
+          - Camasca
+          - "Villa de Camasca"
+        ascii_name: Camasca
+        name: Camasca
+        names_en: ~
+        names_es: ~
+        population: 1150
+    name: Intibucá
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Gracias a Dios"
+    cities: 
+      - 
+        alternate_names: 
+          - Guaguina
+          - Guawina
+          - Wawina
+        ascii_name: Wawina
+        name: Wawina
+        names_en: ~
+        names_es: ~
+        population: 1481
+      - 
+        alternate_names: ~
+        ascii_name: Wampusirpi
+        name: Wampusirpi
+        names_en: ~
+        names_es: ~
+        population: 1462
+      - 
+        alternate_names: 
+          - "Puerto Lempira"
+        ascii_name: "Puerto Lempira"
+        name: "Puerto Lempira"
+        names_en: ~
+        names_es: ~
+        population: 4856
+      - 
+        alternate_names: 
+          - Papalaya
+          - Paptalaya
+        ascii_name: Paptalaya
+        name: Paptalaya
+        names_en: ~
+        names_es: ~
+        population: 1227
+      - 
+        alternate_names: 
+          - Ilaya
+          - Iralaya
+          - Irlaya
+        ascii_name: Iralaya
+        name: Iralaya
+        names_en: ~
+        names_es: ~
+        population: 1520
+      - 
+        alternate_names: 
+          - Brewers
+          - "Brewers Lagoon"
+          - "Brus Laguna"
+        ascii_name: "Brus Laguna"
+        name: "Brus Laguna"
+        names_en: ~
+        names_es: ~
+        population: 4067
+      - 
+        alternate_names: 
+          - "Barra Patuca"
+          - "Barra del Patuca"
+          - Butucamaya
+        ascii_name: "Barra Patuca"
+        name: "Barra Patuca"
+        names_en: ~
+        names_es: ~
+        population: 2758
+      - 
+        alternate_names: 
+          - Auca
+          - Auka
+        ascii_name: Auka
+        name: Auka
+        names_en: ~
+        names_es: ~
+        population: 1254
+      - 
+        alternate_names: 
+          - Ahuas
+          - Ahuás
+          - Auas
+        ascii_name: Auas
+        name: Auas
+        names_en: ~
+        names_es: ~
+        population: 1505
+    name: "Gracias a Dios"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departmento de Francisco Morazan"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Zambrano
+        name: Zambrano
+        names_en: ~
+        names_es: ~
+        population: 3873
+      - 
+        alternate_names: ~
+        ascii_name: Yaguacire
+        name: Yaguacire
+        names_en: ~
+        names_es: ~
+        population: 1449
+      - 
+        alternate_names: 
+          - "Villa Nueva"
+          - "Villanueva Viejo"
+        ascii_name: "Villa Nueva"
+        name: "Villa Nueva"
+        names_en: ~
+        names_es: ~
+        population: 2295
+      - 
+        alternate_names: 
+          - "Villa San Francisco"
+          - "Villa de San Francisco"
+        ascii_name: "Villa de San Francisco"
+        name: "Villa de San Francisco"
+        names_en: ~
+        names_es: ~
+        population: 5914
+      - 
+        alternate_names: ~
+        ascii_name: "Valle de Angeles"
+        name: "Valle de Ángeles"
+        names_en: ~
+        names_es: ~
+        population: 4649
+      - 
+        alternate_names: ~
+        ascii_name: Vallecillo
+        name: Vallecillo
+        names_en: ~
+        names_es: ~
+        population: 1986
+      - 
+        alternate_names: 
+          - Tegucigalpa
+          - Tegucigalpo
+          - Tegucigucigalpa
+        ascii_name: Tegucigalpa
+        name: Tegucigalpa
+        names_en: 
+          - Tegucigalpa
+        names_es: 
+          - Tegucigalpa
+        population: 850848
+      - 
+        alternate_names: ~
+        ascii_name: Tamara
+        name: Támara
+        names_en: ~
+        names_es: ~
+        population: 2683
+      - 
+        alternate_names: ~
+        ascii_name: Talanga
+        name: Talanga
+        names_en: ~
+        names_es: ~
+        population: 13492
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Lucia"
+        name: "Santa Lucía"
+        names_en: ~
+        names_es: ~
+        population: 2288
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Ana"
+        name: "Santa Ana"
+        names_en: ~
+        names_es: ~
+        population: 1052
+      - 
+        alternate_names: 
+          - Cantaranas
+          - Cantarranas
+          - "San Juan Flores"
+        ascii_name: "San Juan de Flores"
+        name: "San Juan de Flores"
+        names_en: ~
+        names_es: ~
+        population: 3633
+      - 
+        alternate_names: 
+          - "San Ignacio"
+          - "San Ignasio"
+        ascii_name: "San Ignacio"
+        name: "San Ignacio"
+        names_en: ~
+        names_es: ~
+        population: 2330
+      - 
+        alternate_names: 
+          - Sabanagrande
+          - "Sabanu Grande"
+        ascii_name: Sabanagrande
+        name: Sabanagrande
+        names_en: ~
+        names_es: ~
+        population: 2056
+      - 
+        alternate_names: ~
+        ascii_name: "Rio Abajo"
+        name: "Río Abajo"
+        names_en: ~
+        names_es: ~
+        population: 2055
+      - 
+        alternate_names: 
+          - Reitoca
+          - Reitoco
+        ascii_name: Reitoca
+        name: Reitoca
+        names_en: ~
+        names_es: ~
+        population: 1094
+      - 
+        alternate_names: 
+          - "Las Quebradas"
+          - Quebradas
+          - "Trinidad de Quebradas"
+        ascii_name: Quebradas
+        name: Quebradas
+        names_en: ~
+        names_es: ~
+        population: 1405
+      - 
+        alternate_names: ~
+        ascii_name: Orica
+        name: Orica
+        names_en: ~
+        names_es: ~
+        population: 2342
+      - 
+        alternate_names: ~
+        ascii_name: Ojojona
+        name: Ojojona
+        names_en: ~
+        names_es: ~
+        population: 2790
+      - 
+        alternate_names: ~
+        ascii_name: Mateo
+        name: Mateo
+        names_en: ~
+        names_es: ~
+        population: 1021
+      - 
+        alternate_names: ~
+        ascii_name: "Mata de Platano"
+        name: "Mata de Plátano"
+        names_en: ~
+        names_es: ~
+        population: 1151
+      - 
+        alternate_names: ~
+        ascii_name: Marale
+        name: Marale
+        names_en: ~
+        names_es: ~
+        population: 1523
+      - 
+        alternate_names: 
+          - Lapaterique
+          - Lepaterique
+        ascii_name: Lepaterique
+        name: Lepaterique
+        names_en: ~
+        names_es: ~
+        population: 2090
+      - 
+        alternate_names: 
+          - Ermita
+          - Hermita
+          - "La Ermita"
+        ascii_name: "La Ermita"
+        name: "La Ermita"
+        names_en: ~
+        names_es: ~
+        population: 2495
+      - 
+        alternate_names: 
+          - Guaimaca
+        ascii_name: Guaimaca
+        name: Guaimaca
+        names_en: ~
+        names_es: ~
+        population: 12899
+      - 
+        alternate_names: ~
+        ascii_name: "El Terrero"
+        name: "El Terrero"
+        names_en: ~
+        names_es: ~
+        population: 1087
+      - 
+        alternate_names: 
+          - "El Tablon"
+          - "El Tablón"
+          - Tablon
+        ascii_name: "El Tablon"
+        name: "El Tablón"
+        names_en: ~
+        names_es: ~
+        population: 1121
+      - 
+        alternate_names: 
+          - "El Suyatal"
+          - Suyatal
+          - Zuyatal
+        ascii_name: "El Suyatal"
+        name: "El Suyatal"
+        names_en: ~
+        names_es: ~
+        population: 2027
+      - 
+        alternate_names: ~
+        ascii_name: "El Porvenir"
+        name: "El Porvenir"
+        names_en: ~
+        names_es: ~
+        population: 3153
+      - 
+        alternate_names: ~
+        ascii_name: "El Pedernal"
+        name: "El Pedernal"
+        names_en: ~
+        names_es: ~
+        population: 1648
+      - 
+        alternate_names: ~
+        ascii_name: "El Lolo"
+        name: "El Lolo"
+        names_en: ~
+        names_es: ~
+        population: 1438
+      - 
+        alternate_names: ~
+        ascii_name: "El Guapinol"
+        name: "El Guapinol"
+        names_en: ~
+        names_es: ~
+        population: 1817
+      - 
+        alternate_names: 
+          - "El Guantillo"
+          - Guantillo
+        ascii_name: "El Guantillo"
+        name: "El Guantillo"
+        names_en: ~
+        names_es: ~
+        population: 1223
+      - 
+        alternate_names: 
+          - "El Guante"
+          - Guante
+        ascii_name: "El Guante"
+        name: "El Guante"
+        names_en: ~
+        names_es: ~
+        population: 1082
+      - 
+        alternate_names: 
+          - "El Escano"
+          - "El Escano de Tepale"
+          - "El Escaño de Tepale"
+        ascii_name: "El Escano de Tepale"
+        name: "El Escaño de Tepale"
+        names_en: ~
+        names_es: ~
+        population: 1026
+      - 
+        alternate_names: 
+          - "El Escanito"
+          - Escanito
+        ascii_name: "El Escanito"
+        name: "El Escanito"
+        names_en: ~
+        names_es: ~
+        population: 1184
+      - 
+        alternate_names: 
+          - Chimbo
+          - "El Chimbo"
+        ascii_name: "El Chimbo"
+        name: "El Chimbo"
+        names_en: ~
+        names_es: ~
+        population: 1145
+      - 
+        alternate_names: ~
+        ascii_name: Cofradia
+        name: Cofradía
+        names_en: ~
+        names_es: ~
+        population: 1301
+      - 
+        alternate_names: ~
+        ascii_name: "Cerro Grande"
+        name: "Cerro Grande"
+        names_en: ~
+        names_es: ~
+        population: 1093
+      - 
+        alternate_names: 
+          - Cedros
+          - Cerros
+        ascii_name: Cedros
+        name: Cedros
+        names_en: ~
+        names_es: ~
+        population: 1041
+      - 
+        alternate_names: 
+          - Agalteca
+          - "Ingenio Agalteca"
+        ascii_name: Agalteca
+        name: Agalteca
+        names_en: ~
+        names_es: ~
+        population: 1029
+    name: "Francisco Morazán"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de El Paraiso"
+    cities: 
+      - 
+        alternate_names: 
+          - Yuscaran
+          - Yuscarán
+        ascii_name: Yuscaran
+        name: Yuscarán
+        names_en: ~
+        names_es: ~
+        population: 2371
+      - 
+        alternate_names: 
+          - Teupasenti
+        ascii_name: Teupasenti
+        name: Teupasenti
+        names_en: ~
+        names_es: ~
+        population: 4207
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Cruz"
+        name: "Santa Cruz"
+        names_en: ~
+        names_es: ~
+        population: 1430
+      - 
+        alternate_names: ~
+        ascii_name: "San Matias"
+        name: "San Matías"
+        names_en: ~
+        names_es: ~
+        population: 1251
+      - 
+        alternate_names: ~
+        ascii_name: "San Lucas"
+        name: "San Lucas"
+        names_en: ~
+        names_es: ~
+        population: 1307
+      - 
+        alternate_names: ~
+        ascii_name: "San Diego"
+        name: "San Diego"
+        names_en: ~
+        names_es: ~
+        population: 1306
+      - 
+        alternate_names: ~
+        ascii_name: "Quebrada Larga"
+        name: "Quebrada Larga"
+        names_en: ~
+        names_es: ~
+        population: 1217
+      - 
+        alternate_names: ~
+        ascii_name: Oropoli
+        name: Oropolí
+        names_en: ~
+        names_es: ~
+        population: 1412
+      - 
+        alternate_names: ~
+        ascii_name: "Ojo de Agua"
+        name: "Ojo de Agua"
+        names_en: ~
+        names_es: ~
+        population: 2330
+      - 
+        alternate_names: 
+          - Moroceh
+          - Moroceli
+          - Morocelí
+        ascii_name: Moroceli
+        name: Morocelí
+        names_en: ~
+        names_es: ~
+        population: 2984
+      - 
+        alternate_names: ~
+        ascii_name: Liure
+        name: Liure
+        names_en: ~
+        names_es: ~
+        population: 1022
+      - 
+        alternate_names: 
+          - "Las Trojes"
+          - Trojes
+        ascii_name: "Las Trojes"
+        name: "Las Trojes"
+        names_en: ~
+        names_es: ~
+        population: 6253
+      - 
+        alternate_names: ~
+        ascii_name: "Las Animas"
+        name: "Las Ánimas"
+        names_en: ~
+        names_es: ~
+        population: 1117
+      - 
+        alternate_names: ~
+        ascii_name: Jutiapa
+        name: Jutiapa
+        names_en: ~
+        names_es: ~
+        population: 1153
+      - 
+        alternate_names: ~
+        ascii_name: Jacaleapa
+        name: Jacaleapa
+        names_en: ~
+        names_es: ~
+        population: 2578
+      - 
+        alternate_names: ~
+        ascii_name: Guinope
+        name: Güinope
+        names_en: ~
+        names_es: ~
+        population: 2716
+      - 
+        alternate_names: ~
+        ascii_name: "El Paraiso"
+        name: "El Paraíso"
+        names_en: ~
+        names_es: ~
+        population: 18779
+      - 
+        alternate_names: 
+          - "El Obraje"
+          - Obraje
+        ascii_name: "El Obraje"
+        name: "El Obraje"
+        names_en: ~
+        names_es: ~
+        population: 1703
+      - 
+        alternate_names: 
+          - Chichicaste
+          - "El Chichicaste"
+          - "El Chichiquiste"
+        ascii_name: "El Chichicaste"
+        name: "El Chichicaste"
+        names_en: ~
+        names_es: ~
+        population: 1671
+      - 
+        alternate_names: ~
+        ascii_name: "El Benque"
+        name: "El Benque"
+        names_en: ~
+        names_es: ~
+        population: 1101
+      - 
+        alternate_names: ~
+        ascii_name: Danli
+        name: Danlí
+        names_en: ~
+        names_es: ~
+        population: 44799
+      - 
+        alternate_names: ~
+        ascii_name: Cuyali
+        name: Cuyalí
+        names_en: ~
+        names_es: ~
+        population: 1572
+      - 
+        alternate_names: 
+          - Arauli
+          - Araulí
+          - Aurali
+        ascii_name: Arauli
+        name: Araulí
+        names_en: ~
+        names_es: ~
+        population: 1160
+      - 
+        alternate_names: ~
+        ascii_name: Texiguat
+        name: Texíguat
+        names_en: ~
+        names_es: ~
+        population: 1012
+    name: "El Paraíso"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Cortes"
+    cities: 
+      - 
+        alternate_names: 
+          - "Port Cortez"
+          - Puehrto-Kortes
+          - "Puerto Caballo"
+        ascii_name: "Puerto Cortez"
+        name: "Puerto Cortez"
+        names_en: ~
+        names_es: ~
+        population: 48013
+      - 
+        alternate_names: ~
+        ascii_name: Villanueva
+        name: Villanueva
+        names_en: ~
+        names_es: ~
+        population: 31571
+      - 
+        alternate_names: ~
+        ascii_name: Travesia
+        name: Travesía
+        names_en: ~
+        names_es: ~
+        population: 1283
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Elena"
+        name: "Santa Elena"
+        names_en: ~
+        names_es: ~
+        population: 1361
+      - 
+        alternate_names: 
+          - "Santa Cruz de Yojoa"
+        ascii_name: "Santa Cruz de Yojoa"
+        name: "Santa Cruz de Yojoa"
+        names_en: ~
+        names_es: ~
+        population: 10230
+      - 
+        alternate_names: 
+          - "San Pedro"
+          - "San Pedro Sula"
+        ascii_name: "San Pedro Sula"
+        name: "San Pedro Sula"
+        names_en: 
+          - "San Pedro Sula"
+        names_es: 
+          - "San Pedro Sula"
+        population: 489466
+      - 
+        alternate_names: 
+          - "San Manuel"
+          - "San Manuel Tehuma"
+        ascii_name: "San Manuel"
+        name: "San Manuel"
+        names_en: ~
+        names_es: ~
+        population: 6389
+      - 
+        alternate_names: 
+          - Boqueron
+          - Boquerón
+          - "San Jose del Boqueron"
+        ascii_name: "San Jose del Boqueron"
+        name: "San José del Boquerón"
+        names_en: ~
+        names_es: ~
+        population: 1432
+      - 
+        alternate_names: 
+          - "San Francisco Yojoa"
+          - "San Francisco de Yojoa"
+        ascii_name: "San Francisco de Yojoa"
+        name: "San Francisco de Yojoa"
+        names_en: ~
+        names_es: ~
+        population: 1946
+      - 
+        alternate_names: ~
+        ascii_name: "San Buenaventura"
+        name: "San Buenaventura"
+        names_en: ~
+        names_es: ~
+        population: 1452
+      - 
+        alternate_names: ~
+        ascii_name: "San Antonio de Cortes"
+        name: "San Antonio de Cortés"
+        names_en: ~
+        names_es: ~
+        population: 4955
+      - 
+        alternate_names: ~
+        ascii_name: "Rio Lindo"
+        name: "Río Lindo"
+        names_en: ~
+        names_es: ~
+        population: 3479
+      - 
+        alternate_names: ~
+        ascii_name: "Rio Chiquito"
+        name: "Río Chiquito"
+        names_en: ~
+        names_es: ~
+        population: 1405
+      - 
+        alternate_names: ~
+        ascii_name: "Rio Blanquito"
+        name: "Río Blanquito"
+        names_en: ~
+        names_es: ~
+        population: 2458
+      - 
+        alternate_names: ~
+        ascii_name: "Quebrada Seca"
+        name: "Quebrada Seca"
+        names_en: ~
+        names_es: ~
+        population: 2248
+      - 
+        alternate_names: 
+          - "Puente Alto"
+          - "Puerto Alto"
+        ascii_name: "Puerto Alto"
+        name: "Puerto Alto"
+        names_en: ~
+        names_es: ~
+        population: 1385
+      - 
+        alternate_names: ~
+        ascii_name: "Pueblo Nuevo"
+        name: "Pueblo Nuevo"
+        names_en: ~
+        names_es: ~
+        population: 3556
+      - 
+        alternate_names: ~
+        ascii_name: Potrerillos
+        name: Potrerillos
+        names_en: ~
+        names_es: ~
+        population: 1102
+      - 
+        alternate_names: 
+          - Porterillas
+          - Potrerillos
+        ascii_name: Potrerillos
+        name: Potrerillos
+        names_en: ~
+        names_es: ~
+        population: 15707
+      - 
+        alternate_names: ~
+        ascii_name: "Pimienta Vieja"
+        name: "Pimienta Vieja"
+        names_en: ~
+        names_es: ~
+        population: 8761
+      - 
+        alternate_names: ~
+        ascii_name: "Pena Blanca"
+        name: "Peña Blanca"
+        names_en: ~
+        names_es: ~
+        population: 3552
+      - 
+        alternate_names: 
+          - "Las Urupas"
+          - Oropendolas
+          - Oropendolo
+        ascii_name: Oropendolas
+        name: Oropéndolas
+        names_en: ~
+        names_es: ~
+        population: 1333
+      - 
+        alternate_names: 
+          - Omoa
+        ascii_name: Omoa
+        name: Omoa
+        names_en: ~
+        names_es: ~
+        population: 4763
+      - 
+        alternate_names: 
+          - "Nuevo Chamelecon"
+          - "Nuevo Chamelecón"
+          - "Nuvo Chameleco"
+        ascii_name: "Nuevo Chamelecon"
+        name: "Nuevo Chamelecón"
+        names_en: ~
+        names_es: ~
+        population: 2098
+      - 
+        alternate_names: 
+          - Monte-Rey
+          - "Monterey del Norte"
+          - Monterrey
+        ascii_name: Monterrey
+        name: Monterrey
+        names_en: ~
+        names_es: ~
+        population: 2234
+      - 
+        alternate_names: ~
+        ascii_name: "Los Naranjos"
+        name: "Los Naranjos"
+        names_en: ~
+        names_es: ~
+        population: 1684
+      - 
+        alternate_names: 
+          - "Los Caminos"
+          - "Los Cominos"
+        ascii_name: "Los Caminos"
+        name: "Los Caminos"
+        names_en: ~
+        names_es: ~
+        population: 1146
+      - 
+        alternate_names: ~
+        ascii_name: "La Sabana"
+        name: "La Sabana"
+        names_en: ~
+        names_es: ~
+        population: 1524
+      - 
+        alternate_names: 
+          - "La Lima"
+          - La-Lima
+          - "Lima Vieja"
+        ascii_name: "La Lima"
+        name: "La Lima"
+        names_en: ~
+        names_es: ~
+        population: 45955
+      - 
+        alternate_names: 
+          - Jutosa
+          - "La Jutosa"
+        ascii_name: "La Jutosa"
+        name: "La Jutosa"
+        names_en: ~
+        names_es: ~
+        population: 4183
+      - 
+        alternate_names: 
+          - "La Bueso"
+          - "La Huesa"
+        ascii_name: "La Huesa"
+        name: "La Huesa"
+        names_en: ~
+        names_es: ~
+        population: 1139
+      - 
+        alternate_names: ~
+        ascii_name: "La Guama"
+        name: "La Guama"
+        names_en: ~
+        names_es: ~
+        population: 1242
+      - 
+        alternate_names: 
+          - "El Zapotal"
+          - "El Zapotal del Norte"
+          - "Zapotal del Norte"
+        ascii_name: "El Zapotal del Norte"
+        name: "El Zapotal del Norte"
+        names_en: ~
+        names_es: ~
+        population: 2508
+      - 
+        alternate_names: 
+          - "El Tigre"
+          - Tigre
+        ascii_name: "El Tigre"
+        name: "El Tigre"
+        names_en: ~
+        names_es: ~
+        population: 1435
+      - 
+        alternate_names: ~
+        ascii_name: "El Rancho"
+        name: "El Rancho"
+        names_en: ~
+        names_es: ~
+        population: 1101
+      - 
+        alternate_names: ~
+        ascii_name: "El Porvenir"
+        name: "El Porvenir"
+        names_en: ~
+        names_es: ~
+        population: 2940
+      - 
+        alternate_names: ~
+        ascii_name: "El Plan"
+        name: "El Plan"
+        names_en: ~
+        names_es: ~
+        population: 2176
+      - 
+        alternate_names: ~
+        ascii_name: "El Perico"
+        name: "El Perico"
+        names_en: ~
+        names_es: ~
+        population: 1141
+      - 
+        alternate_names: ~
+        ascii_name: "El Olivar"
+        name: "El Olivar"
+        names_en: ~
+        names_es: ~
+        population: 1279
+      - 
+        alternate_names: ~
+        ascii_name: "El Milagro"
+        name: "El Milagro"
+        names_en: ~
+        names_es: ~
+        population: 1917
+      - 
+        alternate_names: 
+          - "El Maranon"
+          - "El Marañón"
+          - Maranon
+        ascii_name: "El Maranon"
+        name: "El Marañón"
+        names_en: ~
+        names_es: ~
+        population: 1836
+      - 
+        alternate_names: ~
+        ascii_name: "El Llano"
+        name: "El Llano"
+        names_en: ~
+        names_es: ~
+        population: 1923
+      - 
+        alternate_names: 
+          - Cuaymel
+          - Cuyamel
+        ascii_name: Cuyamel
+        name: Cuyamel
+        names_en: ~
+        names_es: ~
+        population: 5022
+      - 
+        alternate_names: ~
+        ascii_name: Cofradia
+        name: Cofradía
+        names_en: ~
+        names_es: ~
+        population: 20353
+      - 
+        alternate_names: ~
+        ascii_name: Chotepe
+        name: Chotepe
+        names_en: ~
+        names_es: ~
+        population: 1564
+      - 
+        alternate_names: ~
+        ascii_name: Choloma
+        name: Choloma
+        names_en: ~
+        names_es: ~
+        population: 139100
+      - 
+        alternate_names: ~
+        ascii_name: Chivana
+        name: Chivana
+        names_en: ~
+        names_es: ~
+        population: 1018
+      - 
+        alternate_names: ~
+        ascii_name: "Casa Quemada"
+        name: "Casa Quemada"
+        names_en: ~
+        names_es: ~
+        population: 3036
+      - 
+        alternate_names: 
+          - Canaveral
+          - Canaverales
+          - Cañaveral
+        ascii_name: Canaveral
+        name: Cañaveral
+        names_en: ~
+        names_es: ~
+        population: 2137
+      - 
+        alternate_names: ~
+        ascii_name: Bejuco
+        name: Bejuco
+        names_en: ~
+        names_es: ~
+        population: 1276
+      - 
+        alternate_names: ~
+        ascii_name: Baracoa
+        name: Baracoa
+        names_en: ~
+        names_es: ~
+        population: 9202
+      - 
+        alternate_names: ~
+        ascii_name: "Baja Mar"
+        name: "Baja Mar"
+        names_en: ~
+        names_es: ~
+        population: 1064
+      - 
+        alternate_names: ~
+        ascii_name: Armenta
+        name: Armenta
+        names_en: ~
+        names_es: ~
+        population: 2989
+      - 
+        alternate_names: 
+          - "Agua Azul"
+          - "Agua Azul Rancho"
+          - Granja
+        ascii_name: "Agua Azul Rancho"
+        name: "Agua Azul Rancho"
+        names_en: ~
+        names_es: ~
+        population: 1043
+      - 
+        alternate_names: 
+          - "Agua Azul"
+          - "Agua Azul Sierra"
+          - Aserradero
+        ascii_name: "Agua Azul"
+        name: "Agua Azul"
+        names_en: ~
+        names_es: ~
+        population: 1079
+    name: Cortés
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Copan"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Veracruz
+        name: Veracruz
+        names_en: ~
+        names_es: ~
+        population: 1045
+      - 
+        alternate_names: 
+          - "La Trinidad"
+          - Trinidad
+          - "Trinidad de Copan"
+        ascii_name: "Trinidad de Copan"
+        name: "Trinidad de Copán"
+        names_en: ~
+        names_es: ~
+        population: 2232
+      - 
+        alternate_names: 
+          - "Santa Rosa"
+          - "Santa Rosa Copan"
+          - "Santa Rosa Copán"
+        ascii_name: "Santa Rosa de Copan"
+        name: "Santa Rosa de Copán"
+        names_en: ~
+        names_es: ~
+        population: 27753
+      - 
+        alternate_names: 
+          - "Santa Rita"
+          - "Santa Rita de Copan"
+          - "Santa Rita de Copán"
+        ascii_name: "Santa Rita"
+        name: "Santa Rita"
+        names_en: ~
+        names_es: ~
+        population: 2704
+      - 
+        alternate_names: ~
+        ascii_name: "San Nicolas"
+        name: "San Nicolás"
+        names_en: ~
+        names_es: ~
+        population: 2231
+      - 
+        alternate_names: 
+          - Planes
+          - "Planes de San Juan"
+          - "San Juan Planes"
+        ascii_name: "San Juan de Planes"
+        name: "San Juan de Planes"
+        names_en: ~
+        names_es: ~
+        population: 1048
+      - 
+        alternate_names: 
+          - "San Juan Opoa"
+          - "San Juan de Opoa"
+        ascii_name: "San Juan de Opoa"
+        name: "San Juan de Opoa"
+        names_en: ~
+        names_es: ~
+        population: 1636
+      - 
+        alternate_names: 
+          - "San Jose"
+          - "San Jose de Copan"
+          - "San José"
+        ascii_name: "San Jose de Copan"
+        name: "San José de Copán"
+        names_en: ~
+        names_es: ~
+        population: 1789
+      - 
+        alternate_names: ~
+        ascii_name: "San Joaquin"
+        name: "San Joaquín"
+        names_en: ~
+        names_es: ~
+        population: 1130
+      - 
+        alternate_names: 
+          - Jeronimo
+          - "San Jeronimo"
+          - "San Jerónimo"
+        ascii_name: "San Jeronimo"
+        name: "San Jerónimo"
+        names_en: ~
+        names_es: ~
+        population: 1046
+      - 
+        alternate_names: ~
+        ascii_name: "San Agustin"
+        name: "San Agustín"
+        names_en: ~
+        names_es: ~
+        population: 1777
+      - 
+        alternate_names: 
+          - Quesailica
+          - Quezailaca
+          - Quezailica
+        ascii_name: Quezailica
+        name: Quezailica
+        names_en: ~
+        names_es: ~
+        population: 1115
+      - 
+        alternate_names: ~
+        ascii_name: "Pueblo Nuevo"
+        name: "Pueblo Nuevo"
+        names_en: ~
+        names_es: ~
+        population: 1053
+      - 
+        alternate_names: 
+          - "Ojo de Agua"
+          - "Ojos de Agua"
+        ascii_name: "Ojos de Agua"
+        name: "Ojos de Agua"
+        names_en: ~
+        names_es: ~
+        population: 1340
+      - 
+        alternate_names: ~
+        ascii_name: "Los Tangos"
+        name: "Los Tangos"
+        names_en: ~
+        names_es: ~
+        population: 1424
+      - 
+        alternate_names: 
+          - "La Zumbadora"
+          - Sumbadora
+          - Zumbadora
+        ascii_name: "La Zumbadora"
+        name: "La Zumbadora"
+        names_en: ~
+        names_es: ~
+        population: 1086
+      - 
+        alternate_names: ~
+        ascii_name: "La Playona"
+        name: "La Playona"
+        names_en: ~
+        names_es: ~
+        population: 1285
+      - 
+        alternate_names: ~
+        ascii_name: "La Entrada"
+        name: "La Entrada"
+        names_en: ~
+        names_es: ~
+        population: 14705
+      - 
+        alternate_names: ~
+        ascii_name: Florida
+        name: Florida
+        names_en: ~
+        names_es: ~
+        population: 5340
+      - 
+        alternate_names: 
+          - "El Ocoton"
+          - "El Ocotón"
+          - Ocoton
+        ascii_name: "El Ocoton"
+        name: "El Ocotón"
+        names_en: ~
+        names_es: ~
+        population: 1038
+      - 
+        alternate_names: ~
+        ascii_name: "El Corpus"
+        name: "El Corpus"
+        names_en: ~
+        names_es: ~
+        population: 1193
+      - 
+        alternate_names: ~
+        ascii_name: "Dulce Nombre"
+        name: "Dulce Nombre"
+        names_en: ~
+        names_es: ~
+        population: 3589
+      - 
+        alternate_names: ~
+        ascii_name: Dolores
+        name: Dolores
+        names_en: ~
+        names_es: ~
+        population: 1107
+      - 
+        alternate_names: ~
+        ascii_name: Cucuyagua
+        name: Cucuyagua
+        names_en: ~
+        names_es: ~
+        population: 2939
+      - 
+        alternate_names: 
+          - Corguin
+          - Corquin
+          - Corquín
+        ascii_name: Corquin
+        name: Corquín
+        names_en: ~
+        names_es: ~
+        population: 4752
+      - 
+        alternate_names: 
+          - Copan
+          - Copán
+          - Kopan
+        ascii_name: Copan
+        name: Copán
+        names_en: ~
+        names_es: ~
+        population: 6336
+      - 
+        alternate_names: 
+          - "Concepcion Barrancas"
+          - "Concepcion de la Barranca"
+          - "Concepción Barrancas"
+        ascii_name: "Concepcion de la Barranca"
+        name: "Concepción de la Barranca"
+        names_en: ~
+        names_es: ~
+        population: 1014
+      - 
+        alternate_names: ~
+        ascii_name: Chalmeca
+        name: Chalmeca
+        names_en: ~
+        names_es: ~
+        population: 2008
+      - 
+        alternate_names: ~
+        ascii_name: "Buenos Aires"
+        name: "Buenos Aires"
+        names_en: ~
+        names_es: ~
+        population: 1131
+      - 
+        alternate_names: ~
+        ascii_name: "Agua Caliente"
+        name: "Agua Caliente"
+        names_en: ~
+        names_es: ~
+        population: 1075
+    name: Copán
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Comayagua"
+    cities: 
+      - 
+        alternate_names: 
+          - "La Villa de San Antonio"
+          - "San Antonio"
+          - "Villa San Antonio"
+        ascii_name: "Villa de San Antonio"
+        name: "Villa de San Antonio"
+        names_en: ~
+        names_es: ~
+        population: 5390
+      - 
+        alternate_names: ~
+        ascii_name: "Valle de Angeles"
+        name: "Valle de Ángeles"
+        names_en: ~
+        names_es: ~
+        population: 1101
+      - 
+        alternate_names: ~
+        ascii_name: Taulabe
+        name: Taulabé
+        names_en: ~
+        names_es: ~
+        population: 4660
+      - 
+        alternate_names: ~
+        ascii_name: Siguatepeque
+        name: Siguatepeque
+        names_en: ~
+        names_es: ~
+        population: 43141
+      - 
+        alternate_names: ~
+        ascii_name: "San Sebastian"
+        name: "San Sebastián"
+        names_en: ~
+        names_es: ~
+        population: 1471
+      - 
+        alternate_names: ~
+        ascii_name: "San Luis"
+        name: "San Luis"
+        names_en: ~
+        names_es: ~
+        population: 1967
+      - 
+        alternate_names: 
+          - "San Jose Potrero"
+          - "San Jose del Potrero"
+          - "San José Potrero"
+        ascii_name: "San Jose del Potrero"
+        name: "San José del Potrero"
+        names_en: ~
+        names_es: ~
+        population: 1091
+      - 
+        alternate_names: 
+          - "San Jose Comayagua"
+          - "San Jose de Comayagua"
+          - "San José Comayagua"
+        ascii_name: "San Jose de Comayagua"
+        name: "San José de Comayagua"
+        names_en: ~
+        names_es: ~
+        population: 1066
+      - 
+        alternate_names: 
+          - "El Espino"
+          - "San Geronimo"
+          - "San Jeronimo"
+        ascii_name: "San Jeronimo"
+        name: "San Jerónimo"
+        names_en: ~
+        names_es: ~
+        population: 1789
+      - 
+        alternate_names: 
+          - "San Antonio"
+          - "San Antonio de la Cuesta"
+        ascii_name: "San Antonio de la Cuesta"
+        name: "San Antonio de la Cuesta"
+        names_en: ~
+        names_es: ~
+        population: 1033
+      - 
+        alternate_names: ~
+        ascii_name: "Rio Bonito"
+        name: "Río Bonito"
+        names_en: ~
+        names_es: ~
+        population: 1054
+      - 
+        alternate_names: ~
+        ascii_name: Potrerillos
+        name: Potrerillos
+        names_en: ~
+        names_es: ~
+        population: 1334
+      - 
+        alternate_names: ~
+        ascii_name: "Ojos de Agua"
+        name: "Ojos de Agua"
+        names_en: ~
+        names_es: ~
+        population: 1146
+      - 
+        alternate_names: 
+          - "Minas de Oro"
+        ascii_name: "Minas de Oro"
+        name: "Minas de Oro"
+        names_en: ~
+        names_es: ~
+        population: 3554
+      - 
+        alternate_names: ~
+        ascii_name: Lejamani
+        name: Lejamaní
+        names_en: ~
+        names_es: ~
+        population: 3835
+      - 
+        alternate_names: ~
+        ascii_name: "Las Lajas"
+        name: "Las Lajas"
+        names_en: ~
+        names_es: ~
+        population: 3011
+      - 
+        alternate_names: ~
+        ascii_name: Lamani
+        name: Lamaní
+        names_en: ~
+        names_es: ~
+        population: 1791
+      - 
+        alternate_names: ~
+        ascii_name: "La Libertad"
+        name: "La Libertad"
+        names_en: ~
+        names_es: ~
+        population: 4673
+      - 
+        alternate_names: ~
+        ascii_name: Jamalteca
+        name: Jamalteca
+        names_en: ~
+        names_es: ~
+        population: 1107
+      - 
+        alternate_names: ~
+        ascii_name: Flores
+        name: Flores
+        names_en: ~
+        names_es: ~
+        population: 3018
+      - 
+        alternate_names: ~
+        ascii_name: Esquias
+        name: Esquías
+        names_en: ~
+        names_es: ~
+        population: 1339
+      - 
+        alternate_names: 
+          - "El Socorro"
+          - Socorro
+        ascii_name: "El Socorro"
+        name: "El Socorro"
+        names_en: ~
+        names_es: ~
+        population: 1092
+      - 
+        alternate_names: 
+          - "El Sauce"
+          - Sauce
+        ascii_name: "El Sauce"
+        name: "El Sauce"
+        names_en: ~
+        names_es: ~
+        population: 1389
+      - 
+        alternate_names: ~
+        ascii_name: "El Rosario"
+        name: "El Rosario"
+        names_en: ~
+        names_es: ~
+        population: 2575
+      - 
+        alternate_names: ~
+        ascii_name: "El Rincon"
+        name: "El Rincón"
+        names_en: ~
+        names_es: ~
+        population: 1522
+      - 
+        alternate_names: 
+          - "El Rancho"
+          - "Rancho Grande"
+        ascii_name: "El Rancho"
+        name: "El Rancho"
+        names_en: ~
+        names_es: ~
+        population: 1484
+      - 
+        alternate_names: ~
+        ascii_name: "El Porvenir"
+        name: "El Porvenir"
+        names_en: ~
+        names_es: ~
+        population: 1337
+      - 
+        alternate_names: 
+          - "Agua Dulcita"
+          - "El Agua Dulcita"
+        ascii_name: "El Agua Dulcita"
+        name: "El Agua Dulcita"
+        names_en: ~
+        names_es: ~
+        population: 1017
+      - 
+        alternate_names: 
+          - "Concepcion de Guasistagua"
+          - "Concepción de Guasistagua"
+          - Guasistagua
+        ascii_name: "Concepcion de Guasistagua"
+        name: "Concepción de Guasistagua"
+        names_en: ~
+        names_es: ~
+        population: 1470
+      - 
+        alternate_names: 
+          - Comayagua
+        ascii_name: Comayagua
+        name: Comayagua
+        names_en: ~
+        names_es: ~
+        population: 58784
+      - 
+        alternate_names: ~
+        ascii_name: "Cerro Blanco"
+        name: "Cerro Blanco"
+        names_en: ~
+        names_es: ~
+        population: 1169
+      - 
+        alternate_names: 
+          - Ajuterique
+        ascii_name: Ajuterique
+        name: Ajuterique
+        names_en: ~
+        names_es: ~
+        population: 5354
+      - 
+        alternate_names: ~
+        ascii_name: "Aguas del Padre"
+        name: "Aguas del Padre"
+        names_en: ~
+        names_es: ~
+        population: 1104
+    name: Comayagua
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Colon"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Zamora
+        name: Zamora
+        names_en: ~
+        names_es: ~
+        population: 2999
+      - 
+        alternate_names: 
+          - Trujillo
+        ascii_name: Trujillo
+        name: Trujillo
+        names_en: ~
+        names_es: ~
+        population: 9646
+      - 
+        alternate_names: 
+          - Tocoa
+          - Tokoa
+          - Токоа
+        ascii_name: Tocoa
+        name: Tocoa
+        names_en: ~
+        names_es: ~
+        population: 30785
+      - 
+        alternate_names: ~
+        ascii_name: Taujica
+        name: Taujica
+        names_en: ~
+        names_es: ~
+        population: 1271
+      - 
+        alternate_names: 
+          - Saba
+          - Sabá
+          - Sava
+        ascii_name: Saba
+        name: Sabá
+        names_en: ~
+        names_es: ~
+        population: 9666
+      - 
+        alternate_names: 
+          - "Santa Rosa Aguan"
+          - "Santa Rosa Aguán"
+          - "Santa Rosa de Aguan"
+        ascii_name: "Santa Rosa de Aguan"
+        name: "Santa Rosa de Aguán"
+        names_en: ~
+        names_es: ~
+        population: 1304
+      - 
+        alternate_names: ~
+        ascii_name: Salama
+        name: Salamá
+        names_en: ~
+        names_es: ~
+        population: 1737
+      - 
+        alternate_names: 
+          - "Rio Esteban"
+          - "Río Esteban"
+          - "San Esteban"
+        ascii_name: "Rio Esteban"
+        name: "Río Esteban"
+        names_en: ~
+        names_es: ~
+        population: 1208
+      - 
+        alternate_names: 
+          - "Quebrada Arena"
+          - "Quebrada de Arena"
+        ascii_name: "Quebrada de Arena"
+        name: "Quebrada de Arena"
+        names_en: ~
+        names_es: ~
+        population: 2723
+      - 
+        alternate_names: 
+          - "Punta Piedra"
+          - "Punta Piedras"
+          - "Punta de Piedra"
+        ascii_name: "Punta Piedra"
+        name: "Punta Piedra"
+        names_en: ~
+        names_es: ~
+        population: 1188
+      - 
+        alternate_names: 
+          - "Puerto Castilla"
+          - "Puerto Castillo"
+        ascii_name: "Puerto Castilla"
+        name: "Puerto Castilla"
+        names_en: ~
+        names_es: ~
+        population: 1220
+      - 
+        alternate_names: ~
+        ascii_name: Prieta
+        name: Prieta
+        names_en: ~
+        names_es: ~
+        population: 1103
+      - 
+        alternate_names: 
+          - "La Esperanz"
+          - "La Esperanza"
+        ascii_name: "La Esperanza"
+        name: "La Esperanza"
+        names_en: ~
+        names_es: ~
+        population: 2014
+      - 
+        alternate_names: ~
+        ascii_name: "La Brea"
+        name: "La Brea"
+        names_en: ~
+        names_es: ~
+        population: 1055
+      - 
+        alternate_names: ~
+        ascii_name: Jerico
+        name: Jericó
+        names_en: ~
+        names_es: ~
+        population: 2364
+      - 
+        alternate_names: ~
+        ascii_name: Francia
+        name: Francia
+        names_en: ~
+        names_es: ~
+        population: 1331
+      - 
+        alternate_names: ~
+        ascii_name: Elixir
+        name: Elíxir
+        names_en: ~
+        names_es: ~
+        population: 3079
+      - 
+        alternate_names: 
+          - Casuna
+          - Cusuma
+          - Cusuna
+        ascii_name: Cusuna
+        name: Cusuna
+        names_en: ~
+        names_es: ~
+        population: 1441
+      - 
+        alternate_names: 
+          - Corocilo
+          - Corocito
+        ascii_name: Corocito
+        name: Corocito
+        names_en: ~
+        names_es: ~
+        population: 2855
+      - 
+        alternate_names: ~
+        ascii_name: "Bonito Oriental"
+        name: "Bonito Oriental"
+        names_en: ~
+        names_es: ~
+        population: 3732
+    name: Colón
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Choluteca"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Cruz"
+        name: "Santa Cruz"
+        names_en: ~
+        names_es: ~
+        population: 1174
+      - 
+        alternate_names: 
+          - "Santa Ana de Yusguare"
+          - Yusguare
+        ascii_name: "Santa Ana de Yusguare"
+        name: "Santa Ana de Yusguare"
+        names_en: ~
+        names_es: ~
+        population: 1823
+      - 
+        alternate_names: 
+          - "San Marco de Colon"
+          - "San Marcos"
+          - "San Marcos de Colon"
+        ascii_name: "San Marcos de Colon"
+        name: "San Marcos de Colón"
+        names_en: ~
+        names_es: ~
+        population: 8821
+      - 
+        alternate_names: ~
+        ascii_name: "San Jeronimo"
+        name: "San Jerónimo"
+        names_en: ~
+        names_es: ~
+        population: 2381
+      - 
+        alternate_names: ~
+        ascii_name: Pespire
+        name: Pespire
+        names_en: ~
+        names_es: ~
+        population: 3172
+      - 
+        alternate_names: 
+          - Orocuina
+        ascii_name: Orocuina
+        name: Orocuina
+        names_en: ~
+        names_es: ~
+        population: 1655
+      - 
+        alternate_names: 
+          - Namasigue
+          - Namasigüe
+          - Namasique
+        ascii_name: Namasigue
+        name: Namasigüe
+        names_en: ~
+        names_es: ~
+        population: 1804
+      - 
+        alternate_names: ~
+        ascii_name: Monjaras
+        name: Monjarás
+        names_en: ~
+        names_es: ~
+        population: 6772
+      - 
+        alternate_names: ~
+        ascii_name: Marcovia
+        name: Marcovia
+        names_en: ~
+        names_es: ~
+        population: 1928
+      - 
+        alternate_names: 
+          - "Los Llanitos"
+          - "Los Llanos"
+        ascii_name: "Los Llanitos"
+        name: "Los Llanitos"
+        names_en: ~
+        names_es: ~
+        population: 1040
+      - 
+        alternate_names: 
+          - "Las Conchas"
+          - "Puerto Las Conchas"
+          - "San Jose de Las Conchas"
+        ascii_name: "San Jose de Las Conchas"
+        name: "San José de Las Conchas"
+        names_en: ~
+        names_es: ~
+        population: 1084
+      - 
+        alternate_names: 
+          - "El Triunfo"
+          - Triunfo
+        ascii_name: "El Triunfo"
+        name: "El Triunfo"
+        names_en: ~
+        names_es: ~
+        population: 7182
+      - 
+        alternate_names: ~
+        ascii_name: "El Puente"
+        name: "El Puente"
+        names_en: ~
+        names_es: ~
+        population: 1325
+      - 
+        alternate_names: ~
+        ascii_name: "El Obraje"
+        name: "El Obraje"
+        names_en: ~
+        names_es: ~
+        population: 1172
+      - 
+        alternate_names: 
+          - Corpus
+          - "El Corpus"
+        ascii_name: Corpus
+        name: Corpus
+        names_en: ~
+        names_es: ~
+        population: 1199
+      - 
+        alternate_names: ~
+        ascii_name: Duyure
+        name: Duyure
+        names_en: ~
+        names_es: ~
+        population: 1164
+      - 
+        alternate_names: 
+          - Chollolteca
+          - Choluteca
+          - "Ciudad Choluteca"
+        ascii_name: "Ciudad Choluteca"
+        name: "Ciudad Choluteca"
+        names_en: ~
+        names_es: ~
+        population: 75872
+    name: Choluteca
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Atlantida"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tornabe
+        name: Tornabé
+        names_en: ~
+        names_es: ~
+        population: 1452
+      - 
+        alternate_names: 
+          - Tela
+        ascii_name: Tela
+        name: Tela
+        names_en: ~
+        names_es: ~
+        population: 29325
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Ana"
+        name: "Santa Ana"
+        names_en: ~
+        names_es: ~
+        population: 3579
+      - 
+        alternate_names: 
+          - "San Juan"
+          - "San Juan Pueblo"
+        ascii_name: "San Juan Pueblo"
+        name: "San Juan Pueblo"
+        names_en: ~
+        names_es: ~
+        population: 5735
+      - 
+        alternate_names: ~
+        ascii_name: "San Francisco"
+        name: "San Francisco"
+        names_en: ~
+        names_es: ~
+        population: 2806
+      - 
+        alternate_names: ~
+        ascii_name: "San Antonio"
+        name: "San Antonio"
+        names_en: ~
+        names_es: ~
+        population: 1151
+      - 
+        alternate_names: 
+          - Crique
+          - Sambo
+          - "Sambo Creeck"
+        ascii_name: "Sambo Creek"
+        name: "Sambo Creek"
+        names_en: ~
+        names_es: ~
+        population: 2532
+      - 
+        alternate_names: ~
+        ascii_name: "Nueva Armenia"
+        name: "Nueva Armenia"
+        names_en: ~
+        names_es: ~
+        population: 1392
+      - 
+        alternate_names: 
+          - Mezapa
+          - "Mezapa Boqueron"
+          - "Mezapa Boquerón"
+        ascii_name: Mezapa
+        name: Mezapa
+        names_en: ~
+        names_es: ~
+        population: 6324
+      - 
+        alternate_names: 
+          - "La Union"
+          - "La Unión"
+          - Union
+        ascii_name: "La Union"
+        name: "La Unión"
+        names_en: ~
+        names_es: ~
+        population: 2382
+      - 
+        alternate_names: 
+          - "La Masica"
+          - Masica
+        ascii_name: "La Masica"
+        name: "La Masica"
+        names_en: ~
+        names_es: ~
+        population: 4022
+      - 
+        alternate_names: 
+          - Ceiba
+          - "La Ceiba"
+          - La-Sejba
+        ascii_name: "La Ceiba"
+        name: "La Ceiba"
+        names_en: 
+          - "La Ceiba"
+        names_es: 
+          - "La Ceiba"
+        population: 130218
+      - 
+        alternate_names: ~
+        ascii_name: Jutiapa
+        name: Jutiapa
+        names_en: ~
+        names_es: ~
+        population: 2815
+      - 
+        alternate_names: 
+          - "El Triunfo"
+          - "El Triunfo de la Cruz"
+          - Triunfo
+        ascii_name: "El Triunfo de la Cruz"
+        name: "El Triunfo de la Cruz"
+        names_en: ~
+        names_es: ~
+        population: 2190
+      - 
+        alternate_names: 
+          - "El Porvenir"
+          - Porvenir
+        ascii_name: "El Porvenir"
+        name: "El Porvenir"
+        names_en: ~
+        names_es: ~
+        population: 2269
+      - 
+        alternate_names: ~
+        ascii_name: "El Pino"
+        name: "El Pino"
+        names_en: ~
+        names_es: ~
+        population: 3004
+      - 
+        alternate_names: ~
+        ascii_name: Corozal
+        name: Corozal
+        names_en: ~
+        names_es: ~
+        population: 2261
+      - 
+        alternate_names: 
+          - "Atenas de San Cristobal"
+          - "Atenas de San Cristóbal"
+          - "Kilometro 17"
+        ascii_name: "Atenas de San Cristobal"
+        name: "Atenas de San Cristóbal"
+        names_en: ~
+        names_es: ~
+        population: 1783
+      - 
+        alternate_names: ~
+        ascii_name: Arizona
+        name: Arizona
+        names_en: ~
+        names_es: ~
+        population: 4444
+    name: Atlántida
+    names_en: ~
+    names_es: ~

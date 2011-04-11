@@ -1,128 +1,206 @@
 --- 
-code: LI
-continent: EU
 name: Liechtenstein
-population: 35000
+names_en: 
+  - Liechtenstein
+  - "Principality of Liechtenstein"
+names_es: 
+  - Liechtenstein
 regions: 
   - 
+    ascii_name: "Gemeinde Vaduz"
     cities: 
       - 
-        districts: []
-        location: "POINT (47.0666700000000020 9.5000000000000000)"
-        name: Balzers
-        population: 4447
-        slug: balzers
-    code: LI.01
-    name: Balzers
-    slug: balzers
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.2107099999999988 9.5222300000000004)"
-        name: Eschen
-        population: 4008
-        slug: eschen
-    code: LI.02
-    name: Eschen
-    slug: eschen
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.2203799999999987 9.5093499999999995)"
-        name: Gamprin
-        population: 1268
-        slug: gamprin
-    code: LI.03
-    name: Gamprin
-    slug: gamprin
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.2180499999999981 9.5442000000000000)"
-        name: Mauren
-        population: 3626
-        slug: mauren
-    code: LI.04
-    name: Mauren
-    slug: mauren
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.1851600000000033 9.5443700000000007)"
-        name: Planken
-        population: 377
-        slug: planken
-    code: LI.05
-    name: Planken
-    slug: planken
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.2333300000000023 9.5166699999999995)"
-        name: Ruggell
-        population: 1862
-        slug: ruggell
-    code: LI.06
-    name: Ruggell
-    slug: ruggell
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.1649799999999999 9.5086700000000004)"
-        name: Schaan
-        population: 5748
-        slug: schaan
-    code: LI.07
-    name: Schaan
-    slug: schaan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.2312299999999965 9.5467800000000000)"
-        name: Schellenberg
-        population: 1004
-        slug: schellenberg
-    code: LI.08
-    name: Schellenberg
-    slug: schellenberg
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.1000000000000014 9.5333299999999994)"
-        name: Triesen
-        population: 4701
-        slug: triesen
-    code: LI.09
-    name: Triesen
-    slug: triesen
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.1181500000000000 9.5419699999999992)"
-        name: Triesenberg
-        population: 2689
-        slug: triesenberg
-    code: LI.10
-    name: Triesenberg
-    slug: triesenberg
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (47.1415099999999967 9.5215399999999999)"
+        alternate_names: 
+          - Bantouz
+          - Vaduc
+          - Vaducas
+        ascii_name: Vaduz
         name: Vaduz
+        names_en: 
+          - Vaduz
+        names_es: 
+          - Vaduz
         population: 5197
-        slug: vaduz
-    code: LI.11
     name: Vaduz
-    slug: vaduz
-tld: li
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Triesenberg"
+    cities: 
+      - 
+        alternate_names: 
+          - Triesenberg
+          - torizenberuku
+          - トリーゼンベルク
+        ascii_name: Triesenberg
+        name: Triesenberg
+        names_en: 
+          - Triesenberg
+        names_es: 
+          - Triesenberg
+        population: 2689
+    name: Triesenberg
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Triesen"
+    cities: 
+      - 
+        alternate_names: 
+          - Triesen
+          - torizen
+          - トリーゼン
+        ascii_name: Triesen
+        name: Triesen
+        names_en: 
+          - Triesen
+        names_es: 
+          - Triesen
+        population: 4701
+    name: Triesen
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Schellenberg"
+    cities: 
+      - 
+        alternate_names: 
+          - Schellenberg
+          - sherenberuku
+          - シェレンベルク
+        ascii_name: Schellenberg
+        name: Schellenberg
+        names_en: 
+          - Schellenberg
+        names_es: 
+          - Schellenberg
+        population: 1004
+    name: Schellenberg
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Schaan"
+    cities: 
+      - 
+        alternate_names: 
+          - Schaan
+          - Schan
+          - shan
+        ascii_name: Schaan
+        name: Schaan
+        names_en: 
+          - Schaan
+        names_es: 
+          - Schaan
+        population: 5748
+    name: Schaan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Ruggell"
+    cities: 
+      - 
+        alternate_names: 
+          - Rugell
+          - Ruggell
+          - Ruggell'
+        ascii_name: Ruggell
+        name: Ruggell
+        names_en: 
+          - Ruggell
+        names_es: 
+          - Ruggell
+        population: 1862
+    name: Ruggell
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Planken"
+    cities: 
+      - 
+        alternate_names: 
+          - Blanken
+          - Planken
+          - puranken
+        ascii_name: Planken
+        name: Planken
+        names_en: 
+          - Planken
+        names_es: 
+          - Planken
+        population: 377
+    name: Planken
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Mauren"
+    cities: 
+      - 
+        alternate_names: 
+          - Mauern
+          - Mauren
+          - mauren
+        ascii_name: Mauren
+        name: Mauren
+        names_en: 
+          - Mauren
+        names_es: 
+          - Mauren
+        population: 3626
+    name: Mauren
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Gamprin"
+    cities: 
+      - 
+        alternate_names: 
+          - Gambrin
+          - Gamprin
+          - Gamprin-Bendern
+        ascii_name: Gamprin
+        name: Gamprin
+        names_en: 
+          - Gamprin
+        names_es: 
+          - Gamprin
+        population: 1268
+    name: Gamprin
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Eschen"
+    cities: 
+      - 
+        alternate_names: 
+          - Eschen
+          - esshen
+          - エッシェン
+        ascii_name: Eschen
+        name: Eschen
+        names_en: 
+          - Eschen
+        names_es: 
+          - Eschen
+        population: 4008
+    name: Eschen
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gemeinde Balzers"
+    cities: 
+      - 
+        alternate_names: 
+          - Balzers
+          - baruzasu
+          - バルザース
+        ascii_name: Balzers
+        name: Balzers
+        names_en: 
+          - Balzers
+        names_es: 
+          - Balzers
+        population: 4447
+    name: Balzers
+    names_en: ~
+    names_es: ~

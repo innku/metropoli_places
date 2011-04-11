@@ -1,101 +1,170 @@
 --- 
-code: MV
-continent: AS
 name: Maldives
-population: 395650
+names_en: 
+  - Maldives
+  - "Republic of Maldives"
+names_es: 
+  - Maldivas
 regions: 
   - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.5833300000000000 73.2333299999999952)"
-        name: Midu
-        population: 1726
-        slug: midu
-      - 
-        districts: []
-        location: "POINT (-0.6000000000000000 73.0833300000000037)"
-        name: Hithadhoo
-        population: 9927
-        slug: hithadhoo
-      - 
-        districts: []
-        location: "POINT (3.7833299999999999 72.9666699999999935)"
-        name: Mahibadhoo
-        population: 2156
-        slug: mahibadhoo
-      - 
-        districts: []
-        location: "POINT (5.1166700000000001 73.0333300000000065)"
-        name: Eydhafushi
-        population: 2808
-        slug: eydhafushi
-      - 
-        districts: []
-        location: "POINT (2.6666699999999999 72.9000000000000057)"
-        name: Kudahuvadhoo
-        population: 1320
-        slug: kudahuvadhoo
-      - 
-        districts: []
-        location: "POINT (0.5333300000000000 72.9333299999999980)"
-        name: Thinadhoo
-        population: 5360
-        slug: thinadhoo
-      - 
-        districts: []
-        location: "POINT (6.8833299999999999 73.0999999999999943)"
-        name: Dhidhdhoo
-        population: 3039
-        slug: dhidhdhoo
-      - 
-        districts: []
-        location: "POINT (6.6220699999999999 73.0699800000000010)"
-        name: Kulhudhuffushi
-        population: 7774
-        slug: kulhudhuffushi
-      - 
-        districts: []
-        location: "POINT (6.1500000000000004 73.2666700000000048)"
-        name: Funadhoo
-        population: 1220
-        slug: funadhoo
-    code: MV.00
-    name: "Maldives (general)"
-    slug: maldives-general
+    ascii_name: "Vaavu Atholhu"
+    cities: []
+    name: "Vaavu Atholhu"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Thaa Atholhu"
+    cities: []
+    name: "Thaa Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Shaviyani Atholhu"
+    cities: []
+    name: "Shaviyani Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Seenu Atholhu"
+    cities: []
+    name: Seenu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Raa Atholhu"
+    cities: []
+    name: "Raa Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Noonu Atholhu"
+    cities: []
+    name: "Noonu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gnyaviyani Atoll"
+    cities: []
+    name: "Gnyaviyani Atoll"
+    names_en: 
+      - "Gnyaviyani Atoll"
+    names_es: ~
+  - 
+    ascii_name: "Meemu Atholhu"
+    cities: []
+    name: "Meemu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lhaviyani Atholhu"
+    cities: []
+    name: "Lhaviyani Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Laamu Atholhu"
+    cities: []
+    name: Laamu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kaafu Atholhu"
     cities: 
       - 
-        districts: []
-        location: "POINT (5.4333299999999998 73.3333300000000037)"
+        alternate_names: ~
+        ascii_name: Naifaru
         name: Naifaru
+        names_en: ~
+        names_es: ~
         population: 3836
-        slug: naifaru
       - 
-        districts: []
-        location: "POINT (2.9166699999999999 73.5666700000000020)"
+        alternate_names: ~
+        ascii_name: Muli
         name: Muli
+        names_en: ~
+        names_es: ~
         population: 1008
-        slug: muli
       - 
-        districts: []
-        location: "POINT (5.7666700000000004 73.3833300000000008)"
+        alternate_names: ~
+        ascii_name: Manadhoo
         name: Manadhoo
+        names_en: ~
+        names_es: ~
         population: 1418
-        slug: manadhoo
       - 
-        districts: []
-        location: "POINT (5.6666699999999999 73.0000000000000000)"
+        alternate_names: 
+          - U'ngoofaaru
+        ascii_name: Ugoofaaru
         name: Ugoofaaru
+        names_en: ~
+        names_es: ~
         population: 1263
-        slug: ugoofaaru
-      - 
-        districts: []
-        location: "POINT (4.1748000000000003 73.5088800000000049)"
-        name: Male
-        population: 103693
-        slug: male
-    code: MV.38
     name: "Kaafu Atholhu"
-    slug: kaafu-atholhu
-tld: mv
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Haa Dhaalu Atholhu"
+    cities: []
+    name: "Haa Dhaalu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Haa Alifu Atholhu"
+    cities: []
+    name: "Haa Alifu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gaafu Dhaalu Atholhu"
+    cities: []
+    name: "Gaafu Dhaalu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gaafu Alifu Atholhu"
+    cities: []
+    name: "Gaafu Alifu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Faafu Atholhu"
+    cities: []
+    name: "Faafu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dhaalu Atholhu"
+    cities: []
+    name: "Dhaalu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Baa Atholhu"
+    cities: []
+    name: "Baa Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Alifu Atholhu"
+    cities: []
+    name: "Alifu Atholhu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Maale
+    cities: 
+      - 
+        alternate_names: 
+          - Maale
+          - Male
+          - Malé
+        ascii_name: Male
+        name: Male
+        names_en: 
+          - Malé
+        names_es: 
+          - Malé
+        population: 103693
+    name: Maale
+    names_en: ~
+    names_es: ~

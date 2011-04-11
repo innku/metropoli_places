@@ -1,216 +1,49 @@
 --- 
-code: PF
-continent: OC
 name: "French Polynesia"
-population: 270485
+names_en: 
+  - "French Polynesia"
+names_es: 
+  - "Polinesia Francesa"
 regions: 
   - 
+    ascii_name: "Iles Marquises"
+    cities: []
+    name: "Îles Marquises"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Iles Tuamotu-Gambier"
+    cities: []
+    name: "Îles Tuamotu-Gambier"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Iles Sous-le-Vent"
+    cities: []
+    name: "Îles Sous-le-Vent"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Iles du Vent"
     cities: 
       - 
-        districts: []
-        location: "POINT (-9.8000000000000007 -139.0333300000000065)"
-        name: Atuona
-        population: 1762
-        slug: atuona
-      - 
-        districts: []
-        location: "POINT (-23.1202800000000011 -134.9691699999999912)"
-        name: Rikitea
-        population: 1103
-        slug: rikitea
-      - 
-        districts: []
-        location: "POINT (-16.5166700000000013 -151.7500000000000000)"
-        name: Vaitape
-        population: 4680
-        slug: vaitape
-      - 
-        districts: []
-        location: "POINT (-17.7833299999999994 -149.2833300000000065)"
-        name: Vairao
-        population: 2423
-        slug: vairao
-      - 
-        districts: []
-        location: "POINT (-16.7333299999999987 -151.4333300000000122)"
-        name: Uturoa
-        population: 3668
-        slug: uturoa
-      - 
-        districts: []
-        location: "POINT (-17.7500000000000000 -149.3166699999999878)"
-        name: Tohautu
-        population: 2842
-        slug: tohautu
-      - 
-        districts: []
-        location: "POINT (-17.5333299999999994 -149.3333299999999895)"
-        name: Tiarei
-        population: 2795
-        slug: tiarei
-      - 
-        districts: []
-        location: "POINT (-16.7833299999999994 -151.5000000000000000)"
-        name: Tevaitoa
-        population: 1851
-        slug: tevaitoa
-      - 
-        districts: []
-        location: "POINT (-17.5000000000000000 -149.7666700000000048)"
-        name: Teavaro
-        population: 2289
-        slug: teavaro
-      - 
-        districts: []
-        location: "POINT (-17.8333300000000001 -149.2666700000000048)"
-        name: Teahupoo
-        population: 1422
-        slug: teahupoo
-      - 
-        districts: []
-        location: "POINT (-17.7333299999999987 -149.1500000000000057)"
-        name: Tautira
-        population: 2293
-        slug: tautira
-      - 
-        districts: []
-        location: "POINT (-17.7500000000000000 -149.3499999999999943)"
-        name: Taunoa
-        population: 4131
-        slug: taunoa
-      - 
-        districts: []
-        location: "POINT (-17.6333300000000008 -149.5999999999999943)"
-        name: Punaauia
-        population: 25750
-        slug: punaauia
-      - 
-        districts: []
-        location: "POINT (-17.7333299999999987 -149.2166699999999935)"
-        name: Pueu
-        population: 1968
-        slug: pueu
-      - 
-        districts: []
-        location: "POINT (-17.5166700000000013 -149.5333300000000065)"
-        name: Pirae
-        population: 14729
-        slug: pirae
-      - 
-        districts: []
-        location: "POINT (-17.4833299999999987 -149.8666699999999992)"
-        name: Papetoai
-        population: 1964
-        slug: papetoai
-      - 
-        districts: []
-        location: "POINT (-17.7500000000000000 -149.5500000000000114)"
-        name: Papao
-        population: 10360
-        slug: papao
-      - 
-        districts: []
-        location: "POINT (-17.5000000000000000 -149.8166699999999878)"
-        name: Paopao
-        population: 4221
-        slug: paopao
-      - 
-        districts: []
-        location: "POINT (-17.6833300000000015 -149.5833299999999895)"
-        name: Paea
-        population: 13359
-        slug: paea
-      - 
-        districts: []
-        location: "POINT (-17.7666700000000013 -149.4166700000000105)"
-        name: Otutara
-        population: 4609
-        slug: otutara
-      - 
-        districts: []
-        location: "POINT (-22.4333300000000015 -151.3333299999999895)"
-        name: Moerai
-        population: 1044
-        slug: moerai
-      - 
-        districts: []
-        location: "POINT (-17.5000000000000000 -149.4499999999999886)"
-        name: Mahina
-        population: 14224
-        slug: mahina
-      - 
-        districts: []
-        location: "POINT (-17.6000000000000014 -149.3000000000000114)"
-        name: Hitiaa
-        population: 1826
-        slug: hitiaa
-      - 
-        districts: []
-        location: "POINT (-17.5666699999999985 -149.8666699999999992)"
-        name: Haapiti
-        population: 3959
-        slug: haapiti
-      - 
-        districts: []
-        location: "POINT (-16.7333299999999987 -151.0333300000000065)"
-        name: Fitii
-        population: 1154
-        slug: fitii
-      - 
-        districts: []
-        location: "POINT (-16.6999999999999993 -151.0166700000000048)"
-        name: Fare
-        population: 1540
-        slug: fare
-      - 
-        districts: []
-        location: "POINT (-17.6666699999999999 -149.3000000000000114)"
-        name: Faaone
-        population: 1747
-        slug: faaone
-      - 
-        districts: []
-        location: "POINT (-16.4833299999999987 -151.7500000000000000)"
-        name: Faanui
-        population: 2061
-        slug: faanui
-      - 
-        districts: []
-        location: "POINT (-17.5500000000000007 -149.5999999999999943)"
-        name: Faaa
-        population: 29388
-        slug: faaa
-      - 
-        districts: []
-        location: "POINT (-17.5166700000000013 -149.5000000000000000)"
-        name: Arue
-        population: 9492
-        slug: arue
-      - 
-        districts: []
-        location: "POINT (-16.5166700000000013 -151.7333299999999952)"
-        name: Anau
-        population: 1412
-        slug: anau
-      - 
-        districts: []
-        location: "POINT (-17.5500000000000007 -149.7833300000000065)"
-        name: Afareaitu
-        population: 3213
-        slug: afareaitu
-      - 
-        districts: []
-        location: "POINT (-17.7500000000000000 -149.2833300000000065)"
-        name: Afaahiti
-        population: 5186
-        slug: afaahiti
-      - 
-        districts: []
-        location: "POINT (-17.5333299999999994 -149.5666699999999878)"
+        alternate_names: 
+          - Pape'ete
+          - Papeehte
+          - Papeete
+        ascii_name: Papeete
         name: Papeete
+        names_en: 
+          - Papeete
+        names_es: 
+          - Papeete
         population: 26357
-        slug: papeete
-    code: PF.00
-    name: "French Polynesia (general)"
-    slug: french-polynesia-general
-tld: pf
+    name: "Îles du Vent"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Iles Australes"
+    cities: []
+    name: "Îles Australes"
+    names_en: ~
+    names_es: ~

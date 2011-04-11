@@ -1,885 +1,1246 @@
 --- 
-code: PY
-continent: SA
 name: Paraguay
-population: 6375830
+names_en: 
+  - Paraguay
+  - "Republic of Paraguay"
+names_es: 
+  - "República del Paraguay"
+  - Paraguay
 regions: 
   - 
+    ascii_name: "Departamento de San Pedro"
     cities: 
       - 
-        districts: []
-        location: "POINT (-25.7833299999999994 -55.0666700000000020)"
-        name: "Santa Rita"
-        population: 11823
-        slug: santa-rita
-      - 
-        districts: []
-        location: "POINT (-24.9666700000000006 -54.8999999999999986)"
-        name: "San Alberto"
-        population: 4989
-        slug: san-alberto
-      - 
-        districts: []
-        location: "POINT (-25.5333299999999994 -54.6166699999999992)"
-        name: "Presidente Franco"
-        population: 54292
-        slug: presidente-franco
-      - 
-        districts: []
-        location: "POINT (-25.9666700000000006 -55.1833299999999980)"
-        name: Naranjal
-        population: 2151
-        slug: naranjal
-      - 
-        districts: []
-        location: "POINT (-25.6499999999999986 -54.7000000000000028)"
-        name: "Los Cedrales"
-        population: 2754
-        slug: los-cedrales
-      - 
-        districts: []
-        location: "POINT (-24.9333300000000015 -55.2166700000000006)"
-        name: Itaquyry
-        population: 3038
-        slug: itaquyry
-      - 
-        districts: []
-        location: "POINT (-25.3999999999999986 -55.2666699999999977)"
-        name: "Doctor Juan León Mallorquín"
-        population: 7481
-        slug: doctor-juan-leon-mallorquin
-      - 
-        districts: []
-        location: "POINT (-25.4499999999999993 -55.0000000000000000)"
-        name: "Colonia Yguazú"
-        population: 3363
-        slug: colonia-yguazu
-      - 
-        districts: []
-        location: "POINT (-24.8666699999999992 -54.8999999999999986)"
-        name: "Colonia Minga Porá"
-        population: 1770
-        slug: colonia-minga-pora
-    code: PY.01
-    name: "Alto Paraná"
-    slug: alto-parana
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-23.2666700000000013 -55.5333299999999994)"
-        name: "Capitán Bado"
-        population: 9114
-        slug: capitan-bado
-      - 
-        districts: []
-        location: "POINT (-22.1333300000000008 -56.5166699999999977)"
-        name: "Bella Vista"
-        population: 5653
-        slug: bella-vista
-    code: PY.02
-    name: Amambay
-    slug: amambay
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-25.0500000000000007 -55.9166700000000034)"
-        name: Yhú
-        population: 2092
-        slug: yhu
-      - 
-        districts: []
-        location: "POINT (-25.5333299999999994 -56.7333300000000023)"
-        name: "San José"
-        population: 5117
-        slug: san-jose
-      - 
-        districts: []
-        location: "POINT (-24.9499999999999993 -56.1166699999999992)"
-        name: "San Joaquín"
-        population: 1745
-        slug: san-joaquin
-      - 
-        districts: []
-        location: "POINT (-25.5333299999999994 -55.9500000000000028)"
-        name: Repatriación
-        population: 7085
-        slug: repatriacion
-      - 
-        districts: []
-        location: "POINT (-24.9666700000000006 -56.2999999999999972)"
-        name: Mbutuy
-        population: 1466
-        slug: mbutuy
-      - 
-        districts: []
-        location: "POINT (-25.3666699999999992 -55.7999999999999972)"
-        name: "Doctor Juan Manuel Frutos"
-        population: 4797
-        slug: doctor-juan-manuel-frutos
-      - 
-        districts: []
-        location: "POINT (-25.0500000000000007 -56.3166700000000020)"
-        name: "Doctor Cecilio Báez"
-        population: 1977
-        slug: doctor-cecilio-baez
-      - 
-        districts: []
-        location: "POINT (-25.4166699999999999 -56.4500000000000028)"
-        name: "Coronel Oviedo"
-        population: 51286
-        slug: coronel-oviedo
-      - 
-        districts: []
-        location: "POINT (-25.3666699999999992 -55.7000000000000028)"
-        name: "Colonia General Alfredo Stroessner"
-        population: 11558
-        slug: colonia-general-alfredo-stroessner
-      - 
-        districts: []
-        location: "POINT (-25.1833300000000015 -56.3999999999999986)"
-        name: Carayaó
-        population: 2473
-        slug: carayao
-      - 
-        districts: []
-        location: "POINT (-25.4499999999999993 -56.0166699999999977)"
-        name: Caaguazú
-        population: 54808
-        slug: caaguazu
-    code: PY.04
-    name: Caaguazú
-    slug: caaguazu
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-26.1833300000000015 -56.0833299999999966)"
-        name: "Buena Vista"
-        population: 1580
-        slug: buena-vista
-      - 
-        districts: []
-        location: "POINT (-26.6000000000000014 -56.2500000000000000)"
-        name: Yuty
-        population: 4774
-        slug: yuty
-      - 
-        districts: []
-        location: "POINT (-26.4499999999999993 -56.3999999999999986)"
-        name: Yegros
-        population: 1140
-        slug: yegros
-      - 
-        districts: []
-        location: "POINT (-26.1000000000000014 -55.9666700000000006)"
-        name: "San Juan Nepomuceno"
-        population: 7893
-        slug: san-juan-nepomuceno
-      - 
-        districts: []
-        location: "POINT (-25.9499999999999993 -55.9166700000000034)"
-        name: "General Higinio Morínigo"
-        population: 1399
-        slug: general-higinio-morinigo
-      - 
-        districts: []
-        location: "POINT (-26.0333299999999994 -55.9333299999999980)"
-        name: Abaí
-        population: 3024
-        slug: abai
-    code: PY.05
-    name: Caazapá
-    slug: caazapa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-25.3833300000000008 -57.2666699999999977)"
-        name: Ypacarai
-        population: 9655
-        slug: ypacarai
-      - 
-        districts: []
-        location: "POINT (-25.3666699999999992 -57.6166699999999992)"
-        name: "Villa Elisa"
-        population: 64099
-        slug: villa-elisa
-      - 
-        districts: []
-        location: "POINT (-25.3333300000000001 -57.5333299999999994)"
-        name: "San Lorenzo"
-        population: 227876
-        slug: san-lorenzo
-      - 
-        districts: []
-        location: "POINT (-25.3833300000000008 -57.6333300000000008)"
-        name: "San Antonio"
-        population: 55754
-        slug: san-antonio
-      - 
-        districts: []
-        location: "POINT (-25.6166699999999992 -57.5000000000000000)"
-        name: "Nueva Italia"
-        population: 2841
-        slug: nueva-italia
-      - 
-        districts: []
-        location: "POINT (-25.3666699999999992 -57.6000000000000014)"
-        name: Nemby
-        population: 94641
-        slug: nemby
-      - 
-        districts: []
-        location: "POINT (-25.1833300000000015 -57.5333299999999994)"
-        name: Limpio
-        population: 96143
-        slug: limpio
-      - 
-        districts: []
-        location: "POINT (-25.3500000000000014 -57.6499999999999986)"
-        name: Lambaré
-        population: 126377
-        slug: lambare
-      - 
-        districts: []
-        location: "POINT (-25.3833300000000008 -57.3333299999999966)"
-        name: Itauguá
-        population: 64997
-        slug: itaugua
-      - 
-        districts: []
-        location: "POINT (-25.4833299999999987 -57.3500000000000014)"
-        name: Itá
-        population: 18459
-        slug: ita
-      - 
-        districts: []
-        location: "POINT (-25.4833299999999987 -57.4666700000000006)"
-        name: Guarambaré
-        population: 9065
-        slug: guarambare
-      - 
-        districts: []
-        location: "POINT (-25.3166699999999985 -57.6000000000000014)"
-        name: "Fernando de la Mora"
-        population: 120167
-        slug: fernando-de-la-mora
-      - 
-        districts: []
-        location: "POINT (-25.1666699999999999 -57.5499999999999972)"
-        name: "Colonia Mariano Roque Alonso"
-        population: 72008
-        slug: colonia-mariano-roque-alonso
-      - 
-        districts: []
-        location: "POINT (-25.3500000000000014 -57.4166700000000034)"
-        name: Capiatá
-        population: 198553
-        slug: capiata
-      - 
-        districts: []
-        location: "POINT (-25.3000000000000007 -57.4166700000000034)"
-        name: Areguá
-        population: 11222
-        slug: aregua
-      - 
-        districts: []
-        location: "POINT (-25.3006600000000006 -57.6359100000000026)"
-        name: Asunción
-        population: 1482200
-        slug: asuncion
-    code: PY.06
-    name: Central
-    slug: central
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-23.3427800000000012 -57.0597199999999987)"
-        name: Horqueta
-        population: 10531
-        slug: horqueta
-      - 
-        districts: []
-        location: "POINT (-23.4063899999999983 -57.4344400000000022)"
-        name: Concepción
-        population: 48123
-        slug: concepcion
-      - 
-        districts: []
-        location: "POINT (-23.4661100000000005 -57.2619400000000027)"
-        name: Belén
-        population: 1621
-        slug: belen
-    code: PY.07
-    name: Concepción
-    slug: concepcion
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-25.2500000000000000 -57.0666700000000020)"
-        name: Tobatí
-        population: 9952
-        slug: tobati
-      - 
-        districts: []
-        location: "POINT (-25.3999999999999986 -56.7999999999999972)"
-        name: "Santa Elena"
-        population: 1137
-        slug: santa-elena
-      - 
-        districts: []
-        location: "POINT (-25.2666700000000013 -57.3166700000000020)"
-        name: "San Bernardino"
-        population: 4651
-        slug: san-bernardino
-      - 
-        districts: []
-        location: "POINT (-25.4833299999999987 -57.0499999999999972)"
-        name: Piribebuy
-        population: 10337
-        slug: piribebuy
-      - 
-        districts: []
-        location: "POINT (-25.4499999999999993 -56.8500000000000014)"
-        name: "Itacurubí de la Cordillera"
-        population: 3576
-        slug: itacurubi-de-la-cordillera
-      - 
-        districts: []
-        location: "POINT (-25.3000000000000007 -56.8999999999999986)"
-        name: "Isla Pucú"
-        population: 1529
-        slug: isla-pucu
-      - 
-        districts: []
-        location: "POINT (-25.3999999999999986 -56.9666700000000006)"
-        name: "Eusebio Ayala"
-        population: 8253
-        slug: eusebio-ayala
-      - 
-        districts: []
-        location: "POINT (-25.1499999999999986 -57.3500000000000014)"
-        name: Emboscada
-        population: 5911
-        slug: emboscada
-      - 
-        districts: []
-        location: "POINT (-25.2333299999999987 -56.8166700000000020)"
-        name: Caraguatay
-        population: 1637
-        slug: caraguatay
-      - 
-        districts: []
-        location: "POINT (-25.3833300000000008 -57.1499999999999986)"
-        name: Caacupé
-        population: 21696
-        slug: caacupe
-      - 
-        districts: []
-        location: "POINT (-25.2500000000000000 -57.1666700000000034)"
-        name: Atyrá
-        population: 4768
-        slug: atyra
-      - 
-        districts: []
-        location: "POINT (-25.0666699999999985 -57.1000000000000014)"
-        name: "Arroyos y Esteros"
-        population: 2455
-        slug: arroyos-y-esteros
-      - 
-        districts: []
-        location: "POINT (-25.2333299999999987 -57.2500000000000000)"
-        name: Altos
-        population: 4763
-        slug: altos
-    code: PY.08
-    name: Cordillera
-    slug: cordillera
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-25.7500000000000000 -56.4333299999999980)"
-        name: Villarrica
-        population: 41157
-        slug: villarrica
-      - 
-        districts: []
-        location: "POINT (-25.6333300000000008 -56.2999999999999972)"
-        name: "Natalicio Talavera"
-        population: 1809
-        slug: natalicio-talavera
-      - 
-        districts: []
-        location: "POINT (-25.6999999999999993 -56.3999999999999986)"
-        name: Mbocayaty
-        population: 2296
-        slug: mbocayaty
-      - 
-        districts: []
-        location: "POINT (-26.0500000000000007 -56.4833300000000023)"
-        name: Iturbe
-        population: 4475
-        slug: iturbe
-      - 
-        districts: []
-        location: "POINT (-25.8500000000000014 -56.6166699999999992)"
-        name: Itapé
-        population: 1641
-        slug: itape
-      - 
-        districts: []
-        location: "POINT (-25.7166700000000006 -56.2500000000000000)"
-        name: Independencia
-        population: 1575
-        slug: independencia
-      - 
-        districts: []
-        location: "POINT (-25.7500000000000000 -56.6166699999999992)"
-        name: "Coronel Martínez"
-        population: 1359
-        slug: coronel-martinez
-      - 
-        districts: []
-        location: "POINT (-25.5666699999999985 -56.2833299999999994)"
-        name: "Colonia Mauricio José Troche"
-        population: 2368
-        slug: colonia-mauricio-jose-troche
-    code: PY.10
-    name: Guairá
-    slug: guaira
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-27.1166699999999992 -55.7833299999999994)"
-        name: Trinidad
-        population: 2837
-        slug: trinidad
-      - 
-        districts: []
-        location: "POINT (-26.8333300000000001 -56.2000000000000028)"
-        name: "San Pedro del Paraná"
-        population: 5722
-        slug: san-pedro-del-parana
-      - 
-        districts: []
-        location: "POINT (-27.3000000000000007 -55.9666700000000006)"
-        name: "San Juan del Paraná"
-        population: 1492
-        slug: san-juan-del-parana
-      - 
-        districts: []
-        location: "POINT (-27.3166699999999985 -56.3500000000000014)"
-        name: "San Cosme y Damián"
-        population: 2223
-        slug: san-cosme-y-damian
-      - 
-        districts: []
-        location: "POINT (-26.3999999999999986 -54.7000000000000028)"
-        name: "Puerto Mayor Otaño"
-        population: 4701
-        slug: puerto-mayor-otano
-      - 
-        districts: []
-        location: "POINT (-26.8500000000000014 -55.5333299999999994)"
-        name: Pirapo
-        population: 1756
-        slug: pirapo
-      - 
-        districts: []
-        location: "POINT (-27.0333299999999994 -55.6333300000000008)"
-        name: Obligado
-        population: 6350
-        slug: obligado
-      - 
-        districts: []
-        location: "POINT (-26.7166700000000006 -55.0833299999999966)"
-        name: Natalio
-        population: 2252
-        slug: natalio
-      - 
-        districts: []
-        location: "POINT (-27.0500000000000007 -55.7833299999999994)"
-        name: Jesús
-        population: 2530
-        slug: jesus
-      - 
-        districts: []
-        location: "POINT (-27.0833300000000001 -55.7500000000000000)"
-        name: Hohenau
-        population: 5306
-        slug: hohenau
-      - 
-        districts: []
-        location: "POINT (-27.1666699999999999 -56.5166699999999977)"
-        name: "General Delgado"
-        population: 1544
-        slug: general-delgado
-      - 
-        districts: []
-        location: "POINT (-26.9333300000000015 -56.2166700000000006)"
-        name: "General Artigas"
-        population: 4073
-        slug: general-artigas
-      - 
-        districts: []
-        location: "POINT (-26.9833299999999987 -55.8833300000000008)"
-        name: Fram
-        population: 3916
-        slug: fram
-      - 
-        districts: []
-        location: "POINT (-27.3333300000000001 -55.8999999999999986)"
-        name: Encarnación
-        population: 74983
-        slug: encarnacion
-      - 
-        districts: []
-        location: "POINT (-26.7500000000000000 -55.2666699999999977)"
-        name: Edelira
-        population: 1698
-        slug: edelira
-      - 
-        districts: []
-        location: "POINT (-27.2333299999999987 -56.2166700000000006)"
-        name: "Carmen del Paraná"
-        population: 4196
-        slug: carmen-del-parana
-      - 
-        districts: []
-        location: "POINT (-26.3999999999999986 -54.7666699999999977)"
-        name: "Carlos Antonio López"
-        population: 1496
-        slug: carlos-antonio-lopez
-      - 
-        districts: []
-        location: "POINT (-27.1999999999999993 -55.7999999999999972)"
-        name: "Capitán Miranda"
-        population: 2498
-        slug: capitan-miranda
-      - 
-        districts: []
-        location: "POINT (-27.0500000000000007 -55.5499999999999972)"
-        name: "Bella Vista"
-        population: 2334
-        slug: bella-vista
-      - 
-        districts: []
-        location: "POINT (-26.4833299999999987 -55.2500000000000000)"
-        name: "Arquitecto Tomás Romero Pereira"
-        population: 5533
-        slug: arquitecto-tomas-romero-pereira
-    code: PY.11
-    name: Itapúa
-    slug: itapua
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-26.3833300000000008 -57.1499999999999986)"
-        name: "Villa Florida"
-        population: 2305
-        slug: villa-florida
-      - 
-        districts: []
-        location: "POINT (-27.1499999999999986 -56.7833299999999994)"
-        name: Santiago
-        population: 2144
-        slug: santiago
-      - 
-        districts: []
-        location: "POINT (-26.8666699999999992 -56.8500000000000014)"
-        name: "Santa Rosa"
-        population: 7257
-        slug: santa-rosa
-      - 
-        districts: []
-        location: "POINT (-26.7833299999999994 -56.9333299999999980)"
-        name: "Santa María"
-        population: 2095
-        slug: santa-maria
-      - 
-        districts: []
-        location: "POINT (-26.9666700000000006 -56.8166700000000020)"
-        name: "San Patricio"
-        population: 1525
-        slug: san-patricio
-      - 
-        districts: []
-        location: "POINT (-26.5000000000000000 -57.0499999999999972)"
-        name: "San Miguel"
-        population: 1210
-        slug: san-miguel
-      - 
-        districts: []
-        location: "POINT (-27.3999999999999986 -56.8999999999999986)"
-        name: Ayolas
-        population: 12061
-        slug: ayolas
-    code: PY.12
-    name: Misiones
-    slug: misiones
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-27.1666699999999999 -58.4166700000000034)"
-        name: "General José Eduvigis Díaz"
-        population: 1345
-        slug: general-jose-eduvigis-diaz
-      - 
-        districts: []
-        location: "POINT (-26.8666699999999992 -58.3833300000000008)"
-        name: Pilar
-        population: 28716
-        slug: pilar
-      - 
-        districts: []
-        location: "POINT (-27.3166699999999985 -57.6666700000000034)"
-        name: Cerrito
-        population: 1036
-        slug: cerrito
-    code: PY.13
-    name: Ñeembucú
-    slug: neembucu
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-26.0166700000000013 -57.0499999999999972)"
-        name: Ybycuí
-        population: 4629
-        slug: ybycui
-      - 
-        districts: []
-        location: "POINT (-25.4833299999999987 -57.2333300000000023)"
-        name: Pirayú
-        population: 4000
-        slug: pirayu
-      - 
-        districts: []
-        location: "POINT (-25.6000000000000014 -57.2999999999999972)"
-        name: Yaguarón
-        population: 7181
-        slug: yaguaron
-      - 
-        districts: []
-        location: "POINT (-25.6666699999999999 -56.9166700000000034)"
-        name: Sapucaí
-        population: 1932
-        slug: sapucai
-      - 
-        districts: []
-        location: "POINT (-25.9666700000000006 -57.2666699999999977)"
-        name: Quiindy
-        population: 5137
-        slug: quiindy
-      - 
-        districts: []
-        location: "POINT (-25.6333300000000008 -57.1499999999999986)"
-        name: Paraguarí
-        population: 10079
-        slug: paraguari
-      - 
-        districts: []
-        location: "POINT (-26.1999999999999993 -56.7500000000000000)"
-        name: Mbuyapey
-        population: 2201
-        slug: mbuyapey
-      - 
-        districts: []
-        location: "POINT (-25.8833300000000008 -56.8166700000000020)"
-        name: "La Colmena"
-        population: 2551
-        slug: la-colmena
-      - 
-        districts: []
-        location: "POINT (-25.8000000000000007 -57.2333300000000023)"
-        name: Carapeguá
-        population: 5784
-        slug: carapegua
-      - 
-        districts: []
-        location: "POINT (-26.2166700000000006 -57.2000000000000028)"
-        name: Caapucú
-        population: 2284
-        slug: caapucu
-      - 
-        districts: []
-        location: "POINT (-25.9166699999999999 -57.1499999999999986)"
-        name: Acahay
-        population: 3205
-        slug: acahay
-    code: PY.15
-    name: Paraguarí
-    slug: paraguari
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-25.2666700000000013 -57.6666700000000034)"
-        name: Nanawa
-        population: 5587
-        slug: nanawa
-      - 
-        districts: []
-        location: "POINT (-24.9666700000000006 -57.5666700000000020)"
-        name: "Benjamín Aceval"
-        population: 7751
-        slug: benjamin-aceval
-    code: PY.16
-    name: "Presidente Hayes"
-    slug: presidente-hayes
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-24.1000000000000014 -57.0833299999999966)"
-        name: "San Pedro de Ycuamandiyú"
-        population: 9360
-        slug: san-pedro-de-ycuamandiyu
-      - 
-        districts: []
-        location: "POINT (-24.8333300000000001 -56.3500000000000014)"
+        alternate_names: ~
+        ascii_name: "Yataity del Norte"
         name: "Yataity del Norte"
+        names_en: ~
+        names_es: ~
         population: 1392
-        slug: yataity-del-norte
       - 
-        districts: []
-        location: "POINT (-24.8000000000000007 -56.5499999999999972)"
+        alternate_names: ~
+        ascii_name: Union
         name: Unión
+        names_en: ~
+        names_es: ~
         population: 1653
-        slug: union
       - 
-        districts: []
-        location: "POINT (-23.4499999999999993 -56.5833299999999966)"
+        alternate_names: 
+          - Tacuati
+          - Tacuaty
+          - Tacuatí
+        ascii_name: Tacuati
         name: Tacuatí
+        names_en: ~
+        names_es: ~
         population: 2405
-        slug: tacuati
       - 
-        districts: []
-        location: "POINT (-24.4499999999999993 -57.0833299999999966)"
+        alternate_names: 
+          - "San Pedro"
+          - "San Pedro de Ycuamandiyu"
+          - "San Pedro de Ycuamandiyú"
+        ascii_name: "San Pedro de Ycuamandiyu"
+        name: "San Pedro de Ycuamandiyú"
+        names_en: ~
+        names_es: ~
+        population: 9360
+      - 
+        alternate_names: 
+          - "Puerto Rosario"
+          - "Puerto Villa del Rosario"
+        ascii_name: "Puerto Rosario"
         name: "Puerto Rosario"
+        names_en: ~
+        names_es: ~
         population: 5123
-        slug: puerto-rosario
       - 
-        districts: []
-        location: "POINT (-23.8999999999999986 -56.5666700000000020)"
+        alternate_names: 
+          - "Colonia Nueva Germania"
+          - "Nueva Germania"
+        ascii_name: "Nueva Germania"
         name: "Nueva Germania"
+        names_en: ~
+        names_es: ~
         population: 1206
-        slug: nueva-germania
       - 
-        districts: []
-        location: "POINT (-24.5000000000000000 -56.6833299999999980)"
+        alternate_names: 
+          - Itacurabi
+          - "Itacurubi del Rosario"
+          - "Itacurubí del Rosario"
+        ascii_name: "Itacurubi del Rosario"
         name: "Itacurubí del Rosario"
+        names_en: ~
+        names_es: ~
         population: 3887
-        slug: itacurubi-del-rosario
       - 
-        districts: []
-        location: "POINT (-24.5333299999999994 -56.4333299999999980)"
+        alternate_names: ~
+        ascii_name: Guayaybi
         name: Guayaybi
+        names_en: ~
+        names_es: ~
         population: 2247
-        slug: guayaybi
       - 
-        districts: []
-        location: "POINT (-24.4333300000000015 -56.7000000000000028)"
+        alternate_names: 
+          - "Colonia General Acuino"
+          - "General Aquino"
+          - "General Elizardo Aquino"
+        ascii_name: "General Elizardo Aquino"
         name: "General Elizardo Aquino"
+        names_en: ~
+        names_es: ~
         population: 2983
-        slug: general-elizardo-aquino
       - 
-        districts: []
-        location: "POINT (-24.8000000000000007 -56.0333299999999994)"
+        alternate_names: ~
+        ascii_name: Capiibary
         name: Capiíbary
+        names_en: ~
+        names_es: ~
         population: 3537
-        slug: capiibary
       - 
-        districts: []
-        location: "POINT (-24.1333300000000008 -57.0833299999999966)"
+        alternate_names: 
+          - Antequera
+          - "Colonia Antequera"
+          - "Puerto Antequera"
+        ascii_name: Antequera
         name: Antequera
+        names_en: ~
+        names_es: ~
         population: 2701
-        slug: antequera
-    code: PY.17
     name: "San Pedro"
-    slug: san-pedro
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Departamento de Presidente Hayes"
     cities: 
       - 
-        districts: []
-        location: "POINT (-24.0833300000000001 -54.5166699999999977)"
-        name: "Las Palomas"
-        population: 4383
-        slug: las-palomas
+        alternate_names: ~
+        ascii_name: Nanawa
+        name: Nanawa
+        names_en: ~
+        names_es: ~
+        population: 5587
       - 
-        districts: []
-        location: "POINT (-24.0833300000000001 -55.5000000000000000)"
+        alternate_names: 
+          - "Benjamin Aceval"
+          - "Benjamín Aceval"
+          - "Colonia Aceval"
+        ascii_name: "Benjamin Aceval"
+        name: "Benjamín Aceval"
+        names_en: ~
+        names_es: ~
+        population: 7751
+    name: "Presidente Hayes"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Paraguari"
+    cities: 
+      - 
+        alternate_names: 
+          - Ibycuy
+          - Ybycui
+          - Ybycul
+        ascii_name: Ybycui
+        name: Ybycuí
+        names_en: ~
+        names_es: ~
+        population: 4629
+      - 
+        alternate_names: 
+          - Yaguaron
+          - Yaguarón
+          - Yaquaron
+        ascii_name: Yaguaron
+        name: Yaguarón
+        names_en: ~
+        names_es: ~
+        population: 7181
+      - 
+        alternate_names: 
+          - Sapucai
+          - Sapucay
+          - Sapucaí
+        ascii_name: Sapucai
+        name: Sapucaí
+        names_en: ~
+        names_es: ~
+        population: 1932
+      - 
+        alternate_names: 
+          - Quiindy
+          - Quyyndy
+        ascii_name: Quiindy
+        name: Quiindy
+        names_en: ~
+        names_es: ~
+        population: 5137
+      - 
+        alternate_names: ~
+        ascii_name: Pirayu
+        name: Pirayú
+        names_en: ~
+        names_es: ~
+        population: 4000
+      - 
+        alternate_names: 
+          - Paraguari
+          - Paraguarí
+        ascii_name: Paraguari
+        name: Paraguarí
+        names_en: ~
+        names_es: ~
+        population: 10079
+      - 
+        alternate_names: 
+          - Mbuyapey
+        ascii_name: Mbuyapey
+        name: Mbuyapey
+        names_en: ~
+        names_es: ~
+        population: 2201
+      - 
+        alternate_names: 
+          - "Colonia La Colmena"
+          - "La Colmena"
+        ascii_name: "La Colmena"
+        name: "La Colmena"
+        names_en: ~
+        names_es: ~
+        population: 2551
+      - 
+        alternate_names: ~
+        ascii_name: Carapegua
+        name: Carapeguá
+        names_en: ~
+        names_es: ~
+        population: 5784
+      - 
+        alternate_names: ~
+        ascii_name: Caapucu
+        name: Caapucú
+        names_en: ~
+        names_es: ~
+        population: 2284
+      - 
+        alternate_names: 
+          - Acahai
+          - Acahay
+          - Acahaí
+        ascii_name: Acahay
+        name: Acahay
+        names_en: ~
+        names_es: ~
+        population: 3205
+    name: Paraguarí
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Neembucu"
+    cities: 
+      - 
+        alternate_names: 
+          - Pilar
+        ascii_name: Pilar
+        name: Pilar
+        names_en: ~
+        names_es: ~
+        population: 28716
+      - 
+        alternate_names: 
+          - "General Diaz"
+          - "General Jose Eduvigis Diaz"
+          - "General José Eduvigis Díaz"
+        ascii_name: "General Jose Eduvigis Diaz"
+        name: "General José Eduvigis Díaz"
+        names_en: ~
+        names_es: ~
+        population: 1345
+      - 
+        alternate_names: 
+          - Cerrito
+        ascii_name: Cerrito
+        name: Cerrito
+        names_en: ~
+        names_es: ~
+        population: 1036
+    name: Ñeembucú
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Misiones"
+    cities: 
+      - 
+        alternate_names: 
+          - Florida
+          - "Villa Florida"
+        ascii_name: "Villa Florida"
+        name: "Villa Florida"
+        names_en: ~
+        names_es: ~
+        population: 2305
+      - 
+        alternate_names: 
+          - Santiago
+          - "Santiago De Las Misiones"
+        ascii_name: Santiago
+        name: Santiago
+        names_en: ~
+        names_es: ~
+        population: 2144
+      - 
+        alternate_names: 
+          - "Santa Rosa"
+          - "Santa Rosa de la Misiones"
+        ascii_name: "Santa Rosa"
+        name: "Santa Rosa"
+        names_en: ~
+        names_es: ~
+        population: 7257
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Maria"
+        name: "Santa María"
+        names_en: ~
+        names_es: ~
+        population: 2095
+      - 
+        alternate_names: ~
+        ascii_name: "San Patricio"
+        name: "San Patricio"
+        names_en: ~
+        names_es: ~
+        population: 1525
+      - 
+        alternate_names: ~
+        ascii_name: "San Miguel"
+        name: "San Miguel"
+        names_en: ~
+        names_es: ~
+        population: 1210
+      - 
+        alternate_names: 
+          - Ayolas
+          - "Juan De Ayolas"
+        ascii_name: Ayolas
+        name: Ayolas
+        names_en: ~
+        names_es: ~
+        population: 12061
+    name: Misiones
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Itapua"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Trinidad
+        name: Trinidad
+        names_en: ~
+        names_es: ~
+        population: 2837
+      - 
+        alternate_names: ~
+        ascii_name: "San Pedro del Parana"
+        name: "San Pedro del Paraná"
+        names_en: ~
+        names_es: ~
+        population: 5722
+      - 
+        alternate_names: ~
+        ascii_name: "San Juan del Parana"
+        name: "San Juan del Paraná"
+        names_en: ~
+        names_es: ~
+        population: 1492
+      - 
+        alternate_names: 
+          - "San Cosme"
+          - "San Cosme y Damian"
+          - "San Cosme y Damián"
+        ascii_name: "San Cosme y Damian"
+        name: "San Cosme y Damián"
+        names_en: ~
+        names_es: ~
+        population: 2223
+      - 
+        alternate_names: ~
+        ascii_name: "Puerto Mayor Otano"
+        name: "Puerto Mayor Otaño"
+        names_en: ~
+        names_es: ~
+        population: 4701
+      - 
+        alternate_names: 
+          - Pirapo
+          - "Puerto Pirapo"
+          - "Puerto Pirapó"
+        ascii_name: Pirapo
+        name: Pirapo
+        names_en: ~
+        names_es: ~
+        population: 1756
+      - 
+        alternate_names: 
+          - "Colonia Doctor Pastor Obligado"
+          - Obligado
+        ascii_name: Obligado
+        name: Obligado
+        names_en: ~
+        names_es: ~
+        population: 6350
+      - 
+        alternate_names: ~
+        ascii_name: Natalio
+        name: Natalio
+        names_en: ~
+        names_es: ~
+        population: 2252
+      - 
+        alternate_names: ~
+        ascii_name: Jesus
+        name: Jesús
+        names_en: ~
+        names_es: ~
+        population: 2530
+      - 
+        alternate_names: 
+          - "Colonia Hohenau"
+          - Hohenau
+        ascii_name: Hohenau
+        name: Hohenau
+        names_en: ~
+        names_es: ~
+        population: 5306
+      - 
+        alternate_names: 
+          - "Colonia General Delgado"
+          - "General Delgado"
+        ascii_name: "General Delgado"
+        name: "General Delgado"
+        names_en: ~
+        names_es: ~
+        population: 1544
+      - 
+        alternate_names: 
+          - Bobi
+          - Bobi-Cango
+          - Bobi-Cangó
+        ascii_name: "General Artigas"
+        name: "General Artigas"
+        names_en: ~
+        names_es: ~
+        population: 4073
+      - 
+        alternate_names: ~
+        ascii_name: Fram
+        name: Fram
+        names_en: ~
+        names_es: ~
+        population: 3916
+      - 
+        alternate_names: 
+          - Ehnkarnas'on
+          - Encarnacion
+          - Encarnación
+        ascii_name: Encarnacion
+        name: Encarnación
+        names_en: 
+          - Encarnación
+        names_es: 
+          - Encarnación
+        population: 74983
+      - 
+        alternate_names: ~
+        ascii_name: Edelira
+        name: Edelira
+        names_en: ~
+        names_es: ~
+        population: 1698
+      - 
+        alternate_names: 
+          - Carmen
+          - "Carmen del Parana"
+          - "Carmen del Paraná"
+        ascii_name: "Carmen del Parana"
+        name: "Carmen del Paraná"
+        names_en: ~
+        names_es: ~
+        population: 4196
+      - 
+        alternate_names: ~
+        ascii_name: "Carlos Antonio Lopez"
+        name: "Carlos Antonio López"
+        names_en: ~
+        names_es: ~
+        population: 1496
+      - 
+        alternate_names: 
+          - "Capitan Miranda"
+          - "Capitán Miranda"
+          - "Colonia Capitan Miranda"
+        ascii_name: "Capitan Miranda"
+        name: "Capitán Miranda"
+        names_en: ~
+        names_es: ~
+        population: 2498
+      - 
+        alternate_names: 
+          - "Bella Vista"
+          - "Bella Vista de Alto Parana"
+          - "Bella Vista de Alto Paraná"
+        ascii_name: "Bella Vista"
+        name: "Bella Vista"
+        names_en: ~
+        names_es: ~
+        population: 2334
+      - 
+        alternate_names: ~
+        ascii_name: "Arquitecto Tomas Romero Pereira"
+        name: "Arquitecto Tomás Romero Pereira"
+        names_en: ~
+        names_es: ~
+        population: 5533
+    name: Itapúa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento del Guaira"
+    cities: 
+      - 
+        alternate_names: 
+          - Vil'jarrika
+          - Viljarika
+          - "Villa Rica"
+        ascii_name: Villarrica
+        name: Villarrica
+        names_en: 
+          - Villarrica
+        names_es: 
+          - Villarrica
+        population: 41157
+      - 
+        alternate_names: 
+          - "Colonia Natalicio Talavera"
+          - "Natalicio Talavera"
+          - "Natalico Talavera"
+        ascii_name: "Natalicio Talavera"
+        name: "Natalicio Talavera"
+        names_en: ~
+        names_es: ~
+        population: 1809
+      - 
+        alternate_names: ~
+        ascii_name: Mbocayaty
+        name: Mbocayaty
+        names_en: ~
+        names_es: ~
+        population: 2296
+      - 
+        alternate_names: ~
+        ascii_name: Iturbe
+        name: Iturbe
+        names_en: ~
+        names_es: ~
+        population: 4475
+      - 
+        alternate_names: ~
+        ascii_name: Itape
+        name: Itapé
+        names_en: ~
+        names_es: ~
+        population: 1641
+      - 
+        alternate_names: 
+          - "Colonia Independencia"
+          - Independencia
+        ascii_name: Independencia
+        name: Independencia
+        names_en: ~
+        names_es: ~
+        population: 1575
+      - 
+        alternate_names: 
+          - "Coronel Martinez"
+          - "Coronel Martínez"
+          - Martinez
+        ascii_name: "Coronel Martinez"
+        name: "Coronel Martínez"
+        names_en: ~
+        names_es: ~
+        population: 1359
+      - 
+        alternate_names: 
+          - "Colonia Cosme"
+          - "Colonia Mauricio J. Troche"
+          - "Colonia Mauricio Jose Troche"
+        ascii_name: "Colonia Mauricio Jose Troche"
+        name: "Colonia Mauricio José Troche"
+        names_en: ~
+        names_es: ~
+        population: 2368
+    name: Guairá
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de la Cordillera"
+    cities: 
+      - 
+        alternate_names: 
+          - Tobati
+          - Tobaty
+          - Tobatí
+        ascii_name: Tobati
+        name: Tobatí
+        names_en: ~
+        names_es: ~
+        population: 9952
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Elena"
+        name: "Santa Elena"
+        names_en: ~
+        names_es: ~
+        population: 1137
+      - 
+        alternate_names: 
+          - "San Bernardino"
+        ascii_name: "San Bernardino"
+        name: "San Bernardino"
+        names_en: ~
+        names_es: ~
+        population: 4651
+      - 
+        alternate_names: 
+          - Piribebuy
+        ascii_name: Piribebuy
+        name: Piribebuy
+        names_en: ~
+        names_es: ~
+        population: 10337
+      - 
+        alternate_names: 
+          - Itacurubi
+          - "Itacurubi de la Cordillera"
+          - "Itacurubí de la Cordillera"
+        ascii_name: "Itacurubi de la Cordillera"
+        name: "Itacurubí de la Cordillera"
+        names_en: ~
+        names_es: ~
+        population: 3576
+      - 
+        alternate_names: ~
+        ascii_name: "Isla Pucu"
+        name: "Isla Pucú"
+        names_en: ~
+        names_es: ~
+        population: 1529
+      - 
+        alternate_names: 
+          - "Barrero Grande"
+          - "Eusebio Ayala"
+        ascii_name: "Eusebio Ayala"
+        name: "Eusebio Ayala"
+        names_en: ~
+        names_es: ~
+        population: 8253
+      - 
+        alternate_names: 
+          - Emboscada
+        ascii_name: Emboscada
+        name: Emboscada
+        names_en: ~
+        names_es: ~
+        population: 5911
+      - 
+        alternate_names: 
+          - Caraguatay
+        ascii_name: Caraguatay
+        name: Caraguatay
+        names_en: ~
+        names_es: ~
+        population: 1637
+      - 
+        alternate_names: 
+          - Caacupe
+          - Caacupé
+        ascii_name: Caacupe
+        name: Caacupé
+        names_en: ~
+        names_es: ~
+        population: 21696
+      - 
+        alternate_names: ~
+        ascii_name: Atyra
+        name: Atyrá
+        names_en: ~
+        names_es: ~
+        population: 4768
+      - 
+        alternate_names: ~
+        ascii_name: "Arroyos y Esteros"
+        name: "Arroyos y Esteros"
+        names_en: ~
+        names_es: ~
+        population: 2455
+      - 
+        alternate_names: 
+          - Altos
+        ascii_name: Altos
+        name: Altos
+        names_en: ~
+        names_es: ~
+        population: 4763
+    name: Cordillera
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Concepcion"
+    cities: 
+      - 
+        alternate_names: 
+          - Concepcion
+          - Concepción
+          - Konseps'on
+        ascii_name: Concepcion
+        name: Concepción
+        names_en: 
+          - Concepción
+        names_es: 
+          - Concepción
+        population: 48123
+      - 
+        alternate_names: ~
+        ascii_name: Belen
+        name: Belén
+        names_en: ~
+        names_es: ~
+        population: 1621
+      - 
+        alternate_names: ~
+        ascii_name: Horqueta
+        name: Horqueta
+        names_en: ~
+        names_es: ~
+        population: 10531
+    name: Concepción
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento Central"
+    cities: 
+      - 
+        alternate_names: 
+          - Ipacarai
+          - Ypacarai
+          - Ypacaray
+        ascii_name: Ypacarai
+        name: Ypacarai
+        names_en: ~
+        names_es: ~
+        population: 9655
+      - 
+        alternate_names: 
+          - "Colonia Eliza"
+          - "Villa Elisa"
+        ascii_name: "Villa Elisa"
+        name: "Villa Elisa"
+        names_en: ~
+        names_es: ~
+        population: 64099
+      - 
+        alternate_names: 
+          - "San Lorenzo"
+          - "San Lorenzo del Campo Grande"
+        ascii_name: "San Lorenzo"
+        name: "San Lorenzo"
+        names_en: 
+          - "San Lorenzo"
+        names_es: 
+          - "San Lorenzo"
+        population: 227876
+      - 
+        alternate_names: ~
+        ascii_name: "San Antonio"
+        name: "San Antonio"
+        names_en: ~
+        names_es: ~
+        population: 55754
+      - 
+        alternate_names: 
+          - "Colonia Nueva Italia"
+          - "Nueva Italia"
+        ascii_name: "Nueva Italia"
+        name: "Nueva Italia"
+        names_en: ~
+        names_es: ~
+        population: 2841
+      - 
+        alternate_names: 
+          - Nemby
+          - "San Lorenzo de la Frontera"
+        ascii_name: Nemby
+        name: Nemby
+        names_en: ~
+        names_es: ~
+        population: 94641
+      - 
+        alternate_names: ~
+        ascii_name: Limpio
+        name: Limpio
+        names_en: ~
+        names_es: ~
+        population: 96143
+      - 
+        alternate_names: 
+          - Lambare
+          - Lambaré
+        ascii_name: Lambare
+        name: Lambaré
+        names_en: 
+          - Lambaré
+        names_es: ~
+        population: 126377
+      - 
+        alternate_names: 
+          - Itaugua
+          - Itauguá
+        ascii_name: Itaugua
+        name: Itauguá
+        names_en: 
+          - Itauguá
+        names_es: ~
+        population: 64997
+      - 
+        alternate_names: ~
+        ascii_name: Ita
+        name: Itá
+        names_en: ~
+        names_es: ~
+        population: 18459
+      - 
+        alternate_names: ~
+        ascii_name: Guarambare
+        name: Guarambaré
+        names_en: ~
+        names_es: ~
+        population: 9065
+      - 
+        alternate_names: 
+          - "Fernando de la Mora"
+        ascii_name: "Fernando de la Mora"
+        name: "Fernando de la Mora"
+        names_en: ~
+        names_es: ~
+        population: 120167
+      - 
+        alternate_names: 
+          - "Colonia Mariano Roque Alonso"
+          - "Colonia Roque Alonso"
+          - "Mariano Roque Alonso"
+        ascii_name: "Colonia Mariano Roque Alonso"
+        name: "Colonia Mariano Roque Alonso"
+        names_en: ~
+        names_es: ~
+        population: 72008
+      - 
+        alternate_names: 
+          - Capiata
+          - Capiatá
+          - Capista
+        ascii_name: Capiata
+        name: Capiatá
+        names_en: 
+          - Capiatá
+        names_es: ~
+        population: 198553
+      - 
+        alternate_names: 
+          - Aregua
+          - Areguá
+        ascii_name: Aregua
+        name: Areguá
+        names_en: ~
+        names_es: ~
+        population: 11222
+    name: Central
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Canindeyu"
+    cities: 
+      - 
+        alternate_names: 
+          - Igatimi
+          - Igatimí
+          - Terecany
+        ascii_name: Ygatimi
         name: Ygatimí
+        names_en: ~
+        names_es: ~
         population: 2809
-        slug: ygatimi
       - 
-        districts: []
-        location: "POINT (-24.5166700000000013 -55.7000000000000028)"
+        alternate_names: 
+          - Curuguaty
+          - "San Isidro de Curuguaty"
+          - "Villa Curuguaty"
+        ascii_name: "San Isidro de Curuguaty"
         name: "San Isidro de Curuguaty"
+        names_en: ~
+        names_es: ~
         population: 11095
-        slug: san-isidro-de-curuguaty
       - 
-        districts: []
-        location: "POINT (-24.0500000000000007 -54.3500000000000014)"
+        alternate_names: 
+          - "Salto del Guaira"
+          - "Salto del Guairá"
+          - "Saltos de Guaira"
+        ascii_name: "Salto del Guaira"
         name: "Salto del Guairá"
+        names_en: ~
+        names_es: ~
         population: 7385
-        slug: salto-del-guaira
       - 
-        districts: []
-        location: "POINT (-24.0333299999999994 -54.8333299999999966)"
+        alternate_names: ~
+        ascii_name: "Las Palomas"
+        name: "Las Palomas"
+        names_en: ~
+        names_es: ~
+        population: 4383
+      - 
+        alternate_names: ~
+        ascii_name: "Corpus Christi"
         name: "Corpus Christi"
+        names_en: ~
+        names_es: ~
         population: 1387
-        slug: corpus-christi
       - 
-        districts: []
-        location: "POINT (-24.1333300000000008 -54.6166699999999992)"
+        alternate_names: ~
+        ascii_name: "Colonia Catuete"
         name: "Colonia Catuete"
+        names_en: ~
+        names_es: ~
         population: 4070
-        slug: colonia-catuete
-    code: PY.19
     name: Canindeyú
-    slug: canindeyu
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Departamento de Caazapa"
     cities: 
       - 
-        districts: []
-        location: "POINT (-21.0415300000000016 -57.8737700000000004)"
-        name: "Fuerte Olimpo"
-        population: 2475
-        slug: fuerte-olimpo
+        alternate_names: ~
+        ascii_name: Yuty
+        name: Yuty
+        names_en: ~
+        names_es: ~
+        population: 4774
       - 
-        districts: []
-        location: "POINT (-22.3666699999999992 -59.8166700000000020)"
-        name: "Colonia Menno"
-        population: 5615
-        slug: colonia-menno
+        alternate_names: ~
+        ascii_name: Yegros
+        name: Yegros
+        names_en: ~
+        names_es: ~
+        population: 1140
       - 
-        districts: []
-        location: "POINT (-22.3500000000000014 -60.0333299999999994)"
-        name: Filadelfia
-        population: 8048
-        slug: filadelfia
+        alternate_names: ~
+        ascii_name: "San Juan Nepomuceno"
+        name: "San Juan Nepomuceno"
+        names_en: ~
+        names_es: ~
+        population: 7893
       - 
-        districts: []
-        location: "POINT (-22.6666699999999999 -60.1166699999999992)"
-        name: "Colonia Neuland"
-        population: 2816
-        slug: colonia-neuland
+        alternate_names: 
+          - "Colonia General Morinigo"
+          - "Colonia General Morínigo"
+          - "General Higinio Morinigo"
+        ascii_name: "General Higinio Morinigo"
+        name: "General Higinio Morínigo"
+        names_en: ~
+        names_es: ~
+        population: 1399
       - 
-        districts: []
-        location: "POINT (-19.9166699999999999 -60.7833299999999994)"
+        alternate_names: ~
+        ascii_name: "Buena Vista"
+        name: "Buena Vista"
+        names_en: ~
+        names_es: ~
+        population: 1580
+      - 
+        alternate_names: 
+          - Abai
+          - Abay
+          - Abaí
+        ascii_name: Abai
+        name: Abaí
+        names_en: ~
+        names_es: ~
+        population: 3024
+    name: Caazapá
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Caaguazu"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Yhu
+        name: Yhú
+        names_en: ~
+        names_es: ~
+        population: 2092
+      - 
+        alternate_names: 
+          - "San Jose"
+          - "San Jose de los Arroyos"
+          - "San José"
+        ascii_name: "San Jose"
+        name: "San José"
+        names_en: ~
+        names_es: ~
+        population: 5117
+      - 
+        alternate_names: ~
+        ascii_name: "San Joaquin"
+        name: "San Joaquín"
+        names_en: ~
+        names_es: ~
+        population: 1745
+      - 
+        alternate_names: ~
+        ascii_name: Repatriacion
+        name: Repatriación
+        names_en: ~
+        names_es: ~
+        population: 7085
+      - 
+        alternate_names: ~
+        ascii_name: Mbutuy
+        name: Mbutuy
+        names_en: ~
+        names_es: ~
+        population: 1466
+      - 
+        alternate_names: 
+          - "Doctor Juan M. Frutos"
+          - "Doctor Juan Manuel Frutos"
+          - "Juan M. Fruto"
+        ascii_name: "Doctor Juan Manuel Frutos"
+        name: "Doctor Juan Manuel Frutos"
+        names_en: ~
+        names_es: ~
+        population: 4797
+      - 
+        alternate_names: 
+          - "Cecilio Baez"
+          - "Cecilio Báez"
+          - "Doctor Cecilio Baez"
+        ascii_name: "Doctor Cecilio Baez"
+        name: "Doctor Cecilio Báez"
+        names_en: ~
+        names_es: ~
+        population: 1977
+      - 
+        alternate_names: 
+          - Ajos
+          - "Coronel Oviedo"
+          - Koronel'-Ov'edo
+        ascii_name: "Coronel Oviedo"
+        name: "Coronel Oviedo"
+        names_en: ~
+        names_es: ~
+        population: 51286
+      - 
+        alternate_names: ~
+        ascii_name: "Colonia General Alfredo Stroessner"
+        name: "Colonia General Alfredo Stroessner"
+        names_en: ~
+        names_es: ~
+        population: 11558
+      - 
+        alternate_names: ~
+        ascii_name: Carayao
+        name: Carayaó
+        names_en: ~
+        names_es: ~
+        population: 2473
+      - 
+        alternate_names: ~
+        ascii_name: Caaguazu
+        name: Caaguazú
+        names_en: ~
+        names_es: ~
+        population: 54808
+    name: Caaguazú
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento del Amambay"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Capitan Bado"
+        name: "Capitán Bado"
+        names_en: ~
+        names_es: ~
+        population: 9114
+      - 
+        alternate_names: 
+          - "Bella Vista"
+        ascii_name: "Bella Vista"
+        name: "Bella Vista"
+        names_en: ~
+        names_es: ~
+        population: 5653
+    name: Amambay
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento del Alto Parana"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Santa Rita"
+        name: "Santa Rita"
+        names_en: ~
+        names_es: ~
+        population: 11823
+      - 
+        alternate_names: ~
+        ascii_name: "San Alberto"
+        name: "San Alberto"
+        names_en: ~
+        names_es: ~
+        population: 4989
+      - 
+        alternate_names: 
+          - "Presidente Franco"
+          - "Puerto Presidente Franco"
+        ascii_name: "Presidente Franco"
+        name: "Presidente Franco"
+        names_en: ~
+        names_es: ~
+        population: 54292
+      - 
+        alternate_names: ~
+        ascii_name: Naranjal
+        name: Naranjal
+        names_en: ~
+        names_es: ~
+        population: 2151
+      - 
+        alternate_names: ~
+        ascii_name: "Los Cedrales"
+        name: "Los Cedrales"
+        names_en: ~
+        names_es: ~
+        population: 2754
+      - 
+        alternate_names: 
+          - Itaquyry
+          - Ytaquyry
+        ascii_name: Itaquyry
+        name: Itaquyry
+        names_en: ~
+        names_es: ~
+        population: 3038
+      - 
+        alternate_names: 
+          - Caarendy
+          - "Doctor J. Leon Mallorquin"
+          - "Doctor J. León Mallorquín"
+        ascii_name: "Doctor Juan Leon Mallorquin"
+        name: "Doctor Juan León Mallorquín"
+        names_en: ~
+        names_es: ~
+        population: 7481
+      - 
+        alternate_names: ~
+        ascii_name: "Colonia Yguazu"
+        name: "Colonia Yguazú"
+        names_en: ~
+        names_es: ~
+        population: 3363
+      - 
+        alternate_names: ~
+        ascii_name: "Colonia Minga Pora"
+        name: "Colonia Minga Porá"
+        names_en: ~
+        names_es: ~
+        population: 1770
+    name: "Alto Paraná"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Alto Paraguay"
+    cities: 
+      - 
+        alternate_names: 
+          - "Capitan Pablo Lagerenza"
+          - "Capitán Pablo Lagerenza"
+          - "Fortin Ingavi"
+        ascii_name: "Capitan Pablo Lagerenza"
         name: "Capitán Pablo Lagerenza"
+        names_en: ~
+        names_es: ~
         population: 1200
-        slug: capitan-pablo-lagerenza
-    code: PY.24
+    name: "Alto Paraguay"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Asuncion
+    cities: 
+      - 
+        alternate_names: 
+          - Asounthion
+          - Assumptio
+          - Assuncao
+        ascii_name: Asuncion
+        name: Asunción
+        names_en: 
+          - Asunción
+        names_es: 
+          - Asunción
+        population: 1482200
+    name: Asunción
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Departamento de Boqueron"
+    cities: 
+      - 
+        alternate_names: 
+          - Olimpo
+        ascii_name: "Fuerte Olimpo"
+        name: "Fuerte Olimpo"
+        names_en: ~
+        names_es: ~
+        population: 2475
+      - 
+        alternate_names: ~
+        ascii_name: "Colonia Menno"
+        name: "Colonia Menno"
+        names_en: ~
+        names_es: ~
+        population: 5615
+      - 
+        alternate_names: 
+          - "Colonia Filadelfia"
+          - Filadelfia
+          - Filadelfija
+        ascii_name: Filadelfia
+        name: Filadelfia
+        names_en: 
+          - Filadelfia
+        names_es: 
+          - Filadelfia
+        population: 8048
+      - 
+        alternate_names: 
+          - "Colonia Neuland"
+        ascii_name: "Colonia Neuland"
+        name: "Colonia Neuland"
+        names_en: ~
+        names_es: ~
+        population: 2816
     name: Boquerón
-    slug: boqueron
-tld: py
+    names_en: ~
+    names_es: ~

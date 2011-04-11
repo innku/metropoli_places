@@ -1,420 +1,626 @@
 --- 
-code: LK
-continent: AS
 name: "Sri Lanka"
-population: 21513990
+names_en: 
+  - "Sri Lanka"
+names_es: 
+  - "Sri Lanka"
+  - Trapobana
+  - Ceilán
+  - "Isla Trapobana"
 regions: 
   - 
+    ascii_name: "Western Province"
     cities: 
       - 
-        districts: []
-        location: "POINT (6.9371000000000000 80.6581000000000046)"
-        name: Talawakele
-        population: 3545
-        slug: talawakele
-      - 
-        districts: []
-        location: "POINT (6.9707800000000004 80.7828599999999994)"
-        name: "Nuwara Eliya"
-        population: 25775
-        slug: nuwara-eliya
-      - 
-        districts: []
-        location: "POINT (7.2954999999999997 80.6355999999999966)"
-        name: Kandy
-        population: 111701
-        slug: kandy
-      - 
-        districts: []
-        location: "POINT (7.2546999999999997 80.5241999999999933)"
-        name: Kadugannawa
-        population: 1214
-        slug: kadugannawa
-      - 
-        districts: []
-        location: "POINT (6.8916000000000004 80.5955000000000013)"
-        name: Hatton
-        population: 15073
-        slug: hatton
-      - 
-        districts: []
-        location: "POINT (7.1642999999999999 80.5695999999999941)"
-        name: Gampola
-        population: 24730
-        slug: gampola
-      - 
-        districts: []
-        location: "POINT (7.8600000000000003 80.6516699999999958)"
-        name: Dambulla
-        population: 66716
-        slug: dambulla
-    code: LK.29
-    name: Central
-    slug: central
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (7.9333299999999998 81.0000000000000000)"
-        name: Polonnaruwa
-        population: 13900
-        slug: polonnaruwa
-      - 
-        districts: []
-        location: "POINT (8.3564699999999998 80.4172599999999989)"
-        name: Anuradhapura
-        population: 60943
-        slug: anuradhapura
-    code: LK.30
-    name: "North Central"
-    slug: north-central
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.7514000000000003 80.4971000000000032)"
-        name: Vavuniya
-        population: 60176
-        slug: vavuniya
-      - 
-        districts: []
-        location: "POINT (9.8166700000000002 80.1666699999999963)"
-        name: Valvedditturai
-        population: 78205
-        slug: valvedditturai
-      - 
-        districts: []
-        location: "POINT (8.5710999999999995 81.2335000000000065)"
-        name: Trincomalee
-        population: 108420
-        slug: trincomalee
-      - 
-        districts: []
-        location: "POINT (9.8166700000000002 80.2333299999999952)"
-        name: "Point Pedro"
-        population: 89810
-        slug: point-pedro
-      - 
-        districts: []
-        location: "POINT (9.3961000000000006 80.3982000000000028)"
-        name: Kilinochchi
-        population: 13006
-        slug: kilinochchi
-      - 
-        districts: []
-        location: "POINT (7.4166699999999999 81.8166700000000020)"
-        name: Kalmunai
-        population: 100171
-        slug: kalmunai
-      - 
-        districts: []
-        location: "POINT (9.6567000000000007 80.0137000000000000)"
-        name: Jaffna
-        population: 169102
-        slug: jaffna
-      - 
-        districts: []
-        location: "POINT (7.7782000000000000 81.6038000000000068)"
-        name: "Eravur Town"
-        population: 22982
-        slug: eravur-town
-      - 
-        districts: []
-        location: "POINT (7.7102000000000004 81.6924000000000063)"
-        name: Batticaloa
-        population: 86742
-        slug: batticaloa
-      - 
-        districts: []
-        location: "POINT (7.2833300000000003 81.6666699999999963)"
-        name: Ampara
-        population: 18348
-        slug: ampara
-    code: LK.31
-    name: "North Eastern"
-    slug: north-eastern
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.0361999999999991 79.8282999999999987)"
-        name: Puttalam
-        population: 45661
-        slug: puttalam
-      - 
-        districts: []
-        location: "POINT (7.4863000000000000 80.3623000000000047)"
-        name: Kurunegala
-        population: 28571
-        slug: kurunegala
-      - 
-        districts: []
-        location: "POINT (7.4687999999999999 80.0400999999999954)"
-        name: Kuliyapitiya
-        population: 6877
-        slug: kuliyapitiya
-      - 
-        districts: []
-        location: "POINT (7.5758299999999998 79.7952800000000053)"
-        name: Chilaw
-        population: 24712
-        slug: chilaw
-    code: LK.32
-    name: "North Western"
-    slug: north-western
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (5.9666699999999997 80.4166699999999963)"
-        name: Weligama
-        population: 22179
-        slug: weligama
-      - 
-        districts: []
-        location: "POINT (6.0240000000000000 80.7911000000000001)"
-        name: Tangalla
-        population: 10497
-        slug: tangalla
-      - 
-        districts: []
-        location: "POINT (7.9500000000000002 80.7500000000000000)"
-        name: Sigiriya
-        population: 1001
-        slug: sigiriya
-      - 
-        districts: []
-        location: "POINT (5.9485099999999997 80.5352800000000002)"
-        name: Matara
-        population: 76254
-        slug: matara
-      - 
-        districts: []
-        location: "POINT (6.1402799999999997 80.1038900000000069)"
-        name: Hikkaduwa
-        population: 1300
-        slug: hikkaduwa
-      - 
-        districts: []
-        location: "POINT (6.0366999999999997 80.2169999999999987)"
-        name: Galle
-        population: 93118
-        slug: galle
-      - 
-        districts: []
-        location: "POINT (6.4211099999999997 79.9988900000000029)"
-        name: Bentota
-        population: 37000
-        slug: bentota
-      - 
-        districts: []
-        location: "POINT (6.2249999999999996 80.0566699999999969)"
-        name: Ambalangoda
-        population: 20133
-        slug: ambalangoda
-      - 
-        districts: []
-        location: "POINT (6.6827800000000002 80.3991699999999980)"
-        name: Ratnapura
-        population: 47832
-        slug: ratnapura
-    code: LK.34
-    name: Southern
-    slug: southern
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (6.7999999999999998 81.5000000000000000)"
-        name: Wattegama
-        population: 8000
-        slug: wattegama
-      - 
-        districts: []
-        location: "POINT (6.8666700000000001 81.3499999999999943)"
-        name: Monaragala
-        population: 10236
-        slug: monaragala
-      - 
-        districts: []
-        location: "POINT (6.7666700000000004 80.9666699999999935)"
-        name: Haputale
-        population: 4721
-        slug: haputale
-      - 
-        districts: []
-        location: "POINT (6.9833299999999996 81.0499999999999972)"
-        name: Badulla
-        population: 42230
-        slug: badulla
-    code: LK.35
-    name: Uva
-    slug: uva
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (6.9329999999999998 79.9296999999999969)"
-        name: Mulleriyawa
-        population: 33540
-        slug: mulleriyawa
-      - 
-        districts: []
-        location: "POINT (6.9908999999999999 79.8829999999999956)"
-        name: Hendala
-        population: 56978
-        slug: hendala
-      - 
-        districts: []
-        location: "POINT (6.8963999999999999 79.9180999999999955)"
-        name: "Battaramulla South"
-        population: 75633
-        slug: battaramulla-south
-      - 
-        districts: []
-        location: "POINT (7.0281000000000002 79.9013999999999953)"
+        alternate_names: ~
+        ascii_name: Welisara
         name: Welisara
+        names_en: ~
+        names_es: ~
         population: 41306
-        slug: welisara
       - 
-        districts: []
-        location: "POINT (6.9779000000000000 79.8897999999999939)"
+        alternate_names: ~
+        ascii_name: Wattala
         name: Wattala
+        names_en: ~
+        names_es: ~
         population: 30725
-        slug: wattala
       - 
-        districts: []
-        location: "POINT (6.8905000000000003 79.9014999999999986)"
+        alternate_names: ~
+        ascii_name: "Pita Kotte"
         name: "Pita Kotte"
+        names_en: ~
+        names_es: ~
         population: 118179
-        slug: pita-kotte
       - 
-        districts: []
-        location: "POINT (6.9684999999999997 79.8836000000000013)"
+        alternate_names: ~
+        ascii_name: Peliyagoda
         name: Peliyagoda
+        names_en: ~
+        names_es: ~
         population: 30717
-        slug: peliyagoda
       - 
-        districts: []
-        location: "POINT (6.7131999999999996 79.9026000000000067)"
+        alternate_names: 
+          - Panadura
+          - Panadure
+          - Pandura
+        ascii_name: Panadura
         name: Panadura
+        names_en: ~
+        names_es: ~
         population: 33735
-        slug: panadura
       - 
-        districts: []
-        location: "POINT (7.2083000000000004 79.8358000000000061)"
+        alternate_names: 
+          - Negombo
+          - Негомбо
+        ascii_name: Negombo
         name: Negombo
+        names_en: 
+          - Negombo
+        names_es: ~
         population: 137223
-        slug: negombo
       - 
-        districts: []
-        location: "POINT (6.7729999999999997 79.8816000000000059)"
+        alternate_names: ~
+        ascii_name: Mulleriyawa
+        name: Mulleriyawa
+        names_en: ~
+        names_es: ~
+        population: 33540
+      - 
+        alternate_names: 
+          - Moratuwa
+        ascii_name: Moratuwa
         name: Moratuwa
+        names_en: ~
+        names_es: ~
         population: 185031
-        slug: moratuwa
       - 
-        districts: []
-        location: "POINT (7.1662999999999997 79.9532999999999987)"
+        alternate_names: ~
+        ascii_name: Minuwangoda
         name: Minuwangoda
+        names_en: ~
+        names_es: ~
         population: 7772
-        slug: minuwangoda
       - 
-        districts: []
-        location: "POINT (6.8479999999999999 79.9265000000000043)"
+        alternate_names: 
+          - Maharagama
+        ascii_name: Maharagama
         name: Maharagama
+        names_en: ~
+        names_es: ~
         population: 66576
-        slug: maharagama
       - 
-        districts: []
-        location: "POINT (6.9027799999999999 79.9083300000000065)"
+        alternate_names: 
+          - Kolompo
+          - Kotte
+          - Shri-Dzhajavardenepura-Kotte
+        ascii_name: "Sri Jayewardenepura Kotte"
         name: "Sri Jayewardenepura Kotte"
+        names_en: 
+          - Kotte
+        names_es: ~
         population: 115826
-        slug: sri-jayewardenepura-kotte
       - 
-        districts: []
-        location: "POINT (6.9268999999999998 79.9094999999999942)"
+        alternate_names: ~
+        ascii_name: Kotikawatta
         name: Kotikawatta
+        names_en: ~
+        names_es: ~
         population: 64565
-        slug: kotikawatta
       - 
-        districts: []
-        location: "POINT (6.9329000000000001 79.8847999999999985)"
+        alternate_names: ~
+        ascii_name: Kolonnawa
         name: Kolonnawa
+        names_en: ~
+        names_es: ~
         population: 58076
-        slug: kolonnawa
       - 
-        districts: []
-        location: "POINT (6.9553000000000003 79.9219999999999970)"
+        alternate_names: 
+          - Kelanai
+          - Kelaniya
+        ascii_name: Kelaniya
         name: Kelaniya
+        names_en: ~
+        names_es: ~
         population: 28846
-        slug: kelaniya
       - 
-        districts: []
-        location: "POINT (7.1642999999999999 79.8756999999999948)"
+        alternate_names: 
+          - Katunayaka
+          - "Katunayaka North"
+          - Katunayake
+        ascii_name: "Katunayaka North"
         name: "Katunayaka North"
+        names_en: ~
+        names_es: ~
         population: 84643
-        slug: katunayaka-north
       - 
-        districts: []
-        location: "POINT (7.0480000000000000 79.8936999999999955)"
+        alternate_names: ~
+        ascii_name: Kandana
         name: Kandana
+        names_en: ~
+        names_es: ~
         population: 33424
-        slug: kandana
       - 
-        districts: []
-        location: "POINT (6.5831000000000000 79.9592999999999989)"
+        alternate_names: 
+          - Kalutara
+          - "Kalutara South"
+          - Калутара
+        ascii_name: Kalutara
         name: Kalutara
+        names_en: ~
+        names_es: ~
         population: 38000
-        slug: kalutara
       - 
-        districts: []
-        location: "POINT (7.0743999999999998 79.8919000000000068)"
+        alternate_names: ~
+        ascii_name: "Ja Ela"
         name: "Ja Ela"
+        names_en: ~
+        names_es: ~
         population: 32175
-        slug: ja-ela
       - 
-        districts: []
-        location: "POINT (6.7159000000000004 80.0626000000000033)"
+        alternate_names: 
+          - Horana
+          - "Horana South"
+        ascii_name: "Horana South"
         name: "Horana South"
+        names_en: ~
+        names_es: ~
         population: 8982
-        slug: horana-south
       - 
-        districts: []
-        location: "POINT (6.8440000000000003 80.0023999999999944)"
+        alternate_names: ~
+        ascii_name: Homagama
         name: Homagama
+        names_en: ~
+        names_es: ~
         population: 34664
-        slug: homagama
       - 
-        districts: []
-        location: "POINT (6.9012000000000002 80.0852000000000004)"
+        alternate_names: ~
+        ascii_name: Hendala
+        name: Hendala
+        names_en: ~
+        names_es: ~
+        population: 56978
+      - 
+        alternate_names: ~
+        ascii_name: "Hanwella Ihala"
         name: "Hanwella Ihala"
+        names_en: ~
+        names_es: ~
         population: 22918
-        slug: hanwella-ihala
       - 
-        districts: []
-        location: "POINT (7.0896999999999997 79.9925000000000068)"
+        alternate_names: 
+          - Gampaha
+        ascii_name: Gampaha
         name: Gampaha
+        names_en: ~
+        names_es: ~
         population: 9350
-        slug: gampaha
       - 
-        districts: []
-        location: "POINT (6.8292999999999999 79.8629999999999995)"
+        alternate_names: ~
+        ascii_name: Galkissa
         name: Galkissa
+        names_en: ~
+        names_es: ~
         population: 215941
-        slug: galkissa
       - 
-        districts: []
-        location: "POINT (6.9319400000000000 79.8477800000000002)"
+        alternate_names: 
+          - Colombo
+          - Columbo
+          - Kolombas
+        ascii_name: Colombo
         name: Colombo
+        names_en: 
+          - Colombo
+        names_es: 
+          - Colombo
         population: 648034
-        slug: colombo
       - 
-        districts: []
-        location: "POINT (6.4738899999999999 79.9841700000000060)"
+        alternate_names: ~
+        ascii_name: Beruwala
         name: Beruwala
+        names_en: ~
+        names_es: ~
         population: 34250
-        slug: beruwala
-    code: LK.36
+      - 
+        alternate_names: 
+          - Battaramulla
+          - "Battaramulla South"
+        ascii_name: "Battaramulla South"
+        name: "Battaramulla South"
+        names_en: ~
+        names_es: ~
+        population: 75633
     name: Western
-    slug: western
-tld: lk
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province of Uva"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Wattegama
+        name: Wattegama
+        names_en: ~
+        names_es: ~
+        population: 8000
+      - 
+        alternate_names: 
+          - Monaragala
+          - Monaragalla
+          - Moneragala
+        ascii_name: Monaragala
+        name: Monaragala
+        names_en: ~
+        names_es: ~
+        population: 10236
+      - 
+        alternate_names: 
+          - Haputale
+          - "Haputale Town"
+        ascii_name: Haputale
+        name: Haputale
+        names_en: ~
+        names_es: ~
+        population: 4721
+      - 
+        alternate_names: 
+          - Badulla
+          - Badully
+          - Бадуллы
+        ascii_name: Badulla
+        name: Badulla
+        names_en: ~
+        names_es: ~
+        population: 42230
+    name: Uva
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Southern Province"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Weligama
+        name: Weligama
+        names_en: ~
+        names_es: ~
+        population: 22179
+      - 
+        alternate_names: 
+          - Tangalla
+          - Tangalle
+        ascii_name: Tangalla
+        name: Tangalla
+        names_en: 
+          - Tangalle
+        names_es: ~
+        population: 10497
+      - 
+        alternate_names: 
+          - Matara
+          - Матара
+        ascii_name: Matara
+        name: Matara
+        names_en: ~
+        names_es: ~
+        population: 76254
+      - 
+        alternate_names: 
+          - Hikkaduwa
+          - Khikkaduva
+          - Хиккадува
+        ascii_name: Hikkaduwa
+        name: Hikkaduwa
+        names_en: 
+          - Hikkaduwa
+        names_es: ~
+        population: 1300
+      - 
+        alternate_names: 
+          - Galla
+          - Galle
+          - kali
+        ascii_name: Galle
+        name: Galle
+        names_en: 
+          - Galle
+        names_es: ~
+        population: 93118
+      - 
+        alternate_names: 
+          - Bentota
+          - Бентота
+        ascii_name: Bentota
+        name: Bentota
+        names_en: 
+          - Bentota
+        names_es: ~
+        population: 37000
+      - 
+        alternate_names: 
+          - Ambalangoda
+          - Ambalangoddi
+        ascii_name: Ambalangoda
+        name: Ambalangoda
+        names_en: ~
+        names_es: ~
+        population: 20133
+    name: Southern
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province of Sabaragamuwa"
+    cities: 
+      - 
+        alternate_names: 
+          - Ratnapura
+          - Ratnapury
+          - Ратнапуры
+        ascii_name: Ratnapura
+        name: Ratnapura
+        names_en: ~
+        names_es: ~
+        population: 47832
+    name: Sabaragamuwa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "North Western Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Puttalam
+        ascii_name: Puttalam
+        name: Puttalam
+        names_en: ~
+        names_es: ~
+        population: 45661
+      - 
+        alternate_names: 
+          - Kornegalle
+          - Kurunegala
+          - Kurunegald
+        ascii_name: Kurunegala
+        name: Kurunegala
+        names_en: ~
+        names_es: ~
+        population: 28571
+      - 
+        alternate_names: ~
+        ascii_name: Kuliyapitiya
+        name: Kuliyapitiya
+        names_en: ~
+        names_es: ~
+        population: 6877
+      - 
+        alternate_names: 
+          - Chilan
+          - Chilaw
+          - "Chilaw Town"
+        ascii_name: Chilaw
+        name: Chilaw
+        names_en: ~
+        names_es: ~
+        population: 24712
+    name: "North Western"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "North Eastern Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Vavunija
+          - Vavuniya
+          - "Vavuniya Town"
+        ascii_name: Vavuniya
+        name: Vavuniya
+        names_en: ~
+        names_es: ~
+        population: 60176
+      - 
+        alternate_names: 
+          - Valvedditturai
+          - Valvettithurai
+          - Valvettiturai
+        ascii_name: Valvedditturai
+        name: Valvedditturai
+        names_en: ~
+        names_es: ~
+        population: 78205
+      - 
+        alternate_names: 
+          - Trikunamalaja
+          - Trincomalee
+          - Trincomali
+        ascii_name: Trincomalee
+        name: Trincomalee
+        names_en: 
+          - Trincomalee
+        names_es: ~
+        population: 108420
+      - 
+        alternate_names: 
+          - "Point Pedro"
+          - Pojnt-Pedro
+          - paruttitturai
+        ascii_name: "Point Pedro"
+        name: "Point Pedro"
+        names_en: 
+          - "Point Pedro"
+        names_es: ~
+        population: 89810
+      - 
+        alternate_names: 
+          - Kilinochchi
+          - Killinochchi
+        ascii_name: Kilinochchi
+        name: Kilinochchi
+        names_en: ~
+        names_es: ~
+        population: 13006
+      - 
+        alternate_names: ~
+        ascii_name: Kalmunai
+        name: Kalmunai
+        names_en: ~
+        names_es: ~
+        population: 100171
+      - 
+        alternate_names: 
+          - Dzhafna
+          - Jaffna
+          - "Jaffna Town"
+        ascii_name: Jaffna
+        name: Jaffna
+        names_en: 
+          - Jaffna
+        names_es: ~
+        population: 169102
+      - 
+        alternate_names: 
+          - Ehravure
+          - Eraur
+          - Eravur
+        ascii_name: "Eravur Town"
+        name: "Eravur Town"
+        names_en: ~
+        names_es: ~
+        population: 22982
+      - 
+        alternate_names: 
+          - Batticaloa
+          - Batticoloa
+          - Battikaloa
+        ascii_name: Batticaloa
+        name: Batticaloa
+        names_en: 
+          - Batticaloa
+        names_es: ~
+        population: 86742
+      - 
+        alternate_names: 
+          - Ampara
+          - Amparai
+          - Ampari
+        ascii_name: Ampara
+        name: Ampara
+        names_en: ~
+        names_es: ~
+        population: 18348
+    name: "North Eastern"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "North Central Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Polonnaruva
+          - Polonnaruwa
+          - Polonnâruvâ
+        ascii_name: Polonnaruwa
+        name: Polonnaruwa
+        names_en: 
+          - Polonnaruwa
+        names_es: ~
+        population: 13900
+      - 
+        alternate_names: 
+          - Aneuradhapura
+          - Anuradhapur
+          - Anuradhapura
+        ascii_name: Anuradhapura
+        name: Anuradhapura
+        names_en: 
+          - Anuradhapura
+        names_es: ~
+        population: 60943
+    name: "North Central"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Central Province"
+    cities: 
+      - 
+        alternate_names: 
+          - Talawakele
+          - "Talawakele Town"
+        ascii_name: Talawakele
+        name: Talawakele
+        names_en: ~
+        names_es: ~
+        population: 3545
+      - 
+        alternate_names: 
+          - Sigiriya
+        ascii_name: Sigiriya
+        name: Sigiriya
+        names_en: ~
+        names_es: ~
+        population: 1001
+      - 
+        alternate_names: 
+          - "Nuwara Eliya Town"
+          - Nuwari-Eliya
+        ascii_name: "Nuwara Eliya"
+        name: "Nuwara Eliya"
+        names_en: ~
+        names_es: ~
+        population: 25775
+      - 
+        alternate_names: 
+          - Kandi
+          - Kandy
+          - Mahanurora
+        ascii_name: Kandy
+        name: Kandy
+        names_en: 
+          - Kandy
+        names_es: ~
+        population: 111701
+      - 
+        alternate_names: 
+          - Kadugannawa
+          - Kadugawnawa
+        ascii_name: Kadugannawa
+        name: Kadugannawa
+        names_en: ~
+        names_es: ~
+        population: 1214
+      - 
+        alternate_names: ~
+        ascii_name: Hatton
+        name: Hatton
+        names_en: ~
+        names_es: ~
+        population: 15073
+      - 
+        alternate_names: 
+          - Gampola
+          - "Gampola Town"
+        ascii_name: Gampola
+        name: Gampola
+        names_en: ~
+        names_es: ~
+        population: 24730
+      - 
+        alternate_names: 
+          - Dambul
+          - Dambulla
+          - "tampullai porkovil"
+        ascii_name: Dambulla
+        name: Dambulla
+        names_en: 
+          - Dambulla
+        names_es: ~
+        population: 66716
+    name: Central
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Northern Province"
+    cities: []
+    name: "Northern Province"
+    names_en: ~
+    names_es: ~

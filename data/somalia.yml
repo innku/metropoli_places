@@ -1,340 +1,561 @@
 --- 
-code: SO
-continent: AF
 name: Somalia
-population: 10112453
+names_en: 
+  - Somalia
+names_es: 
+  - Somalia
 regions: 
   - 
+    ascii_name: "Gobolka Woqooyi Galbeed"
     cities: 
       - 
-        districts: []
-        location: "POINT (4.5499999999999998 43.0333299999999994)"
-        name: Yeed
-        population: 8429
-        slug: yeed
-      - 
-        districts: []
-        location: "POINT (3.8082300000000000 43.2476300000000009)"
-        name: Waajid
-        population: 6666
-        slug: waajid
-      - 
-        districts: []
-        location: "POINT (4.0333300000000003 44.5166699999999977)"
-        name: Tayeeglow
-        population: 2119
-        slug: tayeeglow
-    code: SO.01
-    name: Bakool
-    slug: bakool
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (11.4711099999999995 49.8738900000000029)"
-        name: Qandala
-        population: 15923
-        slug: qandala
-      - 
-        districts: []
-        location: "POINT (10.2833299999999994 50.2333300000000023)"
-        name: Iskushuban
-        population: 5759
-        slug: iskushuban
-      - 
-        districts: []
-        location: "POINT (11.2847200000000001 49.1824999999999974)"
-        name: "Bender Cassim"
-        population: 74287
-        slug: bender-cassim
-      - 
-        districts: []
-        location: "POINT (11.8499999999999996 51.0499999999999972)"
-        name: Bereeda
-        population: 11262
-        slug: bereeda
-      - 
-        districts: []
-        location: "POINT (11.2833299999999994 51.0833299999999966)"
-        name: Bargaal
-        population: 6798
-        slug: bargaal
-      - 
-        districts: []
-        location: "POINT (9.4833300000000005 50.8166700000000020)"
-        name: Bandarbeyla
-        population: 13753
-        slug: bandarbeyla
-    code: SO.03
-    name: Bari
-    slug: bari
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (2.7833299999999999 44.0833299999999966)"
-        name: Buurhakaba
-        population: 27792
-        slug: buurhakaba
-      - 
-        districts: []
-        location: "POINT (3.1166700000000001 43.6499999999999986)"
-        name: Baidoa
-        population: 129839
-        slug: baidoa
-    code: SO.04
-    name: Bay
-    slug: bay
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (3.8500000000000001 47.2000000000000028)"
-        name: Ceeldheere
-        population: 26562
-        slug: ceeldheere
-      - 
-        districts: []
-        location: "POINT (4.6833299999999998 46.6166699999999992)"
-        name: Ceelbuur
-        population: 9031
-        slug: ceelbuur
-    code: SO.05
-    name: Galguduud
-    slug: galguduud
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (3.7965100000000001 42.5442099999999996)"
-        name: Luuq
-        population: 33820
-        slug: luuq
-      - 
-        districts: []
-        location: "POINT (3.3162699999999998 42.2208499999999987)"
-        name: Garbahaarrey
-        population: 12652
-        slug: garbahaarrey
-    code: SO.06
-    name: Gedo
-    slug: gedo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (3.3999999999999999 45.5833299999999966)"
-        name: Jalalaqsi
-        population: 9743
-        slug: jalalaqsi
-      - 
-        districts: []
-        location: "POINT (3.8500000000000001 45.5666700000000020)"
-        name: Buulobarde
-        population: 16928
-        slug: buulobarde
-      - 
-        districts: []
-        location: "POINT (4.7358300000000000 45.2036099999999976)"
-        name: Beledweyne
-        population: 55410
-        slug: beledweyne
-    code: SO.07
-    name: Hiiraan
-    slug: hiiraan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (1.2533300000000001 42.5708300000000008)"
-        name: Dujuuma
-        population: 2432
-        slug: dujuuma
-      - 
-        districts: []
-        location: "POINT (0.4958300000000000 42.7727799999999974)"
-        name: Jilib
-        population: 43694
-        slug: jilib
-    code: SO.08
-    name: "Middle Juba"
-    slug: middle-juba
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.3581700000000000 42.5453600000000023)"
-        name: Chisimayu
-        population: 234852
-        slug: chisimayu
-      - 
-        districts: []
-        location: "POINT (0.0722200000000000 42.7505600000000001)"
-        name: Jamaame
-        population: 185270
-        slug: jamaame
-      - 
-        districts: []
-        location: "POINT (-1.2182500000000001 41.8378799999999984)"
-        name: "Buur Gaabo"
-        population: 3096
-        slug: buur-gaabo
-    code: SO.09
-    name: "Lower Juba"
-    slug: lower-juba
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (4.6544400000000001 47.8575000000000017)"
-        name: Xarardheere
-        population: 2018
-        slug: xarardheere
-      - 
-        districts: []
-        location: "POINT (5.3513900000000003 48.5255599999999987)"
-        name: Hobyo
-        population: 12564
-        slug: hobyo
-      - 
-        districts: []
-        location: "POINT (6.7697200000000004 47.4308300000000003)"
-        name: Galcaio
-        population: 61200
-        slug: galcaio
-    code: SO.10
-    name: Mudug
-    slug: mudug
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (11.1666699999999999 48.2166700000000006)"
-        name: Laasqoray
-        population: 6941
-        slug: laasqoray
-      - 
-        districts: []
-        location: "POINT (10.6180599999999998 47.3699999999999974)"
-        name: Erigavo
-        population: 33853
-        slug: erigavo
-      - 
-        districts: []
-        location: "POINT (8.4755599999999998 47.3577799999999982)"
-        name: Laascaanood
-        population: 60100
-        slug: laascaanood
-    code: SO.12
-    name: Sanaag
-    slug: sanaag
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (2.7666700000000000 45.5166699999999977)"
-        name: Giohar
-        population: 47086
-        slug: giohar
-      - 
-        districts: []
-        location: "POINT (2.7500000000000000 46.3166700000000020)"
-        name: Cadale
-        population: 5385
-        slug: cadale
-    code: SO.13
-    name: "Middle Shabele"
-    slug: middle-shabele
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (2.0371100000000002 45.3437500000000000)"
-        name: Mogadishu
-        population: 2587183
-        slug: mogadishu
-      - 
-        districts: []
-        location: "POINT (2.6166700000000001 44.8999999999999986)"
-        name: Wanlaweyn
-        population: 22022
-        slug: wanlaweyn
-      - 
-        districts: []
-        location: "POINT (1.7833300000000001 44.5333299999999994)"
-        name: Qoryooley
-        population: 51720
-        slug: qoryooley
-      - 
-        districts: []
-        location: "POINT (2.9666700000000001 45.5333299999999994)"
-        name: "Mahadday Weyne"
-        population: 8273
-        slug: mahadday-weyne
-      - 
-        districts: []
-        location: "POINT (2.1499999999999999 45.1166699999999992)"
-        name: Afgooye
-        population: 65461
-        slug: afgooye
-    code: SO.14
-    name: "Shabeellaha Hoose"
-    slug: shabeellaha-hoose
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (8.4063900000000000 48.4830600000000018)"
-        name: Garoowe
-        population: 0
-        slug: garoowe
-      - 
-        districts: []
-        location: "POINT (7.9833299999999996 49.8166700000000020)"
-        name: Eyl
-        population: 18904
-        slug: eyl
-    code: SO.18
-    name: Nugaal
-    slug: nugaal
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.4080600000000008 45.0622200000000035)"
-        name: Oodweyne
-        population: 5491
-        slug: oodweyne
-      - 
-        districts: []
-        location: "POINT (8.9969400000000004 45.3586099999999988)"
-        name: Ceek
-        population: 4325
-        slug: ceek
-      - 
-        districts: []
-        location: "POINT (9.5241699999999998 45.5369400000000013)"
-        name: Burao
-        population: 99270
-        slug: burao
-    code: SO.19
-    name: Togdheer
-    slug: togdheer
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (9.5600000000000005 44.0649999999999977)"
+        alternate_names: 
+          - Hargeisa
+          - Hargesa
+          - Hargeysa
+        ascii_name: Hargeysa
         name: Hargeysa
+        names_en: ~
+        names_es: ~
         population: 477876
-        slug: hargeysa
       - 
-        districts: []
-        location: "POINT (10.4355600000000006 45.0163900000000012)"
+        alternate_names: 
+          - Berbera
+          - Berberah
+          - Berbere
+        ascii_name: Berbera
         name: Berbera
+        names_en: 
+          - Berbera
+        names_es: 
+          - Berbera
         population: 242344
-        slug: berbera
-    code: SO.20
     name: "Woqooyi Galbeed"
-    slug: woqooyi-galbeed
-tld: so
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Togdheer"
+    cities: 
+      - 
+        alternate_names: 
+          - Odweina
+          - Odweine
+          - Odweyne
+        ascii_name: Oodweyne
+        name: Oodweyne
+        names_en: ~
+        names_es: ~
+        population: 5491
+      - 
+        alternate_names: 
+          - Aik
+          - Ceek
+          - Ceg
+        ascii_name: Ceek
+        name: Ceek
+        names_en: ~
+        names_es: ~
+        population: 4325
+      - 
+        alternate_names: 
+          - "Bur `o"
+          - "Bur ‘ó"
+          - Burao
+        ascii_name: Burao
+        name: Burao
+        names_en: 
+          - Burco
+          - Burao
+        names_es: 
+          - Burao
+        population: 99270
+    name: Togdheer
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Shabeellaha Hoose"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bahle Dogli"
+          - "Uanle Uen"
+          - Wangleweyn
+        ascii_name: Wanlaweyn
+        name: Wanlaweyn
+        names_en: ~
+        names_es: ~
+        population: 22022
+      - 
+        alternate_names: 
+          - Coriole
+          - Coriolei
+          - Koriolay
+        ascii_name: Qoryooley
+        name: Qoryooley
+        names_en: ~
+        names_es: ~
+        population: 51720
+      - 
+        alternate_names: ~
+        ascii_name: "Mahadday Weyne"
+        name: "Mahadday Weyne"
+        names_en: ~
+        names_es: ~
+        population: 8273
+      - 
+        alternate_names: 
+          - Afgoi
+          - Afgoje
+          - Afgooye
+        ascii_name: Afgooye
+        name: Afgooye
+        names_en: ~
+        names_es: ~
+        population: 65461
+    name: "Shabeellaha Hoose"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Middle Shabele"
+    cities: 
+      - 
+        alternate_names: 
+          - Giohar
+          - Jawhar
+          - Johar
+        ascii_name: Giohar
+        name: Giohar
+        names_en: 
+          - Giohar
+        names_es: ~
+        population: 47086
+      - 
+        alternate_names: 
+          - Adale
+          - Cadale
+          - Ilala
+        ascii_name: Cadale
+        name: Cadale
+        names_en: ~
+        names_es: ~
+        population: 5385
+    name: "Middle Shabele"
+    names_en: 
+      - "Middle Shabele"
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Sanaag"
+    cities: 
+      - 
+        alternate_names: 
+          - "Banden Laskhonai"
+          - Laasqoray
+          - "Las Goni"
+        ascii_name: Laasqoray
+        name: Laasqoray
+        names_en: ~
+        names_es: ~
+        population: 6941
+      - 
+        alternate_names: 
+          - Ceerigaabo
+          - Cerigaabo
+          - Erigabo
+        ascii_name: Erigavo
+        name: Erigavo
+        names_en: 
+          - Erigavo
+        names_es: ~
+        population: 33853
+    name: Sanaag
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Nugaal"
+    cities: 
+      - 
+        alternate_names: 
+          - Garoe
+          - Garoowe
+          - Garoway
+        ascii_name: Garoowe
+        name: Garoowe
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ayl
+          - Ceel
+          - Eeyl
+        ascii_name: Eyl
+        name: Eyl
+        names_en: ~
+        names_es: ~
+        population: 18904
+    name: Nugaal
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Mudug"
+    cities: 
+      - 
+        alternate_names: 
+          - Adim
+          - Harardera
+          - Harardere
+        ascii_name: Xarardheere
+        name: Xarardheere
+        names_en: ~
+        names_es: ~
+        population: 2018
+      - 
+        alternate_names: 
+          - Hobiya
+          - Hobya
+          - Hobyaa
+        ascii_name: Hobyo
+        name: Hobyo
+        names_en: ~
+        names_es: ~
+        population: 12564
+      - 
+        alternate_names: 
+          - Gaalkacyo
+          - Galcaio
+          - Galka`yo'
+        ascii_name: Galcaio
+        name: Galcaio
+        names_en: 
+          - Gaalkacyo
+          - Galcaio
+        names_es: ~
+        population: 61200
+    name: Mudug
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lower Juba"
+    cities: 
+      - 
+        alternate_names: 
+          - Chisimaio
+          - Chisimayu
+          - Kisimayo
+        ascii_name: Chisimayu
+        name: Chisimayu
+        names_en: 
+          - Kismayo
+          - Chisimayu
+        names_es: 
+          - Kismaayo
+        population: 234852
+      - 
+        alternate_names: 
+          - Giamama
+          - Giamame
+          - Giamana
+        ascii_name: Jamaame
+        name: Jamaame
+        names_en: 
+          - Jamaame
+        names_es: ~
+        population: 185270
+      - 
+        alternate_names: 
+          - Bircao
+          - "Bur Gabo"
+          - "Bur Gap"
+        ascii_name: "Buur Gaabo"
+        name: "Buur Gaabo"
+        names_en: ~
+        names_es: ~
+        population: 3096
+    name: "Lower Juba"
+    names_en: 
+      - "Lower Juba"
+    names_es: ~
+  - 
+    ascii_name: "Middle Juba"
+    cities: 
+      - 
+        alternate_names: 
+          - Dzhilib
+          - Gelib
+          - Jeelib
+        ascii_name: Jilib
+        name: Jilib
+        names_en: ~
+        names_es: ~
+        population: 43694
+      - 
+        alternate_names: 
+          - Digiuma
+          - Dugiuma
+          - Dujuma
+        ascii_name: Dujuuma
+        name: Dujuuma
+        names_en: ~
+        names_es: ~
+        population: 2432
+    name: "Middle Juba"
+    names_en: 
+      - "Middle Juba"
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Hiiraan"
+    cities: 
+      - 
+        alternate_names: 
+          - Gialalassi
+          - Jalalaqsi
+        ascii_name: Jalalaqsi
+        name: Jalalaqsi
+        names_en: ~
+        names_es: ~
+        population: 9743
+      - 
+        alternate_names: 
+          - "Bulo Berde"
+          - "Bulo Burti"
+          - Buulo
+        ascii_name: Buulobarde
+        name: Buulobarde
+        names_en: ~
+        names_es: ~
+        population: 16928
+      - 
+        alternate_names: 
+          - "Balad Weyn"
+          - Belai-Wen
+          - "Beled Weyn"
+        ascii_name: Beledweyne
+        name: Beledweyne
+        names_en: ~
+        names_es: ~
+        population: 55410
+    name: Hiiraan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Gedo"
+    cities: 
+      - 
+        alternate_names: 
+          - Lugh
+          - "Lugh Ferrandi"
+          - "Lugh Ganana"
+        ascii_name: Luuq
+        name: Luuq
+        names_en: ~
+        names_es: ~
+        population: 33820
+      - 
+        alternate_names: 
+          - "Garba Harey"
+          - "Garba Harre"
+          - Garbahaarrey
+        ascii_name: Garbahaarrey
+        name: Garbahaarrey
+        names_en: ~
+        names_es: ~
+        population: 12652
+    name: Gedo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Galguduud"
+    cities: 
+      - 
+        alternate_names: 
+          - Ceeldheer
+          - Ceeldheere
+          - "El Dere"
+        ascii_name: Ceeldheere
+        name: Ceeldheere
+        names_en: ~
+        names_es: ~
+        population: 26562
+      - 
+        alternate_names: 
+          - Ceelbuur
+          - "El Bur"
+        ascii_name: Ceelbuur
+        name: Ceelbuur
+        names_en: ~
+        names_es: ~
+        population: 9031
+    name: Galguduud
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Bay"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bur Acaba"
+          - "Bur Hacaba"
+          - Burhakaba
+        ascii_name: Buurhakaba
+        name: Buurhakaba
+        names_en: ~
+        names_es: ~
+        population: 27792
+      - 
+        alternate_names: 
+          - Baidabho
+          - Baidabo
+          - Baidoa
+        ascii_name: Baidoa
+        name: Baidoa
+        names_en: 
+          - Baidoa
+        names_es: ~
+        population: 129839
+    name: Bay
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Bari"
+    cities: 
+      - 
+        alternate_names: 
+          - Candala
+          - Kandala
+          - Qandala
+        ascii_name: Qandala
+        name: Qandala
+        names_en: ~
+        names_es: ~
+        population: 15923
+      - 
+        alternate_names: 
+          - Iskushuban
+          - Scusciuban
+          - Skushuban
+        ascii_name: Iskushuban
+        name: Iskushuban
+        names_en: ~
+        names_es: ~
+        population: 5759
+      - 
+        alternate_names: 
+          - "Bandar Kassim"
+          - "Bender Cassim"
+          - "Bender Qaasin"
+        ascii_name: "Bender Cassim"
+        name: "Bender Cassim"
+        names_en: 
+          - Bosaso
+          - "Bender Cassim"
+        names_es: ~
+        population: 74287
+      - 
+        alternate_names: 
+          - Bareda
+          - Bareeda
+          - Barēdá
+        ascii_name: Bereeda
+        name: Bereeda
+        names_en: ~
+        names_es: ~
+        population: 11262
+      - 
+        alternate_names: 
+          - Baargaal
+          - Bargaal
+          - Bargal
+        ascii_name: Bargaal
+        name: Bargaal
+        names_en: ~
+        names_es: ~
+        population: 6798
+      - 
+        alternate_names: 
+          - Bandarbeyla
+          - "Bender Bayla"
+          - "Bender Beila"
+        ascii_name: Bandarbeyla
+        name: Bandarbeyla
+        names_en: ~
+        names_es: ~
+        population: 13753
+    name: Bari
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Banaadir"
+    cities: 
+      - 
+        alternate_names: 
+          - Magadiscio
+          - Maqdishu
+          - Mogadiisho
+        ascii_name: Mogadishu
+        name: Mogadishu
+        names_en: 
+          - Mogadishu
+        names_es: 
+          - Mogadiscio
+        population: 2587183
+    name: Banaadir
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Bakool"
+    cities: 
+      - 
+        alternate_names: 
+          - Iet
+          - Yed
+          - Yeed
+        ascii_name: Yeed
+        name: Yeed
+        names_en: ~
+        names_es: ~
+        population: 8429
+      - 
+        alternate_names: 
+          - Uegit
+          - Waajid
+          - Wadjid
+        ascii_name: Waajid
+        name: Waajid
+        names_en: ~
+        names_es: ~
+        population: 6666
+      - 
+        alternate_names: 
+          - Tayeegle
+          - Tayeeglow
+          - Tayegle
+        ascii_name: Tayeeglow
+        name: Tayeeglow
+        names_en: ~
+        names_es: ~
+        population: 2119
+    name: Bakool
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Awdal"
+    cities: []
+    name: Awdal
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Gobolka Sool"
+    cities: 
+      - 
+        alternate_names: 
+          - Laascaanood
+          - "Las Anod"
+        ascii_name: Laascaanood
+        name: Laascaanood
+        names_en: 
+          - "Las Anod"
+        names_es: ~
+        population: 60100
+    name: Sool
+    names_en: ~
+    names_es: ~

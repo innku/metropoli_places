@@ -1,422 +1,699 @@
 --- 
-code: AL
-continent: EU
 name: Albania
-population: 2986952
+names_en: 
+  - Albania
+  - "Republic of Albania"
+names_es: 
+  - Albania
 regions: 
   - 
+    ascii_name: "Qarku i Beratit"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.6122200000000007 20.0980600000000003)"
+        alternate_names: 
+          - Polican
+          - Policani
+          - Polichan
+        ascii_name: Polican
         name: Poliçan
+        names_en: ~
+        names_es: ~
         population: 10663
-        slug: polican
       - 
-        districts: []
-        location: "POINT (40.5041700000000020 20.2272199999999991)"
+        alternate_names: 
+          - Cerevoda
+          - Cerevode
+          - Cerevodë
+        ascii_name: Corovode
         name: Çorovodë
+        names_en: ~
+        names_es: ~
         population: 14046
-        slug: corovode
       - 
-        districts: []
-        location: "POINT (40.7688899999999990 19.8777800000000013)"
+        alternate_names: 
+          - "Ur'e Hasan Beut"
+          - "Ura Asan Beut"
+          - "Ura Vajgurore"
+        ascii_name: "Ura Vajgurore"
         name: "Ura Vajgurore"
+        names_en: ~
+        names_es: ~
         population: 4893
-        slug: ura-vajgurore
       - 
-        districts: []
-        location: "POINT (40.8002800000000008 19.9166699999999999)"
+        alternate_names: 
+          - Kuchova
+          - Kucova
+          - Kucove
+        ascii_name: Kucove
         name: Kuçovë
+        names_en: ~
+        names_es: ~
         population: 18166
-        slug: kucove
       - 
-        districts: []
-        location: "POINT (40.7058299999999988 19.9522200000000005)"
+        alternate_names: 
+          - Beligrad
+          - Berat
+          - Berati
+        ascii_name: Berat
         name: Berat
+        names_en: 
+          - Berat
+        names_es: 
+          - Berat
         population: 46866
-        slug: berat
-    code: AL.40
     name: Berat
-    slug: berat
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Qarku i Dibres"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.6850000000000023 20.4288899999999991)"
+        alternate_names: 
+          - Dibra
+          - Dibre
+          - Dibrë
+        ascii_name: Peshkopi
         name: Peshkopi
+        names_en: 
+          - Peshkopi
+        names_es: ~
         population: 14848
-        slug: peshkopi
       - 
-        districts: []
-        location: "POINT (41.6102800000000030 20.0088900000000010)"
+        alternate_names: 
+          - Burela
+          - Burele
+          - Bureli
+        ascii_name: Burrel
         name: Burrel
+        names_en: 
+          - Burrel
+        names_es: ~
         population: 15405
-        slug: burrel
       - 
-        districts: []
-        location: "POINT (41.4916699999999992 20.2219400000000000)"
+        alternate_names: 
+          - Bul'kiza
+          - Bulkiza
+          - Bulqiza
+        ascii_name: Bulqize
         name: Bulqizë
+        names_en: ~
+        names_es: ~
         population: 11212
-        slug: bulqize
-    code: AL.41
     name: Dibër
-    slug: diber
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Qarku i Elbasanit"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.3455599999999990 19.5672199999999989)"
-        name: Shijak
-        population: 14138
-        slug: shijak
-      - 
-        districts: []
-        location: "POINT (41.5091699999999975 19.7927800000000005)"
-        name: Krujë
-        population: 21286
-        slug: kruje
-      - 
-        districts: []
-        location: "POINT (41.4783299999999997 19.7177800000000012)"
-        name: Fushë-Krujë
-        population: 10458
-        slug: fushe-kruje
-      - 
-        districts: []
-        location: "POINT (41.3230599999999981 19.4413899999999984)"
-        name: Durrës
-        population: 122034
-        slug: durres
-    code: AL.42
-    name: Durrës
-    slug: durres
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.0666700000000020 20.5352800000000002)"
+        alternate_names: 
+          - Perrenjas-Fshat
+          - Prrenjas-Fshat
+          - Prrenjasi
+        ascii_name: Perrenjas-Fshat
         name: Përrenjas-Fshat
+        names_en: ~
+        names_es: ~
         population: 4015
-        slug: perrenjas-fshat
       - 
-        districts: []
-        location: "POINT (40.8697200000000009 20.1844399999999986)"
+        alternate_names: 
+          - Gramish
+          - Gramsci
+          - Gramsh
+        ascii_name: Gramsh
         name: Gramsh
+        names_en: ~
+        names_es: ~
         population: 11556
-        slug: gramsh
       - 
-        districts: []
-        location: "POINT (41.1124999999999972 20.0822199999999995)"
+        alternate_names: 
+          - Ehl'basan
+          - Elbasan
+          - Elbasani
+        ascii_name: Elbasan
         name: Elbasan
+        names_en: ~
+        names_es: ~
         population: 100903
-        slug: elbasan
       - 
-        districts: []
-        location: "POINT (41.1969399999999979 20.3355600000000010)"
+        alternate_names: 
+          - Hala
+          - "Librazhd Qendre"
+          - "Librazhd Qëndre"
+        ascii_name: Librazhd-Qender
         name: Librazhd-Qendër
+        names_en: ~
+        names_es: ~
         population: 12691
-        slug: librazhd-qender
       - 
-        districts: []
-        location: "POINT (41.0461099999999988 19.7511100000000006)"
+        alternate_names: 
+          - Pecin
+          - Pekin
+          - Pekini
+        ascii_name: Peqin
         name: Peqin
+        names_en: ~
+        names_es: ~
         population: 7513
-        slug: peqin
       - 
-        districts: []
-        location: "POINT (41.0316699999999983 19.9758299999999984)"
+        alternate_names: 
+          - Cerrik
+          - Cerriku
+          - Cërrik
+        ascii_name: Cerrik
         name: Cërrik
+        names_en: ~
+        names_es: ~
         population: 14269
-        slug: cerrik
-    code: AL.43
     name: Elbasan
-    slug: elbasan
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Qarku i Gjirokastres"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.7374999999999972 19.7022200000000005)"
-        name: Roskovec
-        population: 6657
-        slug: roskovec
-      - 
-        districts: []
-        location: "POINT (40.6427800000000019 19.6508299999999991)"
-        name: "Patos Fshat"
-        population: 22679
-        slug: patos-fshat
-      - 
-        districts: []
-        location: "POINT (40.9419400000000024 19.7049999999999983)"
-        name: Lushnjë
-        population: 41469
-        slug: lushnje
-      - 
-        districts: []
-        location: "POINT (40.7238899999999973 19.5561100000000003)"
-        name: Fier
-        population: 56297
-        slug: fier
-      - 
-        districts: []
-        location: "POINT (40.5988899999999973 19.7347199999999994)"
-        name: Ballsh
-        population: 10361
-        slug: ballsh
-    code: AL.44
-    name: Fier
-    slug: fier
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.2958300000000023 20.0191699999999990)"
+        alternate_names: 
+          - Tepelen
+          - Tepelena
+          - Tepelene
+        ascii_name: Tepelene
         name: Tepelenë
+        names_en: 
+          - Tepelenë
+        names_es: ~
         population: 11955
-        slug: tepelene
       - 
-        districts: []
-        location: "POINT (40.2336099999999988 20.3516699999999986)"
+        alternate_names: 
+          - Permet
+          - Permeti
+          - Premet
+        ascii_name: Permet
         name: Përmet
+        names_en: ~
+        names_es: ~
         population: 10686
-        slug: permet
       - 
-        districts: []
-        location: "POINT (40.0311099999999982 20.2630599999999994)"
+        alternate_names: 
+          - Libhova
+          - Libohov
+          - Libohova
+        ascii_name: Libohove
         name: Libohovë
+        names_en: ~
+        names_es: ~
         population: 3651
-        slug: libohove
       - 
-        districts: []
-        location: "POINT (40.3130600000000001 20.1894400000000012)"
+        alternate_names: 
+          - Kel'cira
+          - Kelcyra
+          - Kelcyre
+        ascii_name: Kelcyre
         name: Këlcyrë
+        names_en: ~
+        names_es: ~
         population: 2486
-        slug: kelcyre
       - 
-        districts: []
-        location: "POINT (40.0758300000000034 20.1388900000000000)"
+        alternate_names: 
+          - Agirocastro
+          - Arghirocastru
+          - Arghyrocastro
+        ascii_name: Gjirokaster
         name: Gjirokastër
+        names_en: 
+          - Gjirokastër
+        names_es: 
+          - Gjirokastra
         population: 23437
-        slug: gjirokaster
       - 
-        districts: []
-        location: "POINT (40.3516699999999986 19.9802800000000005)"
+        alternate_names: 
+          - Mamaliaga
+          - Mamaliaj
+          - Memaliaj
+        ascii_name: Memaliaj
         name: Memaliaj
+        names_en: ~
+        names_es: ~
         population: 4951
-        slug: memaliaj
-    code: AL.45
     name: Gjirokastër
-    slug: gjirokaster
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Qarku i Korces"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.7058299999999988 20.6997199999999992)"
+        alternate_names: 
+          - Malik
+          - Maliq
+          - Maliqi
+        ascii_name: Maliq
         name: Maliq
+        names_en: ~
+        names_es: ~
         population: 3735
-        slug: maliq
       - 
-        districts: []
-        location: "POINT (40.1513899999999992 20.5972200000000001)"
+        alternate_names: 
+          - Leskovik
+          - Leskoviku
+          - Leskoviqi
+        ascii_name: Leskovik
         name: Leskovik
+        names_en: ~
+        names_es: ~
         population: 2655
-        slug: leskovik
       - 
-        districts: []
-        location: "POINT (40.6186099999999968 20.7808300000000017)"
+        alternate_names: 
+          - Corce
+          - Corcë
+          - Coritsa
+        ascii_name: Korce
         name: Korçë
+        names_en: 
+          - Korçë
+        names_es: ~
         population: 58259
-        slug: korce
       - 
-        districts: []
-        location: "POINT (40.3377800000000022 20.6788899999999991)"
+        alternate_names: 
+          - Colonia
+          - Ehrseka
+          - "Erseg Giatseg"
+        ascii_name: Erseke
         name: Ersekë
+        names_en: ~
+        names_es: ~
         population: 7890
-        slug: erseke
       - 
-        districts: []
-        location: "POINT (40.6274999999999977 20.9899999999999984)"
+        alternate_names: 
+          - Biclishta
+          - Biglista
+          - Biklishta
+        ascii_name: Bilisht
         name: Bilisht
+        names_en: ~
+        names_es: ~
         population: 7114
-        slug: bilisht
-    code: AL.46
     name: Korçë
-    slug: korce
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Qarku i Kukesit"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.7797199999999975 20.0836100000000002)"
-        name: Kurbnesh
-        population: 1429
-        slug: kurbnesh
-      - 
-        districts: []
-        location: "POINT (41.8136099999999971 19.5938899999999983)"
-        name: Shëngjin
-        population: 2698
-        slug: shengjin
-      - 
-        districts: []
-        location: "POINT (41.7744399999999985 19.7861100000000008)"
-        name: Rubik
-        population: 2332
-        slug: rubik
-      - 
-        districts: []
-        location: "POINT (41.7674999999999983 19.8755600000000001)"
-        name: Rrëshen
-        population: 10064
-        slug: rreshen
-      - 
-        districts: []
-        location: "POINT (41.6838899999999981 19.7155600000000000)"
-        name: Milot
-        population: 2157
-        slug: milot
-      - 
-        districts: []
-        location: "POINT (41.5775000000000006 19.6922199999999989)"
-        name: Mamurras
-        population: 8282
-        slug: mamurras
-      - 
-        districts: []
-        location: "POINT (41.7836100000000030 19.6436099999999989)"
-        name: Lezhë
-        population: 18695
-        slug: lezhe
-      - 
-        districts: []
-        location: "POINT (41.6355599999999981 19.7130599999999987)"
-        name: Laç
-        population: 24825
-        slug: lac
-    code: AL.48
-    name: Lezhë
-    slug: lezhe
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.0622200000000035 20.0166700000000013)"
-        name: Fushë-Arrëz
-        population: 2438
-        slug: fushe-arrez
-      - 
-        districts: []
-        location: "POINT (42.0682800000000015 19.5125799999999998)"
-        name: Shkodër
-        population: 88245
-        slug: shkoder
-      - 
-        districts: []
-        location: "POINT (42.0444400000000016 19.8997199999999985)"
-        name: Pukë
-        population: 6495
-        slug: puke
-      - 
-        districts: []
-        location: "POINT (42.2136100000000027 19.4363899999999994)"
-        name: Koplik
-        population: 4078
-        slug: koplik
-      - 
-        districts: []
-        location: "POINT (42.0769400000000005 20.4219399999999993)"
+        alternate_names: 
+          - Cucus
+          - Kukes
+          - Kukesi
+        ascii_name: Kukes
         name: Kukës
+        names_en: 
+          - Kukës
+        names_es: ~
         population: 17832
-        slug: kukes
-    code: AL.49
+    name: Kukës
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qarku i Durresit"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bazar Sciak"
+          - "San Giacomo"
+          - Shejak
+        ascii_name: Shijak
+        name: Shijak
+        names_en: ~
+        names_es: ~
+        population: 14138
+      - 
+        alternate_names: 
+          - Akcehisar
+          - Akçehisar
+          - Croia
+        ascii_name: Kruje
+        name: Krujë
+        names_en: 
+          - Krujë
+        names_es: ~
+        population: 21286
+      - 
+        alternate_names: 
+          - "Fus e Krujs"
+          - "Fush' e Krujes"
+          - Fush-Kruja
+        ascii_name: Fushe-Kruje
+        name: Fushë-Krujë
+        names_en: ~
+        names_es: ~
+        population: 10458
+      - 
+        alternate_names: 
+          - Drac
+          - Drach
+          - Drač
+        ascii_name: Durres
+        name: Durrës
+        names_en: 
+          - Durrës
+        names_es: 
+          - Durrës
+        population: 122034
+    name: Durrës
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qarku i Fierit"
+    cities: 
+      - 
+        alternate_names: 
+          - Roscovec
+          - Roskovec
+          - Roskoveci
+        ascii_name: Roskovec
+        name: Roskovec
+        names_en: ~
+        names_es: ~
+        population: 6657
+      - 
+        alternate_names: 
+          - "Patos Fshat"
+          - "Patosi Fshat"
+        ascii_name: "Patos Fshat"
+        name: "Patos Fshat"
+        names_en: ~
+        names_es: ~
+        population: 22679
+      - 
+        alternate_names: 
+          - "Ljushna Cod a Gomares"
+          - Ljushnja
+          - Ljusnje
+        ascii_name: Lushnje
+        name: Lushnjë
+        names_en: ~
+        names_es: ~
+        population: 41469
+      - 
+        alternate_names: 
+          - Fearica
+          - Fier
+          - Fieri
+        ascii_name: Fier
+        name: Fier
+        names_en: 
+          - Fier
+        names_es: ~
+        population: 56297
+      - 
+        alternate_names: 
+          - Bal'shi
+          - Baleri
+          - Ballesh
+        ascii_name: Ballsh
+        name: Ballsh
+        names_en: 
+          - Ballsh
+        names_es: ~
+        population: 10361
+    name: Fier
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qarku i Lezhes"
+    cities: 
+      - 
+        alternate_names: 
+          - Kurbnesh
+          - Kurbnesha
+          - Kurbneshi
+        ascii_name: Kurbnesh
+        name: Kurbnesh
+        names_en: ~
+        names_es: ~
+        population: 1429
+      - 
+        alternate_names: 
+          - "Saint Giovanni di Medua"
+          - "San Giovanni di Medua"
+          - "San Njin"
+        ascii_name: Shengjin
+        name: Shëngjin
+        names_en: ~
+        names_es: ~
+        population: 2698
+      - 
+        alternate_names: 
+          - Rrubig
+          - Rrubigu
+          - Rrumbiku
+        ascii_name: Rubik
+        name: Rubik
+        names_en: ~
+        names_es: ~
+        population: 2332
+      - 
+        alternate_names: 
+          - Reshen
+          - Resheni
+          - Rresheni
+        ascii_name: Rreshen
+        name: Rrëshen
+        names_en: ~
+        names_es: ~
+        population: 10064
+      - 
+        alternate_names: 
+          - Milet
+          - Miljoti
+          - Milot
+        ascii_name: Milot
+        name: Milot
+        names_en: ~
+        names_es: ~
+        population: 2157
+      - 
+        alternate_names: 
+          - Mamuras
+          - Mamurasi
+          - Mamuraz
+        ascii_name: Mamurras
+        name: Mamurras
+        names_en: ~
+        names_es: ~
+        population: 8282
+      - 
+        alternate_names: 
+          - Alessio
+          - Lesh
+          - Leshe
+        ascii_name: Lezhe
+        name: Lezhë
+        names_en: 
+          - Lezhë
+        names_es: ~
+        population: 18695
+      - 
+        alternate_names: 
+          - Lac
+          - Laci
+          - Lak
+        ascii_name: Lac
+        name: Laç
+        names_en: ~
+        names_es: ~
+        population: 24825
+    name: Lezhë
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Qarku i Shkodres"
+    cities: 
+      - 
+        alternate_names: 
+          - Arres
+          - Arrës
+          - Arsi
+        ascii_name: Fushe-Arrez
+        name: Fushë-Arrëz
+        names_en: ~
+        names_es: ~
+        population: 2438
+      - 
+        alternate_names: 
+          - Iskodra
+          - Scutari
+          - Shkoder
+        ascii_name: Shkoder
+        name: Shkodër
+        names_en: ~
+        names_es: ~
+        population: 88245
+      - 
+        alternate_names: 
+          - Puca
+          - Puka
+          - "Puka Katund"
+        ascii_name: Puke
+        name: Pukë
+        names_en: ~
+        names_es: ~
+        population: 6495
+      - 
+        alternate_names: 
+          - Koplik
+          - "Koplik Poster"
+          - "Koplik Pošter"
+        ascii_name: Koplik
+        name: Koplik
+        names_en: ~
+        names_es: ~
+        population: 4078
     name: Shkodër
-    slug: shkoder
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Qarku i Tiranes"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.3908300000000011 19.6550000000000011)"
+        alternate_names: 
+          - Vora
+          - Vore
+          - Vorra
+        ascii_name: Vore
         name: Vorë
+        names_en: ~
+        names_es: ~
         population: 4973
-        slug: vore
       - 
-        districts: []
-        location: "POINT (41.3275000000000006 19.8188899999999997)"
+        alternate_names: 
+          - Tiran
+          - Tirana
+          - Tirane
+        ascii_name: Tirana
         name: Tirana
+        names_en: 
+          - Tirana
+        names_es: 
+          - Tirana
         population: 374801
-        slug: tirana
       - 
-        districts: []
-        location: "POINT (41.0763900000000035 19.6652799999999992)"
+        alternate_names: 
+          - Rogozhina
+          - Rogozhine
+          - Rogozhinë
+        ascii_name: Rrogozhine
         name: Rrogozhinë
+        names_en: ~
+        names_es: ~
         population: 5620
-        slug: rrogozhine
       - 
-        districts: []
-        location: "POINT (41.2155600000000035 19.9713899999999995)"
+        alternate_names: 
+          - Kerraba
+          - Kerrabe
+          - "Kraba e Vogel"
+        ascii_name: Krrabe
         name: Krrabë
+        names_en: ~
+        names_es: ~
         population: 1177
-        slug: krrabe
       - 
-        districts: []
-        location: "POINT (41.1855600000000024 19.5569400000000009)"
+        alternate_names: 
+          - Cavaia
+          - Cavaja
+          - Kavaia
+        ascii_name: Kavaje
         name: Kavajë
+        names_en: 
+          - Kavajë
+        names_es: ~
         population: 29354
-        slug: kavaje
       - 
-        districts: []
-        location: "POINT (41.3816699999999997 19.7602800000000016)"
+        alternate_names: 
+          - Camza
+          - Kambeza
+          - Kambëza
+        ascii_name: Kamez
         name: Kamëz
+        names_en: ~
+        names_es: ~
         population: 11026
-        slug: kamez
-    code: AL.50
     name: Tiranë
-    slug: tirane
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Qarku i Vlores"
     cities: 
       - 
-        districts: []
-        location: "POINT (39.8755600000000001 20.0052799999999991)"
+        alternate_names: 
+          - Agioi
+          - "Agioi Saranta"
+          - "Ayii Saranda"
+        ascii_name: Sarande
         name: Sarandë
+        names_en: 
+          - Sarandë
+        names_es: ~
         population: 15147
-        slug: sarande
       - 
-        districts: []
-        location: "POINT (39.6588899999999995 20.1813900000000004)"
+        alternate_names: 
+          - Conispolis
+          - Konispoje
+          - Konispol
+        ascii_name: Konispol
         name: Konispol
+        names_en: ~
+        names_es: ~
         population: 1349
-        slug: konispol
       - 
-        districts: []
-        location: "POINT (39.9511099999999999 20.0977800000000002)"
+        alternate_names: 
+          - Del'vina
+          - Delvina
+          - Delvine
+        ascii_name: Delvine
         name: Delvinë
+        names_en: ~
+        names_es: ~
         population: 3916
-        slug: delvine
       - 
-        districts: []
-        location: "POINT (40.4666700000000006 19.4897199999999984)"
+        alternate_names: 
+          - Au'lon
+          - Au’lon
+          - Avlon
+        ascii_name: Vlore
         name: Vlorë
+        names_en: 
+          - Vlorë
+        names_es: ~
         population: 89546
-        slug: vlore
       - 
-        districts: []
-        location: "POINT (40.5305600000000013 19.6358299999999986)"
+        alternate_names: 
+          - Selenic
+          - Selenica
+          - Selenitsa
+        ascii_name: Selenice
         name: Selenicë
+        names_en: ~
+        names_es: ~
         population: 6912
-        slug: selenice
       - 
-        districts: []
-        location: "POINT (40.3252799999999993 19.4713899999999995)"
+        alternate_names: 
+          - Orik
+          - Oriku
+          - Orikum
+        ascii_name: Orikum
         name: Orikum
+        names_en: ~
+        names_es: ~
         population: 2604
-        slug: orikum
       - 
-        districts: []
-        location: "POINT (40.1016699999999986 19.7447200000000009)"
+        alternate_names: 
+          - Chimara
+          - Cimarre
+          - Himara
+        ascii_name: Himare
         name: Himarë
+        names_en: ~
+        names_es: ~
         population: 4596
-        slug: himare
-    code: AL.51
     name: Vlorë
-    slug: vlore
-tld: al
+    names_en: ~
+    names_es: ~

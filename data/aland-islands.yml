@@ -1,18 +1,131 @@
 --- 
-code: AX
-continent: EU
 name: "Aland Islands"
-population: 26711
+names_en: 
+  - "Province of Åland"
+  - Åland
+names_es: ~
 regions: 
   - 
+    ascii_name: Vardoe
+    cities: []
+    name: Vårdö
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Sund
+    cities: []
+    name: Sund
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Sottunga
+    cities: []
+    name: Sottunga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Saltvik
+    cities: []
+    name: Saltvik
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Lumparland
+    cities: []
+    name: Lumparland
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Lemland
+    cities: []
+    name: Lemland
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Kumlinge
+    cities: []
+    name: Kumlinge
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Koekar
+    cities: []
+    name: Kökar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Foegloe
+    cities: []
+    name: Föglö
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Braendoe
+    cities: []
+    name: Brändö
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Mariehamn
     cities: 
       - 
-        districts: []
-        location: "POINT (60.0972599999999986 19.9348099999999988)"
+        alternate_names: 
+          - Maarianhamina
+          - Marianhamina
+          - Mariankhamina
+        ascii_name: Mariehamn
         name: Mariehamn
+        names_en: 
+          - Mariehamn
+        names_es: 
+          - Mariehamn
         population: 10682
-        slug: mariehamn
-    code: AX.478
     name: Mariehamn
-    slug: mariehamn
-tld: ax
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Jomala
+    cities: []
+    name: Jomala
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Hammarland
+    cities: []
+    name: Hammarland
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Geta
+    cities: []
+    name: Geta
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Finstroem
+    cities: []
+    name: Finström
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Eckeroe
+    cities: 
+      - 
+        alternate_names: 
+          - Eckeroe
+          - Eckerö
+        ascii_name: Eckero
+        name: Eckerö
+        names_en: 
+          - Eckerö
+        names_es: ~
+        population: 1028
+    name: Eckerö
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Aland (general)"
+    cities: []
+    name: ~
+    names_en: ~
+    names_es: ~

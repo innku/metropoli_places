@@ -1,2068 +1,3458 @@
 --- 
-code: MN
-continent: AS
 name: Mongolia
-population: 3086918
+names_en: 
+  - Mongolia
+  - "Mongol Peoples Republic"
+  - "Mongolian People’s Republic"
+names_es: 
+  - Mongolia
 regions: 
   - 
+    ascii_name: "Uvs Aymag"
     cities: 
       - 
-        districts: []
-        location: "POINT (47.3818500000000000 101.9081500000000062)"
-        name: Tavanbulag
-        population: 0
-        slug: tavanbulag
-      - 
-        districts: []
-        location: "POINT (47.4933100000000010 100.8780100000000033)"
-        name: Dzaanhoshuu
-        population: 0
-        slug: dzaanhoshuu
-      - 
-        districts: []
-        location: "POINT (47.4474200000000010 101.7550300000000050)"
-        name: Altan-Ovoo
-        population: 0
-        slug: altan-ovoo
-      - 
-        districts: []
-        location: "POINT (48.0797200000000018 98.8516699999999986)"
-        name: Tsahir
-        population: 0
-        slug: tsahir
-      - 
-        districts: []
-        location: "POINT (47.8666699999999992 99.4666699999999935)"
-        name: Hunt
-        population: 0
-        slug: hunt
-      - 
-        districts: []
-        location: "POINT (48.1599999999999966 99.8755599999999930)"
-        name: Horgo
-        population: 0
-        slug: horgo
-      - 
-        districts: []
-        location: "POINT (48.6088499999999968 101.9342400000000026)"
-        name: Uubulan
-        population: 0
-        slug: uubulan
-      - 
-        districts: []
-        location: "POINT (47.4750000000000014 101.4541700000000048)"
-        name: Tsetserleg
-        population: 5876
-        slug: tsetserleg
-      - 
-        districts: []
-        location: "POINT (48.0463900000000024 100.5091699999999975)"
-        name: Teel
-        population: 0
-        slug: teel
-      - 
-        districts: []
-        location: "POINT (48.5284300000000002 101.3739400000000046)"
-        name: Öldziyt
-        population: 0
-        slug: oldziyt
-      - 
-        districts: []
-        location: "POINT (47.7930899999999994 101.9723500000000058)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (47.5333299999999994 100.2166699999999935)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (48.8819900000000018 101.2395300000000020)"
-        name: Hujirt
-        population: 0
-        slug: hujirt
-      - 
-        districts: []
-        location: "POINT (47.3627800000000008 102.4679399999999987)"
-        name: Hotont
-        population: 0
-        slug: hotont
-      - 
-        districts: []
-        location: "POINT (48.1009000000000029 102.5568600000000004)"
-        name: Höshööt
-        population: 0
-        slug: hoshoot
-      - 
-        districts: []
-        location: "POINT (47.6680500000000009 102.5499899999999940)"
-        name: Dzegstey
-        population: 0
-        slug: dzegstey
-      - 
-        districts: []
-        location: "POINT (47.3186899999999966 101.1157599999999945)"
-        name: "Bulagiyn Denj"
-        population: 0
-        slug: bulagiyn-denj
-      - 
-        districts: []
-        location: "POINT (48.7316700000000012 100.7600000000000051)"
-        name: Bayantsagaan
-        population: 0
-        slug: bayantsagaan
-      - 
-        districts: []
-        location: "POINT (47.4500000000000028 103.1500000000000057)"
-        name: Bayan
-        population: 0
-        slug: bayan
-    code: MN.01
-    name: Arhangay
-    slug: arhangay
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (44.5459499999999977 100.8278799999999933)"
-        name: Hatansuudal
-        population: 0
-        slug: hatansuudal
-      - 
-        districts: []
-        location: "POINT (47.1499999999999986 99.6333300000000008)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (47.2312299999999965 98.5713999999999970)"
-        name: "Höviyn Am"
-        population: 0
-        slug: hoviyn-am
-      - 
-        districts: []
-        location: "POINT (44.5333299999999994 99.2666700000000048)"
-        name: Dzalaa
-        population: 0
-        slug: dzalaa
-      - 
-        districts: []
-        location: "POINT (46.9422899999999998 99.1668899999999951)"
-        name: Dzag
-        population: 0
-        slug: dzag
-      - 
-        districts: []
-        location: "POINT (46.2106100000000026 99.5986199999999968)"
-        name: Dzadgay
-        population: 0
-        slug: dzadgay
-      - 
-        districts: []
-        location: "POINT (46.4094600000000028 98.2871200000000016)"
-        name: Delgermörön
-        population: 0
-        slug: delgermoron
-      - 
-        districts: []
-        location: "POINT (46.1664000000000030 98.6917300000000068)"
-        name: Buyant
-        population: 0
-        slug: buyant
-      - 
-        districts: []
-        location: "POINT (44.7833299999999994 98.6500000000000057)"
-        name: Bulgan
-        population: 0
-        slug: bulgan
-      - 
-        districts: []
-        location: "POINT (45.5552899999999994 99.4331399999999945)"
-        name: Bayansayr
-        population: 0
-        slug: bayansayr
-      - 
-        districts: []
-        location: "POINT (46.8098099999999988 98.0900599999999940)"
-        name: Bayanbulag
-        population: 0
-        slug: bayanbulag
-      - 
-        districts: []
-        location: "POINT (45.0143300000000011 98.9275899999999950)"
-        name: Bayanbulag
-        population: 0
-        slug: bayanbulag
-      - 
-        districts: []
-        location: "POINT (46.0673999999999992 100.8172399999999982)"
-        name: Ulaan-Uul
-        population: 0
-        slug: ulaan-uul
-      - 
-        districts: []
-        location: "POINT (44.7363700000000009 100.3913500000000028)"
-        name: Örgön
-        population: 0
-        slug: orgon
-      - 
-        districts: []
-        location: "POINT (45.2000000000000028 100.7666700000000048)"
-        name: Horiult
-        population: 0
-        slug: horiult
-      - 
-        districts: []
-        location: "POINT (46.2857500000000002 100.4483400000000017)"
-        name: Höhbürd
-        population: 0
-        slug: hohburd
-      - 
-        districts: []
-        location: "POINT (46.4184500000000000 100.8223899999999986)"
-        name: Erdenetsogt
-        population: 0
-        slug: erdenetsogt
-      - 
-        districts: []
-        location: "POINT (45.4117099999999994 100.5739999999999981)"
-        name: Bodĭ
-        population: 0
-        slug: bodi
-      - 
-        districts: []
-        location: "POINT (46.7019700000000029 100.1432999999999964)"
-        name: Bayanhoshuu
-        population: 0
-        slug: bayanhoshuu
-      - 
-        districts: []
-        location: "POINT (46.7166700000000006 100.1166699999999992)"
-        name: Bayanhongor
-        population: 23234
-        slug: bayanhongor
-      - 
-        districts: []
-        location: "POINT (46.1944400000000002 100.7180599999999941)"
-        name: Bayanhongor
-        population: 0
-        slug: bayanhongor
-    code: MN.02
-    name: Bayanhongor
-    slug: bayanhongor
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (49.6162700000000001 90.2420400000000029)"
-        name: Nogoonnuur
-        population: 0
-        slug: nogoonnuur
-      - 
-        districts: []
-        location: "POINT (48.8999999999999986 89.6166699999999992)"
-        name: Uujim
-        population: 0
-        slug: uujim
-      - 
-        districts: []
-        location: "POINT (49.0499999999999972 90.4500000000000028)"
-        name: Tsagaantüngi
-        population: 0
-        slug: tsagaantungi
-      - 
-        districts: []
-        location: "POINT (48.4166700000000034 90.2833300000000065)"
-        name: Tolbo
-        population: 0
-        slug: tolbo
-      - 
-        districts: []
-        location: "POINT (47.7666699999999977 90.8333300000000037)"
-        name: Rashaant
-        population: 0
-        slug: rashaant
-      - 
-        districts: []
-        location: "POINT (48.9683300000000017 89.9625000000000057)"
-        name: Ölgiy
-        population: 28400
-        slug: olgiy
-      - 
-        districts: []
-        location: "POINT (46.9266999999999967 91.0878199999999936)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (48.9477600000000024 89.1435800000000000)"
-        name: Höshööt
-        population: 0
-        slug: hoshoot
-      - 
-        districts: []
-        location: "POINT (48.3027200000000008 89.5155699999999968)"
-        name: Chihertey
-        population: 0
-        slug: chihertey
-      - 
-        districts: []
-        location: "POINT (48.5796700000000001 89.5474999999999994)"
-        name: Buyant
-        population: 0
-        slug: buyant
-      - 
-        districts: []
-        location: "POINT (49.0166699999999977 90.1833299999999980)"
-        name: Buga
-        population: 0
-        slug: buga
-      - 
-        districts: []
-        location: "POINT (49.0437200000000004 89.4379799999999960)"
-        name: Bilüü
-        population: 0
-        slug: biluu
-    code: MN.03
-    name: Bayan-Ölgiy
-    slug: bayan-olgiy
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.0499999999999972 114.3666699999999992)"
-        name: Tsagaanders
-        population: 0
-        slug: tsagaanders
-      - 
-        districts: []
-        location: "POINT (49.1333300000000008 114.8833300000000008)"
-        name: "Sümiyn Bulag"
-        population: 0
-        slug: sumiyn-bulag
-      - 
-        districts: []
-        location: "POINT (48.5666700000000020 114.0833300000000037)"
-        name: Sergelen
-        population: 0
-        slug: sergelen
-      - 
-        districts: []
-        location: "POINT (48.0000000000000000 113.9333299999999980)"
-        name: Öndörhoshuu
-        population: 0
-        slug: ondorhoshuu
-      - 
-        districts: []
-        location: "POINT (49.2436000000000007 113.3742699999999957)"
-        name: Naranbulag
-        population: 0
-        slug: naranbulag
-      - 
-        districts: []
-        location: "POINT (49.1499999999999986 112.7333299999999952)"
-        name: Javarthushuu
-        population: 0
-        slug: javarthushuu
-      - 
-        districts: []
-        location: "POINT (48.4333299999999980 114.8666699999999992)"
-        name: Hulstay
-        population: 0
-        slug: hulstay
-      - 
-        districts: []
-        location: "POINT (48.3999999999999986 113.4333299999999980)"
-        name: Höövör
-        population: 0
-        slug: hoovor
-      - 
-        districts: []
-        location: "POINT (49.8806999999999974 115.7252600000000058)"
-        name: Ereencav
-        population: 23
-        slug: ereencav
-      - 
-        districts: []
-        location: "POINT (46.9534299999999973 115.2939599999999984)"
-        name: Dzüünbulag
-        population: 0
-        slug: dzuunbulag
-      - 
-        districts: []
-        location: "POINT (49.5457099999999997 114.4028699999999930)"
-        name: Dashbalbar
-        population: 0
-        slug: dashbalbar
-      - 
-        districts: []
-        location: "POINT (48.0666700000000020 114.5000000000000000)"
-        name: Choybalsan
-        population: 23
-        slug: choybalsan
-      - 
-        districts: []
-        location: "POINT (47.9166700000000034 112.9500000000000028)"
-        name: Bayan
-        population: 0
-        slug: bayan
-      - 
-        districts: []
-        location: "POINT (47.6585800000000006 118.5101400000000069)"
-        name: Sümber
-        population: 0
-        slug: sumber
-    code: MN.06
-    name: "East Aimak"
-    slug: east-aimak
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (43.5833299999999966 110.4666699999999935)"
-        name: Nüden
-        population: 0
-        slug: nuden
-      - 
-        districts: []
-        location: "POINT (46.2500000000000000 110.1666699999999963)"
-        name: Bayan
-        population: 0
-        slug: bayan
-      - 
-        districts: []
-        location: "POINT (44.3333299999999966 111.2333299999999952)"
-        name: Ulaan-Uul
-        population: 0
-        slug: ulaan-uul
-      - 
-        districts: []
-        location: "POINT (45.9166700000000034 109.0666700000000020)"
-        name: Tsomog
-        population: 0
-        slug: tsomog
-      - 
-        districts: []
-        location: "POINT (45.7981699999999989 109.3182599999999951)"
-        name: Tsagaandörvölj
-        population: 0
-        slug: tsagaandorvolj
-      - 
-        districts: []
-        location: "POINT (44.3999999999999986 108.2500000000000000)"
-        name: Töhöm
-        population: 0
-        slug: tohom
-      - 
-        districts: []
-        location: "POINT (44.7166700000000006 110.7666700000000048)"
-        name: Senj
-        population: 0
-        slug: senj
-      - 
-        districts: []
-        location: "POINT (44.6833299999999980 109.0166700000000048)"
-        name: Öldziyt
-        population: 0
-        slug: oldziyt
-      - 
-        districts: []
-        location: "POINT (43.6063899999999975 109.6380599999999959)"
-        name: Hövsgöl
-        population: 0
-        slug: hovsgol
-      - 
-        districts: []
-        location: "POINT (45.7999999999999972 111.2000000000000028)"
-        name: Hongor
-        population: 0
-        slug: hongor
-      - 
-        districts: []
-        location: "POINT (43.1499999999999986 109.1333300000000008)"
-        name: Ergel
-        population: 0
-        slug: ergel
-      - 
-        districts: []
-        location: "POINT (45.5333299999999994 110.4666699999999935)"
-        name: Chandmanĭ
-        population: 0
-        slug: chandmani
-      - 
-        districts: []
-        location: "POINT (44.8823900000000009 110.1163099999999986)"
-        name: Saynshand
-        population: 19891
-        slug: saynshand
-    code: MN.07
-    name: "East Gobi Aymag"
-    slug: east-gobi-aymag
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (45.0499999999999972 105.5666700000000020)"
-        name: Ulaanjirem
-        population: 0
-        slug: ulaanjirem
-      - 
-        districts: []
-        location: "POINT (46.1833299999999980 106.7166699999999935)"
-        name: Tsant
-        population: 0
-        slug: tsant
-      - 
-        districts: []
-        location: "POINT (45.5071900000000014 105.7559399999999954)"
-        name: Tsagaan-Ovoo
-        population: 0
-        slug: tsagaan-ovoo
-      - 
-        districts: []
-        location: "POINT (46.3919399999999982 105.7351699999999965)"
-        name: Tavin
-        population: 0
-        slug: tavin
-      - 
-        districts: []
-        location: "POINT (45.5325699999999998 107.0454600000000056)"
-        name: Suugaant
-        population: 0
-        slug: suugaant
-      - 
-        districts: []
-        location: "POINT (46.0079300000000018 104.9420899999999932)"
-        name: "Sangiyn Dalay"
-        population: 0
-        slug: sangiyn-dalay
-      - 
-        districts: []
-        location: "POINT (45.2999999999999972 106.2000000000000028)"
-        name: Rashaant
-        population: 0
-        slug: rashaant
-      - 
-        districts: []
-        location: "POINT (45.4500000000000028 103.9000000000000057)"
-        name: Ongi
-        population: 0
-        slug: ongi
-      - 
-        districts: []
-        location: "POINT (45.7625000000000028 106.2708300000000037)"
-        name: Mandalgovĭ
-        population: 15430
-        slug: mandalgovi
-      - 
-        districts: []
-        location: "POINT (45.2432299999999969 104.8051099999999991)"
-        name: Hashaat
-        population: 0
-        slug: hashaat
-      - 
-        districts: []
-        location: "POINT (46.4166700000000034 107.6500000000000057)"
-        name: Haraat
-        population: 0
-        slug: haraat
-      - 
-        districts: []
-        location: "POINT (46.0498800000000017 107.4895499999999942)"
-        name: Hajuu-Us
-        population: 0
-        slug: hajuu-us
-      - 
-        districts: []
-        location: "POINT (45.2322300000000013 108.2824499999999972)"
-        name: Böhöt
-        population: 0
-        slug: bohot
-      - 
-        districts: []
-        location: "POINT (45.7666699999999977 107.9833299999999952)"
-        name: Argatay
-        population: 0
-        slug: argatay
-      - 
-        districts: []
-        location: "POINT (46.1257200000000012 106.3742600000000067)"
-        name: Amardalay
-        population: 0
-        slug: amardalay
-    code: MN.08
-    name: "Middle Govĭ"
-    slug: middle-govi
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.0499999999999972 96.2500000000000000)"
-        name: Chandmanĭ
-        population: 0
-        slug: chandmani
-      - 
-        districts: []
-        location: "POINT (47.2121100000000027 97.6066600000000051)"
-        name: Buyant
-        population: 0
-        slug: buyant
-      - 
-        districts: []
-        location: "POINT (47.7416699999999992 96.8444400000000059)"
-        name: Uliastay
-        population: 0
-        slug: uliastay
-      - 
-        districts: []
-        location: "POINT (47.1119600000000034 96.6714499999999930)"
-        name: Tsagaanchuluut
-        population: 0
-        slug: tsagaanchuluut
-      - 
-        districts: []
-        location: "POINT (48.7566699999999997 98.2838899999999995)"
-        name: Tosontsengel
-        population: 9526
-        slug: tosontsengel
-      - 
-        districts: []
-        location: "POINT (48.7513199999999998 95.9997400000000027)"
-        name: Tegsh
-        population: 0
-        slug: tegsh
-      - 
-        districts: []
-        location: "POINT (47.4971400000000017 96.8031100000000038)"
-        name: Shiree
-        population: 0
-        slug: shiree
-      - 
-        districts: []
-        location: "POINT (48.9856199999999973 96.5433900000000023)"
-        name: Oygon
-        population: 0
-        slug: oygon
-      - 
-        districts: []
-        location: "POINT (48.6427800000000019 97.6186100000000039)"
-        name: Övögdiy
-        population: 0
-        slug: ovogdiy
-      - 
-        districts: []
-        location: "POINT (48.3166700000000020 95.1166699999999992)"
-        name: Nuga
-        population: 0
-        slug: nuga
-      - 
-        districts: []
-        location: "POINT (48.5167199999999994 94.2942800000000005)"
-        name: Hungiy
-        population: 0
-        slug: hungiy
-      - 
-        districts: []
-        location: "POINT (48.5887600000000006 95.4325699999999983)"
-        name: Holboo
-        population: 0
-        slug: holboo
-      - 
-        districts: []
-        location: "POINT (48.8728399999999965 96.9625900000000058)"
-        name: Hödrögö
-        population: 0
-        slug: hodrogo
-      - 
-        districts: []
-        location: "POINT (48.2198700000000002 97.3743999999999943)"
-        name: Dzuunmod
-        population: 0
-        slug: dzuunmod
-      - 
-        districts: []
-        location: "POINT (49.6579600000000028 95.7932299999999941)"
-        name: Dzür
-        population: 0
-        slug: dzur
-      - 
-        districts: []
-        location: "POINT (48.7190599999999989 98.7918099999999981)"
-        name: Bayan-Uhaa
-        population: 0
-        slug: bayan-uhaa
-      - 
-        districts: []
-        location: "POINT (46.8999999999999986 97.1500000000000057)"
-        name: Balgatay
-        population: 0
-        slug: balgatay
-      - 
-        districts: []
-        location: "POINT (49.7031700000000001 96.3592000000000013)"
-        name: Altay
-        population: 0
-        slug: altay
-      - 
-        districts: []
-        location: "POINT (49.3068799999999996 96.3423700000000025)"
-        name: Altanbulag
-        population: 0
-        slug: altanbulag
-      - 
-        districts: []
-        location: "POINT (48.1166699999999992 95.7166699999999935)"
-        name: Altan
-        population: 0
-        slug: altan
-      - 
-        districts: []
-        location: "POINT (47.6422600000000003 96.5368699999999933)"
-        name: Aldar
-        population: 0
-        slug: aldar
-      - 
-        districts: []
-        location: "POINT (49.5108200000000025 96.7994400000000041)"
-        name: Asgat
-        population: 0
-        slug: asgat
-    code: MN.09
-    name: Dzavhan
-    slug: dzavhan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.7132700000000014 96.5258800000000008)"
-        name: Tsagaan-Olom
-        population: 0
-        slug: tsagaan-olom
-      - 
-        districts: []
-        location: "POINT (45.5666700000000020 95.8666699999999992)"
-        name: Tseel
-        population: 0
-        slug: tseel
-      - 
-        districts: []
-        location: "POINT (45.8297600000000003 94.8154399999999953)"
-        name: Tögrög
-        population: 0
-        slug: togrog
-      - 
-        districts: []
-        location: "POINT (46.3535600000000017 97.3663300000000049)"
-        name: Taygan
-        population: 0
-        slug: taygan
-      - 
-        districts: []
-        location: "POINT (45.3333299999999966 97.9833299999999952)"
-        name: Talshand
-        population: 0
-        slug: talshand
-      - 
-        districts: []
-        location: "POINT (45.3466000000000022 96.6457000000000050)"
-        name: Tahilt
-        population: 0
-        slug: tahilt
-      - 
-        districts: []
-        location: "POINT (46.2500000000000000 95.2666700000000048)"
-        name: Sharga
-        population: 0
-        slug: sharga
-      - 
-        districts: []
-        location: "POINT (47.3573200000000014 94.5244799999999969)"
-        name: Sayn-Ust
-        population: 0
-        slug: sayn-ust
-      - 
-        districts: []
-        location: "POINT (45.1333300000000008 97.7500000000000000)"
-        name: "Sangiyn Dalay"
-        population: 0
-        slug: sangiyn-dalay
-      - 
-        districts: []
-        location: "POINT (45.7095399999999970 97.1759600000000034)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (45.9296000000000006 96.1623900000000020)"
-        name: Haliun
-        population: 0
-        slug: haliun
-      - 
-        districts: []
-        location: "POINT (46.3068600000000004 93.9040899999999965)"
-        name: Dzüyl
-        population: 0
-        slug: dzuyl
-      - 
-        districts: []
-        location: "POINT (46.4500000000000028 94.1166699999999992)"
-        name: Darvi
-        population: 0
-        slug: darvi
-      - 
-        districts: []
-        location: "POINT (46.9783800000000014 95.9253199999999993)"
-        name: Buyanbat
-        population: 0
-        slug: buyanbat
-      - 
-        districts: []
-        location: "POINT (47.6501299999999972 95.0005000000000024)"
-        name: Buga
-        population: 0
-        slug: buga
-      - 
-        districts: []
-        location: "POINT (44.6166699999999992 94.9166699999999963)"
-        name: Bayan-Ovoo
-        population: 0
-        slug: bayan-ovoo
-      - 
-        districts: []
-        location: "POINT (45.5565500000000014 94.3644900000000035)"
-        name: Bayangol
-        population: 0
-        slug: bayangol
-      - 
-        districts: []
-        location: "POINT (46.9928999999999988 95.1996199999999959)"
-        name: Bayan
-        population: 0
-        slug: bayan
-      - 
-        districts: []
-        location: "POINT (46.3722199999999987 96.2583300000000008)"
-        name: Altai
-        population: 0
-        slug: altai
-    code: MN.10
-    name: Govĭ-Altay
-    slug: govi-altay
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.6902800000000013 111.9946300000000008)"
-        name: Uldz
-        population: 0
-        slug: uldz
-      - 
-        districts: []
-        location: "POINT (46.8999999999999986 109.7500000000000000)"
-        name: Ulaan-Ereg
-        population: 0
-        slug: ulaan-ereg
-      - 
-        districts: []
-        location: "POINT (48.6166699999999992 110.5999999999999943)"
-        name: Onon
-        population: 0
-        slug: onon
-      - 
-        districts: []
-        location: "POINT (47.3194400000000002 110.6555599999999941)"
-        name: Öndörhaan
-        population: 14723
-        slug: ondorhaan
-      - 
-        districts: []
-        location: "POINT (47.3825399999999988 110.3164699999999954)"
-        name: Mörön
-        population: 0
-        slug: moron
-      - 
-        districts: []
-        location: "POINT (47.7500000000000000 109.0499999999999972)"
-        name: Modot
-        population: 0
-        slug: modot
-      - 
-        districts: []
-        location: "POINT (47.2999999999999972 110.5666700000000020)"
-        name: Herlen
-        population: 0
-        slug: herlen
-      - 
-        districts: []
-        location: "POINT (48.6833299999999980 110.1833299999999980)"
-        name: Eg
-        population: 0
-        slug: eg
-      - 
-        districts: []
-        location: "POINT (47.9459000000000017 111.4978399999999965)"
-        name: Dundbürd
-        population: 0
-        slug: dundburd
-      - 
-        districts: []
-        location: "POINT (46.6166699999999992 109.4166699999999963)"
-        name: Darhan
-        population: 0
-        slug: darhan
-      - 
-        districts: []
-        location: "POINT (46.2500000000000000 110.8333300000000037)"
-        name: Buyant
-        population: 0
-        slug: buyant
-      - 
-        districts: []
-        location: "POINT (49.0166699999999977 111.6333300000000008)"
-        name: Bayan-Ovoo
-        population: 0
-        slug: bayan-ovoo
-      - 
-        districts: []
-        location: "POINT (47.7833299999999994 112.1166699999999992)"
-        name: Javhlant
-        population: 0
-        slug: javhlant
-      - 
-        districts: []
-        location: "POINT (47.8666699999999992 109.9166699999999963)"
-        name: Bayanbulag
-        population: 0
-        slug: bayanbulag
-      - 
-        districts: []
-        location: "POINT (48.5499999999999972 111.0833300000000037)"
-        name: Bayan
-        population: 0
-        slug: bayan
-      - 
-        districts: []
-        location: "POINT (47.1666700000000034 110.8166700000000020)"
-        name: Bayan
-        population: 0
-        slug: bayan
-      - 
-        districts: []
-        location: "POINT (47.1785100000000028 109.1896799999999956)"
-        name: Avraga
-        population: 0
-        slug: avraga
-    code: MN.11
-    name: Hentiy
-    slug: hentiy
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.0499999999999972 92.0166700000000048)"
-        name: Üyönch
-        population: 0
-        slug: uyonch
-      - 
-        districts: []
-        location: "POINT (47.8333299999999966 92.6500000000000057)"
-        name: Urdgol
-        population: 0
-        slug: urdgol
-      - 
-        districts: []
-        location: "POINT (46.6833299999999980 92.7833300000000065)"
-        name: Ulaantolgoy
-        population: 0
-        slug: ulaantolgoy
-      - 
-        districts: []
-        location: "POINT (46.6000000000000014 93.2666700000000048)"
-        name: Tsetsegnuur
-        population: 0
-        slug: tsetsegnuur
-      - 
-        districts: []
-        location: "POINT (46.9166700000000034 92.1166699999999992)"
-        name: Tsenher
-        population: 0
-        slug: tsenher
-      - 
-        districts: []
-        location: "POINT (47.4241400000000013 92.2243899999999996)"
-        name: Tögrög
-        population: 0
-        slug: togrog
-      - 
-        districts: []
-        location: "POINT (48.4833300000000023 91.4333299999999980)"
-        name: Har-Us
-        population: 0
-        slug: har-us
-      - 
-        districts: []
-        location: "POINT (47.5166699999999977 91.6333300000000008)"
-        name: Duut
-        population: 0
-        slug: duut
-      - 
-        districts: []
-        location: "POINT (48.0055600000000027 91.6419400000000053)"
-        name: Hovd
-        population: 30500
-        slug: hovd
-      - 
-        districts: []
-        location: "POINT (48.0666700000000020 91.8166700000000020)"
-        name: Buyant
-        population: 0
-        slug: buyant
-      - 
-        districts: []
-        location: "POINT (46.0833299999999966 91.5666700000000020)"
-        name: Bürenhayrhan
-        population: 0
-        slug: burenhayrhan
-      - 
-        districts: []
-        location: "POINT (46.9367799999999988 93.6167300000000040)"
-        name: Bulgan
-        population: 0
-        slug: bulgan
-      - 
-        districts: []
-        location: "POINT (45.7999999999999972 92.2833300000000065)"
-        name: Bor-Üdzüür
-        population: 0
-        slug: bor-udzuur
-      - 
-        districts: []
-        location: "POINT (48.2333300000000023 91.9166699999999963)"
-        name: Bayanhoshuu
-        population: 0
-        slug: bayanhoshuu
-      - 
-        districts: []
-        location: "POINT (47.1104399999999970 92.8437399999999968)"
-        name: Altanteel
-        population: 0
-        slug: altanteel
-    code: MN.12
-    name: Hovd
-    slug: hovd
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (48.9487700000000032 99.5366499999999945)"
-        name: Erdenet
-        population: 0
-        slug: erdenet
-      - 
-        districts: []
-        location: "POINT (50.6833299999999980 99.2333299999999952)"
-        name: Tögöl
-        population: 0
-        slug: togol
-      - 
-        districts: []
-        location: "POINT (49.7999999999999972 98.7999999999999972)"
-        name: Sharga
-        population: 0
-        slug: sharga
-      - 
-        districts: []
-        location: "POINT (48.5872200000000021 99.3508300000000020)"
-        name: Orgil
-        population: 0
-        slug: orgil
-      - 
-        districts: []
-        location: "POINT (49.8999999999999986 99.4333299999999980)"
-        name: Mandal
-        population: 0
-        slug: mandal
-      - 
-        districts: []
-        location: "POINT (48.7727799999999974 99.8738900000000029)"
-        name: Ider
-        population: 0
-        slug: ider
-      - 
-        districts: []
-        location: "POINT (49.5287700000000015 97.7408999999999963)"
-        name: Halban
-        population: 0
-        slug: halban
-      - 
-        districts: []
-        location: "POINT (51.1071900000000028 99.6722599999999943)"
-        name: Dzöölön
-        population: 0
-        slug: dzoolon
-      - 
-        districts: []
-        location: "POINT (51.3563899999999975 99.3444400000000059)"
-        name: Tsagaannuur
-        population: 0
-        slug: tsagaannuur
-      - 
-        districts: []
-        location: "POINT (49.4333299999999980 99.5999999999999943)"
-        name: Bayan
-        population: 0
-        slug: bayan
-      - 
-        districts: []
-        location: "POINT (50.1790999999999983 98.9720499999999959)"
-        name: Altraga
-        population: 0
-        slug: altraga
-      - 
-        districts: []
-        location: "POINT (51.5072499999999991 100.6625700000000023)"
-        name: Turt
-        population: 0
-        slug: turt
-      - 
-        districts: []
-        location: "POINT (49.4783299999999997 100.8894399999999933)"
-        name: Tsengel
-        population: 0
-        slug: tsengel
-      - 
-        districts: []
-        location: "POINT (49.4333299999999980 101.4666699999999935)"
-        name: Selenge
-        population: 0
-        slug: selenge
-      - 
-        districts: []
-        location: "POINT (49.1266699999999972 101.4280600000000021)"
-        name: Rashaant
-        population: 0
-        slug: rashaant
-      - 
-        districts: []
-        location: "POINT (49.6341699999999975 100.1624999999999943)"
-        name: Mörön
-        population: 27690
-        slug: moron
-      - 
-        districts: []
-        location: "POINT (50.1213899999999981 100.0430599999999970)"
-        name: Manhan
-        population: 0
-        slug: manhan
-      - 
-        districts: []
-        location: "POINT (49.2959099999999992 100.2571099999999973)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (50.4727800000000002 100.9277799999999985)"
-        name: Höhöö
-        population: 0
-        slug: hohoo
-      - 
-        districts: []
-        location: "POINT (50.1094399999999993 101.5752800000000065)"
-        name: Eg-Uur
-        population: 0
-        slug: eg-uur
-      - 
-        districts: []
-        location: "POINT (50.5419399999999968 101.5141699999999929)"
-        name: Bulgan
-        population: 0
-        slug: bulgan
-      - 
-        districts: []
-        location: "POINT (49.8594599999999986 100.6268699999999967)"
-        name: Bulag
-        population: 0
-        slug: bulag
-      - 
-        districts: []
-        location: "POINT (49.6183300000000003 101.9897200000000055)"
-        name: Badrah
-        population: 0
-        slug: badrah
-    code: MN.13
-    name: Hövsgöl
-    slug: hovsgol
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (44.0821600000000018 106.8698499999999996)"
-        name: Üydzen
-        population: 0
-        slug: uydzen
-      - 
-        districts: []
-        location: "POINT (43.2324500000000000 101.0481300000000005)"
-        name: Urt
-        population: 0
-        slug: urt
-      - 
-        districts: []
-        location: "POINT (43.3065700000000007 104.0741699999999952)"
-        name: Tsoohor
-        population: 0
-        slug: tsoohor
-      - 
-        districts: []
-        location: "POINT (44.6499999999999986 104.0499999999999972)"
-        name: Sharhulsan
-        population: 0
-        slug: sharhulsan
-      - 
-        districts: []
-        location: "POINT (43.6166699999999992 102.5333300000000065)"
-        name: Saynshand
-        population: 0
-        slug: saynshand
-      - 
-        districts: []
-        location: "POINT (42.8419900000000027 105.1379600000000067)"
-        name: "Sangiyn Dalay"
-        population: 0
-        slug: sangiyn-dalay
-      - 
-        districts: []
-        location: "POINT (43.7833600000000018 104.4806700000000035)"
-        name: Ögöömör
-        population: 0
-        slug: ogoomor
-      - 
-        districts: []
-        location: "POINT (43.2000000000000028 107.2000000000000028)"
-        name: Ihbulag
-        population: 0
-        slug: ihbulag
-      - 
-        districts: []
-        location: "POINT (43.1736099999999965 102.1319400000000002)"
-        name: Hövüün
-        population: 0
-        slug: hovuun
-      - 
-        districts: []
-        location: "POINT (42.9723800000000011 106.1186600000000055)"
-        name: Erdenetsogt
-        population: 0
-        slug: erdenetsogt
-      - 
-        districts: []
-        location: "POINT (44.4244600000000034 105.3207799999999992)"
-        name: Doloon
-        population: 0
-        slug: doloon
-      - 
-        districts: []
-        location: "POINT (43.4678699999999978 103.5128399999999971)"
-        name: Dalay
-        population: 0
-        slug: dalay
-      - 
-        districts: []
-        location: "POINT (43.5708300000000008 104.4249999999999972)"
-        name: Dalandzadgad
-        population: 15093
-        slug: dalandzadgad
-      - 
-        districts: []
-        location: "POINT (44.0974500000000020 103.5428799999999967)"
-        name: Bulgan
-        population: 0
-        slug: bulgan
-      - 
-        districts: []
-        location: "POINT (43.6559499999999971 105.7557699999999983)"
-        name: Baruunsuu
-        population: 0
-        slug: baruunsuu
-    code: MN.14
-    name: "South Gobi Aimak"
-    slug: south-gobi-aimak
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.9825900000000019 103.7838899999999995)"
-        name: Ongon
-        population: 0
-        slug: ongon
-      - 
-        districts: []
-        location: "POINT (46.4967400000000026 104.1177699999999930)"
-        name: Bumbat
-        population: 0
-        slug: bumbat
-      - 
-        districts: []
-        location: "POINT (45.9640399999999971 101.4597700000000060)"
-        name: Tsagaan-Ovoo
-        population: 0
-        slug: tsagaan-ovoo
-      - 
-        districts: []
-        location: "POINT (45.8500000000000014 103.4000000000000057)"
-        name: Shiree
-        population: 0
-        slug: shiree
-      - 
-        districts: []
-        location: "POINT (46.6499999999999986 103.3166700000000020)"
-        name: "Sangiyn Dalay"
-        population: 0
-        slug: sangiyn-dalay
-      - 
-        districts: []
-        location: "POINT (46.8166700000000020 102.2500000000000000)"
-        name: Övt
-        population: 0
-        slug: ovt
-      - 
-        districts: []
-        location: "POINT (46.4666700000000006 102.2833300000000065)"
-        name: Ongi
-        population: 0
-        slug: ongi
-      - 
-        districts: []
-        location: "POINT (46.7500000000000000 103.5166700000000048)"
-        name: Mönhbulag
-        population: 0
-        slug: monhbulag
-      - 
-        districts: []
-        location: "POINT (46.0912099999999967 103.8395100000000042)"
-        name: Mayhan
-        population: 0
-        slug: mayhan
-      - 
-        districts: []
-        location: "POINT (45.9500000000000028 102.0499999999999972)"
-        name: Mardzad
-        population: 0
-        slug: mardzad
-      - 
-        districts: []
-        location: "POINT (46.3024100000000018 102.4455399999999941)"
-        name: Hüremt
-        population: 0
-        slug: huremt
-      - 
-        districts: []
-        location: "POINT (46.8965699999999970 102.7825899999999990)"
-        name: Hujirt
-        population: 0
-        slug: hujirt
-      - 
-        districts: []
-        location: "POINT (44.6666700000000034 102.3833300000000008)"
-        name: Hovd
-        population: 0
-        slug: hovd
-      - 
-        districts: []
-        location: "POINT (44.6702399999999997 102.1749099999999970)"
-        name: Hovd
-        population: 27924
-        slug: hovd
-      - 
-        districts: []
-        location: "POINT (45.1666700000000034 101.4000000000000057)"
-        name: Höövör
-        population: 0
-        slug: hoovor
-      - 
-        districts: []
-        location: "POINT (45.5333299999999994 102.9833299999999952)"
-        name: Hoolt
-        population: 0
-        slug: hoolt
-      - 
-        districts: []
-        location: "POINT (47.1975300000000004 102.8237900000000025)"
-        name: Harhorin
-        population: 9000
-        slug: harhorin
-      - 
-        districts: []
-        location: "POINT (46.5217799999999997 102.5942799999999977)"
-        name: Bayan-Ulaan
-        population: 0
-        slug: bayan-ulaan
-      - 
-        districts: []
-        location: "POINT (46.2638900000000035 102.7750000000000057)"
-        name: Arvayheer
-        population: 0
-        slug: arvayheer
-      - 
-        districts: []
-        location: "POINT (45.4627800000000022 102.4205599999999947)"
-        name: Arguut
-        population: 0
-        slug: arguut
-    code: MN.15
-    name: "South Hangay"
-    slug: south-hangay
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (49.5833299999999966 106.8499999999999943)"
-        name: Bugant
-        population: 0
-        slug: bugant
-      - 
-        districts: []
-        location: "POINT (50.2313899999999975 106.2077799999999996)"
-        name: Sühbaatar
-        population: 24235
-        slug: suhbaatar
-      - 
-        districts: []
-        location: "POINT (49.2373300000000000 106.4300499999999943)"
-        name: Sharïngol
-        population: 0
-        slug: sharingol
-      - 
-        districts: []
-        location: "POINT (48.9497199999999992 104.9758300000000020)"
-        name: Orhontuul
-        population: 0
-        slug: orhontuul
-      - 
-        districts: []
-        location: "POINT (49.2000999999999991 105.6658199999999965)"
-        name: Nomgon
-        population: 0
-        slug: nomgon
-      - 
-        districts: []
-        location: "POINT (49.1450000000000031 105.3883299999999963)"
-        name: Nart
-        population: 0
-        slug: nart
-      - 
-        districts: []
-        location: "POINT (48.6333300000000008 106.7333299999999952)"
-        name: Dzüünkharaa
-        population: 0
-        slug: dzuunkharaa
-      - 
-        districts: []
-        location: "POINT (50.0675000000000026 105.8805600000000027)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (49.6666700000000034 106.3333300000000037)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (50.1036100000000033 105.4200000000000017)"
-        name: Huurch
-        population: 0
-        slug: huurch
-      - 
-        districts: []
-        location: "POINT (49.2475000000000023 105.3736099999999993)"
-        name: Enhtal
-        population: 0
-        slug: enhtal
-      - 
-        districts: []
-        location: "POINT (48.8522900000000035 106.4578599999999966)"
-        name: Dzüünharaa
-        population: 18830
-        slug: dzuunharaa
-      - 
-        districts: []
-        location: "POINT (50.3155599999999978 105.0458299999999952)"
-        name: Dzelter
-        population: 0
-        slug: dzelter
-      - 
-        districts: []
-        location: "POINT (50.0857799999999997 106.1857799999999941)"
-        name: Delgerhaan
-        population: 0
-        slug: delgerhaan
-      - 
-        districts: []
-        location: "POINT (49.2650000000000006 104.7434800000000052)"
-        name: Burgaltay
-        population: 0
-        slug: burgaltay
-      - 
-        districts: []
-        location: "POINT (49.7759399999999985 107.5161599999999993)"
-        name: Bulagtay
-        population: 0
-        slug: bulagtay
-      - 
-        districts: []
-        location: "POINT (49.5000000000000000 105.6166699999999992)"
-        name: Hushaat
-        population: 0
-        slug: hushaat
-      - 
-        districts: []
-        location: "POINT (50.3155599999999978 106.4986099999999993)"
-        name: Altanbulag
-        population: 0
-        slug: altanbulag
-    code: MN.16
-    name: Selenge
-    slug: selenge
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.3644600000000011 113.5769999999999982)"
-        name: Ulaandel
-        population: 0
-        slug: ulaandel
-      - 
-        districts: []
-        location: "POINT (45.7272699999999972 112.3556300000000050)"
-        name: Shireet
-        population: 0
-        slug: shireet
-      - 
-        districts: []
-        location: "POINT (46.2000000000000028 111.8166700000000020)"
-        name: Sergelen
-        population: 0
-        slug: sergelen
-      - 
-        districts: []
-        location: "POINT (45.3042299999999969 113.8497700000000066)"
-        name: Ovoot
-        population: 0
-        slug: ovoot
-      - 
-        districts: []
-        location: "POINT (45.1350699999999989 113.6837799999999987)"
-        name: Hongor
-        population: 0
-        slug: hongor
-      - 
-        districts: []
-        location: "POINT (46.8999999999999986 113.4166699999999963)"
-        name: Haylaastay
-        population: 0
-        slug: haylaastay
-      - 
-        districts: []
-        location: "POINT (45.6666700000000034 113.0833300000000037)"
-        name: Havirga
-        population: 0
-        slug: havirga
-      - 
-        districts: []
-        location: "POINT (46.1666700000000034 112.9500000000000028)"
-        name: Hatavch
-        population: 0
-        slug: hatavch
-      - 
-        districts: []
-        location: "POINT (47.6166699999999992 112.1333300000000008)"
-        name: Hanhöhiy
-        population: 0
-        slug: hanhohiy
-      - 
-        districts: []
-        location: "POINT (46.3833300000000008 112.1833299999999980)"
-        name: Dzüünbulag
-        population: 0
-        slug: dzuunbulag
-      - 
-        districts: []
-        location: "POINT (45.8999999999999986 115.3666699999999992)"
-        name: Chonogol
-        population: 0
-        slug: chonogol
-      - 
-        districts: []
-        location: "POINT (46.9833300000000023 112.0499999999999972)"
-        name: Bayasgalant
-        population: 0
-        slug: bayasgalant
-      - 
-        districts: []
-        location: "POINT (46.6805599999999998 113.2791699999999935)"
-        name: Baruun-Urt
-        population: 15805
-        slug: baruun-urt
-    code: MN.17
-    name: Sühbaatar
-    slug: suhbaatar
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (46.6000000000000014 104.5833300000000037)"
-        name: Hujirt
-        population: 0
-        slug: hujirt
-      - 
-        districts: []
-        location: "POINT (47.3333299999999966 104.5000000000000000)"
-        name: Ulaanhudag
-        population: 0
-        slug: ulaanhudag
-      - 
-        districts: []
-        location: "POINT (47.9499300000000019 105.5532100000000071)"
-        name: Ulaanhad
-        population: 0
-        slug: ulaanhad
-      - 
-        districts: []
-        location: "POINT (48.4538000000000011 105.3176899999999989)"
-        name: Orgil
-        population: 0
-        slug: orgil
-      - 
-        districts: []
-        location: "POINT (47.9077100000000016 106.8832400000000007)"
-        name: Ulaanbaatar
-        population: 844818
-        slug: ulaanbaatar
-      - 
-        districts: []
-        location: "POINT (48.3706200000000024 106.7407599999999945)"
-        name: Mandal
-        population: 0
-        slug: mandal
-      - 
-        districts: []
-        location: "POINT (47.2500000000000000 107.5333300000000065)"
-        name: Maanĭt
-        population: 0
-        slug: maanit
-      - 
-        districts: []
-        location: "POINT (47.8666699999999992 105.2500000000000000)"
-        name: Lün
-        population: 0
-        slug: lun
-      - 
-        districts: []
-        location: "POINT (48.8018900000000002 105.9240000000000066)"
-        name: Javhlant
-        population: 0
-        slug: javhlant
-      - 
-        districts: []
-        location: "POINT (48.5205600000000032 105.8683300000000003)"
-        name: Jargalant
-        population: 0
-        slug: jargalant
-      - 
-        districts: []
-        location: "POINT (48.2257000000000033 106.2915200000000056)"
-        name: Ihsüüj
-        population: 0
-        slug: ihsuuj
-      - 
-        districts: []
-        location: "POINT (47.7069400000000030 106.9527800000000042)"
-        name: Dzuunmod
-        population: 17738
-        slug: dzuunmod
-      - 
-        districts: []
-        location: "POINT (46.7999999999999972 107.1500000000000057)"
-        name: Dzogsool
-        population: 0
-        slug: dzogsool
-      - 
-        districts: []
-        location: "POINT (48.0379099999999966 105.9218999999999937)"
-        name: Dund-Urt
-        population: 0
-        slug: dund-urt
-      - 
-        districts: []
-        location: "POINT (48.2000000000000028 108.4833299999999952)"
-        name: Bulag
-        population: 0
-        slug: bulag
-      - 
-        districts: []
-        location: "POINT (48.4666700000000006 106.2666700000000048)"
-        name: Bornuur
-        population: 0
-        slug: bornuur
-      - 
-        districts: []
-        location: "POINT (47.4166700000000034 104.8166700000000020)"
-        name: Bayshint
-        population: 0
-        slug: bayshint
-      - 
-        districts: []
-        location: "POINT (47.1794500000000028 108.2599600000000066)"
-        name: Bayasgalant
-        population: 0
-        slug: bayasgalant
-      - 
-        districts: []
-        location: "POINT (46.9166700000000034 105.0499999999999972)"
-        name: Bayantöhöm
-        population: 0
-        slug: bayantohom
-      - 
-        districts: []
-        location: "POINT (47.7273199999999989 108.1106199999999973)"
-        name: Bayandelger
-        population: 0
-        slug: bayandelger
-      - 
-        districts: []
-        location: "POINT (46.8666699999999992 106.2500000000000000)"
-        name: Bayanbaraat
-        population: 0
-        slug: bayanbaraat
-      - 
-        districts: []
-        location: "POINT (48.2155199999999979 104.7731799999999964)"
-        name: Bat-Öldziyt
-        population: 0
-        slug: bat-oldziyt
-      - 
-        districts: []
-        location: "POINT (47.7942499999999981 107.8833400000000040)"
-        name: Arhust
-        population: 0
-        slug: arhust
-      - 
-        districts: []
-        location: "POINT (47.9421099999999996 105.8958400000000069)"
-        name: Argalant
-        population: 0
-        slug: argalant
-      - 
-        districts: []
-        location: "POINT (48.2622199999999992 105.4119400000000013)"
-        name: Ar-Asgat
-        population: 0
-        slug: ar-asgat
-      - 
-        districts: []
-        location: "POINT (47.7000000000000028 106.4000000000000057)"
-        name: Altanbulag
-        population: 0
-        slug: altanbulag
-      - 
-        districts: []
-        location: "POINT (47.5571699999999993 106.9633299999999991)"
-        name: Höshigiyn-Ar
-        population: 0
-        slug: hoshigiyn-ar
-    code: MN.18
-    name: "Central Aimak"
-    slug: central-aimak
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (49.9811100000000010 92.0666700000000020)"
+        alternate_names: 
+          - ULANGOM
+          - "Ulaan Goom"
+          - Ulaanggom
+        ascii_name: Ulaangom
         name: Ulaangom
+        names_en: 
+          - Ulaangom
+        names_es: ~
         population: 28085
-        slug: ulaangom
       - 
-        districts: []
-        location: "POINT (49.2712799999999973 94.8583600000000047)"
+        alternate_names: 
+          - "Ondor Hangay Suma"
+          - Ondorhangay
+          - Ondorkhangai
+        ascii_name: Tsetserleg
         name: Tsetserleg
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: tsetserleg
       - 
-        districts: []
-        location: "POINT (49.7166700000000006 93.2666700000000048)"
+        alternate_names: 
+          - MALCHIN
+          - Malchin
+          - "Malchin Suma"
+        ascii_name: Tsalgar
         name: Tsalgar
+        names_en: 
+          - Tsalgar
+        names_es: ~
         population: 0
-        slug: tsalgar
       - 
-        districts: []
-        location: "POINT (50.4666700000000006 93.5833300000000037)"
+        alternate_names: 
+          - Tes
+          - "Tesin Suma"
+          - Tooromt
+        ascii_name: Tooromt
         name: Tooromt
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: tooromt
       - 
-        districts: []
-        location: "POINT (48.8166700000000020 93.0999999999999943)"
+        alternate_names: 
+          - "Dsabkhan Sume"
+          - "Dzabhan Gol"
+          - "Dzabhan Suma"
+        ascii_name: Sharbulag
         name: Sharbulag
+        names_en: 
+          - Sharbulag
+        names_es: ~
         population: 0
-        slug: sharbulag
       - 
-        districts: []
-        location: "POINT (49.3666699999999992 92.5666700000000020)"
+        alternate_names: 
+          - Naran-Bulak
+          - Naranbulag
+          - Наран-Булак
+        ascii_name: Naranbulag
         name: Naranbulag
+        names_en: 
+          - Naranbulag
+        names_es: ~
         population: 0
-        slug: naranbulag
       - 
-        districts: []
-        location: "POINT (49.1064099999999968 91.7178200000000032)"
+        alternate_names: 
+          - Namir
+          - Omnogovi
+          - Omnogow'
+        ascii_name: Namir
         name: Namir
+        names_en: 
+          - Namir
+        names_es: ~
         population: 0
-        slug: namir
       - 
-        districts: []
-        location: "POINT (49.3999999999999986 94.2333299999999952)"
-        name: Möndööhöö
+        alternate_names: 
+          - Mondoohoo
+          - Möndööhöö
+          - Tsagaanhayrhan
+        ascii_name: Tsagaanhayrhan
+        name: Tsagaanhayrhan
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: mondoohoo
       - 
-        districts: []
-        location: "POINT (49.3067700000000002 95.4478500000000025)"
+        alternate_names: 
+          - Dzun-Khangaj
+          - "Dzuun Hangay Suma"
+          - Dzuunhangay
+        ascii_name: Jargalant
         name: Jargalant
+        names_en: 
+          - Jargalant
+        names_es: ~
         population: 0
-        slug: jargalant
       - 
-        districts: []
-        location: "POINT (49.2800099999999972 90.9101500000000016)"
+        alternate_names: 
+          - "Hobdo Gol Suma"
+          - Hovd
+          - Khowd
+        ascii_name: Hohtolgoy
         name: Höhtolgoy
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: hohtolgoy
       - 
-        districts: []
-        location: "POINT (50.1000000000000014 91.6666699999999963)"
+        alternate_names: 
+          - Havtsal
+          - Turgehn
+          - Turgen
+        ascii_name: Havtsal
         name: Havtsal
+        names_en: 
+          - Havtsal
+        names_es: ~
         population: 0
-        slug: havtsal
       - 
-        districts: []
-        location: "POINT (49.0333299999999994 92.0333300000000065)"
+        alternate_names: 
+          - Har-Us
+          - Olgii
+          - Olgiy
+        ascii_name: Har-Us
         name: Har-Us
+        names_en: 
+          - Har-Us
+        names_es: ~
         population: 0
-        slug: har-us
       - 
-        districts: []
-        location: "POINT (50.3412999999999968 91.6064099999999968)"
+        alternate_names: 
+          - Harmod
+          - Sagil
+          - Sagli
+        ascii_name: Harmod
         name: Harmod
+        names_en: 
+          - Harmod
+        names_es: ~
         population: 0
-        slug: harmod
       - 
-        districts: []
-        location: "POINT (49.7784899999999979 91.9042400000000015)"
+        alternate_names: 
+          - Harhiraa
+          - Tarialan
+          - Tarjalan
+        ascii_name: Harhiraa
         name: Harhiraa
+        names_en: 
+          - Harhiraa
+        names_es: ~
         population: 0
-        slug: harhiraa
       - 
-        districts: []
-        location: "POINT (50.6097699999999975 92.4024000000000001)"
+        alternate_names: 
+          - "Dabasata Suma"
+          - "Dabustu uula sumu"
+          - "Dabusutu somon"
+        ascii_name: Dzuunhovoo
         name: Dzüünhövöö
+        names_en: 
+          - Dzüünhövöö
+        names_es: ~
         population: 0
-        slug: dzuunhovoo
       - 
-        districts: []
-        location: "POINT (49.9071300000000022 93.7858200000000011)"
+        alternate_names: 
+          - Dzel
+          - Dzun-Gobi
+          - "Dzuun Gobi Suma"
+        ascii_name: Dzel
         name: Dzel
+        names_en: 
+          - Dzel
+        names_es: ~
         population: 0
-        slug: dzel
       - 
-        districts: []
-        location: "POINT (49.5333299999999994 93.8166700000000020)"
+        alternate_names: 
+          - Bugat
+          - Hirgis
+          - "Hirgis Suma"
+        ascii_name: Bugat
         name: Bugat
+        names_en: 
+          - Bugat
+        names_es: ~
         population: 0
-        slug: bugat
       - 
-        districts: []
-        location: "POINT (49.6666700000000034 90.2833300000000065)"
+        alternate_names: 
+          - Bayshint
+          - Bohmoron
+          - Bokhmoron
+        ascii_name: Bayshint
         name: Bayshint
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: bayshint
       - 
-        districts: []
-        location: "POINT (49.6596299999999999 94.4041399999999982)"
+        alternate_names: 
+          - Barun-Turun
+          - Baruunturuun
+          - "Turin Golin Sume"
+        ascii_name: Baruunturuun
         name: Baruunturuun
+        names_en: 
+          - Baruunturuun
+        names_es: ~
         population: 0
-        slug: baruunturuun
-    code: MN.19
     name: Uvs
-    slug: uvs
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Hovd Aymag"
     cities: 
       - 
-        districts: []
-        location: "POINT (48.2966699999999989 103.4255600000000044)"
-        name: Maanĭt
+        alternate_names: 
+          - "Uinchi sumu"
+          - Uyenchi
+          - "Uyenchi Somon"
+        ascii_name: "Uyenchi Somon"
+        name: "Uyenchi Somon"
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: maanit
       - 
-        districts: []
-        location: "POINT (47.8333299999999966 104.5000000000000000)"
-        name: Tsul-Ulaan
+        alternate_names: 
+          - Chandman'
+          - Chandmani
+          - Chandmanĭ
+        ascii_name: Urdgol
+        name: Urdgol
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: tsul-ulaan
       - 
-        districts: []
-        location: "POINT (49.9466899999999967 102.6612300000000033)"
-        name: Teshig
+        alternate_names: 
+          - Most
+          - Möst
+          - Ulaantolgoy
+        ascii_name: Ulaantolgoy
+        name: Ulaantolgoy
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: teshig
       - 
-        districts: []
-        location: "POINT (47.8500000000000014 104.0499999999999972)"
-        name: Süüj
+        alternate_names: 
+          - Tsetseg
+          - "Tsetseg Nuur"
+          - "Tsetseg Somon"
+        ascii_name: Tsetsegnuur
+        name: Tsetsegnuur
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: suuj
       - 
-        districts: []
-        location: "POINT (49.3175099999999986 104.3819600000000065)"
-        name: Sört
+        alternate_names: 
+          - Monhhayrhan
+          - "Monho Hayrhan Suma"
+          - "Monho hayrhan"
+        ascii_name: Tsenher
+        name: Tsenher
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: sort
       - 
-        districts: []
-        location: "POINT (49.0419199999999975 102.0892500000000069)"
-        name: Sharga
+        alternate_names: 
+          - Manhan
+          - "Manhan Suma"
+          - "Manhan sumu"
+        ascii_name: Togrog
+        name: Tögrög
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: sharga
       - 
-        districts: []
-        location: "POINT (48.6311099999999996 103.5291699999999935)"
-        name: Mandal
+        alternate_names: 
+          - Erdeneburen
+          - Erdenebüren
+          - "Erdeni Burin Suma"
+        ascii_name: Har-Us
+        name: Har-Us
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: mandal
       - 
-        districts: []
-        location: "POINT (49.4616699999999980 103.9741700000000009)"
-        name: Ingettolgoy
+        alternate_names: 
+          - Duut
+        ascii_name: Duut
+        name: Duut
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: ingettolgoy
       - 
-        districts: []
-        location: "POINT (49.3950000000000031 102.6933300000000031)"
-        name: Hutag
+        alternate_names: 
+          - Chirgalantu
+          - Chzhirgalantu
+          - Djirgalantu
+        ascii_name: Hovd
+        name: Hovd
+        names_en: 
+          - Hovd
+          - Khovd
+        names_es: ~
+        population: 30500
+      - 
+        alternate_names: 
+          - Buyant
+        ascii_name: Buyant
+        name: Buyant
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: hutag
       - 
-        districts: []
-        location: "POINT (48.6630600000000015 102.6227800000000059)"
-        name: Hüremt
+        alternate_names: 
+          - Buergenkhe
+          - Bulagan
+          - "Bulagan Gol Suma"
+        ascii_name: Burenhayrhan
+        name: Bürenhayrhan
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: huremt
       - 
-        districts: []
-        location: "POINT (48.2739400000000032 102.9812000000000012)"
-        name: Erhet
-        population: 0
-        slug: erhet
-      - 
-        districts: []
-        location: "POINT (48.2546299999999988 103.8805399999999963)"
-        name: Darhan
-        population: 0
-        slug: darhan
-      - 
-        districts: []
-        location: "POINT (48.8125000000000000 103.5347199999999930)"
+        alternate_names: 
+          - Darbi
+          - "Darbi Somon"
+          - "Darbi Suma"
+        ascii_name: Bulgan
         name: Bulgan
-        population: 17348
-        slug: bulgan
-      - 
-        districts: []
-        location: "POINT (49.0666700000000020 103.6658299999999997)"
-        name: Bugat
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: bugat
       - 
-        districts: []
-        location: "POINT (47.6333300000000008 103.5166700000000048)"
-        name: Avdzaga
+        alternate_names: 
+          - Altai
+          - Altay
+          - "Altay Somon"
+        ascii_name: "Altay sumu"
+        name: "Altay sumu"
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: avdzaga
       - 
-        districts: []
-        location: "POINT (47.2894799999999975 103.8565899999999971)"
-        name: Ulaanshiveet
+        alternate_names: 
+          - Bayanhushuu
+          - "Mingat Suma"
+          - Mjangad
+        ascii_name: Bayanhoshuu
+        name: Bayanhoshuu
+        names_en: 
+          - Bayanhushuu
+        names_es: ~
         population: 0
-        slug: ulaanshiveet
-    code: MN.21
-    name: Bulgan
-    slug: bulgan
+      - 
+        alternate_names: 
+          - "Altan Teeli Somon"
+          - "Altan Teeli Suma"
+          - "Altan Teeli Sumu"
+        ascii_name: Altanteel
+        name: Altanteel
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Hovd
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Govi-Altay Aymag"
     cities: 
       - 
-        districts: []
-        location: "POINT (49.8325000000000031 106.1363900000000058)"
-        name: Orhon
+        alternate_names: 
+          - Tseel
+          - "Tseel Suma"
+          - "Tseel' Somon"
+        ascii_name: Tseel
+        name: Tseel
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: orhon
       - 
-        districts: []
-        location: "POINT (49.4866699999999966 105.9227800000000030)"
-        name: Darhan
-        population: 74300
-        slug: darhan
-      - 
-        districts: []
-        location: "POINT (49.2301199999999994 105.8967399999999941)"
-        name: Hongor
+        alternate_names: 
+          - Taishir
+          - Tayshir
+          - Taïshir
+        ascii_name: Tsagaan-Olom
+        name: Tsagaan-Olom
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: hongor
-    code: MN.23
-    name: "Darhan Uul"
-    slug: darhan-uul
-  - 
-    cities: 
       - 
-        districts: []
-        location: "POINT (46.3611099999999965 108.3611099999999965)"
-        name: Choyr
-        population: 9895
-        slug: choyr
-      - 
-        districts: []
-        location: "POINT (46.6213399999999965 108.3580400000000026)"
-        name: Bayantal
+        alternate_names: 
+          - Togorig
+          - "Togorig Suma"
+          - Torog
+        ascii_name: Togrog
+        name: Tögrög
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: bayantal
       - 
-        districts: []
-        location: "POINT (46.0908099999999976 108.6830599999999976)"
-        name: Shiveegovi
+        alternate_names: 
+          - "Del'ger sumu"
+          - Delger
+          - "Delger Somon"
+        ascii_name: Taygan
+        name: Taygan
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: shiveegovi
-    code: MN.24
-    name: Govĭ-Sumber
-    slug: govi-sumber
-  - 
-    cities: 
       - 
-        districts: []
-        location: "POINT (49.0333299999999994 104.0833300000000037)"
-        name: Erdenet
-        population: 79647
-        slug: erdenet
+        alternate_names: 
+          - Chandmani
+          - Chandmanĭ
+          - Chindamani
+        ascii_name: Talshand
+        name: Talshand
+        names_en: ~
+        names_es: ~
+        population: 0
       - 
-        districts: []
-        location: "POINT (49.1291500000000028 104.4080299999999966)"
+        alternate_names: 
+          - Tsogt
+          - "Tsogto Suma"
+          - Tsogtu
+        ascii_name: Tahilt
+        name: Tahilt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sharga
+        ascii_name: Sharga
+        name: Sharga
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hohmorit
+          - Hohmorĭt
+          - "Hoho Morito Suma"
+        ascii_name: Sayn-Ust
+        name: Sayn-Ust
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Erdene
+          - Erdeni
+          - "Erdeni Somon"
+        ascii_name: "Sangiyn Dalay"
+        name: "Sangiyn Dalay"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Beger
+          - "Beger Somon"
+          - Biger
+        ascii_name: Jargalant
         name: Jargalant
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: jargalant
-    code: MN.25
+      - 
+        alternate_names: 
+          - Halium
+          - Khaliun
+        ascii_name: Haliun
+        name: Haliun
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tonhil
+          - "Tonhil Suma"
+          - "Tonhil Sumu"
+        ascii_name: Dzuyl
+        name: Dzüyl
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Darbi
+          - "Darbi Suma"
+          - "Darbi Sume"
+        ascii_name: Darvi
+        name: Darvi
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Chzhibgalantu Somon"
+          - "Chzhirgalantu Somon"
+          - Dzhargalant
+        ascii_name: Buyanbat
+        name: Buyanbat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dorvoljin
+        ascii_name: Buga
+        name: Buga
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altay
+          - Bayan-Ovoo
+        ascii_name: Bayan-Ovoo
+        name: Bayan-Ovoo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bugat
+        ascii_name: Bayangol
+        name: Bayangol
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Ula Somon"
+          - "Bayan Uula Suma"
+          - "Bayan uula"
+        ascii_name: Bayan
+        name: Bayan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altai
+          - Altaj
+          - Altay
+        ascii_name: Altai
+        name: Altai
+        names_en: 
+          - Altay
+          - Altai
+        names_es: ~
+        population: 0
+    name: Govĭ-Altay
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dzavhan Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Chdzibkhalantu
+          - "Chzhibgalantu Somon"
+          - Chzhibkhalantu
+        ascii_name: Uliastay
+        name: Uliastay
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Tsagaanchuluut
+        name: Tsagaanchuluut
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Shumultain khure"
+          - "Shumultuin Khure"
+          - Shumultuyn-khure
+        ascii_name: Tosontsengel
+        name: Tosontsengel
+        names_en: ~
+        names_es: ~
+        population: 9526
+      - 
+        alternate_names: 
+          - Tsetsen-Uul
+        ascii_name: Tegsh
+        name: Tegsh
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Tsagaan Hayrhan Suma"
+          - "Tsagaan hayrhan sumu"
+          - Tsagaanhayrhan
+        ascii_name: Shiree
+        name: Shiree
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Oygon
+          - Tudehvtehj
+          - Tudentei
+        ascii_name: Oygon
+        name: Oygon
+        names_en: 
+          - Oygon
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - OEvoegdiy
+          - Ovgodiy
+          - Ovogdiy
+        ascii_name: "Telmin Suma"
+        name: "Telmin Suma"
+        names_en: 
+          - Övögdiy
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Dzabhan Mandal Suma"
+          - Dzabkhan-Mandal
+          - Dzavhanmandal
+        ascii_name: Nuga
+        name: Nuga
+        names_en: 
+          - Nuga
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hungiy
+          - Urgamal
+          - "Urgamal Suma"
+        ascii_name: Hungiy
+        name: Hungiy
+        names_en: 
+          - Hungiy
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Holboo
+          - Saidamargatsa
+          - Sandamargatsa
+        ascii_name: Holboo
+        name: Holboo
+        names_en: 
+          - Holboo
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Nomorge
+          - "Nomorgo Suma"
+          - Nomrog
+        ascii_name: Hodrogo
+        name: Hödrögö
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzuunmod
+          - Idehr
+          - Ider
+        ascii_name: Dzuunmod
+        name: Dzuunmod
+        names_en: 
+          - Dzuunmod
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tes
+        ascii_name: Dzuer
+        name: Dzür
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Chandman'
+          - Chandmani
+          - Chandmanĭ
+        ascii_name: Chandmani
+        name: Chandmanĭ
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Odhan Hayrhan"
+          - "Odhon Hayrhan Suma"
+          - "Odkhan Khairkhan"
+        ascii_name: Buyant
+        name: Buyant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ih-Uul
+          - "Ihe ula sumu"
+          - Ikh-Uul
+        ascii_name: Bayan-Uhaa
+        name: Bayan-Uhaa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Balgatay
+          - Shilusutu
+          - "Shilusutu Sume"
+        ascii_name: Balgatay
+        name: Balgatay
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altay
+          - Bajan-Ula
+          - "Bayan Uula"
+        ascii_name: Altay
+        name: Altay
+        names_en: 
+          - Altay
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altanbulag
+          - Bajan-Khajrkhan
+          - "Bayan Hayrhan Suma"
+        ascii_name: Altanbulag
+        name: Altanbulag
+        names_en: 
+          - Altanbulag
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altan
+          - Erdenehayrhan
+          - Erdenekhairkhan
+        ascii_name: Altan
+        name: Altan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - A-lo-te-erh
+          - "Aldar Haan Suma"
+          - "Aldar Khan Somon"
+        ascii_name: Aldar
+        name: Aldar
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Asgat
+        ascii_name: Asgat
+        name: Asgat
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Dzavhan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bayan-Olgiy Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Sagsai
+          - Sagsaj
+          - Sagsay
+        ascii_name: Uujim
+        name: Uujim
+        names_en: 
+          - Uujim
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altantsogts
+          - Altantsögts
+          - Tsagaantungi
+        ascii_name: Tsagaantungi
+        name: Tsagaantüngi
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tolbo
+          - "Tolbo Nuur Hoshuun"
+          - "Tolbo Nuur Suma"
+        ascii_name: Tolbo
+        name: Tolbo
+        names_en: 
+          - Tolbo
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Deliin
+          - Deluun
+          - Delüün
+        ascii_name: Rashaant
+        name: Rashaant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayan-Ulegey
+          - Olgii
+          - Ologey
+        ascii_name: OElgiy
+        name: Ölgiy
+        names_en: 
+          - Olgii
+        names_es: ~
+        population: 28400
+      - 
+        alternate_names: 
+          - Nogon-Nur
+          - Nogoonnuur
+          - Notoonnuur
+        ascii_name: Nogoonnuur
+        name: Nogoonnuur
+        names_en: 
+          - Nogoonnuur
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bulagan Suma"
+          - Bulgan
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tsengel
+          - "Tsengel Suma"
+          - "Tsengel' somon"
+        ascii_name: Hoshoot
+        name: Höshööt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altai
+          - Altaj
+          - Altay
+        ascii_name: Chihertey
+        name: Chihertey
+        names_en: 
+          - Chihertey
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bujant
+          - Buyant
+          - Буянт
+        ascii_name: Buyant
+        name: Buyant
+        names_en: 
+          - Buyant
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Buga
+          - Bugat
+          - Бугат
+        ascii_name: Buga
+        name: Buga
+        names_en: 
+          - Buga
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bilueue
+          - Bilüü
+          - "Ulaan Husa"
+        ascii_name: Biluu
+        name: Bilüü
+        names_en: 
+          - Bilüü
+        names_es: ~
+        population: 0
+    name: Bayan-Ölgiy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bayanhongor Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Jargalant
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gurban Bulag Suma"
+          - "Gurban Bulak"
+          - "Gurban Bulak Somon"
+        ascii_name: "Hoeviyn Am"
+        name: "Höviyn Am"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzalaa
+          - Shinejinst
+        ascii_name: Dzalaa
+        name: Dzalaa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Dsag Baidarag"
+          - "Dzag Gol Suma"
+          - "Dzag Suma"
+        ascii_name: Dzag
+        name: Dzag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bomboger sumu"
+          - Bombogor
+          - "Bombogor Suma"
+        ascii_name: Dzadgay
+        name: Dzadgay
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hureemaral
+          - Khureemaral
+          - Khüreemaral
+        ascii_name: Delgermoron
+        name: Delgermörön
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Buutsagaan
+          - "Buyanta Tsagaan Gol Suma"
+          - "Buyantu Tsagan Gol Somon"
+        ascii_name: Buyant
+        name: Buyant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Ondor Suma"
+          - "Bayan Undur Somon"
+          - "Bayan Undur Sume"
+        ascii_name: Bulgan
+        name: Bulgan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Baatsagaan
+          - "Tsagaan Gol Suma"
+          - "Tsagan Gol"
+        ascii_name: Bayansayr
+        name: Bayansayr
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Bulag Suma"
+          - "Bayan Bulak"
+          - "Bayan Bulak Somon"
+        ascii_name: Bayanbulag
+        name: Bayanbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Tsagaan Suma"
+          - "Bayan Tsagan"
+          - "Bayan Tsagan Somon"
+        ascii_name: Bayanbulag
+        name: Bayanbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Barun Ul'dzeytu Sumu"
+          - "Barun Ultszeytu Somon"
+          - "Baruun Oldzeyte"
+        ascii_name: Ulaan-Uul
+        name: Ulaan-Uul
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayangovi
+          - Bayangovĭ
+          - Bayangow'
+        ascii_name: Orgon
+        name: Örgön
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bogd
+          - "Bogda Uula"
+          - "Bogda ula somon"
+        ascii_name: Horiult
+        name: Horiult
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayan-Ovoo
+          - Bayan-Owoo
+        ascii_name: Hohburd
+        name: Höhbürd
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayanleg
+          - "Legiin Goliin Horshoo"
+          - "Legin golin khorsho"
+        ascii_name: Hatansuudal
+        name: Hatansuudal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Erdeni Tsogto Suma"
+          - "Erdeni Tsogtu"
+          - "Erdeni Tsogtu Somon"
+        ascii_name: Erdenetsogt
+        name: Erdenetsogt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Chzhinsetu somon"
+          - "Djinsetu Sume"
+          - Dzhinsetu
+        ascii_name: Bodi
+        name: Bodĭ
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayanhushuu
+          - Galuut
+        ascii_name: Bayanhoshuu
+        name: Bayanhoshuu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bajankhongor
+          - "Bayan Hangor"
+          - "Bayan Hongor Suma"
+        ascii_name: Bayanhongor
+        name: Bayanhongor
+        names_en: ~
+        names_es: ~
+        population: 23234
+      - 
+        alternate_names: 
+          - Bajankhongor
+          - Bayanhongor
+          - Dzaluuchuud
+        ascii_name: Bayanhongor
+        name: Bayanhongor
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Bayanhongor
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ulaanbaatar Hot"
+    cities: 
+      - 
+        alternate_names: 
+          - "Da Huryee"
+          - "Da Hüryee"
+          - "Da Khure"
+        ascii_name: Ulaanbaatar
+        name: Ulaanbaatar
+        names_en: 
+          - "Ulan Bator"
+        names_es: 
+          - "Ulán Bator"
+        population: 844818
+    name: Ulaanbaatar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Central Aimak"
+    cities: 
+      - 
+        alternate_names: 
+          - Erdenesant
+          - "Erdeni Santa"
+          - "Erdeni Santa Suma"
+        ascii_name: Ulaanhudag
+        name: Ulaanhudag
+        names_en: ~
+        names_es: ~
+        population: 1500
+      - 
+        alternate_names: 
+          - Bayanhangay
+        ascii_name: Ulaanhad
+        name: Ulaanhad
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tseel
+        ascii_name: Orgil
+        name: Orgil
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bata Sumber Somon"
+          - "Bata Sumber Suma"
+          - "Bata Sümber Somon"
+        ascii_name: Mandal
+        name: Mandal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayan
+          - "Bayan Somon"
+          - "Bayan Suma"
+        ascii_name: Maanit
+        name: Maanĭt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Lun
+          - "Lun Suma"
+          - Lung
+        ascii_name: Sujji
+        name: Sujji
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sumber
+          - Sümber
+        ascii_name: Javhlant
+        name: Javhlant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Chzhirgalantuin-sang
+          - Dzhargalant
+          - Jargalant
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: 
+          - Jargalant
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayanchandmani
+          - Bayanchandmanĭ
+        ascii_name: Ihsueuej
+        name: Ihsüüj
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Del'ger han sumu"
+          - Del'ger-khan-Sumu
+          - "Delger Haan Suma"
+        ascii_name: Hujirt
+        name: Hujirt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzun-mod
+          - Dzun-modo
+          - "Dzuun Modo"
+        ascii_name: Dzuunmod
+        name: Dzuunmod
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Tsagaan Suma"
+          - "Bayan Tsagaan Sumu"
+          - "Bayan Tsagan Somon"
+        ascii_name: Dzogsool
+        name: Dzogsool
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Tsogto Suma"
+          - "Bayan Tsogtu"
+          - "Bayan Tsogtu Somon"
+        ascii_name: Dund-Urt
+        name: Dund-Urt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bulag
+          - "Mongon Morito"
+          - "Mongon Morito Somon"
+        ascii_name: Bulag
+        name: Bulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bornur
+          - Bornuur
+          - Борнур
+        ascii_name: Bornuur
+        name: Bornuur
+        names_en: 
+          - Bornuur
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayshint
+          - "Ondor Haan"
+          - "Ondor Haan Suma"
+        ascii_name: Bayshint
+        name: Bayshint
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayanjargalan
+        ascii_name: Bayasgalant
+        name: Bayasgalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayantohom
+          - Bayantöhöm
+          - Buren
+        ascii_name: Bayantohom
+        name: Bayantöhöm
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bain-delger Somon"
+          - "Bayan Delger Suma"
+          - "Bayan Delger Sume"
+        ascii_name: Bayandelger
+        name: Bayandelger
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Baraata Suma"
+          - "Bayan Baraatayn"
+          - "Bayan Baraatayn Suma"
+        ascii_name: Bayanbaraat
+        name: Bayanbaraat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bat-OEldziyt
+          - Bat-Öldziyt
+          - Dzaamar
+        ascii_name: Bat-Oldziyt
+        name: Bat-Öldziyt
+        names_en: 
+          - Bat-Öldziyt
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Erdene
+          - "Erdeni Sumny Horshoo"
+        ascii_name: Arhust
+        name: Arhust
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Argalant
+        name: Argalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ar-Asgat
+          - Ugtaaltsaydam
+          - Ugtaastsaidam
+        ascii_name: Ar-Asgat
+        name: Ar-Asgat
+        names_en: 
+          - Ar-Asgat
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altanbulag
+        ascii_name: Altanbulag
+        name: Altanbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hoshigiyn-Ar
+          - Höshigiyn-Ar
+        ascii_name: Hoshigiyn-Ar
+        name: Höshigiyn-Ar
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: ~
+        ascii_name: Zuunmod
+        name: Зуунмод
+        names_en: ~
+        names_es: ~
+        population: 17630
+    name: "Central Aimak"
+    names_en: 
+      - Central
+      - "Central Aimak"
+      - "Central Aymag"
+    names_es: ~
+  - 
+    ascii_name: "Suhbaatar Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - "Asahatay Suma"
+          - Asgat
+        ascii_name: Ulaandel
+        name: Ulaandel
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bain-Del'gir-Somon
+          - "Bain-delger Somon"
+          - "Bayan Delger Suma"
+        ascii_name: Shireet
+        name: Shireet
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sergelen
+          - "Tebshin-Shire Somon"
+          - "Tubshin Shiree Suma"
+        ascii_name: Sergelen
+        name: Sergelen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dariganga
+          - "Dariganga Suma"
+          - "Dariganga somon"
+        ascii_name: Ovoot
+        name: Ovoot
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Naran
+        ascii_name: Hongor
+        name: Hongor
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Haylaastay
+          - "Sakhe Bataar"
+          - Suhbaatar
+        ascii_name: Haylaastay
+        name: Haylaastay
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Elesete
+          - Eleste
+          - "Eleste Somon"
+        ascii_name: Havirga
+        name: Havirga
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Haldzan
+          - Hatavch
+          - Khaldzhan
+        ascii_name: Hatavch
+        name: Hatavch
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hanhohiy
+          - Hanhöhiy
+          - Tumentsogt
+        ascii_name: Hanhohiy
+        name: Hanhöhiy
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzuunbulag
+          - Dzüünbulag
+          - "Ul'-bain-munku Somon"
+        ascii_name: Dzuunbulag
+        name: Dzüünbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Chonogol
+          - "Chonoyn Gol"
+          - Erdenetsagaan
+        ascii_name: Chonogol
+        name: Chonogol
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayasgalant
+          - Monhhaan
+          - "Monho Haan Suma"
+        ascii_name: Bayasgalant
+        name: Bayasgalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Baruun Urta"
+          - Baruun-Urt
+          - Burunurt
+        ascii_name: Baruun-Urt
+        name: Baruun-Urt
+        names_en: 
+          - Baruun-Urt
+        names_es: ~
+        population: 15805
+    name: Sühbaatar
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Selenge Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Suehbaatar
+          - Suhbaatar
+          - "Suhe Baatar"
+        ascii_name: Suhbaatar
+        name: Sühbaatar
+        names_en: 
+          - Sühbaatar
+        names_es: ~
+        population: 24235
+      - 
+        alternate_names: ~
+        ascii_name: Sharingol
+        name: Sharïngol
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Dedu orhon sumu"
+          - Dedu-Orkhon-Sumu
+          - "Deede Orhon Suma"
+        ascii_name: Orhontuul
+        name: Orhontuul
+        names_en: 
+          - Orhontuul
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Nomgon
+          - Sayhan
+          - Номгон
+        ascii_name: Nomgon
+        name: Nomgon
+        names_en: 
+          - Nomgon
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Nart
+          - Orhon
+          - Orkhon
+        ascii_name: Nart
+        name: Nart
+        names_en: 
+          - Nart
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzun-khara
+          - "Dzuun Hara"
+          - Dzuunkharaa
+        ascii_name: Dzuunkharaa
+        name: Dzüünkharaa
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzhargalant
+          - Dzuunburen
+          - Dzüünbüren
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: 
+          - Jargalant
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Jargalant
+          - Javhlant
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Huurch
+          - Khurch
+          - Tsagaannuur
+        ascii_name: Huurch
+        name: Huurch
+        names_en: 
+          - Huurch
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ehnkhtal
+          - Enhtal
+          - Sant
+        ascii_name: Enhtal
+        name: Enhtal
+        names_en: 
+          - Enhtal
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - DZUNKHARA
+          - Dzueuenharaa
+          - Dzuunkharaa
+        ascii_name: Dzuunharaa
+        name: Dzüünharaa
+        names_en: 
+          - Dzüünharaa
+        names_es: ~
+        population: 18830
+      - 
+        alternate_names: 
+          - Dzelter
+          - Tsagaannuur
+          - Tushig
+        ascii_name: Dzelter
+        name: Dzelter
+        names_en: 
+          - Dzelter
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dehlgehrkhan
+          - Shaamar
+          - Shamar
+        ascii_name: Delgerhaan
+        name: Delgerhaan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Barun-Burehn
+          - "Barun-Burin Somon"
+          - "Baruun Buriin Suma"
+        ascii_name: Burgaltay
+        name: Burgaltay
+        names_en: 
+          - Burgaltay
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Haderi
+          - Huder
+          - Hüder
+        ascii_name: Bulagtay
+        name: Bulagtay
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bugant
+          - "Yoroo Khoroo"
+          - Yoroohoroo
+        ascii_name: Bugant
+        name: Bugant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Barun-Khashiatu Somon"
+          - "Baruun Hashaata Suma"
+          - "Bayan Khashiatu"
+        ascii_name: Hushaat
+        name: Hushaat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - ALTAN-BULAK
+          - "Altan Bulak"
+          - Altanbulag
+        ascii_name: Altanbulag
+        name: Altanbulag
+        names_en: 
+          - Altanbulag
+        names_es: ~
+        population: 0
+    name: Selenge
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: OEvoerhangay
+    cities: 
+      - 
+        alternate_names: 
+          - "Nariin Teeli Suma"
+          - Nariinteel
+          - "Narin Teli Sume"
+        ascii_name: Tsagaan-Ovoo
+        name: Tsagaan-Ovoo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayangol
+          - Shiree
+        ascii_name: Shiree
+        name: Shiree
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Oldzeyte
+          - "Oldzeyte Suma"
+          - Oldzeytu
+        ascii_name: "Sangiyn Dalay"
+        name: "Sangiyn Dalay"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bat-Oldzii
+          - Bat-Oldziy
+          - Bat-Öldziy
+        ascii_name: Ovt
+        name: Övt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Burd
+          - "Buride Suma"
+          - Buridu
+        ascii_name: Ongon
+        name: Ongon
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ongi
+          - "Ongi Suma"
+          - "Ongi sumu"
+        ascii_name: Ongi
+        name: Ongi
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzuil
+          - Dzuyl
+          - Dzüyl
+        ascii_name: Monhbulag
+        name: Mönhbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sant
+          - "Santa Suma"
+          - Santo
+        ascii_name: Mayhan
+        name: Mayhan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Dulaan Hayrhan Suma"
+          - "Dulan Khairkhan Somon"
+          - "Dulan Khayrkhan somon"
+        ascii_name: Mardzad
+        name: Mardzad
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Taragt
+          - Targat
+          - Targata
+        ascii_name: Huremt
+        name: Hüremt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Haluun Usanii"
+          - "Haluun Usanii Suma"
+          - Hujirtay
+        ascii_name: Hujirt
+        name: Hujirt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hobdo
+          - "Hobdo Suma"
+          - "Hobdo sumu"
+        ascii_name: Hovd
+        name: Hovd
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bogd
+          - Khovd
+          - Ховд
+        ascii_name: Hovd
+        name: Hovd
+        names_en: ~
+        names_es: ~
+        population: 27924
+      - 
+        alternate_names: 
+          - "Barun Bayan Ulan somon"
+          - "Baruun Bayan Uula Suma"
+          - Baruunbayan-Ulaan
+        ascii_name: "Bayan Uula Sumu"
+        name: "Bayan Uula Sumu"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hoolt
+          - Togorig
+          - "Togorig Nuur Suma"
+        ascii_name: Hoolt
+        name: Hoolt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Kharkhorin
+          - Хархорин
+        ascii_name: Harhorin
+        name: Harhorin
+        names_en: 
+          - Kharkhorin
+        names_es: ~
+        population: 9000
+      - 
+        alternate_names: 
+          - "Bayan Ondor Suma"
+          - "Bayan Undur Somon"
+          - "Bayan Öndör Suma"
+        ascii_name: Bumbat
+        name: Bumbat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Ulaan Suma"
+          - "Bayan Ulan Somon"
+          - "Bayan ulaan sumu"
+        ascii_name: Bayan-Ulaan
+        name: Bayan-Ulaan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Arbai Khere"
+          - "Arbay Heere"
+          - "Arbay Khere"
+        ascii_name: Arvayheer
+        name: Arvayheer
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Guchin
+          - "Guchin Suma"
+          - "Guchin Usa Suma"
+        ascii_name: Arguut
+        name: Arguut
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Kharkhorin
+          - Хархорин
+        ascii_name: Kharkhorin
+        name: Kharkhorin
+        names_en: ~
+        names_es: ~
+        population: 8977
+    name: Övörhangay
+    names_en: 
+      - "South Hangay"
+      - "South Khangay"
+      - Övörhangay
+    names_es: ~
+  - 
+    ascii_name: "South Gobi Aimak"
+    cities: 
+      - 
+        alternate_names: 
+          - Manlai
+          - Manlai-Somon
+          - Manlay
+        ascii_name: UEydzen
+        name: Üydzen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Gurvantes
+        ascii_name: Urt
+        name: Urt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Hurmeiin Suma"
+          - Hurmen
+          - "Hurmiin Suma"
+        ascii_name: Tsoohor
+        name: Tsoohor
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Mandal Obo Somon"
+          - "Mandal Oboo"
+          - "Mandal Oboo Suma"
+        ascii_name: Sharhulsan
+        name: Sharhulsan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Saynshand
+          - Seberei
+          - "Seberei Sume"
+        ascii_name: Saynshand
+        name: Saynshand
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Sang'iin dalay'iin hurie"
+          - "Sang'iin dalay'iin hürie"
+          - "Sang'iin dalay'in hurie"
+        ascii_name: "Sangiyn Dalay"
+        name: "Sangiyn Dalay"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Haan Hongor Suma"
+          - "Han hongor sumu"
+          - Hanhongor
+        ascii_name: Ogoomor
+        name: Ögöömör
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Haan Bogdo Suma"
+          - "Han bogda"
+          - "Han bogda sumu"
+        ascii_name: Ihbulag
+        name: Ihbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hovuun
+          - Hövüün
+          - "Noin Somon"
+        ascii_name: "Noyon Suma"
+        name: "Noyon Suma"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Obo"
+          - "Bayan Oboo Suma"
+          - "Bayan obo Somon"
+        ascii_name: Erdenetsogt
+        name: Erdenetsogt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tsogt-Ovoo
+          - Tsogt-Owoo
+        ascii_name: Doloon
+        name: Doloon
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Baishinte
+          - Baishintu
+          - "Bayan Dalai Baishintu Khit"
+        ascii_name: Dalay
+        name: Dalay
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Dalan Dsadagad"
+          - "Dalan Dzadagad"
+          - "Dalan Tszadagad"
+        ascii_name: Dalandzadgad
+        name: Dalandzadgad
+        names_en: ~
+        names_es: ~
+        population: 15093
+      - 
+        alternate_names: 
+          - "Bulagan Bulag"
+        ascii_name: Bulgan
+        name: Bulgan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Tsetsen Sume"
+          - Tsetsey
+          - "Tsetsey sumu"
+        ascii_name: Baruunsuu
+        name: Baruunsuu
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "South Gobi Aimak"
+    names_en: 
+      - "South Govĭ"
+      - "South Gobi Aimak"
+      - "South Gobi Aymag"
+    names_es: ~
+  - 
+    ascii_name: "Hovsgol Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Toegoel
+          - Togol
+          - Tögöl
+        ascii_name: "Vlaa Vula"
+        name: "Vlaa Vula"
+        names_en: 
+          - Tögöl
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sharga
+          - "Tsagaan Uula Suma"
+          - "Tsagaan uula"
+        ascii_name: Sharga
+        name: Sharga
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzhargalant
+          - "Ihe jirgalantu sumu"
+          - "Ikhe Djirgalantu Sume"
+        ascii_name: Orgil
+        name: Orgil
+        names_en: 
+          - Orgil
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ar-Bulak
+          - "Ara Bulag Suma"
+          - "Ara Buluk Sume"
+        ascii_name: Mandal
+        name: Mandal
+        names_en: 
+          - Mandal
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Galt
+          - Ider
+          - Галт
+        ascii_name: Ider
+        name: Ider
+        names_en: 
+          - Ider
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tsetserleg
+          - Tsetserlig
+          - "Tsetserlig Suma"
+        ascii_name: Halban
+        name: Halban
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Erdenet
+          - Shine-Ider
+          - Shineh-Idehr
+        ascii_name: Erdenet
+        name: Erdenet
+        names_en: 
+          - Erdenet
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzoeoeloen
+          - Dzöölön
+          - Rehnchin-Lkhumbeh
+        ascii_name: Dzoolon
+        name: Dzöölön
+        names_en: 
+          - Dzöölön
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Cagan-Nur
+          - Dood-Nuur
+          - Tsagaannuur
+        ascii_name: Tsagaannuur
+        name: Tsagaannuur
+        names_en: 
+          - Tsagaannuur
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayan
+          - Burentogtoh
+          - Burentogtokh
+        ascii_name: Bayan
+        name: Bayan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altraga
+          - Bajan-Dzurkh
+          - "Bayan Dzurihe Suma"
+        ascii_name: Altraga
+        name: Altraga
+        names_en: 
+          - Altraga
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hanga
+          - "Hanga Suma"
+          - "Hanga Sumu"
+        ascii_name: Turt
+        name: Turt
+        names_en: 
+          - Turt
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Toson Tsengel Suma"
+          - "Toson tsengel sumu"
+          - Toson-Cehngehl
+        ascii_name: Tsengel
+        name: Tsengel
+        names_en: 
+          - Tsengel
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ih-Uul
+          - "Ihe uula sumu"
+          - Ikh-Ula
+        ascii_name: Selenge
+        name: Selenge
+        names_en: 
+          - Selenge
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Arshaanta Suma"
+          - Arshaantu
+          - Arshant
+        ascii_name: Rashaant
+        name: Rashaant
+        names_en: 
+          - Rashaant
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - MUREHN
+          - Moeroen
+          - Moron
+        ascii_name: Murun-kuren
+        name: Murun-kuren
+        names_en: 
+          - Mörön
+        names_es: ~
+        population: 27690
+      - 
+        alternate_names: 
+          - "Alag Erdeni"
+          - "Alag Erdeni Suma"
+          - "Alag Erdeni Sume"
+        ascii_name: Manhan
+        name: Manhan
+        names_en: 
+          - Manhan
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Tomor Buluk Sume"
+          - "Tomor bulag Sumu"
+          - Tomorbulag
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Chandman Ondor"
+          - "Chandman Öndör"
+          - Chandman'
+        ascii_name: "Undur Sume"
+        name: "Undur Sume"
+        names_en: 
+          - Höhöö
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Eg-Uur
+          - Ehrdehneh-Bulgan
+          - Erdenebulgan
+        ascii_name: Eg-Uur
+        name: Eg-Uur
+        names_en: 
+          - Erdenebulgan
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bulgan
+          - Cagan-Ur
+          - "Tsagaan Uur Suma"
+        ascii_name: Bulgan
+        name: Bulgan
+        names_en: 
+          - Bulgan
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bulag
+          - Tunehl
+          - Tunel
+        ascii_name: Bulag
+        name: Bulag
+        names_en: 
+          - Bulag
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Badrah
+          - "Taralang somon"
+          - Tarialan
+        ascii_name: Badrah
+        name: Badrah
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Hövsgöl
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Hentiy Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Norbolin
+          - Norovlin
+          - Norowlin
+        ascii_name: Uldz
+        name: Uldz
+        names_en: 
+          - Uldz
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bain-munku Somon"
+          - "Bayan Monho"
+          - "Bayan Monho Suma"
+        ascii_name: Ulaan-Ereg
+        name: Ulaan-Ereg
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Binder
+          - Bindiryaa
+          - "Bindiryaa Suma"
+        ascii_name: Onon
+        name: Onon
+        names_en: 
+          - Onon
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Cecen Han"
+          - Ch'e-ch'en-han
+          - Ch’e-ch’en-han
+        ascii_name: "Zezen Khana"
+        name: "Zezen Khana"
+        names_en: ~
+        names_es: ~
+        population: 14723
+      - 
+        alternate_names: 
+          - "Moron Suma"
+          - "Moron Sumu"
+          - Muren-sumu
+        ascii_name: Moron
+        name: Mörön
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Modot
+          - "Tsenher Mandal Suma"
+          - "Tsenher mandal sumu"
+        ascii_name: Modot
+        name: Modot
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Herlen
+          - Kherlen
+        ascii_name: Herlen
+        name: Herlen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Batshireet
+          - Batshireht
+          - Eg
+        ascii_name: Eg
+        name: Eg
+        names_en: 
+          - Eg
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bata Chorboin Khid"
+          - "Bata Chorboyn Khid"
+          - "Bata Chorböyn Khid"
+        ascii_name: Dundburd
+        name: Dundbürd
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Darhan
+          - "Darhan Suma"
+          - "Darhan sumu"
+        ascii_name: Darhan
+        name: Darhan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Boendosumu
+          - Buyant
+          - "Buyanta Suma"
+        ascii_name: Buyant
+        name: Buyant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bajan-Obo
+          - Bayan-Ovoo
+          - Dadal
+        ascii_name: Bayan-Ovoo
+        name: Bayan-Ovoo
+        names_en: 
+          - Bayan-Ovoo
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bain-obo Somon"
+          - "Bayan Obo"
+          - "Bayan Oboo"
+        ascii_name: Javhlant
+        name: Javhlant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayanbulag
+          - Omnodelger
+          - "Omono Delger"
+        ascii_name: Bayanbulag
+        name: Bayanbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bajan
+          - Bayan
+          - Bayan-Adraga
+        ascii_name: Bayan
+        name: Bayan
+        names_en: 
+          - Bayan
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Baan Khuduk"
+          - Bayan
+          - "Bayan Hudag"
+        ascii_name: Bayan
+        name: Bayan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Avarga
+          - "Delger Haan Suma"
+          - "Delger Han"
+        ascii_name: Avraga
+        name: Avraga
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Hentiy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Middle Govi"
+    cities: 
+      - 
+        alternate_names: 
+          - Holodo
+          - "Holodo Suma"
+          - "Holot Sumu"
+        ascii_name: Ulaanjirem
+        name: Ulaanjirem
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Deren
+          - "Deren Somon"
+          - "Deren Suma"
+        ascii_name: Tsant
+        name: Tsant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Loosa sumu"
+          - Los
+          - Lus
+        ascii_name: Tsagaan-Ovoo
+        name: Tsagaan-Ovoo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Adaatsag
+        ascii_name: Tavin
+        name: Tavin
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gurban Saikhan"
+          - "Gurban Sayhan"
+          - "Gurban Sayhan Suma"
+        ascii_name: Suugaant
+        name: Suugaant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Erdenedalay
+          - "Erdeni Dalai"
+          - "Erdeni Dalay"
+        ascii_name: "Sangiyn Dalay"
+        name: "Sangiyn Dalay"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Oldzit
+          - Oldziyt
+          - Rashaant
+        ascii_name: Rashaant
+        name: Rashaant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ongi
+          - "Saikhan Obo"
+          - "Saikhan Obo Somon"
+        ascii_name: Ongi
+        name: Ongi
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dund-gobi
+          - "Mandal Gobi"
+          - Mandalgov'
+        ascii_name: Mandalgovi
+        name: Mandalgovĭ
+        names_en: ~
+        names_es: ~
+        population: 15430
+      - 
+        alternate_names: 
+          - Del'ger-khangay
+          - "Deleger Khangai Somon"
+          - "Delger Hangay Suma"
+        ascii_name: Hashaat
+        name: Hashaat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Haraat
+          - "Tsagaan Delger Suma"
+          - "Tsagaan del'ger sumu"
+        ascii_name: Haraat
+        name: Haraat
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Govi-Ugtaal
+          - Govĭ-Ugtaal
+          - Gow'-Ugtaal
+        ascii_name: Hajuu-Us
+        name: Hajuu-Us
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Ondor Shili"
+          - "Ondor Shili Suma"
+          - Ondorshil
+        ascii_name: Bohot
+        name: Böhöt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Argatay
+          - Bain-Dzhargalanta-somon
+          - Bain-Dzhirgalang-sumu
+        ascii_name: Argatay
+        name: Argatay
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Del'ger tsogtu sumu"
+          - "Delger Tsogto"
+          - "Delger Tsogto Suma"
+        ascii_name: Amardalay
+        name: Amardalay
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Middle Govĭ"
+    names_en: 
+      - "Middle Govĭ"
+    names_es: ~
+  - 
+    ascii_name: "East Gobi Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Erdene
+          - Erdeni
+          - "Erdeni Somon"
+        ascii_name: Ulaan-Uul
+        name: Ulaan-Uul
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dalanjargalan
+          - Tsomog
+        ascii_name: Tsomog
+        name: Tsomog
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ayrag
+        ascii_name: Tsagaandorvolj
+        name: Tsagaandörvölj
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Mandah
+          - "Mandaha Suma"
+          - Mandaho
+        ascii_name: "Naran-mandokhu Somon"
+        name: "Naran-mandokhu Somon"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Orgon
+          - Senj
+          - Örgön
+        ascii_name: Senj
+        name: Senj
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Oldziyt
+          - "Saikhan Dulan Sume"
+          - Saikhandulaan
+        ascii_name: Oldziyt
+        name: Öldziyt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Nuden
+          - Nüden
+          - "Ulaan Badaraha Suma"
+        ascii_name: Nuden
+        name: Nüden
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Hobsogol Suma"
+          - "Hobsogol Sumu"
+          - Hovsgol
+        ascii_name: Khuvsget
+        name: Khuvsget
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Del'gerehu
+          - "Del'gir Somon"
+          - Delger
+        ascii_name: Hongor
+        name: Hongor
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ergel
+          - "Hatan Bulag Suma"
+          - Hatanbulag
+        ascii_name: Ergel
+        name: Ergel
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Altanshiree
+          - Chandmani
+          - Chandmanĭ
+        ascii_name: Chandmani
+        name: Chandmanĭ
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Buyant-Uhaa
+          - "Dalai Sain Shanda"
+          - "Dalay Sayn Shanda"
+        ascii_name: Saynshand
+        name: Saynshand
+        names_en: ~
+        names_es: ~
+        population: 19891
+      - 
+        alternate_names: 
+          - Bayan
+          - "Ihe hete"
+          - "Ihe hete sumu"
+        ascii_name: Bayan
+        name: Bayan
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "East Gobi Aymag"
+    names_en: 
+      - "East Govĭ"
+      - "East Gobi Aymag"
+    names_es: ~
+  - 
+    ascii_name: Eastern
+    cities: 
+      - 
+        alternate_names: 
+          - "Bain Tumen"
+          - Bayantumen
+          - Bayantümen
+        ascii_name: Tsagaanders
+        name: Tsagaanders
+        names_en: 
+          - Tsagaanders
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gurban Dzagaliin Suma"
+          - "Gurban Dzakhaliin Somon"
+          - "Gurbun Dzagal"
+        ascii_name: "Sumiyn Bulag"
+        name: "Sümiyn Bulag"
+        names_en: 
+          - "Sümiyn Bulag"
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sergelen
+        ascii_name: Sergelen
+        name: Sergelen
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bulgan
+          - OEndoerhushuu
+          - Öndörhushuu
+        ascii_name: OEndoerhoshuu
+        name: Öndörhoshuu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Dun Suma"
+          - "Bayan Dung Suma"
+          - "Bayan Düng Suma"
+        ascii_name: Naranbulag
+        name: Naranbulag
+        names_en: 
+          - Naranbulag
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bayan Ula"
+          - "Bayan Ula Sume"
+          - "Bayan Uula Somon"
+        ascii_name: Javarthushuu
+        name: Javarthushuu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Choibalsan
+          - Choybalsan
+          - Choïbalsan
+        ascii_name: Hulstay
+        name: Hulstay
+        names_en: 
+          - Hulstay
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hoovor
+          - Höövör
+          - Tsagaan-Ovoo
+        ascii_name: Tsagaan-Owoo
+        name: Tsagaan-Owoo
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ereentsaw
+          - Ereentsay
+          - Eren-Tsav
+        ascii_name: Ereencav
+        name: Ereencav
+        names_en: ~
+        names_es: ~
+        population: 23
+      - 
+        alternate_names: 
+          - Madat
+          - "Madat sumu"
+          - Mamat-Somon
+        ascii_name: Dzuunbulag
+        name: Dzüünbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dashbalbar
+          - "Dashi Balbar Suma"
+          - "Dashi Balbariin Somon"
+        ascii_name: Dashbalbar
+        name: Dashbalbar
+        names_en: 
+          - Dashbalbar
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Bain Tumen"
+          - Baintomenhashu
+          - Baintōmenhashū
+        ascii_name: Choybalsan
+        name: Choybalsan
+        names_en: 
+          - Choybalsan
+        names_es: ~
+        population: 23
+      - 
+        alternate_names: 
+          - Bayan
+          - Holobuyr
+          - Hölöbuyr
+        ascii_name: Bayan
+        name: Bayan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Sumber
+          - Sümber
+        ascii_name: Sumber
+        name: Sümber
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Eastern
+    names_en: 
+      - Eastern
+      - "East Aimak"
+      - "Eastern Aymag"
+    names_es: ~
+  - 
+    ascii_name: "Bulgan Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Bayannuur
+          - Tsul-Ulaan
+        ascii_name: Tsul-Ulaan
+        name: Tsul-Ulaan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tehshig
+          - Teshig
+          - "Teshig Suma"
+        ascii_name: Teshig
+        name: Teshig
+        names_en: 
+          - Teshig
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dashichiling
+          - "Dashichiling sumu"
+          - Dashinchilen
+        ascii_name: Dashinchilling
+        name: Dashinchilling
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hangal
+          - "Hangal Suma"
+          - "Hangal sumu"
+        ascii_name: Sort
+        name: Sört
+        names_en: 
+          - Sört
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bajan-Agt
+          - "Bayan Agta"
+          - "Bayan Agta Suma"
+        ascii_name: Sharga
+        name: Sharga
+        names_en: 
+          - Sharga
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Mandal
+          - Orhon
+          - Orkhon
+        ascii_name: Mandal
+        name: Mandal
+        names_en: 
+          - Mandal
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hishig-Ondor
+          - Hishig-Öndör
+          - Khishig-Ondor
+        ascii_name: Maanit
+        name: Maanĭt
+        names_en: 
+          - Maanĭt
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ingettolgoy
+          - Sehlehngeh
+          - Selenga-Burin
+        ascii_name: Ingettolgoy
+        name: Ingettolgoy
+        names_en: 
+          - Ingettolgoy
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hutag
+          - "Hutag Ondor Suma"
+          - "Hutag Öndör Suma"
+        ascii_name: Hutag
+        name: Hutag
+        names_en: 
+          - Hutag
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hueremt
+          - Huremt
+          - Hüremt
+        ascii_name: Huremt
+        name: Hüremt
+        names_en: 
+          - Hüremt
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Erhet
+          - Mogod
+          - "Mogod Suma"
+        ascii_name: Erhet
+        name: Erhet
+        names_en: 
+          - Erhet
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Boorgu hangay sumu"
+          - "Bureg Hangay Suma"
+          - Bureghangay
+        ascii_name: Darhan
+        name: Darhan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - BULGAN
+          - Bulagan
+          - "Bulagan Suma"
+        ascii_name: Bulgan
+        name: Bulgan
+        names_en: 
+          - Bulgan
+        names_es: ~
+        population: 17348
+      - 
+        alternate_names: 
+          - Bugat
+          - Бугат
+        ascii_name: Bugat
+        name: Bugat
+        names_en: 
+          - Bugat
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Avdzaga
+          - "Gurban Bulagan"
+          - "Gurban Bulagiin Somon"
+        ascii_name: Avdzaga
+        name: Avdzaga
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ulaanshiveet
+        ascii_name: Ulaanshiveet
+        name: Ulaanshiveet
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Bulgan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Arhangay Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Cakhir
+          - Tsahir
+          - "Tsahir Suma"
+        ascii_name: Tsahir
+        name: Tsahir
+        names_en: 
+          - Tsahir
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hangai
+          - Hangay
+          - "Hangay Suma"
+        ascii_name: Hunt
+        name: Hunt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Horgo
+          - Tariat
+          - Tarjat
+        ascii_name: Horgo
+        name: Horgo
+        names_en: 
+          - Horgo
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hayrhan
+          - "Hayrhan Suma"
+          - "Hayrhan sumu"
+        ascii_name: Uubulan
+        name: Uubulan
+        names_en: 
+          - Uubulan
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Cecerleg
+          - Cehcehrlehg
+          - Tsetserleg
+        ascii_name: Tsetserleg
+        name: Tsetserleg
+        names_en: 
+          - Cecerleg
+        names_es: ~
+        population: 5876
+      - 
+        alternate_names: 
+          - Ondon-Ulan
+          - "Ondor Ulaan Suma"
+          - Ondor-Ulaan
+        ascii_name: Teel
+        name: Teel
+        names_en: 
+          - Teel
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Todzshruuleh
+          - Tovshruuleh
+          - Towshruulekh
+        ascii_name: Tavanbulag
+        name: Tavanbulag
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Ehrdehneh-Mandal
+          - Erdenemandal
+          - "Erdeni Mandal Suma"
+        ascii_name: Oldziyt
+        name: Öldziyt
+        names_en: 
+          - Öldziyt
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Battsengel
+          - "Tamiriin Huryee"
+          - "Tamiriin Hüryee"
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Chulutuin khid"
+          - Chuluut
+          - "Chuluutayn Hiid"
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tsetserleg
+          - Tsetserlig
+          - "Tsetserlig Suma"
+        ascii_name: Hujirt
+        name: Hujirt
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Hotantu sumu"
+          - Hotonto
+          - "Hotonto Suma"
+        ascii_name: Hotont
+        name: Hotont
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Hoeshoeoet
+          - Höshööt
+          - Oldzeyte
+        ascii_name: Hoshoot
+        name: Höshööt
+        names_en: 
+          - Höshööt
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Baisakhlin
+          - Baissakly
+          - Baysakhlin
+        ascii_name: Dzegstey
+        name: Dzegstey
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Dzaanhushuu
+          - "Ihe Tamir"
+          - Ihtamir
+        ascii_name: Dzaanhoshuu
+        name: Dzaanhoshuu
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bulgan
+        ascii_name: "Bulagiyn Denj"
+        name: "Bulagiyn Denj"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayantsagaan
+          - "Chzhirgalantu somon"
+          - Dzhargalant
+        ascii_name: Bayantsagaan
+        name: Bayantsagaan
+        names_en: 
+          - Bayantsagaan
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Bayan
+          - Hashaat
+          - "Hashaata Suma"
+        ascii_name: Bayan
+        name: Bayan
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Tsenher
+          - Urdtamir
+        ascii_name: Altan-Ovoo
+        name: Altan-Ovoo
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Arhangay
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Darhan-Uul Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Harosha
+          - Orhon
+          - Orkhon
+        ascii_name: Orhon
+        name: Orhon
+        names_en: 
+          - Orhon
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Darchan
+          - Darhan
+          - Darkhan
+        ascii_name: Darhan
+        name: Darhan
+        names_en: 
+          - Darhan
+        names_es: ~
+        population: 74300
+      - 
+        alternate_names: 
+          - Hongor
+        ascii_name: Hongor
+        name: Hongor
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: "Darhan Uul"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Govi-Sumber
+    cities: 
+      - 
+        alternate_names: 
+          - Chojr
+          - Choyr
+          - Sumber
+        ascii_name: Choyr
+        name: Choyr
+        names_en: ~
+        names_es: ~
+        population: 9895
+      - 
+        alternate_names: 
+          - Bayantal
+        ascii_name: Bayantal
+        name: Bayantal
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Shiveegovi
+        ascii_name: Shiveegovi
+        name: Shiveegovi
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Govĭ-Sumber
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Orhon Aymag"
+    cities: 
+      - 
+        alternate_names: 
+          - Ehrdehneht
+          - "Ehrdehneht khot"
+          - Ehrdenet
+        ascii_name: Erdenet
+        name: Erdenet
+        names_en: 
+          - Erdenet
+        names_es: 
+          - Erdenet
+        population: 79647
+      - 
+        alternate_names: 
+          - Jargalant
+        ascii_name: Jargalant
+        name: Jargalant
+        names_en: ~
+        names_es: ~
+        population: 0
     name: Orhon
-    slug: orhon
-tld: mn
+    names_en: ~
+    names_es: ~

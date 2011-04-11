@@ -1,18 +1,25 @@
 --- 
-code: GG
-continent: EU
 name: Guernsey
-population: 65228
+names_en: 
+  - Guernsey
+names_es: 
+  - Guernsey
 regions: 
   - 
+    ascii_name: "Guernsey (general)"
     cities: 
       - 
-        districts: []
-        location: "POINT (49.4598099999999974 -2.5352700000000001)"
+        alternate_names: 
+          - "Saint Peter Port"
+          - "Saint Pierre Port"
+          - Saint-Pierre-Port
+        ascii_name: "Saint Peter Port"
         name: "Saint Peter Port"
+        names_en: 
+          - "St Peter Port"
+        names_es: 
+          - "Saint Peter Port"
         population: 16488
-        slug: saint-peter-port
-    code: GG.00
-    name: "Guernsey (general)"
-    slug: guernsey-general
-tld: gg
+    name: ~
+    names_en: ~
+    names_es: ~

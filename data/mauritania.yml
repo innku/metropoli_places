@@ -1,107 +1,248 @@
 --- 
-code: MR
-continent: AF
 name: Mauritania
-population: 3205060
+names_en: 
+  - Mauritania
+  - "Islamic Republic of Mauritania"
+names_es: 
+  - Mauritania
 regions: 
   - 
+    ascii_name: "Wilaya du Trarza"
     cities: 
       - 
-        districts: []
-        location: "POINT (16.6614000000000004 -9.6149000000000004)"
-        name: "’Ayoûn el ’Atroûs"
-        population: 0
-        slug: ayoun-el-atrous
-      - 
-        districts: []
-        location: "POINT (18.1003299999999996 -15.9497499999999999)"
-        name: Nouakchott
-        population: 661400
-        slug: nouakchott
-      - 
-        districts: []
-        location: "POINT (17.0481000000000016 -13.9208999999999996)"
-        name: Aleg
-        population: 0
-        slug: aleg
-      - 
-        districts: []
-        location: "POINT (16.5200400000000016 -15.8072700000000008)"
+        alternate_names: 
+          - Roco
+          - Rosso
+        ascii_name: Rosso
         name: Rosso
+        names_en: 
+          - Rosso
+        names_es: 
+          - Rosso
         population: 0
-        slug: rosso
-      - 
-        districts: []
-        location: "POINT (16.1465299999999985 -13.5047400000000000)"
-        name: Kaédi
-        population: 0
-        slug: kaedi
-      - 
-        districts: []
-        location: "POINT (16.6161999999999992 -7.2534999999999998)"
-        name: Néma
-        population: 0
-        slug: nema
-      - 
-        districts: []
-        location: "POINT (16.6165899999999986 -11.4045299999999994)"
-        name: Kiffa
-        population: 0
-        slug: kiffa
-      - 
-        districts: []
-        location: "POINT (16.6403900000000000 -12.4984900000000003)"
-        name: Barkéwol
-        population: 1100
-        slug: barkewol
-      - 
-        districts: []
-        location: "POINT (15.1589500000000008 -12.1829000000000001)"
-        name: Sélibabi
-        population: 0
-        slug: selibabi
-      - 
-        districts: []
-        location: "POINT (19.6969400000000014 -14.4163899999999998)"
-        name: Akjoujt
-        population: 0
-        slug: akjoujt
-      - 
-        districts: []
-        location: "POINT (20.9002400000000002 -17.0336099999999995)"
-        name: Nouâdhibou
-        population: 72337
-        slug: nouadhibou
-    code: MR.03
-    name: Assaba
-    slug: assaba
+    name: Trarza
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Wilaya du Tiris Zemmour"
     cities: 
       - 
-        districts: []
-        location: "POINT (22.7187300000000008 -12.4520499999999998)"
+        alternate_names: 
+          - Zoueiratt
+          - Zouerat
+          - Zouerate
+        ascii_name: Zouerate
         name: Zouérate
+        names_en: 
+          - Zouérat
+        names_es: 
+          - Zouerate
         population: 0
-        slug: zouerate
+    name: "Tiris Zemmour"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya du Tagant"
+    cities: 
       - 
-        districts: []
-        location: "POINT (18.5549999999999997 -11.4255999999999993)"
+        alternate_names: 
+          - "Fort Cappolani"
+          - Tidjikdja
+          - Tidjikja
+        ascii_name: Tidjikja
         name: Tidjikja
-        population: 0
-        slug: tidjikja
+        names_en: ~
+        names_es: ~
+        population: 6000
+    name: Tagant
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "District de Nouakchott"
+    cities: 
       - 
-        districts: []
-        location: "POINT (20.4403599999999983 -12.2622000000000000)"
+        alternate_names: 
+          - Naevakjut
+          - Nawakszut
+          - Nouakchat
+        ascii_name: Nouakchott
+        name: Nouakchott
+        names_en: 
+          - Nouakchott
+        names_es: 
+          - Nuakchott
+        population: 661400
+    name: Nouakchott
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de l'Inchiri"
+    cities: 
+      - 
+        alternate_names: 
+          - Akdzawadzat
+          - Akdżawadżat
+          - Akjoujt
+        ascii_name: Akjoujt
+        name: Akjoujt
+        names_en: 
+          - Akjoujt
+        names_es: ~
+        population: 0
+    name: Inchiri
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya du Hodh el Gharbi"
+    cities: 
+      - 
+        alternate_names: 
+          - "'Ayoun el 'Atrous"
+          - "Aioun el Atrouss"
+          - "Ayoun El Atrous"
+        ascii_name: "'Ayoun el 'Atrous"
+        name: "’Ayoûn el ’Atroûs"
+        names_en: 
+          - "Ayoun El Atrous"
+        names_es: ~
+        population: 0
+    name: "Wilaya du Hodh el Gharbi"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya du Hodh ech Chargui"
+    cities: 
+      - 
+        alternate_names: 
+          - "En Na`ma"
+          - "En Na‘ma"
+          - Nema
+        ascii_name: Nema
+        name: Néma
+        names_en: 
+          - Néma
+        names_es: ~
+        population: 0
+    name: "Hodh ech Chargui"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya du Guidimaka"
+    cities: 
+      - 
+        alternate_names: 
+          - Selibabi
+          - Selibaby
+          - Sélibabi
+        ascii_name: Selibabi
+        name: Sélibabi
+        names_en: 
+          - Sélibaby
+        names_es: ~
+        population: 0
+    name: Guidimaka
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya du Gorgol"
+    cities: 
+      - 
+        alternate_names: 
+          - Kaedi
+          - Kaédi
+          - קאדי
+        ascii_name: Kaedi
+        name: Kaédi
+        names_en: 
+          - Kaédi
+        names_es: 
+          - Kaédi
+        population: 0
+    name: Gorgol
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de Dakhlet Nouadhibou"
+    cities: 
+      - 
+        alternate_names: 
+          - Nawazibu
+          - Nouadhibou
+          - Nouâdhibou
+        ascii_name: Nouadhibou
+        name: Nouâdhibou
+        names_en: 
+          - Nouadhibou
+        names_es: 
+          - Nuadibú
+        population: 72337
+    name: "Dakhlet Nouadhibou"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya du Brakna"
+    cities: 
+      - 
+        alternate_names: 
+          - Aleg
+        ascii_name: Aleg
+        name: Aleg
+        names_en: 
+          - Aleg
+        names_es: ~
+        population: 0
+    name: Brakna
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de l'Assaba"
+    cities: 
+      - 
+        alternate_names: 
+          - Kifa
+          - Kiffa
+          - Kîfa
+        ascii_name: Kiffa
+        name: Kiffa
+        names_en: 
+          - Kiffa
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Barkeol
+          - Barkewol
+          - Barkéol
+        ascii_name: Barkewol
+        name: Barkéwol
+        names_en: ~
+        names_es: ~
+        population: 1100
+    name: Assaba
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Wilaya de l'Adrar"
+    cities: 
+      - 
+        alternate_names: 
+          - Chingetti
+          - Chinguetti
+          - Chingueṭṭi
+        ascii_name: Chinguetti
         name: Chingueṭṭi
+        names_en: ~
+        names_es: ~
         population: 4711
-        slug: chinguetti
       - 
-        districts: []
-        location: "POINT (20.5168600000000012 -13.0498600000000007)"
+        alternate_names: 
+          - Atar
+          - Atâr
+        ascii_name: Atar
         name: Atar
+        names_en: ~
+        names_es: ~
         population: 0
-        slug: atar
-    code: MR.07
     name: Adrar
-    slug: adrar
-tld: mr
+    names_en: ~
+    names_es: ~

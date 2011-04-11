@@ -1,820 +1,1341 @@
 --- 
-code: UZ
-continent: AS
 name: Uzbekistan
-population: 27865738
+names_en: 
+  - Uzbekistan
+  - "Republic of Uzbekistan"
+names_es: 
+  - Uzbekistán
 regions: 
   - 
+    ascii_name: Karakalpakstan
     cities: 
       - 
-        districts: []
-        location: "POINT (39.5333299999999994 63.8333299999999966)"
-        name: Karakul’
-        population: 22487
-        slug: karakul
-      - 
-        districts: []
-        location: "POINT (40.9833300000000023 68.9000000000000057)"
-        name: Zafar
-        population: 24781
-        slug: zafar
-      - 
-        districts: []
-        location: "POINT (41.5666700000000020 70.0166700000000048)"
-        name: Kyzyldzhar
-        population: 3000
-        slug: kyzyldzhar
-      - 
-        districts: []
-        location: "POINT (41.5499999999999972 61.0166699999999977)"
-        name: "Novyy Turtkul’"
-        population: 48908
-        slug: novyy-turtkul
-    code: UZ.00
-    name: "Uzbekistan (general)"
-    slug: uzbekistan-general
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (40.4799999999999969 72.3138900000000007)"
-        name: Marhamat
-        population: 14646
-        slug: marhamat
-      - 
-        districts: []
-        location: "POINT (40.6413900000000012 72.2372199999999935)"
-        name: Asaka
-        population: 56736
-        slug: asaka
-      - 
-        districts: []
-        location: "POINT (40.7266699999999986 72.7591699999999975)"
-        name: Qŭrghontepa
-        population: 25861
-        slug: qurghontepa
-      - 
-        districts: []
-        location: "POINT (40.6694400000000016 72.5597199999999987)"
-        name: Khŭjaobod
-        population: 16889
-        slug: khujaobod
-      - 
-        districts: []
-        location: "POINT (40.7830599999999990 72.3438900000000018)"
-        name: Andijon
-        population: 318419
-        slug: andijon
-    code: UZ.01
-    name: Andijon
-    slug: andijon
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.9294399999999996 64.3794400000000024)"
-        name: Romiton
-        population: 12927
-        slug: romiton
-      - 
-        districts: []
-        location: "POINT (39.5005600000000001 64.7936100000000010)"
-        name: Qorovulbozor
-        population: 8618
-        slug: qorovulbozor
-      - 
-        districts: []
-        location: "POINT (39.7227800000000002 64.5516700000000014)"
-        name: Kogon
-        population: 62620
-        slug: kogon
-      - 
-        districts: []
-        location: "POINT (39.8577799999999982 64.4483299999999986)"
-        name: Galaosiyo
-        population: 15620
-        slug: galaosiyo
-      - 
-        districts: []
-        location: "POINT (39.7747200000000021 64.4286100000000062)"
-        name: Buxoro
-        population: 247644
-        slug: buxoro
-      - 
-        districts: []
-        location: "POINT (39.4149999999999991 63.8033300000000025)"
-        name: Olot
-        population: 11984
-        slug: olot
-      - 
-        districts: []
-        location: "POINT (40.0302799999999976 64.5150000000000006)"
-        name: Wobkent
-        population: 16697
-        slug: wobkent
-      - 
-        districts: []
-        location: "POINT (40.1199999999999974 64.5013900000000007)"
-        name: Shofirkon
-        population: 26527
-        slug: shofirkon
-      - 
-        districts: []
-        location: "POINT (40.1000000000000014 64.6833299999999980)"
-        name: Ghijduwon
-        population: 41070
-        slug: ghijduwon
-      - 
-        districts: []
-        location: "POINT (40.1333300000000008 63.4500000000000028)"
-        name: Gazli
-        population: 11446
-        slug: gazli
-    code: UZ.02
-    name: Buxoro
-    slug: buxoro
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.9838900000000024 71.8027799999999985)"
-        name: Shohimardon
-        population: 5100
-        slug: shohimardon
-      - 
-        districts: []
-        location: "POINT (40.3758300000000006 70.8155600000000049)"
-        name: Yaypan
-        population: 20332
-        slug: yaypan
-      - 
-        districts: []
-        location: "POINT (40.4772200000000026 71.7677800000000019)"
-        name: Toshloq
-        population: 26686
-        slug: toshloq
-      - 
-        districts: []
-        location: "POINT (40.5286100000000005 70.9424999999999955)"
-        name: Qo‘qon
-        population: 187477
-        slug: qoqon
-      - 
-        districts: []
-        location: "POINT (40.4711100000000030 71.7247200000000049)"
-        name: Marg‘ilon
-        population: 133490
-        slug: margilon
-      - 
-        districts: []
-        location: "POINT (40.3022199999999984 71.9744400000000013)"
-        name: Quvasoy
-        population: 32024
-        slug: quvasoy
-      - 
-        districts: []
-        location: "POINT (40.4358300000000028 71.7672199999999947)"
-        name: Kirgili
-        population: 20459
-        slug: kirgili
-      - 
-        districts: []
-        location: "POINT (40.4263899999999978 71.4955599999999976)"
-        name: Hamza
-        population: 13470
-        slug: hamza
-      - 
-        districts: []
-        location: "POINT (40.3842100000000030 71.7843199999999939)"
-        name: Farg`ona
-        population: 164322
-        slug: fargona
-      - 
-        districts: []
-        location: "POINT (40.4358300000000028 70.6102800000000030)"
-        name: Beshariq
-        population: 21984
-        slug: beshariq
-      - 
-        districts: []
-        location: "POINT (40.3919399999999982 71.4741700000000009)"
-        name: Oltiariq
-        population: 25543
-        slug: oltiariq
-      - 
-        districts: []
-        location: "POINT (40.5236099999999979 72.0616700000000066)"
-        name: Quva
-        population: 33167
-        slug: quva
-      - 
-        districts: []
-        location: "POINT (40.4272199999999984 71.7188900000000018)"
-        name: Komsomol’skiy
-        population: 14114
-        slug: komsomolskiy
-    code: UZ.03
-    name: "Farg ona"
-    slug: farg-ona
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.5499999999999972 60.6333300000000008)"
-        name: Urganch
-        population: 150110
-        slug: urganch
-      - 
-        districts: []
-        location: "POINT (41.6558300000000017 60.3025000000000020)"
-        name: Showot
-        population: 26950
-        slug: showot
-      - 
-        districts: []
-        location: "POINT (41.5349999999999966 60.3455599999999990)"
-        name: Qŭshkŭpir
-        population: 16948
-        slug: qushkupir
-      - 
-        districts: []
-        location: "POINT (41.3783299999999983 60.3638899999999978)"
-        name: Khiwa
-        population: 55567
-        slug: khiwa
-      - 
-        districts: []
-        location: "POINT (41.3194400000000002 61.0741700000000023)"
-        name: Hazorasp
-        population: 17643
-        slug: hazorasp
-      - 
-        districts: []
-        location: "POINT (41.8447200000000024 60.3919399999999982)"
-        name: Gurlan
-        population: 27506
-        slug: gurlan
-    code: UZ.05
-    name: Xorazm
-    slug: xorazm
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.1872200000000035 71.7333299999999952)"
-        name: Yangiqo‘rg‘on
-        population: 28422
-        slug: yangiqorgon
-      - 
-        districts: []
-        location: "POINT (41.0807300000000026 71.9233100000000007)"
-        name: Uychi
-        population: 29683
-        slug: uychi
-      - 
-        districts: []
-        location: "POINT (41.1181600000000032 72.0985000000000014)"
-        name: Uchqŭrghon
-        population: 33323
-        slug: uchqurghon
-      - 
-        districts: []
-        location: "POINT (40.9998399999999990 71.5116199999999935)"
-        name: Tŭragŭrghon
-        population: 27862
-        slug: turagurghon
-      - 
-        districts: []
-        location: "POINT (40.9243600000000001 71.5663600000000031)"
-        name: Toshbuloq
-        population: 28562
-        slug: toshbuloq
-      - 
-        districts: []
-        location: "POINT (40.8736099999999993 71.1088900000000024)"
-        name: Pop
-        population: 22122
-        slug: pop
-      - 
-        districts: []
-        location: "POINT (40.9983000000000004 71.6725699999999932)"
-        name: Namangan
-        population: 432456
-        slug: namangan
-      - 
-        districts: []
-        location: "POINT (40.9166700000000034 72.1166699999999992)"
-        name: Haqqulobod
-        population: 26257
-        slug: haqqulobod
-      - 
-        districts: []
-        location: "POINT (41.2561099999999996 71.5508300000000048)"
-        name: Kosonsoy
-        population: 43684
-        slug: kosonsoy
-      - 
-        districts: []
-        location: "POINT (41.0012699999999981 71.2257500000000050)"
-        name: "Chust Shahri"
-        population: 64966
-        slug: chust-shahri
-      - 
-        districts: []
-        location: "POINT (41.0665600000000026 71.8552700000000044)"
-        name: Chortoq
-        population: 49844
-        slug: chortoq
-      - 
-        districts: []
-        location: "POINT (40.8764200000000031 71.1021999999999963)"
-        name: "Pop Shahri"
-        population: 0
-        slug: pop-shahri
-      - 
-        districts: []
-        location: "POINT (41.0033400000000015 71.5105599999999981)"
-        name: "Tŭragŭrghon Shahri"
-        population: 0
-        slug: turagurghon-shahri
-      - 
-        districts: []
-        location: "POINT (41.0000000000000000 71.6666699999999963)"
-        name: "Namangan Shahri"
-        population: 0
-        slug: namangan-shahri
-      - 
-        districts: []
-        location: "POINT (41.2632699999999986 71.5423899999999975)"
-        name: "Kosonsoy Shahri"
-        population: 0
-        slug: kosonsoy-shahri
-      - 
-        districts: []
-        location: "POINT (41.1127800000000008 72.0788900000000012)"
-        name: "Uchqŭrghon Shahri"
-        population: 0
-        slug: uchqurghon-shahri
-      - 
-        districts: []
-        location: "POINT (41.0770300000000006 71.8177199999999942)"
-        name: "Chortoq Shahri"
-        population: 0
-        slug: chortoq-shahri
-      - 
-        districts: []
-        location: "POINT (40.9153700000000029 72.1165900000000022)"
-        name: "Haqqulobod Shahri"
-        population: 0
-        slug: haqqulobod-shahri
-    code: UZ.06
-    name: Namangan
-    slug: namangan
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (41.5791699999999977 64.2074999999999960)"
-        name: Zarafshon
-        population: 63543
-        slug: zarafshon
-      - 
-        districts: []
-        location: "POINT (40.0300000000000011 65.9608300000000014)"
-        name: Yangirabod
-        population: 25027
-        slug: yangirabod
-      - 
-        districts: []
-        location: "POINT (40.5613900000000029 65.6886099999999971)"
-        name: Nurota
-        population: 29403
-        slug: nurota
-      - 
-        districts: []
-        location: "POINT (40.0844400000000007 65.3791700000000020)"
-        name: Navoiy
-        population: 129725
-        slug: navoiy
-      - 
-        districts: []
-        location: "POINT (40.0330599999999990 64.8499999999999943)"
-        name: Qiziltepa
-        population: 13558
-        slug: qiziltepa
-    code: UZ.07
-    name: Navoiy
-    slug: navoiy
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (39.0577800000000011 66.8341700000000003)"
-        name: Shahrisabz
-        population: 57051
-        slug: shahrisabz
-      - 
-        districts: []
-        location: "POINT (38.8633299999999977 65.7977800000000030)"
-        name: Qarshi
-        population: 222898
-        slug: qarshi
-      - 
-        districts: []
-        location: "POINT (39.2552799999999991 65.1527800000000070)"
-        name: Muborak
-        population: 29180
-        slug: muborak
-      - 
-        districts: []
-        location: "POINT (39.1180599999999998 66.8755599999999930)"
-        name: Kitob
-        population: 41938
-        slug: kitob
-      - 
-        districts: []
-        location: "POINT (39.0375000000000014 65.5849999999999937)"
-        name: Koson
-        population: 59681
-        slug: koson
-      - 
-        districts: []
-        location: "POINT (38.8241700000000023 66.4608300000000014)"
-        name: Qamashi
-        population: 32700
-        slug: qamashi
-      - 
-        districts: []
-        location: "POINT (38.6208299999999980 66.2480599999999953)"
-        name: G’uzor
-        population: 25368
-        slug: guzor
-      - 
-        districts: []
-        location: "POINT (38.8213900000000010 65.6530599999999964)"
-        name: Beshkent
-        population: 17010
-        slug: beshkent
-      - 
-        districts: []
-        location: "POINT (38.6561099999999982 65.6997199999999992)"
-        name: Yangi-Nishon
-        population: 10558
-        slug: yangi-nishon
-      - 
-        districts: []
-        location: "POINT (39.0336100000000030 66.5722200000000015)"
-        name: Chiroqchi
-        population: 19356
-        slug: chiroqchi
-    code: UZ.08
-    name: Qashqadaryo
-    slug: qashqadaryo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (42.4530600000000007 59.6102800000000030)"
+        alternate_names: 
+          - Nukus
+          - Nukusas
+          - nukuseu
+        ascii_name: Nukus
         name: Nukus
+        names_en: 
+          - Nukus
+        names_es: 
+          - Nukus
         population: 230006
-        slug: nukus
       - 
-        districts: []
-        location: "POINT (43.7683299999999988 59.0213899999999967)"
+        alternate_names: 
+          - Muinak
+          - Mujnak
+          - Muynak
+        ascii_name: Muynoq
         name: Mŭynoq
+        names_en: 
+          - Muynak
+        names_es: ~
         population: 13000
-        slug: muynoq
       - 
-        districts: []
-        location: "POINT (42.4047199999999975 59.4516700000000000)"
+        alternate_names: 
+          - Khodzheili
+          - Khodzhejli
+          - Khodzheyli
+        ascii_name: Khujayli
         name: Khŭjayli
+        names_en: ~
+        names_es: ~
         population: 50000
-        slug: khujayli
       - 
-        districts: []
-        location: "POINT (42.7766700000000029 59.6077799999999982)"
+        alternate_names: 
+          - Kegayli
+          - Kegeyli
+        ascii_name: Kegayli
         name: Kegayli
+        names_en: ~
+        names_es: ~
         population: 14147
-        slug: kegayli
       - 
-        districts: []
-        location: "POINT (42.9358300000000028 59.7752800000000022)"
+        alternate_names: 
+          - Chimbai
+          - Chimbay
+          - Chimboj
+        ascii_name: Chimboy
         name: Chimboy
+        names_en: ~
+        names_es: ~
         population: 36917
-        slug: chimboy
       - 
-        districts: []
-        location: "POINT (43.0744400000000027 58.8933299999999988)"
+        alternate_names: 
+          - Altynkul'
+          - Altynkul’
+          - Oltinkul
+        ascii_name: Oltinkul
         name: Oltinkŭl
+        names_en: ~
+        names_es: ~
         population: 59122
-        slug: oltinkul
       - 
-        districts: []
-        location: "POINT (42.1155600000000021 60.0597199999999987)"
+        alternate_names: 
+          - Manga
+          - Manghit
+          - Mangit
+        ascii_name: Manghit
         name: Manghit
+        names_en: ~
+        names_es: ~
         population: 30854
-        slug: manghit
       - 
-        districts: []
-        location: "POINT (41.6911100000000019 60.7524999999999977)"
+        alternate_names: 
+          - Beruni
+          - Berunij
+          - Beruniy
+        ascii_name: Beruniy
         name: Beruniy
+        names_en: ~
+        names_es: ~
         population: 50929
-        slug: beruniy
-    code: UZ.09
     name: Karakalpakstan
-    slug: karakalpakstan
+    names_en: 
+      - Karakalpakstan
+    names_es: ~
   - 
+    ascii_name: "Surxondaryo Viloyati"
     cities: 
       - 
-        districts: []
-        location: "POINT (39.4022199999999998 67.2430599999999998)"
-        name: Urgut
-        population: 47373
-        slug: urgut
-      - 
-        districts: []
-        location: "POINT (39.6541700000000006 66.9597200000000043)"
-        name: Samarqand
-        population: 319366
-        slug: samarqand
-      - 
-        districts: []
-        location: "POINT (39.8988900000000015 66.2561100000000067)"
-        name: Kattaqo’rg’on
-        population: 59382
-        slug: kattaqorgon
-      - 
-        districts: []
-        location: "POINT (39.9663899999999970 66.4861099999999965)"
-        name: Ishtixon
-        population: 13024
-        slug: ishtixon
-      - 
-        districts: []
-        location: "POINT (39.7161100000000005 66.6641699999999986)"
-        name: Juma
-        population: 19920
-        slug: juma
-      - 
-        districts: []
-        location: "POINT (39.6988899999999987 67.0933299999999946)"
-        name: Jomboy
-        population: 14429
-        slug: jomboy
-      - 
-        districts: []
-        location: "POINT (39.7638900000000035 66.9124999999999943)"
-        name: Daxbet
-        population: 8044
-        slug: daxbet
-      - 
-        districts: []
-        location: "POINT (39.9202799999999982 66.8611099999999965)"
-        name: Chelak
-        population: 16727
-        slug: chelak
-      - 
-        districts: []
-        location: "POINT (39.6966699999999975 66.7686099999999954)"
-        name: Charxin
-        population: 13791
-        slug: charxin
-      - 
-        districts: []
-        location: "POINT (39.7647199999999970 67.2713899999999967)"
-        name: Bulung’ur
-        population: 26815
-        slug: bulungur
-      - 
-        districts: []
-        location: "POINT (39.9213900000000024 65.9252800000000008)"
-        name: Oqtosh
-        population: 38307
-        slug: oqtosh
-      - 
-        districts: []
-        location: "POINT (40.0077799999999968 66.2369400000000041)"
-        name: Payshanba
-        population: 24772
-        slug: payshanba
-    code: UZ.10
-    name: Samarqand
-    slug: samarqand
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (37.2241700000000009 67.2783299999999969)"
-        name: Termiz
+        alternate_names: 
+          - Termez
+          - Termiz
+          - Tirmiz
+        ascii_name: Tirmiz
+        name: Tirmiz
+        names_en: 
+          - Termez
+        names_es: 
+          - Termez
         population: 140385
-        slug: termiz
       - 
-        districts: []
-        location: "POINT (37.9994399999999999 67.7874999999999943)"
+        alternate_names: 
+          - Chourtchi
+          - Dzhalair
+          - Kul'-Tepe
+        ascii_name: Sho'rchi
         name: Sho’rchi
+        names_en: ~
+        names_es: ~
         population: 24900
-        slug: shorchi
       - 
-        districts: []
-        location: "POINT (38.2666699999999977 67.9000000000000057)"
+        alternate_names: 
+          - Dehnan
+          - Denan
+          - Denau
+        ascii_name: Denov
         name: Denov
+        names_en: ~
+        names_es: ~
         population: 68994
-        slug: denov
       - 
-        districts: []
-        location: "POINT (38.2061100000000025 67.1986100000000022)"
+        alternate_names: 
+          - Baisuk
+          - Baisun
+          - Baysun
+        ascii_name: Boysun
         name: Boysun
+        names_en: ~
+        names_es: ~
         population: 25050
-        slug: boysun
-    code: UZ.12
     name: Surxondaryo
-    slug: surxondaryo
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Samarqand Viloyati"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.2646500000000032 69.2162699999999944)"
-        name: Tashkent
-        population: 1978028
-        slug: tashkent
+        alternate_names: 
+          - Urgut
+          - Ургут
+        ascii_name: Urgut
+        name: Urgut
+        names_en: ~
+        names_es: ~
+        population: 47373
       - 
-        districts: []
-        location: "POINT (41.2097199999999972 69.3341700000000003)"
-        name: Bektemir
-        population: 26380
-        slug: bektemir
-    code: UZ.13
-    name: "Toshkent Shahri"
-    slug: toshkent-shahri
+        alternate_names: 
+          - Samarcanda
+          - Samarcande
+          - Samarkand
+        ascii_name: Samarqand
+        name: Samarqand
+        names_en: 
+          - Samarkand
+        names_es: 
+          - Samarkanda
+          - Samarcanda
+        population: 319366
+      - 
+        alternate_names: 
+          - Kattakurgan
+          - Kattaqo'rg'on
+          - Kattaqo’rg’on
+        ascii_name: Kattaqo'rg'on
+        name: Kattaqo’rg’on
+        names_en: ~
+        names_es: ~
+        population: 59382
+      - 
+        alternate_names: 
+          - Ishtihon
+          - Ishtikhon
+          - Ishtixon
+        ascii_name: Ishtixon
+        name: Ishtixon
+        names_en: ~
+        names_es: ~
+        population: 13024
+      - 
+        alternate_names: 
+          - Dzhuma
+          - Juma
+        ascii_name: Juma
+        name: Juma
+        names_en: ~
+        names_es: ~
+        population: 19920
+      - 
+        alternate_names: 
+          - Dzhambay
+          - Jomboy
+          - Khashdala
+        ascii_name: Jomboy
+        name: Jomboy
+        names_en: ~
+        names_es: ~
+        population: 14429
+      - 
+        alternate_names: 
+          - Dagbid
+          - Dagbit
+          - Dakhbed
+        ascii_name: Daxbet
+        name: Daxbet
+        names_en: ~
+        names_es: ~
+        population: 8044
+      - 
+        alternate_names: 
+          - Chelak
+          - Chelek
+          - Payaryk
+        ascii_name: Chelak
+        name: Chelak
+        names_en: ~
+        names_es: ~
+        population: 16727
+      - 
+        alternate_names: 
+          - Charkhin
+          - Charxin
+        ascii_name: Charxin
+        name: Charxin
+        names_en: ~
+        names_es: ~
+        population: 13791
+      - 
+        alternate_names: 
+          - Bulung'ur
+          - Bulunghur
+          - Bulung’ur
+        ascii_name: Bulung'ur
+        name: Bulung’ur
+        names_en: ~
+        names_es: ~
+        population: 26815
+      - 
+        alternate_names: 
+          - Aktash
+          - Oqtosh
+        ascii_name: Oqtosh
+        name: Oqtosh
+        names_en: ~
+        names_es: ~
+        population: 38307
+      - 
+        alternate_names: 
+          - Pajshanba
+          - Payshanba
+          - Payshmba
+        ascii_name: Payshanba
+        name: Payshanba
+        names_en: ~
+        names_es: ~
+        population: 24772
+    name: Samarqand
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Qashqadaryo Viloyati"
     cities: 
       - 
-        districts: []
-        location: "POINT (41.1120200000000011 69.0471000000000004)"
+        alternate_names: 
+          - "Nishon Tumani"
+          - Yangi-Nishan
+          - Yangi-Nishon
+        ascii_name: "Nishon Tumani"
+        name: "Nishon Tumani"
+        names_en: ~
+        names_es: ~
+        population: 10558
+      - 
+        alternate_names: 
+          - "Mug'lon Shahar"
+          - Mughlon
+          - Muglon
+        ascii_name: "Mug'lon Shahar"
+        name: "Mug’lon Shahar"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Schachrissjabs
+          - Shahri-i-Sabz
+          - Shahrisabz
+        ascii_name: Shahrisabz
+        name: Shahrisabz
+        names_en: ~
+        names_es: ~
+        population: 57051
+      - 
+        alternate_names: 
+          - "Bek Budi"
+          - Karaki
+          - Karshi
+        ascii_name: Qarshi
+        name: Qarshi
+        names_en: 
+          - Qarshi
+        names_es: ~
+        population: 222898
+      - 
+        alternate_names: 
+          - Maburek
+          - Mubarek
+          - Muborak
+        ascii_name: Muborak
+        name: Muborak
+        names_en: ~
+        names_es: ~
+        population: 29180
+      - 
+        alternate_names: 
+          - Mirichkar
+          - Mirishkor
+          - "Yangi Mirishkor"
+        ascii_name: "Yangi Mirishkor"
+        name: "Yangi Mirishkor"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Kitab
+          - Kitob
+          - Китоб
+        ascii_name: Kitob
+        name: Kitob
+        names_en: ~
+        names_es: ~
+        population: 41938
+      - 
+        alternate_names: 
+          - Kasan
+          - Kassan
+          - Koson
+        ascii_name: Koson
+        name: Koson
+        names_en: ~
+        names_es: ~
+        population: 59681
+      - 
+        alternate_names: 
+          - Kamashi
+          - Kamyshi
+        ascii_name: Qamashi
+        name: Qamashi
+        names_en: ~
+        names_es: ~
+        population: 32700
+      - 
+        alternate_names: 
+          - G'uzor
+          - Ghuzor
+          - Gusar
+        ascii_name: G'uzor
+        name: G’uzor
+        names_en: ~
+        names_es: ~
+        population: 25368
+      - 
+        alternate_names: 
+          - Chirakchi
+          - Chirakchya
+          - Chiroqchi
+        ascii_name: Chiroqchi
+        name: Chiroqchi
+        names_en: ~
+        names_es: ~
+        population: 19356
+      - 
+        alternate_names: 
+          - Beshkent
+          - Bish-Kent
+          - Бешкент
+        ascii_name: Beshkent
+        name: Beshkent
+        names_en: ~
+        names_es: ~
+        population: 17010
+      - 
+        alternate_names: 
+          - "Gorod Kasan"
+          - "Koson Shahri"
+        ascii_name: "Koson Shahri"
+        name: "Koson Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gorod Mubarek"
+          - "Muborak Shahri"
+        ascii_name: "Muborak Shahri"
+        name: "Muborak Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Beshkent Shahri"
+          - "Gorod Beshkent"
+        ascii_name: "Beshkent Shahri"
+        name: "Beshkent Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gorod Yangi-Nishan"
+          - "Yangi-Nishon Shahri"
+        ascii_name: "Yangi-Nishon Shahri"
+        name: "Yangi-Nishon Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Qashqadaryo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Buxoro Viloyati"
+    cities: 
+      - 
+        alternate_names: 
+          - Kal'ty-Mauri
+          - Kal’ty-Mauri
+          - Ramitan
+        ascii_name: Romiton
+        name: Romiton
+        names_en: ~
+        names_es: ~
+        population: 12927
+      - 
+        alternate_names: 
+          - Karaulbazar
+          - Qorovulbozor
+          - Qorowulbozor
+        ascii_name: Qorovulbozor
+        name: Qorovulbozor
+        names_en: ~
+        names_es: ~
+        population: 8618
+      - 
+        alternate_names: 
+          - Kagan
+          - Kogon
+          - "Novaya Bukhara"
+        ascii_name: Kogon
+        name: Kogon
+        names_en: ~
+        names_es: ~
+        population: 62620
+      - 
+        alternate_names: 
+          - Galaasiya
+          - Galaassiya
+          - Galaosiyo
+        ascii_name: Galaosiyo
+        name: Galaosiyo
+        names_en: ~
+        names_es: ~
+        population: 15620
+      - 
+        alternate_names: 
+          - Alt-Buchara
+          - Bokhara
+          - Boukhara
+        ascii_name: Buxoro
+        name: Buxoro
+        names_en: 
+          - Bukhara
+        names_es: 
+          - Bujara
+        population: 247644
+      - 
+        alternate_names: 
+          - Alat
+          - Alata
+          - Olot
+        ascii_name: Olot
+        name: Olot
+        names_en: ~
+        names_es: ~
+        population: 11984
+      - 
+        alternate_names: 
+          - "Gorod Karaulbazar"
+          - "Qorovulbozor Shahri"
+          - "Qorowulbozor Shahri"
+        ascii_name: "Qorovulbozor Shahri"
+        name: "Qorovulbozor Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - Vabkend
+          - Vabkent
+          - Wobkent
+        ascii_name: Wobkent
+        name: Wobkent
+        names_en: ~
+        names_es: ~
+        population: 16697
+      - 
+        alternate_names: 
+          - Baumana
+          - Khodzha-arif
+          - Shafirkan
+        ascii_name: Shofirkon
+        name: Shofirkon
+        names_en: ~
+        names_es: ~
+        population: 26527
+      - 
+        alternate_names: 
+          - Akmal'-Abad
+          - Akmal’-Abad
+          - Ghijduwon
+        ascii_name: Ghijduwon
+        name: Ghijduwon
+        names_en: ~
+        names_es: ~
+        population: 41070
+      - 
+        alternate_names: ~
+        ascii_name: Gazli
+        name: Gazli
+        names_en: ~
+        names_es: ~
+        population: 11446
+    name: Buxoro
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Toshkent Viloyati"
+    cities: 
+      - 
+        alternate_names: 
+          - Jangijul'
+          - Kaunchi
+          - Янгиюль
+        ascii_name: Yangiyul
         name: Yangiyŭl
+        names_en: ~
+        names_es: ~
         population: 60000
-        slug: yangiyul
       - 
-        districts: []
-        location: "POINT (41.1191900000000032 70.0940599999999989)"
+        alternate_names: 
+          - Jangiabad
+          - Yangiabad
+          - Янгиабад
+        ascii_name: Yangiobod
         name: Yangiobod
+        names_en: ~
+        names_es: ~
         population: 24900
-        slug: yangiobod
       - 
-        districts: []
-        location: "POINT (41.1866699999999994 69.1452799999999996)"
+        alternate_names: 
+          - Urtaaul
+          - Urtaowul
+          - Ŭrtaowul
+        ascii_name: Urtaowul
         name: Ŭrtaowul
+        names_en: ~
+        names_es: ~
         population: 14047
-        slug: urtaowul
       - 
-        districts: []
-        location: "POINT (41.0320999999999998 69.3625300000000067)"
+        alternate_names: 
+          - Toi-Tjube
+          - Toi-Tyube
+          - Tojtepa
+        ascii_name: Tuytepa
         name: Tŭytepa
+        names_en: ~
+        names_es: ~
         population: 20682
-        slug: tuytepa
       - 
-        districts: []
-        location: "POINT (41.3722199999999987 69.3816699999999997)"
+        alternate_names: 
+          - Chirchik
+          - Salar
+          - Salor
+        ascii_name: Salor
         name: Salor
+        names_en: ~
+        names_es: ~
         population: 26494
-        slug: salor
       - 
-        districts: []
-        location: "POINT (40.8972199999999972 69.3505600000000015)"
+        alternate_names: 
+          - Piskent
+          - Pskent
+        ascii_name: Piskent
         name: Piskent
+        names_en: ~
+        names_es: ~
         population: 27865
-        slug: piskent
       - 
-        districts: []
-        location: "POINT (41.2944400000000016 69.6763899999999978)"
+        alternate_names: ~
+        ascii_name: Parkent
         name: Parkent
+        names_en: ~
+        names_es: ~
         population: 35973
-        slug: parkent
       - 
-        districts: []
-        location: "POINT (40.8447200000000024 69.5983300000000042)"
+        alternate_names: 
+          - Almalyk
+          - Ałmałyk
+          - Olmaliq
+        ascii_name: Olmaliq
         name: Olmaliq
+        names_en: 
+          - Olmaliq
+        names_es: ~
         population: 121207
-        slug: olmaliq
       - 
-        districts: []
-        location: "POINT (40.9063900000000018 69.6383299999999963)"
+        alternate_names: 
+          - Akhangaran
+          - Akhangaron
+          - Kurama
+        ascii_name: Ohangaron
         name: Ohangaron
+        names_en: ~
+        names_es: ~
         population: 35516
-        slug: ohangaron
       - 
-        districts: []
-        location: "POINT (41.3897199999999970 69.4650000000000034)"
+        alternate_names: 
+          - Kibrai
+          - Kibray
+          - Qibray
+        ascii_name: Qibray
         name: Qibray
+        names_en: ~
+        names_es: ~
         population: 27750
-        slug: qibray
       - 
-        districts: []
-        location: "POINT (41.5538900000000027 69.7008299999999963)"
+        alternate_names: 
+          - Iskandar
+          - Iskander
+          - Искандар
+        ascii_name: Iskandar
         name: Iskandar
+        names_en: ~
+        names_es: ~
         population: 27636
-        slug: iskandar
       - 
-        districts: []
-        location: "POINT (41.5580599999999976 69.7708300000000037)"
+        alternate_names: 
+          - G`azalkent
+          - Gazalkent
+          - Ghazalkent
+        ascii_name: G'azalkent
         name: G‘azalkent
+        names_en: ~
+        names_es: ~
         population: 24700
-        slug: gazalkent
       - 
-        districts: []
-        location: "POINT (41.4688900000000018 69.5822200000000066)"
+        alternate_names: 
+          - Chirchik
+          - Chirchiq
+          - Tschirtschik
+        ascii_name: Chirchiq
         name: Chirchiq
+        names_en: 
+          - Chirchiq
+        names_es: ~
         population: 167842
-        slug: chirchiq
       - 
-        districts: []
-        location: "POINT (40.9363900000000029 68.7697200000000066)"
+        alternate_names: 
+          - Chinaz
+          - Chinoz
+          - Cinaz
+        ascii_name: Chinoz
         name: Chinoz
+        names_en: ~
+        names_es: ~
         population: 24553
-        slug: chinoz
       - 
-        districts: []
-        location: "POINT (40.8108300000000028 69.1986100000000022)"
+        alternate_names: ~
+        ascii_name: Buka
         name: Bŭka
+        names_en: ~
+        names_es: ~
         population: 19642
-        slug: buka
       - 
-        districts: []
-        location: "POINT (41.0166699999999977 70.1436099999999954)"
-        name: Angren
-        population: 126957
-        slug: angren
-      - 
-        districts: []
-        location: "POINT (40.2208299999999994 69.2697200000000066)"
+        alternate_names: 
+          - Bagevat
+          - Begovat
+          - Begowat
+        ascii_name: Bekobod
         name: Bekobod
+        names_en: ~
+        names_es: ~
         population: 86259
-        slug: bekobod
-    code: UZ.14
+      - 
+        alternate_names: 
+          - Angren
+          - Angrenshakhtstroy
+          - Turk
+        ascii_name: Angren
+        name: Angren
+        names_en: ~
+        names_es: ~
+        population: 126957
     name: Toshkent
-    slug: toshkent
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Toshkent Shahri"
     cities: 
       - 
-        districts: []
-        location: "POINT (39.9605600000000010 68.3958300000000037)"
-        name: Zomin
-        population: 27077
-        slug: zomin
+        alternate_names: 
+          - Ta.kent
+          - Tachkent
+          - Taschkent
+        ascii_name: Tashkent
+        name: Tashkent
+        names_en: 
+          - Tashkent
+        names_es: 
+          - Tashkent
+        population: 1978028
       - 
-        districts: []
-        location: "POINT (40.3152800000000013 67.9544400000000053)"
-        name: Paxtakor
-        population: 21384
-        slug: paxtakor
-      - 
-        districts: []
-        location: "POINT (40.1158300000000025 67.8422199999999975)"
-        name: Jizzax
-        population: 152642
-        slug: jizzax
-      - 
-        districts: []
-        location: "POINT (40.6619400000000013 68.1722199999999958)"
-        name: Gagarin
-        population: 24856
-        slug: gagarin
-      - 
-        districts: []
-        location: "POINT (40.5247200000000021 68.0358300000000042)"
-        name: Dŭstlik
-        population: 16524
-        slug: dustlik
-      - 
-        districts: []
-        location: "POINT (40.1269399999999976 68.4944399999999973)"
-        name: Dashtobod
-        population: 19718
-        slug: dashtobod
-    code: UZ.15
-    name: Jizzax
-    slug: jizzax
+        alternate_names: 
+          - Bektemir
+          - "Kolkhoz Imeni Akhunbabayeva"
+          - Бектемир
+        ascii_name: Bektemir
+        name: Bektemir
+        names_en: ~
+        names_es: ~
+        population: 26380
+    name: "Toshkent Shahri"
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Sirdaryo Viloyati"
     cities: 
       - 
-        districts: []
-        location: "POINT (40.2749999999999986 68.8225000000000051)"
+        alternate_names: 
+          - Jangier
+          - Ungi-Yere
+          - Yangier
+        ascii_name: Yangiyer
         name: Yangiyer
+        names_en: ~
+        names_es: ~
         population: 32636
-        slug: yangiyer
       - 
-        districts: []
-        location: "POINT (40.8436099999999982 68.6616700000000009)"
+        alternate_names: 
+          - Sidare
+          - Sirdaryo
+          - Ssyr-Darja
+        ascii_name: Sirdaryo
         name: Sirdaryo
+        names_en: ~
+        names_es: ~
         population: 26816
-        slug: sirdaryo
       - 
-        districts: []
-        location: "POINT (40.4897199999999984 68.7841700000000031)"
+        alternate_names: 
+          - "Golodnaya Step'"
+          - "Golodnaya Step’"
+          - Gulistan
+        ascii_name: Guliston
         name: Guliston
+        names_en: ~
+        names_es: ~
         population: 53373
-        slug: guliston
-    code: UZ.16
     name: Sirdaryo
-    slug: sirdaryo
-tld: uz
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Navoiy Viloyati"
+    cities: 
+      - 
+        alternate_names: 
+          - Sugrali
+          - Sugraly
+          - Zarafshan
+        ascii_name: Zarafshon
+        name: Zarafshon
+        names_en: ~
+        names_es: ~
+        population: 63543
+      - 
+        alternate_names: 
+          - Yangirabad
+          - Yangirabod
+        ascii_name: Yangirabod
+        name: Yangirabod
+        names_en: ~
+        names_es: ~
+        population: 25027
+      - 
+        alternate_names: 
+          - Nurata
+          - Nurota
+          - Нурота
+        ascii_name: Nurota
+        name: Nurota
+        names_en: ~
+        names_es: ~
+        population: 29403
+      - 
+        alternate_names: 
+          - Kermene
+          - Kermine
+          - Nava
+        ascii_name: Navoiy
+        name: Navoiy
+        names_en: 
+          - Navoiy
+        names_es: ~
+        population: 129725
+      - 
+        alternate_names: 
+          - Kizil-Tepe
+          - "Kyzyl Tepe"
+          - Kyzyltepa
+        ascii_name: Qiziltepa
+        name: Qiziltepa
+        names_en: ~
+        names_es: ~
+        population: 13558
+    name: Navoiy
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Namangan Viloyati"
+    cities: 
+      - 
+        alternate_names: 
+          - Yangikurgan
+          - Yangiqo`rg`on
+          - Yangiqo‘rg‘on
+        ascii_name: Yangiqo`rg`on
+        name: Yangiqo‘rg‘on
+        names_en: ~
+        names_es: ~
+        population: 28422
+      - 
+        alternate_names: 
+          - Uichi
+          - Ujchi
+          - Uychi
+        ascii_name: Uychi
+        name: Uychi
+        names_en: ~
+        names_es: ~
+        population: 29683
+      - 
+        alternate_names: 
+          - Uchkurgan
+          - Uchqurghon
+          - Uchqŭrghon
+        ascii_name: Uchqurghon
+        name: Uchqŭrghon
+        names_en: ~
+        names_es: ~
+        population: 33323
+      - 
+        alternate_names: 
+          - Turagurghon
+          - Turakurgan
+          - Tyurya-Kurgan
+        ascii_name: Turagurghon
+        name: Tŭragŭrghon
+        names_en: ~
+        names_es: ~
+        population: 27862
+      - 
+        alternate_names: 
+          - Tashbulak
+          - Toshbuloq
+        ascii_name: Toshbuloq
+        name: Toshbuloq
+        names_en: ~
+        names_es: ~
+        population: 28562
+      - 
+        alternate_names: 
+          - Pap
+          - Pop
+          - Поп
+        ascii_name: Pop
+        name: Pop
+        names_en: ~
+        names_es: ~
+        population: 22122
+      - 
+        alternate_names: 
+          - Namangan
+          - Наманган
+        ascii_name: Namangan
+        name: Namangan
+        names_en: ~
+        names_es: ~
+        population: 432456
+      - 
+        alternate_names: 
+          - Haqqulobod
+          - Khakkulabad
+          - Khakulabad
+        ascii_name: Haqqulobod
+        name: Haqqulobod
+        names_en: ~
+        names_es: ~
+        population: 26257
+      - 
+        alternate_names: 
+          - Kasansay
+          - Kassan-Sai
+          - Kassansay
+        ascii_name: Kosonsoy
+        name: Kosonsoy
+        names_en: ~
+        names_es: ~
+        population: 43684
+      - 
+        alternate_names: 
+          - Chust
+          - "Chust Shahri"
+          - Tschust
+        ascii_name: "Chust Shahri"
+        name: "Chust Shahri"
+        names_en: ~
+        names_es: ~
+        population: 64966
+      - 
+        alternate_names: 
+          - Chartak
+          - Chertak
+          - Chortoq
+        ascii_name: Chortoq
+        name: Chortoq
+        names_en: ~
+        names_es: ~
+        population: 49844
+      - 
+        alternate_names: 
+          - "Gorod Namangan"
+          - "Namangan Shahri"
+        ascii_name: "Namangan Shahri"
+        name: "Namangan Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gorod Kasansay"
+          - "Kosonsoy Shahri"
+        ascii_name: "Kosonsoy Shahri"
+        name: "Kosonsoy Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gorod Uchkurgan"
+          - "Uchqurghon Shahri"
+          - "Uchqŭrghon Shahri"
+        ascii_name: "Uchqurghon Shahri"
+        name: "Uchqŭrghon Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Chortoq Shahri"
+          - "Gorod Chartak"
+        ascii_name: "Chortoq Shahri"
+        name: "Chortoq Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gorod Khakkulabad"
+          - "Haqqulobod Shahri"
+        ascii_name: "Haqqulobod Shahri"
+        name: "Haqqulobod Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gorod Pap"
+          - "Pop Shahri"
+        ascii_name: "Pop Shahri"
+        name: "Pop Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+      - 
+        alternate_names: 
+          - "Gorod Turakurgan"
+          - "Turagurghon Shahri"
+          - "Tŭragŭrghon Shahri"
+        ascii_name: "Turagurghon Shahri"
+        name: "Tŭragŭrghon Shahri"
+        names_en: ~
+        names_es: ~
+        population: 0
+    name: Namangan
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Xorazm Viloyati"
+    cities: 
+      - 
+        alternate_names: 
+          - Novo-Urgench
+          - Ourguentch
+          - Urganch
+        ascii_name: Urganch
+        name: Urganch
+        names_en: 
+          - Urgench
+        names_es: 
+          - Urgench
+        population: 150110
+      - 
+        alternate_names: 
+          - Shakh-abad
+          - Shavat
+          - Shovot
+        ascii_name: Showot
+        name: Showot
+        names_en: ~
+        names_es: ~
+        population: 26950
+      - 
+        alternate_names: 
+          - "Kosh Kunir"
+          - Koshkupyr
+          - Qushkupir
+        ascii_name: Qushkupir
+        name: Qŭshkŭpir
+        names_en: ~
+        names_es: ~
+        population: 16948
+      - 
+        alternate_names: 
+          - Chiva
+          - Chiwa
+          - Hiva
+        ascii_name: Khiwa
+        name: Khiwa
+        names_en: 
+          - Khiva
+        names_es: 
+          - Jiva
+        population: 55567
+      - 
+        alternate_names: 
+          - Hazorasp
+          - Khazarasp
+        ascii_name: Hazorasp
+        name: Hazorasp
+        names_en: ~
+        names_es: ~
+        population: 17643
+      - 
+        alternate_names: 
+          - Gurlan
+          - Gurlek
+          - Gurlen
+        ascii_name: Gurlan
+        name: Gurlan
+        names_en: ~
+        names_es: ~
+        population: 27506
+    name: Xorazm
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Jizzax Viloyati"
+    cities: 
+      - 
+        alternate_names: 
+          - Saamin
+          - Zaamin
+          - Zomin
+        ascii_name: Zomin
+        name: Zomin
+        names_en: ~
+        names_es: ~
+        population: 27077
+      - 
+        alternate_names: 
+          - Dashtobod
+          - Ul'yanovo
+          - Ul’yanovo
+        ascii_name: Dashtobod
+        name: Dashtobod
+        names_en: ~
+        names_es: ~
+        population: 19718
+      - 
+        alternate_names: 
+          - Pakhtakor
+          - Paxtakor
+        ascii_name: Paxtakor
+        name: Paxtakor
+        names_en: ~
+        names_es: ~
+        population: 21384
+      - 
+        alternate_names: 
+          - Dishsak
+          - Djizak
+          - Dzhizak
+        ascii_name: Jizzax
+        name: Jizzax
+        names_en: 
+          - Jizzakh
+        names_es: ~
+        population: 152642
+      - 
+        alternate_names: 
+          - Erjar
+          - Gagarin
+          - Yerzhar
+        ascii_name: Gagarin
+        name: Gagarin
+        names_en: ~
+        names_es: ~
+        population: 24856
+      - 
+        alternate_names: ~
+        ascii_name: Dustlik
+        name: Dŭstlik
+        names_en: ~
+        names_es: ~
+        population: 16524
+    name: Jizzax
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Farg`ona Viloyati"
+    cities: 
+      - 
+        alternate_names: 
+          - Shakhimardan
+          - Shakimardan
+          - Shohimardon
+        ascii_name: Shohimardon
+        name: Shohimardon
+        names_en: ~
+        names_es: ~
+        population: 5100
+      - 
+        alternate_names: 
+          - Bazar-Yaypan
+          - Jajpan
+          - Yaipan
+        ascii_name: Yaypan
+        name: Yaypan
+        names_en: ~
+        names_es: ~
+        population: 20332
+      - 
+        alternate_names: 
+          - Tashlak
+          - Toshloq
+        ascii_name: Toshloq
+        name: Toshloq
+        names_en: ~
+        names_es: ~
+        population: 26686
+      - 
+        alternate_names: 
+          - Kokand
+          - Kokandas
+          - Qo'qon
+        ascii_name: Qo`qon
+        name: Qo‘qon
+        names_en: 
+          - Kokand
+        names_es: ~
+        population: 187477
+      - 
+        alternate_names: 
+          - Marg`ilon
+          - Margelan
+          - Marghilon
+        ascii_name: Marg`ilon
+        name: Marg‘ilon
+        names_en: 
+          - Margilan
+        names_es: ~
+        population: 133490
+      - 
+        alternate_names: 
+          - Kubasay
+          - Kuvasa
+          - Kuvasay
+        ascii_name: Quvasoy
+        name: Quvasoy
+        names_en: ~
+        names_es: ~
+        population: 32024
+      - 
+        alternate_names: 
+          - Gorchakovo
+          - Komsomol'skiy
+          - Komsomol’skiy
+        ascii_name: Komsomol'skiy
+        name: Komsomol’skiy
+        names_en: ~
+        names_es: ~
+        population: 14114
+      - 
+        alternate_names: ~
+        ascii_name: Kirgili
+        name: Kirgili
+        names_en: ~
+        names_es: ~
+        population: 20459
+      - 
+        alternate_names: 
+          - Hamza
+          - "Imeni Khamzy Khakimzade"
+          - Khamza
+        ascii_name: Hamza
+        name: Hamza
+        names_en: ~
+        names_es: ~
+        population: 13470
+      - 
+        alternate_names: 
+          - Farghona
+          - Fergana
+          - "Novyy Margelan"
+        ascii_name: Farg`ona
+        name: Farg`ona
+        names_en: 
+          - Fergana
+        names_es: ~
+        population: 164322
+      - 
+        alternate_names: 
+          - Beshariq
+          - Besharyk
+          - Besharykskogo
+        ascii_name: Beshariq
+        name: Beshariq
+        names_en: ~
+        names_es: ~
+        population: 21984
+      - 
+        alternate_names: 
+          - Altyaryk
+          - Oltiariq
+        ascii_name: Oltiariq
+        name: Oltiariq
+        names_en: ~
+        names_es: ~
+        population: 25543
+      - 
+        alternate_names: 
+          - Kuva
+          - Quva
+          - Quwa
+        ascii_name: Quva
+        name: Quva
+        names_en: ~
+        names_es: ~
+        population: 33167
+    name: "Farg ona"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Andijon Viloyati"
+    cities: 
+      - 
+        alternate_names: 
+          - Marhamat
+          - Markhamat
+          - "Markhamat Pervyy"
+        ascii_name: Marhamat
+        name: Marhamat
+        names_en: ~
+        names_es: ~
+        population: 14646
+      - 
+        alternate_names: 
+          - Asaka
+          - Assake
+          - Leninsk
+        ascii_name: Asaka
+        name: Asaka
+        names_en: ~
+        names_es: ~
+        population: 56736
+      - 
+        alternate_names: 
+          - "Kurgan Tyube"
+          - Kurgan-Tepe
+          - Kurgantepa
+        ascii_name: Qurghontepa
+        name: Qŭrghontepa
+        names_en: ~
+        names_es: ~
+        population: 25861
+      - 
+        alternate_names: 
+          - Khodzhaabad
+          - Khodzhavat
+          - Khodzhiabad
+        ascii_name: Khujaobod
+        name: Khŭjaobod
+        names_en: ~
+        names_es: ~
+        population: 16889
+      - 
+        alternate_names: 
+          - Andican
+          - Andidzhan
+          - Andijan
+        ascii_name: Andijon
+        name: Andijon
+        names_en: 
+          - Andijan
+        names_es: 
+          - Andiján
+        population: 318419
+    name: Andijon
+    names_en: ~
+    names_es: ~

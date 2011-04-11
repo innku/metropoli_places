@@ -1,214 +1,312 @@
 --- 
-code: GA
-continent: AF
 name: Gabon
-population: 1545255
+names_en: 
+  - Gabon
+  - "Gabonese Republic"
+names_es: 
+  - Gabón
 regions: 
   - 
+    ascii_name: "Province du Woleu-Ntem"
     cities: 
       - 
-        districts: []
-        location: "POINT (0.3833300000000000 9.7833299999999994)"
-        name: Ntoum
-        population: 8569
-        slug: ntoum
-      - 
-        districts: []
-        location: "POINT (0.3833300000000000 9.4499999999999993)"
-        name: Libreville
-        population: 578156
-        slug: libreville
-      - 
-        districts: []
-        location: "POINT (0.9833300000000000 9.5999999999999996)"
-        name: Cocobeach
-        population: 1653
-        slug: cocobeach
-    code: GA.01
-    name: Estuaire
-    slug: estuaire
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.6833300000000000 13.7833299999999994)"
-        name: Okondja
-        population: 7155
-        slug: okondja
-      - 
-        districts: []
-        location: "POINT (-1.4333300000000000 13.1666699999999999)"
-        name: Mounana
-        population: 8780
-        slug: mounana
-      - 
-        districts: []
-        location: "POINT (-1.5666700000000000 13.1999999999999993)"
-        name: Moanda
-        population: 30151
-        slug: moanda
-      - 
-        districts: []
-        location: "POINT (-1.5833299999999999 14.2333300000000005)"
-        name: Lékoni
-        population: 3583
-        slug: lekoni
-      - 
-        districts: []
-        location: "POINT (-1.6333299999999999 13.5833300000000001)"
-        name: Franceville
-        population: 42967
-        slug: franceville
-    code: GA.02
-    name: Haut-Ogooué
-    slug: haut-ogooue
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.1833300000000000 10.7500000000000000)"
-        name: Ndjolé
-        population: 5098
-        slug: ndjole
-      - 
-        districts: []
-        location: "POINT (-0.7000000000000000 10.2166700000000006)"
-        name: Lambaréné
-        population: 20714
-        slug: lambarene
-    code: GA.03
-    name: Moyen-Ogooué
-    slug: moyen-ogooue
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-2.3833299999999999 11.3833300000000008)"
-        name: Ndendé
-        population: 6200
-        slug: ndende
-      - 
-        districts: []
-        location: "POINT (-1.8666700000000001 11.0166699999999995)"
-        name: Mouila
-        population: 22469
-        slug: mouila
-      - 
-        districts: []
-        location: "POINT (-1.6333299999999999 11.6500000000000004)"
-        name: Mimongo
-        population: 3307
-        slug: mimongo
-      - 
-        districts: []
-        location: "POINT (-1.8833299999999999 11.9333299999999998)"
-        name: Mbigou
-        population: 4134
-        slug: mbigou
-      - 
-        districts: []
-        location: "POINT (-1.2166699999999999 10.5999999999999996)"
-        name: Fougamou
-        population: 5649
-        slug: fougamou
-    code: GA.04
-    name: Ngounié
-    slug: ngounie
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-2.8500000000000001 11.0333299999999994)"
-        name: Tchibanga
-        population: 19365
-        slug: tchibanga
-      - 
-        districts: []
-        location: "POINT (-3.4166699999999999 10.6500000000000004)"
-        name: Mayumba
-        population: 3996
-        slug: mayumba
-    code: GA.05
-    name: Nyanga
-    slug: nyanga
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (0.5666700000000000 12.8666699999999992)"
-        name: Makokou
-        population: 13571
-        slug: makokou
-      - 
-        districts: []
-        location: "POINT (-0.1000000000000000 11.9333299999999998)"
-        name: Booué
-        population: 5787
-        slug: booue
-    code: GA.06
-    name: Ogooué-Ivindo
-    slug: ogooue-ivindo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.8166700000000000 12.6999999999999993)"
-        name: Lastoursville
-        population: 8340
-        slug: lastoursville
-      - 
-        districts: []
-        location: "POINT (-1.1333299999999999 12.4833300000000005)"
-        name: Koulamoutou
-        population: 16222
-        slug: koulamoutou
-    code: GA.07
-    name: Ogooué-Lolo
-    slug: ogooue-lolo
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (-0.7166700000000000 8.7833299999999994)"
-        name: Port-Gentil
-        population: 109163
-        slug: port-gentil
-      - 
-        districts: []
-        location: "POINT (-1.5666700000000000 9.2500000000000000)"
-        name: Omboué
-        population: 1667
-        slug: omboue
-      - 
-        districts: []
-        location: "POINT (-2.6499999999999999 10.0000000000000000)"
-        name: Gamba
-        population: 9928
-        slug: gamba
-    code: GA.08
-    name: Ogooué-Maritime
-    slug: ogooue-maritime
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (1.6166700000000001 11.5833300000000001)"
+        alternate_names: ~
+        ascii_name: Oyem
         name: Oyem
+        names_en: ~
+        names_es: ~
         population: 30870
-        slug: oyem
       - 
-        districts: []
-        location: "POINT (0.7833300000000000 11.5666700000000002)"
+        alternate_names: 
+          - Midzik
+          - Mitsig
+          - Mitzic
+        ascii_name: Mitzic
         name: Mitzic
+        names_en: ~
+        names_es: ~
         population: 3886
-        slug: mitzic
       - 
-        districts: []
-        location: "POINT (2.0833300000000001 11.4833300000000005)"
+        alternate_names: ~
+        ascii_name: Bitam
         name: Bitam
+        names_en: ~
+        names_es: ~
         population: 10297
-        slug: bitam
-    code: GA.09
     name: Woleu-Ntem
-    slug: woleu-ntem
-tld: ga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de l' Ogooue-Maritime"
+    cities: 
+      - 
+        alternate_names: 
+          - "Port Gentil"
+          - "Port Zhantil"
+          - Port-Gentil
+        ascii_name: Port-Gentil
+        name: Port-Gentil
+        names_en: 
+          - Port-Gentil
+        names_es: ~
+        population: 109163
+      - 
+        alternate_names: 
+          - "Fernan Vaz"
+          - Fernand-Vaz
+          - Omboue
+        ascii_name: Omboue
+        name: Omboué
+        names_en: ~
+        names_es: ~
+        population: 1667
+      - 
+        alternate_names: 
+          - Gamba
+        ascii_name: Gamba
+        name: Gamba
+        names_en: ~
+        names_es: ~
+        population: 9928
+    name: Ogooué-Maritime
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de l' Ogooue-Lolo"
+    cities: 
+      - 
+        alternate_names: 
+          - Bonda
+          - Lastoursville
+          - Lastourville
+        ascii_name: Lastoursville
+        name: Lastoursville
+        names_en: ~
+        names_es: ~
+        population: 8340
+      - 
+        alternate_names: 
+          - "Koula Moubou"
+          - "Koula Mouta"
+          - Koulamotou
+        ascii_name: Koulamoutou
+        name: Koulamoutou
+        names_en: 
+          - Koulamoutou
+        names_es: ~
+        population: 16222
+    name: Ogooué-Lolo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de l' Ogooue-Ivindo"
+    cities: 
+      - 
+        alternate_names: 
+          - Makokou
+          - "Makokou Fortifie"
+          - "Makokou Fortifié"
+        ascii_name: Makokou
+        name: Makokou
+        names_en: 
+          - Makokou
+        names_es: ~
+        population: 13571
+      - 
+        alternate_names: 
+          - Booue
+          - Booué
+          - Boque
+        ascii_name: Booue
+        name: Booué
+        names_en: ~
+        names_es: ~
+        population: 5787
+    name: Ogooué-Ivindo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de la Nyanga"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Tchibanga
+        name: Tchibanga
+        names_en: ~
+        names_es: ~
+        population: 19365
+      - 
+        alternate_names: 
+          - Mavumba
+          - Mayoumba
+          - Mayumba
+        ascii_name: Mayumba
+        name: Mayumba
+        names_en: ~
+        names_es: ~
+        population: 3996
+    name: Nyanga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de la Ngounie"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Ndende
+        name: Ndendé
+        names_en: ~
+        names_es: ~
+        population: 6200
+      - 
+        alternate_names: ~
+        ascii_name: Mouila
+        name: Mouila
+        names_en: ~
+        names_es: ~
+        population: 22469
+      - 
+        alternate_names: ~
+        ascii_name: Mimongo
+        name: Mimongo
+        names_en: ~
+        names_es: ~
+        population: 3307
+      - 
+        alternate_names: 
+          - M'bigou
+          - Mbigou
+          - M’bigou
+        ascii_name: Mbigou
+        name: Mbigou
+        names_en: ~
+        names_es: ~
+        population: 4134
+      - 
+        alternate_names: ~
+        ascii_name: Fougamou
+        name: Fougamou
+        names_en: ~
+        names_es: ~
+        population: 5649
+    name: Ngounié
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province du Moyen-Ogooue"
+    cities: 
+      - 
+        alternate_names: 
+          - Ndjole
+          - Ndjolé
+          - Njole
+        ascii_name: Ndjole
+        name: Ndjolé
+        names_en: ~
+        names_es: ~
+        population: 5098
+      - 
+        alternate_names: 
+          - Lambarene
+          - Lambaréné
+          - Ламбарене
+        ascii_name: Lambarene
+        name: Lambaréné
+        names_en: 
+          - Lambaréné
+        names_es: ~
+        population: 20714
+    name: Moyen-Ogooué
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province du Haut-Ogooue"
+    cities: 
+      - 
+        alternate_names: 
+          - Okandja
+          - Okondi
+          - Okondja
+        ascii_name: Okondja
+        name: Okondja
+        names_en: ~
+        names_es: ~
+        population: 7155
+      - 
+        alternate_names: 
+          - Mounana
+        ascii_name: Mounana
+        name: Mounana
+        names_en: ~
+        names_es: ~
+        population: 8780
+      - 
+        alternate_names: 
+          - Moanda
+          - Mouanda
+          - Mouenda
+        ascii_name: Moanda
+        name: Moanda
+        names_en: ~
+        names_es: ~
+        population: 30151
+      - 
+        alternate_names: 
+          - "Fortifie du Lekoni"
+          - "Fortifie du Liconi"
+          - "Fortifié du Liconi"
+        ascii_name: Lekoni
+        name: Lékoni
+        names_en: ~
+        names_es: ~
+        population: 3583
+      - 
+        alternate_names: 
+          - Franceville
+          - Fransvil
+          - Франсвил
+        ascii_name: Franceville
+        name: Franceville
+        names_en: 
+          - Franceville
+        names_es: 
+          - Franceville
+        population: 42967
+    name: Haut-Ogooué
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de l' Estuaire"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Ntoum
+        name: Ntoum
+        names_en: ~
+        names_es: ~
+        population: 8569
+      - 
+        alternate_names: 
+          - Librevil
+          - Librevil'
+          - Librevilis
+        ascii_name: Libreville
+        name: Libreville
+        names_en: 
+          - Libreville
+        names_es: 
+          - Libreville
+        population: 578156
+      - 
+        alternate_names: 
+          - Cocoabeach
+          - Cocobeach
+          - Ukoko
+        ascii_name: Cocobeach
+        name: Cocobeach
+        names_en: ~
+        names_es: ~
+        population: 1653
+    name: Estuaire
+    names_en: ~
+    names_es: ~

@@ -1,457 +1,628 @@
 --- 
-code: GM
-continent: AF
 name: Gambia
-population: 1593256
+names_en: 
+  - "The Gambia"
+  - "Republic of The Gambia"
+  - Gambia
+names_es: 
+  - Gambia
 regions: 
   - 
+    ascii_name: "Western Division"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.4527400000000004 -16.5780299999999983)"
-        name: Banjul
-        population: 34589
-        slug: banjul
-      - 
-        districts: []
-        location: "POINT (13.4780599999999993 -16.6819400000000009)"
-        name: Bakau
-        population: 43098
-        slug: bakau
-    code: GM.01
-    name: Banjul
-    slug: banjul
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.4166699999999999 -15.4000000000000004)"
-        name: "Wellingara Ba"
-        population: 1476
-        slug: wellingara-ba
-      - 
-        districts: []
-        location: "POINT (13.4333299999999998 -15.5833300000000001)"
-        name: Toniataba
-        population: 1755
-        slug: toniataba
-      - 
-        districts: []
-        location: "POINT (13.4666700000000006 -15.2666699999999995)"
-        name: Sutukung
-        population: 1506
-        slug: sutukung
-      - 
-        districts: []
-        location: "POINT (13.4333299999999998 -15.5333299999999994)"
-        name: Soma
-        population: 9869
-        slug: soma
-      - 
-        districts: []
-        location: "POINT (13.4333299999999998 -15.5666700000000002)"
-        name: "Si Kunda"
-        population: 1344
-        slug: si-kunda
-      - 
-        districts: []
-        location: "POINT (13.4666700000000006 -15.5166699999999995)"
-        name: Sankwia
-        population: 1831
-        slug: sankwia
-      - 
-        districts: []
-        location: "POINT (13.3499999999999996 -15.7500000000000000)"
-        name: Nioro
-        population: 1746
-        slug: nioro
-      - 
-        districts: []
-        location: "POINT (13.4666700000000006 -15.5500000000000007)"
-        name: "Mansa Konko"
-        population: 1978
-        slug: mansa-konko
-      - 
-        districts: []
-        location: "POINT (13.3288899999999995 -16.0150000000000006)"
-        name: Keneba
-        population: 1775
-        slug: keneba
-      - 
-        districts: []
-        location: "POINT (13.4333299999999998 -15.5166699999999995)"
-        name: Karantaba
-        population: 1372
-        slug: karantaba
-      - 
-        districts: []
-        location: "POINT (13.4000000000000004 -15.6166699999999992)"
-        name: Kaiaf
-        population: 1819
-        slug: kaiaf
-      - 
-        districts: []
-        location: "POINT (13.3000000000000007 -15.8666699999999992)"
-        name: Jifarong
-        population: 1038
-        slug: jifarong
-      - 
-        districts: []
-        location: "POINT (13.4833300000000005 -15.5666700000000002)"
-        name: Jenoi
-        population: 1254
-        slug: jenoi
-      - 
-        districts: []
-        location: "POINT (13.3499999999999996 -15.9666700000000006)"
-        name: Jali
-        population: 1024
-        slug: jali
-      - 
-        districts: []
-        location: "POINT (13.4166699999999999 -15.2833299999999994)"
-        name: Bureng
-        population: 1472
-        slug: bureng
-      - 
-        districts: []
-        location: "POINT (13.4833300000000005 -15.2666699999999995)"
-        name: "Baro Kunda"
-        population: 1991
-        slug: baro-kunda
-    code: GM.02
-    name: "Lower River"
-    slug: lower-river
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.6833299999999998 -14.8833300000000008)"
-        name: Wassu
-        population: 1380
-        slug: wassu
-      - 
-        districts: []
-        location: "POINT (13.6166699999999992 -14.9166699999999999)"
+        alternate_names: 
+          - Dembadu
+          - Sabiji
+          - Sukuta
+        ascii_name: Sukuta
         name: Sukuta
-        population: 1364
-        slug: sukuta
-      - 
-        districts: []
-        location: "POINT (13.5500000000000007 -14.9166699999999999)"
-        name: Saruja
-        population: 1959
-        slug: saruja
-      - 
-        districts: []
-        location: "POINT (13.5833300000000001 -15.1999999999999993)"
-        name: Sami
-        population: 2794
-        slug: sami
-      - 
-        districts: []
-        location: "POINT (13.6166699999999992 -15.0666700000000002)"
-        name: "Pateh Sam"
-        population: 1164
-        slug: pateh-sam
-      - 
-        districts: []
-        location: "POINT (13.5333299999999994 -14.6666699999999999)"
-        name: Kunting
-        population: 1204
-        slug: kunting
-      - 
-        districts: []
-        location: "POINT (13.6666699999999999 -14.8833300000000008)"
-        name: Kuntaur
-        population: 2534
-        slug: kuntaur
-      - 
-        districts: []
-        location: "POINT (13.7833299999999994 -14.9333299999999998)"
-        name: "Kass Wollof"
-        population: 1109
-        slug: kass-wollof
-      - 
-        districts: []
-        location: "POINT (13.6666699999999999 -15.0333299999999994)"
-        name: Karantaba
-        population: 1753
-        slug: karantaba
-      - 
-        districts: []
-        location: "POINT (13.6166699999999992 -15.1833299999999998)"
-        name: Jarreng
-        population: 2705
-        slug: jarreng
-      - 
-        districts: []
-        location: "POINT (13.5500000000000007 -14.9666700000000006)"
-        name: Jakhaly
-        population: 1793
-        slug: jakhaly
-      - 
-        districts: []
-        location: "POINT (13.5333299999999994 -14.7666699999999995)"
-        name: Georgetown
-        population: 3584
-        slug: georgetown
-      - 
-        districts: []
-        location: "POINT (13.4333299999999998 -14.7833299999999994)"
-        name: "Galleh Manda"
-        population: 1872
-        slug: galleh-manda
-      - 
-        districts: []
-        location: "POINT (13.5000000000000000 -14.9333299999999998)"
-        name: Denton
-        population: 1712
-        slug: denton
-      - 
-        districts: []
-        location: "POINT (13.5666700000000002 -15.3166700000000002)"
-        name: Dankunku
-        population: 1641
-        slug: dankunku
-      - 
-        districts: []
-        location: "POINT (13.5333299999999994 -14.9333299999999998)"
-        name: "Brikama Nding"
-        population: 1092
-        slug: brikama-nding
-      - 
-        districts: []
-        location: "POINT (13.4166699999999999 -14.6500000000000004)"
-        name: Bantanto
-        population: 1201
-        slug: bantanto
-      - 
-        districts: []
-        location: "POINT (13.4333299999999998 -14.6500000000000004)"
-        name: Bansang
-        population: 7615
-        slug: bansang
-    code: GM.03
-    name: "Central River"
-    slug: central-river
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.5000000000000000 -14.0166699999999995)"
-        name: Sutukoba
-        population: 2693
-        slug: sutukoba
-      - 
-        districts: []
-        location: "POINT (13.3833300000000008 -13.8499999999999996)"
-        name: "Sun Kunda"
-        population: 1306
-        slug: sun-kunda
-      - 
-        districts: []
-        location: "POINT (13.3666699999999992 -13.9666700000000006)"
-        name: Sudowol
-        population: 1502
-        slug: sudowol
-      - 
-        districts: []
-        location: "POINT (13.2333300000000005 -14.1999999999999993)"
-        name: Sabi
-        population: 7738
-        slug: sabi
-      - 
-        districts: []
-        location: "POINT (13.3833300000000008 -14.0333299999999994)"
-        name: Perai
-        population: 1026
-        slug: perai
-      - 
-        districts: []
-        location: "POINT (13.3333300000000001 -13.8666699999999992)"
-        name: Nyamanari
-        population: 2090
-        slug: nyamanari
-      - 
-        districts: []
-        location: "POINT (13.2666699999999995 -14.1833299999999998)"
-        name: Kumbija
-        population: 1760
-        slug: kumbija
-      - 
-        districts: []
-        location: "POINT (13.4833300000000005 -13.8666699999999992)"
-        name: Koina
-        population: 3870
-        slug: koina
-      - 
-        districts: []
-        location: "POINT (13.5333299999999994 -14.1166699999999992)"
-        name: "Gunjur Kuta"
-        population: 1566
-        slug: gunjur-kuta
-      - 
-        districts: []
-        location: "POINT (13.3333300000000001 -13.9499999999999993)"
-        name: "Diabugu Basilla"
-        population: 1199
-        slug: diabugu-basilla
-      - 
-        districts: []
-        location: "POINT (13.3833300000000008 -14.4000000000000004)"
-        name: Diabugu
-        population: 3722
-        slug: diabugu
-      - 
-        districts: []
-        location: "POINT (13.2500000000000000 -14.2666699999999995)"
-        name: "Demba Kunda"
-        population: 4817
-        slug: demba-kunda
-      - 
-        districts: []
-        location: "POINT (13.3166700000000002 -14.3000000000000007)"
-        name: "Daba Kunda"
-        population: 1302
-        slug: daba-kunda
-      - 
-        districts: []
-        location: "POINT (13.5000000000000000 -13.9333299999999998)"
-        name: Brifu
-        population: 1292
-        slug: brifu
-      - 
-        districts: []
-        location: "POINT (13.3166700000000002 -14.2166700000000006)"
-        name: "Basse Santa Su"
-        population: 14380
-        slug: basse-santa-su
-      - 
-        districts: []
-        location: "POINT (13.3000000000000007 -14.3833300000000008)"
-        name: Bakadagy
-        population: 1979
-        slug: bakadagy
-    code: GM.04
-    name: "Upper River"
-    slug: upper-river
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (13.4113900000000008 -16.7088900000000002)"
-        name: Sukuta
+        names_en: ~
+        names_es: ~
         population: 15131
-        slug: sukuta
       - 
-        districts: []
-        location: "POINT (13.2058300000000006 -16.3055599999999998)"
+        alternate_names: ~
+        ascii_name: Somita
         name: Somita
+        names_en: ~
+        names_es: ~
         population: 2541
-        slug: somita
       - 
-        districts: []
-        location: "POINT (13.2019400000000005 -16.7338899999999988)"
+        alternate_names: ~
+        ascii_name: Gunjur
         name: Gunjur
+        names_en: ~
+        names_es: ~
         population: 14088
-        slug: gunjur
       - 
-        districts: []
-        location: "POINT (13.2675000000000001 -16.6461100000000002)"
+        alternate_names: 
+          - Brikama
+          - Brikame
+          - Брикаме
+        ascii_name: Brikama
         name: Brikama
+        names_en: 
+          - Brikama
+        names_es: ~
         population: 77700
-        slug: brikama
       - 
-        districts: []
-        location: "POINT (13.4041700000000006 -16.6558300000000017)"
+        alternate_names: ~
+        ascii_name: Abuko
         name: Abuko
+        names_en: ~
+        names_es: ~
         population: 6572
-        slug: abuko
-    code: GM.05
     name: Western
-    slug: western
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Upper River"
     cities: 
       - 
-        districts: []
-        location: "POINT (13.5333299999999994 -15.4166699999999999)"
+        alternate_names: 
+          - Sutuko
+          - Sutukoba
+        ascii_name: Sutukoba
+        name: Sutukoba
+        names_en: ~
+        names_es: ~
+        population: 2693
+      - 
+        alternate_names: 
+          - "Song Kunda"
+          - "Sun Kunda"
+        ascii_name: "Sun Kunda"
+        name: "Sun Kunda"
+        names_en: ~
+        names_es: ~
+        population: 1306
+      - 
+        alternate_names: ~
+        ascii_name: Sudowol
+        name: Sudowol
+        names_en: ~
+        names_es: ~
+        population: 1502
+      - 
+        alternate_names: ~
+        ascii_name: Sabi
+        name: Sabi
+        names_en: ~
+        names_es: ~
+        population: 7738
+      - 
+        alternate_names: 
+          - Perai
+          - Pirai
+          - Priakunda
+        ascii_name: Perai
+        name: Perai
+        names_en: ~
+        names_es: ~
+        population: 1026
+      - 
+        alternate_names: ~
+        ascii_name: Nyamanari
+        name: Nyamanari
+        names_en: ~
+        names_es: ~
+        population: 2090
+      - 
+        alternate_names: 
+          - Kumbija
+          - Kumbita
+        ascii_name: Kumbija
+        name: Kumbija
+        names_en: ~
+        names_es: ~
+        population: 1760
+      - 
+        alternate_names: ~
+        ascii_name: Koina
+        name: Koina
+        names_en: ~
+        names_es: ~
+        population: 3870
+      - 
+        alternate_names: ~
+        ascii_name: "Gunjur Kuta"
+        name: "Gunjur Kuta"
+        names_en: ~
+        names_es: ~
+        population: 1566
+      - 
+        alternate_names: ~
+        ascii_name: "Diabugu Basilla"
+        name: "Diabugu Basilla"
+        names_en: ~
+        names_es: ~
+        population: 1199
+      - 
+        alternate_names: 
+          - Diabugu
+          - Dirboko
+        ascii_name: Diabugu
+        name: Diabugu
+        names_en: ~
+        names_es: ~
+        population: 3722
+      - 
+        alternate_names: 
+          - "Demba Kunda"
+          - Morbugu
+        ascii_name: "Demba Kunda"
+        name: "Demba Kunda"
+        names_en: ~
+        names_es: ~
+        population: 4817
+      - 
+        alternate_names: 
+          - "Daba Kunda"
+          - "Doba Kunda"
+          - "Dula Kunda"
+        ascii_name: "Daba Kunda"
+        name: "Daba Kunda"
+        names_en: ~
+        names_es: ~
+        population: 1302
+      - 
+        alternate_names: ~
+        ascii_name: Brifu
+        name: Brifu
+        names_en: ~
+        names_es: ~
+        population: 1292
+      - 
+        alternate_names: 
+          - Basse
+          - "Basse Santa Su"
+        ascii_name: "Basse Santa Su"
+        name: "Basse Santa Su"
+        names_en: 
+          - "Basse Santa Su"
+        names_es: ~
+        population: 14380
+      - 
+        alternate_names: 
+          - Bakadagy
+          - Bakadaji
+        ascii_name: Bakadagy
+        name: Bakadagy
+        names_en: ~
+        names_es: ~
+        population: 1979
+    name: "Upper River"
+    names_en: 
+      - "Upper River"
+    names_es: ~
+  - 
+    ascii_name: "North Bank Division"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sara Kunda"
+          - "Sarra Kunda"
+        ascii_name: "Sara Kunda"
         name: "Sara Kunda"
+        names_en: ~
+        names_es: ~
         population: 1316
-        slug: sara-kunda
       - 
-        districts: []
-        location: "POINT (13.5163899999999995 -16.0491700000000002)"
+        alternate_names: ~
+        ascii_name: Saba
         name: Saba
+        names_en: ~
+        names_es: ~
         population: 1974
-        slug: saba
       - 
-        districts: []
-        location: "POINT (13.5666700000000002 -15.8333300000000001)"
+        alternate_names: ~
+        ascii_name: "No Kunda"
         name: "No Kunda"
+        names_en: ~
+        names_es: ~
         population: 1913
-        slug: no-kunda
       - 
-        districts: []
-        location: "POINT (13.3522200000000009 -16.4338900000000017)"
+        alternate_names: ~
+        ascii_name: Lamin
         name: Lamin
+        names_en: ~
+        names_es: ~
         population: 24797
-        slug: lamin
       - 
-        districts: []
-        location: "POINT (13.4894400000000001 -16.0911100000000005)"
+        alternate_names: 
+          - Kerevane
+          - Kerewan
+        ascii_name: Kerewan
         name: Kerewan
+        names_en: 
+          - Kerewan
+        names_es: ~
         population: 2751
-        slug: kerewan
       - 
-        districts: []
-        location: "POINT (13.5000000000000000 -15.7500000000000000)"
+        alternate_names: 
+          - Kashan
+          - Katchang
+        ascii_name: Katchang
         name: Katchang
+        names_en: ~
+        names_es: ~
         population: 1741
-        slug: katchang
       - 
-        districts: []
-        location: "POINT (13.5227799999999991 -16.0277799999999999)"
+        alternate_names: 
+          - Gunjur
+          - Kungeru
+        ascii_name: Gunjur
         name: Gunjur
+        names_en: ~
+        names_es: ~
         population: 1327
-        slug: gunjur
       - 
-        districts: []
-        location: "POINT (13.5666700000000002 -15.5999999999999996)"
+        alternate_names: 
+          - Farafenni
+        ascii_name: Farafenni
         name: Farafenni
+        names_en: ~
+        names_es: ~
         population: 29867
-        slug: farafenni
       - 
-        districts: []
-        location: "POINT (13.4838900000000006 -16.5347200000000001)"
+        alternate_names: ~
+        ascii_name: Essau
         name: Essau
+        names_en: ~
+        names_es: ~
         population: 5907
-        slug: essau
       - 
-        districts: []
-        location: "POINT (13.5500000000000007 -15.9833300000000005)"
+        alternate_names: ~
+        ascii_name: "Daru Rilwan"
         name: "Daru Rilwan"
+        names_en: ~
+        names_es: ~
         population: 1045
-        slug: daru-rilwan
       - 
-        districts: []
-        location: "POINT (13.5500000000000007 -16.2833299999999994)"
+        alternate_names: ~
+        ascii_name: Chilla
         name: Chilla
+        names_en: ~
+        names_es: ~
         population: 1249
-        slug: chilla
       - 
-        districts: []
-        location: "POINT (13.4827800000000000 -16.5455599999999983)"
+        alternate_names: 
+          - Barra
+        ascii_name: Barra
         name: Barra
+        names_en: ~
+        names_es: ~
         population: 5323
-        slug: barra
       - 
-        districts: []
-        location: "POINT (13.4833300000000005 -15.3333300000000001)"
+        alternate_names: 
+          - Bambale
+          - Bambali
+          - Bombale
+        ascii_name: Bambali
         name: Bambali
+        names_en: ~
+        names_es: ~
         population: 1255
-        slug: bambali
-    code: GM.07
     name: "North Bank"
-    slug: north-bank
-tld: gm
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Central River Division"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Wassu
+        name: Wassu
+        names_en: ~
+        names_es: ~
+        population: 1380
+      - 
+        alternate_names: 
+          - Sukuta
+          - Sukutta
+        ascii_name: Sukuta
+        name: Sukuta
+        names_en: ~
+        names_es: ~
+        population: 1364
+      - 
+        alternate_names: ~
+        ascii_name: Saruja
+        name: Saruja
+        names_en: ~
+        names_es: ~
+        population: 1959
+      - 
+        alternate_names: ~
+        ascii_name: Sami
+        name: Sami
+        names_en: ~
+        names_es: ~
+        population: 2794
+      - 
+        alternate_names: 
+          - Pate
+          - "Pateh Sam"
+        ascii_name: "Pateh Sam"
+        name: "Pateh Sam"
+        names_en: ~
+        names_es: ~
+        population: 1164
+      - 
+        alternate_names: ~
+        ascii_name: Kunting
+        name: Kunting
+        names_en: ~
+        names_es: ~
+        population: 1204
+      - 
+        alternate_names: 
+          - Kuntaur
+        ascii_name: Kuntaur
+        name: Kuntaur
+        names_en: ~
+        names_es: ~
+        population: 2534
+      - 
+        alternate_names: 
+          - Kass
+          - "Kass Wollof"
+          - "Samba N'Yang"
+        ascii_name: "Kass Wollof"
+        name: "Kass Wollof"
+        names_en: ~
+        names_es: ~
+        population: 1109
+      - 
+        alternate_names: 
+          - Gunjur
+          - Karantaba
+        ascii_name: Karantaba
+        name: Karantaba
+        names_en: ~
+        names_es: ~
+        population: 1753
+      - 
+        alternate_names: ~
+        ascii_name: Jarreng
+        name: Jarreng
+        names_en: ~
+        names_es: ~
+        population: 2705
+      - 
+        alternate_names: ~
+        ascii_name: Jakhaly
+        name: Jakhaly
+        names_en: ~
+        names_es: ~
+        population: 1793
+      - 
+        alternate_names: 
+          - Georgetown
+          - Janjanbureh
+          - "Old Fort George"
+        ascii_name: Georgetown
+        name: Georgetown
+        names_en: ~
+        names_es: ~
+        population: 3584
+      - 
+        alternate_names: 
+          - "Galleh Manda"
+          - Manda
+        ascii_name: "Galleh Manda"
+        name: "Galleh Manda"
+        names_en: ~
+        names_es: ~
+        population: 1872
+      - 
+        alternate_names: 
+          - Denton
+          - "Sare Ram"
+        ascii_name: Denton
+        name: Denton
+        names_en: ~
+        names_es: ~
+        population: 1712
+      - 
+        alternate_names: 
+          - Dankunko
+          - Dankunku
+        ascii_name: Dankunku
+        name: Dankunku
+        names_en: ~
+        names_es: ~
+        population: 1641
+      - 
+        alternate_names: ~
+        ascii_name: "Brikama Nding"
+        name: "Brikama Nding"
+        names_en: ~
+        names_es: ~
+        population: 1092
+      - 
+        alternate_names: ~
+        ascii_name: Bantanto
+        name: Bantanto
+        names_en: ~
+        names_es: ~
+        population: 1201
+      - 
+        alternate_names: 
+          - Bansang
+          - "Bansang Tenda"
+          - Barsangsang
+        ascii_name: Bansang
+        name: Bansang
+        names_en: ~
+        names_es: ~
+        population: 7615
+    name: "Central River"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Lower River Division"
+    cities: 
+      - 
+        alternate_names: 
+          - Sitafuma
+          - "Wellingara Ba"
+          - Willingara
+        ascii_name: "Wellingara Ba"
+        name: "Wellingara Ba"
+        names_en: ~
+        names_es: ~
+        population: 1476
+      - 
+        alternate_names: 
+          - Toniataba
+          - Tonitaba
+        ascii_name: Toniataba
+        name: Toniataba
+        names_en: ~
+        names_es: ~
+        population: 1755
+      - 
+        alternate_names: 
+          - Surukung
+          - Sutukung
+        ascii_name: Sutukung
+        name: Sutukung
+        names_en: ~
+        names_es: ~
+        population: 1506
+      - 
+        alternate_names: 
+          - Soma
+        ascii_name: Soma
+        name: Soma
+        names_en: ~
+        names_es: ~
+        population: 9869
+      - 
+        alternate_names: ~
+        ascii_name: "Si Kunda"
+        name: "Si Kunda"
+        names_en: ~
+        names_es: ~
+        population: 1344
+      - 
+        alternate_names: 
+          - Sankuia
+          - Sankwia
+        ascii_name: Sankwia
+        name: Sankwia
+        names_en: ~
+        names_es: ~
+        population: 1831
+      - 
+        alternate_names: ~
+        ascii_name: Nioro
+        name: Nioro
+        names_en: ~
+        names_es: ~
+        population: 1746
+      - 
+        alternate_names: 
+          - "Mansa Konko"
+        ascii_name: "Mansa Konko"
+        name: "Mansa Konko"
+        names_en: 
+          - "Mansa Konko"
+        names_es: ~
+        population: 1978
+      - 
+        alternate_names: 
+          - Keneba
+          - Kenniba
+        ascii_name: Keneba
+        name: Keneba
+        names_en: ~
+        names_es: ~
+        population: 1775
+      - 
+        alternate_names: ~
+        ascii_name: Karantaba
+        name: Karantaba
+        names_en: ~
+        names_es: ~
+        population: 1372
+      - 
+        alternate_names: ~
+        ascii_name: Kaiaf
+        name: Kaiaf
+        names_en: ~
+        names_es: ~
+        population: 1819
+      - 
+        alternate_names: 
+          - Jifarong
+          - Jiffarong
+        ascii_name: Jifarong
+        name: Jifarong
+        names_en: ~
+        names_es: ~
+        population: 1038
+      - 
+        alternate_names: 
+          - Ginoi
+          - Jenoi
+        ascii_name: Jenoi
+        name: Jenoi
+        names_en: ~
+        names_es: ~
+        population: 1254
+      - 
+        alternate_names: ~
+        ascii_name: Jali
+        name: Jali
+        names_en: ~
+        names_es: ~
+        population: 1024
+      - 
+        alternate_names: 
+          - Buraing
+          - Bureng
+        ascii_name: Bureng
+        name: Bureng
+        names_en: ~
+        names_es: ~
+        population: 1472
+      - 
+        alternate_names: 
+          - "Baro Kunda"
+          - Barukunda
+        ascii_name: "Baro Kunda"
+        name: "Baro Kunda"
+        names_en: ~
+        names_es: ~
+        population: 1991
+    name: "Lower River"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "City of Banjul"
+    cities: 
+      - 
+        alternate_names: 
+          - Bandzul
+          - Bandzulis
+          - Bandżul
+        ascii_name: Banjul
+        name: Banjul
+        names_en: 
+          - Banjul
+        names_es: 
+          - Banjul
+        population: 34589
+      - 
+        alternate_names: 
+          - Bakau
+        ascii_name: Bakau
+        name: Bakau
+        names_en: ~
+        names_es: ~
+        population: 43098
+    name: Banjul
+    names_en: ~
+    names_es: ~

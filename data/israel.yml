@@ -1,836 +1,1360 @@
 --- 
-code: IL
-continent: AS
 name: Israel
-population: 7353985
+names_en: 
+  - Israel
+  - "State of Israel"
+names_es: 
+  - Israel
 regions: 
   - 
+    ascii_name: "Jerusalem District"
     cities: 
       - 
-        districts: []
-        location: "POINT (30.9872200000000007 34.9313900000000004)"
-        name: Yeroẖam
-        population: 8631
-        slug: yeroham
-      - 
-        districts: []
-        location: "POINT (31.5166700000000013 34.5833299999999966)"
-        name: Sederot
-        population: 20228
-        slug: sederot
-      - 
-        districts: []
-        location: "POINT (31.6000000000000014 34.7666699999999977)"
-        name: "Qiryat Gat"
-        population: 47450
-        slug: qiryat-gat
-      - 
-        districts: []
-        location: "POINT (31.2833299999999994 34.6166699999999992)"
-        name: Ofaqim
-        population: 24311
-        slug: ofaqim
-      - 
-        districts: []
-        location: "POINT (31.4166699999999999 34.5833299999999966)"
-        name: Netivot
-        population: 24564
-        slug: netivot
-      - 
-        districts: []
-        location: "POINT (30.6094399999999993 34.8011100000000013)"
-        name: "Miẕpe Ramon"
-        population: 4769
-        slug: mizpe-ramon
-      - 
-        districts: []
-        location: "POINT (31.2013900000000000 35.3638899999999978)"
-        name: "‘En Boqeq"
-        population: 1400
-        slug: en-boqeq
-      - 
-        districts: []
-        location: "POINT (29.5611099999999993 34.9516700000000000)"
-        name: Elat
-        population: 45588
-        slug: elat
-      - 
-        districts: []
-        location: "POINT (31.0666699999999985 35.0333299999999994)"
-        name: Dimona
-        population: 33558
-        slug: dimona
-      - 
-        districts: []
-        location: "POINT (31.2518099999999990 34.7912999999999997)"
-        name: Beersheba
-        population: 186600
-        slug: beersheba
-      - 
-        districts: []
-        location: "POINT (31.6666699999999999 34.5833299999999966)"
-        name: Ashqelon
-        population: 105995
-        slug: ashqelon
-      - 
-        districts: []
-        location: "POINT (31.8166699999999985 34.6499999999999986)"
-        name: Ashdod
-        population: 224656
-        slug: ashdod
-      - 
-        districts: []
-        location: "POINT (31.3728400000000001 34.8161899999999989)"
-        name: Lehavim
-        population: 6000
-        slug: lehavim
-      - 
-        districts: []
-        location: "POINT (30.8515400000000000 34.7834000000000003)"
-        name: "Midreshet Ben-Gurion"
-        population: 1100
-        slug: midreshet-ben-gurion
-    code: IL.01
-    name: HaDarom
-    slug: hadarom
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.2999999999999972 34.9166700000000034)"
-        name: "Ẕur Moshe"
-        population: 2400
-        slug: zur-moshe
-      - 
-        districts: []
-        location: "POINT (31.8763900000000007 34.7400000000000020)"
-        name: Yavne
-        population: 31774
-        slug: yavne
-      - 
-        districts: []
-        location: "POINT (32.2500000000000000 34.9333299999999980)"
-        name: "Tel Mond"
-        population: 8725
-        slug: tel-mond
-      - 
-        districts: []
-        location: "POINT (32.0530600000000021 34.8777800000000013)"
-        name: Savyon
-        population: 3434
-        slug: savyon
-      - 
-        districts: []
-        location: "POINT (31.9641699999999993 34.8044399999999996)"
-        name: "Rishon LeẔiyyon"
-        population: 220492
-        slug: rishon-leziyyon
-      - 
-        districts: []
-        location: "POINT (31.9252800000000008 34.8669399999999996)"
-        name: Ramla
-        population: 63860
-        slug: ramla
-      - 
-        districts: []
-        location: "POINT (32.2847200000000001 34.9797200000000004)"
-        name: Qalansuwa
-        population: 16898
-        slug: qalansuwa
-      - 
-        districts: []
-        location: "POINT (32.2999999999999972 34.9166700000000034)"
-        name: Pardesiyya
-        population: 6254
-        slug: pardesiyya
-      - 
-        districts: []
-        location: "POINT (32.3166700000000020 34.8999999999999986)"
-        name: Nordiyya
-        population: 2264
-        slug: nordiyya
-      - 
-        districts: []
-        location: "POINT (32.3336100000000002 34.8577799999999982)"
-        name: Netanya
-        population: 171676
-        slug: netanya
-      - 
-        districts: []
-        location: "POINT (32.0619399999999999 34.9138900000000021)"
-        name: Neẖalim
-        population: 2061
-        slug: nehalim
-      - 
-        districts: []
-        location: "POINT (31.8538899999999998 34.8386100000000027)"
-        name: "Mazkeret Batya"
-        population: 8034
-        slug: mazkeret-batya
-      - 
-        districts: []
-        location: "POINT (31.9513900000000000 34.8952799999999996)"
-        name: Lod
-        population: 66589
-        slug: lod
-      - 
-        districts: []
-        location: "POINT (32.3166700000000020 34.9333299999999980)"
-        name: "Kefar Yona"
-        population: 13320
-        slug: kefar-yona
-      - 
-        districts: []
-        location: "POINT (32.1749999999999972 34.9069399999999987)"
-        name: "Kefar Sava"
-        population: 80773
-        slug: kefar-sava
-      - 
-        districts: []
-        location: "POINT (31.9866700000000002 34.8511099999999985)"
-        name: "Kefar H̱abad"
-        population: 4771
-        slug: kefar-habad
-      - 
-        districts: []
-        location: "POINT (32.1141700000000014 34.9738899999999973)"
-        name: "Kafr Qāsim"
-        population: 17303
-        slug: kafr-qasim
-      - 
-        districts: []
-        location: "POINT (32.1558300000000017 34.9527799999999971)"
-        name: Jaljūlya
-        population: 7505
-        slug: jaljulya
-      - 
-        districts: []
-        location: "POINT (32.1508299999999991 34.8883300000000034)"
-        name: "Hod HaSharon"
-        population: 43185
-        slug: hod-hasharon
-      - 
-        districts: []
-        location: "POINT (31.8166699999999985 34.7666699999999977)"
-        name: Gedera
-        population: 14575
-        slug: gedera
-      - 
-        districts: []
-        location: "POINT (31.7833299999999994 34.7166700000000006)"
-        name: "Gan Yavne"
-        population: 14975
-        slug: gan-yavne
-      - 
-        districts: []
-        location: "POINT (32.0602799999999988 34.8747200000000035)"
-        name: "Ganne Tiqwa"
-        population: 12213
-        slug: ganne-tiqwa
-      - 
-        districts: []
-        location: "POINT (32.2666699999999977 34.8833300000000008)"
-        name: "Even Yehuda"
-        population: 9282
-        slug: even-yehuda
-      - 
-        districts: []
-        location: "POINT (32.2327799999999982 34.9502799999999993)"
-        name: "Eṭ Ṭīra"
-        population: 20786
-        slug: et-tira
-      - 
-        districts: []
-        location: "POINT (32.2647199999999970 35.0080600000000004)"
-        name: "Eṭ Ṭaiyiba"
-        population: 32978
-        slug: et-taiyiba
-      - 
-        districts: []
-        location: "POINT (32.3999999999999986 34.9166700000000034)"
-        name: Elyakhin
-        population: 2728
-        slug: elyakhin
-      - 
-        districts: []
-        location: "POINT (32.3166700000000020 34.8833300000000008)"
-        name: "Bet Yiẕẖaq"
-        population: 1674
-        slug: bet-yizhaq
-      - 
-        districts: []
-        location: "POINT (32.0013900000000007 34.8302800000000019)"
-        name: "Bet Dagan"
-        population: 5604
-        slug: bet-dagan
-      - 
-        districts: []
-        location: "POINT (31.7833299999999994 34.7500000000000000)"
-        name: "Bene 'Ayish"
-        population: 7763
-        slug: bene-ayish
-      - 
-        districts: []
-        location: "POINT (32.0917400000000015 34.8850300000000004)"
-        name: "Petah Tikva"
-        population: 188900
-        slug: petah-tikva
-    code: IL.02
-    name: HaMerkaz
-    slug: hamerkaz
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.9666700000000006 35.4944399999999973)"
-        name: Ẕefat
-        population: 27816
-        slug: zefat
-      - 
-        districts: []
-        location: "POINT (32.7124999999999986 35.5000000000000000)"
-        name: Yavne’el
-        population: 2900
-        slug: yavneel
-      - 
-        districts: []
-        location: "POINT (32.7944400000000016 35.3319400000000030)"
-        name: ‘Uzeir
-        population: 2591
-        slug: uzeir
-      - 
-        districts: []
-        location: "POINT (32.7036099999999976 35.2266699999999986)"
-        name: Timrat
-        population: 1789
-        slug: timrat
-      - 
-        districts: []
-        location: "POINT (32.7955600000000018 35.5286100000000005)"
-        name: Tiberias
-        population: 39790
-        slug: tiberias
-      - 
-        districts: []
-        location: "POINT (33.0166699999999977 35.2666699999999977)"
-        name: "maalot Tarshīhā"
-        population: 21400
-        slug: maalot-tarshiha
-      - 
-        districts: []
-        location: "POINT (32.8486100000000008 35.2047200000000018)"
-        name: Tamra
-        population: 25917
-        slug: tamra
-      - 
-        districts: []
-        location: "POINT (32.6083300000000023 35.3333299999999966)"
-        name: Sūlam
-        population: 2426
-        slug: sulam
-      - 
-        districts: []
-        location: "POINT (33.0666700000000020 35.1000000000000014)"
-        name: Shelomi
-        population: 5608
-        slug: shelomi
-      - 
-        districts: []
-        location: "POINT (32.8622200000000007 35.2933299999999974)"
-        name: Sakhnīn
-        population: 24596
-        slug: sakhnin
-      - 
-        districts: []
-        location: "POINT (32.9458300000000008 35.3430600000000013)"
-        name: Sājūr
-        population: 3547
-        slug: sajur
-      - 
-        districts: []
-        location: "POINT (32.9666700000000006 35.5333299999999994)"
-        name: "Rosh Pinna"
-        population: 2492
-        slug: rosh-pinna
-      - 
-        districts: []
-        location: "POINT (32.7005600000000030 35.1797200000000032)"
-        name: "Ramat Yishay"
-        population: 5431
-        slug: ramat-yishay
-      - 
-        districts: []
-        location: "POINT (33.2080600000000032 35.5686099999999996)"
-        name: "Qiryat Shemona"
-        population: 22035
-        slug: qiryat-shemona
-      - 
-        districts: []
-        location: "POINT (32.6333300000000008 35.3500000000000014)"
-        name: Nein
-        population: 1588
-        slug: nein
-      - 
-        districts: []
-        location: "POINT (32.7036099999999976 35.2955600000000018)"
-        name: Nazareth
-        population: 64800
-        slug: nazareth
-      - 
-        districts: []
-        location: "POINT (32.9333299999999980 35.3166700000000020)"
-        name: Naḥf
-        population: 10105
-        slug: nahf
-      - 
-        districts: []
-        location: "POINT (33.0058300000000031 35.0947200000000024)"
-        name: Nahariyya
-        population: 50273
-        slug: nahariyya
-      - 
-        districts: []
-        location: "POINT (33.0280600000000035 35.2583300000000008)"
-        name: Mi‘ilyā
-        population: 2700
-        slug: miilya
-      - 
-        districts: []
-        location: "POINT (32.6713900000000024 35.2405600000000021)"
-        name: "Migdal Ha‘Emeq"
-        population: 24800
-        slug: migdal-haemeq
-      - 
-        districts: []
-        location: "POINT (33.2861100000000008 35.5747199999999992)"
-        name: Metulla
-        population: 1466
-        slug: metulla
-      - 
-        districts: []
-        location: "POINT (32.8869400000000027 35.4069399999999987)"
-        name: Maghār
-        population: 18915
-        slug: maghar
-      - 
-        districts: []
-        location: "POINT (32.6888900000000007 35.4208300000000023)"
-        name: "Kefar Tavor"
-        population: 2323
-        slug: kefar-tavor
-      - 
-        districts: []
-        location: "POINT (32.8333299999999966 35.2500000000000000)"
-        name: "Kaukab Abū el Hīja"
-        population: 2800
-        slug: kaukab-abu-el-hija
-      - 
-        districts: []
-        location: "POINT (32.9172200000000004 35.3041699999999992)"
-        name: Karmi’el
-        population: 44382
-        slug: karmiel
-      - 
-        districts: []
-        location: "POINT (32.9536099999999976 35.1652800000000028)"
-        name: "Kafr Yāsīf"
-        population: 8308
-        slug: kafr-yasif
-      - 
-        districts: []
-        location: "POINT (32.6472199999999972 35.4208300000000023)"
-        name: "Kafr Miṣr"
-        population: 2400
-        slug: kafr-misr
-      - 
-        districts: []
-        location: "POINT (32.8072200000000009 35.2602800000000016)"
-        name: "Kafr Mandā"
-        population: 15014
-        slug: kafr-manda
-      - 
-        districts: []
-        location: "POINT (32.7500000000000000 35.3416700000000006)"
-        name: "Kafr Kannā"
-        population: 17606
-        slug: kafr-kanna
-      - 
-        districts: []
-        location: "POINT (32.7166700000000006 35.4416700000000020)"
-        name: "Kafr Kamā"
-        population: 2990
-        slug: kafr-kama
-      - 
-        districts: []
-        location: "POINT (32.8666699999999992 35.2130599999999987)"
-        name: Kābūl
-        population: 9497
-        slug: kabul
-      - 
-        districts: []
-        location: "POINT (32.9255599999999973 35.1550000000000011)"
-        name: Judeida
-        population: 17530
-        slug: judeida
-      - 
-        districts: []
-        location: "POINT (33.0247200000000021 35.4444400000000002)"
-        name: Jīsh
-        population: 2684
-        slug: jish
-      - 
-        districts: []
-        location: "POINT (32.6786099999999990 35.3222200000000015)"
-        name: Iksāl
-        population: 11398
-        slug: iksal
-      - 
-        districts: []
-        location: "POINT (33.0150000000000006 35.3494400000000013)"
-        name: Ḥurfeish
-        population: 5308
-        slug: hurfeish
-      - 
-        districts: []
-        location: "POINT (33.0497200000000007 35.3088899999999981)"
-        name: Fassūṭā
-        population: 2985
-        slug: fassuta
-      - 
-        districts: []
-        location: "POINT (32.9900000000000020 35.1450000000000031)"
-        name: "Esh Sheikh Dannūn"
-        population: 2305
-        slug: esh-sheikh-dannun
-      - 
-        districts: []
-        location: "POINT (32.7236100000000008 35.3125000000000000)"
-        name: "Er Reina"
-        population: 15621
-        slug: er-reina
-      - 
-        districts: []
-        location: "POINT (32.9858300000000000 35.0988899999999973)"
-        name: "El Mazra‘a"
-        population: 3900
-        slug: el-mazraa
-      - 
-        districts: []
-        location: "POINT (32.8347199999999972 35.3966700000000003)"
-        name: ‘Eilabūn
-        population: 4400
-        slug: eilabun
-      - 
-        districts: []
-        location: "POINT (32.8624999999999972 35.3666699999999992)"
-        name: "Deir Ḥannā"
-        population: 8417
-        slug: deir-hanna
-      - 
-        districts: []
-        location: "POINT (32.6958300000000008 35.3722199999999987)"
-        name: Dabbūrīya
-        population: 8305
-        slug: dabburiya
-      - 
-        districts: []
-        location: "POINT (32.9791700000000034 35.3361099999999979)"
-        name: Buqei‘a
-        population: 5200
-        slug: buqeia
-      - 
-        districts: []
-        location: "POINT (32.8052800000000033 35.3636100000000013)"
-        name: Bu‘eina
-        population: 7900
-        slug: bueina
-      - 
-        districts: []
-        location: "POINT (32.7500000000000000 35.2333300000000023)"
-        name: "Bīr el Maksūr"
-        population: 7106
-        slug: bir-el-maksur
-      - 
-        districts: []
-        location: "POINT (32.5000000000000000 35.5000000000000000)"
-        name: "Bet She’an"
-        population: 16800
-        slug: bet-shean
-      - 
-        districts: []
-        location: "POINT (32.9652799999999999 35.3794400000000024)"
-        name: "Beit Jann"
-        population: 10002
-        slug: beit-jann
-      - 
-        districts: []
-        location: "POINT (32.7344399999999993 35.1458299999999966)"
-        name: "Basmat Ṭab‘ūn"
-        population: 6300
-        slug: basmat-tabun
-      - 
-        districts: []
-        location: "POINT (32.9236099999999965 35.0727800000000016)"
-        name: ‘Akko
-        population: 45603
-        slug: akko
-      - 
-        districts: []
-        location: "POINT (32.6333300000000008 35.3333299999999966)"
-        name: "‘Afula ‘Illit"
-        population: 40000
-        slug: afula-illit
-      - 
-        districts: []
-        location: "POINT (32.6958300000000008 35.3972199999999972)"
-        name: Shibli
-        population: 4800
-        slug: shibli
-      - 
-        districts: []
-        location: "POINT (32.7791700000000006 35.3069399999999973)"
-        name: "Rūmat Heib"
-        population: 1588
-        slug: rumat-heib
-      - 
-        districts: []
-        location: "POINT (32.8972199999999972 35.3708299999999980)"
-        name: Sallama
-        population: 1800
-        slug: sallama
-      - 
-        districts: []
-        location: "POINT (32.9930599999999998 35.2749999999999986)"
-        name: "Kefar Weradim"
-        population: 5608
-        slug: kefar-weradim
-    code: IL.03
-    name: "Northern District"
-    slug: northern-district
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.5158300000000011 35.1525000000000034)"
-        name: "Umm el Faḥm"
-        population: 41030
-        slug: umm-el-fahm
-      - 
-        districts: []
-        location: "POINT (32.7616700000000023 34.9719399999999965)"
-        name: "Tirat Karmel"
-        population: 18993
-        slug: tirat-karmel
-      - 
-        districts: []
-        location: "POINT (32.7500000000000000 35.1000000000000014)"
-        name: Rekhasim
-        population: 8513
-        slug: rekhasim
-      - 
-        districts: []
-        location: "POINT (32.8508300000000020 35.0702799999999968)"
-        name: "Qiryat Yam"
-        population: 37639
-        slug: qiryat-yam
-      - 
-        districts: []
-        location: "POINT (32.8363900000000015 35.0752799999999993)"
-        name: "Qiryat Motzkin"
-        population: 39404
-        slug: qiryat-motzkin
-      - 
-        districts: []
-        location: "POINT (32.8275000000000006 35.0858300000000014)"
-        name: "Qiryat Bialik"
-        population: 36551
-        slug: qiryat-bialik
-      - 
-        districts: []
-        location: "POINT (32.8005599999999973 35.1063899999999975)"
-        name: "Qiryat Ata"
-        population: 48966
-        slug: qiryat-ata
-      - 
-        districts: []
-        location: "POINT (32.7650000000000006 35.0499999999999972)"
-        name: Nesher
-        population: 21245
-        slug: nesher
-      - 
-        districts: []
-        location: "POINT (32.7616700000000023 35.1008300000000020)"
-        name: Ibṭin
-        population: 2020
-        slug: ibtin
-      - 
-        districts: []
-        location: "POINT (32.8155599999999978 34.9891700000000014)"
-        name: Haifa
-        population: 267300
-        slug: haifa
-      - 
-        districts: []
-        location: "POINT (32.4352799999999988 34.9174999999999969)"
-        name: H̱adera
-        population: 75854
-        slug: hadera
-      - 
-        districts: []
-        location: "POINT (32.6000000000000014 34.9500000000000028)"
-        name: "El Fureidīs"
-        population: 9999
-        slug: el-fureidis
-      - 
-        districts: []
-        location: "POINT (32.6936099999999996 35.0408299999999997)"
-        name: "Dāliyat el Karmil"
-        population: 25000
-        slug: daliyat-el-karmil
-      - 
-        districts: []
-        location: "POINT (32.6833299999999980 34.9333299999999980)"
-        name: ‘Atlit
-        population: 4500
-        slug: atlit
-      - 
-        districts: []
-        location: "POINT (32.5188800000000029 34.9045899999999989)"
-        name: Qesarya
-        population: 4500
-        slug: qesarya
-    code: IL.04
-    name: Haifa
-    slug: haifa
-  - 
-    cities: 
-      - 
-        districts: []
-        location: "POINT (32.1472199999999972 34.8416700000000006)"
-        name: "Ramat HaSharon"
-        population: 36137
-        slug: ramat-hasharon
-      - 
-        districts: []
-        location: "POINT (32.0805599999999984 34.8141699999999972)"
-        name: "Ramat Gan"
-        population: 128095
-        slug: ramat-gan
-      - 
-        districts: []
-        location: "POINT (32.0311099999999982 34.8458299999999994)"
-        name: "Or Yehuda"
-        population: 30802
-        slug: or-yehuda
-      - 
-        districts: []
-        location: "POINT (32.1855600000000024 34.8219399999999979)"
-        name: "Kefar Shemaryahu"
-        population: 1774
-        slug: kefar-shemaryahu
-      - 
-        districts: []
-        location: "POINT (32.0113899999999987 34.7722199999999972)"
-        name: H̱olon
-        population: 165787
-        slug: holon
-      - 
-        districts: []
-        location: "POINT (32.1658299999999997 34.8366699999999980)"
-        name: Herzliyya
-        population: 83600
-        slug: herzliyya
-      - 
-        districts: []
-        location: "POINT (32.0752799999999993 34.8466700000000031)"
-        name: "Giv‘at Shemu’el"
-        population: 18500
-        slug: givat-shemuel
-      - 
-        districts: []
-        location: "POINT (32.0697199999999967 34.8116699999999994)"
-        name: Giv‘atayim
-        population: 48000
-        slug: givatayim
-      - 
-        districts: []
-        location: "POINT (32.0902799999999999 34.8397199999999998)"
-        name: "Bene Beraq"
-        population: 144663
-        slug: bene-beraq
-      - 
-        districts: 
-          - 
-            location: "POINT (32.0504299999999986 34.7522400000000005)"
-            name: Yafo
-            population: 100000
-            slug: yafo
-          - 
-            location: "POINT (32.0666700000000020 34.7666699999999977)"
-            name: "Tel Aviv"
-            population: 250000
-            slug: tel-aviv
-        location: "POINT (32.0230600000000010 34.7502799999999965)"
-        name: "Bat Yam"
-        population: 128979
-        slug: bat-yam
-      - 
-        districts: []
-        location: "POINT (32.0191700000000026 34.8105600000000024)"
-        name: Azor
-        population: 10108
-        slug: azor
-    code: IL.05
-    name: "Tel Aviv"
-    slug: tel-aviv
-  - 
-    cities: 
-      - 
-        districts: 
-          - 
-            location: "POINT (31.7766699999999993 35.2341699999999989)"
-            name: "Old City"
-            population: 36000
-            slug: old-city
-          - 
-            location: "POINT (31.7819900000000004 35.2196100000000030)"
-            name: "West Jerusalem"
-            population: 400000
-            slug: west-jerusalem
-          - 
-            location: "POINT (31.7833599999999983 35.2338799999999992)"
-            name: "East Jerusalem"
-            population: 428304
-            slug: east-jerusalem
-        location: "POINT (31.7790199999999992 35.2252999999999972)"
+        alternate_names: 
+          - Adonai-jireh
+          - "Aelia Capitolina"
+          - "Al Quds"
+        ascii_name: Jerusalem
         name: Jerusalem
+        names_en: 
+          - Zion
+          - Ariel
+          - Jerusalem
+        names_es: 
+          - Jerusalén
         population: 714000
-        slug: jerusalem
       - 
-        districts: []
-        location: "POINT (31.7166700000000006 35.1000000000000014)"
+        alternate_names: ~
+        ascii_name: "Zur Hadassa"
         name: "Ẕur Hadassa"
+        names_en: ~
+        names_es: ~
         population: 4700
-        slug: zur-hadassa
       - 
-        districts: []
-        location: "POINT (31.7166700000000006 35.1000000000000014)"
+        alternate_names: 
+          - "Mevo Beitar"
+          - "Mevo Beiter"
+          - "Mevo Betar"
+        ascii_name: "Mevo Betar"
         name: "Mevo Betar"
+        names_en: ~
+        names_es: ~
         population: 27267
-        slug: mevo-betar
       - 
-        districts: []
-        location: "POINT (31.7500000000000000 35.0000000000000000)"
+        alternate_names: 
+          - "Beit Semes"
+          - "Beit Şemeş"
+          - Beit-Shemesh
+        ascii_name: "Bet Shemesh"
         name: "Bet Shemesh"
+        names_en: 
+          - "Bet Shemesh"
+        names_es: 
+          - "Bet Shemesh"
         population: 67100
-        slug: bet-shemesh
       - 
-        districts: []
-        location: "POINT (31.8000000000000007 35.1000000000000014)"
+        alternate_names: 
+          - "Abu Ghaush"
+          - "Abu Ghosh"
+          - Abu-Ghawsh
+        ascii_name: "Abu Ghaush"
         name: "Abū Ghaush"
+        names_en: ~
+        names_es: ~
         population: 5707
-        slug: abu-ghaush
-    code: IL.06
-    name: Yerushalayim
-    slug: yerushalayim
-tld: il
+    name: "Jerusalem District"
+    names_en: 
+      - "Jerusalem District"
+    names_es: ~
+  - 
+    ascii_name: "Tel Aviv"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ramat HaSharon"
+          - "Ramat Hash Sharon"
+          - "`Ir Shalom"
+        ascii_name: "Ramat HaSharon"
+        name: "Ramat HaSharon"
+        names_en: ~
+        names_es: ~
+        population: 36137
+      - 
+        alternate_names: 
+          - Gan
+          - "Ramat Gan"
+          - Ramat-Gan
+        ascii_name: "Ramat Gan"
+        name: "Ramat Gan"
+        names_en: 
+          - "Ramat Gan"
+        names_es: 
+          - "Ramat Gan"
+        population: 128095
+      - 
+        alternate_names: 
+          - "Or Yehuda"
+          - "Or Yehudah"
+          - Saqiya
+        ascii_name: "Or Yehuda"
+        name: "Or Yehuda"
+        names_en: ~
+        names_es: ~
+        population: 30802
+      - 
+        alternate_names: 
+          - "Kefar Shmaryahu"
+          - "Kesar Shenaryahu"
+        ascii_name: "Kefar Shemaryahu"
+        name: "Kefar Shemaryahu"
+        names_en: ~
+        names_es: ~
+        population: 1774
+      - 
+        alternate_names: 
+          - Cholon
+          - Holon
+          - H̱olon
+        ascii_name: Holon
+        name: H̱olon
+        names_en: 
+          - Holon
+        names_es: 
+          - Jolón
+        population: 165787
+      - 
+        alternate_names: 
+          - Gerclija
+          - Herseliya
+          - Hertseliyya
+        ascii_name: Herzliyya
+        name: Herzliyya
+        names_en: 
+          - Herzliya
+        names_es: 
+          - Herzliya
+        population: 83600
+      - 
+        alternate_names: 
+          - "Giv`at Shemu'el"
+          - "Giv`at Shmuel"
+          - "Giv‘at Shemu’el"
+        ascii_name: "Giv`at Shemu'el"
+        name: "Giv‘at Shemu’el"
+        names_en: ~
+        names_es: ~
+        population: 18500
+      - 
+        alternate_names: 
+          - Gevataym
+          - Giv`atayim
+          - Givataim
+        ascii_name: Giv`atayim
+        name: Giv‘atayim
+        names_en: ~
+        names_es: ~
+        population: 48000
+      - 
+        alternate_names: 
+          - "Benai Beraq"
+          - "Bene Beraq"
+          - "Benei Beraq"
+        ascii_name: "Bene Beraq"
+        name: "Bene Beraq"
+        names_en: ~
+        names_es: ~
+        population: 144663
+      - 
+        alternate_names: 
+          - "Bat Jam"
+          - "Bat Yam"
+          - Bat-Jam
+        ascii_name: "Bat Yam"
+        name: "Bat Yam"
+        names_en: 
+          - "Bat Yam"
+        names_es: 
+          - "Bat Yam"
+        population: 128979
+      - 
+        alternate_names: 
+          - Azor
+          - Azur
+          - Yazir
+        ascii_name: Azor
+        name: Azor
+        names_en: ~
+        names_es: ~
+        population: 10108
+    name: "Tel Aviv"
+    names_en: 
+      - "Tel Aviv"
+      - "Tel Aviv District"
+    names_es: ~
+  - 
+    ascii_name: "Haifa District"
+    cities: 
+      - 
+        alternate_names: 
+          - "El Fahm"
+          - "Umm al Fahm"
+          - "Umm el Faham"
+        ascii_name: "Umm el Fahm"
+        name: "Umm el Faḥm"
+        names_en: ~
+        names_es: ~
+        population: 41030
+      - 
+        alternate_names: 
+          - "At Tira"
+          - Tira
+          - Tirah
+        ascii_name: "Tirat Karmel"
+        name: "Tirat Karmel"
+        names_en: ~
+        names_es: ~
+        population: 18993
+      - 
+        alternate_names: ~
+        ascii_name: Rekhasim
+        name: Rekhasim
+        names_en: ~
+        names_es: ~
+        population: 8513
+      - 
+        alternate_names: 
+          - Kir'jat-Jam
+          - "Kirjat Jam"
+          - Kiryat-Yam
+        ascii_name: "Qiryat Yam"
+        name: "Qiryat Yam"
+        names_en: 
+          - "Qiryat Yam"
+        names_es: 
+          - "Qiryat Yam"
+        population: 37639
+      - 
+        alternate_names: 
+          - Kir'jat-Mockin
+          - "Qiryat Motskin"
+          - "Qiryat Motsqin"
+        ascii_name: "Qiryat Motzkin"
+        name: "Qiryat Motzkin"
+        names_en: ~
+        names_es: ~
+        population: 39404
+      - 
+        alternate_names: 
+          - Kir'jat-Bjalik
+          - "Qiryat Bialik"
+          - "Qiryat Bialiq"
+        ascii_name: "Qiryat Bialik"
+        name: "Qiryat Bialik"
+        names_en: ~
+        names_es: ~
+        population: 36551
+      - 
+        alternate_names: 
+          - "Kefar `Atah"
+          - "Kefar `Atta"
+          - "Kefar ‘Atah"
+        ascii_name: "Qiryat Ata"
+        name: "Qiryat Ata"
+        names_en: ~
+        names_es: ~
+        population: 48966
+      - 
+        alternate_names: 
+          - Neixer
+          - Nescher
+          - Nesher
+        ascii_name: Nesher
+        name: Nesher
+        names_en: 
+          - Nesher
+        names_es: 
+          - Nesher
+        population: 21245
+      - 
+        alternate_names: 
+          - Beten
+          - Ibtin
+          - Ibṭin
+        ascii_name: Ibtin
+        name: Ibṭin
+        names_en: ~
+        names_es: ~
+        population: 2020
+      - 
+        alternate_names: 
+          - Caiffa
+          - Haifa
+          - Hajfa
+        ascii_name: Haifa
+        name: Haifa
+        names_en: 
+          - Haifa
+        names_es: 
+          - Haifa
+        population: 267300
+      - 
+        alternate_names: 
+          - Chadera
+          - "El Khudeira"
+          - Hadera
+        ascii_name: Hadera
+        name: H̱adera
+        names_en: 
+          - Hadera
+        names_es: 
+          - Hadera
+        population: 75854
+      - 
+        alternate_names: 
+          - "Al Fureidis"
+          - "El Fureidis"
+          - "El Fureidīs"
+        ascii_name: "El Fureidis"
+        name: "El Fureidīs"
+        names_en: ~
+        names_es: ~
+        population: 9999
+      - 
+        alternate_names: 
+          - "Carmel City"
+          - Daliyah
+          - "Daliyat ad-Druz"
+        ascii_name: "Daliyat el Karmil"
+        name: "Dāliyat el Karmil"
+        names_en: 
+          - "Carmel City"
+        names_es: ~
+        population: 25000
+      - 
+        alternate_names: 
+          - "`Athlit"
+          - "`Athlith"
+          - "`Atlit"
+        ascii_name: "`Atlit"
+        name: ‘Atlit
+        names_en: ~
+        names_es: ~
+        population: 4500
+      - 
+        alternate_names: 
+          - Caesarea
+          - Kaysaria
+          - Keisarya
+        ascii_name: Qesarya
+        name: Qesarya
+        names_en: 
+          - Caesarea
+        names_es: ~
+        population: 4500
+    name: Haifa
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Northern District"
+    cities: 
+      - 
+        alternate_names: 
+          - Cfat
+          - Safad
+          - Safed
+        ascii_name: Zefat
+        name: Ẕefat
+        names_en: ~
+        names_es: ~
+        population: 27816
+      - 
+        alternate_names: 
+          - "Kefar Yamma"
+          - Yabneel
+          - Yabniel
+        ascii_name: Yavne'el
+        name: Yavne’el
+        names_en: ~
+        names_es: ~
+        population: 2900
+      - 
+        alternate_names: 
+          - "`Azir"
+          - "`Uzayr"
+          - "`Uzeir"
+        ascii_name: "`Uzeir"
+        name: ‘Uzeir
+        names_en: ~
+        names_es: ~
+        population: 2591
+      - 
+        alternate_names: ~
+        ascii_name: Timrat
+        name: Timrat
+        names_en: ~
+        names_es: ~
+        population: 1789
+      - 
+        alternate_names: 
+          - Tabariya
+          - Tabariyeh
+          - Tabariyyah
+        ascii_name: Tiberias
+        name: Tiberias
+        names_en: 
+          - Tiberias
+        names_es: 
+          - Tiberíades
+        population: 39790
+      - 
+        alternate_names: 
+          - Maalot-Tarshikha
+          - "Me`ona `Ironit"
+          - Tarchiha
+        ascii_name: "maalot Tarshiha"
+        name: "maalot Tarshīhā"
+        names_en: ~
+        names_es: ~
+        population: 21400
+      - 
+        alternate_names: 
+          - Tamra
+          - Tamrah
+          - Temarah
+        ascii_name: Tamra
+        name: Tamra
+        names_en: ~
+        names_es: ~
+        population: 25917
+      - 
+        alternate_names: 
+          - Shunem
+          - Sulam
+          - Sūlam
+        ascii_name: Sulam
+        name: Sūlam
+        names_en: ~
+        names_es: ~
+        population: 2426
+      - 
+        alternate_names: 
+          - Chelomi
+          - Shelomi
+          - Shlomi
+        ascii_name: Shelomi
+        name: Shelomi
+        names_en: ~
+        names_es: ~
+        population: 5608
+      - 
+        alternate_names: 
+          - Sahrin
+          - Sakhnin
+          - Sakhnīn
+        ascii_name: Sakhnin
+        name: Sakhnīn
+        names_en: ~
+        names_es: ~
+        population: 24596
+      - 
+        alternate_names: 
+          - Sajur
+          - Shezor
+          - Sājūr
+        ascii_name: Sajur
+        name: Sājūr
+        names_en: ~
+        names_es: ~
+        population: 3547
+      - 
+        alternate_names: 
+          - "El Ja`une"
+          - "El Jā‘ūne"
+          - Ja`una
+        ascii_name: "Rosh Pinna"
+        name: "Rosh Pinna"
+        names_en: ~
+        names_es: ~
+        population: 2492
+      - 
+        alternate_names: 
+          - Jadah
+          - Jeida
+          - "Ramat Yishai"
+        ascii_name: "Ramat Yishay"
+        name: "Ramat Yishay"
+        names_en: ~
+        names_es: ~
+        population: 5431
+      - 
+        alternate_names: 
+          - "Al Khalisa"
+          - "El Khalisa"
+          - Halasa
+        ascii_name: "Qiryat Shemona"
+        name: "Qiryat Shemona"
+        names_en: ~
+        names_es: ~
+        population: 22035
+      - 
+        alternate_names: 
+          - Na`im
+          - Nayn
+          - Na‘im
+        ascii_name: Nein
+        name: Nein
+        names_en: ~
+        names_es: ~
+        population: 1588
+      - 
+        alternate_names: 
+          - "En Nasira"
+          - "En Nāsira"
+          - "Lungsod ng Nazaret"
+        ascii_name: Nazareth
+        name: Nazareth
+        names_en: 
+          - Nazareth
+        names_es: 
+          - Nazaret
+        population: 64800
+      - 
+        alternate_names: 
+          - Nahaf
+          - Nahef
+          - Nahf
+        ascii_name: Nahf
+        name: Naḥf
+        names_en: ~
+        names_es: ~
+        population: 10105
+      - 
+        alternate_names: 
+          - Nagarija
+          - Nahariya
+          - Nahariyah
+        ascii_name: Nahariyya
+        name: Nahariyya
+        names_en: ~
+        names_es: ~
+        population: 50273
+      - 
+        alternate_names: 
+          - Maaliya
+          - Me`elya
+          - Me‘elyā
+        ascii_name: Mi`ilya
+        name: Mi‘ilyā
+        names_en: ~
+        names_es: ~
+        population: 2700
+      - 
+        alternate_names: 
+          - Magidal
+          - "Migdal Ha`Emeq"
+          - "Migdal Haemeqck"
+        ascii_name: "Migdal Ha`Emeq"
+        name: "Migdal Ha‘Emeq"
+        names_en: ~
+        names_es: ~
+        population: 24800
+      - 
+        alternate_names: 
+          - "El Mutille"
+          - Metula
+          - Metulah
+        ascii_name: Metulla
+        name: Metulla
+        names_en: ~
+        names_es: ~
+        population: 1466
+      - 
+        alternate_names: 
+          - "El Mansura"
+          - Ma`ariyah
+          - Maghar
+        ascii_name: Maghar
+        name: Maghār
+        names_en: ~
+        names_es: ~
+        population: 18915
+      - 
+        alternate_names: 
+          - "Kefar Tabor"
+          - "Kefar Tavor"
+          - "Kfar Tavor"
+        ascii_name: "Kefar Tavor"
+        name: "Kefar Tavor"
+        names_en: ~
+        names_es: ~
+        population: 2323
+      - 
+        alternate_names: 
+          - Kaukab
+          - "Kaukab Abu el Hija"
+          - "Kaukab Abū el Hīja"
+        ascii_name: "Kaukab Abu el Hija"
+        name: "Kaukab Abū el Hīja"
+        names_en: ~
+        names_es: ~
+        population: 2800
+      - 
+        alternate_names: 
+          - Carmiel
+          - Karmi'el
+          - Karmiehl'
+        ascii_name: Karmi'el
+        name: Karmi’el
+        names_en: ~
+        names_es: ~
+        population: 44382
+      - 
+        alternate_names: 
+          - "Kafr Yasif"
+          - "Kafr Yāsīf"
+          - Kefar-Yasif
+        ascii_name: "Kafr Yasif"
+        name: "Kafr Yāsīf"
+        names_en: ~
+        names_es: ~
+        population: 8308
+      - 
+        alternate_names: 
+          - "Kafr Masr"
+          - "Kafr Misr"
+          - "Kafr Miṣr"
+        ascii_name: "Kafr Misr"
+        name: "Kafr Miṣr"
+        names_en: ~
+        names_es: ~
+        population: 2400
+      - 
+        alternate_names: 
+          - "Kafar Manda"
+          - Kafer-Manda
+          - "Kafr Manda"
+        ascii_name: "Kafr Manda"
+        name: "Kafr Mandā"
+        names_en: ~
+        names_es: ~
+        population: 15014
+      - 
+        alternate_names: 
+          - "Kafr Kanna"
+          - "Kafr Kannā"
+          - "Kafr Qanah"
+        ascii_name: "Kafr Kanna"
+        name: "Kafr Kannā"
+        names_en: ~
+        names_es: ~
+        population: 17606
+      - 
+        alternate_names: 
+          - "Kafar Kama"
+          - Kafer-Kama
+          - "Kafr Kama"
+        ascii_name: "Kafr Kama"
+        name: "Kafr Kamā"
+        names_en: ~
+        names_es: ~
+        population: 2990
+      - 
+        alternate_names: 
+          - Kabul
+          - Kavul
+          - Kābūl
+        ascii_name: Kabul
+        name: Kābūl
+        names_en: ~
+        names_es: ~
+        population: 9497
+      - 
+        alternate_names: 
+          - "Al Judeida"
+          - Judaydah
+          - Judeida
+        ascii_name: Judeida
+        name: Judeida
+        names_en: ~
+        names_es: ~
+        population: 17530
+      - 
+        alternate_names: 
+          - Giscala
+          - Gishala
+          - "Gush Halab"
+        ascii_name: Jish
+        name: Jīsh
+        names_en: ~
+        names_es: ~
+        population: 2684
+      - 
+        alternate_names: 
+          - Iksal
+          - Iksāl
+          - Kessulot
+        ascii_name: Iksal
+        name: Iksāl
+        names_en: ~
+        names_es: ~
+        population: 11398
+      - 
+        alternate_names: 
+          - Hourfeich
+          - Hurfaysh
+          - Hurfeish
+        ascii_name: Hurfeish
+        name: Ḥurfeish
+        names_en: ~
+        names_es: ~
+        population: 5308
+      - 
+        alternate_names: 
+          - Fassuta
+          - Fassutah
+          - Fassūṭā
+        ascii_name: Mafshatah
+        name: Mafshatah
+        names_en: ~
+        names_es: ~
+        population: 2985
+      - 
+        alternate_names: 
+          - Dannun
+          - Danun
+          - "Esh Sheikh Dannun"
+        ascii_name: "Esh Sheikh Dannun"
+        name: "Esh Sheikh Dannūn"
+        names_en: ~
+        names_es: ~
+        population: 2305
+      - 
+        alternate_names: 
+          - "Ar Reina"
+          - "Er Reina"
+          - Raynah
+        ascii_name: "Er Reina"
+        name: "Er Reina"
+        names_en: ~
+        names_es: ~
+        population: 15621
+      - 
+        alternate_names: 
+          - "Al Mazra`a"
+          - "Al Mazra‘a"
+          - "El Mazra`a"
+        ascii_name: "El Mazra`a"
+        name: "El Mazra‘a"
+        names_en: ~
+        names_es: ~
+        population: 3900
+      - 
+        alternate_names: 
+          - "`Ailabun"
+          - "`Aylabun"
+          - "`Eilabun"
+        ascii_name: "`Eilabun"
+        name: ‘Eilabūn
+        names_en: ~
+        names_es: ~
+        population: 4400
+      - 
+        alternate_names: 
+          - "Dayr Hannah"
+          - "Deir Hanna"
+          - "Deir Ḥannā"
+        ascii_name: "Deir Hanna"
+        name: "Deir Ḥannā"
+        names_en: ~
+        names_es: ~
+        population: 8417
+      - 
+        alternate_names: 
+          - Dabburiya
+          - Dabburiyah
+          - Dabburye
+        ascii_name: Dabburiya
+        name: Dabbūrīya
+        names_en: ~
+        names_es: ~
+        population: 8305
+      - 
+        alternate_names: 
+          - "Al Buqei`a"
+          - "Al Buqei‘a"
+          - Beqe`ah
+        ascii_name: Buqei`a
+        name: Buqei‘a
+        names_en: ~
+        names_es: ~
+        population: 5200
+      - 
+        alternate_names: 
+          - Bu`aynah
+          - Bu`eina
+          - Bu`eine
+        ascii_name: Bu`eina
+        name: Bu‘eina
+        names_en: ~
+        names_es: ~
+        population: 7900
+      - 
+        alternate_names: ~
+        ascii_name: "Bir el Maksur"
+        name: "Bīr el Maksūr"
+        names_en: ~
+        names_es: ~
+        population: 7106
+      - 
+        alternate_names: 
+          - Beisan
+          - Beisān
+          - "Beit Shean"
+        ascii_name: "Bet She'an"
+        name: "Bet She’an"
+        names_en: 
+          - "Bet She'an"
+        names_es: 
+          - "Bet She'an"
+        population: 16800
+      - 
+        alternate_names: 
+          - "Bayt Jann"
+          - "Beit Jann"
+          - "Bet Dagan"
+        ascii_name: "Beit Jann"
+        name: "Beit Jann"
+        names_en: ~
+        names_es: ~
+        population: 10002
+      - 
+        alternate_names: 
+          - "Basmat Tab'un"
+          - "Basmat Tab`un"
+          - "Basmat Ṭab‘ūn"
+        ascii_name: "Basmat Tab`un"
+        name: "Basmat Ṭab‘ūn"
+        names_en: ~
+        names_es: ~
+        population: 6300
+      - 
+        alternate_names: 
+          - Accho
+          - Acre
+          - "Acre - עכו"
+        ascii_name: "`Akko"
+        name: ‘Akko
+        names_en: 
+          - Acre
+        names_es: 
+          - Acre
+        population: 45603
+      - 
+        alternate_names: 
+          - "Upper Afula"
+          - "`Afula `Elit"
+          - "`Afula `Illit"
+        ascii_name: "`Afula `Illit"
+        name: "‘Afula ‘Illit"
+        names_en: ~
+        names_es: ~
+        population: 40000
+      - 
+        alternate_names: ~
+        ascii_name: Shibli
+        name: Shibli
+        names_en: ~
+        names_es: ~
+        population: 4800
+      - 
+        alternate_names: ~
+        ascii_name: "Rumat Heib"
+        name: "Rūmat Heib"
+        names_en: ~
+        names_es: ~
+        population: 1588
+      - 
+        alternate_names: ~
+        ascii_name: Sallama
+        name: Sallama
+        names_en: ~
+        names_es: ~
+        population: 1800
+      - 
+        alternate_names: ~
+        ascii_name: "Kefar Weradim"
+        name: "Kefar Weradim"
+        names_en: ~
+        names_es: ~
+        population: 5608
+    name: "Northern District"
+    names_en: 
+      - "Northern District"
+    names_es: ~
+  - 
+    ascii_name: "Central District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Tsur Moshe"
+          - "Tsur Mosheh"
+          - "Zur Moshe"
+        ascii_name: "Zur Moshe"
+        name: "Ẕur Moshe"
+        names_en: ~
+        names_es: ~
+        population: 2400
+      - 
+        alternate_names: 
+          - Javne
+          - "Kefar Yavne"
+          - "Kfar Yavne"
+        ascii_name: Yavne
+        name: Yavne
+        names_en: ~
+        names_es: ~
+        population: 31774
+      - 
+        alternate_names: ~
+        ascii_name: "Tel Mond"
+        name: "Tel Mond"
+        names_en: ~
+        names_es: ~
+        population: 8725
+      - 
+        alternate_names: 
+          - Saviyon
+          - Savyon
+          - sbywn
+        ascii_name: Savyon
+        name: Savyon
+        names_en: ~
+        names_es: ~
+        population: 3434
+      - 
+        alternate_names: 
+          - "Ayun Kara"
+          - "Le Tsiyon"
+          - "Le Tsīyōn"
+        ascii_name: "Rishon LeZiyyon"
+        name: "Rishon LeẔiyyon"
+        names_en: 
+          - "Rishon LeZion"
+        names_es: 
+          - "Rishon LeZion"
+        population: 220492
+      - 
+        alternate_names: 
+          - "Er Ramle"
+          - Ramla
+          - Ramle
+        ascii_name: Ramla
+        name: Ramla
+        names_en: 
+          - Ramla
+        names_es: 
+          - Ramla
+        population: 63860
+      - 
+        alternate_names: 
+          - Qalansuwa
+          - Qalansuwah
+          - Qallansawah
+        ascii_name: Qalansuwa
+        name: Qalansuwa
+        names_en: ~
+        names_es: ~
+        population: 16898
+      - 
+        alternate_names: 
+          - Pardesiya
+          - Pardesiyah
+          - Pardesiyya
+        ascii_name: Pardesiyya
+        name: Pardesiyya
+        names_en: ~
+        names_es: ~
+        population: 6254
+      - 
+        alternate_names: 
+          - Nordiya
+          - Nordiyah
+          - Nordiyya
+        ascii_name: Nordiyya
+        name: Nordiyya
+        names_en: ~
+        names_es: ~
+        population: 2264
+      - 
+        alternate_names: 
+          - "Lungsod ng Ntanya"
+          - Natania
+          - Natanja
+        ascii_name: Netanya
+        name: Netanya
+        names_en: 
+          - Netanya
+        names_es: 
+          - Netanya
+        population: 171676
+      - 
+        alternate_names: 
+          - "Nahalat Reuven"
+          - "Nes Siyona"
+          - "Nes Tsiyona"
+        ascii_name: "Ness Ziona"
+        name: "Ness Ziona"
+        names_en: ~
+        names_es: ~
+        population: 38700
+      - 
+        alternate_names: ~
+        ascii_name: Nehalim
+        name: Neẖalim
+        names_en: ~
+        names_es: ~
+        population: 2061
+      - 
+        alternate_names: 
+          - Ekron
+          - "Mazkeret Batya"
+          - "Mazkeret Batyah"
+        ascii_name: "Mazkeret Batya"
+        name: "Mazkeret Batya"
+        names_en: ~
+        names_es: ~
+        population: 8034
+      - 
+        alternate_names: 
+          - Lida
+          - Lidd
+          - Lod
+        ascii_name: Lod
+        name: Lod
+        names_en: 
+          - Lod
+        names_es: 
+          - Lod
+        population: 66589
+      - 
+        alternate_names: 
+          - "Kefar Yona"
+          - "Kefar Yonah"
+          - "Kfar Yona"
+        ascii_name: "Kefar Yona"
+        name: "Kefar Yona"
+        names_en: ~
+        names_es: ~
+        population: 13320
+      - 
+        alternate_names: 
+          - "Kafr Saba"
+          - "Kefar Saba"
+          - "Kefar Sava"
+        ascii_name: "Kefar Sava"
+        name: "Kefar Sava"
+        names_en: ~
+        names_es: ~
+        population: 80773
+      - 
+        alternate_names: 
+          - "Kefar Habad"
+          - "Kefar Habbad"
+          - "Kefar H̱abad"
+        ascii_name: "Kefar Habad"
+        name: "Kefar H̱abad"
+        names_en: ~
+        names_es: ~
+        population: 4771
+      - 
+        alternate_names: 
+          - "Kafar Qasem"
+          - "Kafar Qāsem"
+          - Kafer-Kassim
+        ascii_name: "Kafr Qasim"
+        name: "Kafr Qāsim"
+        names_en: ~
+        names_es: ~
+        population: 17303
+      - 
+        alternate_names: 
+          - Gilgal
+          - Gilgāl
+          - Jaljuliya
+        ascii_name: Jaljulya
+        name: Jaljūlya
+        names_en: ~
+        names_es: ~
+        population: 7505
+      - 
+        alternate_names: 
+          - "Hada Ramatayim"
+          - "Hadar Ramataim"
+          - "Hadar Ramatayim"
+        ascii_name: "Hod HaSharon"
+        name: "Hod HaSharon"
+        names_en: ~
+        names_es: ~
+        population: 43185
+      - 
+        alternate_names: 
+          - Gedera
+          - Gederah
+        ascii_name: Gedera
+        name: Gedera
+        names_en: ~
+        names_es: ~
+        population: 14575
+      - 
+        alternate_names: 
+          - "Gan Yavne"
+          - "Gan Yavneh"
+        ascii_name: "Gan Yavne"
+        name: "Gan Yavne"
+        names_en: ~
+        names_es: ~
+        population: 14975
+      - 
+        alternate_names: ~
+        ascii_name: "Ganne Tiqwa"
+        name: "Ganne Tiqwa"
+        names_en: ~
+        names_es: ~
+        population: 12213
+      - 
+        alternate_names: 
+          - "Even Yahuda"
+          - "Even Yehuda"
+          - "Even Yehudah"
+        ascii_name: "Even Yehuda"
+        name: "Even Yehuda"
+        names_en: ~
+        names_es: ~
+        population: 9282
+      - 
+        alternate_names: 
+          - "At Tira"
+          - "Et Tira"
+          - "Et Tire"
+        ascii_name: Tirah
+        name: Tirah
+        names_en: ~
+        names_es: ~
+        population: 20786
+      - 
+        alternate_names: 
+          - "At Taiyiba"
+          - E-Tayibe
+          - "El Taiyiba"
+        ascii_name: "Et Taiyiba"
+        name: "Eṭ Ṭaiyiba"
+        names_en: ~
+        names_es: ~
+        population: 32978
+      - 
+        alternate_names: 
+          - Elyakhin
+          - "Khirbat Zalafa"
+          - "Ma'abara Merkazit Emeq Hefer"
+        ascii_name: Elyakhin
+        name: Elyakhin
+        names_en: ~
+        names_es: ~
+        population: 2728
+      - 
+        alternate_names: 
+          - "Beit Yits-haq"
+          - "Beit Yits-ḥaq"
+          - "Beit Yitzak"
+        ascii_name: "Bet Yizhaq"
+        name: "Bet Yiẕẖaq"
+        names_en: ~
+        names_es: ~
+        population: 1674
+      - 
+        alternate_names: 
+          - "Bayt Dajan"
+          - "Beit Dagon"
+          - "Beit Dajan"
+        ascii_name: "Bet Dagan"
+        name: "Bet Dagan"
+        names_en: ~
+        names_es: ~
+        population: 5604
+      - 
+        alternate_names: 
+          - "Nahal Soreq"
+          - "Naẖal Soreq"
+        ascii_name: "Bene 'Ayish"
+        name: "Bene 'Ayish"
+        names_en: ~
+        names_es: ~
+        population: 7763
+      - 
+        alternate_names: 
+          - Petakh-Tikva
+          - Петах-Тиква
+        ascii_name: "Petah Tikva"
+        name: "Petah Tikva"
+        names_en: ~
+        names_es: ~
+        population: 188900
+    name: "Central District"
+    names_en: 
+      - "Central District"
+    names_es: ~
+  - 
+    ascii_name: "Southern District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kefar Yeroham"
+          - "Kfar Yeroham"
+          - Yeroham
+        ascii_name: Yeroham
+        name: Yeroẖam
+        names_en: ~
+        names_es: ~
+        population: 8631
+      - 
+        alternate_names: 
+          - Sderot
+          - Sdérot
+          - Sederot
+        ascii_name: Sederot
+        name: Sederot
+        names_en: 
+          - Sderot
+        names_es: 
+          - Sederot
+        population: 20228
+      - 
+        alternate_names: 
+          - Gat
+          - Kir'jat-Gat
+          - "Kirjat Gat"
+        ascii_name: "Qiryat Gat"
+        name: "Qiryat Gat"
+        names_en: 
+          - "Qiryat Gat"
+        names_es: ~
+        population: 47450
+      - 
+        alternate_names: 
+          - Ofakim
+          - Ofaqim
+          - Ofiqim
+        ascii_name: Ofaqim
+        name: Ofaqim
+        names_en: ~
+        names_es: ~
+        population: 24311
+      - 
+        alternate_names: 
+          - Azata
+          - Azzata
+          - Netivot
+        ascii_name: Netivot
+        name: Netivot
+        names_en: ~
+        names_es: ~
+        population: 24564
+      - 
+        alternate_names: 
+          - "Mahane Ramon"
+          - "Maḥane Ramon"
+          - "Mitspe Ramon"
+        ascii_name: "Mizpe Ramon"
+        name: "Miẕpe Ramon"
+        names_en: ~
+        names_es: ~
+        population: 4769
+      - 
+        alternate_names: 
+          - Ehjn-Bokek
+          - EnBokeko
+          - "`En Boqeq"
+        ascii_name: "`En Boqeq"
+        name: "‘En Boqeq"
+        names_en: ~
+        names_es: ~
+        population: 1400
+      - 
+        alternate_names: 
+          - Ehjlat
+          - Eilat
+          - Ejlat
+        ascii_name: Elat
+        name: Elat
+        names_en: 
+          - Eilat
+        names_es: 
+          - Eilat
+        population: 45588
+      - 
+        alternate_names: 
+          - Dimona
+          - Domona
+          - dymwnh
+        ascii_name: Dimona
+        name: Dimona
+        names_en: 
+          - Dimona
+        names_es: 
+          - Dimona
+        population: 33558
+      - 
+        alternate_names: 
+          - "B'er Sheva'"
+          - B'eyr-Sheva'
+          - "Be'er Seva"
+        ascii_name: Beersheba
+        name: Beersheba
+        names_en: 
+          - Beersheba
+        names_es: 
+          - "Be'er Sheva"
+          - "Beer Sheva"
+        population: 186600
+      - 
+        alternate_names: 
+          - "Al Majdal"
+          - Ashkelon
+          - Ashqelon
+        ascii_name: Ashqelon
+        name: Ashqelon
+        names_en: ~
+        names_es: ~
+        population: 105995
+      - 
+        alternate_names: 
+          - Aschdod
+          - Asdod
+          - Ashdod
+        ascii_name: Ashdod
+        name: Ashdod
+        names_en: 
+          - Ashdod
+        names_es: 
+          - Ashdod
+        population: 224656
+      - 
+        alternate_names: 
+          - lhbym
+          - להבים
+        ascii_name: Lehavim
+        name: Lehavim
+        names_en: ~
+        names_es: ~
+        population: 6000
+      - 
+        alternate_names: ~
+        ascii_name: "Midreshet Ben-Gurion"
+        name: "Midreshet Ben-Gurion"
+        names_en: ~
+        names_es: ~
+        population: 1100
+    name: "Southern District"
+    names_en: 
+      - "Southern District"
+    names_es: ~

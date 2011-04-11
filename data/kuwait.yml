@@ -1,82 +1,150 @@
 --- 
-code: KW
-continent: AS
 name: Kuwait
-population: 2789132
+names_en: 
+  - Kuwait
+  - "State of Kuwait"
+names_es: 
+  - Kuwait
 regions: 
   - 
+    ascii_name: "Muhafazat Hawalli"
+    cities: []
+    name: Ḩawallī
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Wafrah"
     cities: 
       - 
-        districts: []
-        location: "POINT (28.6391700000000000 47.9305599999999998)"
+        alternate_names: 
+          - "Al Wafrah"
+          - aalwafrat
+          - اَلْوَفْرَة
+        ascii_name: "Al Wafrah"
         name: "Al Wafrah"
+        names_en: ~
+        names_es: ~
         population: 10017
-        slug: al-wafrah
       - 
-        districts: []
-        location: "POINT (29.1449999999999996 48.1302799999999991)"
+        alternate_names: 
+          - "Al Mahbulah"
+          - "Al Mahbūlah"
+          - Al-Mahabulah
+        ascii_name: "Al Mahbulah"
         name: "Al Mahbūlah"
+        names_en: ~
+        names_es: ~
         population: 18178
-        slug: al-mahbulah
       - 
-        districts: []
-        location: "POINT (29.3374999999999986 47.6580599999999990)"
-        name: "Al Jahrā’"
-        population: 24281
-        slug: al-jahra
-      - 
-        districts: []
-        location: "POINT (29.0824999999999996 48.1302799999999991)"
+        alternate_names: 
+          - "Al Fahahil"
+          - "Al Faḩāḩīl"
+          - "Al Fuhaihil"
+        ascii_name: "Al Fahahil"
         name: "Al Faḩāḩīl"
+        names_en: ~
+        names_es: ~
         population: 68290
-        slug: al-fahahil
       - 
-        districts: []
-        location: "POINT (29.2774999999999999 47.9586100000000002)"
+        alternate_names: 
+          - "Al Farwania"
+          - "Al Farwaniyah"
+          - "Al Farwānīyah"
+        ascii_name: "Al Farwaniyah"
         name: "Al Farwānīyah"
+        names_en: ~
+        names_es: ~
         population: 86525
-        slug: al-farwaniyah
-    code: KW.00
-    name: "Muḩāfaz̧at al Wafrah"
-    slug: muhafazat-al-wafrah
+    name: ~
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Muhafazat al `Asimah"
     cities: 
       - 
-        districts: []
-        location: "POINT (29.4424999999999990 48.2747200000000021)"
+        alternate_names: 
+          - "Az Zaur"
+          - "Az Zawr"
+          - "Az Zor"
+        ascii_name: "Az Zawr"
         name: "Az Zawr"
+        names_en: ~
+        names_es: ~
         population: 5750
-        slug: az-zawr
       - 
-        districts: []
-        location: "POINT (29.3697200000000009 47.9783299999999997)"
+        alternate_names: 
+          - "Al Kuwait"
+          - "Al Kuwayt"
+          - Al-Kuwait
+        ascii_name: Kuwait
         name: Kuwait
+        names_en: 
+          - "Kuwait City"
+          - Kuwait
+        names_es: 
+          - "Ciudad de Kuwait"
+          - Kuwait
         population: 60064
-        slug: kuwait
-    code: KW.02
     name: "Al ‘Āşimah"
-    slug: al-asimah
+    names_en: ~
+    names_es: ~
   - 
+    ascii_name: "Muhafazat Jahra'"
     cities: 
       - 
-        districts: []
-        location: "POINT (29.1458300000000001 48.0947200000000024)"
+        alternate_names: 
+          - "Al Jahara"
+          - "Al Jahra"
+          - "Al Jahra'"
+        ascii_name: "Al Jahra'"
+        name: "Al Jahrā’"
+        names_en: 
+          - "Al Jahra"
+        names_es: ~
+        population: 24281
+    name: "Al Jahrāʼ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Al Farwaniyah"
+    cities: []
+    name: "Al Farwaniyah"
+    names_en: 
+      - "Al Farwaniyah"
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Ahmadi"
+    cities: 
+      - 
+        alternate_names: 
+          - Al-Riqqah
+          - "Ar Riqqah"
+          - Reqqa
+        ascii_name: "Ar Riqqah"
         name: "Ar Riqqah"
+        names_en: ~
+        names_es: ~
         population: 52068
-        slug: ar-riqqah
       - 
-        districts: []
-        location: "POINT (29.0961099999999995 48.1327799999999968)"
+        alternate_names: 
+          - "Al Manjaf"
+          - "Al Manqaf"
+          - Al-Mangaf
+        ascii_name: "Al Manqaf"
         name: "Al Manqaf"
+        names_en: ~
+        names_es: ~
         population: 39025
-        slug: al-manqaf
       - 
-        districts: []
-        location: "POINT (29.1738900000000001 48.1211100000000016)"
+        alternate_names: 
+          - "Al Fantas"
+          - "Al Fintas"
+          - "Al Fintass"
+        ascii_name: "Al Fintas"
         name: "Al Finţās"
+        names_en: ~
+        names_es: ~
         population: 23071
-        slug: al-fintas
-    code: KW.04
     name: "Al Aḩmadī"
-    slug: al-ahmadi
-tld: kw
+    names_en: ~
+    names_es: ~

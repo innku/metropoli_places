@@ -1,18 +1,46 @@
 --- 
-code: TF
-continent: AN
 name: "French Southern Territories"
-population: 140
+names_en: 
+  - "French Southern Territories"
+names_es: 
+  - "Territorios Australes Franceses"
 regions: 
   - 
+    ascii_name: "Archipel des Crozet"
+    cities: []
+    name: Crozet
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Archipel des Kerguelen"
     cities: 
       - 
-        districts: []
-        location: "POINT (-49.3500000000000014 70.2166699999999935)"
+        alternate_names: 
+          - Port-o-Franseh
+          - Порт-о-Франсэ
+        ascii_name: Port-aux-Francais
         name: Port-aux-Français
+        names_en: ~
+        names_es: ~
         population: 45
-        slug: port-aux-francais
-    code: TF.03
     name: Kerguelen
-    slug: kerguelen
-tld: tf
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Iles Saint-Paul et Nouvelle-Amsterdam"
+    cities: []
+    name: Saint-Paul-et-Amsterdam
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Iles Eparses de l'ocean Indien"
+    cities: []
+    name: "Îles Éparses"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "La Terre-Adelie"
+    cities: []
+    name: Terre-Adélie
+    names_en: ~
+    names_es: ~
