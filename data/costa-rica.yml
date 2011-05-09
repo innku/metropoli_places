@@ -2,8 +2,12 @@
 geonamesid: 3624060
 iso: CR
 name: "Costa Rica"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Costa Rica"
+  - "Republic of Costa Rica"
+names_es: 
+  - "Costa Rica"
+  - "República de Costa Rica"
 regions: 
   - 
     ascii_name: "Provincia de San Jose"
@@ -120,6 +124,7 @@ regions:
           - Marcos
           - "San Marcos"
           - "San Marcos de Dota"
+          - "San Marcos de Tarrazu"
         ascii_name: "San Marcos"
         geonamesid: 3621762
         latitude: 9.66667
@@ -158,13 +163,16 @@ regions:
           - "San Chose"
           - "San Chosė"
           - "San Jose"
+          - "San José"
         ascii_name: "San Jose"
         geonamesid: 3621849
         latitude: 9.93333
         longitude: -84.08333
         name: "San José"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San José"
+        names_es: 
+          - "San José"
         population: 335007
         timezone: America/Costa_Rica
       - 
@@ -172,6 +180,7 @@ regions:
           - "Barrio Urena"
           - "Barrio Ureña"
           - "San Isidro"
+          - "San Isidro Urena"
         ascii_name: "San Isidro"
         geonamesid: 3621889
         latitude: 9.38333
@@ -301,6 +310,7 @@ regions:
           - Guadelupe
           - Gvadalupe
           - "San Francisco Guadaloupe"
+          - Гвадалупе
         ascii_name: Guadalupe
         geonamesid: 3623593
         latitude: 9.94611
@@ -555,6 +565,7 @@ regions:
           - "Ciudad Cortes"
           - "Ciudad Cortés"
           - "El Pozo"
+          - Pozo
         ascii_name: "Ciudad Cortes"
         geonamesid: 3624198
         latitude: 8.96667
@@ -647,13 +658,16 @@ regions:
           - "Ciudad de Limon"
           - "Ciudad de Limón"
           - Limon
+          - Limón
         ascii_name: "Puerto Limon"
         geonamesid: 3622247
         latitude: 10.0
         longitude: -83.03333
         name: "Puerto Limón"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Limón
+        names_es: 
+          - Limón
         population: 63081
         timezone: America/Costa_Rica
       - 
@@ -661,6 +675,7 @@ regions:
           - "Pacora Oeste"
           - Pocora
           - "Pocora Oeste"
+          - "Pocora West"
         ascii_name: Pocora
         geonamesid: 3622325
         latitude: 10.18333
@@ -710,6 +725,7 @@ regions:
           - Bataan
           - Batan
           - Bataán
+          - Batán
         ascii_name: Batan
         geonamesid: 3624730
         latitude: 10.08333
@@ -837,6 +853,7 @@ regions:
           - "Ciudad de Heredia"
           - Ehredia
           - Heredia
+          - Heridia
         ascii_name: Heredia
         geonamesid: 3623486
         latitude: 10.0
@@ -851,6 +868,7 @@ regions:
           - "Centro Colon"
           - "Centro Colón"
           - "Villa Colon"
+          - "Villa Colón"
         ascii_name: Colon
         geonamesid: 3624171
         latitude: 9.91491
@@ -1014,6 +1032,7 @@ regions:
           - Canas
           - Cañas
           - "Ciudad Canas"
+          - "Ciudad Cañas"
         ascii_name: Canas
         geonamesid: 3624468
         latitude: 10.4294
@@ -1057,6 +1076,7 @@ regions:
           - Turialba
           - Turrial'ba
           - Turrialba
+          - Турриальба
         ascii_name: Turrialba
         geonamesid: 3621184
         latitude: 9.9
@@ -1082,6 +1102,7 @@ regions:
           - "La Union"
           - "La Unión"
           - "Tres Rios"
+          - "Tres Ríos"
         ascii_name: "Tres Rios"
         geonamesid: 3621224
         latitude: 9.9
@@ -1199,13 +1220,16 @@ regions:
           - Cartago
           - Kartagas
           - Kartago
+          - Картаго
         ascii_name: Cartago
         geonamesid: 3624370
         latitude: 9.86667
         longitude: -83.91667
         name: Cartago
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cartago
+        names_es: 
+          - Cartago
         population: 26594
         timezone: America/Costa_Rica
     geonamesid: 3624368
@@ -1334,6 +1358,7 @@ regions:
           - "Ciudad Quesada"
           - Kesada
           - Quesada
+          - "Villa Quesada"
         ascii_name: Quesada
         geonamesid: 3622190
         latitude: 10.33333
@@ -1404,12 +1429,14 @@ regions:
           - "El Burio"
           - "El Burío"
           - Fortuna
+          - "La Fortuna"
         ascii_name: Fortuna
         geonamesid: 3623716
         latitude: 10.48333
         longitude: -84.65
         name: Fortuna
-        names_en: ~
+        names_en: 
+          - "La Fortuna"
         names_es: ~
         population: 3010
         timezone: America/Costa_Rica
@@ -1479,8 +1506,10 @@ regions:
         latitude: 10.01667
         longitude: -84.21667
         name: Alajuela
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Alajuela
+        names_es: 
+          - Alajuela
         population: 47494
         timezone: America/Costa_Rica
     geonamesid: 3624953

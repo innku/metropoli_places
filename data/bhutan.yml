@@ -2,8 +2,10 @@
 geonamesid: 1252634
 iso: BT
 name: Bhutan
-names_en: ~
-names_es: ~
+names_en: 
+  - Bhutan
+names_es: 
+  - Bután
 regions: 
   - 
     ascii_name: "Bumthang Dzongkhag"
@@ -123,19 +125,25 @@ regions:
           - Paro
           - "Paro Dzong"
           - "Rimpung Dzong"
+          - paro-bhutana
         ascii_name: Paro
         geonamesid: 1252490
         latitude: 27.43333
         longitude: 89.41667
         name: Paro
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Paro
+        names_es: 
+          - Paro
         population: 2169
         timezone: Asia/Thimphu
     geonamesid: 1337286
     name: Paro
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Paro District"
+      - Paro
+    names_es: 
+      - Paro
   - 
     ascii_name: "Pemagatshel Dzongkhag"
     cities: []
@@ -162,8 +170,11 @@ regions:
     cities: []
     geonamesid: 1337290
     name: "Samdrup Jongkhar"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Samdrup Jongkhar District"
+      - "Samdrup Jongkhar"
+    names_es: 
+      - "Distrito de Samdrup Jongkhar"
   - 
     ascii_name: "Zhemgang Dzongkhag"
     cities: 
@@ -197,13 +208,17 @@ regions:
           - Thimbu
           - Thimpago
           - Thimphou
+          - Thimphu
         ascii_name: Thimphu
         geonamesid: 1252416
         latitude: 27.46609
         longitude: 89.64191
         name: Thimphu
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Thimphu
+        names_es: 
+          - Thimphu
+          - Timbu
         population: 98676
         timezone: Asia/Thimphu
     geonamesid: 1337293
@@ -266,6 +281,7 @@ regions:
           - "Tashi Tang-tsi Dzong"
           - "Tashi Yang-tsi Dzong"
           - "Tashi Yangtse"
+          - "Tashi Yāng-tsi Dzong"
         ascii_name: "Tashi Yangtse"
         geonamesid: 1252422
         latitude: 27.58333

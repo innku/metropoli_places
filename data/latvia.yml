@@ -2,8 +2,11 @@
 geonamesid: 458258
 iso: LV
 name: Latvia
-names_en: ~
-names_es: ~
+names_en: 
+  - Latvia
+  - "Republic of Latvia"
+names_es: 
+  - Letonia
 regions: 
   - 
     ascii_name: "Ventspils Rajons"
@@ -13,6 +16,7 @@ regions:
           - Ventspils
           - Vindau
           - Vindava
+          - Wentspils
         ascii_name: Ventspils
         geonamesid: 454310
         latitude: 57.38944
@@ -45,8 +49,10 @@ regions:
     cities: []
     geonamesid: 454311
     name: Ventspils
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Ventspils
+    names_es: 
+      - Ventspils
   - 
     ascii_name: "Valmieras Rajons"
     cities: 
@@ -55,12 +61,14 @@ regions:
           - Valmeena
           - Valmeera
           - Valmera
+          - Valmiera
         ascii_name: Valmiera
         geonamesid: 453754
         latitude: 57.54108
         longitude: 25.42751
         name: Valmiera
-        names_en: ~
+        names_en: 
+          - Valmiera
         names_es: ~
         population: 26963
         timezone: Europe/Riga
@@ -69,12 +77,14 @@ regions:
           - Aujiena
           - RUIENA
           - Ruiyena
+          - Rujen
         ascii_name: Rujiena
         geonamesid: 456008
         latitude: 57.89752
         longitude: 25.33155
         name: Rūjiena
-        names_en: ~
+        names_en: 
+          - Rūjiena
         names_es: ~
         population: 3638
         timezone: Europe/Riga
@@ -83,6 +93,7 @@ regions:
           - Mazsalaca
           - Mazsalace
           - Mazsalatsa
+          - Mazsalatse
         ascii_name: Mazsalaca
         geonamesid: 457533
         latitude: 57.86329
@@ -104,6 +115,7 @@ regions:
           - Valga
           - Valk
           - Valka
+          - Valkas
         ascii_name: Valka
         geonamesid: 454572
         latitude: 57.7752
@@ -118,12 +130,14 @@ regions:
           - STRENCHI
           - Stackeln
           - Stakkeln
+          - Strenchi
         ascii_name: Strenci
         geonamesid: 455166
         latitude: 57.62574
         longitude: 25.68535
         name: Strenči
-        names_en: ~
+        names_en: 
+          - Strenči
         names_es: ~
         population: 1593
         timezone: Europe/Riga
@@ -152,12 +166,14 @@ regions:
           - Tukkum
           - Tukum
           - Tukumas
+          - Tukums
         ascii_name: Tukums
         geonamesid: 454768
         latitude: 56.96694
         longitude: 23.15528
         name: Tukums
-        names_en: ~
+        names_en: 
+          - Tukums
         names_es: ~
         population: 18348
         timezone: Europe/Riga
@@ -212,12 +228,14 @@ regions:
           - Talsai
           - Talsen
           - Talsi
+          - Talsy
         ascii_name: Talsi
         geonamesid: 454970
         latitude: 57.24562
         longitude: 22.58137
         name: Talsi
-        names_en: ~
+        names_en: 
+          - Talsi
         names_es: ~
         population: 12022
         timezone: Europe/Riga
@@ -254,6 +272,7 @@ regions:
           - Margraf
           - Markgrafen
           - Mererags
+          - Mersrag
         ascii_name: Mersrags
         geonamesid: 457408
         latitude: 57.33535
@@ -296,12 +315,14 @@ regions:
           - VANGAZHI
           - Vangazhi
           - Vangazi
+          - Vangaži
         ascii_name: Vangazi
         geonamesid: 454537
         latitude: 57.09361
         longitude: 24.54861
         name: Vangaži
-        names_en: ~
+        names_en: 
+          - Vangaži
         names_es: ~
         population: 4020
         timezone: Europe/Riga
@@ -310,12 +331,14 @@ regions:
           - Neibade
           - Neybade
           - SAULKRASTI
+          - Saulkraste
         ascii_name: Saulkrasti
         geonamesid: 455812
         latitude: 57.26224
         longitude: 24.41471
         name: Saulkrasti
-        names_en: ~
+        names_en: 
+          - Saulkrasti
         names_es: ~
         population: 3184
         timezone: Europe/Riga
@@ -324,12 +347,14 @@ regions:
           - Kirchholm
           - Kirkholm
           - Salaspilis
+          - Salaspils
         ascii_name: Salaspils
         geonamesid: 455898
         latitude: 56.86014
         longitude: 24.36544
         name: Salaspils
-        names_en: ~
+        names_en: 
+          - Salaspils
         names_es: ~
         population: 17606
         timezone: Europe/Riga
@@ -338,12 +363,14 @@ regions:
           - Kekava
           - "Liel Kekava"
           - "Liel Ķekava"
+          - Tekava
         ascii_name: Kekava
         geonamesid: 458880
         latitude: 56.82662
         longitude: 24.23
         name: Ķekava
-        names_en: ~
+        names_en: 
+          - Ķekava
         names_es: ~
         population: 4600
         timezone: Europe/Riga
@@ -370,13 +397,16 @@ regions:
           - RIGA
           - Riga
           - Rigae
+          - Rigo
         ascii_name: Riga
         geonamesid: 456172
         latitude: 56.946
         longitude: 24.10589
         name: Riga
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Riga
+        names_es: 
+          - Riga
         population: 742572
         timezone: Europe/Riga
       - 
@@ -405,12 +435,14 @@ regions:
           - VILJANY
           - Veleny
           - Vilani
+          - Vilany
         ascii_name: Vilani
         geonamesid: 454178
         latitude: 56.55253
         longitude: 26.92449
         name: Viļāni
-        names_en: ~
+        names_en: 
+          - Viļāni
         names_es: ~
         population: 3934
         timezone: Europe/Riga
@@ -419,13 +451,16 @@ regions:
           - REZEKNE
           - Rezekne
           - Rezeknė
+          - Rezhitsa
         ascii_name: Rezekne
         geonamesid: 456202
         latitude: 56.5
         longitude: 27.31667
         name: Rēzekne
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rēzekne
+        names_es: 
+          - Rēzekne
         population: 38340
         timezone: Europe/Riga
     geonamesid: 456197
@@ -447,12 +482,14 @@ regions:
           - PREJLI
           - Preili
           - Preiļi
+          - Preli
         ascii_name: Preili
         geonamesid: 456530
         latitude: 56.29444
         longitude: 26.72459
         name: Preiļi
-        names_en: ~
+        names_en: 
+          - Preiļi
         names_es: ~
         population: 8656
         timezone: Europe/Riga
@@ -461,12 +498,14 @@ regions:
           - LIVANY
           - Livani
           - Livany
+          - Līvāni
         ascii_name: Livani
         geonamesid: 457860
         latitude: 56.35431
         longitude: 26.17579
         name: Līvāni
-        names_en: ~
+        names_en: 
+          - Līvāni
         names_es: ~
         population: 10073
         timezone: Europe/Riga
@@ -482,12 +521,14 @@ regions:
           - OGRE
           - Ogre
           - Uogre
+          - Uogrė
         ascii_name: Ogre
         geonamesid: 457065
         latitude: 56.8162
         longitude: 24.61401
         name: Ogre
-        names_en: ~
+        names_en: 
+          - Ogre
         names_es: ~
         population: 25818
         timezone: Europe/Riga
@@ -496,12 +537,14 @@ regions:
           - LIELVARDE
           - Lielvarde
           - Lielvārde
+          - Liyelvarde
         ascii_name: Lielvarde
         geonamesid: 457965
         latitude: 56.72066
         longitude: 24.80743
         name: Lielvārde
-        names_en: ~
+        names_en: 
+          - Lielvārde
         names_es: ~
         population: 5114
         timezone: Europe/Riga
@@ -510,12 +553,14 @@ regions:
           - KEGUMS
           - Keggum
           - Keggums
+          - Kegums
         ascii_name: Kegums
         geonamesid: 458892
         latitude: 56.7451
         longitude: 24.72439
         name: Ķegums
-        names_en: ~
+        names_en: 
+          - Ķegums
         names_es: ~
         population: 2372
         timezone: Europe/Riga
@@ -537,12 +582,14 @@ regions:
           - IKSHKILE
           - Ikshkile
           - Ikshtile
+          - Ikskile
         ascii_name: Ikskile
         geonamesid: 459598
         latitude: 56.83333
         longitude: 24.5
         name: Ikšķile
-        names_en: ~
+        names_en: 
+          - Ikšķile
         names_es: ~
         population: 3368
         timezone: Europe/Riga
@@ -576,12 +623,14 @@ regions:
           - ZILUPE
           - Zilupe
           - Zilupes
+          - Ziluppe
         ascii_name: Zilupe
         geonamesid: 453850
         latitude: 56.38616
         longitude: 28.12165
         name: Zilupe
-        names_en: ~
+        names_en: 
+          - Zilupe
         names_es: ~
         population: 1897
         timezone: Europe/Riga
@@ -590,12 +639,14 @@ regions:
           - LUDZA
           - Ljucyn
           - Lountza
+          - Lucyn
         ascii_name: Ludza
         geonamesid: 457776
         latitude: 56.55
         longitude: 27.71667
         name: Ludza
-        names_en: ~
+        names_en: 
+          - Ludza
         names_es: ~
         population: 10514
         timezone: Europe/Riga
@@ -604,12 +655,14 @@ regions:
           - KARSAVA
           - Karsava
           - Korsovka
+          - Korsowka
         ascii_name: Karsava
         geonamesid: 458972
         latitude: 56.78405
         longitude: 27.68829
         name: Kārsava
-        names_en: ~
+        names_en: 
+          - Kārsava
         names_es: ~
         population: 2645
         timezone: Europe/Riga
@@ -625,12 +678,14 @@ regions:
           - LIMBAZHI
           - Lemsal
           - Lemzal
+          - Limbazhi
         ascii_name: Limbazi
         geonamesid: 457890
         latitude: 57.51287
         longitude: 24.71941
         name: Limbaži
-        names_en: ~
+        names_en: 
+          - Limbaži
         names_es: ~
         population: 8974
         timezone: Europe/Riga
@@ -646,6 +701,7 @@ regions:
           - Preekuln
           - Prekule
           - Prekuln
+          - Priekule
         ascii_name: Priekule
         geonamesid: 456506
         latitude: 56.44679
@@ -660,6 +716,7 @@ regions:
           - Akagals
           - Paulshafen
           - Pavilosta
+          - Porvilostu
         ascii_name: Pavilosta
         geonamesid: 456827
         latitude: 56.88791
@@ -681,13 +738,16 @@ regions:
           - Leepaja
           - Lepaya
           - Libau
+          - Libava
         ascii_name: Liepaja
         geonamesid: 457954
         latitude: 56.51667
         longitude: 21.01667
         name: Liepāja
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Liepāja
+        names_es: 
+          - Liepāja
         population: 85132
         timezone: Europe/Riga
       - 
@@ -695,6 +755,7 @@ regions:
           - Gerobin
           - Grobin
           - Grobina
+          - Grobinya
         ascii_name: Grobina
         geonamesid: 459692
         latitude: 56.53521
@@ -716,12 +777,14 @@ regions:
           - Goldingen
           - Kuldiga
           - Kuldigas
+          - Kuldyga
         ascii_name: Kuldiga
         geonamesid: 458460
         latitude: 56.97399
         longitude: 21.95721
         name: Kuldīga
-        names_en: ~
+        names_en: 
+          - Kuldīga
         names_es: ~
         population: 13289
         timezone: Europe/Riga
@@ -737,12 +800,14 @@ regions:
           - KRASLAVA
           - Kraaslava
           - Kraslava
+          - Kreslavka
         ascii_name: Kraslava
         geonamesid: 458623
         latitude: 55.89514
         longitude: 27.16799
         name: Krāslava
-        names_en: ~
+        names_en: 
+          - Krāslava
         names_es: ~
         population: 11088
         timezone: Europe/Riga
@@ -756,7 +821,8 @@ regions:
         latitude: 56.09512
         longitude: 27.53723
         name: Dagda
-        names_en: ~
+        names_en: 
+          - Dagda
         names_es: ~
         population: 2740
         timezone: Europe/Riga
@@ -779,12 +845,14 @@ regions:
           - Elgava
           - Iyelgava
           - Jelgava
+          - Jelgawa
         ascii_name: Jelgava
         geonamesid: 459279
         latitude: 56.65
         longitude: 23.71278
         name: Jelgava
-        names_en: ~
+        names_en: 
+          - Jelgava
         names_es: ~
         population: 61791
         timezone: Europe/Riga
@@ -807,12 +875,14 @@ regions:
           - Eckengrafen
           - VIESITE
           - Vesite
+          - Viesite
         ascii_name: Viesite
         geonamesid: 454216
         latitude: 56.34751
         longitude: 25.55514
         name: Viesīte
-        names_en: ~
+        names_en: 
+          - Viesīte
         names_es: ~
         population: 2162
         timezone: Europe/Riga
@@ -821,12 +891,14 @@ regions:
           - EKABPILS
           - Jakobstadt
           - Jekabpilis
+          - Jekabpils
         ascii_name: Jekabpils
         geonamesid: 459283
         latitude: 56.49903
         longitude: 25.85735
         name: Jēkabpils
-        names_en: ~
+        names_en: 
+          - Jēkabpils
         names_es: ~
         population: 27078
         timezone: Europe/Riga
@@ -835,12 +907,14 @@ regions:
           - AKNISTE
           - Akniste
           - Aknīste
+          - АКНИСТЕ
         ascii_name: Akniste
         geonamesid: 461566
         latitude: 56.16152
         longitude: 25.74783
         name: Aknīste
-        names_en: ~
+        names_en: 
+          - Aknīste
         names_es: ~
         population: 1314
         timezone: Europe/Riga
@@ -856,12 +930,14 @@ regions:
           - Alt-Schwaneburg
           - GULBENE
           - Gulbene
+          - ГУЛБЕНЕ
         ascii_name: Gulbene
         geonamesid: 459668
         latitude: 57.17767
         longitude: 26.75291
         name: Gulbene
-        names_en: ~
+        names_en: 
+          - Gulbene
         names_es: ~
         population: 9355
         timezone: Europe/Riga
@@ -877,12 +953,14 @@ regions:
           - Dobele
           - Doblen
           - Duobele
+          - Duobelė
         ascii_name: Dobele
         geonamesid: 460312
         latitude: 56.625
         longitude: 23.27861
         name: Dobele
-        names_en: ~
+        names_en: 
+          - Dobele
         names_es: ~
         population: 11225
         timezone: Europe/Riga
@@ -891,12 +969,14 @@ regions:
           - Auce
           - Aucė
           - Autse
+          - Autz
         ascii_name: Auce
         geonamesid: 461336
         latitude: 56.45981
         longitude: 22.90169
         name: Auce
-        names_en: ~
+        names_en: 
+          - Auce
         names_es: ~
         population: 3125
         timezone: Europe/Riga
@@ -912,12 +992,14 @@ regions:
           - ILUKSTE
           - Ilukste
           - Ilūkste
+          - ИЛУКСТЕ
         ascii_name: Ilukste
         geonamesid: 459586
         latitude: 55.97754
         longitude: 26.29655
         name: Ilūkste
-        names_en: ~
+        names_en: 
+          - Ilūkste
         names_es: ~
         population: 2898
         timezone: Europe/Riga
@@ -926,13 +1008,16 @@ regions:
           - DAUGAVPILS
           - Daugaupils
           - Daugavpils
+          - Daugawpils
         ascii_name: Daugavpils
         geonamesid: 460413
         latitude: 55.88333
         longitude: 26.53333
         name: Daugavpils
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Daugavpils
+        names_es: 
+          - Daugavpils
         population: 111564
         timezone: Europe/Riga
     geonamesid: 460410
@@ -954,12 +1039,14 @@ regions:
           - LIGATNE
           - Ligat
           - Ligatne
+          - Līgatne
         ascii_name: Ligatne
         geonamesid: 457912
         latitude: 57.23429
         longitude: 25.04059
         name: Līgatne
-        names_en: ~
+        names_en: 
+          - Līgatne
         names_es: ~
         population: 1433
         timezone: Europe/Riga
@@ -968,12 +1055,14 @@ regions:
           - CESIS
           - Cesis
           - Cesys
+          - Cēsis
         ascii_name: Cesis
         geonamesid: 460570
         latitude: 57.31188
         longitude: 25.27456
         name: Cēsis
-        names_en: ~
+        names_en: 
+          - Cēsis
         names_es: ~
         population: 18198
         timezone: Europe/Riga
@@ -989,12 +1078,14 @@ regions:
           - BAUSKA
           - Bauska
           - Bauske
+          - Bauskė
         ascii_name: Bauska
         geonamesid: 461114
         latitude: 56.4075
         longitude: 24.19056
         name: Bauska
-        names_en: ~
+        names_en: 
+          - Bauska
         names_es: ~
         population: 10532
         timezone: Europe/Riga
@@ -1010,12 +1101,14 @@ regions:
           - BALVI
           - Balvi
           - Balvy
+          - Bolowsk
         ascii_name: Balvi
         geonamesid: 461163
         latitude: 57.1313
         longitude: 27.26583
         name: Balvi
-        names_en: ~
+        names_en: 
+          - Balvi
         names_es: ~
         population: 8409
         timezone: Europe/Riga
@@ -1031,12 +1124,14 @@ regions:
           - APE
           - Ape
           - Ope
+          - АПЕ
         ascii_name: Ape
         geonamesid: 461442
         latitude: 57.53928
         longitude: 26.69291
         name: Ape
-        names_en: ~
+        names_en: 
+          - Ape
         names_es: ~
         population: 1521
         timezone: Europe/Riga
@@ -1045,12 +1140,14 @@ regions:
           - Alksne
           - Alouksne
           - Aluksne
+          - Alūksne
         ascii_name: Aluksne
         geonamesid: 461528
         latitude: 57.41667
         longitude: 27.05
         name: Alūksne
-        names_en: ~
+        names_en: 
+          - Alūksne
         names_es: ~
         population: 2264
         timezone: Europe/Riga
@@ -1066,12 +1163,14 @@ regions:
           - PLJAVINJAS
           - Plavinas
           - Plavinyas
+          - Plyavinas
         ascii_name: Plavinas
         geonamesid: 456635
         latitude: 56.6178
         longitude: 25.72552
         name: Pļaviņas
-        names_en: ~
+        names_en: 
+          - Pļaviņas
         names_es: ~
         population: 3848
         timezone: Europe/Riga
@@ -1080,6 +1179,7 @@ regions:
           - Aizkraukle
           - "Aizkraukles Muiza"
           - "Aizkraukles Muiža"
+          - Ayzkraukle
         ascii_name: Aizkraukle
         geonamesid: 461615
         latitude: 56.60477
@@ -1163,12 +1263,14 @@ regions:
           - Aispute
           - Aizpute
           - Aizputė
+          - Ayzpute
         ascii_name: Aizpute
         geonamesid: 461602
         latitude: 56.71667
         longitude: 21.6
         name: Aizpute
-        names_en: ~
+        names_en: 
+          - Aizpute
         names_es: ~
         population: 5634
         timezone: Europe/Riga
@@ -1191,6 +1293,7 @@ regions:
           - Vain'ody
           - Vainode
           - Vainodes
+          - Vain’ody
         ascii_name: Vainode
         geonamesid: 454602
         latitude: 56.43333
@@ -1230,6 +1333,7 @@ regions:
           - Broceni
           - "Brocenu Muiza"
           - Brocēni
+          - "Brocēnu Muiža"
         ascii_name: Broceni
         geonamesid: 460786
         latitude: 56.7
@@ -1256,7 +1360,8 @@ regions:
         latitude: 57.5
         longitude: 22.81667
         name: Roja
-        names_en: ~
+        names_en: 
+          - Roya
         names_es: ~
         population: 1800
         timezone: Europe/Riga
@@ -1286,6 +1391,7 @@ regions:
           - Jaunpils
           - "Jaunpils Muiza"
           - "Jaunpils Muiža"
+          - Yaunpils
         ascii_name: Jaunpils
         geonamesid: 459357
         latitude: 56.7325
@@ -1359,6 +1465,7 @@ regions:
           - "Myza Pintu"
           - Pin'ti
           - Pinki
+          - Pin’ti
         ascii_name: Pinki
         geonamesid: 456685
         latitude: 56.94194
@@ -1407,12 +1514,14 @@ regions:
           - Eckau
           - IECAVA
           - Iecava
+          - Iyetsava
         ascii_name: Iecava
         geonamesid: 459624
         latitude: 56.59861
         longitude: 24.20222
         name: Iecava
-        names_en: ~
+        names_en: 
+          - Iecava
         names_es: ~
         population: 4000
         timezone: Europe/Riga
@@ -1428,12 +1537,14 @@ regions:
           - BALOZHI
           - Balozhi
           - Balozi
+          - Baloži
         ascii_name: Balozi
         geonamesid: 864721
         latitude: 56.87611
         longitude: 24.11861
         name: Baloži
-        names_en: ~
+        names_en: 
+          - Baloži
         names_es: ~
         population: 3854
         timezone: Europe/Riga
@@ -1463,6 +1574,7 @@ regions:
           - Sarkanmuiza
           - Sarkanmuiža
           - Ulbroka
+          - Ulbroke
         ascii_name: Ulbroka
         geonamesid: 454714
         latitude: 56.94111
@@ -1484,12 +1596,14 @@ regions:
           - Carnikava
           - "Carnikavas Muiza"
           - "Carnikavas Muiža"
+          - Tsarnikava
         ascii_name: Carnikava
         geonamesid: 460659
         latitude: 57.12944
         longitude: 24.27444
         name: Carnikava
-        names_en: ~
+        names_en: 
+          - Carnikava
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1533,12 +1647,14 @@ regions:
           - Vecmuiza
           - Vecmuiža
           - Vecumnieki
+          - Vetsmuizha
         ascii_name: Vecumnieki
         geonamesid: 454273
         latitude: 56.60639
         longitude: 24.52222
         name: Vecumnieki
-        names_en: ~
+        names_en: 
+          - Vecumnieki
         names_es: ~
         population: 4500
         timezone: Europe/Riga
@@ -1575,12 +1691,14 @@ regions:
           - Friedrichstadt
           - JAUNELGAVA
           - Jaunjelgava
+          - Yaun-Yelgava
         ascii_name: Jaunjelgava
         geonamesid: 459402
         latitude: 56.61667
         longitude: 25.08333
         name: Jaunjelgava
-        names_en: ~
+        names_en: 
+          - Jaunjelgava
         names_es: ~
         population: 1938
         timezone: Europe/Riga
@@ -1638,12 +1756,14 @@ regions:
           - Varkava
           - "Varkava II"
           - Vecvarkava
+          - Vecvārkava
         ascii_name: Vecvarkava
         geonamesid: 454372
         latitude: 56.18333
         longitude: 26.51667
         name: Vecvārkava
-        names_en: ~
+        names_en: 
+          - Vecvārkava
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1687,12 +1807,14 @@ regions:
           - Aglona
           - "Aglonas Muiza"
           - "Aglonas Muiža"
+          - Agluna
         ascii_name: Aglona
         geonamesid: 461631
         latitude: 56.13333
         longitude: 27.01667
         name: Aglona
-        names_en: ~
+        names_en: 
+          - Aglona
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1708,12 +1830,14 @@ regions:
           - Cibla
           - Eversmuiza
           - Eversmuiža
+          - Tsibla
         ascii_name: Cibla
         geonamesid: 459984
         latitude: 56.55
         longitude: 27.88333
         name: Cibla
-        names_en: ~
+        names_en: 
+          - Eversmuiža
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1748,7 +1872,8 @@ regions:
         latitude: 56.95
         longitude: 27.65
         name: Baltinava
-        names_en: ~
+        names_en: 
+          - Baltinava
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1778,12 +1903,14 @@ regions:
           - Rugai
           - Rugaji
           - Rugaju
+          - Rugayi
         ascii_name: Rugaji
         geonamesid: 456015
         latitude: 57.0
         longitude: 27.13333
         name: Rugāji
-        names_en: ~
+        names_en: 
+          - Rugāji
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1799,12 +1926,14 @@ regions:
           - CESVAJNE
           - Cesvaine
           - "Cesvaines Muiza"
+          - "Cesvaines Muiža"
         ascii_name: Cesvaine
         geonamesid: 460568
         latitude: 56.96667
         longitude: 26.31667
         name: Cesvaine
-        names_en: ~
+        names_en: 
+          - Cesvaine
         names_es: ~
         population: 1811
         timezone: Europe/Riga
@@ -1820,12 +1949,14 @@ regions:
           - LUBANA
           - Lubana
           - Lubāna
+          - ЛУБАНА
         ascii_name: Lubana
         geonamesid: 457799
         latitude: 56.9
         longitude: 26.71667
         name: Lubāna
-        names_en: ~
+        names_en: 
+          - Lubāna
         names_es: ~
         population: 1918
         timezone: Europe/Riga
@@ -1855,12 +1986,14 @@ regions:
           - KOKNESE
           - Koaknese
           - Kokenhusen
+          - Kokenhuza
         ascii_name: Koknese
         geonamesid: 458687
         latitude: 56.65
         longitude: 25.43333
         name: Koknese
-        names_en: ~
+        names_en: 
+          - Koknese
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1883,12 +2016,14 @@ regions:
           - "Myza Ropazhi"
           - "Myza Ropazhu"
           - Ropazhi
+          - Ropazi
         ascii_name: Ropazi
         geonamesid: 456090
         latitude: 56.97389
         longitude: 24.63361
         name: Ropaži
-        names_en: ~
+        names_en: 
+          - Ropaži
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1904,12 +2039,14 @@ regions:
           - Inchukaln
           - Inchukalns
           - Incukalns
+          - Inčukalns
         ascii_name: Incukalns
         geonamesid: 459563
         latitude: 57.09806
         longitude: 24.68639
         name: Inčukalns
-        names_en: ~
+        names_en: 
+          - Inčukalns
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -1932,12 +2069,14 @@ regions:
           - SIGULDA
           - Segewold
           - Sigulda
+          - СИГУЛДА
         ascii_name: Sigulda
         geonamesid: 455718
         latitude: 57.15194
         longitude: 24.86472
         name: Sigulda
-        names_en: ~
+        names_en: 
+          - Sigulda
         names_es: ~
         population: 10422
         timezone: Europe/Riga
@@ -1960,6 +2099,7 @@ regions:
           - Malpils
           - "Malpils Muiza"
           - "Malpils Muiža"
+          - "Myza Malpil"
         ascii_name: Malpils
         geonamesid: 457676
         latitude: 57.01111
@@ -2008,12 +2148,14 @@ regions:
           - SALACGRIVA
           - Salacgriva
           - Salacgrīva
+          - Salatsgriva
         ascii_name: Salacgriva
         geonamesid: 455910
         latitude: 57.75361
         longitude: 24.35806
         name: Salacgrīva
-        names_en: ~
+        names_en: 
+          - Salacgrīva
         names_es: ~
         population: 3427
         timezone: Europe/Riga
@@ -2022,12 +2164,14 @@ regions:
           - AJNAZHI
           - Ainazi
           - Ainaži
+          - Amazi
         ascii_name: Ainazi
         geonamesid: 461628
         latitude: 57.86361
         longitude: 24.35778
         name: Ainaži
-        names_en: ~
+        names_en: 
+          - Ainaži
         names_es: ~
         population: 1278
         timezone: Europe/Riga
@@ -2043,12 +2187,14 @@ regions:
           - STAJCELE
           - Staicele
           - Staytsele
+          - СТАЙЦЕЛЕ
         ascii_name: Staicele
         geonamesid: 455298
         latitude: 57.83639
         longitude: 24.75
         name: Staicele
-        names_en: ~
+        names_en: 
+          - Staicele
         names_es: ~
         population: 1175
         timezone: Europe/Riga
@@ -2057,12 +2203,14 @@ regions:
           - ALOJA
           - Aloja
           - "Alojas Muiza"
+          - "Alojas Muiža"
         ascii_name: Aloja
         geonamesid: 461539
         latitude: 57.76694
         longitude: 24.8825
         name: Aloja
-        names_en: ~
+        names_en: 
+          - Aloja
         names_es: ~
         population: 1509
         timezone: Europe/Riga
@@ -2141,12 +2289,14 @@ regions:
           - SEDA
           - Salanietis
           - Salanyetys
+          - Seda
         ascii_name: Seda
         geonamesid: 455786
         latitude: 57.65
         longitude: 25.75
         name: Seda
-        names_en: ~
+        names_en: 
+          - Seda
         names_es: ~
         population: 1778
         timezone: Europe/Riga
@@ -2162,12 +2312,14 @@ regions:
           - Murmuiza
           - Murmuiža
           - Murmujzha
+          - Мурмуйжа
         ascii_name: Murmuiza
         geonamesid: 457211
         latitude: 57.48333
         longitude: 25.48333
         name: Murmuiža
-        names_en: ~
+        names_en: 
+          - Murmuiža
         names_es: ~
         population: 0
         timezone: Europe/Riga
@@ -2190,6 +2342,7 @@ regions:
           - "Jaun Piebalga Muizas Centrs"
           - "Jaun Piebalga Muižas Centrs"
           - Jaunpiebalga
+          - "Jaunpiebalgas Muiza"
         ascii_name: Jaunpiebalga
         geonamesid: 459359
         latitude: 57.18333

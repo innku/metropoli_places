@@ -2,8 +2,11 @@
 geonamesid: 3374766
 iso: CV
 name: "Cape Verde"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Cape Verde"
+  - "Republic of Cape Verde"
+names_es: 
+  - "Cabo Verde"
 regions: 
   - 
     ascii_name: "Concelho do Tarrafal"
@@ -33,12 +36,14 @@ regions:
           - Mihdelo
           - Mindello
           - Mindelo
+          - Mindelu
         ascii_name: Mindelo
         geonamesid: 3374462
         latitude: 16.89014
         longitude: -24.98042
         name: Mindelo
-        names_en: ~
+        names_en: 
+          - Mindelo
         names_es: ~
         population: 70611
         timezone: Atlantic/Cape_Verde
@@ -123,13 +128,16 @@ regions:
           - "Cidade da Praia"
           - "Municipio da Praia"
           - "Município da Praia"
+          - Pragia
         ascii_name: Praia
         geonamesid: 3374333
         latitude: 14.92148
         longitude: -23.50868
         name: Praia
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Praia
+        names_es: 
+          - Praia
         population: 113364
         timezone: Atlantic/Cape_Verde
     geonamesid: 3374332
@@ -162,6 +170,7 @@ regions:
           - Maio
           - "Nossa Senhora da Luz"
           - "Port Ingles"
+          - "Porto Inglez"
         ascii_name: "Vila do Maio"
         geonamesid: 3374120
         latitude: 15.13333
@@ -183,6 +192,7 @@ regions:
           - "Vila Nova Cinteus"
           - "Vila Nova Sintra"
           - "Vila de Nova Cintra"
+          - "Vila de Nova Sintra"
         ascii_name: "Vila Nova Sintra"
         geonamesid: 3374117
         latitude: 14.86667
@@ -281,6 +291,7 @@ regions:
           - "Vila Sao Filipe"
           - "Vila São Filipe"
           - "Vila de Sao Filippe"
+          - "Vila de São Filippe"
         ascii_name: "Sao Filipe"
         geonamesid: 3374210
         latitude: 14.8961
@@ -409,6 +420,7 @@ regions:
           - "Cidade Velha"
           - "Sidade Vel'ja"
           - Velha
+          - "Сидаде Велья"
         ascii_name: "Cidade Velha"
         geonamesid: 3374725
         latitude: 14.91667

@@ -2,8 +2,11 @@
 geonamesid: 2464461
 iso: TN
 name: Tunisia
-names_en: ~
-names_es: ~
+names_en: 
+  - Tunisia
+  - "Tunisian Republic"
+names_es: 
+  - Túnez
 regions: 
   - 
     ascii_name: "Gouvernorat de Zaghouan"
@@ -13,6 +16,7 @@ regions:
           - Zaghouan
           - Zaghouane
           - Zaghwan
+          - Zaghwān
         ascii_name: Zaghouan
         geonamesid: 2464041
         latitude: 36.40291
@@ -27,6 +31,7 @@ regions:
           - "Al Fahs"
           - "Al Faḩş"
           - "El Fahs"
+          - Fahs
         ascii_name: "El Fahs"
         geonamesid: 2468285
         latitude: 36.37419
@@ -48,6 +53,7 @@ regions:
           - "Oued Ellil"
           - "Oued Lill"
           - "Wadi al Layl"
+          - "Wādī al Layl"
         ascii_name: "Oued Lill"
         geonamesid: 2464168
         latitude: 36.83408
@@ -62,13 +68,17 @@ regions:
           - Tunes
           - Tunez
           - Tunis
+          - Tunis-Ville
         ascii_name: Tunis
         geonamesid: 2464470
         latitude: 36.81897
         longitude: 10.16579
         name: Tunis
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tunis
+        names_es: 
+          - Tunez
+          - Túnez
         population: 693210
         timezone: Africa/Tunis
       - 
@@ -76,12 +86,15 @@ regions:
           - "Sidi Abi Sa`id"
           - "Sidi Bou Said"
           - "Sidi Bou Saïd"
+          - "Sidi Bu Said"
         ascii_name: "Sidi Bou Said"
         geonamesid: 2466688
         latitude: 36.8687
         longitude: 10.34174
         name: "Sidi Bou Saïd"
-        names_en: ~
+        names_en: 
+          - "Sidi Bou Saïd"
+          - "Sidi Bou Said"
         names_es: ~
         population: 5000
         timezone: Africa/Tunis
@@ -90,6 +103,7 @@ regions:
           - Cebala-du-Mornag
           - "La Cebala"
           - "La Cebala du Mornag"
+          - "La Sebala du Mornag"
         ascii_name: "La Sebala du Mornag"
         geonamesid: 2467521
         latitude: 36.67931
@@ -104,6 +118,7 @@ regions:
           - Maxula
           - Maxula-Rades
           - Maxula-Radès
+          - Rades
         ascii_name: Rades
         geonamesid: 2467815
         latitude: 36.76806
@@ -118,6 +133,7 @@ regions:
           - Karfagen
           - Qartajannah
           - Qarţājannah
+          - Карфаген
         ascii_name: Carthage
         geonamesid: 2468245
         latitude: 36.86108
@@ -132,6 +148,7 @@ regions:
           - "Hammam al Anf"
           - Hammam-Lif
           - Hamman-Lif
+          - Khammam-Lif
         ascii_name: Hammam-Lif
         geonamesid: 2470588
         latitude: 36.72866
@@ -146,12 +163,14 @@ regions:
           - "El Aouina"
           - Goletta
           - Goulette
+          - "Halk el Oued"
         ascii_name: "La Goulette"
         geonamesid: 2470656
         latitude: 36.81806
         longitude: 10.305
         name: "La Goulette"
-        names_en: ~
+        names_en: 
+          - "La Goulette"
         names_es: ~
         population: 79795
         timezone: Africa/Tunis
@@ -160,6 +179,7 @@ regions:
           - "Al Muhammadiyah"
           - "Al Muḩammadīyah"
           - "La Mohammedia"
+          - Mohamedia
         ascii_name: "La Mohammedia"
         geonamesid: 2473499
         latitude: 36.67446
@@ -174,12 +194,14 @@ regions:
           - "Al Marsa"
           - "Al Marsá"
           - "El Marsa"
+          - "La Marsa"
         ascii_name: "Al Marsa"
         geonamesid: 2473540
         latitude: 36.87818
         longitude: 10.32466
         name: "Al Marsá"
-        names_en: ~
+        names_en: 
+          - "La Marsa"
         names_es: ~
         population: 65640
         timezone: Africa/Tunis
@@ -195,6 +217,7 @@ regions:
           - Tawzar
           - Tozer
           - Tozeur
+          - Тозер
         ascii_name: Tozeur
         geonamesid: 2464648
         latitude: 33.91968
@@ -214,7 +237,8 @@ regions:
         latitude: 34.38849
         longitude: 7.94313
         name: Tamaghzah
-        names_en: ~
+        names_en: 
+          - Tamerza
         names_es: ~
         population: 2750
         timezone: Africa/Tunis
@@ -223,13 +247,16 @@ regions:
           - Chebica
           - Chebika
           - Chebikha
+          - Shabikah
         ascii_name: Shabikah
         geonamesid: 2467077
         latitude: 34.31909
         longitude: 7.93519
         name: Shabīkah
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chebika
+        names_es: 
+          - Chebica
         population: 1820
         timezone: Africa/Tunis
       - 
@@ -237,6 +264,7 @@ regions:
           - "Aggarset Nepte"
           - Naftah
           - Nafţah
+          - Nefta
         ascii_name: Nefta
         geonamesid: 2468561
         latitude: 33.87309
@@ -271,12 +299,14 @@ regions:
           - "Foum Tatahouine"
           - "Foum Tataouine"
           - "Fum Tatawin"
+          - "Fum Taţāwīn"
         ascii_name: Tataouine
         geonamesid: 2464701
         latitude: 32.92967
         longitude: 10.45177
         name: Tataouine
-        names_en: ~
+        names_en: 
+          - Tataouine
         names_es: ~
         population: 62577
         timezone: Africa/Tunis
@@ -306,12 +336,14 @@ regions:
           - Hadrumetum
           - Sousa
           - Souse
+          - Soussa
         ascii_name: Sousse
         geonamesid: 2464915
         latitude: 35.82539
         longitude: 10.63699
         name: Sousse
-        names_en: ~
+        names_en: 
+          - Sousse
         names_es: ~
         population: 164123
         timezone: Africa/Tunis
@@ -334,6 +366,7 @@ regions:
           - "Camp de Sidi el Hani"
           - "El Hani"
           - "Sidi al Hani'"
+          - "Sidi el Hani"
         ascii_name: "Sidi el Hani"
         geonamesid: 2466499
         latitude: 35.67139
@@ -348,12 +381,14 @@ regions:
           - M'saken
           - Masakin
           - Masākin
+          - Msaken
         ascii_name: Masakin
         geonamesid: 2469140
         latitude: 35.72917
         longitude: 10.58082
         name: Masākin
-        names_en: ~
+        names_en: 
+          - Masakin
         names_es: ~
         population: 64563
         timezone: Africa/Tunis
@@ -362,6 +397,7 @@ regions:
           - Hadrumete
           - Hadrumète
           - "Hammam Sousse"
+          - "Hammam Susa"
         ascii_name: "Hammam Sousse"
         geonamesid: 2470579
         latitude: 35.8609
@@ -376,6 +412,7 @@ regions:
           - Akkudah
           - Akkūdah
           - Akouda
+          - Akuda
         ascii_name: Akouda
         geonamesid: 2473913
         latitude: 35.8691
@@ -408,6 +445,7 @@ regions:
           - Siliana
           - Silyanah
           - Silyānah
+          - "Souk el Kremis"
         ascii_name: Siliana
         geonamesid: 2465030
         latitude: 36.08497
@@ -436,6 +474,7 @@ regions:
           - Kasra
           - Kesra
           - Kessera
+          - Kisrah
         ascii_name: Kesra
         geonamesid: 2469744
         latitude: 35.81364
@@ -457,6 +496,7 @@ regions:
           - Gammouda
           - Qamudah
           - Qamūdah
+          - "Sidi Bou Zid"
         ascii_name: "Sidi Bouzid"
         geonamesid: 2465840
         latitude: 35.03823
@@ -485,6 +525,7 @@ regions:
           - "Bi'r al Hufayy"
           - "Bir el Afey"
           - "Bir el Hafey"
+          - "Bi’r al Ḩufayy"
         ascii_name: "Bi'r al Hufayy"
         geonamesid: 2472380
         latitude: 34.93212
@@ -499,6 +540,7 @@ regions:
           - "Ar Riqab"
           - "Ar Riqāb"
           - "El Regueb"
+          - "Er Regueb"
         ascii_name: "Ar Riqab"
         geonamesid: 2473258
         latitude: 34.85932
@@ -513,6 +555,7 @@ regions:
           - "Al Mazzunah"
           - "Al Mazzūnah"
           - Merzouna
+          - Mezzouna
         ascii_name: "Al Mazzunah"
         geonamesid: 2473525
         latitude: 34.57758
@@ -534,12 +577,14 @@ regions:
           - Safakis
           - Safaqis
           - Sfax
+          - Sfvks
         ascii_name: Sfax
         geonamesid: 2467454
         latitude: 34.74056
         longitude: 10.76028
         name: Sfax
-        names_en: ~
+        names_en: 
+          - Sfax
         names_es: ~
         population: 277278
         timezone: Africa/Tunis
@@ -548,6 +593,7 @@ regions:
           - Djebaniana
           - Djebeliana
           - Djebeniana
+          - Djebiniana
         ascii_name: Jabinyanah
         geonamesid: 2470260
         latitude: 35.035
@@ -562,6 +608,7 @@ regions:
           - "Bi'r `Ali Bin Khalifah"
           - "Bir Ali Ben Khalifa"
           - "Bir Ali Ben Khalifat"
+          - "Bi’r ‘Alī Bin Khalīfah"
         ascii_name: "Bi'r `Ali Bin Khalifah"
         geonamesid: 2472379
         latitude: 34.73592
@@ -576,6 +623,7 @@ regions:
           - "As Sukhayrah"
           - "Aş Şukhayrah"
           - Cekhira
+          - "El Skhirra"
         ascii_name: Skhira
         geonamesid: 2473161
         latitude: 34.2992
@@ -624,6 +672,7 @@ regions:
           - Djemma
           - Djemna
           - Jamnah
+          - Jemna
         ascii_name: Jemna
         geonamesid: 2470189
         latitude: 33.57778
@@ -638,6 +687,7 @@ regions:
           - Douz
           - Duz
           - Dūz
+          - Дуз
         ascii_name: Douz
         geonamesid: 2471287
         latitude: 33.46632
@@ -652,6 +702,7 @@ regions:
           - "Al Qal`ah"
           - "Al Qal‘ah"
           - "El Golaa"
+          - "El Kalaa"
         ascii_name: "El Golaa"
         geonamesid: 2473486
         latitude: 33.48485
@@ -673,12 +724,14 @@ regions:
           - Capsa
           - Gafsa
           - Gafso
+          - Justiniania
         ascii_name: Gafsa
         geonamesid: 2468353
         latitude: 34.425
         longitude: 8.78417
         name: Gafsa
-        names_en: ~
+        names_en: 
+          - Gafsa
         names_es: ~
         population: 81232
         timezone: Africa/Tunis
@@ -687,6 +740,7 @@ regions:
           - "As Sanad"
           - "Es Send"
           - "Es Sened"
+          - Sened
         ascii_name: "As Sanad"
         geonamesid: 2473183
         latitude: 34.4628
@@ -701,6 +755,7 @@ regions:
           - "Ar Rudayyif"
           - Redevef
           - Redevel
+          - Redeyef
         ascii_name: "Ar Rudayyif"
         geonamesid: 2473257
         latitude: 34.3827
@@ -715,6 +770,7 @@ regions:
           - "Al Metlaoui"
           - Matlaoui
           - Metlaoni
+          - Metlaoui
         ascii_name: "Al Metlaoui"
         geonamesid: 2473517
         latitude: 34.32081
@@ -736,6 +792,7 @@ regions:
           - "Kalaa Matmata"
           - Matmata
           - Matmatah
+          - Maţmāţah
         ascii_name: Matmata
         geonamesid: 2463810
         latitude: 33.54445
@@ -750,13 +807,16 @@ regions:
           - Abes
           - Gabes
           - Gabès
+          - Kabis
         ascii_name: Gabes
         geonamesid: 2468369
         latitude: 33.88146
         longitude: 10.0982
         name: Gabès
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gabès
+        names_es: 
+          - Gabes
         population: 110075
         timezone: Africa/Tunis
       - 
@@ -764,6 +824,7 @@ regions:
           - "Al Hammah"
           - "Al Ḩāmmah"
           - Ehl'-Khamma
+          - "El Hamma"
         ascii_name: "El Hamma"
         geonamesid: 2473747
         latitude: 33.89152
@@ -785,6 +846,7 @@ regions:
           - Nabeul
           - Naboel
           - Nabul
+          - Nābul
         ascii_name: Nabeul
         geonamesid: 2468579
         latitude: 36.45606
@@ -799,13 +861,16 @@ regions:
           - "Al Hammamat"
           - "Al Ḩammāmāt"
           - Hammamet
+          - Khammamet
         ascii_name: "Al Hammamat"
         geonamesid: 2473744
         latitude: 36.4
         longitude: 10.61667
         name: "Al Ḩammāmāt"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hammamet
+        names_es: 
+          - Hammamet
         population: 53733
         timezone: Africa/Tunis
       - 
@@ -831,12 +896,14 @@ regions:
           - Midoun
           - Midun
           - Mīdūn
+          - Мидун
         ascii_name: Midoun
         geonamesid: 2468925
         latitude: 33.80813
         longitude: 10.99228
         name: Midoun
-        names_en: ~
+        names_en: 
+          - Midoun
         names_es: ~
         population: 120000
         timezone: Africa/Tunis
@@ -845,6 +912,7 @@ regions:
           - Madanin
           - Madanīn
           - Medenine
+          - Médenine
         ascii_name: Medenine
         geonamesid: 2469473
         latitude: 33.35495
@@ -859,12 +927,14 @@ regions:
           - Jarjis
           - Jarjīs
           - Zarzia
+          - Zarzis
         ascii_name: Zarzis
         geonamesid: 2470173
         latitude: 33.50398
         longitude: 11.11216
         name: Zarzis
-        names_en: ~
+        names_en: 
+          - Zarzis
         names_es: ~
         population: 79316
         timezone: Africa/Tunis
@@ -873,6 +943,7 @@ regions:
           - Djerba
           - "Hawmat as Suq"
           - "Houmet Es Souk"
+          - "Houmet Essouk"
         ascii_name: "Houmt Souk"
         geonamesid: 2470384
         latitude: 33.87576
@@ -887,6 +958,7 @@ regions:
           - "Ben Gardan"
           - "Ben Gardane"
           - Ben-Gardan
+          - Ben-Gardán
         ascii_name: "Bin Qirdan"
         geonamesid: 2472431
         latitude: 33.13783
@@ -901,6 +973,7 @@ regions:
           - "Bani Khaddash"
           - "Banī Khaddāsh"
           - "Beni Kheddache"
+          - "Beni Kreddache"
         ascii_name: "Bani Khaddash"
         geonamesid: 2472726
         latitude: 33.2528
@@ -936,6 +1009,7 @@ regions:
           - Tabarca
           - Tabarka
           - Tabarqa
+          - Tabarqah
         ascii_name: Tabarka
         geonamesid: 2464871
         latitude: 36.95442
@@ -950,6 +1024,7 @@ regions:
           - Dzhenduba
           - Jendouba
           - Jundubah
+          - Jundūbah
         ascii_name: Jendouba
         geonamesid: 2470088
         latitude: 36.50114
@@ -964,6 +1039,7 @@ regions:
           - "Al Firnanah"
           - "Al Firnānah"
           - Fernana
+          - Fernara
         ascii_name: "Al Firnanah"
         geonamesid: 2473788
         latitude: 36.65547
@@ -1006,6 +1082,7 @@ regions:
           - Matem
           - Mateur
           - Matir
+          - Māţir
         ascii_name: Mateur
         geonamesid: 2469088
         latitude: 37.04045
@@ -1020,6 +1097,7 @@ regions:
           - Djemil
           - "Manzil Jamil"
           - "Manzil Jamīl"
+          - "Menjel Djemil"
         ascii_name: "Menzel Jemil"
         geonamesid: 2469256
         latitude: 37.23618
@@ -1034,6 +1112,7 @@ regions:
           - Bourguiba
           - Ferryville
           - "Manzil Bu Ruqaybah"
+          - "Manzil Bū Ruqaybah"
         ascii_name: "Menzel Bourguiba"
         geonamesid: 2469264
         latitude: 37.15368
@@ -1048,6 +1127,7 @@ regions:
           - "Manzil `Abd ar Rahman"
           - "Manzil ‘Abd ar Raḩmān"
           - "Mennzel Abd er Rahmane"
+          - Mennzel-Abd-er-Ralmane
         ascii_name: "Menzel Abderhaman"
         geonamesid: 2469268
         latitude: 37.23737
@@ -1062,6 +1142,7 @@ regions:
           - Gar-ehl'-Mela
           - "Ghar al Milh"
           - "Ghar el Melah"
+          - "Ghār al Milḩ"
         ascii_name: "Ghar al Milh"
         geonamesid: 2470996
         latitude: 37.16939
@@ -1076,13 +1157,16 @@ regions:
           - Banzart
           - Biserta
           - Bizerta
+          - Bizerte
         ascii_name: Bizerte
         geonamesid: 2472706
         latitude: 37.27442
         longitude: 9.87391
         name: Bizerte
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bizerte
+        names_es: 
+          - Bizerta
         population: 115268
         timezone: Africa/Tunis
     geonamesid: 2472699
@@ -1111,6 +1195,7 @@ regions:
           - Bajah
           - Bedja
           - Bedzha
+          - Beja
         ascii_name: Beja
         geonamesid: 2472774
         latitude: 36.72564
@@ -1132,6 +1217,7 @@ regions:
           - "El Gelaah"
           - "Galaat el Andeless"
           - "Galaat el Andless"
+          - "Galaat el Anndles"
         ascii_name: "Qal'at al Andalus"
         geonamesid: 2468329
         latitude: 37.0629
@@ -1146,6 +1232,7 @@ regions:
           - Ariana
           - Aryanah
           - Aryānah
+          - "El Ariana"
         ascii_name: Ariana
         geonamesid: 2473247
         latitude: 36.86012
@@ -1167,6 +1254,7 @@ regions:
           - Haffouz
           - Haffuz
           - Pichon
+          - Ḩaffūz
         ascii_name: Haffouz
         geonamesid: 2470800
         latitude: 35.63235
@@ -1195,12 +1283,14 @@ regions:
           - "Al Qayrawan"
           - "Al Qayrawān"
           - Al-Kayrawan
+          - Al-Kayrawān
         ascii_name: Kairouan
         geonamesid: 2473449
         latitude: 35.6781
         longitude: 10.09633
         name: Kairouan
-        names_en: ~
+        names_en: 
+          - Kairouan
         names_es: ~
         population: 119794
         timezone: Africa/Tunis
@@ -1216,6 +1306,7 @@ regions:
           - Tala
           - Talah
           - Thala
+          - Tālah
         ascii_name: Thala
         geonamesid: 2464795
         latitude: 35.57244
@@ -1244,6 +1335,7 @@ regions:
           - "Ar Rawhiyah"
           - "Ar Rawḩīyah"
           - Rohia
+          - "Souk et Tnine"
         ascii_name: Rohia
         geonamesid: 2473264
         latitude: 35.65129
@@ -1258,12 +1350,14 @@ regions:
           - "Al Qasrayn"
           - "Al Qaşrayn"
           - Kasserin
+          - Kasserine
         ascii_name: Kasserine
         geonamesid: 2473457
         latitude: 35.16758
         longitude: 8.83651
         name: Kasserine
-        names_en: ~
+        names_en: 
+          - Kasserine
         names_es: ~
         population: 81987
         timezone: Africa/Tunis
@@ -1279,6 +1373,7 @@ regions:
           - Touza
           - Tuza
           - Tuzah
+          - Ţūzah
         ascii_name: Tuzah
         geonamesid: 2464427
         latitude: 35.63544
@@ -1293,6 +1388,7 @@ regions:
           - "Sidi Ben Nour"
           - "Sidi Ben Nur"
           - "Sidi Bin Nur"
+          - "Sīdī Bin Nūr"
         ascii_name: "Sidi Bin Nur"
         geonamesid: 2466075
         latitude: 35.53333
@@ -1307,6 +1403,7 @@ regions:
           - Chekanes
           - Saqanis
           - Skanes
+          - Şaqānis
         ascii_name: Saqanis
         geonamesid: 2467246
         latitude: 35.78333
@@ -1321,6 +1418,7 @@ regions:
           - Ksib-el-Mediouni
           - Ksiba-el-Mediouni
           - "Ksibet el Mediouni"
+          - "Qusaybat al Madyuni"
         ascii_name: "Qusaybat al Madyuni"
         geonamesid: 2467890
         latitude: 35.68562
@@ -1335,6 +1433,7 @@ regions:
           - "Kassar el Hal"
           - "Kesser el Hal"
           - "Ksar Hellal"
+          - "Qasr Hallal"
         ascii_name: "Qasr Hallal"
         geonamesid: 2468106
         latitude: 35.64773
@@ -1363,6 +1462,7 @@ regions:
           - Lampta
           - Lamta
           - Lamtah
+          - Lamţah
         ascii_name: Lamtah
         geonamesid: 2469571
         latitude: 35.66667
@@ -1377,6 +1477,7 @@ regions:
           - Djemal
           - Djemmal
           - Djemmel
+          - Dzhamal'
         ascii_name: Jammal
         geonamesid: 2470191
         latitude: 35.62231
@@ -1391,6 +1492,7 @@ regions:
           - "Bani Hassan"
           - "Banī Ḩassān"
           - "Beni Hassan"
+          - "Beni Hassane"
         ascii_name: "Bani Hassan"
         geonamesid: 2472732
         latitude: 35.5672
@@ -1418,6 +1520,7 @@ regions:
           - "As Sayyadah"
           - "Aş Şayyādah"
           - Saiada
+          - Saiadah
         ascii_name: "As Sayyadah"
         geonamesid: 2473169
         latitude: 35.66887
@@ -1432,6 +1535,7 @@ regions:
           - "Ain Sahalin"
           - "As Sahilin"
           - "As Sāḩilīn"
+          - Sahalin
         ascii_name: Sahline
         geonamesid: 2473190
         latitude: 35.75166
@@ -1446,6 +1550,7 @@ regions:
           - "Al Wardanin"
           - "Al Wardānīn"
           - Ouadenine
+          - Ouardanine
         ascii_name: "Al Wardanin"
         geonamesid: 2473420
         latitude: 35.70915
@@ -1460,13 +1565,16 @@ regions:
           - "Al Munastir"
           - "Al Munastīr"
           - "El Menstir"
+          - Hadrumetum
         ascii_name: Monastir
         geonamesid: 2473493
         latitude: 35.78333
         longitude: 10.83333
         name: Monastir
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Monastir
+        names_es: 
+          - Monastir
         population: 71546
         timezone: Africa/Tunis
       - 
@@ -1488,6 +1596,7 @@ regions:
           - "Al Baqalitah"
           - "Al Baqāliţah"
           - Bekalta
+          - Mkalta
         ascii_name: "Al Baqalitah"
         geonamesid: 2473826
         latitude: 35.61739
@@ -1509,12 +1618,14 @@ regions:
           - "Sidi Allouane"
           - "Sidi Alluan"
           - "Sidi Alouane"
+          - "Sidi Eluan"
         ascii_name: "Sidi `Ulwan"
         geonamesid: 2465138
         latitude: 35.37505
         longitude: 10.93899
         name: "Sīdī ‘Ulwān"
-        names_en: ~
+        names_en: 
+          - "Sidi Alouane"
         names_es: ~
         population: 7051
         timezone: Africa/Tunis
@@ -1523,6 +1634,7 @@ regions:
           - Chorbane
           - Chourbane
           - Shurban
+          - Shurbān
         ascii_name: Shurban
         geonamesid: 2466897
         latitude: 35.28581
@@ -1537,6 +1649,7 @@ regions:
           - "Ksour Essaf"
           - Ksursef
           - "Qsour Essaf"
+          - "Qusur as Saf"
         ascii_name: "Ksour Essaf"
         geonamesid: 2467856
         latitude: 35.41808
@@ -1551,6 +1664,7 @@ regions:
           - Mallulash
           - Mallūlash
           - Meliouneche
+          - Meliounèche
         ascii_name: Mellouleche
         geonamesid: 2469321
         latitude: 35.16617
@@ -1565,6 +1679,7 @@ regions:
           - "Ash Shabbah"
           - "Ash Shābbah"
           - Chebba
+          - "La Chebba"
         ascii_name: Chebba
         geonamesid: 2473229
         latitude: 35.23722
@@ -1579,12 +1694,14 @@ regions:
           - Africa
           - "Al Mahdiyah"
           - "Al Mahdīyah"
+          - Madhia
         ascii_name: Mahdia
         geonamesid: 2473572
         latitude: 35.50472
         longitude: 11.06222
         name: Mahdia
-        names_en: ~
+        names_en: 
+          - Mahdia
         names_es: ~
         population: 45977
         timezone: Africa/Tunis
@@ -1593,12 +1710,14 @@ regions:
           - "Al Jamm"
           - "Ehl' Dzhem"
           - "El Djem"
+          - "El Jem"
         ascii_name: "El Jem"
         geonamesid: 2473654
         latitude: 35.3
         longitude: 10.71667
         name: "El Jem"
-        names_en: ~
+        names_en: 
+          - "El Jem"
         names_es: ~
         population: 20029
         timezone: Africa/Tunis
@@ -1614,6 +1733,7 @@ regions:
           - Tadjerouine
           - Tadjrouine
           - Tadjrouïne
+          - Tajerouine
         ascii_name: Tajerouine
         geonamesid: 2464809
         latitude: 35.89174
@@ -1628,6 +1748,7 @@ regions:
           - "Sakiet Sidi Youssef"
           - "Sakiet Sidi Youssof"
           - "Saqiyat Sidi Yusuf"
+          - "Sidi Youssef"
         ascii_name: "Sakiet Sidi Youssef"
         geonamesid: 2467239
         latitude: 36.22292
@@ -1655,6 +1776,7 @@ regions:
           - "Manzil Salim"
           - "Manzil Sālim"
           - "Menzel Salem"
+          - "Sidi Amor Ben Salem"
         ascii_name: "Manzil Salim"
         geonamesid: 2469252
         latitude: 35.85673
@@ -1669,6 +1791,7 @@ regions:
           - "Al Qusur"
           - "Al Quşūr"
           - Ebba-Ksour
+          - "El Ksour"
         ascii_name: "El Ksour"
         geonamesid: 2473439
         latitude: 35.89607
@@ -1683,6 +1806,7 @@ regions:
           - "Al Kaf"
           - "Al Kāf"
           - Chakbanaria
+          - "Chikka Benar"
         ascii_name: "El Kef"
         geonamesid: 2473634
         latitude: 36.17424
@@ -1704,6 +1828,7 @@ regions:
           - "La Manouba"
           - Manouba
           - Manubah
+          - Manūbah
         ascii_name: Manouba
         geonamesid: 2469274
         latitude: 36.80803
@@ -1718,6 +1843,7 @@ regions:
           - "Al Batan"
           - "Al Baţān"
           - "El Batane"
+          - "El Bathan"
         ascii_name: "El Battan"
         geonamesid: 2473823
         latitude: 36.80368

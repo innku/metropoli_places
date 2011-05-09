@@ -2,8 +2,11 @@
 geonamesid: 1282028
 iso: MV
 name: Maldives
-names_en: ~
-names_es: ~
+names_en: 
+  - Maldives
+  - "Republic of Maldives"
+names_es: 
+  - Maldivas
 regions: 
   - 
     ascii_name: "Vaavu Atholhu"
@@ -52,7 +55,8 @@ regions:
     cities: []
     geonamesid: 1281945
     name: "Gnyaviyani Atoll"
-    names_en: ~
+    names_en: 
+      - "Gnyaviyani Atoll"
     names_es: ~
   - 
     ascii_name: "Meemu Atholhu"
@@ -191,13 +195,16 @@ regions:
           - Maale
           - Male
           - Malé
+          - Malė
         ascii_name: Male
         geonamesid: 1282027
         latitude: 4.1748
         longitude: 73.50888
         name: Male
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Malé
+        names_es: 
+          - Malé
         population: 103693
         timezone: Indian/Maldives
     geonamesid: 1337624

@@ -2,8 +2,11 @@
 geonamesid: 102358
 iso: SA
 name: "Saudi Arabia"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Saudi Arabia"
+names_es: 
+  - "Arabia Saudí"
+  - "Arabia Saudita"
 regions: 
   - 
     ascii_name: "Mintaqat Tabuk"
@@ -27,6 +30,7 @@ regions:
           - Gabouk
           - Tabouk
           - Tabuk
+          - Tebuk
         ascii_name: Tabuk
         geonamesid: 101628
         latitude: 28.38333
@@ -41,6 +45,7 @@ regions:
           - Daba
           - Dhaba
           - Diba
+          - Duba
         ascii_name: Zbe
         geonamesid: 106909
         latitude: 27.353
@@ -55,6 +60,7 @@ regions:
           - "Al Wajh"
           - Alwejh
           - Wajj
+          - Wejh
         ascii_name: "Al Wajh"
         geonamesid: 108773
         latitude: 26.23333
@@ -83,6 +89,7 @@ regions:
           - Ramadan
           - Taraba
           - Turaba
+          - Turabah
         ascii_name: Turabah
         geonamesid: 101322
         latitude: 21.21722
@@ -97,6 +104,7 @@ regions:
           - Rabegh
           - Rabigh
           - "Rabigh Qasr"
+          - Rābigh
         ascii_name: Rabigh
         geonamesid: 103035
         latitude: 22.79861
@@ -111,13 +119,16 @@ regions:
           - "A Meca"
           - "A Meca - mkt"
           - "A Meca - مكة"
+          - "La Meca"
         ascii_name: Mecca
         geonamesid: 104515
         latitude: 21.42667
         longitude: 39.82611
         name: Mecca
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mecca
+        names_es: 
+          - "La Meca"
         population: 1323624
         timezone: Asia/Riyadh
       - 
@@ -125,13 +136,19 @@ regions:
           - Ciddae
           - Cidde
           - Ciddä
+          - Djedda
         ascii_name: Jiddah
         geonamesid: 105343
         latitude: 21.51694
         longitude: 39.21917
         name: Jiddah
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Jeddah
+        names_es: 
+          - Jedda
+          - Yidda
+          - Yida
+          - Jeddah
         population: 2867446
         timezone: Asia/Riyadh
       - 
@@ -139,12 +156,15 @@ regions:
           - Al-Ta'if
           - Al-Ṭā’if
           - "At Ta'if"
+          - "Aţ Ţā’if"
         ascii_name: Tayif
         geonamesid: 107968
         latitude: 21.27028
         longitude: 40.41583
         name: Tayif
-        names_en: ~
+        names_en: 
+          - Ta'if
+          - Taif
         names_es: ~
         population: 530848
         timezone: Asia/Riyadh
@@ -153,6 +173,7 @@ regions:
           - "Al Jumum"
           - "Al Jumun"
           - "Al Jumūm"
+          - "Al Jumūn"
         ascii_name: "Al Jumum"
         geonamesid: 109417
         latitude: 21.61694
@@ -201,6 +222,7 @@ regions:
           - Samitah
           - Samta
           - Şāmitah
+          - Самта
         ascii_name: Samitah
         geonamesid: 102451
         latitude: 16.59722
@@ -215,6 +237,7 @@ regions:
           - Al-Sabya
           - "As Sabya"
           - "Aş Şabyā"
+          - Sabie
         ascii_name: Sabya
         geonamesid: 102651
         latitude: 17.1495
@@ -229,6 +252,7 @@ regions:
           - Masliya
           - Masliyah
           - Maslīyah
+          - Misliyah
         ascii_name: Misliyah
         geonamesid: 104269
         latitude: 17.45673
@@ -243,6 +267,7 @@ regions:
           - Djayzan
           - Djayzān
           - Djazan
+          - Djāzān
         ascii_name: Jizan
         geonamesid: 105299
         latitude: 16.88917
@@ -283,6 +308,7 @@ regions:
           - "Abi `Arish"
           - "Abu `Arish"
           - "Abu al `Arish"
+          - "Abu al ‘Arish"
         ascii_name: "Abu `Arish"
         geonamesid: 110619
         latitude: 16.95865
@@ -316,6 +342,7 @@ regions:
           - Ha'il
           - Hael
           - Hajel
+          - Hayil
         ascii_name: Hayil
         geonamesid: 106281
         latitude: 27.51639
@@ -337,12 +364,14 @@ regions:
           - AEbha
           - Abha
           - Abhā
+          - Abkha
         ascii_name: Abha
         geonamesid: 110690
         latitude: 18.21639
         longitude: 42.50528
         name: Abhā
-        names_en: ~
+        names_en: 
+          - Abha
         names_es: ~
         population: 210886
         timezone: Asia/Riyadh
@@ -372,6 +401,7 @@ regions:
           - "As Saihat"
           - "As Saihāt"
           - "As Sayhat"
+          - "As Sayhāt"
         ascii_name: Sayhat
         geonamesid: 102318
         latitude: 26.47944
@@ -386,6 +416,7 @@ regions:
           - Safwa
           - Safwah
           - Şafwah
+          - Şafwá
         ascii_name: Safwa
         geonamesid: 102585
         latitude: 26.65083
@@ -427,12 +458,14 @@ regions:
           - Abaqaiq
           - Abkayk
           - Abqaik
+          - Abqaiq
         ascii_name: Abqaiq
         geonamesid: 107312
         latitude: 25.93556
         longitude: 49.66833
         name: Abqaiq
-        names_en: ~
+        names_en: 
+          - Abqaiq
         names_es: ~
         population: 29474
         timezone: Asia/Riyadh
@@ -441,12 +474,14 @@ regions:
           - "Az Zahran"
           - "Az̧ Z̧ahrān"
           - Dahahron
+          - Dakhran
         ascii_name: Dhahran
         geonamesid: 107797
         latitude: 26.30417
         longitude: 50.1325
         name: Dhahran
-        names_en: ~
+        names_en: 
+          - Dhahran
         names_es: ~
         population: 99540
         timezone: Asia/Riyadh
@@ -469,6 +504,7 @@ regions:
           - "As Saffaniyah"
           - "As Saffānīyah"
           - "Ra's as Saffaniyah"
+          - "Ra’s as Saffaniyah"
         ascii_name: "As Saffaniyah"
         geonamesid: 108142
         latitude: 27.97083
@@ -483,6 +519,7 @@ regions:
           - "Al Ghuraim"
           - "Al Qurayn"
           - Al-Qurain
+          - Qarain
         ascii_name: "Al Qurayn"
         geonamesid: 108890
         latitude: 25.48333
@@ -497,6 +534,7 @@ regions:
           - "Al Qarah"
           - "Al Qārah"
           - "El Qara"
+          - Qarah
         ascii_name: "Al Qarah"
         geonamesid: 108957
         latitude: 25.41667
@@ -511,6 +549,7 @@ regions:
           - "Al Mutairifi"
           - "Al Mutayrifi"
           - "Al Muţayrifī"
+          - Matairafi
         ascii_name: "Al Mutayrifi"
         geonamesid: 109008
         latitude: 25.47972
@@ -525,6 +564,7 @@ regions:
           - "Al Munaizilah"
           - "Al Munayzilah"
           - Manaizlah
+          - Manzilah
         ascii_name: "Al Munayzilah"
         geonamesid: 109059
         latitude: 25.38333
@@ -577,6 +617,7 @@ regions:
           - "Al Khafji"
           - "Al Khafjī"
           - "Ra's al Khafji"
+          - "Ra’s al Khafjī"
         ascii_name: "Al Khafji"
         geonamesid: 109380
         latitude: 28.41306
@@ -591,12 +632,14 @@ regions:
           - Ainain
           - Ainan
           - "Al Jubayl"
+          - Al'-Dzhubajl'
         ascii_name: "Al Jubayl"
         geonamesid: 109435
         latitude: 27.00472
         longitude: 49.66139
         name: "Al Jubayl"
-        names_en: ~
+        names_en: 
+          - Jubail
         names_es: ~
         population: 237274
         timezone: Asia/Riyadh
@@ -605,6 +648,7 @@ regions:
           - "Al Jubayl"
           - Al'-Dzhubajl'
           - Al-Jubail
+          - Аль-Джубайль
         ascii_name: "Al Jubayl"
         geonamesid: 109436
         latitude: 25.4
@@ -619,6 +663,7 @@ regions:
           - "Al Jafr"
           - Bab-al-Jafar
           - Bāb-al-Jafar
+          - Djafar
         ascii_name: "Al Jafr"
         geonamesid: 109502
         latitude: 25.37694
@@ -633,6 +678,7 @@ regions:
           - "Al Hufuf"
           - "Al Hufūf"
           - Hofuf
+          - Hofūf
         ascii_name: "Al Hufuf"
         geonamesid: 109571
         latitude: 25.37833
@@ -660,12 +706,14 @@ regions:
           - "Ad Dammam"
           - "Ad Dammām"
           - Daemmam
+          - Dammam
         ascii_name: "Ad Dammam"
         geonamesid: 110336
         latitude: 26.42583
         longitude: 50.11417
         name: "Ad Dammām"
-        names_en: ~
+        names_en: 
+          - Dammam
         names_es: ~
         population: 768602
         timezone: Asia/Riyadh
@@ -695,6 +743,7 @@ regions:
           - "As Sajir"
           - "As Sājir"
           - Sajir
+          - Sājir
         ascii_name: Sajir
         geonamesid: 108121
         latitude: 25.18056
@@ -709,13 +758,16 @@ regions:
           - Al-Riyad
           - "Ar Riyad"
           - "Ar Riyadh"
+          - "Ar Riyādh"
         ascii_name: Riyadh
         geonamesid: 108410
         latitude: 24.68773
         longitude: 46.72185
         name: Riyadh
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Riyadh
+        names_es: 
+          - Riad
         population: 4205961
         timezone: Asia/Riyadh
       - 
@@ -723,6 +775,7 @@ regions:
           - "Al Artawiyah"
           - "Al Arţāwīyah"
           - "Al Irtawiya"
+          - "Al Irtāwīya"
         ascii_name: "Al Artawiyah"
         geonamesid: 110031
         latitude: 26.51
@@ -742,7 +795,8 @@ regions:
         latitude: 23.91667
         longitude: 42.93333
         name: ‘Afīf
-        names_en: ~
+        names_en: 
+          - Afif
         names_es: ~
         population: 40648
         timezone: Asia/Riyadh
@@ -783,12 +837,14 @@ regions:
           - "Al Russ"
           - "Ar Rass"
           - "El Russ"
+          - Rass
         ascii_name: "Ar Rass"
         geonamesid: 108435
         latitude: 25.86972
         longitude: 43.50222
         name: "Ar Rass"
-        names_en: ~
+        names_en: 
+          - "Ar Rass"
         names_es: ~
         population: 81728
         timezone: Asia/Riyadh
@@ -804,6 +860,7 @@ regions:
           - Yambo
           - "Yanbu al-Bahar"
           - Yanbu`
+          - "Yanbu` al Bahr"
         ascii_name: "Yanbu` al Bahr"
         geonamesid: 100425
         latitude: 24.08528
@@ -831,6 +888,7 @@ regions:
           - Badr
           - "Badr Hunain"
           - "Badr Hunayn"
+          - "Badr Ḩunayn"
         ascii_name: "Badr Hunayn"
         geonamesid: 107744
         latitude: 23.78
@@ -845,13 +903,16 @@ regions:
           - "Al Madina"
           - "Al Madinah"
           - "Al Madinah al Munawwarah"
+          - "Al Madīnah"
         ascii_name: Medina
         geonamesid: 109223
         latitude: 24.46861
         longitude: 39.61417
         name: Medina
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Medina
+        names_es: 
+          - Medina
         population: 1300000
         timezone: Asia/Riyadh
     geonamesid: 109224
@@ -866,6 +927,7 @@ regions:
           - Tabarjal
           - Tubarjal
           - Ţabarjal
+          - Ţubarjal
         ascii_name: Tubarjal
         geonamesid: 101631
         latitude: 30.49778
@@ -880,6 +942,7 @@ regions:
           - Sakaka
           - Sakakah
           - Sakākah
+          - Sakākā
         ascii_name: Sakaka
         geonamesid: 102527
         latitude: 29.97028
@@ -894,6 +957,7 @@ regions:
           - "Al Qurayyat"
           - "Al Qurayyāt"
           - "Al `Aqaylah"
+          - "Al `Uqaylah"
         ascii_name: "Al Qurayyat"
         geonamesid: 108648
         latitude: 31.33333
@@ -928,18 +992,21 @@ regions:
           - Ara`ar
           - Arar
           - Ara‘ar
+          - "`Ar`ar"
         ascii_name: "`Ar`ar"
         geonamesid: 108512
         latitude: 30.95178
         longitude: 41.05969
         name: ‘Ar‘ar
-        names_en: ~
+        names_en: 
+          - Arar
         names_es: ~
         population: 148540
         timezone: Asia/Riyadh
     geonamesid: 109579
     name: "Northern Borders Region"
-    names_en: ~
+    names_en: 
+      - "Northern Borders Region"
     names_es: ~
   - 
     ascii_name: "Mintaqat al Bahah"

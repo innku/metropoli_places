@@ -2,8 +2,10 @@
 geonamesid: 3570311
 iso: MQ
 name: Martinique
-names_en: ~
-names_es: ~
+names_en: 
+  - Martinique
+names_es: 
+  - Martinica
 regions: 
   - 
     ascii_name: Martinique
@@ -76,6 +78,7 @@ regions:
           - "Petite Riviere Salee"
           - "Petite Rivière Salée"
           - "Quartier Petite Riviere Salee"
+          - "Quartier Petite Rivière Salée"
         ascii_name: "Petite Riviere Salee"
         geonamesid: 3570166
         latitude: 14.75
@@ -103,6 +106,7 @@ regions:
           - "Les Trois-Ilets"
           - "Les Trois-Îlets"
           - Trois-Ilets
+          - Trois-Îlets
         ascii_name: "Les Trois-Ilets"
         geonamesid: 3570396
         latitude: 14.539
@@ -193,6 +197,7 @@ regions:
           - Francois
           - François
           - "Le Francois"
+          - "Le François"
         ascii_name: "Le Francois"
         geonamesid: 3570429
         latitude: 14.61557
@@ -207,6 +212,7 @@ regions:
           - "La Trinite"
           - "La Trinité"
           - Trinite
+          - Trinité
         ascii_name: "La Trinite"
         geonamesid: 3570446
         latitude: 14.73758
@@ -232,13 +238,16 @@ regions:
           - "For de Fransas"
           - "Fort Royal"
           - Fort-de-France
+          - Fort-de-Frans
         ascii_name: Fort-de-France
         geonamesid: 3570675
         latitude: 14.60892
         longitude: -61.07334
         name: Fort-de-France
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Fort-de-France
+        names_es: 
+          - Fort-de-France
         population: 89995
         timezone: America/Martinique
       - 

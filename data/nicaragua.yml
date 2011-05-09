@@ -2,8 +2,12 @@
 geonamesid: 3617476
 iso: NI
 name: Nicaragua
-names_en: ~
-names_es: ~
+names_en: 
+  - Nicaragua
+  - "Republic of Nicaragua"
+names_es: 
+  - Nicaragua
+  - "República de Nicaragua"
 regions: 
   - 
     ascii_name: "Departamento de Rivas"
@@ -48,6 +52,7 @@ regions:
           - Nicaragua
           - Rivas
           - "Villa of Nicaragua"
+          - Ривас
         ascii_name: Rivas
         geonamesid: 3617052
         latitude: 11.43333
@@ -85,6 +90,7 @@ regions:
           - Cardenas
           - Concepcion
           - Concepción
+          - Cárdenas
         ascii_name: Cardenas
         geonamesid: 3620479
         latitude: 11.2
@@ -200,6 +206,7 @@ regions:
           - Guiguili
           - Guiguilí
           - Guiquili
+          - Wiwili
         ascii_name: Wiwili
         geonamesid: 3615683
         latitude: 13.61667
@@ -399,6 +406,7 @@ regions:
           - "Ciudad Dario"
           - "Ciudad Darío"
           - Dario
+          - Metapa
         ascii_name: "Ciudad Dario"
         geonamesid: 3620350
         latitude: 12.73143
@@ -523,6 +531,7 @@ regions:
           - Concepcion
           - Concepción
           - "La Cancepcion"
+          - "La Cancepción"
         ascii_name: "La Concepcion"
         geonamesid: 3618648
         latitude: 11.93711
@@ -570,7 +579,8 @@ regions:
         latitude: 12.19732
         longitude: -86.09706
         name: Tipitapa
-        names_en: ~
+        names_en: 
+          - Tipitapa
         names_es: ~
         population: 127153
         timezone: America/Managua
@@ -592,6 +602,7 @@ regions:
           - Masachapa
           - "Puerto Masachapa"
           - "Puerto Somoza"
+          - Масачапа
         ascii_name: Masachapa
         geonamesid: 3617730
         latitude: 11.78687
@@ -606,13 +617,16 @@ regions:
           - Managua
           - Managva
           - Managvo
+          - Manankoua
         ascii_name: Managua
         geonamesid: 3617763
         latitude: 12.13282
         longitude: -86.2504
         name: Managua
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Managua
+        names_es: 
+          - Managua
         population: 973087
         timezone: America/Managua
       - 
@@ -634,6 +648,7 @@ regions:
           - "Carlos Fonseca Amador"
           - "El Carmen"
           - "Villa Carlos Fonseca Amador"
+          - "Villa El Carmen"
         ascii_name: "Carlos Fonseca Amador"
         geonamesid: 3620473
         latitude: 11.98009
@@ -715,6 +730,7 @@ regions:
           - "San Juan"
           - "San Juan de Rio Coco"
           - "San Juan de Río Coco"
+          - "San Juan de Telpaneca"
         ascii_name: "San Juan de Rio Coco"
         geonamesid: 3616721
         latitude: 13.54483
@@ -756,6 +772,7 @@ regions:
           - "Las Sabanas"
           - "Pueblo La Sabana"
           - Sabanas
+          - Savanas
         ascii_name: "Las Sabanas"
         geonamesid: 3618124
         latitude: 13.34302
@@ -833,8 +850,10 @@ regions:
         latitude: 12.43787
         longitude: -86.87804
         name: León
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - León
+        names_es: 
+          - León
         population: 144538
         timezone: America/Managua
       - 
@@ -853,6 +872,7 @@ regions:
           - "La Paz"
           - "La Paz Central"
           - "La Paz Centro"
+          - "Paz Central"
         ascii_name: "La Paz Centro"
         geonamesid: 3618411
         latitude: 12.34
@@ -880,6 +900,7 @@ regions:
           - "El Jicaral"
           - Jicaral
           - Jicaro
+          - "La India Jicaral"
         ascii_name: "La Jicaral"
         geonamesid: 3619695
         latitude: 12.72676
@@ -926,6 +947,7 @@ regions:
           - "San Sebastian de Yali"
           - "San Sebastián de Yalí"
           - Yali
+          - Yalí
         ascii_name: "San Sebastian de Yali"
         geonamesid: 3616572
         latitude: 13.3051
@@ -1010,13 +1032,16 @@ regions:
           - Granada
           - Granado
           - Grenada
+          - Гренада
         ascii_name: Granada
         geonamesid: 3619136
         latitude: 11.93144
         longitude: -85.95772
         name: Granada
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Granada
+        names_es: 
+          - Granada
         population: 89409
         timezone: America/Managua
       - 
@@ -1080,6 +1105,7 @@ regions:
           - Ehsteli
           - Esteli
           - Estelí
+          - Эстели
         ascii_name: Esteli
         geonamesid: 3619194
         latitude: 13.09185
@@ -1249,6 +1275,7 @@ regions:
           - Morazan
           - Morazán
           - "Puerto Morazan"
+          - "Puerto Morazán"
         ascii_name: "Puerto Morazan"
         geonamesid: 3617146
         latitude: 12.85042
@@ -1276,6 +1303,7 @@ regions:
           - Jiquilillo
           - Khikilijo
           - Tiguilillo
+          - Хикилийо
         ascii_name: Jiquilillo
         geonamesid: 3618924
         latitude: 12.74593
@@ -1290,6 +1318,7 @@ regions:
           - Ehl'-V'ekho
           - "El Viejo"
           - Viejo
+          - Эль-Вьехо
         ascii_name: "El Viejo"
         geonamesid: 3619267
         latitude: 12.6633
@@ -1491,6 +1520,7 @@ regions:
           - "San Jose"
           - "San Jose de los Remates"
           - "San José"
+          - "San José de los Remates"
         ascii_name: "San Jose de los Remates"
         geonamesid: 3616753
         latitude: 12.6
@@ -1537,6 +1567,7 @@ regions:
           - Huaspan
           - Waspam
           - Waspan
+          - Waspán
         ascii_name: Waspam
         geonamesid: 3615730
         latitude: 14.74189
@@ -1575,13 +1606,15 @@ regions:
           - Bilwi
           - "Bragman's Bluff"
           - "Bragman’s Bluff"
+          - Puehrto-Kabesas
         ascii_name: "Puerto Cabezas"
         geonamesid: 3617154
         latitude: 14.03507
         longitude: -83.38882
         name: "Puerto Cabezas"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Bilwi
         population: 33635
         timezone: America/Managua
       - 
@@ -1609,6 +1642,7 @@ regions:
           - "Ciudad Rama"
           - Rama
           - Ramy
+          - Рамы
         ascii_name: Rama
         geonamesid: 3617095
         latitude: 12.15965
@@ -1661,6 +1695,7 @@ regions:
           - "English Bank"
           - "Laguna de Perlas"
           - "Las Perlas"
+          - "Las Perlas Town"
         ascii_name: "Laguna de Perlas"
         geonamesid: 3618522
         latitude: 12.34294
@@ -1702,6 +1737,7 @@ regions:
           - "Bocana de Paiwas"
           - Paigua
           - Paiguas
+          - Paiguás
         ascii_name: "Bocana de Paiwas"
         geonamesid: 3620661
         latitude: 12.8
@@ -1716,6 +1752,7 @@ regions:
           - Blewfield
           - Bluefields
           - Blufildse
+          - Блуфилдсе
         ascii_name: Bluefields
         geonamesid: 3620680
         latitude: 12.01366

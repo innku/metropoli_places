@@ -2,8 +2,11 @@
 geonamesid: 2134431
 iso: VU
 name: Vanuatu
-names_en: ~
-names_es: ~
+names_en: 
+  - Vanuatu
+  - "Republic of Vanuatu"
+names_es: 
+  - Vanutu
 regions: 
   - 
     ascii_name: "Tafea Province"
@@ -44,6 +47,7 @@ regions:
           - Louganville
           - Luganville
           - "Luganville Bay"
+          - Santo
         ascii_name: Luganville
         geonamesid: 2136150
         latitude: -15.53333
@@ -110,13 +114,16 @@ regions:
           - Bila
           - Fila
           - "Port Fila"
+          - "Port Vila"
         ascii_name: Port-Vila
         geonamesid: 2135171
         latitude: -17.73381
         longitude: 168.32188
         name: Port-Vila
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Port Vila"
+        names_es: 
+          - "Port Vila"
         population: 35901
         timezone: Pacific/Efate
     geonamesid: 2208267

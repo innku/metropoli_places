@@ -2,8 +2,16 @@
 geonamesid: 3625428
 iso: VE
 name: Venezuela
-names_en: ~
-names_es: ~
+names_en: 
+  - Venezuela
+  - "Republic of Venezuela"
+  - "United States of Venezuela"
+  - "Bolivarian Republic of Venezuela"
+names_es: 
+  - "República de Venezuela"
+  - "Estados Unidos de Venezuela"
+  - "República Bolivariana de Venezuela"
+  - Venezuela
 regions: 
   - 
     ascii_name: "Estado Zulia"
@@ -38,6 +46,7 @@ regions:
           - "La Villa del Rosario"
           - Rosario
           - "Villa del Rosario"
+          - Росарио
         ascii_name: Rosario
         geonamesid: 3628966
         latitude: 10.31667
@@ -52,13 +61,16 @@ regions:
           - Maracaibo
           - Marakaibo
           - Marakajbo
+          - marakaibo
         ascii_name: Maracaibo
         geonamesid: 3633009
         latitude: 10.63167
         longitude: -71.64056
         name: Maracaibo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Maracaibo
+        names_es: 
+          - Maracaibo
         population: 2225000
         timezone: America/Caracas
       - 
@@ -69,7 +81,8 @@ regions:
         latitude: 10.06444
         longitude: -72.545
         name: Machiques
-        names_en: ~
+        names_en: 
+          - Machiques
         names_es: ~
         population: 62968
         timezone: America/Caracas
@@ -89,13 +102,16 @@ regions:
           - Cabimas
           - Caramas
           - Kabimas
+          - Кабимас
         ascii_name: Cabimas
         geonamesid: 3647651
         latitude: 10.40194
         longitude: -71.44611
         name: Cabimas
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cabimas
+        names_es: 
+          - Cabimas
         population: 200818
         timezone: America/Caracas
     geonamesid: 3625035
@@ -167,8 +183,10 @@ regions:
         latitude: 9.31778
         longitude: -70.60361
         name: Valera
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Valera
+        names_es: 
+          - Valera
         population: 93756
         timezone: America/Caracas
       - 
@@ -205,6 +223,7 @@ regions:
           - Colon
           - Colón
           - "San Juan de Colon"
+          - "San Juan de Colón"
         ascii_name: "San Juan de Colon"
         geonamesid: 3628060
         latitude: 8.03125
@@ -223,8 +242,10 @@ regions:
         latitude: 7.76694
         longitude: -72.225
         name: "San Cristóbal"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Cristóbal"
+        names_es: 
+          - "San Cristóbal"
         population: 246583
         timezone: America/Caracas
       - 
@@ -232,6 +253,7 @@ regions:
           - "San Antonio"
           - "San Antonio de Tachira"
           - "San Antonio de Táchira"
+          - "San Antonio del Tachira"
         ascii_name: "San Antonio del Tachira"
         geonamesid: 3628549
         latitude: 7.81454
@@ -277,13 +299,16 @@ regions:
           - Cumana
           - Cumaná
           - Kumana
+          - Кумана
         ascii_name: Cumana
         geonamesid: 3644768
         latitude: 10.46667
         longitude: -64.16667
         name: Cumaná
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cumaná
+        names_es: 
+          - Cumaná
         population: 257783
         timezone: America/Caracas
       - 
@@ -295,8 +320,10 @@ regions:
         latitude: 10.66781
         longitude: -63.25849
         name: Carúpano
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Carúpano
+        names_es: 
+          - Carúpano
         population: 112082
         timezone: America/Caracas
     geonamesid: 3626655
@@ -339,8 +366,10 @@ regions:
         latitude: 9.56667
         longitude: -69.21667
         name: Araure
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Araure
+        names_es: 
+          - Araure
         population: 73054
         timezone: America/Caracas
       - 
@@ -351,8 +380,10 @@ regions:
         latitude: 9.55972
         longitude: -69.20194
         name: Acarigua
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Acarigua
+        names_es: 
+          - Acarigua
         population: 143704
         timezone: America/Caracas
     geonamesid: 3629941
@@ -367,13 +398,16 @@ regions:
           - "La Asuncion"
           - "La Asunción"
           - La-Asuns'on
+          - Ла-Асунсьон
         ascii_name: "La Asuncion"
         geonamesid: 3480908
         latitude: 11.03333
         longitude: -63.86278
         name: "La Asunción"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "La Asunción"
+        names_es: 
+          - "La Asunción"
         population: 35084
         timezone: America/Caracas
       - 
@@ -385,8 +419,10 @@ regions:
         latitude: 10.95796
         longitude: -63.84906
         name: Porlamar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Porlamar
+        names_es: 
+          - Porlamar
         population: 87120
         timezone: America/Caracas
       - 
@@ -403,8 +439,10 @@ regions:
         timezone: America/Caracas
     geonamesid: 3631462
     name: "Isla Margarita"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Isla Margarita"
+    names_es: 
+      - "Isla de Margarita"
   - 
     ascii_name: "Estado Monagas"
     cities: 
@@ -418,8 +456,10 @@ regions:
         latitude: 9.75
         longitude: -63.17667
         name: Maturín
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Maturín
+        names_es: 
+          - Maturín
         population: 410972
         timezone: America/Caracas
     geonamesid: 3632100
@@ -456,13 +496,16 @@ regions:
           - Petare
           - "petare qu"
           - Петаре
+          - ペタレ区
         ascii_name: Petare
         geonamesid: 3630297
         latitude: 10.48333
         longitude: -66.81667
         name: Petare
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Petare
+        names_es: 
+          - Petare
         population: 364684
         timezone: America/Caracas
       - 
@@ -474,8 +517,10 @@ regions:
         latitude: 10.12167
         longitude: -66.77167
         name: "Ocumare del Tuy"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Ocumare del Tuy"
+        names_es: 
+          - "Ocumare del Tuy"
         population: 166072
         timezone: America/Caracas
       - 
@@ -510,8 +555,10 @@ regions:
         latitude: 10.46667
         longitude: -66.61667
         name: Guarenas
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Guarenas
+        names_es: 
+          - Guarenas
         population: 181612
         timezone: America/Caracas
       - 
@@ -530,6 +577,7 @@ regions:
           - Cua
           - Cúa
           - Kua
+          - Куа
         ascii_name: Cua
         geonamesid: 3644918
         latitude: 10.16222
@@ -580,6 +628,7 @@ regions:
           - Carrizal
           - Carrizales
           - Karrisal'
+          - Каррисаль
         ascii_name: Carrizal
         geonamesid: 3646451
         latitude: 10.35
@@ -635,13 +684,16 @@ regions:
           - Merida
           - Mérida
           - merida
+          - mrydh
         ascii_name: Merida
         geonamesid: 3632308
         latitude: 8.59833
         longitude: -71.145
         name: Mérida
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mérida
+        names_es: 
+          - Mérida
         population: 300000
         timezone: America/Caracas
       - 
@@ -660,6 +712,7 @@ regions:
           - Egido
           - Ehkhido
           - Ejido
+          - Эхидо
         ascii_name: Ejido
         geonamesid: 3644417
         latitude: 8.55139
@@ -722,8 +775,10 @@ regions:
         latitude: 10.17778
         longitude: -70.08056
         name: Carora
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Carora
+        names_es: 
+          - Carora
         population: 93788
         timezone: America/Caracas
       - 
@@ -731,13 +786,16 @@ regions:
           - Barkisimeto
           - Barquisimeto
           - Barquisimito
+          - Баркисимето
         ascii_name: Barquisimeto
         geonamesid: 3648522
         latitude: 10.07389
         longitude: -69.32278
         name: Barquisimeto
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Barquisimeto
+        names_es: 
+          - Barquisimeto
         population: 809490
         timezone: America/Caracas
     geonamesid: 3636539
@@ -765,6 +823,7 @@ regions:
           - Val'e-de-La-Paskua
           - "Valle de La Pascua"
           - "Valle de Pascua"
+          - Валье-де-Ла-Паскуа
         ascii_name: "Valle de La Pascua"
         geonamesid: 3625515
         latitude: 9.21667
@@ -784,8 +843,10 @@ regions:
         latitude: 9.91111
         longitude: -67.35833
         name: "San Juan de los Morros"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Juan de los Morros"
+        names_es: 
+          - "San Juan de Los Morros"
         population: 87739
         timezone: America/Caracas
       - 
@@ -796,8 +857,10 @@ regions:
         latitude: 8.93444
         longitude: -67.42667
         name: Calabozo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Calabozo
+        names_es: 
+          - Calabozo
         population: 117132
         timezone: America/Caracas
       - 
@@ -830,13 +893,16 @@ regions:
           - Caracae
           - Caracas
           - Caraques
+          - "Gorad Karakas"
         ascii_name: Caracas
         geonamesid: 3646738
         latitude: 10.5
         longitude: -66.91667
         name: Caracas
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Caracas
+        names_es: 
+          - Caracas
         population: 3000000
         timezone: America/Caracas
     geonamesid: 3640847
@@ -874,6 +940,7 @@ regions:
           - Cardon
           - Cordon
           - "El Cardon"
+          - "El Cardón"
         ascii_name: "Punta Cardon"
         geonamesid: 3629614
         latitude: 11.65806
@@ -888,13 +955,17 @@ regions:
           - Coro
           - Koro
           - "Santa Ana de Coro"
+          - "korotosono gang"
         ascii_name: Coro
         geonamesid: 3645213
         latitude: 11.4045
         longitude: -69.67344
         name: Coro
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Coro
+          - "Santa Ana de Coro"
+        names_es: 
+          - Coro
         population: 195227
         timezone: America/Caracas
       - 
@@ -925,8 +996,10 @@ regions:
         latitude: 9.06222
         longitude: -62.05102
         name: Tucupita
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tucupita
+        names_es: 
+          - Tucupita
         population: 51534
         timezone: America/Caracas
     geonamesid: 3644541
@@ -970,13 +1043,16 @@ regions:
           - Balenzia
           - Valencia
           - Valencio
+          - Valensija
         ascii_name: Valencia
         geonamesid: 3625549
         latitude: 10.16202
         longitude: -68.00765
         name: Valencia
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Valencia
+        names_es: 
+          - Valencia
         population: 1385083
         timezone: America/Caracas
       - 
@@ -1000,7 +1076,8 @@ regions:
         latitude: 10.47306
         longitude: -68.0125
         name: "Puerto Cabello"
-        names_en: ~
+        names_en: 
+          - "Puerto Cabello"
         names_es: ~
         population: 174000
         timezone: America/Caracas
@@ -1046,7 +1123,8 @@ regions:
         longitude: -67.877
         name: Guacara
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Guacara
         population: 151752
         timezone: America/Caracas
       - 
@@ -1086,13 +1164,16 @@ regions:
           - "Ciudad Guayana"
           - "Ciudad Guiana"
           - Guayana
+          - "Guayana City"
         ascii_name: "Ciudad Guayana"
         geonamesid: 3645528
         latitude: 8.35122
         longitude: -62.64102
         name: "Ciudad Guayana"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Ciudad Guayana"
+        names_es: 
+          - "Ciudad Guayana"
         population: 746535
         timezone: America/Caracas
       - 
@@ -1100,13 +1181,16 @@ regions:
           - Angostura
           - Bolivar
           - Bolívar
+          - "Ciudad Bolivar"
         ascii_name: "Ciudad Bolivar"
         geonamesid: 3645532
         latitude: 8.12923
         longitude: -63.54086
         name: "Ciudad Bolívar"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Ciudad Bolívar"
+        names_es: 
+          - "Ciudad Bolívar"
         population: 338000
         timezone: America/Caracas
     geonamesid: 3648106
@@ -1277,8 +1361,10 @@ regions:
         latitude: 7.89667
         longitude: -67.46722
         name: "San Fernando Apure"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Fernando de Apure"
+        names_es: 
+          - "San Fernando de Apure"
         population: 78779
         timezone: America/Caracas
     geonamesid: 3649151
@@ -1362,8 +1448,10 @@ regions:
         latitude: 10.13333
         longitude: -64.7
         name: Barcelona
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Barcelona
+        names_es: 
+          - Barcelona
         population: 424795
         timezone: America/Caracas
     geonamesid: 3649198
@@ -1381,8 +1469,10 @@ regions:
         latitude: 5.66389
         longitude: -67.62361
         name: "Puerto Ayacucho"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Puerto Ayacucho"
+        names_es: 
+          - "Puerto Ayacucho"
         population: 52526
         timezone: America/Caracas
     geonamesid: 3649302
@@ -1410,13 +1500,16 @@ regions:
           - "La Guaira"
           - "La Guayra"
           - raguaira
+          - ラグアイラ
         ascii_name: "La Guaira"
         geonamesid: 3637721
         latitude: 10.59901
         longitude: -66.9346
         name: "La Guaira"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "La Guaira"
+        names_es: 
+          - "La Guaira"
         population: 25259
         timezone: America/Caracas
       - 

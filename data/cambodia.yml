@@ -2,8 +2,15 @@
 geonamesid: 1831722
 iso: KH
 name: Cambodia
-names_en: ~
-names_es: ~
+names_en: 
+  - Cambodia
+  - "Democratic Cambodia"
+  - "Khmer Republic"
+  - "Democratic Kampuchea"
+  - "Kingdom of Cambodia"
+names_es: 
+  - "Reino de Camboya"
+  - Camboya
 regions: 
   - 
     ascii_name: "Khett Pouthisat"
@@ -13,6 +20,7 @@ regions:
           - Porsat
           - Pousat
           - Pouthisat
+          - Poŭsăt
         ascii_name: Pursat
         geonamesid: 1822768
         latitude: 12.53878
@@ -34,13 +42,16 @@ regions:
           - Batdambang
           - Battamban
           - Battambang
+          - Bătdâmbâng
         ascii_name: Batdambang
         geonamesid: 1831797
         latitude: 13.10271
         longitude: 103.19822
         name: Bătdâmbâng
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Battambang
+        names_es: 
+          - "Ciudad de Battambang"
         population: 150444
         timezone: Asia/Phnom_Penh
     geonamesid: 1821310
@@ -55,6 +66,7 @@ regions:
           - Prasat
           - Pràsàt
           - Takeo
+          - Takev
         ascii_name: Takev
         geonamesid: 1821940
         latitude: 10.98333
@@ -87,6 +99,7 @@ regions:
           - "Phumi Svay Rieng"
           - "Phumĭ Svay Riĕng"
           - "Soai Rieng"
+          - "Soei Rieng"
         ascii_name: "Svay Rieng"
         geonamesid: 1821993
         latitude: 11.08785
@@ -108,6 +121,7 @@ regions:
           - "Stoeng Treng"
           - "Stung Teeng"
           - "Stung Treng"
+          - "Stœ̆ng Trêng"
         ascii_name: "Stoeng Treng"
         geonamesid: 1822029
         latitude: 13.52586
@@ -129,6 +143,7 @@ regions:
           - "Phumi Samraong"
           - "Phumĭ Sâmraông"
           - Samraong
+          - Samrong
         ascii_name: Samraong
         geonamesid: 1822331
         latitude: 12.45262
@@ -150,13 +165,16 @@ regions:
           - "Ciudad de Siem Riep"
           - "Khett Siem Reab"
           - "Siem Reap"
+          - "Siem Riep"
         ascii_name: Siemreab
         geonamesid: 1822214
         latitude: 13.36667
         longitude: 103.85
         name: Siĕmréab
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Siem Reap"
+        names_es: 
+          - "Ciudad de Siem Riep"
         population: 139458
         timezone: Asia/Phnom_Penh
     geonamesid: 1822213
@@ -224,6 +242,7 @@ regions:
           - "Kampong Preng"
           - "Kimpong Pranak"
           - "Kompong Pranak"
+          - "Kompong Prena"
         ascii_name: "Phnum Tbeng Meanchey"
         geonamesid: 1830098
         latitude: 13.81667
@@ -245,13 +264,17 @@ regions:
           - "Nam Van"
           - Nam-Vang
           - "Phnom Pen"
+          - "Phnom Penh"
         ascii_name: "Phnom Penh"
         geonamesid: 1821306
         latitude: 11.56245
         longitude: 104.91601
         name: "Phnom Penh"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Phnom Penh"
+        names_es: 
+          - "Phon Phen"
+          - "Phnom Penh"
         population: 1573544
         timezone: Asia/Phnom_Penh
     geonamesid: 1830103
@@ -266,13 +289,16 @@ regions:
           - "Ciudad de Pailin"
           - "Ciudad de Pailín"
           - "Krong Pailin"
+          - Pailin
         ascii_name: Pailin
         geonamesid: 1830205
         latitude: 12.84895
         longitude: 102.60928
         name: Pailĭn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pailin
+        names_es: 
+          - "Ciudad de Pailín"
         population: 17850
         timezone: Asia/Phnom_Penh
     geonamesid: 1830206
@@ -287,6 +313,7 @@ regions:
           - "Mondul Kiri"
           - "Sen Monorum"
           - "Sen Moronom"
+          - Senmanorum
         ascii_name: Senmonourom
         geonamesid: 1822227
         latitude: 12.45
@@ -319,6 +346,7 @@ regions:
           - Kracheh
           - Krati
           - Kratie
+          - Krâchéh
         ascii_name: Kratie
         geonamesid: 1830564
         latitude: 12.48811
@@ -340,6 +368,7 @@ regions:
           - Kep
           - "Krong Keb"
           - "Krong Kep"
+          - "Krŏng Kêb"
         ascii_name: "Krong Keb"
         geonamesid: 1830467
         latitude: 10.48333
@@ -361,12 +390,14 @@ regions:
           - "Khemarak Phoumin"
           - "Khemarak Phoumin Ville"
           - "Khemareah Phumint"
+          - "Koh Kong"
         ascii_name: "Krong Kaoh Kong"
         geonamesid: 1830468
         latitude: 11.6175
         longitude: 102.98056
         name: "Krŏng Kaôh Kŏng"
-        names_en: ~
+        names_en: 
+          - "Koh Kong"
         names_es: ~
         population: 33134
         timezone: Asia/Phnom_Penh
@@ -382,6 +413,7 @@ regions:
           - "Ta Khmau"
           - Takhman
           - Takhmau
+          - Takkhmau
         ascii_name: "Ta Khmau"
         geonamesid: 1821935
         latitude: 11.48333
@@ -403,6 +435,7 @@ regions:
           - "Compong Bai"
           - "Compong Baï"
           - Kampat
+          - Kampot
         ascii_name: Kampot
         geonamesid: 1831112
         latitude: 10.61667
@@ -424,6 +457,7 @@ regions:
           - "Kampong Thom"
           - "Kampong Thum"
           - "Kampong Thun"
+          - "Kompong Thom"
         ascii_name: "Kampong Thum"
         geonamesid: 1831125
         latitude: 12.71112
@@ -445,6 +479,7 @@ regions:
           - "Kampong Spoe"
           - "Kompon Spu"
           - "Kompong Speu"
+          - "Kâmpóng Spœ"
         ascii_name: "Kampong Spoe"
         geonamesid: 1831133
         latitude: 11.45
@@ -466,6 +501,7 @@ regions:
           - "Kampong Chhnang"
           - "Kampong Chnang"
           - Kampongchnang
+          - "Kompon Chnang"
         ascii_name: "Kampong Chhnang"
         geonamesid: 1831167
         latitude: 12.25
@@ -487,6 +523,7 @@ regions:
           - Compon-lina
           - "Kampong Cham"
           - Kampongtjam
+          - "Kompon Cam"
         ascii_name: "Kampong Cham"
         geonamesid: 1831173
         latitude: 11.99339
@@ -508,13 +545,16 @@ regions:
           - "Ciudad de Sihanoukville"
           - "Kampong Saom"
           - "Kampong Semville"
+          - "Kampong Somville"
         ascii_name: Sihanoukville
         geonamesid: 1831142
         latitude: 10.60932
         longitude: 103.52958
         name: Sihanoukville
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sihanoukville
+        names_es: 
+          - "Ciudad de Sihanoukville"
         population: 156691
         timezone: Asia/Phnom_Penh
     geonamesid: 1899262
@@ -529,6 +569,7 @@ regions:
           - Sesopone
           - Sisobhon
           - Sisophon
+          - Sisŏphŏn
         ascii_name: Sisophon
         geonamesid: 1822207
         latitude: 13.58588
@@ -543,6 +584,7 @@ regions:
           - "Paoy Pet"
           - "Paôy Pêt"
           - "Phum Paoy Pet"
+          - "Phum Paôy Pêt"
         ascii_name: "Paoy Pet"
         geonamesid: 1830194
         latitude: 13.65611

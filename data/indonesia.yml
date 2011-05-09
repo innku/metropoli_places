@@ -2,8 +2,11 @@
 geonamesid: 1643084
 iso: ID
 name: Indonesia
-names_en: ~
-names_es: ~
+names_en: 
+  - Indonesia
+  - "Republic of Indonesia"
+names_es: 
+  - Indonesia
 regions: 
   - 
     ascii_name: "North Sumatra"
@@ -97,7 +100,8 @@ regions:
         latitude: 1.7427
         longitude: 98.7792
         name: Sibolga
-        names_en: ~
+        names_en: 
+          - Sibolga
         names_es: ~
         population: 79714
         timezone: Asia/Jakarta
@@ -132,6 +136,7 @@ regions:
           - Baoengan
           - Baoengar
           - Baungan
+          - Perbaungan
         ascii_name: Perbaungan
         geonamesid: 1214191
         latitude: 3.5679
@@ -186,13 +191,16 @@ regions:
           - "Kota Medan"
           - Medan
           - Medana
+          - Medanas
         ascii_name: Medan
         geonamesid: 1214520
         latitude: 3.58333
         longitude: 98.66667
         name: Medan
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Medan
+        names_es: 
+          - Medan
         population: 1750971
         timezone: Asia/Jakarta
       - 
@@ -200,6 +208,7 @@ regions:
           - Deli
           - "Laboean Deli"
           - Laboehan
+          - Laboehandeli
         ascii_name: "Labuhan Deli"
         geonamesid: 1214800
         latitude: 3.7278
@@ -253,12 +262,14 @@ regions:
           - Bindjai
           - Bindjei
           - Binjai
+          - "Kota Binjai"
         ascii_name: Binjai
         geonamesid: 1215355
         latitude: 3.6001
         longitude: 98.4854
         name: Binjai
-        names_en: ~
+        names_en: 
+          - Binjai
         names_es: ~
         population: 228763
         timezone: Asia/Jakarta
@@ -288,7 +299,8 @@ regions:
         timezone: Asia/Jakarta
     geonamesid: 1213642
     name: "North Sumatra"
-    names_en: ~
+    names_en: 
+      - "North Sumatra"
     names_es: ~
   - 
     ascii_name: "Provinsi Nanggroe Aceh Darussalam"
@@ -335,6 +347,7 @@ regions:
           - Melabokha
           - Meulaboh
           - Molabo
+          - Mölabo 
         ascii_name: Meulaboh
         geonamesid: 1214488
         latitude: 4.1363
@@ -349,6 +362,7 @@ regions:
           - "Kota Lhokseumawe"
           - Lho'seumawe
           - Lhokseumawe
+          - Lhoksumawe
         ascii_name: Lhokseumawe
         geonamesid: 1214658
         latitude: 5.1801
@@ -376,6 +390,7 @@ regions:
           - Bireuen
           - Bireun
           - Biroen
+          - Biröen 
         ascii_name: Bireun
         geonamesid: 1215350
         latitude: 5.203
@@ -390,13 +405,16 @@ regions:
           - Baiturahman
           - "Banda Aceh"
           - "Banda Acehas"
+          - "Banda Atjeh"
         ascii_name: "Banda Aceh"
         geonamesid: 1215502
         latitude: 5.5577
         longitude: 95.3222
         name: "Banda Aceh"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Banda Aceh"
+        names_es: 
+          - "Banda Aceh"
         population: 250757
         timezone: Asia/Jakarta
     geonamesid: 1215638
@@ -411,6 +429,7 @@ regions:
           - "Daerah Istimewa Yogyakarta"
           - Djogjakarta
           - Djokja
+          - Djokjakarta
         ascii_name: Yogyakarta
         geonamesid: 1621177
         latitude: -7.78278
@@ -460,6 +479,7 @@ regions:
           - Poendoeng
           - Poendong
           - Pundong
+          - Pundung
         ascii_name: Pundong
         geonamesid: 1630416
         latitude: -7.95222
@@ -562,6 +582,7 @@ regions:
           - Peraboemoelih
           - Perabumulih
           - Praboemoelih
+          - Prabumuli
         ascii_name: Perabumulih
         geonamesid: 1631393
         latitude: -3.45
@@ -576,12 +597,14 @@ regions:
           - "Kota Palembang"
           - Palembang
           - Palembangas
+          - balymbanj
         ascii_name: Palembang
         geonamesid: 1633070
         latitude: -2.91673
         longitude: 104.7458
         name: Palembang
-        names_en: ~
+        names_en: 
+          - Palembang
         names_es: ~
         population: 1441500
         timezone: Asia/Jakarta
@@ -603,6 +626,7 @@ regions:
           - "Kota Lubuklinggau"
           - Loeboeklinggau
           - Lubuklinggao
+          - Lubuklinggau
         ascii_name: Lubuklinggau
         geonamesid: 1637158
         latitude: -3.3
@@ -628,6 +652,7 @@ regions:
           - Batoeradja
           - Batoerradja
           - "Batu Radia"
+          - Baturadja
         ascii_name: Baturaja
         geonamesid: 1649593
         latitude: -4.13333
@@ -639,7 +664,8 @@ regions:
         timezone: Asia/Jakarta
     geonamesid: 1626196
     name: "South Sumatra"
-    names_en: ~
+    names_en: 
+      - "South Sumatra"
     names_es: ~
   - 
     ascii_name: "West Sumatra"
@@ -676,6 +702,7 @@ regions:
           - Moearasiberoet
           - Moearasioetort
           - "Muara Siberut"
+          - Muarasiberut
         ascii_name: "Muara Siberut"
         geonamesid: 1214451
         latitude: -1.59787
@@ -805,6 +832,7 @@ regions:
           - Sidjoendioeng
           - Sidjoendjoeng
           - Sidjoengdjoeng
+          - Sidjundjung
         ascii_name: Sijunjung
         geonamesid: 1627185
         latitude: -0.68762
@@ -844,12 +872,14 @@ regions:
           - "Kota Payakumbuh"
           - "Paja Kombo"
           - PajaKumbuh
+          - Pajakoemboeh
         ascii_name: Payakumbuh
         geonamesid: 1631905
         latitude: -0.22019
         longitude: 100.63078
         name: Payakumbuh
-        names_en: ~
+        names_en: 
+          - Payakumbuh
         names_es: ~
         population: 121572
         timezone: Asia/Jakarta
@@ -876,7 +906,8 @@ regions:
         latitude: -0.61898
         longitude: 100.11997
         name: Pariaman
-        names_en: ~
+        names_en: 
+          - Pariaman
         names_es: ~
         population: 92183
         timezone: Asia/Jakarta
@@ -918,7 +949,8 @@ regions:
         latitude: -0.94924
         longitude: 100.35427
         name: Padang
-        names_en: ~
+        names_en: 
+          - Padang
         names_es: ~
         population: 840352
         timezone: Asia/Jakarta
@@ -980,13 +1012,16 @@ regions:
           - Bukittinggi
           - "Fort de Kock"
           - "Fort de Rock"
+          - "Kota Bukittinggi"
         ascii_name: Bukittinggi
         geonamesid: 1647866
         latitude: -0.30907
         longitude: 100.37055
         name: Bukittinggi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bukittinggi
+        names_es: 
+          - Bukittinggi
         population: 98746
         timezone: Asia/Jakarta
       - 
@@ -1247,7 +1282,8 @@ regions:
         timezone: Asia/Jakarta
     geonamesid: 1626197
     name: "West Sumatra"
-    names_en: ~
+    names_en: 
+      - "West Sumatra"
     names_es: ~
   - 
     ascii_name: "North Sulawesi"
@@ -1306,6 +1342,7 @@ regions:
           - Malibagu
           - Molibagoe
           - Molibagu
+          - Molobagoe
         ascii_name: Molibagu
         geonamesid: 1635087
         latitude: 0.3862
@@ -1320,12 +1357,14 @@ regions:
           - "Kota Manado"
           - Manado
           - Menado
+          - meunado
         ascii_name: Manado
         geonamesid: 1636544
         latitude: 1.487
         longitude: 124.8455
         name: Manado
-        names_en: ~
+        names_en: 
+          - Manado
         names_es: ~
         population: 451893
         timezone: Asia/Makassar
@@ -1346,6 +1385,7 @@ regions:
           - Deikit
           - "Laikit 1"
           - "Laikit Dimembe"
+          - "Laikit Matungkas"
         ascii_name: "Laikit, Laikit II (Dimembe)"
         geonamesid: 1638754
         latitude: 1.48833
@@ -1360,6 +1400,7 @@ regions:
           - Kotamobago
           - Kotamobagoe
           - Kotamobagu
+          - Kotamobogoe
         ascii_name: Kotamobagu
         geonamesid: 1639500
         latitude: 0.7416
@@ -1374,6 +1415,7 @@ regions:
           - Doemoega-besar
           - Doemoga
           - Dumoga
+          - "Dumoga Besar"
         ascii_name: Dumoga
         geonamesid: 1645124
         latitude: 0.6096
@@ -1400,6 +1442,7 @@ regions:
           - Bolaang
           - "Bolaang Mongondow"
           - Bolaangmongondou
+          - Bolang
         ascii_name: Bolaang
         geonamesid: 1648340
         latitude: 0.9411
@@ -1414,6 +1457,7 @@ regions:
           - Bolaangitam
           - Bolaangitang
           - Bolangitang
+          - Bolaängitang
         ascii_name: Bolangitang
         geonamesid: 1648342
         latitude: 0.9068
@@ -1489,7 +1533,8 @@ regions:
         timezone: Asia/Makassar
     geonamesid: 1626229
     name: "North Sulawesi"
-    names_en: ~
+    names_en: 
+      - "North Sulawesi"
     names_es: ~
   - 
     ascii_name: "Provinsi Sulawesi Tenggara"
@@ -1499,6 +1544,7 @@ regions:
           - Lasoeasoea
           - Lasusua
           - Soesoea
+          - Susua
         ascii_name: Lasusua
         geonamesid: 1625776
         latitude: -3.5105
@@ -1513,6 +1559,7 @@ regions:
           - Lasahaoe
           - Lasahau
           - Lasehao
+          - Laseheo
         ascii_name: Lasehao
         geonamesid: 1638359
         latitude: -5.0068
@@ -1531,8 +1578,10 @@ regions:
         latitude: -3.945
         longitude: 122.49889
         name: Kendari
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kendari
+        names_es: 
+          - Kendari
         population: 195006
         timezone: Asia/Makassar
       - 
@@ -1571,6 +1620,7 @@ regions:
           - Baru
           - Kampoengbaroe
           - Kampungbaru
+          - Tolitoli
         ascii_name: Tolitoli
         geonamesid: 1623502
         latitude: 1.0392
@@ -1598,6 +1648,7 @@ regions:
           - Tagoloe
           - Tagolu
           - Togoloe
+          - Togolu
         ascii_name: Tagolu
         geonamesid: 1625609
         latitude: -1.4393
@@ -1640,12 +1691,14 @@ regions:
           - "Kabupaten Poso"
           - "Kota Palu"
           - Pal
+          - Paloe
         ascii_name: Palu
         geonamesid: 1633034
         latitude: -0.8917
         longitude: 119.8707
         name: Palu
-        names_en: ~
+        names_en: 
+          - Palu
         names_es: ~
         population: 282431
         timezone: Asia/Makassar
@@ -1740,7 +1793,8 @@ regions:
         timezone: Asia/Makassar
     geonamesid: 1626231
     name: "Central Sulawesi"
-    names_en: ~
+    names_en: 
+      - "Central Sulawesi"
     names_es: ~
   - 
     ascii_name: "South Sulawesi"
@@ -1790,13 +1844,16 @@ regions:
           - Djumpandang
           - "Kota Makassar"
           - Macassar
+          - Makasar
         ascii_name: Makassar
         geonamesid: 1622786
         latitude: -5.14
         longitude: 119.4221
         name: Makassar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Makassar
+        names_es: 
+          - Makassar
         population: 1321717
         timezone: Asia/Makassar
       - 
@@ -1804,6 +1861,7 @@ regions:
           - Taccipi
           - Tacipi
           - Taljipi
+          - Tatjip
         ascii_name: Taccipi
         geonamesid: 1625659
         latitude: -4.5066
@@ -1906,6 +1964,7 @@ regions:
           - Pampamua
           - Pampanoea
           - Pampanua
+          - Pompanoea
         ascii_name: Pompanua
         geonamesid: 1632948
         latitude: -4.2254
@@ -1959,6 +2018,7 @@ regions:
           - Boeakajoe
           - Buakayu
           - Maroang
+          - Maroangin
         ascii_name: Buakayu
         geonamesid: 1636045
         latitude: -3.1995
@@ -2038,6 +2098,7 @@ regions:
           - Djalang
           - Djaling
           - Jalang
+          - Jaling
         ascii_name: Jalang
         geonamesid: 1642892
         latitude: -4.0383
@@ -2091,6 +2152,7 @@ regions:
           - Bone
           - "Bone 2"
           - Bonebae
+          - Bonebone
         ascii_name: Bonebone
         geonamesid: 1648248
         latitude: -2.6005
@@ -2499,7 +2561,8 @@ regions:
         timezone: Asia/Makassar
     geonamesid: 1626232
     name: "South Sulawesi"
-    names_en: ~
+    names_en: 
+      - "South Sulawesi"
     names_es: ~
   - 
     ascii_name: "Provinsi Riau"
@@ -2509,12 +2572,14 @@ regions:
           - "Kota Pekanbaru"
           - Pakanbahru
           - Pakanbaroe
+          - Pakanbaru
         ascii_name: Pekanbaru
         geonamesid: 1631761
         latitude: 0.53333
         longitude: 101.45
         name: Pekanbaru
-        names_en: ~
+        names_en: 
+          - Pekanbaru
         names_es: ~
         population: 703956
         timezone: Asia/Jakarta
@@ -2523,12 +2588,14 @@ regions:
           - Doemai
           - Dumai
           - Dumaj
+          - "Kota Dumai"
         ascii_name: Dumai
         geonamesid: 1645133
         latitude: 1.68333
         longitude: 101.45
         name: Dumai
-        names_en: ~
+        names_en: 
+          - Dumai
         names_es: ~
         population: 143760
         timezone: Asia/Jakarta
@@ -2609,6 +2676,7 @@ regions:
           - Waitaboela
           - "Waitaboela 1"
           - Waitabula
+          - Waitjaboelo
         ascii_name: Weetobula
         geonamesid: 1622284
         latitude: -9.4413
@@ -3027,6 +3095,7 @@ regions:
           - Maoemere
           - Maomere
           - Maumere
+          - Mauniere
         ascii_name: Maumere
         geonamesid: 1635815
         latitude: -8.6199
@@ -3105,6 +3174,7 @@ regions:
           - Badjo
           - "Laboean Bajo"
           - Laboehanbadjo
+          - Labuanbadzho
         ascii_name: Labuhanbajo
         geonamesid: 1638868
         latitude: -8.4964
@@ -3133,6 +3203,7 @@ regions:
           - Kefamenanu
           - Kefannanoe
           - Kefannanu
+          - Kefannau
         ascii_name: Kefamenanu
         geonamesid: 1640576
         latitude: -9.44667
@@ -3202,8 +3273,10 @@ regions:
         latitude: -8.8432
         longitude: 121.6623
         name: Ende
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ende
+        names_es: 
+          - Ende
         population: 77205
         timezone: Asia/Makassar
       - 
@@ -3301,6 +3374,7 @@ regions:
           - Atamboea
           - Atamboewa
           - Atambua
+          - Атамбуа
         ascii_name: Atambua
         geonamesid: 1651103
         latitude: -9.10611
@@ -3342,12 +3416,14 @@ regions:
           - "Naisano 2"
           - "Naisano Dua"
           - "Nusa Dua"
+          - "Нуса Дуа"
         ascii_name: "Naisano Dua"
         geonamesid: 1947261
         latitude: -9.59806
         longitude: 123.77028
         name: "Naisano Dua"
-        names_en: ~
+        names_en: 
+          - "Nusa Dua"
         names_es: ~
         population: 2345
         timezone: Asia/Makassar
@@ -3396,13 +3472,16 @@ regions:
           - Koepang
           - "Kota Kupang"
           - Kupang
+          - Kupange
         ascii_name: Kupang
         geonamesid: 2057087
         latitude: -10.16667
         longitude: 123.58333
         name: Kupang
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kupang
+        names_es: 
+          - Kupang
         population: 282396
         timezone: Asia/Makassar
       - 
@@ -9316,7 +9395,8 @@ regions:
         timezone: Asia/Makassar
     geonamesid: 1633791
     name: "East Nusa Tenggara"
-    names_en: ~
+    names_en: 
+      - "East Nusa Tenggara"
     names_es: ~
   - 
     ascii_name: "Propinsi Nusa Tenggara Barat"
@@ -9420,6 +9500,7 @@ regions:
           - Soembawa
           - Soembawa-besar
           - Sumbawa
+          - "Sumbawa Besar"
         ascii_name: "Sumbawa Besar"
         geonamesid: 1626185
         latitude: -8.5
@@ -9471,6 +9552,7 @@ regions:
           - Setelai
           - Seteloek
           - Setelok
+          - Seteluk
         ascii_name: Seteluk
         geonamesid: 1627401
         latitude: -8.62549
@@ -9509,6 +9591,7 @@ regions:
           - "Sambaloen Lawang"
           - Sembaloen
           - Sembaloenlawang
+          - Sembalunlawang
         ascii_name: Sembalunlawang
         geonamesid: 1627873
         latitude: -8.3635
@@ -9742,13 +9825,16 @@ regions:
           - "Kota Mataram"
           - Mataram
           - Mataram-Lombok
+          - Матарам
         ascii_name: Mataram
         geonamesid: 1635882
         latitude: -8.58333
         longitude: 116.11667
         name: Mataram
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mataram
+        names_es: 
+          - Mataram
         population: 318674
         timezone: Asia/Makassar
       - 
@@ -9768,6 +9854,7 @@ regions:
           - Maroenge
           - Maroengi
           - Maronge
+          - Marunge
         ascii_name: Maronge
         geonamesid: 1636007
         latitude: -8.6715
@@ -9821,6 +9908,7 @@ regions:
           - "Laboe Mapin"
           - "Laboean Mapin"
           - "Laboehan Mapin"
+          - "Labu Mapin"
         ascii_name: Labuhanmapin
         geonamesid: 1638847
         latitude: -8.5193
@@ -9835,6 +9923,7 @@ regions:
           - "Laboe Lalar"
           - "Laboean Lalar"
           - "Laboehan Lalar"
+          - "Labu Lalar"
         ascii_name: Labuhanlalar
         geonamesid: 1638848
         latitude: -8.8146
@@ -9849,6 +9938,7 @@ regions:
           - Kananga
           - "Lab Kananga"
           - "Laboe Kananga"
+          - "Laboehan Kananga"
         ascii_name: Labuhankananga
         geonamesid: 1638850
         latitude: -8.1391
@@ -13089,12 +13179,14 @@ regions:
           - Amboina
           - Ambon
           - "Ambon City"
+          - Amboyna
         ascii_name: Ambon
         geonamesid: 1651531
         latitude: -3.71667
         longitude: 128.2
         name: Ambon
-        names_en: ~
+        names_en: 
+          - "Ambon City"
         names_es: ~
         population: 355596
         timezone: Asia/Jayapura
@@ -13124,12 +13216,14 @@ regions:
           - "Bandar Lampung"
           - Bandarlampung
           - "Kota Bandar Lampung"
+          - Tanjungkarang
         ascii_name: Bandarlampung
         geonamesid: 1624917
         latitude: -5.42544
         longitude: 105.25803
         name: Bandarlampung
-        names_en: ~
+        names_en: 
+          - "Bandar Lampung"
         names_es: ~
         population: 800348
         timezone: Asia/Jakarta
@@ -13163,6 +13257,7 @@ regions:
           - "Oemboelan Pandjang"
           - Oosthaven
           - Pandjang
+          - Panjang
         ascii_name: Panjang
         geonamesid: 1632598
         latitude: -5.4759
@@ -13202,6 +13297,7 @@ regions:
           - "Kota Metro"
           - Metra
           - Metro
+          - Метро
         ascii_name: Metro
         geonamesid: 1635283
         latitude: -5.11306
@@ -13216,6 +13312,7 @@ regions:
           - Laboehanmarbiggai
           - Laboehanmaringgai
           - Labuhanmaringgai
+          - Labuhanmeringgai
         ascii_name: Labuhanmaringgai
         geonamesid: 1638861
         latitude: -5.35074
@@ -13476,12 +13573,14 @@ regions:
           - "Batoeng Panggol"
           - "Kota Samarinda"
           - Samarinda
+          - camarinta
         ascii_name: Samarinda
         geonamesid: 1629001
         latitude: -0.5
         longitude: 117.15
         name: Samarinda
-        names_en: ~
+        names_en: 
+          - Samarinda
         names_es: ~
         population: 355160
         timezone: Asia/Makassar
@@ -13516,18 +13615,21 @@ regions:
           - Balikpapan
           - "Kota Balikpapan"
           - "balyk papan"
+          - Баликпапан
         ascii_name: Balikpapan
         geonamesid: 1650527
         latitude: -1.26753
         longitude: 116.82887
         name: Balikpapan
-        names_en: ~
+        names_en: 
+          - Balikpapan
         names_es: ~
         population: 433866
         timezone: Asia/Makassar
     geonamesid: 1641897
     name: "East Kalimantan"
-    names_en: ~
+    names_en: 
+      - "East Kalimantan"
     names_es: ~
   - 
     ascii_name: "Provinsi Kalimantan Tengah"
@@ -13550,6 +13652,7 @@ regions:
           - Pangkalanboeoen
           - Pangkalanbun
           - Pangkalanbuun
+          - Soekaboemi
         ascii_name: Pangkalanbuun
         geonamesid: 1632694
         latitude: -2.68333
@@ -13564,12 +13667,14 @@ regions:
           - "Kota Palangka Raya"
           - Pahandoet
           - Pahandut
+          - "Palangka Raya"
         ascii_name: Palangkaraya
         geonamesid: 1633118
         latitude: -2.2
         longitude: 113.83333
         name: Palangkaraya
-        names_en: ~
+        names_en: 
+          - Palangkaraya
         names_es: ~
         population: 148139
         timezone: Asia/Pontianak
@@ -13622,6 +13727,7 @@ regions:
           - Bandgermasin
           - Bandjarmasin
           - Bandjermasin
+          - Bandjermassin
         ascii_name: Banjarmasin
         geonamesid: 1650213
         latitude: -3.32442
@@ -13645,7 +13751,8 @@ regions:
         timezone: Asia/Makassar
     geonamesid: 1641899
     name: "South Kalimantan"
-    names_en: ~
+    names_en: 
+      - "South Kalimantan"
     names_es: ~
   - 
     ascii_name: "West Kalimantan"
@@ -13668,18 +13775,21 @@ regions:
           - "Kota Pontianak"
           - Pontianak
           - Pontijanak
+          - "kun dian"
         ascii_name: Pontianak
         geonamesid: 1630789
         latitude: -0.03333
         longitude: 109.33333
         name: Pontianak
-        names_en: ~
+        names_en: 
+          - Pontianak
         names_es: ~
         population: 455173
         timezone: Asia/Pontianak
     geonamesid: 1641900
     name: "West Kalimantan"
-    names_en: ~
+    names_en: 
+      - "West Kalimantan"
     names_es: ~
   - 
     ascii_name: "East Java"
@@ -13689,6 +13799,7 @@ regions:
           - Jasawilangoen
           - Josowilangoen
           - Josowilangun
+          - Yosowilangun
         ascii_name: Yosowilangun
         geonamesid: 1621160
         latitude: -8.2391
@@ -13815,7 +13926,8 @@ regions:
         latitude: -6.9
         longitude: 112.05
         name: Tuban
-        names_en: ~
+        names_en: 
+          - Tuban
         names_es: ~
         population: 76242
         timezone: Asia/Jakarta
@@ -13941,13 +14053,16 @@ regions:
           - "Kota Surabaya"
           - Soerabaja
           - Soerabaya
+          - Sourabaya
         ascii_name: Surabaya
         geonamesid: 1625822
         latitude: -7.24917
         longitude: 112.75083
         name: Surabaya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Surabaya
+        names_es: 
+          - Surabaya
         population: 2374658
         timezone: Asia/Jakarta
       - 
@@ -13955,6 +14070,7 @@ regions:
           - Soemanep
           - Soemenap
           - Soemenep
+          - Sumenep
         ascii_name: Sumenep
         geonamesid: 1626099
         latitude: -7.01667
@@ -14125,6 +14241,7 @@ regions:
           - Sitoebanda
           - Sitoebondo
           - Situbando
+          - Situbondo
         ascii_name: Situbondo
         geonamesid: 1626801
         latitude: -7.70623
@@ -14181,6 +14298,7 @@ regions:
           - Sidaardja
           - Sidoardio
           - Sidoardja
+          - Sidoardjo
         ascii_name: Sidoarjo
         geonamesid: 1627253
         latitude: -7.4478
@@ -14388,12 +14506,14 @@ regions:
           - "Kota Probolinggo"
           - Prabalingga
           - Probalingga
+          - Probalinggo
         ascii_name: Probolinggo
         geonamesid: 1630634
         latitude: -7.7543
         longitude: 113.2159
         name: Probolinggo
-        names_en: ~
+        names_en: 
+          - Probolinggo
         names_es: ~
         population: 181656
         timezone: Asia/Jakarta
@@ -14439,6 +14559,7 @@ regions:
           - Poncokusumo
           - Pontjokesoemo
           - Pontjokoesoemo
+          - Pontjokusumo
         ascii_name: Poncokusumo
         geonamesid: 1630896
         latitude: -8.0522
@@ -14553,6 +14674,7 @@ regions:
           - Pandji
           - Pandji-lor
           - Panji
+          - Panji-lor
         ascii_name: Panji
         geonamesid: 1632566
         latitude: -7.72528
@@ -14595,6 +14717,7 @@ regions:
           - Pandaan
           - Pandakara
           - Pandaän
+          - Paodakan
         ascii_name: Pandakan
         geonamesid: 1632859
         latitude: -7.65268
@@ -14801,6 +14924,7 @@ regions:
           - "Kota Mojokerto"
           - Madjakerta
           - Modjokerto
+          - Mojokerto
         ascii_name: Mojokerto
         geonamesid: 1635111
         latitude: -7.4664
@@ -14815,6 +14939,7 @@ regions:
           - "Madja agoeng"
           - Madjaagung
           - Modjoagoeng
+          - Modjoagung
         ascii_name: Mojoagung
         geonamesid: 1635116
         latitude: -7.56667
@@ -14866,12 +14991,14 @@ regions:
           - "Kabupaten Malang"
           - "Kota Malang"
           - Maland
+          - Malang
         ascii_name: Malang
         geonamesid: 1636722
         latitude: -7.9797
         longitude: 112.6304
         name: Malang
-        names_en: ~
+        names_en: 
+          - Malang
         names_es: ~
         population: 746716
         timezone: Asia/Jakarta
@@ -14910,7 +15037,8 @@ regions:
         latitude: -7.6298
         longitude: 111.5239
         name: Madiun
-        names_en: ~
+        names_en: 
+          - Madiun
         names_es: ~
         population: 186099
         timezone: Asia/Jakarta
@@ -14919,12 +15047,14 @@ regions:
           - "Kabupaten Lumajang"
           - Loemadjang
           - Lumadjang
+          - Lumajang
         ascii_name: Lumajang
         geonamesid: 1637090
         latitude: -8.1335
         longitude: 113.2248
         name: Lumajang
-        names_en: ~
+        names_en: 
+          - Lumajang
         names_es: ~
         population: 123626
         timezone: Asia/Jakarta
@@ -15233,6 +15363,7 @@ regions:
           - Kama
           - Kamal
           - Kamal'
+          - Камаль
         ascii_name: Kamal
         geonamesid: 1641792
         latitude: -7.16778
@@ -15296,6 +15427,7 @@ regions:
           - Kalibaroe
           - Kalibaru
           - Kalibaru-wetan
+          - Kaliboroe
         ascii_name: Kalibaru
         geonamesid: 1641958
         latitude: -8.2897
@@ -15338,7 +15470,8 @@ regions:
         latitude: -7.54595
         longitude: 112.23307
         name: Jombang
-        names_en: ~
+        names_en: 
+          - Jombang
         names_es: ~
         population: 126465
         timezone: Asia/Jakarta
@@ -15347,6 +15480,7 @@ regions:
           - Djanggawah
           - Djenggawah
           - Djenggawak
+          - Jenggawah
         ascii_name: Jenggawah
         geonamesid: 1642566
         latitude: -8.2661
@@ -15374,6 +15508,7 @@ regions:
           - Djelboek
           - Djelbuk
           - Djelebuk
+          - Jelbuk
         ascii_name: Jelbuk
         geonamesid: 1642617
         latitude: -8.0839
@@ -15442,12 +15577,14 @@ regions:
           - Geresik
           - Gersik
           - Gresik
+          - Grise
         ascii_name: Gresik
         geonamesid: 1643776
         latitude: -7.15389
         longitude: 112.65611
         name: Gresik
-        names_en: ~
+        names_en: 
+          - Gresik
         names_es: ~
         population: 73629
         timezone: Asia/Jakarta
@@ -15585,6 +15722,7 @@ regions:
           - Driaredja
           - Drijoredjo
           - Drioredja
+          - Drioredjo
         ascii_name: Driyorejo
         geonamesid: 1645220
         latitude: -7.3659
@@ -15790,12 +15928,14 @@ regions:
           - Bandawasa
           - Bandowoso
           - Bondawasa
+          - Bondowoso
         ascii_name: Bondowoso
         geonamesid: 1648266
         latitude: -7.91346
         longitude: 113.82145
         name: Bondowoso
-        names_en: ~
+        names_en: 
+          - Bondowoso
         names_es: ~
         population: 69783
         timezone: Asia/Jakarta
@@ -15823,7 +15963,8 @@ regions:
         latitude: -8.0983
         longitude: 112.1681
         name: Blitar
-        names_en: ~
+        names_en: 
+          - Blitar
         names_es: ~
         population: 132416
         timezone: Asia/Jakarta
@@ -15857,12 +15998,14 @@ regions:
           - Batoe
           - Batu
           - Batyj
+          - "Kota Batu"
         ascii_name: Batu
         geonamesid: 1649824
         latitude: -7.87
         longitude: 112.52833
         name: Batu
-        names_en: ~
+        names_en: 
+          - Batu
         names_es: ~
         population: 75631
         timezone: Asia/Jakarta
@@ -27613,7 +27756,8 @@ regions:
         timezone: Asia/Jakarta
     geonamesid: 1642668
     name: "East Java"
-    names_en: ~
+    names_en: 
+      - "East Java"
     names_es: ~
   - 
     ascii_name: "Central Java"
@@ -27726,6 +27870,7 @@ regions:
           - Tremboelredja
           - Tremboelredjo
           - Trembul
+          - Trembulredjo
         ascii_name: Trembulrejo
         geonamesid: 1623252
         latitude: -7.0199
@@ -27744,7 +27889,8 @@ regions:
         latitude: -6.8694
         longitude: 109.1402
         name: Tegal
-        names_en: ~
+        names_en: 
+          - Tegal
         names_es: ~
         population: 237084
         timezone: Asia/Jakarta
@@ -27753,12 +27899,14 @@ regions:
           - "Kota Surakarta"
           - Soerakarta
           - Solo
+          - Surakarta
         ascii_name: Surakarta
         geonamesid: 1625812
         latitude: -7.55611
         longitude: 110.83167
         name: Surakarta
-        names_en: ~
+        names_en: 
+          - Surakarta
         names_es: ~
         population: 555308
         timezone: Asia/Jakarta
@@ -27767,6 +27915,7 @@ regions:
           - Soekaradja
           - Sokaraja
           - Sukaradja
+          - Sukaraja
         ascii_name: Sokaraja
         geonamesid: 1626312
         latitude: -7.45806
@@ -27800,7 +27949,8 @@ regions:
         latitude: -6.9816
         longitude: 109.1407
         name: Slawi
-        names_en: ~
+        names_en: 
+          - Slawi
         names_es: ~
         population: 61206
         timezone: Asia/Jakarta
@@ -27809,12 +27959,14 @@ regions:
           - "Kota Semarang"
           - "Kutha Semarang"
           - Samarang
+          - Semarang
         ascii_name: Semarang
         geonamesid: 1627896
         latitude: -6.9932
         longitude: 110.4203
         name: Semarang
-        names_en: ~
+        names_en: 
+          - Semarang
         names_es: ~
         population: 1288084
         timezone: Asia/Jakarta
@@ -27871,6 +28023,7 @@ regions:
           - Randoedonggal
           - Randoedongkal
           - Randudongkal
+          - Randudongkol
         ascii_name: Randudongkal
         geonamesid: 1630088
         latitude: -7.0981
@@ -27885,12 +28038,14 @@ regions:
           - "Kota Purwokerto"
           - Poerwakerta
           - Poerwokerto
+          - Purwakerta
         ascii_name: Purwokerto
         geonamesid: 1630328
         latitude: -7.42139
         longitude: 109.23444
         name: Purwokerto
-        names_en: ~
+        names_en: 
+          - Purwokerto
         names_es: ~
         population: 217222
         timezone: Asia/Jakarta
@@ -27899,12 +28054,14 @@ regions:
           - Poerwadadi
           - Poerwodadi
           - Purwadadi
+          - Purwodadi
         ascii_name: Purwodadi
         geonamesid: 1630333
         latitude: -7.0868
         longitude: 110.9158
         name: Purwodadi
-        names_en: ~
+        names_en: 
+          - "Purwodadi Grobogan"
         names_es: ~
         population: 150206
         timezone: Asia/Jakarta
@@ -27913,6 +28070,7 @@ regions:
           - Poerbalingga
           - Poerbolinggo
           - Purbalingga
+          - Purbolinggo
         ascii_name: Purbalingga
         geonamesid: 1630366
         latitude: -7.38806
@@ -27957,7 +28115,8 @@ regions:
         latitude: -6.9
         longitude: 109.36667
         name: Pemalang
-        names_en: ~
+        names_en: 
+          - Pemalang
         names_es: ~
         population: 184149
         timezone: Asia/Jakarta
@@ -27970,7 +28129,8 @@ regions:
         latitude: -6.8886
         longitude: 109.6753
         name: Pekalongan
-        names_en: ~
+        names_en: 
+          - Pekalongan
         names_es: ~
         population: 257945
         timezone: Asia/Jakarta
@@ -27979,6 +28139,7 @@ regions:
           - Pecangaan
           - Pecangakan
           - Petjangaan
+          - Petjangakan
         ascii_name: Pecangaan
         geonamesid: 1631851
         latitude: -6.6978
@@ -28067,6 +28228,7 @@ regions:
           - Mertajoedan
           - Mertojoedan
           - Mertojudan
+          - Mertoyudan
         ascii_name: Mertoyudan
         geonamesid: 1635342
         latitude: -7.52
@@ -28112,7 +28274,8 @@ regions:
         latitude: -7.47056
         longitude: 110.21778
         name: Magelang
-        names_en: ~
+        names_en: 
+          - Magelang
         names_es: ~
         population: 111461
         timezone: Asia/Jakarta
@@ -28134,6 +28297,7 @@ regions:
           - Koeta'ardja
           - Koeta’ardja
           - Koetoardjo
+          - Kutoardjo
         ascii_name: Kutoarjo
         geonamesid: 1638981
         latitude: -7.71694
@@ -28152,7 +28316,8 @@ regions:
         latitude: -6.8048
         longitude: 110.8405
         name: Kudus
-        names_en: ~
+        names_en: 
+          - Kudus
         names_es: ~
         population: 92156
         timezone: Asia/Jakarta
@@ -28179,7 +28344,8 @@ regions:
         latitude: -7.70583
         longitude: 110.60639
         name: Klaten
-        names_en: ~
+        names_en: 
+          - Klaten
         names_es: ~
         population: 126831
         timezone: Asia/Jakarta
@@ -28201,6 +28367,7 @@ regions:
           - Kasugihan
           - Kesoegian
           - Kesoegihan
+          - Kesugihan
         ascii_name: Kesugihan
         geonamesid: 1640154
         latitude: -7.6175
@@ -28306,6 +28473,7 @@ regions:
           - Djoeana
           - Djoewana
           - Djoewono
+          - Djuana
         ascii_name: Juwana
         geonamesid: 1642317
         latitude: -6.7
@@ -28333,6 +28501,7 @@ regions:
           - Djeroeklegi
           - Djeruklegi
           - Djeruklegi-wetan
+          - Jeruklegi
         ascii_name: Jeruklegi
         geonamesid: 1642514
         latitude: -7.62444
@@ -28347,6 +28516,7 @@ regions:
           - Djekoela
           - Djekoelo
           - Djekolo
+          - Djekulo
         ascii_name: Jekulo
         geonamesid: 1642628
         latitude: -6.8057
@@ -28464,6 +28634,7 @@ regions:
           - Chiomal
           - Chomal
           - Comal
+          - Tjomal
         ascii_name: Comal
         geonamesid: 1645976
         latitude: -6.9053
@@ -28478,6 +28649,7 @@ regions:
           - Cepu
           - Chepu
           - Panolan
+          - Tjepoe
         ascii_name: Cepu
         geonamesid: 1647179
         latitude: -7.1475
@@ -28519,6 +28691,7 @@ regions:
           - Bajalali
           - Bajalili
           - Bojolali
+          - Boyolali
         ascii_name: Boyolali
         geonamesid: 1648084
         latitude: -7.53306
@@ -28570,6 +28743,7 @@ regions:
           - Bandjarredja
           - Bandjarredjo
           - Banjarejo
+          - Banjarrejo
         ascii_name: Banjarejo
         geonamesid: 1650205
         latitude: -7.0344
@@ -28595,6 +28769,7 @@ regions:
           - Bae
           - Baekrajan
           - Beh
+          - Tjendono
         ascii_name: Baekrajan
         geonamesid: 1650815
         latitude: -6.7674
@@ -30463,7 +30638,8 @@ regions:
         timezone: Asia/Jakarta
     geonamesid: 1642669
     name: "Central Java"
-    names_en: ~
+    names_en: 
+      - "Central Java"
     names_es: ~
   - 
     ascii_name: "West Java"
@@ -30485,12 +30661,14 @@ regions:
           - "Kota Tasikmalaya"
           - Tasikmalaja
           - Tasikmalaya
+          - "Tasikmalaya kutha"
         ascii_name: Tasikmalaya
         geonamesid: 1624647
         latitude: -7.33333
         longitude: 108.2
         name: Tasikmalaya
-        names_en: ~
+        names_en: 
+          - Tasikmalaya
         names_es: ~
         population: 271143
         timezone: Asia/Jakarta
@@ -30499,13 +30677,16 @@ regions:
           - "Kota Tangerang"
           - Tangarang
           - Tangerang
+          - Тангеранг
         ascii_name: Tangerang
         geonamesid: 1625084
         latitude: -6.17806
         longitude: 106.63
         name: Tangerang
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tangerang
+        names_es: 
+          - Tangerang
         population: 1372124
         timezone: Asia/Jakarta
       - 
@@ -30526,12 +30707,14 @@ regions:
           - "Kota Sukabumi"
           - Soekaboemi
           - Sukabumi
+          - "Sukabumi kutha"
         ascii_name: Sukabumi
         geonamesid: 1626381
         latitude: -6.91806
         longitude: 106.92667
         name: Sukabumi
-        names_en: ~
+        names_en: 
+          - Sukabumi
         names_es: ~
         population: 276414
         timezone: Asia/Jakarta
@@ -30628,6 +30811,7 @@ regions:
           - Palaboehan
           - Palaboehanratoe
           - Palabuanratu
+          - Palabuhan
         ascii_name: Pelabuhanratu
         geonamesid: 1631733
         latitude: -6.9875
@@ -30737,6 +30921,7 @@ regions:
           - Margahajoe
           - Margahaju
           - Margahayu
+          - Margahayukencana
         ascii_name: Margahayukencana
         geonamesid: 1636125
         latitude: -6.97083
@@ -30764,6 +30949,7 @@ regions:
           - Lembang
           - "Lembang 1"
           - Lembange
+          - Лембанге
         ascii_name: Lembang
         geonamesid: 1638063
         latitude: -6.81167
@@ -30841,6 +31027,7 @@ regions:
           - Kalipoetjang
           - Kalipucang
           - Kalipuchang
+          - Kaliputjang
         ascii_name: Kalipucang
         geonamesid: 1641879
         latitude: -7.6433
@@ -30895,12 +31082,14 @@ regions:
           - Depok
           - "Depok kutha"
           - Depokas
+          - "Kota Depok"
         ascii_name: Depok
         geonamesid: 1645524
         latitude: -6.4
         longitude: 106.81861
         name: Depok
-        names_en: ~
+        names_en: 
+          - Depok
         names_es: ~
         population: 1198129
         timezone: Asia/Jakarta
@@ -30923,12 +31112,14 @@ regions:
           - Cheribon
           - Cirebon
           - "Cirebon kutha"
+          - "Kota Cirebon"
         ascii_name: Cirebon
         geonamesid: 1646170
         latitude: -6.7063
         longitude: 108.557
         name: Cirebon
-        names_en: ~
+        names_en: 
+          - Cirebon
         names_es: ~
         population: 254298
         timezone: Asia/Jakarta
@@ -30937,6 +31128,7 @@ regions:
           - Ciputat
           - Tjipoetat
           - "Tjipoetat 2"
+          - Tjiputat
         ascii_name: Ciputat
         geonamesid: 1646194
         latitude: -6.2375
@@ -30951,12 +31143,14 @@ regions:
           - Chimahi
           - Cimahi
           - "Cimahi kutha"
+          - "Kota Cimahi"
         ascii_name: Cimahi
         geonamesid: 1646448
         latitude: -6.87222
         longitude: 107.5425
         name: Cimahi
-        names_en: ~
+        names_en: 
+          - Cimahi
         names_es: ~
         population: 493698
         timezone: Asia/Jakarta
@@ -31035,6 +31229,7 @@ regions:
           - Chibinong
           - Chibinung
           - Cibinong
+          - Sibinonge
         ascii_name: Cibinong
         geonamesid: 1647003
         latitude: -6.48167
@@ -31077,6 +31272,7 @@ regions:
           - Campea
           - Ciampea
           - Tjampea
+          - "Tjampea 1"
         ascii_name: Ciampea
         geonamesid: 1647383
         latitude: -6.55472
@@ -31091,12 +31287,14 @@ regions:
           - Bogor
           - "Bogor kutha"
           - Buitenzorg
+          - "Kota Bogor"
         ascii_name: Bogor
         geonamesid: 1648473
         latitude: -6.59444
         longitude: 106.78917
         name: Bogor
-        names_en: ~
+        names_en: 
+          - Bogor
         names_es: ~
         population: 800000
         timezone: Asia/Jakarta
@@ -31105,12 +31303,14 @@ regions:
           - Bekasi
           - "Bekasi kutha"
           - Bekasis
+          - "Kota Bekasi"
         ascii_name: Bekasi
         geonamesid: 1649378
         latitude: -6.2349
         longitude: 106.9896
         name: Bekasi
-        names_en: ~
+        names_en: 
+          - Bekasi
         names_es: ~
         population: 1520119
         timezone: Asia/Jakarta
@@ -31145,12 +31345,14 @@ regions:
           - Bandoeng
           - Bandung
           - "Bandung kutha"
+          - Bandungas
         ascii_name: Bandung
         geonamesid: 1650357
         latitude: -6.90389
         longitude: 107.61861
         name: Bandung
-        names_en: ~
+        names_en: 
+          - Bandung
         names_es: ~
         population: 1699719
         timezone: Asia/Jakarta
@@ -31172,6 +31374,7 @@ regions:
           - Ardjawinangoen
           - Ardjawinangoen-Koelan
           - Ardjawinangun
+          - Arjawinangun
         ascii_name: Arjawinangun
         geonamesid: 1651226
         latitude: -6.64528
@@ -31265,7 +31468,8 @@ regions:
         timezone: Asia/Jakarta
     geonamesid: 1642672
     name: "West Java"
-    names_en: ~
+    names_en: 
+      - "West Java"
     names_es: ~
   - 
     ascii_name: "Provinsi Jambi"
@@ -31313,12 +31517,14 @@ regions:
           - Djambi
           - Dzhambi
           - Jambi
+          - Sriindrapura
         ascii_name: Jambi
         geonamesid: 1642858
         latitude: -1.6
         longitude: 103.61667
         name: Jambi
-        names_en: ~
+        names_en: 
+          - Jambi
         names_es: ~
         population: 420323
         timezone: Asia/Jakarta
@@ -31334,13 +31540,16 @@ regions:
           - Batavia
           - Cakarta
           - Djakarta
+          - Djogkarta
         ascii_name: Jakarta
         geonamesid: 1642911
         latitude: -6.21462
         longitude: 106.84513
         name: Jakarta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Jakarta
+        names_es: 
+          - Yakarta
         population: 8540121
         timezone: Asia/Jakarta
     geonamesid: 1642907
@@ -31368,12 +31577,14 @@ regions:
           - Djajapura
           - Dzhajapura
           - Hollandia
+          - Jayapura
         ascii_name: Jayapura
         geonamesid: 2082600
         latitude: -2.53333
         longitude: 140.7
         name: Jayapura
-        names_en: ~
+        names_en: 
+          - Jayapura
         names_es: ~
         population: 134895
         timezone: Asia/Jayapura
@@ -31389,6 +31600,7 @@ regions:
           - Churup
           - Curup
           - Tjoeroep
+          - Tjurup
         ascii_name: Curup
         geonamesid: 1645875
         latitude: -3.46667
@@ -31403,12 +31615,14 @@ regions:
           - Bangkahulu
           - Bengkoeloe
           - Bengkulu
+          - Benkoelen
         ascii_name: Bengkulu
         geonamesid: 1649150
         latitude: -3.80044
         longitude: 102.26554
         name: Bengkulu
-        names_en: ~
+        names_en: 
+          - Bengkulu
         names_es: ~
         population: 309712
         timezone: Asia/Jakarta
@@ -31477,6 +31691,7 @@ regions:
           - Soekasade
           - Sukasada
           - Sukasade
+          - Sukasadel
         ascii_name: Sukasada
         geonamesid: 1626294
         latitude: -8.1395
@@ -31491,12 +31706,14 @@ regions:
           - Boeleleng
           - Boelèlèng
           - Singaradja
+          - Singaradzha
         ascii_name: Singaraja
         geonamesid: 1626932
         latitude: -8.112
         longitude: 115.08818
         name: Singaraja
-        names_en: ~
+        names_en: 
+          - Singaraja
         names_es: ~
         population: 133784
         timezone: Asia/Jakarta
@@ -31634,6 +31851,7 @@ regions:
           - Amlapura
           - Denpasar
           - "Karangasem Amlapura"
+          - Денпасар
         ascii_name: Karangasem
         geonamesid: 1641301
         latitude: -8.45
@@ -31675,13 +31893,16 @@ regions:
           - Dempasar
           - Dempassar
           - Denpasar
+          - "Denpasar Bali"
         ascii_name: Denpasar
         geonamesid: 1645528
         latitude: -8.65
         longitude: 115.21667
         name: Denpasar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Denpasar
+        names_es: 
+          - Denpasar
         population: 405923
         timezone: Asia/Makassar
       - 
@@ -34865,7 +35086,8 @@ regions:
         timezone: Asia/Makassar
     geonamesid: 1650535
     name: Bali
-    names_en: ~
+    names_en: 
+      - Bali
     names_es: ~
   - 
     ascii_name: "Provinsi Banten"
@@ -34893,7 +35115,8 @@ regions:
         latitude: -6.1149
         longitude: 106.1502
         name: Serang
-        names_en: ~
+        names_en: 
+          - Serang
         names_es: ~
         population: 164767
         timezone: Asia/Jakarta
@@ -34902,6 +35125,7 @@ regions:
           - "Rangkas Betung"
           - Rangkasbitoeng
           - Rangkasbitung
+          - Rangkasibitoeng
         ascii_name: Rangkasbitung
         geonamesid: 1630058
         latitude: -6.3591
@@ -34955,6 +35179,7 @@ regions:
           - Laboean
           - Laboehan
           - Labuan
+          - Labuhan
         ascii_name: Labuhan
         geonamesid: 1638870
         latitude: -6.36667
@@ -34983,6 +35208,7 @@ regions:
           - Bodjanegara
           - Bodjonegara
           - Bojanegara
+          - Bojonegara
         ascii_name: Bojonegara
         geonamesid: 1648453
         latitude: -5.97
@@ -35081,6 +35307,7 @@ regions:
           - Moelomboelahe
           - Molobulahe
           - Molomboelahe
+          - Molombulahe
         ascii_name: Molobulahe
         geonamesid: 1635076
         latitude: 0.6326
@@ -35147,6 +35374,7 @@ regions:
           - Biloengala
           - Biloengala-timoer
           - Bilongola
+          - Bilungala
         ascii_name: Bilungala
         geonamesid: 1648761
         latitude: 0.3815
@@ -35180,6 +35408,7 @@ regions:
           - Pandan
           - Tandjoengpandan
           - Tandjong-pandan
+          - Tandjungpandan
         ascii_name: Tanjungpandan
         geonamesid: 1624877
         latitude: -2.75
@@ -35229,7 +35458,8 @@ regions:
         timezone: Asia/Jakarta
     geonamesid: 1923047
     name: Bangka-Belitung
-    names_en: ~
+    names_en: 
+      - Bangka-Belitung
     names_es: ~
   - 
     ascii_name: "Provinsi Maluku Utara"
@@ -35250,13 +35480,16 @@ regions:
           - "Kota Ternate"
           - Ternate
           - "teleunate seom"
+          - "terunate dao"
         ascii_name: Ternate
         geonamesid: 1624041
         latitude: 0.8
         longitude: 127.4
         name: Ternate
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ternate
+        names_es: 
+          - Ternate
         population: 101731
         timezone: Asia/Jayapura
     geonamesid: 1958070
@@ -35276,7 +35509,8 @@ regions:
         latitude: -0.88333
         longitude: 131.25
         name: Sorong
-        names_en: ~
+        names_en: 
+          - Sorong
         names_es: ~
         population: 125535
         timezone: Asia/Jayapura
@@ -35285,12 +35519,14 @@ regions:
           - Manokvari
           - Manokwari
           - Menoekwari
+          - manokuwari
         ascii_name: Manokwari
         geonamesid: 1636308
         latitude: -0.86667
         longitude: 134.08333
         name: Manokwari
-        names_en: ~
+        names_en: 
+          - Manokwari
         names_es: ~
         population: 53190
         timezone: Asia/Jayapura
@@ -35410,6 +35646,7 @@ regions:
           - Galoempang
           - Galumpang
           - Goloempang
+          - Kalumpang
         ascii_name: Kalumpang
         geonamesid: 1644583
         latitude: -2.4781
@@ -35502,5 +35739,6 @@ regions:
         timezone: Asia/Pontianak
     geonamesid: 1996551
     name: "Riau Islands"
-    names_en: ~
+    names_en: 
+      - "Riau Islands"
     names_es: ~

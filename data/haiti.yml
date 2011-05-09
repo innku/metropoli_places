@@ -2,8 +2,11 @@
 geonamesid: 3723988
 iso: HT
 name: Haiti
-names_en: ~
-names_es: ~
+names_en: 
+  - Haiti
+  - "Republic of Haiti"
+names_es: 
+  - Haití
 regions: 
   - 
     ascii_name: "Departement du Sud-Est"
@@ -13,6 +16,7 @@ regions:
           - Cai-Tiot
           - Caï-Tiot
           - Thiote
+          - Thiotte
         ascii_name: Thiote
         geonamesid: 3716679
         latitude: 18.25
@@ -38,12 +42,14 @@ regions:
           - Jacmel
           - Jakmel
           - Jakmèl
+          - Zhakmele
         ascii_name: Jacmel
         geonamesid: 3723779
         latitude: 18.23417
         longitude: -72.53472
         name: Jacmel
-        names_en: ~
+        names_en: 
+          - Jacmel
         names_es: ~
         population: 137966
         timezone: America/Port-au-Prince
@@ -78,6 +84,7 @@ regions:
           - "Anse Pitres"
           - Anse-a-Pitre
           - Anse-a-Pitres
+          - Anse-à-Pitre
         ascii_name: Anse-a-Pitres
         geonamesid: 3731126
         latitude: 18.05
@@ -215,6 +222,7 @@ regions:
           - Chardonniere
           - Chardonnieres
           - Chardonnière
+          - Chardonnières
         ascii_name: Chardonniere
         geonamesid: 3727902
         latitude: 18.27484
@@ -240,6 +248,7 @@ regions:
           - "Aux Cayes"
           - Cayes
           - "Les Cayes"
+          - "Ville des Cayes"
         ascii_name: "Les Cayes"
         geonamesid: 3728097
         latitude: 18.2
@@ -297,13 +306,16 @@ regions:
           - "Port o Prens"
           - "Port o Prensas"
           - Port-au-Prince
+          - Port-o-Prens
         ascii_name: Port-au-Prince
         geonamesid: 3718426
         latitude: 18.53917
         longitude: -72.335
         name: Port-au-Prince
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Port-au-Prince
+        names_es: 
+          - "Puerto Príncipe"
         population: 1234742
         timezone: America/Port-au-Prince
       - 
@@ -311,6 +323,7 @@ regions:
           - "Petit Goave"
           - "Petit Goâve"
           - "Ville de Petit Goave"
+          - "Ville de Petit Goâve"
         ascii_name: "Petit Goave"
         geonamesid: 3718962
         latitude: 18.43139
@@ -325,6 +338,7 @@ regions:
           - Petionville
           - Pétionville
           - "Ville de Petion-Ville"
+          - "Ville de Pétion-Ville"
         ascii_name: Petionville
         geonamesid: 3719028
         latitude: 18.5125
@@ -339,6 +353,7 @@ regions:
           - Leogane
           - Léogâne
           - "Ville de Leogane"
+          - "Ville de Léogane"
         ascii_name: Leogane
         geonamesid: 3722286
         latitude: 18.51083
@@ -454,6 +469,7 @@ regions:
           - "Anse Galets"
           - "Anse a Galet"
           - "Anse a Galets"
+          - "Anse à Galet"
         ascii_name: "Anse a Galets"
         geonamesid: 3731132
         latitude: 18.83167
@@ -499,6 +515,7 @@ regions:
           - "Le Mole"
           - "Le Mole Saint Nicolas"
           - "Le Môle"
+          - "Le Môle Saint Nicolas"
         ascii_name: "Mole Saint-Nicolas"
         geonamesid: 3720765
         latitude: 19.8
@@ -550,6 +567,7 @@ regions:
           - "Baie de Haine"
           - "Baie de Henne"
           - Henne
+          - "Henne Bay"
         ascii_name: "Baie de Henne"
         geonamesid: 3730932
         latitude: 19.66278
@@ -657,6 +675,7 @@ regions:
           - "Fort Liberte"
           - "Fort Liberté"
           - Fort-Dauphin
+          - "Ville de Fort-Liberte"
         ascii_name: "Fort Liberte"
         geonamesid: 3725170
         latitude: 19.66778
@@ -845,6 +864,7 @@ regions:
           - "Le Limbe"
           - Limbe
           - Limbé
+          - "Ville de Limbe"
         ascii_name: Limbe
         geonamesid: 3722124
         latitude: 19.7
@@ -859,6 +879,7 @@ regions:
           - Borgne
           - "La Borgne"
           - "Le Borgne"
+          - "Le Rorgne"
         ascii_name: "Le Borgne"
         geonamesid: 3722339
         latitude: 19.85
@@ -873,6 +894,7 @@ regions:
           - "Grand Riviere"
           - "Grande Riviere"
           - "Grande Riviere du Nord"
+          - "Grande Rivière du Nord"
         ascii_name: "Grande Riviere du Nord"
         geonamesid: 3724439
         latitude: 19.58333
@@ -898,13 +920,16 @@ regions:
           - "Cap Haitien"
           - Cap-Francais
           - Cap-Français
+          - Cap-Haitien
         ascii_name: Cap-Haitien
         geonamesid: 3728474
         latitude: 19.75778
         longitude: -72.20417
         name: Cap-Haïtien
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cap-Haïtien
+        names_es: 
+          - Cap-Haïtien
         population: 134815
         timezone: America/Port-au-Prince
       - 
@@ -1132,6 +1157,7 @@ regions:
           - "Las Cahobes"
           - "Las Caobas"
           - Lascahobas
+          - "Ville de Lascahobas"
         ascii_name: Lascahobas
         geonamesid: 3722579
         latitude: 18.82944
@@ -1197,7 +1223,8 @@ regions:
         latitude: 19.10819
         longitude: -72.69379
         name: Saint-Marc
-        names_en: ~
+        names_en: 
+          - Saint-Marc
         names_es: ~
         population: 66226
         timezone: America/Port-au-Prince
@@ -1244,12 +1271,14 @@ regions:
           - Gonaiv
           - Gonaives
           - Gonaïves
+          - "Les Gonaives"
         ascii_name: Gonaives
         geonamesid: 3724696
         latitude: 19.45
         longitude: -72.68333
         name: Gonaïves
-        names_en: ~
+        names_en: 
+          - Gonaïves
         names_es: ~
         population: 84961
         timezone: America/Port-au-Prince

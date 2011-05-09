@@ -2,8 +2,10 @@
 geonamesid: 4030945
 iso: KI
 name: Kiribati
-names_en: ~
-names_es: ~
+names_en: 
+  - Kiribati
+names_es: 
+  - Kiribati
 regions: 
   - 
     ascii_name: "Gilbert Islands"
@@ -86,12 +88,15 @@ regions:
           - Bajriki
           - "South Tarawa"
           - Tarawa
+          - Tarawa-Sud
         ascii_name: Tarawa
         geonamesid: 2110257
         latitude: 1.3278
         longitude: 172.97696
         name: Tarawa
-        names_en: ~
+        names_en: 
+          - "South Tarawa"
+          - Tarawa
         names_es: ~
         population: 40311
         timezone: Pacific/Tarawa
@@ -186,7 +191,8 @@ regions:
         timezone: Pacific/Tarawa
     geonamesid: 2110215
     name: "Gilbert Islands"
-    names_en: ~
+    names_en: 
+      - "Gilbert Islands"
     names_es: ~
   - 
     ascii_name: "Line Islands"
@@ -227,7 +233,8 @@ regions:
         timezone: ~
     geonamesid: 4030940
     name: "Line Islands"
-    names_en: ~
+    names_en: 
+      - "Line Islands"
     names_es: ~
   - 
     ascii_name: "Phoenix Islands"

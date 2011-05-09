@@ -2,8 +2,10 @@
 geonamesid: 2300660
 iso: GH
 name: Ghana
-names_en: ~
-names_es: ~
+names_en: 
+  - Ghana
+names_es: 
+  - Ghana
 regions: 
   - 
     ascii_name: "Western Region"
@@ -13,12 +15,14 @@ regions:
           - Sekondi
           - Sekondi-Takoradi
           - Sékondi
+          - Секонди
         ascii_name: Sekondi
         geonamesid: 2295458
         latitude: 4.934
         longitude: -1.7137
         name: Sekondi
-        names_en: ~
+        names_en: 
+          - Sekondi-Takoradi
         names_es: ~
         population: 138872
         timezone: Africa/Accra
@@ -46,12 +50,14 @@ regions:
           - Ho
           - Hohoe
           - Kho
+          - Хо
         ascii_name: Ho
         geonamesid: 2300379
         latitude: 6.6
         longitude: 0.46667
         name: Ho
-        names_en: ~
+        names_en: 
+          - Ho
         names_es: ~
         population: 69998
         timezone: Africa/Accra
@@ -100,12 +106,14 @@ regions:
           - Bolagatanga
           - Bolgatanga
           - Bolgatange
+          - Болгатанге
         ascii_name: Bolgatanga
         geonamesid: 2302821
         latitude: 10.78556
         longitude: -0.85139
         name: Bolgatanga
-        names_en: ~
+        names_en: 
+          - Bolgatanga
         names_es: ~
         population: 54430
         timezone: Africa/Accra
@@ -137,8 +145,10 @@ regions:
         latitude: 9.4
         longitude: -0.83333
         name: Tamale
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tamale
+        names_es: 
+          - Tamale
         population: 360579
         timezone: Africa/Accra
       - 
@@ -166,13 +176,16 @@ regions:
           - Accra
           - Acra
           - Akkra
+          - Akkrae
         ascii_name: Accra
         geonamesid: 2306104
         latitude: 5.55602
         longitude: -0.1969
         name: Accra
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Accra
+        names_es: 
+          - Accra
         population: 1963264
         timezone: Africa/Accra
     geonamesid: 2300569
@@ -191,7 +204,8 @@ regions:
         latitude: 6.08333
         longitude: -0.25
         name: Koforidua
-        names_en: ~
+        names_en: 
+          - Koforidua
         names_es: ~
         population: 96266
         timezone: Africa/Accra
@@ -207,6 +221,7 @@ regions:
           - "Cabo Corso"
           - "Cape Coast"
           - "Cape Coast Castle"
+          - "Igua Ogwa"
         ascii_name: "Cape Coast"
         geonamesid: 2302357
         latitude: 5.10535
@@ -231,14 +246,18 @@ regions:
         latitude: 7.33333
         longitude: -2.33333
         name: Sunyani
-        names_en: ~
+        names_en: 
+          - Sunyani
         names_es: ~
         population: 70299
         timezone: Africa/Accra
     geonamesid: 2302547
     name: Brong-Ahafo
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Brong-Ahafo Region"
+      - Brong-Ahafo
+    names_es: 
+      - Brong-Ahafo
   - 
     ascii_name: "Ashanti Region"
     cities: 
@@ -247,13 +266,16 @@ regions:
           - Coomassie
           - Kumase
           - Kumasi
+          - Kumasis
         ascii_name: Kumasi
         geonamesid: 2298890
         latitude: 6.68333
         longitude: -1.61667
         name: Kumasi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kumasi
+        names_es: 
+          - Kumasi
         population: 1468609
         timezone: Africa/Accra
     geonamesid: 2304116

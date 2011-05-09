@@ -2,8 +2,11 @@
 geonamesid: 2623032
 iso: DK
 name: Denmark
-names_en: ~
-names_es: ~
+names_en: 
+  - Denmark
+  - "Kingdom of Denmark"
+names_es: 
+  - Dinamarca
 regions: 
   - 
     ascii_name: "Capital Region"
@@ -13,6 +16,7 @@ regions:
           - Vekso
           - Veksø
           - Vikso
+          - Viksø
         ascii_name: Vekso
         geonamesid: 2610566
         latitude: 55.75
@@ -31,7 +35,8 @@ regions:
         latitude: 55.63333
         longitude: 12.36667
         name: Vallensbæk
-        names_en: ~
+        names_en: 
+          - Vallensbæk
         names_es: ~
         population: 13500
         timezone: Europe/Copenhagen
@@ -51,6 +56,7 @@ regions:
           - Taastrup
           - Tastrup
           - Tåstrup
+          - Тааструп
         ascii_name: Taastrup
         geonamesid: 2611828
         latitude: 55.65173
@@ -70,7 +76,8 @@ regions:
         latitude: 55.6303
         longitude: 12.60035
         name: Tårnby
-        names_en: ~
+        names_en: 
+          - Tårnby
         names_es: ~
         population: 10000
         timezone: Europe/Copenhagen
@@ -116,7 +123,8 @@ regions:
         latitude: 55.85
         longitude: 12.18333
         name: Slangerup
-        names_en: ~
+        names_en: 
+          - Slangerup
         names_es: ~
         population: 6829
         timezone: Europe/Copenhagen
@@ -142,7 +150,8 @@ regions:
         latitude: 55.1
         longitude: 14.7
         name: Rønne
-        names_en: ~
+        names_en: 
+          - Rønne
         names_es: ~
         population: 13890
         timezone: Europe/Copenhagen
@@ -155,7 +164,8 @@ regions:
         latitude: 55.68062
         longitude: 12.45373
         name: Rødovre
-        names_en: ~
+        names_en: 
+          - Rødovre
         names_es: ~
         population: 30000
         timezone: Europe/Copenhagen
@@ -213,6 +223,7 @@ regions:
           - Maalov
           - Maaløv
           - Malov
+          - Måløv
         ascii_name: Malov
         geonamesid: 2617112
         latitude: 55.75
@@ -249,6 +260,7 @@ regions:
           - "Lille Vaerlose"
           - "Lille Værløse"
           - Vaerlose
+          - Værløse
         ascii_name: Vaerlose
         geonamesid: 2617626
         latitude: 55.78333
@@ -274,13 +286,16 @@ regions:
           - Cobanhavan
           - Copenaga
           - Copenaghen
+          - Copenaguen
         ascii_name: Copenhagen
         geonamesid: 2618425
         latitude: 55.67594
         longitude: 12.56553
         name: Copenhagen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Copenhagen
+        names_es: 
+          - Copenhague
         population: 1153615
         timezone: Europe/Copenhagen
       - 
@@ -301,12 +316,14 @@ regions:
           - "Gmina Jaegerspris"
           - "Gmina Jægerspris"
           - Jaegerspris
+          - Jægerspris
         ascii_name: Jaegerspris
         geonamesid: 2619287
         latitude: 55.85
         longitude: 11.98333
         name: Jægerspris
-        names_en: ~
+        names_en: 
+          - Jægerspris
         names_es: ~
         population: 3805
         timezone: Europe/Copenhagen
@@ -319,7 +336,8 @@ regions:
         latitude: 55.61543
         longitude: 12.35182
         name: Ishøj
-        names_en: ~
+        names_en: 
+          - Ishøj
         names_es: ~
         population: 19453
         timezone: Europe/Copenhagen
@@ -333,7 +351,8 @@ regions:
         latitude: 55.65719
         longitude: 12.47364
         name: Hvidovre
-        names_en: ~
+        names_en: 
+          - Hvidovre
         names_es: ~
         population: 49380
         timezone: Europe/Copenhagen
@@ -346,7 +365,8 @@ regions:
         latitude: 55.96667
         longitude: 11.86667
         name: Hundested
-        names_en: ~
+        names_en: 
+          - Hundested
         names_es: ~
         population: 8615
         timezone: Europe/Copenhagen
@@ -377,12 +397,14 @@ regions:
           - Horsholm
           - Hørsholm
           - Kherskhol'm
+          - Херсхольм
         ascii_name: Horsholm
         geonamesid: 2619856
         latitude: 55.88333
         longitude: 12.5
         name: Hørsholm
-        names_en: ~
+        names_en: 
+          - Hørsholm
         names_es: ~
         population: 36670
         timezone: Europe/Copenhagen
@@ -391,12 +413,14 @@ regions:
           - Hillerod
           - Hillerød
           - Khillerod
+          - hylrwd
         ascii_name: Hillerod
         geonamesid: 2620320
         latitude: 55.92667
         longitude: 12.31091
         name: Hillerød
-        names_en: ~
+        names_en: 
+          - Hillerød
         names_es: ~
         population: 28313
         timezone: Europe/Copenhagen
@@ -408,7 +432,8 @@ regions:
         latitude: 55.72366
         longitude: 12.43998
         name: Herlev
-        names_en: ~
+        names_en: 
+          - Herlev
         names_es: ~
         population: 0
         timezone: Europe/Copenhagen
@@ -417,13 +442,16 @@ regions:
           - Elseneur
           - Elsinor
           - Elsinore
+          - Helsingor
         ascii_name: Helsingor
         geonamesid: 2620473
         latitude: 56.03606
         longitude: 12.6136
         name: Helsingør
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Elsinore
+        names_es: 
+          - Elsinor
         population: 35048
         timezone: Europe/Copenhagen
       - 
@@ -483,7 +511,8 @@ regions:
         latitude: 55.73333
         longitude: 12.48333
         name: Gladsakse
-        names_en: ~
+        names_en: 
+          - Gladsaxe
         names_es: ~
         population: 0
         timezone: Europe/Copenhagen
@@ -505,12 +534,14 @@ regions:
           - Gentofte
           - Gjentofte
           - "Gmina Gentofte"
+          - Гентофте
         ascii_name: Gentofte
         geonamesid: 2621515
         latitude: 55.75
         longitude: 12.55
         name: Gentofte
-        names_en: ~
+        names_en: 
+          - Gentofte
         names_es: ~
         population: 0
         timezone: Europe/Copenhagen
@@ -534,7 +565,8 @@ regions:
         latitude: 55.97073
         longitude: 12.0225
         name: Frederiksværk
-        names_en: ~
+        names_en: 
+          - Frederiksværk
         names_es: ~
         population: 12176
         timezone: Europe/Copenhagen
@@ -547,7 +579,8 @@ regions:
         latitude: 55.83956
         longitude: 12.06896
         name: Frederikssund
-        names_en: ~
+        names_en: 
+          - Frederikssund
         names_es: ~
         population: 14564
         timezone: Europe/Copenhagen
@@ -606,6 +639,7 @@ regions:
           - Espergaerde
           - Espergjaerde
           - Espergjærde
+          - Espergærde
         ascii_name: Espergaerde
         geonamesid: 2622418
         latitude: 56.0
@@ -620,12 +654,14 @@ regions:
           - Dragoer
           - Dragor
           - Dragör
+          - Dragør
         ascii_name: Dragor
         geonamesid: 2622937
         latitude: 55.59455
         longitude: 12.66638
         name: Dragør
-        names_en: ~
+        names_en: 
+          - Dragør
         names_es: ~
         population: 11045
         timezone: Europe/Copenhagen
@@ -660,7 +696,8 @@ regions:
         latitude: 55.84759
         longitude: 12.42791
         name: Birkerød
-        names_en: ~
+        names_en: 
+          - Birkerød
         names_es: ~
         population: 18901
         timezone: Europe/Copenhagen
@@ -673,7 +710,8 @@ regions:
         latitude: 55.73165
         longitude: 12.36328
         name: Ballerup
-        names_en: ~
+        names_en: 
+          - Ballerup
         names_es: ~
         population: 40000
         timezone: Europe/Copenhagen
@@ -682,12 +720,14 @@ regions:
           - Al'bertslunn
           - Albertslund
           - "Gmina Albertslund"
+          - Альбертслунн
         ascii_name: Albertslund
         geonamesid: 2624906
         latitude: 55.65691
         longitude: 12.36381
         name: Albertslund
-        names_en: ~
+        names_en: 
+          - Albertslund
         names_es: ~
         population: 30000
         timezone: Europe/Copenhagen
@@ -705,7 +745,9 @@ regions:
         timezone: Europe/Copenhagen
     geonamesid: 6418538
     name: "Capital Region"
-    names_en: ~
+    names_en: 
+      - "Capital Region"
+      - "Capital Region of Denmark"
     names_es: ~
   - 
     ascii_name: "Central Jutland"
@@ -740,6 +782,7 @@ regions:
           - Vilbjaerg
           - Vilbjerg
           - Vilbjærg
+          - Vildbjerg
         ascii_name: Vildbjerg
         geonamesid: 2610259
         latitude: 56.2
@@ -759,7 +802,8 @@ regions:
         latitude: 56.08333
         longitude: 8.63333
         name: Videbæk
-        names_en: ~
+        names_en: 
+          - Videbæk
         names_es: ~
         population: 4052
         timezone: Europe/Copenhagen
@@ -773,7 +817,8 @@ regions:
         latitude: 56.45319
         longitude: 9.40201
         name: Viborg
-        names_en: ~
+        names_en: 
+          - Viborg
         names_es: ~
         population: 34831
         timezone: Europe/Copenhagen
@@ -795,6 +840,7 @@ regions:
           - Ulborg
           - Ulfborg
           - Ulfkaer
+          - Ulfkær
         ascii_name: Ulfborg
         geonamesid: 2610959
         latitude: 56.26667
@@ -834,6 +880,7 @@ regions:
           - "Nye Torring"
           - "Nye Törring"
           - Torring
+          - "Torring Stationsby"
         ascii_name: Torring
         geonamesid: 2611486
         latitude: 55.85
@@ -848,6 +895,7 @@ regions:
           - Thyboron
           - Thyborøn
           - Tyboron
+          - "Tyboron By"
         ascii_name: Thyboron
         geonamesid: 2611738
         latitude: 56.7
@@ -902,7 +950,8 @@ regions:
         latitude: 56.49122
         longitude: 8.58376
         name: Struer
-        names_en: ~
+        names_en: 
+          - Struer
         names_es: ~
         population: 11317
         timezone: Europe/Copenhagen
@@ -1011,12 +1060,14 @@ regions:
           - "Gmina Skjern"
           - Skern
           - Skerne
+          - Skjern
         ascii_name: Skjern
         geonamesid: 2613715
         latitude: 55.95
         longitude: 8.5
         name: Skjern
-        names_en: ~
+        names_en: 
+          - Skjern
         names_es: ~
         population: 7145
         timezone: Europe/Copenhagen
@@ -1029,7 +1080,8 @@ regions:
         latitude: 56.56667
         longitude: 9.03333
         name: Skive
-        names_en: ~
+        names_en: 
+          - Skive
         names_es: ~
         population: 20815
         timezone: Europe/Copenhagen
@@ -1041,7 +1093,8 @@ regions:
         latitude: 56.03991
         longitude: 9.9272
         name: Skanderborg
-        names_en: ~
+        names_en: 
+          - Skanderborg
         names_es: ~
         population: 13543
         timezone: Europe/Copenhagen
@@ -1055,7 +1108,8 @@ regions:
         latitude: 56.1697
         longitude: 9.54508
         name: Silkeborg
-        names_en: ~
+        names_en: 
+          - Silkeborg
         names_es: ~
         population: 41674
         timezone: Europe/Copenhagen
@@ -1075,6 +1129,7 @@ regions:
           - Ryomgaard
           - Ryomgard
           - Ryomgård
+          - Ryumgaard
         ascii_name: Ryomgard
         geonamesid: 2614353
         latitude: 56.38333
@@ -1116,12 +1171,14 @@ regions:
           - Ringkjobing
           - Ringkjöbing
           - Ringkobing
+          - Ringkøbing
         ascii_name: Ringkobing
         geonamesid: 2614776
         latitude: 56.09006
         longitude: 8.24402
         name: Ringkøbing
-        names_en: ~
+        names_en: 
+          - Ringkøbing
         names_es: ~
         population: 9315
         timezone: Europe/Copenhagen
@@ -1134,7 +1191,8 @@ regions:
         latitude: 56.46667
         longitude: 10.05
         name: Randers
-        names_en: ~
+        names_en: 
+          - Randers
         names_es: ~
         population: 55780
         timezone: Europe/Copenhagen
@@ -1147,7 +1205,8 @@ regions:
         latitude: 55.97313
         longitude: 10.153
         name: Odder
-        names_en: ~
+        names_en: 
+          - Odder
         names_es: ~
         population: 11009
         timezone: Europe/Copenhagen
@@ -1218,7 +1277,8 @@ regions:
         latitude: 56.54856
         longitude: 8.31019
         name: Lemvig
-        names_en: ~
+        names_en: 
+          - Lemvig
         names_es: ~
         population: 7330
         timezone: Europe/Copenhagen
@@ -1322,12 +1382,14 @@ regions:
           - Horsens
           - Khorsens
           - "huo er sen si"
+          - Хорсенс
         ascii_name: Horsens
         geonamesid: 2619771
         latitude: 55.86066
         longitude: 9.85034
         name: Horsens
-        names_en: ~
+        names_en: 
+          - Horsens
         names_es: ~
         population: 50074
         timezone: Europe/Copenhagen
@@ -1358,6 +1420,7 @@ regions:
           - Hoislev
           - Hojslev
           - Höislev
+          - Højslev
         ascii_name: Hojslev
         geonamesid: 2619908
         latitude: 56.58333
@@ -1377,7 +1440,8 @@ regions:
         latitude: 56.36009
         longitude: 8.61607
         name: Holstebro
-        names_en: ~
+        names_en: 
+          - Holstebro
         names_es: ~
         population: 32072
         timezone: Europe/Copenhagen
@@ -1399,12 +1463,14 @@ regions:
           - "Gmina Hinnerup"
           - Hinnerup
           - Hinnerup-Broby
+          - Khinnerup
         ascii_name: Hinnerup
         geonamesid: 2620288
         latitude: 56.26667
         longitude: 10.06667
         name: Hinnerup
-        names_en: ~
+        names_en: 
+          - Hinnerup
         names_es: ~
         population: 7055
         timezone: Europe/Copenhagen
@@ -1418,7 +1484,8 @@ regions:
         latitude: 56.13932
         longitude: 8.97378
         name: Herning
-        names_en: ~
+        names_en: 
+          - Herning
         names_es: ~
         population: 44763
         timezone: Europe/Copenhagen
@@ -1464,12 +1531,14 @@ regions:
           - "Gmina Hammel"
           - Hammel
           - "funmeru ren xing"
+          - フンメル人形
         ascii_name: Hammel
         geonamesid: 2620835
         latitude: 56.25
         longitude: 9.86667
         name: Hammel
-        names_en: ~
+        names_en: 
+          - Hammel
         names_es: ~
         population: 6138
         timezone: Europe/Copenhagen
@@ -1497,7 +1566,8 @@ regions:
         latitude: 56.41578
         longitude: 10.87825
         name: Grenaa
-        names_en: ~
+        names_en: 
+          - Grenå
         names_es: ~
         population: 14317
         timezone: Europe/Copenhagen
@@ -1544,6 +1614,7 @@ regions:
           - AEbeltoft
           - Ehbel'toft
           - Æbeltoft
+          - Эбельтофт
         ascii_name: Ebeltoft
         geonamesid: 2622793
         latitude: 56.19442
@@ -1576,7 +1647,8 @@ regions:
         latitude: 55.95
         longitude: 9.11667
         name: Brande
-        names_en: ~
+        names_en: 
+          - Brande
         names_es: ~
         population: 6357
         timezone: Europe/Copenhagen
@@ -1661,13 +1733,16 @@ regions:
           - Aarhus
           - Aarhusium
           - Arhus
+          - Arhuzo
         ascii_name: Arhus
         geonamesid: 2624652
         latitude: 56.15674
         longitude: 10.21076
         name: Århus
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aarhus
+        names_es: 
+          - Århus
         population: 237551
         timezone: Europe/Copenhagen
       - 
@@ -1686,7 +1761,9 @@ regions:
         timezone: Europe/Copenhagen
     geonamesid: 6418539
     name: "Central Jutland"
-    names_en: ~
+    names_en: 
+      - "Central Jutland"
+      - "Region Central Jutland"
     names_es: ~
   - 
     ascii_name: "North Jutland"
@@ -1761,6 +1838,7 @@ regions:
           - Taars
           - Tars
           - Tors
+          - Tårs
         ascii_name: Tars
         geonamesid: 2611852
         latitude: 57.38333
@@ -1821,12 +1899,14 @@ regions:
           - "Gmina Skorping"
           - "Gmina Skørping"
           - Skoerping
+          - Skorping
         ascii_name: Skorping
         geonamesid: 2613672
         latitude: 56.83333
         longitude: 9.88333
         name: Skørping
-        names_en: ~
+        names_en: 
+          - Skørping
         names_es: ~
         population: 2722
         timezone: Europe/Copenhagen
@@ -1839,8 +1919,10 @@ regions:
         latitude: 57.72093
         longitude: 10.58394
         name: Skagen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Skagen
+        names_es: 
+          - Skagen
         population: 9747
         timezone: Europe/Copenhagen
       - 
@@ -1852,7 +1934,8 @@ regions:
         latitude: 57.47117
         longitude: 10.20312
         name: Sindal
-        names_en: ~
+        names_en: 
+          - Sindal
         names_es: ~
         population: 2898
         timezone: Europe/Copenhagen
@@ -1890,7 +1973,8 @@ regions:
         latitude: 57.22147
         longitude: 9.67569
         name: Pandrup
-        names_en: ~
+        names_en: 
+          - Pandrup
         names_es: ~
         population: 2942
         timezone: Europe/Copenhagen
@@ -1899,6 +1983,7 @@ regions:
           - Nykjobing
           - Nykjöbing
           - Nykobing
+          - Nykøbing
         ascii_name: "Nykobing Mors"
         geonamesid: 2615964
         latitude: 56.79334
@@ -1931,7 +2016,8 @@ regions:
         latitude: 56.65
         longitude: 10.0
         name: Mariager
-        names_en: ~
+        names_en: 
+          - Mariager
         names_es: ~
         population: 2433
         timezone: Europe/Copenhagen
@@ -1940,12 +2026,14 @@ regions:
           - "Gmina Logstor"
           - "Gmina Løgstør"
           - Loegstoer
+          - Logstor
         ascii_name: Logstor
         geonamesid: 2617467
         latitude: 56.96667
         longitude: 9.25
         name: Løgstør
-        names_en: ~
+        names_en: 
+          - Løgstør
         names_es: ~
         population: 4469
         timezone: Europe/Copenhagen
@@ -1997,7 +2085,8 @@ regions:
         latitude: 56.64306
         longitude: 9.79029
         name: Hobro
-        names_en: ~
+        names_en: 
+          - Hobro
         names_es: ~
         population: 11064
         timezone: Europe/Copenhagen
@@ -2006,12 +2095,14 @@ regions:
           - Hjoerring
           - Hjorring
           - Hjörring
+          - Hjørring
         ascii_name: Hjorring
         geonamesid: 2620214
         latitude: 57.46417
         longitude: 9.98229
         name: Hjørring
-        names_en: ~
+        names_en: 
+          - Hjørring
         names_es: ~
         population: 24634
         timezone: Europe/Copenhagen
@@ -2031,12 +2122,14 @@ regions:
           - Hirtshals
           - Khirtskhal's
           - "Lilleheden Hornsnaes"
+          - "Lilleheden Hornsnæs"
         ascii_name: Hirtshals
         geonamesid: 2620279
         latitude: 57.58812
         longitude: 9.95922
         name: Hirtshals
-        names_en: ~
+        names_en: 
+          - Hirtshals
         names_es: ~
         population: 6653
         timezone: Europe/Copenhagen
@@ -2049,7 +2142,8 @@ regions:
         latitude: 57.11667
         longitude: 8.61667
         name: Hanstholm
-        names_en: ~
+        names_en: 
+          - Hanstholm
         names_es: ~
         population: 2418
         timezone: Europe/Copenhagen
@@ -2073,7 +2167,8 @@ regions:
         latitude: 56.71667
         longitude: 10.11667
         name: Hadsund
-        names_en: ~
+        names_en: 
+          - Hadsund
         names_es: ~
         population: 5066
         timezone: Europe/Copenhagen
@@ -2125,7 +2220,8 @@ regions:
         latitude: 57.08333
         longitude: 9.26667
         name: Fjerritslev
-        names_en: ~
+        names_en: 
+          - Fjerritslev
         names_es: ~
         population: 3441
         timezone: Europe/Copenhagen
@@ -2134,12 +2230,14 @@ regions:
           - Farso
           - Farsoe
           - Farsö
+          - Farsø
         ascii_name: Farso
         geonamesid: 2622310
         latitude: 56.78333
         longitude: 9.35
         name: Farsø
-        names_en: ~
+        names_en: 
+          - Farsø
         names_es: ~
         population: 3271
         timezone: Europe/Copenhagen
@@ -2152,7 +2250,8 @@ regions:
         latitude: 57.15
         longitude: 10.3
         name: Dronninglund
-        names_en: ~
+        names_en: 
+          - Dronninglund
         names_es: ~
         population: 3084
         timezone: Europe/Copenhagen
@@ -2165,7 +2264,8 @@ regions:
         latitude: 57.1
         longitude: 9.53333
         name: Brovst
-        names_en: ~
+        names_en: 
+          - Brovst
         names_es: ~
         population: 2710
         timezone: Europe/Copenhagen
@@ -2178,7 +2278,8 @@ regions:
         latitude: 57.27021
         longitude: 9.94102
         name: Brønderslev
-        names_en: ~
+        names_en: 
+          - Brønderslev
         names_es: ~
         population: 11671
         timezone: Europe/Copenhagen
@@ -2187,12 +2288,14 @@ regions:
           - Aars
           - Ars
           - "Gmina Aars"
+          - Års
         ascii_name: Aars
         geonamesid: 2624602
         latitude: 56.80399
         longitude: 9.51441
         name: Aars
-        names_en: ~
+        names_en: 
+          - Aars
         names_es: ~
         population: 7771
         timezone: Europe/Copenhagen
@@ -2228,13 +2331,16 @@ regions:
           - Aalborg
           - Alaborg
           - Alborg
+          - Ol'borg
         ascii_name: Aalborg
         geonamesid: 2624886
         latitude: 57.048
         longitude: 9.9187
         name: Aalborg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aalborg
+        names_es: 
+          - Aalborg
         population: 122219
         timezone: Europe/Copenhagen
       - 
@@ -2242,18 +2348,22 @@ regions:
           - Aabybro
           - Abybro
           - "Gmina Aabybro"
+          - Åbybro
         ascii_name: Abybro
         geonamesid: 2625037
         latitude: 57.15836
         longitude: 9.73672
         name: Åbybro
-        names_en: ~
+        names_en: 
+          - Aabybro
         names_es: ~
         population: 4849
         timezone: Europe/Copenhagen
     geonamesid: 6418540
     name: "North Jutland"
-    names_en: ~
+    names_en: 
+      - "North Jutland"
+      - "Region North Jutland"
     names_es: ~
   - 
     ascii_name: Zealand
@@ -2321,6 +2431,7 @@ regions:
           - Tollose
           - "Tollose Stationsby"
           - "Töllöse Stationsby"
+          - Tølløse
         ascii_name: Tollose
         geonamesid: 2611509
         latitude: 55.61667
@@ -2357,6 +2468,7 @@ regions:
           - Svebolle
           - "Svebolle Stationsby"
           - Svebølle
+          - "Svebølle Stationsby"
         ascii_name: Svebolle
         geonamesid: 2612057
         latitude: 55.65
@@ -2384,12 +2496,14 @@ regions:
           - Stubbekiobing
           - Stubbekiöbing
           - Stubbekjobing
+          - Stubbekjöbing
         ascii_name: Stubbekobing
         geonamesid: 2612192
         latitude: 54.88875
         longitude: 12.04102
         name: Stubbekøbing
-        names_en: ~
+        names_en: 
+          - Stubbekøbing
         names_es: ~
         population: 2301
         timezone: Europe/Copenhagen
@@ -2470,7 +2584,8 @@ regions:
         latitude: 55.40276
         longitude: 11.35459
         name: Slagelse
-        names_en: ~
+        names_en: 
+          - Slagelse
         names_es: ~
         population: 31896
         timezone: Europe/Copenhagen
@@ -2479,6 +2594,7 @@ regions:
           - Skaelskor
           - Skjelskor
           - Skjelskör
+          - Skælskør
         ascii_name: Skaelskor
         geonamesid: 2613694
         latitude: 55.25
@@ -2493,12 +2609,14 @@ regions:
           - "Gmina Sakskobing"
           - "Gmina Sakskøbing"
           - Sakskobing
+          - Sakskøbing
         ascii_name: Sakskobing
         geonamesid: 2614328
         latitude: 54.7997
         longitude: 11.62599
         name: Sakskøbing
-        names_en: ~
+        names_en: 
+          - Sakskøbing
         names_es: ~
         population: 4928
         timezone: Europe/Copenhagen
@@ -2507,13 +2625,16 @@ regions:
           - Hroarskelda
           - Hróarskelda
           - Roskilde
+          - Roskille
         ascii_name: Roskilde
         geonamesid: 2614481
         latitude: 55.64152
         longitude: 12.08035
         name: Roskilde
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Roskilde
+        names_es: 
+          - Roskilde
         population: 44285
         timezone: Europe/Copenhagen
       - 
@@ -2521,12 +2642,14 @@ regions:
           - "Gmina Ronnede"
           - "Gmina Rønnede"
           - Ronnede
+          - Rønnede
         ascii_name: Ronnede
         geonamesid: 2614547
         latitude: 55.25
         longitude: 12.0
         name: Rønnede
-        names_en: ~
+        names_en: 
+          - Rønnede
         names_es: ~
         population: 2395
         timezone: Europe/Copenhagen
@@ -2535,6 +2658,7 @@ regions:
           - "Rodby Havn"
           - Rodbyhavn
           - Roedby-havn
+          - Rødbyhavn
         ascii_name: Rodbyhavn
         geonamesid: 2614624
         latitude: 54.65
@@ -2549,12 +2673,14 @@ regions:
           - "Gmina Rodby"
           - "Gmina Rødby"
           - Rodby
+          - Rødby
         ascii_name: Rodby
         geonamesid: 2614626
         latitude: 54.7
         longitude: 11.4
         name: Rødby
-        names_en: ~
+        names_en: 
+          - Rødby
         names_es: ~
         population: 2379
         timezone: Europe/Copenhagen
@@ -2567,7 +2693,8 @@ regions:
         latitude: 55.4426
         longitude: 11.79011
         name: Ringsted
-        names_en: ~
+        names_en: 
+          - Ringsted
         names_es: ~
         population: 20188
         timezone: Europe/Copenhagen
@@ -2576,12 +2703,14 @@ regions:
           - "Gmina Praesto"
           - "Gmina Præstø"
           - Praesto
+          - Præstø
         ascii_name: Praesto
         geonamesid: 2615089
         latitude: 55.11667
         longitude: 12.05
         name: Præstø
-        names_en: ~
+        names_en: 
+          - Præstø
         names_es: ~
         population: 3695
         timezone: Europe/Copenhagen
@@ -2640,6 +2769,7 @@ regions:
           - Nykiobing
           - Nykiöbing
           - Nykjobing
+          - Nykjöbing
         ascii_name: "Nykobing Sjaelland"
         geonamesid: 2615962
         latitude: 55.92491
@@ -2678,12 +2808,14 @@ regions:
           - "Gmina Norre Alslev"
           - "Gmina Nørre Alslev"
           - "Norre Alslev"
+          - "Nørre Alslev"
         ascii_name: "Norre Alslev"
         geonamesid: 2616365
         latitude: 54.9
         longitude: 11.9
         name: "Nørre Alslev"
-        names_en: ~
+        names_en: 
+          - "Nørre Alslev"
         names_es: ~
         population: 2128
         timezone: Europe/Copenhagen
@@ -2708,7 +2840,8 @@ regions:
         latitude: 54.83333
         longitude: 11.15
         name: Nakskov
-        names_en: ~
+        names_en: 
+          - Nakskov
         names_es: ~
         population: 14081
         timezone: Europe/Copenhagen
@@ -2721,7 +2854,8 @@ regions:
         latitude: 54.77662
         longitude: 11.50017
         name: Maribo
-        names_en: ~
+        names_en: 
+          - Maribo
         names_es: ~
         population: 5349
         timezone: Europe/Copenhagen
@@ -2745,7 +2879,8 @@ regions:
         latitude: 55.32993
         longitude: 11.13857
         name: Korsør
-        names_en: ~
+        names_en: 
+          - Korsør
         names_es: ~
         population: 15029
         timezone: Europe/Copenhagen
@@ -2754,12 +2889,14 @@ regions:
           - Kege
           - Kjoge
           - Koge
+          - Køge
         ascii_name: Koge
         geonamesid: 2618415
         latitude: 55.45802
         longitude: 12.18214
         name: Køge
-        names_en: ~
+        names_en: 
+          - Køge
         names_es: ~
         population: 33885
         timezone: Europe/Copenhagen
@@ -2772,7 +2909,8 @@ regions:
         latitude: 55.67954
         longitude: 11.08864
         name: Kalundborg
-        names_en: ~
+        names_en: 
+          - Kalundborg
         names_es: ~
         population: 15939
         timezone: Europe/Copenhagen
@@ -2804,6 +2942,7 @@ regions:
           - Horv
           - Horve
           - Hørv
+          - Hørve
         ascii_name: Horve
         geonamesid: 2619844
         latitude: 55.75
@@ -2818,12 +2957,14 @@ regions:
           - "Gmina Hong"
           - "Gmina Høng"
           - Hong
+          - Høng
         ascii_name: Hong
         geonamesid: 2619882
         latitude: 55.51165
         longitude: 11.29032
         name: Høng
-        names_en: ~
+        names_en: 
+          - Høng
         names_es: ~
         population: 3789
         timezone: Europe/Copenhagen
@@ -2836,7 +2977,8 @@ regions:
         latitude: 54.71667
         longitude: 11.46667
         name: Holeby
-        names_en: ~
+        names_en: 
+          - Holeby
         names_es: ~
         population: 1844
         timezone: Europe/Copenhagen
@@ -2845,6 +2987,7 @@ regions:
           - Holbaek
           - Holbæk
           - Hollbaek
+          - Hollbæk
         ascii_name: Holbaek
         geonamesid: 2620147
         latitude: 55.71667
@@ -2919,12 +3062,14 @@ regions:
           - Giorley
           - Gjorlev
           - Gjörlev
+          - "Gmina Gorlev"
         ascii_name: Gorlev
         geonamesid: 2621304
         latitude: 55.53926
         longitude: 11.22708
         name: Gørlev
-        names_en: ~
+        names_en: 
+          - Gørlev
         names_es: ~
         population: 2269
         timezone: Europe/Copenhagen
@@ -2933,12 +3078,14 @@ regions:
           - Fuglebaerg
           - Fuglebjerg
           - Fuglebærg
+          - "Gmina Fuglebjerg"
         ascii_name: Fuglebjerg
         geonamesid: 2621805
         latitude: 55.30604
         longitude: 11.54766
         name: Fuglebjerg
-        names_en: ~
+        names_en: 
+          - Fuglebjerg
         names_es: ~
         population: 1985
         timezone: Europe/Copenhagen
@@ -2993,12 +3140,14 @@ regions:
           - Fakse
           - Faxe
           - "Gmina Fakse"
+          - Факсе
         ascii_name: Fakse
         geonamesid: 2622372
         latitude: 55.25
         longitude: 12.13333
         name: Fakse
-        names_en: ~
+        names_en: 
+          - Fakse
         names_es: ~
         population: 3747
         timezone: Europe/Copenhagen
@@ -3073,7 +3222,9 @@ regions:
         timezone: Europe/Copenhagen
     geonamesid: 6418541
     name: Zealand
-    names_en: ~
+    names_en: 
+      - Zealand
+      - "Region Zealand"
     names_es: ~
   - 
     ascii_name: "South Denmark"
@@ -3086,7 +3237,8 @@ regions:
         latitude: 55.25
         longitude: 9.31667
         name: Vojens
-        names_en: ~
+        names_en: 
+          - Vojens
         names_es: ~
         population: 8019
         timezone: Europe/Copenhagen
@@ -3099,7 +3251,8 @@ regions:
         latitude: 55.38333
         longitude: 10.13333
         name: Vissenbjerg
-        names_en: ~
+        names_en: 
+          - Vissenbjerg
         names_es: ~
         population: 3055
         timezone: Europe/Copenhagen
@@ -3124,7 +3277,8 @@ regions:
         latitude: 55.70927
         longitude: 9.5357
         name: Vejle
-        names_en: ~
+        names_en: 
+          - Vejle
         names_es: ~
         population: 51177
         timezone: Europe/Copenhagen
@@ -3136,7 +3290,8 @@ regions:
         latitude: 55.48333
         longitude: 9.15
         name: Vejen
-        names_en: ~
+        names_en: 
+          - Vejen
         names_es: ~
         population: 8525
         timezone: Europe/Copenhagen
@@ -3149,7 +3304,8 @@ regions:
         latitude: 55.62112
         longitude: 8.48069
         name: Varde
-        names_en: ~
+        names_en: 
+          - Varde
         names_es: ~
         population: 12735
         timezone: Europe/Copenhagen
@@ -3181,12 +3337,14 @@ regions:
           - Tonder
           - Tondern
           - Tuner
+          - Tynne
         ascii_name: Tonder
         geonamesid: 2611497
         latitude: 54.93306
         longitude: 8.86674
         name: Tønder
-        names_en: ~
+        names_en: 
+          - Tønder
         names_es: ~
         population: 7841
         timezone: Europe/Copenhagen
@@ -3231,7 +3389,8 @@ regions:
         latitude: 54.93333
         longitude: 9.25
         name: Tinglev
-        names_en: ~
+        names_en: 
+          - Tinglev
         names_es: ~
         population: 2829
         timezone: Europe/Copenhagen
@@ -3240,6 +3399,7 @@ regions:
           - Thuro
           - "Thuro By"
           - Thurø
+          - "Thurø By"
         ascii_name: "Thuro By"
         geonamesid: 2611742
         latitude: 55.05
@@ -3267,12 +3427,14 @@ regions:
           - Svenborg
           - Svendborg
           - Svennborge
+          - Свеннборге
         ascii_name: Svendborg
         geonamesid: 2612045
         latitude: 55.05982
         longitude: 10.60677
         name: Svendborg
-        names_en: ~
+        names_en: 
+          - Svendborg
         names_es: ~
         population: 27553
         timezone: Europe/Copenhagen
@@ -3316,6 +3478,7 @@ regions:
           - Sonderse
           - Sonderso
           - Sönderse
+          - Søndersø
         ascii_name: Sonderso
         geonamesid: 2612955
         latitude: 55.48333
@@ -3330,12 +3493,14 @@ regions:
           - Sjonnenborg
           - Sonderborg
           - Sonderburg
+          - Synneborre
         ascii_name: Sonderborg
         geonamesid: 2613102
         latitude: 54.90926
         longitude: 9.80737
         name: Sønderborg
-        names_en: ~
+        names_en: 
+          - Sønderborg
         names_es: ~
         population: 27033
         timezone: Europe/Copenhagen
@@ -3344,6 +3509,7 @@ regions:
           - Bjaert
           - Bjært
           - "Sonder Bjert"
+          - "Sønder Bjert"
         ascii_name: "Sonder Bjert"
         geonamesid: 2613106
         latitude: 55.45
@@ -3396,12 +3562,14 @@ regions:
           - Rudkiobing
           - Rudkjobing
           - Rudkjöbing
+          - Rudkobing
         ascii_name: Rudkobing
         geonamesid: 2614432
         latitude: 54.93639
         longitude: 10.71019
         name: Rudkøbing
-        names_en: ~
+        names_en: 
+          - Rudkøbing
         names_es: ~
         population: 4666
         timezone: Europe/Copenhagen
@@ -3410,12 +3578,14 @@ regions:
           - "Gmina Rodekro"
           - "Gmina Rødekro"
           - Rodekro
+          - Rødekro
         ascii_name: Rodekro
         geonamesid: 2614611
         latitude: 55.06667
         longitude: 9.35
         name: Rødekro
-        names_en: ~
+        names_en: 
+          - Rødekro
         names_es: ~
         population: 5452
         timezone: Europe/Copenhagen
@@ -3450,8 +3620,10 @@ regions:
         latitude: 55.33051
         longitude: 8.76966
         name: Ribe
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ribe
+        names_es: 
+          - Ribe
         population: 7983
         timezone: Europe/Copenhagen
       - 
@@ -3484,12 +3656,14 @@ regions:
           - "Gmina Olgod"
           - "Gmina Ølgod"
           - OElgod
+          - Olgod
         ascii_name: Olgod
         geonamesid: 2615749
         latitude: 55.81667
         longitude: 8.61667
         name: Ølgod
-        names_en: ~
+        names_en: 
+          - Ølgod
         names_es: ~
         population: 3891
         timezone: Europe/Copenhagen
@@ -3498,6 +3672,7 @@ regions:
           - Oksbol
           - Oksbøl
           - Oxbol
+          - Oxbøl
         ascii_name: Oksbol
         geonamesid: 2615859
         latitude: 55.63333
@@ -3512,13 +3687,16 @@ regions:
           - Odense
           - Odenze
           - awdnsh
+          - odense
         ascii_name: Odense
         geonamesid: 2615876
         latitude: 55.39594
         longitude: 10.38831
         name: Odense
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Odense
+        names_es: 
+          - Odense
         population: 145931
         timezone: Europe/Copenhagen
       - 
@@ -3529,7 +3707,8 @@ regions:
         latitude: 55.31274
         longitude: 10.78964
         name: Nyborg
-        names_en: ~
+        names_en: 
+          - Nyborg
         names_es: ~
         population: 15826
         timezone: Europe/Copenhagen
@@ -3556,7 +3735,8 @@ regions:
         latitude: 55.05
         longitude: 9.75
         name: Nordborg
-        names_en: ~
+        names_en: 
+          - Nordborg
         names_es: ~
         population: 7406
         timezone: Europe/Copenhagen
@@ -3565,6 +3745,7 @@ regions:
           - "Norre Aaby"
           - "Norre Aby"
           - "Nørre Aaby"
+          - "Nørre Åby"
         ascii_name: "Norre Aby"
         geonamesid: 2616368
         latitude: 55.45
@@ -3640,6 +3821,7 @@ regions:
           - Loitkirkeby
           - Lojt
           - "Lojt Kirkeby"
+          - Löjt
         ascii_name: "Lojt Kirkeby"
         geonamesid: 2617450
         latitude: 55.08333
@@ -3654,12 +3836,14 @@ regions:
           - "Gmina Logumkloster"
           - "Gmina Løgumkloster"
           - Loegumkloster
+          - Logumkloster
         ascii_name: Logumkloster
         geonamesid: 2617457
         latitude: 55.05
         longitude: 8.95
         name: Løgumkloster
-        names_en: ~
+        names_en: 
+          - Løgumkloster
         names_es: ~
         population: 3056
         timezone: Europe/Copenhagen
@@ -3694,12 +3878,14 @@ regions:
           - Kolding
           - Koldingo
           - Kolinga
+          - Колдинг
         ascii_name: Kolding
         geonamesid: 2618528
         latitude: 55.4904
         longitude: 9.47216
         name: Kolding
-        names_en: ~
+        names_en: 
+          - Kolding
         names_es: ~
         population: 55363
         timezone: Europe/Copenhagen
@@ -3721,12 +3907,14 @@ regions:
           - Elling
           - Gravhoegarna
           - Gravhögarna
+          - Jelling
         ascii_name: Jelling
         geonamesid: 2619340
         latitude: 55.75
         longitude: 9.43333
         name: Jelling
-        names_en: ~
+        names_en: 
+          - Jelling
         names_es: ~
         population: 3059
         timezone: Europe/Copenhagen
@@ -3782,12 +3970,14 @@ regions:
           - Hadersleben
           - Haderslev
           - Haderslevo
+          - Khaderslev
         ascii_name: Haderslev
         geonamesid: 2620964
         latitude: 55.25377
         longitude: 9.48982
         name: Haderslev
-        names_en: ~
+        names_en: 
+          - Haderslev
         names_es: ~
         population: 20825
         timezone: Europe/Copenhagen
@@ -3818,12 +4008,14 @@ regions:
           - "Gmina Grasten"
           - "Gmina Gråsten"
           - Graasten
+          - Grasten
         ascii_name: Grasten
         geonamesid: 2621258
         latitude: 54.91667
         longitude: 9.6
         name: Gråsten
-        names_en: ~
+        names_en: 
+          - Gråsten
         names_es: ~
         population: 4022
         timezone: Europe/Copenhagen
@@ -3843,12 +4035,14 @@ regions:
           - Glamsbjaerg
           - Glamsbjerg
           - Glamsbjærg
+          - "Gmina Glamsbjerg"
         ascii_name: Glamsbjerg
         geonamesid: 2621393
         latitude: 55.26667
         longitude: 10.11667
         name: Glamsbjerg
-        names_en: ~
+        names_en: 
+          - Glamsbjerg
         names_es: ~
         population: 3099
         timezone: Europe/Copenhagen
@@ -3874,7 +4068,8 @@ regions:
         latitude: 55.56568
         longitude: 9.75257
         name: Fredericia
-        names_en: ~
+        names_en: 
+          - Fredericia
         names_es: ~
         population: 36946
         timezone: Europe/Copenhagen
@@ -3897,12 +4092,14 @@ regions:
           - Ehsberg
           - Esbjaerg
           - Esbjerg
+          - Esbjerga
         ascii_name: Esbjerg
         geonamesid: 2622447
         latitude: 55.46667
         longitude: 8.45
         name: Esbjerg
-        names_en: ~
+        names_en: 
+          - Esbjerg
         names_es: ~
         population: 72205
         timezone: Europe/Copenhagen
@@ -3929,7 +4126,8 @@ regions:
         latitude: 55.61667
         longitude: 9.3
         name: Egtved
-        names_en: ~
+        names_en: 
+          - Egtved
         names_es: ~
         population: 2151
         timezone: Europe/Copenhagen
@@ -3953,7 +4151,8 @@ regions:
         latitude: 55.35
         longitude: 9.48333
         name: Christiansfeld
-        names_en: ~
+        names_en: 
+          - Christiansfeld
         names_es: ~
         population: 2709
         timezone: Europe/Copenhagen
@@ -3984,12 +4183,14 @@ regions:
           - Broacker
           - Broager
           - "Broager Sogn"
+          - "Gmina Broager"
         ascii_name: Broager
         geonamesid: 2623394
         latitude: 54.88333
         longitude: 9.68333
         name: Broager
-        names_en: ~
+        names_en: 
+          - Broager
         names_es: ~
         population: 3376
         timezone: Europe/Copenhagen
@@ -4011,13 +4212,16 @@ regions:
           - Bramming
           - Bramminge
           - "Bramminge Stationsby"
+          - "Gmina Bramming"
         ascii_name: Bramming
         geonamesid: 2623570
         latitude: 55.46667
         longitude: 8.7
         name: Bramming
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bramming
+        names_es: 
+          - Bramming
         population: 6726
         timezone: Europe/Copenhagen
       - 
@@ -4053,7 +4257,8 @@ regions:
         latitude: 55.73349
         longitude: 9.10785
         name: Billund
-        names_en: ~
+        names_en: 
+          - Billund
         names_es: ~
         population: 6160
         timezone: Europe/Copenhagen
@@ -4078,7 +4283,8 @@ regions:
         latitude: 54.95
         longitude: 9.88333
         name: Augustenborg
-        names_en: ~
+        names_en: 
+          - Augustenborg
         names_es: ~
         population: 3132
         timezone: Europe/Copenhagen
@@ -4128,16 +4334,21 @@ regions:
           - Aabenraa
           - Abenra
           - Abenrá
+          - Abrenra
         ascii_name: Aabenraa
         geonamesid: 2625070
         latitude: 55.04434
         longitude: 9.41741
         name: Aabenraa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aabenraa
+        names_es: 
+          - Abenrá
         population: 16344
         timezone: Europe/Copenhagen
     geonamesid: 6418542
     name: "South Denmark"
-    names_en: ~
+    names_en: 
+      - "South Denmark"
+      - "Region South Denmark"
     names_es: ~

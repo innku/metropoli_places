@@ -2,8 +2,11 @@
 geonamesid: 1168579
 iso: PK
 name: Pakistan
-names_en: ~
-names_es: ~
+names_en: 
+  - Pakistan
+  - "Islamic Republic of Pakistan"
+names_es: 
+  - Pakistán
 regions: 
   - 
     ascii_name: "Islamabad Capital Territory"
@@ -13,13 +16,16 @@ regions:
           - Islamabad
           - Islamabade
           - Islamahbad
+          - Islamampant
         ascii_name: Islamabad
         geonamesid: 1176615
         latitude: 33.72148
         longitude: 73.04329
         name: Islāmābād
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Islamabad
+        names_es: 
+          - Islamabad
         population: 601600
         timezone: Asia/Karachi
     geonamesid: 1162015
@@ -59,6 +65,7 @@ regions:
           - Khaipur
           - Khairpur
           - "Khairpur Mirs"
+          - "Khairpur Mīrs"
         ascii_name: Khairpur
         geonamesid: 1162004
         latitude: 27.53333
@@ -73,6 +80,7 @@ regions:
           - Adalpur
           - Adilpur
           - Adulpoor
+          - "Us'mar Ruk Malpur"
         ascii_name: Adilpur
         geonamesid: 1162035
         latitude: 27.93758
@@ -157,6 +165,7 @@ regions:
           - Tangwan
           - Tangwani
           - Tangwān
+          - Tangwāni
         ascii_name: Tangwani
         geonamesid: 1163912
         latitude: 28.2787
@@ -270,6 +279,7 @@ regions:
           - Sobbodero
           - Sobhadero
           - "Sobho Dero"
+          - Sobhādero
         ascii_name: Sobhadero
         geonamesid: 1164698
         latitude: 27.30556
@@ -319,6 +329,7 @@ regions:
           - "Shahpur Chaka"
           - "Shahpur Chakar"
           - "Shahpur Chaker"
+          - "Shāhpur Chaka"
         ascii_name: "Shahpur Chakar"
         geonamesid: 1165507
         latitude: 26.15497
@@ -344,6 +355,7 @@ regions:
           - Shahdadkot
           - Shahdadpur
           - Shāhdādkot
+          - Shāhdādpur
         ascii_name: Shahdadkot
         geonamesid: 1165638
         latitude: 27.84771
@@ -564,7 +576,8 @@ regions:
         latitude: 26.25289
         longitude: 68.41052
         name: Nawābshāh
-        names_en: ~
+        names_en: 
+          - Nawabshah
         names_es: ~
         population: 229504
         timezone: Asia/Karachi
@@ -573,6 +586,7 @@ regions:
           - Naushahro
           - "Naushahro Firoz"
           - "Naushahro Fīroz"
+          - "Naushahro Piroz"
         ascii_name: "Naushahro Firoz"
         geonamesid: 1169143
         latitude: 26.84238
@@ -663,6 +677,7 @@ regions:
           - Mirwah
           - "Mirwah Gorchani"
           - Mīrwāh
+          - "Mīrwāh Gorchani"
         ascii_name: "Mirwah Gorchani"
         geonamesid: 1170281
         latitude: 25.31667
@@ -677,6 +692,7 @@ regions:
           - "Mipur Sakro"
           - "Mirpur Sakro"
           - "Mirpur Sukro"
+          - "Mīrpur Sakro"
         ascii_name: "Mirpur Sakro"
         geonamesid: 1170290
         latitude: 24.54742
@@ -691,6 +707,7 @@ regions:
           - Mirpur
           - "Mirpur Mathelo"
           - Mīrpur
+          - "Mīrpur Māthelo"
         ascii_name: "Mirpur Mathelo"
         geonamesid: 1170294
         latitude: 28.03333
@@ -709,7 +726,8 @@ regions:
         latitude: 25.5251
         longitude: 69.0159
         name: "Mīrpur Khās"
-        names_en: ~
+        names_en: 
+          - "Mīrpur Khās"
         names_es: ~
         population: 215657
         timezone: Asia/Karachi
@@ -723,7 +741,8 @@ regions:
         latitude: 24.72913
         longitude: 68.26237
         name: "Mīrpur Batoro"
-        names_en: ~
+        names_en: 
+          - "Mīrpur Batoro"
         names_es: ~
         population: 8866
         timezone: Asia/Karachi
@@ -770,7 +789,8 @@ regions:
         latitude: 25.59609
         longitude: 68.44666
         name: Matiāri
-        names_en: ~
+        names_en: 
+          - Matiāri
         names_es: ~
         population: 18929
         timezone: Asia/Karachi
@@ -790,12 +810,14 @@ regions:
           - Larkana
           - Larkane
           - Lārkāna
+          - Ларкане
         ascii_name: Larkana
         geonamesid: 1172128
         latitude: 27.55
         longitude: 68.21667
         name: Lārkāna
-        names_en: ~
+        names_en: 
+          - Larkana
         names_es: ~
         population: 364033
         timezone: Asia/Karachi
@@ -830,7 +852,8 @@ regions:
         latitude: 25.3652
         longitude: 68.3152
         name: Kotri
-        names_en: ~
+        names_en: 
+          - Kotri
         names_es: ~
         population: 72672
         timezone: Asia/Karachi
@@ -877,6 +900,7 @@ regions:
           - Khairpur
           - "Khairpur Nathan Shah"
           - "Khairpur Nathan Shāh"
+          - "Khairpur Nathoshah"
         ascii_name: "Khairpur Nathan Shah"
         geonamesid: 1174344
         latitude: 27.1
@@ -891,6 +915,7 @@ regions:
           - Khairpur
           - "Khairpur Daherki"
           - Khajrpura
+          - Хайрпура
         ascii_name: Khairpur
         geonamesid: 1174357
         latitude: 28.05
@@ -967,13 +992,17 @@ regions:
           - Carachi
           - Karachi
           - "Karachi - krachy"
+          - "Karachi - كراچى"
         ascii_name: Karachi
         geonamesid: 1174872
         latitude: 24.9056
         longitude: 67.0822
         name: Karachi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Karachi
+          - Karāchi
+        names_es: 
+          - Karachi
         population: 11624219
         timezone: Asia/Karachi
       - 
@@ -1049,6 +1078,7 @@ regions:
           - Jati
           - Jāti
           - "Mughal Bhim"
+          - Mughalbhin
         ascii_name: Jati
         geonamesid: 1176048
         latitude: 24.35563
@@ -1063,12 +1093,15 @@ regions:
           - "Jam Shoro"
           - "Jams Shoro"
           - Jamsboro
+          - Jamshore
         ascii_name: Jamshoro
         geonamesid: 1176229
         latitude: 25.4268
         longitude: 68.2799
         name: Jamshoro
-        names_en: ~
+        names_en: 
+          - "Jām Shoro"
+          - Jamshoro
         names_es: ~
         population: 0
         timezone: Asia/Karachi
@@ -1077,6 +1110,7 @@ regions:
           - Jacobabad
           - Jacobadad
           - Jacobābād
+          - Jacobādad
         ascii_name: Jacobabad
         geonamesid: 1176515
         latitude: 28.28673
@@ -1102,13 +1136,17 @@ regions:
           - Haidarabad
           - Hyderabad
           - Hyderābād
+          - Khajdarabad
         ascii_name: Hyderabad
         geonamesid: 1176734
         latitude: 25.3823
         longitude: 68.3699
         name: Hyderābād
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hyderabad
+          - Hyderābād
+        names_es: 
+          - Hyderabad
         population: 1386330
         timezone: Asia/Karachi
       - 
@@ -1131,7 +1169,8 @@ regions:
         latitude: 28.00604
         longitude: 69.31608
         name: Ghotki
-        names_en: ~
+        names_en: 
+          - Ghotki
         names_es: ~
         population: 64295
         timezone: Asia/Karachi
@@ -1167,6 +1206,7 @@ regions:
           - "Garhi Yasin"
           - "Garhi Yāsīn"
           - "Gari Yasin"
+          - "Gharhi Yasin"
         ascii_name: "Garhi Yasin"
         geonamesid: 1178843
         latitude: 27.9069
@@ -1304,6 +1344,7 @@ regions:
           - Daro
           - "Daro Mehar"
           - Durro
+          - "Dāro Mehar"
         ascii_name: "Daro Mehar"
         geonamesid: 1180491
         latitude: 24.79463
@@ -1393,7 +1434,8 @@ regions:
         latitude: 25.80437
         longitude: 68.49265
         name: "Bhit Shāh"
-        names_en: ~
+        names_en: 
+          - "Bhit Shāh"
         names_es: ~
         population: 19325
         timezone: Asia/Karachi
@@ -1547,12 +1589,15 @@ regions:
           - Rohotwali
           - Rohotwāli
           - Yazman
+          - "Yazman Mandi"
         ascii_name: "Yazman Mandi"
         geonamesid: 1162316
         latitude: 29.12374
         longitude: 71.74436
         name: "Yazmān Mandi"
-        names_en: ~
+        names_en: 
+          - "Yazmān Mandi"
+          - Yazmān
         names_es: ~
         population: 24580
         timezone: Asia/Karachi
@@ -1591,7 +1636,8 @@ regions:
         latitude: 30.03333
         longitude: 72.35
         name: Vihāri
-        names_en: ~
+        names_en: 
+          - Vehari
         names_es: ~
         population: 112840
         timezone: Asia/Karachi
@@ -1702,7 +1748,8 @@ regions:
         latitude: 32.5101
         longitude: 74.54313
         name: Siālkot
-        names_en: ~
+        names_en: 
+          - Sialkot
         names_es: ~
         population: 477396
         timezone: Asia/Karachi
@@ -1725,6 +1772,7 @@ regions:
           - "Qila Sheikhupura"
           - Sheikhupura
           - Shekhupura
+          - Shekhūpura
         ascii_name: Sheikhupura
         geonamesid: 1165221
         latitude: 31.71306
@@ -1791,7 +1839,8 @@ regions:
         latitude: 32.08361
         longitude: 72.67111
         name: Sargodha
-        names_en: ~
+        names_en: 
+          - Sargodha
         names_es: ~
         population: 542603
         timezone: Asia/Karachi
@@ -1862,6 +1911,7 @@ regions:
           - Sahiwal
           - Sakhivale
           - Sohiwal
+          - Sāhīwāl
         ascii_name: Sahiwal
         geonamesid: 1166547
         latitude: 31.97306
@@ -1876,6 +1926,7 @@ regions:
           - Montgomery
           - Sahiwal
           - Sakhivale
+          - Sāhīwāl
         ascii_name: Montgomery
         geonamesid: 1166548
         latitude: 30.66667
@@ -1890,6 +1941,7 @@ regions:
           - Sadikabad
           - Sadiqabad
           - Sādikābād
+          - Sādiqābād
         ascii_name: Sadiqabad
         geonamesid: 1166652
         latitude: 28.3
@@ -1915,6 +1967,7 @@ regions:
           - Renala
           - "Renala Khurd"
           - Renāla
+          - "Renāla Khurd"
         ascii_name: "Renala Khurd"
         geonamesid: 1166933
         latitude: 30.88333
@@ -1929,13 +1982,17 @@ regions:
           - Ralalpindi
           - Ravalpindi
           - Ravalpindis
+          - Rawalpindi
         ascii_name: Rawalpindi
         geonamesid: 1166993
         latitude: 33.6007
         longitude: 73.0679
         name: Rāwalpindi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rawalpindi
+          - Rāwalpindi
+        names_es: 
+          - Rawalpindi
         population: 1743101
         timezone: Asia/Karachi
       - 
@@ -1943,6 +2000,7 @@ regions:
           - Ramnagar
           - Rasulnagar
           - Rasulnager
+          - Rasūlnagar
         ascii_name: Rasulnagar
         geonamesid: 1167064
         latitude: 32.32853
@@ -2028,6 +2086,7 @@ regions:
           - "Pindi Battian"
           - "Pindi Bhatian"
           - "Pindi Bhattian"
+          - "Pindi Bhattiān"
         ascii_name: "Pindi Bhattian"
         geonamesid: 1168021
         latitude: 31.89781
@@ -2082,6 +2141,7 @@ regions:
           - Pasrur
           - Pasrūr
           - Pasur
+          - Pasūr
         ascii_name: Pasrur
         geonamesid: 1168307
         latitude: 32.26413
@@ -2123,6 +2183,7 @@ regions:
           - "Naushahra Virkan"
           - "Naushahra Virkhan"
           - "Naushahra Virkān"
+          - "Naushehra Werkan"
         ascii_name: "Naushahra Virkan"
         geonamesid: 1169145
         latitude: 31.96098
@@ -2162,6 +2223,7 @@ regions:
           - "Nanakana Sahib"
           - "Nankana Municipality"
           - "Nankana Sahib"
+          - "Nankāna Sāhib"
         ascii_name: "Nankana Sahib"
         geonamesid: 1169372
         latitude: 31.4475
@@ -2181,8 +2243,10 @@ regions:
         latitude: 30.07537
         longitude: 71.19213
         name: Muzaffargarh
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Muzaffargarh
+        names_es: 
+          - Muzaffargarh
         population: 165192
         timezone: Asia/Karachi
       - 
@@ -2204,7 +2268,8 @@ regions:
         latitude: 33.9049
         longitude: 73.3925
         name: Murree
-        names_en: ~
+        names_en: 
+          - Murree
         names_es: ~
         population: 25247
         timezone: Asia/Karachi
@@ -2224,13 +2289,16 @@ regions:
           - Multan
           - Multanas
           - Multān
+          - "mu er tan"
         ascii_name: Multan
         geonamesid: 1169825
         latitude: 30.19556
         longitude: 71.47528
         name: Multān
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Multan
+        names_es: 
+          - Multan
         population: 1437230
         timezone: Asia/Karachi
       - 
@@ -2279,7 +2347,8 @@ regions:
         latitude: 30.45
         longitude: 72.36667
         name: "Miān Channūn"
-        names_en: ~
+        names_en: 
+          - "Mian Channu"
         names_es: ~
         population: 76226
         timezone: Asia/Karachi
@@ -2385,6 +2454,7 @@ regions:
           - Laliani
           - Laliāni
           - Lalliani
+          - Liliani
         ascii_name: Liliani
         geonamesid: 1171991
         latitude: 32.20651
@@ -2437,13 +2507,16 @@ regions:
           - Lahaur
           - Lahor
           - Lahoras
+          - Lahore
         ascii_name: Lahore
         geonamesid: 1172451
         latitude: 31.54972
         longitude: 74.34361
         name: Lahore
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lahore
+        names_es: 
+          - Lahore
         population: 6310888
         timezone: Asia/Karachi
       - 
@@ -2520,6 +2593,7 @@ regions:
           - "Kot Mamin"
           - "Kot Mumin"
           - "Kot Mūmin"
+          - Kot-Moman
         ascii_name: "Kot Mumin"
         geonamesid: 1172964
         latitude: 32.18954
@@ -2560,7 +2634,8 @@ regions:
         latitude: 30.4692
         longitude: 70.96714
         name: "Kot Addu"
-        names_en: ~
+        names_en: 
+          - "Kot Addu"
         names_es: ~
         population: 104217
         timezone: Asia/Karachi
@@ -2583,6 +2658,7 @@ regions:
           - Khurianwala
           - Khurrianwala
           - Khurriānwāla
+          - Kurrianwala
         ascii_name: Khurrianwala
         geonamesid: 1173692
         latitude: 31.50056
@@ -2641,6 +2717,7 @@ regions:
           - "Khanga Dogran"
           - "Khangah Dogran"
           - Khangah-Dogra
+          - "Khangan Dogran"
         ascii_name: "Khangah Dogran"
         geonamesid: 1174217
         latitude: 31.83167
@@ -2679,6 +2756,7 @@ regions:
           - Kansur
           - Kansūr
           - Kasur
+          - Kasūr
         ascii_name: Kasur
         geonamesid: 1174625
         latitude: 31.11556
@@ -2732,6 +2810,7 @@ regions:
           - Kamoke
           - Kamoki
           - Kāmoke
+          - Kāmoki
         ascii_name: Kamoke
         geonamesid: 1175088
         latitude: 31.97444
@@ -2847,6 +2926,7 @@ regions:
           - Kahuta
           - Kahūta
           - Kakhute
+          - Кахуте
         ascii_name: Kahuta
         geonamesid: 1175436
         latitude: 33.59355
@@ -2861,6 +2941,7 @@ regions:
           - Kahror
           - "Kehror Pakka Town"
           - Kharor
+          - "Kohror Pakka"
         ascii_name: "Kohror Pakka"
         geonamesid: 1175446
         latitude: 29.62382
@@ -2875,6 +2956,7 @@ regions:
           - Kahna
           - "Kahna Nau"
           - Khana
+          - Khāna
         ascii_name: Kahna
         geonamesid: 1175453
         latitude: 31.36917
@@ -2939,6 +3021,7 @@ regions:
           - "Jhang Marghiana"
           - "Jhang Marghiānā"
           - "Jhang Sadar"
+          - "Jhang Sadr"
         ascii_name: "Jhang Sadr"
         geonamesid: 1175892
         latitude: 31.27396
@@ -3097,6 +3180,7 @@ regions:
           - Hasilpur
           - Hasipur
           - Hāsilpur
+          - Hāsipur
         ascii_name: Hasilpur
         geonamesid: 1177042
         latitude: 29.71222
@@ -3122,6 +3206,7 @@ regions:
           - "Badruwala Mandi"
           - "Badruwāla Mandi"
           - "Haroonabad Municipality"
+          - "Haru Zbad"
         ascii_name: "Haru Zbad"
         geonamesid: 1177073
         latitude: 29.61333
@@ -3171,12 +3256,14 @@ regions:
           - Gudzharat
           - Gujrat
           - Gujrāt
+          - gjrat
         ascii_name: Gujrat
         geonamesid: 1177654
         latitude: 32.57276
         longitude: 74.08959
         name: Gujrāt
-        names_en: ~
+        names_en: 
+          - Gujrat
         names_es: ~
         population: 301506
         timezone: Asia/Karachi
@@ -3185,12 +3272,14 @@ regions:
           - Gajranvala
           - Gujranwala
           - Gujrānwāla
+          - Гайранвала
         ascii_name: Gujranwala
         geonamesid: 1177662
         latitude: 32.16167
         longitude: 74.18831
         name: Gujrānwāla
-        names_en: ~
+        names_en: 
+          - Gujranwala
         names_es: ~
         population: 1384471
         timezone: Asia/Karachi
@@ -3232,6 +3321,7 @@ regions:
           - Abbas
           - "Fort Abbas"
           - "Fort Abbās"
+          - Mandi
         ascii_name: "Fort Abbas"
         geonamesid: 1179223
         latitude: 29.1925
@@ -3283,6 +3373,7 @@ regions:
           - Fagirwali
           - Fagīrwāli
           - Faqirwala
+          - Faqirwali
         ascii_name: Faqirwali
         geonamesid: 1179377
         latitude: 29.46944
@@ -3297,12 +3388,14 @@ regions:
           - Faisalabad
           - Faisalābād
           - Feisalabada
+          - Feisalabadas
         ascii_name: Faisalabad
         geonamesid: 1179400
         latitude: 31.41667
         longitude: 73.08333
         name: Faisalābād
-        names_en: ~
+        names_en: 
+          - Faisalabad
         names_es: ~
         population: 2506595
         timezone: Asia/Karachi
@@ -3346,6 +3439,7 @@ regions:
           - Dull-wali
           - Dullewala
           - Dullewali
+          - Dullewāla
         ascii_name: Dullewala
         geonamesid: 1179496
         latitude: 31.83587
@@ -3419,6 +3513,7 @@ regions:
           - "Dera Ghazi Khan"
           - "Dera Ghoz Khan"
           - "Dera Ghāzi Khān"
+          - "Deri-Ghazi Khan"
         ascii_name: "Dera Ghazi Khan"
         geonamesid: 1180289
         latitude: 30.05614
@@ -3466,6 +3561,7 @@ regions:
           - "Darva Khan"
           - "Darva Khān"
           - "Darya Khan"
+          - "Darya Khan Daggar"
         ascii_name: "Darya Khan"
         geonamesid: 1180454
         latitude: 31.79123
@@ -3518,6 +3614,7 @@ regions:
           - "Chuchar-kana Mandi"
           - "Chuhar Kana"
           - "Chuhar Kand"
+          - "Chūhar Kāna"
         ascii_name: "Chuhar Kana"
         geonamesid: 1180983
         latitude: 31.75
@@ -3532,6 +3629,7 @@ regions:
           - "Choa Saidan Shah"
           - "Choa Saidān Shāh"
           - "Saidan Shah"
+          - "Saidān Shāh"
         ascii_name: "Choa Saidan Shah"
         geonamesid: 1181053
         latitude: 32.72006
@@ -3560,6 +3658,7 @@ regions:
           - Chaniot
           - Chiniot
           - Chinot
+          - Чиниот
         ascii_name: Chiniot
         geonamesid: 1181096
         latitude: 31.72
@@ -3611,6 +3710,7 @@ regions:
           - "Chak Azam Saffo"
           - "Chak Azam Saho"
           - "Chak Azam Sahu"
+          - "Chak Āzam Saffo"
         ascii_name: "Chak Azam Saffo"
         geonamesid: 1181887
         latitude: 30.75
@@ -3660,6 +3760,7 @@ regions:
           - Bawana
           - Bhawana
           - Bhawāna
+          - Bhowana
         ascii_name: Bhawana
         geonamesid: 1182682
         latitude: 31.56918
@@ -3688,7 +3789,8 @@ regions:
         latitude: 31.62525
         longitude: 71.06574
         name: Bhakkar
-        names_en: ~
+        names_en: 
+          - Bhakkar
         names_es: ~
         population: 81950
         timezone: Asia/Karachi
@@ -3697,6 +3799,7 @@ regions:
           - "Bhai Pheru"
           - "Bhar Pheru"
           - "Bhāi Pheru"
+          - Mian-ki-Maur
         ascii_name: "Bhai Pheru"
         geonamesid: 1182829
         latitude: 31.2
@@ -3747,12 +3850,14 @@ regions:
           - Bahawalpur
           - Bahāwalpur
           - Bakhavalpura
+          - Бахавалпура
         ascii_name: Bahawalpur
         geonamesid: 1183880
         latitude: 29.4
         longitude: 71.68333
         name: Bahāwalpur
-        names_en: ~
+        names_en: 
+          - Bahāwalpur
         names_es: ~
         population: 552607
         timezone: Asia/Karachi
@@ -3761,13 +3866,16 @@ regions:
           - Bahawalnagar
           - Bahawalpur
           - Bahawatnagar
+          - Bahawâlpur
         ascii_name: Bahawalnagar
         geonamesid: 1183883
         latitude: 29.98333
         longitude: 73.26667
         name: Bahāwalnagar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bahawalpur
+        names_es: 
+          - Bahawalpur
         population: 126617
         timezone: Asia/Karachi
       - 
@@ -3824,12 +3932,14 @@ regions:
           - Ahmadpur
           - "Ahmadpur East"
           - "Ahmedpur East"
+          - "Ahmedpur East Municipality"
         ascii_name: "Ahmadpur East"
         geonamesid: 1184845
         latitude: 29.14462
         longitude: 71.26084
         name: "Ahmadpur East"
-        names_en: ~
+        names_en: 
+          - "Ahmadpur East"
         names_es: ~
         population: 116579
         timezone: Asia/Karachi
@@ -3916,7 +4026,8 @@ regions:
         timezone: Asia/Karachi
     geonamesid: 1167710
     name: Punjab
-    names_en: ~
+    names_en: 
+      - Punjab
     names_es: ~
   - 
     ascii_name: "North West Frontier Province"
@@ -3931,7 +4042,8 @@ regions:
         latitude: 34.82639
         longitude: 71.84278
         name: Tīmurgara
-        names_en: ~
+        names_en: 
+          - Tīmurgara
         names_es: ~
         population: 0
         timezone: Asia/Karachi
@@ -3943,7 +4055,8 @@ regions:
         latitude: 34.06028
         longitude: 72.46778
         name: Zaida
-        names_en: ~
+        names_en: 
+          - Zaida
         names_es: ~
         population: 26787
         timezone: Asia/Karachi
@@ -3952,12 +4065,14 @@ regions:
           - Utmanzai
           - Utmānzai
           - Uttamanza
+          - Uttmanzai
         ascii_name: Utmanzai
         geonamesid: 1162855
         latitude: 34.18583
         longitude: 71.76333
         name: Utmānzai
-        names_en: ~
+        names_en: 
+          - Utmānzai
         names_es: ~
         population: 29423
         timezone: Asia/Karachi
@@ -3993,7 +4108,8 @@ regions:
         latitude: 34.30056
         longitude: 71.65361
         name: Tangi
-        names_en: ~
+        names_en: 
+          - Tangi
         names_es: ~
         population: 29444
         timezone: Asia/Karachi
@@ -4002,6 +4118,7 @@ regions:
           - Tal
           - Tal'
           - Thal
+          - Tāl
         ascii_name: Tal
         geonamesid: 1164076
         latitude: 35.4867
@@ -4020,7 +4137,8 @@ regions:
         latitude: 34.12
         longitude: 72.47222
         name: Swābi
-        names_en: ~
+        names_en: 
+          - Swābi
         names_es: ~
         population: 97363
         timezone: Asia/Karachi
@@ -4042,12 +4160,14 @@ regions:
           - "Shabgadar Fort"
           - Shabkadar
           - Shabqadar
+          - Shapqadar
         ascii_name: Shabqadar
         geonamesid: 1165744
         latitude: 34.21528
         longitude: 71.55528
         name: Shabqadar
-        names_en: ~
+        names_en: 
+          - Shabqadar
         names_es: ~
         population: 66541
         timezone: Asia/Karachi
@@ -4056,6 +4176,7 @@ regions:
           - "Naurang Sarai"
           - "Naurang Sarāi"
           - "Sarai Naurang"
+          - "Sarāi Naurang"
         ascii_name: "Sarai Naurang"
         geonamesid: 1166066
         latitude: 32.82591
@@ -4075,7 +4196,8 @@ regions:
         latitude: 34.7447
         longitude: 72.3546
         name: "Saidu Sharīf"
-        names_en: ~
+        names_en: 
+          - "Saidu Sharīf"
         names_es: ~
         population: 0
         timezone: Asia/Karachi
@@ -4084,13 +4206,17 @@ regions:
           - Pesabar
           - Pesavaras
           - Peschawar
+          - Peshavar
         ascii_name: Peshawar
         geonamesid: 1168197
         latitude: 34.00837
         longitude: 71.58018
         name: Peshāwar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Peshawar
+          - Peshāwar
+        names_es: 
+          - Peshawar
         population: 1218773
         timezone: Asia/Karachi
       - 
@@ -4112,7 +4238,8 @@ regions:
         latitude: 34.01056
         longitude: 71.79889
         name: Pabbi
-        names_en: ~
+        names_en: 
+          - Pabbi
         names_es: ~
         population: 37307
         timezone: Asia/Karachi
@@ -4126,7 +4253,8 @@ regions:
         latitude: 34.01639
         longitude: 71.97472
         name: Nowshera
-        names_en: ~
+        names_en: 
+          - Nowshera
         names_es: ~
         population: 0
         timezone: Asia/Karachi
@@ -4140,7 +4268,9 @@ regions:
         latitude: 34.775
         longitude: 72.3622
         name: Mingāora
-        names_en: ~
+        names_en: 
+          - Mingora
+          - Mingāora
         names_es: ~
         population: 227331
         timezone: Asia/Karachi
@@ -4154,7 +4284,9 @@ regions:
         latitude: 34.19833
         longitude: 72.04583
         name: Mardān
-        names_en: ~
+        names_en: 
+          - Mardan
+          - Mardān
         names_es: ~
         population: 300424
         timezone: Asia/Karachi
@@ -4163,6 +4295,7 @@ regions:
           - Mansehra
           - Mansekhra
           - Mānsehra
+          - Мансехра
         ascii_name: Mansehra
         geonamesid: 1170951
         latitude: 34.33333
@@ -4181,7 +4314,8 @@ regions:
         latitude: 34.56556
         longitude: 71.93111
         name: Malakand
-        names_en: ~
+        names_en: 
+          - Malakand
         names_es: ~
         population: 0
         timezone: Asia/Karachi
@@ -4226,6 +4360,7 @@ regions:
           - Kohat
           - Kohāt
           - Kokhat
+          - Кохат
         ascii_name: Kohat
         geonamesid: 1173491
         latitude: 33.58694
@@ -4278,6 +4413,7 @@ regions:
           - Haripur
           - Harīpur
           - Kharipur
+          - Харипур
         ascii_name: Haripur
         geonamesid: 1177107
         latitude: 33.99997
@@ -4318,7 +4454,8 @@ regions:
         latitude: 35.20583
         longitude: 71.87556
         name: Dīr
-        names_en: ~
+        names_en: 
+          - Dīr
         names_es: ~
         population: 29869
         timezone: Asia/Karachi
@@ -4357,7 +4494,8 @@ regions:
         latitude: 35.84222
         longitude: 71.78194
         name: Chitrāl
-        names_en: ~
+        names_en: 
+          - Chitrāl
         names_es: ~
         population: 0
         timezone: Asia/Karachi
@@ -4370,7 +4508,8 @@ regions:
         latitude: 34.14528
         longitude: 71.73139
         name: Chārsadda
-        names_en: ~
+        names_en: 
+          - Chārsadda
         names_es: ~
         population: 95319
         timezone: Asia/Karachi
@@ -4383,7 +4522,8 @@ regions:
         latitude: 34.61667
         longitude: 71.97139
         name: "Bat Khela"
-        names_en: ~
+        names_en: 
+          - "Bat Khela"
         names_es: ~
         population: 46079
         timezone: Asia/Karachi
@@ -4392,6 +4532,7 @@ regions:
           - Batagram
           - Batagrām
           - Batgram
+          - Batgran
         ascii_name: Batgram
         geonamesid: 1183105
         latitude: 34.68184
@@ -4431,7 +4572,8 @@ regions:
         latitude: 34.00583
         longitude: 71.93
         name: Amangarh
-        names_en: ~
+        names_en: 
+          - Amangarh
         names_es: ~
         population: 25723
         timezone: Asia/Karachi
@@ -4440,12 +4582,14 @@ regions:
           - Akora
           - "Akora Khattak"
           - "Akora Khāttak"
+          - Акора
         ascii_name: Akora
         geonamesid: 1184752
         latitude: 34.00361
         longitude: 72.12611
         name: Akora
-        names_en: ~
+        names_en: 
+          - Akora
         names_es: ~
         population: 23288
         timezone: Asia/Karachi
@@ -4482,7 +4626,8 @@ regions:
         latitude: 34.06333
         longitude: 71.99361
         name: Risālpur
-        names_en: ~
+        names_en: 
+          - Risālpur
         names_es: ~
         population: 37084
         timezone: Asia/Karachi
@@ -4496,7 +4641,9 @@ regions:
         latitude: 34.25222
         longitude: 71.96639
         name: Noorābād
-        names_en: ~
+        names_en: 
+          - Nooriabad
+          - Noorābād
         names_es: ~
         population: 1100
         timezone: Asia/Karachi
@@ -4524,7 +4671,9 @@ regions:
         timezone: Asia/Karachi
     geonamesid: 1168873
     name: "North West Frontier Province"
-    names_en: ~
+    names_en: 
+      - "North West Frontier Province"
+      - "North-West Frontier Province"
     names_es: ~
   - 
     ascii_name: Gilgit-Baltistan
@@ -4534,6 +4683,7 @@ regions:
           - Shardu
           - Skardo
           - Skardu
+          - Skārdu
         ascii_name: Skardu
         geonamesid: 1164709
         latitude: 35.30295
@@ -4586,6 +4736,7 @@ regions:
           - Chilas
           - Chilās
           - chlas
+          - چلاس
         ascii_name: Chilas
         geonamesid: 1181138
         latitude: 35.4104
@@ -4630,7 +4781,8 @@ regions:
         timezone: Asia/Karachi
     geonamesid: 1168878
     name: Gilgit-Baltistan
-    names_en: ~
+    names_en: 
+      - Gilgit-Baltistan
     names_es: ~
   - 
     ascii_name: "Federally Administered Tribal Areas"
@@ -4640,6 +4792,7 @@ regions:
           - Waha
           - Wana
           - Wano
+          - Wāha
         ascii_name: Wana
         geonamesid: 1162634
         latitude: 32.29889
@@ -4665,6 +4818,7 @@ regions:
           - Miram
           - "Miram Shah"
           - "Miram Shah Post"
+          - "Miram Shāh Post"
         ascii_name: "Miram Shah"
         geonamesid: 1170367
         latitude: 33.00861
@@ -4692,6 +4846,7 @@ regions:
           - Cherat
           - "Cherat Cantonement"
           - Cherāt
+          - "Cherāt Cantonement"
         ascii_name: Cherat
         geonamesid: 1181327
         latitude: 33.82331
@@ -4735,6 +4890,7 @@ regions:
           - Apozai
           - "Fort Sandeman"
           - "Fort Sanderman"
+          - Zhob
         ascii_name: Zhob
         geonamesid: 1162105
         latitude: 31.34111
@@ -4787,6 +4943,7 @@ regions:
           - Soorab
           - Sorab
           - Surab
+          - Sūrāb
         ascii_name: Surab
         geonamesid: 1164306
         latitude: 28.4916
@@ -4817,7 +4974,8 @@ regions:
         latitude: 29.5448
         longitude: 67.8764
         name: Sibi
-        names_en: ~
+        names_en: 
+          - Sibi
         names_es: ~
         population: 64069
         timezone: Asia/Karachi
@@ -4826,13 +4984,16 @@ regions:
           - Kotah
           - Kvetta
           - Kwatah
+          - Kweta
         ascii_name: Quetta
         geonamesid: 1167528
         latitude: 30.18722
         longitude: 67.0125
         name: Quetta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Quetta
+        names_es: 
+          - Quetta
         population: 733675
         timezone: Asia/Karachi
       - 
@@ -4840,6 +5001,7 @@ regions:
           - "Kila Saifulla"
           - "Killa Saifulla Bazar"
           - Killa-Saifulla
+          - "New Qila Saifullah"
         ascii_name: "Qila Saifullah"
         geonamesid: 1167550
         latitude: 30.7013
@@ -4868,12 +5030,14 @@ regions:
           - Pishin
           - pshy
           - Пишин
+          - پشی
         ascii_name: Pishin
         geonamesid: 1167821
         latitude: 30.58028
         longitude: 66.99611
         name: Pishin
-        names_en: ~
+        names_en: 
+          - Pishin
         names_es: ~
         population: 24239
         timezone: Asia/Karachi
@@ -4976,7 +5140,8 @@ regions:
         latitude: 29.8639
         longitude: 67.3293
         name: Mach
-        names_en: ~
+        names_en: 
+          - Mach
         names_es: ~
         population: 16930
         timezone: Asia/Karachi
@@ -5010,6 +5175,7 @@ regions:
           - Kharan
           - "Kharan Kalat"
           - "Kharon Kalat"
+          - Khārān
         ascii_name: Kharan
         geonamesid: 1174062
         latitude: 28.58333
@@ -5024,6 +5190,7 @@ regions:
           - Kalat
           - Kalāt
           - Kelat
+          - Khelat
         ascii_name: Kalat
         geonamesid: 1175296
         latitude: 29.03333
@@ -5038,6 +5205,7 @@ regions:
           - Jinwri
           - Jiunri
           - Jiwani
+          - Jiyuni
         ascii_name: Jiwani
         geonamesid: 1175712
         latitude: 25.04992
@@ -5078,12 +5246,14 @@ regions:
           - Hala
           - Halu
           - Hāla
+          - Khala
         ascii_name: Hala
         geonamesid: 1177278
         latitude: 25.81308
         longitude: 68.42273
         name: Hāla
-        names_en: ~
+        names_en: 
+          - Hāla
         names_es: ~
         population: 47915
         timezone: Asia/Karachi
@@ -5092,12 +5262,14 @@ regions:
           - Gvadar
           - Gwadar
           - Gwadur
+          - Gwādar
         ascii_name: Gwadar
         geonamesid: 1177446
         latitude: 25.12163
         longitude: 62.32541
         name: Gwādar
-        names_en: ~
+        names_en: 
+          - Gwadar
         names_es: ~
         population: 51901
         timezone: Asia/Karachi
@@ -5206,6 +5378,7 @@ regions:
           - Armabel
           - Armail
           - Armel
+          - Beila
         ascii_name: Bela
         geonamesid: 1182998
         latitude: 26.2271
@@ -5283,6 +5456,7 @@ regions:
           - Khuzdar
           - "Khuzdar Cantonment"
           - Khuzdār
+          - "Khuzdār Cantonment"
         ascii_name: Khuzdar
         geonamesid: 7082481
         latitude: 27.73838
@@ -5304,12 +5478,14 @@ regions:
           - "Rawala Kot"
           - Rawalkote
           - Rawlakot
+          - "Rāwala Kot"
         ascii_name: "Rawala Kot"
         geonamesid: 1161983
         latitude: 33.85785
         longitude: 73.76093
         name: "Rāwala Kot"
-        names_en: ~
+        names_en: 
+          - Rawlakot
         names_es: ~
         population: 50000
         timezone: Asia/Karachi
@@ -5330,6 +5506,7 @@ regions:
           - Mirpur
           - Mīrpur
           - "New Mirpur"
+          - "New Mīrpur"
         ascii_name: "New Mirpur"
         geonamesid: 1169027
         latitude: 33.14176
@@ -5344,12 +5521,15 @@ regions:
           - Musaffarabad
           - Musaffarābād
           - Muzafarabad
+          - Muzaffarabad
         ascii_name: Muzaffarabad
         geonamesid: 1169607
         latitude: 34.37
         longitude: 73.47111
         name: Muzaffarābād
-        names_en: ~
+        names_en: 
+          - Muzaffarabad
+          - Muzaffarābād
         names_es: ~
         population: 19750
         timezone: Asia/Karachi

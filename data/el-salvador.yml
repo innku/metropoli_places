@@ -2,8 +2,12 @@
 geonamesid: 3585968
 iso: SV
 name: "El Salvador"
-names_en: ~
-names_es: ~
+names_en: 
+  - "El Salvador"
+  - "Republic of El Salvador"
+names_es: 
+  - "El Salvador"
+  - "República de El Salvador"
 regions: 
   - 
     ascii_name: "Departamento de Usulutan"
@@ -13,6 +17,7 @@ regions:
           - Usulutan
           - Usulutane
           - Usulután
+          - Усулутане
         ascii_name: Usulutan
         geonamesid: 3582883
         latitude: 13.35
@@ -240,6 +245,7 @@ regions:
           - Acajutla
           - Akakhutla
           - "Puerto Acajutla"
+          - Акахутла
         ascii_name: Acajutla
         geonamesid: 3587498
         latitude: 13.59278
@@ -321,7 +327,8 @@ regions:
         latitude: 13.99417
         longitude: -89.55972
         name: "Santa Ana"
-        names_en: ~
+        names_en: 
+          - "Santa Ana"
         names_es: ~
         population: 176661
         timezone: America/El_Salvador
@@ -409,12 +416,14 @@ regions:
           - Sojapango
           - Soyapango
           - Soyopango
+          - Сояпанго
         ascii_name: Soyapango
         geonamesid: 3583096
         latitude: 13.73472
         longitude: -89.15139
         name: Soyapango
-        names_en: ~
+        names_en: 
+          - Soyapango
         names_es: ~
         population: 329708
         timezone: America/El_Salvador
@@ -434,13 +443,16 @@ regions:
           - Salvador
           - "San Salbador"
           - "San Salvador"
+          - "San Salvadoras"
         ascii_name: "San Salvador"
         geonamesid: 3583361
         latitude: 13.68935
         longitude: -89.18718
         name: "San Salvador"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Salvador"
+        names_es: 
+          - "San Salvador"
         population: 525990
         timezone: America/El_Salvador
       - 
@@ -483,12 +495,14 @@ regions:
           - Mejicanos
           - Mekhikanos
           - Mexicanos
+          - Мехиканос
         ascii_name: Mejicanos
         geonamesid: 3584399
         latitude: 13.74028
         longitude: -89.21306
         name: Mejicanos
-        names_en: ~
+        names_en: 
+          - Mejicanos
         names_es: ~
         population: 160317
         timezone: America/El_Salvador
@@ -537,12 +551,14 @@ regions:
           - Del'gado
           - Delgado
           - "Villa Delcado"
+          - "Villa Delgado"
         ascii_name: Delgado
         geonamesid: 3586814
         latitude: 13.72417
         longitude: -89.17028
         name: Delgado
-        names_en: ~
+        names_en: 
+          - Delgado
         names_es: ~
         population: 71594
         timezone: America/El_Salvador
@@ -579,7 +595,8 @@ regions:
         latitude: 13.80722
         longitude: -89.17917
         name: Apopa
-        names_en: ~
+        names_en: 
+          - Apopa
         names_es: ~
         population: 112158
         timezone: America/El_Salvador
@@ -867,6 +884,7 @@ regions:
           - "La Union"
           - "La Unión"
           - "San Carlos de La Union"
+          - "San Carlos de La Unión"
         ascii_name: "La Union"
         geonamesid: 3584772
         latitude: 13.33694
@@ -1027,6 +1045,7 @@ regions:
           - Kesal'tepeke
           - Quezaltepeque
           - Quezaltepque
+          - Кесальтепеке
         ascii_name: Quezaltepeque
         geonamesid: 3583981
         latitude: 13.835
@@ -1052,13 +1071,16 @@ regions:
           - "Ciudad de Nueva San Salvador"
           - "La Ciudad de Nueva San Salvador"
           - Nuehva-San-Sal'vador
+          - "Nueva San Salvador"
         ascii_name: "Nueva San Salvador"
         geonamesid: 3584257
         latitude: 13.67694
         longitude: -89.27972
         name: "Nueva San Salvador"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santa Tecla"
+        names_es: 
+          - "Santa Tecla"
         population: 124694
         timezone: America/El_Salvador
       - 
@@ -1213,6 +1235,7 @@ regions:
           - Chocoaique
           - Victoria
           - "Villa Victoria"
+          - "Villa Victorias"
         ascii_name: Victoria
         geonamesid: 3582835
         latitude: 13.95
@@ -1227,6 +1250,7 @@ regions:
           - Sensuntepeque
           - Sensuntepque
           - Sensutepeke
+          - Сенсутепеке
         ascii_name: Sensuntepeque
         geonamesid: 3583158
         latitude: 13.86667
@@ -1319,6 +1343,7 @@ regions:
           - Achuachapan
           - Ahuachapan
           - Ahuachapán
+          - Ачуачапан
         ascii_name: Ahuachapan
         geonamesid: 3587426
         latitude: 13.92139

@@ -2,8 +2,11 @@
 geonamesid: 69543
 iso: YE
 name: Yemen
-names_en: ~
-names_es: ~
+names_en: 
+  - Yemen
+  - "Republic of Yemen"
+names_es: 
+  - Yemen
 regions: 
   - 
     ascii_name: "Muhafazat Ta`izz"
@@ -13,6 +16,7 @@ regions:
           - Ta'izz
           - Ta`izz
           - Taiz
+          - Taizz
         ascii_name: Ta`izz
         geonamesid: 70225
         latitude: 13.57952
@@ -34,6 +38,7 @@ regions:
           - Attak
           - "`Ataq"
           - عتق
+          - ‘Ataq
         ascii_name: "`Ataq"
         geonamesid: 77726
         latitude: 14.55
@@ -55,6 +60,7 @@ regions:
           - Saiyan
           - Saiyān
           - Sayyan
+          - Sayyān
         ascii_name: Sayyan
         geonamesid: 70979
         latitude: 15.17177
@@ -89,6 +95,7 @@ regions:
           - Sa`da
           - Sa`dah
           - Saada
+          - Sa‘da
         ascii_name: Sa`dah
         geonamesid: 71334
         latitude: 16.94021
@@ -110,6 +117,7 @@ regions:
           - "Al Jabi"
           - "Al Jabin"
           - "Al Jaby"
+          - "Al Jabī"
         ascii_name: "Al Jabin"
         geonamesid: 30789
         latitude: 14.70401
@@ -138,6 +146,7 @@ regions:
           - "Al Mahwit"
           - "Al Maḩwīt"
           - El-Mahwit
+          - El-Maḩwīt
         ascii_name: "Al Mahwit"
         geonamesid: 78977
         latitude: 15.47007
@@ -159,6 +168,7 @@ regions:
           - "Al Hazm"
           - "Al Ḩazm"
           - El-Hazm
+          - El-Ḥazm
         ascii_name: "Al Hazm"
         geonamesid: 79455
         latitude: 16.16337
@@ -180,6 +190,7 @@ regions:
           - Kallansiya
           - Qalansiya
           - Qalansiyah
+          - Qalansiyyah
         ascii_name: Qulansiyah
         geonamesid: 71799
         latitude: 12.68333
@@ -206,6 +217,7 @@ regions:
           - Bilad-as-Sulyan
           - Hadibo
           - Hadiboh
+          - Hadibu
         ascii_name: Hadiboh
         geonamesid: 75427
         latitude: 12.65
@@ -220,12 +232,14 @@ regions:
           - "Al Mukalla"
           - "Al Mukallā"
           - Al'-Mukalla
+          - Al-Mukalla
         ascii_name: "Al Mukalla"
         geonamesid: 78754
         latitude: 14.54248
         longitude: 49.12424
         name: "Al Mukallā"
-        names_en: ~
+        names_en: 
+          - "Al Mukalla"
         names_es: ~
         population: 258132
         timezone: Asia/Aden
@@ -241,6 +255,7 @@ regions:
           - Damar
           - Dhamar
           - Dhamār
+          - ذمار
         ascii_name: Dhamar
         geonamesid: 76184
         latitude: 14.54274
@@ -262,6 +277,7 @@ regions:
           - "Al Ghaydah"
           - "Al Ghayzah"
           - "Al Ghayz̧ah"
+          - "Al Ghayḑah"
         ascii_name: "Al Ghaydah"
         geonamesid: 79700
         latitude: 16.20787
@@ -283,6 +299,7 @@ regions:
           - Zabid
           - Zabīd
           - Zebid
+          - Забид
         ascii_name: Zabid
         geonamesid: 69500
         latitude: 14.1951
@@ -297,6 +314,7 @@ regions:
           - "Bait al Faqih"
           - "Bait al Faqīh"
           - "Bayt al Fakih Ibn `Udjayl"
+          - "Bayt al Fakih al-Saghir"
         ascii_name: "Bayt al Faqih"
         geonamesid: 76991
         latitude: 14.51635
@@ -311,6 +329,7 @@ regions:
           - Badjil
           - Bagil
           - Bajil
+          - Bâdjil
         ascii_name: Bajil
         geonamesid: 77408
         latitude: 15.05835
@@ -325,6 +344,7 @@ regions:
           - "Al Hudaydah"
           - "Al Ḩudaydah"
           - El-Hodeidah
+          - El-Ḥodeidah
         ascii_name: "Al Hudaydah"
         geonamesid: 79415
         latitude: 14.79781
@@ -346,6 +366,7 @@ regions:
           - "Al Bayda'"
           - "Al Bayḑā’"
           - "Al Beidha"
+          - Al-Baida
         ascii_name: "Al Bayda'"
         geonamesid: 79836
         latitude: 13.98278
@@ -367,18 +388,22 @@ regions:
           - Adem
           - Aden
           - Adeno
+          - Adén
         ascii_name: Aden
         geonamesid: 415189
         latitude: 12.77944
         longitude: 45.03667
         name: Aden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aden
+        names_es: 
+          - Adén
         population: 550602
         timezone: Asia/Aden
     geonamesid: 80412
     name: Aden
-    names_en: ~
+    names_en: 
+      - Aden
     names_es: ~
   - 
     ascii_name: "Muhafazat Abyan"
@@ -388,6 +413,7 @@ regions:
           - "Az Zanjabar"
           - "Az Zanjabār"
           - Zanjibar
+          - Zinjibar
         ascii_name: Zinjibar
         geonamesid: 69426
         latitude: 13.12871
@@ -402,6 +428,7 @@ regions:
           - "Al Jawf"
           - "Al Jouf"
           - Al-Jauf
+          - Jawf
         ascii_name: "Jawf al Maqbabah"
         geonamesid: 74219
         latitude: 13.83833
@@ -423,6 +450,7 @@ regions:
           - "Ad Dali`"
           - "Adh Dhala`"
           - "Adh Dhāla‘"
+          - "Aḑ Ḑāli‘"
         ascii_name: Dhalie
         geonamesid: 80384
         latitude: 13.69572
@@ -444,6 +472,7 @@ regions:
           - "`Amran"
           - "`Umran"
           - عمران
+          - ‘Amrān
         ascii_name: "`Amran"
         geonamesid: 78428
         latitude: 15.6594
@@ -455,7 +484,8 @@ regions:
         timezone: Asia/Aden
     geonamesid: 6201194
     name: Omran
-    names_en: ~
+    names_en: 
+      - Omran
     names_es: ~
   - 
     ascii_name: "Muhafazat Hajjah"
@@ -465,6 +495,7 @@ regions:
           - Hage
           - Haggah
           - Haggiah
+          - Hajja
         ascii_name: Hajjah
         geonamesid: 75337
         latitude: 15.69425
@@ -486,6 +517,7 @@ regions:
           - Jarim
           - Yarim
           - Yarīm
+          - Yerim
         ascii_name: Yarim
         geonamesid: 69559
         latitude: 14.29804
@@ -511,6 +543,7 @@ regions:
           - "Dhi Sifal"
           - "Dhi Sufal"
           - "Dhi as Sufal"
+          - "Dhi es-Sifal"
         ascii_name: "Dhi Sufal"
         geonamesid: 76154
         latitude: 13.83446
@@ -532,6 +565,7 @@ regions:
           - "Al Hawtah"
           - "Al Ḩawţah"
           - Lahaj
+          - Lahej
         ascii_name: Lahij
         geonamesid: 73560
         latitude: 13.05667
@@ -553,13 +587,16 @@ regions:
           - San"o
           - San'a
           - San'a'
+          - San'ah
         ascii_name: Sanaa
         geonamesid: 71137
         latitude: 15.35472
         longitude: 44.20667
         name: Sanaa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sanaa
+        names_es: 
+          - Saná
         population: 1937451
         timezone: Asia/Aden
     geonamesid: 6940571

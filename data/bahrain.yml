@@ -2,8 +2,11 @@
 geonamesid: 290291
 iso: BH
 name: Bahrain
-names_en: ~
-names_es: ~
+names_en: 
+  - Bahrain
+  - "Kingdom of Bahrain"
+names_es: 
+  - Bahréin
 regions: 
   - 
     ascii_name: Muharraq
@@ -13,12 +16,14 @@ regions:
           - "Al Muharrak"
           - "Al Muharraq"
           - "Al Muḩarraq"
+          - Al'-Mukharrak
         ascii_name: "Al Muharraq"
         geonamesid: 290332
         latitude: 26.25722
         longitude: 50.61194
         name: "Al Muḩarraq"
-        names_en: ~
+        names_en: 
+          - "Al Muharraq"
         names_es: ~
         population: 97458
         timezone: Asia/Bahrain
@@ -27,6 +32,7 @@ regions:
           - "Al Hadd"
           - "Al Hidd"
           - "Al Ḩadd"
+          - "Al Ḩidd"
         ascii_name: "Al Hadd"
         geonamesid: 290363
         latitude: 26.24556
@@ -38,7 +44,8 @@ regions:
         timezone: Asia/Bahrain
     geonamesid: 290333
     name: Muharraq
-    names_en: ~
+    names_en: 
+      - Muharraq
     names_es: ~
   - 
     ascii_name: "Capital Governorate"
@@ -48,6 +55,7 @@ regions:
           - "Djidd Hafs"
           - "Djidd Ḥafṣ"
           - "Jadd Hafs"
+          - "Jid Hafs"
         ascii_name: "Jidd Hafs"
         geonamesid: 290215
         latitude: 26.21861
@@ -62,13 +70,16 @@ regions:
           - "Al Manama"
           - "Al Manamah"
           - "Al Manāma"
+          - "Al Manāmah"
         ascii_name: Manama
         geonamesid: 290340
         latitude: 26.21536
         longitude: 50.5832
         name: Manama
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Manama
+        names_es: 
+          - Manama
         population: 147074
         timezone: Asia/Bahrain
     geonamesid: 7090954
@@ -90,6 +101,7 @@ regions:
           - Sitra
           - Sitrah
           - Ситра
+          - سترة
         ascii_name: Sitrah
         geonamesid: 290104
         latitude: 26.15472
@@ -104,6 +116,7 @@ regions:
           - Isa
           - "Isa Town"
           - "Madinat `Isa"
+          - "Madīnat ‘Īsá"
         ascii_name: "Madinat `Isa"
         geonamesid: 290187
         latitude: 26.17361
@@ -138,6 +151,7 @@ regions:
           - "Hamad Town"
           - "Madinat Hamad"
           - "Madīnat Ḩamad"
+          - "madinat hamad"
         ascii_name: "Madinat Hamad"
         geonamesid: 290247
         latitude: 26.11528
@@ -152,6 +166,7 @@ regions:
           - "Dar Chulaib"
           - "Dar Kulaib"
           - "Dar Kulayb"
+          - "Dār Kulaib"
         ascii_name: "Dar Kulayb"
         geonamesid: 290269
         latitude: 26.06861

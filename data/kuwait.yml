@@ -2,8 +2,11 @@
 geonamesid: 285570
 iso: KW
 name: Kuwait
-names_en: ~
-names_es: ~
+names_en: 
+  - Kuwait
+  - "State of Kuwait"
+names_es: 
+  - Kuwait
 regions: 
   - 
     ascii_name: "Muhafazat Hawalli"
@@ -34,6 +37,7 @@ regions:
           - "Al Mahbulah"
           - "Al Mahbūlah"
           - Al-Mahabulah
+          - Al-Mahabūlah
         ascii_name: "Al Mahbulah"
         geonamesid: 285782
         latitude: 29.145
@@ -48,6 +52,7 @@ regions:
           - "Al Fahahil"
           - "Al Faḩāḩīl"
           - "Al Fuhaihil"
+          - "Al Fuhayhil"
         ascii_name: "Al Fahahil"
         geonamesid: 285811
         latitude: 29.0825
@@ -62,6 +67,7 @@ regions:
           - "Al Farwania"
           - "Al Farwaniyah"
           - "Al Farwānīyah"
+          - Al-Farawaniyah
         ascii_name: "Al Farwaniyah"
         geonamesid: 285815
         latitude: 29.2775
@@ -83,6 +89,7 @@ regions:
           - "Az Zaur"
           - "Az Zawr"
           - "Az Zor"
+          - "Failakka Village"
         ascii_name: "Az Zawr"
         geonamesid: 285673
         latitude: 29.4425
@@ -97,13 +104,18 @@ regions:
           - "Al Kuwait"
           - "Al Kuwayt"
           - Al-Kuwait
+          - "Ciudad de Kuwait"
         ascii_name: Kuwait
         geonamesid: 285787
         latitude: 29.36972
         longitude: 47.97833
         name: Kuwait
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Kuwait City"
+          - Kuwait
+        names_es: 
+          - "Ciudad de Kuwait"
+          - Kuwait
         population: 60064
         timezone: Asia/Kuwait
     geonamesid: 285788
@@ -118,12 +130,14 @@ regions:
           - "Al Jahara"
           - "Al Jahra"
           - "Al Jahra'"
+          - "Al Jahrah"
         ascii_name: "Al Jahra'"
         geonamesid: 285799
         latitude: 29.3375
         longitude: 47.65806
         name: "Al Jahrā’"
-        names_en: ~
+        names_en: 
+          - "Al Jahra"
         names_es: ~
         population: 24281
         timezone: Asia/Kuwait
@@ -136,7 +150,8 @@ regions:
     cities: []
     geonamesid: 285816
     name: "Al Farwaniyah"
-    names_en: ~
+    names_en: 
+      - "Al Farwaniyah"
     names_es: ~
   - 
     ascii_name: "Muhafazat al Ahmadi"
@@ -146,6 +161,7 @@ regions:
           - Al-Riqqah
           - "Ar Riqqah"
           - Reqqa
+          - aalriqat
         ascii_name: "Ar Riqqah"
         geonamesid: 285728
         latitude: 29.14583
@@ -160,6 +176,7 @@ regions:
           - "Al Manjaf"
           - "Al Manqaf"
           - Al-Mangaf
+          - Manqaf
         ascii_name: "Al Manqaf"
         geonamesid: 285778
         latitude: 29.09611
@@ -174,6 +191,7 @@ regions:
           - "Al Fantas"
           - "Al Fintas"
           - "Al Fintass"
+          - "Al Fintās"
         ascii_name: "Al Fintas"
         geonamesid: 285812
         latitude: 29.17389

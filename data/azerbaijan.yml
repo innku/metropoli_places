@@ -2,8 +2,11 @@
 geonamesid: 587116
 iso: AZ
 name: Azerbaijan
-names_en: ~
-names_es: ~
+names_en: 
+  - Azerbaijan
+  - "Republic of Azerbaijan"
+names_es: 
+  - Azerbaiyán
 regions: 
   - 
     ascii_name: "Zhdanovskiy Rayon"
@@ -33,6 +36,7 @@ regions:
           - Icari
           - Ikari
           - Zangelan
+          - Zangilak
         ascii_name: Zangilan
         geonamesid: 146901
         latitude: 39.08222
@@ -47,6 +51,7 @@ regions:
           - Mincivan
           - Mindshewan
           - Mindzhevan'
+          - Mindzhevan’
         ascii_name: Mincivan
         geonamesid: 147504
         latitude: 39.03
@@ -68,6 +73,7 @@ regions:
           - Iardymly
           - Jardymly
           - Yardimli
+          - Yardymly
         ascii_name: Yardimli
         geonamesid: 146961
         latitude: 38.92056
@@ -96,6 +102,7 @@ regions:
           - Sal'jan
           - Sal'yany
           - Salian
+          - Salyan
         ascii_name: Salyan
         geonamesid: 147271
         latitude: 39.595
@@ -110,6 +117,7 @@ regions:
           - Karachala
           - Karachalinskaya
           - Qaracala
+          - Qaraçala
         ascii_name: Qaracala
         geonamesid: 147307
         latitude: 39.80778
@@ -131,12 +139,14 @@ regions:
           - Petropavlovka
           - Petropavlovskoye
           - SABIRABAD
+          - Sabirabad
         ascii_name: Sabirabad
         geonamesid: 585187
         latitude: 40.01278
         longitude: 48.47889
         name: Sabirabad
-        names_en: ~
+        names_en: 
+          - Sabirabad
         names_es: ~
         population: 28075
         timezone: Asia/Baku
@@ -170,6 +180,7 @@ regions:
           - Bilasuvar
           - Biləsuvar
           - Pushkin
+          - Pushkino
         ascii_name: Pushkino
         geonamesid: 148340
         latitude: 39.45833
@@ -191,6 +202,7 @@ regions:
           - Neftcala
           - Neftechala
           - Neftçala
+          - "Nephte Chala"
         ascii_name: Neftcala
         geonamesid: 147425
         latitude: 39.35861
@@ -205,6 +217,7 @@ regions:
           - Khilly
           - Xilli
           - Xıllı
+          - Yukhary-Khylly
         ascii_name: Xilli
         geonamesid: 147784
         latitude: 39.42667
@@ -219,6 +232,7 @@ regions:
           - Bank
           - Banka
           - Bankov
+          - Bankə
         ascii_name: "Severo-Vostotchnyi Bank"
         geonamesid: 148375
         latitude: 39.42
@@ -254,6 +268,7 @@ regions:
           - Chay-Shakhbuz
           - Sahbuz
           - Shahbuz
+          - Shakhbuz
         ascii_name: Sahbuz
         geonamesid: 147278
         latitude: 39.40722
@@ -282,6 +297,7 @@ regions:
           - Ordoubat
           - Ordubad
           - Ordubat
+          - Ордубад
         ascii_name: Ordubad
         geonamesid: 147368
         latitude: 38.90806
@@ -296,6 +312,7 @@ regions:
           - Nachitschewan
           - Nakhchyvan
           - Nakhicevan
+          - Nakhichevan'
         ascii_name: Naxcivan
         geonamesid: 147429
         latitude: 39.20889
@@ -310,6 +327,7 @@ regions:
           - Culfa
           - Dzhul'fa
           - Dzhul’fa
+          - Jolfa
         ascii_name: Julfa
         geonamesid: 148251
         latitude: 38.9558
@@ -321,8 +339,10 @@ regions:
         timezone: Asia/Baku
     geonamesid: 147435
     name: Nakhichevan
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Nakhichevan
+    names_es: 
+      - "República autónoma de Najicheván"
   - 
     ascii_name: "Masalli Rayonu"
     cities: 
@@ -331,6 +351,7 @@ regions:
           - Masali
           - Masalli
           - Masally
+          - Masallı
         ascii_name: Masalli
         geonamesid: 147552
         latitude: 39.03417
@@ -345,6 +366,7 @@ regions:
           - Baradigyakh
           - Boradigah
           - Boradigyakh
+          - Boradygia
         ascii_name: Boradigah
         geonamesid: 148323
         latitude: 38.92778
@@ -405,6 +427,7 @@ regions:
           - Abdallyar
           - Abdalyar
           - Berdzor
+          - Datschin
         ascii_name: Lacin
         geonamesid: 147625
         latitude: 39.59881
@@ -426,6 +449,7 @@ regions:
           - Ghubat'ly
           - Ghubat’ly
           - Koubatly
+          - Kubatlu
         ascii_name: Qubadli
         geonamesid: 147305
         latitude: 39.34389
@@ -447,6 +471,7 @@ regions:
           - Emishti
           - Imishli
           - Imishly
+          - Imisli
         ascii_name: Imisli
         geonamesid: 147982
         latitude: 39.86972
@@ -468,6 +493,7 @@ regions:
           - Geradiz
           - Goradiz
           - Gorodiz
+          - Horadiz
         ascii_name: Horadiz
         geonamesid: 148003
         latitude: 39.44778
@@ -489,6 +515,7 @@ regions:
           - Cabrayil
           - Cəbrayıl
           - Djebrail
+          - Dzhebrail
         ascii_name: Jebrail
         geonamesid: 148141
         latitude: 39.4
@@ -510,6 +537,7 @@ regions:
           - Geytepe
           - Goytapa
           - Göytəpə
+          - Prishib
         ascii_name: Prishibinskoye
         geonamesid: 146862
         latitude: 39.11667
@@ -524,6 +552,7 @@ regions:
           - Astrahanka
           - Astrakhan-Bazar
           - Astrakhanka
+          - Calilabad
         ascii_name: Dzhalilabad
         geonamesid: 148290
         latitude: 39.20889
@@ -545,6 +574,7 @@ regions:
           - Kijaba
           - Kijoba
           - Kijäba
+          - Kizhaba
         ascii_name: Kijoba
         geonamesid: 147727
         latitude: 38.53278
@@ -580,6 +610,7 @@ regions:
           - Ay-Khodzhaly
           - Khodgalou
           - Khodzhalv
+          - Khodzhaly
         ascii_name: Xocali
         geonamesid: 147774
         latitude: 39.91111
@@ -594,6 +625,7 @@ regions:
           - Asgaran
           - Askeran
           - Askyaran
+          - Əsgəran
         ascii_name: Askyaran
         geonamesid: 148450
         latitude: 39.93667
@@ -615,12 +647,14 @@ regions:
           - AGDZHABEDI
           - Agcabadi
           - Agdzhabedi
+          - Agdzhabedy
         ascii_name: Agdzhabedy
         geonamesid: 587384
         latitude: 40.05278
         longitude: 47.46139
         name: Agdzhabedy
-        names_en: ~
+        names_en: 
+          - Ağcabǝdi
         names_es: ~
         population: 34989
         timezone: Asia/Baku
@@ -636,6 +670,7 @@ regions:
           - Agdam
           - Aghdam
           - Ağdam
+          - Агдам
         ascii_name: Agdam
         geonamesid: 148619
         latitude: 39.99306
@@ -668,6 +703,7 @@ regions:
           - "Ali Bairamly"
           - "Ali Bayramli"
           - Ali-Bairamli
+          - Ali-Bajramly
         ascii_name: Zubovka
         geonamesid: 148565
         latitude: 39.93194
@@ -689,6 +725,7 @@ regions:
           - Lankaran
           - Lencoran
           - Lenkoran'
+          - Länkäran
         ascii_name: ~
         geonamesid: 147622
         latitude: 38.72262
@@ -710,12 +747,14 @@ regions:
           - Shoushi
           - Shusha
           - Shushe
+          - Shushi
         ascii_name: Shushi
         geonamesid: 147105
         latitude: 39.75639
         longitude: 46.75111
         name: Shushi
-        names_en: ~
+        names_en: 
+          - Shusha
         names_es: ~
         population: 18662
         timezone: Asia/Baku
@@ -731,12 +770,14 @@ regions:
           - "Mir Bashir"
           - Mirbashir
           - Mirbäshir
+          - TERTER
         ascii_name: Terter
         geonamesid: 584871
         latitude: 40.345
         longitude: 46.92889
         name: Terter
-        names_en: ~
+        names_en: 
+          - Tǝrtǝr
         names_es: ~
         population: 18185
         timezone: Asia/Baku
@@ -745,12 +786,14 @@ regions:
           - Agdara
           - Ağdǝrǝ
           - Ağdərə
+          - MARDAKERT
         ascii_name: Martakert
         geonamesid: 587379
         latitude: 40.21528
         longitude: 46.81278
         name: Martakert
-        names_en: ~
+        names_en: 
+          - Ağdǝrǝ
         names_es: ~
         population: 10167
         timezone: Asia/Baku
@@ -766,13 +809,16 @@ regions:
           - Chankaendi
           - Chankändi
           - Hankendi
+          - Khankendy
         ascii_name: ~
         geonamesid: 146970
         latitude: 39.8299
         longitude: 46.7597
         name: Xankǝndi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Stepanakert
+        names_es: 
+          - Stepanakert
         population: 53100
         timezone: Asia/Baku
     geonamesid: 409421
@@ -787,6 +833,7 @@ regions:
           - Martouni
           - Martuni
           - "Novyy Karanlug"
+          - Xocavand
         ascii_name: "Novyy Karanlug"
         geonamesid: 146969
         latitude: 39.79528
@@ -801,6 +848,7 @@ regions:
           - "Karmir Shouka"
           - "Karmir Shuka"
           - "Krasnyy Bazar"
+          - "Qirmizi Bazar"
         ascii_name: "Qirmizi Bazar"
         geonamesid: 147695
         latitude: 39.67583
@@ -815,6 +863,7 @@ regions:
           - Gadrut
           - Hadrout
           - Hadrut
+          - Гадрут
         ascii_name: Hadrut
         geonamesid: 148105
         latitude: 39.51667
@@ -836,12 +885,14 @@ regions:
           - ZARDOB
           - Zardab
           - Zardob
+          - Zǝrdab
         ascii_name: Zardob
         geonamesid: 584586
         latitude: 40.21833
         longitude: 47.70833
         name: Zardob
-        names_en: ~
+        names_en: 
+          - Zǝrdab
         names_es: ~
         population: 10612
         timezone: Asia/Baku
@@ -857,12 +908,14 @@ regions:
           - Sakataly
           - ZAKATALY
           - Zakatali
+          - Zakatalsk
         ascii_name: Zaqatala
         geonamesid: 584596
         latitude: 41.63361
         longitude: 46.64333
         name: Zaqatala
-        names_en: ~
+        names_en: 
+          - Zaqatala
         names_es: ~
         population: 18277
         timezone: Asia/Baku
@@ -876,7 +929,8 @@ regions:
         latitude: 41.48224
         longitude: 46.63528
         name: Əliabad
-        names_en: ~
+        names_en: 
+          - Əliabad
         names_es: ~
         population: 9103
         timezone: Asia/Baku
@@ -897,7 +951,8 @@ regions:
         latitude: 40.62528
         longitude: 46.97556
         name: Aran
-        names_en: ~
+        names_en: 
+          - Aran
         names_es: ~
         population: 6724
         timezone: Asia/Baku
@@ -913,12 +968,14 @@ regions:
           - Bartashen
           - OGUZ
           - Oguz
+          - Oğuz
         ascii_name: Oguz
         geonamesid: 585333
         latitude: 41.07083
         longitude: 47.45833
         name: Oğuz
-        names_en: ~
+        names_en: 
+          - Oğuz
         names_es: ~
         population: 6600
         timezone: Asia/Baku
@@ -934,12 +991,14 @@ regions:
           - UDZHARY
           - Ucar
           - Udshary
+          - Udzhar
         ascii_name: Ucar
         geonamesid: 584791
         latitude: 40.51833
         longitude: 47.65417
         name: Ucar
-        names_en: ~
+        names_en: 
+          - Ucar
         names_es: ~
         population: 15741
         timezone: Asia/Baku
@@ -955,12 +1014,14 @@ regions:
           - Tauz
           - Tavus
           - Tovuz
+          - Тауз
         ascii_name: Tovuz
         geonamesid: 584821
         latitude: 40.99222
         longitude: 45.62889
         name: Tovuz
-        names_en: ~
+        names_en: 
+          - Tovuz
         names_es: ~
         population: 12626
         timezone: Asia/Baku
@@ -976,12 +1037,14 @@ regions:
           - SHEMAKHA
           - Samaxi
           - Schemacha
+          - Shamakhy
         ascii_name: Samaxi
         geonamesid: 585156
         latitude: 40.63028
         longitude: 48.64139
         name: Şamaxı
-        names_en: ~
+        names_en: 
+          - Şamaxı
         names_es: ~
         population: 29403
         timezone: Asia/Baku
@@ -997,12 +1060,14 @@ regions:
           - "Bas Goeynuek"
           - "Bas Goynuk"
           - "Bas Koynuk"
+          - "Bash Gejnjuk"
         ascii_name: "Bas Goynuk"
         geonamesid: 587045
         latitude: 41.32278
         longitude: 47.11333
         name: "Baş Göynük"
-        names_en: ~
+        names_en: 
+          - "Baş Göynük"
         names_es: ~
         population: 1658
         timezone: Asia/Baku
@@ -1018,12 +1083,14 @@ regions:
           - Anino
           - Annenfel'd
           - Annenfel’d
+          - Annino
         ascii_name: Shamkhor
         geonamesid: 585152
         latitude: 40.82972
         longitude: 46.01889
         name: Shamkhor
-        names_en: ~
+        names_en: 
+          - Şǝmkir
         names_es: ~
         population: 35421
         timezone: Asia/Baku
@@ -1032,12 +1099,14 @@ regions:
           - DZEGAM
           - Dzagam
           - Dzegam
+          - Dzegan
         ascii_name: "Star Agozam"
         geonamesid: 586692
         latitude: 40.9033
         longitude: 45.88564
         name: "Star Agozam"
-        names_en: ~
+        names_en: 
+          - Zǝyǝm
         names_es: ~
         population: 7442
         timezone: Asia/Baku
@@ -1046,12 +1115,14 @@ regions:
           - DALLJAR
           - Dalilar
           - Dallyar
+          - Dolyar
         ascii_name: Dolyar
         geonamesid: 586792
         latitude: 40.86278
         longitude: 46.03493
         name: Dolyar
-        names_en: ~
+        names_en: 
+          - Dǝlilǝr
         names_es: ~
         population: 4399
         timezone: Asia/Baku
@@ -1074,6 +1145,7 @@ regions:
           - Kutkashen
           - Kutkashin
           - Qabala
+          - Qutqashen
         ascii_name: Qutqashen
         geonamesid: 585231
         latitude: 40.98139
@@ -1099,7 +1171,8 @@ regions:
         latitude: 41.63111
         longitude: 48.42667
         name: Samur
-        names_en: ~
+        names_en: 
+          - Samur
         names_es: ~
         population: 1760
         timezone: Asia/Baku
@@ -1108,12 +1181,14 @@ regions:
           - KUSARY
           - Kusary
           - Qusar
+          - КУСАРЫ
         ascii_name: Qusar
         geonamesid: 585220
         latitude: 41.42639
         longitude: 48.43556
         name: Qusar
-        names_en: ~
+        names_en: 
+          - Qusar
         names_es: ~
         population: 16022
         timezone: Asia/Baku
@@ -1129,12 +1204,14 @@ regions:
           - KUBA
           - Kuba
           - Kuwa
+          - Quba
         ascii_name: Quba
         geonamesid: 585221
         latitude: 41.35972
         longitude: 48.5125
         name: Quba
-        names_en: ~
+        names_en: 
+          - Quba
         names_es: ~
         population: 22405
         timezone: Asia/Baku
@@ -1150,12 +1227,15 @@ regions:
           - Elenendorf
           - Gjojgjol'
           - Khanlar
+          - Kol-Yelendorf
         ascii_name: Xanlar
         geonamesid: 584716
         latitude: 40.58694
         longitude: 46.31583
         name: Xanlar
-        names_en: ~
+        names_en: 
+          - Khanlar
+          - Xanlar
         names_es: ~
         population: 17816
         timezone: Asia/Baku
@@ -1171,12 +1251,14 @@ regions:
           - KHUDAT
           - Khudaf
           - Khudat
+          - Xudat
         ascii_name: Xudat
         geonamesid: 584715
         latitude: 41.62806
         longitude: 48.68278
         name: Xudat
-        names_en: ~
+        names_en: 
+          - Xudat
         names_es: ~
         population: 13625
         timezone: Asia/Baku
@@ -1185,12 +1267,14 @@ regions:
           - Chatschmas
           - KHACHMAS
           - "Kegna Khachmas"
+          - Kekhna-Khachmaz
         ascii_name: Xacmaz
         geonamesid: 584717
         latitude: 41.47083
         longitude: 48.80972
         name: Xaçmaz
-        names_en: ~
+        names_en: 
+          - Xaçmaz
         names_es: ~
         population: 37175
         timezone: Asia/Baku
@@ -1206,12 +1290,14 @@ regions:
           - KEL'BADZHAR
           - Kalbacar
           - Kalbajar
+          - Kel'badzhar
         ascii_name: Kerbakhiar
         geonamesid: 586268
         latitude: 40.10667
         longitude: 46.03833
         name: Kerbakhiar
-        names_en: ~
+        names_en: 
+          - Kǝlbǝcǝr
         names_es: ~
         population: 8400
         timezone: Asia/Baku
@@ -1227,12 +1313,14 @@ regions:
           - Agkeynak
           - Agkëynak
           - KAZAKH
+          - Kasach
         ascii_name: Qazax
         geonamesid: 585226
         latitude: 41.09333
         longitude: 45.36611
         name: Qazax
-        names_en: ~
+        names_en: 
+          - Qazax
         names_es: ~
         population: 18903
         timezone: Asia/Baku
@@ -1248,12 +1336,14 @@ regions:
           - Kyzylgadzhily
           - Kyzylgadzhyly
           - Qizilhacili
+          - Qızılhacılı
         ascii_name: Qizilhacili
         geonamesid: 585666
         latitude: 40.57456
         longitude: 46.84098
         name: Qızılhacılı
-        names_en: ~
+        names_en: 
+          - Qızılhacılı
         names_es: ~
         population: 6330
         timezone: Asia/Baku
@@ -1262,12 +1352,14 @@ regions:
           - GERANBOJ
           - Geran'boy
           - Geran’boy
+          - Goranboy
         ascii_name: Goranboy
         geonamesid: 586430
         latitude: 40.61028
         longitude: 46.78972
         name: Goranboy
-        names_en: ~
+        names_en: 
+          - Goranboy
         names_es: ~
         population: 7333
         timezone: Asia/Baku
@@ -1283,12 +1375,14 @@ regions:
           - KAKHI
           - Kakhi
           - Qakh
+          - Qax
         ascii_name: Qax
         geonamesid: 585227
         latitude: 41.4225
         longitude: 46.92417
         name: Qax
-        names_en: ~
+        names_en: 
+          - Qax
         names_es: ~
         population: 11992
         timezone: Asia/Baku
@@ -1297,6 +1391,7 @@ regions:
           - Chinarly
           - Cinarli
           - Lenin
+          - Çinarlı
         ascii_name: Cinarli
         geonamesid: 586845
         latitude: 41.4723
@@ -1318,12 +1413,14 @@ regions:
           - ISMAILLY
           - Ismailly
           - Ismaily
+          - Ismanlli
         ascii_name: Ismayilli
         geonamesid: 586318
         latitude: 40.79
         longitude: 48.15194
         name: İsmayıllı
-        names_en: ~
+        names_en: 
+          - İsmayıllı
         names_es: ~
         population: 13610
         timezone: Asia/Baku
@@ -1332,12 +1429,14 @@ regions:
           - Azizbekovo
           - Baskal
           - Baskhal
+          - Basqal
         ascii_name: Basqal
         geonamesid: 587033
         latitude: 40.75556
         longitude: 48.39639
         name: Basqal
-        names_en: ~
+        names_en: 
+          - Basqal
         names_es: ~
         population: 1234
         timezone: Asia/Baku
@@ -1353,12 +1452,14 @@ regions:
           - GEOKCHAJ
           - Gekchai
           - Geokchai
+          - Geokchay
         ascii_name: Geoktschai
         geonamesid: 586427
         latitude: 40.65306
         longitude: 47.74056
         name: Geoktschai
-        names_en: ~
+        names_en: 
+          - Göyçay
         names_es: ~
         population: 35348
         timezone: Asia/Baku
@@ -1381,12 +1482,14 @@ regions:
           - VERKH.DASHKESAN
           - "Verkhniy Dashkesan"
           - "Yuxari Daskasan"
+          - "Yuxarı Daşkǝsǝn"
         ascii_name: "Verkhniy Dashkesan"
         geonamesid: 584724
         latitude: 40.49228
         longitude: 46.07137
         name: "Verkhniy Dashkesan"
-        names_en: ~
+        names_en: 
+          - "Yuxarı Daşkǝsǝn"
         names_es: ~
         population: 1837
         timezone: Asia/Baku
@@ -1395,12 +1498,14 @@ regions:
           - DASHKESAN
           - Dashkasan
           - Dashkesan
+          - Dashkezan
         ascii_name: Yukhary-Dashkesan
         geonamesid: 586765
         latitude: 40.49472
         longitude: 46.07722
         name: Yukhary-Dashkesan
-        names_en: ~
+        names_en: 
+          - Daşkǝsǝn
         names_es: ~
         population: 9900
         timezone: Asia/Baku
@@ -1416,12 +1521,14 @@ regions:
           - BELOKANY
           - Balakan
           - Balakon
+          - Balakǝn
         ascii_name: Belokany
         geonamesid: 587070
         latitude: 41.72583
         longitude: 46.40833
         name: Belokany
-        names_en: ~
+        names_en: 
+          - Balakǝn
         names_es: ~
         population: 9182
         timezone: Asia/Baku
@@ -1448,12 +1555,14 @@ regions:
           - BARDA
           - Barda
           - Bärdä
+          - Bǝrdǝ
         ascii_name: Barda
         geonamesid: 587057
         latitude: 40.37444
         longitude: 47.12667
         name: Barda
-        names_en: ~
+        names_en: 
+          - Bǝrdǝ
         names_es: ~
         population: 37372
         timezone: Asia/Baku
@@ -1469,12 +1578,14 @@ regions:
           - ZIRJA
           - Zira
           - Zirya
+          - Zirǝ
         ascii_name: Zyrya
         geonamesid: 584562
         latitude: 40.36361
         longitude: 50.29028
         name: Zyrya
-        names_en: ~
+        names_en: 
+          - Zirǝ
         names_es: ~
         population: 10099
         timezone: Asia/Baku
@@ -1483,12 +1594,14 @@ regions:
           - Sabrat
           - ZABRAT
           - Zabrat
+          - ЗАБРАТ
         ascii_name: Zabrat
         geonamesid: 584614
         latitude: 40.48722
         longitude: 49.9525
         name: Zabrat
-        names_en: ~
+        names_en: 
+          - Zabrat
         names_es: ~
         population: 21396
         timezone: Asia/Baku
@@ -1497,12 +1610,14 @@ regions:
           - TJURKJAN
           - Tuerkan
           - Turkan
+          - Turkyany
         ascii_name: Turkan
         geonamesid: 584792
         latitude: 40.36389
         longitude: 50.215
         name: Türkan
-        names_en: ~
+        names_en: 
+          - Türkan
         names_es: ~
         population: 9699
         timezone: Asia/Baku
@@ -1511,12 +1626,14 @@ regions:
           - GARACHUKHUR
           - Garachukhur
           - "Imeni Kaganovicha"
+          - Kaganovich
         ascii_name: Qaracuxur
         geonamesid: 585103
         latitude: 40.39667
         longitude: 49.97361
         name: Qaraçuxur
-        names_en: ~
+        names_en: 
+          - Qaraçuxur
         names_es: ~
         population: 72989
         timezone: Asia/Baku
@@ -1525,12 +1642,14 @@ regions:
           - SABUNCHI
           - Sabunchi
           - Sabunchy
+          - Sabuncu
         ascii_name: Sabuncu
         geonamesid: 585184
         latitude: 40.4425
         longitude: 49.94806
         name: Sabunçu
-        names_en: ~
+        names_en: 
+          - Sabunçu
         names_es: ~
         population: 20996
         timezone: Asia/Baku
@@ -1539,12 +1658,14 @@ regions:
           - Duvannaya
           - Duvanny
           - Duvannyy
+          - Duyannaya
         ascii_name: Qobustan
         geonamesid: 585223
         latitude: 40.08417
         longitude: 49.41583
         name: Qobustan
-        names_en: ~
+        names_en: 
+          - Qobustan
         names_es: ~
         population: 13398
         timezone: Asia/Baku
@@ -1553,12 +1674,14 @@ regions:
           - PUTA
           - Puta
           - "Staraya Puta"
+          - ПУТА
         ascii_name: Puta
         geonamesid: 585236
         latitude: 40.29667
         longitude: 49.66028
         name: Puta
-        names_en: ~
+        names_en: 
+          - Puta
         names_es: ~
         population: 1018
         timezone: Asia/Baku
@@ -1579,12 +1702,14 @@ regions:
           - MASHTAGA
           - Mashtaga
           - Mashtaghy
+          - Mashtagi
         ascii_name: Mastaga
         geonamesid: 585557
         latitude: 40.53278
         longitude: 50.00389
         name: Maştağa
-        names_en: ~
+        names_en: 
+          - Maştağa
         names_es: ~
         population: 40092
         timezone: Asia/Baku
@@ -1593,12 +1718,14 @@ regions:
           - MARDAKJAN
           - Mardakan
           - Mardakjan
+          - Mardakyan
         ascii_name: Mardakyany
         geonamesid: 585568
         latitude: 40.49222
         longitude: 50.13889
         name: Mardakyany
-        names_en: ~
+        names_en: 
+          - Mǝrdǝkan
         names_es: ~
         population: 15267
         timezone: Asia/Baku
@@ -1607,12 +1734,14 @@ regions:
           - LOKBATAN
           - Loekbatan
           - Lokbatan
+          - Lökbatan
         ascii_name: Lokbatan
         geonamesid: 585630
         latitude: 40.32722
         longitude: 49.73
         name: Lökbatan
-        names_en: ~
+        names_en: 
+          - Lökbatan
         names_es: ~
         population: 30694
         timezone: Asia/Baku
@@ -1621,6 +1750,7 @@ regions:
           - Gadzhi-Gasan
           - Khodzhagasan
           - Khodzhasan
+          - Khodzhi-Gasan
         ascii_name: Khodzhi-Gasan
         geonamesid: 585940
         latitude: 40.41222
@@ -1635,12 +1765,14 @@ regions:
           - KERGEZ
           - Kar'yery
           - Kar’yery
+          - Kergez
         ascii_name: Korgoz
         geonamesid: 586031
         latitude: 40.30306
         longitude: 49.62
         name: Korgöz
-        names_en: ~
+        names_en: 
+          - Korgöz
         names_es: ~
         population: 2036
         timezone: Asia/Baku
@@ -1649,12 +1781,14 @@ regions:
           - KALA
           - Kala
           - Kala-Machtagi
+          - Qala
         ascii_name: Qala
         geonamesid: 586289
         latitude: 40.44028
         longitude: 50.17611
         name: Qala
-        names_en: ~
+        names_en: 
+          - Qala
         names_es: ~
         population: 2709
         timezone: Asia/Baku
@@ -1663,12 +1797,14 @@ regions:
           - GOVSAN
           - Gousan
           - Gousany
+          - Goussan
         ascii_name: Hovsan
         geonamesid: 586429
         latitude: 40.37444
         longitude: 50.08528
         name: Hövsan
-        names_en: ~
+        names_en: 
+          - Hövsan
         names_es: ~
         population: 36293
         timezone: Asia/Baku
@@ -1677,12 +1813,14 @@ regions:
           - BUZOVNA
           - Busovny
           - Busowny
+          - Buzouvna
         ascii_name: Buzovna
         geonamesid: 586925
         latitude: 40.51611
         longitude: 50.11639
         name: Buzovna
-        names_en: ~
+        names_en: 
+          - Buzovna
         names_es: ~
         population: 24795
         timezone: Asia/Baku
@@ -1691,12 +1829,14 @@ regions:
           - BINAGADI
           - Binagadi
           - Binagady
+          - Binaghad
         ascii_name: Bonogady
         geonamesid: 586967
         latitude: 40.47583
         longitude: 49.82222
         name: Bonogady
-        names_en: ~
+        names_en: 
+          - Binǝqǝdi
         names_es: ~
         population: 14012
         timezone: Asia/Baku
@@ -1705,12 +1845,14 @@ regions:
           - BINA
           - Bina
           - "Bina Staraya"
+          - "Biny Selo"
         ascii_name: "Biny Selo"
         geonamesid: 586968
         latitude: 40.45389
         longitude: 50.07639
         name: "Biny Selo"
-        names_en: ~
+        names_en: 
+          - Binǝ
         names_es: ~
         population: 24596
         timezone: Asia/Baku
@@ -1719,12 +1861,14 @@ regions:
           - BIL'GJAKH
           - Bil'gya
           - Bil'gyakh
+          - Bil'gykh
         ascii_name: Bilajer
         geonamesid: 586971
         latitude: 40.56806
         longitude: 50.03778
         name: Bilajer
-        names_en: ~
+        names_en: 
+          - Bilgǝh
         names_es: ~
         population: 8983
         timezone: Asia/Baku
@@ -1733,12 +1877,14 @@ regions:
           - BALAKHANY
           - Balaban
           - Balachany
+          - Baladzary
         ascii_name: Balaxani
         geonamesid: 587071
         latitude: 40.46167
         longitude: 49.92
         name: Balaxanı
-        names_en: ~
+        names_en: 
+          - Balaxanı
         names_es: ~
         population: 10863
         timezone: Asia/Baku
@@ -1747,6 +1893,7 @@ regions:
           - Baku-Baladshary
           - Baladjary
           - Baladzhary
+          - Bilacari
         ascii_name: Baladzhary
         geonamesid: 587078
         latitude: 40.43139
@@ -1761,13 +1908,16 @@ regions:
           - Bacu
           - Baki
           - Bako
+          - Bakoe
         ascii_name: Baku
         geonamesid: 587084
         latitude: 40.37767
         longitude: 49.89201
         name: Baku
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Baku
+        names_es: 
+          - Bakú
         population: 1116513
         timezone: Asia/Baku
       - 
@@ -1775,12 +1925,14 @@ regions:
           - Artem-Ostrov
           - Artyom
           - Artëm-Ostrov
+          - "Imeni \"Dvadtsati Shesti\""
         ascii_name: Artyom
         geonamesid: 587207
         latitude: 40.47083
         longitude: 50.32167
         name: Artyom
-        names_en: ~
+        names_en: 
+          - Artyom
         names_es: ~
         population: 13435
         timezone: Asia/Baku
@@ -1789,12 +1941,14 @@ regions:
           - Amirabdzhan
           - Amiradzhan
           - Amiradzhany
+          - Amircan
         ascii_name: Amirdzhan
         geonamesid: 587261
         latitude: 40.42639
         longitude: 49.98361
         name: Amirdzhan
-        names_en: ~
+        names_en: 
+          - Amiradzhan
         names_es: ~
         population: 26798
         timezone: Asia/Baku
@@ -1808,7 +1962,8 @@ regions:
         latitude: 40.44222
         longitude: 49.98056
         name: Ramana
-        names_en: ~
+        names_en: 
+          - Ramana
         names_es: ~
         population: 8855
         timezone: Asia/Baku
@@ -1824,12 +1979,14 @@ regions:
           - SARAJ
           - Sarai
           - Saray
+          - САРАЙ
         ascii_name: Saray
         geonamesid: 585145
         latitude: 40.53222
         longitude: 49.71639
         name: Saray
-        names_en: ~
+        names_en: 
+          - Saray
         names_es: ~
         population: 10173
         timezone: Asia/Baku
@@ -1838,12 +1995,14 @@ regions:
           - KOBU
           - Kobi
           - Kobu
+          - Qobu
         ascii_name: Qobu
         geonamesid: 585838
         latitude: 40.40472
         longitude: 49.71306
         name: Qobu
-        names_en: ~
+        names_en: 
+          - Qobu
         names_es: ~
         population: 7377
         timezone: Asia/Baku
@@ -1852,12 +2011,14 @@ regions:
           - GJUZDEK
           - Gezdek
           - Guzdak
+          - Gyuzdek
         ascii_name: Gyuzdek
         geonamesid: 586368
         latitude: 40.37444
         longitude: 49.68194
         name: Gyuzdek
-        names_en: ~
+        names_en: 
+          - Güzdǝk
         names_es: ~
         population: 2462
         timezone: Asia/Baku
@@ -1866,12 +2027,14 @@ regions:
           - Ceyranbatan
           - DZHEJRANBATAN
           - Dzheyranbatan
+          - ДЖЕЙРАНБАТАН
         ascii_name: Ceyranbatan
         geonamesid: 586652
         latitude: 40.54083
         longitude: 49.65972
         name: Ceyranbatan
-        names_en: ~
+        names_en: 
+          - Ceyranbatan
         names_es: ~
         population: 5684
         timezone: Asia/Baku
@@ -1880,12 +2043,14 @@ regions:
           - DIGJAKH
           - Digah
           - Digyakh
+          - Dygya
         ascii_name: Digah
         geonamesid: 586736
         latitude: 40.49278
         longitude: 49.87278
         name: Digah
-        names_en: ~
+        names_en: 
+          - Digah
         names_es: ~
         population: 3211
         timezone: Asia/Baku
@@ -1901,12 +2066,14 @@ regions:
           - AKHSU
           - Aghsu
           - Agsu
+          - Akhsu
         ascii_name: Agsu
         geonamesid: 587361
         latitude: 40.56917
         longitude: 48.40083
         name: Ağsu
-        names_en: ~
+        names_en: 
+          - Ağsu
         names_es: ~
         population: 17209
         timezone: Asia/Baku
@@ -1922,12 +2089,14 @@ regions:
           - AGDASH
           - Agdas
           - Agdasch
+          - Agdash
         ascii_name: Agdas
         geonamesid: 587378
         latitude: 40.65
         longitude: 47.47611
         name: Ağdaş
-        names_en: ~
+        names_en: 
+          - Ağdaş
         names_es: ~
         population: 23528
         timezone: Asia/Baku
@@ -1943,12 +2112,14 @@ regions:
           - Gadabay
           - Gǝdǝbǝy
           - Gədəbəy
+          - KEDABEK
         ascii_name: Kyadabek
         geonamesid: 586573
         latitude: 40.56556
         longitude: 45.81611
         name: Kyadabek
-        names_en: ~
+        names_en: 
+          - Gǝdǝbǝy
         names_es: ~
         population: 8657
         timezone: Asia/Baku
@@ -1964,12 +2135,14 @@ regions:
           - Gryunfel'd
           - Gryunfel’d
           - KALININKEND
+          - Kalininkand
         ascii_name: Vurgun
         geonamesid: 586265
         latitude: 41.09423
         longitude: 45.47162
         name: Vurğun
-        names_en: ~
+        names_en: 
+          - Vurğun
         names_es: ~
         population: 2635
         timezone: Asia/Baku
@@ -1978,12 +2151,14 @@ regions:
           - AKSTAFA
           - Agstafa
           - Akstafa
+          - Akstafal
         ascii_name: Agstafa
         geonamesid: 587362
         latitude: 41.11889
         longitude: 45.45389
         name: Ağstafa
-        names_en: ~
+        names_en: 
+          - Ağstafa
         names_es: ~
         population: 12542
         timezone: Asia/Baku
@@ -1999,13 +2174,17 @@ regions:
           - Elisavetpol
           - Elizavetpol'
           - Elizavetpol’
+          - GJANDZHA
         ascii_name: Kirowabad
         geonamesid: 586523
         latitude: 40.68278
         longitude: 46.36056
         name: Kirowabad
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ganja
+          - Gǝncǝ
+        names_es: 
+          - Gandja
         population: 303268
         timezone: Asia/Baku
     geonamesid: 828298
@@ -2020,13 +2199,17 @@ regions:
           - MINGECHAUR
           - Mengechaur
           - Min'nkatsebir
+          - Mingacevir
         ascii_name: Mingelchaur
         geonamesid: 585514
         latitude: 40.76395
         longitude: 47.05953
         name: Mingelchaur
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mingachevir
+          - Mingǝçevir
+        names_es: 
+          - Mingacevir
         population: 95453
         timezone: Asia/Baku
     geonamesid: 828299
@@ -2046,7 +2229,8 @@ regions:
         latitude: 40.50667
         longitude: 46.825
         name: Naftalan
-        names_en: ~
+        names_en: 
+          - Naftalan
         names_es: ~
         population: 7045
         timezone: Asia/Baku
@@ -2062,12 +2246,14 @@ regions:
           - MARAZA
           - Maraza
           - Marazi
+          - Marazy
         ascii_name: Marazy
         geonamesid: 585570
         latitude: 40.53667
         longitude: 48.93278
         name: Marazy
-        names_en: ~
+        names_en: 
+          - Mǝrǝzǝ
         names_es: ~
         population: 3754
         timezone: Asia/Baku
@@ -2083,12 +2269,14 @@ regions:
           - KARAERI
           - Karayeri
           - Qarayeri
+          - КАРАЕРИ
         ascii_name: Qarayeri
         geonamesid: 586135
         latitude: 40.78862
         longitude: 46.30659
         name: Qarayeri
-        names_en: ~
+        names_en: 
+          - Qarayeri
         names_es: ~
         population: 5565
         timezone: Asia/Baku
@@ -2104,12 +2292,14 @@ regions:
           - Nucha
           - Nukha
           - Nuxa
+          - SHEKI
         ascii_name: Sheki
         geonamesid: 585170
         latitude: 41.19194
         longitude: 47.17056
         name: Sheki
-        names_en: ~
+        names_en: 
+          - Şǝki
         names_es: ~
         population: 62191
         timezone: Asia/Baku
@@ -2132,12 +2322,14 @@ regions:
           - SUMGAIT
           - Sumgait
           - Sumgjajet
+          - Sumqayit
         ascii_name: Sumqayit
         geonamesid: 584923
         latitude: 40.58972
         longitude: 49.66861
         name: Sumqayıt
-        names_en: ~
+        names_en: 
+          - Sumqayit
         names_es: ~
         population: 265150
         timezone: Asia/Baku
@@ -2146,6 +2338,7 @@ regions:
           - "Haci Zeynalabdin"
           - "Hacı Zeynalabdin"
           - Nasoslu
+          - Nasosnaya
         ascii_name: "Haci Zeynalabdin"
         geonamesid: 585379
         latitude: 40.62333
@@ -2160,12 +2353,14 @@ regions:
           - Corat
           - DZHORAT
           - Dzhorat
+          - ДЖОРАТ
         ascii_name: Corat
         geonamesid: 586631
         latitude: 40.5725
         longitude: 49.70639
         name: Corat
-        names_en: ~
+        names_en: 
+          - Corat
         names_es: ~
         population: 8624
         timezone: Asia/Baku
@@ -2181,12 +2376,14 @@ regions:
           - Mikhailabad
           - Shuraabad
           - Sovetabad
+          - "Soviet Abad"
         ascii_name: Suraabad
         geonamesid: 584991
         latitude: 40.81889
         longitude: 49.47194
         name: Şuraabad
-        names_en: ~
+        names_en: 
+          - Şuraabad
         names_es: ~
         population: 1945
         timezone: Asia/Baku
@@ -2195,6 +2392,7 @@ regions:
           - Gilazi
           - Giləzi
           - Kiljasi
+          - Kiljazi
         ascii_name: Kilyazi
         geonamesid: 585892
         latitude: 40.86778
@@ -2209,12 +2407,14 @@ regions:
           - Khizy
           - Khyzy
           - Xizi
+          - Xızı
         ascii_name: Khyzy
         geonamesid: 585909
         latitude: 40.90778
         longitude: 49.07333
         name: Khyzy
-        names_en: ~
+        names_en: 
+          - Xızı
         names_es: ~
         population: 1024
         timezone: Asia/Baku
@@ -2223,12 +2423,14 @@ regions:
           - Altiagac
           - Altiagach
           - Alty-Agatsch
+          - Altyagach
         ascii_name: Altiagac
         geonamesid: 587272
         latitude: 40.85806
         longitude: 48.93611
         name: Altıağac
-        names_en: ~
+        names_en: 
+          - Altıağac
         names_es: ~
         population: 1126
         timezone: Asia/Baku
@@ -2244,12 +2446,14 @@ regions:
           - Avlakh
           - EVLAKH
           - Jewlach
+          - Yevlakh
         ascii_name: Yevlax
         geonamesid: 584649
         latitude: 40.61273
         longitude: 47.14233
         name: Yevlax
-        names_en: ~
+        names_en: 
+          - Yevlax
         names_es: ~
         population: 53716
         timezone: Asia/Baku
@@ -2265,12 +2469,14 @@ regions:
           - Adshikabul
           - Adzha-Kabul
           - Adzhikabul
+          - "Aja Kabul"
         ascii_name: "Aja Kabul"
         geonamesid: 585225
         latitude: 40.04333
         longitude: 48.93556
         name: "Aja Kabul"
-        names_en: ~
+        names_en: 
+          - Qazımǝmmǝd
         names_es: ~
         population: 23102
         timezone: Asia/Baku
@@ -2279,12 +2485,14 @@ regions:
           - MUGAN'
           - Mugan
           - Muğan
+          - МУГАНЬ
         ascii_name: Mugan
         geonamesid: 807231
         latitude: 40.09861
         longitude: 48.81889
         name: Muğan
-        names_en: ~
+        names_en: 
+          - Muğan
         names_es: ~
         population: 4410
         timezone: Asia/Baku

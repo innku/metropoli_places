@@ -2,8 +2,11 @@
 geonamesid: 248816
 iso: JO
 name: Jordan
-names_en: ~
-names_es: ~
+names_en: 
+  - Jordan
+  - "Hashemite Kingdom of Jordan"
+names_es: 
+  - Jordania
 regions: 
   - 
     ascii_name: Ma'an
@@ -13,12 +16,14 @@ regions:
           - Alji
           - Aljī
           - El-Gi
+          - Elchi
         ascii_name: Petra
         geonamesid: 246008
         latitude: 30.32221
         longitude: 35.47933
         name: Petra
-        names_en: ~
+        names_en: 
+          - Petra
         names_es: ~
         population: 14000
         timezone: Asia/Amman
@@ -27,6 +32,7 @@ regions:
           - "At Tayyibah"
           - "Aţ Ţayyibah"
           - "Et Taiyiba"
+          - "Et Taiyibe"
         ascii_name: "At Tayyibah"
         geonamesid: 250188
         latitude: 30.25
@@ -53,6 +59,7 @@ regions:
           - "Al Karak"
           - Ehl'-Karak
           - "El Kerak"
+          - Karak
         ascii_name: "Qir Moav"
         geonamesid: 250624
         latitude: 31.18248
@@ -77,7 +84,8 @@ regions:
         timezone: Asia/Amman
     geonamesid: 248380
     name: Ma’an
-    names_en: ~
+    names_en: 
+      - Ma’an
     names_es: ~
   - 
     ascii_name: Irbid
@@ -114,6 +122,7 @@ regions:
           - Gadara
           - Gader
           - Gādēr
+          - Mukes
         ascii_name: "Umm Qays"
         geonamesid: 246202
         latitude: 32.65348
@@ -128,6 +137,7 @@ regions:
           - Tibna
           - Tibnah
           - Tibne
+          - Tibni
         ascii_name: Tibnah
         geonamesid: 246522
         latitude: 32.47555
@@ -222,6 +232,7 @@ regions:
           - Raymun
           - Raymūn
           - Reimun
+          - Reimūn
         ascii_name: Raymun
         geonamesid: 247340
         latitude: 32.28339
@@ -249,6 +260,7 @@ regions:
           - Malka
           - Malkā
           - Malqa
+          - Malqá
         ascii_name: Malka
         geonamesid: 248250
         latitude: 32.67381
@@ -263,6 +275,7 @@ regions:
           - Kareime
           - Kereime
           - Kuraiyima
+          - Kuraymah
         ascii_name: Kurayyimah
         geonamesid: 248414
         latitude: 32.27639
@@ -303,6 +316,7 @@ regions:
           - "Kafr Sawm"
           - "Kufr Saum"
           - "Kufr Som"
+          - "Kufr as Sawm"
         ascii_name: "Kafr Sawm"
         geonamesid: 248719
         latitude: 32.68333
@@ -331,6 +345,7 @@ regions:
           - "Kafr Abil"
           - "Kafr Abīl"
           - "Kefr Abil"
+          - "Kufr Abil"
         ascii_name: "Kafr Abil"
         geonamesid: 248738
         latitude: 32.41755
@@ -345,6 +360,7 @@ regions:
           - Jedeita
           - Judayta
           - Judaytā
+          - Judeita
         ascii_name: Judayta
         geonamesid: 248803
         latitude: 32.40792
@@ -359,13 +375,16 @@ regions:
           - Djerash
           - Dzherash
           - Gerasa
+          - Jarash
         ascii_name: Jarash
         geonamesid: 248875
         latitude: 32.28082
         longitude: 35.89929
         name: Jarash
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Jerash
+        names_es: 
+          - Jerash
         population: 27046
         timezone: Asia/Amman
       - 
@@ -373,12 +392,14 @@ regions:
           - Arbela
           - Arbēla
           - Irbid
+          - arbd
         ascii_name: Irbid
         geonamesid: 248946
         latitude: 32.55556
         longitude: 35.85
         name: Irbid
-        names_en: ~
+        names_en: 
+          - Irbid
         names_es: ~
         population: 307480
         timezone: Asia/Amman
@@ -401,6 +422,7 @@ regions:
           - Halawa
           - Halawah
           - Ḥalāwa
+          - Ḩalāwah
         ascii_name: Halawah
         geonamesid: 249310
         latitude: 32.38464
@@ -415,6 +437,7 @@ regions:
           - Hakama
           - Hakamah
           - Hakema
+          - Ḩakamah
         ascii_name: Hakama
         geonamesid: 249318
         latitude: 32.59445
@@ -429,6 +452,7 @@ regions:
           - "Dayr Yusuf"
           - "Dayr Yūsuf"
           - "Deir Yusuf"
+          - "Deir Yūsuf"
         ascii_name: "Dayr Yusuf"
         geonamesid: 249676
         latitude: 32.49116
@@ -456,6 +480,7 @@ regions:
           - "Bayt Yafa"
           - "Bayt Yāfā"
           - "Beit Yafa"
+          - "Beit Yāfā"
         ascii_name: "Bayt Yafa"
         geonamesid: 249930
         latitude: 32.51737
@@ -470,6 +495,7 @@ regions:
           - "Bayt Idis"
           - "Bayt Īdis"
           - "Beit Idis"
+          - "Beit Īdis"
         ascii_name: "Bayt Idis"
         geonamesid: 249933
         latitude: 32.4376
@@ -497,6 +523,7 @@ regions:
           - "`Ain Janna"
           - "`Ain Jenne"
           - "`Ayn Jana"
+          - "`Ayn Janna"
         ascii_name: "`Ayn Janna"
         geonamesid: 250124
         latitude: 32.33529
@@ -511,6 +538,7 @@ regions:
           - Aidun
           - Aidūn
           - Aydun
+          - Aydūn
         ascii_name: Aydun
         geonamesid: 250152
         latitude: 32.50722
@@ -525,6 +553,7 @@ regions:
           - "At Turrah"
           - "Aţ Ţurrah"
           - "Et Turra"
+          - "Eṭ Ṭurra"
         ascii_name: "At Turrah"
         geonamesid: 250179
         latitude: 32.64139
@@ -539,6 +568,7 @@ regions:
           - "At Tayyibah"
           - "Aţ Ţayyibah"
           - "Et Taiyiba"
+          - "Et Taiyibe"
         ascii_name: "At Tayyibah"
         geonamesid: 250186
         latitude: 32.54167
@@ -553,6 +583,7 @@ regions:
           - "Ash Shajarah"
           - "Esh Shajara"
           - Shajara
+          - Shajarah
         ascii_name: "Ash Shajarah"
         geonamesid: 250294
         latitude: 32.64456
@@ -567,12 +598,14 @@ regions:
           - "Ar Ramtha"
           - "Ar Ramthā"
           - "El Remteh"
+          - "Er Remtha"
         ascii_name: "Ar Ramtha"
         geonamesid: 250336
         latitude: 32.55917
         longitude: 36.00694
         name: "Ar Ramthā"
-        names_en: ~
+        names_en: 
+          - "Ar Ramtha"
         names_es: ~
         population: 74901
         timezone: Asia/Amman
@@ -581,6 +614,7 @@ regions:
           - "`Anjara"
           - "`Anjarah"
           - ‘Anjara
+          - ‘Anjarah
         ascii_name: "`Anjarah"
         geonamesid: 250420
         latitude: 32.3063
@@ -595,6 +629,7 @@ regions:
           - "Al Kitta"
           - "Al Kittah"
           - "Al Kittā"
+          - "El Kitta"
         ascii_name: "Al Kittah"
         geonamesid: 250603
         latitude: 32.27685
@@ -609,6 +644,7 @@ regions:
           - "Al Hamra'"
           - "Al Ḩamrā’"
           - "El Hamra"
+          - "El Ḥamra"
         ascii_name: "Al Hamra'"
         geonamesid: 250697
         latitude: 32.44061
@@ -628,13 +664,16 @@ regions:
         latitude: 32.33385
         longitude: 35.75238
         name: ‘Ajlūn
-        names_en: ~
+        names_en: 
+          - Adjlun
         names_es: ~
         population: 125557
         timezone: Asia/Amman
     geonamesid: 248944
     name: Irbid
-    names_en: ~
+    names_en: 
+      - "Irbid Governorate"
+      - Irbid
     names_es: ~
   - 
     ascii_name: Zarqa
@@ -644,18 +683,22 @@ regions:
           - "Az Zarqa'"
           - "Az Zarqā’"
           - "Kalaat el Zerka"
+          - "Qal`at az Zarqa'"
         ascii_name: "Az Zarqa'"
         geonamesid: 250090
         latitude: 32.07275
         longitude: 36.08796
         name: "Az Zarqā’"
-        names_en: ~
+        names_en: 
+          - Zarqa
         names_es: ~
         population: 792665
         timezone: Asia/Amman
     geonamesid: 250092
     name: Zarqa
-    names_en: ~
+    names_en: 
+      - "Zarqa Governorate"
+      - Zarqa
     names_es: ~
   - 
     ascii_name: Tafielah
@@ -665,6 +708,7 @@ regions:
           - "Al Busayrah"
           - "Al Buşayrah"
           - Busayra
+          - Busayrah
         ascii_name: Busayra
         geonamesid: 249842
         latitude: 30.73846
@@ -679,6 +723,7 @@ regions:
           - "At Tafila"
           - "At Tafilah"
           - "Aţ Ţafīlah"
+          - "Aṭ Ṭafīla"
         ascii_name: "At Tafilah"
         geonamesid: 250198
         latitude: 30.83333
@@ -690,7 +735,8 @@ regions:
         timezone: Asia/Amman
     geonamesid: 250199
     name: Tafielah
-    names_en: ~
+    names_en: 
+      - Tafielah
     names_es: ~
   - 
     ascii_name: Amman
@@ -700,12 +746,14 @@ regions:
           - "Wadi Al Seer"
           - "Wadi Sir"
           - "Wadi as Sir"
+          - "Wadi es Sir"
         ascii_name: "Wadi as Sir"
         geonamesid: 246013
         latitude: 31.95
         longitude: 35.81667
         name: "Wādī as Sīr"
-        names_en: ~
+        names_en: 
+          - "Wadi Al Seer"
         names_es: ~
         population: 181212
         timezone: Asia/Amman
@@ -714,6 +762,7 @@ regions:
           - "Um el Semmaq"
           - "Um es Summaq"
           - "Um es Summāq"
+          - "Umm as Summaq"
         ascii_name: "Umm as Summaq"
         geonamesid: 246314
         latitude: 31.88333
@@ -728,6 +777,7 @@ regions:
           - Sahab
           - Sakhab
           - Saḩāb
+          - Sehab
         ascii_name: Sahab
         geonamesid: 247105
         latitude: 31.87861
@@ -768,13 +818,16 @@ regions:
           - Ama
           - Aman
           - Amanas
+          - Amano
         ascii_name: Amman
         geonamesid: 250441
         latitude: 31.95522
         longitude: 35.94503
         name: Amman
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Amman
+        names_es: 
+          - Ammán
         population: 1275857
         timezone: Asia/Amman
       - 
@@ -796,6 +849,7 @@ regions:
           - "Al Jubayhah"
           - "El Jebeihe"
           - "El Jubeiha"
+          - Jubeiha
         ascii_name: "Al Jubayhah"
         geonamesid: 250637
         latitude: 32.01667
@@ -810,6 +864,7 @@ regions:
           - "Al Jizah"
           - "Al Jīzah"
           - Jiza
+          - Jize
         ascii_name: "Al Jizah"
         geonamesid: 250639
         latitude: 31.7
@@ -824,6 +879,7 @@ regions:
           - "Al Bunayyat"
           - "Al Bunayyat ash Shamaliyah"
           - "Al Bunayyāt"
+          - "Al Bunayyāt ash Shamālīyah"
         ascii_name: "Al Bunayyat ash Shamaliyah"
         geonamesid: 250738
         latitude: 31.9
@@ -835,7 +891,9 @@ regions:
         timezone: Asia/Amman
     geonamesid: 250439
     name: Amman
-    names_en: ~
+    names_en: 
+      - "Amman Governorate"
+      - Amman
     names_es: ~
   - 
     ascii_name: Mafraq
@@ -845,6 +903,7 @@ regions:
           - "Um el Quttein"
           - "Umm al Qittayn"
           - "Umm al Qiţţayn"
+          - "Umm el Quttein"
         ascii_name: "Umm al Qittayn"
         geonamesid: 246345
         latitude: 32.31563
@@ -859,6 +918,7 @@ regions:
           - Sabha
           - Sabhah
           - Şabḩah
+          - Şabḩā
         ascii_name: Sabha
         geonamesid: 247176
         latitude: 32.32965
@@ -873,6 +933,7 @@ regions:
           - "Al Mafraq"
           - El-Fedein
           - "Kalat el Mafrak"
+          - Mafraq
         ascii_name: "Al Mafraq"
         geonamesid: 250582
         latitude: 32.34289
@@ -884,7 +945,9 @@ regions:
         timezone: Asia/Amman
     geonamesid: 250583
     name: Mafraq
-    names_en: ~
+    names_en: 
+      - "Mafraq Governorate"
+      - Mafraq
     names_es: ~
   - 
     ascii_name: Karak
@@ -894,6 +957,7 @@ regions:
           - "`Azra"
           - "`Izra"
           - ‘Azrā
+          - ‘Izrā
         ascii_name: "`Izra"
         geonamesid: 248923
         latitude: 31.15889
@@ -908,6 +972,7 @@ regions:
           - Aiy
           - "Khirbat `Ai"
           - "Khirbat `Aiy"
+          - "Khirbat ‘Ai"
         ascii_name: "`Ayy"
         geonamesid: 250106
         latitude: 31.13333
@@ -922,6 +987,7 @@ regions:
           - "At Tayyibah"
           - "Aţ Ţayyibah"
           - Khanzira
+          - Khanzire
         ascii_name: "At Tayyibah"
         geonamesid: 250187
         latitude: 31.05583
@@ -936,6 +1002,7 @@ regions:
           - "Ar Rabbah"
           - "El Rebbe"
           - "Er Rabba"
+          - Rabba
         ascii_name: "Ar Rabbah"
         geonamesid: 250345
         latitude: 31.27028
@@ -950,6 +1017,7 @@ regions:
           - "Al Qasr"
           - "Al Qaşr"
           - "El Qaser"
+          - "El Qaşer"
         ascii_name: "Al Qasr"
         geonamesid: 250487
         latitude: 31.31444
@@ -964,6 +1032,7 @@ regions:
           - "Al Mazar"
           - "Al Mazār"
           - "El Mazar"
+          - "El Mazār"
         ascii_name: "Al Mazar"
         geonamesid: 250540
         latitude: 31.06556
@@ -991,18 +1060,25 @@ regions:
           - Al-Karak
           - Karak
           - Kerak
+          - Карак
         ascii_name: "Karak City"
         geonamesid: 6946409
         latitude: 31.16368
         longitude: 35.76204
         name: "Karak City"
-        names_en: ~
+        names_en: 
+          - Karak
+          - Al-Karak
+          - Kerak
         names_es: ~
         population: 21678
         timezone: Asia/Amman
     geonamesid: 250625
     name: Karak
-    names_en: ~
+    names_en: 
+      - "Governorate of Kerak"
+      - Karak
+      - "District of Karak"
     names_es: ~
   - 
     ascii_name: Balqa
@@ -1026,12 +1102,14 @@ regions:
           - Al-Salt
           - "As Salt"
           - "As Salţ"
+          - "Es Salt"
         ascii_name: "As Salt"
         geonamesid: 250258
         latitude: 32.03917
         longitude: 35.72722
         name: "As Salţ"
-        names_en: ~
+        names_en: 
+          - Salt
         names_es: ~
         population: 80189
         timezone: Asia/Amman
@@ -1040,6 +1118,7 @@ regions:
           - "Al Karamah"
           - "Al Karāmah"
           - "El Karama"
+          - "El Karamah"
         ascii_name: "Al Karamah"
         geonamesid: 250623
         latitude: 31.95222
@@ -1051,21 +1130,28 @@ regions:
         timezone: Asia/Amman
     geonamesid: 250751
     name: Balqa
-    names_en: ~
+    names_en: 
+      - "Balqa Governorate"
+      - Balqa
     names_es: ~
   - 
     ascii_name: Ajlun
     cities: []
     geonamesid: 443120
     name: Ajlun
-    names_en: ~
+    names_en: 
+      - "Ajlun Governorate"
+      - "Ajloun Governorate"
+      - Ajlun
     names_es: ~
   - 
     ascii_name: Jerash
     cities: []
     geonamesid: 443121
     name: Jerash
-    names_en: ~
+    names_en: 
+      - Jerash
+      - "Jerash Governorate"
     names_es: ~
   - 
     ascii_name: Aqaba
@@ -1075,18 +1161,22 @@ regions:
           - Akaba
           - Akabe
           - Al-'Aqabah
+          - Al-‘Aqabah
         ascii_name: Aqaba
         geonamesid: 250774
         latitude: 29.52667
         longitude: 35.00778
         name: Aqaba
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aqaba
+        names_es: 
+          - Aqaba
         population: 95048
         timezone: Asia/Amman
     geonamesid: 443122
     name: Aqaba
-    names_en: ~
+    names_en: 
+      - Aqaba
     names_es: ~
   - 
     ascii_name: Madaba
@@ -1096,16 +1186,20 @@ regions:
           - Madaba
           - Madeba
           - Medeba
+          - Meideva
         ascii_name: Madaba
         geonamesid: 248370
         latitude: 31.71667
         longitude: 35.8
         name: Mādabā
-        names_en: ~
+        names_en: 
+          - Madaba
         names_es: ~
         population: 82335
         timezone: Asia/Amman
     geonamesid: 443123
     name: Madaba
-    names_en: ~
+    names_en: 
+      - Madaba
+      - "Madaba Governorate"
     names_es: ~

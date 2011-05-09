@@ -2,8 +2,11 @@
 geonamesid: 357994
 iso: EG
 name: Egypt
-names_en: ~
-names_es: ~
+names_en: 
+  - Egypt
+  - "Arab Republic of Egypt"
+names_es: 
+  - Egipto
 regions: 
   - 
     ascii_name: "Muhafazat Suhaj"
@@ -13,6 +16,7 @@ regions:
           - Tahta
           - Takhta
           - Ţahţā
+          - Тахта
         ascii_name: Tahta
         geonamesid: 347634
         latitude: 26.76806
@@ -27,6 +31,7 @@ regions:
           - Sawhaj
           - Sawhāj
           - Sohag
+          - Sohāg
         ascii_name: Suhaj
         geonamesid: 347796
         latitude: 26.55
@@ -60,7 +65,8 @@ regions:
         latitude: 26.34583
         longitude: 31.88611
         name: Jirjā
-        names_en: ~
+        names_en: 
+          - Jirja
         names_es: ~
         population: 128250
         timezone: Africa/Cairo
@@ -69,6 +75,7 @@ regions:
           - "Al Manshah"
           - "Al Manshāh"
           - "El Manshah"
+          - "El Manshāh"
         ascii_name: "Al Manshah"
         geonamesid: 360773
         latitude: 26.47778
@@ -83,6 +90,7 @@ regions:
           - "Al Balyana"
           - "Al Balyanā"
           - Balyana
+          - "El Balyana"
         ascii_name: "Al Balyana"
         geonamesid: 361435
         latitude: 26.23861
@@ -97,6 +105,7 @@ regions:
           - Akhmim
           - Akhmun
           - Akhmûn
+          - Akhmīm
         ascii_name: Akhmim
         geonamesid: 361661
         latitude: 26.56667
@@ -118,6 +127,7 @@ regions:
           - "Al `Arish"
           - "Al ‘Arīsh"
           - "City of Cut Noses"
+          - El-`Arish
         ascii_name: "Al `Arish"
         geonamesid: 361546
         latitude: 31.12611
@@ -139,6 +149,7 @@ regions:
           - "Apollinopolis Parva"
           - "Apollonopolis Parva"
           - Kousa
+          - Qus
         ascii_name: Kousa
         geonamesid: 350422
         latitude: 25.91667
@@ -153,12 +164,14 @@ regions:
           - Caene
           - Kena
           - Keneh
+          - Qana
         ascii_name: Qina
         geonamesid: 350550
         latitude: 26.17
         longitude: 32.72722
         name: Qinā
-        names_en: ~
+        names_en: 
+          - Qina
         names_es: ~
         population: 235362
         timezone: Africa/Cairo
@@ -167,13 +180,16 @@ regions:
           - "Gebel el Hagif"
           - "Nag Hamadi"
           - "Nag Hamady"
+          - "Nag Hammadi"
         ascii_name: "Naj` Hammadi"
         geonamesid: 351434
         latitude: 26.05139
         longitude: 32.23861
         name: "Naj‘ Ḩammādī"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Nag Hammâdi"
+        names_es: 
+          - "Nag Hammadi"
         population: 41184
         timezone: Africa/Cairo
       - 
@@ -181,13 +197,16 @@ regions:
           - Asna
           - Asnā
           - Ehsna
+          - Esna
         ascii_name: Isna
         geonamesid: 355449
         latitude: 25.29306
         longitude: 32.55278
         name: Isnā
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Esna
+        names_es: 
+          - Esna
         population: 69335
         timezone: Africa/Cairo
       - 
@@ -209,6 +228,7 @@ regions:
           - Dashna
           - Dashnā
           - Dechna
+          - Deshna
         ascii_name: Dishna
         geonamesid: 358115
         latitude: 26.12111
@@ -223,13 +243,16 @@ regions:
           - "Al Uqsur"
           - "Al Uqşur"
           - "El Aqsur"
+          - "El Kusur"
         ascii_name: Luxor
         geonamesid: 360502
         latitude: 25.69893
         longitude: 32.6421
         name: Luxor
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Luxor
+        names_es: 
+          - Luxor
         population: 422407
         timezone: Africa/Cairo
     geonamesid: 350546
@@ -244,6 +267,7 @@ regions:
           - Siuah
           - Siva
           - Siwa
+          - Siwe
         ascii_name: Siwah
         geonamesid: 347863
         latitude: 29.20409
@@ -258,12 +282,14 @@ regions:
           - Madara
           - "Marsa Matruh"
           - Marsa-Matrukh
+          - "Marsá Maţrūḩ"
         ascii_name: "Marsa Matruh"
         geonamesid: 352733
         latitude: 31.35
         longitude: 27.23333
         name: "Marsá Maţrūḩ"
-        names_en: ~
+        names_en: 
+          - "Marsa Matruh"
         names_es: ~
         population: 62042
         timezone: Africa/Cairo
@@ -272,13 +298,16 @@ regions:
           - "Al `Alamayn"
           - "Al ‘Alamayn"
           - Alamein
+          - Alamejn
         ascii_name: "Al `Alamayn"
         geonamesid: 361612
         latitude: 30.81667
         longitude: 28.95
         name: "Al ‘Alamayn"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "El Alamein"
+        names_es: 
+          - "El Alamein"
         population: 7400
         timezone: Africa/Cairo
     geonamesid: 352603
@@ -304,6 +333,7 @@ regions:
           - "Kafr al-Sheikh"
           - "Kafr ash Shaykh"
           - "Kafr el-Sheikh"
+          - Kafr-Sheikh
         ascii_name: "Kafr ash Shaykh"
         geonamesid: 354502
         latitude: 31.11139
@@ -318,6 +348,7 @@ regions:
           - Fouah
           - Fowa
           - Fuwa
+          - Fuwah
         ascii_name: Fuwah
         geonamesid: 356806
         latitude: 31.2025
@@ -332,6 +363,7 @@ regions:
           - Dasuq
           - Dasūq
           - Dessouk
+          - Disuk
         ascii_name: Disuq
         geonamesid: 358108
         latitude: 31.12944
@@ -346,6 +378,7 @@ regions:
           - "Al Hamul"
           - "Al Ḩāmūl"
           - El-Hamul
+          - El-Ḥâmûl
         ascii_name: "Al Hamul"
         geonamesid: 361213
         latitude: 31.31139
@@ -367,13 +400,16 @@ regions:
           - Awfir
           - Awfīr
           - Cherm
+          - Ofira
         ascii_name: "Sharm ash Shaykh"
         geonamesid: 349340
         latitude: 27.86361
         longitude: 34.28806
         name: "Sharm ash Shaykh"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Sharm el Sheikh"
+        names_es: 
+          - "Sharm el-Sheij"
         population: 12000
         timezone: Africa/Cairo
       - 
@@ -381,12 +417,14 @@ regions:
           - Nueiba
           - Nuvejba
           - Nuwaiba`
+          - Nuwaiba‘
         ascii_name: Nuwaybi`a
         geonamesid: 350893
         latitude: 29.035
         longitude: 34.66167
         name: Nuwaybi‘a
-        names_en: ~
+        names_en: 
+          - Nueiba
         names_es: ~
         population: 5000
         timezone: Africa/Cairo
@@ -395,13 +433,16 @@ regions:
           - Dahab
           - Dahabas
           - Dakhab
+          - Dhahab
         ascii_name: Dhahab
         geonamesid: 358245
         latitude: 28.50098
         longitude: 34.51338
         name: Dhahab
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dahab
+        names_es: 
+          - Dahab
         population: 8000
         timezone: Africa/Cairo
       - 
@@ -409,6 +450,7 @@ regions:
           - Al-Tur
           - "At Tur"
           - "Aţ Ţūr"
+          - El-Tor
         ascii_name: Tor
         geonamesid: 359678
         latitude: 28.24167
@@ -430,12 +472,14 @@ regions:
           - "Ezbet el-Burg"
           - "`Ezbet el-Burg"
           - "`Izbat al Burj"
+          - "‘Ezbet el-Burg"
         ascii_name: "`Izbat al Burj"
         geonamesid: 355392
         latitude: 31.50833
         longitude: 31.83472
         name: "‘Izbat al Burj"
-        names_en: ~
+        names_en: 
+          - "Ezbet el-Burg"
         names_es: ~
         population: 37953
         timezone: Africa/Cairo
@@ -444,6 +488,7 @@ regions:
           - Faraskur
           - Faraskûr
           - Fariskur
+          - Fâriskûr
         ascii_name: Fariskur
         geonamesid: 356945
         latitude: 31.33083
@@ -458,12 +503,14 @@ regions:
           - Damiata
           - Damietta
           - Damiette
+          - Dimyat
         ascii_name: Damietta
         geonamesid: 358048
         latitude: 31.41944
         longitude: 31.815
         name: Damietta
-        names_en: ~
+        names_en: 
+          - Damietta
         names_es: ~
         population: 76839
         timezone: Africa/Cairo
@@ -490,13 +537,16 @@ regions:
           - "Bor Sa`id"
           - "Bor Sa‘īd"
           - "Bur Sa`id"
+          - Bursaid
         ascii_name: "Port Said"
         geonamesid: 358619
         latitude: 31.28056
         longitude: 32.3075
         name: "Port Said"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Port Said"
+        names_es: 
+          - "Puerto Saíd"
         population: 538378
         timezone: Africa/Cairo
       - 
@@ -504,6 +554,7 @@ regions:
           - "Al Matariyah"
           - "Al Maţarīyah"
           - "El Mataria"
+          - El-Matariya
         ascii_name: "Al Matariyah"
         geonamesid: 360716
         latitude: 31.18389
@@ -525,6 +576,7 @@ regions:
           - "Sumusta as Sultani"
           - "Sumusta el Sultani"
           - "Sumusţā as Sulţānī"
+          - "Sumusṭa el Sulṭâni"
         ascii_name: "Sumusta as Sultani"
         geonamesid: 347749
         latitude: 28.91667
@@ -550,6 +602,7 @@ regions:
           - "Bani Suwayf"
           - "Banī Suwayf"
           - "Beni Souef"
+          - "Beni Sue"
         ascii_name: "Bani Suwayf"
         geonamesid: 359173
         latitude: 29.06389
@@ -599,6 +652,7 @@ regions:
           - Dairut
           - "Dairut el Mahatta"
           - Dairût
+          - "Dairût el Maḥaṭṭa"
         ascii_name: Dayrut
         geonamesid: 358269
         latitude: 27.55861
@@ -613,6 +667,7 @@ regions:
           - As'jut
           - Assiout
           - Assiut
+          - Assuit
         ascii_name: Asyut
         geonamesid: 359783
         latitude: 27.18278
@@ -627,6 +682,7 @@ regions:
           - "Al Qusiyah"
           - "Al Qūşīyah"
           - Cusae
+          - "El Qusiya"
         ascii_name: "Al Qusiyah"
         geonamesid: 360526
         latitude: 27.44444
@@ -641,6 +697,7 @@ regions:
           - "Abu Tig"
           - "Abu Tij"
           - "Abu Tîg"
+          - "Abū Tīj"
         ascii_name: "Abu Tij"
         geonamesid: 362004
         latitude: 27.03333
@@ -675,13 +732,16 @@ regions:
           - "Kawm Ombo"
           - "Kawm Umbu"
           - "Kawm Umbū"
+          - "Kom Ombo"
         ascii_name: "Kawm Umbu"
         geonamesid: 353802
         latitude: 24.47917
         longitude: 32.94361
         name: "Kawm Umbū"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Kom Ombo"
+        names_es: 
+          - "Kom Ombo"
         population: 59787
         timezone: Africa/Cairo
       - 
@@ -689,13 +749,16 @@ regions:
           - Assouan
           - Assuan
           - Assuao
+          - Assuão
         ascii_name: Aswan
         geonamesid: 359792
         latitude: 24.0875
         longitude: 32.89889
         name: Aswān
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aswan
+        names_es: 
+          - Asuán
         population: 241261
         timezone: Africa/Cairo
       - 
@@ -703,6 +766,7 @@ regions:
           - "Abou Simbel"
           - "Abu Simbel"
           - "Abu Simbil"
+          - "Abu Sinbil"
         ascii_name: "Abu Sunbul"
         geonamesid: 362041
         latitude: 22.36667
@@ -735,13 +799,16 @@ regions:
           - "Al Qulzum"
           - "As Suways"
           - Clysma
+          - "El Seweis"
         ascii_name: Suez
         geonamesid: 359796
         latitude: 29.96667
         longitude: 32.55
         name: Suez
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Suez
+        names_es: 
+          - Suez
         population: 488125
         timezone: Africa/Cairo
       - 
@@ -769,6 +836,7 @@ regions:
           - "Mashtul as Suq"
           - "Mashtul el-Suq"
           - "Mashtûl el-Sûq"
+          - "Mashtūl as Sūq"
         ascii_name: "Mashtul as Suq"
         geonamesid: 352679
         latitude: 30.36056
@@ -797,6 +865,7 @@ regions:
           - Hehia
           - Hihya
           - Hihyā
+          - Rehia
         ascii_name: Hihya
         geonamesid: 355939
         latitude: 30.67
@@ -811,6 +880,7 @@ regions:
           - Fakous
           - Fakus
           - Faqus
+          - Fāqūs
         ascii_name: Faqus
         geonamesid: 356989
         latitude: 30.72972
@@ -825,12 +895,14 @@ regions:
           - Belbeis
           - Bilbays
           - Bilbeis
+          - Bilbes
         ascii_name: Bilbays
         geonamesid: 358840
         latitude: 30.41667
         longitude: 31.56667
         name: Bilbays
-        names_en: ~
+        names_en: 
+          - Bilbeis
         names_es: ~
         population: 129211
         timezone: Africa/Cairo
@@ -839,12 +911,14 @@ regions:
           - "As Zaqaziq"
           - "As Zaqāzīq"
           - "Az Zagazig"
+          - "Az Zagāzīg"
         ascii_name: "Az Zaqaziq"
         geonamesid: 359493
         latitude: 30.59139
         longitude: 31.51028
         name: "Az Zaqāzīq"
-        names_en: ~
+        names_en: 
+          - Zagazig
         names_es: ~
         population: 285097
         timezone: Africa/Cairo
@@ -853,6 +927,7 @@ regions:
           - "Al Qurayn"
           - Al'-Ehl'-Kurajn
           - El-Qurein
+          - Аль-Эль-Курайн
         ascii_name: "Al Qurayn"
         geonamesid: 360542
         latitude: 30.61278
@@ -867,6 +942,7 @@ regions:
           - "Al Qanayat"
           - "Al Qanāyāt"
           - El-Qanayat
+          - El-Qanâyât
         ascii_name: "Al Qanayat"
         geonamesid: 360612
         latitude: 30.61917
@@ -881,6 +957,7 @@ regions:
           - "Al Ibrahimiyah"
           - "Al Ibrāhīmīyah"
           - El-Ibrahimiya
+          - El-Ibrâhîmîya
         ascii_name: "Al Ibrahimiyah"
         geonamesid: 361103
         latitude: 30.71083
@@ -895,6 +972,7 @@ regions:
           - "Abu Kabir"
           - "Abu Kebir"
           - "Abu Kebîr"
+          - "Abū Kabīr"
         ascii_name: "Abu Kabir"
         geonamesid: 362485
         latitude: 30.72528
@@ -906,7 +984,8 @@ regions:
         timezone: Africa/Cairo
     geonamesid: 360016
     name: "Eastern Province"
-    names_en: ~
+    names_en: 
+      - "Eastern Province"
     names_es: ~
   - 
     ascii_name: "Muhafazat al Wadi al Jadid"
@@ -916,6 +995,7 @@ regions:
           - "Al Farafirah"
           - "Al Farāfirah"
           - Farafra
+          - "Qasr Farafra"
         ascii_name: "Qasr al Farafirah"
         geonamesid: 350661
         latitude: 27.06667
@@ -930,6 +1010,7 @@ regions:
           - "Al Kharijah"
           - "Al Khārijah"
           - Al-Kharga
+          - "El Kharga"
         ascii_name: "Al Kharijah"
         geonamesid: 360923
         latitude: 25.43333
@@ -951,6 +1032,7 @@ regions:
           - Toukh
           - Tukh
           - "Tukh al Malaq"
+          - "Tukh el-Malaq"
         ascii_name: Toukh
         geonamesid: 347236
         latitude: 30.34833
@@ -965,6 +1047,7 @@ regions:
           - "Shabin al Qanatir"
           - "Shabir al-Kanatir"
           - "Shabīn al Qanātir"
+          - "Shibin al Qanatir"
         ascii_name: "Shibin al Qanatir"
         geonamesid: 349156
         latitude: 30.31278
@@ -979,12 +1062,14 @@ regions:
           - Kal'jub
           - Kalyub
           - Kalyûb
+          - Qaliub
         ascii_name: Qalyub
         geonamesid: 350789
         latitude: 30.18306
         longitude: 31.20528
         name: Qalyūb
-        names_en: ~
+        names_en: 
+          - Qalyub
         names_es: ~
         population: 100495
         timezone: Africa/Cairo
@@ -993,6 +1078,7 @@ regions:
           - Athribis
           - "Bandar Banha"
           - "Bandar Banhā"
+          - Banha
         ascii_name: Banha
         geonamesid: 359280
         latitude: 30.46083
@@ -1007,6 +1093,7 @@ regions:
           - "Al Qanatir al Khayriyah"
           - "Al Qanāţir al Khayrīyah"
           - Barrage
+          - "Delta Barrage Station"
         ascii_name: "Al Qanatir al Khayriyah"
         geonamesid: 360615
         latitude: 30.19806
@@ -1021,6 +1108,7 @@ regions:
           - "Al Khankah"
           - "Al Khānkah"
           - El-Khanka
+          - El-Khankah
         ascii_name: "Al Khankah"
         geonamesid: 360928
         latitude: 30.21806
@@ -1042,12 +1130,14 @@ regions:
           - Halwan
           - Helouan
           - Helouan-les-Bains
+          - Helwan
         ascii_name: Hilwan
         geonamesid: 355795
         latitude: 29.85
         longitude: 31.33333
         name: Hilwan
-        names_en: ~
+        names_en: 
+          - Helwan
         names_es: ~
         population: 230000
         timezone: Africa/Cairo
@@ -1056,13 +1146,17 @@ regions:
           - "Al Qahirah"
           - "Al Qāhirah"
           - Caire
+          - Cairo
         ascii_name: Cairo
         geonamesid: 360630
         latitude: 30.06263
         longitude: 31.24967
         name: Cairo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cairo
+        names_es: 
+          - Cairo
+          - "El Cairo"
         population: 7734614
         timezone: Africa/Cairo
       - 
@@ -1101,6 +1195,7 @@ regions:
           - Matai
           - Matay
           - Matâi
+          - Maţāy
         ascii_name: Matay
         geonamesid: 352628
         latitude: 28.42222
@@ -1115,6 +1210,7 @@ regions:
           - Mallauri
           - Mallavi
           - Mallawi
+          - Mallawī
         ascii_name: Mallawi
         geonamesid: 352951
         latitude: 27.73194
@@ -1129,6 +1225,7 @@ regions:
           - "Dayr Mawas"
           - "Dayr Mawās"
           - "Deir Mawas"
+          - "Deir Mawās"
         ascii_name: "Dayr Mawas"
         geonamesid: 358274
         latitude: 27.64139
@@ -1143,6 +1240,7 @@ regions:
           - "Bani Mazar"
           - "Banī Mazār"
           - "Beni Mazar"
+          - "Beni Mazâr"
         ascii_name: "Bani Mazar"
         geonamesid: 359212
         latitude: 28.50361
@@ -1157,12 +1255,14 @@ regions:
           - "Al Minya"
           - "Al Minyā"
           - Ehl'-Min'ja
+          - "El Minia"
         ascii_name: "Al Minya"
         geonamesid: 360686
         latitude: 28.11944
         longitude: 30.74444
         name: "Al Minyā"
-        names_en: ~
+        names_en: 
+          - Minya
         names_es: ~
         population: 227150
         timezone: Africa/Cairo
@@ -1171,6 +1271,7 @@ regions:
           - "Abu Gurgas"
           - "Abu Kerkae"
           - "Abu Kirkas"
+          - "Abu Qurqas"
         ascii_name: "Abu Qurqas"
         geonamesid: 362277
         latitude: 27.93083
@@ -1203,6 +1304,7 @@ regions:
           - Tala
           - Tale
           - Talla
+          - Talā
         ascii_name: Tala
         geonamesid: 347612
         latitude: 30.68194
@@ -1217,6 +1319,7 @@ regions:
           - "Shabin al-Kum"
           - "Shebin al-Kom"
           - "Shibin al Kawm"
+          - "Shibin el-Kom"
         ascii_name: "Shibin al Kawm"
         geonamesid: 349158
         latitude: 30.55861
@@ -1231,6 +1334,7 @@ regions:
           - Kuesnah
           - Quwaysina
           - Quwaysinā
+          - Quweisna
         ascii_name: Quwaysina
         geonamesid: 350370
         latitude: 30.56667
@@ -1245,6 +1349,7 @@ regions:
           - Manuf
           - Manūf
           - Menouf
+          - Menoufis
         ascii_name: Minuf
         geonamesid: 352354
         latitude: 30.46667
@@ -1259,6 +1364,7 @@ regions:
           - "Ash Shuhada'"
           - "Ash Shuhadā’"
           - "El Shohada"
+          - El-Shuhada
         ascii_name: "Ash Shuhada'"
         geonamesid: 359953
         latitude: 30.59361
@@ -1284,6 +1390,7 @@ regions:
           - "Al Bajur"
           - "Al Bājūr"
           - "El Baqur"
+          - El-Bagur
         ascii_name: "Al Bajur"
         geonamesid: 361457
         latitude: 30.43083
@@ -1305,6 +1412,7 @@ regions:
           - "6 October City"
           - "Madinat Sittah Uktubar"
           - "Madīnat Sittah Uktūbar"
+          - "October 6"
         ascii_name: "Madinat Sittah Uktubar"
         geonamesid: 353219
         latitude: 29.81667
@@ -1319,6 +1427,7 @@ regions:
           - Ausim
           - Ausîm
           - Awsim
+          - Awsīm
         ascii_name: Awsim
         geonamesid: 359576
         latitude: 30.1225
@@ -1333,6 +1442,7 @@ regions:
           - "As Saff"
           - "Aş Şaff"
           - El-Saff
+          - "Es Saff"
         ascii_name: "As Saff"
         geonamesid: 359900
         latitude: 29.56472
@@ -1347,13 +1457,16 @@ regions:
           - "Al Jizah"
           - "Al Jīzah"
           - "El Gizeh"
+          - El-Giza
         ascii_name: "Al Jizah"
         geonamesid: 360995
         latitude: 30.00861
         longitude: 31.21222
         name: "Al Jīzah"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Giza
+        names_es: 
+          - Giza
         population: 2443203
         timezone: Africa/Cairo
       - 
@@ -1361,6 +1474,7 @@ regions:
           - "Al Hawamidiyah"
           - "Al Ḩawāmidīyah"
           - El-Hawamdiya
+          - El-Ḥawâmdîya
         ascii_name: "Al Hawamidiyah"
         geonamesid: 361179
         latitude: 29.9
@@ -1375,6 +1489,7 @@ regions:
           - "Al Bawiti"
           - "Al Bawīţī"
           - Baviti
+          - Bawiti
         ascii_name: "Al Bawiti"
         geonamesid: 361394
         latitude: 28.35
@@ -1389,6 +1504,7 @@ regions:
           - "Al `Ayyat"
           - "Al ‘Ayyāţ"
           - Ayat
+          - "El `Ayyat"
         ascii_name: "Al `Ayyat"
         geonamesid: 361495
         latitude: 29.61972
@@ -1410,6 +1526,7 @@ regions:
           - "At Tall al Kabir"
           - "At Tall al Kabīr"
           - "At Tell al Kebir"
+          - "At Tell al Kebīr"
         ascii_name: "At Tall al Kabir"
         geonamesid: 359710
         latitude: 30.54556
@@ -1424,12 +1541,15 @@ regions:
           - "Al Isma`iliya"
           - "Al Isma`iliyah"
           - "Al Ismā‘īlīya"
+          - "Al Ismā‘īlīyah"
         ascii_name: Ismailia
         geonamesid: 361055
         latitude: 30.60528
         longitude: 32.27722
         name: Ismailia
-        names_en: ~
+        names_en: 
+          - Ismaïlia
+          - Ismailia
         names_es: ~
         population: 284813
         timezone: Africa/Cairo
@@ -1445,18 +1565,23 @@ regions:
           - "Al Iskandariyah"
           - "Al Iskandarīyah"
           - Alegsandiri
+          - Alegsàndiri
         ascii_name: Alexandria
         geonamesid: 361058
         latitude: 31.19806
         longitude: 29.91917
         name: Alexandria
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Alexandria
+        names_es: 
+          - Alejandría
         population: 3811516
         timezone: Africa/Cairo
     geonamesid: 361059
     name: Alexandria
-    names_en: ~
+    names_en: 
+      - Alexandria
+      - "Alexandria Governorate"
     names_es: ~
   - 
     ascii_name: "Muhafazat al Gharbiyah"
@@ -1480,12 +1605,14 @@ regions:
           - Tanda
           - Tanta
           - tnta
+          - tnth
         ascii_name: Tanda
         geonamesid: 347497
         latitude: 30.79111
         longitude: 30.99806
         name: Tanda
-        names_en: ~
+        names_en: 
+          - Tanta
         names_es: ~
         population: 404901
         timezone: Africa/Cairo
@@ -1494,6 +1621,7 @@ regions:
           - Samannud
           - Samannûd
           - Samannūd
+          - Samnud
         ascii_name: Samannud
         geonamesid: 349715
         latitude: 30.96278
@@ -1508,6 +1636,7 @@ regions:
           - Kotur
           - Kotûr
           - Qotur
+          - Qutur
         ascii_name: Qutur
         geonamesid: 350376
         latitude: 30.98333
@@ -1522,6 +1651,7 @@ regions:
           - "Kafr az Zayat"
           - "Kafr az Zayyat"
           - "Kafr az Zayyāt"
+          - "Kafr az Zayāt"
         ascii_name: "Kafr az Zayyat"
         geonamesid: 354365
         latitude: 30.82056
@@ -1550,6 +1680,7 @@ regions:
           - "Al Mahallah al Kubra"
           - "Al Maḩallah al Kubrá"
           - "El Mahalla"
+          - "El Mahalla el Kubra"
         ascii_name: "Al Mahallah al Kubra"
         geonamesid: 360829
         latitude: 30.97611
@@ -1571,6 +1702,7 @@ regions:
           - Tamiya
           - Tamiyah
           - Tumyah
+          - Tāmīya
         ascii_name: Tamiyah
         geonamesid: 347542
         latitude: 29.48333
@@ -1610,6 +1742,7 @@ regions:
           - "Al Wasitah"
           - "Al Wāsiţah"
           - "El Wasta"
+          - "El Wāsta"
         ascii_name: "Al Wasitah"
         geonamesid: 360464
         latitude: 29.33778
@@ -1624,13 +1757,16 @@ regions:
           - "Al Fayyum"
           - "Al Fayyūm"
           - Al'-Fajum
+          - Al-Fayyum
         ascii_name: "Al Fayyum"
         geonamesid: 361320
         latitude: 29.30778
         longitude: 30.84
         name: "Al Fayyūm"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Al Fayyum"
+        names_es: 
+          - El-Fayum
         population: 306393
         timezone: Africa/Cairo
     geonamesid: 361323
@@ -1645,13 +1781,16 @@ regions:
           - Bolbitine
           - Er-Rashid
           - Rachid
+          - Rashid
         ascii_name: Rosetta
         geonamesid: 350203
         latitude: 31.40444
         longitude: 30.41639
         name: Rosetta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rosetta
+        names_es: 
+          - Rosetta
         population: 64481
         timezone: Africa/Cairo
       - 
@@ -1659,6 +1798,7 @@ regions:
           - "Kawm Hamadah"
           - "Kawm Ḩamādah"
           - "Kom Hamada"
+          - "Kôm Ḥamâda"
         ascii_name: "Kawm Hamadah"
         geonamesid: 353828
         latitude: 30.75583
@@ -1673,6 +1813,7 @@ regions:
           - "Kafr ad Dawwar"
           - "Kafr ad Dawwār"
           - "Kafr al-Dawar"
+          - "Kafr ed-Dauwar"
         ascii_name: "Kafr ad Dawwar"
         geonamesid: 354775
         latitude: 31.13385
@@ -1687,6 +1828,7 @@ regions:
           - Edkou
           - Idku
           - Idkū
+          - Идку
         ascii_name: Idku
         geonamesid: 355628
         latitude: 31.30782
@@ -1701,6 +1843,7 @@ regions:
           - "Haush `Isa"
           - "Haush ‘Isá"
           - "Hawsh `Isa"
+          - "Hosh `Isa"
         ascii_name: "Hawsh `Isa"
         geonamesid: 356000
         latitude: 30.91278
@@ -1715,12 +1858,14 @@ regions:
           - "Bandar Damanhur"
           - "Bandar Damanhūr"
           - Damanhour
+          - Damanhur
         ascii_name: Damanhur
         geonamesid: 358448
         latitude: 31.03333
         longitude: 30.46667
         name: Damanhûr
-        names_en: ~
+        names_en: 
+          - Damanhur
         names_es: ~
         population: 227943
         timezone: Africa/Cairo
@@ -1729,6 +1874,7 @@ regions:
           - "Ad Dilinjat"
           - "Ad Dilinjāt"
           - Delingat
+          - "Ed Dilingat"
         ascii_name: "Ad Dilinjat"
         geonamesid: 361827
         latitude: 30.82806
@@ -1743,6 +1889,7 @@ regions:
           - "Abu `elwet-Matamir"
           - "Abu al Matamir"
           - "Abu el Matamir"
+          - "Abu el Matāmīr"
         ascii_name: "Abu al Matamir"
         geonamesid: 362882
         latitude: 30.90833
@@ -1764,6 +1911,7 @@ regions:
           - "Marsa Alam"
           - "Marsa `Alam"
           - "Mersa Alam"
+          - "Марса Алам"
         ascii_name: "Marsa al `Alam"
         geonamesid: 352736
         latitude: 25.07573
@@ -1778,13 +1926,16 @@ regions:
           - "Bur Safajah"
           - "Būr Safājah"
           - "Port Safaga"
+          - "Port Safâga"
         ascii_name: "Bur Safajah"
         geonamesid: 358620
         latitude: 26.73333
         longitude: 33.93333
         name: "Būr Safājah"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Port Safaga"
+        names_es: 
+          - Safaga
         population: 32944
         timezone: Africa/Cairo
       - 
@@ -1792,6 +1943,7 @@ regions:
           - "Al Qusayr"
           - "Al Quşayr"
           - Al'-Kusajra
+          - Koseir
         ascii_name: "Al Qusayr"
         geonamesid: 360531
         latitude: 26.1
@@ -1806,12 +1958,14 @@ regions:
           - "Al Ghardaqah"
           - Al-Ghardaqa
           - El-Ghardaqa
+          - Hurgada
         ascii_name: "Al Ghardaqah"
         geonamesid: 361291
         latitude: 27.25738
         longitude: 33.81291
         name: "Al Ghardaqah"
-        names_en: ~
+        names_en: 
+          - Hurghada
         names_es: ~
         population: 95622
         timezone: Africa/Cairo
@@ -1820,6 +1974,7 @@ regions:
           - "Al Badari"
           - "Al Badārī"
           - "El Badari"
+          - "El Badâri"
         ascii_name: "Al Badari"
         geonamesid: 361478
         latitude: 26.99222
@@ -1852,7 +2007,8 @@ regions:
         latitude: 27.22098
         longitude: 33.8378
         name: "Makadi Bay"
-        names_en: ~
+        names_en: 
+          - Makady
         names_es: ~
         population: 4000
         timezone: Africa/Cairo
@@ -1882,6 +2038,7 @@ regions:
           - Sharbin
           - Sharbīn
           - Sherbin
+          - Shirbin
         ascii_name: Shirbin
         geonamesid: 349114
         latitude: 31.19389
@@ -1896,6 +2053,7 @@ regions:
           - "Minyat an Nasr"
           - "Minyat an Naşr"
           - "Minyet el-Nasr"
+          - "Minyet el-Naṣr"
         ascii_name: "Minyat an Nasr"
         geonamesid: 352344
         latitude: 31.13306
@@ -1924,6 +2082,7 @@ regions:
           - Dekernes
           - Dikinis
           - Dikirnis
+          - Дикирнис
         ascii_name: Dikirnis
         geonamesid: 358172
         latitude: 31.08833
@@ -1938,6 +2097,7 @@ regions:
           - Balqas
           - Balqās
           - Bilqas
+          - "Bilqas Qism Auwal"
         ascii_name: "Bilqas Qism Awwal"
         geonamesid: 358821
         latitude: 31.21306
@@ -1966,13 +2126,16 @@ regions:
           - "Al Mansurah"
           - "Al Manşūrah"
           - Al-Mansura
+          - Al-Mansurah
         ascii_name: "Al Mansurah"
         geonamesid: 360761
         latitude: 31.04306
         longitude: 31.37667
         name: "Al Manşūrah"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Al Mansurah"
+        names_es: 
+          - "El Mansura"
         population: 420195
         timezone: Africa/Cairo
       - 
@@ -1980,6 +2143,7 @@ regions:
           - "Al Jamaliyah"
           - "Al Jamālīyah"
           - El-Gamaliya
+          - El-Gamalîya
         ascii_name: "Al Jamaliyah"
         geonamesid: 361029
         latitude: 31.18111
@@ -1994,6 +2158,7 @@ regions:
           - Aga
           - Aja
           - Ajā
+          - Айа
         ascii_name: Aja
         geonamesid: 361702
         latitude: 30.94167

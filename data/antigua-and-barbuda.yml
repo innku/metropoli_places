@@ -2,8 +2,10 @@
 geonamesid: 3576396
 iso: AG
 name: "Antigua and Barbuda"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Antigua and Barbuda"
+names_es: 
+  - "Antigua y Barbuda"
 regions: 
   - 
     ascii_name: "Parish of Saint Philip"
@@ -69,13 +71,16 @@ regions:
           - "Saint John"
           - "Saint John's"
           - "Saint John’s"
+          - "Sent Dzonsas"
         ascii_name: "Saint John's"
         geonamesid: 3576022
         latitude: 17.11667
         longitude: -61.85
         name: "Saint John’s"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "St. John's"
+        names_es: 
+          - "Saint John's"
         population: 24226
         timezone: America/Antigua
       - 
@@ -83,6 +88,7 @@ regions:
           - Potters
           - "Potters Village"
           - Potters-Villadzh
+          - Поттерс-Вилладж
         ascii_name: "Potters Village"
         geonamesid: 3576050
         latitude: 17.08333
@@ -95,7 +101,9 @@ regions:
     geonamesid: 3576023
     name: "Saint John"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "St. John's"
+      - "Saint John´S"
   - 
     ascii_name: "Parish of Saint George"
     cities: []
@@ -108,8 +116,10 @@ regions:
     cities: []
     geonamesid: 3576037
     name: Redonda
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Redonda
+    names_es: 
+      - Redonda
   - 
     ascii_name: Barbuda
     cities: []

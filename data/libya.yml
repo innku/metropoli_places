@@ -2,8 +2,12 @@
 geonamesid: 2215636
 iso: LY
 name: Libya
-names_en: ~
-names_es: ~
+names_en: 
+  - Libya
+  - "Great Socialist People’s Libyan Arab Jamahiriya"
+names_es: 
+  - Libia
+  - "Libia, República Árabe"
 regions: 
   - 
     ascii_name: "Sha`biyat Darnah"
@@ -13,12 +17,14 @@ regions:
           - Daernae
           - Darnah
           - Darnis
+          - Derna
         ascii_name: Darnah
         geonamesid: 87205
         latitude: 32.76704
         longitude: 22.63669
         name: Darnah
-        names_en: ~
+        names_en: 
+          - Darnah
         names_es: ~
         population: 78782
         timezone: Africa/Tripoli
@@ -34,13 +40,16 @@ regions:
           - Baengasi
           - Banghazi
           - Banghāzī
+          - Bengasi
         ascii_name: Banghazi
         geonamesid: 88319
         latitude: 32.11667
         longitude: 20.06667
         name: Banghāzī
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Benghazi
+        names_es: 
+          - Bengasi
         population: 650629
         timezone: Africa/Tripoli
     geonamesid: 88318
@@ -55,12 +64,14 @@ regions:
           - "Al Marj"
           - Al'-Mardzh
           - "El Merj"
+          - Maerciaen
         ascii_name: "Al Marj"
         geonamesid: 88903
         latitude: 32.48798
         longitude: 20.83174
         name: "Al Marj"
-        names_en: ~
+        names_en: 
+          - "Al Marj"
         names_es: ~
         population: 85315
         timezone: Africa/Tripoli
@@ -76,6 +87,7 @@ regions:
           - "Al Kafrah"
           - "Al Kufrah"
           - alkfrt
+          - الكفرة
         ascii_name: "Al Kafrah"
         geonamesid: 88930
         latitude: 24.16667
@@ -97,6 +109,7 @@ regions:
           - "Al Bayda'"
           - "Al Bayḑā’"
           - Al-Baida
+          - "Az Zawiyah al Bayda'"
         ascii_name: "Al Bayda'"
         geonamesid: 89055
         latitude: 32.76272
@@ -118,19 +131,23 @@ regions:
           - Aea
           - Ea
           - Oea
+          - Tarables
         ascii_name: Tripoli
         geonamesid: 2210247
         latitude: 32.87519
         longitude: 13.18746
         name: Tripoli
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tripolis
+        names_es: 
+          - Trípoli
         population: 1150989
         timezone: Africa/Tripoli
     geonamesid: 2210245
     name: Ţarābulus
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Tarabulus
   - 
     ascii_name: "Sha`biyat Surt"
     cities: 
@@ -139,13 +156,16 @@ regions:
           - "Gasr Zaafran"
           - "Gasr Zaafrán"
           - Macomades-Euphranta
+          - "Qasr Sirt"
         ascii_name: Surt
         geonamesid: 2210554
         latitude: 31.20892
         longitude: 16.58866
         name: Surt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Surt
+        names_es: 
+          - Sirte
         population: 128123
         timezone: Africa/Tripoli
     geonamesid: 2210553
@@ -160,12 +180,14 @@ regions:
           - El-Gedid
           - El-Gedíd
           - "Fort Leclerc"
+          - Sabha
         ascii_name: Sabha
         geonamesid: 2212775
         latitude: 27.03766
         longitude: 14.42832
         name: Sabhā
-        names_en: ~
+        names_en: 
+          - Sabha
         names_es: ~
         population: 130000
         timezone: Africa/Tripoli
@@ -181,6 +203,7 @@ regions:
           - Lalut
           - Lalút
           - Nalut
+          - Nālūt
         ascii_name: Nalut
         geonamesid: 2214433
         latitude: 31.86848
@@ -202,12 +225,15 @@ regions:
           - Marzuq
           - Marzūq
           - Mourzouk
+          - Mursukiaen
         ascii_name: Murzuq
         geonamesid: 2214603
         latitude: 25.91552
         longitude: 13.91839
         name: Murzuq
-        names_en: ~
+        names_en: 
+          - Murzuq
+          - Murzuk
         names_es: ~
         population: 43732
         timezone: Africa/Tripoli
@@ -223,12 +249,14 @@ regions:
           - "Al Misratah"
           - "Madinat Misratah"
           - "Madīnat Mişrātah"
+          - Misrata
         ascii_name: Misratah
         geonamesid: 2214846
         latitude: 32.37535
         longitude: 15.09254
         name: Mişrātah
-        names_en: ~
+        names_en: 
+          - Misratah
         names_es: ~
         population: 386120
         timezone: Africa/Tripoli
@@ -244,6 +272,7 @@ regions:
           - Gat
           - Ghat
           - Ghāt
+          - Rhat
         ascii_name: Ghat
         geonamesid: 2217351
         latitude: 24.96472
@@ -265,6 +294,7 @@ regions:
           - "Az Zawiyah"
           - "Az Zawiyah al Gherbiyah"
           - "Az Zāwiyah al Gherbīyah"
+          - "Az Zāwīyah"
         ascii_name: "Az Zawiyah"
         geonamesid: 2218970
         latitude: 32.7571
@@ -286,6 +316,7 @@ regions:
           - Adiri
           - Adri
           - Adrī
+          - Adīrī
         ascii_name: Idri
         geonamesid: 2220309
         latitude: 27.5
@@ -307,6 +338,7 @@ regions:
           - Hon
           - Hun
           - Hūn
+          - "Madinat Hun"
         ascii_name: Hun
         geonamesid: 2216645
         latitude: 29.12684
@@ -328,6 +360,7 @@ regions:
           - Zuara
           - Zuava
           - Zuwarah
+          - Zuwārah
         ascii_name: Zuwarah
         geonamesid: 2208425
         latitude: 32.9312
@@ -349,13 +382,16 @@ regions:
           - Antipyrgos
           - Antipyrgus
           - Tobroek
+          - Tobrouk
         ascii_name: Tobruk
         geonamesid: 81302
         latitude: 32.08361
         longitude: 23.97639
         name: Tobruk
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tobruk
+        names_es: 
+          - Tobruk
         population: 121052
         timezone: Africa/Tripoli
     geonamesid: 7602688
@@ -370,6 +406,7 @@ regions:
           - Garian
           - "Gasr Garian"
           - "Gasr Gariàn"
+          - Gharyan
         ascii_name: Gharyan
         geonamesid: 2217362
         latitude: 32.17222
@@ -391,6 +428,7 @@ regions:
           - "Al `Aziziyah"
           - "Al ‘Azīzīyah"
           - Azizia
+          - "El Azizia"
         ascii_name: "Al 'Aziziyah"
         geonamesid: 2220139
         latitude: 32.53194
@@ -412,12 +450,14 @@ regions:
           - "Al Khums"
           - "El Choms"
           - Homs
+          - Khoms
         ascii_name: "Al Khums"
         geonamesid: 2219905
         latitude: 32.65
         longitude: 14.26667
         name: "Al Khums"
-        names_en: ~
+        names_en: 
+          - "Al Khums"
         names_es: ~
         population: 201943
         timezone: Africa/Tripoli
@@ -433,12 +473,14 @@ regions:
           - AEcdabiya
           - Adjadabia
           - Agedabia
+          - Ajdabiya
         ascii_name: Ajdabiya
         geonamesid: 89113
         latitude: 30.75917
         longitude: 20.22306
         name: Ajdābiyā
-        names_en: ~
+        names_en: 
+          - Ajdabiya
         names_es: ~
         population: 134358
         timezone: Africa/Tripoli
@@ -454,6 +496,7 @@ regions:
           - Awbari
           - Awbārī
           - Ubari
+          - awbary
         ascii_name: Awbari
         geonamesid: 2219235
         latitude: 26.58333

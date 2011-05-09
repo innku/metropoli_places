@@ -2,8 +2,11 @@
 geonamesid: 1220409
 iso: TJ
 name: Tajikistan
-names_en: ~
-names_es: ~
+names_en: 
+  - Tajikistan
+  - "Republic of Tajikistan"
+names_es: 
+  - Tayikistán
 regions: 
   - 
     ascii_name: "Viloyati Sughd"
@@ -26,6 +29,7 @@ regions:
           - Bundzhikat
           - Istaravshan
           - Ura-Tyube
+          - Uroteppa
         ascii_name: Istaravshan
         geonamesid: 1220253
         latitude: 39.91083
@@ -40,6 +44,7 @@ regions:
           - Panjakent
           - Panjkent
           - Pendshikent
+          - Pendzhakent
         ascii_name: Panjakent
         geonamesid: 1220798
         latitude: 39.50306
@@ -54,6 +59,7 @@ regions:
           - Aini
           - Ayni
           - Ayny
+          - Varziminor
         ascii_name: Ayny
         geonamesid: 1222222
         latitude: 39.3975
@@ -68,13 +74,16 @@ regions:
           - Chodzjand
           - Chudschand
           - Chudzandas
+          - Chudzjand
         ascii_name: Khujand
         geonamesid: 1514879
         latitude: 40.28
         longitude: 69.63167
         name: Khujand
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Khujand
+        names_es: 
+          - Khodjent
         population: 144865
         timezone: Asia/Dushanbe
     geonamesid: 1221092
@@ -89,6 +98,7 @@ regions:
           - Kala-i-Vanch
           - Rokharv
           - Vanch
+          - Vanj
         ascii_name: Vanj
         geonamesid: 1220210
         latitude: 38.37306
@@ -103,6 +113,7 @@ regions:
           - Margab
           - Murgab
           - Murghab
+          - Murghabi
         ascii_name: Murghob
         geonamesid: 1220962
         latitude: 38.16889
@@ -117,6 +128,7 @@ regions:
           - Khorog
           - Khorugh
           - Хорог
+          - Хоруғ
         ascii_name: Khorugh
         geonamesid: 1221328
         latitude: 37.49167
@@ -131,6 +143,7 @@ regions:
           - Ishkashim
           - "Ishkashim Post"
           - "Ishkāshīm Post"
+          - Nud
         ascii_name: Ishkashim
         geonamesid: 1221614
         latitude: 36.72722
@@ -153,7 +166,8 @@ regions:
         timezone: Asia/Dushanbe
     geonamesid: 1221692
     name: Gorno-Badakhshan
-    names_en: ~
+    names_en: 
+      - Gorno-Badakhshan
     names_es: ~
   - 
     ascii_name: "Viloyati Khatlon"
@@ -177,6 +191,7 @@ regions:
           - Aral
           - "Imeni Vose"
           - "Kal Khaz"
+          - Kolkhozabad
         ascii_name: Vose'
         geonamesid: 1220163
         latitude: 37.8025
@@ -219,12 +234,14 @@ regions:
           - "Kurgan Tjube"
           - Kurgan-Tyube
           - "Qurghan Tyube"
+          - "Qurghān Tyube"
         ascii_name: Qurghonteppa
         geonamesid: 1220747
         latitude: 37.83639
         longitude: 68.78028
         name: Qŭrghonteppa
-        names_en: ~
+        names_en: 
+          - Kurgan-Tyube
         names_es: ~
         population: 65000
         timezone: Asia/Dushanbe
@@ -233,6 +250,7 @@ regions:
           - Baumanabad
           - Kirovabad
           - Kirowabad
+          - Panj
         ascii_name: Panj
         geonamesid: 1220750
         latitude: 37.23833
@@ -247,6 +265,7 @@ regions:
           - Farkhor
           - Parkbar
           - Parkhar
+          - Фархор
         ascii_name: Farkhor
         geonamesid: 1220826
         latitude: 37.49222
@@ -261,6 +280,7 @@ regions:
           - Leningrad
           - Leningradskiy
           - Muminabad
+          - Muminobod
         ascii_name: Muminobod
         geonamesid: 1221091
         latitude: 38.10778
@@ -275,6 +295,7 @@ regions:
           - Aral
           - Kuibyshevabad
           - Kuybishevsk
+          - Kuybyshevabad
         ascii_name: Kuybishevsk
         geonamesid: 1221136
         latitude: 37.95
@@ -289,6 +310,7 @@ regions:
           - Kulab
           - Kuljab
           - Kulob
+          - Kulyab
         ascii_name: Kulob
         geonamesid: 1221194
         latitude: 37.90917
@@ -303,6 +325,7 @@ regions:
           - Kaganovichabad
           - Kaganowtschab
           - Kolkhozabad
+          - Kolkhozobod
         ascii_name: Kolkhozobod
         geonamesid: 1221259
         latitude: 37.58944
@@ -317,6 +340,7 @@ regions:
           - Dzhil'kul'
           - Dzhilikol
           - Dzhilikul'
+          - Dzhilikul’
         ascii_name: Jilikul
         geonamesid: 1221808
         latitude: 37.49361
@@ -331,6 +355,7 @@ regions:
           - Dusti
           - Dusty
           - Dŭsty
+          - Molotovabad
         ascii_name: Dusty
         geonamesid: 1221871
         latitude: 37.34861
@@ -345,6 +370,7 @@ regions:
           - Dangar
           - Dangara
           - Danghara
+          - Дангара
         ascii_name: Danghara
         geonamesid: 1221965
         latitude: 38.09639
@@ -376,7 +402,8 @@ regions:
     cities: []
     geonamesid: 6452615
     name: "Region of Republican Subordination"
-    names_en: ~
+    names_en: 
+      - "Region of Republican Subordination"
     names_es: ~
   - 
     ascii_name: Dushanbe
@@ -386,13 +413,16 @@ regions:
           - Djuschambe
           - Doesjanbe
           - Douchanbe
+          - Douchanbé
         ascii_name: Dushanbe
         geonamesid: 1221874
         latitude: 38.53575
         longitude: 68.77905
         name: Dushanbe
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dushanbe
+        names_es: 
+          - Dushanbe
         population: 543107
         timezone: Asia/Dushanbe
     geonamesid: 7280679

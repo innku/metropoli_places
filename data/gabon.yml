@@ -2,8 +2,11 @@
 geonamesid: 2400553
 iso: GA
 name: Gabon
-names_en: ~
-names_es: ~
+names_en: 
+  - Gabon
+  - "Gabonese Republic"
+names_es: 
+  - Gabón
 regions: 
   - 
     ascii_name: "Province du Woleu-Ntem"
@@ -24,6 +27,7 @@ regions:
           - Midzik
           - Mitsig
           - Mitzic
+          - Mitzick
         ascii_name: Mitzic
         geonamesid: 2398283
         latitude: 0.78206
@@ -56,12 +60,14 @@ regions:
           - "Port Gentil"
           - "Port Zhantil"
           - Port-Gentil
+          - "Порт Жантил"
         ascii_name: Port-Gentil
         geonamesid: 2396518
         latitude: -0.71667
         longitude: 8.78333
         name: Port-Gentil
-        names_en: ~
+        names_en: 
+          - Port-Gentil
         names_es: ~
         population: 109163
         timezone: Africa/Libreville
@@ -70,6 +76,7 @@ regions:
           - "Fernan Vaz"
           - Fernand-Vaz
           - Omboue
+          - Omboué
         ascii_name: Omboue
         geonamesid: 2396853
         latitude: -1.57464
@@ -117,12 +124,14 @@ regions:
           - "Koula Moubou"
           - "Koula Mouta"
           - Koulamotou
+          - Koulamoutou
         ascii_name: Koulamoutou
         geonamesid: 2399959
         latitude: -1.13032
         longitude: 12.47359
         name: Koulamoutou
-        names_en: ~
+        names_en: 
+          - Koulamoutou
         names_es: ~
         population: 16222
         timezone: Africa/Libreville
@@ -138,12 +147,14 @@ regions:
           - Makokou
           - "Makokou Fortifie"
           - "Makokou Fortifié"
+          - Makoku
         ascii_name: Makokou
         geonamesid: 2399371
         latitude: 0.57381
         longitude: 12.86419
         name: Makokou
-        names_en: ~
+        names_en: 
+          - Makokou
         names_es: ~
         population: 13571
         timezone: Africa/Libreville
@@ -152,6 +163,7 @@ regions:
           - Booue
           - Booué
           - Boque
+          - Boue
         ascii_name: Booue
         geonamesid: 2401495
         latitude: -0.09207
@@ -289,7 +301,8 @@ regions:
         latitude: -0.7
         longitude: 10.21667
         name: Lambaréné
-        names_en: ~
+        names_en: 
+          - Lambaréné
         names_es: ~
         population: 20714
         timezone: Africa/Libreville
@@ -345,6 +358,7 @@ regions:
           - "Fortifie du Lekoni"
           - "Fortifie du Liconi"
           - "Fortifié du Liconi"
+          - "Fortifié du Lékoni"
         ascii_name: Lekoni
         geonamesid: 2399831
         latitude: -1.58431
@@ -364,8 +378,10 @@ regions:
         latitude: -1.63333
         longitude: 13.58357
         name: Franceville
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Franceville
+        names_es: 
+          - Franceville
         population: 42967
         timezone: Africa/Libreville
     geonamesid: 2400454
@@ -391,13 +407,16 @@ regions:
           - Librevil
           - Librevil'
           - Librevilis
+          - Libreville
         ascii_name: Libreville
         geonamesid: 2399697
         latitude: 0.38333
         longitude: 9.45
         name: Libreville
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Libreville
+        names_es: 
+          - Libreville
         population: 578156
         timezone: Africa/Libreville
       - 

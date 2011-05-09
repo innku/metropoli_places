@@ -2,8 +2,10 @@
 geonamesid: 1210997
 iso: BD
 name: Bangladesh
-names_en: ~
-names_es: ~
+names_en: 
+  - Bangladesh
+names_es: 
+  - Bangladesh
 regions: 
   - 
     ascii_name: "Rajshahi Division"
@@ -13,6 +15,7 @@ regions:
           - Thakurgaom
           - Thakurgaon
           - "Thakus Gaon"
+          - Thākurgaom
         ascii_name: Thakurgaon
         geonamesid: 1185092
         latitude: 26.03333
@@ -40,12 +43,14 @@ regions:
           - Radzhshakhi
           - Rajshahi
           - "Rampur Baolia"
+          - "Rampur Bauleah"
         ascii_name: Rajshahi
         geonamesid: 1185128
         latitude: 24.36667
         longitude: 88.6
         name: Rājshāhi
-        names_en: ~
+        names_en: 
+          - Rajshahi
         names_es: ~
         population: 700133
         timezone: Asia/Dhaka
@@ -54,6 +59,7 @@ regions:
           - Pachagar
           - Pachagarh
           - Pachāgarh
+          - Panchagarh
         ascii_name: Panchagarh
         geonamesid: 1185141
         latitude: 26.33129
@@ -121,6 +127,7 @@ regions:
           - Pirgaaj
           - Pirganj
           - Pīrgaaj
+          - Pīrganj
         ascii_name: Pirgaaj
         geonamesid: 1337239
         latitude: 25.8604
@@ -166,12 +173,14 @@ regions:
           - Tangi
           - Tongi
           - Tungi
+          - tangi
         ascii_name: Tungi
         geonamesid: 1185098
         latitude: 23.89
         longitude: 90.40583
         name: Tungi
-        names_en: ~
+        names_en: 
+          - Tongi
         names_es: ~
         population: 337579
         timezone: Asia/Dhaka
@@ -180,6 +189,7 @@ regions:
           - Dohai
           - Dohar
           - Dohāi
+          - Dohār
         ascii_name: Dohar
         geonamesid: 1185100
         latitude: 23.58833
@@ -208,6 +218,7 @@ regions:
           - Narsingdi
           - Narsinghdi
           - Satirpara
+          - Satirpāra
         ascii_name: Narsingdi
         geonamesid: 1185117
         latitude: 23.92083
@@ -236,13 +247,16 @@ regions:
           - Daca
           - Dacca
           - "Dacca - dhaka"
+          - "Dacca - ঢাকা"
         ascii_name: Dhaka
         geonamesid: 1185241
         latitude: 23.7104
         longitude: 90.40744
         name: Dhaka
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dhaka
+        names_es: 
+          - Dacca
         population: 10356500
         timezone: Asia/Dhaka
       - 
@@ -250,6 +264,7 @@ regions:
           - "Bara Kalia"
           - "Bara Kālia"
           - Kalia
+          - Kalija
         ascii_name: Kalia
         geonamesid: 1185272
         latitude: 23.0396
@@ -286,6 +301,7 @@ regions:
           - Kisharganj
           - Kishoreganj
           - "Kishoreganj Municipality"
+          - Kishorganj
         ascii_name: Kishorganj
         geonamesid: 1337249
         latitude: 24.43333
@@ -321,6 +337,7 @@ regions:
           - Sandvip
           - Sandwip
           - Sandwīp
+          - Сандвип
         ascii_name: Sandwip
         geonamesid: 1185120
         latitude: 22.46778
@@ -362,6 +379,7 @@ regions:
           - Comilla
           - Komille
           - Kumilla
+          - Kumillā
         ascii_name: Comilla
         geonamesid: 1185186
         latitude: 23.45778
@@ -376,6 +394,7 @@ regions:
           - Fani
           - Feni
           - Fenny
+          - Pheni
         ascii_name: Feni
         geonamesid: 1185224
         latitude: 23.01861
@@ -390,6 +409,7 @@ regions:
           - Chhagainaya
           - Chhagalnaia
           - Chhagalnaiya
+          - Chhagalnaya
         ascii_name: Chhagalnaiya
         geonamesid: 1185249
         latitude: 23.03
@@ -404,6 +424,7 @@ regions:
           - Bandarban
           - Bardarban
           - Bāndarban
+          - Бандарбан
         ascii_name: Bandarban
         geonamesid: 1185270
         latitude: 22.1965
@@ -418,6 +439,7 @@ regions:
           - Raajan
           - Raajān
           - Raojan
+          - Raojān
         ascii_name: Raojan
         geonamesid: 1189638
         latitude: 22.53702
@@ -465,13 +487,16 @@ regions:
           - Chittagong
           - "Chittagong Ghat"
           - Chottogram
+          - Chôţţogram
         ascii_name: Chittagong
         geonamesid: 1205733
         latitude: 22.33306
         longitude: 91.83639
         name: Chittagong
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chittagong
+        names_es: 
+          - Chittagong
         population: 3920222
         timezone: Asia/Dhaka
       - 
@@ -492,6 +517,7 @@ regions:
           - "Cox's Bazar"
           - "Cox’s Bāzār"
           - Koks-Bazar
+          - Кокс-Базар
         ascii_name: "Cox's Bazar"
         geonamesid: 1336134
         latitude: 21.45324
@@ -539,6 +565,7 @@ regions:
           - Fakirertakia
           - Fakirertākia
           - Morrelganj
+          - Morrelgonj
         ascii_name: Morrelgonj
         geonamesid: 1185167
         latitude: 22.4537
@@ -566,6 +593,7 @@ regions:
           - Aliganj
           - Kaliganj
           - Kaliganja
+          - Kālīganj
         ascii_name: Kaliganj
         geonamesid: 1185199
         latitude: 23.4095
@@ -580,6 +608,7 @@ regions:
           - Jhikargacha
           - Jhikargachha
           - Jhikargāchha
+          - Jhikergacha
         ascii_name: Jhingergacha
         geonamesid: 1185204
         latitude: 23.1131
@@ -650,12 +679,14 @@ regions:
           - Khulna
           - Kkhulna
           - kuruna
+          - Кхулна
         ascii_name: Khulna
         geonamesid: 1336135
         latitude: 22.81348
         longitude: 89.56723
         name: Khulna
-        names_en: ~
+        names_en: 
+          - Khulna
         names_es: ~
         population: 1342339
         timezone: Asia/Dhaka
@@ -697,6 +728,7 @@ regions:
           - Matbari
           - Matbaria
           - Matbāri
+          - Mathba
         ascii_name: Mathba
         geonamesid: 1185173
         latitude: 22.2855
@@ -711,6 +743,7 @@ regions:
           - "Char Lalmohan"
           - "Char Lalmohun"
           - "Char Lālmohan"
+          - "Dhar Lalmohan"
         ascii_name: Lalmohan
         geonamesid: 1185251
         latitude: 22.3384
@@ -725,6 +758,7 @@ regions:
           - Barahanuddin
           - Barahānuddin
           - Burhanuddin
+          - Burhānuddin
         ascii_name: Burhanuddin
         geonamesid: 1210565
         latitude: 22.49184
@@ -739,6 +773,7 @@ regions:
           - Barisal
           - "Barisal Sadar"
           - Barisāl
+          - "Barīsal Sadar"
         ascii_name: Barisal
         geonamesid: 1336137
         latitude: 22.70194
@@ -773,6 +808,7 @@ regions:
           - Jalalabad
           - Rajnagar
           - Rājnagar
+          - Silet
         ascii_name: Sylhet
         geonamesid: 1185099
         latitude: 24.89667
@@ -787,6 +823,7 @@ regions:
           - "Maulvi Bazar"
           - "Maulvi Bāzār"
           - "Moulvi Bazar"
+          - "Moulvi Bazar Municipality"
         ascii_name: "Moulvi Bazar"
         geonamesid: 1185166
         latitude: 24.48333

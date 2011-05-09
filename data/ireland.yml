@@ -2,8 +2,12 @@
 geonamesid: 2963597
 iso: IE
 name: Ireland
-names_en: ~
-names_es: ~
+names_en: 
+  - "Republic of Ireland"
+  - Ireland
+names_es: 
+  - Irlanda
+  - "República de Irlanda"
 regions: 
   - 
     ascii_name: Connaught
@@ -16,7 +20,8 @@ regions:
         latitude: 53.8
         longitude: -9.51667
         name: "Cathair na Mart"
-        names_en: ~
+        names_en: 
+          - Westport
         names_es: ~
         population: 6200
         timezone: Europe/Dublin
@@ -29,7 +34,8 @@ regions:
         latitude: 53.51667
         longitude: -8.85
         name: Tuam
-        names_en: ~
+        names_en: 
+          - Tuam
         names_es: ~
         population: 6130
         timezone: Europe/Dublin
@@ -38,12 +44,14 @@ regions:
           - "Beal Atha na Muice"
           - "Béal Átha na Muice"
           - Swineford
+          - Swinford
         ascii_name: Swinford
         geonamesid: 2961299
         latitude: 53.95
         longitude: -8.95
         name: Swinford
-        names_en: ~
+        names_en: 
+          - Swinford
         names_es: ~
         population: 1241
         timezone: Europe/Dublin
@@ -52,13 +60,16 @@ regions:
           - Slajgou
           - Sligeach
           - Sligo
+          - suraigo
         ascii_name: Sligeach
         geonamesid: 2961423
         latitude: 54.26969
         longitude: -8.46943
         name: Sligeach
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sligo
+        names_es: 
+          - Sligo
         population: 20228
         timezone: Europe/Dublin
       - 
@@ -66,12 +77,14 @@ regions:
           - "Ros Comain"
           - "Ros Comáin"
           - Roscommon
+          - Rosecommon
         ascii_name: "Ros Comain"
         geonamesid: 2961732
         latitude: 53.63333
         longitude: -8.18333
         name: "Ros Comáin"
-        names_en: ~
+        names_en: 
+          - Roscommon
         names_es: ~
         population: 4860
         timezone: Europe/Dublin
@@ -85,7 +98,8 @@ regions:
         latitude: 53.26833
         longitude: -8.92
         name: Oranmore
-        names_en: ~
+        names_en: 
+          - Oranmore
         names_es: ~
         population: 1758
         timezone: Europe/Dublin
@@ -110,7 +124,8 @@ regions:
         latitude: 53.19694
         longitude: -8.56694
         name: Loughrea
-        names_en: ~
+        names_en: 
+          - Loughrea
         names_es: ~
         population: 4296
         timezone: Europe/Dublin
@@ -123,7 +138,8 @@ regions:
         latitude: 53.06639
         longitude: -8.81667
         name: Gort
-        names_en: ~
+        names_en: 
+          - Gort
         names_es: ~
         population: 2098
         timezone: Europe/Dublin
@@ -132,13 +148,17 @@ regions:
           - Gaillimh
           - Galway
           - "Galway - Gaillimh"
+          - "Galway city"
         ascii_name: Galway
         geonamesid: 2964180
         latitude: 53.27194
         longitude: -9.04889
         name: Galway
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Galway
+          - "Galway city"
+        names_es: 
+          - Galway
         population: 70686
         timezone: Europe/Dublin
       - 
@@ -146,12 +166,14 @@ regions:
           - "An Clochan"
           - "An Clochán"
           - Clifden
+          - Klifden
         ascii_name: Clifden
         geonamesid: 2965449
         latitude: 53.48333
         longitude: -10.01667
         name: Clifden
-        names_en: ~
+        names_en: 
+          - Clifden
         names_es: ~
         population: 1929
         timezone: Europe/Dublin
@@ -165,7 +187,8 @@ regions:
         latitude: 53.71667
         longitude: -9.0
         name: Claremorris
-        names_en: ~
+        names_en: 
+          - Claremorris
         names_es: ~
         population: 2168
         timezone: Europe/Dublin
@@ -174,12 +197,14 @@ regions:
           - "An Caislean Riabhach"
           - "An Caisleán Riabhach"
           - Castlerea
+          - Castlereagh
         ascii_name: Castlerea
         geonamesid: 2965570
         latitude: 53.76667
         longitude: -8.5
         name: Castlerea
-        names_en: ~
+        names_en: 
+          - Castlerea
         names_es: ~
         population: 1770
         timezone: Europe/Dublin
@@ -201,12 +226,14 @@ regions:
           - "Carrick on Shannon"
           - Carrick-on-Shannon
           - "Cora Droma Ruisc"
+          - "Cora Droma Rúisc"
         ascii_name: "Cora Droma Ruisc"
         geonamesid: 2965727
         latitude: 53.94694
         longitude: -8.09
         name: "Cora Droma Rúisc"
-        names_en: ~
+        names_en: 
+          - "Carrick on Shannon"
         names_es: ~
         population: 2389
         timezone: Europe/Dublin
@@ -220,7 +247,8 @@ regions:
         latitude: 53.96667
         longitude: -8.3
         name: Boyle
-        names_en: ~
+        names_en: 
+          - Boyle
         names_es: ~
         population: 2199
         timezone: Europe/Dublin
@@ -234,7 +262,8 @@ regions:
         latitude: 53.76667
         longitude: -8.76667
         name: Ballyhaunis
-        names_en: ~
+        names_en: 
+          - Ballyhaunis
         names_es: ~
         population: 1344
         timezone: Europe/Dublin
@@ -248,7 +277,8 @@ regions:
         latitude: 53.63333
         longitude: -9.23333
         name: Ballinrobe
-        names_en: ~
+        names_en: 
+          - Ballinrobe
         names_es: ~
         population: 1707
         timezone: Europe/Dublin
@@ -260,7 +290,8 @@ regions:
         latitude: 53.3275
         longitude: -8.21944
         name: "Béal Átha na Sluaighe"
-        names_en: ~
+        names_en: 
+          - Ballinasloe
         names_es: ~
         population: 6388
         timezone: Europe/Dublin
@@ -272,7 +303,8 @@ regions:
         latitude: 54.11667
         longitude: -9.16667
         name: "Béal An Átha"
-        names_en: ~
+        names_en: 
+          - Ballina
         names_es: ~
         population: 10087
         timezone: Europe/Dublin
@@ -286,7 +318,8 @@ regions:
         latitude: 53.9
         longitude: -8.58333
         name: Ballaghaderreen
-        names_en: ~
+        names_en: 
+          - Ballaghaderreen
         names_es: ~
         population: 1389
         timezone: Europe/Dublin
@@ -300,7 +333,8 @@ regions:
         latitude: 53.29639
         longitude: -8.74306
         name: Athenry
-        names_en: ~
+        names_en: 
+          - Athenry
         names_es: ~
         population: 2419
         timezone: Europe/Dublin
@@ -316,12 +350,14 @@ regions:
           - "Cill Maintain"
           - "Cill Maintainn"
           - "Cill Maintáinn"
+          - "Cill Manntein"
         ascii_name: "Cill Mhantain"
         geonamesid: 2960936
         latitude: 52.975
         longitude: -6.04944
         name: "Cill Mhantáin"
-        names_en: ~
+        names_en: 
+          - Wicklow
         names_es: ~
         population: 10461
         timezone: Europe/Dublin
@@ -334,8 +370,10 @@ regions:
         latitude: 52.33417
         longitude: -6.4575
         name: "Loch Garman"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wexford
+        names_es: 
+          - Wexford
         population: 17708
         timezone: Europe/Dublin
       - 
@@ -347,7 +385,8 @@ regions:
         latitude: 52.80028
         longitude: -6.73694
         name: Tullow
-        names_en: ~
+        names_en: 
+          - Tullow
         names_es: ~
         population: 2424
         timezone: Europe/Dublin
@@ -374,7 +413,8 @@ regions:
         latitude: 53.555
         longitude: -6.79167
         name: "Baile Átha Troim"
-        names_en: ~
+        names_en: 
+          - Trim
         names_es: ~
         population: 1800
         timezone: Europe/Dublin
@@ -388,7 +428,8 @@ regions:
         latitude: 52.52667
         longitude: -7.13722
         name: Thomastown
-        names_en: ~
+        names_en: 
+          - Thomastown
         names_es: ~
         population: 1603
         timezone: Europe/Dublin
@@ -400,7 +441,8 @@ regions:
         latitude: 53.2859
         longitude: -6.37344
         name: Tallaght
-        names_en: ~
+        names_en: 
+          - Tallaght
         names_es: ~
         population: 64282
         timezone: Europe/Dublin
@@ -413,7 +455,8 @@ regions:
         latitude: 53.45972
         longitude: -6.21806
         name: Swords
-        names_en: ~
+        names_en: 
+          - Swords
         names_es: ~
         population: 29816
         timezone: Europe/Dublin
@@ -427,7 +470,8 @@ regions:
         latitude: 53.58278
         longitude: -6.10833
         name: Skerries
-        names_en: ~
+        names_en: 
+          - Skerries
         names_es: ~
         population: 10014
         timezone: Europe/Dublin
@@ -441,7 +485,8 @@ regions:
         latitude: 53.24889
         longitude: -6.66611
         name: Sallins
-        names_en: ~
+        names_en: 
+          - Sallins
         names_es: ~
         population: 3164
         timezone: Europe/Dublin
@@ -453,7 +498,8 @@ regions:
         latitude: 53.5223
         longitude: -6.09308
         name: "An Ros"
-        names_en: ~
+        names_en: 
+          - Rush
         names_es: ~
         population: 7294
         timezone: Europe/Dublin
@@ -467,7 +513,8 @@ regions:
         latitude: 52.27583
         longitude: -6.38444
         name: Rosslare
-        names_en: ~
+        names_en: 
+          - Rosslare
         names_es: ~
         population: 1145
         timezone: Europe/Dublin
@@ -481,7 +528,8 @@ regions:
         latitude: 53.50806
         longitude: -6.4625
         name: Ratoath
-        names_en: ~
+        names_en: 
+          - Ratoath
         names_es: ~
         population: 4084
         timezone: Europe/Dublin
@@ -495,7 +543,8 @@ regions:
         latitude: 52.92639
         longitude: -6.23556
         name: Rathdrum
-        names_en: ~
+        names_en: 
+          - Rathdrum
         names_es: ~
         population: 1649
         timezone: Europe/Dublin
@@ -509,7 +558,8 @@ regions:
         latitude: 53.28278
         longitude: -6.47278
         name: Rathcoole
-        names_en: ~
+        names_en: 
+          - Rathcoole
         names_es: ~
         population: 2443
         timezone: Europe/Dublin
@@ -523,7 +573,8 @@ regions:
         latitude: 53.22139
         longitude: -6.995
         name: Rathangan
-        names_en: ~
+        names_en: 
+          - Rathangan
         names_es: ~
         population: 1961
         timezone: Europe/Dublin
@@ -536,7 +587,8 @@ regions:
         latitude: 53.29028
         longitude: -6.75389
         name: Prosperous
-        names_en: ~
+        names_en: 
+          - Prosperous
         names_es: ~
         population: 1649
         timezone: Europe/Dublin
@@ -550,7 +602,8 @@ regions:
         latitude: 53.42306
         longitude: -6.1375
         name: Portmarnock
-        names_en: ~
+        names_en: 
+          - Portmarnock
         names_es: ~
         population: 8037
         timezone: Europe/Dublin
@@ -559,12 +612,17 @@ regions:
           - Maryboro'
           - Maryborough
           - "Port Laoighise"
+          - "Port Laoise"
         ascii_name: "Port Laoise"
         geonamesid: 2962026
         latitude: 53.03441
         longitude: -7.29979
         name: "Port Laoise"
-        names_en: ~
+        names_en: 
+          - Maryboro'
+          - Maryborough
+          - "Port Leix"
+          - Portlaoise
         names_es: ~
         population: 13622
         timezone: Europe/Dublin
@@ -578,7 +636,8 @@ regions:
         latitude: 53.16222
         longitude: -7.19111
         name: Portarlington
-        names_en: ~
+        names_en: 
+          - Portarlington
         names_es: ~
         population: 4293
         timezone: Europe/Dublin
@@ -613,7 +672,8 @@ regions:
         latitude: 52.39667
         longitude: -6.93667
         name: "Ros Mhic Thriúin"
-        names_en: ~
+        names_en: 
+          - "New Ross"
         names_es: ~
         population: 6695
         timezone: Europe/Dublin
@@ -639,7 +699,8 @@ regions:
         latitude: 53.65278
         longitude: -6.68139
         name: "An Uaimh"
-        names_en: ~
+        names_en: 
+          - Navan
         names_es: ~
         population: 24545
         timezone: Europe/Dublin
@@ -651,7 +712,8 @@ regions:
         latitude: 53.21583
         longitude: -6.66694
         name: "An Nás"
-        names_en: ~
+        names_en: 
+          - Naas
         names_es: ~
         population: 20554
         timezone: Europe/Dublin
@@ -664,7 +726,8 @@ regions:
         latitude: 53.53333
         longitude: -7.35
         name: "An Muileann gCearr"
-        names_en: ~
+        names_en: 
+          - Mullingar
         names_es: ~
         population: 17262
         timezone: Europe/Dublin
@@ -678,7 +741,8 @@ regions:
         latitude: 52.99889
         longitude: -7.47278
         name: Mountrath
-        names_en: ~
+        names_en: 
+          - Mountrath
         names_es: ~
         population: 1597
         timezone: Europe/Dublin
@@ -692,7 +756,8 @@ regions:
         latitude: 53.11361
         longitude: -7.32
         name: Mountmellick
-        names_en: ~
+        names_en: 
+          - Mountmellick
         names_es: ~
         population: 3547
         timezone: Europe/Dublin
@@ -701,12 +766,14 @@ regions:
           - "Mainistir Eimhin"
           - "Mainistir Eimhín"
           - Monasterevan
+          - Monasterevin
         ascii_name: Monasterevin
         geonamesid: 2962556
         latitude: 53.14056
         longitude: -7.06639
         name: Monasterevin
-        names_en: ~
+        names_en: 
+          - Monasterevin
         names_es: ~
         population: 2704
         timezone: Europe/Dublin
@@ -730,7 +797,8 @@ regions:
         latitude: 53.385
         longitude: -6.59361
         name: Maynooth
-        names_en: ~
+        names_en: 
+          - Maynooth
         names_es: ~
         population: 11318
         timezone: Europe/Dublin
@@ -744,7 +812,8 @@ regions:
         latitude: 53.45083
         longitude: -6.15444
         name: Malahide
-        names_en: ~
+        names_en: 
+          - Malahide
         names_es: ~
         population: 14057
         timezone: Europe/Dublin
@@ -756,7 +825,8 @@ regions:
         latitude: 53.52743
         longitude: -6.16423
         name: Lusca
-        names_en: ~
+        names_en: 
+          - Lusk
         names_es: ~
         population: 2508
         timezone: Europe/Dublin
@@ -768,7 +838,8 @@ regions:
         latitude: 53.73333
         longitude: -7.8
         name: "An Longfort"
-        names_en: ~
+        names_en: 
+          - Longford
         names_es: ~
         population: 7787
         timezone: Europe/Dublin
@@ -782,7 +853,8 @@ regions:
         latitude: 53.36583
         longitude: -6.49556
         name: Leixlip
-        names_en: ~
+        names_en: 
+          - Leixlip
         names_es: ~
         population: 15729
         timezone: Europe/Dublin
@@ -795,7 +867,8 @@ regions:
         latitude: 53.68194
         longitude: -6.23917
         name: Laytown
-        names_en: ~
+        names_en: 
+          - Laytown
         names_es: ~
         population: 6342
         timezone: Europe/Dublin
@@ -809,7 +882,8 @@ regions:
         latitude: 53.9732
         longitude: -6.48597
         name: Knockbridge
-        names_en: ~
+        names_en: 
+          - Knockbridge
         names_es: ~
         population: 1700
         timezone: Europe/Dublin
@@ -818,13 +892,17 @@ regions:
           - "Cill Chainnigh"
           - Kilkenni
           - Kilkenny
+          - "Kilkenny city"
         ascii_name: "Cill Chainnigh"
         geonamesid: 2963398
         latitude: 52.65417
         longitude: -7.25222
         name: "Cill Chainnigh"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kilkenny
+          - "Kilkenny city"
+        names_es: 
+          - Kilkenny
         population: 21589
         timezone: Europe/Dublin
       - 
@@ -836,7 +914,8 @@ regions:
         latitude: 53.10278
         longitude: -6.065
         name: Kilcoole
-        names_en: ~
+        names_en: 
+          - Kilcoole
         names_es: ~
         population: 2869
         timezone: Europe/Dublin
@@ -849,7 +928,8 @@ regions:
         latitude: 53.40222
         longitude: -6.67083
         name: Kilcock
-        names_en: ~
+        names_en: 
+          - Kilcock
         names_es: ~
         population: 3293
         timezone: Europe/Dublin
@@ -863,7 +943,8 @@ regions:
         latitude: 53.72639
         longitude: -6.87917
         name: Ceanannas
-        names_en: ~
+        names_en: 
+          - Kells
         names_es: ~
         population: 4820
         timezone: Europe/Dublin
@@ -876,7 +957,8 @@ regions:
         latitude: 53.14083
         longitude: -6.06306
         name: Greystones
-        names_en: ~
+        names_en: 
+          - Greystones
         names_es: ~
         population: 12260
         timezone: Europe/Dublin
@@ -890,7 +972,8 @@ regions:
         latitude: 53.76667
         longitude: -7.5
         name: Granard
-        names_en: ~
+        names_en: 
+          - Granard
         names_es: ~
         population: 1292
         timezone: Europe/Dublin
@@ -903,7 +986,8 @@ regions:
         latitude: 52.67472
         longitude: -6.2925
         name: Gorey
-        names_en: ~
+        names_en: 
+          - Gorey
         names_es: ~
         population: 6040
         timezone: Europe/Dublin
@@ -917,7 +1001,8 @@ regions:
         latitude: 53.1925
         longitude: -6.16917
         name: Enniskerry
-        names_en: ~
+        names_en: 
+          - Enniskerry
         names_es: ~
         population: 1990
         timezone: Europe/Dublin
@@ -929,7 +1014,8 @@ regions:
         latitude: 52.50083
         longitude: -6.55778
         name: "Inis Córthaidh"
-        names_en: ~
+        names_en: 
+          - Enniscorthy
         names_es: ~
         population: 9709
         timezone: Europe/Dublin
@@ -943,7 +1029,8 @@ regions:
         latitude: 53.34528
         longitude: -7.04972
         name: Edenderry
-        names_en: ~
+        names_en: 
+          - Edenderry
         names_es: ~
         population: 4890
         timezone: Europe/Dublin
@@ -957,7 +1044,8 @@ regions:
         latitude: 53.5125
         longitude: -6.54
         name: Dunshaughlin
-        names_en: ~
+        names_en: 
+          - Dunshaughlin
         names_es: ~
         population: 3567
         timezone: Europe/Dublin
@@ -966,13 +1054,16 @@ regions:
           - D"ndok
           - "Dun Dealgan"
           - Dundalk
+          - "Dún Dealgan"
         ascii_name: "Dun Dealgan"
         geonamesid: 2964540
         latitude: 54.0
         longitude: -6.41667
         name: "Dún Dealgan"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dundalk
+        names_es: 
+          - Dundalk
         population: 33428
         timezone: Europe/Dublin
       - 
@@ -995,7 +1086,8 @@ regions:
         latitude: 53.65667
         longitude: -6.41917
         name: Duleek
-        names_en: ~
+        names_en: 
+          - Duleek
         names_es: ~
         population: 2376
         timezone: Europe/Dublin
@@ -1004,13 +1096,17 @@ regions:
           - "Baile Atha Cliath"
           - "Baile Átha Cliath"
           - "Ciuda de Dublin"
+          - "Ciudá de Dublín"
         ascii_name: Dublin
         geonamesid: 2964574
         latitude: 53.34399
         longitude: -6.26719
         name: Dublin
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dublin
+          - "Dublin city"
+        names_es: 
+          - Dublín
         population: 1024027
         timezone: Europe/Dublin
       - 
@@ -1018,13 +1114,16 @@ regions:
           - Drogheda
           - "Drogheda - Droichead Atha"
           - "Drogheda - Droichead Átha"
+          - "Droichead Atha"
         ascii_name: Drogheda
         geonamesid: 2964661
         latitude: 53.71889
         longitude: -6.34778
         name: Drogheda
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Drogheda
+        names_es: 
+          - Drogheda
         population: 33441
         timezone: Europe/Dublin
       - 
@@ -1047,7 +1146,8 @@ regions:
         latitude: 53.48722
         longitude: -6.15194
         name: Donabate
-        names_en: ~
+        names_en: 
+          - Donabate
         names_es: ~
         population: 3936
         timezone: Europe/Dublin
@@ -1061,7 +1161,8 @@ regions:
         latitude: 53.3425
         longitude: -7.61389
         name: Clara
-        names_en: ~
+        names_en: 
+          - Clara
         names_es: ~
         population: 2783
         timezone: Europe/Dublin
@@ -1074,7 +1175,8 @@ regions:
         latitude: 53.29139
         longitude: -6.68917
         name: Clane
-        names_en: ~
+        names_en: 
+          - Clane
         names_es: ~
         population: 5155
         timezone: Europe/Dublin
@@ -1098,7 +1200,8 @@ regions:
         latitude: 53.33861
         longitude: -6.54361
         name: Celbridge
-        names_en: ~
+        names_en: 
+          - Celbridge
         names_es: ~
         population: 18167
         timezone: Europe/Dublin
@@ -1112,7 +1215,8 @@ regions:
         latitude: 52.80611
         longitude: -7.21056
         name: Castlecomer
-        names_en: ~
+        names_en: 
+          - Castlecomer
         names_es: ~
         population: 1686
         timezone: Europe/Dublin
@@ -1124,7 +1228,8 @@ regions:
         latitude: 52.84083
         longitude: -6.92611
         name: Ceatharlach
-        names_en: ~
+        names_en: 
+          - Carlow
         names_es: ~
         population: 20055
         timezone: Europe/Dublin
@@ -1133,6 +1238,7 @@ regions:
           - Bre
           - Brej
           - "Bri Chualann"
+          - Bré
         ascii_name: Bray
         geonamesid: 2966022
         latitude: 53.20278
@@ -1152,7 +1258,8 @@ regions:
         latitude: 53.17
         longitude: -6.5325
         name: Blessington
-        names_en: ~
+        names_en: 
+          - Blessington
         names_es: ~
         population: 2874
         timezone: Europe/Dublin
@@ -1176,7 +1283,8 @@ regions:
         latitude: 53.3015
         longitude: -6.1778
         name: Blackrock
-        names_en: ~
+        names_en: 
+          - Blackrock
         names_es: ~
         population: 20701
         timezone: Europe/Dublin
@@ -1185,6 +1293,7 @@ regions:
           - Biorra
           - Birr
           - Parsonstown
+          - Бирр
         ascii_name: Birr
         geonamesid: 2966154
         latitude: 53.09139
@@ -1203,7 +1312,8 @@ regions:
         latitude: 53.18861
         longitude: -7.98667
         name: Banagher
-        names_en: ~
+        names_en: 
+          - Banagher
         names_es: ~
         population: 1586
         timezone: Europe/Dublin
@@ -1217,7 +1327,8 @@ regions:
         latitude: 53.61278
         longitude: -6.18194
         name: Balbriggan
-        names_en: ~
+        names_en: 
+          - Balbriggan
         names_es: ~
         population: 11293
         timezone: Europe/Dublin
@@ -1230,7 +1341,8 @@ regions:
         latitude: 52.70614
         longitude: -6.95984
         name: "Muine Bheag"
-        names_en: ~
+        names_en: 
+          - Bagenalstown
         names_es: ~
         population: 3033
         timezone: Europe/Dublin
@@ -1242,7 +1354,8 @@ regions:
         latitude: 52.99139
         longitude: -6.98028
         name: "Baile Átha Í"
-        names_en: ~
+        names_en: 
+          - Athy
         names_es: ~
         population: 6382
         timezone: Europe/Dublin
@@ -1254,7 +1367,8 @@ regions:
         latitude: 53.43333
         longitude: -7.95
         name: "Baile Átha Luain"
-        names_en: ~
+        names_en: 
+          - Athlone
         names_es: ~
         population: 15951
         timezone: Europe/Dublin
@@ -1268,7 +1382,8 @@ regions:
         latitude: 53.61861
         longitude: -6.92056
         name: Athboy
-        names_en: ~
+        names_en: 
+          - Athboy
         names_es: ~
         population: 1656
         timezone: Europe/Dublin
@@ -1282,7 +1397,8 @@ regions:
         latitude: 53.51083
         longitude: -6.42722
         name: Ashbourne
-        names_en: ~
+        names_en: 
+          - Ashbourne
         names_es: ~
         population: 7001
         timezone: Europe/Dublin
@@ -1309,7 +1425,8 @@ regions:
         latitude: 53.85972
         longitude: -6.54056
         name: Ardee
-        names_en: ~
+        names_en: 
+          - Ardee
         names_es: ~
         population: 4008
         timezone: Europe/Dublin
@@ -1322,7 +1439,8 @@ regions:
         latitude: 52.89917
         longitude: -7.3575
         name: Abbeyleix
-        names_en: ~
+        names_en: 
+          - Abbeyleix
         names_es: ~
         population: 1711
         timezone: Europe/Dublin
@@ -1346,7 +1464,8 @@ regions:
         latitude: 53.17417
         longitude: -7.72556
         name: Kilcormac
-        names_en: ~
+        names_en: 
+          - Kilcormac
         names_es: ~
         population: 1200
         timezone: Europe/Dublin
@@ -1376,7 +1495,8 @@ regions:
         latitude: 51.95
         longitude: -7.85056
         name: Eochaill
-        names_en: ~
+        names_en: 
+          - Youghal
         names_es: ~
         population: 6868
         timezone: Europe/Dublin
@@ -1385,13 +1505,17 @@ regions:
           - "Port Lairge"
           - "Port Láirge"
           - Uoterford
+          - Waterford
         ascii_name: "Port Lairge"
         geonamesid: 2960992
         latitude: 52.25833
         longitude: -7.11194
         name: "Port Láirge"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Waterford
+          - "Waterford city"
+        names_es: 
+          - Waterford
         population: 47904
         timezone: Europe/Dublin
       - 
@@ -1402,7 +1526,8 @@ regions:
         latitude: 52.16235
         longitude: -7.15244
         name: "Trá Mhór"
-        names_en: ~
+        names_en: 
+          - Tramore
         names_es: ~
         population: 9164
         timezone: Europe/Dublin
@@ -1416,8 +1541,10 @@ regions:
         latitude: 52.27042
         longitude: -9.70264
         name: "Trá Lí"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tralee
+        names_es: 
+          - Tralee
         population: 22941
         timezone: Europe/Dublin
       - 
@@ -1441,7 +1568,8 @@ regions:
         latitude: 52.47333
         longitude: -8.15583
         name: "Tiobraid Árann"
-        names_en: ~
+        names_en: 
+          - Tipperary
         names_es: ~
         population: 4976
         timezone: Europe/Dublin
@@ -1453,7 +1581,8 @@ regions:
         latitude: 52.68194
         longitude: -7.80222
         name: Durlas
-        names_en: ~
+        names_en: 
+          - Thurles
         names_es: ~
         population: 7588
         timezone: Europe/Dublin
@@ -1465,7 +1594,8 @@ regions:
         latitude: 52.79472
         longitude: -7.83389
         name: "An Teampall Mór"
-        names_en: ~
+        names_en: 
+          - Templemore
         names_es: ~
         population: 2264
         timezone: Europe/Dublin
@@ -1477,7 +1607,8 @@ regions:
         latitude: 51.55
         longitude: -9.26667
         name: "An Sciobairin"
-        names_en: ~
+        names_en: 
+          - Skibbereen
         names_es: ~
         population: 2098
         timezone: Europe/Dublin
@@ -1491,7 +1622,8 @@ regions:
         latitude: 52.95111
         longitude: -7.80167
         name: Roscrea
-        names_en: ~
+        names_en: 
+          - Roscrea
         names_es: ~
         population: 4721
         timezone: Europe/Dublin
@@ -1505,7 +1637,8 @@ regions:
         latitude: 52.52444
         longitude: -8.93806
         name: Rathkeale
-        names_en: ~
+        names_en: 
+          - Rathkeale
         names_es: ~
         population: 1470
         timezone: Europe/Dublin
@@ -1514,12 +1647,14 @@ regions:
           - "An Pasaiste"
           - "An Pasáiste"
           - Passage
+          - "Passage West"
         ascii_name: "Passage West"
         geonamesid: 2962066
         latitude: 51.87389
         longitude: -8.34444
         name: "Passage West"
-        names_en: ~
+        names_en: 
+          - "Passage West"
         names_es: ~
         population: 4907
         timezone: Europe/Dublin
@@ -1533,7 +1668,8 @@ regions:
         latitude: 52.76
         longitude: -8.89556
         name: "Newmarket on Fergus"
-        names_en: ~
+        names_en: 
+          - "Newmarket on Fergus"
         names_es: ~
         population: 1754
         timezone: Europe/Dublin
@@ -1542,12 +1678,14 @@ regions:
           - "An Caislean Nua"
           - "An Caisleán Nua"
           - Newcastle
+          - "Newcastle West"
         ascii_name: "Newcastle West"
         geonamesid: 2962283
         latitude: 52.44917
         longitude: -9.06111
         name: "Newcastle West"
-        names_en: ~
+        names_en: 
+          - "Newcastle West"
         names_es: ~
         population: 4184
         timezone: Europe/Dublin
@@ -1561,7 +1699,8 @@ regions:
         latitude: 52.86194
         longitude: -8.19667
         name: Nenagh
-        names_en: ~
+        names_en: 
+          - Nenagh
         names_es: ~
         population: 5500
         timezone: Europe/Dublin
@@ -1575,7 +1714,8 @@ regions:
         latitude: 52.26583
         longitude: -8.26806
         name: Mitchelstown
-        names_en: ~
+        names_en: 
+          - Mitchelstown
         names_es: ~
         population: 3357
         timezone: Europe/Dublin
@@ -1588,7 +1728,8 @@ regions:
         latitude: 51.90944
         longitude: -8.17361
         name: "Mainister na Corann"
-        names_en: ~
+        names_en: 
+          - Midleton
         names_es: ~
         population: 8891
         timezone: Europe/Dublin
@@ -1624,7 +1765,8 @@ regions:
         latitude: 52.44639
         longitude: -9.485
         name: "Lios Tuathail"
-        names_en: ~
+        names_en: 
+          - Listowel
         names_es: ~
         population: 4143
         timezone: Europe/Dublin
@@ -1633,13 +1775,17 @@ regions:
           - Limereick
           - Limerick
           - "Limerick - Luimneach"
+          - "Limerick city"
         ascii_name: Limerick
         geonamesid: 2962943
         latitude: 52.66472
         longitude: -8.62306
         name: Limerick
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Limerick
+          - "Limerick city"
+        names_es: 
+          - Limerick
         population: 90054
         timezone: Europe/Dublin
       - 
@@ -1652,8 +1798,10 @@ regions:
         latitude: 51.7075
         longitude: -8.53056
         name: "Cionn tSáile"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kinsale
+        names_es: 
+          - Kinsale
         population: 3843
         timezone: Europe/Dublin
       - 
@@ -1664,7 +1812,8 @@ regions:
         latitude: 52.63972
         longitude: -9.48333
         name: "Cill Rois"
-        names_en: ~
+        names_en: 
+          - Kilrush
         names_es: ~
         population: 2712
         timezone: Europe/Dublin
@@ -1673,12 +1822,14 @@ regions:
           - "Cill Mocheallog"
           - "Cill Mocheallóg"
           - Kilmailock
+          - Kilmallock
         ascii_name: Kilmallock
         geonamesid: 2963275
         latitude: 52.4
         longitude: -8.57722
         name: Kilmallock
-        names_en: ~
+        names_en: 
+          - Kilmallock
         names_es: ~
         population: 1523
         timezone: Europe/Dublin
@@ -1691,7 +1842,8 @@ regions:
         latitude: 52.1
         longitude: -9.78333
         name: Killorglin
-        names_en: ~
+        names_en: 
+          - Killorglin
         names_es: ~
         population: 1409
         timezone: Europe/Dublin
@@ -1704,8 +1856,10 @@ regions:
         latitude: 52.05
         longitude: -9.51667
         name: "Cill Airne"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Killarney
+        names_es: 
+          - Killarney
         population: 7300
         timezone: Europe/Dublin
       - 
@@ -1729,7 +1883,8 @@ regions:
         latitude: 51.88333
         longitude: -9.58333
         name: Kenmare
-        names_en: ~
+        names_en: 
+          - Kenmare
         names_es: ~
         population: 2023
         timezone: Europe/Dublin
@@ -1742,7 +1897,8 @@ regions:
         latitude: 52.16667
         longitude: -8.9
         name: Kanturk
-        names_en: ~
+        names_en: 
+          - Kanturk
         names_es: ~
         population: 1628
         timezone: Europe/Dublin
@@ -1754,7 +1910,8 @@ regions:
         latitude: 52.13583
         longitude: -8.27583
         name: "Mainistir Fhear Maí"
-        names_en: ~
+        names_en: 
+          - Fermoy
         names_es: ~
         population: 4933
         timezone: Europe/Dublin
@@ -1763,12 +1920,14 @@ regions:
           - Enis
           - Ennis
           - Inis
+          - Енис
         ascii_name: Inis
         geonamesid: 2964405
         latitude: 52.84361
         longitude: -8.98639
         name: Inis
-        names_en: ~
+        names_en: 
+          - Ennis
         names_es: ~
         population: 24427
         timezone: Europe/Dublin
@@ -1777,12 +1936,14 @@ regions:
           - "Dun Mor"
           - Dunmore
           - "Dunmore East"
+          - "Dún Mór"
         ascii_name: "Dunmore East"
         geonamesid: 2964492
         latitude: 52.15139
         longitude: -6.98611
         name: "Dunmore East"
-        names_en: ~
+        names_en: 
+          - "Dunmore East"
         names_es: ~
         population: 1795
         timezone: Europe/Dublin
@@ -1796,7 +1957,8 @@ regions:
         latitude: 51.71667
         longitude: -9.11667
         name: Dunmanway
-        names_en: ~
+        names_en: 
+          - Dunmanway
         names_es: ~
         population: 1566
         timezone: Europe/Dublin
@@ -1822,7 +1984,8 @@ regions:
         latitude: 52.14083
         longitude: -10.26889
         name: Dingle
-        names_en: ~
+        names_en: 
+          - Dingle
         names_es: ~
         population: 1971
         timezone: Europe/Dublin
@@ -1842,13 +2005,17 @@ regions:
           - Corcaigh
           - Cork
           - "Cork - Corcaigh"
+          - "Cork city"
         ascii_name: Cork
         geonamesid: 2965140
         latitude: 51.89797
         longitude: -8.47061
         name: Cork
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cork
+          - "Cork city"
+        names_es: 
+          - Cork
         population: 190384
         timezone: Europe/Dublin
       - 
@@ -1856,12 +2023,14 @@ regions:
           - "An Cobh"
           - "An Cóbh"
           - Cobh
+          - Queenstown
         ascii_name: Cobh
         geonamesid: 2965260
         latitude: 51.85722
         longitude: -8.29917
         name: Cobh
-        names_en: ~
+        names_en: 
+          - Cobh
         names_es: ~
         population: 10501
         timezone: Europe/Dublin
@@ -1913,7 +2082,8 @@ regions:
         latitude: 52.23333
         longitude: -9.46667
         name: Castleisland
-        names_en: ~
+        names_en: 
+          - Castleisland
         names_es: ~
         population: 2122
         timezone: Europe/Dublin
@@ -1939,7 +2109,8 @@ regions:
         latitude: 51.81167
         longitude: -8.39861
         name: Carrigaline
-        names_en: ~
+        names_en: 
+          - Carrigaline
         names_es: ~
         population: 12902
         timezone: Europe/Dublin
@@ -1961,12 +2132,14 @@ regions:
           - Cahersiveen
           - Cahersween
           - "Cathair Saidhbhin"
+          - "Cathair Saidhbhín"
         ascii_name: Cahersiveen
         geonamesid: 2965852
         latitude: 51.94861
         longitude: -10.22222
         name: Cahersiveen
-        names_en: ~
+        names_en: 
+          - Cahersiveen
         names_es: ~
         population: 1409
         timezone: Europe/Dublin
@@ -1975,12 +2148,14 @@ regions:
           - "An Chathair"
           - Caher
           - Cahir
+          - "Án Chathair"
         ascii_name: Caher
         geonamesid: 2965873
         latitude: 52.37694
         longitude: -7.92167
         name: Caher
-        names_en: ~
+        names_en: 
+          - Caher
         names_es: ~
         population: 3057
         timezone: Europe/Dublin
@@ -1993,7 +2168,8 @@ regions:
         latitude: 51.93333
         longitude: -8.56667
         name: Blarney
-        names_en: ~
+        names_en: 
+          - Blarney
         names_es: ~
         population: 2215
         timezone: Europe/Dublin
@@ -2007,7 +2183,8 @@ regions:
         latitude: 51.68333
         longitude: -9.45
         name: Bantry
-        names_en: ~
+        names_en: 
+          - Bantry
         names_es: ~
         population: 3234
         timezone: Europe/Dublin
@@ -2020,7 +2197,8 @@ regions:
         latitude: 51.74694
         longitude: -8.7425
         name: Bandon
-        names_en: ~
+        names_en: 
+          - Bandon
         names_es: ~
         population: 5492
         timezone: Europe/Dublin
@@ -2034,7 +2212,8 @@ regions:
         latitude: 52.50972
         longitude: -9.67167
         name: Ballybunnion
-        names_en: ~
+        names_en: 
+          - Ballybunnion
         names_es: ~
         population: 1626
         timezone: Europe/Dublin
@@ -2048,7 +2227,8 @@ regions:
         latitude: 52.38139
         longitude: -9.3025
         name: Abbeyfeale
-        names_en: ~
+        names_en: 
+          - Abbeyfeale
         names_es: ~
         population: 1734
         timezone: Europe/Dublin
@@ -2068,12 +2248,14 @@ regions:
           - "An tSionna"
           - Shannon
           - "Shannon Town"
+          - Shennon
         ascii_name: Shannon
         geonamesid: 3310247
         latitude: 52.70389
         longitude: -8.86417
         name: Shannon
-        names_en: ~
+        names_en: 
+          - Shannon
         names_es: ~
         population: 8781
         timezone: Europe/Dublin
@@ -2092,7 +2274,8 @@ regions:
         latitude: 55.13333
         longitude: -7.45
         name: "Bun Cranncha"
-        names_en: ~
+        names_en: 
+          - Buncrana
         names_es: ~
         population: 5546
         timezone: Europe/Dublin
@@ -2105,7 +2288,8 @@ regions:
         latitude: 55.18333
         longitude: -7.05
         name: Moville
-        names_en: ~
+        names_en: 
+          - Moville
         names_es: ~
         population: 1402
         timezone: Europe/Dublin
@@ -2117,7 +2301,8 @@ regions:
         latitude: 54.25
         longitude: -6.96667
         name: Muineachán
-        names_en: ~
+        names_en: 
+          - Monaghan
         names_es: ~
         population: 5937
         timezone: Europe/Dublin
@@ -2130,7 +2315,8 @@ regions:
         latitude: 54.83194
         longitude: -7.48361
         name: Leifear
-        names_en: ~
+        names_en: 
+          - Lifford
         names_es: ~
         population: 1617
         timezone: Europe/Dublin
@@ -2143,8 +2329,10 @@ regions:
         latitude: 54.95
         longitude: -7.73333
         name: Letterkenny
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Letterkenny
+        names_es: 
+          - Letterkenny
         population: 16901
         timezone: Europe/Dublin
       - 
@@ -2157,7 +2345,8 @@ regions:
         latitude: 54.63333
         longitude: -8.45
         name: Killybegs
-        names_en: ~
+        names_en: 
+          - Killybegs
         names_es: ~
         population: 1725
         timezone: Europe/Dublin
@@ -2166,12 +2355,14 @@ regions:
           - "Gaoth Dobhair"
           - Gweedore
           - Krokh'li
+          - Крохьли
         ascii_name: Gweedore
         geonamesid: 2963827
         latitude: 55.05028
         longitude: -8.23194
         name: Gweedore
-        names_en: ~
+        names_en: 
+          - Gweedore
         names_es: ~
         population: 4200
         timezone: Europe/Dublin
@@ -2184,7 +2375,8 @@ regions:
         latitude: 54.7975
         longitude: -8.2825
         name: Glenties
-        names_en: ~
+        names_en: 
+          - Glenties
         names_es: ~
         population: 1500
         timezone: Europe/Dublin
@@ -2193,12 +2385,15 @@ regions:
           - "Dun Luiche"
           - "Dun Lukhe"
           - Dunlewy
+          - "Dún Lúiche"
         ascii_name: Dunlewy
         geonamesid: 2964503
         latitude: 55.01667
         longitude: -8.1
         name: Dunlewy
-        names_en: ~
+        names_en: 
+          - "Dún Lúiche"
+          - Dunlewy
         names_es: ~
         population: 3400
         timezone: Europe/Dublin
@@ -2212,7 +2407,8 @@ regions:
         latitude: 54.65
         longitude: -8.11667
         name: Donegal
-        names_en: ~
+        names_en: 
+          - Donegal
         names_es: ~
         population: 2513
         timezone: Europe/Dublin
@@ -2225,7 +2421,8 @@ regions:
         latitude: 54.0725
         longitude: -7.08194
         name: Cootehill
-        names_en: ~
+        names_en: 
+          - Cootehill
         names_es: ~
         population: 1713
         timezone: Europe/Dublin
@@ -2237,7 +2434,8 @@ regions:
         latitude: 54.18333
         longitude: -7.23333
         name: "Cluain Eois"
-        names_en: ~
+        names_en: 
+          - Clones
         names_es: ~
         population: 1834
         timezone: Europe/Dublin
@@ -2249,7 +2447,8 @@ regions:
         latitude: 53.99083
         longitude: -7.36056
         name: "An Cabhán"
-        names_en: ~
+        names_en: 
+          - Cavan
         names_es: ~
         population: 6388
         timezone: Europe/Dublin
@@ -2261,7 +2460,8 @@ regions:
         latitude: 54.11667
         longitude: -6.73333
         name: "Baile na Lorgan"
-        names_en: ~
+        names_en: 
+          - Castleblayney
         names_es: ~
         population: 3006
         timezone: Europe/Dublin
@@ -2274,7 +2474,8 @@ regions:
         latitude: 53.97278
         longitude: -6.71889
         name: "Carraig Mhachaire Rois"
-        names_en: ~
+        names_en: 
+          - Carrickmacross
         names_es: ~
         population: 3995
         timezone: Europe/Dublin
@@ -2288,7 +2489,8 @@ regions:
         latitude: 55.25
         longitude: -7.26667
         name: Carndonagh
-        names_en: ~
+        names_en: 
+          - Carndonagh
         names_es: ~
         population: 1581
         timezone: Europe/Dublin
@@ -2300,7 +2502,8 @@ regions:
         latitude: 54.46667
         longitude: -8.28333
         name: "Bun Dobhráin"
-        names_en: ~
+        names_en: 
+          - Bundoran
         names_es: ~
         population: 1865
         timezone: Europe/Dublin
@@ -2309,12 +2512,14 @@ regions:
           - "Beal Tairbirt"
           - Belturbet
           - "Béal Tairbirt"
+          - Белтурбет
         ascii_name: Belturbet
         geonamesid: 2966201
         latitude: 54.1
         longitude: -7.45
         name: Belturbet
-        names_en: ~
+        names_en: 
+          - Belturbet
         names_es: ~
         population: 1277
         timezone: Europe/Dublin
@@ -2328,7 +2533,8 @@ regions:
         latitude: 54.5
         longitude: -8.18333
         name: Ballyshannon
-        names_en: ~
+        names_en: 
+          - Ballyshannon
         names_es: ~
         population: 2683
         timezone: Europe/Dublin
@@ -2342,7 +2548,8 @@ regions:
         latitude: 54.8
         longitude: -7.78333
         name: Ballybofey
-        names_en: ~
+        names_en: 
+          - Ballybofey
         names_es: ~
         population: 3848
         timezone: Europe/Dublin
@@ -2356,7 +2563,8 @@ regions:
         latitude: 53.91667
         longitude: -6.96667
         name: Bailieborough
-        names_en: ~
+        names_en: 
+          - Bailieborough
         names_es: ~
         population: 1703
         timezone: Europe/Dublin
@@ -2365,12 +2573,14 @@ regions:
           - "Ard an Ratha"
           - "Ard an Rátha"
           - Ardara
+          - Ardarn
         ascii_name: Ardara
         geonamesid: 2966935
         latitude: 54.76444
         longitude: -8.4075
         name: Ardara
-        names_en: ~
+        names_en: 
+          - Ardara
         names_es: ~
         population: 2000
         timezone: Europe/Dublin

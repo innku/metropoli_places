@@ -2,8 +2,11 @@
 geonamesid: 2782113
 iso: AT
 name: Austria
-names_en: ~
-names_es: ~
+names_en: 
+  - Austria
+  - "Republic of Austria"
+names_es: 
+  - Austria
 regions: 
   - 
     ascii_name: Vienna
@@ -13,19 +16,24 @@ regions:
           - Bec
           - Bech
           - Becs
+          - Beč
         ascii_name: Vienna
         geonamesid: 2761369
         latitude: 48.20849
         longitude: 16.37208
         name: Vienna
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Vienna
+        names_es: 
+          - Viena
         population: 1691468
         timezone: Europe/Vienna
     geonamesid: 2761367
     name: Vienna
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Vienna
+    names_es: 
+      - Viena
   - 
     ascii_name: Vorarlberg
     cities: 
@@ -34,6 +42,7 @@ regions:
           - Kirchdorf
           - Vol'furt
           - Wolfurt
+          - Вольфурт
         ascii_name: Wolfurt
         geonamesid: 2760894
         latitude: 47.46667
@@ -48,12 +57,14 @@ regions:
           - Schruns
           - Shruns
           - "shi lun si"
+          - Шрунс
         ascii_name: Schruns
         geonamesid: 2765581
         latitude: 47.06667
         longitude: 9.91667
         name: Schruns
-        names_en: ~
+        names_en: 
+          - Schruns
         names_es: ~
         population: 3506
         timezone: Europe/Vienna
@@ -112,8 +123,10 @@ regions:
         latitude: 47.42642
         longitude: 9.65851
         name: Lustenau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lustenau
+        names_es: 
+          - Lustenau
         population: 20218
         timezone: Europe/Vienna
       - 
@@ -157,6 +170,7 @@ regions:
           - Horbranz
           - Hörbranz
           - Khjornbranc
+          - Kirchdorf
         ascii_name: Horbranz
         geonamesid: 2775531
         latitude: 47.55
@@ -218,13 +232,16 @@ regions:
           - Fel'dkirkh
           - Feldkirch
           - pldqyrk
+          - Фельдкирх
         ascii_name: Feldkirch
         geonamesid: 2779674
         latitude: 47.23306
         longitude: 9.6
         name: Feldkirch
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Feldkirch
+        names_es: 
+          - Feldkirch
         population: 29446
         timezone: Europe/Vienna
       - 
@@ -232,13 +249,16 @@ regions:
           - Dornbirn
           - dwrnbyrn
           - Дорнбирн
+          - דורנבירן
         ascii_name: Dornbirn
         geonamesid: 2780741
         latitude: 47.41667
         longitude: 9.73306
         name: Dornbirn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dornbirn
+        names_es: 
+          - Dornbirn
         population: 43013
         timezone: Europe/Vienna
       - 
@@ -257,13 +277,16 @@ regions:
           - Bregenc
           - Bregencja
           - Bregenz
+          - Brigantium
         ascii_name: Bregenz
         geonamesid: 2781503
         latitude: 47.50311
         longitude: 9.7471
         name: Bregenz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bregenz
+        names_es: 
+          - Bregenz
         population: 27611
         timezone: Europe/Vienna
       - 
@@ -276,7 +299,8 @@ regions:
         latitude: 47.14972
         longitude: 9.81667
         name: Bludenz
-        names_en: ~
+        names_en: 
+          - Bludenz
         names_es: ~
         population: 13904
         timezone: Europe/Vienna
@@ -294,8 +318,10 @@ regions:
         timezone: Europe/Vienna
     geonamesid: 2762300
     name: Vorarlberg
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Vorarlberg
+    names_es: 
+      - Vorarlberg
   - 
     ascii_name: Tyrol
     cities: 
@@ -393,6 +419,7 @@ regions:
           - Hall
           - "Hall in Tirol"
           - Khall'-in-Tirol'
+          - "Solbad Hall"
         ascii_name: "Hall in Tirol"
         geonamesid: 2764958
         latitude: 47.28333
@@ -446,6 +473,7 @@ regions:
           - Schonberg
           - "Schonberg im Stubaital"
           - Schönberg
+          - "Schönberg im Stubaital"
         ascii_name: "Schoenberg im Stubaital"
         geonamesid: 2765715
         latitude: 47.18333
@@ -460,12 +488,14 @@ regions:
           - "Saint Anton"
           - "Sankt Anton"
           - Sankt-Anton-am-Arl'berg
+          - "St Anton"
         ascii_name: "Sankt Anton am Arlberg"
         geonamesid: 2766757
         latitude: 47.1275
         longitude: 10.26372
         name: "Sankt Anton am Arlberg"
-        names_en: ~
+        names_en: 
+          - "Saint Anton"
         names_es: ~
         population: 2848
         timezone: Europe/Vienna
@@ -485,6 +515,7 @@ regions:
           - Reutte
           - "Reutte in Tirol"
           - Rojtte
+          - Ройтте
         ascii_name: Reutte
         geonamesid: 2767511
         latitude: 47.48333
@@ -499,12 +530,14 @@ regions:
           - Ehc
           - Ehtc
           - Oetz
+          - Otz
         ascii_name: Oetz
         geonamesid: 2769324
         latitude: 47.2
         longitude: 10.9
         name: Oetz
-        names_en: ~
+        names_en: 
+          - Oetz
         names_es: ~
         population: 2238
         timezone: Europe/Vienna
@@ -513,12 +546,14 @@ regions:
           - Neustift
           - "Neustift im Stubaital"
           - Nojshtift
+          - Нойштифт
         ascii_name: "Neustift im Stubaital"
         geonamesid: 2770651
         latitude: 47.11667
         longitude: 11.31667
         name: "Neustift im Stubaital"
-        names_en: ~
+        names_en: 
+          - Neustift
         names_es: ~
         population: 4454
         timezone: Europe/Vienna
@@ -540,12 +575,14 @@ regions:
           - Mairhofen
           - Majerkhofen
           - Majrkhofen
+          - Mayrhofen
         ascii_name: Mayrhofen
         geonamesid: 2771725
         latitude: 47.16667
         longitude: 11.86667
         name: Mayrhofen
-        names_en: ~
+        names_en: 
+          - Mayrhofen
         names_es: ~
         population: 3869
         timezone: Europe/Vienna
@@ -554,6 +591,7 @@ regions:
           - "Matraj (Osttirol')"
           - Matrei
           - "Matrei in Osttirol"
+          - "Матрай (Осттироль)"
         ascii_name: "Matrei in Osttirol"
         geonamesid: 2771828
         latitude: 47.0
@@ -568,12 +606,14 @@ regions:
           - Lienz
           - Linc
           - lyynz
+          - rientsu
         ascii_name: Lienz
         geonamesid: 2772505
         latitude: 46.8289
         longitude: 12.76903
         name: Lienz
-        names_en: ~
+        names_en: 
+          - Lienz
         names_es: ~
         population: 12270
         timezone: Europe/Vienna
@@ -582,6 +622,7 @@ regions:
           - Leermoos
           - Lermoos
           - Lermos
+          - Лермос
         ascii_name: Lermoos
         geonamesid: 2772592
         latitude: 47.4
@@ -607,12 +648,14 @@ regions:
           - Kuffstein
           - Kufshtajn
           - Kufsstein
+          - Kufstein
         ascii_name: Kufstein
         geonamesid: 2773300
         latitude: 47.58333
         longitude: 12.16667
         name: Kufstein
-        names_en: ~
+        names_en: 
+          - Kufstein
         names_es: ~
         population: 16115
         timezone: Europe/Vienna
@@ -621,13 +664,16 @@ regions:
           - Kitcbjuehl'
           - Kitzbichl
           - Kitzbuehel
+          - Kitzbühel
         ascii_name: Kitzbuhel
         geonamesid: 2774347
         latitude: 47.44637
         longitude: 12.39215
         name: Kitzbühel
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kitzbühel
+        names_es: 
+          - Kitzbühel
         population: 8818
         timezone: Europe/Vienna
       - 
@@ -668,13 +714,16 @@ regions:
           - Innsbruck
           - Insbruk
           - Insbruka
+          - "Pons Aeni"
         ascii_name: Innsbruck
         geonamesid: 2775220
         latitude: 47.26266
         longitude: 11.39454
         name: Innsbruck
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Innsbruck
+        names_es: 
+          - Innsbruck
         population: 112467
         timezone: Europe/Vienna
       - 
@@ -686,7 +735,8 @@ regions:
         latitude: 47.24504
         longitude: 10.73974
         name: Imst
-        names_en: ~
+        names_en: 
+          - Imst
         names_es: ~
         population: 9225
         timezone: Europe/Vienna
@@ -695,6 +745,7 @@ regions:
           - Hopfgarten
           - "Hopfgarten Markt"
           - "Hopfgarten im Brixental"
+          - "Hopfgarten in Nordtirol"
         ascii_name: "Hopfgarten im Brixental"
         geonamesid: 2775541
         latitude: 47.45
@@ -720,6 +771,7 @@ regions:
           - Fjugen
           - Fugen
           - Fügen
+          - Фюген
         ascii_name: Fugen
         geonamesid: 2779154
         latitude: 47.35
@@ -739,7 +791,8 @@ regions:
         latitude: 47.48333
         longitude: 12.55
         name: Fieberbrunn
-        names_en: ~
+        names_en: 
+          - Fieberbrunn
         names_es: ~
         population: 4180
         timezone: Europe/Vienna
@@ -761,6 +814,7 @@ regions:
           - Briksen-im-Tale
           - Brixen
           - "Brixen im Tal"
+          - "Brixen im Tale"
         ascii_name: "Brixen im Thale"
         geonamesid: 2781394
         latitude: 47.45
@@ -807,7 +861,8 @@ regions:
         timezone: Europe/Vienna
     geonamesid: 2763586
     name: Tyrol
-    names_en: ~
+    names_en: 
+      - Tyrol
     names_es: ~
   - 
     ascii_name: Styria
@@ -904,6 +959,7 @@ regions:
           - Bereneck
           - Perneg-an-der-Mur
           - Pernegg
+          - Пернег-ан-дер-Мур
         ascii_name: "Pernegg an der Mur"
         geonamesid: 2769077
         latitude: 47.35979
@@ -918,6 +974,7 @@ regions:
           - Mjurccushlag
           - Murssuschalg
           - Murzzuschlag
+          - Mürzzuschlag
         ascii_name: Murzzuschlag
         geonamesid: 2770993
         latitude: 47.6
@@ -961,7 +1018,8 @@ regions:
         latitude: 47.38333
         longitude: 15.1
         name: Leoben
-        names_en: ~
+        names_en: 
+          - Leoben
         names_es: ~
         population: 24809
         timezone: Europe/Vienna
@@ -1057,7 +1115,8 @@ regions:
         latitude: 47.28333
         longitude: 15.96667
         name: Hartberg
-        names_en: ~
+        names_en: 
+          - Hartberg
         names_es: ~
         population: 6634
         timezone: Europe/Vienna
@@ -1066,13 +1125,16 @@ regions:
           - Grac
           - Graca
           - Gradec
+          - Graecia
         ascii_name: Graz
         geonamesid: 2778067
         latitude: 47.06667
         longitude: 15.45
         name: Graz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Graz
+        names_es: 
+          - Graz
         population: 222326
         timezone: Europe/Vienna
       - 
@@ -1166,6 +1228,7 @@ regions:
           - Deutschlandberg
           - Deutschlandsberg
           - Dojchlandsberg
+          - Дойчландсберг
         ascii_name: Deutschlandsberg
         geonamesid: 2781023
         latitude: 46.81528
@@ -1180,12 +1243,14 @@ regions:
           - Bruck
           - "Bruck an der Mur"
           - Bruk-an-der-Mur
+          - Брук-ан-дер-Мур
         ascii_name: "Bruck an der Mur"
         geonamesid: 2781371
         latitude: 47.41667
         longitude: 15.28333
         name: "Bruck an der Mur"
-        names_en: ~
+        names_en: 
+          - "Bruck an der Mur"
         names_es: ~
         population: 13254
         timezone: Europe/Vienna
@@ -1240,7 +1305,8 @@ regions:
         timezone: Europe/Vienna
     geonamesid: 2764581
     name: Styria
-    names_en: ~
+    names_en: 
+      - Styria
     names_es: ~
   - 
     ascii_name: Salzburg
@@ -1250,12 +1316,14 @@ regions:
           - "Cel am Zee"
           - Cell'-am-Zee
           - "Zell am See"
+          - "Zell in the Pinzgau"
         ascii_name: "Zell am See"
         geonamesid: 2760634
         latitude: 47.32556
         longitude: 12.79444
         name: "Zell am See"
-        names_en: ~
+        names_en: 
+          - "Zell am See"
         names_es: ~
         population: 10046
         timezone: Europe/Vienna
@@ -1289,6 +1357,7 @@ regions:
           - Daxenbach
           - Taksenbakh
           - Taxenbach
+          - Таксенбах
         ascii_name: Taxenbach
         geonamesid: 2763837
         latitude: 47.28333
@@ -1357,6 +1426,7 @@ regions:
           - "Sankt Johann"
           - "Sankt Johann im Pongau"
           - "Sankt-Jokhann (Pongau)"
+          - "St. John's im Pougau"
         ascii_name: "Sankt Johann im Pongau"
         geonamesid: 2766643
         latitude: 47.35
@@ -1371,6 +1441,7 @@ regions:
           - "Sankt Gilgen"
           - Sankt-Gilgen
           - "St. AEgidius"
+          - "St. Ægidius"
         ascii_name: "Sankt Gilgen"
         geonamesid: 2766683
         latitude: 47.76667
@@ -1385,13 +1456,16 @@ regions:
           - "Lungsod ng Salzburg"
           - Saizburg
           - Salcburk
+          - Salisburgium
         ascii_name: Salzburg
         geonamesid: 2766824
         latitude: 47.79941
         longitude: 13.04399
         name: Salzburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Salzburg
+        names_es: 
+          - Salzburgo
         population: 150269
         timezone: Europe/Vienna
       - 
@@ -1399,6 +1473,7 @@ regions:
           - Saalfelden
           - "Saalfelden am Steinernen Meer"
           - Salfelden
+          - Zal'fel'den-am-Shtajnernen-Meer
         ascii_name: "Saalfelden am Steinernen Meer"
         geonamesid: 2766922
         latitude: 47.42681
@@ -1424,6 +1499,7 @@ regions:
           - Radstadt
           - Radstatt
           - Rashtadt
+          - Раштадт
         ascii_name: Radstadt
         geonamesid: 2768098
         latitude: 47.38333
@@ -1438,6 +1514,7 @@ regions:
           - Mittersil
           - Mittersill
           - Mitterzil'
+          - Миттерзиль
         ascii_name: Mittersill
         geonamesid: 2771385
         latitude: 47.26667
@@ -1475,12 +1552,14 @@ regions:
           - Hallein
           - Khallajn
           - Халлайн
+          - האליין
         ascii_name: Hallein
         geonamesid: 2776951
         latitude: 47.68333
         longitude: 13.1
         name: Hallein
-        names_en: ~
+        names_en: 
+          - Hallein
         names_es: ~
         population: 18980
         timezone: Europe/Vienna
@@ -1502,6 +1581,7 @@ regions:
           - Bruck
           - "Bruck an der Glocknerstrasse"
           - Bruk-an-der-Grosgloknershtrasse
+          - Брук-ан-дер-Гросглокнерштрассе
         ascii_name: "Bruck an der Grossglocknerstrasse"
         geonamesid: 2781374
         latitude: 47.28494
@@ -1516,12 +1596,14 @@ regions:
           - Bischofhofen
           - Bischofshofen
           - Bischofshofn
+          - Bischofshogen
         ascii_name: Bischofshofen
         geonamesid: 2781735
         latitude: 47.41667
         longitude: 13.21667
         name: Bischofshofen
-        names_en: ~
+        names_en: 
+          - Bischofshofen
         names_es: ~
         population: 10144
         timezone: Europe/Vienna
@@ -1541,6 +1623,7 @@ regions:
           - "Bad Hofgastein"
           - Bad-Khofgashtajn
           - Hofgastein
+          - Бад-Хофгаштайн
         ascii_name: "Bad Hofgastein"
         geonamesid: 2782053
         latitude: 47.16667
@@ -1580,6 +1663,7 @@ regions:
           - Abbtenau
           - Abtenao
           - Abtenau
+          - Абтенау
         ascii_name: Abtenau
         geonamesid: 2783050
         latitude: 47.56373
@@ -1601,13 +1685,16 @@ regions:
           - Ovilava
           - Vel's
           - Wels
+          - wls
         ascii_name: Wels
         geonamesid: 2761524
         latitude: 48.16667
         longitude: 14.03333
         name: Wels
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wels
+        names_es: 
+          - Wels
         population: 57946
         timezone: Europe/Vienna
       - 
@@ -1638,6 +1725,7 @@ regions:
           - Fjoklamarkt
           - Vocklamarkt
           - "Vocklamarkt-am Haushamerfeld"
+          - Vöcklamarkt
         ascii_name: Vocklamarkt
         geonamesid: 2762341
         latitude: 48.0
@@ -1713,12 +1801,14 @@ regions:
           - Shtajr
           - Steyer
           - Steyr
+          - "Steyr Stadt"
         ascii_name: Steyr
         geonamesid: 2764359
         latitude: 48.04274
         longitude: 14.42127
         name: Steyr
-        names_en: ~
+        names_en: 
+          - Steyr
         names_es: ~
         population: 39566
         timezone: Europe/Vienna
@@ -1790,6 +1880,7 @@ regions:
           - "Sankt Georgen"
           - "Sankt Georgen im Attergau"
           - Sankt-Georgen-im-Attergau
+          - Санкт-Георген-им-Аттергау
         ascii_name: "Sankt Georgen im Attergau"
         geonamesid: 2766692
         latitude: 47.93333
@@ -1804,6 +1895,7 @@ regions:
           - "Sankt Florian"
           - "Sankt Florian am Inn"
           - Sankt-Florian-am-Inn
+          - Санкт-Флориан-ам-Инн
         ascii_name: "Sankt Florian am Inn"
         geonamesid: 2766727
         latitude: 48.43808
@@ -1829,6 +1921,7 @@ regions:
           - Reid
           - "Rid (Inkrajs)"
           - Ried
+          - "Ried im Innkreis"
         ascii_name: "Ried im Innkreis"
         geonamesid: 2767471
         latitude: 48.21667
@@ -1917,13 +2010,16 @@ regions:
           - Lentia
           - Linc
           - Linca
+          - Lincas
         ascii_name: Linz
         geonamesid: 2772400
         latitude: 48.30639
         longitude: 14.28611
         name: Linz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Linz
+        names_es: 
+          - Linz
         population: 181162
         timezone: Europe/Vienna
       - 
@@ -1936,7 +2032,8 @@ regions:
         latitude: 48.27965
         longitude: 14.24901
         name: Leonding
-        names_en: ~
+        names_en: 
+          - Leonding
         names_es: ~
         population: 22736
         timezone: Europe/Vienna
@@ -2063,7 +2160,8 @@ regions:
         latitude: 48.51103
         longitude: 14.50453
         name: Freistadt
-        names_en: ~
+        names_en: 
+          - Freistadt
         names_es: ~
         population: 7574
         timezone: Europe/Vienna
@@ -2096,6 +2194,7 @@ regions:
           - Fel'dkirkhen-an-der-Donau
           - Feldkirchen
           - "Feldkirchen an der Donau"
+          - Фельдкирхен-ан-дер-Донау
         ascii_name: "Feldkirchen an der Donau"
         geonamesid: 2779672
         latitude: 48.35
@@ -2145,13 +2244,16 @@ regions:
           - Braunau
           - "Braunau am Inn"
           - "Braunau na In"
+          - "Braunau na Innu"
         ascii_name: "Braunau am Inn"
         geonamesid: 2781520
         latitude: 48.26667
         longitude: 13.03333
         name: "Braunau am Inn"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Braunau am Inn"
+        names_es: 
+          - "Braunau am Inn"
         population: 16403
         timezone: Europe/Vienna
       - 
@@ -2159,6 +2261,7 @@ regions:
           - "Bad Schallerbach"
           - Bad-Shallerbakh
           - Schallerbach
+          - Бад-Шаллербах
         ascii_name: "Bad Schallerbach"
         geonamesid: 2782048
         latitude: 48.23333
@@ -2173,12 +2276,14 @@ regions:
           - "Bad Ischl"
           - "Bad Ishl"
           - Ischi
+          - Ischl
         ascii_name: "Bad Ischl"
         geonamesid: 2782052
         latitude: 47.71667
         longitude: 13.61667
         name: "Bad Ischl"
-        names_en: ~
+        names_en: 
+          - "Bad Ischl"
         names_es: ~
         population: 14267
         timezone: Europe/Vienna
@@ -2226,13 +2331,16 @@ regions:
           - Ansfel'den
           - Ansfelden
           - Ансфельден
+          - אנספלדן
         ascii_name: Ansfelden
         geonamesid: 2782480
         latitude: 48.20969
         longitude: 14.29004
         name: Ansfelden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ansfelden
+        names_es: 
+          - Ansfelden
         population: 14936
         timezone: Europe/Vienna
       - 
@@ -2287,7 +2395,8 @@ regions:
         timezone: Europe/Vienna
     geonamesid: 2769848
     name: "Upper Austria"
-    names_en: ~
+    names_en: 
+      - "Upper Austria"
     names_es: ~
   - 
     ascii_name: "Lower Austria"
@@ -2333,6 +2442,7 @@ regions:
           - Ibbs
           - Ibs-na-Dunae
           - Ybbs
+          - "Ybbs an der Donau"
         ascii_name: "Ybbs an der Donau"
         geonamesid: 2760772
         latitude: 48.16667
@@ -2380,12 +2490,14 @@ regions:
           - Becsujvaros
           - Bécsújváros
           - "Dunajsko Novo mesto"
+          - "Viedenske Nove Mesto"
         ascii_name: "Wiener Neustadt"
         geonamesid: 2761353
         latitude: 47.8
         longitude: 16.25
         name: "Wiener Neustadt"
-        names_en: ~
+        names_en: 
+          - "Wiener Neustadt"
         names_es: ~
         population: 38481
         timezone: Europe/Vienna
@@ -2405,6 +2517,7 @@ regions:
           - "Stadt Waidhofen an der Ybbs"
           - "Vajdkhofen-na- Ibbse"
           - Waidhofen
+          - "Вайдхофен-на- Иббсе"
         ascii_name: "Waidhofen an der Ybbs"
         geonamesid: 2762077
         latitude: 47.96004
@@ -2419,6 +2532,7 @@ regions:
           - Vajdkhofen-an-der-Tajja
           - Waidhofen
           - "Waidhofen an der Thaya"
+          - Вайдхофен-ан-дер-Тайя
         ascii_name: "Waidhofen an der Thaya"
         geonamesid: 2762079
         latitude: 48.81667
@@ -2478,6 +2592,7 @@ regions:
           - Shtrasskhof-an-der-Nordban
           - Strasshof
           - "Strasshof an der Nordbahn"
+          - Штрассхоф-ан-дер-Нордбан
         ascii_name: "Strasshof an der Nordbahn"
         geonamesid: 2764175
         latitude: 48.31667
@@ -2515,12 +2630,14 @@ regions:
           - "Nova Schwechat"
           - Schwechat
           - Shvekhat
+          - Швехат
         ascii_name: Schwechat
         geonamesid: 2765388
         latitude: 48.13333
         longitude: 16.46667
         name: Schwechat
-        names_en: ~
+        names_en: 
+          - Schwechat
         names_es: ~
         population: 15711
         timezone: Europe/Vienna
@@ -2564,13 +2681,17 @@ regions:
           - Poelten
           - Pölten
           - "Sankt Poelten"
+          - "Sankt Polten"
         ascii_name: "Sankt Polten"
         geonamesid: 2766429
         latitude: 48.2
         longitude: 15.63333
         name: "Sankt Pölten"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Sankt Pölten"
+          - "St. Poelten"
+        names_es: 
+          - "Sankt Pölten"
         population: 49001
         timezone: Europe/Vienna
       - 
@@ -2578,6 +2699,7 @@ regions:
           - Retc
           - Retz
           - Rotz
+          - Rötz
         ascii_name: Retz
         geonamesid: 2767521
         latitude: 48.75
@@ -2684,12 +2806,14 @@ regions:
           - Mjodling
           - Moedling
           - Mödling
+          - mdlyng
         ascii_name: Modling
         geonamesid: 2771335
         latitude: 48.08605
         longitude: 16.28921
         name: Mödling
-        names_en: ~
+        names_en: 
+          - Mödling
         names_es: ~
         population: 20710
         timezone: Europe/Vienna
@@ -2698,6 +2822,7 @@ regions:
           - Mistel'-Bakh
           - Mistelbach
           - "Mistelbach an der Zaya"
+          - Мистель-Бах
         ascii_name: Mistelbach
         geonamesid: 2771557
         latitude: 48.57
@@ -2717,7 +2842,8 @@ regions:
         latitude: 48.22737
         longitude: 15.33186
         name: Melk
-        names_en: ~
+        names_en: 
+          - Melk
         names_es: ~
         population: 5272
         timezone: Europe/Vienna
@@ -2776,6 +2902,7 @@ regions:
           - Laa
           - "Laa an der Thaya"
           - Laa-an-der-Tajja
+          - Лаа-ан-дер-Тайя
         ascii_name: "Laa an der Thaya"
         geonamesid: 2773229
         latitude: 48.71667
@@ -2790,12 +2917,14 @@ regions:
           - Krems
           - "Krems an der Donau"
           - Krems-na-Dunae
+          - qrms
         ascii_name: "Krems an der Donau"
         geonamesid: 2773549
         latitude: 48.40921
         longitude: 15.61415
         name: "Krems an der Donau"
-        names_en: ~
+        names_en: 
+          - Krems
         names_es: ~
         population: 23932
         timezone: Europe/Vienna
@@ -2827,6 +2956,7 @@ regions:
           - Klosterneuberg
           - Klosterneuburg
           - Klosternojburg
+          - Клостернойбург
         ascii_name: Klosterneuburg
         geonamesid: 2773913
         latitude: 48.30521
@@ -2852,6 +2982,7 @@ regions:
           - Hollabrunn
           - Khollabrun
           - Oberhollabrunn
+          - Холлабрун
         ascii_name: Hollabrunn
         geonamesid: 2775636
         latitude: 48.55
@@ -2971,6 +3102,7 @@ regions:
           - Genzersdorf
           - Grosehncersdorf
           - Gross-Enzersdorf
+          - Groß-Enzersdorf
         ascii_name: Gross-Enzersdorf
         geonamesid: 2777836
         latitude: 48.20278
@@ -3021,6 +3153,7 @@ regions:
           - Genzerndorf
           - Unterganserndorf
           - Untergänserndorf
+          - Гензерндорф
         ascii_name: Ganserndorf
         geonamesid: 2778877
         latitude: 48.33925
@@ -3069,6 +3202,7 @@ regions:
           - Bruck
           - "Bruck an der Leitha"
           - Bruk-an-der-Lajta
+          - Брук-ан-дер-Лайта
         ascii_name: "Bruck an der Leitha"
         geonamesid: 2781373
         latitude: 48.01667
@@ -3094,6 +3228,7 @@ regions:
           - Bad-Vjoslau
           - Voslau
           - Vöslau
+          - Бад-Вёслау
         ascii_name: "Bad Voslau"
         geonamesid: 2782043
         latitude: 47.96533
@@ -3108,12 +3243,14 @@ regions:
           - Baden
           - "Baden bei Wien"
           - Баден
+          - באדן
         ascii_name: Baden
         geonamesid: 2782067
         latitude: 48.00543
         longitude: 16.23264
         name: Baden
-        names_en: ~
+        names_en: 
+          - "Baden bei Wien"
         names_es: ~
         population: 24893
         timezone: Europe/Vienna
@@ -3130,8 +3267,10 @@ regions:
         timezone: Europe/Vienna
     geonamesid: 2770542
     name: "Lower Austria"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Lower Austria"
+    names_es: 
+      - "Baja Austria"
   - 
     ascii_name: Carinthia
     cities: 
@@ -3177,13 +3316,16 @@ regions:
           - Beljak
           - Fillakh
           - Villach
+          - Villaco
         ascii_name: Villach
         geonamesid: 2762372
         latitude: 46.61028
         longitude: 13.85583
         name: Villach
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Villach
+        names_es: 
+          - Villach
         population: 58882
         timezone: Europe/Vienna
       - 
@@ -3191,6 +3333,7 @@ regions:
           - Vel'den
           - Velden
           - "Velden am Woerthersee"
+          - "Velden am Wörthersee"
         ascii_name: "Velden am Worthersee"
         geonamesid: 2762453
         latitude: 46.61301
@@ -3205,12 +3348,14 @@ regions:
           - Shpittal'
           - Spital
           - Spittal
+          - "Spittal an der Drau"
         ascii_name: "Spittal an der Drau"
         geonamesid: 2764786
         latitude: 46.8
         longitude: 13.5
         name: "Spittal an der Drau"
-        names_en: ~
+        names_en: 
+          - "Spittal an der Drau"
         names_es: ~
         population: 16363
         timezone: Europe/Vienna
@@ -3231,6 +3376,7 @@ regions:
           - "Sankt Veit"
           - "Sankt Veit an der Glan"
           - Sankt-Vajt-an-der-Glan
+          - Санкт-Вайт-ан-дер-Глан
         ascii_name: "Sankt Veit an der Glan"
         geonamesid: 2766359
         latitude: 46.76806
@@ -3245,6 +3391,7 @@ regions:
           - "Sankt Jakob"
           - "Sankt Jakob im Rosental"
           - "Sankt Jakob im Rosenthal"
+          - "Sveti Jakob"
         ascii_name: "Sankt Jakob"
         geonamesid: 2766675
         latitude: 46.54778
@@ -3259,6 +3406,7 @@ regions:
           - "Sankt Andra"
           - "Sankt Andra Lavanttal"
           - "Sankt Andrae Im Lavanttal"
+          - "Sankt Andrä"
         ascii_name: "Sankt Andra"
         geonamesid: 2766772
         latitude: 46.76611
@@ -3285,6 +3433,7 @@ regions:
           - Moosburg
           - "Moosburg in Karnten"
           - "Moosburg in Kärnten"
+          - Mosburg
         ascii_name: Moosburg
         geonamesid: 2771244
         latitude: 46.6575
@@ -3299,6 +3448,7 @@ regions:
           - "Bad Klajnkirkhgajm"
           - "Bad Kleinkirchheim"
           - Kleinkirchheim
+          - "Бад Клайнкирхгайм"
         ascii_name: Kleinkirchheim
         geonamesid: 2774097
         latitude: 46.82278
@@ -3313,13 +3463,16 @@ regions:
           - Celovec
           - Clagenfurtum
           - Klagenfurt
+          - Klagenfurte
         ascii_name: "Klagenfurt am Woerthersee"
         geonamesid: 2774326
         latitude: 46.62472
         longitude: 14.30528
         name: "Klagenfurt am Wörthersee"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Klagenfurt
+        names_es: 
+          - Klagenfurt
         population: 90610
         timezone: Europe/Vienna
       - 
@@ -3375,6 +3528,7 @@ regions:
           - "Fel'dkirkhen (Karintija)"
           - Feldkirchen
           - "Feldkirchen in Karnten"
+          - "Feldkirchen in Kärnten"
         ascii_name: "Feldkirchen in Karnten"
         geonamesid: 2779669
         latitude: 46.71667
@@ -3413,6 +3567,7 @@ regions:
           - "Bad Sankt Leonhard"
           - "Bad Sankt Leonhard im Lavanttal"
           - "Bad Sankt Leonhard im Lavanttale"
+          - Bad-Sankt-Leonard-im-Lavanttal'
         ascii_name: "Bad Sankt Leonhard im Lavanttal"
         geonamesid: 2782049
         latitude: 46.96278
@@ -3449,8 +3604,10 @@ regions:
         timezone: Europe/Vienna
     geonamesid: 2774686
     name: Carinthia
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Carinthia
+    names_es: 
+      - Carintia
   - 
     ascii_name: Burgenland
     cities: 
@@ -3459,12 +3616,14 @@ regions:
           - Rust
           - Ruszt
           - "Stadt Rust"
+          - Руст
         ascii_name: Rust
         geonamesid: 2766939
         latitude: 47.80122
         longitude: 16.67158
         name: Rust
-        names_en: ~
+        names_en: 
+          - Rust
         names_es: ~
         population: 1726
         timezone: Europe/Vienna
@@ -3473,6 +3632,7 @@ regions:
           - Pinkafel'd
           - Pinkafeld
           - Pinkafo
+          - Пинкафельд
         ascii_name: Pinkafeld
         geonamesid: 2768811
         latitude: 47.36667
@@ -3501,6 +3661,7 @@ regions:
           - Felsoor
           - Obervart
           - Oberwart
+          - Оберварт
         ascii_name: Oberwart
         geonamesid: 2769623
         latitude: 47.28333
@@ -3515,6 +3676,7 @@ regions:
           - Neusiedl
           - "Neusiedl am See"
           - Nezsider
+          - Nojzidl'-am-Zee
         ascii_name: "Neusiedl am See"
         geonamesid: 2770684
         latitude: 47.94901
@@ -3540,6 +3702,7 @@ regions:
           - Mattersburg
           - Mattersdorf
           - Nagymarton
+          - Маттерсбург
         ascii_name: Mattersburg
         geonamesid: 2771817
         latitude: 47.73333
@@ -3554,6 +3717,7 @@ regions:
           - Enersdorf
           - Gyanafalva
           - Jennersdorf
+          - Енерсдорф
         ascii_name: Jennersdorf
         geonamesid: 2775089
         latitude: 46.93848
@@ -3582,13 +3746,16 @@ regions:
           - Ajzenshtadt
           - Eisenstadt
           - Kismarton
+          - "Stadt Eisenstadt"
         ascii_name: Eisenstadt
         geonamesid: 2780190
         latitude: 47.85
         longitude: 16.51667
         name: Eisenstadt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Eisenstadt
+        names_es: 
+          - Eisenstadt
         population: 12190
         timezone: Europe/Vienna
       - 
@@ -3596,6 +3763,7 @@ regions:
           - "Bad Tatzmannsdorf"
           - Bad-Tacmansdorf
           - Tarcsafuerdo
+          - Tarcsafürdo
         ascii_name: "Bad Tatzmannsdorf"
         geonamesid: 2782045
         latitude: 47.33333
@@ -3607,5 +3775,7 @@ regions:
         timezone: Europe/Vienna
     geonamesid: 2781194
     name: Burgenland
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Burgenland
+    names_es: 
+      - Burgenland

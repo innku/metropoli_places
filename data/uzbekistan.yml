@@ -2,8 +2,11 @@
 geonamesid: 1512440
 iso: UZ
 name: Uzbekistan
-names_en: ~
-names_es: ~
+names_en: 
+  - Uzbekistan
+  - "Republic of Uzbekistan"
+names_es: 
+  - Uzbekistán
 regions: 
   - 
     ascii_name: Karakalpakstan
@@ -13,13 +16,16 @@ regions:
           - Nukus
           - Nukusas
           - nukuseu
+          - nukusu
         ascii_name: Nukus
         geonamesid: 601294
         latitude: 42.45306
         longitude: 59.61028
         name: Nukus
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nukus
+        names_es: 
+          - Nukus
         population: 230006
         timezone: Asia/Samarkand
       - 
@@ -27,12 +33,14 @@ regions:
           - Muinak
           - Mujnak
           - Muynak
+          - Muynoq
         ascii_name: Muynoq
         geonamesid: 601299
         latitude: 43.76833
         longitude: 59.02139
         name: Mŭynoq
-        names_en: ~
+        names_en: 
+          - Muynak
         names_es: ~
         population: 13000
         timezone: Asia/Samarkand
@@ -41,6 +49,7 @@ regions:
           - Khodzheili
           - Khodzhejli
           - Khodzheyli
+          - Khojeili
         ascii_name: Khujayli
         geonamesid: 601339
         latitude: 42.40472
@@ -68,6 +77,7 @@ regions:
           - Chimbai
           - Chimbay
           - Chimboj
+          - Chimboy
         ascii_name: Chimboy
         geonamesid: 601395
         latitude: 42.93583
@@ -82,6 +92,7 @@ regions:
           - Altynkul'
           - Altynkul’
           - Oltinkul
+          - Oltinkŭl
         ascii_name: Oltinkul
         geonamesid: 601417
         latitude: 43.07444
@@ -96,6 +107,7 @@ regions:
           - Manga
           - Manghit
           - Mangit
+          - Mangyt
         ascii_name: Manghit
         geonamesid: 1513245
         latitude: 42.11556
@@ -110,6 +122,7 @@ regions:
           - Beruni
           - Berunij
           - Beruniy
+          - Biruni
         ascii_name: Beruniy
         geonamesid: 1514387
         latitude: 41.69111
@@ -121,7 +134,8 @@ regions:
         timezone: Asia/Samarkand
     geonamesid: 453752
     name: Karakalpakstan
-    names_en: ~
+    names_en: 
+      - Karakalpakstan
     names_es: ~
   - 
     ascii_name: "Surxondaryo Viloyati"
@@ -131,13 +145,16 @@ regions:
           - Termez
           - Termiz
           - Tirmiz
+          - "tai er mei zi"
         ascii_name: Tirmiz
         geonamesid: 1215957
         latitude: 37.22417
         longitude: 67.27833
         name: Tirmiz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Termez
+        names_es: 
+          - Termez
         population: 140385
         timezone: Asia/Samarkand
       - 
@@ -145,6 +162,7 @@ regions:
           - Chourtchi
           - Dzhalair
           - Kul'-Tepe
+          - Kul’-Tepe
         ascii_name: Sho'rchi
         geonamesid: 1216115
         latitude: 37.99944
@@ -159,6 +177,7 @@ regions:
           - Dehnan
           - Denan
           - Denau
+          - Denov
         ascii_name: Denov
         geonamesid: 1217474
         latitude: 38.26667
@@ -173,6 +192,7 @@ regions:
           - Baisuk
           - Baisun
           - Baysun
+          - Bojsun
         ascii_name: Boysun
         geonamesid: 1217734
         latitude: 38.20611
@@ -207,13 +227,17 @@ regions:
           - Samarcanda
           - Samarcande
           - Samarkand
+          - Samarkanda
         ascii_name: Samarqand
         geonamesid: 1216265
         latitude: 39.65417
         longitude: 66.95972
         name: Samarqand
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Samarkand
+        names_es: 
+          - Samarkanda
+          - Samarcanda
         population: 319366
         timezone: Asia/Samarkand
       - 
@@ -221,6 +245,7 @@ regions:
           - Kattakurgan
           - Kattaqo'rg'on
           - Kattaqo’rg’on
+          - Kattaqurghon
         ascii_name: Kattaqo'rg'on
         geonamesid: 1216982
         latitude: 39.89889
@@ -235,6 +260,7 @@ regions:
           - Ishtihon
           - Ishtikhon
           - Ishtixon
+          - Ishtykhan
         ascii_name: Ishtixon
         geonamesid: 1217215
         latitude: 39.96639
@@ -262,6 +288,7 @@ regions:
           - Dzhambay
           - Jomboy
           - Khashdala
+          - Khoshdala
         ascii_name: Jomboy
         geonamesid: 1217414
         latitude: 39.69889
@@ -276,6 +303,7 @@ regions:
           - Dagbid
           - Dagbit
           - Dakhbed
+          - Dakhbet
         ascii_name: Daxbet
         geonamesid: 1217512
         latitude: 39.76389
@@ -317,6 +345,7 @@ regions:
           - Bulung'ur
           - Bulunghur
           - Bulung’ur
+          - Krasnogvardeiskoye
         ascii_name: Bulung'ur
         geonamesid: 1217658
         latitude: 39.76472
@@ -344,6 +373,7 @@ regions:
           - Pajshanba
           - Payshanba
           - Payshmba
+          - Пайшанба
         ascii_name: Payshanba
         geonamesid: 1513011
         latitude: 40.00778
@@ -379,6 +409,7 @@ regions:
           - "Mug'lon Shahar"
           - Mughlon
           - Muglon
+          - "Mug’lon Shahar"
         ascii_name: "Mug'lon Shahar"
         geonamesid: 1215856
         latitude: 38.93103
@@ -393,6 +424,7 @@ regions:
           - Schachrissjabs
           - Shahri-i-Sabz
           - Shahrisabz
+          - Shakhrisabz
         ascii_name: Shahrisabz
         geonamesid: 1216187
         latitude: 39.05778
@@ -407,12 +439,14 @@ regions:
           - "Bek Budi"
           - Karaki
           - Karshi
+          - Karsi
         ascii_name: Qarshi
         geonamesid: 1216311
         latitude: 38.86667
         longitude: 65.8
         name: Qarshi
-        names_en: ~
+        names_en: 
+          - Qarshi
         names_es: ~
         population: 222898
         timezone: Asia/Samarkand
@@ -421,6 +455,7 @@ regions:
           - Maburek
           - Mubarek
           - Muborak
+          - Муборак
         ascii_name: Muborak
         geonamesid: 1216475
         latitude: 39.25528
@@ -463,6 +498,7 @@ regions:
           - Kasan
           - Kassan
           - Koson
+          - Косон
         ascii_name: Koson
         geonamesid: 1217007
         latitude: 39.0375
@@ -490,6 +526,7 @@ regions:
           - G'uzor
           - Ghuzor
           - Gusar
+          - Guzar
         ascii_name: G'uzor
         geonamesid: 1217262
         latitude: 38.62083
@@ -591,6 +628,7 @@ regions:
           - Kal'ty-Mauri
           - Kal’ty-Mauri
           - Ramitan
+          - Rometan
         ascii_name: Romiton
         geonamesid: 1216290
         latitude: 39.92944
@@ -619,6 +657,7 @@ regions:
           - Kagan
           - Kogon
           - "Novaya Bukhara"
+          - Каган
         ascii_name: Kogon
         geonamesid: 1217180
         latitude: 39.72278
@@ -633,6 +672,7 @@ regions:
           - Galaasiya
           - Galaassiya
           - Galaosiyo
+          - Gallya-Asiya
         ascii_name: Galaosiyo
         geonamesid: 1217340
         latitude: 39.85778
@@ -647,13 +687,16 @@ regions:
           - Alt-Buchara
           - Bokhara
           - Boukhara
+          - Bucara
         ascii_name: Buxoro
         geonamesid: 1217662
         latitude: 39.77472
         longitude: 64.42861
         name: Buxoro
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bukhara
+        names_es: 
+          - Bujara
         population: 247644
         timezone: Asia/Samarkand
       - 
@@ -703,6 +746,7 @@ regions:
           - Baumana
           - Khodzha-arif
           - Shafirkan
+          - Shafrikan
         ascii_name: Shofirkon
         geonamesid: 1512838
         latitude: 40.12
@@ -717,6 +761,7 @@ regions:
           - Akmal'-Abad
           - Akmal’-Abad
           - Ghijduwon
+          - Gidzhduvan
         ascii_name: Ghijduwon
         geonamesid: 1513983
         latitude: 40.1
@@ -791,6 +836,7 @@ regions:
           - Toi-Tjube
           - Toi-Tyube
           - Tojtepa
+          - Toy-Tyube
         ascii_name: Tuytepa
         geonamesid: 1512524
         latitude: 41.0321
@@ -843,12 +889,14 @@ regions:
           - Almalyk
           - Ałmałyk
           - Olmaliq
+          - Алмалык
         ascii_name: Olmaliq
         geonamesid: 1513064
         latitude: 40.84472
         longitude: 69.59833
         name: Olmaliq
-        names_en: ~
+        names_en: 
+          - Olmaliq
         names_es: ~
         population: 121207
         timezone: Asia/Tashkent
@@ -857,6 +905,7 @@ regions:
           - Akhangaran
           - Akhangaron
           - Kurama
+          - Ohangaron
         ascii_name: Ohangaron
         geonamesid: 1513072
         latitude: 40.90639
@@ -899,6 +948,7 @@ regions:
           - G`azalkent
           - Gazalkent
           - Ghazalkent
+          - G‘azalkent
         ascii_name: G'azalkent
         geonamesid: 1513996
         latitude: 41.55806
@@ -913,12 +963,14 @@ regions:
           - Chirchik
           - Chirchiq
           - Tschirtschik
+          - Чирчик
         ascii_name: Chirchiq
         geonamesid: 1514210
         latitude: 41.46889
         longitude: 69.58222
         name: Chirchiq
-        names_en: ~
+        names_en: 
+          - Chirchiq
         names_es: ~
         population: 167842
         timezone: Asia/Tashkent
@@ -927,6 +979,7 @@ regions:
           - Chinaz
           - Chinoz
           - Cinaz
+          - Tschin
         ascii_name: Chinoz
         geonamesid: 1514215
         latitude: 40.93639
@@ -952,6 +1005,7 @@ regions:
           - Bagevat
           - Begovat
           - Begowat
+          - Bekabad
         ascii_name: Bekobod
         geonamesid: 1514402
         latitude: 40.22083
@@ -966,6 +1020,7 @@ regions:
           - Angren
           - Angrenshakhtstroy
           - Turk
+          - Turn
         ascii_name: Angren
         geonamesid: 1514581
         latitude: 41.01667
@@ -987,13 +1042,16 @@ regions:
           - Ta.kent
           - Tachkent
           - Taschkent
+          - Tashken
         ascii_name: Tashkent
         geonamesid: 1512569
         latitude: 41.26465
         longitude: 69.21627
         name: Tashkent
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tashkent
+        names_es: 
+          - Tashkent
         population: 1978028
         timezone: Asia/Tashkent
       - 
@@ -1022,6 +1080,7 @@ regions:
           - Jangier
           - Ungi-Yere
           - Yangier
+          - Yangiyer
         ascii_name: Yangiyer
         geonamesid: 1512342
         latitude: 40.275
@@ -1036,6 +1095,7 @@ regions:
           - Sidare
           - Sirdaryo
           - Ssyr-Darja
+          - Syr-Dar'inskiy
         ascii_name: Sirdaryo
         geonamesid: 1512770
         latitude: 40.84361
@@ -1050,6 +1110,7 @@ regions:
           - "Golodnaya Step'"
           - "Golodnaya Step’"
           - Gulistan
+          - Guliston
         ascii_name: Guliston
         geonamesid: 1513966
         latitude: 40.48972
@@ -1071,6 +1132,7 @@ regions:
           - Sugrali
           - Sugraly
           - Zarafshan
+          - Zarafshon
         ascii_name: Zarafshon
         geonamesid: 1512281
         latitude: 41.57917
@@ -1112,12 +1174,14 @@ regions:
           - Kermene
           - Kermine
           - Nava
+          - Navoi
         ascii_name: Navoiy
         geonamesid: 1513131
         latitude: 40.08444
         longitude: 65.37917
         name: Navoiy
-        names_en: ~
+        names_en: 
+          - Navoiy
         names_es: ~
         population: 129725
         timezone: Asia/Samarkand
@@ -1126,6 +1190,7 @@ regions:
           - Kizil-Tepe
           - "Kyzyl Tepe"
           - Kyzyltepa
+          - Qiziltepa
         ascii_name: Qiziltepa
         geonamesid: 1513288
         latitude: 40.03306
@@ -1147,6 +1212,7 @@ regions:
           - Yangikurgan
           - Yangiqo`rg`on
           - Yangiqo‘rg‘on
+          - Yangiqurghon
         ascii_name: Yangiqo`rg`on
         geonamesid: 1512350
         latitude: 41.18722
@@ -1161,6 +1227,7 @@ regions:
           - Uichi
           - Ujchi
           - Uychi
+          - Уйчи
         ascii_name: Uychi
         geonamesid: 1512449
         latitude: 41.08073
@@ -1189,6 +1256,7 @@ regions:
           - Turagurghon
           - Turakurgan
           - Tyurya-Kurgan
+          - Tŭragŭrghon
         ascii_name: Turagurghon
         geonamesid: 1512549
         latitude: 40.99984
@@ -1243,6 +1311,7 @@ regions:
           - Haqqulobod
           - Khakkulabad
           - Khakulabad
+          - Naron
         ascii_name: Haqqulobod
         geonamesid: 1513655
         latitude: 40.91667
@@ -1257,6 +1326,7 @@ regions:
           - Kasansay
           - Kassan-Sai
           - Kassansay
+          - Kosonsoy
         ascii_name: Kosonsoy
         geonamesid: 1513714
         latitude: 41.25611
@@ -1271,6 +1341,7 @@ regions:
           - Chust
           - "Chust Shahri"
           - Tschust
+          - Чуст
         ascii_name: "Chust Shahri"
         geonamesid: 1514192
         latitude: 41.00127
@@ -1399,13 +1470,16 @@ regions:
           - Novo-Urgench
           - Ourguentch
           - Urganch
+          - Urgench
         ascii_name: Urganch
         geonamesid: 1512473
         latitude: 41.55
         longitude: 60.63333
         name: Urganch
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Urgench
+        names_es: 
+          - Urgench
         population: 150110
         timezone: Asia/Samarkand
       - 
@@ -1413,6 +1487,7 @@ regions:
           - Shakh-abad
           - Shavat
           - Shovot
+          - Showot
         ascii_name: Showot
         geonamesid: 1512790
         latitude: 41.65583
@@ -1427,6 +1502,7 @@ regions:
           - "Kosh Kunir"
           - Koshkupyr
           - Qushkupir
+          - Qŭshkŭpir
         ascii_name: Qushkupir
         geonamesid: 1512978
         latitude: 41.535
@@ -1441,13 +1517,16 @@ regions:
           - Chiva
           - Chiwa
           - Hiva
+          - Horezm
         ascii_name: Khiwa
         geonamesid: 1513604
         latitude: 41.37833
         longitude: 60.36389
         name: Khiwa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Khiva
+        names_es: 
+          - Jiva
         population: 55567
         timezone: Asia/Samarkand
       - 
@@ -1468,6 +1547,7 @@ regions:
           - Gurlan
           - Gurlek
           - Gurlen
+          - Гурлан
         ascii_name: Gurlan
         geonamesid: 1513962
         latitude: 41.84472
@@ -1489,6 +1569,7 @@ regions:
           - Saamin
           - Zaamin
           - Zomin
+          - Зомин
         ascii_name: Zomin
         geonamesid: 1215694
         latitude: 39.96056
@@ -1530,12 +1611,14 @@ regions:
           - Dishsak
           - Djizak
           - Dzhizak
+          - Jizak
         ascii_name: Jizzax
         geonamesid: 1513886
         latitude: 40.11583
         longitude: 67.84222
         name: Jizzax
-        names_en: ~
+        names_en: 
+          - Jizzakh
         names_es: ~
         population: 152642
         timezone: Asia/Tashkent
@@ -1544,6 +1627,7 @@ regions:
           - Erjar
           - Gagarin
           - Yerzhar
+          - Гагарин
         ascii_name: Gagarin
         geonamesid: 1514011
         latitude: 40.66194
@@ -1576,6 +1660,7 @@ regions:
           - Shakhimardan
           - Shakimardan
           - Shohimardon
+          - Шахимардан
         ascii_name: Shohimardon
         geonamesid: 1216189
         latitude: 39.98389
@@ -1590,6 +1675,7 @@ regions:
           - Bazar-Yaypan
           - Jajpan
           - Yaipan
+          - Yaypan
         ascii_name: Yaypan
         geonamesid: 1512320
         latitude: 40.37583
@@ -1617,12 +1703,14 @@ regions:
           - Kokand
           - Kokandas
           - Qo'qon
+          - Qo`qon
         ascii_name: Qo`qon
         geonamesid: 1512979
         latitude: 40.52861
         longitude: 70.9425
         name: Qo‘qon
-        names_en: ~
+        names_en: 
+          - Kokand
         names_es: ~
         population: 187477
         timezone: Asia/Tashkent
@@ -1631,12 +1719,14 @@ regions:
           - Marg`ilon
           - Margelan
           - Marghilon
+          - Margilan
         ascii_name: Marg`ilon
         geonamesid: 1513243
         latitude: 40.47111
         longitude: 71.72472
         name: Marg‘ilon
-        names_en: ~
+        names_en: 
+          - Margilan
         names_es: ~
         population: 133490
         timezone: Asia/Tashkent
@@ -1645,6 +1735,7 @@ regions:
           - Kubasay
           - Kuvasa
           - Kuvasay
+          - Kuwassai
         ascii_name: Quvasoy
         geonamesid: 1513331
         latitude: 40.30222
@@ -1659,6 +1750,7 @@ regions:
           - Gorchakovo
           - Komsomol'skiy
           - Komsomol’skiy
+          - "Stantsiya Gorchakovo"
         ascii_name: Komsomol'skiy
         geonamesid: 1513491
         latitude: 40.42722
@@ -1684,6 +1776,7 @@ regions:
           - Hamza
           - "Imeni Khamzy Khakimzade"
           - Khamza
+          - "Khamza Khakimzada"
         ascii_name: Hamza
         geonamesid: 1513650
         latitude: 40.42639
@@ -1698,12 +1791,14 @@ regions:
           - Farghona
           - Fergana
           - "Novyy Margelan"
+          - Skobelev
         ascii_name: Farg`ona
         geonamesid: 1514019
         latitude: 40.38421
         longitude: 71.78432
         name: Farg`ona
-        names_en: ~
+        names_en: 
+          - Fergana
         names_es: ~
         population: 164322
         timezone: Asia/Tashkent
@@ -1712,6 +1807,7 @@ regions:
           - Beshariq
           - Besharyk
           - Besharykskogo
+          - "Imeni Kirova"
         ascii_name: Beshariq
         geonamesid: 1514382
         latitude: 40.43583
@@ -1739,6 +1835,7 @@ regions:
           - Kuva
           - Quva
           - Quwa
+          - Кува
         ascii_name: Quva
         geonamesid: 1526979
         latitude: 40.52361
@@ -1760,6 +1857,7 @@ regions:
           - Marhamat
           - Markhamat
           - "Markhamat Pervyy"
+          - Мархамат
         ascii_name: Marhamat
         geonamesid: 1513242
         latitude: 40.48
@@ -1774,6 +1872,7 @@ regions:
           - Asaka
           - Assake
           - Leninsk
+          - Zelensk
         ascii_name: Asaka
         geonamesid: 1513271
         latitude: 40.64139
@@ -1788,6 +1887,7 @@ regions:
           - "Kurgan Tyube"
           - Kurgan-Tepe
           - Kurgantepa
+          - Kyzyl-Tepa
         ascii_name: Qurghontepa
         geonamesid: 1513364
         latitude: 40.72667
@@ -1802,6 +1902,7 @@ regions:
           - Khodzhaabad
           - Khodzhavat
           - Khodzhiabad
+          - Khoji-Abad
         ascii_name: Khujaobod
         geonamesid: 1513600
         latitude: 40.66944
@@ -1816,13 +1917,16 @@ regions:
           - Andican
           - Andidzhan
           - Andijan
+          - Andijon
         ascii_name: Andijon
         geonamesid: 1514588
         latitude: 40.78306
         longitude: 72.34389
         name: Andijon
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Andijan
+        names_es: 
+          - Andiján
         population: 318419
         timezone: Asia/Tashkent
     geonamesid: 1484846

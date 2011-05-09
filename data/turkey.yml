@@ -2,8 +2,11 @@
 geonamesid: 298795
 iso: TR
 name: Turkey
-names_en: ~
-names_es: ~
+names_en: 
+  - Turkey
+  - "Republic of Turkey"
+names_es: 
+  - Turquía
 regions: 
   - 
     ascii_name: Yozgat
@@ -13,13 +16,16 @@ regions:
           - Saralus
           - Yozgad
           - Yozgat
+          - Yuzgat
         ascii_name: Yozgat
         geonamesid: 296562
         latitude: 39.82
         longitude: 34.80444
         name: Yozgat
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Yozgat
+        names_es: 
+          - Yozgat
         population: 87881
         timezone: Europe/Istanbul
       - 
@@ -38,6 +44,7 @@ regions:
           - Fakili
           - Fakiliistasyonu
           - Fakılı
+          - Fakılıistasyonu
         ascii_name: Yenifakili
         geonamesid: 297099
         latitude: 39.21142
@@ -52,6 +59,7 @@ regions:
           - Buyukkohne
           - Büyükköhne
           - Kohne
+          - Köhne
         ascii_name: Sorgun
         geonamesid: 300352
         latitude: 39.81012
@@ -66,6 +74,7 @@ regions:
           - Hacisefaatli
           - Hacışefaatlı
           - Sefaatli
+          - Şefaatli
         ascii_name: Sefaatli
         geonamesid: 301353
         latitude: 39.5043
@@ -94,6 +103,7 @@ regions:
           - Karamagara
           - Karamagra
           - Karamağara
+          - Karamağra
         ascii_name: Saraykent
         geonamesid: 301829
         latitude: 39.69361
@@ -108,6 +118,7 @@ regions:
           - Kadisehir
           - Kadisehri
           - Kadışehir
+          - Kadışehri
         ascii_name: Kadisehri
         geonamesid: 310888
         latitude: 39.99568
@@ -122,6 +133,7 @@ regions:
           - Akdag
           - Akdağ
           - Cayiralan
+          - Cayirse
         ascii_name: Cayiralan
         geonamesid: 319069
         latitude: 39.30278
@@ -160,6 +172,7 @@ regions:
           - Adagmadeni
           - Adağmadenı
           - Akdagmadeni
+          - Akdağmadeni
         ascii_name: Akdagmadeni
         geonamesid: 324768
         latitude: 39.66028
@@ -174,6 +187,7 @@ regions:
           - Cekerek
           - Hacikoy
           - Hacıköy
+          - Turkmenhacikoyu
         ascii_name: Cekerek
         geonamesid: 749392
         latitude: 40.07306
@@ -188,6 +202,7 @@ regions:
           - Aydincik
           - Aydıncık
           - Eskikoy
+          - Eskiköy
         ascii_name: Aydincik
         geonamesid: 751491
         latitude: 40.12727
@@ -199,8 +214,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 296560
     name: Yozgat
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Yozgat Province"
+      - Yozgat
+    names_es: 
+      - Yozgat
   - 
     ascii_name: Van
     cities: 
@@ -209,6 +227,7 @@ regions:
           - Thospia
           - Urartu
           - Van
+          - Wan
         ascii_name: Van
         geonamesid: 298117
         latitude: 38.49239
@@ -223,6 +242,7 @@ regions:
           - Edremit
           - Gumusdere
           - Gümüşdere
+          - Sarmansuyu
         ascii_name: Sarmansuyu
         geonamesid: 301529
         latitude: 38.41803
@@ -251,6 +271,7 @@ regions:
           - Karakalli
           - Karakallı
           - Karkalli
+          - Karkallı
         ascii_name: Ozalp
         geonamesid: 303022
         latitude: 38.65477
@@ -278,6 +299,7 @@ regions:
           - Gurpinar
           - Gürpınar
           - Kigzi
+          - Kığzı
         ascii_name: Gurpinar
         geonamesid: 313328
         latitude: 38.32606
@@ -292,6 +314,7 @@ regions:
           - Gevas
           - Gevaş
           - Vastan
+          - Vaston
         ascii_name: Gevas
         geonamesid: 314557
         latitude: 38.29681
@@ -320,6 +343,7 @@ regions:
           - Catak
           - Martanis
           - Satak
+          - Sitak
         ascii_name: Catak
         geonamesid: 319345
         latitude: 38.00845
@@ -334,6 +358,7 @@ regions:
           - Bayazitaga
           - Bayazıtağa
           - Caldiran
+          - Çaldıran
         ascii_name: Caldiran
         geonamesid: 319823
         latitude: 39.14316
@@ -348,6 +373,7 @@ regions:
           - "Bash Kaleh"
           - Bashkala
           - Baskale
+          - Başkale
         ascii_name: Baskale
         geonamesid: 321940
         latitude: 38.04526
@@ -362,6 +388,7 @@ regions:
           - Bahcesara
           - Bahcesaray
           - Bahçesaray
+          - Muks
         ascii_name: Bahcesaray
         geonamesid: 322324
         latitude: 38.12534
@@ -373,8 +400,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 298113
     name: Van
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Van Province"
+      - Van
+    names_es: 
+      - "Provincia de Van"
   - 
     ascii_name: Usak
     cities: 
@@ -383,12 +413,14 @@ regions:
           - Flaviopolis
           - Ouchak
           - Temenothyrae
+          - Usak
         ascii_name: Usak
         geonamesid: 298299
         latitude: 38.67351
         longitude: 29.4058
         name: Uşak
-        names_en: ~
+        names_en: 
+          - Uşak
         names_es: ~
         population: 152862
         timezone: Europe/Istanbul
@@ -397,6 +429,7 @@ regions:
           - Gobek
           - Göbek
           - Ulubei
+          - Ulubey
         ascii_name: Ulubey
         geonamesid: 298454
         latitude: 38.41987
@@ -422,6 +455,7 @@ regions:
           - Karaballi
           - Karaballı
           - Karahal
+          - Karahalla
         ascii_name: Karahalli
         geonamesid: 309821
         latitude: 38.32083
@@ -447,6 +481,7 @@ regions:
           - Esme
           - Eşme
           - ashmh
+          - اشمه
         ascii_name: Esme
         geonamesid: 315183
         latitude: 38.39976
@@ -472,8 +507,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 298298
     name: Uşak
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Uşak Province"
+      - Uşak
+    names_es: 
+      - "Provincia de Usak"
   - 
     ascii_name: Sanliurfa
     cities: 
@@ -482,12 +520,14 @@ regions:
           - Antoninopolis
           - Veeranshahr
           - Viransehir
+          - Viranshekhire
         ascii_name: Viransehir
         geonamesid: 298033
         latitude: 37.23528
         longitude: 39.76306
         name: Viranşehir
-        names_en: ~
+        names_en: 
+          - Viranşehir
         names_es: ~
         population: 154163
         timezone: Europe/Istanbul
@@ -496,13 +536,16 @@ regions:
           - Antiocheia
           - Edesa
           - Edessa
+          - Ehdessa
         ascii_name: Sanliurfa
         geonamesid: 298333
         latitude: 37.16708
         longitude: 38.79392
         name: Şanlıurfa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sanliurfa
+        names_es: 
+          - Edesa
         population: 449549
         timezone: Europe/Istanbul
       - 
@@ -510,6 +553,7 @@ regions:
           - Suruc
           - Suruch
           - Suruç
+          - Syuryuch
         ascii_name: Suruc
         geonamesid: 300075
         latitude: 36.97614
@@ -524,6 +568,7 @@ regions:
           - Severek
           - Siverek
           - Sivereke
+          - Suverek
         ascii_name: Siverek
         geonamesid: 300614
         latitude: 37.75502
@@ -538,6 +583,7 @@ regions:
           - Seksenoren
           - Seksenveren
           - Seksenviran
+          - Seksenören
         ascii_name: Seksenoren
         geonamesid: 301279
         latitude: 36.97252
@@ -552,6 +598,7 @@ regions:
           - Ille
           - Oncul
           - Öncül
+          - İlle
         ascii_name: Oncul
         geonamesid: 303502
         latitude: 36.71222
@@ -566,6 +613,7 @@ regions:
           - Hirbetcay
           - Hırbetçay
           - Muratli
+          - Muratlı
         ascii_name: Muratli
         geonamesid: 304110
         latitude: 36.96167
@@ -591,6 +639,7 @@ regions:
           - Hizan
           - Khizan
           - Meydankapi
+          - Meydankapı
         ascii_name: Meydankapi
         geonamesid: 304440
         latitude: 36.78278
@@ -605,6 +654,7 @@ regions:
           - Cukurgirlevik
           - Girlavik
           - Gırlavik
+          - Magarali
         ascii_name: Magarali
         geonamesid: 304998
         latitude: 36.96889
@@ -619,6 +669,7 @@ regions:
           - Hilvan
           - Karacorun
           - Karacurum
+          - Karacurun
         ascii_name: Hilvan
         geonamesid: 312134
         latitude: 37.58686
@@ -633,6 +684,7 @@ regions:
           - Altunbasak
           - Altunbaşak
           - Altynbashak
+          - Charan
         ascii_name: Altinbasak
         geonamesid: 312531
         latitude: 36.86
@@ -671,6 +723,7 @@ regions:
           - Guneren
           - Güneren
           - Sarkimugayre
+          - Sharkymugayre
         ascii_name: Guneren
         geonamesid: 313500
         latitude: 36.73417
@@ -696,6 +749,7 @@ regions:
           - Cylanpinar
           - Dzheylanpynar
           - Raselain
+          - Rass-el-Ain
         ascii_name: Ceylanpinar
         geonamesid: 318668
         latitude: 36.84722
@@ -710,6 +764,7 @@ regions:
           - Bozova
           - Hovenk
           - Huvek
+          - Hövenk
         ascii_name: Bozova
         geonamesid: 320581
         latitude: 37.3625
@@ -724,6 +779,7 @@ regions:
           - Apamea
           - Birecik
           - Biredzhik
+          - Birejik
         ascii_name: Birecik
         geonamesid: 321062
         latitude: 37.02944
@@ -738,6 +794,7 @@ regions:
           - "Asagi Telfidan"
           - Asagibegdes
           - Ashagy-Tel'fidan
+          - Ashagy-Tel’fidan
         ascii_name: Asagibegdes
         geonamesid: 323457
         latitude: 36.81472
@@ -752,6 +809,7 @@ regions:
           - Akcakale
           - Akcekale
           - Akchakale
+          - Akçakale
         ascii_name: Akcakale
         geonamesid: 324944
         latitude: 36.71111
@@ -866,8 +924,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 298332
     name: Şanlıurfa
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Şanlıurfa Province"
+      - Şanlıurfa
+    names_es: 
+      - "Provincia de Sanliurfa"
   - 
     ascii_name: Tunceli
     cities: 
@@ -876,6 +937,7 @@ regions:
           - Kalan
           - Mameki
           - Mamiki
+          - Tunceli
         ascii_name: Tunceli
         geonamesid: 298846
         latitude: 39.10829
@@ -890,6 +952,7 @@ regions:
           - Plumur
           - Plurnur
           - Plümür
+          - Pulumer
         ascii_name: Pulumer
         geonamesid: 302469
         latitude: 39.48644
@@ -949,8 +1012,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 298845
     name: Tunceli
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Tunceli Province"
+      - Tunceli
+    names_es: 
+      - "Provincia de Tunceli"
   - 
     ascii_name: Sivas
     cities: 
@@ -998,13 +1064,16 @@ regions:
           - Megalopolis
           - Sebastia
           - Sevas
+          - Sivas
         ascii_name: Sivas
         geonamesid: 300619
         latitude: 39.74833
         longitude: 37.01611
         name: Sivas
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sivas
+        names_es: 
+          - Sivas
         population: 264022
         timezone: Europe/Istanbul
       - 
@@ -1038,6 +1107,7 @@ regions:
           - Hamidabad
           - Hamidabat
           - Hamilabat
+          - Hamitabad
         ascii_name: Imranli
         geonamesid: 311433
         latitude: 39.87544
@@ -1066,6 +1136,7 @@ regions:
           - Gurun
           - Gürün
           - Inonu
+          - İnönü
         ascii_name: Gurun
         geonamesid: 313314
         latitude: 38.72225
@@ -1091,6 +1162,7 @@ regions:
           - Aphrike
           - Difrike
           - Divirgi
+          - Divrigi
         ascii_name: Divrigi
         geonamesid: 316544
         latitude: 39.371
@@ -1119,12 +1191,14 @@ regions:
           - Endires
           - Endiryas
           - SUSHEKHRI
+          - Susehiri
         ascii_name: Susehri
         geonamesid: 739209
         latitude: 40.16444
         longitude: 38.08667
         name: Suşehri
-        names_en: ~
+        names_en: 
+          - Suşehri
         names_es: ~
         population: 25820
         timezone: Europe/Istanbul
@@ -1133,12 +1207,14 @@ regions:
           - KOJUL'KHISAR
           - Koyulhisar
           - Koyunhisar
+          - Misaz
         ascii_name: Koyulhisar
         geonamesid: 742499
         latitude: 40.3025
         longitude: 37.83111
         name: Koyulhisar
-        names_en: ~
+        names_en: 
+          - Koyulhisar
         names_es: ~
         population: 5495
         timezone: Europe/Istanbul
@@ -1147,12 +1223,14 @@ regions:
           - Agvanis
           - Ağvanis
           - Goelova
+          - Golova
         ascii_name: Golova
         geonamesid: 746603
         latitude: 40.06194
         longitude: 38.60667
         name: Gölova
-        names_en: ~
+        names_en: 
+          - Gölova
         names_es: ~
         population: 4809
         timezone: Europe/Istanbul
@@ -1161,12 +1239,14 @@ regions:
           - Dogansar
           - Doganshar
           - Doğanşar
+          - Ipsala
         ascii_name: Dogansar
         geonamesid: 747986
         latitude: 40.21667
         longitude: 37.53333
         name: Doğanşar
-        names_en: ~
+        names_en: 
+          - Doğanşar
         names_es: ~
         population: 3781
         timezone: Europe/Istanbul
@@ -1175,12 +1255,14 @@ regions:
           - Aksu
           - "Aksu Koyu"
           - "Aksu Köyü"
+          - Аксу
         ascii_name: Aksu
         geonamesid: 752359
         latitude: 40.08948
         longitude: 38.03523
         name: Aksu
-        names_en: ~
+        names_en: 
+          - Aksu
         names_es: ~
         population: 10500
         timezone: Europe/Istanbul
@@ -1189,19 +1271,24 @@ regions:
           - Akincilar
           - Akyndzhilar
           - Akıncılar
+          - Ezbider
         ascii_name: Akincilar
         geonamesid: 752476
         latitude: 40.07972
         longitude: 38.34806
         name: Akıncılar
-        names_en: ~
+        names_en: 
+          - Akıncılar
         names_es: ~
         population: 4779
         timezone: Europe/Istanbul
     geonamesid: 300617
     name: Sivas
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Sivas Province"
+      - Sivas
+    names_es: 
+      - "Provincia de Sivas"
   - 
     ascii_name: Siirt
     cities: 
@@ -1210,6 +1297,7 @@ regions:
           - Gundukevir
           - Guntkevir
           - Gyundyukevir
+          - Gündükevir
         ascii_name: Tasli
         geonamesid: 299724
         latitude: 37.99389
@@ -1224,6 +1312,7 @@ regions:
           - Kufra
           - Kufre
           - Küfre
+          - Sirvan
         ascii_name: Sirvan
         geonamesid: 300632
         latitude: 38.0624
@@ -1238,12 +1327,14 @@ regions:
           - Sairt
           - Siirt
           - Sirt
+          - Sîrt
         ascii_name: Siirt
         geonamesid: 300822
         latitude: 37.93262
         longitude: 41.94025
         name: Siirt
-        names_en: ~
+        names_en: 
+          - Siirt
         names_es: ~
         population: 114034
         timezone: Europe/Istanbul
@@ -1266,6 +1357,7 @@ regions:
           - Palamut
           - Palamutlu
           - Sas
+          - Shoz
         ascii_name: Palamutlu
         geonamesid: 302924
         latitude: 37.89583
@@ -1294,6 +1386,7 @@ regions:
           - Kurtalan
           - Misirdic
           - Misric
+          - Mısrıç
         ascii_name: Kurtalan
         geonamesid: 305532
         latitude: 37.92717
@@ -1308,6 +1401,7 @@ regions:
           - Kayabaglar
           - Kayabağlar
           - Zokayit
+          - Zokayıt
         ascii_name: Kayabaglar
         geonamesid: 308697
         latitude: 37.9825
@@ -1322,6 +1416,7 @@ regions:
           - Gulecler
           - Güleçler
           - Hanuk
+          - Hanük
         ascii_name: Gulecler
         geonamesid: 313742
         latitude: 37.95333
@@ -1336,6 +1431,7 @@ regions:
           - Gozpinar
           - Gözpınar
           - Hishis
+          - Hıshıs
         ascii_name: Gozpinar
         geonamesid: 313825
         latitude: 37.97826
@@ -1350,6 +1446,7 @@ regions:
           - Gokcekoru
           - Gökçekoru
           - Kerafon
+          - Kerefan
         ascii_name: Gokcekoru
         geonamesid: 314324
         latitude: 37.97215
@@ -1364,6 +1461,7 @@ regions:
           - Civankan
           - Civinikan
           - Civinikân
+          - Dzhivinikyan
         ascii_name: Civankan
         geonamesid: 314350
         latitude: 37.90583
@@ -1392,6 +1490,7 @@ regions:
           - Dih
           - Erukh
           - Irs
+          - Rekh
         ascii_name: Eruh
         geonamesid: 315378
         latitude: 37.75167
@@ -1406,6 +1505,7 @@ regions:
           - Dogan
           - Dogankoy
           - Doğan
+          - Doğanköy
         ascii_name: Dogankoy
         geonamesid: 316466
         latitude: 37.75277
@@ -1420,6 +1520,7 @@ regions:
           - Doganca
           - Dogandzha
           - Dogankoy
+          - Doğanca
         ascii_name: Doganca
         geonamesid: 316497
         latitude: 37.80833
@@ -1434,6 +1535,7 @@ regions:
           - Dagdosu
           - Dağdöşü
           - Serhata
+          - Serhatta
         ascii_name: Serhatta
         geonamesid: 317762
         latitude: 37.66528
@@ -1448,6 +1550,7 @@ regions:
           - Bozhuyuk
           - Bozhüyük
           - Taliban
+          - "Teliba Koyu"
         ascii_name: Taliban
         geonamesid: 320635
         latitude: 37.98125
@@ -1476,6 +1579,7 @@ regions:
           - Baykan
           - Havil
           - Havilhanlari
+          - Havilhanları
         ascii_name: Baykan
         geonamesid: 321750
         latitude: 38.16266
@@ -1490,6 +1594,7 @@ regions:
           - Ayni
           - Aynı
           - Baggoze
+          - Bağgöze
         ascii_name: Lodi
         geonamesid: 322508
         latitude: 37.70917
@@ -1515,8 +1620,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 300821
     name: Siirt
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Siirt Province"
+      - Siirt
+    names_es: 
+      - "Provincia de Siirt"
   - 
     ascii_name: Nigde
     cities: 
@@ -1525,12 +1633,14 @@ regions:
           - Nigdah
           - Nigde
           - Nigdeh
+          - Niğde
         ascii_name: Nigde
         geonamesid: 303827
         latitude: 37.96583
         longitude: 34.67935
         name: Niğde
-        names_en: ~
+        names_en: 
+          - Niğde
         names_es: ~
         population: 91039
         timezone: Europe/Istanbul
@@ -1587,13 +1697,16 @@ regions:
           - Muskara
           - Muşkara
           - Nevsehir
+          - Nevshehr
         ascii_name: Nevsehir
         geonamesid: 303831
         latitude: 38.625
         longitude: 34.71222
         name: Nevşehir
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nevşehir
+        names_es: 
+          - Nevşehir
         population: 75527
         timezone: Europe/Istanbul
       - 
@@ -1612,6 +1725,7 @@ regions:
           - Hacibektas
           - Hacıbektaş
           - Karabuyuk
+          - Karabüyük
         ascii_name: Hacibektas
         geonamesid: 313110
         latitude: 38.94077
@@ -1626,6 +1740,7 @@ regions:
           - Arapsun
           - Arebsun
           - Gulsehir
+          - Gülşehir
         ascii_name: Gulsehir
         geonamesid: 313658
         latitude: 38.74594
@@ -1640,13 +1755,16 @@ regions:
           - Goereme
           - "Goereme Tarihi Milli Parki"
           - Goreme
+          - Göreme
         ascii_name: Goereme
         geonamesid: 313947
         latitude: 38.64861
         longitude: 34.86389
         name: Göreme
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Göreme
+        names_es: 
+          - Göreme
         population: 6350
         timezone: Europe/Istanbul
       - 
@@ -1654,6 +1772,7 @@ regions:
           - Derinkuyu
           - Melegobu
           - Melegubu
+          - Melegöbü
         ascii_name: Derinkuyu
         geonamesid: 316877
         latitude: 38.3751
@@ -1714,6 +1833,7 @@ regions:
           - Mus
           - Mush
           - Muş
+          - Муш
         ascii_name: Mus
         geonamesid: 304081
         latitude: 38.74525
@@ -1728,6 +1848,7 @@ regions:
           - Kale
           - Malazgirt
           - Malazkirt
+          - Malâzkirt
         ascii_name: Malazgirt
         geonamesid: 304916
         latitude: 39.14265
@@ -1772,8 +1893,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 304041
     name: Muş
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Muş Province"
+      - Muş
+    names_es: 
+      - "Provincia de Muş"
   - 
     ascii_name: Mugla
     cities: 
@@ -1782,6 +1906,7 @@ regions:
           - Ahikoy
           - Ahiköy
           - Yatagan
+          - Yatağan
         ascii_name: Yatagan
         geonamesid: 297564
         latitude: 37.34026
@@ -1818,6 +1943,7 @@ regions:
           - Mentese
           - Menteshe
           - Mobolla
+          - Mughla
         ascii_name: Mugla
         geonamesid: 304184
         latitude: 37.21807
@@ -1846,13 +1972,16 @@ regions:
           - Mararis
           - Marmarice
           - Marmaris
+          - Physcus
         ascii_name: Marmaris
         geonamesid: 304782
         latitude: 36.855
         longitude: 28.27417
         name: Marmaris
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Marmaris
+        names_es: 
+          - Marmaris
         population: 33731
         timezone: Europe/Istanbul
       - 
@@ -1860,6 +1989,7 @@ regions:
           - Gocek
           - Gochek
           - Göcek
+          - Kocek
         ascii_name: Goecek
         geonamesid: 306859
         latitude: 36.75818
@@ -1888,6 +2018,7 @@ regions:
           - Kargifoca
           - Kargıfoca
           - Pirnaz
+          - Pırnaz
         ascii_name: Kargi
         geonamesid: 309131
         latitude: 36.70132
@@ -1902,6 +2033,7 @@ regions:
           - Fethieh
           - Fethiye
           - Fethy
+          - Fetiye
         ascii_name: Fethiye
         geonamesid: 314967
         latitude: 36.62167
@@ -1916,6 +2048,7 @@ regions:
           - Datca
           - Datça
           - Resadiye
+          - Reşadiye
         ascii_name: Datca
         geonamesid: 317543
         latitude: 36.73778
@@ -1930,6 +2063,7 @@ regions:
           - Dal'jan
           - Dalyan
           - Dalyankoy
+          - Dalyanköy
         ascii_name: Dalyan
         geonamesid: 317681
         latitude: 36.83429
@@ -1944,13 +2078,16 @@ regions:
           - Bodrum
           - Bodurum
           - Budrum
+          - Halicarnassus
         ascii_name: Bodrum
         geonamesid: 320995
         latitude: 37.03833
         longitude: 27.42917
         name: Bodrum
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bodrum
+        names_es: 
+          - Bodrum
         population: 39317
         timezone: Europe/Istanbul
       - 
@@ -1974,7 +2111,8 @@ regions:
         latitude: 36.71549
         longitude: 28.70436
         name: Sarigerme
-        names_en: ~
+        names_en: 
+          - Sarigerme
         names_es: ~
         population: 16000
         timezone: Europe/Istanbul
@@ -1988,8 +2126,10 @@ regions:
         latitude: 36.56674
         longitude: 29.14467
         name: Ölüdeniz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Oludeniz
+        names_es: 
+          - Oludeniz
         population: 2748
         timezone: Europe/Istanbul
       - 
@@ -1997,6 +2137,7 @@ regions:
           - Janyklar
           - Yaniklar
           - Yanıklar
+          - Яныклар
         ascii_name: Yaniklar
         geonamesid: 7280504
         latitude: 36.70827
@@ -2008,8 +2149,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 304183
     name: Muğla
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Muğla Province"
+      - Muğla
+    names_es: 
+      - "Provincia de Muğla"
   - 
     ascii_name: Mardin
     cities: 
@@ -2032,6 +2176,7 @@ regions:
           - Rismil
           - Rişmil
           - Yesilli
+          - Yeşilli
         ascii_name: Yesilli
         geonamesid: 296832
         latitude: 37.3405
@@ -2074,6 +2219,7 @@ regions:
           - Kavs
           - Kavuz
           - Yayli
+          - Yaylı
         ascii_name: Yayli
         geonamesid: 297416
         latitude: 37.20201
@@ -2088,6 +2234,7 @@ regions:
           - Rasidi
           - Raşidi
           - Reshidi
+          - Residi
         ascii_name: Reshidi
         geonamesid: 298585
         latitude: 37.49222
@@ -2115,6 +2262,7 @@ regions:
           - Habap
           - Telmimar
           - Telminar
+          - Tepeustu
         ascii_name: Telminar
         geonamesid: 299272
         latitude: 37.11092
@@ -2143,6 +2291,7 @@ regions:
           - Senocak
           - Shuti
           - Suti
+          - Şenocak
         ascii_name: Senocak
         geonamesid: 300027
         latitude: 37.65136
@@ -2157,6 +2306,7 @@ regions:
           - Avine
           - Surgucu
           - Syurgyudzhyu
+          - Sürgücü
         ascii_name: Avine
         geonamesid: 300087
         latitude: 37.585
@@ -2197,6 +2347,7 @@ regions:
           - Derbesie
           - Derbesiye
           - Senyurt
+          - Shen"yurt
         ascii_name: Senyurt
         geonamesid: 301158
         latitude: 37.07886
@@ -2211,6 +2362,7 @@ regions:
           - Ebish
           - Ebsi
           - Ebşi
+          - Epsi
         ascii_name: Ebish
         geonamesid: 301167
         latitude: 37.4639
@@ -2237,6 +2389,7 @@ regions:
           - Sari
           - Sarikoy
           - Sarıköy
+          - Seri
         ascii_name: Seri
         geonamesid: 301657
         latitude: 37.35861
@@ -2251,6 +2404,7 @@ regions:
           - El'fan
           - Elfan
           - El’fan
+          - Pinardere
         ascii_name: Pinardere
         geonamesid: 302645
         latitude: 37.47288
@@ -2265,6 +2419,7 @@ regions:
           - Gulharin
           - Gulharrin
           - Gyul'kharin
+          - Gyul’kharin
         ascii_name: Ortakoy
         geonamesid: 303305
         latitude: 37.22215
@@ -2279,6 +2434,7 @@ regions:
           - Hesterek
           - Heşterek
           - Kheshterek
+          - Ortaca
         ascii_name: Ortaca
         geonamesid: 303353
         latitude: 37.47361
@@ -2321,12 +2477,14 @@ regions:
           - Antiocheia
           - Nasabina
           - Nisibin
+          - Nisibis
         ascii_name: Nusaybin
         geonamesid: 303750
         latitude: 37.0778
         longitude: 41.2178
         name: Nusaybin
-        names_en: ~
+        names_en: 
+          - Nisibis
         names_es: ~
         population: 88977
         timezone: Europe/Istanbul
@@ -2335,12 +2493,14 @@ regions:
           - Estil
           - Medeat
           - Mid'jat
+          - Midyad
         ascii_name: Midyat
         geonamesid: 304382
         latitude: 37.4247
         longitude: 41.33934
         name: Midyat
-        names_en: ~
+        names_en: 
+          - Midyat
         names_es: ~
         population: 76268
         timezone: Europe/Istanbul
@@ -2349,6 +2509,7 @@ regions:
           - Mahallimentina
           - Mazidagi
           - Mazıdağı
+          - Samarli
         ascii_name: Mazidagi
         geonamesid: 304734
         latitude: 37.4775
@@ -2363,12 +2524,14 @@ regions:
           - Marde
           - Mardin
           - Merdin
+          - Mêrdin
         ascii_name: Mardin
         geonamesid: 304797
         latitude: 37.31309
         longitude: 40.74357
         name: Mardin
-        names_en: ~
+        names_en: 
+          - Mardin
         names_es: ~
         population: 71373
         timezone: Europe/Istanbul
@@ -2390,6 +2553,7 @@ regions:
           - Dekok
           - Dikuk
           - Dikük
+          - Dukuk
         ascii_name: Kumlu
         geonamesid: 305685
         latitude: 37.1725
@@ -2404,6 +2568,7 @@ regions:
           - Kochisar
           - Kochkhisar
           - Koçhisar
+          - Kyzyltepe
         ascii_name: Kiziltepe
         geonamesid: 307084
         latitude: 37.19333
@@ -2418,6 +2583,7 @@ regions:
           - Halilan
           - Khalilan
           - Kilavuz
+          - Kılavuz
         ascii_name: Kilavuz
         geonamesid: 307939
         latitude: 37.47833
@@ -2498,6 +2664,7 @@ regions:
           - Abdulimam
           - Abdülimam
           - Gundukoru
+          - Gyundyukoru
         ascii_name: Hocakoy
         geonamesid: 311998
         latitude: 37.14207
@@ -2512,6 +2679,7 @@ regions:
           - Bahvar
           - Bakhvar
           - Gulveren
+          - Gülveren
         ascii_name: Gulveren
         geonamesid: 313640
         latitude: 37.48778
@@ -2526,6 +2694,7 @@ regions:
           - Gokce
           - Gökçe
           - Selah
+          - Selakh
         ascii_name: Selah
         geonamesid: 314364
         latitude: 37.205
@@ -2540,6 +2709,7 @@ regions:
           - Gelinkaya
           - Keferhavar
           - Keferhavvar
+          - Keferhuvar
         ascii_name: Gelinkaya
         geonamesid: 314677
         latitude: 37.41701
@@ -2554,6 +2724,7 @@ regions:
           - Eymirli
           - Tib'yat
           - Tibyasa
+          - Tibyat
         ascii_name: Eymirli
         geonamesid: 315081
         latitude: 37.16982
@@ -2568,6 +2739,7 @@ regions:
           - Esme
           - Eşme
           - Mezaakantar
+          - Mezrakantar
         ascii_name: Esme
         geonamesid: 315185
         latitude: 37.15611
@@ -2582,6 +2754,7 @@ regions:
           - Duruca
           - Kertuvin
           - Kertyuvin
+          - Kertüvin
         ascii_name: Duruca
         geonamesid: 316096
         latitude: 37.09333
@@ -2608,6 +2781,7 @@ regions:
           - Dereyani
           - Dereyanı
           - Shuri
+          - Suri
         ascii_name: Dereyani
         geonamesid: 316909
         latitude: 37.425
@@ -2622,6 +2796,7 @@ regions:
           - Dargechit
           - Dargecit
           - Dargeçit
+          - Deregecit
         ascii_name: Dargecit
         geonamesid: 317587
         latitude: 37.54545
@@ -2650,6 +2825,7 @@ regions:
           - Cavuslu
           - Sarozbah
           - Saruzbah
+          - Saruzbakh
         ascii_name: Cavuslu
         geonamesid: 319118
         latitude: 37.49861
@@ -2678,6 +2854,7 @@ regions:
           - Buyukkardes
           - Büyükkardeş
           - Cinatamaho
+          - Cinatamiho
         ascii_name: Cinatamiho
         geonamesid: 320201
         latitude: 37.27205
@@ -2692,6 +2869,7 @@ regions:
           - Ahmedi
           - Akhmedi
           - Baskavak
+          - Başkavak
         ascii_name: Baskavak
         geonamesid: 321935
         latitude: 37.56824
@@ -2719,6 +2897,7 @@ regions:
           - Baglica
           - Bağlıca
           - Bennisht
+          - Bennist
         ascii_name: Baglica
         geonamesid: 322461
         latitude: 37.52722
@@ -2760,6 +2939,7 @@ regions:
           - Acirli
           - Acırlı
           - Derizbin
+          - Dirizbin
         ascii_name: Acirli
         geonamesid: 325420
         latitude: 37.4573
@@ -2784,8 +2964,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 304794
     name: Mardin
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Mardin Province"
+      - Mardin
+    names_es: 
+      - "Provincia de Mardin"
   - 
     ascii_name: Manisa
     cities: 
@@ -2794,6 +2977,7 @@ regions:
           - "Caesarea Trocetta"
           - Cassaba
           - Kasaba
+          - Turgutlu
         ascii_name: Turgutlu
         geonamesid: 298806
         latitude: 38.49533
@@ -2808,6 +2992,7 @@ regions:
           - Germe
           - Soma
           - Somy
+          - Сомы
         ascii_name: Soma
         geonamesid: 300371
         latitude: 39.18554
@@ -2833,6 +3018,7 @@ regions:
           - Sarihanli
           - Saruhanli
           - Saruhanlı
+          - Sarıhanlı
         ascii_name: Saruhanli
         geonamesid: 301492
         latitude: 38.73455
@@ -2869,12 +3055,14 @@ regions:
           - Magnesia
           - "Magnesia ad Sipylum"
           - "Magnesia am Sipylos"
+          - Magnisiyah
         ascii_name: Manisa
         geonamesid: 304827
         latitude: 38.61202
         longitude: 27.42646
         name: Manisa
-        names_en: ~
+        names_en: 
+          - "Magnesia ad Sipylum"
         names_es: ~
         population: 243971
         timezone: Europe/Istanbul
@@ -2883,6 +3071,7 @@ regions:
           - Kovla
           - Kul
           - Kula
+          - Opsicium
         ascii_name: Kula
         geonamesid: 305810
         latitude: 38.54726
@@ -2960,12 +3149,14 @@ regions:
           - "Ala Shehr"
           - Alachehir
           - Alachehr
+          - Alaschehir
         ascii_name: Alasehir
         geonamesid: 324172
         latitude: 38.35083
         longitude: 28.51718
         name: Alaşehir
-        names_en: ~
+        names_en: 
+          - Alaşehir
         names_es: ~
         population: 40735
         timezone: Europe/Istanbul
@@ -2974,12 +3165,14 @@ regions:
           - Akhisar
           - Akhissar
           - Akkhisar
+          - "Aq Hisar"
         ascii_name: Akhisar
         geonamesid: 324698
         latitude: 38.91852
         longitude: 27.84006
         name: Akhisar
-        names_en: ~
+        names_en: 
+          - Akhisar
         names_es: ~
         population: 84659
         timezone: Europe/Istanbul
@@ -2996,8 +3189,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 304825
     name: Manisa
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Manisa Province"
+      - Manisa
+    names_es: 
+      - "Provincia de Manisa"
   - 
     ascii_name: Malatya
     cities: 
@@ -3006,6 +3202,7 @@ regions:
           - Cirmikti
           - Ismetpasa
           - Yesilyurt
+          - Yeşilyurt
         ascii_name: Yesilyurt
         geonamesid: 296791
         latitude: 38.29722
@@ -3031,13 +3228,16 @@ regions:
           - Malat'ja
           - Malatia
           - Malatiyah
+          - Malatya
         ascii_name: Malatya
         geonamesid: 304922
         latitude: 38.35018
         longitude: 38.31667
         name: Malatya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Malatya
+        names_es: 
+          - Malatya
         population: 441805
         timezone: Europe/Istanbul
       - 
@@ -3080,6 +3280,7 @@ regions:
           - Doganyol
           - Doğanyol
           - Keferdiz
+          - Siro
         ascii_name: Doganyol
         geonamesid: 316431
         latitude: 38.31184
@@ -3094,6 +3295,7 @@ regions:
           - Dogansehir
           - Doğanşehir
           - Muhacir
+          - Viransehir
         ascii_name: Dogansehir
         geonamesid: 316440
         latitude: 38.09194
@@ -3122,6 +3324,7 @@ regions:
           - "Asagi Mestikan"
           - "Aşağı Mestikân"
           - Kale
+          - Mestikan
         ascii_name: Kale
         geonamesid: 323251
         latitude: 38.41667
@@ -3150,6 +3353,7 @@ regions:
           - Arabacis
           - Arabkir
           - Arapgir
+          - Arapkir
         ascii_name: Arapkir
         geonamesid: 323721
         latitude: 39.04117
@@ -3186,8 +3390,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 304919
     name: Malatya
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Malatya Province"
+      - Malatya
+    names_es: 
+      - "Provincia de Malatya"
   - 
     ascii_name: Kuetahya
     cities: 
@@ -3223,6 +3430,7 @@ regions:
           - Abseker
           - Abşeker
           - Saphane
+          - Şaphane
         ascii_name: Saphane
         geonamesid: 301884
         latitude: 39.0273
@@ -3251,12 +3459,14 @@ regions:
           - Cotiaeum
           - Cotyaeum
           - Kjutakh'ja
+          - Kuetahya
         ascii_name: Kutahya
         geonamesid: 305268
         latitude: 39.42417
         longitude: 29.98333
         name: Kütahya
-        names_en: ~
+        names_en: 
+          - Kütahya
         names_es: ~
         population: 185008
         timezone: Europe/Istanbul
@@ -3265,6 +3475,7 @@ regions:
           - Cadi
           - Gedis
           - Gediz
+          - Гедиз
         ascii_name: Gediz
         geonamesid: 314716
         latitude: 39.04167
@@ -3304,6 +3515,7 @@ regions:
           - Domanic
           - "Domanic Kozluca"
           - Domaniç
+          - "Domaniç Kozluca"
         ascii_name: "Domanic Kozluca"
         geonamesid: 316330
         latitude: 39.8
@@ -3328,8 +3540,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 305267
     name: Kütahya
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kütahya Province"
+      - Kütahya
+    names_es: 
+      - "Provincia de Kütahya"
   - 
     ascii_name: Konya
     cities: 
@@ -3401,13 +3616,16 @@ regions:
           - Conia
           - Iconio
           - Iconium
+          - Ikonio
         ascii_name: Konya
         geonamesid: 306571
         latitude: 37.86556
         longitude: 32.4825
         name: Konya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Konya
+        names_es: 
+          - Konya
         population: 875530
         timezone: Europe/Istanbul
       - 
@@ -3429,6 +3647,7 @@ regions:
           - Kadinhani
           - Kadınhanı
           - Saideli
+          - Saiteli
         ascii_name: Kadinhani
         geonamesid: 310907
         latitude: 38.23972
@@ -3443,6 +3662,7 @@ regions:
           - Hoyuk
           - "Hoyuk Koyu"
           - Huyuk
+          - Höyük
         ascii_name: Huyuk
         geonamesid: 311777
         latitude: 37.95388
@@ -3457,6 +3677,7 @@ regions:
           - Halkapinar
           - Halkapınar
           - Zanapa
+          - Zanape
         ascii_name: Halkapinar
         geonamesid: 312817
         latitude: 37.43282
@@ -3471,6 +3692,7 @@ regions:
           - Hadim
           - Hadım
           - Khadim
+          - "Yukari Hadim"
         ascii_name: Hadim
         geonamesid: 312899
         latitude: 36.99304
@@ -3485,12 +3707,14 @@ regions:
           - Cybistra
           - Ehregli
           - Erakleia
+          - Eregli
         ascii_name: Eregli
         geonamesid: 315498
         latitude: 37.51333
         longitude: 34.04672
         name: Ereğli
-        names_en: ~
+        names_en: 
+          - Heraclea
         names_es: ~
         population: 92117
         timezone: Europe/Istanbul
@@ -3548,6 +3772,7 @@ regions:
           - Bozkir
           - Bozkır
           - Silistat
+          - Sitistat
         ascii_name: Bozkir
         geonamesid: 320621
         latitude: 37.18778
@@ -3562,6 +3787,7 @@ regions:
           - Altinekin
           - Altınekin
           - Zivarik
+          - Zıvarık
         ascii_name: Altinekin
         geonamesid: 323930
         latitude: 38.30778
@@ -3576,12 +3802,14 @@ regions:
           - "Ak Shehr"
           - Aksehir
           - Akşehir
+          - Philomelium
         ascii_name: Aksehir
         geonamesid: 324490
         latitude: 38.3575
         longitude: 31.41639
         name: Akşehir
-        names_en: ~
+        names_en: 
+          - Akşehir
         names_es: ~
         population: 64446
         timezone: Europe/Istanbul
@@ -3593,14 +3821,18 @@ regions:
         latitude: 37.66847
         longitude: 32.82689
         name: Çatalhöyük
-        names_en: ~
+        names_en: 
+          - Catalhoyuk
         names_es: ~
         population: 10000
         timezone: Europe/Istanbul
     geonamesid: 306569
     name: Konya
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Konya Province"
+      - Konya
+    names_es: 
+      - "Provincia de Konya"
   - 
     ascii_name: Kirsehir
     cities: 
@@ -3621,12 +3853,14 @@ regions:
           - Justinianopolis
           - Kirsehir
           - Kirshahr
+          - Kirshehr
         ascii_name: Kirsehir
         geonamesid: 307515
         latitude: 39.14583
         longitude: 34.16389
         name: Kırşehir
-        names_en: ~
+        names_en: 
+          - Kırşehir
         names_es: ~
         population: 94336
         timezone: Europe/Istanbul
@@ -3646,7 +3880,9 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 307513
     name: Kırşehir
-    names_en: ~
+    names_en: 
+      - "Kırşehir Province"
+      - Kırşehir
     names_es: ~
   - 
     ascii_name: Kayseri
@@ -3656,6 +3892,7 @@ regions:
           - Karahisar
           - Karahısar
           - Yesilhisar
+          - Yeşilhisar
         ascii_name: Yesilhisar
         geonamesid: 296860
         latitude: 38.34972
@@ -3670,6 +3907,7 @@ regions:
           - Gazibenli
           - Jakh'jaly
           - Yahyali
+          - Yahyalı
         ascii_name: Yahyali
         geonamesid: 297917
         latitude: 38.10228
@@ -3684,6 +3922,7 @@ regions:
           - Gostere
           - Goztere
           - Göstere
+          - Tomarza
         ascii_name: Tomarza
         geonamesid: 299054
         latitude: 38.44722
@@ -3712,6 +3951,7 @@ regions:
           - Koyyeri
           - Köyyeri
           - Sariz
+          - Sarız
         ascii_name: Sariz
         geonamesid: 301546
         latitude: 38.47917
@@ -3751,13 +3991,16 @@ regions:
           - Caesarea
           - Casarea
           - Cearee
+          - "Cesarea in Cappadocia"
         ascii_name: Kayseri
         geonamesid: 308464
         latitude: 38.73222
         longitude: 35.48528
         name: Kayseri
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kayseri
+        names_es: 
+          - Kayseri
         population: 592840
         timezone: Europe/Istanbul
       - 
@@ -3790,6 +4033,7 @@ regions:
           - Felahiye
           - Fellahiye
           - Rumdigin
+          - Rumdiğin
         ascii_name: Felahiye
         geonamesid: 314996
         latitude: 39.09056
@@ -3830,6 +4074,7 @@ regions:
           - Cukur
           - Ozvatan
           - Çukur
+          - Özvatan
         ascii_name: Ozvatan
         geonamesid: 317970
         latitude: 39.1069
@@ -3855,6 +4100,7 @@ regions:
           - Bunyan
           - "Bunyan Hamit"
           - Bünyan
+          - "Bünyan Hamit"
         ascii_name: Bunyan
         geonamesid: 320406
         latitude: 38.8463
@@ -3879,8 +4125,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 308463
     name: Kayseri
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kayseri Province"
+      - Kayseri
+    names_es: 
+      - "Provincia de Kayseri"
   - 
     ascii_name: Kahramanmaras
     cities: 
@@ -3900,6 +4149,7 @@ regions:
           - Pazarcik
           - Pazarcık
           - Pazardzhik
+          - Пазарджик
         ascii_name: Pazarcik
         geonamesid: 302800
         latitude: 37.48685
@@ -3926,12 +4176,14 @@ regions:
           - "Caesarea Germanicia"
           - "Germanicea Marqasi"
           - Gurgum
+          - Kahramanmaras
         ascii_name: Kahramanmaras
         geonamesid: 310859
         latitude: 37.5847
         longitude: 36.9264
         name: Kahramanmaraş
-        names_en: ~
+        names_en: 
+          - Kahramanmaraş
         names_es: ~
         population: 376045
         timezone: Europe/Istanbul
@@ -3953,12 +4205,14 @@ regions:
           - Ehl'bistan
           - Elbistan
           - albstan
+          - Эльбистан
         ascii_name: Elbistan
         geonamesid: 315795
         latitude: 38.20591
         longitude: 37.1983
         name: Elbistan
-        names_en: ~
+        names_en: 
+          - Elbistan
         names_es: ~
         population: 80456
         timezone: Europe/Istanbul
@@ -3967,6 +4221,7 @@ regions:
           - Cela
           - Celaki
           - Celeyke
+          - Ekinozu
         ascii_name: Celeyke
         geonamesid: 315835
         latitude: 38.05974
@@ -3981,6 +4236,7 @@ regions:
           - "Buyuk Cerbit"
           - "Buyuk Cerit"
           - "Büyük Cerbit"
+          - "Büyük Cerit"
         ascii_name: Caglayancerit
         geonamesid: 320004
         latitude: 37.74959
@@ -3995,6 +4251,7 @@ regions:
           - Andiran
           - Andirin
           - Andıran
+          - Andırın
         ascii_name: Andirin
         geonamesid: 323797
         latitude: 37.57757
@@ -4009,6 +4266,7 @@ regions:
           - Afsin
           - Afşin
           - Efsus
+          - Yarpus
         ascii_name: Afsin
         geonamesid: 325304
         latitude: 38.24769
@@ -4020,8 +4278,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 310858
     name: Kahramanmaraş
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kahramanmaraş Province"
+      - Kahramanmaraş
+    names_es: 
+      - "Provincia de Kahramanmaraş"
   - 
     ascii_name: Izmir
     cities: 
@@ -4044,6 +4305,7 @@ regions:
           - Tepekoey
           - Tepeköy
           - Torbali
+          - Torbaly
         ascii_name: Torbali
         geonamesid: 298935
         latitude: 38.1519
@@ -4058,6 +4320,7 @@ regions:
           - Arcadiopolis
           - Teira
           - Teıra
+          - Theda
         ascii_name: Tire
         geonamesid: 299137
         latitude: 38.08877
@@ -4072,6 +4335,7 @@ regions:
           - Ayasoluk
           - Ephesus
           - Sel'chuk
+          - Selcuk
         ascii_name: Selcuk
         geonamesid: 301256
         latitude: 37.95137
@@ -4098,6 +4362,7 @@ regions:
           - Eudemish
           - Hypaepa
           - Odemis
+          - Ödemiş
         ascii_name: Hypaepa
         geonamesid: 303700
         latitude: 38.2278
@@ -4126,6 +4391,7 @@ regions:
           - Kelasi
           - Keles
           - Kelez
+          - Kiraz
         ascii_name: Kiraz
         geonamesid: 307727
         latitude: 38.23056
@@ -4151,6 +4417,7 @@ regions:
           - Kemal'pasha
           - Kemalpasa
           - Kemalpaşa
+          - Nif
         ascii_name: Kemalpasa
         geonamesid: 308224
         latitude: 38.42621
@@ -4179,13 +4446,16 @@ regions:
           - Azmir
           - Esmirna
           - IZM
+          - Ismir
         ascii_name: Izmir
         geonamesid: 311046
         latitude: 38.41273
         longitude: 27.13838
         name: İzmir
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - İzmir
+        names_es: 
+          - Esmirna
         population: 2500603
         timezone: Europe/Istanbul
       - 
@@ -4193,12 +4463,14 @@ regions:
           - "Eski Foca"
           - "Eski Foja"
           - "Eski Foka"
+          - "Eski Foça"
         ascii_name: Foca
         geonamesid: 314903
         latitude: 38.6703
         longitude: 26.75656
         name: Foça
-        names_en: ~
+        names_en: 
+          - Foça
         names_es: ~
         population: 15189
         timezone: Europe/Istanbul
@@ -4221,6 +4493,7 @@ regions:
           - Cumaovasi
           - Cumaovası
           - Menderes
+          - Мендерес
         ascii_name: Cumaovasi
         geonamesid: 317851
         latitude: 38.24963
@@ -4235,6 +4508,7 @@ regions:
           - Cesme
           - Cheshme
           - Chesme
+          - Chesnie
         ascii_name: Cesme
         geonamesid: 318755
         latitude: 38.32278
@@ -4249,6 +4523,7 @@ regions:
           - Candarli
           - Chandarly
           - Sandarli
+          - Çandarlı
         ascii_name: Candarli
         geonamesid: 319487
         latitude: 38.93503
@@ -4263,13 +4538,16 @@ regions:
           - Bergama
           - Pergame
           - Pergamo
+          - Pergamon
         ascii_name: Bergama
         geonamesid: 321426
         latitude: 39.12074
         longitude: 27.18052
         name: Bergama
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bergama
+        names_es: 
+          - Pérgamo
         population: 57200
         timezone: Europe/Istanbul
       - 
@@ -4277,6 +4555,7 @@ regions:
           - Baindir
           - Bajindyr
           - Bayindir
+          - Bayındır
         ascii_name: Bayindir
         geonamesid: 321786
         latitude: 38.21741
@@ -4291,6 +4570,7 @@ regions:
           - Aliaga
           - Aliagaciftligi
           - Aliağa
+          - Aliağaçiftliği
         ascii_name: Aliaga
         geonamesid: 324106
         latitude: 38.79975
@@ -4305,12 +4585,15 @@ regions:
           - Alacati
           - Alachati
           - Alaçatı
+          - Latzata
         ascii_name: Alacati
         geonamesid: 324294
         latitude: 38.28246
         longitude: 26.37459
         name: Alaçatı
-        names_en: ~
+        names_en: 
+          - Alachati
+          - Alacati
         names_es: ~
         population: 3658
         timezone: Europe/Istanbul
@@ -4351,6 +4634,7 @@ regions:
           - Jalvach
           - Yalvac
           - Yalvaç
+          - Ялвач
         ascii_name: Yalvac
         geonamesid: 297789
         latitude: 38.29556
@@ -4405,6 +4689,7 @@ regions:
           - Dogukaraagac
           - Doğukaraağaç
           - Karaagac
+          - Karaağaç
         ascii_name: Sarkikaraagac
         geonamesid: 301539
         latitude: 38.07944
@@ -4432,12 +4717,14 @@ regions:
           - Baris
           - Hamid
           - Hamid-Abad
+          - Hamitabat
         ascii_name: Isparta
         geonamesid: 311073
         latitude: 37.76444
         longitude: 30.55222
         name: Isparta
-        names_en: ~
+        names_en: 
+          - Isparta
         names_es: ~
         population: 172334
         timezone: Europe/Istanbul
@@ -4473,6 +4760,7 @@ regions:
           - Egirdir
           - Egridir
           - Eğirdir
+          - Prostanna
         ascii_name: Egirdir
         geonamesid: 315905
         latitude: 37.87462
@@ -4500,6 +4788,7 @@ regions:
           - Agros
           - Argos
           - Atabey
+          - Ağros
         ascii_name: Atabey
         geonamesid: 323039
         latitude: 37.95083
@@ -4524,8 +4813,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 311071
     name: Isparta
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Isparta Province"
+      - Isparta
+    names_es: 
+      - "Provincia de Isparta"
   - 
     ascii_name: Mersin
     cities: 
@@ -4534,13 +4826,16 @@ regions:
           - "Antiochia ad Cydnum"
           - Tars
           - Tarse
+          - Tarso
         ascii_name: Tarsus
         geonamesid: 299817
         latitude: 36.91876
         longitude: 34.8784
         name: Tarsus
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tarsus
+        names_es: 
+          - Tarsos
         population: 256482
         timezone: Europe/Istanbul
       - 
@@ -4548,12 +4843,14 @@ regions:
           - Selefke
           - Selefkeh
           - Seleucia
+          - Silifke
         ascii_name: Silifke
         geonamesid: 300808
         latitude: 36.37778
         longitude: 33.93444
         name: Silifke
-        names_en: ~
+        names_en: 
+          - Silifke
         names_es: ~
         population: 75315
         timezone: Europe/Istanbul
@@ -4573,13 +4870,16 @@ regions:
           - Icel
           - Mersin
           - Mersina
+          - Mersine
         ascii_name: Mercin
         geonamesid: 304531
         latitude: 36.79526
         longitude: 34.61792
         name: Mercin
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mersin
+        names_es: 
+          - Mersin
         population: 537842
         timezone: Europe/Istanbul
       - 
@@ -4587,6 +4887,7 @@ regions:
           - Anaypazari
           - Anaypazarı
           - Gulnar
+          - Gülnar
         ascii_name: Gulnar
         geonamesid: 313669
         latitude: 36.34148
@@ -4623,6 +4924,7 @@ regions:
           - Aydincik
           - Aydinisik
           - Aydıncık
+          - Aydınışık
         ascii_name: Aydincik
         geonamesid: 322826
         latitude: 36.1437
@@ -4648,8 +4950,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 311728
     name: Mersin
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Mersin Province"
+      - Mersin
+    names_es: 
+      - "Provincia de Mersin"
   - 
     ascii_name: Hatay
     cities: 
@@ -4658,6 +4963,7 @@ regions:
           - Ehrzin
           - Erzin
           - Yesilkent
+          - Yeşilkent
         ascii_name: Erzin
         geonamesid: 296852
         latitude: 36.95589
@@ -4672,6 +4978,7 @@ regions:
           - Ordu
           - Yayladagi
           - Yayladağı
+          - Yayladgi
         ascii_name: Yayladagi
         geonamesid: 297466
         latitude: 35.9025
@@ -4686,6 +4993,7 @@ regions:
           - Alevisik
           - Alevışık
           - Samandag
+          - Samandagi
         ascii_name: Samandagi
         geonamesid: 301975
         latitude: 36.08419
@@ -4700,6 +5008,7 @@ regions:
           - Airandji
           - Airanndji
           - Airinge
+          - Ayranci
         ascii_name: Reyhanli
         geonamesid: 302355
         latitude: 36.26917
@@ -4738,13 +5047,16 @@ regions:
           - Alejandreta
           - Aleksandretta
           - Alessandretta
+          - Alexandretta
         ascii_name: Iskenderun
         geonamesid: 311111
         latitude: 36.58718
         longitude: 36.17347
         name: İskenderun
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - İskenderun
+        names_es: 
+          - Alejandreta
         population: 159965
         timezone: Europe/Istanbul
       - 
@@ -4774,6 +5086,7 @@ regions:
           - Beilan
           - Belen
           - Beylan
+          - Bilan
         ascii_name: Belen
         geonamesid: 321572
         latitude: 36.48911
@@ -4788,13 +5101,16 @@ regions:
           - Antakija
           - Antakiya
           - Antakiyyah
+          - Antakya
         ascii_name: Antioch
         geonamesid: 323779
         latitude: 36.20655
         longitude: 36.15722
         name: Antioch
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Antioch
+        names_es: 
+          - Antioquía
         population: 154803
         timezone: Europe/Istanbul
       - 
@@ -5088,8 +5404,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 312394
     name: Hatay
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Hatay Province"
+      - Hatay
+    names_es: 
+      - "Provincia de Hatay"
   - 
     ascii_name: Hakkari
     cities: 
@@ -5098,6 +5417,7 @@ regions:
           - Dize
           - Yuksekova
           - Yusekova
+          - Yüksekova
         ascii_name: Yuksekova
         geonamesid: 296173
         latitude: 37.57362
@@ -5112,6 +5432,7 @@ regions:
           - Navsar
           - Navşar
           - Semdinli
+          - Semdinni
         ascii_name: Semdinli
         geonamesid: 301209
         latitude: 37.30514
@@ -5126,6 +5447,7 @@ regions:
           - Cal
           - Cokurca
           - Cukurca
+          - Çal
         ascii_name: Cukurca
         geonamesid: 317953
         latitude: 37.24806
@@ -5140,6 +5462,7 @@ regions:
           - Colemerik
           - Hakari
           - Hakkari
+          - Hakâri
         ascii_name: Hakkari
         geonamesid: 318137
         latitude: 37.57444
@@ -5154,6 +5477,7 @@ regions:
           - Gundes
           - Guzeldere
           - Gündeş
+          - Güzeldere
         ascii_name: Karsani
         geonamesid: 392071
         latitude: 37.31572
@@ -5165,8 +5489,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 312888
     name: Hakkâri
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Hakkâri Province"
+      - Hakkâri
+    names_es: 
+      - "Provincia de Hakkari"
   - 
     ascii_name: Gaziantep
     cities: 
@@ -5175,6 +5502,7 @@ regions:
           - Cingife
           - Yarimca
           - Yarımca
+          - Yavuzeli
         ascii_name: Yavuzeli
         geonamesid: 297532
         latitude: 37.31772
@@ -5217,6 +5545,7 @@ regions:
           - "Buyuk Kizilhisar"
           - "Büyük Kızılhisar"
           - Oguzeli
+          - Oğuzeli
         ascii_name: Oguzeli
         geonamesid: 303642
         latitude: 36.96572
@@ -5231,6 +5560,7 @@ regions:
           - Nezip
           - Nizip
           - Nizipe
+          - Низипе
         ascii_name: Nizip
         geonamesid: 303798
         latitude: 37.00972
@@ -5245,6 +5575,7 @@ regions:
           - Barak
           - Carablus
           - Carabulus
+          - Karakamis
         ascii_name: Karkamis
         geonamesid: 309134
         latitude: 36.83333
@@ -5270,6 +5601,7 @@ regions:
           - Ekizce
           - Ikizce
           - Ikizdzhe
+          - İkizce
         ascii_name: Ikizce
         geonamesid: 311603
         latitude: 36.86389
@@ -5284,13 +5616,16 @@ regions:
           - Aintab
           - Antep
           - Ayintap
+          - Ayıntap
         ascii_name: Gaziantep
         geonamesid: 314830
         latitude: 37.05944
         longitude: 37.3825
         name: Gaziantep
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gaziantep
+        names_es: 
+          - Gaziantep
         population: 1065975
         timezone: Europe/Istanbul
       - 
@@ -5355,8 +5690,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 314829
     name: Gaziantep
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Gaziantep Province"
+      - Gaziantep
+    names_es: 
+      - "Provincia de Gaziantep"
   - 
     ascii_name: Eskisehir
     cities: 
@@ -5390,12 +5728,14 @@ regions:
           - Dorylaeum
           - Doryläum
           - Ehskishekhir
+          - "Eski Shahr"
         ascii_name: Eskisehir
         geonamesid: 315202
         latitude: 39.77667
         longitude: 30.52056
         name: Eskişehir
-        names_en: ~
+        names_en: 
+          - Dorylaeum
         names_es: ~
         population: 514869
         timezone: Europe/Istanbul
@@ -5404,6 +5744,7 @@ regions:
           - Cifteler
           - "Cifteler Kasabasi"
           - Çifteler
+          - "Çifteler Kasabası"
         ascii_name: Cifteler
         geonamesid: 318603
         latitude: 39.38306
@@ -5446,6 +5787,7 @@ regions:
           - Saricakaya
           - Sarikaya
           - Sarıcakaya
+          - Sarıkaya
         ascii_name: Saricakaya
         geonamesid: 740125
         latitude: 40.03333
@@ -5460,6 +5802,7 @@ regions:
           - Gomele
           - Gumele
           - Gömele
+          - Gümele
         ascii_name: Mihalgazi
         geonamesid: 741538
         latitude: 40.01667
@@ -5471,8 +5814,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 315201
     name: Eskişehir
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Eskişehir Province"
+      - Eskişehir
+    names_es: 
+      - "Provincia de Eskisehir"
   - 
     ascii_name: Erzurum
     cities: 
@@ -5495,6 +5841,7 @@ regions:
           - Cobandede
           - Koprukoy
           - Köprüköy
+          - Çobandede
         ascii_name: Cobandede
         geonamesid: 306525
         latitude: 39.97276
@@ -5509,6 +5856,7 @@ regions:
           - Bayrakdar
           - Bayraktar
           - Karayazi
+          - Karayazı
         ascii_name: Karayazi
         geonamesid: 309199
         latitude: 39.7028
@@ -5559,12 +5907,14 @@ regions:
           - Ard-ar-Rum
           - Arzan-ar-Rum
           - Carana
+          - Ehrzurum
         ascii_name: Erzurum
         geonamesid: 315368
         latitude: 39.90861
         longitude: 41.27694
         name: Erzurum
-        names_en: ~
+        names_en: 
+          - Erzurum
         names_es: ~
         population: 420691
         timezone: Europe/Istanbul
@@ -5573,6 +5923,7 @@ regions:
           - Cat
           - Oyuklu
           - Uyuklu
+          - Çat
         ascii_name: Cat
         geonamesid: 319357
         latitude: 39.60954
@@ -5609,12 +5960,14 @@ regions:
           - Azort
           - Azortuzundere
           - Uzundere
+          - Азорт
         ascii_name: Uzundere
         geonamesid: 738276
         latitude: 40.53014
         longitude: 41.55844
         name: Uzundere
-        names_en: ~
+        names_en: 
+          - Uzundere
         names_es: ~
         population: 5555
         timezone: Europe/Istanbul
@@ -5623,12 +5976,14 @@ regions:
           - Nihah
           - TORTUM
           - Tortum
+          - ТОРТУМ
         ascii_name: Tortum
         geonamesid: 738674
         latitude: 40.2973
         longitude: 41.54771
         name: Tortum
-        names_en: ~
+        names_en: 
+          - Tortum
         names_es: ~
         population: 9429
         timezone: Europe/Istanbul
@@ -5637,12 +5992,14 @@ regions:
           - Ortulu
           - SHENKAJA
           - Senkaya
+          - Örtülü
         ascii_name: Senkaya
         geonamesid: 739816
         latitude: 40.56194
         longitude: 42.34694
         name: Şenkaya
-        names_en: ~
+        names_en: 
+          - Şenkaya
         names_es: ~
         population: 3995
         timezone: Europe/Istanbul
@@ -5656,7 +6013,8 @@ regions:
         latitude: 40.42083
         longitude: 40.77104
         name: Pazaryolu
-        names_en: ~
+        names_en: 
+          - Pazaryolu
         names_es: ~
         population: 5878
         timezone: Europe/Istanbul
@@ -5665,12 +6023,14 @@ regions:
           - OLUR
           - Olor
           - Olur
+          - ОЛУР
         ascii_name: Olur
         geonamesid: 741136
         latitude: 40.82164
         longitude: 42.12846
         name: Olur
-        names_en: ~
+        names_en: 
+          - Olur
         names_es: ~
         population: 3546
         timezone: Europe/Istanbul
@@ -5679,12 +6039,14 @@ regions:
           - OLTU
           - Olti
           - Oltu
+          - Olty
         ascii_name: Oltu
         geonamesid: 741160
         latitude: 40.54983
         longitude: 42.00126
         name: Oltu
-        names_en: ~
+        names_en: 
+          - Oltu
         names_es: ~
         population: 23504
         timezone: Europe/Istanbul
@@ -5707,12 +6069,14 @@ regions:
           - ISPIR
           - Ispir
           - İspir
+          - ИСПИР
         ascii_name: Ispir
         geonamesid: 745047
         latitude: 40.48287
         longitude: 40.99557
         name: İspir
-        names_en: ~
+        names_en: 
+          - İspir
         names_es: ~
         population: 12906
         timezone: Europe/Istanbul
@@ -5726,14 +6090,18 @@ regions:
         latitude: 40.04583
         longitude: 42.17278
         name: Horasan
-        names_en: ~
+        names_en: 
+          - Horasan
         names_es: ~
         population: 17067
         timezone: Europe/Istanbul
     geonamesid: 315367
     name: Erzurum
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Erzurum Province"
+      - Erzurum
+    names_es: 
+      - "Provincia de Erzurum"
   - 
     ascii_name: Erzincan
     cities: 
@@ -5756,6 +6124,7 @@ regions:
           - Mamahatun
           - Mamhatun
           - Tercan
+          - trjan
         ascii_name: Tercan
         geonamesid: 299268
         latitude: 39.77944
@@ -5809,6 +6178,7 @@ regions:
           - "Camacha Theodosiopolis"
           - Gamakh
           - Kemah
+          - Kemakh
         ascii_name: Kemah
         geonamesid: 308233
         latitude: 39.60167
@@ -5823,6 +6193,7 @@ regions:
           - Ilic
           - Pusadi
           - Puşadı
+          - İliç
         ascii_name: Ilic
         geonamesid: 311547
         latitude: 39.45503
@@ -5837,12 +6208,14 @@ regions:
           - Arzanjan
           - Aziris
           - Ehrzindzhan
+          - Ersindjan
         ascii_name: Erzincan
         geonamesid: 315373
         latitude: 39.75222
         longitude: 39.49278
         name: Erzincan
-        names_en: ~
+        names_en: 
+          - Erzincan
         names_es: ~
         population: 114027
         timezone: Europe/Istanbul
@@ -5862,8 +6235,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 315372
     name: Erzincan
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Erzincan Province"
+      - Erzincan
+    names_es: 
+      - "Provincia de Erzincan"
   - 
     ascii_name: Elazig
     cities: 
@@ -5923,6 +6299,7 @@ regions:
           - Karakocan
           - Karakodzhana
           - Karakoçan
+          - Tepe
         ascii_name: Karakocan
         geonamesid: 309663
         latitude: 38.95583
@@ -5951,12 +6328,14 @@ regions:
           - Elazig
           - Elaziz
           - Elaziğ
+          - Elazığ
         ascii_name: Elazig
         geonamesid: 315808
         latitude: 38.67431
         longitude: 39.22321
         name: Elazığ
-        names_en: ~
+        names_en: 
+          - Elazığ
         names_es: ~
         population: 298004
         timezone: Europe/Istanbul
@@ -5976,6 +6355,7 @@ regions:
           - Aricak
           - Arıcak
           - Karabegan
+          - Karabeğan
         ascii_name: Aricak
         geonamesid: 323653
         latitude: 38.56389
@@ -6021,6 +6401,7 @@ regions:
           - Salat
           - Salatiulya
           - Sinan
+          - Yukarisalat
         ascii_name: Yukarisalat
         geonamesid: 296247
         latitude: 37.84
@@ -6049,6 +6430,7 @@ regions:
           - Karhidicle
           - Karkhydidzhle
           - Kerh
+          - "Kerhidicle Koyu"
         ascii_name: Kerh
         geonamesid: 298533
         latitude: 37.82524
@@ -6063,6 +6445,7 @@ regions:
           - Salat
           - Sinan
           - Sinankoy
+          - Sinanköy
         ascii_name: Sinankoy
         geonamesid: 300767
         latitude: 37.86264
@@ -6077,6 +6460,7 @@ regions:
           - Miyafarkin
           - Sil'van
           - Silvan
+          - Сильван
         ascii_name: Silvan
         geonamesid: 300796
         latitude: 38.14194
@@ -6116,6 +6500,7 @@ regions:
           - Keseli
           - Koseli
           - Këseli
+          - Köseli
         ascii_name: Koseli
         geonamesid: 306308
         latitude: 37.8375
@@ -6143,6 +6528,7 @@ regions:
           - Hacigeyigi
           - Hacıgeyigi
           - Kazanci
+          - Kazancı
         ascii_name: Kazanci
         geonamesid: 308455
         latitude: 37.77074
@@ -6181,6 +6567,7 @@ regions:
           - Arghana
           - Ehgrani
           - Ergani
+          - Erganiosmaniye
         ascii_name: Ergani
         geonamesid: 315468
         latitude: 38.26533
@@ -6208,13 +6595,16 @@ regions:
           - Amed
           - Amida
           - Diarbakir
+          - Diarbekir
         ascii_name: Diyarbakir
         geonamesid: 316541
         latitude: 37.91583
         longitude: 40.21889
         name: Diyarbakır
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Diyarbakır
+        names_es: 
+          - Diyarbakır
         population: 644763
         timezone: Europe/Istanbul
       - 
@@ -6234,6 +6624,7 @@ regions:
           - Cunguc
           - Cungus
           - Cunkus
+          - Cüngüç
         ascii_name: Cungus
         geonamesid: 317837
         latitude: 38.2125
@@ -6248,6 +6639,7 @@ regions:
           - Akpinar
           - Akpınar
           - Cinar
+          - Hanakpinar
         ascii_name: Cinar
         geonamesid: 318404
         latitude: 37.72333
@@ -6262,6 +6654,7 @@ regions:
           - Cemik
           - Cermik
           - Çemik
+          - Çermik
         ascii_name: Cermik
         geonamesid: 318766
         latitude: 38.13613
@@ -6288,6 +6681,7 @@ regions:
           - Aralik
           - Aralyk
           - Aralık
+          - Tezekli
         ascii_name: Aralik
         geonamesid: 323736
         latitude: 37.83
@@ -6302,6 +6696,7 @@ regions:
           - Ambar
           - Anbar
           - "Anbar Koyu"
+          - "Anbar Köyü"
         ascii_name: Ambar
         geonamesid: 323854
         latitude: 37.85316
@@ -6336,6 +6731,7 @@ regions:
           - Tavas
           - Yarangum
           - Yarangume
+          - Yarangüm
         ascii_name: Tavas
         geonamesid: 299575
         latitude: 37.57351
@@ -6364,13 +6760,16 @@ regions:
           - Ecirli
           - Hierapolis
           - "Hierapolis de Frigia"
+          - Hieropolis
         ascii_name: Pamukkale
         geonamesid: 302903
         latitude: 37.91644
         longitude: 29.11729
         name: Pamukkale
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pamukkale
+        names_es: 
+          - Hierápolis
         population: 10000
         timezone: Europe/Istanbul
       - 
@@ -6414,12 +6813,14 @@ regions:
           - Denisli
           - Denislu
           - Denislü
+          - Denizli
         ascii_name: Denizli
         geonamesid: 317109
         latitude: 37.77417
         longitude: 29.0875
         name: Denizli
-        names_en: ~
+        names_en: 
+          - Denizli
         names_es: ~
         population: 313238
         timezone: Europe/Istanbul
@@ -6439,6 +6840,7 @@ regions:
           - Buyukkonak
           - Büyükkonak
           - Konak
+          - Nikfer
         ascii_name: Konak
         geonamesid: 320177
         latitude: 37.40583
@@ -6504,6 +6906,7 @@ regions:
           - Babadag
           - Babadağ
           - Kadikoy
+          - Kadıköy
         ascii_name: Babadag
         geonamesid: 322618
         latitude: 37.80885
@@ -6529,6 +6932,7 @@ regions:
           - Acipayam
           - Acıpayam
           - Batikaraagac
+          - Batıkaraağaç
         ascii_name: Acipayam
         geonamesid: 325426
         latitude: 37.42385
@@ -6540,8 +6944,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 317106
     name: Denizli
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Denizli Province"
+      - Denizli
+    names_es: 
+      - "Provincia de Denizli"
   - 
     ascii_name: Burdur
     cities: 
@@ -6550,6 +6957,7 @@ regions:
           - Satilar
           - Satirlar
           - Satılar
+          - Satırlar
         ascii_name: Yesilova
         geonamesid: 296823
         latitude: 37.50806
@@ -6576,6 +6984,7 @@ regions:
           - Bebekler
           - Bobekler
           - Böbekler
+          - Kemer
         ascii_name: Kemer
         geonamesid: 308217
         latitude: 37.35222
@@ -6603,6 +7012,7 @@ regions:
           - Golhisar
           - Gölhisar
           - Horzom
+          - Horzum
         ascii_name: Golhisar
         geonamesid: 314072
         latitude: 37.1459
@@ -6617,12 +7027,14 @@ regions:
           - Bourdour
           - Buldur
           - Burdur
+          - Polydorion
         ascii_name: Burdur
         geonamesid: 320392
         latitude: 37.72028
         longitude: 30.29083
         name: Burdur
-        names_en: ~
+        names_en: 
+          - Burdur
         names_es: ~
         population: 66158
         timezone: Europe/Istanbul
@@ -6645,6 +7057,7 @@ regions:
           - Altinyayla
           - Altınyayla
           - Dinmil
+          - Dirmil
         ascii_name: Altinyayla
         geonamesid: 323887
         latitude: 37.00877
@@ -6659,6 +7072,7 @@ regions:
           - Aglasun
           - Ağlasun
           - Belonu
+          - Belönü
         ascii_name: Aglasun
         geonamesid: 325171
         latitude: 37.64944
@@ -6670,8 +7084,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 320390
     name: Burdur
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Burdur Province"
+      - Burdur
+    names_es: 
+      - "Provincia de Burdur"
   - 
     ascii_name: Bitlis
     cities: 
@@ -6684,7 +7101,8 @@ regions:
         latitude: 38.50667
         longitude: 42.28167
         name: Tatvan
-        names_en: ~
+        names_en: 
+          - Tatvan
         names_es: ~
         population: 73222
         timezone: Europe/Istanbul
@@ -6715,6 +7133,7 @@ regions:
           - Cukur
           - Goroymak
           - Guroymak
+          - Göroymak
         ascii_name: Guroymak
         geonamesid: 313331
         latitude: 38.57739
@@ -6729,12 +7148,14 @@ regions:
           - Badlis
           - Bitlis
           - Bitliss
+          - btlys
         ascii_name: Bitlis
         geonamesid: 321025
         latitude: 38.40115
         longitude: 42.10784
         name: Bitlis
-        names_en: ~
+        names_en: 
+          - Bitlis
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -6743,12 +7164,14 @@ regions:
           - Ahlat
           - Akhlat
           - Erkizan
+          - Ахлат
         ascii_name: Ahlat
         geonamesid: 325103
         latitude: 38.75178
         longitude: 42.48135
         name: Ahlat
-        names_en: ~
+        names_en: 
+          - Ahlat
         names_es: ~
         population: 64695
         timezone: Europe/Istanbul
@@ -6757,6 +7180,7 @@ regions:
           - Adeljivaz
           - Adilcevaz
           - Adildzhevaz
+          - Адилджеваз
         ascii_name: Adilcevaz
         geonamesid: 325336
         latitude: 38.80389
@@ -6768,8 +7192,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 321022
     name: Bitlis
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Bitlis Province"
+      - Bitlis
+    names_es: 
+      - "Provincia de Bitlis"
   - 
     ascii_name: Bingoel
     cities: 
@@ -6790,6 +7217,7 @@ regions:
           - Conek
           - Cönek
           - Holhol
+          - Yayladere
         ascii_name: Yayladere
         geonamesid: 297461
         latitude: 39.22614
@@ -6804,6 +7232,7 @@ regions:
           - Boglan
           - Boğlan
           - Buglan
+          - Solhan
         ascii_name: Solhan
         geonamesid: 300377
         latitude: 38.96338
@@ -6832,6 +7261,7 @@ regions:
           - Kanires
           - Karliova
           - Karlıova
+          - Kânireş
         ascii_name: Karliova
         geonamesid: 309032
         latitude: 39.29833
@@ -6846,6 +7276,7 @@ regions:
           - Darahini
           - Genc
           - Genk
+          - Genç
         ascii_name: Genc
         geonamesid: 314648
         latitude: 38.75071
@@ -6860,6 +7291,7 @@ regions:
           - Badlis
           - Bingol
           - Bingöl
+          - Capakcur
         ascii_name: Bingol
         geonamesid: 321082
         latitude: 38.88472
@@ -6871,8 +7303,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 321079
     name: Bingöl
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Bingöl Province"
+      - Bingöl
+    names_es: 
+      - "Provincia de Bingol"
   - 
     ascii_name: Bilecik
     cities: 
@@ -6895,6 +7330,7 @@ regions:
           - Bozoyuk
           - Bozuyuk
           - Bozöyük
+          - Bozüyük
         ascii_name: Bozuyuk
         geonamesid: 320557
         latitude: 39.90778
@@ -6960,6 +7396,7 @@ regions:
           - Agrilium
           - Belocome
           - Bilecik
+          - Biledzhik
         ascii_name: Bilecik
         geonamesid: 750598
         latitude: 40.14192
@@ -6971,8 +7408,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 321122
     name: Bilecik
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Bilecik Province"
+      - Bilecik
+    names_es: 
+      - "Provincia de Bilecik"
   - 
     ascii_name: Balikesir
     cities: 
@@ -6981,6 +7421,7 @@ regions:
           - Firt
           - Fırt
           - Susigirlik
+          - Susughirli
         ascii_name: Susurluk
         geonamesid: 300058
         latitude: 39.91361
@@ -6995,6 +7436,7 @@ regions:
           - Korukoy
           - Koruköy
           - Sindirgi
+          - Sındırgı
         ascii_name: Sindirgi
         geonamesid: 300732
         latitude: 39.24128
@@ -7060,6 +7502,7 @@ regions:
           - Altinova
           - Armudova
           - Armutova
+          - Emrutabat
         ascii_name: Armutova
         geonamesid: 313995
         latitude: 39.39016
@@ -7074,6 +7517,7 @@ regions:
           - Adramyti
           - Adramyttium
           - Edremid
+          - Edremit
         ascii_name: Edremit
         geonamesid: 315985
         latitude: 39.59611
@@ -7140,13 +7584,16 @@ regions:
           - Achyraus
           - Adrianoutherai
           - Adrianouthērai
+          - Bali-Kessir
         ascii_name: Balikesir
         geonamesid: 322165
         latitude: 39.64917
         longitude: 27.88611
         name: Balıkesir
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Balıkesir
+        names_es: 
+          - Balikesir
         population: 238151
         timezone: Europe/Istanbul
       - 
@@ -7154,6 +7601,7 @@ regions:
           - Aivali
           - Ajvalyk
           - Ayvalik
+          - Ayvalık
         ascii_name: Ayvalik
         geonamesid: 322673
         latitude: 39.31905
@@ -7193,6 +7641,7 @@ regions:
           - Gonan
           - Gonen
           - Gönan
+          - Gönen
         ascii_name: Gonen
         geonamesid: 746574
         latitude: 40.1049
@@ -7207,6 +7656,7 @@ regions:
           - Artace
           - Artaki
           - Erdek
+          - Erdeku
         ascii_name: Erdek
         geonamesid: 747482
         latitude: 40.3996
@@ -7221,6 +7671,7 @@ regions:
           - Banderma
           - Bandirma
           - Bandyrma
+          - Bandırma
         ascii_name: Bandirma
         geonamesid: 751077
         latitude: 40.35222
@@ -7232,8 +7683,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 322164
     name: Balıkesir
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Balıkesir Province"
+      - Balıkesir
+    names_es: 
+      - "Provincia de Balikesir"
   - 
     ascii_name: Aydin
     cities: 
@@ -7253,12 +7707,14 @@ regions:
           - Didim
           - Didimy
           - Yenihisar
+          - Yoran
         ascii_name: Didim
         geonamesid: 297090
         latitude: 37.37556
         longitude: 27.26778
         name: Didim
-        names_en: ~
+        names_en: 
+          - Didim
         names_es: ~
         population: 26000
         timezone: Europe/Istanbul
@@ -7278,6 +7734,7 @@ regions:
           - Sok
           - Soke
           - Sokia
+          - Söke
         ascii_name: Sokia
         geonamesid: 300399
         latitude: 37.7482
@@ -7292,12 +7749,14 @@ regions:
           - Nasly
           - Nazilli
           - Pazarkoy
+          - Pazarköy
         ascii_name: Nazilli
         geonamesid: 303873
         latitude: 37.91631
         longitude: 28.32225
         name: Nazilli
-        names_en: ~
+        names_en: 
+          - Nazilli
         names_es: ~
         population: 119370
         timezone: Europe/Istanbul
@@ -7319,13 +7778,17 @@ regions:
           - Efes
           - Kusadasi
           - "Kush Adasi"
+          - "Kush Adası"
         ascii_name: Kusadasi
         geonamesid: 305359
         latitude: 37.85562
         longitude: 27.2566
         name: Kuşadası
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kusadasi
+          - Kuşadası
+        names_es: 
+          - Kusadasi
         population: 63177
         timezone: Europe/Istanbul
       - 
@@ -7379,6 +7842,7 @@ regions:
           - Incirliova
           - Karahisar
           - Karapinar
+          - Karapınar
         ascii_name: Incirliova
         geonamesid: 311314
         latitude: 37.85222
@@ -7393,6 +7857,7 @@ regions:
           - Germecik
           - Germecık
           - Germencik
+          - Igneabat
         ascii_name: Germencik
         geonamesid: 314573
         latitude: 37.87056
@@ -7407,6 +7872,7 @@ regions:
           - Cine
           - Hanakpinar
           - Hanakpınar
+          - Çine
         ascii_name: Cine
         geonamesid: 318372
         latitude: 37.61167
@@ -7421,6 +7887,7 @@ regions:
           - Buharkent
           - Burhaniye
           - Burhaniyekasabasi
+          - Burhaniyekasabası
         ascii_name: Buharkent
         geonamesid: 320374
         latitude: 37.96396
@@ -7446,6 +7913,7 @@ regions:
           - Aidin
           - Aidinion
           - Ajdyn
+          - Aydin
         ascii_name: Aydin
         geonamesid: 322830
         latitude: 37.84501
@@ -7457,8 +7925,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 322819
     name: Aydın
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Aydın Province"
+      - Aydın
+    names_es: 
+      - "Provincia de Aydın"
   - 
     ascii_name: Antalya
     cities: 
@@ -7467,6 +7938,7 @@ regions:
           - Eynihal
           - Gokyazi
           - Gökyazı
+          - Kale
         ascii_name: Kale
         geonamesid: 295781
         latitude: 36.24444
@@ -7481,6 +7953,7 @@ regions:
           - Celcikli
           - Celtikli
           - Phaselis
+          - Tekirova
         ascii_name: Tekirova
         geonamesid: 299445
         latitude: 36.5017
@@ -7495,6 +7968,7 @@ regions:
           - Kokes
           - Koles
           - Kukes
+          - Kükes
         ascii_name: Serik
         geonamesid: 301101
         latitude: 36.91694
@@ -7509,12 +7983,14 @@ regions:
           - "Eski Adalia"
           - Eskiantalya
           - Selimiye
+          - Side
         ascii_name: Side
         geonamesid: 301238
         latitude: 36.76583
         longitude: 31.38417
         name: Side
-        names_en: ~
+        names_en: 
+          - Side
         names_es: ~
         population: 3275
         timezone: Europe/Istanbul
@@ -7527,7 +8003,8 @@ regions:
         latitude: 36.78667
         longitude: 31.44306
         name: Manavgat
-        names_en: ~
+        names_en: 
+          - Manavgat
         names_es: ~
         population: 96052
         timezone: Europe/Istanbul
@@ -7547,6 +8024,7 @@ regions:
           - Istanos
           - Korkudeli
           - Korkuteli
+          - İstanos
         ascii_name: Korkuteli
         geonamesid: 306474
         latitude: 37.08306
@@ -7561,6 +8039,7 @@ regions:
           - Eskikoy
           - Eskiköy
           - Kemer
+          - Кемер
         ascii_name: Kemer
         geonamesid: 308220
         latitude: 36.59778
@@ -7575,12 +8054,14 @@ regions:
           - Andifli
           - Andiphilo
           - Antiphellus
+          - Kas
         ascii_name: Kas
         geonamesid: 308948
         latitude: 36.20176
         longitude: 29.63766
         name: Kaş
-        names_en: ~
+        names_en: 
+          - Kas
         names_es: ~
         population: 7452
         timezone: Europe/Istanbul
@@ -7617,6 +8098,7 @@ regions:
           - Gazipasa
           - Gazipaşa
           - Pazarci
+          - Pazarcik
         ascii_name: Gazipasa
         geonamesid: 314812
         latitude: 36.27875
@@ -7631,6 +8113,7 @@ regions:
           - Finike
           - Phoenicus
           - fnkh
+          - فنکه
         ascii_name: Finike
         geonamesid: 314923
         latitude: 36.295
@@ -7658,12 +8141,14 @@ regions:
           - Belek
           - Belekoy
           - Beleköy
+          - Besyigit
         ascii_name: Belek
         geonamesid: 321580
         latitude: 36.86278
         longitude: 31.05556
         name: Belek
-        names_en: ~
+        names_en: 
+          - Belek
         names_es: ~
         population: 73260
         timezone: Europe/Istanbul
@@ -7672,6 +8157,7 @@ regions:
           - Aydinkent
           - Aydınkent
           - Ibradi
+          - İbradı
         ascii_name: Ibradi
         geonamesid: 322817
         latitude: 37.09694
@@ -7699,13 +8185,16 @@ regions:
           - Adalia
           - Antal'ja
           - Antalia
+          - Antalija
         ascii_name: Antalya
         geonamesid: 323777
         latitude: 36.9125
         longitude: 30.68972
         name: Antalya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Antalya
+        names_es: 
+          - Antalya
         population: 758188
         timezone: Europe/Istanbul
       - 
@@ -7713,12 +8202,14 @@ regions:
           - Alaia
           - Alaiye
           - Alan'ja
+          - Alanija
         ascii_name: Alanya
         geonamesid: 324190
         latitude: 36.55132
         longitude: 31.9975
         name: Alanya
-        names_en: ~
+        names_en: 
+          - Alanya
         names_es: ~
         population: 112969
         timezone: Europe/Istanbul
@@ -7744,14 +8235,18 @@ regions:
         latitude: 36.2537
         longitude: 29.9777
         name: Demre
-        names_en: ~
+        names_en: 
+          - Demre
         names_es: ~
         population: 15000
         timezone: Europe/Istanbul
     geonamesid: 323776
     name: Antalya
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Antalya Province"
+      - Antalya
+    names_es: 
+      - "Provincia de Antalya"
   - 
     ascii_name: Ankara
     cities: 
@@ -7774,6 +8269,7 @@ regions:
           - Kochisar
           - Koçhisar
           - Serefli
+          - Sereflikochisar
         ascii_name: Sereflikochisar
         geonamesid: 301116
         latitude: 38.93925
@@ -7793,8 +8289,10 @@ regions:
         latitude: 39.57716
         longitude: 32.14132
         name: Polatlı
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Polatlı
+        names_es: 
+          - Polatlı
         population: 93262
         timezone: Europe/Istanbul
       - 
@@ -7802,6 +8300,7 @@ regions:
           - Hamam
           - Haymana
           - Sivrihamam
+          - Yaban
         ascii_name: Haymana
         geonamesid: 312289
         latitude: 39.43212
@@ -7816,6 +8315,7 @@ regions:
           - Asiyozgat
           - Asıyozgat
           - Elmadag
+          - Elmadagi
         ascii_name: Elmadag
         geonamesid: 315720
         latitude: 39.92083
@@ -7830,13 +8330,17 @@ regions:
           - Ancara
           - "Ancara - Ankara"
           - Ancyra
+          - Angora
         ascii_name: Ankara
         geonamesid: 323786
         latitude: 39.91987
         longitude: 32.85427
         name: Ankara
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ankara
+        names_es: 
+          - Angora
+          - Ankara
         population: 3517182
         timezone: Europe/Istanbul
       - 
@@ -7870,6 +8374,7 @@ regions:
           - Kizicahamam
           - Kizilcahamam
           - Kızıcahamam
+          - Kızılcahamam
         ascii_name: Kizilcahamam
         geonamesid: 743051
         latitude: 40.46972
@@ -7906,6 +8411,7 @@ regions:
           - Godul
           - Gudul
           - Gödul
+          - Güdül
         ascii_name: Gudul
         geonamesid: 746497
         latitude: 40.21051
@@ -7931,6 +8437,7 @@ regions:
           - Camlidere
           - Sehler
           - Seyhler
+          - Sorba
         ascii_name: Camlidere
         geonamesid: 749843
         latitude: 40.48958
@@ -7945,6 +8452,7 @@ regions:
           - Baibazar
           - Beypazari
           - Beypazarı
+          - Petobriga
         ascii_name: Beypazari
         geonamesid: 750637
         latitude: 40.1675
@@ -7991,8 +8499,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 323784
     name: Ankara
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Ankara Province"
+      - Ankara
+    names_es: 
+      - "Provincia de Ankara"
   - 
     ascii_name: Agri
     cities: 
@@ -8012,6 +8523,7 @@ regions:
           - Asagitaslicay
           - Aşağıtaşlıçay
           - Taslicay
+          - Taşlıçay
         ascii_name: Taslicay
         geonamesid: 299701
         latitude: 39.63361
@@ -8038,12 +8550,14 @@ regions:
           - Agiri
           - Agirî
           - Agr"
+          - Agri
         ascii_name: Agri
         geonamesid: 309647
         latitude: 39.71944
         longitude: 43.05139
         name: Ağrı
-        names_en: ~
+        names_en: 
+          - Ağrı
         names_es: ~
         population: 92022
         timezone: Europe/Istanbul
@@ -8063,6 +8577,7 @@ regions:
           - Eleskirt
           - Eleşkirt
           - Toprakkale
+          - Zeydekan
         ascii_name: Eleskirt
         geonamesid: 315758
         latitude: 39.80333
@@ -8077,12 +8592,14 @@ regions:
           - Baiazid
           - Bajaset
           - Bajasid
+          - Bajesid
         ascii_name: Dogubayazit
         geonamesid: 316411
         latitude: 39.54694
         longitude: 44.08417
         name: Doğubayazıt
-        names_en: ~
+        names_en: 
+          - Doğubeyazıt
         names_es: ~
         population: 70171
         timezone: Europe/Istanbul
@@ -8101,8 +8618,12 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 325163
     name: Ağrı
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Ağrı Province"
+      - Ağrı
+    names_es: 
+      - "Provincia de Agri"
+      - Agri
   - 
     ascii_name: Afyonkarahisar
     cities: 
@@ -8111,6 +8632,7 @@ regions:
           - Isakli
           - Ishakli
           - Sultandagi
+          - Sultandağı
         ascii_name: Sultandagi
         geonamesid: 300201
         latitude: 38.53111
@@ -8138,6 +8660,7 @@ regions:
           - Sinanpasa
           - Sinanpaşa
           - Sincanli
+          - Sincanlı
         ascii_name: Sincanli
         geonamesid: 300754
         latitude: 38.74444
@@ -8152,6 +8675,7 @@ regions:
           - Sandikli
           - Sandykly
           - Sandıklı
+          - Сандикли
         ascii_name: Sandikli
         geonamesid: 301911
         latitude: 38.46472
@@ -8243,6 +8767,7 @@ regions:
           - "Apamea Cibotus"
           - Celaenae
           - Dinar
+          - Dineir
         ascii_name: Dinar
         geonamesid: 316634
         latitude: 38.065
@@ -8257,6 +8782,7 @@ regions:
           - Daskiri
           - Daskırı
           - Dazkiri
+          - Dazkırı
         ascii_name: Dazkiri
         geonamesid: 317496
         latitude: 37.91861
@@ -8271,6 +8797,7 @@ regions:
           - Cay
           - Kej
           - Çay
+          - Кей
         ascii_name: Cay
         geonamesid: 319104
         latitude: 38.59167
@@ -8324,12 +8851,14 @@ regions:
           - Acroenus
           - Acroënus
           - Af'onkarakhisar
+          - "Afion - Afyon"
         ascii_name: Afyonkarahisar
         geonamesid: 325303
         latitude: 38.75667
         longitude: 30.54333
         name: Afyonkarahisar
-        names_en: ~
+        names_en: 
+          - Afyonkarahisar
         names_es: ~
         population: 146136
         timezone: Europe/Istanbul
@@ -8379,6 +8908,7 @@ regions:
           - Kahta
           - Kakhta
           - Kolik
+          - Koluk
         ascii_name: Kahta
         geonamesid: 310855
         latitude: 37.78552
@@ -8457,13 +8987,16 @@ regions:
           - Adiaman
           - Adityman
           - Adiyaman
+          - "Adiyaman Province"
         ascii_name: Adiyaman
         geonamesid: 325330
         latitude: 37.76441
         longitude: 38.27629
         name: Adıyaman
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Adıyaman Province"
+        names_es: 
+          - "Provincia de Adiyaman"
         population: 223744
         timezone: Europe/Istanbul
     geonamesid: 325329
@@ -8478,6 +9011,7 @@ regions:
           - Hoket
           - Hoketce
           - Höket
+          - Höketçe
         ascii_name: Tufanbeyli
         geonamesid: 298882
         latitude: 38.26333
@@ -8504,6 +9038,7 @@ regions:
           - Hacin
           - Haçin
           - Rumlu
+          - Saimbeyli
         ascii_name: Saimbeyli
         geonamesid: 302150
         latitude: 37.98632
@@ -8518,6 +9053,7 @@ regions:
           - Posenti
           - Pozanti
           - Pozantı
+          - Pozenti
         ascii_name: Pozanti
         geonamesid: 302482
         latitude: 37.42778
@@ -8537,7 +9073,8 @@ regions:
         latitude: 37.45517
         longitude: 35.81573
         name: Kozan
-        names_en: ~
+        names_en: 
+          - Kozan
         names_es: ~
         population: 88115
         timezone: Europe/Istanbul
@@ -8546,6 +9083,7 @@ regions:
           - Aladag
           - Aladağ
           - Karsanti
+          - Karsantı
         ascii_name: Aladag
         geonamesid: 308998
         latitude: 37.5485
@@ -8560,6 +9098,7 @@ regions:
           - Karatas
           - Karataş
           - Kucukkaratas
+          - Kuecuekkaratas
         ascii_name: Karatas
         geonamesid: 309312
         latitude: 36.58204
@@ -8574,6 +9113,7 @@ regions:
           - Ceceli
           - Karaisali
           - Karaisalı
+          - Çeceli
         ascii_name: Karaisali
         geonamesid: 309758
         latitude: 37.25667
@@ -8626,12 +9166,14 @@ regions:
           - Ceyhan
           - Dzhejkhan
           - Hamidiye
+          - Jehan
         ascii_name: Ceyhan
         geonamesid: 318675
         latitude: 37.02472
         longitude: 35.8175
         name: Ceyhan
-        names_en: ~
+        names_en: 
+          - Ceyhan
         names_es: ~
         population: 96303
         timezone: Europe/Istanbul
@@ -8640,6 +9182,7 @@ regions:
           - Bahce
           - Bahçe
           - Bulanik
+          - Bulanikbahce
         ascii_name: Bahce
         geonamesid: 322391
         latitude: 37.19724
@@ -8665,19 +9208,25 @@ regions:
           - Adana
           - Adhanah
           - Antiocheia
+          - adana
         ascii_name: Adana
         geonamesid: 325363
         latitude: 37.00167
         longitude: 35.32889
         name: Adana
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Adana
+        names_es: 
+          - Adana
         population: 1248988
         timezone: Europe/Istanbul
     geonamesid: 325361
     name: Adana
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Adana Province"
+      - Adana
+    names_es: 
+      - "Provincia de Adana"
   - 
     ascii_name: Osmaniye
     cities: 
@@ -8697,13 +9246,16 @@ regions:
           - Cebelibereket
           - Gebelibereket
           - Osmanie
+          - Osmaniye
         ascii_name: Osmaniye
         geonamesid: 303195
         latitude: 37.07417
         longitude: 36.24778
         name: Osmaniye
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Osmaniye
+        names_es: 
+          - Osmaniye
         population: 202837
         timezone: Europe/Istanbul
       - 
@@ -8737,6 +9289,7 @@ regions:
           - Arabli
           - Arapli
           - Araplı
+          - Dugenli
         ascii_name: Sumbas
         geonamesid: 316223
         latitude: 37.4513
@@ -8748,8 +9301,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 443183
     name: Osmaniye
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Osmaniye Province"
+      - Osmaniye
+    names_es: 
+      - "Provincia de Osmaniye"
   - 
     ascii_name: Igdir
     cities: 
@@ -8771,12 +9327,14 @@ regions:
           - Idir
           - Igdir
           - Iğdır
+          - Игдир
         ascii_name: Igdir
         geonamesid: 311665
         latitude: 39.92371
         longitude: 44.045
         name: Iğdır
-        names_en: ~
+        names_en: 
+          - Iğdır
         names_es: ~
         population: 75721
         timezone: Europe/Istanbul
@@ -8785,19 +9343,24 @@ regions:
           - Kulp
           - TUZLUDZHA
           - Tuzluca
+          - ТУЗЛУДЖА
         ascii_name: Tuzluca
         geonamesid: 738541
         latitude: 40.04957
         longitude: 43.66184
         name: Tuzluca
-        names_en: ~
+        names_en: 
+          - Tuzluca
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
     geonamesid: 443184
     name: Iğdır
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Iğdır Province"
+      - Iğdır
+    names_es: 
+      - "Provincia de Iğdır"
   - 
     ascii_name: Aksaray
     cities: 
@@ -8835,14 +9398,19 @@ regions:
         latitude: 38.37255
         longitude: 34.02537
         name: Aksaray
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aksaray
+        names_es: 
+          - Aksaray
         population: 152201
         timezone: Europe/Istanbul
     geonamesid: 443185
     name: Aksaray
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Aksaray Province"
+      - Aksaray
+    names_es: 
+      - "Provincia de Aksaray"
   - 
     ascii_name: Batman
     cities: 
@@ -8851,6 +9419,7 @@ regions:
           - Derindip
           - Dirindip
           - Yolagzi
+          - Yolağzı
         ascii_name: Yolagzi
         geonamesid: 296653
         latitude: 37.52484
@@ -8865,6 +9434,7 @@ regions:
           - "Asagi Keferzo"
           - Ashagy-Keferzo
           - "Aşağı Keferzo"
+          - Yenipinar
         ascii_name: Yenipinar
         geonamesid: 296947
         latitude: 37.84345
@@ -8893,6 +9463,7 @@ regions:
           - Kabilcevaz
           - Kabilcoz
           - Kabilcuz
+          - Sason
         ascii_name: Sason
         geonamesid: 301483
         latitude: 38.33644
@@ -8933,6 +9504,7 @@ regions:
           - Ayinkaf
           - Ayinkar
           - Ayinkef
+          - Ayinkâf
         ascii_name: Kayapinar
         geonamesid: 308572
         latitude: 37.55735
@@ -8947,6 +9519,7 @@ regions:
           - "Asagi Aviski"
           - Aviski
           - "Aşağı Aviski"
+          - Ikikopru
         ascii_name: Aviski
         geonamesid: 311628
         latitude: 37.96577
@@ -8961,6 +9534,7 @@ regions:
           - Hasar
           - Hisar
           - Hisarkoy
+          - Hisarköy
         ascii_name: Hisarkoy
         geonamesid: 312073
         latitude: 37.60094
@@ -9003,6 +9577,7 @@ regions:
           - Erkoklu
           - Erköklü
           - Irmi
+          - İrmi
         ascii_name: Erkoklu
         geonamesid: 315408
         latitude: 37.86155
@@ -9017,6 +9592,7 @@ regions:
           - Dogankavak
           - Doğankavak
           - Hadhatih
+          - Hadhatıh
         ascii_name: Dogankavak
         geonamesid: 316473
         latitude: 37.96237
@@ -9031,6 +9607,7 @@ regions:
           - Demiryol
           - Til'merch
           - Tilmerc
+          - Tilmere
         ascii_name: Demiryol
         geonamesid: 317133
         latitude: 37.91778
@@ -9045,6 +9622,7 @@ regions:
           - Barisil
           - Barsil
           - Barsyl
+          - Barısıl
         ascii_name: Cevrimova
         geonamesid: 318679
         latitude: 37.84083
@@ -9073,6 +9651,7 @@ regions:
           - Alenz
           - Arans
           - Aranz
+          - Baspinar
         ascii_name: Bespinar
         geonamesid: 321327
         latitude: 37.84389
@@ -9087,6 +9666,7 @@ regions:
           - Beshirin
           - Besiri
           - Beşiri
+          - Kabin
         ascii_name: Besiri
         geonamesid: 321360
         latitude: 37.91838
@@ -9101,6 +9681,7 @@ regions:
           - Batman
           - Iloh
           - Iluh
+          - Батман
         ascii_name: Batman
         geonamesid: 321836
         latitude: 37.88738
@@ -9115,6 +9696,7 @@ regions:
           - Balpinar
           - Balpınar
           - Giresiran
+          - Girisiran
         ascii_name: Balpinar
         geonamesid: 322076
         latitude: 37.86833
@@ -9129,6 +9711,7 @@ regions:
           - Aydinkonak
           - Aydınkonak
           - Keryuk
+          - Korik
         ascii_name: Aydinkonak
         geonamesid: 322813
         latitude: 37.89222
@@ -9140,8 +9723,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 443186
     name: Batman
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Batman Province"
+      - Batman
+    names_es: 
+      - "Provincia de Batman"
   - 
     ascii_name: Karaman
     cities: 
@@ -9150,12 +9736,14 @@ regions:
           - "Ak Yokus"
           - "Ak Yokuş"
           - Darende
+          - Karaman
         ascii_name: Karaman
         geonamesid: 309527
         latitude: 37.18111
         longitude: 33.215
         name: Karaman
-        names_en: ~
+        names_en: 
+          - Karaman
         names_es: ~
         population: 120399
         timezone: Europe/Istanbul
@@ -9175,8 +9763,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 443187
     name: Karaman
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Karaman Province"
+      - Karaman
+    names_es: 
+      - "Provincia de Karaman"
   - 
     ascii_name: Kirikkale
     cities: 
@@ -9185,6 +9776,7 @@ regions:
           - Denek
           - Denekmadeni
           - Keskin
+          - Maden
         ascii_name: Keskin
         geonamesid: 308024
         latitude: 39.67306
@@ -9221,8 +9813,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 443188
     name: Kırıkkale
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kırıkkale Province"
+      - Kırıkkale
+    names_es: 
+      - "Provincia de Kirikkale"
   - 
     ascii_name: Sirnak
     cities: 
@@ -9231,6 +9826,7 @@ regions:
           - Haraberes
           - Harabereş
           - Harabresik
+          - Harabreşik
         ascii_name: Yenikoy
         geonamesid: 297052
         latitude: 37.27139
@@ -9245,6 +9841,7 @@ regions:
           - Derahin
           - Derakhin
           - Dirahini
+          - Uzungecit
         ascii_name: Uzungecit
         geonamesid: 298198
         latitude: 37.49472
@@ -9259,6 +9856,7 @@ regions:
           - Goyan
           - Guyan
           - Göyan
+          - Güyan
         ascii_name: Uludere
         geonamesid: 298433
         latitude: 37.445
@@ -9286,6 +9884,7 @@ regions:
           - Mihrip
           - Nehrip
           - Nekhrip
+          - Nihrip
         ascii_name: Sulak
         geonamesid: 300258
         latitude: 37.29639
@@ -9300,6 +9899,7 @@ regions:
           - Sirtkoy
           - Sırtköy
           - Telila
+          - Telilâ
         ascii_name: Tililan
         geonamesid: 300635
         latitude: 37.37778
@@ -9314,6 +9914,7 @@ regions:
           - Shirnak
           - Sirnak
           - Şırnak
+          - Ширнак
         ascii_name: Sirnak
         geonamesid: 300640
         latitude: 37.52278
@@ -9328,6 +9929,7 @@ regions:
           - Girgimac
           - Girgimaç
           - Girikamo
+          - Girikoma
         ascii_name: Silopi
         geonamesid: 300797
         latitude: 37.24972
@@ -9356,6 +9958,7 @@ regions:
           - Ayinvan
           - "Ayinvan Harap"
           - Ayınvan
+          - "Ayınvan Harap"
         ascii_name: "Razvaliny Ayinvan"
         geonamesid: 302624
         latitude: 37.28056
@@ -9370,6 +9973,7 @@ regions:
           - Ayinser
           - Ayınser
           - Pinarbasi
+          - Pınarbaşı
         ascii_name: Pinarbasi
         geonamesid: 302678
         latitude: 37.21333
@@ -9384,6 +9988,7 @@ regions:
           - Ozbek
           - Tel'sikan
           - Telsakam
+          - Telsakan
         ascii_name: Ozbek
         geonamesid: 303007
         latitude: 37.17499
@@ -9409,6 +10014,7 @@ regions:
           - "Asagi Arus"
           - Ashagi-Arush
           - "Aşağı Aruş"
+          - Ortakoy
         ascii_name: Ortakoy
         geonamesid: 303304
         latitude: 37.32639
@@ -9423,6 +10029,7 @@ regions:
           - Gerur
           - Glyan
           - Gurur
+          - Gürur
         ascii_name: Ortabag
         geonamesid: 303357
         latitude: 37.39583
@@ -9450,6 +10057,7 @@ regions:
           - Mezraa
           - "Mezraa Koyu"
           - "Mezraa Köyü"
+          - Mezrea
         ascii_name: Mezrea
         geonamesid: 304414
         latitude: 37.66257
@@ -9464,6 +10072,7 @@ regions:
           - Dergul
           - Dergyul'
           - Dergyul’
+          - Dergül
         ascii_name: Kumcati
         geonamesid: 305699
         latitude: 37.46566
@@ -9478,6 +10087,7 @@ regions:
           - Kizilsu
           - Kızılsu
           - Sehres
+          - Shekhresh
         ascii_name: Kizilsu
         geonamesid: 307102
         latitude: 37.44861
@@ -9505,6 +10115,7 @@ regions:
           - Hazak
           - Hezek
           - Hezex
+          - Idil
         ascii_name: Idil
         geonamesid: 311704
         latitude: 37.34114
@@ -9519,6 +10130,7 @@ regions:
           - Helal
           - Hilal
           - Hilâl
+          - Khelal
         ascii_name: Hilal
         geonamesid: 312143
         latitude: 37.47528
@@ -9533,6 +10145,7 @@ regions:
           - Becu
           - Becuh
           - Becü
+          - Bedzhukh
         ascii_name: Becuh
         geonamesid: 313635
         latitude: 37.3925
@@ -9547,6 +10160,7 @@ regions:
           - Baraniferho
           - Basan
           - Guclukonak
+          - Güçlükonak
         ascii_name: Baraniferho
         geonamesid: 313794
         latitude: 37.46972
@@ -9561,6 +10175,7 @@ regions:
           - Besbin
           - Bespin
           - Bisbin
+          - Gorumlu
         ascii_name: Bisbin
         geonamesid: 313922
         latitude: 37.33861
@@ -9575,6 +10190,7 @@ regions:
           - Duzova
           - Düzova
           - Hoser
+          - Huser
         ascii_name: Duzova
         geonamesid: 316028
         latitude: 37.35667
@@ -9589,6 +10205,7 @@ regions:
           - Dicle
           - Kocapinar
           - Kocapınar
+          - Omerin
         ascii_name: Dicle
         geonamesid: 316748
         latitude: 37.29333
@@ -9603,6 +10220,7 @@ regions:
           - "Beit Zabde"
           - Bezabde
           - Dzhizre
+          - "Jazirhe-a-ibn-a Omar"
         ascii_name: Cizre
         geonamesid: 318253
         latitude: 37.32722
@@ -9631,6 +10249,7 @@ regions:
           - Ciftlik
           - Ciftlikkoy
           - Ciftlikkoyu
+          - Girikbedro
         ascii_name: Ciftlikkoy
         geonamesid: 318567
         latitude: 37.18028
@@ -9645,6 +10264,7 @@ regions:
           - Caliskan
           - Gitta
           - Gitte
+          - Çalışkan
         ascii_name: Caliskan
         geonamesid: 319787
         latitude: 37.29722
@@ -9659,6 +10279,7 @@ regions:
           - Bahmur
           - Bahnur
           - Behmur
+          - Bekhmur
         ascii_name: Bozalan
         geonamesid: 320745
         latitude: 37.32894
@@ -9673,6 +10294,7 @@ regions:
           - Bostanci
           - Bostancı
           - Rihani
+          - Rihanı
         ascii_name: Bostanci
         geonamesid: 320835
         latitude: 37.18
@@ -9687,6 +10309,7 @@ regions:
           - Bogazoren
           - Boğazören
           - Gelgetir
+          - Kel'ketir
         ascii_name: Bogazoren
         geonamesid: 320942
         latitude: 37.52917
@@ -9701,6 +10324,7 @@ regions:
           - Beyt-Esh-Shebab
           - Beytisebab
           - Beytisebap
+          - Beytişebab
         ascii_name: Beytussebap
         geonamesid: 321184
         latitude: 37.56944
@@ -9715,6 +10339,7 @@ regions:
           - Baglica
           - Bağlıca
           - Inceler
+          - Kadinuk
         ascii_name: Baglica
         geonamesid: 322462
         latitude: 37.43333
@@ -9729,6 +10354,7 @@ regions:
           - Alaman
           - Alamon
           - Alamun
+          - Andac
         ascii_name: Andac
         geonamesid: 323806
         latitude: 37.35528
@@ -9809,8 +10435,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 443189
     name: Şırnak
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Şırnak Province"
+      - Şırnak
+    names_es: 
+      - "Provincia de Şırnak"
   - 
     ascii_name: Kilis
     cities: 
@@ -9838,7 +10467,8 @@ regions:
         latitude: 36.71611
         longitude: 37.115
         name: Kilis
-        names_en: ~
+        names_en: 
+          - Kilis
         names_es: ~
         population: 82301
         timezone: Europe/Istanbul
@@ -9857,8 +10487,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 443213
     name: Kilis
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kilis Province"
+      - Kilis
+    names_es: 
+      - "Provincia de Kilis"
   - 
     ascii_name: Zonguldak
     cities: 
@@ -9881,6 +10514,7 @@ regions:
           - "Bender Erekli"
           - Bender-Eregli
           - Bender-Ereğli
+          - Ehregli
         ascii_name: Eregli
         geonamesid: 747471
         latitude: 41.28262
@@ -9921,6 +10555,7 @@ regions:
           - Alapli
           - Alaplı
           - Yukaridogancilar
+          - Yukaridogncilar
         ascii_name: Alapli
         geonamesid: 752184
         latitude: 41.1694
@@ -9932,7 +10567,8 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 737021
     name: Zonguldak
-    names_en: ~
+    names_en: 
+      - Zonguldak
     names_es: ~
   - 
     ascii_name: Trabzon
@@ -9966,13 +10602,17 @@ regions:
           - Atrabazandah
           - TRABZON
           - Tarabazandah
+          - Tirabson
         ascii_name: Trabzon
         geonamesid: 738648
         latitude: 41.005
         longitude: 39.72694
         name: Trabzon
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Trabzon
+        names_es: 
+          - Trapisonda
+          - Trebisonda
         population: 244083
         timezone: Europe/Istanbul
       - 
@@ -9993,12 +10633,14 @@ regions:
           - Hamurgan
           - Hamurgân
           - Homurgan
+          - Humurgan
         ascii_name: Surmene
         geonamesid: 739215
         latitude: 40.91258
         longitude: 40.11676
         name: Sürmene
-        names_en: ~
+        names_en: 
+          - Sürmene
         names_es: ~
         population: 20039
         timezone: Europe/Istanbul
@@ -10007,6 +10649,7 @@ regions:
           - Kirec
           - Kireç
           - Salpazari
+          - Şalpazarı
         ascii_name: Salpazari
         geonamesid: 740303
         latitude: 40.94111
@@ -10021,12 +10664,14 @@ regions:
           - OF
           - Of
           - "Off"
+          - Ophius
         ascii_name: Of
         geonamesid: 741240
         latitude: 40.94458
         longitude: 40.26746
         name: Of
-        names_en: ~
+        names_en: 
+          - Of
         names_es: ~
         population: 31951
         timezone: Europe/Istanbul
@@ -10035,12 +10680,15 @@ regions:
           - Cevizlik
           - MACHKA
           - Macka
+          - Matsouka
         ascii_name: Macka
         geonamesid: 741850
         latitude: 40.81861
         longitude: 39.61361
         name: Maçka
-        names_en: ~
+        names_en: 
+          - Matsouka
+          - Tzevislik
         names_es: ~
         population: 13078
         timezone: Europe/Istanbul
@@ -10049,6 +10697,7 @@ regions:
           - Koprubasi
           - Köprübaşı
           - "Sarki Gonesera"
+          - "Sarki Gonesra"
         ascii_name: Koprubasi
         geonamesid: 742686
         latitude: 40.80858
@@ -10063,6 +10712,7 @@ regions:
           - Gunesalan
           - Güneşalan
           - Hayrat
+          - Nefsihundez
         ascii_name: Hayrat
         geonamesid: 745693
         latitude: 40.88844
@@ -10099,6 +10749,7 @@ regions:
           - Caykara
           - Ciftesu
           - Kadahor
+          - Çaykara
         ascii_name: Caykara
         geonamesid: 749456
         latitude: 40.75481
@@ -10113,12 +10764,14 @@ regions:
           - Carsibasi
           - Charshibashi
           - Iskefiye
+          - Skefe
         ascii_name: Skefe
         geonamesid: 749701
         latitude: 41.08278
         longitude: 39.38278
         name: Skefe
-        names_en: ~
+        names_en: 
+          - Çarşıbaşı
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -10127,6 +10780,7 @@ regions:
           - Besikduzu
           - Beşikdüzü
           - Sarli
+          - Şarlı
         ascii_name: Besikduzu
         geonamesid: 750735
         latitude: 41.05199
@@ -10141,6 +10795,7 @@ regions:
           - "Arseni Zir"
           - Arsin
           - "Asagi Arsin"
+          - "Aşağı Arsin"
         ascii_name: Arsin
         geonamesid: 751838
         latitude: 40.94958
@@ -10155,6 +10810,7 @@ regions:
           - Arakli
           - "Arakli Carsusu"
           - Araklicarsisi
+          - Araklı
         ascii_name: Arakli
         geonamesid: 751971
         latitude: 40.93854
@@ -10169,19 +10825,24 @@ regions:
           - AKCHAABAD
           - Akcaabat
           - Akçaabat
+          - Hermonassus
         ascii_name: Akcaabat
         geonamesid: 752627
         latitude: 41.0212
         longitude: 39.57146
         name: Akçaabat
-        names_en: ~
+        names_en: 
+          - Akçaabat
         names_es: ~
         population: 45105
         timezone: Europe/Istanbul
     geonamesid: 738647
     name: Trabzon
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Trabzon Province"
+      - Trabzon
+    names_es: 
+      - "Provincia de Trabzon"
   - 
     ascii_name: Tokat
     cities: 
@@ -10204,6 +10865,7 @@ regions:
           - Arabacimusa
           - Arabacımusa
           - Yesilyurt
+          - Yeşilyurt
         ascii_name: Yesilyurt
         geonamesid: 323751
         latitude: 40.0064
@@ -10232,6 +10894,7 @@ regions:
           - Ciprek
           - Sargon
           - Sargun
+          - Yesilyurt
         ascii_name: Yesilyurt
         geonamesid: 737529
         latitude: 40.32786
@@ -10251,7 +10914,8 @@ regions:
         latitude: 40.3875
         longitude: 36.08111
         name: Turhal
-        names_en: ~
+        names_en: 
+          - Turhal
         names_es: ~
         population: 110884
         timezone: Europe/Istanbul
@@ -10260,13 +10924,16 @@ regions:
           - Dazimon
           - "Provincia de Tokat"
           - TOKAT
+          - Tokat
         ascii_name: Tokat
         geonamesid: 738743
         latitude: 40.31389
         longitude: 36.55444
         name: Tokat
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Tokat Province"
+        names_es: 
+          - "Provincia de Tokat"
         population: 129702
         timezone: Europe/Istanbul
       - 
@@ -10274,12 +10941,14 @@ regions:
           - RESHADIE
           - Resadiye
           - Reşadiye
+          - РЕШАДИЕ
         ascii_name: Resadiye
         geonamesid: 740490
         latitude: 40.39194
         longitude: 37.3375
         name: Reşadiye
-        names_en: ~
+        names_en: 
+          - Reşadiye
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -10292,7 +10961,8 @@ regions:
         latitude: 40.27652
         longitude: 36.28347
         name: Pazar
-        names_en: ~
+        names_en: 
+          - Pazar
         names_es: ~
         population: 5105
         timezone: Europe/Istanbul
@@ -10301,12 +10971,14 @@ regions:
           - Cabeira
           - Diospolis
           - NIKSAR
+          - Neocaesarea
         ascii_name: Niksar
         geonamesid: 741304
         latitude: 40.59167
         longitude: 36.95167
         name: Niksar
-        names_en: ~
+        names_en: 
+          - Niksar
         names_es: ~
         population: 49865
         timezone: Europe/Istanbul
@@ -10315,12 +10987,14 @@ regions:
           - EHRBA
           - Erbaa
           - Herek
+          - ЭРБА
         ascii_name: Erbaa
         geonamesid: 747489
         latitude: 40.66889
         longitude: 36.5675
         name: Erbaa
-        names_en: ~
+        names_en: 
+          - Erbaa
         names_es: ~
         population: 52185
         timezone: Europe/Istanbul
@@ -10329,6 +11003,7 @@ regions:
           - Basciftlik
           - "Basciftlik Koyu"
           - Başçiftlik
+          - "Başçiftlik Köyü"
         ascii_name: Basciftlik
         geonamesid: 751036
         latitude: 40.54694
@@ -10343,12 +11018,14 @@ regions:
           - ARTOVA
           - Artova
           - Kunduz
+          - АРТОВА
         ascii_name: Artova
         geonamesid: 751818
         latitude: 40.11578
         longitude: 36.3001
         name: Artova
-        names_en: ~
+        names_en: 
+          - Artova
         names_es: ~
         population: 6231
         timezone: Europe/Istanbul
@@ -10357,12 +11034,14 @@ regions:
           - ALMUS
           - Almis
           - Almus
+          - Almıs
         ascii_name: Almus
         geonamesid: 752083
         latitude: 40.37583
         longitude: 36.90444
         name: Almus
-        names_en: ~
+        names_en: 
+          - Almus
         names_es: ~
         population: 6303
         timezone: Europe/Istanbul
@@ -10378,12 +11057,14 @@ regions:
           - Bisanthe
           - Rhaedestus
           - Rodoscuk
+          - Rodosto
         ascii_name: Tekirdag
         geonamesid: 738927
         latitude: 40.97801
         longitude: 27.50852
         name: Tekirdağ
-        names_en: ~
+        names_en: 
+          - Tekirdağ
         names_es: ~
         population: 122287
         timezone: Europe/Istanbul
@@ -10392,6 +11073,7 @@ regions:
           - Eregli
           - Erekli
           - Ereğli
+          - Heraclea
         ascii_name: Marmaraereglisi
         geonamesid: 741725
         latitude: 40.97003
@@ -10406,6 +11088,7 @@ regions:
           - Malkara
           - Megalohora
           - Migalogora
+          - Малкара
         ascii_name: Malkara
         geonamesid: 741771
         latitude: 40.89
@@ -10432,12 +11115,14 @@ regions:
           - Chorlu
           - Corlu
           - Tzirallum
+          - Tzurullum
         ascii_name: Corlu
         geonamesid: 748893
         latitude: 41.15917
         longitude: 27.8
         name: Çorlu
-        names_en: ~
+        names_en: 
+          - Çorlu
         names_es: ~
         population: 202578
         timezone: Europe/Istanbul
@@ -10446,19 +11131,24 @@ regions:
           - Cerkeskoy
           - Cerkezkoey
           - Cerkezkoy
+          - Hayrabolu
         ascii_name: Cerkezkoy
         geonamesid: 749274
         latitude: 41.285
         longitude: 28.00028
         name: Çerkezköy
-        names_en: ~
+        names_en: 
+          - Çerkezköy
         names_es: ~
         population: 67078
         timezone: Europe/Istanbul
     geonamesid: 738926
     name: Tekirdağ
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Tekirdağ Province"
+      - Tekirdağ
+    names_es: 
+      - "Provincia de Tekirdağ"
   - 
     ascii_name: Sinop
     cities: 
@@ -10467,6 +11157,7 @@ regions:
           - Gemiyani
           - Gemiyanı
           - Turkeli
+          - Türkeli
         ascii_name: Turkeli
         geonamesid: 738614
         latitude: 41.94764
@@ -10481,13 +11172,16 @@ regions:
           - Sanub
           - Sinob
           - Sinop
+          - Sinope
         ascii_name: Sinop
         geonamesid: 739600
         latitude: 42.03087
         longitude: 35.17124
         name: Sinop
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sinop
+        names_es: 
+          - Sinop
         population: 34834
         timezone: Europe/Istanbul
       - 
@@ -10495,6 +11189,7 @@ regions:
           - Carusa
           - Gerze
           - Gherseh
+          - Gherzeh
         ascii_name: Gerze
         geonamesid: 746913
         latitude: 41.80361
@@ -10548,6 +11243,7 @@ regions:
           - Ayancik
           - Ayancık
           - Istifan
+          - İstifan
         ascii_name: Ayancik
         geonamesid: 751516
         latitude: 41.94472
@@ -10559,8 +11255,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 739598
     name: Sinop
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Sinop Province"
+      - Sinop
+    names_es: 
+      - "Provincia de Sinop"
   - 
     ascii_name: Samsun
     cities: 
@@ -10582,6 +11281,7 @@ regions:
           - Gemenue
           - Gumenuz
           - Gümenüz
+          - Yakakent
         ascii_name: Yakakent
         geonamesid: 738085
         latitude: 41.6325
@@ -10596,6 +11296,7 @@ regions:
           - Koeprue
           - Köprü
           - Vezirkeprju
+          - Vezirkopru
         ascii_name: Vezirkopru
         geonamesid: 738167
         latitude: 41.14361
@@ -10615,7 +11316,8 @@ regions:
         latitude: 41.20917
         longitude: 36.97389
         name: Terme
-        names_en: ~
+        names_en: 
+          - Terme
         names_es: ~
         population: 28397
         timezone: Europe/Istanbul
@@ -10624,12 +11326,14 @@ regions:
           - Tekke
           - Tekkekej
           - Tekkekoey
+          - Tekkekoy
         ascii_name: Tekkekoy
         geonamesid: 738907
         latitude: 41.21167
         longitude: 36.46
         name: Tekkeköy
-        names_en: ~
+        names_en: 
+          - Tekkeköy
         names_es: ~
         population: 17226
         timezone: Europe/Istanbul
@@ -10638,13 +11342,16 @@ regions:
           - Amisus
           - Djanik
           - Janik
+          - SAMSUN
         ascii_name: Samsun
         geonamesid: 740264
         latitude: 41.28667
         longitude: 36.33
         name: Samsun
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Samsun
+        names_es: 
+          - Samsun
         population: 394050
         timezone: Europe/Istanbul
       - 
@@ -10671,7 +11378,8 @@ regions:
         latitude: 41.07833
         longitude: 36.0425
         name: Kavak
-        names_en: ~
+        names_en: 
+          - Kavak
         names_es: ~
         population: 9042
         timezone: Europe/Istanbul
@@ -10680,6 +11388,7 @@ regions:
           - Havza
           - Khavza
           - "Thermae Phazemonitarum"
+          - Хавза
         ascii_name: Havza
         geonamesid: 745714
         latitude: 40.97056
@@ -10694,12 +11403,14 @@ regions:
           - CHARSHAMBA
           - Carsamba
           - Carsampa
+          - Carsanba
         ascii_name: Carsamba
         geonamesid: 749704
         latitude: 41.19889
         longitude: 36.72194
         name: Çarşamba
-        names_en: ~
+        names_en: 
+          - Çarşamba
         names_es: ~
         population: 50459
         timezone: Europe/Istanbul
@@ -10708,6 +11419,7 @@ regions:
           - Asarcik
           - Asarcık
           - Bicincik
+          - Biçincik
         ascii_name: Asarcik
         geonamesid: 750615
         latitude: 41.03556
@@ -10722,6 +11434,7 @@ regions:
           - "19 Mayis"
           - "19 Mayıs"
           - Ballica
+          - Ballıca
         ascii_name: Ondokuzmayis
         geonamesid: 751103
         latitude: 41.5011
@@ -10763,6 +11476,7 @@ regions:
           - Alacam
           - Alacham
           - Alaçam
+          - Zalecus
         ascii_name: Alacam
         geonamesid: 752259
         latitude: 41.60556
@@ -10785,8 +11499,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 740263
     name: Samsun
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Samsun Province"
+      - Samsun
+    names_es: 
+      - "Provincia de Samsun"
   - 
     ascii_name: Sakarya
     cities: 
@@ -10795,6 +11512,7 @@ regions:
           - Tarakli
           - Taraklı
           - traqly
+          - طراقلی
         ascii_name: Tarakli
         geonamesid: 739107
         latitude: 40.39694
@@ -10834,6 +11552,7 @@ regions:
           - Akhisar
           - Pamukova
           - Sakaryaakhisar
+          - Sakaryaakhisari
         ascii_name: Pamukova
         geonamesid: 740729
         latitude: 40.5081
@@ -10848,6 +11567,7 @@ regions:
           - Kocaali
           - Kocali
           - Kocalı
+          - "Yukari Kocaali"
         ascii_name: Kocaali
         geonamesid: 742902
         latitude: 41.05336
@@ -10862,6 +11582,7 @@ regions:
           - Kaynarca
           - "Kucuk Kaynarca"
           - "Küçük Kaynarca"
+          - Seyhler
         ascii_name: Kaynarca
         geonamesid: 743633
         latitude: 41.03083
@@ -10914,6 +11635,7 @@ regions:
           - Geiveh
           - Geyve
           - Tottaeum
+          - kywh
         ascii_name: Geyve
         geonamesid: 746898
         latitude: 40.5075
@@ -10954,19 +11676,24 @@ regions:
           - "Ada Bazar"
           - Adapazari
           - Adapazarı
+          - Sakar'ja
         ascii_name: Adapazari
         geonamesid: 752850
         latitude: 40.78056
         longitude: 30.40333
         name: Adapazarı
-        names_en: ~
+        names_en: 
+          - Adapazarı
         names_es: ~
         population: 286787
         timezone: Europe/Istanbul
     geonamesid: 740352
     name: Sakarya
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Sakarya Province"
+      - Sakarya
+    names_es: 
+      - "Provincia de Sakarya"
   - 
     ascii_name: Rize
     cities: 
@@ -10975,13 +11702,16 @@ regions:
           - Bechirias
           - Corum
           - "Provinsi Rize"
+          - RIZE
         ascii_name: Rize
         geonamesid: 740483
         latitude: 41.02083
         longitude: 40.52194
         name: Rize
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rize
+        names_es: 
+          - Rize
         population: 92772
         timezone: Europe/Istanbul
       - 
@@ -10989,12 +11719,14 @@ regions:
           - Athenae
           - Atina
           - Buleb
+          - Kizkalessi
         ascii_name: Pazar
         geonamesid: 740675
         latitude: 41.17917
         longitude: 40.88417
         name: Pazar
-        names_en: ~
+        names_en: 
+          - Pazar
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -11003,6 +11735,7 @@ regions:
           - Hemsin
           - Hemşin
           - Ortakoy
+          - Ortaköy
         ascii_name: Hemsin
         geonamesid: 740941
         latitude: 41.05019
@@ -11017,12 +11750,14 @@ regions:
           - Kalkandere
           - Karadere
           - Medrese
+          - Медресе
         ascii_name: Kalkandere
         geonamesid: 744767
         latitude: 40.92804
         longitude: 40.4419
         name: Kalkandere
-        names_en: ~
+        names_en: 
+          - Kalkandere
         names_es: ~
         population: 9115
         timezone: Europe/Istanbul
@@ -11031,6 +11766,7 @@ regions:
           - Ficibasi
           - Ficitasi
           - Fıçıbaşı
+          - Fıçıtaşı
         ascii_name: Iyidere
         geonamesid: 745030
         latitude: 41.01192
@@ -11045,12 +11781,14 @@ regions:
           - "Cagiran Kaya"
           - Cagrankaya
           - Cağrankaya
+          - "Cağıran Kaya"
         ascii_name: Ikizdere
         geonamesid: 745362
         latitude: 40.77913
         longitude: 40.55888
         name: İkizdere
-        names_en: ~
+        names_en: 
+          - İkizdere
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -11112,6 +11850,7 @@ regions:
           - Caybasi
           - Cayeli
           - Mapavri
+          - Mapavrı
         ascii_name: Cayeli
         geonamesid: 749502
         latitude: 41.09228
@@ -11126,6 +11865,7 @@ regions:
           - Camlihemsin
           - Viceulya
           - Viçeülya
+          - Yukarivice
         ascii_name: Camlihemsin
         geonamesid: 749841
         latitude: 41.03028
@@ -11140,12 +11880,14 @@ regions:
           - ARDESHEN
           - Ardasen
           - Ardaşen
+          - Ardesen
         ascii_name: Ardesen
         geonamesid: 751949
         latitude: 41.19111
         longitude: 40.9875
         name: Ardeşen
-        names_en: ~
+        names_en: 
+          - Ardeşen
         names_es: ~
         population: 67965
         timezone: Europe/Istanbul
@@ -11161,6 +11903,7 @@ regions:
           - Oenoe
           - Onieh
           - Un'e
+          - Unia
         ascii_name: Unieh
         geonamesid: 738349
         latitude: 41.13139
@@ -11175,12 +11918,14 @@ regions:
           - Gunduzlu
           - Gündüzlü
           - ULUBEI
+          - Ulubey
         ascii_name: Ulubey
         geonamesid: 738444
         latitude: 40.87214
         longitude: 37.75876
         name: Ulubey
-        names_en: ~
+        names_en: 
+          - Ulubey
         names_es: ~
         population: 8626
         timezone: Europe/Istanbul
@@ -11189,12 +11934,14 @@ regions:
           - Gulyali
           - Gülyalı
           - Mustafaly
+          - Turnasuyu
         ascii_name: Gulyali
         geonamesid: 738583
         latitude: 40.96648
         longitude: 38.06101
         name: Gülyalı
-        names_en: ~
+        names_en: 
+          - Turnasuyu
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -11203,12 +11950,14 @@ regions:
           - PERSHEMBE
           - Persembe
           - Perşembe
+          - Vona
         ascii_name: Persembe
         geonamesid: 740605
         latitude: 41.06556
         longitude: 37.77139
         name: Perşembe
-        names_en: ~
+        names_en: 
+          - Perşembe
         names_es: ~
         population: 11808
         timezone: Europe/Istanbul
@@ -11217,12 +11966,14 @@ regions:
           - Cotyora
           - ORDU
           - Ordu
+          - ОРДУ
         ascii_name: Ordu
         geonamesid: 741100
         latitude: 40.98472
         longitude: 37.87889
         name: Ordu
-        names_en: ~
+        names_en: 
+          - Ordu
         names_es: ~
         population: 116788
         timezone: Europe/Istanbul
@@ -11231,12 +11982,14 @@ regions:
           - Hamidiye
           - MESUDIE
           - Melet
+          - Mesudiye
         ascii_name: Mesudiye
         geonamesid: 741570
         latitude: 40.4625
         longitude: 37.7725
         name: Mesudiye
-        names_en: ~
+        names_en: 
+          - Mesudiye
         names_es: ~
         population: 6581
         timezone: Europe/Istanbul
@@ -11245,12 +11998,14 @@ regions:
           - KUMRU
           - Karacali
           - Karacalı
+          - Kumru
         ascii_name: Kumru
         geonamesid: 742238
         latitude: 40.87444
         longitude: 37.26389
         name: Kumru
-        names_en: ~
+        names_en: 
+          - Kumru
         names_es: ~
         population: 32174
         timezone: Europe/Istanbul
@@ -11264,7 +12019,8 @@ regions:
         latitude: 40.82472
         longitude: 37.34667
         name: Korgan
-        names_en: ~
+        names_en: 
+          - Korgan
         names_es: ~
         population: 16733
         timezone: Europe/Istanbul
@@ -11287,12 +12043,14 @@ regions:
           - Kabadjuz
           - Kabaduez
           - Kabaduz
+          - Kabadüz
         ascii_name: Kabaduz
         geonamesid: 745007
         latitude: 40.85972
         longitude: 37.89
         name: Kabadüz
-        names_en: ~
+        names_en: 
+          - Kabadüz
         names_es: ~
         population: 3642
         timezone: Europe/Istanbul
@@ -11301,6 +12059,7 @@ regions:
           - Ikizce
           - Lalelimaabeyceli
           - Lalelimabeyceli
+          - Lâlelimaabeyceli
         ascii_name: Ikizce
         geonamesid: 745364
         latitude: 41.05833
@@ -11329,6 +12088,7 @@ regions:
           - Golkoy
           - Gölköy
           - Kusluvan
+          - Kusluyan
         ascii_name: Golkoy
         geonamesid: 746628
         latitude: 40.6875
@@ -11343,12 +12103,14 @@ regions:
           - FATSA
           - Fatisa
           - Fatsa
+          - Fatseh
         ascii_name: Fatsa
         geonamesid: 747155
         latitude: 41.02778
         longitude: 37.50139
         name: Fatsa
-        names_en: ~
+        names_en: 
+          - Fatsa
         names_es: ~
         population: 82160
         timezone: Europe/Istanbul
@@ -11368,6 +12130,7 @@ regions:
           - Camas
           - Urmeli
           - Çamaş
+          - Ürmeli
         ascii_name: Camas
         geonamesid: 749916
         latitude: 40.90167
@@ -11382,12 +12145,14 @@ regions:
           - AJBASTY
           - Aybasti
           - Aybastı
+          - Esenli
         ascii_name: Aybasti
         geonamesid: 751503
         latitude: 40.68667
         longitude: 37.39917
         name: Aybastı
-        names_en: ~
+        names_en: 
+          - Aybastı
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -11396,12 +12161,14 @@ regions:
           - AKKUSH
           - Akkus
           - Akkuş
+          - АККУШ
         ascii_name: Akkus
         geonamesid: 752437
         latitude: 40.79306
         longitude: 37.01639
         name: Akkuş
-        names_en: ~
+        names_en: 
+          - Akkuş
         names_es: ~
         population: 10206
         timezone: Europe/Istanbul
@@ -11418,8 +12185,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 741098
     name: Ordu
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Ordu Province"
+      - Ordu
+    names_es: 
+      - "Provincia de Ordu"
   - 
     ascii_name: Kocaeli
     cities: 
@@ -11439,6 +12209,7 @@ regions:
           - Korfez
           - Körfez
           - Yaremdji
+          - Yarimca
         ascii_name: Korfez
         geonamesid: 737961
         latitude: 40.77667
@@ -11453,6 +12224,7 @@ regions:
           - Merdigoz
           - Merdigöz
           - Yalakdera
+          - Yalakdere
         ascii_name: Yalakdere
         geonamesid: 738055
         latitude: 40.60472
@@ -11467,6 +12239,7 @@ regions:
           - Asagiulasli
           - Aşağıulaşlı
           - Ulasli
+          - Ulaşlı
         ascii_name: Ulasli
         geonamesid: 738457
         latitude: 40.70583
@@ -11492,6 +12265,7 @@ regions:
           - Tavsancil
           - Tavshanjik
           - Tavşancıl
+          - Towshanjik
         ascii_name: Tavsancil
         geonamesid: 738965
         latitude: 40.77083
@@ -11517,6 +12291,7 @@ regions:
           - Kose
           - Kosekoy
           - Köse
+          - Köseköy
         ascii_name: Kosekoy
         geonamesid: 742588
         latitude: 40.75339
@@ -11558,12 +12333,14 @@ regions:
           - Astacus
           - Cocaeli
           - Ismid
+          - Ismit
         ascii_name: Izmit
         geonamesid: 745028
         latitude: 40.76694
         longitude: 29.91694
         name: İzmit
-        names_en: ~
+        names_en: 
+          - İzmit
         names_es: ~
         population: 196571
         timezone: Europe/Istanbul
@@ -11597,12 +12374,14 @@ regions:
           - Gebze
           - Guebze
           - kkbwzh
+          - Гебзе
         ascii_name: Gebze
         geonamesid: 747014
         latitude: 40.80276
         longitude: 29.43068
         name: Gebze
-        names_en: ~
+        names_en: 
+          - Gebze
         names_es: ~
         population: 281436
         timezone: Europe/Istanbul
@@ -11658,7 +12437,9 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 742865
     name: Kocaeli
-    names_en: ~
+    names_en: 
+      - "Kocaeli Province"
+      - Kocaeli
     names_es: ~
   - 
     ascii_name: Kirklareli
@@ -11709,12 +12490,14 @@ regions:
           - Arcadiopolis
           - Bergula
           - Ljuleburgas
+          - Ljuleburgaz
         ascii_name: Luleburgaz
         geonamesid: 741855
         latitude: 41.40385
         longitude: 27.35918
         name: Luleburgaz
-        names_en: ~
+        names_en: 
+          - Lüleburgaz
         names_es: ~
         population: 90899
         timezone: Europe/Istanbul
@@ -11723,6 +12506,7 @@ regions:
           - Kesirlik
           - Keşirlik
           - Kofcagiz
+          - Kofcaz
         ascii_name: Kofcaz
         geonamesid: 742794
         latitude: 41.94481
@@ -11737,13 +12521,16 @@ regions:
           - "Kirk Kilise"
           - "Kirk Kilisse"
           - Kirk-Kilissa
+          - Kirklareli
         ascii_name: Kirklareli
         geonamesid: 743166
         latitude: 41.73508
         longitude: 27.22521
         name: Kırklareli
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kırklareli
+        names_es: 
+          - Kırklareli
         population: 58223
         timezone: Europe/Istanbul
       - 
@@ -11762,7 +12549,9 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 743165
     name: Kırklareli
-    names_en: ~
+    names_en: 
+      - "Kırklareli Province"
+      - Kırklareli
     names_es: ~
   - 
     ascii_name: Kastamonu
@@ -11772,6 +12561,7 @@ regions:
           - Docea
           - Tosja
           - Tosya
+          - Тося
         ascii_name: Tosya
         geonamesid: 738662
         latitude: 41.02818
@@ -11808,6 +12598,7 @@ regions:
           - Pinarbasi
           - Pınarbaşı
           - Tekkesin
+          - Tekkeşin
         ascii_name: Pinarbasi
         geonamesid: 740581
         latitude: 41.60093
@@ -11833,12 +12624,14 @@ regions:
           - Castamon
           - Castamoni
           - Castamuni
+          - Kastambul
         ascii_name: Kastamonu
         geonamesid: 743882
         latitude: 41.37805
         longitude: 33.77528
         name: Kastamonu
-        names_en: ~
+        names_en: 
+          - Kastamonu
         names_es: ~
         population: 70402
         timezone: Europe/Istanbul
@@ -11847,12 +12640,14 @@ regions:
           - Abonutichus
           - Ineboli
           - Inebolu
+          - Inebolua
         ascii_name: Inebolu
         geonamesid: 745175
         latitude: 41.97472
         longitude: 33.76083
         name: İnebolu
-        names_en: ~
+        names_en: 
+          - İnebolu
         names_es: ~
         population: 9935
         timezone: Europe/Istanbul
@@ -11861,6 +12656,7 @@ regions:
           - Ihsangazi
           - Merguze
           - Mergüze
+          - İhsangazi
         ascii_name: Ihsangazi
         geonamesid: 745387
         latitude: 41.183
@@ -11875,6 +12671,7 @@ regions:
           - Gokceagac
           - Gökçeağaç
           - Hanonu
+          - Hanönü
         ascii_name: Hanonu
         geonamesid: 745884
         latitude: 41.62705
@@ -11889,6 +12686,7 @@ regions:
           - Doganujurt
           - Doganyurt
           - Doğanyurt
+          - Hosalay
         ascii_name: Doganyurt
         geonamesid: 747978
         latitude: 42.0
@@ -11928,6 +12726,7 @@ regions:
           - Pazaryeri
           - Persembe
           - Persenbe
+          - Perşembe
         ascii_name: Bozkurt
         geonamesid: 750392
         latitude: 41.95
@@ -11942,6 +12741,7 @@ regions:
           - Azdavay
           - Carsamba
           - Carsanba
+          - Çarsanba
         ascii_name: Azdavay
         geonamesid: 751388
         latitude: 41.64267
@@ -11979,8 +12779,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 743881
     name: Kastamonu
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kastamonu Province"
+      - Kastamonu
+    names_es: 
+      - "Provincia de Kastamonu"
   - 
     ascii_name: Kars
     cities: 
@@ -12008,7 +12811,8 @@ regions:
         latitude: 40.46326
         longitude: 42.78395
         name: Selim
-        names_en: ~
+        names_en: 
+          - Selim
         names_es: ~
         population: 4557
         timezone: Europe/Istanbul
@@ -12017,12 +12821,14 @@ regions:
           - SARYKAMYSH
           - Sarikamis
           - Sarıkamış
+          - САРЫКАМЫШ
         ascii_name: Sarikamis
         geonamesid: 740088
         latitude: 40.33806
         longitude: 42.57306
         name: Sarıkamış
-        names_en: ~
+        names_en: 
+          - Sarıkamış
         names_es: ~
         population: 23665
         timezone: Europe/Istanbul
@@ -12031,13 +12837,16 @@ regions:
           - Cars
           - KARS
           - Kapc
+          - Kars
         ascii_name: Kars
         geonamesid: 743952
         latitude: 40.60199
         longitude: 43.09495
         name: Kars
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kars
+        names_es: 
+          - Kars
         population: 77486
         timezone: Europe/Istanbul
       - 
@@ -12045,12 +12854,14 @@ regions:
           - KAGYZMAN
           - Kagizman
           - Kağızman
+          - КАГЫЗМАН
         ascii_name: Kagizman
         geonamesid: 744873
         latitude: 40.15669
         longitude: 43.13424
         name: Kağızman
-        names_en: ~
+        names_en: 
+          - Kağızman
         names_es: ~
         population: 25157
         timezone: Europe/Istanbul
@@ -12064,7 +12875,8 @@ regions:
         latitude: 40.37472
         longitude: 43.41278
         name: Digor
-        names_en: ~
+        names_en: 
+          - Digor
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -12073,12 +12885,14 @@ regions:
           - ARPACHAJ
           - Arpacay
           - Arpaçay
+          - Sarusat
         ascii_name: Arpacay
         geonamesid: 751864
         latitude: 40.8487
         longitude: 43.32911
         name: Arpaçay
-        names_en: ~
+        names_en: 
+          - Arpaçay
         names_es: ~
         population: 5126
         timezone: Europe/Istanbul
@@ -12087,12 +12901,14 @@ regions:
           - Ak"jaka
           - Akkaya
           - Akyaka
+          - "Kizil Cnakh"
         ascii_name: Akyaka
         geonamesid: 752297
         latitude: 40.73645
         longitude: 43.62665
         name: Akyaka
-        names_en: ~
+        names_en: 
+          - Akyaka
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -12168,12 +12984,14 @@ regions:
           - Selymbria
           - Siliviri
           - Silivri
+          - slwry
         ascii_name: Silivri
         geonamesid: 739634
         latitude: 41.08022
         longitude: 28.22605
         name: Silivri
-        names_en: ~
+        names_en: 
+          - Siliviri
         names_es: ~
         population: 53167
         timezone: Europe/Istanbul
@@ -12182,6 +13000,7 @@ regions:
           - Artane
           - Chile
           - Kilia
+          - Schile
         ascii_name: Sile
         geonamesid: 739636
         latitude: 41.1754
@@ -12196,6 +13015,7 @@ regions:
           - Bigados
           - Bigadoş
           - Boados
+          - Boghados
         ascii_name: Selimpasa
         geonamesid: 739838
         latitude: 41.05584
@@ -12257,6 +13077,7 @@ regions:
           - Fetekoy
           - Feteköy
           - Kavakli
+          - Kavakly
         ascii_name: Kavakli
         geonamesid: 743818
         latitude: 41.09258
@@ -12282,13 +13103,19 @@ regions:
           - Bizanc
           - Bizánc
           - Byzance
+          - Byzantio
         ascii_name: Istanbul
         geonamesid: 745044
         latitude: 41.01384
         longitude: 28.94966
         name: İstanbul
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Constantinople
+          - Byzantium
+          - Istanbul
+        names_es: 
+          - Constantinopla
+          - Estambul
         population: 11174257
         timezone: Europe/Istanbul
       - 
@@ -12296,6 +13123,7 @@ regions:
           - Anarsa
           - Anarşa
           - Gjurpynar
+          - Gurpinar
         ascii_name: Gurpinar
         geonamesid: 746234
         latitude: 40.99028
@@ -12310,6 +13138,7 @@ regions:
           - Eksinoz
           - Ekşinoz
           - Esenyurt
+          - Eskiyuz
         ascii_name: Esenyurt
         geonamesid: 747323
         latitude: 41.03333
@@ -12349,6 +13178,7 @@ regions:
           - Catalca
           - Chataldja
           - Chatalja
+          - Tchataldja
         ascii_name: Catalca
         geonamesid: 749644
         latitude: 41.14324
@@ -12363,6 +13193,7 @@ regions:
           - Canta
           - Cantakoy
           - Çanta
+          - Çantaköy
         ascii_name: Canta
         geonamesid: 749740
         latitude: 41.11814
@@ -12388,6 +13219,7 @@ regions:
           - Boyalik
           - Boyalık
           - Hadimkoy
+          - Hadımköy
         ascii_name: Boyalik
         geonamesid: 750446
         latitude: 41.26337
@@ -12402,6 +13234,7 @@ regions:
           - Bagcilar
           - Bağcılar
           - Cifitburgaz
+          - Ciftburgaz
         ascii_name: Bagcilar
         geonamesid: 751324
         latitude: 41.03903
@@ -12438,12 +13271,14 @@ regions:
           - Ichlemer
           - Ichmeler
           - Icmeler
+          - İçmeler
         ascii_name: Icmeler
         geonamesid: 862944
         latitude: 40.84639
         longitude: 29.30889
         name: İçmeler
-        names_en: ~
+        names_en: 
+          - Ichlemer
         names_es: ~
         population: 1367
         timezone: Europe/Istanbul
@@ -12548,8 +13383,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 745042
     name: Istanbul
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Istanbul
+      - "Istanbul Province"
+    names_es: 
+      - "Provincia de Estambul"
   - 
     ascii_name: Guemueshane
     cities: 
@@ -12569,12 +13407,14 @@ regions:
           - Ardasa
           - TORUL
           - Torul
+          - ТОРУЛ
         ascii_name: Torul
         geonamesid: 738668
         latitude: 40.55805
         longitude: 39.2936
         name: Torul
-        names_en: ~
+        names_en: 
+          - Torul
         names_es: ~
         population: 4832
         timezone: Europe/Istanbul
@@ -12583,12 +13423,14 @@ regions:
           - Karaca
           - SHIRAN
           - Siran
+          - Şiran
         ascii_name: Siran
         geonamesid: 739574
         latitude: 40.18944
         longitude: 39.12667
         name: Şiran
-        names_en: ~
+        names_en: 
+          - Şiran
         names_es: ~
         population: 14692
         timezone: Europe/Istanbul
@@ -12608,12 +13450,14 @@ regions:
           - Ciftlik
           - KEL'KIT
           - Kelkit
+          - klkyt
         ascii_name: Kelkit
         geonamesid: 743537
         latitude: 40.12978
         longitude: 39.43607
         name: Kelkit
-        names_en: ~
+        names_en: 
+          - Kelkit
         names_es: ~
         population: 23870
         timezone: Europe/Istanbul
@@ -12622,12 +13466,14 @@ regions:
           - GJUMJUSHANE
           - Guemueshane
           - Gumusane
+          - Gumushane
         ascii_name: Gumushkhane
         geonamesid: 746425
         latitude: 40.46028
         longitude: 39.48139
         name: Gumushkhane
-        names_en: ~
+        names_en: 
+          - Gümüşhane
         names_es: ~
         population: 32250
         timezone: Europe/Istanbul
@@ -12636,6 +13482,7 @@ regions:
           - Evren
           - Sefker
           - Sevker
+          - Sofker
         ascii_name: Evren
         geonamesid: 747217
         latitude: 40.24432
@@ -12650,12 +13497,14 @@ regions:
           - Cayra
           - Kjurtjun
           - Kuertuen
+          - Kurtun
         ascii_name: Kurtun
         geonamesid: 749421
         latitude: 40.67092
         longitude: 39.14361
         name: Kürtün
-        names_en: ~
+        names_en: 
+          - Kürtün
         names_es: ~
         population: 3834
         timezone: Europe/Istanbul
@@ -12671,12 +13520,14 @@ regions:
           - Camiyani
           - Camiyanı
           - Gemiyani
+          - Gemiyanı
         ascii_name: Yaglidere
         geonamesid: 738123
         latitude: 40.86
         longitude: 38.62444
         name: Yağlıdere
-        names_en: ~
+        names_en: 
+          - Yağlıdere
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -12685,12 +13536,14 @@ regions:
           - TIREBOLU
           - Tarablus
           - Tereboli
+          - Tireboli
         ascii_name: Tirebolu
         geonamesid: 738753
         latitude: 41.00694
         longitude: 38.81389
         name: Tirebolu
-        names_en: ~
+        names_en: 
+          - Tirebolu
         names_es: ~
         population: 17124
         timezone: Europe/Istanbul
@@ -12699,12 +13552,14 @@ regions:
           - Colonia
           - "Karahisar-i Sarki"
           - "Karahisar-ı Şarki"
+          - SHEBINKARAKHISAR
         ascii_name: Sebinkarahisar
         geonamesid: 739914
         latitude: 40.28833
         longitude: 38.42361
         name: Şebinkarahisar
-        names_en: ~
+        names_en: 
+          - Şebinkarahisar
         names_es: ~
         population: 47360
         timezone: Europe/Istanbul
@@ -12713,6 +13568,7 @@ regions:
           - Abdal
           - Apdal
           - Eren
+          - Erenkoy
         ascii_name: Piraziz
         geonamesid: 740560
         latitude: 40.95314
@@ -12732,7 +13588,8 @@ regions:
         latitude: 40.93333
         longitude: 38.13333
         name: Nefsipiraziz
-        names_en: ~
+        names_en: 
+          - Piraziz
         names_es: ~
         population: 9959
         timezone: Europe/Istanbul
@@ -12741,12 +13598,14 @@ regions:
           - KESHAP
           - Kesap
           - Keşap
+          - КЕШАП
         ascii_name: Kesap
         geonamesid: 743438
         latitude: 40.91639
         longitude: 38.51444
         name: Keşap
-        names_en: ~
+        names_en: 
+          - Keşap
         names_es: ~
         population: 10047
         timezone: Europe/Istanbul
@@ -12755,12 +13614,14 @@ regions:
           - Elehu
           - Elevi
           - GERELE
+          - Goerele
         ascii_name: Gorele
         geonamesid: 746565
         latitude: 41.03083
         longitude: 39.00306
         name: Görele
-        names_en: ~
+        names_en: 
+          - Görele
         names_es: ~
         population: 30381
         timezone: Europe/Istanbul
@@ -12769,13 +13630,16 @@ regions:
           - Cerasus
           - Choerades
           - GIRESUN
+          - Gireson
         ascii_name: Giresun
         geonamesid: 746881
         latitude: 40.91698
         longitude: 38.38741
         name: Giresun
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Giresun
+        names_es: 
+          - Giresun
         population: 98864
         timezone: Europe/Istanbul
       - 
@@ -12783,12 +13647,14 @@ regions:
           - Dereishakli
           - Dereishaklı
           - Deresakli
+          - Deresaklı
         ascii_name: Eynesil
         geonamesid: 747191
         latitude: 41.06453
         longitude: 39.1438
         name: Eynesil
-        names_en: ~
+        names_en: 
+          - Eynesil
         names_es: ~
         population: 13133
         timezone: Europe/Istanbul
@@ -12797,12 +13663,14 @@ regions:
           - Dogankent
           - Doğankent
           - Harsit
+          - Harşit
         ascii_name: Dogankent
         geonamesid: 748008
         latitude: 40.8075
         longitude: 38.91722
         name: Doğankent
-        names_en: ~
+        names_en: 
+          - Doğankent
         names_es: ~
         population: 3718
         timezone: Europe/Istanbul
@@ -12815,7 +13683,8 @@ regions:
         latitude: 40.7378
         longitude: 38.44934
         name: Dereli
-        names_en: ~
+        names_en: 
+          - Dereli
         names_es: ~
         population: 8473
         timezone: Europe/Istanbul
@@ -12824,6 +13693,7 @@ regions:
           - Canakci
           - Kuzcakoy
           - Kuzcaköy
+          - Çanakçı
         ascii_name: Canakci
         geonamesid: 749789
         latitude: 40.91179
@@ -12838,12 +13708,14 @@ regions:
           - Camoluk
           - Chamoluk
           - Mindaval
+          - Tesnik
         ascii_name: Camoluk
         geonamesid: 749819
         latitude: 40.13583
         longitude: 38.73556
         name: Çamoluk
-        names_en: ~
+        names_en: 
+          - Çamoluk
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -12852,12 +13724,14 @@ regions:
           - Akkoy
           - Akköy
           - BULANDZHAK
+          - Bulancak
         ascii_name: Bulancak
         geonamesid: 750317
         latitude: 40.93717
         longitude: 38.22907
         name: Bulancak
-        names_en: ~
+        names_en: 
+          - Bulancak
         names_es: ~
         population: 36863
         timezone: Europe/Istanbul
@@ -12866,12 +13740,14 @@ regions:
           - ALUDZHRA
           - Alucara
           - Alucra
+          - Mesudiye
         ascii_name: Alucra
         geonamesid: 752020
         latitude: 40.32083
         longitude: 38.76361
         name: Alucra
-        names_en: ~
+        names_en: 
+          - Alucra
         names_es: ~
         population: 0
         timezone: Europe/Istanbul
@@ -12899,8 +13775,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 746878
     name: Giresun
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Giresun Province"
+      - Giresun
+    names_es: 
+      - "Provincia de Giresun"
   - 
     ascii_name: Edirne
     cities: 
@@ -12909,6 +13788,7 @@ regions:
           - Ivanski
           - "Uzun Keupru"
           - Uzunkeprju
+          - Uzunkopru
         ascii_name: "Uzun Keupru"
         geonamesid: 738251
         latitude: 41.26598
@@ -12923,6 +13803,7 @@ regions:
           - "Buyuk Doganca"
           - "Büyük Doğanca"
           - Doganca
+          - Doğanca
         ascii_name: Meric
         geonamesid: 741628
         latitude: 41.19183
@@ -12948,6 +13829,7 @@ regions:
           - Kesan
           - Keshan
           - Keşan
+          - Кешан
         ascii_name: Kesan
         geonamesid: 743439
         latitude: 40.85583
@@ -12988,6 +13870,7 @@ regions:
           - Aenus
           - Aynos
           - Enez
+          - Enos
         ascii_name: Enez
         geonamesid: 747503
         latitude: 40.72472
@@ -13002,19 +13885,25 @@ regions:
           - Adrianopel
           - Adrianople
           - Adrianopol
+          - Adrianopoli
         ascii_name: Edirne
         geonamesid: 747712
         latitude: 41.67719
         longitude: 26.55597
         name: Edirne
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Edirne
+        names_es: 
+          - Edirne
         population: 126470
         timezone: Europe/Istanbul
     geonamesid: 747711
     name: Edirne
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Edirne Province"
+      - Edirne
+    names_es: 
+      - "Provincia de Edirne"
   - 
     ascii_name: Corum
     cities: 
@@ -13023,6 +13912,7 @@ regions:
           - Kizilveran
           - Kizilveren
           - Kizilviran
+          - Kızılveran
         ascii_name: Ugurludag
         geonamesid: 738468
         latitude: 40.44529
@@ -13064,6 +13954,7 @@ regions:
           - "Avukat Haci Koy"
           - "Avukat Hacı Köy"
           - Hacikoey
+          - Hacıköy
         ascii_name: Mecitozu
         geonamesid: 741692
         latitude: 40.52
@@ -13078,6 +13969,7 @@ regions:
           - Andrapa
           - Iskelib
           - Iskilip
+          - Neapolis
         ascii_name: Iskilip
         geonamesid: 745076
         latitude: 40.73528
@@ -13092,12 +13984,14 @@ regions:
           - Chorum
           - Corum
           - Euchaita
+          - Çorum
         ascii_name: Corum
         geonamesid: 748879
         latitude: 40.54889
         longitude: 34.95333
         name: Çorum
-        names_en: ~
+        names_en: 
+          - Çorum
         names_es: ~
         population: 183418
         timezone: Europe/Istanbul
@@ -13106,6 +14000,7 @@ regions:
           - "Buyuk Lacin"
           - "Büyük Lâçin"
           - Lacin
+          - Lâçin
         ascii_name: "Buyuk Lacin"
         geonamesid: 750165
         latitude: 40.78333
@@ -13120,6 +14015,7 @@ regions:
           - Alaca
           - Huseyinabat
           - Huseyinbat
+          - Huseynabat
         ascii_name: Alaca
         geonamesid: 752278
         latitude: 40.16833
@@ -13131,8 +14027,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 748877
     name: Çorum
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Çorum Province"
+      - Çorum
+    names_es: 
+      - "Provincia de Çorum"
   - 
     ascii_name: Cankiri
     cities: 
@@ -13152,8 +14051,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 749747
     name: Çankırı
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Çankırı Province"
+      - Çankırı
+    names_es: 
+      - "Provincia de Cankiri"
   - 
     ascii_name: Canakkale
     cities: 
@@ -13187,12 +14089,14 @@ regions:
           - Bogcaada
           - Bozcaada
           - Boğçaada
+          - Tenedos
         ascii_name: Bozcaada
         geonamesid: 320700
         latitude: 39.835
         longitude: 26.06972
         name: Bozcaada
-        names_en: ~
+        names_en: 
+          - Tenedos
         names_es: ~
         population: 2635
         timezone: Europe/Istanbul
@@ -13201,12 +14105,14 @@ regions:
           - Assos
           - Bayram
           - Behram
+          - Behramkale
         ascii_name: Behram
         geonamesid: 321658
         latitude: 39.49344
         longitude: 26.33316
         name: Behram
-        names_en: ~
+        names_en: 
+          - Assos
         names_es: ~
         population: 1100
         timezone: Europe/Istanbul
@@ -13215,6 +14121,7 @@ regions:
           - Bairamich
           - Bayramic
           - Bayramiç
+          - Scepsis
         ascii_name: Bayramic
         geonamesid: 321733
         latitude: 39.80862
@@ -13242,6 +14149,7 @@ regions:
           - Lampsacus
           - Lampsaki
           - Lapseki
+          - Lâpseki
         ascii_name: Lapseki
         geonamesid: 741878
         latitude: 40.34417
@@ -13256,6 +14164,7 @@ regions:
           - Gokce
           - Gokceada
           - Gökçe
+          - Gökçeada
         ascii_name: Gokceada
         geonamesid: 745260
         latitude: 40.20107
@@ -13270,12 +14179,15 @@ regions:
           - Callipolis
           - Gallipoli
           - Gelibolu
+          - Guelibolou
         ascii_name: Gelibolu
         geonamesid: 746983
         latitude: 40.41028
         longitude: 26.67083
         name: Gelibolu
-        names_en: ~
+        names_en: 
+          - Gelibolu
+          - Gallipoli
         names_es: ~
         population: 25178
         timezone: Europe/Istanbul
@@ -13284,6 +14196,7 @@ regions:
           - Acaabat
           - Açaabat
           - Eceabat
+          - Madytus
         ascii_name: Eceabat
         geonamesid: 747728
         latitude: 40.18416
@@ -13298,13 +14211,16 @@ regions:
           - Abydus
           - Canakkale
           - Chanak
+          - Chanakkale
         ascii_name: Canakkale
         geonamesid: 749780
         latitude: 40.14556
         longitude: 26.40639
         name: Çanakkale
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Çanakkale
+        names_es: 
+          - Çanakkale
         population: 87791
         timezone: Europe/Istanbul
       - 
@@ -13337,8 +14253,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 749778
     name: Çanakkale
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Çanakkale Province"
+      - Çanakkale
+    names_es: 
+      - "Provincia de Çanakkale"
   - 
     ascii_name: Bursa
     cities: 
@@ -13361,6 +14280,7 @@ regions:
           - Adranos
           - Atranos
           - Beyce
+          - Orhaneli
         ascii_name: Orhaneli
         geonamesid: 303409
         latitude: 39.90333
@@ -13447,6 +14367,7 @@ regions:
           - Muslimsoloz
           - Muslimsoluz
           - Muslumsoloz
+          - Müslimsölöz
         ascii_name: Soloz
         geonamesid: 739393
         latitude: 40.3948
@@ -13486,6 +14407,7 @@ regions:
           - Montagnae
           - Mudan'i
           - Mudania
+          - Mudanya
         ascii_name: Mudanya
         geonamesid: 741487
         latitude: 40.37528
@@ -13511,6 +14433,7 @@ regions:
           - Kucukkumla
           - Kucukkumlu
           - Küçükkumla
+          - Küçükkumlu
         ascii_name: Kucukkumla
         geonamesid: 742348
         latitude: 40.47737
@@ -13547,6 +14470,7 @@ regions:
           - Karacabey
           - Karadzhabej
           - Mihalic
+          - Mihaliç
         ascii_name: Karacabey
         geonamesid: 744537
         latitude: 40.21525
@@ -13561,13 +14485,16 @@ regions:
           - Isnik
           - Iznik
           - Nicaea
+          - Nicea
         ascii_name: Iznik
         geonamesid: 745026
         latitude: 40.42861
         longitude: 29.72111
         name: İznik
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nicaea
+        names_es: 
+          - Nicea
         population: 22230
         timezone: Europe/Istanbul
       - 
@@ -13575,12 +14502,14 @@ regions:
           - Inegeul
           - Inegoel
           - Inegol
+          - İnegöl
         ascii_name: Inegeul
         geonamesid: 745169
         latitude: 40.07806
         longitude: 29.51333
         name: Inegeul
-        names_en: ~
+        names_en: 
+          - İnegöl
         names_es: ~
         population: 133959
         timezone: Europe/Istanbul
@@ -13611,6 +14540,7 @@ regions:
           - Balarim
           - Balarin
           - Baların
+          - Golluce
         ascii_name: Balarim
         geonamesid: 746611
         latitude: 40.37381
@@ -13625,12 +14555,14 @@ regions:
           - Cius
           - Gemlik
           - Kios
+          - Kiye
         ascii_name: Gemlik
         geonamesid: 746958
         latitude: 40.43094
         longitude: 29.15969
         name: Gemlik
-        names_en: ~
+        names_en: 
+          - Gemlik
         names_es: ~
         population: 71063
         timezone: Europe/Istanbul
@@ -13694,12 +14626,14 @@ regions:
           - Boursa
           - Brossa
           - Broussa
+          - Brousse
         ascii_name: Bursa
         geonamesid: 750269
         latitude: 40.19167
         longitude: 29.06111
         name: Bursa
-        names_en: ~
+        names_en: 
+          - Bursa
         names_es: ~
         population: 1412701
         timezone: Europe/Istanbul
@@ -13739,6 +14673,7 @@ regions:
           - Resadiye
           - Reşadiye
           - Yenicag
+          - Yenicaga
         ascii_name: Yenicaga
         geonamesid: 737756
         latitude: 40.76056
@@ -13753,6 +14688,7 @@ regions:
           - Carsamba
           - Carsanba
           - Seban
+          - Seben
         ascii_name: Seben
         geonamesid: 739917
         latitude: 40.41134
@@ -13779,6 +14715,7 @@ regions:
           - Karadogan
           - Karadoğan
           - Kibriscik
+          - Kıbrıscık
         ascii_name: Kibriscik
         geonamesid: 743382
         latitude: 40.40778
@@ -13793,6 +14730,7 @@ regions:
           - Goynuk
           - Göynük
           - Torbali
+          - Torbalı
         ascii_name: Goynuk
         geonamesid: 746546
         latitude: 40.40028
@@ -13807,6 +14745,7 @@ regions:
           - "Crateia Flaviopolis"
           - Gerede
           - Geredeh
+          - Гереде
         ascii_name: Gerede
         geonamesid: 746940
         latitude: 40.80083
@@ -13821,6 +14760,7 @@ regions:
           - Cavuslar
           - Dortdivan
           - Dörtdivan
+          - Çavuşlar
         ascii_name: Dortdivan
         geonamesid: 747899
         latitude: 40.72052
@@ -13835,13 +14775,16 @@ regions:
           - Boli
           - Bolu
           - Claudiopolis
+          - Болу
         ascii_name: Bolu
         geonamesid: 750516
         latitude: 40.73583
         longitude: 31.60611
         name: Bolu
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bolu
+        names_es: 
+          - Bolu
         population: 96629
         timezone: Europe/Istanbul
       - 
@@ -13849,6 +14792,7 @@ regions:
           - Akcakoca
           - Akcasehir
           - "Akche Shehr"
+          - Akcheh
         ascii_name: Akcakoca
         geonamesid: 752584
         latitude: 41.08288
@@ -13860,8 +14804,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 750510
     name: Bolu
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Bolu Province"
+      - Bolu
+    names_es: 
+      - "Provincia de Bolu"
   - 
     ascii_name: Artvin
     cities: 
@@ -13883,12 +14830,14 @@ regions:
           - SHAVSHAT
           - Savsat
           - Yenikoy
+          - Yeniköy
         ascii_name: Savsat
         geonamesid: 739950
         latitude: 41.24027
         longitude: 42.36109
         name: Şavşat
-        names_en: ~
+        names_en: 
+          - Şavşat
         names_es: ~
         population: 8151
         timezone: Europe/Istanbul
@@ -13897,12 +14846,14 @@ regions:
           - Apsarus
           - Hopa
           - KHOPA
+          - Khoppa
         ascii_name: Hopa
         geonamesid: 745530
         latitude: 41.40597
         longitude: 41.43787
         name: Hopa
-        names_en: ~
+        names_en: 
+          - Hopa
         names_es: ~
         population: 17519
         timezone: Europe/Istanbul
@@ -13911,12 +14862,14 @@ regions:
           - Gektash
           - Goktas
           - Göktaş
+          - Murgul
         ascii_name: Murgul
         geonamesid: 746712
         latitude: 41.27444
         longitude: 41.56611
         name: Murgul
-        names_en: ~
+        names_en: 
+          - Murgul
         names_es: ~
         population: 3549
         timezone: Europe/Istanbul
@@ -13925,12 +14878,14 @@ regions:
           - BORCHKA
           - Borcka
           - Borçka
+          - Yeniyol
         ascii_name: Borcka
         geonamesid: 750496
         latitude: 41.36315
         longitude: 41.67652
         name: Borçka
-        names_en: ~
+        names_en: 
+          - Borçka
         names_es: ~
         population: 9942
         timezone: Europe/Istanbul
@@ -13939,12 +14894,14 @@ regions:
           - ARTVIN
           - Artivin
           - Artvin
+          - Artwin
         ascii_name: Artvin
         geonamesid: 751817
         latitude: 41.18222
         longitude: 41.81944
         name: Artvin
-        names_en: ~
+        names_en: 
+          - Artvin
         names_es: ~
         population: 24266
         timezone: Europe/Istanbul
@@ -13958,7 +14915,8 @@ regions:
         latitude: 41.34917
         longitude: 41.30694
         name: Arhavi
-        names_en: ~
+        names_en: 
+          - Arhavi
         names_es: ~
         population: 16217
         timezone: Europe/Istanbul
@@ -13967,19 +14925,24 @@ regions:
           - ARDANUCH
           - Adakale
           - Ardanuc
+          - Ardanuç
         ascii_name: Ardanuc
         geonamesid: 751950
         latitude: 41.12738
         longitude: 42.06292
         name: Ardanuç
-        names_en: ~
+        names_en: 
+          - Ardanuç
         names_es: ~
         population: 5318
         timezone: Europe/Istanbul
     geonamesid: 751816
     name: Artvin
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Artvin Province"
+      - Artvin
+    names_es: 
+      - "Provincia de Artvin"
   - 
     ascii_name: Amasya
     cities: 
@@ -13988,12 +14951,14 @@ regions:
           - TASHOVA
           - Tasova
           - Taşova
+          - Yemisenbuku
         ascii_name: Tasova
         geonamesid: 739015
         latitude: 40.75972
         longitude: 36.3225
         name: Taşova
-        names_en: ~
+        names_en: 
+          - Taşova
         names_es: ~
         population: 19253
         timezone: Europe/Istanbul
@@ -14015,6 +14980,7 @@ regions:
           - Marsivan
           - Merzifon
           - Phazemon
+          - Мерзифон
         ascii_name: Merzifon
         geonamesid: 741609
         latitude: 40.87333
@@ -14051,6 +15017,7 @@ regions:
           - Gumushacikoy
           - Gümüşhacıköy
           - Hacikoey
+          - Hacıköy
         ascii_name: Gumushacikoy
         geonamesid: 746426
         latitude: 40.87306
@@ -14078,19 +15045,24 @@ regions:
           - Amas'ja
           - Amaseia
           - Amasia
+          - Amasiyah
         ascii_name: Amasya
         geonamesid: 752015
         latitude: 40.65333
         longitude: 35.83306
         name: Amasya
-        names_en: ~
+        names_en: 
+          - Amasya
         names_es: ~
         population: 82896
         timezone: Europe/Istanbul
     geonamesid: 752014
     name: Amasya
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Amasya Province"
+      - Amasya
+    names_es: 
+      - "Provincia de Amasya"
   - 
     ascii_name: Bartin
     cities: 
@@ -14099,6 +15071,7 @@ regions:
           - Bartan
           - Bartheni
           - Bartin
+          - Bartın
         ascii_name: Bartin
         geonamesid: 751057
         latitude: 41.63583
@@ -14110,8 +15083,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 862467
     name: Bartın
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Bartın Province"
+      - Bartın
+    names_es: 
+      - "Provincia de Bartin"
   - 
     ascii_name: Karabuek
     cities: 
@@ -14120,12 +15096,14 @@ regions:
           - Safranbolu
           - Zafranboli
           - sprnbwlw
+          - Сафранболу
         ascii_name: Safranbolu
         geonamesid: 740430
         latitude: 41.25083
         longitude: 32.69417
         name: Safranbolu
-        names_en: ~
+        names_en: 
+          - Safranbolu
         names_es: ~
         population: 35242
         timezone: Europe/Istanbul
@@ -14141,12 +15119,14 @@ regions:
           - Jalova
           - "Pythiae Thermae"
           - Yalova
+          - Yaluva
         ascii_name: Yalova
         geonamesid: 738025
         latitude: 40.65502
         longitude: 29.27693
         name: Yalova
-        names_en: ~
+        names_en: 
+          - Yalova
         names_es: ~
         population: 71289
         timezone: Europe/Istanbul
@@ -14166,6 +15146,7 @@ regions:
           - Koru
           - "Koru Koyu"
           - "Koru Köyü"
+          - Korukoy
         ascii_name: Korukoy
         geonamesid: 742617
         latitude: 40.65435
@@ -14227,6 +15208,7 @@ regions:
           - Ciftlik
           - Ciftlikkoy
           - Çiftlik
+          - Çiftlikköy
         ascii_name: Ciftlikkoy
         geonamesid: 749163
         latitude: 40.66028
@@ -14249,8 +15231,11 @@ regions:
         timezone: Europe/Istanbul
     geonamesid: 862469
     name: Yalova
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Yalova Province"
+      - Yalova
+    names_es: 
+      - "Provincia de Yalova"
   - 
     ascii_name: Ardahan
     cities: 
@@ -14259,12 +15244,14 @@ regions:
           - Digor
           - Dugur
           - Duğur
+          - POSOF
         ascii_name: Posof
         geonamesid: 740531
         latitude: 41.51111
         longitude: 42.72917
         name: Posof
-        names_en: ~
+        names_en: 
+          - Posof
         names_es: ~
         population: 2900
         timezone: Europe/Istanbul
@@ -14273,12 +15260,14 @@ regions:
           - Hanak
           - KHANAK
           - Ortahanak
+          - ХАНАК
         ascii_name: Hanak
         geonamesid: 745903
         latitude: 41.23361
         longitude: 42.84722
         name: Hanak
-        names_en: ~
+        names_en: 
+          - Hanak
         names_es: ~
         population: 5122
         timezone: Europe/Istanbul
@@ -14287,6 +15276,7 @@ regions:
           - Gole
           - Göle
           - Merdenek
+          - Merdenik
         ascii_name: Merdinik
         geonamesid: 746643
         latitude: 40.79361
@@ -14301,12 +15291,14 @@ regions:
           - Damal
           - Ginya
           - Yukaridamal
+          - Yukarıdamal
         ascii_name: Damal
         geonamesid: 748688
         latitude: 41.34035
         longitude: 42.83936
         name: Damal
-        names_en: ~
+        names_en: 
+          - Damal
         names_es: ~
         population: 2856
         timezone: Europe/Istanbul
@@ -14329,19 +15321,25 @@ regions:
           - ARDAGAN
           - Ardagan
           - Ardahan
+          - Ardakhan
         ascii_name: Ardahan
         geonamesid: 751952
         latitude: 41.10871
         longitude: 42.70222
         name: Ardahan
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ardahan
+        names_es: 
+          - Ardahan
         population: 21020
         timezone: Europe/Istanbul
     geonamesid: 862470
     name: Ardahan
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Ardahan Province"
+      - Ardahan
+    names_es: 
+      - "Provincia de Ardahan"
   - 
     ascii_name: Bayburt
     cities: 
@@ -14350,12 +15348,14 @@ regions:
           - Demirezju
           - Demiroezue
           - Demirozu
+          - Demirözü
         ascii_name: Pulur
         geonamesid: 748383
         latitude: 40.16361
         longitude: 39.8925
         name: Pulur
-        names_en: ~
+        names_en: 
+          - Demirözü
         names_es: ~
         population: 1875
         timezone: Europe/Istanbul
@@ -14364,13 +15364,17 @@ regions:
           - BAJBURT
           - Baberd
           - Baiburt
+          - Bayburt
         ascii_name: Bayburt
         geonamesid: 750938
         latitude: 40.25889
         longitude: 40.22778
         name: Bayburt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bayburt
+          - "Bayburt Province"
+        names_es: 
+          - "Provincia de Bayburt"
         population: 31258
         timezone: Europe/Istanbul
       - 
@@ -14378,12 +15382,14 @@ regions:
           - Ajdyntepe
           - Aydintepe
           - Aydıntepe
+          - Hart
         ascii_name: Aydintepe
         geonamesid: 751475
         latitude: 40.38944
         longitude: 40.1506
         name: Aydıntepe
-        names_en: ~
+        names_en: 
+          - Aydıntepe
         names_es: ~
         population: 7961
         timezone: Europe/Istanbul
@@ -14399,6 +15405,7 @@ regions:
           - Dusje
           - Duzce
           - Duzdje
+          - Düzce
         ascii_name: Duzce
         geonamesid: 747764
         latitude: 40.83889

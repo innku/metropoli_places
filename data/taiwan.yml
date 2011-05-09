@@ -2,8 +2,10 @@
 geonamesid: 1668284
 iso: TW
 name: Taiwan
-names_en: ~
-names_es: ~
+names_en: 
+  - Taiwan
+names_es: 
+  - Taiwán
 regions: 
   - 
     ascii_name: Fukien
@@ -13,6 +15,7 @@ regions:
           - Chin-ch'eng
           - Chin-ch’eng
           - Chin-men
+          - Chin-men-hsien
         ascii_name: Jincheng
         geonamesid: 1678008
         latitude: 24.43667
@@ -27,6 +30,7 @@ regions:
           - Nan-kan
           - Nangan
           - "Nangan Xiang"
+          - 南竿
         ascii_name: Nangan
         geonamesid: 7552914
         latitude: 26.15039
@@ -48,12 +52,14 @@ regions:
           - Gaosjun
           - Gaosyongshih
           - Gaoxiongshi
+          - Kao-hsiung
         ascii_name: Kaohsiung
         geonamesid: 1673820
         latitude: 22.61626
         longitude: 120.31333
         name: Kaohsiung
-        names_en: ~
+        names_en: 
+          - "Kaohsiung City"
         names_es: ~
         population: 1519711
         timezone: Asia/Taipei
@@ -69,13 +75,17 @@ regions:
           - "Kota Taipei"
           - "Pan Kiao"
           - Pan-ch'iao
+          - Pan-ch'iao-chen
         ascii_name: Taipei
         geonamesid: 1668341
         latitude: 25.04776
         longitude: 121.53185
         name: Taipei
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Taipei
+        names_es: 
+          - Taipéi
+          - Taipei
         population: 7871900
         timezone: Asia/Taipei
       - 
@@ -83,6 +93,7 @@ regions:
           - Banciao
           - Banqiao
           - Fan-ch'iao
+          - Fan-ch’iao
         ascii_name: Banqiao
         geonamesid: 1670029
         latitude: 25.01427
@@ -104,6 +115,7 @@ regions:
           - Douliou
           - Douliu
           - Jun'-lin'
+          - Tou-liu
         ascii_name: Douliu
         geonamesid: 1665196
         latitude: 23.70944
@@ -118,6 +130,7 @@ regions:
           - Chiao-pa-nien
           - Yu-ching
           - Yu-ching-chuang
+          - Yu-ching-ts'un
         ascii_name: Yujing
         geonamesid: 1665357
         latitude: 23.12493
@@ -132,6 +145,7 @@ regions:
           - Hsin-chu
           - Hsin-chu-hsien
           - T'ao-yuan
+          - T'ao-yuan-chen
         ascii_name: Taoyuan
         geonamesid: 1667905
         latitude: 24.9896
@@ -146,6 +160,7 @@ regions:
           - T'ai-tung
           - "T'ai-tung Shih"
           - T'ai-tung-chen
+          - T'ai-tung-hsien
         ascii_name: Taitung
         geonamesid: 1668295
         latitude: 22.75991
@@ -160,6 +175,7 @@ regions:
           - T'ai-pao
           - T'ai-pao-chuang
           - T'ai-pao-li
+          - Ta-pao
         ascii_name: Taibao
         geonamesid: 1668347
         latitude: 23.45944
@@ -174,6 +190,7 @@ regions:
           - Hsin-ying
           - Hsing-ying
           - Sinying
+          - T'ai-nan
         ascii_name: Xinying
         geonamesid: 1668353
         latitude: 23.30694
@@ -188,6 +205,7 @@ regions:
           - "Feng Yung"
           - Feng-yuan
           - Feng-yuan-chen
+          - Feng-yuan-chieh
         ascii_name: Fengyuan
         geonamesid: 1668396
         latitude: 24.25
@@ -202,6 +220,7 @@ regions:
           - T'ai-chung
           - T'ai-chung-shih
           - Taichung
+          - "Taijhong Shih"
         ascii_name: Taichung
         geonamesid: 1668399
         latitude: 24.1469
@@ -216,6 +235,7 @@ regions:
           - Dasi
           - Daxi
           - Ta-Si-chen
+          - Ta-ch'i
         ascii_name: Daxi
         geonamesid: 1668467
         latitude: 24.88373
@@ -230,6 +250,7 @@ regions:
           - Buli
           - Pu-li
           - Pu-li-chieh
+          - Puli
         ascii_name: Buli
         geonamesid: 1670310
         latitude: 23.96639
@@ -244,6 +265,7 @@ regions:
           - P'ing-tung
           - P'ing-tung-chieh
           - P'ing-tung-hsien
+          - P'ing-tung-shih
         ascii_name: Pingtung
         geonamesid: 1670481
         latitude: 22.67135
@@ -258,6 +280,7 @@ regions:
           - Nan'tou
           - Nan-t'ou
           - Nan-t'ou-chieh
+          - Nan-t'ou-hsien
         ascii_name: Nantou
         geonamesid: 1671566
         latitude: 23.91566
@@ -272,6 +295,7 @@ regions:
           - Miao-li
           - Miao-li-chieh
           - Miao-li-hsien
+          - Miao-li-shih
         ascii_name: Miaoli
         geonamesid: 1671971
         latitude: 24.56427
@@ -286,6 +310,7 @@ regions:
           - Magong
           - Magun
           - P'eng-hu
+          - P'eng-hu-hsien
         ascii_name: Ma-kung
         geonamesid: 1672228
         latitude: 23.5654
@@ -300,6 +325,7 @@ regions:
           - Ch'iang-tzu-liao
           - Ch’iang-tzu-liao
           - Lu-ku
+          - Lugu
         ascii_name: Lugu
         geonamesid: 1672551
         latitude: 23.74639
@@ -314,6 +340,7 @@ regions:
           - Feng-shan
           - Feng-shan-chieh
           - Fengshan
+          - Fongshan
         ascii_name: Fengshan
         geonamesid: 1673816
         latitude: 22.62659
@@ -328,12 +355,15 @@ regions:
           - I-lan
           - I-lan-hsien
           - I-lan-shih
+          - Ilan
         ascii_name: Yilan
         geonamesid: 1674199
         latitude: 24.757
         longitude: 121.753
         name: Yilan
-        names_en: ~
+        names_en: 
+          - "Yilan City"
+          - Yilan
         names_es: ~
         population: 94188
         timezone: Asia/Taipei
@@ -342,6 +372,7 @@ regions:
           - "Hua Lien Kang"
           - Hua-lien
           - Hua-lien-chiang
+          - Hua-lien-hsien
         ascii_name: Hualian
         geonamesid: 1674504
         latitude: 23.97694
@@ -356,6 +387,7 @@ regions:
           - Hsin-chu
           - Hsin-chu-hsien
           - Hsin-chu-shih
+          - Sin'chzhu
         ascii_name: Xinzhushi
         geonamesid: 1675151
         latitude: 24.80361
@@ -370,6 +402,7 @@ regions:
           - Heng-ch'un
           - Heng-ch’un
           - Hengchun
+          - "heng chun"
         ascii_name: Hengchun
         geonamesid: 1676242
         latitude: 22.00417
@@ -384,6 +417,7 @@ regions:
           - Chu-pei
           - Chupei
           - Hung-mao
+          - Jhubei
         ascii_name: Zhubei
         geonamesid: 1677112
         latitude: 24.83833
@@ -398,12 +432,14 @@ regions:
           - Chi-lung
           - Chi-lung-shih
           - Chilung
+          - "Co Long"
         ascii_name: Keelung
         geonamesid: 1678228
         latitude: 25.12825
         longitude: 121.7419
         name: Keelung
-        names_en: ~
+        names_en: 
+          - Keelung
         names_es: ~
         population: 397515
         timezone: Asia/Taipei
@@ -412,12 +448,14 @@ regions:
           - Chia-i
           - Chia-i-hsien
           - Chia-i-shih
+          - "Chiayi City"
         ascii_name: "Jiayi Shi"
         geonamesid: 1678836
         latitude: 23.47917
         longitude: 120.44889
         name: "Jiayi Shi"
-        names_en: ~
+        names_en: 
+          - "Chiayi City"
         names_es: ~
         population: 0
         timezone: Asia/Taipei
@@ -426,6 +464,7 @@ regions:
           - "Chang Hwa"
           - "Chang-hua Nan-pu"
           - "Chang-hua North"
+          - "Chang-hua Pei-pu"
         ascii_name: Chang-hua
         geonamesid: 1679136
         latitude: 24.07327

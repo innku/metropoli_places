@@ -2,8 +2,12 @@
 geonamesid: 1873107
 iso: KP
 name: "North Korea"
-names_en: ~
-names_es: ~
+names_en: 
+  - "North Korea"
+  - "Democratic People’s Republic of Korea"
+names_es: 
+  - "Corea del Norte"
+  - "Corea, República Popular Democrática"
 regions: 
   - 
     ascii_name: P'yongyang-si
@@ -13,6 +17,7 @@ regions:
           - Shoko-ri
           - Shōko-ri
           - Sungho
+          - "Sungho 1-tong"
         ascii_name: "Sungho 1-tong"
         geonamesid: 1868998
         latitude: 38.99139
@@ -27,6 +32,7 @@ regions:
           - Junan
           - Sunan
           - Sunan-dong
+          - Sunan-ni
         ascii_name: Sunan
         geonamesid: 1869021
         latitude: 39.19833
@@ -41,13 +47,16 @@ regions:
           - "Binh Nhuong"
           - "Bình Nhưỡng"
           - Heijo
+          - Heijo-fu
         ascii_name: Pyongyang
         geonamesid: 1871859
         latitude: 39.03385
         longitude: 125.75432
         name: Pyongyang
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pyongyang
+        names_es: 
+          - Pyongyang
         population: 3222000
         timezone: Asia/Pyongyang
       - 
@@ -55,6 +64,7 @@ regions:
           - Kandong
           - Kangdong
           - Kangdong-up
+          - Kangdong-ŭp
         ascii_name: Kangdong-up
         geonamesid: 1876153
         latitude: 39.1425
@@ -69,6 +79,7 @@ regions:
           - Chunghwa
           - Chunghwa-up
           - Chunghwa-ŭp
+          - Chuwa
         ascii_name: Chunghwa
         geonamesid: 1877872
         latitude: 38.86389
@@ -90,6 +101,7 @@ regions:
           - Chinji-ri
           - Shinchi-ri
           - Shinchido
+          - Shinchidō
         ascii_name: Yonggang-up
         geonamesid: 1866362
         latitude: 38.85611
@@ -117,6 +129,7 @@ regions:
           - Shin-anshu
           - Shin-anshū
           - Sin-ansyu
+          - Sin-ansyū
         ascii_name: Sinanju
         geonamesid: 1870742
         latitude: 39.59806
@@ -131,6 +144,7 @@ regions:
           - "Ku Yangdok"
           - "Ku Yangdŏk"
           - Sangsong-ni
+          - Sangsŏng-ni
         ascii_name: Sangsong-ni
         geonamesid: 1871028
         latitude: 39.16944
@@ -145,6 +159,7 @@ regions:
           - P'yongsong
           - P’yŏngsŏng
           - Sain-ni
+          - Sainjang
         ascii_name: P'yongsong
         geonamesid: 1871871
         latitude: 39.24639
@@ -159,6 +174,7 @@ regions:
           - Channampo
           - Chinnamp'o
           - Chinnamp’o
+          - Chinnanpo
         ascii_name: Namp'o
         geonamesid: 1873757
         latitude: 38.7375
@@ -173,6 +189,7 @@ regions:
           - Aanshu
           - An-dschu
           - Anju
+          - Anju-up
         ascii_name: Anju
         geonamesid: 1879613
         latitude: 39.61778
@@ -194,6 +211,7 @@ regions:
           - Neihen
           - Nyongbyon
           - Nyŏngbyŏn
+          - Yongbyon
         ascii_name: Yongbyon
         geonamesid: 1866453
         latitude: 39.81333
@@ -208,6 +226,7 @@ regions:
           - Chonggo-dong
           - Chŏnggŏ-dong
           - Teisha
+          - Teisha-do
         ascii_name: Yomju-up
         geonamesid: 1866587
         latitude: 39.89333
@@ -222,6 +241,7 @@ regions:
           - Namsi
           - Nanshi
           - Panghyon
+          - Panghyon-dong
         ascii_name: Panghyon-dong
         geonamesid: 1872726
         latitude: 39.88722
@@ -236,6 +256,7 @@ regions:
           - Kakusan
           - Kakuzan
           - Kwaksan
+          - Kwaksan-up
         ascii_name: Kwaksan
         geonamesid: 1875054
         latitude: 39.6875
@@ -250,6 +271,7 @@ regions:
           - Kijo
           - Kijō
           - Kuisong
+          - Kuisŏng
         ascii_name: Kusong
         geonamesid: 1875107
         latitude: 39.98111
@@ -264,6 +286,7 @@ regions:
           - Kuchung
           - Kujang
           - Kujang-dong
+          - Kujang-up
         ascii_name: Kujang-up
         geonamesid: 1875506
         latitude: 39.86722
@@ -278,6 +301,7 @@ regions:
           - Chongju
           - Chongju-up
           - Chŏngju
+          - Chŏngju-ŭp
         ascii_name: Chongju
         geonamesid: 1878389
         latitude: 39.69333
@@ -292,6 +316,7 @@ regions:
           - Eui-chu
           - Gishu
           - Gishū
+          - Gisyu
         ascii_name: Uiju
         geonamesid: 2039623
         latitude: 40.19944
@@ -306,12 +331,14 @@ regions:
           - "New Eui-chu"
           - Shingishu
           - Shingishū
+          - Sin-eui-chu
         ascii_name: Sinuiju
         geonamesid: 2040893
         latitude: 40.10056
         longitude: 124.39806
         name: Sinŭiju
-        names_en: ~
+        names_en: 
+          - Sinuiju
         names_es: ~
         population: 288112
         timezone: Asia/Pyongyang
@@ -320,6 +347,7 @@ regions:
           - Sakchu
           - Sakchu-up
           - Sakchu-ŭp
+          - Sakushu
         ascii_name: Sakchu-up
         geonamesid: 2041533
         latitude: 40.38944
@@ -334,6 +362,7 @@ regions:
           - Hokuchin
           - Puckchin
           - Pukch'ang
+          - Pukchil-lodongjagu
         ascii_name: Pukchil-lodongjagu
         geonamesid: 2041817
         latitude: 40.20194
@@ -355,12 +384,14 @@ regions:
           - Gensan
           - Genzan
           - "Genzan Hu"
+          - Onsan
         ascii_name: Wonsan
         geonamesid: 1866923
         latitude: 39.15278
         longitude: 127.44361
         name: Wŏnsan
-        names_en: ~
+        names_en: 
+          - Wonsan
         names_es: ~
         population: 329207
         timezone: Asia/Pyongyang
@@ -369,6 +400,7 @@ regions:
           - Kojo
           - Kojŏ
           - Kotei
+          - T'ongch'on
         ascii_name: T'ongch'on-up
         geonamesid: 1867927
         latitude: 38.95389
@@ -383,6 +415,7 @@ regions:
           - Kosan
           - Kosan-up
           - Kosan-ŭp
+          - Shinko-san
         ascii_name: Kosan
         geonamesid: 1875632
         latitude: 38.85583
@@ -397,6 +430,7 @@ regions:
           - Chunyang
           - Hoeyang
           - Hoeyang-up
+          - Hoeyang-ŭp
         ascii_name: Hoeyang
         geonamesid: 1877148
         latitude: 38.71028
@@ -411,6 +445,7 @@ regions:
           - Ampen
           - Anbyon
           - Anbyon-up
+          - Anbyŏn
         ascii_name: Anbyon-up
         geonamesid: 1879672
         latitude: 39.0425
@@ -422,7 +457,8 @@ regions:
         timezone: Asia/Pyongyang
     geonamesid: 1876101
     name: Gangwon
-    names_en: ~
+    names_en: 
+      - Gangwon
     names_es: ~
   - 
     ascii_name: Hwanghae-namdo
@@ -432,6 +468,7 @@ regions:
           - Enan
           - Yonan
           - Yonan-up
+          - Yŏnan
         ascii_name: Yonan-up
         geonamesid: 1866569
         latitude: 37.90889
@@ -446,6 +483,7 @@ regions:
           - Ch'wiya
           - Chuya
           - Ch’wiya
+          - Pyoksong
         ascii_name: Pyoksong-up
         geonamesid: 1871967
         latitude: 38.0475
@@ -460,6 +498,7 @@ regions:
           - Bazan
           - Onchzhin
           - Ongjin
+          - Ongjin-up
         ascii_name: Ongjin
         geonamesid: 1873172
         latitude: 37.93472
@@ -474,6 +513,7 @@ regions:
           - Haeju
           - Hai-dschu
           - Hai-ju
+          - Hai-tjyou
         ascii_name: Haeju
         geonamesid: 1877615
         latitude: 38.04056
@@ -488,6 +528,7 @@ regions:
           - Changyon
           - Changyon-up
           - Changyŏn
+          - Changyŏn-ŭp
         ascii_name: Changyon
         geonamesid: 1879029
         latitude: 38.25083
@@ -502,6 +543,7 @@ regions:
           - Chaenyong
           - Chaenyŏng
           - Chaeryong
+          - Chaeryong-up
         ascii_name: Chaeryong-up
         geonamesid: 1879487
         latitude: 38.39917
@@ -537,6 +579,7 @@ regions:
           - Kenjiho
           - Kenjiko
           - Kenniho
+          - Kenziho
         ascii_name: Songnim
         geonamesid: 1869446
         latitude: 38.75417
@@ -551,6 +594,7 @@ regions:
           - Hozan
           - Sa-ri-uen
           - Sarivone
+          - Sariwon
         ascii_name: Sariwon
         geonamesid: 1870883
         latitude: 38.50722
@@ -565,6 +609,7 @@ regions:
           - Kokan
           - Kokchang
           - Koksan
+          - Koksan-up
         ascii_name: Koksan
         geonamesid: 1875790
         latitude: 38.78194
@@ -579,13 +624,16 @@ regions:
           - Kaesong
           - Kaesŏng
           - Kai-seng
+          - Kaijo
         ascii_name: Kaesong
         geonamesid: 1876373
         latitude: 37.97083
         longitude: 126.55444
         name: Kaesŏng
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kaesong
+        names_es: 
+          - Kaesong
         population: 338155
         timezone: Asia/Pyongyang
       - 
@@ -593,6 +641,7 @@ regions:
           - Hwangju
           - Hwangju-up
           - Hwangju-ŭp
+          - Koshu
         ascii_name: Hwangju-up
         geonamesid: 1876873
         latitude: 38.67028
@@ -607,6 +656,7 @@ regions:
           - Hukkyo-ri
           - Hŭkkyo-ri
           - Kokkyo-ri
+          - Kokkyō-ri
         ascii_name: Hukkyo-ri
         geonamesid: 1877046
         latitude: 38.79861
@@ -621,6 +671,7 @@ regions:
           - Aenak
           - Anag-up
           - Anag-ŭp
+          - Anak
         ascii_name: Anak
         geonamesid: 1879682
         latitude: 38.51083
@@ -642,6 +693,7 @@ regions:
           - Samho
           - Samho-dong
           - Samho-nodongjagu
+          - Samho-rodongjagu
         ascii_name: Samho-rodongjagu
         geonamesid: 1871484
         latitude: 39.9475
@@ -656,6 +708,7 @@ regions:
           - Kogen
           - Kovon-do
           - Kowon
+          - Kowon-up
         ascii_name: Kowon-up
         geonamesid: 1875588
         latitude: 39.43806
@@ -670,6 +723,7 @@ regions:
           - Hungbong-ni
           - Hungdogi-dong
           - Hungdogil-tong
+          - Hungdok-2-dong
         ascii_name: Hungnam
         geonamesid: 1877030
         latitude: 39.83167
@@ -684,12 +738,14 @@ regions:
           - Hamheung
           - Hamhunas
           - Hamhung
+          - Hamhungo
         ascii_name: Hamhung
         geonamesid: 1877449
         latitude: 39.91833
         longitude: 127.53639
         name: Hamhŭng
-        names_en: ~
+        names_en: 
+          - Hamhung
         names_es: ~
         population: 559056
         timezone: Asia/Pyongyang
@@ -711,6 +767,7 @@ regions:
           - Rokudaito-ri
           - Rokudaitō-ri
           - Yuktae-dong
+          - Yuktae-nodongjagu
         ascii_name: Yuktae-dong
         geonamesid: 2038854
         latitude: 40.02472
@@ -725,6 +782,7 @@ regions:
           - Goro-ri
           - Gorō-ri
           - Oro
+          - Oro-ri
         ascii_name: Yonggwang-up
         geonamesid: 2042249
         latitude: 40.01833
@@ -739,6 +797,7 @@ regions:
           - Gunsen
           - Iwon
           - Iwon-up
+          - Iwŏn
         ascii_name: Iwon-up
         geonamesid: 2043677
         latitude: 40.32306
@@ -753,6 +812,7 @@ regions:
           - Hongwon
           - Hongwon-up
           - Hongwŏn
+          - Hongwŏn-ŭp
         ascii_name: Hongwon
         geonamesid: 2044050
         latitude: 40.02528
@@ -774,6 +834,7 @@ regions:
           - Kapsan
           - Kapsan-up
           - Kapsan-ŭp
+          - Kapsane-do
         ascii_name: Kapsan-up
         geonamesid: 2043531
         latitude: 41.09028
@@ -801,12 +862,14 @@ regions:
           - Hesanjin
           - Hyesan
           - Hyesan-si
+          - Hyesanjin
         ascii_name: Hyesan-si
         geonamesid: 2043837
         latitude: 41.40167
         longitude: 128.17778
         name: Hyesan-si
-        names_en: ~
+        names_en: 
+          - Hyesan
         names_es: ~
         population: 0
         timezone: Asia/Pyongyang
@@ -836,6 +899,7 @@ regions:
           - Kjong-song
           - Kjöng-söng
           - Kyeng-seng
+          - Kyojo
         ascii_name: Sungam-nodongjagu
         geonamesid: 2040316
         latitude: 41.66972
@@ -850,6 +914,7 @@ regions:
           - Funei
           - Kuum-nodongjagu
           - Kuup-nodongjagu
+          - Kuŭm-nodongjagu
         ascii_name: Puryong
         geonamesid: 2041702
         latitude: 42.06056
@@ -864,6 +929,7 @@ regions:
           - Kosong
           - Kosong-ni
           - Kosŏng
+          - Kosŏng-ni
         ascii_name: Onsong
         geonamesid: 2042267
         latitude: 42.95722
@@ -878,6 +944,7 @@ regions:
           - Naman
           - Nanam
           - Ranam
+          - lanam
         ascii_name: Nanam
         geonamesid: 2042498
         latitude: 41.71361
@@ -903,6 +970,7 @@ regions:
           - Mosan
           - Mozan
           - Musan
+          - Musan-up
         ascii_name: Musan-up
         geonamesid: 2042738
         latitude: 42.22609
@@ -917,6 +985,7 @@ regions:
           - Keigen
           - Kyongwon
           - Kyungwan
+          - Kyungwon
         ascii_name: Kyongwon
         geonamesid: 2042985
         latitude: 42.81361
@@ -931,6 +1000,7 @@ regions:
           - Churuonjan
           - Chuul
           - Chuuronjang
+          - Chuŭl
         ascii_name: Kyongsong
         geonamesid: 2042987
         latitude: 41.58778
@@ -945,6 +1015,7 @@ regions:
           - Kichishu
           - Kichishū
           - Kil'dzhu
+          - Kil-dschu
         ascii_name: Kilju
         geonamesid: 2043484
         latitude: 40.96417
@@ -959,12 +1030,14 @@ regions:
           - Ch'ongjin
           - Ch'ŏngjin
           - Chkhonchzhine
+          - Chongjin
         ascii_name: Ch'ongjin
         geonamesid: 2044757
         latitude: 41.79556
         longitude: 129.77583
         name: Ch’ŏngjin
-        names_en: ~
+        names_en: 
+          - Chongjin
         names_es: ~
         population: 327000
         timezone: Asia/Pyongyang
@@ -973,6 +1046,7 @@ regions:
           - Agochi
           - Agochi-do
           - Agochi-dŏ
+          - Agoji-do
         ascii_name: Aoji-ri
         geonamesid: 2045311
         latitude: 42.52056
@@ -1005,6 +1079,7 @@ regions:
           - Uijil-li
           - Uijin-dong
           - Uijin-ni
+          - uijindong
         ascii_name: Uijin-dong
         geonamesid: 2039625
         latitude: 40.97518
@@ -1019,12 +1094,14 @@ regions:
           - Kakai
           - Kang-ge
           - Kange
+          - Kanggye
         ascii_name: Kanggye-si
         geonamesid: 2043572
         latitude: 40.96946
         longitude: 126.58523
         name: Kanggye-si
-        names_en: ~
+        names_en: 
+          - Kanggye
         names_es: ~
         population: 209530
         timezone: Asia/Pyongyang
@@ -1033,6 +1110,7 @@ regions:
           - Hungju-dong
           - Hungju-ri
           - Hŭngju-dong
+          - Hŭngju-ri
         ascii_name: Hungju-dong
         geonamesid: 2043983
         latitude: 40.99629
@@ -1047,6 +1125,7 @@ regions:
           - Chasong
           - Chasong-up
           - Chasŏng
+          - Chasŏng-ŭp
         ascii_name: Chasong
         geonamesid: 2045005
         latitude: 41.46083
@@ -1068,6 +1147,7 @@ regions:
           - Ongei
           - Sonbon
           - Sonbong
+          - Sonbong-up
         ascii_name: Sonbong
         geonamesid: 2040674
         latitude: 42.34222
@@ -1082,6 +1162,7 @@ regions:
           - Najin
           - Najin-up
           - Najin-ŭp
+          - Radzin
         ascii_name: Najin
         geonamesid: 2042645
         latitude: 42.24889

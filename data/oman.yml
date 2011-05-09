@@ -2,8 +2,11 @@
 geonamesid: 286963
 iso: OM
 name: Oman
-names_en: ~
-names_es: ~
+names_en: 
+  - Oman
+  - "Sultanate of Oman"
+names_es: 
+  - Omán
 regions: 
   - 
     ascii_name: "Al Mintaqah ad Dakhiliyah"
@@ -20,6 +23,7 @@ regions:
           - "Al Sohar"
           - "As Sohar"
           - "As Sohār"
+          - "As Suhar"
         ascii_name: "Al Sohar"
         geonamesid: 286282
         latitude: 24.36889
@@ -34,6 +38,7 @@ regions:
           - "Al Shinas"
           - "Ash Shinas"
           - "Ash Shinās"
+          - Shinas
         ascii_name: Shinas
         geonamesid: 286402
         latitude: 24.74333
@@ -48,12 +53,14 @@ regions:
           - "As Saham"
           - "As Şaham"
           - Saham
+          - "Saham Town"
         ascii_name: Saham
         geonamesid: 286647
         latitude: 24.17222
         longitude: 56.88861
         name: Şaḩam
-        names_en: ~
+        names_en: 
+          - Saham
         names_es: ~
         population: 89327
         timezone: Asia/Muscat
@@ -62,6 +69,7 @@ regions:
           - "As Suwaiq"
           - "As Suwayq"
           - Suwaik
+          - Suwayq
         ascii_name: "As Suwayq"
         geonamesid: 288955
         latitude: 23.84944
@@ -76,6 +84,7 @@ regions:
           - "Al Liwa'"
           - "Al Liwā’"
           - "Hillat al Hisn"
+          - Liwa'
         ascii_name: "Al Liwa'"
         geonamesid: 289174
         latitude: 24.53611
@@ -90,6 +99,7 @@ regions:
           - "Al Khabura"
           - "Al Khaburah"
           - "Al Khābūra"
+          - "Al Khābūrah"
         ascii_name: "Al Khaburah"
         geonamesid: 289199
         latitude: 23.98111
@@ -118,13 +128,16 @@ regions:
           - "As Sur"
           - "As Sūr"
           - Sur
+          - Şūr
         ascii_name: Sur
         geonamesid: 286245
         latitude: 22.56667
         longitude: 59.52889
         name: Şūr
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sur
+        names_es: 
+          - Sur
         population: 71152
         timezone: Asia/Muscat
     geonamesid: 411738
@@ -144,7 +157,8 @@ regions:
         latitude: 23.22573
         longitude: 56.51572
         name: ‘Ibrī
-        names_en: ~
+        names_en: 
+          - Ibri
         names_es: ~
         population: 101640
         timezone: Asia/Muscat
@@ -160,13 +174,16 @@ regions:
           - Maeskat
           - Mascat
           - Mascate
+          - Maskat
         ascii_name: Muscat
         geonamesid: 287286
         latitude: 23.61333
         longitude: 58.59333
         name: Muscat
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Muscat
+        names_es: 
+          - Mascate
         population: 797000
         timezone: Asia/Muscat
       - 
@@ -174,6 +191,7 @@ regions:
           - Baushar
           - Bawshar
           - bwshr
+          - بوشر
         ascii_name: Bawshar
         geonamesid: 288764
         latitude: 23.55827
@@ -188,6 +206,7 @@ regions:
           - Al-Sib
           - Al-Sīb
           - "As Sib"
+          - "As Sīb"
         ascii_name: "As Sib"
         geonamesid: 288967
         latitude: 23.68028
@@ -209,6 +228,7 @@ regions:
           - "Al Khasab"
           - "Al Khasal"
           - "Al Khaşab"
+          - Khasab
         ascii_name: Khasab
         geonamesid: 287614
         latitude: 26.19167
@@ -223,6 +243,7 @@ regions:
           - "Dib Dibba"
           - "Diba Dib`"
           - "Dibba Al'-Bajakh"
+          - "Dibba Dib"
         ascii_name: "Dib Dibba"
         geonamesid: 288507
         latitude: 26.19778
@@ -244,12 +265,14 @@ regions:
           - "Al Kathir"
           - "As Salala"
           - "As Salalah"
+          - "Aş Şalālah"
         ascii_name: Salalah
         geonamesid: 286621
         latitude: 17.01505
         longitude: 54.09237
         name: Şalālah
-        names_en: ~
+        names_en: 
+          - Salalah
         names_es: ~
         population: 163140
         timezone: Asia/Muscat
@@ -265,12 +288,14 @@ regions:
           - "Al Buraymi"
           - "Al Buraymī"
           - Baraimi
+          - Bireimi
         ascii_name: "Al Buraymi"
         geonamesid: 289317
         latitude: 24.25
         longitude: 55.75
         name: "Al Buraymī"
-        names_en: ~
+        names_en: 
+          - Buraimi
         names_es: ~
         population: 73670
         timezone: Asia/Muscat

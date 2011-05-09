@@ -2,8 +2,13 @@
 geonamesid: 4566966
 iso: PR
 name: "Puerto Rico"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Commonwealth of Puerto Rico"
+  - "Puerto Rico"
+names_es: 
+  - "Estado Libre Asociado de Puerto Rico"
+  - Borinquen
+  - "Puerto Rico"
 regions: 
   - 
     ascii_name: Adjuntas
@@ -402,13 +407,16 @@ regions:
           - Bajamon
           - Bayamon
           - Bayamón
+          - Баямон
         ascii_name: Bayamon
         geonamesid: 4562831
         latitude: 18.39856
         longitude: -66.15572
         name: Bayamón
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bayamón
+        names_es: 
+          - Bayamón
         population: 203499
         timezone: America/Puerto_Rico
     geonamesid: 4562837
@@ -2050,8 +2058,10 @@ regions:
         latitude: 18.01108
         longitude: -66.61406
         name: Ponce
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ponce
+        names_es: 
+          - Ponce
         population: 152634
         timezone: America/Puerto_Rico
     geonamesid: 4566886
@@ -2069,7 +2079,8 @@ regions:
         latitude: 18.34023
         longitude: -67.2499
         name: Rincón
-        names_en: ~
+        names_en: 
+          - Rincon
         names_es: ~
         population: 1499
         timezone: America/Puerto_Rico
@@ -2351,13 +2362,16 @@ regions:
           - "San Chuanas"
           - "San Juan"
           - "San Khuan"
+          - San-Khuan
         ascii_name: "San Juan"
         geonamesid: 4568127
         latitude: 18.46633
         longitude: -66.10572
         name: "San Juan"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Juan"
+        names_es: 
+          - "San Juan"
         population: 418140
         timezone: America/Puerto_Rico
     geonamesid: 4568138

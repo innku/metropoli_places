@@ -2,8 +2,15 @@
 geonamesid: 3508796
 iso: DO
 name: "Dominican Republic"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Dominican Republic"
+  - "Spanish Haiti (historical)"
+names_es: 
+  - "República de Santo Domingo"
+  - "Santo Domingo"
+  - "República Dominicana"
+  - "Haití Español"
+  - Quisqueya
 regions: 
   - 
     ascii_name: "Provincia de Valverde"
@@ -127,6 +134,7 @@ regions:
           - Sabaneta
           - "San Ignacio de Sabaneta"
           - "Santiago Rodriguez"
+          - "Santiago Rodríguez"
         ascii_name: Sabaneta
         geonamesid: 3493383
         latitude: 19.47793
@@ -141,6 +149,7 @@ regions:
           - "Benito Moncion"
           - "Benito Monción"
           - Moncion
+          - Monción
         ascii_name: Moncion
         geonamesid: 3496284
         latitude: 19.41084
@@ -176,6 +185,7 @@ regions:
           - Bisono
           - Bisonó
           - "Jose E. Bisono"
+          - "Jose Elias Bisono"
         ascii_name: "Villa Bisono"
         geonamesid: 3491948
         latitude: 19.56378
@@ -204,12 +214,14 @@ regions:
           - Sant'jago-de-los-Kabal'eros
           - Santiago
           - "Santiago de los Caballeros"
+          - Сантьяго-де-лос-Кабальерос
         ascii_name: "Santiago de los Caballeros"
         geonamesid: 3492914
         latitude: 19.45
         longitude: -70.7
         name: "Santiago de los Caballeros"
-        names_en: ~
+        names_en: 
+          - "Santiago de los Caballeros"
         names_es: ~
         population: 1200000
         timezone: America/Santo_Domingo
@@ -218,6 +230,7 @@ regions:
           - "San Jose de Las Matas"
           - "San Jose de los Matas"
           - "San José de Las Matas"
+          - "San José de los Matas"
         ascii_name: "San Jose de Las Matas"
         geonamesid: 3493103
         latitude: 19.33915
@@ -243,6 +256,7 @@ regions:
           - "Padre Garcia"
           - "Padre García"
           - "Pedro Garcia"
+          - "Pedro García"
         ascii_name: "Pedro Garcia"
         geonamesid: 3495111
         latitude: 19.59202
@@ -328,7 +342,8 @@ regions:
         latitude: 18.46156
         longitude: -69.29718
         name: "San Pedro de Macorís"
-        names_en: ~
+        names_en: 
+          - "San Pedro de Macorís"
         names_es: ~
         population: 217899
         timezone: America/Santo_Domingo
@@ -454,6 +469,7 @@ regions:
           - "Las Matas"
           - "Las Matas de Farfan"
           - "Las Matas de Farfán"
+          - Las-Matas-de-Farfan
         ascii_name: "Las Matas de Farfan"
         geonamesid: 3500370
         latitude: 18.87361
@@ -493,6 +509,7 @@ regions:
           - Boechio
           - Boechío
           - Bohechio
+          - Bohechío
         ascii_name: Bohechio
         geonamesid: 3511262
         latitude: 18.76667
@@ -553,6 +570,7 @@ regions:
           - "Sabana Grande"
           - "Sabana Grande Palenque"
           - "Sabana Grande de Palenque"
+          - "Villa de Sabana Grande de Palenque"
         ascii_name: "Sabana Grande de Palenque"
         geonamesid: 3493480
         latitude: 18.26667
@@ -593,6 +611,7 @@ regions:
           - Cambita
           - "Cambita Garabitas"
           - "Cambita Garabito"
+          - "Cambita Garabitos"
         ascii_name: "Cambita Garabitos"
         geonamesid: 3510637
         latitude: 18.45
@@ -607,6 +626,7 @@ regions:
           - "Benemerita de San Cristobal"
           - "Benemérita de San Cristóbal"
           - "San Cristobal"
+          - "San Cristóbal"
         ascii_name: "San Cristobal"
         geonamesid: 3511540
         latitude: 18.41667
@@ -625,8 +645,10 @@ regions:
         latitude: 18.41667
         longitude: -70.03333
         name: "Bajos de Haina"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Bajos de Haina"
+        names_es: 
+          - "Bajos de Haina"
         population: 66784
         timezone: America/Santo_Domingo
     geonamesid: 3493186
@@ -688,6 +710,7 @@ regions:
           - Samana
           - Samaná
           - "Santa Barbara de Samana"
+          - "Santa Bárbara de Samaná"
         ascii_name: "Santa Barbara de Samana"
         geonamesid: 3492997
         latitude: 19.21667
@@ -713,6 +736,7 @@ regions:
           - "La Terenas"
           - "Las Terenas"
           - "Las Terrenas"
+          - "Las Terreras"
         ascii_name: "Las Terrenas"
         geonamesid: 3500243
         latitude: 19.31667
@@ -815,6 +839,7 @@ regions:
           - Blanco
           - Luperon
           - Luperón
+          - "Puerto de Luperon"
         ascii_name: Luperon
         geonamesid: 3497350
         latitude: 19.89132
@@ -883,7 +908,8 @@ regions:
         latitude: 19.74982
         longitude: -70.40829
         name: Cabarete
-        names_en: ~
+        names_en: 
+          - Cabarete
         names_es: ~
         population: 4094
         timezone: America/Santo_Domingo
@@ -900,7 +926,8 @@ regions:
         timezone: America/Santo_Domingo
     geonamesid: 3494267
     name: "Puerto Plata"
-    names_en: ~
+    names_en: 
+      - "Puerto Plata"
     names_es: ~
   - 
     ascii_name: "Provincia de Peravia"
@@ -979,13 +1006,16 @@ regions:
           - Ban
           - Bani
           - Banti
+          - Baní
         ascii_name: Bani
         geonamesid: 3512067
         latitude: 18.28333
         longitude: -70.33333
         name: Baní
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Baní
+        names_es: 
+          - Baní
         population: 66709
         timezone: America/Santo_Domingo
     geonamesid: 3495015
@@ -1000,6 +1030,7 @@ regions:
           - "Anse a Pitre"
           - "Anse à Pitre"
           - Pedernales
+          - "Puerto de Pedernales"
         ascii_name: Pedernales
         geonamesid: 3495137
         latitude: 18.03838
@@ -1047,6 +1078,7 @@ regions:
           - "Ciudad Trujillo"
           - "Saint Domingue"
           - "Santa Domingo"
+          - "Santo Domingo"
         ascii_name: "Santo Domingo"
         geonamesid: 3492908
         latitude: 18.50012
@@ -1068,6 +1100,7 @@ regions:
           - "Villa de Yamasa"
           - "Villa de Yamasá"
           - Yamasa
+          - Yamasá
         ascii_name: Yamasa
         geonamesid: 3491796
         latitude: 18.77014
@@ -1082,6 +1115,7 @@ regions:
           - "Sabana Grande"
           - "Sabana Grande Boya"
           - "Sabana Grande Boyá"
+          - "Sabana Grande de Boya"
         ascii_name: "Sabana Grande de Boya"
         geonamesid: 3493482
         latitude: 18.95
@@ -1147,6 +1181,7 @@ regions:
           - "El Centro"
           - "El Esperalvillo"
           - Esperalvilla
+          - Esperalvillo
         ascii_name: Esperalvillo
         geonamesid: 3505861
         latitude: 18.81509
@@ -1193,6 +1228,7 @@ regions:
           - "Lucas Evangelista de Pena"
           - "Lucas Evangelista de Peña"
           - "Villa Isabel"
+          - "Villa Vasquez"
         ascii_name: "Villa Vasquez"
         geonamesid: 3491905
         latitude: 19.7411
@@ -1218,6 +1254,7 @@ regions:
           - "Monte Cristi"
           - "Monte Cristy"
           - Monte-Christi
+          - "San Fernando de Monte Cristi"
         ascii_name: "San Fernando de Monte Cristi"
         geonamesid: 3493174
         latitude: 19.86667
@@ -1271,6 +1308,7 @@ regions:
           - Castanuela
           - Castanuelas
           - Castañuela
+          - Castañuelas
         ascii_name: Castanuelas
         geonamesid: 3510083
         latitude: 19.71387
@@ -1325,6 +1363,7 @@ regions:
           - "Juan Adrian"
           - "Juan Adrián"
           - "Juan Aldian"
+          - "Juan Aldián"
         ascii_name: "Juan Adrian"
         geonamesid: 3503950
         latitude: 18.76365
@@ -1339,6 +1378,7 @@ regions:
           - Banao
           - Bonao
           - "Monsenor Nouel"
+          - "Monseñor Nouel"
         ascii_name: Bonao
         geonamesid: 3511233
         latitude: 18.93687
@@ -1374,6 +1414,7 @@ regions:
           - "Ciudad de Nagua"
           - "Julia Molina"
           - Nagua
+          - "Villa Julia Molina"
         ascii_name: Nagua
         geonamesid: 3496021
         latitude: 19.3832
@@ -1504,6 +1545,7 @@ regions:
           - Constanza
           - Costanza
           - Konstancija
+          - "Villa de Constanza"
         ascii_name: Constanza
         geonamesid: 3509363
         latitude: 18.91667
@@ -1518,13 +1560,16 @@ regions:
           - "Concepcion de La Vega"
           - "Concepcion de la Vega"
           - "Concepción de La Vega"
+          - "Concepción de la Vega"
         ascii_name: "Concepcion de La Vega"
         geonamesid: 3509382
         latitude: 19.22207
         longitude: -70.52956
         name: "Concepción de La Vega"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Concepción de la Vega"
+        names_es: 
+          - "Concepción de La Vega"
         population: 102426
         timezone: America/Santo_Domingo
     geonamesid: 3499977
@@ -1539,6 +1584,7 @@ regions:
           - "La Romana"
           - La-Romana
           - Romana
+          - Ла-Романа
         ascii_name: "La Romana"
         geonamesid: 3500957
         latitude: 18.42734
@@ -1587,13 +1633,16 @@ regions:
           - Higueey
           - Higuey
           - Higüey
+          - "Salvaleon de Higueey"
         ascii_name: "Salvaleon de Higuey"
         geonamesid: 3493240
         latitude: 18.61501
         longitude: -68.70798
         name: "Salvaleón de Higüey"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Salvaleón de Higüey"
+        names_es: 
+          - "Salvaleón de Higüey"
         population: 123787
         timezone: America/Santo_Domingo
       - 
@@ -1633,6 +1682,7 @@ regions:
           - "Postrer Rio"
           - "Postrer Rios"
           - "Postrer Río"
+          - "Postrer Ríos"
         ascii_name: "Postrer Rio"
         geonamesid: 3494509
         latitude: 18.54374
@@ -1673,6 +1723,7 @@ regions:
           - Jimani
           - Jimaní
           - "San Jose de Jimani"
+          - "San José de Jimaní"
         ascii_name: Jimani
         geonamesid: 3504077
         latitude: 18.49169
@@ -1712,6 +1763,7 @@ regions:
           - Cristobal
           - Cristóbal
           - "San Cristobal"
+          - "San Cristóbal"
         ascii_name: Cristobal
         geonamesid: 3509191
         latitude: 18.29405
@@ -1855,6 +1907,7 @@ regions:
           - Jamao
           - "Jamao Norte"
           - "Jamao al Morte"
+          - "Jamao al Norte"
         ascii_name: "Jamao al Norte"
         geonamesid: 3504175
         latitude: 19.63552
@@ -1883,6 +1936,7 @@ regions:
           - "Cayetano Bermosen"
           - "Cayetano Germosen"
           - "Cayetano Germosén"
+          - "Gayetano Germosen"
         ascii_name: "Cayetano Germosen"
         geonamesid: 3509989
         latitude: 19.34413
@@ -1904,6 +1958,7 @@ regions:
           - "El Seibo"
           - "Santa Cruz de El Seibo"
           - "Santa Cruz del Seibo"
+          - "Santa Cruz del Seybo"
         ascii_name: "Santa Cruz de El Seibo"
         geonamesid: 3492984
         latitude: 18.76559
@@ -1953,6 +2008,7 @@ regions:
           - "Colonia Rio Limpio"
           - "Colonia Río Limpio"
           - "Rio Limpio"
+          - "Río Limpio"
         ascii_name: "Rio Limpio"
         geonamesid: 3493756
         latitude: 19.25
@@ -2012,6 +2068,7 @@ regions:
           - Comendado
           - Comendador
           - "Elias Pena"
+          - "Elias Peña"
         ascii_name: Comendador
         geonamesid: 3509386
         latitude: 18.8775
@@ -2044,6 +2101,7 @@ regions:
           - Riva
           - Rivas
           - "Villa Riva"
+          - "Villa Rivas"
         ascii_name: "Villa Riva"
         geonamesid: 3491916
         latitude: 19.18068
@@ -2062,8 +2120,10 @@ regions:
         latitude: 19.29518
         longitude: -70.25543
         name: "San Francisco de Macorís"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Francisco de Macorís"
+        names_es: 
+          - "San Francisco de Macorís"
         population: 124763
         timezone: America/Santo_Domingo
       - 
@@ -2234,13 +2294,16 @@ regions:
           - Barahona
           - "Santa Cruz de Barahona"
           - Santa-Krus-de-Baraona
+          - Санта-Крус-де-Бараона
         ascii_name: "Santa Cruz de Barahona"
         geonamesid: 3492985
         latitude: 18.20854
         longitude: -71.10077
         name: "Santa Cruz de Barahona"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santa Cruz de Barahona"
+        names_es: 
+          - "Santa Cruz de Barahona"
         population: 77160
         timezone: America/Santo_Domingo
       - 
@@ -2295,6 +2358,7 @@ regions:
           - "La Cienaga"
           - "La Cienega"
           - "La Ciénaga"
+          - "La Ciénega"
         ascii_name: "La Cienaga"
         geonamesid: 3503100
         latitude: 18.06858
@@ -2309,6 +2373,7 @@ regions:
           - Jaquimelles
           - Jaquimeyes
           - "Las Jaquimelles"
+          - "Los Jaquimelles"
         ascii_name: Jaquimeyes
         geonamesid: 3504160
         latitude: 18.31173
@@ -2348,6 +2413,7 @@ regions:
           - "El Penon"
           - "El Peñón"
           - Penon
+          - Peñón
         ascii_name: "El Penon"
         geonamesid: 3506630
         latitude: 18.29643
@@ -2375,6 +2441,7 @@ regions:
           - Cachon
           - Cachón
           - "El Cachon"
+          - "El Cachón"
         ascii_name: Cachon
         geonamesid: 3510822
         latitude: 18.24833
@@ -2410,6 +2477,7 @@ regions:
           - Jaragua
           - "Jose Trujillo Valdez"
           - "José Trujillo Valdéz"
+          - "Villa Jaragua"
         ascii_name: "Villa Jaragua"
         geonamesid: 3491927
         latitude: 18.49077
@@ -2473,6 +2541,7 @@ regions:
           - Galvah
           - Galvan
           - Galváh
+          - Galván
         ascii_name: Galvan
         geonamesid: 3505517
         latitude: 18.50228
@@ -2532,6 +2601,7 @@ regions:
           - "Tabara Arriba"
           - "Tábara Arriba"
           - "Villa Tabara Arriba"
+          - "Villa Tábara Arriba"
         ascii_name: "Tabara Arriba"
         geonamesid: 3492557
         latitude: 18.57
@@ -2643,6 +2713,7 @@ regions:
           - Asua-de-Kompostela
           - Azua
           - "Azua de Compostela"
+          - "Compostela de Azua"
         ascii_name: "Azua de Compostela"
         geonamesid: 3512208
         latitude: 18.45319

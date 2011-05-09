@@ -2,8 +2,11 @@
 geonamesid: 390903
 iso: GR
 name: Greece
-names_en: ~
-names_es: ~
+names_en: 
+  - Greece
+  - "Hellenic Republic"
+names_es: 
+  - Grecia
 regions: 
   - 
     ascii_name: "Mount Athos"
@@ -13,18 +16,22 @@ regions:
           - Kariai
           - Kariaí
           - Karyaes
+          - Karyes
         ascii_name: Karyes
         geonamesid: 735972
         latitude: 40.25715
         longitude: 24.24498
         name: Karyes
-        names_en: ~
+        names_en: 
+          - Karyes
         names_es: ~
         population: 237
         timezone: Europe/Athens
     geonamesid: 736572
     name: "Mount Athos"
-    names_en: ~
+    names_en: 
+      - "Mount Athos"
+      - "Autonomous Monastic State of the Holy Mountain"
     names_es: ~
   - 
     ascii_name: Attica
@@ -34,6 +41,7 @@ regions:
           - Voula
           - Voúla
           - Vule
+          - Βούλα
         ascii_name: Voula
         geonamesid: 251780
         latitude: 37.84221
@@ -48,6 +56,7 @@ regions:
           - Byron
           - Viron
           - Víron
+          - Βύρων
         ascii_name: Viron
         geonamesid: 251948
         latitude: 37.96667
@@ -90,6 +99,7 @@ regions:
           - Spetsai
           - Spetses
           - Spezzia
+          - Spétsai
         ascii_name: Spetses
         geonamesid: 253356
         latitude: 37.26191
@@ -132,12 +142,14 @@ regions:
           - Koulouri
           - Koúlouri
           - Salamina
+          - Salamis
         ascii_name: Salamis
         geonamesid: 254144
         latitude: 37.96427
         longitude: 23.49649
         name: Salamís
-        names_en: ~
+        names_en: 
+          - Salamina
         names_es: ~
         population: 26964
         timezone: Europe/Athens
@@ -160,13 +172,16 @@ regions:
           - "El Pireo"
           - "El Pireu"
           - "Le Piree"
+          - "Le Pirée"
         ascii_name: Piraeus
         geonamesid: 255274
         latitude: 37.94745
         longitude: 23.63708
         name: Piraeus
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Piraeus
+        names_es: 
+          - "El Pireo"
         population: 172429
         timezone: Europe/Athens
       - 
@@ -174,6 +189,7 @@ regions:
           - Kipoupolis
           - Kipoúpolis
           - Petroupolis
+          - Петроуполис
         ascii_name: Petroupolis
         geonamesid: 255377
         latitude: 38.04187
@@ -188,6 +204,7 @@ regions:
           - Perama
           - Pérama
           - Πέραμα
+          - Перама
         ascii_name: Perama
         geonamesid: 255588
         latitude: 37.96775
@@ -202,6 +219,7 @@ regions:
           - "Alt Phaleron"
           - "Old Faliron"
           - "Palaio Faliro"
+          - "Palaion Faliron"
         ascii_name: "Palaio Faliro"
         geonamesid: 256075
         latitude: 37.92066
@@ -216,6 +234,7 @@ regions:
           - Fokaia
           - Fókaia
           - "Palaia Fokaia"
+          - "Palaiá Fókaia"
         ascii_name: "Palaia Fokaia"
         geonamesid: 256173
         latitude: 37.71995
@@ -230,6 +249,7 @@ regions:
           - Liopesi
           - Liópesi
           - Paiania
+          - Paianía
         ascii_name: Paiania
         geonamesid: 256197
         latitude: 37.95527
@@ -244,6 +264,7 @@ regions:
           - "Nea Kokkinia"
           - Neokokinis
           - Nikaia
+          - "Néa Kokkiniá"
         ascii_name: Nikaia
         geonamesid: 256429
         latitude: 37.96667
@@ -258,6 +279,7 @@ regions:
           - "Nea Smirni"
           - "Nea Smyrne"
           - "Néa Smírni"
+          - "Νέα Σμύρνη"
         ascii_name: "Nea Smirni"
         geonamesid: 256575
         latitude: 37.95
@@ -311,13 +333,16 @@ regions:
           - Megara
           - Megare
           - Mégara
+          - Mégare
         ascii_name: Megara
         geonamesid: 257365
         latitude: 38.0
         longitude: 23.34556
         name: Mégara
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Megara
+        names_es: 
+          - Megara
         population: 24047
         timezone: Europe/Athens
       - 
@@ -325,6 +350,7 @@ regions:
           - Mandhra
           - Mandra
           - Mándhra
+          - Mándra
         ascii_name: Mandra
         geonamesid: 257811
         latitude: 38.06667
@@ -353,6 +379,7 @@ regions:
           - Ergasteria
           - Ergastiria
           - Ergastíria
+          - Laurium
         ascii_name: Lavrion
         geonamesid: 258543
         latitude: 37.71445
@@ -367,6 +394,7 @@ regions:
           - Koubaras
           - Kouvaras
           - Kouvarás
+          - Κουβαράς
         ascii_name: Kouvaras
         geonamesid: 258912
         latitude: 37.83333
@@ -381,6 +409,7 @@ regions:
           - Kefissia
           - Kephisia
           - Kifissia
+          - Kēfissia
         ascii_name: Kifisia
         geonamesid: 259824
         latitude: 38.07438
@@ -395,6 +424,7 @@ regions:
           - Cholargos
           - Holargos
           - Kholargos
+          - Kholargós
         ascii_name: Kholargos
         geonamesid: 259949
         latitude: 38.0
@@ -409,6 +439,7 @@ regions:
           - "Ayios Yeoryios"
           - "Ayios Yeoryios Keratsiniou"
           - "Hagios Georgios Keratsiniou"
+          - Keratsini
         ascii_name: Keratsinion
         geonamesid: 260204
         latitude: 37.9625
@@ -423,12 +454,14 @@ regions:
           - Kallifeja
           - Kallithea
           - Kallithéa
+          - Καλλιθέα
         ascii_name: Kallithea
         geonamesid: 261414
         latitude: 37.95
         longitude: 23.7
         name: Kallithéa
-        names_en: ~
+        names_en: 
+          - Kallithea
         names_es: ~
         population: 107767
         timezone: Europe/Athens
@@ -437,6 +470,7 @@ regions:
           - Kalamaki
           - Kalamakion
           - Kalamáki
+          - Kalamákion
         ascii_name: Kalamaki
         geonamesid: 261614
         latitude: 37.91033
@@ -451,6 +485,7 @@ regions:
           - Kaisariane
           - Kaisariani
           - Kaisarianí
+          - Kesariani
         ascii_name: Kaisariani
         geonamesid: 261678
         latitude: 37.96667
@@ -465,12 +500,14 @@ regions:
           - Hydra
           - Idhra
           - Ydra
+          - Ídhra
         ascii_name: Ydra
         geonamesid: 261822
         latitude: 37.35095
         longitude: 23.46697
         name: Ýdra
-        names_en: ~
+        names_en: 
+          - Hydra
         names_es: ~
         population: 2526
         timezone: Europe/Athens
@@ -493,6 +530,7 @@ regions:
           - Ellenikon
           - Elliniko
           - Ellinikon
+          - Ellinikó
         ascii_name: Ellinikon
         geonamesid: 262719
         latitude: 37.88333
@@ -507,6 +545,7 @@ regions:
           - Elefis
           - Elefsina
           - Elefsis
+          - Elefsína
         ascii_name: Elefsina
         geonamesid: 262752
         latitude: 38.04135
@@ -521,6 +560,7 @@ regions:
           - "Agia Barbara"
           - "Ayia Varvara"
           - "Ayía Varvára"
+          - "Αγία Βαρβάρα"
         ascii_name: "Ayia Varvara"
         geonamesid: 264111
         latitude: 37.98333
@@ -546,13 +586,16 @@ regions:
           - Afina
           - Afini
           - Afiny
+          - "An Aithin"
         ascii_name: Athens
         geonamesid: 264371
         latitude: 37.97945
         longitude: 23.71622
         name: Athens
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Athens
+        names_es: 
+          - Atenas
         population: 729137
         timezone: Europe/Athens
       - 
@@ -560,6 +603,7 @@ regions:
           - Aspropirgos
           - Aspropyrgos
           - Asprópirgos
+          - Kalivia
         ascii_name: Aspropirgos
         geonamesid: 264445
         latitude: 38.06667
@@ -588,6 +632,7 @@ regions:
           - Anaflystos
           - Anavissos
           - Anavyssos
+          - Anáflystos
         ascii_name: Anavyssos
         geonamesid: 265100
         latitude: 37.73333
@@ -602,6 +647,7 @@ regions:
           - Ambelaki
           - Ambelakia
           - Ambeláki
+          - Ambelákia
         ascii_name: Ampelakia
         geonamesid: 265240
         latitude: 37.94902
@@ -616,13 +662,17 @@ regions:
           - Aegina
           - Aigina
           - Aiyina
+          - Aígina
         ascii_name: Aigina
         geonamesid: 265502
         latitude: 37.74667
         longitude: 23.4275
         name: Aígina
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Egine
+          - Aegina
+        names_es: 
+          - Egina
         population: 7823
         timezone: Europe/Athens
       - 
@@ -630,6 +680,7 @@ regions:
           - Aegaleo
           - Aigaleo
           - Aigáleo
+          - Αιγάλεω
         ascii_name: Aigaleo
         geonamesid: 265533
         latitude: 37.98333
@@ -644,6 +695,7 @@ regions:
           - Aiandion
           - Aianteion
           - Aiantion
+          - Aiándion
         ascii_name: Aianteion
         geonamesid: 265546
         latitude: 37.92278
@@ -678,13 +730,16 @@ regions:
           - Teba
           - Tebas
           - Tebo
+          - Teboj
         ascii_name: Thivai
         geonamesid: 252910
         latitude: 38.325
         longitude: 23.31889
         name: Thívai
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Thebes
+        names_es: 
+          - Tebas
         population: 22026
         timezone: Europe/Athens
       - 
@@ -692,6 +747,7 @@ regions:
           - Skiros
           - Skyros
           - Skíros
+          - Skýros
         ascii_name: Skyros
         geonamesid: 253614
         latitude: 38.90417
@@ -706,13 +762,16 @@ regions:
           - Adamas
           - Adhamas
           - Adhámas
+          - Adámas
         ascii_name: Orchomenos
         geonamesid: 256268
         latitude: 38.5
         longitude: 22.98333
         name: Orchomenós
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Orchomenos
+        names_es: 
+          - Orcómeno
         population: 5919
         timezone: Europe/Athens
       - 
@@ -720,6 +779,7 @@ regions:
           - Mandoudhion
           - Mandoúdhion
           - Mantoudi
+          - Mantoudion
         ascii_name: Mantoudion
         geonamesid: 257814
         latitude: 38.8
@@ -734,6 +794,7 @@ regions:
           - Levadhia
           - Levádhia
           - Livadeia
+          - Livadeiá
         ascii_name: Levadeia
         geonamesid: 258463
         latitude: 38.435
@@ -748,12 +809,14 @@ regions:
           - Izdin
           - Lamia
           - Lamija
+          - Lamía
         ascii_name: Lamia
         geonamesid: 258620
         latitude: 38.9
         longitude: 22.43333
         name: Lamía
-        names_en: ~
+        names_en: 
+          - Lamia
         names_es: ~
         population: 47246
         timezone: Europe/Athens
@@ -762,13 +825,16 @@ regions:
           - Calcide
           - Calcis
           - Chalcis
+          - Chalkida
         ascii_name: Chalkida
         geonamesid: 260133
         latitude: 38.46361
         longitude: 23.59944
         name: Chalkída
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chalcis
+        names_es: 
+          - Calcis
         population: 54558
         timezone: Europe/Athens
       - 
@@ -776,6 +842,7 @@ regions:
           - Karpenesion
           - Karpenisi
           - Karpenísi
+          - Καρπενήσιον
         ascii_name: Karpenision
         geonamesid: 260891
         latitude: 38.91667
@@ -790,6 +857,7 @@ regions:
           - Karistos
           - Karysto
           - Karystos
+          - Káristos
         ascii_name: Karystos
         geonamesid: 260935
         latitude: 38.01333
@@ -804,6 +872,7 @@ regions:
           - Istiaia
           - Xirokhori
           - Xirokhorion
+          - Xirokhóri
         ascii_name: Istiaia
         geonamesid: 261720
         latitude: 38.95583
@@ -818,13 +887,16 @@ regions:
           - Ehretrija
           - Eretria
           - Eretrie
+          - Erétria
         ascii_name: Eretria
         geonamesid: 262628
         latitude: 38.4
         longitude: 23.8
         name: Erétria
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Eretria
+        names_es: 
+          - Eretria
         population: 3217
         timezone: Europe/Athens
       - 
@@ -832,6 +904,7 @@ regions:
           - Dhomokos
           - Dhomokós
           - Domokos
+          - Δομοκός
         ascii_name: Domokos
         geonamesid: 263000
         latitude: 39.12722
@@ -846,13 +919,16 @@ regions:
           - Del'fi
           - Del'fy
           - Delfi
+          - Delfoi
         ascii_name: Dhelfoi
         geonamesid: 263219
         latitude: 38.48333
         longitude: 22.5
         name: Dhelfoí
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Delphi
+        names_es: 
+          - Delfos
         population: 2373
         timezone: Europe/Athens
       - 
@@ -860,6 +936,7 @@ regions:
           - Atalandi
           - Atalante
           - Atalándi
+          - Αταλάντη
         ascii_name: Atalanti
         geonamesid: 264390
         latitude: 38.65111
@@ -874,6 +951,7 @@ regions:
           - Arachova
           - Arakhova
           - Aráchova
+          - Arákhova
         ascii_name: Arachova
         geonamesid: 264714
         latitude: 38.48333
@@ -893,7 +971,8 @@ regions:
         latitude: 38.525
         longitude: 22.37306
         name: Ámfissa
-        names_en: ~
+        names_en: 
+          - Amfissa
         names_es: ~
         population: 6854
         timezone: Europe/Athens
@@ -909,6 +988,7 @@ regions:
           - Akrolimne
           - Akrolimni
           - Akrolímni
+          - Golo-Selo
         ascii_name: Akrolimni
         geonamesid: 733768
         latitude: 40.67917
@@ -923,6 +1003,7 @@ regions:
           - Giannitsa
           - Giannitsá
           - Janica
+          - Yannitsa
         ascii_name: Giannitsa
         geonamesid: 733776
         latitude: 40.79194
@@ -937,6 +1018,7 @@ regions:
           - Topsin
           - Topsín
           - Yefira
+          - Yéfira
         ascii_name: Gefyra
         geonamesid: 733802
         latitude: 40.73333
@@ -951,6 +1033,7 @@ regions:
           - Brontou
           - "Kalivia Vrondous"
           - "Kalívia Vrondoús"
+          - Vrondou
         ascii_name: Vrontou
         geonamesid: 733842
         latitude: 40.19222
@@ -965,13 +1048,16 @@ regions:
           - Aigeai
           - Aigéai
           - Bergina
+          - Kutles
         ascii_name: Vergina
         geonamesid: 733901
         latitude: 40.48111
         longitude: 22.31361
         name: Vergína
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Vergina
+        names_es: 
+          - Vergina
         population: 1242
         timezone: Europe/Athens
       - 
@@ -979,6 +1065,7 @@ regions:
           - Beroia
           - Verija
           - Verroia
+          - Vérroia
         ascii_name: Veroia
         geonamesid: 733905
         latitude: 40.52333
@@ -993,6 +1080,7 @@ regions:
           - Vathilakkon
           - Vathilakkos
           - Vathílakkon
+          - Vathílakkos
         ascii_name: Vathylakkos
         geonamesid: 733933
         latitude: 40.76944
@@ -1007,6 +1095,7 @@ regions:
           - Tsakoi
           - Tsakones
           - Tsákones
+          - Τσάκοι
         ascii_name: Tsakoi
         geonamesid: 734003
         latitude: 40.95861
@@ -1021,6 +1110,7 @@ regions:
           - Trilofo
           - Trilophon
           - Trílofo
+          - Zoumbates
         ascii_name: Trilofon
         geonamesid: 734014
         latitude: 40.46722
@@ -1035,6 +1125,7 @@ regions:
           - Trikala
           - Trikkala
           - Tríkkala
+          - Трикала
         ascii_name: Trikala
         geonamesid: 734018
         latitude: 40.59806
@@ -1049,13 +1140,17 @@ regions:
           - Ftohomana
           - Ftohomána
           - "I Protevoussa ton Prosfigon"
+          - "I Protévoussa ton Prosfígon"
         ascii_name: Thessaloniki
         geonamesid: 734077
         latitude: 40.64028
         longitude: 22.94389
         name: Thessaloníki
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Thessaloniki
+        names_es: 
+          - Salónica
+          - Tesalónica
         population: 354290
         timezone: Europe/Athens
       - 
@@ -1063,6 +1158,7 @@ regions:
           - Sedes
           - Sedhes
           - Sédhes
+          - Therme
         ascii_name: Thermi
         geonamesid: 734080
         latitude: 40.54712
@@ -1077,6 +1173,7 @@ regions:
           - Kolokouri
           - Kolokourion
           - Kolokoúri
+          - Kolokoúrion
         ascii_name: Svoronos
         geonamesid: 734120
         latitude: 40.26444
@@ -1102,6 +1199,7 @@ regions:
           - Prebodhista
           - Prebódhista
           - Sosandhra
+          - Sosandra
         ascii_name: Sosandra
         geonamesid: 734195
         latitude: 40.99833
@@ -1116,6 +1214,7 @@ regions:
           - Skhidra
           - Skhídra
           - Skidhra
+          - Skydra
         ascii_name: Skydra
         geonamesid: 734235
         latitude: 40.76722
@@ -1130,6 +1229,7 @@ regions:
           - Leptokarja
           - Leptokarya
           - Leptokaryá
+          - "Skala Leptokarias"
         ascii_name: Leptokarya
         geonamesid: 734256
         latitude: 40.05833
@@ -1144,6 +1244,7 @@ regions:
           - Sindhos
           - Sindos
           - Síndhos
+          - Tekeli
         ascii_name: Sindos
         geonamesid: 734284
         latitude: 40.66972
@@ -1158,6 +1259,7 @@ regions:
           - Sideorastron
           - Siderokastron
           - Sidhirokastron
+          - Sidhirókastron
         ascii_name: Sidirokastron
         geonamesid: 734310
         latitude: 41.23472
@@ -1172,6 +1274,7 @@ regions:
           - Paliani
           - Páliani
           - Sfendami
+          - Sfendamion
         ascii_name: Sfendamion
         geonamesid: 734320
         latitude: 40.41389
@@ -1199,12 +1302,14 @@ regions:
           - Ser
           - Seres
           - Serez
+          - Serra
         ascii_name: Serres
         geonamesid: 734330
         latitude: 41.08556
         longitude: 23.54972
         name: Sérres
-        names_en: ~
+        names_en: 
+          - Serres
         names_es: ~
         population: 55886
         timezone: Europe/Athens
@@ -1213,6 +1318,7 @@ regions:
           - Rodhopolis
           - Rodhópolis
           - Rodopoli
+          - Rodopolis
         ascii_name: Rodopolis
         geonamesid: 734374
         latitude: 41.25778
@@ -1227,6 +1333,7 @@ regions:
           - Rizo
           - Rizon
           - Rizovon
+          - Rizó
         ascii_name: Rizon
         geonamesid: 734385
         latitude: 40.73389
@@ -1241,6 +1348,7 @@ regions:
           - Bostiani
           - Bóstiani
           - Rizomata
+          - Ριζώματα
         ascii_name: Rizomata
         geonamesid: 734386
         latitude: 40.34722
@@ -1255,6 +1363,7 @@ regions:
           - Orizarion
           - Orizárion
           - Rizario
+          - Rizarion
         ascii_name: Rizarion
         geonamesid: 734391
         latitude: 40.78722
@@ -1269,6 +1378,7 @@ regions:
           - Rendini
           - Rendíni
           - Retine
+          - Ρητίνη
         ascii_name: Ritini
         geonamesid: 734396
         latitude: 40.28694
@@ -1283,6 +1393,7 @@ regions:
           - Pefka
           - Péfka
           - Rendziki
+          - Rendzíki
         ascii_name: Pefka
         geonamesid: 734405
         latitude: 40.65722
@@ -1297,6 +1408,7 @@ regions:
           - Bakhovon
           - Bákhovon
           - Promachoi
+          - Promakho
         ascii_name: Promachoi
         geonamesid: 734454
         latitude: 41.02528
@@ -1311,6 +1423,7 @@ regions:
           - Doganji
           - Doganjí
           - Prochoma
+          - Prokhoma
         ascii_name: Prochoma
         geonamesid: 734455
         latitude: 40.79694
@@ -1336,12 +1449,14 @@ regions:
           - Derigovo
           - Piliyiros
           - Pilíyiros
+          - Poliyiros
         ascii_name: Polygyros
         geonamesid: 734517
         latitude: 40.37444
         longitude: 23.43833
         name: Polýgyros
-        names_en: ~
+        names_en: 
+          - Polygyros
         names_es: ~
         population: 10000
         timezone: Europe/Athens
@@ -1350,6 +1465,7 @@ regions:
           - Karasouli
           - Karasoúli
           - Mavrosouli
+          - Mavrosoúli
         ascii_name: Polykastron
         geonamesid: 734540
         latitude: 40.99361
@@ -1364,6 +1480,7 @@ regions:
           - Poliani
           - Polikarpi
           - Polikarpion
+          - Polikárpi
         ascii_name: Polykarpion
         geonamesid: 734543
         latitude: 40.92722
@@ -1378,6 +1495,7 @@ regions:
           - Plagiari
           - Plagiarion
           - Plagiári
+          - Playiari
         ascii_name: Plagiarion
         geonamesid: 734564
         latitude: 40.47417
@@ -1405,6 +1523,7 @@ regions:
           - Chalastra
           - Chalástra
           - Khalastra
+          - Khalástra
         ascii_name: Pyrgos
         geonamesid: 734622
         latitude: 40.62861
@@ -1419,6 +1538,7 @@ regions:
           - Peristasi
           - Peristasis
           - Perístasi
+          - Περίστασις
         ascii_name: Peristasis
         geonamesid: 734698
         latitude: 40.27417
@@ -1446,6 +1566,7 @@ regions:
           - Pendaplatanon
           - Pendaplátanon
           - Pentaplatano
+          - Pentaplatanon
         ascii_name: Pentaplatanon
         geonamesid: 734720
         latitude: 40.81667
@@ -1460,6 +1581,7 @@ regions:
           - Gradhemborion
           - Gradhembórion
           - Pendalofos
+          - Pendálofos
         ascii_name: Pentalofos
         geonamesid: 734722
         latitude: 40.74167
@@ -1474,13 +1596,16 @@ regions:
           - "Archaia Pella"
           - Pela
           - Pella
+          - "Prefektura Pela"
         ascii_name: Pella
         geonamesid: 734726
         latitude: 40.76
         longitude: 22.51917
         name: Pélla
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pella
+        names_es: 
+          - Pella
         population: 2476
         timezone: Europe/Athens
       - 
@@ -1488,6 +1613,7 @@ regions:
           - "Hasan Obasi"
           - "Hasán Óbasi"
           - Pedhinon
+          - Pedhinón
         ascii_name: Pedinon
         geonamesid: 734731
         latitude: 40.90889
@@ -1502,6 +1628,7 @@ regions:
           - Patrida
           - Patris
           - Patrída
+          - Tourkokhori
         ascii_name: Patris
         geonamesid: 734733
         latitude: 40.56111
@@ -1516,12 +1643,14 @@ regions:
           - Paralia
           - "Paralia Katerinis"
           - "Skala Vromeris"
+          - "Skála Vromerís"
         ascii_name: Paralia
         geonamesid: 734757
         latitude: 40.26806
         longitude: 22.59528
         name: Paralía
-        names_en: ~
+        names_en: 
+          - "Paralia Katerinis"
         names_es: ~
         population: 1801
         timezone: Europe/Athens
@@ -1530,6 +1659,7 @@ regions:
           - Axos
           - Eskije
           - Eskijé
+          - "Neon Palaion"
         ascii_name: Axos
         geonamesid: 734819
         latitude: 40.79889
@@ -1544,6 +1674,7 @@ regions:
           - Lozanovon
           - Lozánovon
           - Palaifiton
+          - Palaifyto
         ascii_name: Palaifyton
         geonamesid: 734832
         latitude: 40.78167
@@ -1558,6 +1689,7 @@ regions:
           - Dautbali
           - Daütbalí
           - Oraiokastro
+          - Oraiokastron
         ascii_name: Oraiokastron
         geonamesid: 734883
         latitude: 40.73083
@@ -1572,6 +1704,7 @@ regions:
           - Nesion
           - Nisi
           - Nisí
+          - Νησίον
         ascii_name: Nision
         geonamesid: 734906
         latitude: 40.63694
@@ -1599,6 +1732,7 @@ regions:
           - Milotopos
           - Milótopos
           - "Neos Milotopos"
+          - "Neos Mylotopos"
         ascii_name: "Neos Mylotopos"
         geonamesid: 734938
         latitude: 40.81639
@@ -1613,6 +1747,7 @@ regions:
           - "Neo Rysi"
           - "Neon Rision"
           - "Neon Rission"
+          - "Neon Rysion"
         ascii_name: "Neon Rysion"
         geonamesid: 734946
         latitude: 40.49667
@@ -1627,6 +1762,7 @@ regions:
           - "Neo Agioneri"
           - "Neon Ayionerion"
           - "Néo Agionéri"
+          - "Néon Ayionérion"
         ascii_name: "Neon Agionerion"
         geonamesid: 734957
         latitude: 40.80861
@@ -1641,6 +1777,7 @@ regions:
           - Neochorouda
           - Neochoroúda
           - Neokhoroudha
+          - Neokhoroúdha
         ascii_name: Neochorouda
         geonamesid: 734958
         latitude: 40.73667
@@ -1655,6 +1792,7 @@ regions:
           - "Neoi Epibatai"
           - "Neoi Epibates"
           - "Neoi Epivates"
+          - "Néoi Epivátes"
         ascii_name: "Neoi Epivatai"
         geonamesid: 734973
         latitude: 40.50028
@@ -1669,6 +1807,7 @@ regions:
           - "Nea Zichne"
           - "Nea Zikhna"
           - "Nea Zikhni"
+          - "Néa Zíkhna"
         ascii_name: "Nea Zichni"
         geonamesid: 734977
         latitude: 41.03306
@@ -1694,6 +1833,7 @@ regions:
           - Michianio
           - "Nea Mechaniona"
           - "Nea Mikhaniona"
+          - "Néa Mikhanióna"
         ascii_name: "Nea Michaniona"
         geonamesid: 735001
         latitude: 40.46444
@@ -1734,6 +1874,7 @@ regions:
           - Arapli
           - Araplí
           - Lakhanokipoi
+          - Lakhanokipos
         ascii_name: "Nea Magnisia"
         geonamesid: 735004
         latitude: 40.6875
@@ -1748,6 +1889,7 @@ regions:
           - "Nea Ephesos"
           - Spi
           - Stipi
+          - Stoupi
         ascii_name: "Nea Efesos"
         geonamesid: 735023
         latitude: 40.23
@@ -1776,6 +1918,7 @@ regions:
           - "Mikro Monastiri"
           - "Mikro Monastirion"
           - "Mikron Monasterion"
+          - "Mikró Monastíri"
         ascii_name: "Mikron Monastirion"
         geonamesid: 735115
         latitude: 40.70583
@@ -1790,6 +1933,7 @@ regions:
           - Hojalar
           - Hojalár
           - Mikrokambos
+          - Mikrókambos
         ascii_name: Mikrokampos
         geonamesid: 735135
         latitude: 40.83861
@@ -1804,6 +1948,7 @@ regions:
           - Baltza
           - Báltza
           - Melissochori
+          - Melissochóri
         ascii_name: Melissochorion
         geonamesid: 735231
         latitude: 40.76667
@@ -1831,6 +1976,7 @@ regions:
           - Mavrovouni
           - Mavrovounion
           - Mavrovoúni
+          - Mavrovoúnion
         ascii_name: Mavrovounion
         geonamesid: 735277
         latitude: 40.78222
@@ -1858,6 +2004,7 @@ regions:
           - Mandalo
           - Mandalon
           - Mandalovon
+          - Mandhalon
         ascii_name: Mandalon
         geonamesid: 735338
         latitude: 40.85833
@@ -1872,6 +2019,7 @@ regions:
           - "Ayios Dhimitrios"
           - Dion
           - Malathria
+          - Malathriá
         ascii_name: Dion
         geonamesid: 735342
         latitude: 40.17333
@@ -1886,6 +2034,7 @@ regions:
           - Makrochori
           - Makrochóri
           - Makrokhori
+          - Makrokhorion
         ascii_name: Makrochorion
         geonamesid: 735347
         latitude: 40.55139
@@ -1900,6 +2049,7 @@ regions:
           - Makriyialos
           - Makrygialos
           - Makríyialos
+          - Μακρύγιαλος
         ascii_name: Makrygialos
         geonamesid: 735348
         latitude: 40.41639
@@ -1927,6 +2077,7 @@ regions:
           - Lophos
           - Ziaziakon
           - Ziáziakon
+          - Zjazjakon
         ascii_name: Lofos
         geonamesid: 735375
         latitude: 40.24472
@@ -1941,13 +2092,16 @@ regions:
           - Letokhori
           - Litochoro
           - Litochoron
+          - Litohoron
         ascii_name: Litochoron
         geonamesid: 735399
         latitude: 40.10056
         longitude: 22.49778
         name: Litóchoron
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Litochoro
+        names_es: 
+          - Litochoro
         population: 6709
         timezone: Europe/Athens
       - 
@@ -1955,6 +2109,7 @@ regions:
           - Aivation
           - Aïvátion
           - Lete
+          - Λητή
         ascii_name: Liti
         geonamesid: 735400
         latitude: 40.74528
@@ -1969,6 +2124,7 @@ regions:
           - Leianovergi
           - Leianovérgi
           - Lianobergion
+          - Lianoverion
         ascii_name: Leianovergion
         geonamesid: 735434
         latitude: 40.63778
@@ -1983,6 +2139,7 @@ regions:
           - Laina
           - Layina
           - Layiná
+          - Laïná
         ascii_name: Lagyna
         geonamesid: 735472
         latitude: 40.72306
@@ -1997,12 +2154,15 @@ regions:
           - Lagkadas
           - Lagkadás
           - Lankadas
+          - Λαγκαδάς
         ascii_name: Lagkadas
         geonamesid: 735481
         latitude: 40.75
         longitude: 23.06667
         name: Lagkadás
-        names_en: ~
+        names_en: 
+          - Lagkadás
+          - Lagkadas
         names_es: ~
         population: 7215
         timezone: Europe/Athens
@@ -2011,6 +2171,7 @@ regions:
           - Krithea
           - Krithia
           - Krithéa
+          - Yeni-Koi
         ascii_name: Krithia
         geonamesid: 735523
         latitude: 40.84111
@@ -2025,6 +2186,7 @@ regions:
           - Krestone
           - Kriston
           - Kristón
+          - Sari-Gol
         ascii_name: Kristoni
         geonamesid: 735526
         latitude: 40.95556
@@ -2039,6 +2201,7 @@ regions:
           - "Kria Vrisi"
           - "Kría Vrísi"
           - Plasna
+          - Plásna
         ascii_name: "Krya Vrysi"
         geonamesid: 735546
         latitude: 40.68722
@@ -2105,6 +2268,7 @@ regions:
           - "Ano Kopanos"
           - Kopanos
           - "Áno Kopanós"
+          - Κοπανός
         ascii_name: Kopanos
         geonamesid: 735630
         latitude: 40.63361
@@ -2119,6 +2283,7 @@ regions:
           - Kondariotissa
           - Kondariótissa
           - Kontariotissa
+          - Koundouriotissa
         ascii_name: Kontariotissa
         geonamesid: 735638
         latitude: 40.22889
@@ -2133,6 +2298,7 @@ regions:
           - Kolindhro
           - Kolindhró
           - Kolindros
+          - Κολινδρός
         ascii_name: Kolindros
         geonamesid: 735654
         latitude: 40.47583
@@ -2147,6 +2313,7 @@ regions:
           - Kleidi
           - Kleidion
           - Kleidí
+          - Kleidíon
         ascii_name: Kleidion
         geonamesid: 735695
         latitude: 40.56573
@@ -2161,6 +2328,7 @@ regions:
           - Kitros
           - Pidhna
           - Pidna
+          - Pídhna
         ascii_name: Kitros
         geonamesid: 735702
         latitude: 40.37556
@@ -2175,6 +2343,7 @@ regions:
           - Kimina
           - Kymina
           - Kímina
+          - Yunjidhes
         ascii_name: Kymina
         geonamesid: 735732
         latitude: 40.61472
@@ -2189,13 +2358,16 @@ regions:
           - Kilkis
           - Kilkís
           - Kukush
+          - "Nomos Kilkis"
         ascii_name: Kilkis
         geonamesid: 735736
         latitude: 40.99194
         longitude: 22.87083
         name: Kilkís
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kilkis
+        names_es: 
+          - Kilkís
         population: 19734
         timezone: Europe/Athens
       - 
@@ -2203,6 +2375,7 @@ regions:
           - Chalkidon
           - Chalkidona
           - Chalkidón
+          - Chalkidóna
         ascii_name: Chalkidon
         geonamesid: 735803
         latitude: 40.73306
@@ -2217,6 +2390,7 @@ regions:
           - "Kato Melea"
           - "Kato Milia"
           - "Káto Miliá"
+          - "Κάτω Μέλεα"
         ascii_name: "Kato Milea"
         geonamesid: 735881
         latitude: 40.24833
@@ -2231,6 +2405,7 @@ regions:
           - "Kato Lipochori"
           - "Kato Lipochorion"
           - "Kato Lipokhorion"
+          - "Káto Lipochóri"
         ascii_name: Lipochorion
         geonamesid: 735888
         latitude: 40.75889
@@ -2245,12 +2420,14 @@ regions:
           - Aikaterini
           - Aikateríni
           - Katerina
+          - Katerine
         ascii_name: Katerini
         geonamesid: 735914
         latitude: 40.27194
         longitude: 22.5025
         name: Kateríni
-        names_en: ~
+        names_en: 
+          - Katerini
         names_es: ~
         population: 53293
         timezone: Europe/Athens
@@ -2273,6 +2450,7 @@ regions:
           - Kariotissa
           - Kariótissa
           - Karyotissa
+          - Καρυώτισσα
         ascii_name: Karyotissa
         geonamesid: 735961
         latitude: 40.76833
@@ -2287,6 +2465,7 @@ regions:
           - Karajohali
           - Karajohalí
           - Kardhia
+          - Kardhiá
         ascii_name: Kardia
         geonamesid: 735975
         latitude: 40.46778
@@ -2301,6 +2480,7 @@ regions:
           - Kambanis
           - Kambánis
           - Kampanes
+          - "Karaja Kadi"
         ascii_name: Kampanis
         geonamesid: 736014
         latitude: 40.88806
@@ -2315,6 +2495,7 @@ regions:
           - Kalochori
           - Kalochóri
           - Kalokhorion
+          - Kalokhórion
         ascii_name: Kalochorion
         geonamesid: 736029
         latitude: 40.64139
@@ -2329,6 +2510,7 @@ regions:
           - Kalitea
           - Kallifeja
           - Vromeri
+          - Vromerí
         ascii_name: Kallithea
         geonamesid: 736039
         latitude: 40.27639
@@ -2343,6 +2525,7 @@ regions:
           - "Agios Spyridon"
           - "Kalivia Kondariotissis"
           - "Kalivia Koundouriotissas"
+          - "Kalivia Koundouriotissis"
         ascii_name: "Agios Spyridon"
         geonamesid: 736058
         latitude: 40.20667
@@ -2370,6 +2553,7 @@ regions:
           - Kale
           - Kalendra
           - Kaléndra
+          - Καλή
         ascii_name: Kali
         geonamesid: 736071
         latitude: 40.82
@@ -2384,12 +2568,14 @@ regions:
           - Kalamaria
           - Kalamarija
           - Kalamariá
+          - Kalamarya
         ascii_name: Kalamaria
         geonamesid: 736083
         latitude: 40.5825
         longitude: 22.95028
         name: Kalamariá
-        names_en: ~
+        names_en: 
+          - Kalamaria
         names_es: ~
         population: 91617
         timezone: Europe/Athens
@@ -2398,6 +2584,7 @@ regions:
           - Hierissos
           - Ierisos
           - Ierissos
+          - Ierissós
         ascii_name: Ierissos
         geonamesid: 736130
         latitude: 40.4
@@ -2412,6 +2599,7 @@ regions:
           - Goumenissa
           - Goumenitsa
           - Gouménitsa
+          - Γουμένισσα
         ascii_name: Goumenissa
         geonamesid: 736166
         latitude: 40.94389
@@ -2426,6 +2614,7 @@ regions:
           - Gallikon
           - Gallikos
           - Gallikón
+          - Salamanli
         ascii_name: Gallikos
         geonamesid: 736199
         latitude: 40.85917
@@ -2440,6 +2629,7 @@ regions:
           - Galatades
           - Galatadhes
           - Galatádhes
+          - Kadinovon
         ascii_name: Galatades
         geonamesid: 736210
         latitude: 40.75444
@@ -2454,6 +2644,7 @@ regions:
           - Exaplatanon
           - Exaplatanos
           - Exaplátanon
+          - Kapiniani
         ascii_name: Exaplatanos
         geonamesid: 736283
         latitude: 40.97722
@@ -2468,6 +2659,7 @@ regions:
           - Asiklar
           - Asiklár
           - Evropos
+          - Evropós
         ascii_name: Evropos
         geonamesid: 736288
         latitude: 40.89444
@@ -2482,6 +2674,7 @@ regions:
           - Efkarpia
           - Efkarpía
           - Evkarpia
+          - Evkarpía
         ascii_name: Efkarpia
         geonamesid: 736296
         latitude: 40.68778
@@ -2522,12 +2715,14 @@ regions:
           - Edessa
           - Edhessa
           - Voden
+          - Vodena
         ascii_name: Edessa
         geonamesid: 736357
         latitude: 40.80056
         longitude: 22.04722
         name: Édessa
-        names_en: ~
+        names_en: 
+          - Edessa
         names_es: ~
         population: 18669
         timezone: Europe/Athens
@@ -2536,6 +2731,7 @@ regions:
           - Dhrosaton
           - Dhrosáton
           - Drosato
+          - Drosaton
         ascii_name: Drosaton
         geonamesid: 736381
         latitude: 41.16278
@@ -2550,6 +2746,7 @@ regions:
           - Dhrimos
           - Dhrimós
           - Drimiglava
+          - Drimíglava
         ascii_name: Drymos
         geonamesid: 736386
         latitude: 40.78139
@@ -2564,6 +2761,7 @@ regions:
           - Dhiavatos
           - Dhiavatós
           - Diabatos
+          - Διαβατός
         ascii_name: Diavatos
         geonamesid: 736449
         latitude: 40.54556
@@ -2578,6 +2776,7 @@ regions:
           - Dhiavata
           - Dhiavatá
           - Diabata
+          - Diavata
         ascii_name: "Nea Ionia"
         geonamesid: 736450
         latitude: 40.68889
@@ -2592,6 +2791,7 @@ regions:
           - "Ayios Yeoryios"
           - Yiannissa
           - Yiánnissa
+          - "Áyios Yeóryios"
         ascii_name: "Agios Georgios"
         geonamesid: 736581
         latitude: 40.60111
@@ -2606,6 +2806,7 @@ regions:
           - "Ayios Petros"
           - Petrovon
           - Pétrovon
+          - "Áyios Pétros"
         ascii_name: "Agios Petros"
         geonamesid: 736592
         latitude: 40.86472
@@ -2620,6 +2821,7 @@ regions:
           - "Agios Loukas"
           - "Ayios Loukas"
           - "Áyios Loukás"
+          - "Άγιος Λουκάς"
         ascii_name: "Agios Loukas"
         geonamesid: 736602
         latitude: 40.71944
@@ -2634,6 +2836,7 @@ regions:
           - "Ayios Athanasios"
           - Kavakli
           - Kavaklí
+          - "Áyios Athanásios"
         ascii_name: "Agios Athanasios"
         geonamesid: 736621
         latitude: 40.71722
@@ -2648,6 +2851,7 @@ regions:
           - "Agia Triada"
           - "Agía Triáda"
           - "Ayia Trias"
+          - "Ayía Triás"
         ascii_name: "Agia Trias"
         geonamesid: 736638
         latitude: 40.49944
@@ -2662,6 +2866,7 @@ regions:
           - Axioupole
           - Axioupoli
           - Axioúpoli
+          - Boemitsa
         ascii_name: Axioupolis
         geonamesid: 736661
         latitude: 40.98361
@@ -2676,6 +2881,7 @@ regions:
           - Athira
           - Athiras
           - Athyra
+          - Athíras
         ascii_name: Athyra
         geonamesid: 736682
         latitude: 40.82528
@@ -2690,6 +2896,7 @@ regions:
           - Arsenio
           - Arsenion
           - Arsenios
+          - Arsénio
         ascii_name: Arsenion
         geonamesid: 736725
         latitude: 40.71417
@@ -2704,6 +2911,7 @@ regions:
           - Arnaia
           - Laringovi
           - Laringóvi
+          - Lerigovo
         ascii_name: Arnaia
         geonamesid: 736733
         latitude: 40.48652
@@ -2718,6 +2926,7 @@ regions:
           - Ardhea
           - Ardhéa
           - Aridaia
+          - Aridea
         ascii_name: Aridaia
         geonamesid: 736753
         latitude: 40.97306
@@ -2732,6 +2941,7 @@ regions:
           - Arabessos
           - Obar
           - Ombar
+          - Óbar
         ascii_name: Aravissos
         geonamesid: 736762
         latitude: 40.84
@@ -2746,6 +2956,7 @@ regions:
           - Apsalos
           - Dragomanitsa
           - Dragománitsa
+          - Άψαλος
         ascii_name: Apsalos
         geonamesid: 736767
         latitude: 40.89278
@@ -2760,6 +2971,7 @@ regions:
           - Angelochori
           - Angelochorion
           - Angelochóri
+          - Angelochórion
         ascii_name: Angelochorion
         geonamesid: 736843
         latitude: 40.67833
@@ -2774,6 +2986,7 @@ regions:
           - Agkathia
           - Agkathiá
           - Angathia
+          - Angathiá
         ascii_name: Agkathia
         geonamesid: 736847
         latitude: 40.55583
@@ -2788,6 +3001,7 @@ regions:
           - Anatoliko
           - Anatolikon
           - Anatolikó
+          - Valmada
         ascii_name: Anatolikon
         geonamesid: 736859
         latitude: 40.66306
@@ -2802,6 +3016,7 @@ regions:
           - Ambeliai
           - Ambelies
           - Ambeliés
+          - Ambelíai
         ascii_name: Ampeleiai
         geonamesid: 736902
         latitude: 40.83361
@@ -2816,6 +3031,7 @@ regions:
           - Alexandreia
           - Alexandria
           - Alexándreia
+          - Alexándria
         ascii_name: Alexandreia
         geonamesid: 736929
         latitude: 40.62667
@@ -2830,6 +3046,7 @@ regions:
           - Aiginio
           - Aiginion
           - Aigínio
+          - Aiyinion
         ascii_name: Aiginion
         geonamesid: 736964
         latitude: 40.50139
@@ -2844,6 +3061,7 @@ regions:
           - Adendro
           - Adendron
           - Adhendhron
+          - Adhendron
         ascii_name: Adendron
         geonamesid: 737002
         latitude: 40.67167
@@ -2946,6 +3164,7 @@ regions:
           - Gergere
           - Yeryeri
           - Yéryeri
+          - Γέργερη
         ascii_name: Yeryeri
         geonamesid: 251366
         latitude: 35.13333
@@ -2960,6 +3179,7 @@ regions:
           - Tsikalaria
           - Tsikalariá
           - Tsikalaryia
+          - Tsikalaryiá
         ascii_name: Tsikalaria
         geonamesid: 252486
         latitude: 35.48333
@@ -2974,6 +3194,7 @@ regions:
           - Dhivaki
           - Dhiváki
           - Timbakion
+          - Timbákion
         ascii_name: Tympakion
         geonamesid: 252862
         latitude: 35.06667
@@ -2988,6 +3209,7 @@ regions:
           - Tilisos
           - Tilissos
           - Tylisos
+          - Tylissos
         ascii_name: Tilisos
         geonamesid: 252864
         latitude: 35.3
@@ -3002,6 +3224,7 @@ regions:
           - Thrapsano
           - Thrapsanon
           - Thrapsanos
+          - Thrapsanó
         ascii_name: Thrapsanon
         geonamesid: 252889
         latitude: 35.18333
@@ -3016,12 +3239,14 @@ regions:
           - Stalida
           - Stalis
           - Σταλίς
+          - Σταλιδα
         ascii_name: Stalis
         geonamesid: 253305
         latitude: 35.29257
         longitude: 25.43292
         name: Stalís
-        names_en: ~
+        names_en: 
+          - Stalida
         names_es: ~
         population: 1182
         timezone: Europe/Athens
@@ -3030,6 +3255,7 @@ regions:
           - Souda
           - Soudha
           - Soúdha
+          - Σούδα
         ascii_name: Souda
         geonamesid: 253456
         latitude: 35.48444
@@ -3044,6 +3270,7 @@ regions:
           - Schisma
           - Skhisma
           - Skhísma
+          - Σχίσμα
         ascii_name: Skhisma
         geonamesid: 253666
         latitude: 35.26667
@@ -3058,6 +3285,7 @@ regions:
           - Skalani
           - Skalanion
           - Skaláni
+          - Skalánion
         ascii_name: Skalanion
         geonamesid: 253717
         latitude: 35.28333
@@ -3072,6 +3300,7 @@ regions:
           - Seteia
           - Sitia
           - Sitía
+          - Σητεία
         ascii_name: Siteia
         geonamesid: 253759
         latitude: 35.2
@@ -3086,13 +3315,16 @@ regions:
           - "Nomos Rethymnes"
           - "PLATANIAS RETHYMNO"
           - "Prefectura Rethimno"
+          - "Prefettura di Rethymno"
         ascii_name: Rethymnon
         geonamesid: 254352
         latitude: 35.36472
         longitude: 24.47139
         name: Réthymnon
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rethymno
+        names_es: 
+          - Rétino
         population: 29907
         timezone: Europe/Athens
       - 
@@ -3100,6 +3332,7 @@ regions:
           - "Kami Kasteli"
           - "Kanli Kastellion"
           - "Kanlí Kastéllion"
+          - "Profitis Ilias"
         ascii_name: "Profitis Ilias"
         geonamesid: 254599
         latitude: 35.2
@@ -3125,6 +3358,7 @@ regions:
           - Pithari
           - Pitharion
           - Pithári
+          - Pithárion
         ascii_name: Pitharion
         geonamesid: 255161
         latitude: 35.51667
@@ -3150,6 +3384,7 @@ regions:
           - Peribolia
           - Perivolia
           - Perivólia
+          - Περιβόλια
         ascii_name: Perivolia
         geonamesid: 255507
         latitude: 35.48333
@@ -3177,6 +3412,7 @@ regions:
           - "Kastelli Milopotamou"
           - "Kastélli Milopotámou"
           - Panormon
+          - Panormos
         ascii_name: Panormos
         geonamesid: 255849
         latitude: 35.41667
@@ -3191,6 +3427,7 @@ regions:
           - Palaiochora
           - Palaiochóra
           - Palaiokhora
+          - Palaiokhóra
         ascii_name: Palaiochora
         geonamesid: 256131
         latitude: 35.23333
@@ -3205,6 +3442,7 @@ regions:
           - Palaikastro
           - Palaikastron
           - Palaiokastro
+          - Palaiokastron
         ascii_name: Palaikastron
         geonamesid: 256155
         latitude: 35.2
@@ -3219,6 +3457,7 @@ regions:
           - Nerokouros
           - Nerokourou
           - Nerokoúros
+          - Nerokoúrou
         ascii_name: Nerokouros
         geonamesid: 256449
         latitude: 35.48333
@@ -3233,6 +3472,7 @@ regions:
           - Neapole
           - Neapoli
           - Neapolis
+          - Neápoli
         ascii_name: Neapolis
         geonamesid: 256589
         latitude: 35.25389
@@ -3247,6 +3487,7 @@ regions:
           - Mouzouras
           - Mouzourás
           - Muzuras
+          - Μουζουράς
         ascii_name: Mouzouras
         geonamesid: 256660
         latitude: 35.53333
@@ -3261,6 +3502,7 @@ regions:
           - Mourniai
           - Mourniaí
           - Mournies
+          - Mournion
         ascii_name: Mourniai
         geonamesid: 256696
         latitude: 35.47639
@@ -3275,6 +3517,7 @@ regions:
           - Mochos
           - Mokho
           - Mokhos
+          - Mokhós
         ascii_name: Mokhos
         geonamesid: 256838
         latitude: 35.26667
@@ -3289,6 +3532,7 @@ regions:
           - Mires
           - Moirai
           - Moirais
+          - Moires
         ascii_name: Moirai
         geonamesid: 256842
         latitude: 35.05
@@ -3303,6 +3547,7 @@ regions:
           - Malia
           - Mallia
           - Mália
+          - Mállia
         ascii_name: Malia
         geonamesid: 257859
         latitude: 35.28333
@@ -3330,6 +3575,7 @@ regions:
           - Krouson
           - Krousonas
           - Krousson
+          - Kroussón
         ascii_name: Krouson
         geonamesid: 258744
         latitude: 35.23333
@@ -3358,12 +3604,14 @@ regions:
           - Kolimbari
           - Kolimbári
           - Kolimvari
+          - Kolimvarion
         ascii_name: Kolimvarion
         geonamesid: 259508
         latitude: 35.55
         longitude: 23.78333
         name: Kolimvárion
-        names_en: ~
+        names_en: 
+          - Kolimbári
         names_es: ~
         population: 1032
         timezone: Europe/Athens
@@ -3372,6 +3620,7 @@ regions:
           - "Khanion tou Kokkini"
           - "Khánion toú Kokkíni"
           - "Kokkini Chani"
+          - "Kokkini Khanion"
         ascii_name: "Kokkini Hani"
         geonamesid: 259578
         latitude: 35.32794
@@ -3386,6 +3635,7 @@ regions:
           - Kastelli
           - Kastellion
           - Kastélli
+          - Kastéllion
         ascii_name: Kissamos
         geonamesid: 259718
         latitude: 35.49389
@@ -3400,13 +3650,16 @@ regions:
           - Candia
           - Canea
           - Chania
+          - Chanion
         ascii_name: Chania
         geonamesid: 260114
         latitude: 35.51222
         longitude: 24.01556
         name: Chaniá
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chania
+        names_es: 
+          - "La Canea"
         population: 54565
         timezone: Europe/Athens
       - 
@@ -3414,6 +3667,7 @@ regions:
           - "Kato Chorion"
           - "Kato Khorio"
           - "Kato Khorion"
+          - "Káto Khorió"
         ascii_name: "Kato Khorion"
         geonamesid: 260567
         latitude: 35.05
@@ -3428,6 +3682,7 @@ regions:
           - "Kato Asitai"
           - "Kato Asitais"
           - "Káto Asítai"
+          - "Káto Asítais"
         ascii_name: "Kato Asitai"
         geonamesid: 260630
         latitude: 35.2
@@ -3442,6 +3697,7 @@ regions:
           - Kasteli
           - Kastelli
           - Kastellion
+          - "Kastellion Pedhiadhos"
         ascii_name: Kastellion
         geonamesid: 260804
         latitude: 35.2
@@ -3456,6 +3712,7 @@ regions:
           - Kalivai
           - Kalivia
           - "Kalivia Vamou"
+          - Kalybai
         ascii_name: Kalivai
         geonamesid: 261497
         latitude: 35.45
@@ -3470,13 +3727,17 @@ regions:
           - Candia
           - Candie
           - Candía
+          - Càndia
         ascii_name: Irakleion
         geonamesid: 261745
         latitude: 35.32787
         longitude: 25.14341
         name: Irákleion
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Heraklion
+        names_es: 
+          - Candía
+          - Heraklion
         population: 137154
         timezone: Europe/Athens
       - 
@@ -3484,12 +3745,14 @@ regions:
           - Hierapetra
           - Ierapetra
           - Ierapitna
+          - Kasteli
         ascii_name: Ierapetra
         geonamesid: 261814
         latitude: 35.01
         longitude: 25.73528
         name: Ierápetra
-        names_en: ~
+        names_en: 
+          - Ierapetra
         names_es: ~
         population: 12536
         timezone: Europe/Athens
@@ -3498,6 +3761,7 @@ regions:
           - "Gra Liyia"
           - "Gra Liyiá"
           - "Gra Lygia"
+          - "Metokhi Gra Liyia"
         ascii_name: "Gra Liyia"
         geonamesid: 261910
         latitude: 35.01667
@@ -3512,6 +3776,7 @@ regions:
           - Gouvais
           - Gouves
           - Goúvais
+          - Goúves
         ascii_name: Gouvai
         geonamesid: 261921
         latitude: 35.3105
@@ -3526,12 +3791,14 @@ regions:
           - Gournai
           - Gournais
           - Gournes
+          - Gouvai
         ascii_name: Gournai
         geonamesid: 261935
         latitude: 35.31667
         longitude: 25.28333
         name: Goúrnai
-        names_en: ~
+        names_en: 
+          - Gouves
         names_es: ~
         population: 1539
         timezone: Europe/Athens
@@ -3540,6 +3807,7 @@ regions:
           - Gazi
           - Gazion
           - Gázi
+          - Gázion
         ascii_name: Gazion
         geonamesid: 262067
         latitude: 35.33333
@@ -3565,6 +3833,7 @@ regions:
           - "Ano Arkhanai"
           - "Ano Arkhanes"
           - "Ano Arkhánai"
+          - "Epano Archanai"
         ascii_name: "Epano Arkhanai"
         geonamesid: 262683
         latitude: 35.23333
@@ -3579,6 +3848,7 @@ regions:
           - Daratsos
           - Darátsos
           - Dharatsos
+          - Dharátsos
         ascii_name: Dharatsos
         geonamesid: 263257
         latitude: 35.5
@@ -3593,13 +3863,17 @@ regions:
           - "Aghios Nicolaos"
           - "Aghios Nikolaos"
           - "Agios Nikolaos"
+          - "Agios Nikolaos Lasithiou"
         ascii_name: "Agios Nikolaos"
         geonamesid: 263824
         latitude: 35.19139
         longitude: 25.71333
         name: "Ágios Nikólaos"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Aghios Nikolaos"
+          - "Agios Nikolaos"
+        names_es: 
+          - "Aghios Nicolaos"
         population: 10799
         timezone: Europe/Athens
       - 
@@ -3618,12 +3892,14 @@ regions:
           - "Agia Marina"
           - "Ayia Marina"
           - "Ayía Marína"
+          - "Αγία Μαρίνα"
         ascii_name: "Ayia Marina"
         geonamesid: 264223
         latitude: 35.51667
         longitude: 23.93333
         name: "Ayía Marína"
-        names_en: ~
+        names_en: 
+          - "Agia Marina"
         names_es: ~
         population: 1671
         timezone: Europe/Athens
@@ -3632,6 +3908,7 @@ regions:
           - "Agia Galene"
           - "Ayia Galini"
           - "Ayía Galíni"
+          - "Αγία Γαλήνη"
         ascii_name: "Ayia Galini"
         geonamesid: 264260
         latitude: 35.1
@@ -3646,6 +3923,7 @@ regions:
           - Atsipopoulon
           - Atsipópoulon
           - Atsotopoulon
+          - Atsotópoulon
         ascii_name: Atsipopoulon
         geonamesid: 264359
         latitude: 35.35
@@ -3660,6 +3938,7 @@ regions:
           - Asemion
           - Asimi
           - Asimion
+          - Asími
         ascii_name: Asimion
         geonamesid: 264501
         latitude: 35.05
@@ -3674,6 +3953,7 @@ regions:
           - Arkalochori
           - Arkalochorion
           - Arkalochóri
+          - Arkalochórion
         ascii_name: Arkalochorion
         geonamesid: 264642
         latitude: 35.15
@@ -3688,6 +3968,7 @@ regions:
           - Anogeia
           - Anoghia
           - Anogia
+          - Anoyia
         ascii_name: Anogeia
         geonamesid: 264806
         latitude: 35.28333
@@ -3702,6 +3983,7 @@ regions:
           - Analepsis
           - Analipsis
           - Análipsis
+          - Ανάληψις
         ascii_name: Analipsis
         geonamesid: 265127
         latitude: 35.31667
@@ -3716,6 +3998,7 @@ regions:
           - Alikarnassos
           - Alikarnassós
           - "Nea Alikarnassos"
+          - "Néa Alikarnassós"
         ascii_name: "Nea Alikarnassos"
         geonamesid: 408628
         latitude: 35.33333
@@ -3750,6 +4033,7 @@ regions:
           - Eskije
           - Ksanti
           - Xanthe
+          - Xanthē
         ascii_name: Xanthi
         geonamesid: 733840
         latitude: 41.14139
@@ -3764,6 +4048,7 @@ regions:
           - Tikheron
           - Tikherón
           - Tikhion
+          - Tychero
         ascii_name: Tycheron
         geonamesid: 734061
         latitude: 41.03333
@@ -3778,6 +4063,7 @@ regions:
           - Limin
           - Limín
           - Thasas
+          - Thasos
         ascii_name: Thasos
         geonamesid: 734094
         latitude: 40.77806
@@ -3792,6 +4078,7 @@ regions:
           - Soufli
           - Souflí
           - Souphlion
+          - Σουφλίον
         ascii_name: Souflion
         geonamesid: 734187
         latitude: 41.19194
@@ -3806,6 +4093,7 @@ regions:
           - Sapai
           - Sapes
           - Sappai
+          - Sápes
         ascii_name: Sapai
         geonamesid: 734355
         latitude: 41.02861
@@ -3820,6 +4108,7 @@ regions:
           - Kutunjali
           - Kutunjalí
           - Pegai
+          - Pigai
         ascii_name: Pigai
         geonamesid: 734602
         latitude: 40.90417
@@ -3834,6 +4123,7 @@ regions:
           - "Nea Orestias"
           - "Néa Orestiás"
           - Orestiada
+          - Orestias
         ascii_name: Orestias
         geonamesid: 734880
         latitude: 41.50306
@@ -3859,6 +4149,7 @@ regions:
           - "Nea Karbale"
           - "Nea Karvali"
           - "Néa Karváli"
+          - Tsabranas
         ascii_name: "Nea Karvali"
         geonamesid: 735014
         latitude: 40.96167
@@ -3873,6 +4164,7 @@ regions:
           - "Nea Karia"
           - "Nea Karya"
           - "Nea Korna"
+          - "Néa Kariá"
         ascii_name: "Nea Karya"
         geonamesid: 735015
         latitude: 40.9075
@@ -3887,6 +4179,7 @@ regions:
           - "Nea Eraklitsa"
           - "Nea Irakleitsa"
           - "Nea Iraklitsa"
+          - "Nea Praklitsa"
         ascii_name: "Nea Irakleitsa"
         geonamesid: 735017
         latitude: 40.86444
@@ -3901,6 +4194,7 @@ regions:
           - Karlikova
           - Karlíkova
           - Mikropolis
+          - Μικρόπολις
         ascii_name: Mikropolis
         geonamesid: 735111
         latitude: 41.19351
@@ -3915,6 +4209,7 @@ regions:
           - "Mega Kazavition"
           - "Megalon Kazavition"
           - "Megalos Prinos"
+          - "Megálon Kazavítion"
         ascii_name: "Megalos Prinos"
         geonamesid: 735251
         latitude: 40.73333
@@ -3929,12 +4224,14 @@ regions:
           - Gjumjurdzhina
           - Guemuelcine
           - Gumulcine
+          - Gumuljina
         ascii_name: Komotini
         geonamesid: 735640
         latitude: 41.12278
         longitude: 25.39639
         name: Komotiní
-        names_en: ~
+        names_en: 
+          - Komotini
         names_es: ~
         population: 45631
         timezone: Europe/Athens
@@ -3943,6 +4240,7 @@ regions:
           - Kinali
           - Kokkinochoma
           - Kokkinokhoma
+          - Kokkinókhoma
         ascii_name: Kokkinokhoma
         geonamesid: 735661
         latitude: 40.93333
@@ -3957,6 +4255,7 @@ regions:
           - Chrysoupoli
           - Chrysoupolis
           - Chrysoúpoli
+          - Chrysoúpolis
         ascii_name: Chrysoupolis
         geonamesid: 735747
         latitude: 40.98556
@@ -3971,6 +4270,7 @@ regions:
           - Chrysochorion
           - Khrisokhori
           - Khrisokhorion
+          - Khrisokhóri
         ascii_name: Khrisokhorion
         geonamesid: 735750
         latitude: 40.93333
@@ -3985,6 +4285,7 @@ regions:
           - Keramote
           - Keramoti
           - Keramotí
+          - Κεραμοτή
         ascii_name: Keramoti
         geonamesid: 735821
         latitude: 40.85833
@@ -3999,13 +4300,16 @@ regions:
           - Cavala
           - Cavalla
           - Kabala
+          - Kaballa
         ascii_name: Kavala
         geonamesid: 735861
         latitude: 40.93972
         longitude: 24.40194
         name: Kavála
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kavala
+        names_es: 
+          - Kavala
         population: 59240
         timezone: Europe/Athens
       - 
@@ -4013,6 +4317,7 @@ regions:
           - Feres
           - Ferrai
           - Féres
+          - Férrai
         ascii_name: Ferai
         geonamesid: 736261
         latitude: 40.89556
@@ -4027,6 +4332,7 @@ regions:
           - Eleftheroupoli
           - Eleftheroupolis
           - Eleftheroúpoli
+          - Eleftheroúpolis
         ascii_name: Eleftheroupolis
         geonamesid: 736330
         latitude: 40.91389
@@ -4041,13 +4347,16 @@ regions:
           - Dhrama
           - Dhráma
           - Drama
+          - dhrama
         ascii_name: Drama
         geonamesid: 736364
         latitude: 41.15444
         longitude: 24.13944
         name: Dráma
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Drama
+        names_es: 
+          - Drama
         population: 44226
         timezone: Europe/Athens
       - 
@@ -4055,6 +4364,7 @@ regions:
           - Dhidhimotikhon
           - Dhidhimótikhon
           - Didymoteicho
+          - Didymoteichon
         ascii_name: Didymoteichon
         geonamesid: 736447
         latitude: 41.34806
@@ -4069,6 +4379,7 @@ regions:
           - Agiasma
           - Agíasma
           - Ayiasma
+          - Ayíasma
         ascii_name: Agiasma
         geonamesid: 736643
         latitude: 40.90889
@@ -4083,6 +4394,7 @@ regions:
           - Amisiana
           - Amisianá
           - Pretzova
+          - Prétzova
         ascii_name: Amisiana
         geonamesid: 736881
         latitude: 40.93333
@@ -4097,13 +4409,16 @@ regions:
           - Alejandropolis
           - Alejandrópolis
           - Aleksandrupolis
+          - Alessandropoli
         ascii_name: Alexandroupolis
         geonamesid: 736928
         latitude: 40.8475
         longitude: 25.87444
         name: Alexandroúpolis
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Alexandroupoli
+        names_es: 
+          - Alejandrópolis
         population: 52979
         timezone: Europe/Athens
     geonamesid: 6697803
@@ -4118,6 +4433,7 @@ regions:
           - Dhelovon
           - Dhélovon
           - Thesprotiko
+          - Thesprotikon
         ascii_name: Thesprotikon
         geonamesid: 252939
         latitude: 39.25
@@ -4132,6 +4448,7 @@ regions:
           - Rodhotopi
           - Rodhotopion
           - Rodhotovi
+          - Rodhotópi
         ascii_name: Rodotopion
         geonamesid: 254253
         latitude: 39.70833
@@ -4146,13 +4463,16 @@ regions:
           - Prebeza
           - Prevesa
           - Preveza
+          - Preveze
         ascii_name: Preveza
         geonamesid: 254698
         latitude: 38.95
         longitude: 20.75
         name: Préveza
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Preveza
+        names_es: 
+          - Preveza
         population: 17283
         timezone: Europe/Athens
       - 
@@ -4160,6 +4480,7 @@ regions:
           - Pramanda
           - Pramanta
           - Prámanda
+          - Πράμαντα
         ascii_name: Pramanta
         geonamesid: 254746
         latitude: 39.52306
@@ -4201,12 +4522,14 @@ regions:
           - Arpitsa
           - Arpítsa
           - Perdhika
+          - Perdika
         ascii_name: Perdika
         geonamesid: 255562
         latitude: 39.36889
         longitude: 20.30389
         name: Pérdika
-        names_en: ~
+        names_en: 
+          - Perdika
         names_es: ~
         population: 1875
         timezone: Europe/Athens
@@ -4226,6 +4549,7 @@ regions:
           - Pedhini
           - Pedhiní
           - Pedine
+          - Πεδινή
         ascii_name: Pedini
         geonamesid: 255646
         latitude: 39.59972
@@ -4240,12 +4564,14 @@ regions:
           - Barga
           - Parga
           - barghh
+          - parghh
         ascii_name: Parga
         geonamesid: 255736
         latitude: 39.28306
         longitude: 20.39639
         name: Párga
-        names_en: ~
+        names_en: 
+          - Parga
         names_es: ~
         population: 2379
         timezone: Europe/Athens
@@ -4254,6 +4580,7 @@ regions:
           - Parapotamos
           - Varfani
           - Várfani
+          - Παραπόταμος
         ascii_name: Parapotamos
         geonamesid: 255753
         latitude: 39.54917
@@ -4268,6 +4595,7 @@ regions:
           - Paramithia
           - Paramithiá
           - Paramythia
+          - Παραμυθιά
         ascii_name: Paramythia
         geonamesid: 255760
         latitude: 39.47111
@@ -4282,6 +4610,7 @@ regions:
           - Papadatai
           - Papadhates
           - Papadhátes
+          - Papadátai
         ascii_name: Pappadatai
         geonamesid: 255807
         latitude: 39.31333
@@ -4296,6 +4625,7 @@ regions:
           - Neochoropoulo
           - Neochoropoulon
           - Neochorópoulo
+          - Neokhori
         ascii_name: Neochoropoulon
         geonamesid: 256499
         latitude: 39.62861
@@ -4310,6 +4640,7 @@ regions:
           - Neochori
           - Neochóri
           - Neokhori
+          - Neokhorion
         ascii_name: Neochorion
         geonamesid: 256509
         latitude: 39.06944
@@ -4324,6 +4655,7 @@ regions:
           - "Nea Selefkeia"
           - "Nea Selevkia"
           - "Néa Seléfkeia"
+          - "Néa Selévkia"
         ascii_name: "Nea Selefkeia"
         geonamesid: 256580
         latitude: 39.52556
@@ -4338,6 +4670,7 @@ regions:
           - Metsobon
           - Metsovo
           - Mezzovo
+          - Métsovo
         ascii_name: Metsovon
         geonamesid: 257083
         latitude: 39.76944
@@ -4352,6 +4685,7 @@ regions:
           - Louron
           - Louros
           - Loúron
+          - Λούρος
         ascii_name: Louros
         geonamesid: 258091
         latitude: 39.16278
@@ -4366,6 +4700,7 @@ regions:
           - Koutselio
           - Koutselió
           - Koutsilio
+          - Koutsilió
         ascii_name: Koutselion
         geonamesid: 258949
         latitude: 39.58889
@@ -4393,6 +4728,7 @@ regions:
           - Komboti
           - Kombotion
           - Kombóti
+          - Kombótion
         ascii_name: Kompotion
         geonamesid: 259452
         latitude: 39.10222
@@ -4407,6 +4743,7 @@ regions:
           - Chalkiades
           - Chalkiádes
           - Khalkiadhes
+          - Khalkiádhes
         ascii_name: Chalkiades
         geonamesid: 260142
         latitude: 39.15917
@@ -4421,6 +4758,7 @@ regions:
           - Katsika
           - Katsikas
           - Katsiká
+          - Κατσικάς
         ascii_name: Katsikas
         geonamesid: 260420
         latitude: 39.6225
@@ -4435,6 +4773,7 @@ regions:
           - Kanallaki
           - Kanallakion
           - Kanalláki
+          - Καναλλάκιον
         ascii_name: Kanallakion
         geonamesid: 261167
         latitude: 39.23361
@@ -4449,6 +4788,7 @@ regions:
           - Kambi
           - Kambí
           - Kampe
+          - Kanbi
         ascii_name: Kampi
         geonamesid: 261242
         latitude: 39.21667
@@ -4463,6 +4803,7 @@ regions:
           - Kalamia
           - Kalamies
           - Kalamiés
+          - Konesoi
         ascii_name: Kalamia
         geonamesid: 261596
         latitude: 39.16556
@@ -4477,13 +4818,16 @@ regions:
           - Giannina
           - Ioaa
           - Ioanina
+          - Ioannina
         ascii_name: Ioannina
         geonamesid: 261779
         latitude: 39.6675
         longitude: 20.85083
         name: Ioánnina
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ioannina
+        names_es: 
+          - Ioanina
         population: 64012
         timezone: Europe/Athens
       - 
@@ -4491,12 +4835,14 @@ regions:
           - Egoumenitsa
           - Igoemenitsa
           - Igoumenitsa
+          - Igumenica
         ascii_name: Igoumenitsa
         geonamesid: 261807
         latitude: 39.50389
         longitude: 20.26556
         name: Igoumenítsa
-        names_en: ~
+        names_en: 
+          - Igoumenitsa
         names_es: ~
         population: 9496
         timezone: Europe/Athens
@@ -4505,6 +4851,7 @@ regions:
           - Gramenitsa
           - Gramenítsa
           - Grammenitsa
+          - Γραμμενίτσα
         ascii_name: Grammenitsa
         geonamesid: 261895
         latitude: 39.18306
@@ -4519,6 +4866,7 @@ regions:
           - Graikochori
           - Graikochorion
           - Graikochóri
+          - Graikokhorion
         ascii_name: Graikochorion
         geonamesid: 261913
         latitude: 39.47889
@@ -4533,6 +4881,7 @@ regions:
           - Filippiada
           - Filippiáda
           - "Nea Filippias"
+          - "Néa Filippiás"
         ascii_name: Filippias
         geonamesid: 262411
         latitude: 39.20472
@@ -4547,6 +4896,7 @@ regions:
           - Filiates
           - Filiátes
           - Philiates
+          - Φιλιάτες
         ascii_name: Filiatai
         geonamesid: 262420
         latitude: 39.60111
@@ -4561,6 +4911,7 @@ regions:
           - Eleousa
           - "Mega Bisdhouni"
           - "Mega Bisdhounion"
+          - "Mega Bisdhoúni"
         ascii_name: Eleousa
         geonamesid: 262757
         latitude: 39.70639
@@ -4575,6 +4926,7 @@ regions:
           - "Agios Spyridon"
           - "Ayios Spiridhon"
           - "Imam Chaus"
+          - Imam-Tsaous
         ascii_name: "Agios Spyridon"
         geonamesid: 263730
         latitude: 39.14444
@@ -4602,13 +4954,16 @@ regions:
           - Arta
           - arta
           - Árta
+          - Άρτα
         ascii_name: Arta
         geonamesid: 264559
         latitude: 39.16056
         longitude: 20.98528
         name: Árta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Arta
+        names_es: 
+          - Arta
         population: 19540
         timezone: Europe/Athens
       - 
@@ -4668,6 +5023,7 @@ regions:
           - Kefalovrison
           - Kefalovryso
           - Kefalóvrison
+          - Kefalóvryso
         ascii_name: Kefalovryson
         geonamesid: 735839
         latitude: 40.01444
@@ -4682,6 +5038,7 @@ regions:
           - Exokhi
           - Exokhí
           - Zelitsa
+          - Zélitsa
         ascii_name: Exochi
         geonamesid: 736281
         latitude: 40.0975
@@ -4703,12 +5060,14 @@ regions:
           - Zakinthos
           - Zakynthos
           - Zante
+          - Zákinthos
         ascii_name: Zakynthos
         geonamesid: 251280
         latitude: 37.79139
         longitude: 20.89528
         name: Zákynthos
-        names_en: ~
+        names_en: 
+          - Zakynthos
         names_es: ~
         population: 11541
         timezone: Europe/Athens
@@ -4717,6 +5076,7 @@ regions:
           - Aigialos
           - Aigialós
           - Aiyialos
+          - Aiyialós
         ascii_name: Sami
         geonamesid: 254123
         latitude: 38.25417
@@ -4731,6 +5091,7 @@ regions:
           - Peribolion
           - Perivoli
           - Perivóli
+          - Περιβόλιον
         ascii_name: Perivolion
         geonamesid: 255498
         latitude: 39.42056
@@ -4745,6 +5106,7 @@ regions:
           - Lexourion
           - Lixouri
           - Lixoúri
+          - Lixuri
         ascii_name: Lixourion
         geonamesid: 258175
         latitude: 38.20194
@@ -4759,6 +5121,7 @@ regions:
           - "Agioi Theodoroi"
           - "Ayios Theodhoros"
           - Lefkimmi
+          - Lefkímmi
         ascii_name: Lefkimmi
         geonamesid: 258427
         latitude: 39.42333
@@ -4773,6 +5136,7 @@ regions:
           - Lefkados
           - Lefkas
           - Lefkádos
+          - Lefkás
         ascii_name: Lefkada
         geonamesid: 258438
         latitude: 38.8275
@@ -4787,6 +5151,7 @@ regions:
           - Ithaca
           - Ithake
           - Vathi
+          - Vathí
         ascii_name: Ithaki
         geonamesid: 261708
         latitude: 38.36421
@@ -4801,12 +5166,14 @@ regions:
           - Argostoli
           - Argostolion
           - Argostóli
+          - Αργοστόλι
         ascii_name: Argostolion
         geonamesid: 264668
         latitude: 38.18109
         longitude: 20.48903
         name: Argostólion
-        names_en: ~
+        names_en: 
+          - Argostoli
         names_es: ~
         population: 9820
         timezone: Europe/Athens
@@ -4815,6 +5182,7 @@ regions:
           - "Ano Virou"
           - Biros
           - "Áno Viroú"
+          - Βιρός
         ascii_name: Viros
         geonamesid: 2463549
         latitude: 39.58389
@@ -4829,6 +5197,7 @@ regions:
           - Sinarades
           - Sinaradhes
           - Sinarádhes
+          - Σιναράδες
         ascii_name: Sinarades
         geonamesid: 2463575
         latitude: 39.56472
@@ -4854,6 +5223,7 @@ regions:
           - Kondokali
           - Kondokalion
           - Kondokálion
+          - Kondókali
         ascii_name: Kontokalion
         geonamesid: 2463662
         latitude: 39.64528
@@ -4868,6 +5238,7 @@ regions:
           - Kinopiastai
           - Kinopiastais
           - Kinopiástai
+          - Kinopiástais
         ascii_name: Kynopiastai
         geonamesid: 2463670
         latitude: 39.56944
@@ -4882,12 +5253,14 @@ regions:
           - Corcyra
           - Corfou
           - Corfu
+          - Kerkira
         ascii_name: Kerkyra
         geonamesid: 2463679
         latitude: 39.62
         longitude: 19.91972
         name: Kérkyra
-        names_en: ~
+        names_en: 
+          - Corfu
         names_es: ~
         population: 27003
         timezone: Europe/Athens
@@ -4896,6 +5269,7 @@ regions:
           - "Kato Korakiana"
           - Katomeri
           - Katoméri
+          - "Κάτω Κορακιάνα"
         ascii_name: "Kato Korakiana"
         geonamesid: 2463692
         latitude: 39.68972
@@ -4910,6 +5284,7 @@ regions:
           - Kasiopi
           - Kasiópi
           - Kassiope
+          - Κασσιόπη
         ascii_name: Kassiopi
         geonamesid: 2463701
         latitude: 39.78861
@@ -4924,6 +5299,7 @@ regions:
           - "Kanali Lemendion"
           - Kanalion
           - "Kanalion Lemendion"
+          - "Kanalion Lemention"
         ascii_name: Kanalion
         geonamesid: 2463705
         latitude: 39.60556
@@ -4966,6 +5342,7 @@ regions:
           - "Aghios Matheos"
           - "Agios Matthaios"
           - "Ayios Matthaios"
+          - Mathaios
         ascii_name: "Agios Matthaios"
         geonamesid: 2463763
         latitude: 39.49583
@@ -5014,6 +5391,7 @@ regions:
           - Brontados
           - Vrondadhes
           - Vrondadhos
+          - Vrondhades
         ascii_name: Vrontados
         geonamesid: 251606
         latitude: 38.40889
@@ -5028,6 +5406,7 @@ regions:
           - "Ano Vathi"
           - Vathi
           - Vathy
+          - Vathí
         ascii_name: Vathy
         geonamesid: 252166
         latitude: 37.75
@@ -5042,6 +5421,7 @@ regions:
           - Bareia
           - Vareia
           - Vareiá
+          - Varia
         ascii_name: Vareia
         geonamesid: 252267
         latitude: 39.08333
@@ -5056,6 +5436,7 @@ regions:
           - "Chorio Thymiana"
           - "Chorió Thymianá"
           - Effymiana
+          - Effymianá
         ascii_name: Thymiana
         geonamesid: 252927
         latitude: 38.315
@@ -5070,6 +5451,7 @@ regions:
           - Stipsi
           - Stipsos
           - Stypse
+          - Stypsi
         ascii_name: Stypsi
         geonamesid: 253164
         latitude: 39.31167
@@ -5095,6 +5477,7 @@ regions:
           - "Liman Vatheos"
           - "Liman Vathéos"
           - "Limen Vatheos"
+          - "Limin Vatheos"
         ascii_name: Samos
         geonamesid: 254115
         latitude: 37.75722
@@ -5109,6 +5492,7 @@ regions:
           - Polichnitos
           - Polichnítos
           - Polikhnitos
+          - Polikhnítos
         ascii_name: Polichnitos
         geonamesid: 254917
         latitude: 39.08111
@@ -5123,6 +5507,7 @@ regions:
           - Plomari
           - Plomarion
           - Plomári
+          - Ploumarion
         ascii_name: Plomarion
         geonamesid: 254949
         latitude: 38.97667
@@ -5137,6 +5522,7 @@ regions:
           - Pithagorion
           - Pithagórion
           - Pythagoreio
+          - Pythagoreion
         ascii_name: Pythagoreion
         geonamesid: 255163
         latitude: 37.69194
@@ -5151,12 +5537,15 @@ regions:
           - Pirgi
           - Piryi
           - Piryion
+          - Piryí
         ascii_name: Pyrgion
         geonamesid: 255188
         latitude: 38.22583
         longitude: 25.99528
         name: Pyrgíon
-        names_en: ~
+        names_en: 
+          - Piryi
+          - Pirgi
         names_es: ~
         population: 1002
         timezone: Europe/Athens
@@ -5165,6 +5554,7 @@ regions:
           - Pappadhos
           - Pappados
           - Pappádhos
+          - Pappádos
         ascii_name: Pappados
         geonamesid: 255798
         latitude: 39.03944
@@ -5179,6 +5569,7 @@ regions:
           - Pafla
           - Pamfila
           - Pamfilla
+          - Pamfylla
         ascii_name: Pamfylla
         geonamesid: 255959
         latitude: 39.15667
@@ -5193,6 +5584,7 @@ regions:
           - Palaiokepos
           - Palaiokipos
           - Palaiókipos
+          - Παλαιόκηπος
         ascii_name: Palaiokipos
         geonamesid: 256093
         latitude: 39.05583
@@ -5207,6 +5599,7 @@ regions:
           - "Chorio Oinoussai"
           - "Chorió Oinoússai"
           - Mandraki
+          - Mandráki
         ascii_name: Oinoussai
         geonamesid: 256329
         latitude: 38.51417
@@ -5221,6 +5614,7 @@ regions:
           - Karlovasi
           - "Neon Karlobasion"
           - "Neon Karlovasi"
+          - "Néon Karlóvasi"
         ascii_name: "Neon Karlovasion"
         geonamesid: 256492
         latitude: 37.79028
@@ -5248,6 +5642,7 @@ regions:
           - Morea
           - Moria
           - Mória
+          - Μόρια
         ascii_name: Moria
         geonamesid: 256757
         latitude: 39.13333
@@ -5262,6 +5657,7 @@ regions:
           - Mitilinioi
           - Mitilinioí
           - Mitilinoi
+          - Mitilinoí
         ascii_name: Mytilinioi
         geonamesid: 256865
         latitude: 37.72861
@@ -5276,6 +5672,7 @@ regions:
           - Kastro
           - Mitilini
           - Mitilíni
+          - Mitylene
         ascii_name: Mytilini
         geonamesid: 256866
         latitude: 39.11
@@ -5290,6 +5687,7 @@ regions:
           - Kastro
           - Kastron
           - Kástron
+          - Mirina
         ascii_name: Myrina
         geonamesid: 256930
         latitude: 39.87972
@@ -5304,6 +5702,7 @@ regions:
           - Marathocampos
           - Marathokambos
           - Marathokambou
+          - Marathokampos
         ascii_name: Marathokampos
         geonamesid: 257721
         latitude: 37.72639
@@ -5318,6 +5717,7 @@ regions:
           - Mandamadhos
           - Mandamado
           - Mandamados
+          - Mandamádhos
         ascii_name: Mantamados
         geonamesid: 257827
         latitude: 39.31167
@@ -5346,6 +5746,7 @@ regions:
           - Lagkada
           - Lagkáda
           - Langadha
+          - Langádha
         ascii_name: Lagkada
         geonamesid: 258610
         latitude: 38.47583
@@ -5360,6 +5761,7 @@ regions:
           - Kokari
           - Kokkari
           - Kokkarion
+          - Kokkári
         ascii_name: Kokkarion
         geonamesid: 259595
         latitude: 37.77639
@@ -5387,6 +5789,7 @@ regions:
           - Castro
           - Chios
           - Chora
+          - Chóra
         ascii_name: Chios
         geonamesid: 259973
         latitude: 38.36778
@@ -5401,6 +5804,7 @@ regions:
           - Akhiron
           - Akhirón
           - Kallone
+          - Kalloni
         ascii_name: Kalloni
         geonamesid: 261396
         latitude: 39.23278
@@ -5415,6 +5819,7 @@ regions:
           - Fournoi
           - Foúrnoi
           - Idhroussna
+          - Idhroússna
         ascii_name: Ydroussa
         geonamesid: 261816
         latitude: 37.77944
@@ -5429,6 +5834,7 @@ regions:
           - Angeriko
           - "Ayios Kirikos"
           - Kirikos
+          - Kírikos
         ascii_name: "Agios Kirykos"
         geonamesid: 263870
         latitude: 37.61472
@@ -5443,6 +5849,7 @@ regions:
           - Agiasos
           - Agiásos
           - Ayiasissios
+          - Ayiasos
         ascii_name: Agiasos
         geonamesid: 264146
         latitude: 39.085
@@ -5457,12 +5864,14 @@ regions:
           - "Agia Paraskevi"
           - "Agía Paraskeví"
           - "Ayia Paraskevi"
+          - "Ayía Paraskeví"
         ascii_name: "Agia Paraskevi"
         geonamesid: 264181
         latitude: 39.24806
         longitude: 26.27167
         name: "Agía Paraskeví"
-        names_en: ~
+        names_en: 
+          - "Ayía Paraskeví"
         names_es: ~
         population: 2193
         timezone: Europe/Athens
@@ -5478,6 +5887,7 @@ regions:
           - Githion
           - Gytheio
           - Gytheion
+          - Gythelon
         ascii_name: Gytheion
         geonamesid: 251297
         latitude: 36.755
@@ -5492,6 +5902,7 @@ regions:
           - Gefyra
           - Géfyra
           - Yefira
+          - Yéfira
         ascii_name: Gefyra
         geonamesid: 251465
         latitude: 36.6869
@@ -5506,6 +5917,7 @@ regions:
           - Brachation
           - Vrakhati
           - Vrakhation
+          - Vrakháti
         ascii_name: Vrakhation
         geonamesid: 251685
         latitude: 37.95895
@@ -5520,12 +5932,14 @@ regions:
           - Tripole
           - "Tripole Arkadias"
           - Tripoli
+          - Tripolis
         ascii_name: Tripolis
         geonamesid: 252601
         latitude: 37.50889
         longitude: 22.37944
         name: Trípolis
-        names_en: ~
+        names_en: 
+          - Tripoli
         names_es: ~
         population: 26561
         timezone: Europe/Athens
@@ -5548,12 +5962,14 @@ regions:
           - Tolo
           - Tolon
           - Tolos
+          - Tolón
         ascii_name: Tolon
         geonamesid: 252833
         latitude: 37.52021
         longitude: 22.8586
         name: Tolón
-        names_en: ~
+        names_en: 
+          - Tolo
         names_es: ~
         population: 2322
         timezone: Europe/Athens
@@ -5562,13 +5978,18 @@ regions:
           - Esparta
           - Lacedaemon
           - Lacedemon
+          - Lacedemonia
         ascii_name: Sparta
         geonamesid: 253394
         latitude: 37.07333
         longitude: 22.42972
         name: Sparta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sparti
+          - Lacedaemon
+        names_es: 
+          - Lacedemonia
+          - Esparta
         population: 15497
         timezone: Europe/Athens
       - 
@@ -5590,6 +6011,7 @@ regions:
           - Sikea
           - Sikéa
           - Sykea
+          - Sykéa
         ascii_name: Sykea
         geonamesid: 253908
         latitude: 36.76556
@@ -5604,6 +6026,7 @@ regions:
           - Kheli
           - Khéli
           - "Porto Cheli"
+          - "Porto Chelion"
         ascii_name: "Porto Cheli"
         geonamesid: 254842
         latitude: 37.32483
@@ -5618,6 +6041,7 @@ regions:
           - Navarino
           - "Neon Kastrov"
           - "Néon Kastrov"
+          - Pilos
         ascii_name: Pylos
         geonamesid: 255293
         latitude: 36.91344
@@ -5632,6 +6056,7 @@ regions:
           - Perachora
           - Perakhora
           - Perakhóra
+          - Περαχώρα
         ascii_name: Perakhora
         geonamesid: 255594
         latitude: 38.03333
@@ -5660,12 +6085,14 @@ regions:
           - Anabolu
           - "Mora Yenisehri"
           - "Mora Yenişehri"
+          - Nafplio
         ascii_name: Nafplio
         geonamesid: 256637
         latitude: 37.56828
         longitude: 22.80528
         name: Náfplio
-        names_en: ~
+        names_en: 
+          - Nafplion
         names_es: ~
         population: 14582
         timezone: Europe/Athens
@@ -5674,6 +6101,7 @@ regions:
           - Mola
           - Molaoi
           - Moláoi
+          - Μολάοι
         ascii_name: Molaoi
         geonamesid: 256833
         latitude: 36.80757
@@ -5688,6 +6116,7 @@ regions:
           - Messene
           - Messeni
           - Nisi
+          - Nision
         ascii_name: Messini
         geonamesid: 257152
         latitude: 37.05111
@@ -5702,12 +6131,14 @@ regions:
           - Megalopole
           - Megalopoli
           - Megalopolis
+          - Megalópoli
         ascii_name: Megalopolis
         geonamesid: 257395
         latitude: 37.40111
         longitude: 22.14222
         name: Megalópolis
-        names_en: ~
+        names_en: 
+          - Megalopolis
         names_es: ~
         population: 5283
         timezone: Europe/Athens
@@ -5716,12 +6147,14 @@ regions:
           - LOUTRAKI
           - Loutraki
           - Loutrakion
+          - Loutráki
         ascii_name: Loutrakion
         geonamesid: 258066
         latitude: 37.9783
         longitude: 22.97781
         name: Loutrákion
-        names_en: ~
+        names_en: 
+          - Loutraki
         names_es: ~
         population: 12275
         timezone: Europe/Athens
@@ -5730,6 +6163,7 @@ regions:
           - Isonidhion
           - Isonidion
           - Isonídhion
+          - Isonídion
         ascii_name: Leonidi
         geonamesid: 258500
         latitude: 37.16679
@@ -5744,6 +6178,7 @@ regions:
           - Kranidhion
           - Kranidi
           - Kranidion
+          - Kranídhion
         ascii_name: Kranidi
         geonamesid: 258873
         latitude: 37.38167
@@ -5758,13 +6193,16 @@ regions:
           - Corint
           - Corinth
           - Corinthe
+          - Corinthus
         ascii_name: Corinth
         geonamesid: 259289
         latitude: 37.94068
         longitude: 22.95734
         name: Corinth
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Corinth
+        names_es: 
+          - Corintia
         population: 30899
         timezone: Europe/Athens
       - 
@@ -5786,6 +6224,7 @@ regions:
           - "Kira Vrisi"
           - "Kiras Vrisi"
           - "Kirá Vrísi"
+          - "Kirás Vrísi"
         ascii_name: "Kyras Vrysi"
         geonamesid: 259734
         latitude: 37.91468
@@ -5800,6 +6239,7 @@ regions:
           - Kiparissia
           - Kiparissía
           - Kyparissia
+          - Κυπαρισσία
         ascii_name: Kyparissia
         geonamesid: 259782
         latitude: 37.25111
@@ -5814,6 +6254,7 @@ regions:
           - Kiato
           - Kiaton
           - Kiáto
+          - Kiáton
         ascii_name: Kiaton
         geonamesid: 259830
         latitude: 38.01667
@@ -5828,12 +6269,14 @@ regions:
           - Kalamae
           - Kalamai
           - Kalamata
+          - Kalamatas
         ascii_name: Kalamata
         geonamesid: 261604
         latitude: 37.03889
         longitude: 22.11417
         name: Kalamáta
-        names_en: ~
+        names_en: 
+          - Kalamata
         names_es: ~
         population: 51108
         timezone: Europe/Athens
@@ -5842,6 +6285,7 @@ regions:
           - Isthmia
           - Isthmos
           - Isthmía
+          - Isthmós
         ascii_name: Isthmia
         geonamesid: 261721
         latitude: 37.91751
@@ -5883,6 +6327,7 @@ regions:
           - Examilia
           - Examilion
           - Examillia
+          - Examília
         ascii_name: Examilia
         geonamesid: 262558
         latitude: 37.9
@@ -5897,6 +6342,7 @@ regions:
           - Ermioni
           - Ermióni
           - Hermioni
+          - Kastri
         ascii_name: Ermioni
         geonamesid: 262607
         latitude: 37.3869
@@ -5911,6 +6357,7 @@ regions:
           - Dhrepanon
           - Dhrépanon
           - Drepanon
+          - Drépanon
         ascii_name: Drepanon
         geonamesid: 262920
         latitude: 37.54255
@@ -5925,6 +6372,7 @@ regions:
           - "Agios Andreas"
           - Anthini
           - "Ayios Andhreas"
+          - "Ayios Andreas"
         ascii_name: "Agios Andreas"
         geonamesid: 264022
         latitude: 37.35
@@ -5967,6 +6415,7 @@ regions:
           - Asini
           - Assini
           - Assíni
+          - Asíni
         ascii_name: Asini
         geonamesid: 264496
         latitude: 37.5454
@@ -5995,13 +6444,16 @@ regions:
           - Argas
           - Argo
           - Argos
+          - "Ciutat d'Argos"
         ascii_name: Argos
         geonamesid: 264670
         latitude: 37.63333
         longitude: 22.73333
         name: Árgos
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Argos
+        names_es: 
+          - Argos
         population: 25091
         timezone: Europe/Athens
     geonamesid: 6697807
@@ -6016,12 +6468,15 @@ regions:
           - Ialisos
           - Ialissos
           - Ialisós
+          - Ialysos
         ascii_name: Trianta
         geonamesid: 252685
         latitude: 36.4
         longitude: 28.16667
         name: Triánta
-        names_en: ~
+        names_en: 
+          - Trianta
+          - Ialysos
         names_es: ~
         population: 11473
         timezone: Europe/Athens
@@ -6030,6 +6485,7 @@ regions:
           - "Saint Nicholas"
           - Tenos
           - Tinos
+          - Tínos
         ascii_name: Tinos
         geonamesid: 252854
         latitude: 37.53333
@@ -6044,6 +6500,7 @@ regions:
           - FIRA
           - Fira
           - Firá
+          - Thera
         ascii_name: Thira
         geonamesid: 252920
         latitude: 36.42171
@@ -6058,6 +6515,7 @@ regions:
           - Simi
           - Sombeki
           - Symi
+          - Sími
         ascii_name: Symi
         geonamesid: 253858
         latitude: 36.61333
@@ -6072,6 +6530,7 @@ regions:
           - Pili
           - Pilion
           - Pilí
+          - Pilíon
         ascii_name: Pylion
         geonamesid: 255301
         latitude: 36.84778
@@ -6086,6 +6545,7 @@ regions:
           - Paroikia
           - Paroikía
           - Paros
+          - Páros
         ascii_name: Paros
         geonamesid: 255721
         latitude: 37.08333
@@ -6100,6 +6560,7 @@ regions:
           - Naxia
           - Naxos
           - Náxia
+          - Náxos
         ascii_name: Naxos
         geonamesid: 256632
         latitude: 37.10556
@@ -6114,12 +6575,14 @@ regions:
           - Chora
           - Kamenaki
           - Khora
+          - Khóra
         ascii_name: Mykonos
         geonamesid: 257056
         latitude: 37.44529
         longitude: 25.32872
         name: Mykonos
-        names_en: ~
+        names_en: 
+          - Mykonos
         names_es: ~
         population: 7739
         timezone: Europe/Athens
@@ -6128,6 +6591,7 @@ regions:
           - Mesaria
           - Mesariá
           - Messaria
+          - Messariá
         ascii_name: Mesaria
         geonamesid: 257224
         latitude: 36.39848
@@ -6142,12 +6606,14 @@ regions:
           - Coo
           - Kos
           - "Poli Kos"
+          - "Póli Kos"
         ascii_name: Kos
         geonamesid: 259245
         latitude: 36.89333
         longitude: 27.28889
         name: Kos
-        names_en: ~
+        names_en: 
+          - Kos
         names_es: ~
         population: 19244
         timezone: Europe/Athens
@@ -6156,6 +6622,7 @@ regions:
           - Cefalo
           - Cephalo
           - Kephalo
+          - Kephalos
         ascii_name: Kefalos
         geonamesid: 260308
         latitude: 36.74528
@@ -6170,6 +6637,7 @@ regions:
           - Karpathos
           - Pegadia
           - Pigadhia
+          - Pigadia
         ascii_name: Karpathos
         geonamesid: 260895
         latitude: 35.50701
@@ -6184,12 +6652,14 @@ regions:
           - Cardamena
           - "Chorio Kardamaina"
           - "Chorió Kardámaina"
+          - Kardamaina
         ascii_name: Kardamaina
         geonamesid: 261003
         latitude: 36.78139
         longitude: 27.1425
         name: Kardámaina
-        names_en: ~
+        names_en: 
+          - Kardamena
         names_es: ~
         population: 1926
         timezone: Europe/Athens
@@ -6198,6 +6668,7 @@ regions:
           - Calino
           - Kalimnos
           - Kalymnos
+          - Kálimnos
         ascii_name: Kalymnos
         geonamesid: 261507
         latitude: 36.95
@@ -6226,6 +6697,7 @@ regions:
           - Ermoupoli
           - Ermoupolis
           - Ermoúpoli
+          - Hermoupolis
         ascii_name: Ermoupolis
         geonamesid: 262603
         latitude: 37.44227
@@ -6240,6 +6712,7 @@ regions:
           - Emborion
           - Emboríon
           - Emporeio
+          - Emporeion
         ascii_name: Emporeio
         geonamesid: 262696
         latitude: 36.35813
@@ -6254,6 +6727,7 @@ regions:
           - "Agia Marina"
           - "Agía Marína"
           - "Ayia Marina"
+          - "Ayía Marína"
         ascii_name: "Agia Marina"
         geonamesid: 264221
         latitude: 37.15
@@ -6268,6 +6742,7 @@ regions:
           - Astipalaia
           - Astipálaia
           - Astypalaea
+          - Astypalaia
         ascii_name: Astypalaia
         geonamesid: 264408
         latitude: 36.55
@@ -6282,6 +6757,7 @@ regions:
           - Apollonia
           - Apolonia
           - Sifnos
+          - Siphnos
         ascii_name: Apollonia
         geonamesid: 264748
         latitude: 36.97163
@@ -6296,6 +6772,7 @@ regions:
           - "Ano Siros"
           - "Ano Syra"
           - "Ano Syros"
+          - Siros
         ascii_name: "Ano Siros"
         geonamesid: 264839
         latitude: 37.45
@@ -6310,6 +6787,7 @@ regions:
           - ANDROU
           - Andros
           - Kastron
+          - Kástron
         ascii_name: Andros
         geonamesid: 265040
         latitude: 37.83333
@@ -6324,6 +6802,7 @@ regions:
           - Andemaki
           - Andimakhia
           - Andimákhia
+          - Antimachia
         ascii_name: Antimacheia
         geonamesid: 265078
         latitude: 36.81083
@@ -6338,6 +6817,7 @@ regions:
           - Adamas
           - Adhamas
           - Adhámas
+          - Adámas
         ascii_name: Adamas
         geonamesid: 265711
         latitude: 36.73333
@@ -6352,13 +6832,16 @@ regions:
           - Rhodes
           - Rhodos
           - Rodas
+          - Rodes
         ascii_name: Rodos
         geonamesid: 400666
         latitude: 36.44083
         longitude: 28.2225
         name: Ródos
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rhodes
+        names_es: 
+          - Rodas
         population: 56128
         timezone: Europe/Athens
       - 
@@ -6366,6 +6849,7 @@ regions:
           - Kremaste
           - Kremasti
           - Kremastí
+          - Κρεμαστή
         ascii_name: Kremasti
         geonamesid: 408684
         latitude: 36.4
@@ -6380,6 +6864,7 @@ regions:
           - Afandou
           - Afándou
           - Aphantou
+          - Αφάντου
         ascii_name: Afantou
         geonamesid: 408685
         latitude: 36.29354
@@ -6394,12 +6879,14 @@ regions:
           - Archangelos
           - Arkhangelos
           - Arkhángelos
+          - Αρχάγγελος
         ascii_name: Archangelos
         geonamesid: 408686
         latitude: 36.21492
         longitude: 28.11487
         name: Archángelos
-        names_en: ~
+        names_en: 
+          - Archangelos
         names_es: ~
         population: 5398
         timezone: Europe/Athens
@@ -6408,6 +6895,7 @@ regions:
           - Lardhos
           - Lardos
           - Lárdhos
+          - Λάρδος
         ascii_name: Lardos
         geonamesid: 408689
         latitude: 36.09419
@@ -6422,6 +6910,7 @@ regions:
           - Zeparion
           - Zipari
           - Zipári
+          - Ζηπάριον
         ascii_name: Ziparion
         geonamesid: 444350
         latitude: 36.875
@@ -6441,7 +6930,8 @@ regions:
         latitude: 36.33981
         longitude: 28.19942
         name: Faliraki
-        names_en: ~
+        names_en: 
+          - Faliraki
         names_es: ~
         population: 6000
         timezone: Europe/Athens
@@ -6457,13 +6947,16 @@ regions:
           - Bolos
           - Iolcus
           - Volo
+          - Volos
         ascii_name: Volos
         geonamesid: 251833
         latitude: 39.36667
         longitude: 22.94583
         name: Vólos
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Volos
+        names_es: 
+          - Volos
         population: 84425
         timezone: Europe/Athens
       - 
@@ -6471,6 +6964,7 @@ regions:
           - Berdikoussa
           - Verdhikousa
           - Verdhikoussa
+          - Verdhikoúsa
         ascii_name: Verdikoussa
         geonamesid: 252030
         latitude: 39.78028
@@ -6485,6 +6979,7 @@ regions:
           - Basilike
           - Voivoda
           - Voïvóda
+          - Βασιλική
         ascii_name: Vasiliki
         geonamesid: 252200
         latitude: 39.63889
@@ -6499,6 +6994,7 @@ regions:
           - Trikeri
           - Trikerion
           - Trikkeri
+          - Tríkeri
         ascii_name: Trikeri
         geonamesid: 252655
         latitude: 39.1
@@ -6513,13 +7009,16 @@ regions:
           - "Nomos Trikalon"
           - Tirhala
           - Trikala
+          - Trikalon
         ascii_name: Trikala
         geonamesid: 252664
         latitude: 39.55528
         longitude: 21.7675
         name: Tríkala
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Trikala
+        names_es: 
+          - Trikala
         population: 49809
         timezone: Europe/Athens
       - 
@@ -6527,6 +7026,7 @@ regions:
           - Tirnavos
           - Tyrnabos
           - Tyrnavo
+          - Tyrnavos
         ascii_name: Tyrnavos
         geonamesid: 252848
         latitude: 39.73778
@@ -6567,6 +7067,7 @@ regions:
           - "Mega Keserli"
           - "Méga Keserlí"
           - Sikourion
+          - Sikoúrion
         ascii_name: Sykourion
         geonamesid: 253871
         latitude: 39.75833
@@ -6581,6 +7082,7 @@ regions:
           - Rizoma
           - Sklataina
           - Sklátaina
+          - Ρίζωμα
         ascii_name: Rizoma
         geonamesid: 254286
         latitude: 39.665
@@ -6595,6 +7097,7 @@ regions:
           - "Megali Poliana"
           - "Megali Poliána"
           - "Megali Pouliana"
+          - "Megáli Pouliána"
         ascii_name: Pigi
         geonamesid: 255138
         latitude: 39.51194
@@ -6609,6 +7112,7 @@ regions:
           - Piryetos
           - Piryetós
           - Pyrgetos
+          - Πυργετός
         ascii_name: Pyrgetos
         geonamesid: 255195
         latitude: 39.91861
@@ -6623,6 +7127,7 @@ regions:
           - Piryetos
           - Piryetós
           - Pyrgetos
+          - Pyrgetós
         ascii_name: Pyrgetos
         geonamesid: 255196
         latitude: 39.55194
@@ -6637,6 +7142,7 @@ regions:
           - Pili
           - "Porta Pazar"
           - "Porta Pazari"
+          - Píli
         ascii_name: Pyli
         geonamesid: 255305
         latitude: 39.45806
@@ -6651,6 +7157,7 @@ regions:
           - Paraprastaina
           - Paraprástaina
           - Proastio
+          - Proastion
         ascii_name: Proastion
         geonamesid: 255750
         latitude: 39.48861
@@ -6665,6 +7172,7 @@ regions:
           - Palaiopirgos
           - Palaiópirgos
           - Paliopirgos
+          - Paliópirgos
         ascii_name: Palaiopyrgos
         geonamesid: 256066
         latitude: 39.60722
@@ -6679,6 +7187,7 @@ regions:
           - Beletsi
           - Belétsi
           - Palaiomonasteron
+          - Palaiomonastiro
         ascii_name: Palaiomonastiron
         geonamesid: 256079
         latitude: 39.4625
@@ -6693,6 +7202,7 @@ regions:
           - Neochori
           - Neochorion
           - Neochóri
+          - Neochórion
         ascii_name: Oichalia
         geonamesid: 256504
         latitude: 39.60667
@@ -6707,6 +7217,7 @@ regions:
           - Neochori
           - Neochóri
           - Neokhorion
+          - Neokhórion
         ascii_name: Neochorion
         geonamesid: 256508
         latitude: 39.27694
@@ -6721,6 +7232,7 @@ regions:
           - Mouzaki
           - Mouzakion
           - Mouzáki
+          - Μουζάκιον
         ascii_name: Mouzakion
         geonamesid: 256662
         latitude: 39.42972
@@ -6735,6 +7247,7 @@ regions:
           - Morfovouni
           - Morfovoúni
           - Morphobounion
+          - Vounesi
         ascii_name: Morfovounion
         geonamesid: 256759
         latitude: 39.3525
@@ -6749,6 +7262,7 @@ regions:
           - Metropole
           - Mitropoli
           - Mitrópoli
+          - Paliokastron
         ascii_name: Mitropolis
         geonamesid: 256860
         latitude: 39.33944
@@ -6763,6 +7277,7 @@ regions:
           - "Agia Triada"
           - "Agia Trias"
           - "Agía Triáda"
+          - "Agía Triás"
         ascii_name: "Agia Trias"
         geonamesid: 257258
         latitude: 39.46333
@@ -6777,6 +7292,7 @@ regions:
           - Boukhounitsa
           - Boukhounítsa
           - "Megalo Khorio"
+          - Megalochori
         ascii_name: Megalochorion
         geonamesid: 257406
         latitude: 39.55944
@@ -6791,6 +7307,7 @@ regions:
           - "Megala Kalivia"
           - "Megala Kalybia"
           - "Megála Kalívia"
+          - "Μεγάλα Καλύβια"
         ascii_name: "Megala Kalyvia"
         geonamesid: 257448
         latitude: 39.5
@@ -6805,6 +7322,7 @@ regions:
           - Mavromati
           - Mavrommati
           - Mavrommation
+          - Mavrommáti
         ascii_name: Mavrommation
         geonamesid: 257535
         latitude: 39.42389
@@ -6819,6 +7337,7 @@ regions:
           - Makrikhori
           - Makrikhorion
           - Makrikhóri
+          - Makrikhórion
         ascii_name: Makrychorion
         geonamesid: 257949
         latitude: 39.44
@@ -6833,6 +7352,7 @@ regions:
           - Larisa
           - Larissa
           - Lárisa
+          - Lárissa
         ascii_name: Larisa
         geonamesid: 258576
         latitude: 39.63722
@@ -6847,6 +7367,7 @@ regions:
           - Kritsini
           - Kritsinion
           - Kritsíni
+          - Kritsínion
         ascii_name: Taxiarchai
         geonamesid: 258757
         latitude: 39.575
@@ -6861,6 +7382,7 @@ regions:
           - "Kranea Deskatis"
           - "Kranea Dheskatis"
           - "Kranea Elassonos"
+          - Krania
         ascii_name: "Kranea Elassonos"
         geonamesid: 258882
         latitude: 39.94833
@@ -6875,12 +7397,14 @@ regions:
           - Kastraki
           - Kastrakion
           - Kastráki
+          - Καστράκι
         ascii_name: Kastrakion
         geonamesid: 260780
         latitude: 39.71556
         longitude: 21.61806
         name: Kastrákion
-        names_en: ~
+        names_en: 
+          - Kastraki
         names_es: ~
         population: 1172
         timezone: Europe/Athens
@@ -6889,6 +7413,7 @@ regions:
           - Kardhitsomagoula
           - Kardhitsomagoúla
           - Karditsomagoula
+          - Καρδιτσομαγούλα
         ascii_name: Karditsomagoula
         geonamesid: 260987
         latitude: 39.39194
@@ -6903,13 +7428,16 @@ regions:
           - Kardhitsa
           - Kardhítsa
           - Kardica
+          - Karditsa
         ascii_name: Karditsa
         geonamesid: 260989
         latitude: 39.36556
         longitude: 21.92167
         name: Kardítsa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Karditsa
+        names_es: 
+          - Karditsa
         population: 32789
         timezone: Europe/Athens
       - 
@@ -6917,6 +7445,7 @@ regions:
           - Kallitheron
           - Kallithiro
           - Kallíthiro
+          - Sekliza
         ascii_name: Kallithiron
         geonamesid: 261401
         latitude: 39.28167
@@ -6931,6 +7460,7 @@ regions:
           - Kallifoneion
           - Kallifoni
           - Kallifonio
+          - Kallifóneion
         ascii_name: Kallifonion
         geonamesid: 261431
         latitude: 39.2725
@@ -6945,12 +7475,14 @@ regions:
           - Kalabaka
           - Kalabáka
           - Kalambaka
+          - Kalambáka
         ascii_name: Kalampaka
         geonamesid: 261601
         latitude: 39.70444
         longitude: 21.62694
         name: Kalampáka
-        names_en: ~
+        names_en: 
+          - Kalambaka
         names_es: ~
         population: 8138
         timezone: Europe/Athens
@@ -6959,6 +7491,7 @@ regions:
           - Gomphoi
           - Rapsista
           - Rápsista
+          - Γόμφοι
         ascii_name: Gomfoi
         geonamesid: 262007
         latitude: 39.46361
@@ -6973,6 +7506,7 @@ regions:
           - Fyki
           - Fýki
           - Pheke
+          - Φήκη
         ascii_name: Fiki
         geonamesid: 262433
         latitude: 39.51694
@@ -6987,13 +7521,16 @@ regions:
           - Farsala
           - Farsalia
           - Farsalos
+          - Farsàlia
         ascii_name: Farsala
         geonamesid: 262462
         latitude: 39.29472
         longitude: 22.38472
         name: Fársala
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Farsala
+        names_es: 
+          - Farsalia
         population: 10380
         timezone: Europe/Athens
       - 
@@ -7001,6 +7538,7 @@ regions:
           - "Fanar Magoula"
           - Fanarion
           - "Fanarion Magoulas"
+          - "Fanár Magoúla"
         ascii_name: Magoula
         geonamesid: 262503
         latitude: 39.45556
@@ -7015,6 +7553,7 @@ regions:
           - Elasson
           - Elassona
           - Elassóna
+          - Ελασσών
         ascii_name: Elasson
         geonamesid: 262784
         latitude: 39.89472
@@ -7029,6 +7568,7 @@ regions:
           - Agia
           - Agyia
           - Ayia
+          - Ayiá
         ascii_name: Agia
         geonamesid: 264283
         latitude: 39.71778
@@ -7043,6 +7583,7 @@ regions:
           - Artesiano
           - Artesianon
           - Artesianó
+          - Pitsari
         ascii_name: Artesianon
         geonamesid: 264547
         latitude: 39.40278
@@ -7057,6 +7598,7 @@ regions:
           - Almiros
           - Almirós
           - Almyros
+          - Αλμυρός
         ascii_name: Almyros
         geonamesid: 265292
         latitude: 39.18222
@@ -7084,6 +7626,7 @@ regions:
           - Agnanderon
           - Agnanderón
           - Agnantero
+          - Agnanteron
         ascii_name: Agnanteron
         geonamesid: 265627
         latitude: 39.48722
@@ -7098,6 +7641,7 @@ regions:
           - Libadi
           - Livadhion
           - Livadi
+          - Livádhion
         ascii_name: Livadion
         geonamesid: 735390
         latitude: 40.125
@@ -7132,6 +7676,7 @@ regions:
           - Bartholomio
           - Vartholomi
           - Vartholomio
+          - Vartholomió
         ascii_name: Vartholomion
         geonamesid: 252239
         latitude: 37.86667
@@ -7146,6 +7691,7 @@ regions:
           - "Ano Manolas"
           - Barda
           - Vardha
+          - Várdha
         ascii_name: Varda
         geonamesid: 252291
         latitude: 38.03333
@@ -7160,6 +7706,7 @@ regions:
           - Sabalia
           - Savallia
           - Savvalia
+          - Savvália
         ascii_name: Savalia
         geonamesid: 254045
         latitude: 37.82158
@@ -7174,6 +7721,7 @@ regions:
           - Sardhinia
           - Sardhinina
           - Sardhínia
+          - Sardhínina
         ascii_name: Sardinia
         geonamesid: 254064
         latitude: 38.88333
@@ -7201,6 +7749,7 @@ regions:
           - Pirgos
           - Pyrgos
           - Pírgos
+          - Πύργος
         ascii_name: Pyrgos
         geonamesid: 255229
         latitude: 37.67513
@@ -7215,13 +7764,16 @@ regions:
           - Patra
           - Patrae
           - Patrai
+          - Patras
         ascii_name: Patrai
         geonamesid: 255683
         latitude: 38.24444
         longitude: 21.73444
         name: Pátrai
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Patras
+        names_es: 
+          - Patrás
         population: 163360
         timezone: Europe/Athens
       - 
@@ -7229,6 +7781,7 @@ regions:
           - Palairos
           - Zavedha
           - Zavédha
+          - Πάλαιρος
         ascii_name: Palairos
         geonamesid: 256054
         latitude: 38.78333
@@ -7243,6 +7796,7 @@ regions:
           - Neochori
           - Neochóri
           - Neokhori
+          - Neokhorion
         ascii_name: Neochorion
         geonamesid: 256520
         latitude: 38.41667
@@ -7257,6 +7811,7 @@ regions:
           - Neochori
           - Neochóri
           - Neokhori
+          - Neokhorion
         ascii_name: Neochorion
         geonamesid: 256527
         latitude: 37.91667
@@ -7271,6 +7826,7 @@ regions:
           - Epakhtos
           - Inebahti
           - Inebahtı
+          - Lepanto
         ascii_name: Nafpaktos
         geonamesid: 256639
         latitude: 38.39167
@@ -7285,12 +7841,14 @@ regions:
           - Mesolonghi
           - Mesolongi
           - Mesolongion
+          - Mesolónghi
         ascii_name: Mesolongion
         geonamesid: 257186
         latitude: 38.36917
         longitude: 21.42917
         name: Mesolóngion
-        names_en: ~
+        names_en: 
+          - Messolonghi
         names_es: ~
         population: 12701
         timezone: Europe/Athens
@@ -7299,6 +7857,7 @@ regions:
           - Menidhi
           - Menidhion
           - Menidi
+          - Menidion
         ascii_name: Menidion
         geonamesid: 257268
         latitude: 39.04194
@@ -7313,6 +7872,7 @@ regions:
           - Manolada
           - Manolas
           - Manoláda
+          - Μανολάς
         ascii_name: Manolas
         geonamesid: 257762
         latitude: 38.05
@@ -7327,6 +7887,7 @@ regions:
           - Lechaina
           - Lekhaena
           - Lekhaina
+          - Lekhainá
         ascii_name: Lechaina
         geonamesid: 258522
         latitude: 37.93333
@@ -7341,6 +7902,7 @@ regions:
           - Krestaina
           - Krestena
           - Kréstaina
+          - Selinous
         ascii_name: Krestena
         geonamesid: 258842
         latitude: 37.61667
@@ -7355,6 +7917,7 @@ regions:
           - Killini
           - Killíni
           - Kylini
+          - Kyllene
         ascii_name: Kyllini
         geonamesid: 259813
         latitude: 37.93333
@@ -7369,6 +7932,7 @@ regions:
           - Chabarion
           - Chavari
           - Chavarion
+          - Chavárion
         ascii_name: Chavarion
         geonamesid: 260037
         latitude: 37.85
@@ -7383,6 +7947,7 @@ regions:
           - "Kato Achagia"
           - "Kato Akhaia"
           - "Káto Achagiá"
+          - "Káto Akhaïa"
         ascii_name: "Kato Achaia"
         geonamesid: 260644
         latitude: 38.15
@@ -7397,6 +7962,7 @@ regions:
           - Kardamas
           - Kardhamas
           - Kardhamás
+          - Καρδαμάς
         ascii_name: Kardamas
         geonamesid: 261002
         latitude: 37.76667
@@ -7411,6 +7977,7 @@ regions:
           - Kandela
           - Kandhila
           - Kandhíla
+          - Κανδήλα
         ascii_name: Kandila
         geonamesid: 261150
         latitude: 38.7
@@ -7425,6 +7992,7 @@ regions:
           - Kalabryta
           - Kalavrita
           - Kalávrita
+          - Καλάβρυτα
         ascii_name: Kalavryta
         geonamesid: 261537
         latitude: 38.03222
@@ -7467,6 +8035,7 @@ regions:
           - Archontochori
           - Archontochorion
           - Archontochóri
+          - Archontochórion
         ascii_name: Archontochorion
         geonamesid: 264618
         latitude: 38.7
@@ -7481,12 +8050,15 @@ regions:
           - "Ancient Olympia"
           - "Archaia Olympia"
           - "Arkhaia Olimbia"
+          - "Arkhaía Olimbía"
         ascii_name: "Archaia Olympia"
         geonamesid: 264637
         latitude: 37.64788
         longitude: 21.6271
         name: "Archaía Olympía"
-        names_en: ~
+        names_en: 
+          - Olympia
+          - "Ancient Olympia"
         names_es: ~
         population: 1208
         timezone: Europe/Athens
@@ -7495,6 +8067,7 @@ regions:
           - Angelokastro
           - Angelokastron
           - Angelókastro
+          - Angelókastron
         ascii_name: Angelokastron
         geonamesid: 265013
         latitude: 38.56667
@@ -7509,6 +8082,7 @@ regions:
           - Andrabida
           - Andravidha
           - Andravídha
+          - Andrvida
         ascii_name: Andravida
         geonamesid: 265056
         latitude: 37.90588
@@ -7523,6 +8097,7 @@ regions:
           - Amfilochia
           - Amfilochía
           - Amfilokhia
+          - Amfilokhía
         ascii_name: Amfilochia
         geonamesid: 265189
         latitude: 38.85944
@@ -7537,6 +8112,7 @@ regions:
           - Amaliada
           - Amalias
           - Amaliáda
+          - Amaliás
         ascii_name: Amalias
         geonamesid: 265252
         latitude: 37.8
@@ -7551,6 +8127,7 @@ regions:
           - Aegion
           - Aegium
           - Aighion
+          - Aigio
         ascii_name: Aigion
         geonamesid: 265500
         latitude: 38.24861
@@ -7565,12 +8142,14 @@ regions:
           - Agrinio
           - Agrinion
           - Agrinium
+          - Agrínio
         ascii_name: Agrinion
         geonamesid: 265560
         latitude: 38.62139
         longitude: 21.40778
         name: Agrínion
-        names_en: ~
+        names_en: 
+          - Agrinio
         names_es: ~
         population: 43525
         timezone: Europe/Athens
@@ -7586,6 +8165,7 @@ regions:
           - Deskate
           - Dheskati
           - Dheskáti
+          - Dhiskata
         ascii_name: Deskati
         geonamesid: 263166
         latitude: 39.9225
@@ -7600,6 +8180,7 @@ regions:
           - Belbentos
           - Velvendhos
           - Velvendhós
+          - Velvendo
         ascii_name: Velventos
         geonamesid: 733911
         latitude: 40.25167
@@ -7614,6 +8195,7 @@ regions:
           - Khora
           - Khóra
           - Siatista
+          - Σιάτιστα
         ascii_name: Siatista
         geonamesid: 734315
         latitude: 40.26194
@@ -7642,12 +8224,14 @@ regions:
           - Kailar
           - Kailaria
           - Kajlar
+          - Kajljari
         ascii_name: Ptolemais
         geonamesid: 734426
         latitude: 40.51472
         longitude: 21.67861
         name: Ptolemaḯs
-        names_en: ~
+        names_en: 
+          - Ptolemaida
         names_es: ~
         population: 30045
         timezone: Europe/Athens
@@ -7656,6 +8240,7 @@ regions:
           - Orta-Koi
           - Ortá-Kóï
           - Platanorema
+          - Platanorevma
         ascii_name: Platanorrevma
         geonamesid: 734579
         latitude: 40.19667
@@ -7670,13 +8255,16 @@ regions:
           - Kozane
           - Kozani
           - Kozhani
+          - Kozáni
         ascii_name: Kozani
         geonamesid: 735563
         latitude: 40.30111
         longitude: 21.78639
         name: Kozáni
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kozani
+        names_es: 
+          - Kozani
         population: 36481
         timezone: Europe/Athens
       - 
@@ -7684,13 +8272,16 @@ regions:
           - Kastoria
           - Kesrie
           - Kesriye
+          - "Nomos Kastorias"
         ascii_name: Kastoria
         geonamesid: 735927
         latitude: 40.51667
         longitude: 21.26667
         name: Kastoriá
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kastoria
+        names_es: 
+          - Kastoria
         population: 14665
         timezone: Europe/Athens
       - 
@@ -7711,13 +8302,16 @@ regions:
           - Florina
           - Follorina
           - Lerin
+          - Phlorina
         ascii_name: Florina
         geonamesid: 736229
         latitude: 40.78197
         longitude: 21.40981
         name: Flórina
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Florina
+        names_es: 
+          - Florina
         population: 16771
         timezone: Europe/Athens
     geonamesid: 6697811

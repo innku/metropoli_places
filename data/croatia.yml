@@ -2,8 +2,10 @@
 geonamesid: 3202326
 iso: HR
 name: Croatia
-names_en: ~
-names_es: ~
+names_en: 
+  - Croatia
+names_es: 
+  - Croacia
 regions: 
   - 
     ascii_name: "Bjelovarsko-Bilogorska Zupanija"
@@ -86,6 +88,7 @@ regions:
           - Gareshnitsa
           - Garesnica
           - Garesnicza
+          - Garešnica
         ascii_name: Garesnica
         geonamesid: 3200711
         latitude: 45.57444
@@ -100,6 +103,7 @@ regions:
           - Desanovacz
           - Dezanovac
           - Dežanovac
+          - "Donji Dezanovac"
         ascii_name: Dezanovac
         geonamesid: 3202046
         latitude: 45.57056
@@ -114,12 +118,14 @@ regions:
           - "Aquae Balisae"
           - Daruvar
           - Daruvár
+          - Дарувар
         ascii_name: Daruvar
         geonamesid: 3202184
         latitude: 45.59056
         longitude: 17.225
         name: Daruvar
-        names_en: ~
+        names_en: 
+          - Daruvar
         names_es: ~
         population: 9863
         timezone: Europe/Zagreb
@@ -128,13 +134,16 @@ regions:
           - Cazma
           - Chasma
           - Chazma
+          - Csazma
         ascii_name: Cazma
         geonamesid: 3202820
         latitude: 45.74667
         longitude: 16.62278
         name: Čazma
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Čazma
+        names_es: 
+          - Čazma
         population: 2892
         timezone: Europe/Zagreb
       - 
@@ -153,6 +162,7 @@ regions:
           - Belavar
           - Bellovar
           - Belovar
+          - Belovár
         ascii_name: Bjelovar
         geonamesid: 3203982
         latitude: 45.89861
@@ -209,12 +219,14 @@ regions:
           - Brod
           - Bród
           - Marsonia
+          - "Slavonski Brod"
         ascii_name: "Slavonski Brod"
         geonamesid: 3190586
         latitude: 45.16028
         longitude: 18.01556
         name: "Slavonski Brod"
-        names_en: ~
+        names_en: 
+          - "Slavonski Brod"
         names_es: ~
         population: 60742
         timezone: Europe/Zagreb
@@ -298,6 +310,7 @@ regions:
           - Neu-Gradischka
           - Neu-Gradiska
           - "Nova Gradiska"
+          - "Nova Gradisska"
         ascii_name: "Nova Gradiska"
         geonamesid: 3194449
         latitude: 45.255
@@ -427,7 +440,8 @@ regions:
     geonamesid: 3337512
     name: Brodsko-Posavska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Brod-Posavina
   - 
     ascii_name: "Dubrovacko-Neretvanska Zupanija"
     cities: 
@@ -447,6 +461,7 @@ regions:
           - "Bela Luka"
           - Vallegrande
           - "Vela Luka"
+          - Vela-Luka
         ascii_name: "Vela Luka"
         geonamesid: 3188326
         latitude: 42.96333
@@ -488,6 +503,7 @@ regions:
           - Orebic
           - Orebić
           - Sabbioncello
+          - Sabioncelo
         ascii_name: Orebic
         geonamesid: 3194029
         latitude: 42.98556
@@ -502,6 +518,7 @@ regions:
           - "Fort Opus"
           - Opus
           - Opuzen
+          - Опузен
         ascii_name: Opuzen
         geonamesid: 3194075
         latitude: 43.01528
@@ -535,7 +552,8 @@ regions:
         latitude: 43.05417
         longitude: 17.64833
         name: Metković
-        names_en: ~
+        names_en: 
+          - Metković
         names_es: ~
         population: 13941
         timezone: Europe/Zagreb
@@ -555,13 +573,16 @@ regions:
           - Curzola
           - "Isola di Curzola"
           - Korchula
+          - Korcula
         ascii_name: Korcula
         geonamesid: 3197710
         latitude: 42.96222
         longitude: 17.13694
         name: Korčula
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Korčula
+        names_es: 
+          - Korčula
         population: 3141
         timezone: Europe/Zagreb
       - 
@@ -593,13 +614,21 @@ regions:
           - "Communitas Ragusina"
           - Dubrava
           - Dubrounik
+          - "Dubrovacka Republika"
         ascii_name: Dubrovnik
         geonamesid: 3201047
         latitude: 42.64807
         longitude: 18.09216
         name: Dubrovnik
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ragusa
+          - "Pearl of the Adriatic"
+          - "Republic of Ragusa"
+          - Dubrovnik
+        names_es: 
+          - Ragusa
+          - "la perla del Adriático"
+          - Dubrovnik
         population: 28428
         timezone: Europe/Zagreb
       - 
@@ -607,6 +636,7 @@ regions:
           - Cavtat
           - Epidaurus
           - "Ragusa Vecchia"
+          - Ragusavecchia
         ascii_name: Cavtat
         geonamesid: 3202825
         latitude: 42.58111
@@ -633,7 +663,8 @@ regions:
     geonamesid: 3337513
     name: Dubrovačko-Neretvanska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Dubrovnik - Neretva"
   - 
     ascii_name: "Istarska Zupanija"
     cities: 
@@ -656,6 +687,7 @@ regions:
           - Dignano
           - "Dignano d'Istria"
           - "Dignano d’Istria"
+          - Vodnjan
         ascii_name: Vodnjan
         geonamesid: 3187477
         latitude: 44.95944
@@ -681,12 +713,14 @@ regions:
           - Oumank
           - Umag
           - "Umag Komunela"
+          - Umago
         ascii_name: Umag
         geonamesid: 3188498
         latitude: 45.43139
         longitude: 13.52389
         name: Umag
-        names_en: ~
+        names_en: 
+          - Umag
         names_es: ~
         population: 7807
         timezone: Europe/Zagreb
@@ -695,12 +729,14 @@ regions:
           - Rovigno
           - "Rovigno d'Istria"
           - "Rovigno d’Istria"
+          - Rovin
         ascii_name: Rovinj
         geonamesid: 3191518
         latitude: 45.08
         longitude: 13.64
         name: Rovinj
-        names_en: ~
+        names_en: 
+          - Rovinj
         names_es: ~
         population: 13533
         timezone: Europe/Zagreb
@@ -737,13 +773,16 @@ regions:
           - Pluj
           - Pola
           - Poła
+          - Pula
         ascii_name: Pula
         geonamesid: 3192224
         latitude: 44.86833
         longitude: 13.84806
         name: Pula
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pula
+        names_es: 
+          - Pula
         population: 59078
         timezone: Europe/Zagreb
       - 
@@ -751,12 +790,14 @@ regions:
           - Parenzo
           - Porec
           - Poreč
+          - porech
         ascii_name: Porec
         geonamesid: 3192699
         latitude: 45.22583
         longitude: 13.59389
         name: Poreč
-        names_en: ~
+        names_en: 
+          - Poreč
         names_es: ~
         population: 10499
         timezone: Europe/Zagreb
@@ -770,7 +811,8 @@ regions:
         latitude: 45.24028
         longitude: 13.93667
         name: Pazin
-        names_en: ~
+        names_en: 
+          - Pazin
         names_es: ~
         population: 5010
         timezone: Europe/Zagreb
@@ -779,6 +821,7 @@ regions:
           - Cittanova
           - "Cittanova d'Istria"
           - Novigrad
+          - Новиград
         ascii_name: Novigrad
         geonamesid: 3194379
         latitude: 45.315
@@ -806,6 +849,7 @@ regions:
           - Marcana
           - Marzana
           - "Marzana d'Istria"
+          - "Marzana d’Istria"
         ascii_name: Marcana
         geonamesid: 3195515
         latitude: 44.95528
@@ -833,12 +877,14 @@ regions:
           - Albona
           - "Albona d'Istria"
           - "Albona d’Istria"
+          - Labin
         ascii_name: Labin
         geonamesid: 3196834
         latitude: 45.095
         longitude: 14.11972
         name: Labin
-        names_en: ~
+        names_en: 
+          - Labin
         names_es: ~
         population: 7943
         timezone: Europe/Zagreb
@@ -847,6 +893,7 @@ regions:
           - Caroiba
           - "Caroiba Subiente"
           - Caroibo
+          - Karojba
         ascii_name: Karojba
         geonamesid: 3198253
         latitude: 45.30083
@@ -861,6 +908,7 @@ regions:
           - Galezan
           - Galežan
           - Galizana
+          - Galižana
         ascii_name: Galizana
         geonamesid: 3200734
         latitude: 44.93167
@@ -875,6 +923,7 @@ regions:
           - Fasana
           - "Fasana d'Istria"
           - "Fasana d’Istria"
+          - Fazana
         ascii_name: Fazana
         geonamesid: 3200862
         latitude: 44.9275
@@ -903,19 +952,22 @@ regions:
           - Buie
           - "Buie d'Istria"
           - Buje
+          - Бује
         ascii_name: Buje
         geonamesid: 3203090
         latitude: 45.41
         longitude: 13.66194
         name: Buje
-        names_en: ~
+        names_en: 
+          - Buje
         names_es: ~
         population: 3016
         timezone: Europe/Zagreb
     geonamesid: 3337514
     name: Istarska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Istria
   - 
     ascii_name: "Karlovacka Zupanija"
     cities: 
@@ -938,12 +990,14 @@ regions:
           - Slun
           - Slunj
           - Szluin
+          - Слуњ
         ascii_name: Slunj
         geonamesid: 3190523
         latitude: 45.11083
         longitude: 15.58944
         name: Slunj
-        names_en: ~
+        names_en: 
+          - Slunj
         names_es: ~
         population: 1785
         timezone: Europe/Zagreb
@@ -1001,12 +1055,14 @@ regions:
           - Karlovac
           - Karlstadt
           - Karolyvaros
+          - Karolyváros
         ascii_name: Karlovac
         geonamesid: 3198259
         latitude: 45.48722
         longitude: 15.54778
         name: Karlovac
-        names_en: ~
+        names_en: 
+          - Karlovac
         names_es: ~
         population: 48123
         timezone: Europe/Zagreb
@@ -1097,6 +1153,7 @@ regions:
           - Crisium
           - Koros
           - Kreutz
+          - Kreuz
         ascii_name: Krizevci
         geonamesid: 3197230
         latitude: 46.02194
@@ -1111,12 +1168,14 @@ regions:
           - Caprontza
           - Kapronca
           - Kaproncza
+          - Kopreinitz
         ascii_name: Koprivnica
         geonamesid: 3197728
         latitude: 46.16278
         longitude: 16.8275
         name: Koprivnica
-        names_en: ~
+        names_en: 
+          - Koprivnica
         names_es: ~
         population: 25579
         timezone: Europe/Zagreb
@@ -1269,12 +1328,14 @@ regions:
           - Krapina
           - kurapina
           - Крапина
+          - クラピナ
         ascii_name: Krapina
         geonamesid: 3197369
         latitude: 46.16083
         longitude: 15.87889
         name: Krapina
-        names_en: ~
+        names_en: 
+          - Krapina
         names_es: ~
         population: 4725
         timezone: Europe/Zagreb
@@ -1283,6 +1344,7 @@ regions:
           - Bedekovcina
           - Bedekovčina
           - "Donja Bedekovcina"
+          - "Donja Bedekovčina"
         ascii_name: Bedekovcina
         geonamesid: 3204387
         latitude: 46.04111
@@ -1295,7 +1357,8 @@ regions:
     geonamesid: 3337519
     name: Krapinsko-Zagorska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Krapina-Zagorje
   - 
     ascii_name: "Licko-Senjska Zupanija"
     cities: 
@@ -1304,12 +1367,14 @@ regions:
           - Segna
           - Segno
           - Sen
+          - Sen'
         ascii_name: Senj
         geonamesid: 3191055
         latitude: 44.98944
         longitude: 14.90583
         name: Senj
-        names_en: ~
+        names_en: 
+          - Senj
         names_es: ~
         population: 5518
         timezone: Europe/Zagreb
@@ -1318,6 +1383,7 @@ regions:
           - Jezerce
           - "Plitvice Seen"
           - "Plitvicka Jezera"
+          - "Plitvickie Ozera"
         ascii_name: Jezerce
         geonamesid: 3193171
         latitude: 44.8825
@@ -1355,6 +1421,7 @@ regions:
           - Bag
           - Carlopago
           - Karlobag
+          - Karlopago
         ascii_name: Karlobag
         geonamesid: 3198261
         latitude: 44.5275
@@ -1369,12 +1436,14 @@ regions:
           - Gosnidj
           - Gospic
           - Gospich
+          - Gospić
         ascii_name: Gospic
         geonamesid: 3199873
         latitude: 44.54611
         longitude: 15.37472
         name: Gospić
-        names_en: ~
+        names_en: 
+          - Gospić
         names_es: ~
         population: 6118
         timezone: Europe/Zagreb
@@ -1604,6 +1673,7 @@ regions:
           - Gorican
           - Goričan
           - Muracsany
+          - Muracsány
         ascii_name: Gorican
         geonamesid: 3200328
         latitude: 46.38417
@@ -1642,12 +1712,14 @@ regions:
           - Cakovec
           - Chakovec
           - Csakathurn
+          - Csaktornya
         ascii_name: Cakovec
         geonamesid: 3202888
         latitude: 46.38444
         longitude: 16.43389
         name: Čakovec
-        names_en: ~
+        names_en: 
+          - Čakovec
         names_es: ~
         population: 15867
         timezone: Europe/Zagreb
@@ -1735,6 +1807,7 @@ regions:
           - Viljevo
           - Villyo
           - Villyó
+          - Vilyevo
         ascii_name: Viljevo
         geonamesid: 3187750
         latitude: 45.75139
@@ -1760,12 +1833,14 @@ regions:
           - Jovalium
           - Valpach
           - Valpo
+          - Valpovo
         ascii_name: Valpovo
         geonamesid: 3188395
         latitude: 45.66083
         longitude: 18.41861
         name: Valpovo
-        names_en: ~
+        names_en: 
+          - Valpovo
         names_es: ~
         population: 7943
         timezone: Europe/Zagreb
@@ -1811,6 +1886,7 @@ regions:
           - Hirschfeld
           - Sarvas
           - Sarvash
+          - Sarvaš
         ascii_name: Sarvas
         geonamesid: 3191265
         latitude: 45.52722
@@ -1849,6 +1925,7 @@ regions:
           - "Cepinska Ovcara"
           - Ovcara
           - "Ovcara Cepinska"
+          - Ovčara
         ascii_name: Ovcara
         geonamesid: 3193762
         latitude: 45.50667
@@ -1863,12 +1940,14 @@ regions:
           - "Colonia Aelia Mursa"
           - Esseg
           - Essegg
+          - Essek
         ascii_name: Osijek
         geonamesid: 3193935
         latitude: 45.55111
         longitude: 18.69389
         name: Osijek
-        names_en: ~
+        names_en: 
+          - Osijek
         names_es: ~
         population: 88140
         timezone: Europe/Zagreb
@@ -1877,12 +1956,14 @@ regions:
           - Naschitz
           - Nashice
           - Nasic
+          - Nasice
         ascii_name: Nasice
         geonamesid: 3194581
         latitude: 45.48861
         longitude: 18.08778
         name: Našice
-        names_en: ~
+        names_en: 
+          - Našice
         names_es: ~
         population: 8213
         timezone: Europe/Zagreb
@@ -1902,6 +1983,7 @@ regions:
           - Laslovo
           - Laszlofalva
           - Lászlófalva
+          - Sveti-Ladislav
         ascii_name: Laslovo
         geonamesid: 3196758
         latitude: 45.415
@@ -2040,6 +2122,7 @@ regions:
           - Dalja
           - Dallia
           - Dallya
+          - Dalya
         ascii_name: Dalj
         geonamesid: 3202215
         latitude: 45.49
@@ -2054,6 +2137,7 @@ regions:
           - Csapa
           - Csepen
           - Csepin
+          - Csepén
         ascii_name: Cepin
         geonamesid: 3202743
         latitude: 45.52361
@@ -2116,12 +2200,14 @@ regions:
           - Belisce
           - Belishche
           - Belišće
+          - Белишче
         ascii_name: Belisce
         geonamesid: 3204317
         latitude: 45.68028
         longitude: 18.40583
         name: Belišće
-        names_en: ~
+        names_en: 
+          - Belišće
         names_es: ~
         population: 7232
         timezone: Europe/Zagreb
@@ -2130,12 +2216,14 @@ regions:
           - "Beli Manastir"
           - Monostor
           - Pel-Monostor
+          - Pelmonostor
         ascii_name: "Beli Manastir"
         geonamesid: 3204320
         latitude: 45.77
         longitude: 18.60361
         name: "Beli Manastir"
-        names_en: ~
+        names_en: 
+          - "Beli Manastir"
         names_es: ~
         population: 8713
         timezone: Europe/Zagreb
@@ -2192,7 +2280,8 @@ regions:
     geonamesid: 3337522
     name: Osječko-Baranjska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Osijek-Baranja
   - 
     ascii_name: "Pozesko-Slavonska Zupanija"
     cities: 
@@ -2225,12 +2314,14 @@ regions:
           - Poschega
           - Poschegg
           - Posega
+          - Pozega
         ascii_name: Pozega
         geonamesid: 3190589
         latitude: 45.34028
         longitude: 17.68528
         name: Požega
-        names_en: ~
+        names_en: 
+          - Požega
         names_es: ~
         population: 21153
         timezone: Europe/Zagreb
@@ -2252,12 +2343,14 @@ regions:
           - Pakrac
           - Pakracz
           - Pakratz
+          - Pakrác
         ascii_name: Pakrac
         geonamesid: 3193706
         latitude: 45.43639
         longitude: 17.18889
         name: Pakrac
-        names_en: ~
+        names_en: 
+          - Pakrac
         names_es: ~
         population: 4795
         timezone: Europe/Zagreb
@@ -2280,6 +2373,7 @@ regions:
           - Goto
           - Gotó
           - Kutjeva
+          - Kutjevo
         ascii_name: Kutjevo
         geonamesid: 3196855
         latitude: 45.42611
@@ -2355,7 +2449,8 @@ regions:
     geonamesid: 3337523
     name: Požeško-Slavonska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Pozega-Eslavonia
   - 
     ascii_name: "Primorsko-Goranska Zupanija"
     cities: 
@@ -2426,13 +2521,17 @@ regions:
           - "Estado libre de Fiume"
           - Fiume
           - Fkumen
+          - "Flumen Sancti Viti"
         ascii_name: Rijeka
         geonamesid: 3191648
         latitude: 45.34306
         longitude: 14.40917
         name: Rijeka
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rijeka
+        names_es: 
+          - Rijeka
+          - "Estado libre de Fiume"
         population: 141172
         timezone: Europe/Zagreb
       - 
@@ -2440,6 +2539,7 @@ regions:
           - Aleksandrovo
           - Ponte
           - Punat
+          - Punca
         ascii_name: Punat
         geonamesid: 3192219
         latitude: 45.01472
@@ -2467,12 +2567,14 @@ regions:
           - Abacija
           - Abbazia
           - Abbázia
+          - Opatija
         ascii_name: Opatija
         geonamesid: 3194099
         latitude: 45.33917
         longitude: 14.30833
         name: Opatija
-        names_en: ~
+        names_en: 
+          - Opatija
         names_es: ~
         population: 7888
         timezone: Europe/Zagreb
@@ -2495,12 +2597,14 @@ regions:
           - Novi
           - "Novi Vinodol"
           - "Novi Vinodol'ski"
+          - "Novi Vinodolski"
         ascii_name: "Novi Vinodolski"
         geonamesid: 3194355
         latitude: 45.12806
         longitude: 14.78889
         name: "Novi Vinodolski"
-        names_en: ~
+        names_en: 
+          - "Novi Vinodolski"
         names_es: ~
         population: 5282
         timezone: Europe/Zagreb
@@ -2522,6 +2626,7 @@ regions:
           - Malulji
           - Mattuglie
           - Matulge
+          - Matulgi
         ascii_name: Matulji
         geonamesid: 3195362
         latitude: 45.36167
@@ -2558,12 +2663,14 @@ regions:
           - Lusinpikolo
           - Lussinpiccolo
           - Lussinpíccolo
+          - "Mali Loshin'"
         ascii_name: "Mali Losinj"
         geonamesid: 3195674
         latitude: 44.53056
         longitude: 14.46861
         name: "Mali Lošinj"
-        names_en: ~
+        names_en: 
+          - "Mali Lošinj"
         names_es: ~
         population: 3400
         timezone: Europe/Zagreb
@@ -2609,12 +2716,14 @@ regions:
           - Kralevica
           - Kraljevica
           - Kraljevjca
+          - "Porto Re"
         ascii_name: Kraljevica
         geonamesid: 3197390
         latitude: 45.26972
         longitude: 14.57083
         name: Kraljevica
-        names_en: ~
+        names_en: 
+          - Kraljevica
         names_es: ~
         population: 2911
         timezone: Europe/Zagreb
@@ -2650,6 +2759,7 @@ regions:
           - Diminici
           - Diminići
           - Jadranovo
+          - "Klostar Siljevicki"
         ascii_name: Jadranovo
         geonamesid: 3198964
         latitude: 45.23111
@@ -2700,12 +2810,14 @@ regions:
           - Cirkvenica
           - Cirquenizza
           - Crikvenica
+          - Crkvenica
         ascii_name: Crikvenica
         geonamesid: 3202507
         latitude: 45.17722
         longitude: 14.69278
         name: Crikvenica
-        names_en: ~
+        names_en: 
+          - Crikvenica
         names_es: ~
         population: 7156
         timezone: Europe/Zagreb
@@ -2714,12 +2826,14 @@ regions:
           - Cerzo
           - Cherso
           - Cres
+          - Čerzo
         ascii_name: Cres
         geonamesid: 3202523
         latitude: 44.96139
         longitude: 14.40778
         name: Cres
-        names_en: ~
+        names_en: 
+          - Cres
         names_es: ~
         population: 2344
         timezone: Europe/Zagreb
@@ -2775,12 +2889,14 @@ regions:
           - Bakar
           - Bakovac
           - Buccari
+          - Бакар
         ascii_name: Bakar
         geonamesid: 3204612
         latitude: 45.30861
         longitude: 14.53028
         name: Bakar
-        names_en: ~
+        names_en: 
+          - Bakar
         names_es: ~
         population: 1574
         timezone: Europe/Zagreb
@@ -2798,7 +2914,8 @@ regions:
     geonamesid: 3337524
     name: Primorsko-Goranska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Primorje - Gorski Kotar"
   - 
     ascii_name: "Sibensko-Kninska Zupanija"
     cities: 
@@ -2858,12 +2975,14 @@ regions:
           - Sebenico
           - Shibenik
           - Sibenik
+          - shibeniku
         ascii_name: Sibenik
         geonamesid: 3190941
         latitude: 43.72722
         longitude: 15.90583
         name: Šibenik
-        names_en: ~
+        names_en: 
+          - Šibenik
         names_es: ~
         population: 37112
         timezone: Europe/Zagreb
@@ -2885,6 +3004,7 @@ regions:
           - Capocesto
           - Primoscen
           - Primoshten
+          - Primosten
         ascii_name: Primosten
         geonamesid: 3192383
         latitude: 43.58694
@@ -2930,7 +3050,8 @@ regions:
         latitude: 44.04389
         longitude: 16.2
         name: Knin
-        names_en: ~
+        names_en: 
+          - Knin
         names_es: ~
         population: 11182
         timezone: Europe/Zagreb
@@ -2952,12 +3073,14 @@ regions:
           - Dernis
           - Drnis
           - Drnish
+          - Drniš
         ascii_name: Drnis
         geonamesid: 3201162
         latitude: 43.8625
         longitude: 16.15556
         name: Drniš
-        names_en: ~
+        names_en: 
+          - Drniš
         names_es: ~
         population: 3348
         timezone: Europe/Zagreb
@@ -2977,7 +3100,8 @@ regions:
     geonamesid: 3337525
     name: Šibensko-Kniniska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Sibenik-Knin
   - 
     ascii_name: "Sisacko-Moslavacka Zupanija"
     cities: 
@@ -3022,13 +3146,16 @@ regions:
           - Segesta
           - Sisak
           - Siscia
+          - Sisseg
         ascii_name: Sisak
         geonamesid: 3190813
         latitude: 45.46611
         longitude: 16.37833
         name: Sisak
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sisak
+        names_es: 
+          - Sisak
         population: 35748
         timezone: Europe/Zagreb
       - 
@@ -3074,6 +3201,7 @@ regions:
           - Novska
           - Novszka
           - Novzka
+          - Новска
         ascii_name: Novska
         geonamesid: 3194319
         latitude: 45.34056
@@ -3102,12 +3230,14 @@ regions:
           - Kutenya
           - Kutina
           - Kuttina
+          - Кутина
         ascii_name: Kutina
         geonamesid: 3196864
         latitude: 45.475
         longitude: 16.78194
         name: Kutina
-        names_en: ~
+        names_en: 
+          - Kutina
         names_es: ~
         population: 14886
         timezone: Europe/Zagreb
@@ -3116,12 +3246,14 @@ regions:
           - "Hrvatska Kostajnica"
           - "Khrvatska Kostajnica"
           - Kostajnica
+          - Kosztainicza
         ascii_name: "Hrvatska Kostajnica"
         geonamesid: 3197594
         latitude: 45.23167
         longitude: 16.53917
         name: "Hrvatska Kostajnica"
-        names_en: ~
+        names_en: 
+          - "Hrvatska Kostajnica"
         names_es: ~
         population: 2746
         timezone: Europe/Zagreb
@@ -3171,6 +3303,7 @@ regions:
           - Budasevo
           - Budaševo
           - "Veliko Budasevo"
+          - "Veliko Budaševo"
         ascii_name: Budasevo
         geonamesid: 3203138
         latitude: 45.47472
@@ -3196,7 +3329,8 @@ regions:
     geonamesid: 3337526
     name: Sisačko-Moslavačka
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Sisak-Moslavina
   - 
     ascii_name: "Splitsko-Dalmatinska Zupanija"
     cities: 
@@ -3256,12 +3390,14 @@ regions:
           - Drivenik
           - Drvenik
           - "Drvenik Veliki"
+          - "Veli Drvenik"
         ascii_name: "Veliki Drvenik"
         geonamesid: 3188089
         latitude: 43.45
         longitude: 16.15
         name: "Veliki Drvenik"
-        names_en: ~
+        names_en: 
+          - "Veli Drvenik"
         names_es: ~
         population: 2500
         timezone: Europe/Zagreb
@@ -3297,12 +3433,14 @@ regions:
           - Trau
           - Traù
           - Trogir
+          - Трогир
         ascii_name: Trogir
         geonamesid: 3188763
         latitude: 43.5125
         longitude: 16.25167
         name: Trogir
-        names_en: ~
+        names_en: 
+          - Trogir
         names_es: ~
         population: 10960
         timezone: Europe/Zagreb
@@ -3323,12 +3461,14 @@ regions:
           - "San Pietro della Brazza"
           - "San Pietro di Brazza"
           - Supetar
+          - Супетар
         ascii_name: Supetar
         geonamesid: 3189492
         latitude: 43.38417
         longitude: 16.55083
         name: Supetar
-        names_en: ~
+        names_en: 
+          - Supetar
         names_es: ~
         population: 3031
         timezone: Europe/Zagreb
@@ -3350,6 +3490,7 @@ regions:
           - Cittavecchia
           - "Stari Grad"
           - Starigrad
+          - "Стари Град"
         ascii_name: Starigrad
         geonamesid: 3189965
         latitude: 43.18472
@@ -3375,13 +3516,16 @@ regions:
           - Spalato
           - Spalatum
           - Split
+          - Splita
         ascii_name: Split
         geonamesid: 3190261
         latitude: 43.50891
         longitude: 16.43915
         name: Split
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Split
+        names_es: 
+          - Split
         population: 176314
         timezone: Europe/Zagreb
       - 
@@ -3394,7 +3538,8 @@ regions:
         latitude: 43.55
         longitude: 16.5
         name: Solin
-        names_en: ~
+        names_en: 
+          - Solin
         names_es: ~
         population: 15927
         timezone: Europe/Zagreb
@@ -3403,12 +3548,14 @@ regions:
           - Signo
           - Sinj
           - seni
+          - セーニ
         ascii_name: Sinj
         geonamesid: 3190865
         latitude: 43.70361
         longitude: 16.63944
         name: Sinj
-        names_en: ~
+        names_en: 
+          - Sinj
         names_es: ~
         population: 11524
         timezone: Europe/Zagreb
@@ -3444,12 +3591,14 @@ regions:
           - Almissa
           - Omis
           - Omiš
+          - omish
         ascii_name: Omis
         geonamesid: 3194114
         latitude: 43.44472
         longitude: 16.68861
         name: Omiš
-        names_en: ~
+        names_en: 
+          - Omiš
         names_es: ~
         population: 6597
         timezone: Europe/Zagreb
@@ -3485,7 +3634,8 @@ regions:
         latitude: 43.29694
         longitude: 17.01778
         name: Makarska
-        names_en: ~
+        names_en: 
+          - Makarska
         names_es: ~
         population: 13446
         timezone: Europe/Zagreb
@@ -3505,12 +3655,14 @@ regions:
           - Comisa
           - Komiza
           - Komizha
+          - Komiža
         ascii_name: Komiza
         geonamesid: 3197834
         latitude: 43.04306
         longitude: 16.09306
         name: Komiža
-        names_en: ~
+        names_en: 
+          - Komiža
         names_es: ~
         population: 1530
         timezone: Europe/Zagreb
@@ -3560,7 +3712,8 @@ regions:
         latitude: 43.44667
         longitude: 17.21667
         name: Imotski
-        names_en: ~
+        names_en: 
+          - Imotski
         names_es: ~
         population: 4368
         timezone: Europe/Zagreb
@@ -3610,7 +3763,8 @@ regions:
         latitude: 43.36889
         longitude: 16.93417
         name: "Donja Brela"
-        names_en: ~
+        names_en: 
+          - Brela
         names_es: ~
         population: 1626
         timezone: Europe/Zagreb
@@ -3622,7 +3776,8 @@ regions:
         latitude: 43.26194
         longitude: 16.655
         name: Bol
-        names_en: ~
+        names_en: 
+          - Bol
         names_es: ~
         population: 1655
         timezone: Europe/Zagreb
@@ -3631,6 +3786,7 @@ regions:
           - Bashka-Voda
           - "Baska Voda"
           - "Baška Voda"
+          - Bestonio
         ascii_name: "Baska Voda"
         geonamesid: 3204439
         latitude: 43.35694
@@ -3665,7 +3821,8 @@ regions:
     geonamesid: 3337527
     name: Splitsko-Dalmatinska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Split-Dalmatia
   - 
     ascii_name: "Varazdinska Zupanija"
     cities: 
@@ -3685,13 +3842,17 @@ regions:
           - "Aqua Viva"
           - Varasd
           - Varasdino
+          - Varasdinum
         ascii_name: Varazdin
         geonamesid: 3188383
         latitude: 46.30444
         longitude: 16.33778
         name: Varaždin
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Varaždin
+        names_es: 
+          - Varazdin
+          - Varaždin
         population: 41808
         timezone: Europe/Zagreb
       - 
@@ -3699,6 +3860,7 @@ regions:
           - "Cerje Tuzno"
           - "Cerje Tužno"
           - Tuzno
+          - Tužno
         ascii_name: Tuzno
         geonamesid: 3188581
         latitude: 46.25667
@@ -3783,12 +3945,14 @@ regions:
           - Lepoglav
           - Lepoglava
           - Lepoglov
+          - Лепоглава
         ascii_name: Lepoglava
         geonamesid: 3196657
         latitude: 46.21056
         longitude: 16.03556
         name: Lepoglava
-        names_en: ~
+        names_en: 
+          - Lepoglava
         names_es: ~
         population: 4104
         timezone: Europe/Zagreb
@@ -3875,12 +4039,14 @@ regions:
           - Zhupanja
           - Zsupanja
           - Zsupanya
+          - Zupana
         ascii_name: Zupanja
         geonamesid: 3186294
         latitude: 45.0775
         longitude: 18.6975
         name: Županja
-        names_en: ~
+        names_en: 
+          - Županja
         names_es: ~
         population: 13842
         timezone: Europe/Zagreb
@@ -3889,13 +4055,16 @@ regions:
           - Neo-Vukovar
           - "Novi Vukovar"
           - Ovukovar
+          - "Stari Vukovar"
         ascii_name: Vukovar
         geonamesid: 3187047
         latitude: 45.34333
         longitude: 18.99972
         name: Vukovar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Vukovar
+        names_es: 
+          - Vukovar
         population: 29584
         timezone: Europe/Zagreb
       - 
@@ -3928,12 +4097,14 @@ regions:
           - Cibalae
           - Vinkovce
           - Vinkovci
+          - Vinkovcze
         ascii_name: Vinkovci
         geonamesid: 3187719
         latitude: 45.28833
         longitude: 18.80472
         name: Vinkovci
-        names_en: ~
+        names_en: 
+          - Vinkovci
         names_es: ~
         population: 33314
         timezone: Europe/Zagreb
@@ -4034,6 +4205,7 @@ regions:
           - Atak
           - Otok
           - Ottock
+          - Оток
         ascii_name: Otok
         geonamesid: 3193781
         latitude: 45.14667
@@ -4048,6 +4220,7 @@ regions:
           - Berzete-Monostor
           - Berzete-Monostora
           - Berzéte-Monostor
+          - Berzéte-Monostora
         ascii_name: Nustar
         geonamesid: 3194310
         latitude: 45.3325
@@ -4062,6 +4235,7 @@ regions:
           - Deutschdorf
           - Nemci
           - Nemeti
+          - Nempti
         ascii_name: Nijemci
         geonamesid: 3194499
         latitude: 45.14028
@@ -4147,6 +4321,7 @@ regions:
           - Ivanka
           - Ivanka-Szent-Gyorgy
           - Ivankova
+          - Ivánka
         ascii_name: Ivankovo
         geonamesid: 3199051
         latitude: 45.28861
@@ -4161,12 +4336,14 @@ regions:
           - Ilok
           - Ujlak
           - Újlak
+          - Илок
         ascii_name: Ilok
         geonamesid: 3199128
         latitude: 45.22222
         longitude: 19.37694
         name: Ilok
-        names_en: ~
+        names_en: 
+          - Ilok
         names_es: ~
         population: 5926
         timezone: Europe/Zagreb
@@ -4300,7 +4477,8 @@ regions:
     geonamesid: 3337529
     name: Vukovarsko-Srijemska
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Vukovar-Srijem
   - 
     ascii_name: "Zadarska Zupanija"
     cities: 
@@ -4309,13 +4487,16 @@ regions:
           - Zadar
           - Zadara
           - Zadaras
+          - Zantar
         ascii_name: Zadar
         geonamesid: 3186952
         latitude: 44.11972
         longitude: 15.24222
         name: Zadar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Zadar
+        names_es: 
+          - Zadar
         population: 71258
         timezone: Europe/Zagreb
       - 
@@ -4377,6 +4558,7 @@ regions:
           - "Stari Grad"
           - Starigrad
           - Starigrad-Paklenica
+          - "Velika Paklenica"
         ascii_name: Starigrad
         geonamesid: 3189964
         latitude: 44.29306
@@ -4454,6 +4636,7 @@ regions:
           - Polesnik
           - Polešnik
           - Policnik
+          - Polisseno
         ascii_name: Policnik
         geonamesid: 3192830
         latitude: 44.17806
@@ -4493,12 +4676,14 @@ regions:
           - "Isola di Pago"
           - Pag
           - Pagas
+          - Pago
         ascii_name: Pag
         geonamesid: 3193726
         latitude: 44.445
         longitude: 15.0575
         name: Pag
-        names_en: ~
+        names_en: 
+          - Pag
         names_es: ~
         population: 2714
         timezone: Europe/Zagreb
@@ -4579,12 +4764,14 @@ regions:
           - Biograd
           - "Biograd na Moru"
           - Zaravecchia
+          - Биоград
         ascii_name: "Biograd na Moru"
         geonamesid: 3204121
         latitude: 43.94333
         longitude: 15.45194
         name: "Biograd na Moru"
-        names_en: ~
+        names_en: 
+          - "Biograd na Moru"
         names_es: ~
         population: 5285
         timezone: Europe/Zagreb
@@ -4658,7 +4845,8 @@ regions:
         latitude: 44.43
         longitude: 15.06222
         name: "Stari Grad"
-        names_en: ~
+        names_en: 
+          - "Stari Grad"
         names_es: ~
         population: 1906
         timezone: Europe/Zagreb
@@ -4699,12 +4887,14 @@ regions:
           - Nagygorica
           - Nagygoricza
           - "Velika Gorica"
+          - "Велика Горица"
         ascii_name: "Velika Gorica"
         geonamesid: 3188244
         latitude: 45.7125
         longitude: 16.07556
         name: "Velika Gorica"
-        names_en: ~
+        names_en: 
+          - "Velika Gorica"
         names_es: ~
         population: 35072
         timezone: Europe/Zagreb
@@ -4730,7 +4920,8 @@ regions:
         latitude: 45.80306
         longitude: 15.71806
         name: Samobor
-        names_en: ~
+        names_en: 
+          - Samobor
         names_es: ~
         population: 15221
         timezone: Europe/Zagreb
@@ -4833,6 +5024,7 @@ regions:
           - "Gornji Kriz"
           - "Gornji Križ"
           - Kriz
+          - Križ
         ascii_name: Kriz
         geonamesid: 3197242
         latitude: 45.665
@@ -4858,12 +5050,14 @@ regions:
           - Jaska
           - Jastrebarcko
           - Jastrebarsko
+          - Jasztrebarszka
         ascii_name: Jastrebarsko
         geonamesid: 3198799
         latitude: 45.66833
         longitude: 15.64861
         name: Jastrebarsko
-        names_en: ~
+        names_en: 
+          - Jastrebarsko
         names_es: ~
         population: 5445
         timezone: Europe/Zagreb
@@ -4956,13 +5150,16 @@ regions:
           - Agram
           - Andautonia
           - Zabrag
+          - Zabreg
         ascii_name: Zagreb
         geonamesid: 3186886
         latitude: 45.81444
         longitude: 15.97798
         name: Zagreb
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Zagreb
+        names_es: 
+          - Zagreb
         population: 698966
         timezone: Europe/Zagreb
       - 
@@ -5029,6 +5226,7 @@ regions:
           - "Gornja Kasina"
           - "Gornja Kašina"
           - Kasina
+          - Kašina
         ascii_name: Kasina
         geonamesid: 3198236
         latitude: 45.91667
@@ -5096,6 +5294,7 @@ regions:
           - Vocin
           - Voćin
           - Vuchin
+          - Vucsin
         ascii_name: Vocin
         geonamesid: 3187503
         latitude: 45.61778
@@ -5110,12 +5309,14 @@ regions:
           - Sesta
           - Veroce
           - Verocze
+          - Veröcze
         ascii_name: Virovitica
         geonamesid: 3187694
         latitude: 45.83194
         longitude: 17.38389
         name: Virovitica
-        names_en: ~
+        names_en: 
+          - Virovitica
         names_es: ~
         population: 15665
         timezone: Europe/Zagreb
@@ -5138,6 +5339,7 @@ regions:
           - "Podravska Slatina"
           - Slatina
           - Szalatnok
+          - Szlatina
         ascii_name: Slatina
         geonamesid: 3192932
         latitude: 45.70333
@@ -5166,12 +5368,14 @@ regions:
           - Orahovica
           - Orowitz
           - Rahoca
+          - Raholca
         ascii_name: Orahovica
         geonamesid: 3194064
         latitude: 45.54
         longitude: 17.88472
         name: Orahovica
-        names_en: ~
+        names_en: 
+          - Orahovica
         names_es: ~
         population: 4283
         timezone: Europe/Zagreb
@@ -5180,6 +5384,7 @@ regions:
           - Cacinci
           - Chachincze
           - Csacsince
+          - Čačinci
         ascii_name: Cacinci
         geonamesid: 3202922
         latitude: 45.60389

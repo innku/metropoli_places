@@ -2,8 +2,11 @@
 geonamesid: 2589581
 iso: DZ
 name: Algeria
-names_en: ~
-names_es: ~
+names_en: 
+  - Algeria
+  - "People’s Democratic Republic of Algeria"
+names_es: 
+  - Argelia
 regions: 
   - 
     ascii_name: "Wilaya de Tlemcen"
@@ -13,13 +16,16 @@ regions:
           - Tilimsan
           - Tlemcen
           - Tlemecen
+          - Tlemecén
         ascii_name: Tlemcen
         geonamesid: 2475687
         latitude: 34.87833
         longitude: -1.315
         name: Tlemcen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tlemcen
+        names_es: 
+          - Tlemecén
         population: 132341
         timezone: Africa/Algiers
       - 
@@ -65,6 +71,7 @@ regions:
           - Lamariciere
           - Lamaricière
           - Lamoriciere
+          - Lamoricière
         ascii_name: "Ouled Mimoun"
         geonamesid: 2484846
         latitude: 34.90472
@@ -91,6 +98,7 @@ regions:
           - Mansoura
           - Mansourah
           - Mansoûra
+          - Mansura
         ascii_name: Mansoura
         geonamesid: 2490183
         latitude: 34.86158
@@ -105,6 +113,7 @@ regions:
           - "Eugene Etienne"
           - "Eugene-Etienne Hennaya"
           - "Eugène Étienne"
+          - "Eugéne-Étienne Hennaya"
         ascii_name: Hennaya
         geonamesid: 2493918
         latitude: 34.95139
@@ -133,6 +142,7 @@ regions:
           - "Ben Sokrane"
           - Bensekrane
           - "Pont de l'Isser"
+          - "Pont de l’Isser"
         ascii_name: Bensekrane
         geonamesid: 2504385
         latitude: 35.07465
@@ -165,12 +175,14 @@ regions:
           - "Tizi Ouzou"
           - "Tizi Uzu"
           - Tizi-Ouzou
+          - "tyzy wzw"
         ascii_name: "Tizi Ouzou"
         geonamesid: 2475744
         latitude: 36.71182
         longitude: 4.04591
         name: "Tizi Ouzou"
-        names_en: ~
+        names_en: 
+          - "Tizi Ouzou"
         names_es: ~
         population: 0
         timezone: Africa/Algiers
@@ -201,6 +213,7 @@ regions:
           - "Fort National"
           - "L'Arbaa Irathen Nait"
           - "L'Arbaa Nait Irathen"
+          - "Larbaa Nath Iraten"
         ascii_name: "L'Arbaa Nait Irathen"
         geonamesid: 2491042
         latitude: 36.63112
@@ -269,6 +282,7 @@ regions:
           - "'Ain el Hammam"
           - "Ain El Hamman"
           - Ain-el-Hamam
+          - "Aine el Hammam"
         ascii_name: "'Ain el Hammam"
         geonamesid: 2508152
         latitude: 36.56471
@@ -322,13 +336,16 @@ regions:
           - Tipasa
           - Tipaza
           - tybazt
+          - تيبازة
         ascii_name: Tipasa
         geonamesid: 2476028
         latitude: 36.58972
         longitude: 2.4475
         name: Tipasa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tipasa
+        names_es: 
+          - Tipasa
         population: 0
         timezone: Africa/Algiers
       - 
@@ -361,6 +378,7 @@ regions:
           - Mouzaia
           - Mouzaiaville
           - Mouzaïa
+          - Mouzaïaville
         ascii_name: Mouzaia
         geonamesid: 2486825
         latitude: 36.46695
@@ -438,6 +456,7 @@ regions:
           - "Bou Ismael"
           - "Bou Ismail"
           - "Bou Ismaël"
+          - "Bou Ismaïl"
         ascii_name: "Bou Ismail"
         geonamesid: 2502939
         latitude: 36.64262
@@ -463,6 +482,7 @@ regions:
           - "'Ain Benian"
           - "Ain Berrian"
           - "Bou Ismail"
+          - Castiglione
         ascii_name: "'Ain Benian"
         geonamesid: 2508275
         latitude: 36.80277
@@ -484,13 +504,16 @@ regions:
           - "Provinsi Tindouf"
           - Tindouf
           - Tinduf
+          - "wlayt tndwf"
         ascii_name: Tindouf
         geonamesid: 2476301
         latitude: 27.67111
         longitude: -8.14744
         name: Tindouf
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tindouf
+        names_es: 
+          - Tinduf
         population: 0
         timezone: Africa/Algiers
     geonamesid: 2476302
@@ -518,6 +541,7 @@ regions:
           - Nadhora
           - Nador
           - Sougueur
+          - Trezel
         ascii_name: Sougueur
         geonamesid: 2479247
         latitude: 35.18568
@@ -532,6 +556,7 @@ regions:
           - Burdeau
           - Mahdia
           - Makhdija
+          - Mehdia
         ascii_name: Mehdia
         geonamesid: 2488616
         latitude: 35.43058
@@ -546,6 +571,7 @@ regions:
           - Chellala
           - Chellala-Reibell
           - "Ksar Chellala"
+          - Reibel
         ascii_name: "Ksar Chellala"
         geonamesid: 2491335
         latitude: 35.21222
@@ -571,6 +597,7 @@ regions:
           - "'Ain Deheb"
           - "El Ousseukh"
           - "El Ousseukhr"
+          - "El Ousseukr"
         ascii_name: "'Ain Deheb"
         geonamesid: 2508225
         latitude: 34.84218
@@ -592,13 +619,16 @@ regions:
           - Tebessa
           - Theveste
           - Tibissa
+          - Tébessa
         ascii_name: Tebessa
         geonamesid: 2477461
         latitude: 35.40417
         longitude: 8.12417
         name: Tébessa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tébessa
+        names_es: 
+          - Tébessa
         population: 0
         timezone: Africa/Algiers
     geonamesid: 2477457
@@ -613,12 +643,14 @@ regions:
           - "Fort Laperine"
           - "Fort Laperrine"
           - Tamahrasset
+          - Tamanghasset
         ascii_name: Tamanrasset
         geonamesid: 2478216
         latitude: 22.785
         longitude: 5.52278
         name: Tamanrasset
-        names_en: ~
+        names_en: 
+          - Tamanghasset
         names_es: ~
         population: 73128
         timezone: Africa/Algiers
@@ -680,13 +712,16 @@ regions:
           - Philippeville
           - Phillippville
           - Skikda
+          - "wlayt skykdt"
         ascii_name: Skikda
         geonamesid: 2479536
         latitude: 36.87617
         longitude: 6.90921
         name: Skikda
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Skikda
+        names_es: 
+          - Skikda
         population: 162702
         timezone: Africa/Algiers
       - 
@@ -727,12 +762,14 @@ regions:
           - "Sid Bel Abbes"
           - "Sid Bel Abbès"
           - "Sidi Bel Abbes"
+          - "Sidi Bel Abbès"
         ascii_name: "Sidi Bel Abbes"
         geonamesid: 2481007
         latitude: 35.18994
         longitude: -0.63085
         name: "Sidi Bel Abbès"
-        names_en: ~
+        names_en: 
+          - "Sidi Bel Abbes"
         names_es: ~
         population: 191769
         timezone: Africa/Algiers
@@ -741,6 +778,7 @@ regions:
           - Mercier-Lacombe
           - Sfisef
           - Sfissef
+          - Sfizef
         ascii_name: Sfizef
         geonamesid: 2481639
         latitude: 35.23464
@@ -776,12 +814,14 @@ regions:
           - Satif
           - Setif
           - Sétif
+          - styf
         ascii_name: Setif
         geonamesid: 2481700
         latitude: 36.19112
         longitude: 5.41373
         name: Sétif
-        names_en: ~
+        names_en: 
+          - Sétif
         names_es: ~
         population: 0
         timezone: Africa/Algiers
@@ -830,6 +870,7 @@ regions:
           - "'Ain Arnat"
           - "Aine Arnat"
           - Arnat
+          - "Aïne Arnat"
         ascii_name: "'Ain Arnat"
         geonamesid: 2508297
         latitude: 36.18683
@@ -862,6 +903,7 @@ regions:
           - Saida
           - Sajda
           - Saïda
+          - Сайда
         ascii_name: Saida
         geonamesid: 2482572
         latitude: 34.83034
@@ -876,6 +918,7 @@ regions:
           - "'Ain el Hadjar"
           - "Aine el Hadjar"
           - "Aïne el Hadjar"
+          - "’Aïn el Hadjar"
         ascii_name: "'Ain el Hadjar"
         geonamesid: 2508162
         latitude: 34.75846
@@ -910,12 +953,14 @@ regions:
           - "Ighil Izane"
           - "Prowincja Relizane"
           - Relizan
+          - Relizane
         ascii_name: Relizane
         geonamesid: 2483668
         latitude: 35.73734
         longitude: 0.55599
         name: Relizane
-        names_en: ~
+        names_en: 
+          - Relizane
         names_es: ~
         population: 0
         timezone: Africa/Algiers
@@ -949,6 +994,7 @@ regions:
           - Djidioua
           - Djidiouia
           - Djidjiouia
+          - Jdiouia
         ascii_name: Djidiouia
         geonamesid: 2492920
         latitude: 35.92989
@@ -974,6 +1020,7 @@ regions:
           - "'Ain Merane"
           - "Aine Merane"
           - "Aïne Merane"
+          - Rabelais
         ascii_name: "'Ain Merane"
         geonamesid: 2508010
         latitude: 36.16277
@@ -1033,6 +1080,7 @@ regions:
           - "Ain Kercha"
           - "Ain Kercka"
           - "Aine Kercha"
+          - "Aïn Kercha"
         ascii_name: "Ain Kercha"
         geonamesid: 2508059
         latitude: 35.92472
@@ -1047,6 +1095,7 @@ regions:
           - "Ain Fakroun"
           - "Aine Fakroun"
           - "Aïn Fakroun"
+          - "Aïne Fakroun"
         ascii_name: "Ain Fakroun"
         geonamesid: 2508102
         latitude: 35.97108
@@ -1061,6 +1110,7 @@ regions:
           - "Ain Beida"
           - "Aine Beida"
           - "Aïn Beïda"
+          - "Aïne Beïda"
         ascii_name: "Ain Beida"
         geonamesid: 2508287
         latitude: 35.79639
@@ -1129,12 +1179,14 @@ regions:
           - Ouargla
           - Quargla
           - Warkala
+          - Warqla
         ascii_name: Ouargla
         geonamesid: 2485801
         latitude: 31.94932
         longitude: 5.32502
         name: Ouargla
-        names_en: ~
+        names_en: 
+          - Ouargla
         names_es: ~
         population: 129402
         timezone: Africa/Algiers
@@ -1181,6 +1233,7 @@ regions:
           - Djama
           - Djamaa
           - Djemaa
+          - Djemâa
         ascii_name: Djamaa
         geonamesid: 2500282
         latitude: 33.53388
@@ -1216,13 +1269,16 @@ regions:
           - Ora
           - Oran
           - Orà
+          - Orán
         ascii_name: Oran
         geonamesid: 2485926
         latitude: 35.69111
         longitude: -0.64167
         name: Oran
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Oran
+        names_es: 
+          - Orán
         population: 645984
         timezone: Africa/Algiers
       - 
@@ -1230,6 +1286,7 @@ regions:
           - "Mers el Kabir"
           - "Mers el Kebir"
           - Mers-ehl'-Kebir
+          - Мерс-эль-Кебир
         ascii_name: "Mers el Kebir"
         geonamesid: 2487852
         latitude: 35.7279
@@ -1282,6 +1339,7 @@ regions:
           - "'Ain el Turk"
           - Ain-et-Turk
           - "Aine et Turk"
+          - Ajn-ehl'-Terk
         ascii_name: "'Ain el Turk"
         geonamesid: 2508119
         latitude: 35.74381
@@ -1296,6 +1354,7 @@ regions:
           - "'Ain el Bia"
           - "Ain el Bya"
           - "Aïn el Bya"
+          - Damesme
         ascii_name: "Ain el Bya"
         geonamesid: 2508174
         latitude: 35.80389
@@ -1328,6 +1387,7 @@ regions:
           - "Ain Sefra"
           - "Aine Sefra"
           - "Aïn Sefra"
+          - "Aïne Sefra"
         ascii_name: "Ain Sefra"
         geonamesid: 2507943
         latitude: 32.75
@@ -1349,6 +1409,7 @@ regions:
           - "Sid Aissa"
           - "Sid Aïssa"
           - "Sidi Aissa"
+          - "Sidi Aïssa"
         ascii_name: "Sidi Aissa"
         geonamesid: 2481246
         latitude: 35.88548
@@ -1376,6 +1437,7 @@ regions:
           - "'Ain el Melh"
           - "Ain Melah"
           - "Ain Melh"
+          - "Ain Mellah"
         ascii_name: "'Ain el Melh"
         geonamesid: 2508130
         latitude: 34.84146
@@ -1390,12 +1452,14 @@ regions:
           - "Ain el Hadjel"
           - "Aine el Hadjel"
           - "Aïne el Hadjel"
+          - Selamate
         ascii_name: "`Ain el Hadjel"
         geonamesid: 2508157
         latitude: 35.67003
         longitude: 3.88153
         name: "‘Aïn el Hadjel"
-        names_en: ~
+        names_en: 
+          - "Ain el Hadjel"
         names_es: ~
         population: 42527
         timezone: Africa/Algiers
@@ -1411,13 +1475,16 @@ regions:
           - Mastaganeam
           - Mostaganem
           - Mustaghanam
+          - Mustaghanim
         ascii_name: Mostaganem
         geonamesid: 2487134
         latitude: 35.93115
         longitude: 0.08918
         name: Mostaganem
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mostaganem
+        names_es: 
+          - Mostaganem
         population: 130000
         timezone: Africa/Algiers
     geonamesid: 2487130
@@ -1464,6 +1531,7 @@ regions:
           - Lambdia
           - Medea
           - Medeah
+          - Medeja
         ascii_name: Medea
         geonamesid: 2488835
         latitude: 36.26417
@@ -1505,6 +1573,7 @@ regions:
           - "'Ain Boucif"
           - "Aine Boucif"
           - "Aïne Boucif"
+          - "Bordj Ain Boucif"
         ascii_name: "'Ain Boucif"
         geonamesid: 2508262
         latitude: 35.89123
@@ -1539,6 +1608,7 @@ regions:
           - "Oued el Abtal"
           - Torki-le-Djuk
           - Uzes-le-Duc
+          - Uzes-le-Due
         ascii_name: "Oued el Abtal"
         geonamesid: 2485636
         latitude: 35.45595
@@ -1566,6 +1636,7 @@ regions:
           - "Bou Hanifia"
           - "Bou Hanifia el Hamamat"
           - "Bou Hanifia el Hammamet"
+          - "Bou Hanifia-les Thermes"
         ascii_name: "Bou Hanifia el Hamamat"
         geonamesid: 2503033
         latitude: 35.31473
@@ -1587,12 +1658,14 @@ regions:
           - Laghouat
           - Laguat
           - Larhouat
+          - "Prowincja Laghouat"
         ascii_name: Laghouat
         geonamesid: 2491191
         latitude: 33.8
         longitude: 2.86514
         name: Laghouat
-        names_en: ~
+        names_en: 
+          - Laghouat
         names_es: ~
         population: 113872
         timezone: Africa/Algiers
@@ -1605,7 +1678,8 @@ regions:
         latitude: 34.1128
         longitude: 2.10228
         name: Aflou
-        names_en: ~
+        names_en: 
+          - Aflou
         names_es: ~
         population: 84683
         timezone: Africa/Algiers
@@ -1648,6 +1722,7 @@ regions:
           - "Fort Polignac"
           - "Fort de Polignac"
           - Illizi
+          - Polignac
         ascii_name: Illizi
         geonamesid: 2493456
         latitude: 26.48333
@@ -1685,8 +1760,10 @@ regions:
         latitude: 36.46214
         longitude: 7.42608
         name: Guelma
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Guelma
+        names_es: 
+          - Guelma
         population: 123590
         timezone: Africa/Algiers
       - 
@@ -1714,6 +1791,7 @@ regions:
           - Metlili
           - "Metlili Chaamba"
           - "Metlili-les Chaamba"
+          - "Mettlili Chaamba"
         ascii_name: "Metlili Chaamba"
         geonamesid: 2487620
         latitude: 32.26667
@@ -1821,12 +1899,14 @@ regions:
           - "El Bayadh"
           - El-Bayadh
           - Geryville
+          - Géryville
         ascii_name: "El Bayadh"
         geonamesid: 2498543
         latitude: 33.68318
         longitude: 1.01927
         name: "El Bayadh"
-        names_en: ~
+        names_en: 
+          - "El Bayadh"
         names_es: ~
         population: 0
         timezone: Africa/Algiers
@@ -1835,6 +1915,7 @@ regions:
           - "El Abiod Sidi Cheikh"
           - "El Abiod Sidi Cheiki"
           - "El Abiod Sidi Cheikr"
+          - "El Abiod Sidi Cheïkr"
         ascii_name: "El Abiodh Sidi Cheikh"
         geonamesid: 2498775
         latitude: 32.893
@@ -1896,13 +1977,16 @@ regions:
           - Djelfa
           - Dzilfa
           - Dżilfa
+          - Jelfa
         ascii_name: Djelfa
         geonamesid: 2500017
         latitude: 34.67279
         longitude: 3.263
         name: Djelfa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Djelfa
+        names_es: 
+          - Djelfa
         population: 0
         timezone: Africa/Algiers
       - 
@@ -1949,6 +2033,7 @@ regions:
           - "Ain Oussera"
           - "Aïn Oussera"
           - "El Oussera"
+          - "Paul Cazelles"
         ascii_name: "Ain Oussera"
         geonamesid: 2507972
         latitude: 35.45139
@@ -1963,6 +2048,7 @@ regions:
           - "'Ain el Bell"
           - "Ain el Ibel"
           - Ajn-ehl'-Bella
+          - "Aïn el Ibel"
         ascii_name: "'Ain el Bell"
         geonamesid: 2508184
         latitude: 34.3438
@@ -2008,6 +2094,7 @@ regions:
           - Hamma
           - "Hamma Bouniane"
           - "Hamma Bouziane"
+          - Hamma-Plaisance
         ascii_name: "Hamma Bouziane"
         geonamesid: 2494610
         latitude: 36.41205
@@ -2022,6 +2109,7 @@ regions:
           - "El Khroub"
           - El-Kroub
           - Kroubs
+          - "Le Khroub"
         ascii_name: "El Khroub"
         geonamesid: 2497849
         latitude: 36.26333
@@ -2060,6 +2148,7 @@ regions:
           - Chateaudun
           - "Chateaudun de Rhumel"
           - "Chateaudun-du Rummel"
+          - Chateaudun-du-Rhumel
         ascii_name: "Chelghoum el Aid"
         geonamesid: 2501541
         latitude: 36.16286
@@ -2074,6 +2163,7 @@ regions:
           - "Ain Smara"
           - "Aine Smara"
           - "Aïn Smara"
+          - "Aïne Smara"
         ascii_name: "Ain Smara"
         geonamesid: 2507926
         latitude: 36.2674
@@ -2088,6 +2178,7 @@ regions:
           - "'Ain Abid"
           - "Aine Abid"
           - "Aïne Abid"
+          - "’Aïn Abid"
         ascii_name: "'Ain Abid"
         geonamesid: 2508309
         latitude: 36.23194
@@ -2123,6 +2214,7 @@ regions:
           - Malakoff
           - Malakoft
           - "Oued Sli"
+          - "Oued Sly"
         ascii_name: "Oued Sly"
         geonamesid: 2485572
         latitude: 36.10124
@@ -2148,6 +2240,7 @@ regions:
           - Chlef
           - "Ech Chlef"
           - "El Asnam"
+          - Orleansville
         ascii_name: Chlef
         geonamesid: 2498611
         latitude: 36.16525
@@ -2162,6 +2255,7 @@ regions:
           - "Ech Chetia"
           - "Ech Chettia"
           - "Ech Chettiâ"
+          - "Ech Chétia"
         ascii_name: "Ech Chettia"
         geonamesid: 2498954
         latitude: 36.19591
@@ -2176,6 +2270,7 @@ regions:
           - "Bou Kadir"
           - Boukadir
           - Bu-Kadir
+          - Charon
         ascii_name: Boukadir
         geonamesid: 2502924
         latitude: 36.06629
@@ -2190,6 +2285,7 @@ regions:
           - "Abou el Hassan"
           - "Abou el Hassen"
           - "Beni Madoun"
+          - "Bordj Abou el Hassen"
         ascii_name: "Abou el Hassan"
         geonamesid: 2509031
         latitude: 36.41657
@@ -2211,6 +2307,7 @@ regions:
           - Bou-Merdes
           - Boumerdas
           - Bumerdes
+          - "Cite de Boumerdes"
         ascii_name: Boumerdas
         geonamesid: 2474141
         latitude: 36.76639
@@ -2225,6 +2322,7 @@ regions:
           - "Tizi Ghenif"
           - "Tizi Gheniff"
           - "Tizi R'Nif"
+          - "Tizi Renif"
         ascii_name: "Tizi Gheniff"
         geonamesid: 2475764
         latitude: 36.58839
@@ -2239,6 +2337,7 @@ regions:
           - Menerville
           - Ménerville
           - Thenia
+          - "Theniet Beni Aicha"
         ascii_name: Thenia
         geonamesid: 2476917
         latitude: 36.72544
@@ -2253,6 +2352,7 @@ regions:
           - "Camp du Marechal"
           - "Camp du Maréchal"
           - Tadmait
+          - Tadmaït
         ascii_name: Tadmait
         geonamesid: 2478831
         latitude: 36.74413
@@ -2267,6 +2367,7 @@ regions:
           - "La Reghaia"
           - "La Reghaïa"
           - "La Reghia-Alma"
+          - Reghaia
         ascii_name: Reghaia
         geonamesid: 2483757
         latitude: 36.73587
@@ -2295,6 +2396,7 @@ regions:
           - "Azib Zamoun"
           - Haussonviller
           - Haussonvillers
+          - Naciria
         ascii_name: Naciria
         geonamesid: 2486505
         latitude: 36.74625
@@ -2322,6 +2424,7 @@ regions:
           - Fondouk
           - "Khemis El Khechma"
           - "Khemis el Khechna"
+          - "Le Fondouk"
         ascii_name: "Khemis el Khechna"
         geonamesid: 2491913
         latitude: 36.64997
@@ -2349,6 +2452,7 @@ regions:
           - "Dra Ben Khedda"
           - "Draa Ben Kheda"
           - "Draa Ben Khedda"
+          - "Draa Ben Kredda"
         ascii_name: "Draa Ben Khedda"
         geonamesid: 2499116
         latitude: 36.73436
@@ -2389,6 +2493,7 @@ regions:
           - Alma
           - Boudouaou
           - L'Alma
+          - L’Alma
         ascii_name: Boudouaou
         geonamesid: 2503229
         latitude: 36.72735
@@ -2416,6 +2521,7 @@ regions:
           - Arbatach
           - Arbatache
           - L'Arbatach
+          - L'Arbetache
         ascii_name: Arbatache
         geonamesid: 2506623
         latitude: 36.63773
@@ -2437,6 +2543,7 @@ regions:
           - Aumale
           - Aumale-d'Algerie
           - Aumale-d’Algérie
+          - Aumate
         ascii_name: "Sour el Ghozlane"
         geonamesid: 2479161
         latitude: 36.14766
@@ -2464,6 +2571,7 @@ regions:
           - "Dra el Mizan"
           - "Dra el Mizane"
           - Dra-ehl'-Mizan
+          - "Draa el Mizan"
         ascii_name: "Draa el Mizan"
         geonamesid: 2499104
         latitude: 36.53628
@@ -2521,6 +2629,7 @@ regions:
           - "Ras el Oued"
           - Ras-ehl'-Uehd
           - "Rass el Oued"
+          - "Râs el Oued"
         ascii_name: "Ras el Oued"
         geonamesid: 2483936
         latitude: 35.9441
@@ -2535,6 +2644,7 @@ regions:
           - Melouda
           - Melouza
           - "Ouan Ougha"
+          - "Souk el Tleta"
         ascii_name: Melouza
         geonamesid: 2488202
         latitude: 35.97999
@@ -2549,6 +2659,7 @@ regions:
           - Mansoura
           - Mansourah
           - Mansur
+          - Мансур
         ascii_name: Mansourah
         geonamesid: 2490180
         latitude: 36.08725
@@ -2574,6 +2685,7 @@ regions:
           - "Bordj Zemoura"
           - Zemmoura
           - Zemmours
+          - Zemoura
         ascii_name: "Bordj Zemoura"
         geonamesid: 2503620
         latitude: 36.27462
@@ -2588,6 +2700,7 @@ regions:
           - "Bordj Ghdir"
           - "Bordj R'dir"
           - "Bordj Redir"
+          - "Bordj Rhedir"
         ascii_name: "Bordj Ghdir"
         geonamesid: 2503654
         latitude: 35.90111
@@ -2602,12 +2715,14 @@ regions:
           - "Bordj Bou Arerridj"
           - "Bordj Bou Arreridj"
           - Bordj-Bou-Arreridj
+          - "Borj Bu Arrerij"
         ascii_name: "Bordj Bou Arreridj"
         geonamesid: 2503701
         latitude: 36.07322
         longitude: 4.76108
         name: "Bordj Bou Arreridj"
-        names_en: ~
+        names_en: 
+          - "Bordj Bou Arreridj"
         names_es: ~
         population: 0
         timezone: Africa/Algiers
@@ -2645,6 +2760,7 @@ regions:
           - Meftah
           - Meftakh
           - Rivet
+          - Мефтах
         ascii_name: Meftah
         geonamesid: 2488722
         latitude: 36.6204
@@ -2659,6 +2775,7 @@ regions:
           - Arba
           - El-Arba
           - L'Arba
+          - Larba
         ascii_name: L'Arba
         geonamesid: 2491050
         latitude: 36.56471
@@ -2711,6 +2828,7 @@ regions:
           - Bougara
           - Bouguera
           - Bouguerra
+          - Rovigo
         ascii_name: Bougara
         geonamesid: 2503147
         latitude: 36.54178
@@ -2748,13 +2866,16 @@ regions:
           - Al-Bulaydah
           - Blida
           - Dilida
+          - blydt
         ascii_name: Blida
         geonamesid: 2503769
         latitude: 36.47004
         longitude: 2.8277
         name: Blida
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Blida
+        names_es: 
+          - Blida
         population: 0
         timezone: Africa/Algiers
       - 
@@ -2844,13 +2965,16 @@ regions:
           - Biskra
           - Briskra
           - bskrh
+          - bskrt
         ascii_name: Biskra
         geonamesid: 2503826
         latitude: 34.85038
         longitude: 5.72805
         name: Biskra
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Biskra
+        names_es: 
+          - Biskra
         population: 0
         timezone: Africa/Algiers
     geonamesid: 2503822
@@ -2865,6 +2989,7 @@ regions:
           - "El Maten"
           - "Il Maten"
           - "Il Matene"
+          - "Il Matten"
         ascii_name: "el hed"
         geonamesid: 2476412
         latitude: 36.65
@@ -2912,13 +3037,16 @@ regions:
           - Bedzaja
           - Bejaia
           - Bejaïa
+          - Bougie
         ascii_name: Bejaia
         geonamesid: 2505329
         latitude: 36.75587
         longitude: 5.08433
         name: Bejaïa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Béjaïa
+        names_es: 
+          - Bugía
         population: 164103
         timezone: Africa/Algiers
       - 
@@ -2974,13 +3102,16 @@ regions:
           - Bechar
           - Beshare
           - Béchar
+          - Colomb-Bechar
         ascii_name: Bechar
         geonamesid: 2505530
         latitude: 31.61667
         longitude: -2.21667
         name: Béchar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Béchar
+        names_es: 
+          - Béchar
         population: 143382
         timezone: Africa/Algiers
     geonamesid: 2505525
@@ -2995,6 +3126,7 @@ regions:
           - Lambese
           - Lambèse
           - Tazoult
+          - Tazoult-Lambese
         ascii_name: Tazoult-Lambese
         geonamesid: 2477528
         latitude: 35.48171
@@ -3009,6 +3141,7 @@ regions:
           - "Ras el Aioun"
           - "Ras el Ayoun"
           - "Rass el Aioun"
+          - "Rass el Aïoun"
         ascii_name: "Ras el Aioun"
         geonamesid: 2483968
         latitude: 35.67384
@@ -3036,13 +3169,16 @@ regions:
           - Batna
           - "Batna City"
           - "Wilaya de Batna"
+          - batnh
         ascii_name: Batna
         geonamesid: 2505572
         latitude: 35.55597
         longitude: 6.17414
         name: Batna
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Batna City"
+        names_es: 
+          - Batna
         population: 280798
         timezone: Africa/Algiers
       - 
@@ -3106,6 +3242,7 @@ regions:
           - Gidjel
           - Hammamet
           - Khammamet
+          - Youks-les-Bains
         ascii_name: Hammamet
         geonamesid: 2494548
         latitude: 35.44862
@@ -3120,6 +3257,7 @@ regions:
           - Ehl'-Kaly
           - "El Kala"
           - "La Calle"
+          - "Port de la Calle"
         ascii_name: "El Kala"
         geonamesid: 2497988
         latitude: 36.89556
@@ -3147,6 +3285,7 @@ regions:
           - Aouinet-ed-Dieb
           - Aouinet-el-Dieb
           - Aouïnet-ed-Dieb
+          - Clairefontaine
         ascii_name: "El Aouinet"
         geonamesid: 2498667
         latitude: 35.86691
@@ -3198,6 +3337,7 @@ regions:
           - "Ain Mokra"
           - "Aine Mokra"
           - "Aïn Mokra"
+          - "Aïne Mokra"
         ascii_name: Berrahal
         geonamesid: 2504136
         latitude: 36.83528
@@ -3225,13 +3365,16 @@ regions:
           - Anaba
           - Annaba
           - "Annaba - syaht"
+          - "Annaba - سياحة"
         ascii_name: Annaba
         geonamesid: 2506999
         latitude: 36.9
         longitude: 7.76667
         name: Annaba
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Annaba
+        names_es: 
+          - Annaba
         population: 206570
         timezone: Africa/Algiers
     geonamesid: 2506994
@@ -3257,6 +3400,7 @@ regions:
           - "Dar El Baida"
           - "Dar el Beida"
           - "Dar el Beïda"
+          - Dar-ehl'-Bejda
         ascii_name: "Dar el Beida"
         geonamesid: 2500889
         latitude: 36.71333
@@ -3271,6 +3415,7 @@ regions:
           - "Bordj El Kifan"
           - "Bordj el Kiffan"
           - "Fort de l'Eau"
+          - "Fort de l’Eau"
         ascii_name: "Bordj el Kiffan"
         geonamesid: 2503661
         latitude: 36.74871
@@ -3311,13 +3456,16 @@ regions:
           - "Al Jazair"
           - Al-jezair
           - Algeirsborg
+          - Alger
         ascii_name: Algiers
         geonamesid: 2507480
         latitude: 36.7525
         longitude: 3.04197
         name: Algiers
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Algiers
+        names_es: 
+          - Argel
         population: 1977663
         timezone: Africa/Algiers
       - 
@@ -3325,6 +3473,7 @@ regions:
           - "Ain Taya"
           - "Aine Taya"
           - "Aïn Taya"
+          - "Aïne Taya"
         ascii_name: "Ain Taya"
         geonamesid: 2507912
         latitude: 36.79333
@@ -3337,7 +3486,8 @@ regions:
     geonamesid: 2507475
     name: Alger
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Argel
   - 
     ascii_name: "Wilaya de Ain Temouchent"
     cities: 
@@ -3360,6 +3510,7 @@ regions:
           - "El Malah"
           - "El Melah"
           - "Rio Salado"
+          - Zfissaf
         ascii_name: "El Malah"
         geonamesid: 2497714
         latitude: 35.39138
@@ -3374,6 +3525,7 @@ regions:
           - "El Amiria"
           - "El Amria"
           - Lourmel
+          - Lurmel
         ascii_name: "El Amria"
         geonamesid: 2498704
         latitude: 35.52439
@@ -3401,6 +3553,7 @@ regions:
           - "'Ain Temouchent"
           - "Ain Temonchent"
           - "Ain Temoucheni"
+          - "Ain Temushent"
         ascii_name: "'Ain Temouchent"
         geonamesid: 2507901
         latitude: 35.29749
@@ -3422,6 +3575,7 @@ regions:
           - "Teniet el Haad"
           - "Teniet el Had"
           - Teniet-el-Ha
+          - "Theniet el Had"
         ascii_name: "Theniet el Had"
         geonamesid: 2476915
         latitude: 35.87111
@@ -3436,6 +3590,7 @@ regions:
           - Affreville
           - "El Khemis"
           - "El Khemis Miliana"
+          - "Khemis Miliana"
         ascii_name: "Khemis Miliana"
         geonamesid: 2491911
         latitude: 36.26104
@@ -3450,6 +3605,7 @@ regions:
           - Ehl'-Attafom
           - "El Attaf"
           - "Les Attafs"
+          - "Les Attats"
         ascii_name: "El Attaf"
         geonamesid: 2498590
         latitude: 36.22393
@@ -3478,6 +3634,7 @@ regions:
           - "Ain Defla"
           - "Aïn Defla"
           - Duperre
+          - Duperré
         ascii_name: "Ain Defla"
         geonamesid: 2508228
         latitude: 36.26406
@@ -3512,6 +3669,7 @@ regions:
           - Reggan
           - Reggane
           - "Zaouiet Reggan"
+          - "Zaouiet Reggane"
         ascii_name: Reggane
         geonamesid: 2483761
         latitude: 26.71576

@@ -2,8 +2,14 @@
 geonamesid: 2750405
 iso: NL
 name: Netherlands
-names_en: ~
-names_es: ~
+names_en: 
+  - Holland
+  - "The Netherlands"
+  - Netherlands
+  - "Kingdom of the Netherlands"
+names_es: 
+  - Holanda
+  - "Países Bajos"
 regions: 
   - 
     ascii_name: "South Holland"
@@ -18,7 +24,8 @@ regions:
         latitude: 51.8175
         longitude: 4.63333
         name: Zwijndrecht
-        names_en: ~
+        names_en: 
+          - Zwijndrecht
         names_es: ~
         population: 45696
         timezone: Europe/Amsterdam
@@ -27,12 +34,14 @@ regions:
           - Zeutermaer
           - Zoetermeer
           - zwtrmyyr
+          - זוטרמייר
         ascii_name: Zoetermeer
         geonamesid: 2743856
         latitude: 52.0575
         longitude: 4.49306
         name: Zoetermeer
-        names_en: ~
+        names_en: 
+          - Zoetermeer
         names_es: ~
         population: 115845
         timezone: Europe/Amsterdam
@@ -114,7 +123,8 @@ regions:
         latitude: 51.9125
         longitude: 4.34167
         name: Vlaardingen
-        names_en: ~
+        names_en: 
+          - Vlaardingen
         names_es: ~
         population: 73798
         timezone: Europe/Amsterdam
@@ -137,7 +147,8 @@ regions:
         latitude: 51.845
         longitude: 4.32917
         name: Spijkenisse
-        names_en: ~
+        names_en: 
+          - Spijkenisse
         names_es: ~
         population: 74988
         timezone: Europe/Amsterdam
@@ -171,13 +182,16 @@ regions:
           - "'s-Gravenhage"
           - "A Haia"
           - "A Haia - Den Haag"
+          - "An Haig"
         ascii_name: "Den Haag"
         geonamesid: 2747373
         latitude: 52.07667
         longitude: 4.29861
         name: "Den Haag"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "The Hague"
+        names_es: 
+          - "La Haya"
         population: 474292
         timezone: Europe/Amsterdam
       - 
@@ -200,7 +214,8 @@ regions:
         latitude: 51.91917
         longitude: 4.38889
         name: Schiedam
-        names_en: ~
+        names_en: 
+          - Schiedam
         names_es: ~
         population: 75438
         timezone: Europe/Amsterdam
@@ -209,13 +224,16 @@ regions:
           - Scheveningen
           - Sheveningen
           - Skheveningen
+          - suhefeningen
         ascii_name: Scheveningen
         geonamesid: 2747599
         latitude: 52.10461
         longitude: 4.27557
         name: Scheveningen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Scheveningen
+        names_es: 
+          - Scheveningen
         population: 23000
         timezone: Europe/Amsterdam
       - 
@@ -234,13 +252,17 @@ regions:
           - "Gemeente Rotterdam"
           - Roterdam
           - Roterdama
+          - Roterdamo
         ascii_name: Rotterdam
         geonamesid: 2747891
         latitude: 51.9225
         longitude: 4.47917
         name: Rotterdam
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rotterdam
+        names_es: 
+          - Rotterdam
+          - Róterdam
         population: 598199
         timezone: Europe/Amsterdam
       - 
@@ -383,7 +405,8 @@ regions:
         latitude: 52.18
         longitude: 4.46944
         name: Oegstgeest
-        names_en: ~
+        names_en: 
+          - Oegstgeest
         names_es: ~
         population: 21149
         timezone: Europe/Amsterdam
@@ -477,7 +500,8 @@ regions:
         latitude: 52.02583
         longitude: 4.175
         name: Monster
-        names_en: ~
+        names_en: 
+          - Monster
         names_es: ~
         population: 11580
         timezone: Europe/Amsterdam
@@ -501,7 +525,8 @@ regions:
         latitude: 51.7575
         longitude: 4.16528
         name: Middelharnis
-        names_en: ~
+        names_en: 
+          - Middelharnis
         names_es: ~
         population: 17554
         timezone: Europe/Amsterdam
@@ -513,7 +538,8 @@ regions:
         latitude: 51.92333
         longitude: 4.25
         name: Maassluis
-        names_en: ~
+        names_en: 
+          - Maassluis
         names_es: ~
         population: 32780
         timezone: Europe/Amsterdam
@@ -580,13 +606,16 @@ regions:
           - Lajden
           - Leida
           - Leiden
+          - Leidenas
         ascii_name: Leiden
         geonamesid: 2751773
         latitude: 52.15833
         longitude: 4.49306
         name: Leiden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Leiden
+        names_es: 
+          - Leiden
         population: 119713
         timezone: Europe/Amsterdam
       - 
@@ -597,7 +626,8 @@ regions:
         latitude: 51.89333
         longitude: 5.09167
         name: Leerdam
-        names_en: ~
+        names_en: 
+          - Leerdam
         names_es: ~
         population: 20758
         timezone: Europe/Amsterdam
@@ -617,6 +647,7 @@ regions:
           - Krimpen
           - "Krimpen a/d IJssel"
           - "Krimpen a/d Yssel"
+          - "Krimpen aan de IJssel"
         ascii_name: "Krimpen aan den IJssel"
         geonamesid: 2752264
         latitude: 51.91667
@@ -645,12 +676,14 @@ regions:
           - Katwijk
           - "Katwijk a/d Rijn"
           - "Katwijk aan de Rijn"
+          - "Katwijk aan den Rijn"
         ascii_name: "Katwijk aan den Rijn"
         geonamesid: 2753011
         latitude: 52.19417
         longitude: 4.42222
         name: "Katwijk aan den Rijn"
-        names_en: ~
+        names_en: 
+          - Katwijk
         names_es: ~
         population: 5940
         timezone: Europe/Amsterdam
@@ -672,13 +705,16 @@ regions:
           - "Hoek van Holland"
           - "Hook of Holland"
           - "Khoek van Kholland"
+          - "Хоек ван Холланд"
         ascii_name: "Hoek van Holland"
         geonamesid: 2754007
         latitude: 51.9775
         longitude: 4.13333
         name: "Hoek van Holland"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Hoek van Holland"
+        names_es: 
+          - "Hoek van Holland"
         population: 9400
         timezone: Europe/Amsterdam
       - 
@@ -753,13 +789,16 @@ regions:
           - Gauda
           - Gouda
           - Guda
+          - Гауда
         ascii_name: Gouda
         geonamesid: 2755420
         latitude: 52.01667
         longitude: 4.70833
         name: Gouda
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gouda
+        names_es: 
+          - Gouda
         population: 71952
         timezone: Europe/Amsterdam
       - 
@@ -805,13 +844,16 @@ regions:
           - Doardt
           - Dordracum
           - Dordrech
+          - Dordrecht
         ascii_name: Dordrecht
         geonamesid: 2756669
         latitude: 51.81
         longitude: 4.67361
         name: Dordrecht
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dordrecht
+        names_es: 
+          - Dordrecht
         population: 119260
         timezone: Europe/Amsterdam
       - 
@@ -842,13 +884,16 @@ regions:
           - Delft
           - Ntelpht
           - "dai er fu te"
+          - "derufuto shi"
         ascii_name: Delft
         geonamesid: 2757345
         latitude: 52.00667
         longitude: 4.35556
         name: Delft
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Delft
+        names_es: 
+          - Delft
         population: 95060
         timezone: Europe/Amsterdam
       - 
@@ -856,12 +901,14 @@ regions:
           - Capelle
           - "Capelle a/d IJssel"
           - "Capelle a/d Yssel"
+          - "Capelle aan de IJssel"
         ascii_name: "Capelle aan den IJssel"
         geonamesid: 2758012
         latitude: 51.92917
         longitude: 4.57778
         name: "Capelle aan den IJssel"
-        names_en: ~
+        names_en: 
+          - "Capelle aan den IJssel"
         names_es: ~
         population: 65255
         timezone: Europe/Amsterdam
@@ -963,12 +1010,14 @@ regions:
           - Alfen
           - Alphen
           - "Alphen a/d Rijn"
+          - "Alphen aan de Rijn"
         ascii_name: "Alphen aan den Rijn"
         geonamesid: 2759875
         latitude: 52.12917
         longitude: 4.65546
         name: "Alphen aan den Rijn"
-        names_en: ~
+        names_en: 
+          - "Alphen aan den Rijn"
         names_es: ~
         population: 70251
         timezone: Europe/Amsterdam
@@ -1008,8 +1057,10 @@ regions:
         timezone: Europe/Amsterdam
     geonamesid: 2743698
     name: "South Holland"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "South Holland"
+    names_es: 
+      - "Holanda Meridional"
   - 
     ascii_name: "Provincie Zeeland"
     cities: 
@@ -1029,6 +1080,7 @@ regions:
           - Erseke
           - IJerseka
           - Iersake
+          - Ierseke
         ascii_name: Yerseke
         geonamesid: 2744129
         latitude: 51.4925
@@ -1054,13 +1106,16 @@ regions:
           - Flesinga
           - Flessinga
           - Flessingue
+          - Flushing
         ascii_name: Vlissingen
         geonamesid: 2745392
         latitude: 51.4425
         longitude: 3.57361
         name: Vlissingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Flushing
+        names_es: 
+          - Flesinga
         population: 45273
         timezone: Europe/Amsterdam
       - 
@@ -1068,12 +1123,14 @@ regions:
           - Veera
           - Veere
           - Vere
+          - Веера
         ascii_name: Veere
         geonamesid: 2745739
         latitude: 51.54833
         longitude: 3.66667
         name: Veere
-        names_en: ~
+        names_en: 
+          - Veere
         names_es: ~
         population: 22173
         timezone: Europe/Amsterdam
@@ -1082,12 +1139,14 @@ regions:
           - Tholen
           - Tole
           - Tolen
+          - Толен
         ascii_name: Tholen
         geonamesid: 2746351
         latitude: 51.53167
         longitude: 4.22083
         name: Tholen
-        names_en: ~
+        names_en: 
+          - Tholen
         names_es: ~
         population: 7732
         timezone: Europe/Amsterdam
@@ -1096,12 +1155,14 @@ regions:
           - Neuzen
           - Terneuze
           - Terneuzen
+          - Ternezen
         ascii_name: Terneuzen
         geonamesid: 2746420
         latitude: 51.33583
         longitude: 3.82778
         name: Terneuzen
-        names_en: ~
+        names_en: 
+          - Terneuzen
         names_es: ~
         population: 27930
         timezone: Europe/Amsterdam
@@ -1158,13 +1219,16 @@ regions:
           - Middelbourg
           - Middelburg
           - "mi de er bao"
+          - Мидделбург
         ascii_name: Middelburg
         geonamesid: 2750896
         latitude: 51.5
         longitude: 3.61389
         name: Middelburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Middelburg
+        names_es: 
+          - Middelburg
         population: 46485
         timezone: Europe/Amsterdam
       - 
@@ -1210,7 +1274,8 @@ regions:
         latitude: 51.50417
         longitude: 3.88889
         name: Goes
-        names_en: ~
+        names_en: 
+          - Goes
         names_es: ~
         population: 36931
         timezone: Europe/Amsterdam
@@ -1243,13 +1308,16 @@ regions:
           - Borsele
           - Borssel'
           - Borsselen
+          - Bossele
         ascii_name: Borssele
         geonamesid: 2758587
         latitude: 51.42333
         longitude: 3.73472
         name: Borssele
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Borsele
+        names_es: 
+          - Borsele
         population: 22285
         timezone: Europe/Amsterdam
       - 
@@ -1267,7 +1335,8 @@ regions:
     geonamesid: 2744011
     name: Zeeland
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Zelanda
   - 
     ascii_name: "Provincie Utrecht"
     cities: 
@@ -1279,7 +1348,8 @@ regions:
         latitude: 52.09
         longitude: 5.23333
         name: Zeist
-        names_en: ~
+        names_en: 
+          - Zeist
         names_es: ~
         population: 60949
         timezone: Europe/Amsterdam
@@ -1304,7 +1374,8 @@ regions:
         latitude: 52.085
         longitude: 4.88333
         name: Woerden
-        names_en: ~
+        names_en: 
+          - Woerden
         names_es: ~
         population: 48431
         timezone: Europe/Amsterdam
@@ -1350,7 +1421,8 @@ regions:
         latitude: 52.02863
         longitude: 5.55891
         name: Veenendaal
-        names_en: ~
+        names_en: 
+          - Veenendaal
         names_es: ~
         population: 61271
         timezone: Europe/Amsterdam
@@ -1359,13 +1431,16 @@ regions:
           - Outrechte
           - "Traiectum ad Rhenum"
           - Utrech
+          - Utrecht
         ascii_name: Utrecht
         geonamesid: 2745912
         latitude: 52.09083
         longitude: 5.12222
         name: Utrecht
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Utrecht
+        names_es: 
+          - Utrecht
         population: 290529
         timezone: Europe/Amsterdam
       - 
@@ -1437,7 +1512,8 @@ regions:
         latitude: 52.02917
         longitude: 5.08056
         name: Nieuwegein
-        names_en: ~
+        names_en: 
+          - Nieuwegein
         names_es: ~
         population: 61489
         timezone: Europe/Amsterdam
@@ -1515,6 +1591,7 @@ regions:
           - Hamersveld
           - Leusden
           - Leusden-Centrum
+          - Леусден
         ascii_name: Leusden
         geonamesid: 2751687
         latitude: 52.1325
@@ -1590,7 +1667,8 @@ regions:
         latitude: 52.03343
         longitude: 5.34571
         name: Doorn
-        names_en: ~
+        names_en: 
+          - Doorn
         names_es: ~
         population: 10330
         timezone: Europe/Amsterdam
@@ -1650,8 +1728,10 @@ regions:
         latitude: 52.21167
         longitude: 5.2875
         name: Baarn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Baarn
+        names_es: 
+          - Baarn
         population: 24584
         timezone: Europe/Amsterdam
       - 
@@ -1659,12 +1739,14 @@ regions:
           - Amersfoort
           - Amersfort
           - Amersforto
+          - Амерсфорт
         ascii_name: Amersfoort
         geonamesid: 2759821
         latitude: 52.155
         longitude: 5.3875
         name: Amersfoort
-        names_en: ~
+        names_en: 
+          - Amersfoort
         names_es: ~
         population: 139914
         timezone: Europe/Amsterdam
@@ -1691,13 +1773,16 @@ regions:
           - Swol
           - Zvolle
           - Zwolle
+          - "zi wo lei"
         ascii_name: Zwolle
         geonamesid: 2743477
         latitude: 52.5125
         longitude: 6.09444
         name: Zwolle
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Zwolle
+        names_es: 
+          - Zwolle
         population: 111805
         timezone: Europe/Amsterdam
       - 
@@ -1722,7 +1807,8 @@ regions:
         latitude: 52.35917
         longitude: 6.59306
         name: Wierden
-        names_en: ~
+        names_en: 
+          - Wierden
         names_es: ~
         population: 23244
         timezone: Europe/Amsterdam
@@ -1804,7 +1890,8 @@ regions:
         latitude: 52.4075
         longitude: 6.78472
         name: Tubbergen
-        names_en: ~
+        names_en: 
+          - Tubbergen
         names_es: ~
         population: 20334
         timezone: Europe/Amsterdam
@@ -1839,7 +1926,8 @@ regions:
         latitude: 52.645
         longitude: 6.21111
         name: Staphorst
-        names_en: ~
+        names_en: 
+          - Staphorst
         names_es: ~
         population: 15765
         timezone: Europe/Amsterdam
@@ -1876,7 +1964,8 @@ regions:
         latitude: 52.38583
         longitude: 6.275
         name: Raalte
-        names_en: ~
+        names_en: 
+          - Raalte
         names_es: ~
         population: 20015
         timezone: Europe/Amsterdam
@@ -1901,7 +1990,8 @@ regions:
         latitude: 52.31333
         longitude: 6.92917
         name: Oldenzaal
-        names_en: ~
+        names_en: 
+          - Oldenzaal
         names_es: ~
         population: 31410
         timezone: Europe/Amsterdam
@@ -1948,7 +2038,8 @@ regions:
         latitude: 52.26083
         longitude: 7.00417
         name: Losser
-        names_en: ~
+        names_en: 
+          - Losser
         names_es: ~
         population: 22431
         timezone: Europe/Amsterdam
@@ -1961,7 +2052,8 @@ regions:
         latitude: 52.555
         longitude: 5.91111
         name: Kampen
-        names_en: ~
+        names_en: 
+          - Kampen
         names_es: ~
         population: 48980
         timezone: Europe/Amsterdam
@@ -1987,7 +2079,8 @@ regions:
         latitude: 52.26583
         longitude: 6.79306
         name: Hengelo
-        names_en: ~
+        names_en: 
+          - Hengelo
         names_es: ~
         population: 80809
         timezone: Europe/Amsterdam
@@ -2019,12 +2112,14 @@ regions:
           - Hardenberg
           - Khardenberge
           - Stad-Hardenberg
+          - Харденберге
         ascii_name: Hardenberg
         geonamesid: 2754861
         latitude: 52.57583
         longitude: 6.61944
         name: Hardenberg
-        names_en: ~
+        names_en: 
+          - Hardenberg
         names_es: ~
         population: 57909
         timezone: Europe/Amsterdam
@@ -2038,7 +2133,8 @@ regions:
         latitude: 52.15667
         longitude: 6.73889
         name: Haaksbergen
-        names_en: ~
+        names_en: 
+          - Haaksbergen
         names_es: ~
         population: 24137
         timezone: Europe/Amsterdam
@@ -2069,13 +2165,16 @@ regions:
           - Ehnskhede
           - Enschede
           - Ensjedee
+          - Enskede
         ascii_name: Enschede
         geonamesid: 2756071
         latitude: 52.21833
         longitude: 6.89583
         name: Enschede
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Enschede
+        names_es: 
+          - Enschede
         population: 153655
         timezone: Europe/Amsterdam
       - 
@@ -2099,7 +2198,8 @@ regions:
         latitude: 52.255
         longitude: 6.16389
         name: Deventer
-        names_en: ~
+        names_en: 
+          - Deventer
         names_es: ~
         population: 97331
         timezone: Europe/Amsterdam
@@ -2136,7 +2236,8 @@ regions:
         latitude: 52.51167
         longitude: 6.25694
         name: Dalfsen
-        names_en: ~
+        names_en: 
+          - Dalfsen
         names_es: ~
         population: 26575
         timezone: Europe/Amsterdam
@@ -2160,8 +2261,10 @@ regions:
         latitude: 52.3
         longitude: 6.75
         name: Borne
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Borne
+        names_es: 
+          - Borne
         population: 20550
         timezone: Europe/Amsterdam
       - 
@@ -2185,7 +2288,8 @@ regions:
         latitude: 52.35667
         longitude: 6.6625
         name: Almelo
-        names_en: ~
+        names_en: 
+          - Almelo
         names_es: ~
         population: 72725
         timezone: Europe/Amsterdam
@@ -2206,7 +2310,8 @@ regions:
         latitude: 52.37487
         longitude: 4.53409
         name: Zandvoort
-        names_en: ~
+        names_en: 
+          - Zandvoort
         names_es: ~
         population: 16868
         timezone: Europe/Amsterdam
@@ -2218,7 +2323,8 @@ regions:
         latitude: 52.45313
         longitude: 4.81356
         name: Zaanstad
-        names_en: ~
+        names_en: 
+          - Zaanstad
         names_es: ~
         population: 140085
         timezone: Europe/Amsterdam
@@ -2231,7 +2337,8 @@ regions:
         latitude: 52.43854
         longitude: 4.82643
         name: Zaandam
-        names_en: ~
+        names_en: 
+          - Zaandam
         names_es: ~
         population: 71708
         timezone: Europe/Amsterdam
@@ -2243,7 +2350,8 @@ regions:
         latitude: 52.3075
         longitude: 5.04167
         name: Weesp
-        names_en: ~
+        names_en: 
+          - Weesp
         names_es: ~
         population: 17802
         timezone: Europe/Amsterdam
@@ -2269,7 +2377,8 @@ regions:
         latitude: 52.46
         longitude: 4.65
         name: Velsen-Zuid
-        names_en: ~
+        names_en: 
+          - Velsen
         names_es: ~
         population: 67758
         timezone: Europe/Amsterdam
@@ -2293,7 +2402,8 @@ regions:
         latitude: 52.52917
         longitude: 4.70972
         name: Uitgeest
-        names_en: ~
+        names_en: 
+          - Uitgeest
         names_es: ~
         population: 11794
         timezone: Europe/Amsterdam
@@ -2306,7 +2416,8 @@ regions:
         latitude: 52.7875
         longitude: 4.79861
         name: Schagen
-        names_en: ~
+        names_en: 
+          - Schagen
         names_es: ~
         population: 18930
         timezone: Europe/Amsterdam
@@ -2320,7 +2431,8 @@ regions:
         latitude: 52.505
         longitude: 4.95972
         name: Purmerend
-        names_en: ~
+        names_en: 
+          - Purmerend
         names_es: ~
         population: 76745
         timezone: Europe/Amsterdam
@@ -2342,6 +2454,7 @@ regions:
           - "Ouder Amstel"
           - Ouderkerk
           - "Ouderkerk Aan Den Amstel"
+          - "Ouderkerk a/d Amstel"
         ascii_name: "Ouderkerk aan de Amstel"
         geonamesid: 2749017
         latitude: 52.29504
@@ -2371,7 +2484,8 @@ regions:
         latitude: 52.70667
         longitude: 4.94444
         name: Opmeer
-        names_en: ~
+        names_en: 
+          - Opmeer
         names_es: ~
         population: 11183
         timezone: Europe/Amsterdam
@@ -2396,8 +2510,10 @@ regions:
         latitude: 52.29583
         longitude: 5.1625
         name: Naarden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Naarden
+        names_es: 
+          - Naarden
         population: 17115
         timezone: Europe/Amsterdam
       - 
@@ -2422,7 +2538,8 @@ regions:
         latitude: 52.25667
         longitude: 5.22778
         name: Laren
-        names_en: ~
+        names_en: 
+          - Laren
         names_es: ~
         population: 11508
         timezone: Europe/Amsterdam
@@ -2434,7 +2551,8 @@ regions:
         latitude: 52.43083
         longitude: 4.91528
         name: Landsmeer
-        names_en: ~
+        names_en: 
+          - Landsmeer
         names_es: ~
         population: 10279
         timezone: Europe/Amsterdam
@@ -2456,6 +2574,7 @@ regions:
           - Marken
           - Monnickenwerf
           - Monnikenwerf
+          - Маркен
         ascii_name: Marken
         geonamesid: 2752950
         latitude: 52.45833
@@ -2473,7 +2592,8 @@ regions:
         latitude: 52.29917
         longitude: 5.24167
         name: Huizen
-        names_en: ~
+        names_en: 
+          - Huizen
         names_es: ~
         population: 45292
         timezone: Europe/Amsterdam
@@ -2482,13 +2602,16 @@ regions:
           - Hoarn
           - Hoorn
           - Khoorn
+          - Хоорн
         ascii_name: Hoorn
         geonamesid: 2753638
         latitude: 52.6425
         longitude: 5.05972
         name: Hoorn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hoorn
+        names_es: 
+          - Hoorn
         population: 68852
         timezone: Europe/Amsterdam
       - 
@@ -2500,7 +2623,8 @@ regions:
         latitude: 52.3025
         longitude: 4.68889
         name: Hoofddorp
-        names_en: ~
+        names_en: 
+          - Hoofddorp
         names_es: ~
         population: 132734
         timezone: Europe/Amsterdam
@@ -2509,12 +2633,14 @@ regions:
           - Hilversum
           - Hilvertsheim
           - Khilversjum
+          - Хилверсюм
         ascii_name: Hilversum
         geonamesid: 2754064
         latitude: 52.22333
         longitude: 5.17639
         name: Hilversum
-        names_en: ~
+        names_en: 
+          - Hilversum
         names_es: ~
         population: 83640
         timezone: Europe/Amsterdam
@@ -2527,7 +2653,8 @@ regions:
         latitude: 52.6
         longitude: 4.7
         name: Heiloo
-        names_en: ~
+        names_en: 
+          - Heiloo
         names_es: ~
         population: 20510
         timezone: Europe/Amsterdam
@@ -2539,7 +2666,8 @@ regions:
         latitude: 52.67144
         longitude: 4.84862
         name: Heerhugowaard
-        names_en: ~
+        names_en: 
+          - Heerhugowaard
         names_es: ~
         population: 47580
         timezone: Europe/Amsterdam
@@ -2553,7 +2681,8 @@ regions:
         latitude: 52.34992
         longitude: 4.62301
         name: Heemstede
-        names_en: ~
+        names_en: 
+          - Heemstede
         names_es: ~
         population: 25562
         timezone: Europe/Amsterdam
@@ -2567,7 +2696,8 @@ regions:
         latitude: 52.51667
         longitude: 4.66667
         name: Heemskerk
-        names_en: ~
+        names_en: 
+          - Heemskerk
         names_es: ~
         population: 36170
         timezone: Europe/Amsterdam
@@ -2579,7 +2709,8 @@ regions:
         latitude: 52.73416
         longitude: 4.77682
         name: Harenkarspel
-        names_en: ~
+        names_en: 
+          - Harenkarspel
         names_es: ~
         population: 15941
         timezone: Europe/Amsterdam
@@ -2588,13 +2719,16 @@ regions:
           - Haarlem
           - Haarlemo
           - Khaarlem
+          - Kharlem
         ascii_name: Haarlem
         geonamesid: 2755003
         latitude: 52.38084
         longitude: 4.63683
         name: Haarlem
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Haarlem
+        names_es: 
+          - Haarlem
         population: 147590
         timezone: Europe/Amsterdam
       - 
@@ -2607,8 +2741,10 @@ regions:
         latitude: 52.70333
         longitude: 5.29167
         name: Enkhuizen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Enkhuizen
+        names_es: 
+          - Enkhuizen
         population: 17365
         timezone: Europe/Amsterdam
       - 
@@ -2668,7 +2804,8 @@ regions:
         latitude: 52.33964
         longitude: 4.96256
         name: Diemen
-        names_en: ~
+        names_en: 
+          - Diemen
         names_es: ~
         population: 24361
         timezone: Europe/Amsterdam
@@ -2691,13 +2828,16 @@ regions:
           - "Den Helder"
           - "Der Helder"
           - Helder
+          - "Le Helder"
         ascii_name: "Den Helder"
         geonamesid: 2757220
         latitude: 52.95988
         longitude: 4.75933
         name: "Den Helder"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Den Helder"
+        names_es: 
+          - "Den Helder"
         population: 59569
         timezone: Europe/Amsterdam
       - 
@@ -2722,7 +2862,8 @@ regions:
         latitude: 52.54833
         longitude: 4.66944
         name: Castricum
-        names_en: ~
+        names_en: 
+          - Castricum
         names_es: ~
         population: 35256
         timezone: Europe/Amsterdam
@@ -2736,7 +2877,8 @@ regions:
         latitude: 52.27333
         longitude: 5.16111
         name: Bussum
-        names_en: ~
+        names_en: 
+          - Bussum
         names_es: ~
         population: 31334
         timezone: Europe/Amsterdam
@@ -2772,7 +2914,8 @@ regions:
         latitude: 52.4025
         longitude: 4.62222
         name: Bloemendaal
-        names_en: ~
+        names_en: 
+          - Bloemendaal
         names_es: ~
         population: 16802
         timezone: Europe/Amsterdam
@@ -2785,7 +2928,8 @@ regions:
         latitude: 52.2725
         longitude: 5.24167
         name: Blaricum
-        names_en: ~
+        names_en: 
+          - Blaricum
         names_es: ~
         population: 9206
         timezone: Europe/Amsterdam
@@ -2798,7 +2942,8 @@ regions:
         latitude: 52.48333
         longitude: 4.65694
         name: Beverwijk
-        names_en: ~
+        names_en: 
+          - Beverwijk
         names_es: ~
         population: 37585
         timezone: Europe/Amsterdam
@@ -2810,7 +2955,8 @@ regions:
         latitude: 52.32083
         longitude: 4.59861
         name: Bennebroek
-        names_en: ~
+        names_en: 
+          - Bennebroek
         names_es: ~
         population: 5140
         timezone: Europe/Amsterdam
@@ -2819,13 +2965,17 @@ regions:
           - Amistardam
           - Amstardam
           - Amstedam
+          - Amstelodamum
         ascii_name: Amsterdam
         geonamesid: 2759794
         latitude: 52.37403
         longitude: 4.88969
         name: Amsterdam
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Amsterdam
+        names_es: 
+          - Amsterdam
+          - Ámsterdam
         population: 741636
         timezone: Europe/Amsterdam
       - 
@@ -2833,13 +2983,16 @@ regions:
           - Amstelveen
           - Amstelvin
           - "Nieuwer Amstel"
+          - "a mu si te er fen"
         ascii_name: Amstelveen
         geonamesid: 2759798
         latitude: 52.30083
         longitude: 4.86389
         name: Amstelveen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Amstelveen
+        names_es: 
+          - Amstelveen
         population: 79639
         timezone: Europe/Amsterdam
       - 
@@ -2847,13 +3000,16 @@ regions:
           - Alkmaar
           - Alkmar
           - "a er ke ma er"
+          - arukumaru
         ascii_name: Alkmaar
         geonamesid: 2759899
         latitude: 52.63167
         longitude: 4.74861
         name: Alkmaar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Alkmaar
+        names_es: 
+          - Alkmaar
         population: 94853
         timezone: Europe/Amsterdam
       - 
@@ -2861,18 +3017,21 @@ regions:
           - Aalsmeer
           - Alsmer
           - "a er si mei er"
+          - Алсмер
         ascii_name: Aalsmeer
         geonamesid: 2760134
         latitude: 52.25917
         longitude: 4.75972
         name: Aalsmeer
-        names_en: ~
+        names_en: 
+          - Aalsmeer
         names_es: ~
         population: 22991
         timezone: Europe/Amsterdam
     geonamesid: 2749879
     name: "North Holland"
-    names_en: ~
+    names_en: 
+      - "North Holland"
     names_es: ~
   - 
     ascii_name: "North Brabant"
@@ -2924,7 +3083,8 @@ regions:
         latitude: 51.815
         longitude: 5.00139
         name: Woudrichem
-        names_en: ~
+        names_en: 
+          - Woudrichem
         names_es: ~
         population: 14208
         timezone: Europe/Amsterdam
@@ -2938,7 +3098,8 @@ regions:
         latitude: 51.42897
         longitude: 4.30355
         name: Woensdrecht
-        names_en: ~
+        names_en: 
+          - Woensdrecht
         names_es: ~
         population: 21276
         timezone: Europe/Amsterdam
@@ -2963,7 +3124,8 @@ regions:
         latitude: 51.81
         longitude: 4.89444
         name: Werkendam
-        names_en: ~
+        names_en: 
+          - Werkendam
         names_es: ~
         population: 26362
         timezone: Europe/Amsterdam
@@ -2997,7 +3159,8 @@ regions:
         latitude: 51.6825
         longitude: 5.07083
         name: Waalwijk
-        names_en: ~
+        names_en: 
+          - Waalwijk
         names_es: ~
         population: 45610
         timezone: Europe/Amsterdam
@@ -3009,7 +3172,8 @@ regions:
         latitude: 51.38667
         longitude: 5.44444
         name: Waalre
-        names_en: ~
+        names_en: 
+          - Waalre
         names_es: ~
         population: 16665
         timezone: Europe/Amsterdam
@@ -3051,13 +3215,16 @@ regions:
           - Vechel
           - Vegel
           - Veghel
+          - Вегел
         ascii_name: Veghel
         geonamesid: 2745726
         latitude: 51.61667
         longitude: 5.54861
         name: Veghel
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Veghel
+        names_es: 
+          - Veghel
         population: 25352
         timezone: Europe/Amsterdam
       - 
@@ -3069,7 +3236,8 @@ regions:
         latitude: 51.35083
         longitude: 5.45972
         name: Valkenswaard
-        names_en: ~
+        names_en: 
+          - Valkenswaard
         names_es: ~
         population: 31071
         timezone: Europe/Amsterdam
@@ -3082,8 +3250,10 @@ regions:
         latitude: 51.66083
         longitude: 5.61944
         name: Uden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Uden
+        names_es: 
+          - Uden
         population: 34601
         timezone: Europe/Amsterdam
       - 
@@ -3095,8 +3265,10 @@ regions:
         latitude: 51.55551
         longitude: 5.0913
         name: Tilburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tilburg
+        names_es: 
+          - Tilburg
         population: 199613
         timezone: Europe/Amsterdam
       - 
@@ -3107,7 +3279,8 @@ regions:
         latitude: 51.58417
         longitude: 4.31944
         name: Steenbergen
-        names_en: ~
+        names_en: 
+          - Steenbergen
         names_es: ~
         population: 23582
         timezone: Europe/Amsterdam
@@ -3119,8 +3292,10 @@ regions:
         latitude: 51.51136
         longitude: 5.49282
         name: Son
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Son en Breugel"
+        names_es: 
+          - "Son en Breugel"
         population: 10550
         timezone: Europe/Amsterdam
       - 
@@ -3132,7 +3307,8 @@ regions:
         latitude: 51.385
         longitude: 5.71111
         name: Someren
-        names_en: ~
+        names_en: 
+          - Someren
         names_es: ~
         population: 18037
         timezone: Europe/Amsterdam
@@ -3144,7 +3320,8 @@ regions:
         latitude: 51.5675
         longitude: 5.45972
         name: Sint-Oedenrode
-        names_en: ~
+        names_en: 
+          - Sint-Oedenrode
         names_es: ~
         population: 16931
         timezone: Europe/Amsterdam
@@ -3164,12 +3341,14 @@ regions:
           - Antonis
           - "Sint Anthonis"
           - "Sint Antonis"
+          - Sintunnis
         ascii_name: "Sint Anthonis"
         geonamesid: 2747290
         latitude: 51.62667
         longitude: 5.88194
         name: "Sint Anthonis"
-        names_en: ~
+        names_en: 
+          - "Sint Anthonis"
         names_es: ~
         population: 11887
         timezone: Europe/Amsterdam
@@ -3178,13 +3357,15 @@ regions:
           - "'s Bosch"
           - "'s-Hertogenbosch"
           - Bois-le-Duc
+          - Bolduque
         ascii_name: "'s-Hertogenbosch"
         geonamesid: 2747351
         latitude: 51.69917
         longitude: 5.30417
         name: "'s-Hertogenbosch"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Bolduque
         population: 134520
         timezone: Europe/Amsterdam
       - 
@@ -3207,7 +3388,8 @@ regions:
         latitude: 51.6225
         longitude: 5.43194
         name: Schijndel
-        names_en: ~
+        names_en: 
+          - Schijndel
         names_es: ~
         population: 23239
         timezone: Europe/Amsterdam
@@ -3247,7 +3429,8 @@ regions:
         latitude: 51.53083
         longitude: 4.46528
         name: Roosendaal
-        names_en: ~
+        names_en: 
+          - Roosendaal
         names_es: ~
         population: 77725
         timezone: Europe/Amsterdam
@@ -3272,7 +3455,8 @@ regions:
         latitude: 51.765
         longitude: 5.51806
         name: Oss
-        names_en: ~
+        names_en: 
+          - Oss
         names_es: ~
         population: 76430
         timezone: Europe/Amsterdam
@@ -3286,7 +3470,8 @@ regions:
         latitude: 51.645
         longitude: 4.85972
         name: Oosterhout
-        names_en: ~
+        names_en: 
+          - Oosterhout
         names_es: ~
         population: 53107
         timezone: Europe/Amsterdam
@@ -3306,12 +3491,14 @@ regions:
           - Oisterwijk
           - Ojstervejk
           - Oosterwijk
+          - Ойстервейк
         ascii_name: Oisterwijk
         geonamesid: 2749680
         latitude: 51.57917
         longitude: 5.18889
         name: Oisterwijk
-        names_en: ~
+        names_en: 
+          - Oisterwijk
         names_es: ~
         population: 25980
         timezone: Europe/Amsterdam
@@ -3324,7 +3511,8 @@ regions:
         latitude: 51.505
         longitude: 5.31389
         name: Oirschot
-        names_en: ~
+        names_en: 
+          - Oirschot
         names_es: ~
         population: 10393
         timezone: Europe/Amsterdam
@@ -3430,7 +3618,8 @@ regions:
         latitude: 51.6275
         longitude: 5.075
         name: "Loon op Zand"
-        names_en: ~
+        names_en: 
+          - "Loon op Zand"
         names_es: ~
         population: 23000
         timezone: Europe/Amsterdam
@@ -3497,7 +3686,8 @@ regions:
         latitude: 51.48167
         longitude: 5.66111
         name: Helmond
-        names_en: ~
+        names_en: 
+          - Helmond
         names_es: ~
         population: 74740
         timezone: Europe/Amsterdam
@@ -3544,7 +3734,8 @@ regions:
         latitude: 51.6025
         longitude: 5.22222
         name: Haaren
-        names_en: ~
+        names_en: 
+          - Haaren
         names_es: ~
         population: 14031
         timezone: Europe/Amsterdam
@@ -3556,8 +3747,10 @@ regions:
         latitude: 51.75902
         longitude: 5.73882
         name: Grave
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Grave
+        names_es: 
+          - Grave
         population: 12999
         timezone: Europe/Amsterdam
       - 
@@ -3565,12 +3758,14 @@ regions:
           - Goirl
           - Goirle
           - Goorle
+          - Гоирл
         ascii_name: Goirle
         geonamesid: 2755464
         latitude: 51.52083
         longitude: 5.06667
         name: Goirle
-        names_en: ~
+        names_en: 
+          - Goirle
         names_es: ~
         population: 22646
         timezone: Europe/Amsterdam
@@ -3608,7 +3803,8 @@ regions:
         latitude: 51.70167
         longitude: 4.85694
         name: Geertruidenberg
-        names_en: ~
+        names_en: 
+          - Geertruidenberg
         names_es: ~
         population: 20941
         timezone: Europe/Amsterdam
@@ -3628,13 +3824,16 @@ regions:
           - Ehjndkhoven
           - Eindhove
           - Eindhoven
+          - Eindhovena
         ascii_name: Eindhoven
         geonamesid: 2756253
         latitude: 51.44083
         longitude: 5.47778
         name: Eindhoven
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Eindhoven
+        names_es: 
+          - Eindhoven
         population: 209620
         timezone: Europe/Amsterdam
       - 
@@ -3645,7 +3844,8 @@ regions:
         latitude: 51.3575
         longitude: 5.31806
         name: Eersel
-        names_en: ~
+        names_en: 
+          - Eersel
         names_es: ~
         population: 18185
         timezone: Europe/Amsterdam
@@ -3670,7 +3870,8 @@ regions:
         latitude: 51.70667
         longitude: 4.80417
         name: Drimmelen
-        names_en: ~
+        names_en: 
+          - Drimmelen
         names_es: ~
         population: 26580
         timezone: Europe/Amsterdam
@@ -3683,7 +3884,8 @@ regions:
         latitude: 51.62667
         longitude: 4.93889
         name: Dongen
-        names_en: ~
+        names_en: 
+          - Dongen
         names_es: ~
         population: 25464
         timezone: Europe/Amsterdam
@@ -3703,12 +3905,14 @@ regions:
           - Cuijk
           - Cuyk
           - Kuuk
+          - Kuyk
         ascii_name: Cuijk
         geonamesid: 2757874
         latitude: 51.73083
         longitude: 5.87917
         name: Cuijk
-        names_en: ~
+        names_en: 
+          - Cuijk
         names_es: ~
         population: 24032
         timezone: Europe/Amsterdam
@@ -3721,7 +3925,8 @@ regions:
         latitude: 51.30417
         longitude: 5.58889
         name: Cranendonck
-        names_en: ~
+        names_en: 
+          - Cranendonck
         names_es: ~
         population: 19966
         timezone: Europe/Amsterdam
@@ -3741,13 +3946,16 @@ regions:
           - Breda
           - Brigita
           - Bréda
+          - beuleda
         ascii_name: Breda
         geonamesid: 2758401
         latitude: 51.58656
         longitude: 4.77596
         name: Breda
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Breda
+        names_es: 
+          - Breda
         population: 167673
         timezone: Europe/Amsterdam
       - 
@@ -3760,7 +3968,8 @@ regions:
         latitude: 51.59083
         longitude: 5.32917
         name: Boxtel
-        names_en: ~
+        names_en: 
+          - Boxtel
         names_es: ~
         population: 29511
         timezone: Europe/Amsterdam
@@ -3774,8 +3983,10 @@ regions:
         latitude: 51.64667
         longitude: 5.94722
         name: Boxmeer
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Boxmeer
+        names_es: 
+          - Boxmeer
         population: 12407
         timezone: Europe/Amsterdam
       - 
@@ -3797,7 +4008,8 @@ regions:
         latitude: 51.36833
         longitude: 5.22083
         name: Bladel
-        names_en: ~
+        names_en: 
+          - Bladel
         names_es: ~
         population: 19214
         timezone: Europe/Amsterdam
@@ -3809,8 +4021,10 @@ regions:
         latitude: 51.5075
         longitude: 5.39028
         name: Best
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Best
+        names_es: 
+          - Best
         population: 29074
         timezone: Europe/Amsterdam
       - 
@@ -3834,7 +4048,8 @@ regions:
         latitude: 51.31917
         longitude: 5.35833
         name: Bergeijk
-        names_en: ~
+        names_en: 
+          - Bergeijk
         names_es: ~
         population: 18181
         timezone: Europe/Amsterdam
@@ -3848,7 +4063,8 @@ regions:
         latitude: 51.495
         longitude: 4.29167
         name: "Bergen op Zoom"
-        names_en: ~
+        names_en: 
+          - "Bergen op Zoom"
         names_es: ~
         population: 66256
         timezone: Europe/Amsterdam
@@ -3861,7 +4077,8 @@ regions:
         latitude: 51.40417
         longitude: 5.74861
         name: Asten
-        names_en: ~
+        names_en: 
+          - Asten
         names_es: ~
         population: 16185
         timezone: Europe/Amsterdam
@@ -3885,7 +4102,8 @@ regions:
         latitude: 51.75482
         longitude: 5.13156
         name: Aalburg
-        names_en: ~
+        names_en: 
+          - Aalburg
         names_es: ~
         population: 5788
         timezone: Europe/Amsterdam
@@ -3913,8 +4131,10 @@ regions:
         timezone: Europe/Amsterdam
     geonamesid: 2749990
     name: "North Brabant"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "North Brabant"
+    names_es: 
+      - "Brabante Septentrional"
   - 
     ascii_name: "Provincie Limburg"
     cities: 
@@ -3934,12 +4154,14 @@ regions:
           - Vert
           - Weerd
           - Weert
+          - Wieert
         ascii_name: Weert
         geonamesid: 2744911
         latitude: 51.25167
         longitude: 5.70694
         name: Weert
-        names_en: ~
+        names_en: 
+          - Weert
         names_es: ~
         population: 48662
         timezone: Europe/Amsterdam
@@ -3988,7 +4210,8 @@ regions:
         latitude: 51.37
         longitude: 6.16806
         name: Venlo
-        names_en: ~
+        names_en: 
+          - Venlo
         names_es: ~
         population: 92403
         timezone: Europe/Amsterdam
@@ -4012,7 +4235,8 @@ regions:
         latitude: 50.77083
         longitude: 6.01806
         name: Vaals
-        names_en: ~
+        names_en: 
+          - Vaals
         names_es: ~
         population: 10224
         timezone: Europe/Amsterdam
@@ -4071,7 +4295,8 @@ regions:
         latitude: 50.99833
         longitude: 5.86944
         name: Sittard
-        names_en: ~
+        names_en: 
+          - Sittard
         names_es: ~
         population: 48400
         timezone: Europe/Amsterdam
@@ -4095,7 +4320,8 @@ regions:
         latitude: 50.83417
         longitude: 5.98194
         name: Simpelveld
-        names_en: ~
+        names_en: 
+          - Simpelveld
         names_es: ~
         population: 11424
         timezone: Europe/Amsterdam
@@ -4149,12 +4375,14 @@ regions:
           - Remunj
           - Roermond
           - Ruremonde
+          - Rurmonda
         ascii_name: Roermond
         geonamesid: 2748000
         latitude: 51.19417
         longitude: 5.9875
         name: Roermond
-        names_en: ~
+        names_en: 
+          - Roermond
         names_es: ~
         population: 44975
         timezone: Europe/Amsterdam
@@ -4225,7 +4453,8 @@ regions:
         latitude: 50.9175
         longitude: 5.88611
         name: Nuth
-        names_en: ~
+        names_en: 
+          - Nuth
         names_es: ~
         population: 15748
         timezone: Europe/Amsterdam
@@ -4239,7 +4468,8 @@ regions:
         latitude: 51.28583
         longitude: 5.74861
         name: Nederweert
-        names_en: ~
+        names_en: 
+          - Nederweert
         names_es: ~
         population: 16095
         timezone: Europe/Amsterdam
@@ -4287,7 +4517,8 @@ regions:
         latitude: 50.8875
         longitude: 5.75
         name: Meerssen
-        names_en: ~
+        names_en: 
+          - Meerssen
         names_es: ~
         population: 19933
         timezone: Europe/Amsterdam
@@ -4307,13 +4538,16 @@ regions:
           - Maastricht
           - Maastrikht
           - Maestricht
+          - Mastrique
         ascii_name: Maastricht
         geonamesid: 2751283
         latitude: 50.84833
         longitude: 5.68889
         name: Maastricht
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Mastrique
+          - Maastricht
         population: 122378
         timezone: Europe/Amsterdam
       - 
@@ -4336,7 +4570,8 @@ regions:
         latitude: 51.13929
         longitude: 5.88627
         name: Maasbracht
-        names_en: ~
+        names_en: 
+          - Maasbracht
         names_es: ~
         population: 13717
         timezone: Europe/Amsterdam
@@ -4350,7 +4585,8 @@ regions:
         latitude: 51.01167
         longitude: 5.8375
         name: Limbricht
-        names_en: ~
+        names_en: 
+          - Limbricht
         names_es: ~
         population: 1052
         timezone: Europe/Amsterdam
@@ -4403,13 +4639,16 @@ regions:
           - Kerkraad
           - Kerkrade
           - Kirchroa
+          - kerukurade
         ascii_name: Kerkrade
         geonamesid: 2752923
         latitude: 50.86583
         longitude: 6.0625
         name: Kerkrade
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kerkrade
+        names_es: 
+          - Kerkrade
         population: 49777
         timezone: Europe/Amsterdam
       - 
@@ -4443,12 +4682,14 @@ regions:
           - Heijthuizen
           - Heithuizen
           - Heitse
+          - Heythuizen
         ascii_name: Heythuysen
         geonamesid: 2754111
         latitude: 51.25
         longitude: 5.89861
         name: Heythuysen
-        names_en: ~
+        names_en: 
+          - Heythuysen
         names_es: ~
         population: 6420
         timezone: Europe/Amsterdam
@@ -4468,12 +4709,14 @@ regions:
           - Coriovalo
           - Heele
           - Heerlen
+          - Heële
         ascii_name: Heerlen
         geonamesid: 2754652
         latitude: 50.88365
         longitude: 5.98154
         name: Heerlen
-        names_en: ~
+        names_en: 
+          - Heerlen
         names_es: ~
         population: 93084
         timezone: Europe/Amsterdam
@@ -4487,7 +4730,8 @@ regions:
         latitude: 51.23583
         longitude: 5.95694
         name: Haelen
-        names_en: ~
+        names_en: 
+          - Haelen
         names_es: ~
         population: 9935
         timezone: Europe/Amsterdam
@@ -4501,7 +4745,8 @@ regions:
         latitude: 51.69833
         longitude: 5.97361
         name: Gennep
-        names_en: ~
+        names_en: 
+          - Gennep
         names_es: ~
         population: 16642
         timezone: Europe/Amsterdam
@@ -4548,12 +4793,14 @@ regions:
           - Brjunssume
           - Broensem
           - Brunssum
+          - Brunsum
         ascii_name: Brunssum
         geonamesid: 2758174
         latitude: 50.94667
         longitude: 5.97083
         name: Brunssum
-        names_en: ~
+        names_en: 
+          - Brunssum
         names_es: ~
         population: 29254
         timezone: Europe/Amsterdam
@@ -4624,7 +4871,8 @@ regions:
         latitude: 50.94083
         longitude: 5.79722
         name: Beek
-        names_en: ~
+        names_en: 
+          - Beek
         names_es: ~
         population: 17144
         timezone: Europe/Amsterdam
@@ -4698,7 +4946,8 @@ regions:
         latitude: 53.14417
         longitude: 7.03472
         name: Winschoten
-        names_en: ~
+        names_en: 
+          - Winschoten
         names_es: ~
         population: 18506
         timezone: Europe/Amsterdam
@@ -4711,7 +4960,8 @@ regions:
         latitude: 53.0275
         longitude: 7.10833
         name: Vlagtwedde
-        names_en: ~
+        names_en: 
+          - Vlagtwedde
         names_es: ~
         population: 17286
         timezone: Europe/Amsterdam
@@ -4746,7 +4996,8 @@ regions:
         latitude: 52.98947
         longitude: 6.9504
         name: Stadskanaal
-        names_en: ~
+        names_en: 
+          - Stadskanaal
         names_es: ~
         population: 20000
         timezone: Europe/Amsterdam
@@ -4758,8 +5009,10 @@ regions:
         latitude: 53.22078
         longitude: 6.80547
         name: Slochteren
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Slochteren
+        names_es: 
+          - Slochteren
         population: 14696
         timezone: Europe/Amsterdam
       - 
@@ -4816,7 +5069,8 @@ regions:
         latitude: 53.1625
         longitude: 6.37639
         name: Leek
-        names_en: ~
+        names_en: 
+          - Leek
         names_es: ~
         population: 19651
         timezone: Europe/Amsterdam
@@ -4839,7 +5093,8 @@ regions:
         latitude: 53.16667
         longitude: 6.6
         name: Haren
-        names_en: ~
+        names_en: 
+          - Haren
         names_es: ~
         population: 19088
         timezone: Europe/Amsterdam
@@ -4851,7 +5106,8 @@ regions:
         latitude: 53.2125
         longitude: 6.27361
         name: Grootegast
-        names_en: ~
+        names_en: 
+          - Grootegast
         names_es: ~
         population: 11623
         timezone: Europe/Amsterdam
@@ -4860,13 +5116,16 @@ regions:
           - Greuninge
           - Grins
           - Groninga
+          - Groningen
         ascii_name: Groningen
         geonamesid: 2755251
         latitude: 53.21917
         longitude: 6.56667
         name: Groningen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Groningen
+        names_es: 
+          - Groninga
         population: 181194
         timezone: Europe/Amsterdam
       - 
@@ -4885,12 +5144,14 @@ regions:
           - Delfzejl
           - Delfzijl
           - Delfzyl
+          - Делфзейл
         ascii_name: Delfzijl
         geonamesid: 2757340
         latitude: 53.33
         longitude: 6.91806
         name: Delfzijl
-        names_en: ~
+        names_en: 
+          - Delfzijl
         names_es: ~
         population: 28649
         timezone: Europe/Amsterdam
@@ -4902,7 +5163,8 @@ regions:
         latitude: 53.30083
         longitude: 6.60278
         name: Bedum
-        names_en: ~
+        names_en: 
+          - Bedum
         names_es: ~
         population: 10750
         timezone: Europe/Amsterdam
@@ -4953,13 +5215,16 @@ regions:
           - Zjutfen
           - Zutfen
           - Zutphen
+          - Зютфен
         ascii_name: Zutphen
         geonamesid: 2743608
         latitude: 52.13833
         longitude: 6.20139
         name: Zutphen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Zutphen
+        names_es: 
+          - Zutphen
         population: 36188
         timezone: Europe/Amsterdam
       - 
@@ -5066,8 +5331,10 @@ regions:
         latitude: 51.80917
         longitude: 5.725
         name: Wijchen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wijchen
+        names_es: 
+          - Wijchen
         population: 32693
         timezone: Europe/Amsterdam
       - 
@@ -5108,13 +5375,16 @@ regions:
           - Vada
           - Wageningen
           - "wa han ning en"
+          - "wa he ning gen"
         ascii_name: Wageningen
         geonamesid: 2745088
         latitude: 51.97
         longitude: 5.66667
         name: Wageningen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wageningen
+        names_es: 
+          - Wageningen
         population: 35433
         timezone: Europe/Amsterdam
       - 
@@ -5219,7 +5489,8 @@ regions:
         latitude: 51.88667
         longitude: 5.42917
         name: Tiel
-        names_en: ~
+        names_en: 
+          - Tiel
         names_es: ~
         population: 40702
         timezone: Europe/Amsterdam
@@ -5302,8 +5573,10 @@ regions:
         latitude: 51.97667
         longitude: 5.73333
         name: Renkum
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Renkum
+        names_es: 
+          - Oosterbeek
         population: 9421
         timezone: Europe/Amsterdam
       - 
@@ -5405,13 +5678,16 @@ regions:
           - Nejmegen
           - Nijmegen
           - Nijmeyen
+          - Nimega
         ascii_name: Nijmegen
         geonamesid: 2750053
         latitude: 51.8425
         longitude: 5.85278
         name: Nijmegen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nijmegen
+        names_es: 
+          - Nimega
         population: 158732
         timezone: Europe/Amsterdam
       - 
@@ -5547,7 +5823,8 @@ regions:
         latitude: 52.30833
         longitude: 5.58194
         name: Horst
-        names_en: ~
+        names_en: 
+          - Horst
         names_es: ~
         population: 28845
         timezone: Europe/Amsterdam
@@ -5626,7 +5903,8 @@ regions:
         latitude: 52.475
         longitude: 6.06389
         name: Hattem
-        names_en: ~
+        names_en: 
+          - Hattem
         names_es: ~
         population: 11876
         timezone: Europe/Amsterdam
@@ -5673,8 +5951,10 @@ regions:
         latitude: 51.77667
         longitude: 5.93611
         name: Groesbeek
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Groesbeek
+        names_es: 
+          - Groesbeek
         population: 18741
         timezone: Europe/Amsterdam
       - 
@@ -5712,7 +5992,8 @@ regions:
         latitude: 51.88083
         longitude: 5.28889
         name: Geldermalsen
-        names_en: ~
+        names_en: 
+          - Geldermalsen
         names_es: ~
         population: 25734
         timezone: Europe/Amsterdam
@@ -5737,7 +6018,8 @@ regions:
         latitude: 52.29833
         longitude: 5.62222
         name: Ermelo
-        names_en: ~
+        names_en: 
+          - Ermelo
         names_es: ~
         population: 26428
         timezone: Europe/Amsterdam
@@ -5862,12 +6144,14 @@ regions:
           - Ede
           - Ehde
           - ede
+          - Эде
         ascii_name: Ede
         geonamesid: 2756429
         latitude: 52.03333
         longitude: 5.65833
         name: Ede
-        names_en: ~
+        names_en: 
+          - Ede
         names_es: ~
         population: 67670
         timezone: Europe/Amsterdam
@@ -5879,7 +6163,8 @@ regions:
         latitude: 51.94667
         longitude: 6.01389
         name: Duiven
-        names_en: ~
+        names_en: 
+          - Duiven
         names_es: ~
         population: 25469
         timezone: Europe/Amsterdam
@@ -5891,7 +6176,8 @@ regions:
         latitude: 51.88833
         longitude: 5.60556
         name: Druten
-        names_en: ~
+        names_en: 
+          - Druten
         names_es: ~
         population: 18003
         timezone: Europe/Amsterdam
@@ -5927,8 +6213,10 @@ regions:
         latitude: 51.965
         longitude: 6.28889
         name: Doetinchem
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Doetinchem
+        names_es: 
+          - Doetinchem
         population: 49906
         timezone: Europe/Amsterdam
       - 
@@ -5981,6 +6269,7 @@ regions:
           - Culemburg
           - Culenborg
           - Kuilenburg
+          - Kulemborg
         ascii_name: Culemborg
         geonamesid: 2757872
         latitude: 51.955
@@ -6135,13 +6424,16 @@ regions:
           - Arnem
           - Arnheim
           - Arnhem
+          - Arnhemia
         ascii_name: Arnhem
         geonamesid: 2759661
         latitude: 51.98
         longitude: 5.91111
         name: Arnhem
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Arnhem
+        names_es: 
+          - Arnhem
         population: 141674
         timezone: Europe/Amsterdam
       - 
@@ -6149,12 +6441,14 @@ regions:
           - Apeldoorn
           - Apeldoorne
           - Apeldorn
+          - aperudorun
         ascii_name: Apeldoorn
         geonamesid: 2759706
         latitude: 52.21
         longitude: 5.96944
         name: Apeldoorn
-        names_en: ~
+        names_en: 
+          - Apeldoorn
         names_es: ~
         population: 136670
         timezone: Europe/Amsterdam
@@ -6188,7 +6482,8 @@ regions:
         latitude: 51.925
         longitude: 6.58056
         name: Aalten
-        names_en: ~
+        names_en: 
+          - Aalten
         names_es: ~
         population: 19141
         timezone: Europe/Amsterdam
@@ -6218,6 +6513,7 @@ regions:
           - Walterswald
           - Wouterswoud
           - Wouterswoude
+          - Wâlterswâld
         ascii_name: Walterswald
         geonamesid: 2744147
         latitude: 53.3
@@ -6272,7 +6568,8 @@ regions:
         latitude: 52.88333
         longitude: 6.0
         name: Wolvega
-        names_en: ~
+        names_en: 
+          - Wolvega
         names_es: ~
         population: 25500
         timezone: Europe/Amsterdam
@@ -6514,12 +6811,14 @@ regions:
           - Sneek
           - Snek
           - Snits
+          - Снек
         ascii_name: Sneek
         geonamesid: 2747063
         latitude: 53.03297
         longitude: 5.6589
         name: Sneek
-        names_en: ~
+        names_en: 
+          - Sneek
         names_es: ~
         population: 32811
         timezone: Europe/Amsterdam
@@ -6528,6 +6827,7 @@ regions:
           - "Sint Nicolaasga"
           - "Sint Nikelsgea"
           - "Sint Nikolaasga"
+          - "Sint Nyk"
         ascii_name: "Sint Nicolaasga"
         geonamesid: 2747231
         latitude: 52.92293
@@ -6922,13 +7222,16 @@ regions:
           - Leeuwarden
           - Leewarden
           - Leuvarden
+          - Lieuwarden
         ascii_name: Leeuwarden
         geonamesid: 2751792
         latitude: 53.2
         longitude: 5.78333
         name: Leeuwarden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Leeuwarden
+        names_es: 
+          - Leeuwarden
         population: 91424
         timezone: Europe/Amsterdam
       - 
@@ -6961,6 +7264,7 @@ regions:
           - Kollumerlan
           - Kollumerland
           - Kollumerlân
+          - Kollumersweach
         ascii_name: Kollumerzwaag
         geonamesid: 2752520
         latitude: 53.26224
@@ -7051,12 +7355,14 @@ regions:
           - Heerenveen
           - Hereveen
           - "It Hearrenfean"
+          - Kherenven
         ascii_name: Heerenveen
         geonamesid: 2754669
         latitude: 52.95929
         longitude: 5.91854
         name: Heerenveen
-        names_en: ~
+        names_en: 
+          - Heerenveen
         names_es: ~
         population: 43094
         timezone: Europe/Amsterdam
@@ -7080,7 +7386,8 @@ regions:
         latitude: 53.17477
         longitude: 5.42244
         name: Harlingen
-        names_en: ~
+        names_en: 
+          - Harlingen
         names_es: ~
         population: 16119
         timezone: Europe/Amsterdam
@@ -7253,6 +7560,7 @@ regions:
           - "De Compagnie"
           - "Drachster Compaghnie"
           - "Drachtster Kompenije"
+          - Drachtstercompagnie
         ascii_name: Drachtstercompagnie
         geonamesid: 2756642
         latitude: 53.13462
@@ -7305,6 +7613,7 @@ regions:
           - Damwald
           - Damwoude
           - Damwâld
+          - Moarrewald
         ascii_name: Damwald
         geonamesid: 2757838
         latitude: 53.29046
@@ -7333,6 +7642,7 @@ regions:
           - Broek
           - Broeksterwald
           - Broeksterwoude
+          - Broeksterwâld
         ascii_name: Broeksterwald
         geonamesid: 2758239
         latitude: 53.27466
@@ -7375,7 +7685,8 @@ regions:
         latitude: 53.06667
         longitude: 5.53333
         name: Bolsward
-        names_en: ~
+        names_en: 
+          - Bolsward
         names_es: ~
         population: 9160
         timezone: Europe/Amsterdam
@@ -7522,8 +7833,10 @@ regions:
         latitude: 53.09417
         longitude: 6.68194
         name: Zuidlaren
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Zuidlaren
+        names_es: 
+          - Zuidlaren
         population: 10410
         timezone: Europe/Amsterdam
       - 
@@ -7547,7 +7860,8 @@ regions:
         latitude: 53.0775
         longitude: 6.61667
         name: Tynaarlo
-        names_en: ~
+        names_en: 
+          - Tynaarlo
         names_es: ~
         population: 1754
         timezone: Europe/Amsterdam
@@ -7595,7 +7909,8 @@ regions:
         latitude: 52.69583
         longitude: 6.19444
         name: Meppel
-        names_en: ~
+        names_en: 
+          - Meppel
         names_es: ~
         population: 30697
         timezone: Europe/Amsterdam
@@ -7620,7 +7935,8 @@ regions:
         latitude: 52.7225
         longitude: 6.47639
         name: Hoogeveen
-        names_en: ~
+        names_en: 
+          - Hoogeveen
         names_es: ~
         population: 38754
         timezone: Europe/Amsterdam
@@ -7651,13 +7967,16 @@ regions:
           - Ehmmen
           - Emme
           - Emmen
+          - "Emmeni vald"
         ascii_name: Emmen
         geonamesid: 2756136
         latitude: 52.77917
         longitude: 6.90694
         name: Emmen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Emmen
+        names_es: 
+          - Emmen
         population: 57010
         timezone: Europe/Amsterdam
       - 
@@ -7692,8 +8011,10 @@ regions:
         latitude: 52.66103
         longitude: 6.74046
         name: Coevorden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Coevorden
+        names_es: 
+          - Coevorden
         population: 14600
         timezone: Europe/Amsterdam
       - 
@@ -7714,13 +8035,16 @@ regions:
           - Asen
           - Asse
           - Assen
+          - "a sen"
         ascii_name: Assen
         geonamesid: 2759633
         latitude: 52.99667
         longitude: 6.5625
         name: Assen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Assen
+        names_es: 
+          - Assen
         population: 62237
         timezone: Europe/Amsterdam
       - 
@@ -7761,8 +8085,10 @@ regions:
         latitude: 52.6625
         longitude: 5.60139
         name: Urk
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Urk
+        names_es: 
+          - Urk
         population: 17345
         timezone: Europe/Amsterdam
       - 
@@ -7770,13 +8096,16 @@ regions:
           - Lelistad
           - Lelystad
           - "lai li si ta de"
+          - Лелистад
         ascii_name: Lelystad
         geonamesid: 2751738
         latitude: 52.50833
         longitude: 5.475
         name: Lelystad
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lelystad
+        names_es: 
+          - Lelystad
         population: 70741
         timezone: Europe/Amsterdam
       - 
@@ -7806,12 +8135,14 @@ regions:
           - Dronten
           - doronten
           - Дронтен
+          - ドロンテン
         ascii_name: Dronten
         geonamesid: 2756559
         latitude: 52.525
         longitude: 5.71806
         name: Dronten
-        names_en: ~
+        names_en: 
+          - Dronten
         names_es: ~
         population: 38415
         timezone: Europe/Amsterdam
@@ -7823,7 +8154,8 @@ regions:
         latitude: 52.455
         longitude: 5.69306
         name: Biddinghuizen
-        names_en: ~
+        names_en: 
+          - Biddinghuizen
         names_es: ~
         population: 5010
         timezone: Europe/Amsterdam

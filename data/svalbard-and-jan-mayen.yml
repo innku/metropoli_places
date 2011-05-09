@@ -2,8 +2,10 @@
 geonamesid: 607072
 iso: SJ
 name: "Svalbard and Jan Mayen"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Svalbard and Jan Mayen"
+names_es: 
+  - "Islas Svalbard y Jan Mayen"
 regions: 
   - 
     ascii_name: "Jan Mayen"
@@ -13,12 +15,15 @@ regions:
           - "Olonkin City"
           - Olonkinbjuehn
           - Olonkinbyen
+          - Olonkinstad
         ascii_name: Olonkinbyen
         geonamesid: 7535941
         latitude: 70.9221
         longitude: -8.7187
         name: Olonkinbyen
-        names_en: ~
+        names_en: 
+          - Olonkinbyen
+          - "Olonkin City"
         names_es: ~
         population: 14
         timezone: Arctic/Longyearbyen
@@ -39,8 +44,10 @@ regions:
         latitude: 78.2186
         longitude: 15.64007
         name: Longyearbyen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Longyearbyen
+        names_es: 
+          - Longyearbyen
         population: 2060
         timezone: Arctic/Longyearbyen
     geonamesid: 7521757

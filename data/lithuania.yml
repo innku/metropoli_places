@@ -2,8 +2,11 @@
 geonamesid: 597427
 iso: LT
 name: Lithuania
-names_en: ~
-names_es: ~
+names_en: 
+  - Lithuania
+  - "Republic of Lithuania"
+names_es: 
+  - Lituania
 regions: 
   - 
     ascii_name: "Alytaus Apskritis"
@@ -13,12 +16,14 @@ regions:
           - DAUGAJ
           - Daugai
           - Daugay
+          - Dauge
         ascii_name: Daugai
         geonamesid: 600040
         latitude: 54.36667
         longitude: 24.33333
         name: Daugai
-        names_en: ~
+        names_en: 
+          - Daugai
         names_es: ~
         population: 1279
         timezone: Europe/Vilnius
@@ -27,12 +32,14 @@ regions:
           - ALITUS
           - Alita
           - Alitus
+          - Alytaus
         ascii_name: Alytus
         geonamesid: 601084
         latitude: 54.4
         longitude: 24.05
         name: Alytus
-        names_en: ~
+        names_en: 
+          - Alytus
         names_es: ~
         population: 70747
         timezone: Europe/Vilnius
@@ -48,12 +55,14 @@ regions:
           - Caunas
           - KAUNAS
           - Kauen
+          - Kaunas
         ascii_name: Kaunas
         geonamesid: 598316
         latitude: 54.9
         longitude: 23.9
         name: Kaunas
-        names_en: ~
+        names_en: 
+          - Kaunas
         names_es: ~
         population: 374643
         timezone: Europe/Vilnius
@@ -69,6 +78,7 @@ regions:
           - PALANGA
           - Palanga
           - Palangos
+          - Polaga
         ascii_name: Palanga
         geonamesid: 596238
         latitude: 55.9175
@@ -83,13 +93,16 @@ regions:
           - Klaipada
           - Klaipeda
           - Klaipenta
+          - Klaipéda
         ascii_name: Klaipeda
         geonamesid: 598098
         latitude: 55.71722
         longitude: 21.1175
         name: Klaipėda
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Klaipėda
+        names_es: 
+          - Klaipėda
         population: 192307
         timezone: Europe/Vilnius
     geonamesid: 864478
@@ -104,12 +117,14 @@ regions:
           - Kapsukas
           - MARIJAMPOLE
           - Mariampol
+          - Mariampol'
         ascii_name: Marijampole
         geonamesid: 597231
         latitude: 54.56667
         longitude: 23.35
         name: Marijampolė
-        names_en: ~
+        names_en: 
+          - Marijampolė
         names_es: ~
         population: 47613
         timezone: Europe/Vilnius
@@ -125,12 +140,14 @@ regions:
           - PASVALIS
           - Pasvalio
           - Pasvalis
+          - Pasvalys
         ascii_name: Pasvalys
         geonamesid: 595997
         latitude: 56.05944
         longitude: 24.40361
         name: Pasvalys
-        names_en: ~
+        names_en: 
+          - Pasvalys
         names_es: ~
         population: 8510
         timezone: Europe/Vilnius
@@ -139,12 +156,14 @@ regions:
           - PANEVEZHIS
           - Paneveza
           - Panevezhi
+          - Panevezhis
         ascii_name: Panevezys
         geonamesid: 596128
         latitude: 55.73333
         longitude: 24.35
         name: Panevėžys
-        names_en: ~
+        names_en: 
+          - Panevėžys
         names_es: ~
         population: 117395
         timezone: Europe/Vilnius
@@ -153,12 +172,14 @@ regions:
           - BIRZHAJ
           - Birsche
           - Birsen
+          - Birzai
         ascii_name: Birzai
         geonamesid: 600438
         latitude: 56.2
         longitude: 24.75
         name: Biržai
-        names_en: ~
+        names_en: 
+          - Biržai
         names_es: ~
         population: 14911
         timezone: Europe/Vilnius
@@ -174,13 +195,16 @@ regions:
           - Sauli
           - Schaulen
           - Shaulyay
+          - Shavli
         ascii_name: Siauliai
         geonamesid: 594739
         latitude: 55.93333
         longitude: 23.31667
         name: Šiauliai
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Šiauliai
+        names_es: 
+          - Šiauliai
         population: 130587
         timezone: Europe/Vilnius
       - 
@@ -188,12 +212,14 @@ regions:
           - Gioniskis
           - Ionishkis
           - Janiszki
+          - Jonischki
         ascii_name: Joniskis
         geonamesid: 598796
         latitude: 56.24028
         longitude: 23.61528
         name: Joniškis
-        names_en: ~
+        names_en: 
+          - Joniškis
         names_es: ~
         population: 11113
         timezone: Europe/Vilnius
@@ -209,13 +235,16 @@ regions:
           - Taouranke
           - Taurage
           - Taurages
+          - Tauragė
         ascii_name: Taurage
         geonamesid: 593959
         latitude: 55.25222
         longitude: 22.28972
         name: Tauragė
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tauragė
+        names_es: 
+          - Tauragė
         population: 27662
         timezone: Europe/Vilnius
     geonamesid: 864482
@@ -230,13 +259,16 @@ regions:
           - TEL'SHJAJ
           - Tel'shjaj
           - Telsai
+          - Telsche
         ascii_name: Telsiai
         geonamesid: 593926
         latitude: 55.98139
         longitude: 22.24722
         name: Telšiai
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Telšiai
+        names_es: 
+          - Telšiai
         population: 30098
         timezone: Europe/Vilnius
     geonamesid: 864483
@@ -251,12 +283,14 @@ regions:
           - Outena
           - UTENA
           - Uciana
+          - Uciany
         ascii_name: Utena
         geonamesid: 593672
         latitude: 55.5
         longitude: 25.6
         name: Utena
-        names_en: ~
+        names_en: 
+          - Utena
         names_es: ~
         population: 33240
         timezone: Europe/Vilnius
@@ -265,12 +299,14 @@ regions:
           - ANIKSHHJAJ
           - Aniksci
           - Anikshchay
+          - Anikshchyay
         ascii_name: Anyksciai
         geonamesid: 600994
         latitude: 55.52557
         longitude: 25.10264
         name: Anykščiai
-        names_en: ~
+        names_en: 
+          - Anykščiai
         names_es: ~
         population: 11958
         timezone: Europe/Vilnius
@@ -286,13 +322,16 @@ regions:
           - Bilna
           - Bilnious
           - VIL'NJUS
+          - Vil'njus
         ascii_name: Vilnius
         geonamesid: 593116
         latitude: 54.68916
         longitude: 25.2798
         name: Vilnius
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Vilnius
+        names_es: 
+          - Vilna
         population: 542366
         timezone: Europe/Vilnius
     geonamesid: 864485

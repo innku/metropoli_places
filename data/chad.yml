@@ -2,8 +2,11 @@
 geonamesid: 2434508
 iso: TD
 name: Chad
-names_en: ~
-names_es: ~
+names_en: 
+  - Chad
+  - "Republic of Chad"
+names_es: 
+  - Chad
 regions: 
   - 
     ascii_name: "Region du Salamat"
@@ -13,12 +16,14 @@ regions:
           - "Am Timan"
           - "Am Timane"
           - "Am Timmane"
+          - "Umm Timman"
         ascii_name: "Am Timan"
         geonamesid: 245338
         latitude: 11.0297
         longitude: 20.2827
         name: "Am Timan"
-        names_en: ~
+        names_en: 
+          - "Am Timan"
         names_es: ~
         population: 28885
         timezone: Africa/Ndjamena
@@ -38,7 +43,8 @@ regions:
         latitude: 13.95
         longitude: 20.55
         name: "Goz Béïda"
-        names_en: ~
+        names_en: 
+          - "Goz Beida"
         names_es: ~
         population: 1500
         timezone: Africa/Ndjamena
@@ -60,13 +66,16 @@ regions:
           - Abacher
           - Abeche
           - Abecher
+          - Abeshe
         ascii_name: Abeche
         geonamesid: 245785
         latitude: 13.82916
         longitude: 20.8324
         name: Abéché
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Abéché
+        names_es: 
+          - Abéché
         population: 74188
         timezone: Africa/Ndjamena
     geonamesid: 242246
@@ -84,7 +93,8 @@ regions:
         latitude: 15.11667
         longitude: 22.25
         name: Iriba
-        names_en: ~
+        names_en: 
+          - Iriba
         names_es: ~
         population: 1100
         timezone: Africa/Ndjamena
@@ -96,7 +106,8 @@ regions:
         latitude: 14.53333
         longitude: 20.91667
         name: Biltine
-        names_en: ~
+        names_en: 
+          - Biltine
         names_es: ~
         population: 11000
         timezone: Africa/Ndjamena
@@ -112,12 +123,14 @@ regions:
           - Behagie
           - Behagle
           - Lai
+          - Laï
         ascii_name: Lai
         geonamesid: 2429296
         latitude: 9.3952
         longitude: 16.2989
         name: Laï
-        names_en: ~
+        names_en: 
+          - Laï
         names_es: ~
         population: 19382
         timezone: Africa/Ndjamena
@@ -158,13 +171,16 @@ regions:
           - Archambault
           - Fort-Archambault
           - Sagh
+          - Sahr
         ascii_name: Sagh
         geonamesid: 2425791
         latitude: 9.1429
         longitude: 18.3923
         name: Sagh
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sarh
+        names_es: 
+          - Sarh
         population: 102528
         timezone: Africa/Ndjamena
       - 
@@ -172,6 +188,7 @@ regions:
           - Kiyabe
           - Kiyabi
           - Kiyabé
+          - Kyabe
         ascii_name: Kyabe
         geonamesid: 2429344
         latitude: 9.45149
@@ -193,6 +210,7 @@ regions:
           - Gelengdeng
           - Guelendeng
           - Guelengdeng
+          - Guélengdeng
         ascii_name: Guelendeng
         geonamesid: 2431573
         latitude: 10.91762
@@ -225,7 +243,8 @@ regions:
         latitude: 10.28056
         longitude: 15.37222
         name: Bongor
-        names_en: ~
+        names_en: 
+          - Bongor
         names_es: ~
         population: 27770
         timezone: Africa/Ndjamena
@@ -245,7 +264,8 @@ regions:
         latitude: 8.65
         longitude: 16.85
         name: Doba
-        names_en: ~
+        names_en: 
+          - Doba
         names_es: ~
         population: 24336
         timezone: Africa/Ndjamena
@@ -267,6 +287,7 @@ regions:
           - Bebedja
           - Bebedjia
           - Bebeidja
+          - Bebeidjia
         ascii_name: Bebedja
         geonamesid: 2435854
         latitude: 8.6761
@@ -288,12 +309,14 @@ regions:
           - Mondou
           - Mondu
           - Moundou
+          - Moundu
         ascii_name: Moundou
         geonamesid: 2427455
         latitude: 8.56667
         longitude: 16.08333
         name: Moundou
-        names_en: ~
+        names_en: 
+          - Moundou
         names_es: ~
         population: 135167
         timezone: Africa/Ndjamena
@@ -357,7 +380,8 @@ regions:
         latitude: 14.12116
         longitude: 15.3103
         name: Mao
-        names_en: ~
+        names_en: 
+          - Mao
         names_es: ~
         population: 18031
         timezone: Africa/Ndjamena
@@ -429,13 +453,17 @@ regions:
           - Fort-Lamy
           - Lamy
           - N'Djamena
+          - Ndjamena
         ascii_name: N'Djamena
         geonamesid: 2427123
         latitude: 12.11058
         longitude: 15.03479
         name: N'Djamena
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - N'Djamena
+        names_es: 
+          - N'Djamena
+          - Yamena
         population: 721081
         timezone: Africa/Ndjamena
       - 
@@ -443,12 +471,14 @@ regions:
           - Chekna
           - Massenia
           - Massenya
+          - Tchekna
         ascii_name: Massenya
         geonamesid: 2428216
         latitude: 11.4039
         longitude: 16.1705
         name: Massenya
-        names_en: ~
+        names_en: 
+          - Massenya
         names_es: ~
         population: 3680
         timezone: Africa/Ndjamena
@@ -505,7 +535,8 @@ regions:
         latitude: 13.2154
         longitude: 18.3353
         name: Ati
-        names_en: ~
+        names_en: 
+          - Ati
         names_es: ~
         population: 24074
         timezone: Africa/Ndjamena
@@ -526,7 +557,8 @@ regions:
         latitude: 17.9257
         longitude: 19.10428
         name: Largeau
-        names_en: ~
+        names_en: 
+          - Faya-Largeau
         names_es: ~
         population: 13400
         timezone: Africa/Ndjamena
@@ -556,6 +588,7 @@ regions:
           - "Massa Gueit"
           - Massaguet
           - Massaguete
+          - Massaguette
         ascii_name: Massaguet
         geonamesid: 2428231
         latitude: 12.47554

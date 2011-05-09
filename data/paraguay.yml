@@ -2,8 +2,12 @@
 geonamesid: 3437598
 iso: PY
 name: Paraguay
-names_en: ~
-names_es: ~
+names_en: 
+  - Paraguay
+  - "Republic of Paraguay"
+names_es: 
+  - "República del Paraguay"
+  - Paraguay
 regions: 
   - 
     ascii_name: "Departamento de San Pedro"
@@ -171,6 +175,7 @@ regions:
           - "Benjamin Aceval"
           - "Benjamín Aceval"
           - "Colonia Aceval"
+          - "Colonia Benjamin Aceval"
         ascii_name: "Benjamin Aceval"
         geonamesid: 3439348
         latitude: -24.96667
@@ -192,6 +197,7 @@ regions:
           - Ibycuy
           - Ybycui
           - Ybycul
+          - Ybycuí
         ascii_name: Ybycui
         geonamesid: 3436642
         latitude: -26.01667
@@ -351,6 +357,7 @@ regions:
           - "General Diaz"
           - "General Jose Eduvigis Diaz"
           - "General José Eduvigis Díaz"
+          - "Jose Eduvigis Diaz"
         ascii_name: "General Jose Eduvigis Diaz"
         geonamesid: 3438064
         latitude: -27.16667
@@ -609,6 +616,7 @@ regions:
           - Bobi
           - Bobi-Cango
           - Bobi-Cangó
+          - Bobí
         ascii_name: "General Artigas"
         geonamesid: 3438080
         latitude: -26.93333
@@ -634,13 +642,16 @@ regions:
           - Ehnkarnas'on
           - Encarnacion
           - Encarnación
+          - Enkarnasjonas
         ascii_name: Encarnacion
         geonamesid: 3438735
         latitude: -27.33333
         longitude: -55.9
         name: Encarnación
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Encarnación
+        names_es: 
+          - Encarnación
         population: 74983
         timezone: America/Asuncion
       - 
@@ -684,6 +695,7 @@ regions:
           - "Capitan Miranda"
           - "Capitán Miranda"
           - "Colonia Capitan Miranda"
+          - "Colonia Capitán Miranda"
         ascii_name: "Capitan Miranda"
         geonamesid: 3439184
         latitude: -27.2
@@ -698,6 +710,7 @@ regions:
           - "Bella Vista"
           - "Bella Vista de Alto Parana"
           - "Bella Vista de Alto Paraná"
+          - "Colonia Bella Vista"
         ascii_name: "Bella Vista"
         geonamesid: 3439352
         latitude: -27.05
@@ -730,13 +743,16 @@ regions:
           - Vil'jarrika
           - Viljarika
           - "Villa Rica"
+          - Villarrica
         ascii_name: Villarrica
         geonamesid: 3436714
         latitude: -25.75
         longitude: -56.43333
         name: Villarrica
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Villarrica
+        names_es: 
+          - Villarrica
         population: 41157
         timezone: America/Asuncion
       - 
@@ -818,6 +834,7 @@ regions:
           - "Colonia Cosme"
           - "Colonia Mauricio J. Troche"
           - "Colonia Mauricio Jose Troche"
+          - "Colonia Mauricio José Troche"
         ascii_name: "Colonia Mauricio Jose Troche"
         geonamesid: 3438991
         latitude: -25.56667
@@ -1004,13 +1021,16 @@ regions:
           - Concepcion
           - Concepción
           - Konseps'on
+          - Konsepsjonas
         ascii_name: Concepcion
         geonamesid: 3438834
         latitude: -23.40639
         longitude: -57.43444
         name: Concepción
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Concepción
+        names_es: 
+          - Concepción
         population: 48123
         timezone: America/Asuncion
       - 
@@ -1078,8 +1098,10 @@ regions:
         latitude: -25.33333
         longitude: -57.53333
         name: "San Lorenzo"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Lorenzo"
+        names_es: 
+          - "San Lorenzo"
         population: 227876
         timezone: America/Asuncion
       - 
@@ -1139,7 +1161,8 @@ regions:
         latitude: -25.35
         longitude: -57.65
         name: Lambaré
-        names_en: ~
+        names_en: 
+          - Lambaré
         names_es: ~
         population: 126377
         timezone: America/Asuncion
@@ -1152,7 +1175,8 @@ regions:
         latitude: -25.38333
         longitude: -57.33333
         name: Itauguá
-        names_en: ~
+        names_en: 
+          - Itauguá
         names_es: ~
         population: 64997
         timezone: America/Asuncion
@@ -1214,7 +1238,8 @@ regions:
         latitude: -25.35
         longitude: -57.41667
         name: Capiatá
-        names_en: ~
+        names_en: 
+          - Capiatá
         names_es: ~
         population: 198553
         timezone: America/Asuncion
@@ -1243,6 +1268,7 @@ regions:
           - Igatimi
           - Igatimí
           - Terecany
+          - Terecañy
         ascii_name: Ygatimi
         geonamesid: 3436616
         latitude: -24.08333
@@ -1271,6 +1297,7 @@ regions:
           - "Salto del Guaira"
           - "Salto del Guairá"
           - "Saltos de Guaira"
+          - "Saltos de Guairá"
         ascii_name: "Salto del Guaira"
         geonamesid: 3437148
         latitude: -24.05
@@ -1358,6 +1385,7 @@ regions:
           - "Colonia General Morinigo"
           - "Colonia General Morínigo"
           - "General Higinio Morinigo"
+          - "General Higinio Morínigo"
         ascii_name: "General Higinio Morinigo"
         geonamesid: 3438066
         latitude: -25.95
@@ -1415,6 +1443,7 @@ regions:
           - "San Jose"
           - "San Jose de los Arroyos"
           - "San José"
+          - "San José de los Arroyos"
         ascii_name: "San Jose"
         geonamesid: 3437074
         latitude: -25.53333
@@ -1476,6 +1505,7 @@ regions:
           - "Cecilio Baez"
           - "Cecilio Báez"
           - "Doctor Cecilio Baez"
+          - "Doctor Cecilio Báez"
         ascii_name: "Doctor Cecilio Baez"
         geonamesid: 3438755
         latitude: -25.05
@@ -1490,6 +1520,7 @@ regions:
           - Ajos
           - "Coronel Oviedo"
           - Koronel'-Ov'edo
+          - Коронель-Овьедо
         ascii_name: "Coronel Oviedo"
         geonamesid: 3438819
         latitude: -25.41667
@@ -1644,6 +1675,7 @@ regions:
           - Caarendy
           - "Doctor J. Leon Mallorquin"
           - "Doctor J. León Mallorquín"
+          - "Doctor Juan Leon Mallorquin"
         ascii_name: "Doctor Juan Leon Mallorquin"
         geonamesid: 3438754
         latitude: -25.4
@@ -1687,6 +1719,7 @@ regions:
           - "Capitan Pablo Lagerenza"
           - "Capitán Pablo Lagerenza"
           - "Fortin Ingavi"
+          - "Fortín Ingavi"
         ascii_name: "Capitan Pablo Lagerenza"
         geonamesid: 3867427
         latitude: -19.91667
@@ -1708,13 +1741,16 @@ regions:
           - Asounthion
           - Assumptio
           - Assuncao
+          - Assunção
         ascii_name: Asuncion
         geonamesid: 3439389
         latitude: -25.30066
         longitude: -57.63591
         name: Asunción
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Asunción
+        names_es: 
+          - Asunción
         population: 1482200
         timezone: America/Asuncion
     geonamesid: 3474570
@@ -1752,13 +1788,16 @@ regions:
           - "Colonia Filadelfia"
           - Filadelfia
           - Filadelfija
+          - Filadelfio
         ascii_name: Filadelfia
         geonamesid: 3867291
         latitude: -22.35
         longitude: -60.03333
         name: Filadelfia
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Filadelfia
+        names_es: 
+          - Filadelfia
         population: 8048
         timezone: America/Asuncion
       - 

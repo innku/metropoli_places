@@ -2,8 +2,10 @@
 geonamesid: 3573345
 iso: BM
 name: Bermuda
-names_en: ~
-names_es: ~
+names_en: 
+  - Bermuda
+names_es: 
+  - Bermudas
 regions: 
   - 
     ascii_name: "Warwick Parish"
@@ -48,6 +50,7 @@ regions:
           - "Saint George"
           - "Saint George's Town"
           - "Saint Georges"
+          - "Saint George’s Town"
         ascii_name: "Saint George"
         geonamesid: 3573061
         latitude: 32.38167
@@ -73,14 +76,16 @@ regions:
     cities: []
     geonamesid: 3573103
     name: Paget
-    names_en: ~
+    names_en: 
+      - Paget
     names_es: ~
   - 
     ascii_name: "Hamilton Parish"
     cities: []
     geonamesid: 3573195
     name: "Hamilton Parish"
-    names_en: ~
+    names_en: 
+      - "Hamilton Parish"
     names_es: ~
   - 
     ascii_name: "Hamilton city"
@@ -93,13 +98,16 @@ regions:
         latitude: 32.29149
         longitude: -64.77797
         name: Hamilton
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hamilton
+        names_es: 
+          - Hamilton
         population: 902
         timezone: Atlantic/Bermuda
     geonamesid: 3573198
     name: "Hamilton city"
-    names_en: ~
+    names_en: 
+      - "Hamilton city"
     names_es: ~
   - 
     ascii_name: "Devonshire Parish"

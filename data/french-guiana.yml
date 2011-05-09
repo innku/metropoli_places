@@ -2,8 +2,10 @@
 geonamesid: 3381670
 iso: GF
 name: "French Guiana"
-names_en: ~
-names_es: ~
+names_en: 
+  - "French Guiana"
+names_es: 
+  - "Guayana Francesa"
 regions: 
   - 
     ascii_name: Guyane
@@ -13,6 +15,7 @@ regions:
           - Sinamary
           - Sinnama
           - Sinnamari
+          - Sinnamary
         ascii_name: Sinnamary
         geonamesid: 3380290
         latitude: 5.38333
@@ -27,6 +30,7 @@ regions:
           - Laurent
           - Maroni
           - "Saint Laurent"
+          - "Sainte Laurent"
         ascii_name: Saint-Laurent-du-Maroni
         geonamesid: 3380387
         latitude: 5.5
@@ -102,12 +106,14 @@ regions:
           - "Bourg de Kourou"
           - Kouro
           - Kourou
+          - Kur
         ascii_name: Kourou
         geonamesid: 3381303
         latitude: 5.15
         longitude: -52.65
         name: Kourou
-        names_en: ~
+        names_en: 
+          - "White City"
         names_es: ~
         population: 24029
         timezone: America/Cayenne
@@ -140,13 +146,16 @@ regions:
           - Caiena
           - Caienna
           - Cayene
+          - Cayenne
         ascii_name: Cayenne
         geonamesid: 3382160
         latitude: 4.93333
         longitude: -52.33333
         name: Cayenne
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cayenne
+        names_es: 
+          - Cayenne
         population: 61550
         timezone: America/Cayenne
       - 
@@ -175,5 +184,7 @@ regions:
         timezone: America/Cayenne
     geonamesid: 6690605
     name: Guyane
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Guyane
+    names_es: 
+      - "Guayana Francesa"

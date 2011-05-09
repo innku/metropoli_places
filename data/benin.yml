@@ -2,8 +2,11 @@
 geonamesid: 2395170
 iso: BJ
 name: Benin
-names_en: ~
-names_es: ~
+names_en: 
+  - Benin
+  - "Republic of Benin"
+names_es: 
+  - Benín
 regions: 
   - 
     ascii_name: "Departement du Zou"
@@ -13,12 +16,14 @@ regions:
           - Abome
           - Abomei
           - Abomej
+          - Abomey
         ascii_name: Abomey
         geonamesid: 2395915
         latitude: 7.18333
         longitude: 1.98333
         name: Abomey
-        names_en: ~
+        names_en: 
+          - Abomey
         names_es: ~
         population: 82154
         timezone: Africa/Porto-Novo
@@ -34,13 +39,16 @@ regions:
           - "Porto Nobo"
           - "Porto Novas"
           - "Porto Novo"
+          - Porto-Novo
         ascii_name: Porto-Novo
         geonamesid: 2392087
         latitude: 6.49646
         longitude: 2.60359
         name: Porto-Novo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Porto-Novo
+        names_es: 
+          - Porto-Novo
         population: 234168
         timezone: Africa/Porto-Novo
     geonamesid: 2392325
@@ -59,7 +67,8 @@ regions:
         latitude: 6.63333
         longitude: 1.71667
         name: Lokossa
-        names_en: ~
+        names_en: 
+          - Lokossa
         names_es: ~
         population: 86971
         timezone: Africa/Porto-Novo
@@ -80,8 +89,10 @@ regions:
         latitude: 9.35
         longitude: 2.61667
         name: Parakou
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Parakou
+        names_es: 
+          - Parakou
         population: 163753
         timezone: Africa/Porto-Novo
       - 
@@ -102,6 +113,7 @@ regions:
           - Bembereke
           - Bembèrèkè
           - Bimbereke
+          - Bimbéréké
         ascii_name: Bembereke
         geonamesid: 2395182
         latitude: 10.22889
@@ -123,13 +135,16 @@ regions:
           - "Fortaleza de Sao Joao Baptista de Ajuda"
           - "Fortaleza de São João Baptista de Ajudá"
           - Ouidah
+          - "Sao Joao Baptista de Ajuda"
         ascii_name: Ouidah
         geonamesid: 2392308
         latitude: 6.36667
         longitude: 2.08333
         name: Ouidah
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ouidah
+        names_es: 
+          - Ouidah
         population: 83503
         timezone: Africa/Porto-Novo
     geonamesid: 2395504
@@ -144,6 +159,7 @@ regions:
           - Tangoueita
           - Tangueita
           - Tanguieta
+          - Tanguiéta
         ascii_name: Tanguieta
         geonamesid: 2391455
         latitude: 10.61972
@@ -163,7 +179,8 @@ regions:
         latitude: 10.30667
         longitude: 1.375
         name: Natitingou
-        names_en: ~
+        names_en: 
+          - Natitingou
         names_es: ~
         population: 80892
         timezone: Africa/Porto-Novo
@@ -172,6 +189,7 @@ regions:
           - Malanvilem
           - Malanville
           - Mallanville
+          - Маланвилем
         ascii_name: Malanville
         geonamesid: 2392837
         latitude: 11.86411
@@ -197,8 +215,10 @@ regions:
         latitude: 11.13417
         longitude: 2.93861
         name: Kandi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kandi
+        names_es: 
+          - Kandi
         population: 109701
         timezone: Africa/Porto-Novo
       - 
@@ -229,7 +249,8 @@ regions:
         latitude: 7.93333
         longitude: 1.96667
         name: Savalou
-        names_en: ~
+        names_en: 
+          - Savalou
         names_es: ~
         population: 30187
         timezone: Africa/Porto-Novo
@@ -267,8 +288,10 @@ regions:
         latitude: 9.705
         longitude: 1.66694
         name: Djougou
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Djougou
+        names_es: 
+          - Djougou
         population: 202810
         timezone: Africa/Porto-Novo
     geonamesid: 2597274
@@ -283,13 +306,17 @@ regions:
           - Appi
           - Catonou
           - Cotonou
+          - Cotonu
         ascii_name: Cotonou
         geonamesid: 2394819
         latitude: 6.35
         longitude: 2.43333
         name: Cotonou
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cotonou
+        names_es: 
+          - Cotonou
+          - Cotonú
         population: 690584
         timezone: Africa/Porto-Novo
     geonamesid: 2597275

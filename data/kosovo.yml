@@ -2,8 +2,11 @@
 geonamesid: 831053
 iso: XK
 name: Kosovo
-names_en: ~
-names_es: ~
+names_en: 
+  - Kosovo
+  - "Republic of Kosovo"
+names_es: 
+  - Kosovo
 regions: 
   - 
     ascii_name: "Opstina Vucitrn"
@@ -13,6 +16,7 @@ regions:
           - Vicianum
           - Vicitirin
           - Vuchitrn
+          - Vucitern
         ascii_name: Vushtrri
         geonamesid: 784097
         latitude: 42.82306
@@ -55,6 +59,7 @@ regions:
           - Ferezaj
           - Ferizaj
           - Ferizovik
+          - Urosevac
         ascii_name: Ferizaj
         geonamesid: 784759
         latitude: 42.37056
@@ -76,12 +81,15 @@ regions:
           - "Kosovska Mitrovica"
           - Mitrovica
           - Mitrovice
+          - Mitrovicë
         ascii_name: Mitrovice
         geonamesid: 789225
         latitude: 42.88333
         longitude: 20.86667
         name: Mitrovicë
-        names_en: ~
+        names_en: 
+          - "Kosovska Mitrovica"
+          - Mitrovica
         names_es: ~
         population: 107045
         timezone: Europe/Belgrade
@@ -97,12 +105,14 @@ regions:
           - Lumthate
           - Lumthatë
           - "Suha Reka"
+          - Suhareka
         ascii_name: "Suva Reka"
         geonamesid: 785238
         latitude: 42.35861
         longitude: 20.825
         name: "Suva Reka"
-        names_en: ~
+        names_en: 
+          - "Suva Reka"
         names_es: ~
         population: 72229
         timezone: Europe/Belgrade
@@ -111,6 +121,7 @@ regions:
           - Pecane
           - Peqan
           - Pećane
+          - Recan
         ascii_name: Peqan
         geonamesid: 787155
         latitude: 42.38361
@@ -125,6 +136,7 @@ regions:
           - Lesane
           - Leshan
           - Leshane
+          - Leshtane
         ascii_name: Leshan
         geonamesid: 788726
         latitude: 42.32778
@@ -139,6 +151,7 @@ regions:
           - Dinovce
           - Dzinovce
           - Džinovce
+          - Gjinoc
         ascii_name: Gjinoc
         geonamesid: 791483
         latitude: 42.31833
@@ -160,6 +173,7 @@ regions:
           - Skenderaj
           - Skënderaj
           - Srbica
+          - Србица
         ascii_name: Srbica
         geonamesid: 785642
         latitude: 42.74667
@@ -181,13 +195,16 @@ regions:
           - Perzeren
           - Perzerin
           - Prizren
+          - Prizrena
         ascii_name: Prizren
         geonamesid: 786712
         latitude: 42.21389
         longitude: 20.73972
         name: Prizren
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Prizren
+        names_es: 
+          - Prizren
         population: 171464
         timezone: Europe/Belgrade
     geonamesid: 786711
@@ -202,13 +219,16 @@ regions:
           - Prishhina
           - Prishtina
           - Prishtine
+          - Prishtinë
         ascii_name: Pristina
         geonamesid: 786714
         latitude: 42.67272
         longitude: 21.16688
         name: Pristina
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pristina
+        names_es: 
+          - Priština
         population: 550000
         timezone: Europe/Belgrade
     geonamesid: 786713
@@ -223,12 +243,14 @@ regions:
           - Besiana
           - Besiane
           - Besianë
+          - Podjeve
         ascii_name: Podujeva
         geonamesid: 786950
         latitude: 42.91056
         longitude: 21.19306
         name: Podujeva
-        names_en: ~
+        names_en: 
+          - Podujevo
         names_es: ~
         population: 35000
         timezone: Europe/Belgrade
@@ -244,12 +266,14 @@ regions:
           - Ipek
           - Pec
           - Pecas
+          - Pech
         ascii_name: Peje
         geonamesid: 787157
         latitude: 42.65913
         longitude: 20.28828
         name: Pejë
-        names_en: ~
+        names_en: 
+          - Peć
         names_es: ~
         population: 81800
         timezone: Europe/Belgrade
@@ -258,6 +282,7 @@ regions:
           - Kosuric
           - Kosuriq
           - Kosurić
+          - Косурић
         ascii_name: Kosuriq
         geonamesid: 789199
         latitude: 42.57028
@@ -279,12 +304,14 @@ regions:
           - Orahovac
           - Orakhovac
           - Rahavec
+          - Rahovec
         ascii_name: Orahovac
         geonamesid: 787456
         latitude: 42.39944
         longitude: 20.65472
         name: Orahovac
-        names_en: ~
+        names_en: 
+          - Orahovac
         names_es: ~
         population: 22049
         timezone: Europe/Belgrade
@@ -300,6 +327,7 @@ regions:
           - Lipjan
           - Liplan
           - Lipljan
+          - Lipljane
         ascii_name: Lipljan
         geonamesid: 788652
         latitude: 42.52167
@@ -321,6 +349,7 @@ regions:
           - Albaniku
           - Leposavic
           - Leposavici
+          - Leposaviq
         ascii_name: Leposavic
         geonamesid: 788731
         latitude: 43.10389
@@ -342,6 +371,7 @@ regions:
           - Dardana
           - Dardane
           - Dardanë
+          - Gurash
         ascii_name: Kamenica
         geonamesid: 789227
         latitude: 42.57806
@@ -363,6 +393,7 @@ regions:
           - Kliha
           - Klina
           - Kline
+          - Klinë
         ascii_name: Klina
         geonamesid: 789455
         latitude: 42.62167
@@ -384,6 +415,7 @@ regions:
           - Kacanik
           - Kachanik
           - Kaçanik
+          - Kačanik
         ascii_name: Kacanik
         geonamesid: 789721
         latitude: 42.23194
@@ -405,6 +437,7 @@ regions:
           - Burim
           - Burimi
           - Istog
+          - Istogu
         ascii_name: Istok
         geonamesid: 789996
         latitude: 42.78083
@@ -426,12 +459,14 @@ regions:
           - Gilan
           - Gjilan
           - Gjilani
+          - Gnilane
         ascii_name: Gjilan
         geonamesid: 790674
         latitude: 42.46045
         longitude: 21.46986
         name: Gjilan
-        names_en: ~
+        names_en: 
+          - Gnjilane
         names_es: ~
         population: 51912
         timezone: Europe/Belgrade
@@ -447,6 +482,7 @@ regions:
           - Drenas
           - Drenasi
           - Gllogoc
+          - Gllogoci
         ascii_name: Glogovac
         geonamesid: 790701
         latitude: 42.62833
@@ -468,6 +504,7 @@ regions:
           - Dagash
           - Dragas
           - Dragash
+          - Dragashi
         ascii_name: Dragash
         geonamesid: 791122
         latitude: 42.0625
@@ -489,6 +526,7 @@ regions:
           - Irzniq
           - Irzniqi
           - Rrezar
+          - Rrezari
         ascii_name: Irzniq
         geonamesid: 786156
         latitude: 42.52
@@ -503,6 +541,7 @@ regions:
           - Arrnjet
           - Arrnjeti
           - Perlep
+          - Prejlep
         ascii_name: Prilep
         geonamesid: 786734
         latitude: 42.5075
@@ -517,6 +556,7 @@ regions:
           - Ljumbardh
           - Lumbarda
           - Lumbardh
+          - Lumbardhe
         ascii_name: Lumbardhi
         geonamesid: 788536
         latitude: 42.54667
@@ -531,6 +571,7 @@ regions:
           - Lebusha
           - Lebushe
           - Ljebuse
+          - Ljebuše
         ascii_name: Ljubusa
         geonamesid: 788543
         latitude: 42.56306
@@ -558,6 +599,7 @@ regions:
           - "Strallc i Eperm"
           - "Strallc i Epërm"
           - "Strellc i Eperm"
+          - "Strellc i Epërm"
         ascii_name: "Strellc i Eperm"
         geonamesid: 790354
         latitude: 42.57835
@@ -572,6 +614,7 @@ regions:
           - "Lluka e Eperme"
           - "Lluka e Epërme"
           - "Lluke e Eperme"
+          - "Llukë e Epërme"
         ascii_name: "Lluka e Eperme"
         geonamesid: 790486
         latitude: 42.545
@@ -586,6 +629,7 @@ regions:
           - Fortesa
           - Glacani
           - Gladane
+          - Glaçani
         ascii_name: Gllogjan
         geonamesid: 790704
         latitude: 42.50722
@@ -613,12 +657,14 @@ regions:
           - Decan
           - Decani
           - Dekan
+          - Deçan
         ascii_name: Decan
         geonamesid: 791580
         latitude: 42.54018
         longitude: 20.28793
         name: Deçan
-        names_en: ~
+        names_en: 
+          - Deçan
         names_es: ~
         population: 50500
         timezone: Europe/Belgrade
@@ -627,6 +673,7 @@ regions:
           - Papracane
           - Papraqan
           - Papraćane
+          - Papračane
         ascii_name: Papraqan
         geonamesid: 793226
         latitude: 42.55278
@@ -641,6 +688,7 @@ regions:
           - Llocan
           - Llocani
           - Lloqan
+          - Lloqani
         ascii_name: Lloqan
         geonamesid: 830410
         latitude: 42.52444
@@ -669,6 +717,7 @@ regions:
           - "Fushe Kosove"
           - Fushe-Kosova
           - "Fushë Kosovë"
+          - Fushë-Kosova
         ascii_name: "Kosovo Polje"
         geonamesid: 789228
         latitude: 42.63944
@@ -690,6 +739,7 @@ regions:
           - Shterpce
           - Shtrpce
           - Shtërpcë
+          - Strice
         ascii_name: Strpce
         geonamesid: 785388
         latitude: 42.23944
@@ -711,6 +761,7 @@ regions:
           - Shtime
           - Shtimle
           - Stimle
+          - Stimlje
         ascii_name: Shtime
         geonamesid: 785485
         latitude: 42.43306
@@ -739,6 +790,7 @@ regions:
           - Gllaboder
           - Kastriot
           - Obilic
+          - Obiliq
         ascii_name: Obiliq
         geonamesid: 787534
         latitude: 42.68694
@@ -760,6 +812,7 @@ regions:
           - Malisevo
           - Malisheve
           - Malishevo
+          - Malishevë
         ascii_name: Malisevo
         geonamesid: 788239
         latitude: 42.48222
@@ -774,6 +827,7 @@ regions:
           - Llazice
           - Llazicë
           - Llozice
+          - Llozicë
         ascii_name: Llazice
         geonamesid: 788470
         latitude: 42.55528
@@ -816,6 +870,7 @@ regions:
           - Zaccan
           - Zvecan
           - Zvechan
+          - Zveçan
         ascii_name: Zvecan
         geonamesid: 783770
         latitude: 42.9075

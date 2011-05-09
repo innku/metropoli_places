@@ -2,8 +2,11 @@
 geonamesid: 294640
 iso: IL
 name: Israel
-names_en: ~
-names_es: ~
+names_en: 
+  - Israel
+  - "State of Israel"
+names_es: 
+  - Israel
 regions: 
   - 
     ascii_name: "Jerusalem District"
@@ -13,13 +16,18 @@ regions:
           - Adonai-jireh
           - "Aelia Capitolina"
           - "Al Quds"
+          - Al-Kuds
         ascii_name: Jerusalem
         geonamesid: 281184
         latitude: 31.77902
         longitude: 35.2253
         name: Jerusalem
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Zion
+          - Ariel
+          - Jerusalem
+        names_es: 
+          - Jerusalén
         population: 714000
         timezone: Asia/Jerusalem
       - 
@@ -38,6 +46,7 @@ regions:
           - "Mevo Beitar"
           - "Mevo Beiter"
           - "Mevo Betar"
+          - "Mevo Beter"
         ascii_name: "Mevo Betar"
         geonamesid: 294244
         latitude: 31.71667
@@ -52,13 +61,16 @@ regions:
           - "Beit Semes"
           - "Beit Şemeş"
           - Beit-Shemesh
+          - Bejt-Shemesh
         ascii_name: "Bet Shemesh"
         geonamesid: 295432
         latitude: 31.75
         longitude: 35.0
         name: "Bet Shemesh"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Bet Shemesh"
+        names_es: 
+          - "Bet Shemesh"
         population: 67100
         timezone: Asia/Jerusalem
       - 
@@ -66,6 +78,7 @@ regions:
           - "Abu Ghaush"
           - "Abu Ghosh"
           - Abu-Ghawsh
+          - "Abū Ghaush"
         ascii_name: "Abu Ghaush"
         geonamesid: 295772
         latitude: 31.8
@@ -77,7 +90,8 @@ regions:
         timezone: Asia/Jerusalem
     geonamesid: 293198
     name: "Jerusalem District"
-    names_en: ~
+    names_en: 
+      - "Jerusalem District"
     names_es: ~
   - 
     ascii_name: "Tel Aviv"
@@ -87,6 +101,7 @@ regions:
           - "Ramat HaSharon"
           - "Ramat Hash Sharon"
           - "`Ir Shalom"
+          - "‘Ir Shalom"
         ascii_name: "Ramat HaSharon"
         geonamesid: 293783
         latitude: 32.14722
@@ -101,13 +116,16 @@ regions:
           - Gan
           - "Ramat Gan"
           - Ramat-Gan
+          - "rmt gn"
         ascii_name: "Ramat Gan"
         geonamesid: 293788
         latitude: 32.08056
         longitude: 34.81417
         name: "Ramat Gan"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Ramat Gan"
+        names_es: 
+          - "Ramat Gan"
         population: 128095
         timezone: Asia/Jerusalem
       - 
@@ -115,6 +133,7 @@ regions:
           - "Or Yehuda"
           - "Or Yehudah"
           - Saqiya
+          - Saqiyyah
         ascii_name: "Or Yehuda"
         geonamesid: 293962
         latitude: 32.03111
@@ -142,13 +161,16 @@ regions:
           - Cholon
           - Holon
           - H̱olon
+          - Jolon
         ascii_name: Holon
         geonamesid: 294751
         latitude: 32.01139
         longitude: 34.77222
         name: H̱olon
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Holon
+        names_es: 
+          - Jolón
         population: 165787
         timezone: Asia/Jerusalem
       - 
@@ -156,13 +178,16 @@ regions:
           - Gerclija
           - Herseliya
           - Hertseliyya
+          - Hertsliyah
         ascii_name: Herzliyya
         geonamesid: 294778
         latitude: 32.16583
         longitude: 34.83667
         name: Herzliyya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Herzliya
+        names_es: 
+          - Herzliya
         population: 83600
         timezone: Asia/Jerusalem
       - 
@@ -170,6 +195,7 @@ regions:
           - "Giv`at Shemu'el"
           - "Giv`at Shmuel"
           - "Giv‘at Shemu’el"
+          - "Giv‘at Shmuel"
         ascii_name: "Giv`at Shemu'el"
         geonamesid: 294981
         latitude: 32.07528
@@ -184,6 +210,7 @@ regions:
           - Gevataym
           - Giv`atayim
           - Givataim
+          - Giv‘atayim
         ascii_name: Giv`atayim
         geonamesid: 294999
         latitude: 32.06972
@@ -198,6 +225,7 @@ regions:
           - "Benai Beraq"
           - "Bene Beraq"
           - "Benei Beraq"
+          - "Beney Beraq"
         ascii_name: "Bene Beraq"
         geonamesid: 295514
         latitude: 32.09028
@@ -212,13 +240,16 @@ regions:
           - "Bat Jam"
           - "Bat Yam"
           - Bat-Jam
+          - "bt ym"
         ascii_name: "Bat Yam"
         geonamesid: 295548
         latitude: 32.02306
         longitude: 34.75028
         name: "Bat Yam"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Bat Yam"
+        names_es: 
+          - "Bat Yam"
         population: 128979
         timezone: Asia/Jerusalem
       - 
@@ -226,6 +257,7 @@ regions:
           - Azor
           - Azur
           - Yazir
+          - Yazor
         ascii_name: Azor
         geonamesid: 295584
         latitude: 32.01917
@@ -237,7 +269,9 @@ regions:
         timezone: Asia/Jerusalem
     geonamesid: 293396
     name: "Tel Aviv"
-    names_en: ~
+    names_en: 
+      - "Tel Aviv"
+      - "Tel Aviv District"
     names_es: ~
   - 
     ascii_name: "Haifa District"
@@ -247,6 +281,7 @@ regions:
           - "El Fahm"
           - "Umm al Fahm"
           - "Umm el Faham"
+          - "Umm el Fahm"
         ascii_name: "Umm el Fahm"
         geonamesid: 293286
         latitude: 32.51583
@@ -261,6 +296,7 @@ regions:
           - "At Tira"
           - Tira
           - Tirah
+          - "Tirat Carmel"
         ascii_name: "Tirat Karmel"
         geonamesid: 293308
         latitude: 32.76167
@@ -286,13 +322,16 @@ regions:
           - Kir'jat-Jam
           - "Kirjat Jam"
           - Kiryat-Yam
+          - "Qiryat Yam"
         ascii_name: "Qiryat Yam"
         geonamesid: 293822
         latitude: 32.85083
         longitude: 35.07028
         name: "Qiryat Yam"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Qiryat Yam"
+        names_es: 
+          - "Qiryat Yam"
         population: 37639
         timezone: Asia/Jerusalem
       - 
@@ -300,6 +339,7 @@ regions:
           - Kir'jat-Mockin
           - "Qiryat Motskin"
           - "Qiryat Motsqin"
+          - "Qiryat Motzkin"
         ascii_name: "Qiryat Motzkin"
         geonamesid: 293831
         latitude: 32.83639
@@ -314,6 +354,7 @@ regions:
           - Kir'jat-Bjalik
           - "Qiryat Bialik"
           - "Qiryat Bialiq"
+          - Qiryat-Beyaliq
         ascii_name: "Qiryat Bialik"
         geonamesid: 293844
         latitude: 32.8275
@@ -328,6 +369,7 @@ regions:
           - "Kefar `Atah"
           - "Kefar `Atta"
           - "Kefar ‘Atah"
+          - "Kefar ‘Aṭṭa"
         ascii_name: "Qiryat Ata"
         geonamesid: 293845
         latitude: 32.80056
@@ -342,13 +384,16 @@ regions:
           - Neixer
           - Nescher
           - Nesher
+          - nsr
         ascii_name: Nesher
         geonamesid: 294078
         latitude: 32.765
         longitude: 35.05
         name: Nesher
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nesher
+        names_es: 
+          - Nesher
         population: 21245
         timezone: Asia/Jerusalem
       - 
@@ -370,13 +415,16 @@ regions:
           - Caiffa
           - Haifa
           - Hajfa
+          - Hajfo
         ascii_name: Haifa
         geonamesid: 294801
         latitude: 32.81556
         longitude: 34.98917
         name: Haifa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Haifa
+        names_es: 
+          - Haifa
         population: 267300
         timezone: Asia/Jerusalem
       - 
@@ -384,13 +432,16 @@ regions:
           - Chadera
           - "El Khudeira"
           - Hadera
+          - Haderah
         ascii_name: Hadera
         geonamesid: 294946
         latitude: 32.43528
         longitude: 34.9175
         name: H̱adera
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hadera
+        names_es: 
+          - Hadera
         population: 75854
         timezone: Asia/Jerusalem
       - 
@@ -398,6 +449,7 @@ regions:
           - "Al Fureidis"
           - "El Fureidis"
           - "El Fureidīs"
+          - Freidis
         ascii_name: "El Fureidis"
         geonamesid: 295269
         latitude: 32.6
@@ -412,12 +464,14 @@ regions:
           - "Carmel City"
           - Daliyah
           - "Daliyat ad-Druz"
+          - "Daliyat al-Karmil"
         ascii_name: "Daliyat el Karmil"
         geonamesid: 295365
         latitude: 32.69361
         longitude: 35.04083
         name: "Dāliyat el Karmil"
-        names_en: ~
+        names_en: 
+          - "Carmel City"
         names_es: ~
         population: 25000
         timezone: Asia/Jerusalem
@@ -426,6 +480,7 @@ regions:
           - "`Athlit"
           - "`Athlith"
           - "`Atlit"
+          - ‘Athlīt
         ascii_name: "`Atlit"
         geonamesid: 295613
         latitude: 32.68333
@@ -440,12 +495,14 @@ regions:
           - Caesarea
           - Kaysaria
           - Keisarya
+          - Kesarija
         ascii_name: Qesarya
         geonamesid: 7117228
         latitude: 32.51888
         longitude: 34.90459
         name: Qesarya
-        names_en: ~
+        names_en: 
+          - Caesarea
         names_es: ~
         population: 4500
         timezone: Asia/Jerusalem
@@ -461,6 +518,7 @@ regions:
           - Cfat
           - Safad
           - Safed
+          - Sfat
         ascii_name: Zefat
         geonamesid: 293100
         latitude: 32.96667
@@ -475,6 +533,7 @@ regions:
           - "Kefar Yamma"
           - Yabneel
           - Yabniel
+          - Yamah
         ascii_name: Yavne'el
         geonamesid: 293220
         latitude: 32.7125
@@ -489,6 +548,7 @@ regions:
           - "`Azir"
           - "`Uzayr"
           - "`Uzeir"
+          - ‘Azir
         ascii_name: "`Uzeir"
         geonamesid: 293273
         latitude: 32.79444
@@ -514,13 +574,16 @@ regions:
           - Tabariya
           - Tabariyeh
           - Tabariyyah
+          - Tabarīya
         ascii_name: Tiberias
         geonamesid: 293322
         latitude: 32.79556
         longitude: 35.52861
         name: Tiberias
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tiberias
+        names_es: 
+          - Tiberíades
         population: 39790
         timezone: Asia/Jerusalem
       - 
@@ -528,6 +591,7 @@ regions:
           - Maalot-Tarshikha
           - "Me`ona `Ironit"
           - Tarchiha
+          - Tarshihah
         ascii_name: "maalot Tarshiha"
         geonamesid: 293420
         latitude: 33.01667
@@ -542,6 +606,7 @@ regions:
           - Tamra
           - Tamrah
           - Temarah
+          - Тамра
         ascii_name: Tamra
         geonamesid: 293426
         latitude: 32.84861
@@ -584,6 +649,7 @@ regions:
           - Sahrin
           - Sakhnin
           - Sakhnīn
+          - Saknin
         ascii_name: Sakhnin
         geonamesid: 293655
         latitude: 32.86222
@@ -612,6 +678,7 @@ regions:
           - "El Ja`une"
           - "El Jā‘ūne"
           - Ja`una
+          - Ja`unah
         ascii_name: "Rosh Pinna"
         geonamesid: 293688
         latitude: 32.96667
@@ -626,6 +693,7 @@ regions:
           - Jadah
           - Jeida
           - "Ramat Yishai"
+          - "Ramat Yishay"
         ascii_name: "Ramat Yishay"
         geonamesid: 293773
         latitude: 32.70056
@@ -640,6 +708,7 @@ regions:
           - "Al Khalisa"
           - "El Khalisa"
           - Halasa
+          - Halsa
         ascii_name: "Qiryat Shemona"
         geonamesid: 293825
         latitude: 33.20806
@@ -654,6 +723,7 @@ regions:
           - Na`im
           - Nayn
           - Na‘im
+          - Neim
         ascii_name: Nein
         geonamesid: 294089
         latitude: 32.63333
@@ -668,13 +738,16 @@ regions:
           - "En Nasira"
           - "En Nāsira"
           - "Lungsod ng Nazaret"
+          - Naatsaret
         ascii_name: Nazareth
         geonamesid: 294098
         latitude: 32.70361
         longitude: 35.29556
         name: Nazareth
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nazareth
+        names_es: 
+          - Nazaret
         population: 64800
         timezone: Asia/Jerusalem
       - 
@@ -682,6 +755,7 @@ regions:
           - Nahaf
           - Nahef
           - Nahf
+          - Naḥf
         ascii_name: Nahf
         geonamesid: 294114
         latitude: 32.93333
@@ -696,6 +770,7 @@ regions:
           - Nagarija
           - Nahariya
           - Nahariyah
+          - Nahariyya
         ascii_name: Nahariyya
         geonamesid: 294117
         latitude: 33.00583
@@ -710,6 +785,7 @@ regions:
           - Maaliya
           - Me`elya
           - Me‘elyā
+          - Mi'elya
         ascii_name: Mi`ilya
         geonamesid: 294205
         latitude: 33.02806
@@ -724,6 +800,7 @@ regions:
           - Magidal
           - "Migdal Ha`Emeq"
           - "Migdal Haemeqck"
+          - "Migdal Hameq"
         ascii_name: "Migdal Ha`Emeq"
         geonamesid: 294210
         latitude: 32.67139
@@ -738,6 +815,7 @@ regions:
           - "El Mutille"
           - Metula
           - Metulah
+          - Metulla
         ascii_name: Metulla
         geonamesid: 294247
         latitude: 33.28611
@@ -752,6 +830,7 @@ regions:
           - "El Mansura"
           - Ma`ariyah
           - Maghar
+          - Maghār
         ascii_name: Maghar
         geonamesid: 294387
         latitude: 32.88694
@@ -766,6 +845,7 @@ regions:
           - "Kefar Tabor"
           - "Kefar Tavor"
           - "Kfar Tavor"
+          - Mas-ha
         ascii_name: "Kefar Tavor"
         geonamesid: 294502
         latitude: 32.68889
@@ -780,6 +860,7 @@ regions:
           - Kaukab
           - "Kaukab Abu el Hija"
           - "Kaukab Abū el Hīja"
+          - Kawkab
         ascii_name: "Kaukab Abu el Hija"
         geonamesid: 294571
         latitude: 32.83333
@@ -794,6 +875,7 @@ regions:
           - Carmiel
           - Karmi'el
           - Karmiehl'
+          - Karmi’el
         ascii_name: Karmi'el
         geonamesid: 294577
         latitude: 32.91722
@@ -808,6 +890,7 @@ regions:
           - "Kafr Yasif"
           - "Kafr Yāsīf"
           - Kefar-Yasif
+          - "Kfar Yasif"
         ascii_name: "Kafr Yasif"
         geonamesid: 294600
         latitude: 32.95361
@@ -836,6 +919,7 @@ regions:
           - "Kafar Manda"
           - Kafer-Manda
           - "Kafr Manda"
+          - "Kafr Mandā"
         ascii_name: "Kafr Manda"
         geonamesid: 294608
         latitude: 32.80722
@@ -864,6 +948,7 @@ regions:
           - "Kafar Kama"
           - Kafer-Kama
           - "Kafr Kama"
+          - "Kafr Kamma"
         ascii_name: "Kafr Kama"
         geonamesid: 294611
         latitude: 32.71667
@@ -906,6 +991,7 @@ regions:
           - Giscala
           - Gishala
           - "Gush Halab"
+          - "Gush Halav"
         ascii_name: Jish
         geonamesid: 294627
         latitude: 33.02472
@@ -920,6 +1006,7 @@ regions:
           - Iksal
           - Iksāl
           - Kessulot
+          - Kesulot
         ascii_name: Iksal
         geonamesid: 294658
         latitude: 32.67861
@@ -934,6 +1021,7 @@ regions:
           - Hourfeich
           - Hurfaysh
           - Hurfeish
+          - Ḥurfeish
         ascii_name: Hurfeish
         geonamesid: 294666
         latitude: 33.015
@@ -948,6 +1036,7 @@ regions:
           - Fassuta
           - Fassutah
           - Fassūṭā
+          - Mafshatah
         ascii_name: Mafshatah
         geonamesid: 295104
         latitude: 33.04972
@@ -962,6 +1051,7 @@ regions:
           - Dannun
           - Danun
           - "Esh Sheikh Dannun"
+          - "Esh Sheikh Dannūn"
         ascii_name: "Esh Sheikh Dannun"
         geonamesid: 295157
         latitude: 32.99
@@ -976,6 +1066,7 @@ regions:
           - "Ar Reina"
           - "Er Reina"
           - Raynah
+          - Reina
         ascii_name: "Er Reina"
         geonamesid: 295174
         latitude: 32.72361
@@ -990,6 +1081,7 @@ regions:
           - "Al Mazra`a"
           - "Al Mazra‘a"
           - "El Mazra`a"
+          - "El Mazra‘a"
         ascii_name: "El Mazra`a"
         geonamesid: 295249
         latitude: 32.98583
@@ -1004,6 +1096,7 @@ regions:
           - "`Ailabun"
           - "`Aylabun"
           - "`Eilabun"
+          - ‘Ailabun
         ascii_name: "`Eilabun"
         geonamesid: 295291
         latitude: 32.83472
@@ -1018,6 +1111,7 @@ regions:
           - "Dayr Hannah"
           - "Deir Hanna"
           - "Deir Ḥannā"
+          - "Kefar Yohanah"
         ascii_name: "Deir Hanna"
         geonamesid: 295339
         latitude: 32.8625
@@ -1032,6 +1126,7 @@ regions:
           - Dabburiya
           - Dabburiyah
           - Dabburye
+          - Dabbūrīya
         ascii_name: Dabburiya
         geonamesid: 295370
         latitude: 32.69583
@@ -1046,6 +1141,7 @@ regions:
           - "Al Buqei`a"
           - "Al Buqei‘a"
           - Beqe`ah
+          - Beqe‘ah
         ascii_name: Buqei`a
         geonamesid: 295379
         latitude: 32.97917
@@ -1060,6 +1156,7 @@ regions:
           - Bu`aynah
           - Bu`eina
           - Bu`eine
+          - Bu‘aynah
         ascii_name: Bu`eina
         geonamesid: 295380
         latitude: 32.80528
@@ -1085,13 +1182,16 @@ regions:
           - Beisan
           - Beisān
           - "Beit Shean"
+          - Beit-Shean
         ascii_name: "Bet She'an"
         geonamesid: 295435
         latitude: 32.5
         longitude: 35.5
         name: "Bet She’an"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Bet She'an"
+        names_es: 
+          - "Bet She'an"
         population: 16800
         timezone: Asia/Jerusalem
       - 
@@ -1113,6 +1213,7 @@ regions:
           - "Basmat Tab'un"
           - "Basmat Tab`un"
           - "Basmat Ṭab‘ūn"
+          - "Bismat Taba'un"
         ascii_name: "Basmat Tab`un"
         geonamesid: 295553
         latitude: 32.73444
@@ -1127,13 +1228,16 @@ regions:
           - Accho
           - Acre
           - "Acre - עכו"
+          - Acri
         ascii_name: "`Akko"
         geonamesid: 295721
         latitude: 32.92361
         longitude: 35.07278
         name: ‘Akko
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Acre
+        names_es: 
+          - Acre
         population: 45603
         timezone: Asia/Jerusalem
       - 
@@ -1141,6 +1245,7 @@ regions:
           - "Upper Afula"
           - "`Afula `Elit"
           - "`Afula `Illit"
+          - "`Afulah `Ilith"
         ascii_name: "`Afula `Illit"
         geonamesid: 295739
         latitude: 32.63333
@@ -1196,7 +1301,8 @@ regions:
         timezone: Asia/Jerusalem
     geonamesid: 294824
     name: "Northern District"
-    names_en: ~
+    names_en: 
+      - "Northern District"
     names_es: ~
   - 
     ascii_name: "Central District"
@@ -1206,6 +1312,7 @@ regions:
           - "Tsur Moshe"
           - "Tsur Mosheh"
           - "Zur Moshe"
+          - "Ẕur Moshe"
         ascii_name: "Zur Moshe"
         geonamesid: 293014
         latitude: 32.3
@@ -1220,6 +1327,7 @@ regions:
           - Javne
           - "Kefar Yavne"
           - "Kfar Yavne"
+          - "Kfar Yavneh"
         ascii_name: Yavne
         geonamesid: 293222
         latitude: 31.87639
@@ -1245,6 +1353,7 @@ regions:
           - Saviyon
           - Savyon
           - sbywn
+          - סביון
         ascii_name: Savyon
         geonamesid: 293633
         latitude: 32.05306
@@ -1259,13 +1368,16 @@ regions:
           - "Ayun Kara"
           - "Le Tsiyon"
           - "Le Tsīyōn"
+          - "Richon le Sion"
         ascii_name: "Rishon LeZiyyon"
         geonamesid: 293703
         latitude: 31.96417
         longitude: 34.80444
         name: "Rishon LeẔiyyon"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Rishon LeZion"
+        names_es: 
+          - "Rishon LeZion"
         population: 220492
         timezone: Asia/Jerusalem
       - 
@@ -1273,13 +1385,16 @@ regions:
           - "Er Ramle"
           - Ramla
           - Ramle
+          - ramla
         ascii_name: Ramla
         geonamesid: 293768
         latitude: 31.92528
         longitude: 34.86694
         name: Ramla
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ramla
+        names_es: 
+          - Ramla
         population: 63860
         timezone: Asia/Jerusalem
       - 
@@ -1329,13 +1444,16 @@ regions:
           - "Lungsod ng Ntanya"
           - Natania
           - Natanja
+          - Natanya
         ascii_name: Netanya
         geonamesid: 294071
         latitude: 32.33361
         longitude: 34.85778
         name: Netanya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Netanya
+        names_es: 
+          - Netanya
         population: 171676
         timezone: Asia/Jerusalem
       - 
@@ -1343,6 +1461,7 @@ regions:
           - "Nahalat Reuven"
           - "Nes Siyona"
           - "Nes Tsiyona"
+          - "Nes Tsiyonah"
         ascii_name: "Ness Ziona"
         geonamesid: 294074
         latitude: 31.92933
@@ -1368,6 +1487,7 @@ regions:
           - Ekron
           - "Mazkeret Batya"
           - "Mazkeret Batyah"
+          - "`Eqron"
         ascii_name: "Mazkeret Batya"
         geonamesid: 294303
         latitude: 31.85389
@@ -1382,13 +1502,16 @@ regions:
           - Lida
           - Lidd
           - Lod
+          - Lud
         ascii_name: Lod
         geonamesid: 294421
         latitude: 31.95139
         longitude: 34.89528
         name: Lod
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lod
+        names_es: 
+          - Lod
         population: 66589
         timezone: Asia/Jerusalem
       - 
@@ -1410,6 +1533,7 @@ regions:
           - "Kafr Saba"
           - "Kefar Saba"
           - "Kefar Sava"
+          - Kefar-Sava
         ascii_name: "Kefar Sava"
         geonamesid: 294514
         latitude: 32.175
@@ -1424,6 +1548,7 @@ regions:
           - "Kefar Habad"
           - "Kefar Habbad"
           - "Kefar H̱abad"
+          - "Kefar H̱abbad"
         ascii_name: "Kefar Habad"
         geonamesid: 294545
         latitude: 31.98667
@@ -1438,6 +1563,7 @@ regions:
           - "Kafar Qasem"
           - "Kafar Qāsem"
           - Kafer-Kassim
+          - "Kafr Qasim"
         ascii_name: "Kafr Qasim"
         geonamesid: 294604
         latitude: 32.11417
@@ -1452,6 +1578,7 @@ regions:
           - Gilgal
           - Gilgāl
           - Jaljuliya
+          - Jaljulya
         ascii_name: Jaljulya
         geonamesid: 294634
         latitude: 32.15583
@@ -1466,6 +1593,7 @@ regions:
           - "Hada Ramatayim"
           - "Hadar Ramataim"
           - "Hadar Ramatayim"
+          - "Hod HaSharon"
         ascii_name: "Hod HaSharon"
         geonamesid: 294760
         latitude: 32.15083
@@ -1531,6 +1659,7 @@ regions:
           - "At Tira"
           - "Et Tira"
           - "Et Tire"
+          - "Eṭ Ṭīra"
         ascii_name: Tirah
         geonamesid: 295127
         latitude: 32.23278
@@ -1545,6 +1674,7 @@ regions:
           - "At Taiyiba"
           - E-Tayibe
           - "El Taiyiba"
+          - "Et Taiyiba"
         ascii_name: "Et Taiyiba"
         geonamesid: 295130
         latitude: 32.26472
@@ -1559,6 +1689,7 @@ regions:
           - Elyakhin
           - "Khirbat Zalafa"
           - "Ma'abara Merkazit Emeq Hefer"
+          - "Ma’abara Merkazit Emeq H̱efer"
         ascii_name: Elyakhin
         geonamesid: 295232
         latitude: 32.4
@@ -1573,6 +1704,7 @@ regions:
           - "Beit Yits-haq"
           - "Beit Yits-ḥaq"
           - "Beit Yitzak"
+          - "Bet Yitshak"
         ascii_name: "Bet Yizhaq"
         geonamesid: 295424
         latitude: 32.31667
@@ -1587,6 +1719,7 @@ regions:
           - "Bayt Dajan"
           - "Beit Dagon"
           - "Beit Dajan"
+          - "Bet Dagan"
         ascii_name: "Bet Dagan"
         geonamesid: 295475
         latitude: 32.00139
@@ -1624,7 +1757,8 @@ regions:
         timezone: Asia/Jerusalem
     geonamesid: 294904
     name: "Central District"
-    names_en: ~
+    names_en: 
+      - "Central District"
     names_es: ~
   - 
     ascii_name: "Southern District"
@@ -1634,6 +1768,7 @@ regions:
           - "Kefar Yeroham"
           - "Kfar Yeroham"
           - Yeroham
+          - Yeroẖam
         ascii_name: Yeroham
         geonamesid: 293203
         latitude: 30.98722
@@ -1648,13 +1783,16 @@ regions:
           - Sderot
           - Sdérot
           - Sederot
+          - Shederot
         ascii_name: Sederot
         geonamesid: 293619
         latitude: 31.51667
         longitude: 34.58333
         name: Sederot
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sderot
+        names_es: 
+          - Sederot
         population: 20228
         timezone: Asia/Jerusalem
       - 
@@ -1662,12 +1800,14 @@ regions:
           - Gat
           - Kir'jat-Gat
           - "Kirjat Gat"
+          - "Kiryat Gat"
         ascii_name: "Qiryat Gat"
         geonamesid: 293842
         latitude: 31.6
         longitude: 34.76667
         name: "Qiryat Gat"
-        names_en: ~
+        names_en: 
+          - "Qiryat Gat"
         names_es: ~
         population: 47450
         timezone: Asia/Jerusalem
@@ -1690,6 +1830,7 @@ regions:
           - Azata
           - Azzata
           - Netivot
+          - Нетивот
         ascii_name: Netivot
         geonamesid: 294068
         latitude: 31.41667
@@ -1704,6 +1845,7 @@ regions:
           - "Mahane Ramon"
           - "Maḥane Ramon"
           - "Mitspe Ramon"
+          - "Mitze Ramon"
         ascii_name: "Mizpe Ramon"
         geonamesid: 294166
         latitude: 30.60944
@@ -1718,6 +1860,7 @@ regions:
           - Ehjn-Bokek
           - EnBokeko
           - "`En Boqeq"
+          - Эйн-Бокек
         ascii_name: "`En Boqeq"
         geonamesid: 295224
         latitude: 31.20139
@@ -1732,13 +1875,16 @@ regions:
           - Ehjlat
           - Eilat
           - Ejlat
+          - Ejlato
         ascii_name: Elat
         geonamesid: 295277
         latitude: 29.56111
         longitude: 34.95167
         name: Elat
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Eilat
+        names_es: 
+          - Eilat
         population: 45588
         timezone: Asia/Jerusalem
       - 
@@ -1746,13 +1892,16 @@ regions:
           - Dimona
           - Domona
           - dymwnh
+          - Димона
         ascii_name: Dimona
         geonamesid: 295328
         latitude: 31.06667
         longitude: 35.03333
         name: Dimona
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dimona
+        names_es: 
+          - Dimona
         population: 33558
         timezone: Asia/Jerusalem
       - 
@@ -1760,13 +1909,17 @@ regions:
           - "B'er Sheva'"
           - B'eyr-Sheva'
           - "Be'er Seva"
+          - "Be'er Sheva"
         ascii_name: Beersheba
         geonamesid: 295530
         latitude: 31.25181
         longitude: 34.7913
         name: Beersheba
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Beersheba
+        names_es: 
+          - "Be'er Sheva"
+          - "Beer Sheva"
         population: 186600
         timezone: Asia/Jerusalem
       - 
@@ -1774,6 +1927,7 @@ regions:
           - "Al Majdal"
           - Ashkelon
           - Ashqelon
+          - Ashquelon
         ascii_name: Ashqelon
         geonamesid: 295620
         latitude: 31.66667
@@ -1788,13 +1942,16 @@ regions:
           - Aschdod
           - Asdod
           - Ashdod
+          - "Ashdod Yam"
         ascii_name: Ashdod
         geonamesid: 295629
         latitude: 31.81667
         longitude: 34.65
         name: Ashdod
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ashdod
+        names_es: 
+          - Ashdod
         population: 224656
         timezone: Asia/Jerusalem
       - 
@@ -1823,5 +1980,6 @@ regions:
         timezone: Asia/Jerusalem
     geonamesid: 294952
     name: "Southern District"
-    names_en: ~
+    names_en: 
+      - "Southern District"
     names_es: ~

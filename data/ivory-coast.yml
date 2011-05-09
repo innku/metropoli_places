@@ -2,8 +2,12 @@
 geonamesid: 2287781
 iso: CI
 name: "Ivory Coast"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Ivory Coast"
+  - "Côte d'Ivoire"
+  - "Republic of Côte d’Ivoire"
+names_es: 
+  - "Costa de Marfil"
 regions: 
   - 
     ascii_name: "Region des Lagunes"
@@ -24,12 +28,14 @@ regions:
           - Dab
           - Dabou
           - Dabu
+          - Даб
         ascii_name: Dabou
         geonamesid: 2290582
         latitude: 5.32056
         longitude: -4.38306
         name: Dabou
-        names_en: ~
+        names_en: 
+          - Dabou
         names_es: ~
         population: 69661
         timezone: Africa/Abidjan
@@ -50,6 +56,7 @@ regions:
           - An'jame
           - Aniama
           - Anyama
+          - "Anyama Sossokoua"
         ascii_name: Anyama
         geonamesid: 2292852
         latitude: 5.49583
@@ -75,13 +82,16 @@ regions:
           - Abican
           - Abidjan
           - Abidzan
+          - Abidzana
         ascii_name: Abidjan
         geonamesid: 2293538
         latitude: 5.34111
         longitude: -4.02806
         name: Abidjan
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Abidjan
+        names_es: 
+          - Abiyán
         population: 3677115
         timezone: Africa/Abidjan
     geonamesid: 2597316
@@ -101,7 +111,8 @@ regions:
         latitude: 5.20194
         longitude: -3.735
         name: Grand-Bassam
-        names_en: ~
+        names_en: 
+          - Grand-Bassam
         names_es: ~
         population: 73772
         timezone: Africa/Abidjan
@@ -110,6 +121,7 @@ regions:
           - Bonoua
           - Bonua
           - Bunua
+          - "Grand Akapless"
         ascii_name: Bonoua
         geonamesid: 2291087
         latitude: 5.27222
@@ -148,6 +160,7 @@ regions:
           - Abisso
           - Aboissa
           - Aboisso
+          - Abuasso
         ascii_name: Aboisso
         geonamesid: 2293507
         latitude: 5.4675
@@ -169,6 +182,7 @@ regions:
           - Aferi
           - Affery
           - Aféri
+          - "Grand Aferi"
         ascii_name: Affery
         geonamesid: 2288118
         latitude: 6.315
@@ -202,7 +216,8 @@ regions:
         latitude: 5.93417
         longitude: -4.22139
         name: Agboville
-        names_en: ~
+        names_en: 
+          - Agboville
         names_es: ~
         population: 81770
         timezone: Africa/Abidjan
@@ -216,7 +231,8 @@ regions:
         latitude: 6.10694
         longitude: -3.86194
         name: Adzopé
-        names_en: ~
+        names_en: 
+          - Adzopé
         names_es: ~
         population: 61884
         timezone: Africa/Abidjan
@@ -261,7 +277,8 @@ regions:
         latitude: 6.87472
         longitude: -6.45194
         name: Daloa
-        names_en: ~
+        names_en: 
+          - Daloa
         names_es: ~
         population: 215652
         timezone: Africa/Abidjan
@@ -296,7 +313,8 @@ regions:
         latitude: 9.45
         longitude: -5.63333
         name: Korhogo
-        names_en: ~
+        names_en: 
+          - Korhogo
         names_es: ~
         population: 167359
         timezone: Africa/Abidjan
@@ -305,12 +323,14 @@ regions:
           - Ferkesedugu
           - Ferkessedougou
           - Ferkessédougou
+          - Firkessedougou
         ascii_name: Ferkessedougou
         geonamesid: 2289049
         latitude: 9.6
         longitude: -5.2
         name: Ferkessédougou
-        names_en: ~
+        names_en: 
+          - Ferkessédougou
         names_es: ~
         population: 62008
         timezone: Africa/Abidjan
@@ -319,6 +339,7 @@ regions:
           - Boundiali
           - Boundiouli
           - Bundiali
+          - Бундиали
         ascii_name: Boundiali
         geonamesid: 2290836
         latitude: 9.52167
@@ -380,12 +401,14 @@ regions:
           - Bouake
           - Bouaké
           - Buake
+          - Bwake
         ascii_name: Bouake
         geonamesid: 2290956
         latitude: 7.68333
         longitude: -5.03306
         name: Bouaké
-        names_en: ~
+        names_en: 
+          - Bouaké
         names_es: ~
         population: 567481
         timezone: Africa/Abidjan
@@ -439,7 +462,8 @@ regions:
         latitude: 7.40528
         longitude: -7.5475
         name: Man
-        names_en: ~
+        names_en: 
+          - Man
         names_es: ~
         population: 139341
         timezone: Africa/Abidjan
@@ -448,6 +472,7 @@ regions:
           - Danane
           - Danané
           - "Fort Hittos"
+          - Данане
         ascii_name: Danane
         geonamesid: 2290462
         latitude: 7.26278
@@ -494,13 +519,16 @@ regions:
           - Giamoussoukro
           - Jamusukras
           - Jamusukro
+          - Yamoussokro
         ascii_name: Yamoussoukro
         geonamesid: 2279755
         latitude: 6.81667
         longitude: -5.28333
         name: Yamoussoukro
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Yamoussoukro
+        names_es: 
+          - Yamoussoukro
         population: 194530
         timezone: Africa/Abidjan
       - 
@@ -528,6 +556,7 @@ regions:
           - "Tan N'Da"
           - "Tan N’Da"
           - Tanda
+          - Tanga
         ascii_name: Tanda
         geonamesid: 2280995
         latitude: 7.80639
@@ -567,6 +596,7 @@ regions:
           - Bondoukau
           - Bondoukou
           - Bonduku
+          - Boudoukou
         ascii_name: Bondoukou
         geonamesid: 2291136
         latitude: 8.03333
@@ -656,12 +686,14 @@ regions:
           - Segele
           - Seguela
           - Séguéla
+          - Сегеле
         ascii_name: Seguela
         geonamesid: 2596934
         latitude: 7.96111
         longitude: -6.67306
         name: Séguéla
-        names_en: ~
+        names_en: 
+          - Séguéla
         names_es: ~
         population: 51157
         timezone: Africa/Abidjan
@@ -682,7 +714,8 @@ regions:
         latitude: 9.51
         longitude: -7.56917
         name: Odienné
-        names_en: ~
+        names_en: 
+          - Odienné
         names_es: ~
         population: 49857
         timezone: Africa/Abidjan
@@ -759,6 +792,7 @@ regions:
           - Guibehorouo
           - Guiberou
           - Guiberoua
+          - Guibieouroua
         ascii_name: Guiberoua
         geonamesid: 2287970
         latitude: 6.23667
@@ -796,7 +830,8 @@ regions:
         latitude: 6.65
         longitude: -4.7
         name: Dimbokro
-        names_en: ~
+        names_en: 
+          - Dimbokro
         names_es: ~
         population: 67349
         timezone: Africa/Abidjan
@@ -866,6 +901,7 @@ regions:
           - Zenoula
           - Zouenoula
           - Zouénoula
+          - Zuenoula
         ascii_name: Zuenoula
         geonamesid: 2279172
         latitude: 7.42917

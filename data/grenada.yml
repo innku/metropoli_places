@@ -2,8 +2,10 @@
 geonamesid: 3580239
 iso: GD
 name: Grenada
-names_en: ~
-names_es: ~
+names_en: 
+  - Grenada
+names_es: 
+  - Granada
 regions: 
   - 
     ascii_name: "Saint Patrick"
@@ -33,6 +35,7 @@ regions:
           - "Grand Pauve"
           - "Grand Pauvre"
           - "Saint Mark"
+          - "Saint Mark Village"
         ascii_name: Victoria
         geonamesid: 3579833
         latitude: 12.19021
@@ -54,6 +57,7 @@ regions:
           - "Charlotte Town"
           - Gouave
           - Gouyave
+          - Goyave
         ascii_name: Gouyave
         geonamesid: 3580279
         latitude: 12.16667
@@ -75,13 +79,16 @@ regions:
           - "Fort Royal"
           - Georgetown
           - "Grenada City"
+          - Lewis
         ascii_name: "Saint George's"
         geonamesid: 3579925
         latitude: 12.05644
         longitude: -61.74849
         name: "Saint George's"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "St. George's"
+        names_es: 
+          - "Saint George's"
         population: 7500
         timezone: America/Grenada
     geonamesid: 3579926

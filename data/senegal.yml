@@ -2,8 +2,11 @@
 geonamesid: 2245662
 iso: SN
 name: Senegal
-names_en: ~
-names_es: ~
+names_en: 
+  - Senegal
+  - "Republic of Senegal"
+names_es: 
+  - Senegal
 regions: 
   - 
     ascii_name: "Region de Ziguinchor"
@@ -13,13 +16,16 @@ regions:
           - Zighinkor
           - Ziginshor
           - Zigiunchor
+          - Ziguinchor
         ascii_name: Ziguinchor
         geonamesid: 2243940
         latitude: 12.58333
         longitude: -16.27194
         name: Ziguinchor
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ziguinchor
+        names_es: 
+          - Ziguinchor
         population: 159778
         timezone: Africa/Dakar
       - 
@@ -69,6 +75,7 @@ regions:
           - Tatadem
           - Thiadiaye
           - Tiadaye
+          - Tiadiay
         ascii_name: Tiadiaye
         geonamesid: 2244786
         latitude: 14.41667
@@ -118,6 +125,7 @@ regions:
           - Nguekoh
           - Nguekohe
           - Nguekokh
+          - Nguekorh
         ascii_name: Nguekokh
         geonamesid: 2247381
         latitude: 14.51278
@@ -132,6 +140,7 @@ regions:
           - Mecke
           - Meckhe
           - Meckhé
+          - Mecké
         ascii_name: Mekhe
         geonamesid: 2248409
         latitude: 15.1097
@@ -173,6 +182,7 @@ regions:
           - Fadiout
           - Fadiouth
           - Joal
+          - Joal-Fadiout
         ascii_name: Joal-Fadiout
         geonamesid: 2251084
         latitude: 14.16667
@@ -223,12 +233,14 @@ regions:
           - Ndar
           - Saint-Louis
           - SanLuis
+          - Sen-Lui
         ascii_name: Saint-Louis
         geonamesid: 2246452
         latitude: 16.01793
         longitude: -16.48962
         name: Saint-Louis
-        names_en: ~
+        names_en: 
+          - Saint-Louis
         names_es: ~
         population: 176000
         timezone: Africa/Dakar
@@ -260,6 +272,7 @@ regions:
           - N'diom
           - Ndioum
           - Ndioum-Oualo
+          - N’diom
         ascii_name: Ndioum
         geonamesid: 2247684
         latitude: 16.51293
@@ -274,6 +287,7 @@ regions:
           - Golere
           - Gollene
           - Gollere
+          - Golléné
         ascii_name: Golere
         geonamesid: 2251544
         latitude: 16.25574
@@ -295,6 +309,7 @@ regions:
           - Seme
           - Semme
           - Semmé
+          - Somme
         ascii_name: Seme
         geonamesid: 2245666
         latitude: 15.19422
@@ -320,6 +335,7 @@ regions:
           - "Ouri Sogui"
           - "Ouro Soghy"
           - "Ouro Sogui"
+          - Ourossogui
         ascii_name: "Ouro Sogui"
         geonamesid: 2246922
         latitude: 15.6
@@ -334,6 +350,7 @@ regions:
           - Ouaounde
           - Ouaoundé
           - Waounde
+          - Waoundé
         ascii_name: Waounde
         geonamesid: 2247044
         latitude: 15.26367
@@ -351,7 +368,8 @@ regions:
         latitude: 15.6175
         longitude: -13.33028
         name: Matam
-        names_en: ~
+        names_en: 
+          - Matam
         names_es: ~
         population: 0
         timezone: Africa/Dakar
@@ -409,7 +427,8 @@ regions:
         latitude: 15.61867
         longitude: -16.22436
         name: Louga
-        names_en: ~
+        names_en: 
+          - Louga
         names_es: ~
         population: 0
         timezone: Africa/Dakar
@@ -452,6 +471,7 @@ regions:
           - Mangri
           - Marassou
           - Marassu
+          - Marsassoum
         ascii_name: Marsassoum
         geonamesid: 2248777
         latitude: 12.8275
@@ -470,14 +490,18 @@ regions:
         latitude: 12.88333
         longitude: -14.95
         name: Kolda
-        names_en: ~
+        names_en: 
+          - Kolda
         names_es: ~
         population: 58809
         timezone: Africa/Dakar
     geonamesid: 2249781
     name: Kolda
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kolda Region"
+      - Kolda
+    names_es: 
+      - "Región de Kolda"
   - 
     ascii_name: "Region de Kaolack"
     cities: 
@@ -500,6 +524,7 @@ regions:
           - N'Dofan
           - N'Doffane
           - Ndofane
+          - N’Dofan
         ascii_name: Ndofane
         geonamesid: 2247660
         latitude: 13.91667
@@ -596,6 +621,7 @@ regions:
           - Foundiougne
           - Foundjougne
           - Fundiun
+          - Poundiougne
         ascii_name: Foundiougne
         geonamesid: 2251791
         latitude: 14.13333
@@ -712,13 +738,16 @@ regions:
           - Dacar
           - Dakar
           - Ntakar
+          - Ντακάρ
         ascii_name: Dakar
         geonamesid: 2253354
         latitude: 14.6937
         longitude: -17.44406
         name: Dakar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dakar
+        names_es: 
+          - Dakar
         population: 2476400
         timezone: Africa/Dakar
     geonamesid: 2253350

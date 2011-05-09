@@ -2,8 +2,11 @@
 geonamesid: 719819
 iso: HU
 name: Hungary
-names_en: ~
-names_es: ~
+names_en: 
+  - Hungary
+  - "Republic of Hungary"
+names_es: 
+  - Hungría
 regions: 
   - 
     ascii_name: Szabolcs-Szatmar-Bereg
@@ -49,6 +52,7 @@ regions:
           - "Uj Fejerto"
           - Ujfeherto
           - "Új Fejertó"
+          - Újfehértó
         ascii_name: Ujfeherto
         geonamesid: 714464
         latitude: 47.8
@@ -314,6 +318,7 @@ regions:
           - Fulpos
           - Fülpös
           - Okoritofulpos
+          - Szatmarokorito
         ascii_name: Okoritofulpos
         geonamesid: 716844
         latitude: 47.91862
@@ -352,6 +357,7 @@ regions:
           - Kiralytelekpuszta
           - Királytelekpuszta
           - Nyirtelek
+          - Nyírtelek
         ascii_name: Nyirtelek
         geonamesid: 716893
         latitude: 48.01667
@@ -465,6 +471,7 @@ regions:
           - N'ired'khaza
           - Nyirszollos
           - Nyirszolos
+          - Nyírszőllős
         ascii_name: Nyiregyhaza
         geonamesid: 716935
         latitude: 47.95539
@@ -517,6 +524,7 @@ regions:
           - Nyirbeltek
           - Nyirbetek
           - Nyírbetek
+          - Nyírbéltek
         ascii_name: Nyirbeltek
         geonamesid: 716946
         latitude: 47.7
@@ -682,6 +690,7 @@ regions:
           - Keresztut
           - Keresztút
           - Kotaj
+          - Kótaj
         ascii_name: Kotaj
         geonamesid: 718480
         latitude: 48.05
@@ -981,6 +990,7 @@ regions:
           - Aranyosapati
           - Aranyosapáti
           - Kopocsapati
+          - Kopócsapáti
         ascii_name: Aranyosapati
         geonamesid: 722823
         latitude: 48.20595
@@ -1028,7 +1038,8 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 715593
     name: Szabolcs-Szatmár-Bereg
-    names_en: ~
+    names_en: 
+      - Szabolcs-Szatmár-Bereg
     names_es: ~
   - 
     ascii_name: Jasz-Nagykun-Szolnok
@@ -1090,6 +1101,7 @@ regions:
           - Toroksentmiklosh
           - Torokszenimiklos
           - Torokszentmiklos
+          - Törökszenimiklós
         ascii_name: Torokszentmiklos
         geonamesid: 714581
         latitude: 47.18333
@@ -1152,6 +1164,7 @@ regions:
           - Tiszafiired
           - Tiszafured
           - Tiszafüred
+          - Tiszaszollos
         ascii_name: Tiszafured
         geonamesid: 714772
         latitude: 47.61667
@@ -1209,7 +1222,8 @@ regions:
         latitude: 47.18333
         longitude: 20.2
         name: Szolnok
-        names_en: ~
+        names_en: 
+          - Szolnok
         names_es: ~
         population: 75474
         timezone: Europe/Budapest
@@ -1267,6 +1281,7 @@ regions:
           - Mezoetur
           - Mezotur
           - Mezötúr
+          - Mezőtúr
         ascii_name: Mezotur
         geonamesid: 717635
         latitude: 47.0
@@ -1281,6 +1296,7 @@ regions:
           - Kunszentmarton
           - Kunszentmárton
           - Szeleveny
+          - Szelevény
         ascii_name: Kunszentmarton
         geonamesid: 718312
         latitude: 46.83333
@@ -1487,6 +1503,7 @@ regions:
           - Cserkeszollo
           - Cserkeszolo
           - Cserkeszőllő
+          - Cserkeszőlő
         ascii_name: Cserkeszolo
         geonamesid: 721712
         latitude: 46.86667
@@ -1585,7 +1602,8 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 719637
     name: Jász-Nagykun-Szolnok
-    names_en: ~
+    names_en: 
+      - Jász-Nagykun-Szolnok
     names_es: ~
   - 
     ascii_name: "Heves megye"
@@ -1707,6 +1725,7 @@ regions:
           - Parad
           - Paradohuta
           - Parád
+          - Parádóhuta
         ascii_name: Parad
         geonamesid: 716559
         latitude: 47.91667
@@ -1743,6 +1762,7 @@ regions:
           - Maklar
           - Maklartalya
           - Maklár
+          - Maklártálya
         ascii_name: Maklar
         geonamesid: 717904
         latitude: 47.8
@@ -1872,12 +1892,14 @@ regions:
           - Eger
           - Egera
           - Ehger
+          - Erlau
         ascii_name: Eger
         geonamesid: 721239
         latitude: 47.90265
         longitude: 20.37329
         name: Eger
-        names_en: ~
+        names_en: 
+          - Eger
         names_es: ~
         population: 56647
         timezone: Europe/Budapest
@@ -1932,6 +1954,7 @@ regions:
           - Abasar
           - Abasár
           - Palosvorosmart
+          - Pálosvörösmart
         ascii_name: Abasar
         geonamesid: 723041
         latitude: 47.8
@@ -1979,6 +2002,7 @@ regions:
           - "Petofi Banyatelep"
           - Petofibanya
           - "Petőfi Bányatelep"
+          - Petőfibánya
         ascii_name: Petofibanya
         geonamesid: 3046387
         latitude: 47.76667
@@ -1993,12 +2017,14 @@ regions:
           - Paradsasvar
           - Paradshashvar
           - Ureghuta
+          - Uveghuta
         ascii_name: Paradsasvar
         geonamesid: 3046619
         latitude: 47.9126
         longitude: 19.97709
         name: Parádsasvár
-        names_en: ~
+        names_en: 
+          - Paradsasvar
         names_es: ~
         population: 76000
         timezone: Europe/Budapest
@@ -2053,6 +2079,7 @@ regions:
           - Hatvan
           - Khatvan
           - htwn
+          - Хатван
         ascii_name: Hatvan
         geonamesid: 3051621
         latitude: 47.66667
@@ -2392,6 +2419,7 @@ regions:
           - Letavertes
           - Létavértes
           - Nagyleta
+          - Nagyléta
         ascii_name: Letavertes
         geonamesid: 718113
         latitude: 47.38333
@@ -2419,6 +2447,7 @@ regions:
           - Komadi
           - Komaiti
           - Komádi
+          - Komāiti
         ascii_name: Komadi
         geonamesid: 718637
         latitude: 47.0
@@ -2482,6 +2511,7 @@ regions:
           - Hajduszoboszlo
           - Hajdúszoboszló
           - Khajdusoboslo
+          - Хайдусобосло
         ascii_name: Hajduszoboszlo
         geonamesid: 720276
         latitude: 47.45
@@ -2572,6 +2602,7 @@ regions:
           - Gorbehaza
           - Gorbehazapuszta
           - Görbeháza
+          - Görbeházapuszta
         ascii_name: Gorbehaza
         geonamesid: 720480
         latitude: 47.83333
@@ -2631,13 +2662,16 @@ regions:
           - Debrecen
           - Debrecena
           - Debreczyn
+          - Debretin
         ascii_name: Debrecen
         geonamesid: 721472
         latitude: 47.53333
         longitude: 21.63333
         name: Debrecen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Debrecen
+        names_es: 
+          - Debrecen
         population: 204124
         timezone: Europe/Budapest
       - 
@@ -2731,7 +2765,8 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 720293
     name: Hajdú-Bihar
-    names_en: ~
+    names_en: 
+      - Hajdú-Bihar
     names_es: ~
   - 
     ascii_name: "Csongrad megye"
@@ -2791,6 +2826,7 @@ regions:
           - Algyo
           - Algyő
           - Gyala
+          - Gyalaret
         ascii_name: Szeged
         geonamesid: 715429
         latitude: 46.253
@@ -2830,6 +2866,7 @@ regions:
           - Roske
           - Roszke
           - Röske
+          - Röszke
         ascii_name: Roszke
         geonamesid: 716028
         latitude: 46.18333
@@ -2844,6 +2881,7 @@ regions:
           - Opusztaszer
           - Sovenyhaza
           - Sövényháza
+          - Ópusztaszer
         ascii_name: Opusztaszer
         geonamesid: 716791
         latitude: 46.48333
@@ -2869,6 +2907,7 @@ regions:
           - Maroslele
           - Maroslelle
           - Puspoklele
+          - Püspöklele
         ascii_name: Maroslele
         geonamesid: 717805
         latitude: 46.26667
@@ -3012,6 +3051,7 @@ regions:
           - Balastya
           - Balástya
           - Felsokozpont
+          - Felsőközpont
         ascii_name: Balastya
         geonamesid: 722676
         latitude: 46.41667
@@ -3077,6 +3117,7 @@ regions:
           - Arpad
           - Ulles
           - Árpád
+          - Üllés
         ascii_name: Ulles
         geonamesid: 3043358
         latitude: 46.33806
@@ -3115,6 +3156,7 @@ regions:
           - Alsokozpont
           - Alsóközpont
           - Morahalom
+          - Mórahalom
         ascii_name: Morahalom
         geonamesid: 3047922
         latitude: 46.21944
@@ -3225,7 +3267,8 @@ regions:
         latitude: 48.11667
         longitude: 21.41667
         name: Tokaj
-        names_en: ~
+        names_en: 
+          - Tokaj
         names_es: ~
         population: 5071
         timezone: Europe/Budapest
@@ -3234,6 +3277,7 @@ regions:
           - Leninvaros
           - Leninváros
           - Tiszaszederken
+          - Tiszaszederkeny
         ascii_name: Tiszaujvaros
         geonamesid: 714697
         latitude: 47.93333
@@ -3388,12 +3432,14 @@ regions:
           - Karolyfalva
           - Károlyfalva
           - "Nove Mesto Pod Siatrom"
+          - "Nové Mesto Pod Šiatrom"
         ascii_name: Satoraljaujhely
         geonamesid: 715839
         latitude: 48.4
         longitude: 21.66667
         name: Sátoraljaújhely
-        names_en: ~
+        names_en: 
+          - Sátoraljaújhely
         names_es: ~
         population: 18052
         timezone: Europe/Budapest
@@ -3402,6 +3448,7 @@ regions:
           - Brodroghalasz
           - Brodroghalász
           - Sarospatak
+          - Sárospatak
         ascii_name: Sarospatak
         geonamesid: 715867
         latitude: 48.31667
@@ -3553,6 +3600,7 @@ regions:
           - Bolyok
           - Center
           - Hodoscsepany
+          - Hodoscsépány
         ascii_name: Ozd
         geonamesid: 716671
         latitude: 48.21667
@@ -3600,6 +3648,7 @@ regions:
           - Ladhaza
           - Ládháza
           - Malom
+          - Mezonyek
         ascii_name: Nyekladhaza
         geonamesid: 716968
         latitude: 47.98333
@@ -3638,13 +3687,16 @@ regions:
           - Bukkszentlaszlo
           - Bükkszentlászló
           - Mishkol'c
+          - Mishkolc
         ascii_name: Miskolc
         geonamesid: 717582
         latitude: 48.1
         longitude: 20.78333
         name: Miskolc
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Miskolc
+        names_es: 
+          - Miskolc
         population: 172637
         timezone: Europe/Budapest
       - 
@@ -3676,6 +3728,7 @@ regions:
           - Keresztespuspoki
           - Keresztespüspöki
           - Mezokeresztes
+          - Mezőkeresztes
         ascii_name: Mezokeresztes
         geonamesid: 717658
         latitude: 47.83333
@@ -3736,6 +3789,7 @@ regions:
           - Kazincbarcika
           - Sajokazinc
           - Sajókazinc
+          - Казинцбарцика
         ascii_name: Kazincbarcika
         geonamesid: 719311
         latitude: 48.25
@@ -3772,6 +3826,7 @@ regions:
           - Disznoshorvat
           - Disznóshorvát
           - Izsofalva
+          - Izsófalva
         ascii_name: Izsofalva
         geonamesid: 719710
         latitude: 48.3
@@ -3863,6 +3918,7 @@ regions:
           - "Farkaslyuk Banyatelep"
           - "Farkaslyuk Bányatelep"
           - "Farkaslyuki Banyatelep"
+          - "Farkaslyuki Bányatelep"
         ascii_name: Farkaslyuk
         geonamesid: 721022
         latitude: 48.18333
@@ -3877,6 +3933,7 @@ regions:
           - Abaujdevecser
           - Abaújdevecser
           - Encs
+          - Fugod
         ascii_name: Encs
         geonamesid: 721159
         latitude: 48.33333
@@ -3902,6 +3959,7 @@ regions:
           - Balajt
           - Edeleny
           - Edelény
+          - Ladbesenyo
         ascii_name: Edeleny
         geonamesid: 721246
         latitude: 48.3
@@ -4034,7 +4092,8 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 722064
     name: Borsod-Abaúj-Zemplén
-    names_en: ~
+    names_en: 
+      - Borsod-Abaúj-Zemplén
     names_es: ~
   - 
     ascii_name: "Bekes megye"
@@ -4070,6 +4129,7 @@ regions:
           - Kistanyadulo
           - Kistanyadůlő
           - Nagykopancs
+          - Nagykopáncs
         ascii_name: Totkomlos
         geonamesid: 714548
         latitude: 46.41667
@@ -4096,12 +4156,14 @@ regions:
           - Sarvas
           - Sarvash
           - Sarvaš
+          - Szarvas
         ascii_name: Szarvas
         geonamesid: 715466
         latitude: 46.86667
         longitude: 20.55
         name: Szarvas
-        names_en: ~
+        names_en: 
+          - Szarvas
         names_es: ~
         population: 18170
         timezone: Europe/Budapest
@@ -4110,6 +4172,7 @@ regions:
           - Okigyos
           - Szabadkigyos
           - Szabadkígyós
+          - Ókigyós
         ascii_name: Szabadkigyos
         geonamesid: 715614
         latitude: 46.61667
@@ -4148,6 +4211,7 @@ regions:
           - Oroshaza
           - Oroshazi
           - Oroshkhaza
+          - Orosháza
         ascii_name: Oroshaza
         geonamesid: 716736
         latitude: 46.56667
@@ -4188,6 +4252,7 @@ regions:
           - Mezokovacshaza
           - Mezőkovácsháza
           - Reformatuskovacshaza
+          - Reformatustovacshaza
         ascii_name: Mezokovacshaza
         geonamesid: 717656
         latitude: 46.4
@@ -4365,12 +4430,14 @@ regions:
           - D'jula
           - Giula
           - Gyula
+          - Gyulavari
         ascii_name: Gyula
         geonamesid: 720334
         latitude: 46.65
         longitude: 21.28333
         name: Gyula
-        names_en: ~
+        names_en: 
+          - Gyula
         names_es: ~
         population: 32269
         timezone: Europe/Budapest
@@ -4379,6 +4446,7 @@ regions:
           - Endrod
           - Endrőd
           - Gyoma
+          - Gyomaendrod
         ascii_name: Gyomaendrod
         geonamesid: 720364
         latitude: 46.93333
@@ -4504,6 +4572,7 @@ regions:
           - Bekesszentadras
           - Bekesszentandras
           - Békésszentadrás
+          - Békésszentandrás
         ascii_name: Bekesszentandras
         geonamesid: 722431
         latitude: 46.86667
@@ -4531,12 +4600,14 @@ regions:
           - Bekescsaba
           - Bekeshchaba
           - "Bekesska Caba"
+          - "Békešská Čaba"
         ascii_name: Bekescsaba
         geonamesid: 722437
         latitude: 46.68333
         longitude: 21.1
         name: Békéscsaba
-        names_en: ~
+        names_en: 
+          - Békéscsaba
         names_es: ~
         population: 65206
         timezone: Europe/Budapest
@@ -4545,12 +4616,14 @@ regions:
           - Bekes
           - "Bekes megye"
           - Bekesh
+          - Békés
         ascii_name: Bekes
         geonamesid: 722439
         latitude: 46.76667
         longitude: 21.13333
         name: Békés
-        names_en: ~
+        names_en: 
+          - Békés
         names_es: ~
         population: 21198
         timezone: Europe/Budapest
@@ -4578,6 +4651,7 @@ regions:
           - Csaford
           - Csáford
           - Tekenye
+          - Zalakoppany
         ascii_name: Zalaszentgrot
         geonamesid: 3042603
         latitude: 46.94474
@@ -4619,7 +4693,8 @@ regions:
         latitude: 46.84
         longitude: 16.84389
         name: Zalaegerszeg
-        names_en: ~
+        names_en: 
+          - Zalaegerszeg
         names_es: ~
         population: 61898
         timezone: Europe/Budapest
@@ -4650,6 +4725,7 @@ regions:
           - Egenfold
           - Sarmellek
           - Sármellék
+          - Égenföld
         ascii_name: Sarmellek
         geonamesid: 3045520
         latitude: 46.71667
@@ -4678,12 +4754,14 @@ regions:
           - Bagola
           - Bagolasanc
           - Bagolasánc
+          - Bajcsa
         ascii_name: Nagykanizsa
         geonamesid: 3047679
         latitude: 46.45347
         longitude: 16.99104
         name: Nagykanizsa
-        names_en: ~
+        names_en: 
+          - Nagykanizsa
         names_es: ~
         population: 50823
         timezone: Europe/Budapest
@@ -4714,6 +4792,7 @@ regions:
           - Barhely
           - Barszentmihalyfa
           - Bárhely
+          - Bárszentmihályfa
         ascii_name: Lenti
         geonamesid: 3048847
         latitude: 46.62403
@@ -4728,6 +4807,7 @@ regions:
           - Kestkhej
           - Keszthely
           - Keszthelyi
+          - Кестхей
         ascii_name: Keszthely
         geonamesid: 3050212
         latitude: 46.76667
@@ -4742,6 +4822,7 @@ regions:
           - "Heviz Szent Andras"
           - "Héviz Szent András"
           - Kheviz
+          - Хевиз
         ascii_name: Heviz
         geonamesid: 3051477
         latitude: 46.79031
@@ -4778,6 +4859,7 @@ regions:
           - Becsehely
           - Bekcsenypolya
           - Bekcsénypolya
+          - Pola
         ascii_name: Becsehely
         geonamesid: 3055255
         latitude: 46.44755
@@ -4789,8 +4871,10 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 3042613
     name: Zala
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Zala
+    names_es: 
+      - Zala
   - 
     ascii_name: "Veszprem megye"
     cities: 
@@ -4821,12 +4905,14 @@ regions:
           - "Comitatul Veszprem"
           - "Comitatul Veszprém"
           - Gyulafiratot
+          - Gyulafirátót
         ascii_name: Veszprem
         geonamesid: 3042929
         latitude: 47.09327
         longitude: 17.91149
         name: Veszprém
-        names_en: ~
+        names_en: 
+          - Veszprém
         names_es: ~
         population: 62023
         timezone: Europe/Budapest
@@ -4860,7 +4946,8 @@ regions:
         latitude: 46.91369
         longitude: 17.88918
         name: Tihany
-        names_en: ~
+        names_en: 
+          - Tihany
         names_es: ~
         population: 1438
         timezone: Europe/Budapest
@@ -4931,6 +5018,7 @@ regions:
           - Borsosgyor
           - Borsosgyőr
           - Kettornyulak
+          - Kéttornyúlak
         ascii_name: Papa
         geonamesid: 3046686
         latitude: 47.33333
@@ -5084,6 +5172,7 @@ regions:
           - Balatonalmadi
           - Balatonalmádi
           - Vorosbereny
+          - Vörösberény
         ascii_name: Balatonalmadi
         geonamesid: 3055590
         latitude: 47.03333
@@ -5110,12 +5199,14 @@ regions:
           - Ajka
           - Ajkarendek
           - Bakonygyepes
+          - Csekut
         ascii_name: Ajka
         geonamesid: 3056357
         latitude: 47.1
         longitude: 17.56667
         name: Ajka
-        names_en: ~
+        names_en: 
+          - Ajka
         names_es: ~
         population: 31407
         timezone: Europe/Budapest
@@ -5144,6 +5235,7 @@ regions:
           - Eisenburg
           - Kismakfa
           - Kismákfa
+          - Nagymakfa
         ascii_name: Vasvar
         geonamesid: 3043033
         latitude: 47.04928
@@ -5169,12 +5261,14 @@ regions:
           - Gyongyosherman
           - Gyöngyöshermán
           - Hereny
+          - Herény
         ascii_name: Szombathely
         geonamesid: 3044310
         latitude: 47.23088
         longitude: 16.62155
         name: Szombathely
-        names_en: ~
+        names_en: 
+          - Szombathely
         names_es: ~
         population: 79534
         timezone: Europe/Budapest
@@ -5183,6 +5277,7 @@ regions:
           - Farkasfa
           - Jakabhaza
           - Jakabháza
+          - Mariaujfalu
         ascii_name: Szentgotthard
         geonamesid: 3044669
         latitude: 46.95261
@@ -5220,6 +5315,7 @@ regions:
           - Guns
           - Güns
           - Koszeg
+          - Kőszeg
         ascii_name: Koszeg
         geonamesid: 3049366
         latitude: 47.38333
@@ -5292,6 +5388,7 @@ regions:
           - Celldoemoelk
           - Celldomolk
           - Celldömölk
+          - Czelldomolk
         ascii_name: Celldomolk
         geonamesid: 3054533
         latitude: 47.25
@@ -5314,7 +5411,8 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 3043047
     name: Vas
-    names_en: ~
+    names_en: 
+      - Vas
     names_es: ~
   - 
     ascii_name: "Tolna megye"
@@ -5359,6 +5457,7 @@ regions:
           - Pari
           - Pári
           - Tamasi
+          - Tamási
         ascii_name: Tamasi
         geonamesid: 3044171
         latitude: 46.63333
@@ -5373,12 +5472,14 @@ regions:
           - Seksar
           - Seksard
           - Szekszard
+          - Szekszárd
         ascii_name: Szekszard
         geonamesid: 3044760
         latitude: 46.35
         longitude: 18.71667
         name: Szekszárd
-        names_en: ~
+        names_en: 
+          - Szekszárd
         names_es: ~
         population: 34174
         timezone: Europe/Budapest
@@ -5667,6 +5768,7 @@ regions:
           - Balatonzamardi
           - Balatonzamárdi
           - Zamardi
+          - Zamárdi
         ascii_name: Zamardi
         geonamesid: 3042580
         latitude: 46.88333
@@ -5717,12 +5819,14 @@ regions:
           - Balatonkiliti
           - Balatonujhely
           - Balatonújhely
+          - Shiofok
         ascii_name: Siofok
         geonamesid: 3045332
         latitude: 46.9
         longitude: 18.05
         name: Siófok
-        names_en: ~
+        names_en: 
+          - Siófok
         names_es: ~
         population: 23028
         timezone: Europe/Budapest
@@ -5731,6 +5835,7 @@ regions:
           - Alsosegesd
           - Alsósegesd
           - Felsosegesd
+          - Felsősegesd
         ascii_name: Segesd
         geonamesid: 3045411
         latitude: 46.35
@@ -5756,6 +5861,7 @@ regions:
           - Bodvica
           - Henesz
           - Henész
+          - Kivadar
         ascii_name: Nagyatad
         geonamesid: 3047819
         latitude: 46.22961
@@ -5792,6 +5898,7 @@ regions:
           - Labod
           - Lábod
           - Rinyahosszufalu
+          - Rinyahosszúfalu
         ascii_name: Labod
         geonamesid: 3049033
         latitude: 46.2
@@ -5828,12 +5935,14 @@ regions:
           - Kaposfured
           - Kaposfüred
           - Kaposhvar
+          - Kaposszentjakab
         ascii_name: Kaposvar
         geonamesid: 3050616
         latitude: 46.36667
         longitude: 17.8
         name: Kaposvár
-        names_en: ~
+        names_en: 
+          - Kaposvár
         names_es: ~
         population: 67746
         timezone: Europe/Budapest
@@ -5912,6 +6021,7 @@ regions:
           - Barcs
           - Dravaszentes
           - Drávaszentes
+          - "Somogy Tarnocza"
         ascii_name: Barcs
         geonamesid: 3055368
         latitude: 45.96
@@ -5989,6 +6099,7 @@ regions:
           - Balatonboglar
           - Balatonboglár
           - Szolloskislak
+          - Szoloskislak
         ascii_name: Balatonboglar
         geonamesid: 3055584
         latitude: 46.76667
@@ -6003,6 +6114,7 @@ regions:
           - Balatonbereni
           - Balatonbereny
           - Balatonberény
+          - Балатонберени
         ascii_name: Balatonbereny
         geonamesid: 3055586
         latitude: 46.71667
@@ -6017,6 +6129,7 @@ regions:
           - Babocsa
           - Babócsa
           - bwbwfchh
+          - بوبوفچه
         ascii_name: Babocsa
         geonamesid: 3055776
         latitude: 46.04155
@@ -6098,7 +6211,8 @@ regions:
         latitude: 47.78333
         longitude: 18.98333
         name: Visegrád
-        names_en: ~
+        names_en: 
+          - Visegrád
         names_es: ~
         population: 1713
         timezone: Europe/Budapest
@@ -6166,13 +6280,16 @@ regions:
           - Vac
           - Vacz
           - Vác
+          - Vácz
         ascii_name: Vac
         geonamesid: 3043293
         latitude: 47.77591
         longitude: 19.13612
         name: Vác
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Vác
+        names_es: 
+          - Vac
         population: 35108
         timezone: Europe/Budapest
       - 
@@ -6213,6 +6330,7 @@ regions:
           - Uj-major
           - Ujszilvas
           - Új-major
+          - Újszilvás
         ascii_name: Ujszilvas
         geonamesid: 3043448
         latitude: 47.28333
@@ -6261,6 +6379,7 @@ regions:
           - Grossturwall
           - Großturwall
           - Toeroek-balint
+          - Török-bálint
         ascii_name: Toeroekbalint
         geonamesid: 3043778
         latitude: 47.42931
@@ -6320,6 +6439,7 @@ regions:
           - Halesz
           - Tapiohalesz
           - Tapioszollos
+          - Tapioszolos
         ascii_name: Tapioszolos
         geonamesid: 3044147
         latitude: 47.3
@@ -6367,6 +6487,7 @@ regions:
           - Tapiosap
           - Tapiosuely
           - Tápiósáp
+          - Tápiósüly
         ascii_name: Suelysap
         geonamesid: 3044154
         latitude: 47.45206
@@ -6437,6 +6558,7 @@ regions:
           - Lotertabor
           - Lőtértábor
           - Taborfalva
+          - Táborfalva
         ascii_name: Taborfalva
         geonamesid: 3044211
         latitude: 47.08333
@@ -6495,6 +6617,7 @@ regions:
           - Sigetsentmiklosh
           - Szigentmiklos
           - Szigetsentmiklos
+          - Szigetszentmiklos
         ascii_name: Szigetszentmiklos
         geonamesid: 3044475
         latitude: 47.35
@@ -6509,6 +6632,7 @@ regions:
           - Horthyliget
           - Szigethalom
           - Szilagyitelep
+          - Szilágyitelep
         ascii_name: Szigethalom
         geonamesid: 3044487
         latitude: 47.33333
@@ -6556,12 +6680,14 @@ regions:
           - "Sankt Andrae"
           - "Sankt Andrä"
           - Sentendre
+          - Szentendre
         ascii_name: Szentendre
         geonamesid: 3044681
         latitude: 47.66943
         longitude: 19.07561
         name: Szentendre
-        names_en: ~
+        names_en: 
+          - Szentendre
         names_es: ~
         population: 23606
         timezone: Europe/Budapest
@@ -6682,6 +6808,7 @@ regions:
           - Klotildliget
           - Klotildtelep
           - Piliscsaba
+          - Pilisliget
         ascii_name: Piliscsaba
         geonamesid: 3046353
         latitude: 47.61667
@@ -6784,6 +6911,7 @@ regions:
           - Orbottyan
           - Orszentmiklos
           - Vacbottyan
+          - Vácbottyán
         ascii_name: Orbottyan
         geonamesid: 3047127
         latitude: 47.68333
@@ -7048,6 +7176,7 @@ regions:
           - Alsohernad
           - Alsóhernád
           - Hernad
+          - Hernád
         ascii_name: Hernad
         geonamesid: 3051499
         latitude: 47.16667
@@ -7109,12 +7238,14 @@ regions:
           - Godollo
           - Godolo
           - Goedoello
+          - Gödöllő
         ascii_name: Godollo
         geonamesid: 3052236
         latitude: 47.6
         longitude: 19.36667
         name: Gödöllő
-        names_en: ~
+        names_en: 
+          - Gödöllő
         names_es: ~
         population: 32374
         timezone: Europe/Budapest
@@ -7123,6 +7254,7 @@ regions:
           - Alsogod
           - Alsógöd
           - Felsogod
+          - Felsőgöd
         ascii_name: God
         geonamesid: 3052241
         latitude: 47.7
@@ -7193,6 +7325,7 @@ regions:
           - Erdokertes
           - Erdovaros
           - Erdőkertes
+          - Erdőváros
         ascii_name: Erdokertes
         geonamesid: 3053253
         latitude: 47.66667
@@ -7207,12 +7340,14 @@ regions:
           - Ehrd
           - Erd
           - Hamzsabeg
+          - Hamzsabég
         ascii_name: Erd
         geonamesid: 3053281
         latitude: 47.36667
         longitude: 18.93333
         name: Érd
-        names_en: ~
+        names_en: 
+          - Érd
         names_es: ~
         population: 62408
         timezone: Europe/Budapest
@@ -7233,6 +7368,7 @@ regions:
           - Dunakisvarsany
           - Dunakisvarsány
           - Dunavarsany
+          - Dunavarsány
         ascii_name: Dunavarsany
         geonamesid: 3053434
         latitude: 47.28333
@@ -7350,6 +7486,7 @@ regions:
           - Dabas
           - Gyon
           - Gyón
+          - Sari
         ascii_name: Dabas
         geonamesid: 3053836
         latitude: 47.18333
@@ -7408,6 +7545,7 @@ regions:
           - Cegled
           - Cegléd
           - Czegled
+          - Цеглед
         ascii_name: Cegled
         geonamesid: 3054543
         latitude: 47.16667
@@ -7589,6 +7727,7 @@ regions:
           - Szecheny
           - Szecseny
           - Széchény
+          - Szécsény
         ascii_name: Szecseny
         geonamesid: 3044809
         latitude: 48.08333
@@ -7614,6 +7753,7 @@ regions:
           - Baglyasalja
           - Shal'gotar'jan
           - "Shalgo Tar'yan"
+          - Zagyvapalfalva
         ascii_name: Salgotarjan
         geonamesid: 3045643
         latitude: 48.09872
@@ -7708,6 +7848,7 @@ regions:
           - Homokterenye
           - Matraterenye
           - Mátraterenye
+          - Nadujfalu
         ascii_name: Matraterenye
         geonamesid: 3048282
         latitude: 48.03333
@@ -7722,6 +7863,7 @@ regions:
           - Matranovak
           - Matraterenye
           - Mátranovák
+          - Mátraterenye
         ascii_name: Matranovak
         geonamesid: 3048291
         latitude: 48.03333
@@ -7747,6 +7889,7 @@ regions:
           - Bocsarlapujto
           - Bocsárlapujtő
           - Karancslapujto
+          - Karancslapujtő
         ascii_name: Karancslapujto
         geonamesid: 3050572
         latitude: 48.15
@@ -7829,6 +7972,7 @@ regions:
           - Batonyterenye
           - Bátonyterenye
           - Kisterenye
+          - Nagybatony
         ascii_name: Batonyterenye
         geonamesid: 3055287
         latitude: 47.96667
@@ -7875,6 +8019,7 @@ regions:
           - Vertesszollos
           - Vertesszolos
           - Vértesszőllős
+          - Vértesszőlős
         ascii_name: Vertesszolos
         geonamesid: 3042941
         latitude: 47.61667
@@ -7900,13 +8045,16 @@ regions:
           - Tataban'ja
           - Tatabanya
           - Tatabánya
+          - Татабанья
         ascii_name: Tatabanya
         geonamesid: 3044082
         latitude: 47.56667
         longitude: 18.41667
         name: Tatabánya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tatabánya
+        names_es: 
+          - Tatabánya
         population: 70541
         timezone: Europe/Budapest
       - 
@@ -7914,12 +8062,14 @@ regions:
           - Agostyan
           - Tata
           - Tatatovaros
+          - Tatatóváros
         ascii_name: Tata
         geonamesid: 3044083
         latitude: 47.65
         longitude: 18.31667
         name: Tata
-        names_en: ~
+        names_en: 
+          - Tata
         names_es: ~
         population: 23868
         timezone: Europe/Budapest
@@ -8007,6 +8157,7 @@ regions:
           - Csev
           - Csév
           - Piliscsev
+          - Piliscsév
         ascii_name: Piliscsev
         geonamesid: 3046349
         latitude: 47.68333
@@ -8021,6 +8172,7 @@ regions:
           - Oroslane
           - Oroszlany
           - Oroszlány
+          - Орослане
         ascii_name: Oroszlany
         geonamesid: 3046888
         latitude: 47.48333
@@ -8047,6 +8199,7 @@ regions:
           - Almasneszmely
           - Almásneszmély
           - Neszmely
+          - Neszmély
         ascii_name: Neszmely
         geonamesid: 3047364
         latitude: 47.73417
@@ -8120,12 +8273,14 @@ regions:
           - Komarom
           - Komaromujvaros
           - Komorn
+          - Komárom
         ascii_name: Komarom
         geonamesid: 3049519
         latitude: 47.73333
         longitude: 18.11667
         name: Komárom
-        names_en: ~
+        names_en: 
+          - Komárom
         names_es: ~
         population: 19646
         timezone: Europe/Budapest
@@ -8146,6 +8301,7 @@ regions:
           - Aszar
           - Ete
           - Hanta
+          - Hánta
         ascii_name: Kisber
         geonamesid: 3050088
         latitude: 47.5
@@ -8182,13 +8338,16 @@ regions:
           - Ehstergom
           - Esztergom
           - Gran
+          - Ostrihom
         ascii_name: Esztergom
         geonamesid: 3053163
         latitude: 47.8
         longitude: 18.75
         name: Esztergom
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Esztergom
+        names_es: 
+          - Esztergom
         population: 28785
         timezone: Europe/Budapest
       - 
@@ -8311,7 +8470,8 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 3049518
     name: Komárom-Esztergom
-    names_en: ~
+    names_en: 
+      - Komárom-Esztergom
     names_es: ~
   - 
     ascii_name: Gyor-Moson-Sopron
@@ -8354,12 +8514,14 @@ regions:
           - OEdenburg
           - Scarabantia
           - Scarbantia
+          - Shopron
         ascii_name: Sopron
         geonamesid: 3045190
         latitude: 47.68333
         longitude: 16.6
         name: Sopron
-        names_en: ~
+        names_en: 
+          - Sopron
         names_es: ~
         population: 57210
         timezone: Europe/Budapest
@@ -8401,12 +8563,14 @@ regions:
           - Gyorszentmarton
           - Győrszentmárton
           - Martinsberg
+          - Pannonhalma
         ascii_name: Pannonhalma
         geonamesid: 3046693
         latitude: 47.55
         longitude: 17.75
         name: Pannonhalma
-        names_en: ~
+        names_en: 
+          - Pannonhalma
         names_es: ~
         population: 4089
         timezone: Europe/Budapest
@@ -8437,6 +8601,7 @@ regions:
           - Gross-Zinkendorf
           - Groß-Zinkendorf
           - Nad'cenk
+          - Nagycenk
         ascii_name: Nagycenk
         geonamesid: 3047781
         latitude: 47.6
@@ -8451,12 +8616,14 @@ regions:
           - Altenburg
           - Magyarovar
           - Magyaróvár
+          - Moshonmad'jarovar
         ascii_name: Mosonmagyarovar
         geonamesid: 3047896
         latitude: 47.86667
         longitude: 17.28333
         name: Mosonmagyaróvár
-        names_en: ~
+        names_en: 
+          - Mosonmagyaróvár
         names_es: ~
         population: 30359
         timezone: Europe/Budapest
@@ -8501,6 +8668,7 @@ regions:
           - Horvatkimle
           - Horvátkimle
           - "Hrvatska Kemlja"
+          - Kimle
         ascii_name: Kimle
         geonamesid: 3050165
         latitude: 47.83333
@@ -8529,6 +8697,7 @@ regions:
           - Janossomorja
           - Jánossomorja
           - Mosonszentjanos
+          - Mosonszentjános
         ascii_name: Janossomorja
         geonamesid: 3050927
         latitude: 47.8
@@ -8554,6 +8723,7 @@ regions:
           - Gyorujbarat
           - Győrújbarát
           - Kisbarat
+          - Kisbarát
         ascii_name: Gyorujbarat
         geonamesid: 3051965
         latitude: 47.6
@@ -8579,12 +8749,14 @@ regions:
           - D'or
           - Gyirmot
           - Gyirmót
+          - Gyor
         ascii_name: Gyor
         geonamesid: 3052009
         latitude: 47.68333
         longitude: 17.63512
         name: Győr
-        names_en: ~
+        names_en: 
+          - Győr
         names_es: ~
         population: 128265
         timezone: Europe/Budapest
@@ -8618,6 +8790,7 @@ regions:
           - Eszterhaza
           - Eszterháza
           - Fertod
+          - Fertőd
         ascii_name: Fertod
         geonamesid: 3052645
         latitude: 47.61667
@@ -8665,6 +8838,7 @@ regions:
           - Bony
           - Bonyretalap
           - Bőny
+          - Bőnyrétalap
         ascii_name: Bony
         geonamesid: 3054811
         latitude: 47.65
@@ -8744,7 +8918,8 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 3051977
     name: Győr-Moson-Sopron
-    names_en: ~
+    names_en: 
+      - Győr-Moson-Sopron
     names_es: ~
   - 
     ascii_name: Fejer
@@ -8787,12 +8962,14 @@ regions:
           - "Alba Regia"
           - Albareale
           - Sekeshfekhervar
+          - Stuhlweissenburg
         ascii_name: Szekesfehervar
         geonamesid: 3044774
         latitude: 47.18995
         longitude: 18.41034
         name: Székesfehérvár
-        names_en: ~
+        names_en: 
+          - Székesfehérvár
         names_es: ~
         population: 101600
         timezone: Europe/Budapest
@@ -8908,6 +9085,7 @@ regions:
           - Racalmas
           - Raczalmas
           - Rácalmás
+          - Ráczalmas
         ascii_name: Racalmas
         geonamesid: 3046036
         latitude: 47.01667
@@ -8955,6 +9133,7 @@ regions:
           - Nagy-Perkata
           - Nagy-Perkáta
           - Perkata
+          - Perkáta
         ascii_name: Perkata
         geonamesid: 3046456
         latitude: 47.05
@@ -9004,6 +9183,7 @@ regions:
           - Mezoszilas
           - Mezőszilas
           - Szilas-Balhas
+          - Szilas-Balhás
         ascii_name: Mezoszilas
         geonamesid: 3048094
         latitude: 46.81667
@@ -9159,6 +9339,7 @@ regions:
           - Fehervarcscurgo
           - Fehervarscsurgo
           - Fehérvárcscurgó
+          - Fehérvárscsurgó
         ascii_name: Fehervarcsurgo
         geonamesid: 3053033
         latitude: 47.29349
@@ -9219,12 +9400,14 @@ regions:
           - Dunapentele
           - Dunaujvaros
           - Dunaujvarosh
+          - Dunaújváros
         ascii_name: Dunaujvaros
         geonamesid: 3053438
         latitude: 46.98333
         longitude: 18.93333
         name: Dunaújváros
-        names_en: ~
+        names_en: 
+          - Dunaújváros
         names_es: ~
         population: 50084
         timezone: Europe/Budapest
@@ -9354,7 +9537,8 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 3053028
     name: Fejér
-    names_en: ~
+    names_en: 
+      - Fejér
     names_es: ~
   - 
     ascii_name: "Budapest fovaros"
@@ -9364,13 +9548,16 @@ regions:
           - Aquincum
           - Boedapes
           - Boedapest
+          - Boudapes
         ascii_name: Budapest
         geonamesid: 3054643
         latitude: 47.49801
         longitude: 19.03991
         name: Budapest
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Budapest
+        names_es: 
+          - Budapest
         population: 1696128
         timezone: Europe/Budapest
     geonamesid: 3054638
@@ -9431,6 +9618,7 @@ regions:
           - Mazaszaszvar
           - Mázaszászvár
           - Szaszvar
+          - Szászvár
         ascii_name: Szaszvar
         geonamesid: 3044835
         latitude: 46.27673
@@ -9445,6 +9633,7 @@ regions:
           - Mariagyud
           - Máriagyůd
           - Shiklosh
+          - Siklos
         ascii_name: Siklos
         geonamesid: 3045364
         latitude: 45.85528
@@ -9503,13 +9692,16 @@ regions:
           - Cinquechiese
           - Fuenfkirchen
           - Funfkirchen
+          - Fünfkirchen
         ascii_name: Pecs
         geonamesid: 3046526
         latitude: 46.08333
         longitude: 18.23333
         name: Pécs
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pécs
+        names_es: 
+          - Pécs
         population: 156649
         timezone: Europe/Budapest
       - 
@@ -9517,12 +9709,14 @@ regions:
           - Mohac
           - Mohacs
           - Mohacz
+          - Mohač
         ascii_name: Mohacs
         geonamesid: 3047967
         latitude: 45.99306
         longitude: 18.68306
         name: Mohács
-        names_en: ~
+        names_en: 
+          - Mohács
         names_es: ~
         population: 18711
         timezone: Europe/Budapest
@@ -9588,6 +9782,7 @@ regions:
           - Hosszuheteny
           - Hosszúhetény
           - Kisujbanya
+          - Kisújbánya
         ascii_name: Hosszuheteny
         geonamesid: 3051280
         latitude: 46.16414
@@ -9624,6 +9819,7 @@ regions:
           - Dunaszekcso
           - Dunaszekcső
           - Dunaszeksco
+          - Dunaszekscö
         ascii_name: Dunaszekcso
         geonamesid: 3053454
         latitude: 46.08333
@@ -9638,6 +9834,7 @@ regions:
           - Boly
           - Bóly
           - Nemetboly
+          - Németbóly
         ascii_name: Boly
         geonamesid: 3054828
         latitude: 45.96722
@@ -9670,6 +9867,7 @@ regions:
           - O-hecske
           - Okecie
           - Okecske
+          - Okeske
         ascii_name: Tiszakecske
         geonamesid: 714754
         latitude: 46.93333
@@ -9720,6 +9918,7 @@ regions:
           - Pronayfalva
           - Prónayfalva
           - Tazlar
+          - Tázlár
         ascii_name: Tazlar
         geonamesid: 3044062
         latitude: 46.54861
@@ -9745,6 +9944,7 @@ regions:
           - Laszlofalva
           - Lászlófalva
           - "Nep Iskola"
+          - "Nép Iskola"
         ascii_name: Szentkiraly
         geonamesid: 3044607
         latitude: 46.91667
@@ -9964,6 +10164,7 @@ regions:
           - Kisszalla
           - Kisszallas
           - Kisszállá
+          - Kisszállás
         ascii_name: Kisszallas
         geonamesid: 3049751
         latitude: 46.27833
@@ -9989,6 +10190,7 @@ regions:
           - Kishkunkhalash
           - Kiskunhalas
           - Kiskunhalos
+          - Кишкунхалаш
         ascii_name: Kiskunhalas
         geonamesid: 3049880
         latitude: 46.43139
@@ -10052,12 +10254,14 @@ regions:
           - Heteny
           - Hetenyegyhaza
           - Hetény
+          - Hetényegyháza
         ascii_name: Kecskemet
         geonamesid: 3050434
         latitude: 46.90618
         longitude: 19.69128
         name: Kecskemét
-        names_en: ~
+        names_en: 
+          - Kecskemét
         names_es: ~
         population: 109847
         timezone: Europe/Budapest
@@ -10101,6 +10305,7 @@ regions:
           - Jaszszentlaszlo
           - Jaszszentlazlo
           - Jászszentlászló
+          - Jászszentlázló
         ascii_name: Jaszszentlaszlo
         geonamesid: 3050901
         latitude: 46.56806
@@ -10375,12 +10580,14 @@ regions:
           - Baja
           - Bajja
           - Baya
+          - bayh
         ascii_name: Baja
         geonamesid: 3055685
         latitude: 46.18333
         longitude: 18.96667
         name: Baja
-        names_en: ~
+        names_en: 
+          - Baja
         names_es: ~
         population: 37714
         timezone: Europe/Budapest
@@ -10402,6 +10609,7 @@ regions:
           - Bacsahna
           - Bacsalmas
           - Bácsahná
+          - Bácsalmás
         ascii_name: Bacsalmas
         geonamesid: 3055760
         latitude: 46.12528
@@ -10461,8 +10669,10 @@ regions:
         timezone: Europe/Budapest
     geonamesid: 3055744
     name: Bács-Kiskun
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Bács-Kiskun
+    names_es: 
+      - Bács-Kiskun
   - 
     ascii_name: "Erd Megyei Varos"
     cities: []

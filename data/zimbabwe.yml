@@ -2,8 +2,12 @@
 geonamesid: 878675
 iso: ZW
 name: Zimbabwe
-names_en: ~
-names_es: ~
+names_en: 
+  - Zimbabwe
+  - "Southern Rhodesia"
+names_es: 
+  - Zimbawe
+  - Zimbabue
 regions: 
   - 
     ascii_name: "Midlands Province"
@@ -13,6 +17,7 @@ regions:
           - Churugwi
           - Salukwe
           - Selukwe
+          - Shurugwi
         ascii_name: Shurugwi
         geonamesid: 881164
         latitude: -19.67016
@@ -68,12 +73,14 @@ regions:
           - Gveru
           - Gwelo
           - Gweru
+          - Гверу
         ascii_name: Gweru
         geonamesid: 890422
         latitude: -19.45
         longitude: 29.81667
         name: Gweru
-        names_en: ~
+        names_en: 
+          - Gweru
         names_es: ~
         population: 146073
         timezone: Africa/Harare
@@ -116,7 +123,8 @@ regions:
         latitude: -20.53333
         longitude: 29.28502
         name: Filabusi
-        names_en: ~
+        names_en: 
+          - Filabusi
         names_es: ~
         population: 1756
         timezone: Africa/Harare
@@ -161,7 +169,8 @@ regions:
         latitude: -18.93149
         longitude: 27.80696
         name: Lupane
-        names_en: ~
+        names_en: 
+          - Lupane
         names_es: ~
         population: 1200
         timezone: Africa/Harare
@@ -175,7 +184,9 @@ regions:
         latitude: -18.31563
         longitude: 27.05728
         name: "Kamativi Mine"
-        names_en: ~
+        names_en: 
+          - "Kamativi Mine"
+          - Kamativi
         names_es: ~
         population: 1575
         timezone: Africa/Harare
@@ -188,7 +199,9 @@ regions:
         latitude: -19.67563
         longitude: 28.84687
         name: Inyathi
-        names_en: ~
+        names_en: 
+          - Inyathi
+          - Inyati
         names_es: ~
         population: 8402
         timezone: Africa/Harare
@@ -200,7 +213,8 @@ regions:
         latitude: -17.62028
         longitude: 27.34139
         name: Binga
-        names_en: ~
+        names_en: 
+          - Binga
         names_es: ~
         population: 4327
         timezone: Africa/Harare
@@ -221,7 +235,8 @@ regions:
         latitude: -20.32674
         longitude: 30.06648
         name: Zvishavane
-        names_en: ~
+        names_en: 
+          - Zvishavane
         names_es: ~
         population: 35896
         timezone: Africa/Harare
@@ -230,12 +245,14 @@ regions:
           - "Fort Victoria"
           - Mashvingo
           - Masvingo
+          - Nyanda
         ascii_name: Masvingo
         geonamesid: 886763
         latitude: -20.06373
         longitude: 30.82766
         name: Masvingo
-        names_en: ~
+        names_en: 
+          - Masvingo
         names_es: ~
         population: 76290
         timezone: Africa/Harare
@@ -268,7 +285,8 @@ regions:
         latitude: -16.89386
         longitude: 30.16828
         name: Mhangura
-        names_en: ~
+        names_en: 
+          - Mhangura
         names_es: ~
         population: 6503
         timezone: Africa/Harare
@@ -281,7 +299,8 @@ regions:
         latitude: -16.80993
         longitude: 29.69247
         name: Karoi
-        names_en: ~
+        names_en: 
+          - Karoi
         names_es: ~
         population: 25030
         timezone: Africa/Harare
@@ -303,6 +322,7 @@ regions:
           - Gatooma
           - Kadoma
           - Kadome
+          - Katoma
         ascii_name: Kadoma
         geonamesid: 889453
         latitude: -18.33328
@@ -331,6 +351,7 @@ regions:
           - Cheguto
           - Chegutu
           - Hartley
+          - "New Hartley"
         ascii_name: Chegutu
         geonamesid: 894239
         latitude: -18.13021
@@ -355,7 +376,8 @@ regions:
         timezone: Africa/Harare
     geonamesid: 886841
     name: "Mashonaland West Province"
-    names_en: ~
+    names_en: 
+      - "Mashonaland West Province"
     names_es: ~
   - 
     ascii_name: "Mashonaland East Province"
@@ -383,7 +405,8 @@ regions:
         latitude: -17.64322
         longitude: 31.784
         name: Murehwa
-        names_en: ~
+        names_en: 
+          - Murewa
         names_es: ~
         population: 8559
         timezone: Africa/Harare
@@ -454,7 +477,8 @@ regions:
         latitude: -17.31159
         longitude: 31.57561
         name: Shamva
-        names_en: ~
+        names_en: 
+          - Shamva
         names_es: ~
         population: 10317
         timezone: Africa/Harare
@@ -463,12 +487,14 @@ regions:
           - Darwin
           - Fura
           - "Mount Darwin"
+          - "Mount Fura"
         ascii_name: "Mount Darwin"
         geonamesid: 885800
         latitude: -16.77251
         longitude: 31.58381
         name: "Mount Darwin"
-        names_en: ~
+        names_en: 
+          - "Mount Darwin"
         names_es: ~
         population: 6349
         timezone: Africa/Harare
@@ -481,7 +507,8 @@ regions:
         latitude: -17.50404
         longitude: 30.97388
         name: Mazoe
-        names_en: ~
+        names_en: 
+          - Mazowe
         names_es: ~
         population: 9966
         timezone: Africa/Harare
@@ -493,7 +520,8 @@ regions:
         latitude: -17.35514
         longitude: 31.06718
         name: Glendale
-        names_en: ~
+        names_en: 
+          - Glendale
         names_es: ~
         population: 9768
         timezone: Africa/Harare
@@ -505,7 +533,8 @@ regions:
         latitude: -16.72289
         longitude: 31.11462
         name: Centenary
-        names_en: ~
+        names_en: 
+          - Centenary
         names_es: ~
         population: 3388
         timezone: Africa/Harare
@@ -514,18 +543,21 @@ regions:
           - Bindura
           - "Bindura Town"
           - "Kimberley Reefs"
+          - Биндура
         ascii_name: Bindura
         geonamesid: 895061
         latitude: -17.30192
         longitude: 31.33056
         name: Bindura
-        names_en: ~
+        names_en: 
+          - Bindura
         names_es: ~
         population: 37423
         timezone: Africa/Harare
     geonamesid: 886843
     name: "Mashonaland Central Province"
-    names_en: ~
+    names_en: 
+      - "Mashonaland Central Province"
     names_es: ~
   - 
     ascii_name: "Manicaland Province"
@@ -586,12 +618,14 @@ regions:
           - Mutare
           - Nyautare
           - Umtali
+          - Мутаре
         ascii_name: Mutare
         geonamesid: 884979
         latitude: -18.9707
         longitude: 32.67086
         name: Mutare
-        names_en: ~
+        names_en: 
+          - Mutare
         names_es: ~
         population: 184205
         timezone: Africa/Harare
@@ -616,7 +650,8 @@ regions:
         latitude: -20.18833
         longitude: 32.62364
         name: Chipinge
-        names_en: ~
+        names_en: 
+          - Chipinge
         names_es: ~
         population: 18860
         timezone: Africa/Harare
@@ -632,13 +667,16 @@ regions:
           - Bulavajo
           - Bulawayo
           - Булавайо
+          - Булавајо
         ascii_name: Bulawayo
         geonamesid: 894701
         latitude: -20.15
         longitude: 28.58333
         name: Bulawayo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bulawayo
+        names_es: 
+          - Bulawayo
         population: 699385
         timezone: Africa/Harare
     geonamesid: 1105843
@@ -653,13 +691,16 @@ regions:
           - Charare
           - Harare
           - Kharare
+          - Salisbury
         ascii_name: Harare
         geonamesid: 890299
         latitude: -17.82935
         longitude: 31.05389
         name: Harare
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Harare
+        names_es: 
+          - Harare
         population: 1542813
         timezone: Africa/Harare
       - 
@@ -670,11 +711,14 @@ regions:
         latitude: -18.01274
         longitude: 31.07555
         name: Chitungwiza
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chitungwiza
+        names_es: 
+          - Chitungwiza
         population: 340360
         timezone: Africa/Harare
     geonamesid: 1105844
     name: "Harare Province"
-    names_en: ~
+    names_en: 
+      - "Harare Province"
     names_es: ~

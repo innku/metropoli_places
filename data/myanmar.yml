@@ -2,8 +2,12 @@
 geonamesid: 1327865
 iso: MM
 name: Myanmar
-names_en: ~
-names_es: ~
+names_en: 
+  - Myanmar
+  - "Union of Burma"
+names_es: 
+  - Myanmar
+  - "Birmania (Myanmar)"
 regions: 
   - 
     ascii_name: "Tanintharyi Division"
@@ -13,12 +17,14 @@ regions:
           - Dawei
           - Tavoy
           - Tawe
+          - Tawè
         ascii_name: Dawei
         geonamesid: 1293625
         latitude: 14.08333
         longitude: 98.2
         name: Dawei
-        names_en: ~
+        names_en: 
+          - Dawei
         names_es: ~
         population: 136783
         timezone: Asia/Rangoon
@@ -60,6 +66,7 @@ regions:
           - Lasha
           - Lashio
           - Lasho
+          - Лаша
         ascii_name: Lashio
         geonamesid: 1314759
         latitude: 22.93333
@@ -92,6 +99,7 @@ regions:
           - Sagajn
           - Sagang
           - Sitkaing
+          - Сагайн
         ascii_name: Sagaing
         geonamesid: 1298482
         latitude: 21.8787
@@ -198,13 +206,16 @@ regions:
           - Dagon
           - Gian'nkon
           - Jangon
+          - Jangona
         ascii_name: Rangoon
         geonamesid: 1298824
         latitude: 16.80528
         longitude: 96.15611
         name: Rangoon
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Yangon
+        names_es: 
+          - Yangon
         population: 4477638
         timezone: Asia/Rangoon
       - 
@@ -230,12 +241,14 @@ regions:
           - Ak'jab
           - Akyab
           - Sittwe
+          - Акьяб
         ascii_name: Akyab
         geonamesid: 1295765
         latitude: 20.15
         longitude: 92.9
         name: Akyab
-        names_en: ~
+        names_en: 
+          - Akyab
         names_es: ~
         population: 177743
         timezone: Asia/Rangoon
@@ -251,6 +264,7 @@ regions:
           - Taung-ngu
           - Taungoo
           - Taungu
+          - Toungoo
         ascii_name: Taungoo
         geonamesid: 1290596
         latitude: 18.93333
@@ -301,12 +315,14 @@ regions:
           - Prome
           - Pyay
           - Pye
+          - Pyei
         ascii_name: Prome
         geonamesid: 1299154
         latitude: 18.81667
         longitude: 95.21667
         name: Prome
-        names_en: ~
+        names_en: 
+          - Prome
         names_es: ~
         population: 135308
         timezone: Asia/Rangoon
@@ -320,7 +336,8 @@ regions:
         latitude: 17.33667
         longitude: 96.47972
         name: Bago
-        names_en: ~
+        names_en: 
+          - Bago
         names_es: ~
         population: 244376
         timezone: Asia/Rangoon
@@ -374,6 +391,7 @@ regions:
           - Tha-tun
           - Thadon
           - Thadôn
+          - Thaton
         ascii_name: Thaton
         geonamesid: 1292288
         latitude: 16.92056
@@ -399,6 +417,7 @@ regions:
           - Mawlamyaing
           - Mawlamyine
           - Molamyaing
+          - Moulmein
         ascii_name: Mawlamyine
         geonamesid: 1308465
         latitude: 16.49139
@@ -413,6 +432,7 @@ regions:
           - Martaban
           - Marteban
           - Moktama
+          - Мартабан
         ascii_name: Martaban
         geonamesid: 1310460
         latitude: 16.53139
@@ -460,13 +480,16 @@ regions:
           - P'inmana
           - Pjinmana
           - Pyinmana
+          - Pyinmank
         ascii_name: Pyinmana
         geonamesid: 1298987
         latitude: 19.73333
         longitude: 96.21667
         name: Pyinmana
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pyinmana
+        names_es: 
+          - Pyinmana
         population: 97409
         timezone: Asia/Rangoon
       - 
@@ -499,6 +522,7 @@ regions:
           - Maymo
           - Maymyo
           - Meimyu
+          - Memyo
         ascii_name: Maymyo
         geonamesid: 1309937
         latitude: 22.03333
@@ -513,13 +537,16 @@ regions:
           - Mandalaj
           - Mandalay
           - "Mandalay piirkond"
+          - Mandale
         ascii_name: Mandalay
         geonamesid: 1311874
         latitude: 21.97473
         longitude: 96.08359
         name: Mandalay
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mandalay
+        names_es: 
+          - Mandalay
         population: 1208099
         timezone: Asia/Rangoon
       - 
@@ -599,12 +626,14 @@ regions:
           - Pagukku
           - Pakkoku
           - Pakokku
+          - Пакокку
         ascii_name: Pakokku
         geonamesid: 1302439
         latitude: 21.33333
         longitude: 95.1
         name: Pakokku
-        names_en: ~
+        names_en: 
+          - Pakokku
         names_es: ~
         population: 126938
         timezone: Asia/Rangoon
@@ -624,6 +653,7 @@ regions:
           - Magueh
           - Magway
           - Magwe
+          - Магуэ
         ascii_name: Magway
         geonamesid: 1312609
         latitude: 20.15
@@ -652,6 +682,7 @@ regions:
           - Allanmyo
           - Aunglan
           - Aunglanmyo
+          - Myaydo
         ascii_name: Myaydo
         geonamesid: 1329239
         latitude: 19.36667
@@ -714,6 +745,7 @@ regions:
           - M'ichina
           - Myitkyin
           - Myitkyina
+          - Myitkyinā
         ascii_name: Myitkyina
         geonamesid: 1307741
         latitude: 25.38333
@@ -728,6 +760,7 @@ regions:
           - Bamo
           - Banmaw
           - Banmo
+          - Bhamo
         ascii_name: Bhamo
         geonamesid: 1328218
         latitude: 24.26667
@@ -749,6 +782,7 @@ regions:
           - Nyanngdon
           - Nyaung-dun
           - Nyaungdon
+          - Yandoon
         ascii_name: Nyaungdon
         geonamesid: 1285871
         latitude: 17.03333
@@ -763,6 +797,7 @@ regions:
           - Wagay-ma
           - Wagema
           - Wagèma
+          - Wakema
         ascii_name: Wakema
         geonamesid: 1289828
         latitude: 16.6
@@ -777,6 +812,7 @@ regions:
           - P'japon
           - Pyabon
           - Pyabôn
+          - Pyapon
         ascii_name: Pyapon
         geonamesid: 1299237
         latitude: 16.28333
@@ -802,6 +838,7 @@ regions:
           - Mawlamyainggyun
           - Mawlamyinegyunn
           - Moulmeingyu
+          - Moulmeingyun
         ascii_name: Mawlamyinegyunn
         geonamesid: 1308464
         latitude: 16.38333
@@ -868,6 +905,7 @@ regions:
           - Bassein
           - Patejn
           - Pathein
+          - Puthein
         ascii_name: Pathein
         geonamesid: 1328421
         latitude: 16.78333

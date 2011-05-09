@@ -2,8 +2,12 @@
 geonamesid: 1835841
 iso: KR
 name: "South Korea"
-names_en: ~
-names_es: ~
+names_en: 
+  - "South Korea"
+  - "Republic of Korea"
+names_es: 
+  - "Corea del Sur"
+  - "Corea, República de"
 regions: 
   - 
     ascii_name: Ulsan
@@ -13,18 +17,21 @@ regions:
           - Ul'san
           - Ulsan
           - Urusan
+          - ulsangwang-yeogsi
         ascii_name: Ulsan
         geonamesid: 1833747
         latitude: 35.53722
         longitude: 129.31667
         name: Ulsan
-        names_en: ~
+        names_en: 
+          - Ulsan
         names_es: ~
         population: 962865
         timezone: Asia/Seoul
     geonamesid: 1833742
     name: Ulsan
-    names_en: ~
+    names_en: 
+      - Ulsan
     names_es: ~
   - 
     ascii_name: Daejeon
@@ -34,18 +41,22 @@ regions:
           - Daejeon
           - Daejon
           - Daiden
+          - Taejon
         ascii_name: Taejon
         geonamesid: 1835235
         latitude: 36.32139
         longitude: 127.41972
         name: Taejŏn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Daejeon
+        names_es: 
+          - Daejeon
         population: 1475221
         timezone: Asia/Seoul
     geonamesid: 1835224
     name: Daejeon
-    names_en: ~
+    names_en: 
+      - Daejeon
     names_es: ~
   - 
     ascii_name: Daegu
@@ -55,13 +66,16 @@ regions:
           - Daegu
           - Daikyu
           - Daikyū
+          - Taegu
         ascii_name: Taegu
         geonamesid: 1835329
         latitude: 35.87028
         longitude: 128.59111
         name: Taegu
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Daegu
+        names_es: 
+          - Daegu
         population: 2566540
         timezone: Asia/Seoul
       - 
@@ -77,7 +91,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1835327
     name: Daegu
-    names_en: ~
+    names_en: 
+      - Daegu
     names_es: ~
   - 
     ascii_name: Seoul
@@ -87,18 +102,22 @@ regions:
           - Choei-yuen
           - Ha-seng
           - Han-yang
+          - Hang-yang-tcheng
         ascii_name: Seoul
         geonamesid: 1835848
         latitude: 37.56826
         longitude: 126.97783
         name: Seoul
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Seoul
+        names_es: 
+          - Seúl
         population: 10349312
         timezone: Asia/Seoul
     geonamesid: 1835847
     name: Seoul
-    names_en: ~
+    names_en: 
+      - Seoul
     names_es: ~
   - 
     ascii_name: Busan
@@ -108,13 +127,16 @@ regions:
           - Busan
           - Busán
           - Fousan
+          - Fusan
         ascii_name: Pusan
         geonamesid: 1838524
         latitude: 35.10278
         longitude: 129.04028
         name: Pusan
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Busan
+        names_es: 
+          - Busán
         population: 3678555
         timezone: Asia/Seoul
       - 
@@ -122,6 +144,7 @@ regions:
           - Kichang
           - Kicho
           - Kichō
+          - Kijang
         ascii_name: Kijang
         geonamesid: 1842966
         latitude: 35.24417
@@ -133,7 +156,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1838519
     name: Busan
-    names_en: ~
+    names_en: 
+      - Busan
     names_es: ~
   - 
     ascii_name: "North Gyeongsang"
@@ -143,6 +167,7 @@ regions:
           - Funhai
           - Heung-hai
           - Heunghae
+          - Kokai
         ascii_name: Hunghae
         geonamesid: 1832015
         latitude: 36.1125
@@ -157,6 +182,7 @@ regions:
           - Eijitsu
           - Enjitsu
           - Yeonil
+          - Yonil
         ascii_name: Yonil
         geonamesid: 1832215
         latitude: 35.99417
@@ -171,6 +197,7 @@ regions:
           - Eisen
           - Eishu
           - Eishū
+          - Yongju
         ascii_name: Yongju
         geonamesid: 1832384
         latitude: 36.82167
@@ -199,6 +226,7 @@ regions:
           - Oegwan
           - Waegwan
           - Waegwan-dong
+          - Waegwan-ni
         ascii_name: Waegwan
         geonamesid: 1833514
         latitude: 35.99175
@@ -213,6 +241,7 @@ regions:
           - Jenzan
           - Sonsan
           - Sŏnsan
+          - 선산
         ascii_name: Sonsan
         geonamesid: 1835967
         latitude: 36.24083
@@ -227,6 +256,7 @@ regions:
           - Ch'angju
           - Ch’angju
           - Sandzhu
+          - Sang-dschu
         ascii_name: Sangju
         geonamesid: 1837706
         latitude: 36.41528
@@ -241,6 +271,7 @@ regions:
           - Geijitsu
           - Hoko
           - Hoko-do
+          - Hokō-dō
         ascii_name: P'ohang
         geonamesid: 1839071
         latitude: 36.03222
@@ -255,6 +286,7 @@ regions:
           - Bunke-gun
           - Bunkei-gun
           - Bunkē-gun
+          - Mun'gyong-gun
         ascii_name: Mungyeong
         geonamesid: 1840886
         latitude: 36.59458
@@ -269,12 +301,14 @@ regions:
           - Gyeongsan
           - Keigan
           - Keisan
+          - Keizan
         ascii_name: Kyongsan
         geonamesid: 1841598
         latitude: 35.82333
         longitude: 128.73778
         name: Kyŏngsan
-        names_en: ~
+        names_en: 
+          - Gyeongsan
         names_es: ~
         population: 129903
         timezone: Asia/Seoul
@@ -283,12 +317,14 @@ regions:
           - Gyeongju
           - Keishu
           - Keishū
+          - Keisyu
         ascii_name: Kyongju
         geonamesid: 1841603
         latitude: 35.84278
         longitude: 129.21167
         name: Kyŏngju
-        names_en: ~
+        names_en: 
+          - Gyeongju
         names_es: ~
         population: 155237
         timezone: Asia/Seoul
@@ -297,6 +333,7 @@ regions:
           - Guni
           - Kunwi
           - gun-wi
+          - gun-wigun
         ascii_name: Kunwi
         geonamesid: 1842016
         latitude: 36.23472
@@ -311,6 +348,7 @@ regions:
           - Kibi
           - Kumi
           - Kwimi
+          - Куми
         ascii_name: Kumi
         geonamesid: 1842225
         latitude: 36.1136
@@ -325,6 +363,7 @@ regions:
           - Gimcheon
           - Kimch'on-si
           - Kimch'ŏn-si
+          - Kumch'on-si
         ascii_name: Gimcheon
         geonamesid: 1842944
         latitude: 36.12176
@@ -353,6 +392,7 @@ regions:
           - Ch'ongsong-gun
           - Ch'ŏngsong-gun
           - "Cheongsong gun"
+          - Seisho
         ascii_name: "Cheongsong gun"
         geonamesid: 1845519
         latitude: 36.43351
@@ -367,6 +407,7 @@ regions:
           - Andang
           - Andon
           - Andong
+          - Anto
         ascii_name: Andong
         geonamesid: 1846986
         latitude: 36.56556
@@ -378,7 +419,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1841597
     name: "North Gyeongsang"
-    names_en: ~
+    names_en: 
+      - "North Gyeongsang"
     names_es: ~
   - 
     ascii_name: Gyeonggi
@@ -388,6 +430,7 @@ regions:
           - Reishu
           - Reishū
           - Rishu
+          - Rishū
         ascii_name: Yoju
         geonamesid: 1832743
         latitude: 37.29583
@@ -402,6 +445,7 @@ regions:
           - Tohei
           - Yangp'yongumnae
           - Yangp'yŏngŭmnae
+          - Yangpyeong
         ascii_name: Yangp'yong
         geonamesid: 1832830
         latitude: 37.48972
@@ -416,6 +460,7 @@ regions:
           - Yangju-gun
           - yangju
           - yangjusi
+          - 양주
         ascii_name: Yangju
         geonamesid: 1832847
         latitude: 37.83311
@@ -430,6 +475,7 @@ regions:
           - Euijeongbu
           - Giseifu
           - Uijongbu
+          - Vijongbu
         ascii_name: Uijongbu
         geonamesid: 1833788
         latitude: 37.7415
@@ -444,12 +490,14 @@ regions:
           - Suigen
           - Suvon
           - Suwon
+          - Suwŏn
         ascii_name: Suwon
         geonamesid: 1835553
         latitude: 37.29111
         longitude: 127.00889
         name: Suwŏn
-        names_en: ~
+        names_en: 
+          - Suwon
         names_es: ~
         population: 1242724
         timezone: Asia/Seoul
@@ -458,12 +506,14 @@ regions:
           - Bucheon
           - Puch'on
           - Puchkhon
+          - Puch’ŏn
         ascii_name: Puch'on
         geonamesid: 1838716
         latitude: 37.49889
         longitude: 126.78306
         name: Puch’ŏn
-        names_en: ~
+        names_en: 
+          - Bucheon
         names_es: ~
         population: 850731
         timezone: Asia/Seoul
@@ -472,6 +522,7 @@ regions:
           - Osan
           - Osan-ni
           - Usan-ri
+          - 오산
         ascii_name: Osan
         geonamesid: 1839652
         latitude: 37.15222
@@ -528,12 +579,14 @@ regions:
           - Goyang
           - Koyang
           - Koyang-ni
+          - Koyo
         ascii_name: Goyang
         geonamesid: 1842485
         latitude: 37.65639
         longitude: 126.835
         name: Goyang
-        names_en: ~
+        names_en: 
+          - Goyang
         names_es: ~
         population: 1073069
         timezone: Asia/Seoul
@@ -542,6 +595,7 @@ regions:
           - "Gapyeong gun"
           - Kahei-gun
           - Kap'yong-gun
+          - Kap'yŏng-gun
         ascii_name: Gapyeong
         geonamesid: 1843082
         latitude: 37.83101
@@ -556,6 +610,7 @@ regions:
           - Ich'on
           - Ich'ŏn
           - Icheon
+          - Risen
         ascii_name: Ich'on
         geonamesid: 1843702
         latitude: 37.27917
@@ -570,6 +625,7 @@ regions:
           - "Hwaseong gun"
           - Hwasong-gun
           - Hwasŏng-gun
+          - Suigen
         ascii_name: Hwaseong
         geonamesid: 1843847
         latitude: 37.20682
@@ -584,12 +640,14 @@ regions:
           - An"jan
           - Anyang
           - Anyang-ni
+          - Anyo
         ascii_name: Anyang
         geonamesid: 1846898
         latitude: 37.3925
         longitude: 126.92694
         name: Anyang
-        names_en: ~
+        names_en: 
+          - Anyang
         names_es: ~
         population: 634367
         timezone: Asia/Seoul
@@ -598,12 +656,14 @@ regions:
           - Anjo
           - Anjŏ
           - Anseong
+          - Anson
         ascii_name: Ansong
         geonamesid: 1846912
         latitude: 37.01083
         longitude: 127.27028
         name: Ansŏng
-        names_en: ~
+        names_en: 
+          - Anseong
         names_es: ~
         population: 69255
         timezone: Asia/Seoul
@@ -612,12 +672,14 @@ regions:
           - Ansan
           - Ansan-si
           - Anzan
+          - Onson
         ascii_name: Ansan
         geonamesid: 1846918
         latitude: 37.32361
         longitude: 126.82194
         name: Ansan
-        names_en: ~
+        names_en: 
+          - Ansan
         names_es: ~
         population: 650728
         timezone: Asia/Seoul
@@ -637,6 +699,7 @@ regions:
           - Seongnam
           - Songnam
           - Sŏngnam
+          - 성남
         ascii_name: Songnam
         geonamesid: 1897000
         latitude: 37.43861
@@ -674,12 +737,14 @@ regions:
           - Migum
           - Migŭm
           - Nam"jandzhu
+          - Namjandzhu
         ascii_name: Namyangju
         geonamesid: 1897122
         latitude: 37.63667
         longitude: 127.21417
         name: Namyangju
-        names_en: ~
+        names_en: 
+          - Namyangju
         names_es: ~
         population: 90798
         timezone: Asia/Seoul
@@ -707,7 +772,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1841610
     name: Gyeonggi
-    names_en: ~
+    names_en: 
+      - Gyeonggi
     names_es: ~
   - 
     ascii_name: Gwangju
@@ -717,18 +783,21 @@ regions:
           - Gwangju
           - Koshu
           - Kosyu
+          - Kuangju
         ascii_name: Kwangju
         geonamesid: 1841811
         latitude: 35.15472
         longitude: 126.91556
         name: Kwangju
-        names_en: ~
+        names_en: 
+          - Gwangju
         names_es: ~
         population: 1416938
         timezone: Asia/Seoul
     geonamesid: 1841808
     name: Gwangju
-    names_en: ~
+    names_en: 
+      - Gwangju
     names_es: ~
   - 
     ascii_name: Gangwon
@@ -738,6 +807,7 @@ regions:
           - Neietsu
           - Yongwol
           - Yŏngwŏl
+          - 영월
         ascii_name: Yongwol
         geonamesid: 1832257
         latitude: 37.18447
@@ -752,6 +822,7 @@ regions:
           - Yanggu
           - yang-gu
           - yang-gugun
+          - 양구
         ascii_name: Yanggu
         geonamesid: 1832909
         latitude: 38.10583
@@ -766,6 +837,7 @@ regions:
           - Genshu
           - Genshū
           - Wonju
+          - Wŏnju
         ascii_name: Wonju
         geonamesid: 1833105
         latitude: 37.35139
@@ -780,6 +852,7 @@ regions:
           - T'aebaek
           - Tkhehbehk
           - T’aebaek
+          - Тхэбэк
         ascii_name: T'aebaek
         geonamesid: 1835515
         latitude: 37.1759
@@ -794,12 +867,14 @@ regions:
           - Sogcho
           - Sokch'o
           - Sokch'o-ri
+          - Sokchkho
         ascii_name: Sokch'o
         geonamesid: 1836553
         latitude: 38.20833
         longitude: 128.59111
         name: Sokch’o
-        names_en: ~
+        names_en: 
+          - Sokcho
         names_es: ~
         population: 89047
         timezone: Asia/Seoul
@@ -808,6 +883,7 @@ regions:
           - Samch'ok
           - Samch’ŏk
           - Samuchoku
+          - Sanchoku
         ascii_name: Samch'ok
         geonamesid: 1838069
         latitude: 37.44056
@@ -822,6 +898,7 @@ regions:
           - Kosong
           - goseong
           - goseong-gun
+          - 고성
         ascii_name: Kosong
         geonamesid: 1840179
         latitude: 38.37881
@@ -836,12 +913,14 @@ regions:
           - Gangneung
           - Gangreung
           - Kaguun
+          - Kang-neung
         ascii_name: Kangnung
         geonamesid: 1843137
         latitude: 37.75556
         longitude: 128.89611
         name: Kangnŭng
-        names_en: ~
+        names_en: 
+          - Gangneung
         names_es: ~
         population: 180611
         timezone: Asia/Seoul
@@ -850,6 +929,7 @@ regions:
           - Huachon
           - Hwach'on
           - Hwach'ŏn
+          - Hwacheon
         ascii_name: Hwacheon
         geonamesid: 1844045
         latitude: 38.10611
@@ -864,6 +944,7 @@ regions:
           - Hongch'on
           - Hongch’ŏn
           - Kosen
+          - Kōsen
         ascii_name: Hongch'on
         geonamesid: 1844191
         latitude: 37.6918
@@ -878,12 +959,14 @@ regions:
           - Ch'unch'on
           - Chhun-chhen
           - Chkhunchkhon
+          - Chuncheon
         ascii_name: Ch'unch'on
         geonamesid: 1845136
         latitude: 37.87472
         longitude: 127.73417
         name: Ch’unch’ŏn
-        names_en: ~
+        names_en: 
+          - Chuncheon
         names_es: ~
         population: 209746
         timezone: Asia/Seoul
@@ -900,7 +983,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1843125
     name: Gangwon
-    names_en: ~
+    names_en: 
+      - Gangwon
     names_es: ~
   - 
     ascii_name: Incheon
@@ -910,6 +994,7 @@ regions:
           - Ganghwa
           - Kanghwa
           - Kanguhaa
+          - Koka
         ascii_name: Kanghwa
         geonamesid: 1843163
         latitude: 37.74722
@@ -924,13 +1009,16 @@ regions:
           - Chemulpho
           - Chemulpo
           - Choimulpo
+          - Inch'on
         ascii_name: Inch'on
         geonamesid: 1843564
         latitude: 37.45361
         longitude: 126.73167
         name: Inch’ŏn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Incheon
+        names_es: 
+          - Inchon
         population: 2628000
         timezone: Asia/Seoul
       - 
@@ -938,6 +1026,7 @@ regions:
           - Seo-myeon
           - So-myon
           - Sŏ-myŏn
+          - seomyeon
         ascii_name: So-myon
         geonamesid: 1896334
         latitude: 37.2225
@@ -949,7 +1038,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1843561
     name: Incheon
-    names_en: ~
+    names_en: 
+      - Incheon
     names_es: ~
   - 
     ascii_name: "South Chungcheong"
@@ -959,6 +1049,7 @@ regions:
           - Esan
           - Jesan
           - Reisan
+          - Reizan
         ascii_name: Yesan
         geonamesid: 1832771
         latitude: 36.67756
@@ -973,6 +1064,7 @@ regions:
           - Tangjin
           - Toshin
           - Tosin
+          - Tōshin
         ascii_name: Tangjin
         geonamesid: 1834885
         latitude: 36.89444
@@ -987,6 +1079,7 @@ regions:
           - Taesal-li
           - Taesan
           - Taesan-ni
+          - Taisan-ri
         ascii_name: Taesal-li
         geonamesid: 1835096
         latitude: 36.9714
@@ -1001,6 +1094,7 @@ regions:
           - Daisen
           - Hannae-ri
           - Poryong
+          - Poryŏng
         ascii_name: Poryong
         geonamesid: 1835447
         latitude: 36.34931
@@ -1015,12 +1109,14 @@ regions:
           - Seosan
           - "Seosan City"
           - Sosan
+          - Suisan
         ascii_name: Sosan
         geonamesid: 1835895
         latitude: 36.78167
         longitude: 126.45222
         name: Sŏsan
-        names_en: ~
+        names_en: 
+          - "Seosan City"
         names_es: ~
         population: 74208
         timezone: Asia/Seoul
@@ -1029,12 +1125,15 @@ regions:
           - Seikan-ri
           - Seonghwan
           - Songhwan
+          - Songhwan-ni
         ascii_name: Songhwan
         geonamesid: 1836208
         latitude: 36.91556
         longitude: 127.13139
         name: Sŏnghwan
-        names_en: ~
+        names_en: 
+          - Songhwan
+          - Seonghwan
         names_es: ~
         population: 29239
         timezone: Asia/Seoul
@@ -1043,6 +1142,7 @@ regions:
           - Fuyo
           - Pujo
           - Puyo
+          - Puyŏ
         ascii_name: Puyo
         geonamesid: 1838508
         latitude: 36.28194
@@ -1057,12 +1157,14 @@ regions:
           - Asan
           - Asan-si
           - Onyang
+          - Onyo
         ascii_name: Asan
         geonamesid: 1839726
         latitude: 36.78361
         longitude: 127.00417
         name: Asan
-        names_en: ~
+        names_en: 
+          - Asan
         names_es: ~
         population: 97749
         timezone: Asia/Seoul
@@ -1071,13 +1173,16 @@ regions:
           - Nonsan
           - Ronsan
           - Ronzan
+          - "lun shan shi"
         ascii_name: Nonsan
         geonamesid: 1840211
         latitude: 36.20389
         longitude: 127.08472
         name: Nonsan
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nonsan
+        names_es: 
+          - Nonsan
         population: 43845
         timezone: Asia/Seoul
       - 
@@ -1085,6 +1190,7 @@ regions:
           - Kinsan
           - Kinzan
           - Kumsan
+          - Kumzan
         ascii_name: Kumsan
         geonamesid: 1842153
         latitude: 36.10306
@@ -1099,12 +1205,14 @@ regions:
           - Gongju
           - Kochu
           - Kondzhu
+          - "Kong Tjou"
         ascii_name: Kongju
         geonamesid: 1842616
         latitude: 36.45556
         longitude: 127.12472
         name: Kongju
-        names_en: ~
+        names_en: 
+          - Gongju
         names_es: ~
         population: 72435
         timezone: Asia/Seoul
@@ -1113,6 +1221,7 @@ regions:
           - Hongsong
           - Hongsung
           - Hongsŏng
+          - Kojo
         ascii_name: Hongsong
         geonamesid: 1844174
         latitude: 36.6009
@@ -1127,12 +1236,14 @@ regions:
           - Ch'onan
           - Cheonan
           - Chkhonan
+          - Chkhonan-si
         ascii_name: Ch'onan
         geonamesid: 1845759
         latitude: 36.8065
         longitude: 127.1522
         name: Ch’ŏnan
-        names_en: ~
+        names_en: 
+          - Cheonan
         names_es: ~
         population: 365114
         timezone: Asia/Seoul
@@ -1149,7 +1260,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1845105
     name: "South Chungcheong"
-    names_en: ~
+    names_en: 
+      - "South Chungcheong"
     names_es: ~
   - 
     ascii_name: "North Chungcheong"
@@ -1159,6 +1271,7 @@ regions:
           - Eido
           - Eidō
           - Yong-dong
+          - Yŏng-dong
         ascii_name: Yong-dong
         geonamesid: 1832566
         latitude: 36.175
@@ -1173,6 +1286,7 @@ regions:
           - Kumgu-ri
           - ogcheon
           - ogcheongun
+          - 옥천
         ascii_name: ogcheongun
         geonamesid: 1839873
         latitude: 36.3012
@@ -1187,6 +1301,7 @@ regions:
           - Goesan
           - Kaesong
           - Kaisan
+          - Kaizan
         ascii_name: Koesan
         geonamesid: 1842800
         latitude: 36.81083
@@ -1201,13 +1316,16 @@ regions:
           - Ch'ongju
           - Ch'ungju
           - Cheng-ju
+          - Cheongju
         ascii_name: Ch'ongju
         geonamesid: 1845604
         latitude: 36.63722
         longitude: 127.48972
         name: Ch’ŏngju
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chungju
+        names_es: 
+          - Chungju
         population: 634596
         timezone: Asia/Seoul
       - 
@@ -1215,6 +1333,7 @@ regions:
           - Chinchon
           - Chinsen
           - Jincheon
+          - jincheon
         ascii_name: Chinch'on
         geonamesid: 1846095
         latitude: 36.85667
@@ -1226,7 +1345,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1845106
     name: "North Chungcheong"
-    names_en: ~
+    names_en: 
+      - "North Chungcheong"
     names_es: ~
   - 
     ascii_name: "South Jeolla"
@@ -1236,6 +1356,7 @@ regions:
           - Josu
           - Rasui
           - Reisui
+          - Yosu
         ascii_name: Yosu
         geonamesid: 1832157
         latitude: 34.74417
@@ -1264,6 +1385,7 @@ regions:
           - Junten
           - Sunch'on
           - Suncheon
+          - Sunchun
         ascii_name: Sunch'on
         geonamesid: 1835648
         latitude: 34.94808
@@ -1278,6 +1400,7 @@ regions:
           - Bakkyo-ri
           - Bakkyō-ri
           - Beolgyo
+          - Polgyo
         ascii_name: Polgyo
         geonamesid: 1839011
         latitude: 34.84494
@@ -1292,6 +1415,7 @@ regions:
           - Nadzhu
           - Naju
           - Rashu
+          - Rashū
         ascii_name: Naju
         geonamesid: 1840536
         latitude: 35.02833
@@ -1306,6 +1430,7 @@ regions:
           - Mogpkho
           - Mogpo
           - Mok-pho
+          - Mokp'o
         ascii_name: Mokp'o
         geonamesid: 1841066
         latitude: 34.79361
@@ -1320,6 +1445,7 @@ regions:
           - Gwang-yang
           - Koyo
           - Kuwagyan
+          - Kwangyang
         ascii_name: Kwangyang
         geonamesid: 1841775
         latitude: 34.97528
@@ -1334,6 +1460,7 @@ regions:
           - Kurye
           - Kyurei
           - Kyūrei
+          - gulye
         ascii_name: Kurye
         geonamesid: 1841976
         latitude: 35.20944
@@ -1348,6 +1475,7 @@ regions:
           - Hwansun
           - Hwason
           - Hwasun
+          - Khvasun
         ascii_name: Hwasun
         geonamesid: 1843841
         latitude: 35.05944
@@ -1362,6 +1490,7 @@ regions:
           - Haenam
           - Kainan
           - haenam
+          - 해남
         ascii_name: Haenam
         geonamesid: 1844751
         latitude: 34.57111
@@ -1376,6 +1505,7 @@ regions:
           - sin-an
           - sin-angun
           - 신안
+          - 신안군
         ascii_name: Sinan
         geonamesid: 6395804
         latitude: 34.8262
@@ -1387,7 +1517,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1845788
     name: "South Jeolla"
-    names_en: ~
+    names_en: 
+      - "South Jeolla"
     names_es: ~
   - 
     ascii_name: "North Jeolla"
@@ -1397,6 +1528,7 @@ regions:
           - wanju
           - wanju-gun
           - wanjugun
+          - 완주
         ascii_name: Wanju
         geonamesid: 1833466
         latitude: 35.84509
@@ -1424,6 +1556,7 @@ regions:
           - Mangen
           - Namvon
           - Namweon
+          - Namwon
         ascii_name: Namwon
         geonamesid: 1840379
         latitude: 35.41
@@ -1438,12 +1571,14 @@ regions:
           - Gunsan
           - Gunzan
           - Kunsan
+          - Kunzan
         ascii_name: Kunsan
         geonamesid: 1842025
         latitude: 35.97861
         longitude: 126.71139
         name: Kunsan
-        names_en: ~
+        names_en: 
+          - Gunsan
         names_es: ~
         population: 243406
         timezone: Asia/Seoul
@@ -1452,6 +1587,7 @@ regions:
           - Kosho
           - Kōshō
           - gochang
+          - gochang-gun
         ascii_name: Koch'ang
         geonamesid: 1842859
         latitude: 35.43333
@@ -1466,6 +1602,7 @@ regions:
           - Kimje
           - Kintei
           - Kum
+          - Kumje
         ascii_name: Kimje
         geonamesid: 1842939
         latitude: 35.80167
@@ -1480,6 +1617,7 @@ regions:
           - Iksan
           - Iri
           - Riri
+          - Иксан
         ascii_name: Iksan
         geonamesid: 1843491
         latitude: 35.94389
@@ -1494,6 +1632,7 @@ regions:
           - Imsil
           - Ninjitsu
           - imsil
+          - imsilgun
         ascii_name: Imsil
         geonamesid: 1843585
         latitude: 35.61306
@@ -1508,12 +1647,14 @@ regions:
           - Chenju
           - Chondzhu
           - Chongju
+          - Chonju
         ascii_name: Chonju
         geonamesid: 1845457
         latitude: 35.82194
         longitude: 127.14889
         name: Chŏnju
-        names_en: ~
+        names_en: 
+          - Jeonju
         names_es: ~
         population: 711424
         timezone: Asia/Seoul
@@ -1522,6 +1663,7 @@ regions:
           - jin-an
           - jin-angun
           - 진안
+          - 진안군
         ascii_name: jin-angun
         geonamesid: 1846114
         latitude: 35.79167
@@ -1536,6 +1678,7 @@ regions:
           - Changsu
           - Changsu-ri
           - Chosui-ri
+          - Chōsui-ri
         ascii_name: Changsu
         geonamesid: 1846355
         latitude: 35.64842
@@ -1547,7 +1690,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1845789
     name: "North Jeolla"
-    names_en: ~
+    names_en: 
+      - "North Jeolla"
     names_es: ~
   - 
     ascii_name: Jeju
@@ -1557,12 +1701,14 @@ regions:
           - Chedzhu
           - Cheju
           - Chu-sung
+          - "Chyei Chyu"
         ascii_name: Cheju
         geonamesid: 1846266
         latitude: 33.50972
         longitude: 126.52194
         name: Cheju
-        names_en: ~
+        names_en: 
+          - Jeju
         names_es: ~
         population: 408364
         timezone: Asia/Seoul
@@ -1571,6 +1717,7 @@ regions:
           - Aewol
           - Aewol-li
           - Aewŏl
+          - Aewŏl-li
         ascii_name: Aewol-li
         geonamesid: 1847050
         latitude: 33.46444
@@ -1582,7 +1729,8 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1846265
     name: Jeju
-    names_en: ~
+    names_en: 
+      - Jeju
     names_es: ~
   - 
     ascii_name: "South Gyeongsang"
@@ -1592,6 +1740,7 @@ regions:
           - Jansan
           - Ryosan
           - Ryozan
+          - Ryōsan
         ascii_name: Yangsan
         geonamesid: 1832828
         latitude: 35.33861
@@ -1606,6 +1755,7 @@ regions:
           - Milyang
           - Mirjan
           - Miryang
+          - Mitsuyo
         ascii_name: Miryang
         geonamesid: 1841149
         latitude: 35.49333
@@ -1620,12 +1770,14 @@ regions:
           - Basan
           - Basen
           - Bazan
+          - Bazanpo
         ascii_name: Masan
         geonamesid: 1841245
         latitude: 35.20806
         longitude: 128.5725
         name: Masan
-        names_en: ~
+        names_en: 
+          - Masan
         names_es: ~
         population: 349706
         timezone: Asia/Seoul
@@ -1634,6 +1786,7 @@ regions:
           - Goseong
           - Kojo
           - Kojō
+          - Koson
         ascii_name: Kosong
         geonamesid: 1842518
         latitude: 34.97631
@@ -1662,6 +1815,7 @@ regions:
           - Kimhae
           - Kinkai
           - Kumhae
+          - Kŭmhae
         ascii_name: Kimhae
         geonamesid: 1842943
         latitude: 35.23417
@@ -1676,12 +1830,14 @@ regions:
           - Chindzhu
           - Chinju
           - Jinju
+          - Shinshu
         ascii_name: Chinju
         geonamesid: 1846052
         latitude: 35.19278
         longitude: 128.08472
         name: Chinju
-        names_en: ~
+        names_en: 
+          - Jinju
         names_es: ~
         population: 307242
         timezone: Asia/Seoul
@@ -1690,12 +1846,14 @@ regions:
           - Chinhae
           - Chinkae
           - Chinkai
+          - Chinkheh
         ascii_name: Chinhae
         geonamesid: 1846069
         latitude: 35.14944
         longitude: 128.65972
         name: Chinhae
-        names_en: ~
+        names_en: 
+          - Jinhae
         names_es: ~
         population: 134889
         timezone: Asia/Seoul
@@ -1704,13 +1862,16 @@ regions:
           - Ch'angwon
           - Ch'angwŏn
           - Changwon
+          - Chkhanvon
         ascii_name: Ch'angwon
         geonamesid: 1846326
         latitude: 35.22806
         longitude: 128.68111
         name: Ch’angwŏn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Changwon
+        names_es: 
+          - Changwon
         population: 550000
         timezone: Asia/Seoul
       - 
@@ -1754,6 +1915,7 @@ regions:
           - Ch'angnyong
           - Ch’angnyŏng
           - changnyeong
+          - changnyeong-eub
         ascii_name: Changnyeong
         geonamesid: 6903078
         latitude: 35.54145
@@ -1765,5 +1927,6 @@ regions:
         timezone: Asia/Seoul
     geonamesid: 1902028
     name: "South Gyeongsang"
-    names_en: ~
+    names_en: 
+      - "South Gyeongsang"
     names_es: ~

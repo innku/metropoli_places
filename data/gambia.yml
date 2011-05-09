@@ -2,8 +2,12 @@
 geonamesid: 2413451
 iso: GM
 name: Gambia
-names_en: ~
-names_es: ~
+names_en: 
+  - "The Gambia"
+  - "Republic of The Gambia"
+  - Gambia
+names_es: 
+  - Gambia
 regions: 
   - 
     ascii_name: "Western Division"
@@ -13,6 +17,7 @@ regions:
           - Dembadu
           - Sabiji
           - Sukuta
+          - Sukuto
         ascii_name: Sukuta
         geonamesid: 2411880
         latitude: 13.41033
@@ -54,7 +59,8 @@ regions:
         latitude: 13.27136
         longitude: -16.64944
         name: Brikama
-        names_en: ~
+        names_en: 
+          - Brikama
         names_es: ~
         population: 77700
         timezone: Africa/Banjul
@@ -255,7 +261,8 @@ regions:
         latitude: 13.30995
         longitude: -14.21373
         name: "Basse Santa Su"
-        names_en: ~
+        names_en: 
+          - "Basse Santa Su"
         names_es: ~
         population: 14380
         timezone: Africa/Banjul
@@ -274,7 +281,8 @@ regions:
         timezone: Africa/Banjul
     geonamesid: 2411711
     name: "Upper River"
-    names_en: ~
+    names_en: 
+      - "Upper River"
     names_es: ~
   - 
     ascii_name: "North Bank Division"
@@ -334,7 +342,8 @@ regions:
         latitude: 13.4898
         longitude: -16.08879
         name: Kerewan
-        names_en: ~
+        names_en: 
+          - Kerewan
         names_es: ~
         population: 2751
         timezone: Africa/Banjul
@@ -529,6 +538,7 @@ regions:
           - Kass
           - "Kass Wollof"
           - "Samba N'Yang"
+          - "Samba N’Yang"
         ascii_name: "Kass Wollof"
         geonamesid: 2413052
         latitude: 13.78333
@@ -764,7 +774,8 @@ regions:
         latitude: 13.46667
         longitude: -15.55
         name: "Mansa Konko"
-        names_en: ~
+        names_en: 
+          - "Mansa Konko"
         names_es: ~
         population: 1978
         timezone: Africa/Banjul
@@ -878,13 +889,16 @@ regions:
           - Bandzul
           - Bandzulis
           - Bandżul
+          - Bandžulis
         ascii_name: Banjul
         geonamesid: 2413876
         latitude: 13.45274
         longitude: -16.57803
         name: Banjul
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Banjul
+        names_es: 
+          - Banjul
         population: 34589
         timezone: Africa/Banjul
       - 

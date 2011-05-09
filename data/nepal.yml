@@ -2,8 +2,10 @@
 geonamesid: 1282988
 iso: NP
 name: Nepal
-names_en: ~
-names_es: ~
+names_en: 
+  - Nepal
+names_es: 
+  - Nepal
 regions: 
   - 
     ascii_name: "Far Western Region"
@@ -21,7 +23,8 @@ regions:
         timezone: Asia/Kathmandu
     geonamesid: 7289705
     name: "Far Western Region"
-    names_en: ~
+    names_en: 
+      - "Far Western Region"
     names_es: ~
   - 
     ascii_name: "Mid Western Region"
@@ -77,7 +80,8 @@ regions:
         timezone: Asia/Kathmandu
     geonamesid: 7289706
     name: "Mid Western Region"
-    names_en: ~
+    names_en: 
+      - "Mid Western Region"
     names_es: ~
   - 
     ascii_name: "Central Region"
@@ -100,18 +104,22 @@ regions:
           - Catmandu
           - Kantipur
           - Kantipura
+          - Kathmandau
         ascii_name: Kathmandu
         geonamesid: 1283240
         latitude: 27.70169
         longitude: 85.3206
         name: Kathmandu
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kathmandu
+        names_es: 
+          - Katmandú
         population: 1442271
         timezone: Asia/Kathmandu
     geonamesid: 7289707
     name: "Central Region"
-    names_en: ~
+    names_en: 
+      - "Central Region"
     names_es: ~
   - 
     ascii_name: "Eastern Region"
@@ -121,6 +129,7 @@ regions:
           - Dhankuta
           - "Dhankuta Bazar"
           - Dhankutta
+          - Dhankutā
         ascii_name: Dhankuta
         geonamesid: 1283465
         latitude: 26.98333
@@ -146,7 +155,9 @@ regions:
         timezone: Asia/Kathmandu
     geonamesid: 7289708
     name: "Eastern Region"
-    names_en: ~
+    names_en: 
+      - "Eastern Region"
+      - East
     names_es: ~
   - 
     ascii_name: "Western Region"
@@ -156,13 +167,16 @@ regions:
           - Pakhra
           - Pokhar
           - Pokhara
+          - Pokhra
         ascii_name: Pokhara
         geonamesid: 1282898
         latitude: 28.26689
         longitude: 83.96851
         name: Pokhara
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pokhara
+        names_es: 
+          - Pokhara
         population: 200000
         timezone: Asia/Kathmandu
       - 
@@ -178,5 +192,6 @@ regions:
         timezone: Asia/Kathmandu
     geonamesid: 7289709
     name: "Western Region"
-    names_en: ~
+    names_en: 
+      - "Western Region"
     names_es: ~

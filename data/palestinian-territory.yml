@@ -2,8 +2,11 @@
 geonamesid: 6254930
 iso: PS
 name: "Palestinian Territory"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Palestinian Territory"
+  - Palestine
+names_es: 
+  - Palestina
 regions: 
   - 
     ascii_name: "Gaza Strip"
@@ -13,12 +16,14 @@ regions:
           - "Er Rafa"
           - Rafa
           - Rafaa
+          - Rafah
         ascii_name: Rafah
         geonamesid: 281102
         latitude: 31.287
         longitude: 34.25952
         name: Rafaḩ
-        names_en: ~
+        names_en: 
+          - Rafah
         names_es: ~
         population: 126305
         timezone: Asia/Gaza
@@ -27,13 +32,17 @@ regions:
           - "Hanut Yona"
           - "Hanūt Yōnā"
           - "Jan Yunis"
+          - "Jan Yunís"
         ascii_name: "Khan Yunis"
         geonamesid: 281124
         latitude: 31.34018
         longitude: 34.30627
         name: "Khān Yūnis"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Khan Yunis"
+        names_es: 
+          - "Jan Yunís"
+          - "Jan Yunis"
         population: 173183
         timezone: Asia/Gaza
       - 
@@ -41,12 +50,14 @@ regions:
           - Dzhabalija
           - Jabalia
           - Jabaliya
+          - Jabalya
         ascii_name: Jabalya
         geonamesid: 281129
         latitude: 31.52722
         longitude: 34.48634
         name: Jabālyā
-        names_en: ~
+        names_en: 
+          - Jabalia
         names_es: ~
         population: 168568
         timezone: Asia/Gaza
@@ -55,13 +66,17 @@ regions:
           - Azzah
           - Gaza
           - "Gaza City"
+          - Ghazah
         ascii_name: Gaza
         geonamesid: 281133
         latitude: 31.5
         longitude: 34.46667
         name: Gaza
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Gaza City"
+          - Gaza
+        names_es: 
+          - Gaza
         population: 410000
         timezone: Asia/Gaza
       - 
@@ -69,12 +84,14 @@ regions:
           - Belar
           - "Dayr al Balah"
           - "Dayr al Balaḩ"
+          - "Deir el-Balah"
         ascii_name: "Dayr al Balah"
         geonamesid: 281141
         latitude: 31.41655
         longitude: 34.34525
         name: "Dayr al Balaḩ"
-        names_en: ~
+        names_en: 
+          - "Deir el-Balah"
         names_es: ~
         population: 59504
         timezone: Asia/Gaza
@@ -83,12 +100,14 @@ regions:
           - "Bayt La'iya"
           - "Bayt Lahiya"
           - "Bayt Lahiyah"
+          - "Bayt Lāhiya"
         ascii_name: "Bayt La'iya"
         geonamesid: 281145
         latitude: 31.5464
         longitude: 34.49514
         name: "Bayt Lā’īyā"
-        names_en: ~
+        names_en: 
+          - "Beit Lahia"
         names_es: ~
         population: 56919
         timezone: Asia/Gaza
@@ -108,8 +127,10 @@ regions:
         timezone: Asia/Gaza
     geonamesid: 281132
     name: "Gaza Strip"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Gaza Strip"
+    names_es: 
+      - "Franja de Gaza"
   - 
     ascii_name: "West Bank"
     cities: 
@@ -131,6 +152,7 @@ regions:
           - Zayta
           - Zaytā
           - Zeita
+          - Zeitā
         ascii_name: Zayta
         geonamesid: 281226
         latitude: 32.38444
@@ -145,6 +167,7 @@ regions:
           - Jatta
           - Yatta
           - Yattah
+          - Yaţţah
         ascii_name: Yattah
         geonamesid: 281292
         latitude: 31.45
@@ -181,12 +204,14 @@ regions:
           - Keram
           - Toelkarem
           - "Tul Kerem"
+          - Tul'karm
         ascii_name: Tulkarm
         geonamesid: 281577
         latitude: 32.31083
         longitude: 35.02583
         name: Ţūlkarm
-        names_en: ~
+        names_en: 
+          - Tulkarm
         names_es: ~
         population: 44169
         timezone: Asia/Gaza
@@ -219,6 +244,7 @@ regions:
           - Tarqumiya
           - Tarqumiyah
           - Tarqumye
+          - Tarqūmiya
         ascii_name: Tarqumiyah
         geonamesid: 281637
         latitude: 31.58333
@@ -244,6 +270,7 @@ regions:
           - Talluza
           - Talluzah
           - Ţallūzah
+          - Ţallūzā
         ascii_name: Talluza
         geonamesid: 281662
         latitude: 32.27194
@@ -258,6 +285,7 @@ regions:
           - Tall
           - Tell
           - Til
+          - Tīl
         ascii_name: Tall
         geonamesid: 281674
         latitude: 32.2
@@ -272,6 +300,7 @@ regions:
           - Talfit
           - Talfīt
           - Tilfit
+          - Tilfīt
         ascii_name: Talfit
         geonamesid: 281675
         latitude: 32.08417
@@ -344,6 +373,7 @@ regions:
           - "Saylat ad Dahr"
           - "Saylat aḑ Ḑahr"
           - "Silat adh Dhahr"
+          - "Silat az Zahr"
         ascii_name: "Silat az Zahr"
         geonamesid: 281790
         latitude: 32.31889
@@ -358,6 +388,7 @@ regions:
           - "Silat al Harithiya"
           - "Silat al Harithiyah"
           - "Silat el Harithiya"
+          - "Sīlat al Ḩārithīyah"
         ascii_name: "Silat al Harithiyah"
         geonamesid: 281791
         latitude: 32.50806
@@ -386,6 +417,7 @@ regions:
           - "Khirbat Saydah"
           - "Khirbat Şaydāh"
           - Sayda
+          - Seida
         ascii_name: Sayda
         geonamesid: 281965
         latitude: 32.38528
@@ -414,6 +446,7 @@ regions:
           - Sarra
           - Sarrah
           - Şarrah
+          - Ṣarra
         ascii_name: Sarrah
         geonamesid: 281982
         latitude: 32.21139
@@ -439,6 +472,7 @@ regions:
           - Samiriyyah
           - Sanirah
           - Sanireh
+          - Sanniriya
         ascii_name: Sanniriyah
         geonamesid: 281998
         latitude: 32.12861
@@ -453,6 +487,7 @@ regions:
           - Salem
           - Salim
           - Sālem
+          - Sālim
         ascii_name: Salim
         geonamesid: 282034
         latitude: 32.20917
@@ -491,6 +526,7 @@ regions:
           - Sabastiya
           - Sabastiyah
           - Sabasţīyah
+          - Sabatiyah
         ascii_name: Sabastiyah
         geonamesid: 282108
         latitude: 32.27639
@@ -505,6 +541,7 @@ regions:
           - Rummana
           - Rummanah
           - Rummāna
+          - Rummānah
         ascii_name: Rummanah
         geonamesid: 282119
         latitude: 32.52333
@@ -569,13 +606,16 @@ regions:
           - "Rahm Alla"
           - "Ram Allah"
           - Ramala
+          - Ramalla
         ascii_name: Ramallah
         geonamesid: 282239
         latitude: 31.9
         longitude: 35.2
         name: Ramallah
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ramallah
+        names_es: 
+          - Ramala
         population: 24599
         timezone: Asia/Gaza
       - 
@@ -616,6 +656,7 @@ regions:
           - Kusrah
           - Qusra
           - Qusrah
+          - Quşrah
         ascii_name: Qusrah
         geonamesid: 282283
         latitude: 32.08333
@@ -630,6 +671,7 @@ regions:
           - Kibbia
           - Qibya
           - Qibyah
+          - Qibye
         ascii_name: Qibya
         geonamesid: 282348
         latitude: 31.98333
@@ -644,6 +686,7 @@ regions:
           - Katanneh
           - Qatana
           - Qatanna
+          - Qatannah
         ascii_name: Qatannah
         geonamesid: 282376
         latitude: 31.83333
@@ -670,6 +713,7 @@ regions:
           - "Qarawat Bani Zayd"
           - "Qarawat Bani Zeid"
           - "Qarāwat Banī Zayd"
+          - "Quarawat Bani Zeid"
         ascii_name: "Qarawat Bani Zayd"
         geonamesid: 282438
         latitude: 32.05333
@@ -684,12 +728,14 @@ regions:
           - "Kal Kiliya"
           - Kal'kilija
           - Kalkilieh
+          - "Kfar Saba"
         ascii_name: Qalqilyah
         geonamesid: 282457
         latitude: 32.18639
         longitude: 34.96306
         name: Qalqīlyah
-        names_en: ~
+        names_en: 
+          - Qalqilyah
         names_es: ~
         population: 43212
         timezone: Asia/Gaza
@@ -698,6 +744,7 @@ regions:
           - Kuffin
           - Qaffin
           - Qaffīn
+          - Quffin
         ascii_name: Qaffin
         geonamesid: 282463
         latitude: 32.43139
@@ -712,6 +759,7 @@ regions:
           - Kubatie
           - Kubatiya
           - Qabatiya
+          - Qabatiyah
         ascii_name: Qabatiyah
         geonamesid: 282476
         latitude: 32.40861
@@ -762,13 +810,17 @@ regions:
           - "Flavia Neapolis"
           - Nablus
           - Nabulus
+          - Naplouse
         ascii_name: Nablus
         geonamesid: 282615
         latitude: 32.22111
         longitude: 35.25444
         name: Nablus
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nablus
+          - Shechem
+        names_es: 
+          - Siquem
         population: 130326
         timezone: Asia/Gaza
       - 
@@ -776,6 +828,7 @@ regions:
           - Misilya
           - Misilyah
           - Misliya
+          - Misliyah
         ascii_name: Misilyah
         geonamesid: 282740
         latitude: 32.38333
@@ -790,6 +843,7 @@ regions:
           - Maysalun
           - Maysalūn
           - Maythalun
+          - Maythalūn
         ascii_name: Maythalun
         geonamesid: 282793
         latitude: 32.35
@@ -831,6 +885,7 @@ regions:
           - Kufayrat
           - Kufayrāt
           - Kufeirat
+          - Kufeirit
         ascii_name: Kufayrat
         geonamesid: 283040
         latitude: 32.44361
@@ -845,6 +900,7 @@ regions:
           - "Kafr Haris"
           - "Kafr Ḩaris"
           - "Kiel Harith"
+          - "Kiel Ḥārith"
         ascii_name: "Kifl Harith"
         geonamesid: 283055
         latitude: 32.11556
@@ -859,6 +915,7 @@ regions:
           - "Burj el Baiyara"
           - "Burj el Baiyāra"
           - "Khirbat al Burj"
+          - "Khirbat el Burj"
         ascii_name: "Khirbat al Burj"
         geonamesid: 283176
         latitude: 31.45
@@ -873,6 +930,7 @@ regions:
           - "Al Jardah"
           - "Khirbat Abu Falah"
           - "Khirbat Abū Falāḩ"
+          - "Khirbet Abu Falah"
         ascii_name: "Khirbat Abu Falah"
         geonamesid: 283189
         latitude: 32.01667
@@ -922,6 +980,7 @@ regions:
           - "Kafr Qalil"
           - "Kafr Qallil"
           - "Kafr Qallīl"
+          - "Kafr Qalīl"
         ascii_name: "Kafr Qallil"
         geonamesid: 283365
         latitude: 32.2
@@ -936,6 +995,7 @@ regions:
           - "Allen More"
           - "Alon Moreh"
           - Alon-Morah
+          - "Elon Moreh"
         ascii_name: "Kafr Qaddum"
         geonamesid: 283366
         latitude: 32.22139
@@ -996,6 +1056,7 @@ regions:
           - "Kafr ad Dik"
           - "Kafr ad Dīk"
           - "Kafr ed Dik"
+          - "Kafr ed Dīk"
         ascii_name: "Kafr ad Dik"
         geonamesid: 283385
         latitude: 32.06472
@@ -1010,6 +1071,7 @@ regions:
           - Jit
           - Jitt
           - Jīt
+          - Jītt
         ascii_name: Jit
         geonamesid: 283449
         latitude: 32.21611
@@ -1024,6 +1086,7 @@ regions:
           - Jaiyus
           - Jaiyūs
           - Jayyus
+          - Jayyūs
         ascii_name: Jayyus
         geonamesid: 283469
         latitude: 32.20083
@@ -1038,12 +1101,14 @@ regions:
           - Djenin
           - Dschenin
           - Dzhanin
+          - Engannim
         ascii_name: Janin
         geonamesid: 283506
         latitude: 32.45639
         longitude: 35.29583
         name: Janīn
-        names_en: ~
+        names_en: 
+          - Jenin
         names_es: ~
         population: 34730
         timezone: Asia/Gaza
@@ -1052,6 +1117,7 @@ regions:
           - Djelbon
           - Gilbo`a
           - Gilbo‘a
+          - Jalbun
         ascii_name: Jalbun
         geonamesid: 283540
         latitude: 32.45778
@@ -1066,6 +1132,7 @@ regions:
           - Immatin
           - Immātīn
           - "Um et Tin"
+          - "Um et Tīn"
         ascii_name: Immatin
         geonamesid: 283609
         latitude: 32.1925
@@ -1105,6 +1172,7 @@ regions:
           - Huwarah
           - Huwwara
           - Huwwarah
+          - Huwwāra
         ascii_name: Huwarah
         geonamesid: 283636
         latitude: 32.14694
@@ -1130,6 +1198,7 @@ regions:
           - Hizma
           - Hizmah
           - Ḩizmah
+          - Ḩizmā
         ascii_name: Hizma
         geonamesid: 283676
         latitude: 31.83333
@@ -1166,6 +1235,7 @@ regions:
           - Hajja
           - Hajjah
           - "Qaryat Hajja"
+          - "Qaryat Hajjah"
         ascii_name: Hajjah
         geonamesid: 283812
         latitude: 32.20472
@@ -1194,6 +1264,7 @@ regions:
           - Fahma
           - Fahmah
           - Faḥma
+          - Faḩmah
         ascii_name: Fahmah
         geonamesid: 283976
         latitude: 32.3825
@@ -1208,6 +1279,7 @@ regions:
           - Dura
           - Durah
           - Dury
+          - Dūrah
         ascii_name: Dura
         geonamesid: 284011
         latitude: 31.5
@@ -1222,6 +1294,7 @@ regions:
           - Doma
           - Domea
           - Duma
+          - Dumah
         ascii_name: Domea
         geonamesid: 284013
         latitude: 32.05
@@ -1236,6 +1309,7 @@ regions:
           - Dannaba
           - Dannabah
           - Dannāba
+          - Dannābah
         ascii_name: Dhannabah
         geonamesid: 284046
         latitude: 32.31417
@@ -1263,6 +1337,7 @@ regions:
           - "Dayr Jarir"
           - "Dayr Jarīr"
           - "Deir Jarir"
+          - "Deir Jarīr"
         ascii_name: "Dayr Jarir"
         geonamesid: 284069
         latitude: 31.96667
@@ -1277,6 +1352,7 @@ regions:
           - "Dayr Istiya"
           - "Dayr Istiyā"
           - "Dayr Istya"
+          - "Dayr Istyā"
         ascii_name: "Dayr Istiya"
         geonamesid: 284071
         latitude: 32.12917
@@ -1291,6 +1367,7 @@ regions:
           - "Dayr Dibwan"
           - "Dayr Dibwān"
           - "Deir Dibwan"
+          - "Deir Dibwān"
         ascii_name: "Dayr Dibwan"
         geonamesid: 284078
         latitude: 31.91667
@@ -1305,6 +1382,7 @@ regions:
           - "Dair Balut"
           - "Dayr Ballut"
           - "Dayr Ballūţ"
+          - "Deir Ballut"
         ascii_name: "Dayr Ballut"
         geonamesid: 284081
         latitude: 32.06389
@@ -1319,6 +1397,7 @@ regions:
           - "Dayr as Sudan"
           - "Dayr as Sūdān"
           - "Deir as Sudan"
+          - "Deir es Sudan"
         ascii_name: "Dayr as Sudan"
         geonamesid: 284085
         latitude: 32.03389
@@ -1333,6 +1412,7 @@ regions:
           - "Dayr al Hatab"
           - "Dayr al Ḩaţab"
           - "Deir al Hatab"
+          - "Deir el Hatab"
         ascii_name: "Dayr al Hatab"
         geonamesid: 284099
         latitude: 32.21667
@@ -1347,6 +1427,7 @@ regions:
           - "Dayr al Ghusn"
           - "Dayr al Ghusun"
           - "Dayr al Ghuşn"
+          - "Dayr al Ghuşūn"
         ascii_name: "Dayr al Ghusun"
         geonamesid: 284100
         latitude: 32.3525
@@ -1361,6 +1442,7 @@ regions:
           - Bruqin
           - Burgin
           - Burgīn
+          - Burqayn
         ascii_name: Buruqin
         geonamesid: 284187
         latitude: 32.06917
@@ -1413,6 +1495,7 @@ regions:
           - "Az Zayt"
           - "Bi'r Zayt"
           - "Bi'r az Zayt"
+          - "Bir Zeit"
         ascii_name: "Bi'r Zayt"
         geonamesid: 284237
         latitude: 31.96667
@@ -1441,6 +1524,7 @@ regions:
           - Biddiya
           - Biddiyā
           - Biddya
+          - Biddyā
         ascii_name: Biddiya
         geonamesid: 284271
         latitude: 32.11306
@@ -1455,6 +1539,7 @@ regions:
           - Bazariya
           - Bazariyah
           - Bazzariya
+          - Bazzariyah
         ascii_name: Bazzariyah
         geonamesid: 284284
         latitude: 32.30694
@@ -1469,6 +1554,7 @@ regions:
           - Baytuniya
           - Baytūniyā
           - Beitunia
+          - Beituniya
         ascii_name: Baytuniya
         geonamesid: 284294
         latitude: 31.88333
@@ -1483,6 +1569,7 @@ regions:
           - "Bayt Umrin"
           - "Bayt Umrīn"
           - "Beit Umrin"
+          - "Beit Umrīn"
         ascii_name: "Bayt Umrin"
         geonamesid: 284295
         latitude: 32.29111
@@ -1497,6 +1584,7 @@ regions:
           - "Bayt Surik"
           - "Bayt Sūrīk"
           - "Beit Surik"
+          - "Beit Sūrīk"
         ascii_name: "Bayt Surik"
         geonamesid: 284297
         latitude: 31.83333
@@ -1511,6 +1599,7 @@ regions:
           - "Bayt Sira"
           - "Bayt Sīrā"
           - "Beit Sira"
+          - "Beit Sīrā"
         ascii_name: "Bayt Sira"
         geonamesid: 284298
         latitude: 31.88333
@@ -1525,6 +1614,7 @@ regions:
           - "Bayt Sahur"
           - "Bayt Sāḩūr"
           - "Beit Sahur"
+          - "Beit Saḥūr"
         ascii_name: "Bayt Sahur"
         geonamesid: 284304
         latitude: 31.7
@@ -1539,6 +1629,7 @@ regions:
           - "Bayt Liqya"
           - "Bayt Liqyā"
           - "Beit Liqya"
+          - "Beit Liqyā"
         ascii_name: "Bayt Liqya"
         geonamesid: 284312
         latitude: 31.86667
@@ -1553,6 +1644,7 @@ regions:
           - "Bayt Lid"
           - "Bayt Līd"
           - "Beit Lid"
+          - "Beit Līd"
         ascii_name: "Bayt Lid"
         geonamesid: 284313
         latitude: 32.26
@@ -1567,13 +1659,17 @@ regions:
           - "Bayt Lahm"
           - "Bayt Laḩm"
           - "Beit Lahm"
+          - "Beit Lehem"
         ascii_name: Bethlehem
         geonamesid: 284315
         latitude: 31.71667
         longitude: 35.2
         name: Bethlehem
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bethlehem
+        names_es: 
+          - Belén
+          - "Belén de Judá"
         population: 29019
         timezone: Asia/Gaza
       - 
@@ -1581,6 +1677,7 @@ regions:
           - "Bayt Kahil"
           - "Bayt Kāḩil"
           - "Beit Kahil"
+          - "Beit Kāḥil"
         ascii_name: "Bayt Kahil"
         geonamesid: 284320
         latitude: 31.56667
@@ -1595,6 +1692,7 @@ regions:
           - "Bayt Jala"
           - "Bayt Jālā"
           - "Beit Jala"
+          - "Beit Jālā"
         ascii_name: "Bayt Jala"
         geonamesid: 284324
         latitude: 31.71667
@@ -1609,6 +1707,7 @@ regions:
           - Baytin
           - Baytīn
           - Beitin
+          - Beitīn
         ascii_name: Baytin
         geonamesid: 284328
         latitude: 31.93333
@@ -1623,6 +1722,7 @@ regions:
           - "Bayt Immar"
           - "Bayt `Umar"
           - "Bayt ‘Umar"
+          - "Beit Immar"
         ascii_name: "Bayt Immar"
         geonamesid: 284329
         latitude: 31.61667
@@ -1651,6 +1751,7 @@ regions:
           - "Bayt Iba"
           - "Bayt Ībā"
           - "Beit Iba"
+          - "Beit Ība"
         ascii_name: "Bayt Iba"
         geonamesid: 284334
         latitude: 32.23556
@@ -1665,6 +1766,7 @@ regions:
           - "Bayt Furik"
           - "Bayt Fūrīk"
           - "Bayt Nurik"
+          - "Bayt Nūrīk"
         ascii_name: "Bayt Furik"
         geonamesid: 284339
         latitude: 32.17667
@@ -1679,6 +1781,7 @@ regions:
           - "Bayt Fajjar"
           - "Bayt Fajjār"
           - "Beit Fajjar"
+          - "Beit Fajjār"
         ascii_name: "Bayt Fajjar"
         geonamesid: 284341
         latitude: 31.61667
@@ -1706,6 +1809,7 @@ regions:
           - "Bayt Awla"
           - "Bayt Awlā"
           - "Beit Aula"
+          - "Beit Aulā"
         ascii_name: "Bayt Awla"
         geonamesid: 284347
         latitude: 31.6
@@ -1720,6 +1824,7 @@ regions:
           - "Bayta al Fawqa"
           - "Baytā al Fawqā"
           - "Beita al Fauqa"
+          - "Beita el Fauqa"
         ascii_name: "Bayta al Fawqa"
         geonamesid: 284362
         latitude: 32.14167
@@ -1748,6 +1853,7 @@ regions:
           - "Baqa ash Sharqiya"
           - "Baqa esh Sharqiya"
           - "Baqah ash Sharqiyah"
+          - "Baqat ash Sharqiyah"
         ascii_name: "Baqah ash Sharqiyah"
         geonamesid: 284426
         latitude: 32.41
@@ -1762,6 +1868,7 @@ regions:
           - Balata
           - Balatah
           - Balāta
+          - Balāţah
         ascii_name: Balatah
         geonamesid: 284446
         latitude: 32.205
@@ -1776,6 +1883,7 @@ regions:
           - "Az Zawiyah"
           - "Az Zāwiyah"
           - "Ez Zawiya"
+          - "Ez Zawye"
         ascii_name: "Az Zawiyah"
         geonamesid: 284485
         latitude: 32.09583
@@ -1790,6 +1898,7 @@ regions:
           - "Ad Dahiriyah"
           - "Adh Dhahiriya"
           - "Az Zahiriyah"
+          - "Az̧ Z̧āhirīyah"
         ascii_name: "Az Zahiriyah"
         geonamesid: 284486
         latitude: 31.41667
@@ -1804,6 +1913,7 @@ regions:
           - "Az Zababida"
           - "Az Zababidah"
           - "Az Zababide"
+          - "Az Zabābidah"
         ascii_name: "Az Zababidah"
         geonamesid: 284487
         latitude: 32.38472
@@ -1829,6 +1939,7 @@ regions:
           - "As Sawiya"
           - "As Sawiyah"
           - "As Sāwiyah"
+          - "Es Sawiya"
         ascii_name: "As Sawiyah"
         geonamesid: 284581
         latitude: 32.08333
@@ -1843,6 +1954,7 @@ regions:
           - "Ash Shuyukh"
           - "Ash Shuyūkh"
           - "Esh Shuyukh"
+          - "Esh Shuyūkh"
         ascii_name: "Ash Shuyukh"
         geonamesid: 284597
         latitude: 31.58333
@@ -1871,6 +1983,7 @@ regions:
           - "Ar Rihiya"
           - "Ar Rihiyah"
           - "Ar Rīḩīyah"
+          - Barta'a
         ascii_name: "Ar Rihiyah"
         geonamesid: 284881
         latitude: 31.46667
@@ -1885,6 +1998,7 @@ regions:
           - "Ar Ram"
           - "Ar Rām"
           - "Er Ram"
+          - "Er Rām"
         ascii_name: "Ar Ram"
         geonamesid: 284890
         latitude: 31.85
@@ -1899,6 +2013,7 @@ regions:
           - Arabeh
           - "`Arava"
           - "`Arraba"
+          - "`Arrabah"
         ascii_name: "`Arrabah"
         geonamesid: 284893
         latitude: 32.405
@@ -1913,13 +2028,16 @@ regions:
           - Ariha
           - Arīḩā
           - Eriha
+          - Erihon
         ascii_name: Jericho
         geonamesid: 284899
         latitude: 31.86667
         longitude: 35.45
         name: Jericho
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Jericho
+        names_es: 
+          - Jericó
         population: 19783
         timezone: Asia/Gaza
       - 
@@ -1927,6 +2045,7 @@ regions:
           - "`Aqraba"
           - "`Aqrabah"
           - "`Aqrabe"
+          - ‘Aqraba
         ascii_name: "`Aqrabah"
         geonamesid: 284922
         latitude: 32.1275
@@ -1941,6 +2060,7 @@ regions:
           - "`Anabta"
           - "`Anabtah"
           - "`Anebta"
+          - ‘Anabtah
         ascii_name: "`Anabta"
         geonamesid: 284976
         latitude: 32.30806
@@ -1955,6 +2075,7 @@ regions:
           - "Al Yamun"
           - "Al Yāmūn"
           - "El Yamun"
+          - "El Yāmūn"
         ascii_name: "Al Yamun"
         geonamesid: 284999
         latitude: 32.4825
@@ -1969,6 +2090,7 @@ regions:
           - "Al Qubaybah"
           - "Al Qubeiba"
           - "El Qubeiba"
+          - Qubeiba
         ascii_name: "Al Qubaybah"
         geonamesid: 285009
         latitude: 31.83333
@@ -1983,6 +2105,7 @@ regions:
           - "Al Mughaiyir"
           - "Al Mughayyir"
           - "El Mughaiyir"
+          - Mughaiyir
         ascii_name: "Al Mughayyir"
         geonamesid: 285023
         latitude: 32.41667
@@ -1997,6 +2120,7 @@ regions:
           - "Al Mughaiyir"
           - "Al Mughayir"
           - "Al Mughayyir"
+          - "El Mughaiyir"
         ascii_name: "Al Mughayyir"
         geonamesid: 285024
         latitude: 32.01972
@@ -2011,6 +2135,7 @@ regions:
           - "Al Khadr"
           - "Al Khidr"
           - "Al Khiḑr"
+          - "El Khader"
         ascii_name: "Al Khidr"
         geonamesid: 285061
         latitude: 31.7
@@ -2025,13 +2150,16 @@ regions:
           - "Al Khalil"
           - "Al Khalīl"
           - "El Khalil"
+          - "El Khulil"
         ascii_name: Hebron
         geonamesid: 285066
         latitude: 31.53333
         longitude: 35.1
         name: Hebron
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hebron
+        names_es: 
+          - Hebrón
         population: 160470
         timezone: Asia/Gaza
       - 
@@ -2039,6 +2167,7 @@ regions:
           - "Al Judayrah"
           - Judayrah
           - Judeira
+          - Judira
         ascii_name: "Al Judayrah"
         geonamesid: 285069
         latitude: 31.86667
@@ -2053,6 +2182,7 @@ regions:
           - "Al Jib"
           - "Al Jīb"
           - "El Jib"
+          - "El Jīb"
         ascii_name: "Al Jib"
         geonamesid: 285070
         latitude: 31.85
@@ -2067,6 +2197,7 @@ regions:
           - "Al Fandaqumiya"
           - "Al Fandaqumiyah"
           - "Al Fandaqūmīyah"
+          - "El Fandaqumiya"
         ascii_name: "Al Fandaqumiyah"
         geonamesid: 285103
         latitude: 32.32083
@@ -2081,6 +2212,7 @@ regions:
           - "Al Bira"
           - "Al Birah"
           - "Al Bīrah"
+          - Al'-Bira
         ascii_name: "Al Birah"
         geonamesid: 285108
         latitude: 31.9

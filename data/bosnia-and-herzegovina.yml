@@ -2,8 +2,11 @@
 geonamesid: 3277605
 iso: BA
 name: "Bosnia and Herzegovina"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Bosnia and Herzegovina"
+names_es: 
+  - Bosnia-Herzegovina
+  - "Bosnia y Herzegovina"
 regions: 
   - 
     ascii_name: "Federation of Bosnia and Herzegovina"
@@ -39,7 +42,8 @@ regions:
         latitude: 44.20139
         longitude: 17.90639
         name: Zenica
-        names_en: ~
+        names_en: 
+          - Zenica
         names_es: ~
         population: 164423
         timezone: Europe/Sarajevo
@@ -108,6 +112,7 @@ regions:
           - "Gornja Vogosca"
           - "Gornja Vogošća"
           - Vogosca
+          - Vogošća
         ascii_name: Vogosca
         geonamesid: 3187464
         latitude: 43.90194
@@ -144,13 +149,16 @@ regions:
           - Visokas
           - Visoko
           - bisoko
+          - Високо
         ascii_name: Visoko
         geonamesid: 3187609
         latitude: 43.98889
         longitude: 18.17806
         name: Visoko
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Visoko
+        names_es: 
+          - Visoko
         population: 17890
         timezone: Europe/Sarajevo
       - 
@@ -171,12 +179,14 @@ regions:
           - "Velika Kladusa"
           - "Velika Kladusha"
           - "Velika Kladuša"
+          - "Велика Кладуша"
         ascii_name: "Velika Kladusa"
         geonamesid: 3188225
         latitude: 45.18944
         longitude: 15.81167
         name: "Velika Kladuša"
-        names_en: ~
+        names_en: 
+          - "Velika Kladuša"
         names_es: ~
         population: 19330
         timezone: Europe/Sarajevo
@@ -185,6 +195,7 @@ regions:
           - Vares
           - "Vares Grad"
           - Vareš
+          - "Vareš Grad"
         ascii_name: Vares
         geonamesid: 3188366
         latitude: 44.16444
@@ -210,12 +221,14 @@ regions:
           - "Donja Tuzla"
           - Soli
           - Tuzla
+          - Тузла
         ascii_name: Tuzla
         geonamesid: 3188582
         latitude: 44.54278
         longitude: 18.66944
         name: Tuzla
-        names_en: ~
+        names_en: 
+          - Tuzla
         names_es: ~
         population: 142486
         timezone: Europe/Sarajevo
@@ -246,13 +259,16 @@ regions:
           - Traunik
           - Travnik
           - travnik
+          - Травник
         ascii_name: Travnik
         geonamesid: 3188924
         latitude: 44.22667
         longitude: 17.67056
         name: Travnik
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Travnik
+        names_es: 
+          - Travnik
         population: 31127
         timezone: Europe/Sarajevo
       - 
@@ -294,6 +310,7 @@ regions:
           - Srebrenik
           - Srebrnica
           - Srebrnik
+          - Сребреник
         ascii_name: Srebrenik
         geonamesid: 3190158
         latitude: 44.70778
@@ -308,13 +325,16 @@ regions:
           - Bosna-Sarai
           - Saraeva
           - Saraevo
+          - Saragebo
         ascii_name: Sarajevo
         geonamesid: 3191281
         latitude: 43.84864
         longitude: 18.35644
         name: Sarajevo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sarajevo
+        names_es: 
+          - Sarajevo
         population: 696731
         timezone: Europe/Sarajevo
       - 
@@ -327,7 +347,8 @@ regions:
         latitude: 44.76528
         longitude: 16.66556
         name: "Sanski Most"
-        names_en: ~
+        names_en: 
+          - "Sanski Most"
         names_es: ~
         population: 13551
         timezone: Europe/Sarajevo
@@ -452,6 +473,7 @@ regions:
           - Ostrazac
           - Ostražac
           - Ostrozac
+          - Ostrožac
         ascii_name: Ostrozac
         geonamesid: 3193821
         latitude: 44.90861
@@ -534,13 +556,16 @@ regions:
           - Neum
           - ne-um
           - neumu
+          - Неум
         ascii_name: Neum
         geonamesid: 3194514
         latitude: 42.92333
         longitude: 17.61556
         name: Neum
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Neum
+        names_es: 
+          - Neum
         population: 4200
         timezone: Europe/Sarajevo
       - 
@@ -559,13 +584,16 @@ regions:
           - Mostar
           - Mostara
           - mosutaru
+          - Мостар
         ascii_name: Mostar
         geonamesid: 3194828
         latitude: 43.34333
         longitude: 17.80806
         name: Mostar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mostar
+        names_es: 
+          - Mostar
         population: 104518
         timezone: Europe/Sarajevo
       - 
@@ -588,7 +616,8 @@ regions:
         latitude: 44.54917
         longitude: 18.09667
         name: Maglaj
-        names_en: ~
+        names_en: 
+          - Maglaj
         names_es: ~
         population: 7399
         timezone: Europe/Sarajevo
@@ -628,8 +657,10 @@ regions:
         latitude: 43.82694
         longitude: 17.00778
         name: Livno
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Livno
+        names_es: 
+          - Livno
         population: 11748
         timezone: Europe/Sarajevo
       - 
@@ -637,6 +668,7 @@ regions:
           - Listica
           - Lištica
           - "Siroki Brijeg"
+          - "Široki Brijeg"
         ascii_name: "Siroki Brijeg"
         geonamesid: 3196428
         latitude: 43.38333
@@ -747,8 +779,10 @@ regions:
         latitude: 44.34222
         longitude: 17.26556
         name: Jajce
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Jajce
+        names_es: 
+          - Jajce
         population: 9763
         timezone: Europe/Sarajevo
       - 
@@ -756,6 +790,7 @@ regions:
           - Izacic
           - "Izacic Grad"
           - Izačić
+          - "Izačić Grad"
         ascii_name: Izacic
         geonamesid: 3199027
         latitude: 44.875
@@ -770,6 +805,7 @@ regions:
           - Ilias
           - Iliaš
           - Ilijas
+          - Ilijaš
         ascii_name: Ilijas
         geonamesid: 3199142
         latitude: 43.95083
@@ -855,6 +891,7 @@ regions:
           - "Gornje Mostre"
           - "Gornje Moštre"
           - "Mostre Gornje"
+          - "Moštre Gornje"
         ascii_name: "Gornje Mostre"
         geonamesid: 3200108
         latitude: 44.01889
@@ -880,12 +917,14 @@ regions:
           - Gorazde
           - Gorazhde
           - Goražde
+          - Горажде
         ascii_name: Gorazde
         geonamesid: 3200396
         latitude: 43.66694
         longitude: 18.97639
         name: Goražde
-        names_en: ~
+        names_en: 
+          - Goražde
         names_es: ~
         population: 17650
         timezone: Europe/Sarajevo
@@ -932,12 +971,14 @@ regions:
           - Duvno
           - Tomislavgrad
           - Zupanjac
+          - Županjac
         ascii_name: Tomislavgrad
         geonamesid: 3200930
         latitude: 43.71806
         longitude: 17.22667
         name: Tomislavgrad
-        names_en: ~
+        names_en: 
+          - Tomislavgrad
         names_es: ~
         population: 7737
         timezone: Europe/Sarajevo
@@ -994,6 +1035,7 @@ regions:
           - "Donja Mededa"
           - "Donja Medida"
           - "Donja Medjedja"
+          - "Donja Medjidja"
         ascii_name: "Donja Medida"
         geonamesid: 3201660
         latitude: 44.8025
@@ -1069,7 +1111,8 @@ regions:
         latitude: 44.96694
         longitude: 15.94306
         name: Cazin
-        names_en: ~
+        names_en: 
+          - Cazin
         names_es: ~
         population: 21741
         timezone: Europe/Sarajevo
@@ -1102,12 +1145,14 @@ regions:
           - Bugojne
           - Bugojno
           - Бугойно
+          - Бугојно
         ascii_name: Bugojno
         geonamesid: 3203099
         latitude: 44.05722
         longitude: 17.45083
         name: Bugojno
-        names_en: ~
+        names_en: 
+          - Bugojno
         names_es: ~
         population: 41378
         timezone: Europe/Sarajevo
@@ -1116,6 +1161,7 @@ regions:
           - "Bosansko Grahovo"
           - "Bosansko Grakhovo"
           - Grahovo
+          - "Hrvatsko Grahovo"
         ascii_name: "Bosansko Grahovo"
         geonamesid: 3203644
         latitude: 44.17944
@@ -1130,6 +1176,7 @@ regions:
           - "Bosanska Krupa"
           - Krupa
           - "Krupa na Uni"
+          - "Босанска Крупа"
         ascii_name: "Bosanska Krupa"
         geonamesid: 3203653
         latitude: 44.8825
@@ -1156,13 +1203,16 @@ regions:
           - Bihac
           - Bihaç
           - Bihać
+          - Bikhach
         ascii_name: Bihac
         geonamesid: 3204222
         latitude: 44.81694
         longitude: 15.87083
         name: Bihać
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bihać
+        names_es: 
+          - Bihać
         population: 75641
         timezone: Europe/Sarajevo
       - 
@@ -1326,8 +1376,10 @@ regions:
         timezone: Europe/Sarajevo
     geonamesid: 3229999
     name: "Federation of Bosnia and Herzegovina"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Federation of Bosnia and Herzegovina"
+    names_es: 
+      - "Federacion de Bosnia-Herzegovina"
   - 
     ascii_name: "Republika Srpska"
     cities: 
@@ -1341,7 +1393,8 @@ regions:
         latitude: 44.38694
         longitude: 19.10139
         name: Zvornik
-        names_en: ~
+        names_en: 
+          - Zvornik
         names_es: ~
         population: 8026
         timezone: Europe/Sarajevo
@@ -1362,12 +1415,14 @@ regions:
           - Visegrad
           - Visegradas
           - Višegrad
+          - Višegradas
         ascii_name: Visegrad
         geonamesid: 3187681
         latitude: 43.78472
         longitude: 19.29917
         name: Višegrad
-        names_en: ~
+        names_en: 
+          - Višegrad
         names_es: ~
         population: 6087
         timezone: Europe/Sarajevo
@@ -1387,12 +1442,14 @@ regions:
           - Trebigne
           - Trebin'e
           - Trebine
+          - Trebinje
         ascii_name: Trebinje
         geonamesid: 3188893
         latitude: 42.71194
         longitude: 18.34417
         name: Trebinje
-        names_en: ~
+        names_en: 
+          - Trebinje
         names_es: ~
         population: 33178
         timezone: Europe/Sarajevo
@@ -1425,13 +1482,16 @@ regions:
           - Srebrenica
           - Srebrnica
           - sureburenitsu~a
+          - Сребреница
         ascii_name: Srebrenica
         geonamesid: 3190159
         latitude: 44.10639
         longitude: 19.29694
         name: Srebrenica
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Srebrenica
+        names_es: 
+          - Srebrenica
         population: 2862
         timezone: Europe/Sarajevo
       - 
@@ -1439,6 +1499,7 @@ regions:
           - Srbac
           - Srpac
           - Srpak
+          - Svinjar
         ascii_name: Srbac
         geonamesid: 3190172
         latitude: 45.09778
@@ -1491,6 +1552,7 @@ regions:
           - Sejkovic
           - Sejkovici
           - Sekovici
+          - Šejković
         ascii_name: Sekovici
         geonamesid: 3191156
         latitude: 44.29861
@@ -1541,12 +1603,14 @@ regions:
           - Priedora
           - Prijedor
           - Приедора
+          - Приједор
         ascii_name: Prijedor
         geonamesid: 3192409
         latitude: 44.98139
         longitude: 16.71306
         name: Prijedor
-        names_en: ~
+        names_en: 
+          - Prijedor
         names_es: ~
         population: 36347
         timezone: Europe/Sarajevo
@@ -1592,7 +1656,8 @@ regions:
         latitude: 43.81611
         longitude: 18.56944
         name: Pale
-        names_en: ~
+        names_en: 
+          - Pale
         names_es: ~
         population: 7458
         timezone: Europe/Sarajevo
@@ -1690,6 +1755,7 @@ regions:
           - "Banja Laktasi"
           - "Banja Laktaši"
           - Laktasi
+          - "Laktasi Ilidza"
         ascii_name: Laktasi
         geonamesid: 3196792
         latitude: 44.90806
@@ -1798,12 +1864,14 @@ regions:
           - Derbend
           - Dervent
           - Derventa
+          - drbnd
         ascii_name: Derventa
         geonamesid: 3202081
         latitude: 44.97722
         longitude: 17.91028
         name: Derventa
-        names_en: ~
+        names_en: 
+          - Derventa
         names_es: ~
         population: 9773
         timezone: Europe/Sarajevo
@@ -1835,12 +1903,14 @@ regions:
           - "Bosanski Samac"
           - "Bosanski Shamac"
           - "Bosanski Šamac"
+          - Samac
         ascii_name: "Bosanski Samac"
         geonamesid: 3203645
         latitude: 45.05917
         longitude: 18.46694
         name: "Bosanski Šamac"
-        names_en: ~
+        names_en: 
+          - Šamac
         names_es: ~
         population: 3599
         timezone: Europe/Sarajevo
@@ -1863,12 +1933,14 @@ regions:
           - "Bosanski Brod"
           - Brod
           - "Srpski Brod"
+          - Брод
         ascii_name: "Bosanski Brod"
         geonamesid: 3203651
         latitude: 45.1375
         longitude: 17.98972
         name: "Bosanski Brod"
-        names_en: ~
+        names_en: 
+          - "Bosanski Brod"
         names_es: ~
         population: 9249
         timezone: Europe/Sarajevo
@@ -1891,6 +1963,7 @@ regions:
           - "Bosanska Gradiska"
           - "Bosanska Gradiška"
           - Gradiska
+          - "Gradiska na Savi"
         ascii_name: "Bosanska Gradiska"
         geonamesid: 3203656
         latitude: 45.14111
@@ -1929,12 +2002,14 @@ regions:
           - Bileca
           - Bilece
           - Bilegja
+          - Bileća
         ascii_name: Bileca
         geonamesid: 3204161
         latitude: 42.87194
         longitude: 18.42972
         name: Bileća
-        names_en: ~
+        names_en: 
+          - Bileća
         names_es: ~
         population: 13257
         timezone: Europe/Sarajevo
@@ -1943,12 +2018,14 @@ regions:
           - Beline
           - Bieline
           - Bijelina
+          - Bijeljina
         ascii_name: Bijeljina
         geonamesid: 3204186
         latitude: 44.75694
         longitude: 19.21611
         name: Bijeljina
-        names_en: ~
+        names_en: 
+          - Bijeljina
         names_es: ~
         population: 37692
         timezone: Europe/Sarajevo
@@ -1957,13 +2034,16 @@ regions:
           - "Bana Luka"
           - "Bania Louka"
           - "Bania Luka"
+          - Banialuca
         ascii_name: "Banja Luka"
         geonamesid: 3204541
         latitude: 44.77583
         longitude: 17.18556
         name: "Banja Luka"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Banja Luka"
+        names_es: 
+          - "Bania Luka"
         population: 221106
         timezone: Europe/Sarajevo
       - 
@@ -2046,7 +2126,8 @@ regions:
     geonamesid: 3230000
     name: "Republika Srpska"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "República Serbia"
   - 
     ascii_name: Brcko
     cities: 
@@ -2065,5 +2146,9 @@ regions:
         timezone: Europe/Sarajevo
     geonamesid: 3294903
     name: Brčko
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Brčko District"
+      - Brčko
+    names_es: 
+      - "Distrito Brcko"
+      - Brcko

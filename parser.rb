@@ -13,9 +13,8 @@ class GeoNamesParser
     @country_fields   = opts.delete(:country_fields)  || COUNTRY_FIELDS + %w(regions localized_names)
     @region_fields    = opts.delete(:region_fields)   || REGION_FIELDS + %w(cities localized_names)
     @city_fields      = opts.delete(:city_fields)     || CITY_FIELDS + %w(locales localized_names)
-    @locales          = opts.delete(:locales)         || ['en']
+    @locales          = opts.delete(:locales)         || %w(en)
     @alternate_names  = opts.delete(:alternate_names) || 3
-    @alternate_names -= 1 
     @export_dir       = opts.delete(:export_dir)      || 'data'
   end
 
@@ -114,6 +113,7 @@ class GeoNamesParser
     names = {}
     File.open('GeoNames Data/alternateNames.txt').each do |row|
       id, geoid, locale, name = row.strip.split("\t")
+      geoid = geoid.to_i
       if @locales.include? locale
         names[geoid] ||= {}
         (names[geoid][locale] ||= []) << name
@@ -152,3 +152,8 @@ end
 
 parser = GeoNamesParser.new(:locales => %w(es en), :country_fields => %w(geonamesid iso name regions localized_names), :region_fields => %(geonamesid name cities localized_names ascii_name abbr), :city_fields => %(geonamesid name alternate_names population localized_names ascii_name latitude longitude timezone))
 parser.export!
+
+countries = parser.parse
+nil
+
+countries.find{ |c| c['iso'] == 'MX' }['regions'].first['cities'].count

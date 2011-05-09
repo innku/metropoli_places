@@ -2,8 +2,11 @@
 geonamesid: 2629691
 iso: IS
 name: Iceland
-names_en: ~
-names_es: ~
+names_en: 
+  - Iceland
+  - "Republic of Iceland"
+names_es: 
+  - Islandia
 regions: 
   - 
     ascii_name: Northwest
@@ -13,19 +16,23 @@ regions:
           - Saudarkrokr
           - Saudarkrokur
           - Saudharkrokur
+          - Sauðárkrókur
         ascii_name: Saudarkrokur
         geonamesid: 2627309
         latitude: 65.74611
         longitude: -19.63944
         name: Sauðárkrókur
-        names_en: ~
+        names_en: 
+          - Sauðárkrókur
         names_es: ~
         population: 2682
         timezone: Atlantic/Reykjavik
     geonamesid: 3337403
     name: Northwest
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Northwest
+    names_es: 
+      - Noroccidental
   - 
     ascii_name: Northeast
     cities: 
@@ -48,13 +55,16 @@ regions:
           - Husavik
           - Husayik
           - Húsavík
+          - Nordurthing
         ascii_name: Husavik
         geonamesid: 2629833
         latitude: 66.04489
         longitude: -17.33885
         name: Húsavík
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Húsavík
+        names_es: 
+          - Húsavík
         population: 2338
         timezone: Atlantic/Reykjavik
       - 
@@ -62,12 +72,14 @@ regions:
           - Dalvik
           - Dalvikurbyggd
           - Dalvík
+          - Dalvíkurbyggð
         ascii_name: Dalvik
         geonamesid: 2632287
         latitude: 65.97018
         longitude: -18.52861
         name: Dalvík
-        names_en: ~
+        names_en: 
+          - Dalvík
         names_es: ~
         population: 1403
         timezone: Atlantic/Reykjavik
@@ -76,19 +88,24 @@ regions:
           - Akjurejri
           - Akoureuri
           - Akureyri
+          - akureiri
         ascii_name: Akureyri
         geonamesid: 2633274
         latitude: 65.68353
         longitude: -18.0878
         name: Akureyri
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Akureyri
+        names_es: 
+          - Akureyri
         population: 16563
         timezone: Atlantic/Reykjavik
     geonamesid: 3337404
     name: Northeast
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Northeast
+    names_es: 
+      - Nororiental
   - 
     ascii_name: East
     cities: 
@@ -133,8 +150,10 @@ regions:
         timezone: Atlantic/Reykjavik
     geonamesid: 3337405
     name: East
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - East
+    names_es: 
+      - Oriental
   - 
     ascii_name: South
     cities: 
@@ -143,6 +162,7 @@ regions:
           - Kaupstadur
           - Kaupstaður
           - Vestmannaehjjar
+          - Vestmannaeyjar
         ascii_name: Vestmannaeyjar
         geonamesid: 3412093
         latitude: 63.44273
@@ -181,19 +201,23 @@ regions:
           - Hveragerdhi
           - Hveragerdi
           - Hveragerdisbaer
+          - Hveragerði
         ascii_name: Hveragerdi
         geonamesid: 3415761
         latitude: 64.00057
         longitude: -21.18874
         name: Hveragerði
-        names_en: ~
+        names_en: 
+          - Hveragerði
         names_es: ~
         population: 2281
         timezone: Atlantic/Reykjavik
     geonamesid: 3337406
     name: South
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - South
+    names_es: 
+      - Meridional
   - 
     ascii_name: "Capital Region"
     cities: 
@@ -202,13 +226,17 @@ regions:
           - Refkiavik
           - Reiciavicia
           - Reicivic
+          - Reikiavik
         ascii_name: Reykjavik
         geonamesid: 3413829
         latitude: 64.13548
         longitude: -21.89541
         name: Reykjavík
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Reykjavik
+          - Reykjavík
+        names_es: 
+          - Reikiavik
         population: 113906
         timezone: Atlantic/Reykjavik
       - 
@@ -238,13 +266,16 @@ regions:
           - Kopavogskaupstadur
           - Kopavogur
           - Koupavogjur
+          - Kópavogskaupstaður
         ascii_name: Kopavogur
         geonamesid: 3415212
         latitude: 64.11234
         longitude: -21.91298
         name: Kópavogur
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kópavogur
+        names_es: 
+          - Kópavogur
         population: 26157
         timezone: Atlantic/Reykjavik
       - 
@@ -252,13 +283,16 @@ regions:
           - Hafnarfjoerdur
           - Hafnarfjordur
           - Hafnarfjörður
+          - Halfnarfjordur
         ascii_name: Hafnarfjordur
         geonamesid: 3416706
         latitude: 64.0671
         longitude: -21.93774
         name: Hafnarfjörður
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hafnarfjordur
+        names_es: 
+          - Hafnarfjörður
         population: 22289
         timezone: Atlantic/Reykjavik
       - 
@@ -266,19 +300,24 @@ regions:
           - Gardabaer
           - Garðabær
           - gardhabayr
+          - گارذابایر
         ascii_name: Gardabar
         geonamesid: 3417195
         latitude: 64.08865
         longitude: -21.92298
         name: Garðabær
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Garðabær
+        names_es: 
+          - Garðabær
         population: 9265
         timezone: Atlantic/Reykjavik
     geonamesid: 3426182
     name: "Capital Region"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Capital Region"
+    names_es: 
+      - "Región de la capital"
   - 
     ascii_name: "Southern Peninsula"
     cities: 
@@ -301,6 +340,7 @@ regions:
           - "Innri Njardvik"
           - "Innri Njarðvík"
           - Njardhvik
+          - Njardvikur
         ascii_name: Njardvik
         geonamesid: 3414222
         latitude: 63.9809
@@ -315,13 +355,16 @@ regions:
           - Keflavik
           - Keflavík
           - Kephlabik
+          - kefuravu~iku
         ascii_name: Keflavik
         geonamesid: 3415496
         latitude: 64.00492
         longitude: -22.56242
         name: Keflavík
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Keflavík
+        names_es: 
+          - Keflavík
         population: 7930
         timezone: Atlantic/Reykjavik
       - 
@@ -333,7 +376,8 @@ regions:
         latitude: 63.8424
         longitude: -22.43375
         name: Grindavík
-        names_en: ~
+        names_en: 
+          - Grindavík
         names_es: ~
         population: 2539
         timezone: Atlantic/Reykjavik
@@ -350,8 +394,10 @@ regions:
         timezone: Atlantic/Reykjavik
     geonamesid: 3426183
     name: "Southern Peninsula"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Southern Peninsula"
+    names_es: 
+      - Suroccidental
   - 
     ascii_name: West
     cities: 
@@ -385,19 +431,24 @@ regions:
           - Akranes
           - Akranesas
           - Skipaskagi
+          - "a ke la nei si"
         ascii_name: Akranes
         geonamesid: 3418653
         latitude: 64.32179
         longitude: -22.0749
         name: Akranes
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Akranes
+        names_es: 
+          - Akranes
         population: 5606
         timezone: Atlantic/Reykjavik
     geonamesid: 3426184
     name: West
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - West
+    names_es: 
+      - Occidental
   - 
     ascii_name: Westfjords
     cities: 
@@ -406,16 +457,20 @@ regions:
           - Isafiordr
           - Isafjardardjup
           - Isafjoerdur
+          - Isafjordur
         ascii_name: Isafjoerdur
         geonamesid: 3415667
         latitude: 66.07549
         longitude: -23.124
         name: Ísafjörður
-        names_en: ~
+        names_en: 
+          - Ísafjörður
         names_es: ~
         population: 2534
         timezone: Atlantic/Reykjavik
     geonamesid: 3426185
     name: Westfjords
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Westfjords
+    names_es: 
+      - "Fiordos occidentales"

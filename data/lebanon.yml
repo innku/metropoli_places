@@ -2,8 +2,12 @@
 geonamesid: 272103
 iso: LB
 name: Lebanon
-names_en: ~
-names_es: ~
+names_en: 
+  - Lebanon
+  - "Republic of Lebanon"
+names_es: 
+  - Líbano
+  - "el país del cedro"
 regions: 
   - 
     ascii_name: "Mohafazat Mont-Liban"
@@ -13,6 +17,7 @@ regions:
           - Djounie
           - Jounie
           - Joünié
+          - Juniyah
         ascii_name: Djounie
         geonamesid: 273140
         latitude: 33.98083
@@ -27,13 +32,16 @@ regions:
           - Bibl
           - Biblos
           - Byblos
+          - Djebail
         ascii_name: Jbail
         geonamesid: 273203
         latitude: 34.12111
         longitude: 35.64806
         name: Jbail
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Byblos
+        names_es: 
+          - Biblos
         population: 20784
         timezone: Asia/Beirut
       - 
@@ -41,12 +49,14 @@ regions:
           - Bhamdoun
           - Bhamdoûn
           - "Bhamdun al Mahattah"
+          - "Bḩamdūn al Maḩaţţah"
         ascii_name: "Bhamdoun el Mhatta"
         geonamesid: 276632
         latitude: 33.80861
         longitude: 35.65972
         name: "Bhamdoûn el Mhatta"
-        names_en: ~
+        names_en: 
+          - Bhamdoun
         names_es: ~
         population: 5000
         timezone: Asia/Beirut
@@ -55,6 +65,7 @@ regions:
           - Bhamdourn
           - Bhamdun
           - Bihamdun
+          - Biḩamdūn
         ascii_name: Bhamdoun
         geonamesid: 276633
         latitude: 33.795
@@ -80,7 +91,8 @@ regions:
     geonamesid: 273607
     name: Mont-Liban
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Monte Libano"
   - 
     ascii_name: "Mohafazat Beyrouth"
     cities: 
@@ -89,13 +101,16 @@ regions:
           - Baeyrut
           - Bayrut
           - Bayrūt
+          - Beiroet
         ascii_name: Beirut
         geonamesid: 276781
         latitude: 33.88894
         longitude: 35.49442
         name: Beirut
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Beirut
+        names_es: 
+          - Beirut
         population: 1916100
         timezone: Asia/Beirut
     geonamesid: 276780
@@ -110,13 +125,16 @@ regions:
           - Tarabulus
           - Trablous
           - Tripoli
+          - Tripolo
         ascii_name: Tripoli
         geonamesid: 266826
         latitude: 34.43667
         longitude: 35.84972
         name: Tripoli
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tripoli
+        names_es: 
+          - Trípoli
         population: 229398
         timezone: Asia/Beirut
       - 
@@ -124,6 +142,7 @@ regions:
           - Basharri
           - Basharrī
           - Bcharre
+          - Bcharreh
         ascii_name: Bcharre
         geonamesid: 276359
         latitude: 34.25083
@@ -138,6 +157,7 @@ regions:
           - "Al Batrun"
           - "Al Batrūn"
           - Batroun
+          - Batroûn
         ascii_name: Batroun
         geonamesid: 280328
         latitude: 34.25528
@@ -159,13 +179,16 @@ regions:
           - "Es Sur"
           - Sor
           - Sour
+          - Soûr
         ascii_name: Tyre
         geonamesid: 267008
         latitude: 33.27333
         longitude: 35.19389
         name: Tyre
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tyre
+        names_es: 
+          - Tiro
         population: 135204
         timezone: Asia/Beirut
       - 
@@ -173,13 +196,16 @@ regions:
           - Saida
           - Sayda
           - Saïda
+          - Sidon
         ascii_name: Sidon
         geonamesid: 268064
         latitude: 33.56306
         longitude: 35.36889
         name: Sidon
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sidon
+        names_es: 
+          - Sidón
         population: 163554
         timezone: Asia/Beirut
     geonamesid: 279894
@@ -194,12 +220,14 @@ regions:
           - Zahlah
           - Zahle
           - Zahleh
+          - Zahlé
         ascii_name: Zahle
         geonamesid: 266045
         latitude: 33.84972
         longitude: 35.90417
         name: Zahlé
-        names_en: ~
+        names_en: 
+          - Zahle
         names_es: ~
         population: 78145
         timezone: Asia/Beirut
@@ -215,6 +243,7 @@ regions:
           - Habbouch
           - Habboush
           - Habboûch
+          - Habbush
         ascii_name: Habbouch
         geonamesid: 274874
         latitude: 33.4075
@@ -229,6 +258,7 @@ regions:
           - "Ain Ibel"
           - "Ain Ibl"
           - "Aïn Ibel"
+          - "`Ain Ibil"
         ascii_name: "Ain Ebel"
         geonamesid: 277467
         latitude: 33.11023
@@ -270,13 +300,16 @@ regions:
           - Ba`albak
           - Ba`labak
           - Ba`labakk
+          - Baal'bek
         ascii_name: Baalbek
         geonamesid: 277130
         latitude: 34.00583
         longitude: 36.21806
         name: Baalbek
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Baalbek
+        names_es: 
+          - Baalbek
         population: 30916
         timezone: Asia/Beirut
     geonamesid: 6201371

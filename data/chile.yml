@@ -2,8 +2,11 @@
 geonamesid: 3895114
 iso: CL
 name: Chile
-names_en: ~
-names_es: ~
+names_en: 
+  - Chile
+  - "Republic of Chile"
+names_es: 
+  - Chile
 regions: 
   - 
     ascii_name: "Region de Valparaiso"
@@ -13,13 +16,16 @@ regions:
           - Vin'ja-del'-Mar
           - "Vina del Mar"
           - "Viña del Mar"
+          - Винья-дель-Мар
         ascii_name: "Vina del Mar"
         geonamesid: 3868121
         latitude: -33.02457
         longitude: -71.55183
         name: "Viña del Mar"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Viña del Mar"
+        names_es: 
+          - "Viña del Mar"
         population: 294551
         timezone: America/Santiago
       - 
@@ -31,7 +37,8 @@ regions:
         longitude: -71.37333
         name: "Villa Alemana"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - "Villa Alemana"
         population: 97320
         timezone: America/Santiago
       - 
@@ -39,13 +46,16 @@ regions:
           - "Ciudad de Valparaiso"
           - "Ciudad de Valparaíso"
           - Val'paraiso
+          - Valparais
         ascii_name: Valparaiso
         geonamesid: 3868626
         latitude: -33.03932
         longitude: -71.62725
         name: Valparaíso
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Valparaíso
+        names_es: 
+          - Valparaíso
         population: 282448
         timezone: America/Santiago
       - 
@@ -69,7 +79,8 @@ regions:
         longitude: -71.62167
         name: "San Antonio"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - "San Antonio"
         population: 85651
         timezone: America/Santiago
       - 
@@ -81,8 +92,10 @@ regions:
         latitude: -33.045
         longitude: -71.44944
         name: Quilpué
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Quilpué
+        names_es: 
+          - Quilpué
         population: 130263
         timezone: America/Santiago
       - 
@@ -93,8 +106,10 @@ regions:
         latitude: -32.88333
         longitude: -71.26667
         name: Quillota
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Quillota
+        names_es: 
+          - Quillota
         population: 67779
         timezone: America/Santiago
       - 
@@ -102,6 +117,7 @@ regions:
           - Andes
           - "Ciudad Los Andes"
           - Los-And
+          - Лос-Анд
         ascii_name: "Los Andes"
         geonamesid: 3882434
         latitude: -32.83369
@@ -166,13 +182,16 @@ regions:
           - "Hanga Roa"
           - Khanga-Roa
           - hang-galoa
+          - "hanja rwa"
         ascii_name: "Hanga Roa"
         geonamesid: 4030754
         latitude: -27.15
         longitude: -109.43333
         name: "Hanga Roa"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Hanga Roa"
+        names_es: 
+          - "Hanga Roa"
         population: 3304
         timezone: Pacific/Easter
     geonamesid: 3868621
@@ -187,13 +206,16 @@ regions:
           - Ikike
           - Iquique
           - ikike
+          - Ікіке
         ascii_name: Iquique
         geonamesid: 3887127
         latitude: -20.22083
         longitude: -70.14306
         name: Iquique
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Iquique
+        names_es: 
+          - Iquique
         population: 227499
         timezone: America/Santiago
     geonamesid: 3870116
@@ -219,13 +241,16 @@ regions:
           - "Ciles Santjagas"
           - CiudadSantiago
           - Sanctiacobi
+          - Sant'jago
         ascii_name: Santiago
         geonamesid: 3871336
         latitude: -33.42628
         longitude: -70.56656
         name: Santiago
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Santiago
+        names_es: 
+          - "Santiago de Chile"
         population: 4837295
         timezone: America/Santiago
       - 
@@ -257,13 +282,15 @@ regions:
           - Pen'jaflor
           - Penaflor
           - Peñaflor
+          - Пеньяфлор
         ascii_name: Penaflor
         geonamesid: 3876685
         latitude: -33.61667
         longitude: -70.91667
         name: Peñaflor
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Peñaflor
         population: 65495
         timezone: America/Santiago
       - 
@@ -285,13 +312,15 @@ regions:
           - Melipil'ja
           - Melipilla
           - Mellipilla
+          - Мелипилья
         ascii_name: Melipilla
         geonamesid: 3880107
         latitude: -33.7
         longitude: -71.21667
         name: Melipilla
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Melipilla
         population: 63100
         timezone: America/Santiago
       - 
@@ -339,7 +368,8 @@ regions:
         longitude: -70.63419
         name: "La Pintana"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - "La Pintana"
         population: 201178
         timezone: America/Santiago
       - 
@@ -351,7 +381,8 @@ regions:
         longitude: -70.72552
         name: "Lo Prado"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - "Lo Prado"
         population: 104316
         timezone: America/Santiago
     geonamesid: 3873544
@@ -383,8 +414,10 @@ regions:
         latitude: -35.43333
         longitude: -71.66667
         name: Talca
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Talca
+        names_es: 
+          - Talca
         population: 197479
         timezone: America/Santiago
       - 
@@ -459,8 +492,10 @@ regions:
         latitude: -35.85
         longitude: -71.6
         name: Linares
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Linares
+        names_es: 
+          - Linares
         population: 69535
         timezone: America/Santiago
       - 
@@ -472,8 +507,10 @@ regions:
         latitude: -34.98333
         longitude: -71.23333
         name: Curicó
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Curicó
+        names_es: 
+          - Curicó
         population: 102438
         timezone: America/Santiago
       - 
@@ -494,6 +531,7 @@ regions:
           - Cauquenes
           - "De Cauquenes"
           - Kaukenes
+          - Каукенес
         ascii_name: Cauquenes
         geonamesid: 3896105
         latitude: -35.96667
@@ -561,13 +599,16 @@ regions:
           - "Ciudad de Puerto Montt"
           - Puehrto-Mont
           - "Puerto Mont"
+          - "Puerto Montt"
         ascii_name: "Puerto Montt"
         geonamesid: 3874960
         latitude: -41.47167
         longitude: -72.93694
         name: "Puerto Montt"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Puerto Montt"
+        names_es: 
+          - "Puerto Montt"
         population: 160054
         timezone: America/Santiago
       - 
@@ -602,8 +643,10 @@ regions:
         latitude: -40.56667
         longitude: -73.15
         name: Osorno
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Osorno
+        names_es: 
+          - Osorno
         population: 135773
         timezone: America/Santiago
       - 
@@ -662,13 +705,15 @@ regions:
           - Chonch
           - Chonchi
           - Trongchue
+          - Trongchü
         ascii_name: Chonchi
         geonamesid: 3894871
         latitude: -42.61278
         longitude: -73.80917
         name: Chonchi
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Chonchi
         population: 12572
         timezone: America/Santiago
       - 
@@ -706,7 +751,8 @@ regions:
         longitude: -73.13333
         name: Calbuco
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Calbuco
         population: 12490
         timezone: America/Santiago
       - 
@@ -720,7 +766,8 @@ regions:
         longitude: -73.82028
         name: Ancud
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Ancud
         population: 28020
         timezone: America/Santiago
       - 
@@ -799,8 +846,10 @@ regions:
         latitude: -34.17083
         longitude: -70.74444
         name: Rancagua
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rancagua
+        names_es: 
+          - Rancagua
         population: 212695
         timezone: America/Santiago
       - 
@@ -879,8 +928,10 @@ regions:
         latitude: -30.59833
         longitude: -71.20028
         name: Ovalle
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ovalle
+        names_es: 
+          - Ovalle
         population: 77138
         timezone: America/Santiago
       - 
@@ -904,8 +955,10 @@ regions:
         latitude: -29.90778
         longitude: -71.25417
         name: "La Serena"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "La Serena"
+        names_es: 
+          - "La Serena"
         population: 154521
         timezone: America/Santiago
       - 
@@ -925,6 +978,7 @@ regions:
           - "Ciudad de Coquimbo"
           - Coquimbo
           - Kokimbo
+          - Кокимбо
         ascii_name: Coquimbo
         geonamesid: 3893629
         latitude: -29.95333
@@ -973,8 +1027,10 @@ regions:
         latitude: -36.71667
         longitude: -73.11667
         name: Talcahuano
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Talcahuano
+        names_es: 
+          - Talcahuano
         population: 252968
         timezone: America/Santiago
       - 
@@ -993,6 +1049,7 @@ regions:
           - "Ciudad de Penco"
           - Penco
           - Penon
+          - Peñon
         ascii_name: Penco
         geonamesid: 3876664
         latitude: -36.73333
@@ -1019,6 +1076,7 @@ regions:
           - Mul'chen
           - Mulchen
           - Mulchén
+          - Мульчен
         ascii_name: Mulchen
         geonamesid: 3879200
         latitude: -37.71667
@@ -1047,6 +1105,7 @@ regions:
           - Angeles
           - "Ciudad de Los Anjeles"
           - "Los Angeles"
+          - "Los Anjeles"
         ascii_name: "Los Angeles"
         geonamesid: 3882428
         latitude: -37.46667
@@ -1113,13 +1172,16 @@ regions:
           - "Ciudad de Concepcion"
           - Concepcion
           - Concepción
+          - Konseps'on
         ascii_name: Concepcion
         geonamesid: 3893894
         latitude: -36.82699
         longitude: -73.04977
         name: Concepción
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Concepción
+        names_es: 
+          - Concepción
         population: 215413
         timezone: America/Santiago
       - 
@@ -1153,7 +1215,8 @@ regions:
         longitude: -73.01667
         name: Chiguayante
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Chiguayante
         population: 82545
         timezone: America/Santiago
       - 
@@ -1243,8 +1306,10 @@ regions:
         latitude: -27.36667
         longitude: -70.33333
         name: Copiapó
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Copiapó
+        names_es: 
+          - Copiapó
         population: 129280
         timezone: America/Santiago
     geonamesid: 3899191
@@ -1303,13 +1368,15 @@ regions:
           - "Ciudad Temuco"
           - Temuco
           - Temuko
+          - Темуко
         ascii_name: Temuco
         geonamesid: 3870011
         latitude: -38.73333
         longitude: -72.6
         name: Temuco
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Temuco
         population: 238129
         timezone: America/Santiago
       - 
@@ -1464,8 +1531,10 @@ regions:
         latitude: -22.91667
         longitude: -68.21667
         name: "San Pedro de Atacama"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Pedro de Atacama"
+        names_es: 
+          - "San Pedro de Atacama"
         population: 2000
         timezone: America/Santiago
       - 
@@ -1478,8 +1547,10 @@ regions:
         latitude: -22.46667
         longitude: -68.93333
         name: Calama
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Calama
+        names_es: 
+          - Calama
         population: 143084
         timezone: America/Santiago
       - 
@@ -1487,13 +1558,16 @@ regions:
           - Antafagasta
           - Antofagasta
           - antofagasuta
+          - antopagaseuta
         ascii_name: Antofagasta
         geonamesid: 3899539
         latitude: -23.65
         longitude: -70.4
         name: Antofagasta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Antofagasta
+        names_es: 
+          - Antofagasta
         population: 309832
         timezone: America/Santiago
     geonamesid: 3899537
@@ -1520,13 +1594,15 @@ regions:
           - Aisen
           - Aisén
           - Aysen
+          - "Ciudad de Aysen"
         ascii_name: "Puerto Aisen"
         geonamesid: 3874997
         latitude: -45.4
         longitude: -72.7
         name: "Puerto Aisén"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - "Puerto Aysén"
         population: 16936
         timezone: America/Santiago
       - 
@@ -1600,13 +1676,16 @@ regions:
           - Magallanes
           - "Punta Arehnas"
           - "Punta Arenas"
+          - "Punta Arenasas"
         ascii_name: "Punta Arenas"
         geonamesid: 3874787
         latitude: -53.15
         longitude: -70.91667
         name: "Punta Arenas"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Punta Arenas"
+        names_es: 
+          - "Punta Arenas"
         population: 117430
         timezone: America/Santiago
       - 
@@ -1614,12 +1693,14 @@ regions:
           - Natales
           - Puehrto-Natales
           - "Puerto Natales"
+          - Пуэрто-Наталес
         ascii_name: "Puerto Natales"
         geonamesid: 3874958
         latitude: -51.72363
         longitude: -72.48745
         name: "Puerto Natales"
-        names_en: ~
+        names_en: 
+          - "Puerto Natales"
         names_es: ~
         population: 20000
         timezone: America/Santiago
@@ -1635,13 +1716,16 @@ regions:
           - Arica
           - Arika
           - Арика
+          - אריקה
         ascii_name: Arica
         geonamesid: 3899361
         latitude: -18.475
         longitude: -70.30417
         name: Arica
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Arica
+        names_es: 
+          - Arica
         population: 185999
         timezone: America/Santiago
     geonamesid: 6693562
@@ -1656,13 +1740,16 @@ regions:
           - "Ciudad de Valdivia"
           - "Ciudad de Valdivía"
           - Val'divija
+          - Valdivia
         ascii_name: Valdivia
         geonamesid: 3868707
         latitude: -39.81422
         longitude: -73.24589
         name: Valdivia
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Valdivia
+        names_es: 
+          - Valdivia
         population: 133419
         timezone: America/Santiago
     geonamesid: 6693563

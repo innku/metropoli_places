@@ -2,8 +2,14 @@
 geonamesid: 3923057
 iso: BO
 name: Bolivia
-names_en: ~
-names_es: ~
+names_en: 
+  - Bolivia
+  - "Plurinational State of Bolivia"
+  - "Republic of Bolivia"
+names_es: 
+  - Bolivia
+  - "República de Bolivia"
+  - "Estado Plurinacional de Bolivia"
 regions: 
   - 
     ascii_name: "Departamento de Tarija"
@@ -39,13 +45,16 @@ regions:
           - "Ciudad Tarija"
           - Tarija
           - Tarikha
+          - Тариха
         ascii_name: Tarija
         geonamesid: 3903320
         latitude: -21.53549
         longitude: -64.72956
         name: Tarija
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tarija
+        names_es: 
+          - Tarija
         population: 159269
         timezone: America/La_Paz
       - 
@@ -96,6 +105,7 @@ regions:
           - "El Rabore"
           - "Fortin Robore"
           - "Fortín Roboré"
+          - Robore
         ascii_name: Robore
         geonamesid: 3444176
         latitude: -18.33333
@@ -147,8 +157,10 @@ regions:
         latitude: -18.48972
         longitude: -64.10694
         name: Vallegrande
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Vallegrande
+        names_es: 
+          - Vallegrande
         population: 8422
         timezone: America/La_Paz
       - 
@@ -156,6 +168,7 @@ regions:
           - Uribicha
           - Urubicha
           - Urubichi
+          - Urubichá
         ascii_name: Urubicha
         geonamesid: 3901969
         latitude: -15.38333
@@ -195,13 +208,16 @@ regions:
           - "Ciudad Santa Cruz"
           - "Ciudad de Santa Cruz de la Sierra"
           - "Santa Cruz"
+          - "Santa Cruz de la Sierra"
         ascii_name: "Santa Cruz de la Sierra"
         geonamesid: 3904906
         latitude: -17.8
         longitude: -63.16667
         name: "Santa Cruz de la Sierra"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santa Cruz de la Sierra"
+        names_es: 
+          - "Santa Cruz de la Sierra"
         population: 1364389
         timezone: America/La_Paz
       - 
@@ -245,6 +261,7 @@ regions:
           - "San Ignacio"
           - "San Ignacio Velasco"
           - "San Ignacio de Loyola"
+          - "San Ignacio de Velasco"
         ascii_name: "San Ignacio de Velasco"
         geonamesid: 3905658
         latitude: -16.36667
@@ -282,6 +299,7 @@ regions:
           - Paila
           - "Puerto Paila"
           - "Puerto Pailas"
+          - "Puesto de Pailas"
         ascii_name: "Puesto de Pailas"
         geonamesid: 3907159
         latitude: -17.65
@@ -307,6 +325,7 @@ regions:
           - "El Pailon"
           - "El Pailón"
           - Pailon
+          - Pailón
         ascii_name: Pailon
         geonamesid: 3909010
         latitude: -17.65
@@ -332,6 +351,7 @@ regions:
           - Montero
           - Vibora
           - Víbora
+          - Монтеро
         ascii_name: Montero
         geonamesid: 3910027
         latitude: -17.33333
@@ -461,6 +481,7 @@ regions:
           - Camiri
           - Kamiri
           - "Refineria Camiri"
+          - Камири
         ascii_name: Camiri
         geonamesid: 3922414
         latitude: -20.05
@@ -499,6 +520,7 @@ regions:
           - Anez
           - Ascencion
           - Ascención
+          - Ascension
         ascii_name: Ascension
         geonamesid: 3923644
         latitude: -15.7
@@ -513,6 +535,7 @@ regions:
           - Abapo
           - Abapó
           - "Mision Abapo"
+          - "Misión Abapó"
         ascii_name: Abapo
         geonamesid: 3924668
         latitude: -18.83333
@@ -582,13 +605,16 @@ regions:
           - "Ciudad Potosi"
           - P'utuqsi
           - Potosi
+          - Potosí
         ascii_name: Potosi
         geonamesid: 3907584
         latitude: -19.58361
         longitude: -65.75306
         name: Potosí
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Potosí
+        names_es: 
+          - Potosí
         population: 141251
         timezone: America/La_Paz
       - 
@@ -661,13 +687,16 @@ regions:
           - Cobija
           - Cobila
           - Cobya
+          - Kobikha
         ascii_name: Cobija
         geonamesid: 3919998
         latitude: -11.02671
         longitude: -68.76918
         name: Cobija
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cobija
+        names_es: 
+          - Cobija
         population: 26585
         timezone: America/La_Paz
     geonamesid: 3908600
@@ -706,13 +735,15 @@ regions:
           - "Ciudad Oruro"
           - Gruro
           - Oruro
+          - Ururu
         ascii_name: Oruro
         geonamesid: 3909234
         latitude: -17.98333
         longitude: -67.15
         name: Oruro
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Oruro
         population: 208684
         timezone: America/La_Paz
       - 
@@ -725,7 +756,8 @@ regions:
         longitude: -67.03333
         name: Machacamarca
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Machacamarca
         population: 2044
         timezone: America/La_Paz
       - 
@@ -754,7 +786,8 @@ regions:
         timezone: America/La_Paz
     geonamesid: 3909233
     name: Oruro
-    names_en: ~
+    names_en: 
+      - Oruro
     names_es: ~
   - 
     ascii_name: "Departamento de La Paz"
@@ -789,13 +822,16 @@ regions:
           - "Civilizacao Tiahuanaco"
           - "Civilização Tiahuanaco"
           - Tiahuanaco
+          - Tiavanaku
         ascii_name: Tiahuanaco
         geonamesid: 3903046
         latitude: -16.55
         longitude: -68.7
         name: Tiahuanaco
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tiwanaku
+        names_es: 
+          - Tiwanaku
         population: 3037
         timezone: America/La_Paz
       - 
@@ -828,6 +864,7 @@ regions:
           - "San Pablo"
           - "San Pablo de Tiquina"
           - Tiguina
+          - Tiquina
         ascii_name: "San Pablo"
         geonamesid: 3905206
         latitude: -16.21667
@@ -877,13 +914,17 @@ regions:
           - Chukiyapu
           - Chukiyawu
           - "Ciudad La Paz"
+          - "Civitas Pacis"
         ascii_name: "La Paz"
         geonamesid: 3911925
         latitude: -16.5
         longitude: -68.15
         name: "La Paz"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "La Paz"
+        names_es: 
+          - "La Paz"
+          - "Ciudad La Paz"
         population: 812799
         timezone: America/La_Paz
       - 
@@ -1100,13 +1141,16 @@ regions:
           - "Ciudad Cochabamba"
           - Cochabamba
           - Kochabamba
+          - Kuchawampa
         ascii_name: Cochabamba
         geonamesid: 3919968
         latitude: -17.3895
         longitude: -66.1568
         name: Cochabamba
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cochabamba
+        names_es: 
+          - Cochabamba
         population: 900414
         timezone: America/La_Paz
       - 
@@ -1190,13 +1234,16 @@ regions:
           - Chuqichaka
           - Chuquisaca
           - "Ciudad Sucre"
+          - Sucre
         ascii_name: Sucre
         geonamesid: 3903987
         latitude: -19.03332
         longitude: -65.26274
         name: Sucre
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sucre
+        names_es: 
+          - Sucre
         population: 224838
         timezone: America/La_Paz
       - 
@@ -1215,6 +1262,7 @@ regions:
           - Monteagudo
           - Sauces
           - "Villa Monteagudo"
+          - Монтеагудо
         ascii_name: Monteagudo
         geonamesid: 3910094
         latitude: -19.81667
@@ -1249,13 +1297,16 @@ regions:
           - "Ciudad Trinidad"
           - Trinidad
           - "te li ni da"
+          - torinida
         ascii_name: "La Santisima Trinidad"
         geonamesid: 3902377
         latitude: -14.83333
         longitude: -64.9
         name: "La Santisima Trinidad"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Trinidad
+        names_es: 
+          - Trinidad
         population: 84259
         timezone: America/La_Paz
       - 
@@ -1300,7 +1351,8 @@ regions:
         longitude: -67.52781
         name: Rurrenabaque
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Rurre
         population: 11749
         timezone: America/La_Paz
       - 
@@ -1313,8 +1365,10 @@ regions:
         latitude: -10.98333
         longitude: -66.1
         name: Riberalta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Riberalta
+        names_es: 
+          - Riberalta
         population: 74014
         timezone: America/La_Paz
       - 
@@ -1333,6 +1387,7 @@ regions:
           - Guajara-Mirim
           - Guayaramerin
           - Guayaramerín
+          - "Puerto Sucre"
         ascii_name: Guayaramerin
         geonamesid: 3915350
         latitude: -10.8

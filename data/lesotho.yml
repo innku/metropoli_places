@@ -2,8 +2,11 @@
 geonamesid: 932692
 iso: LS
 name: Lesotho
-names_en: ~
-names_es: ~
+names_en: 
+  - Lesotho
+names_es: 
+  - Lesotho
+  - Lesoto
 regions: 
   - 
     ascii_name: Thaba-Tseka
@@ -24,8 +27,11 @@ regions:
         timezone: Africa/Maseru
     geonamesid: 932011
     name: Thaba-Tseka
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Thaba-Tseka District"
+      - Thaba-Tseka
+    names_es: 
+      - "Distrito de Thaba-Tseka"
   - 
     ascii_name: Quthing
     cities: 
@@ -34,19 +40,24 @@ regions:
           - Cguting
           - Moyeni
           - Quthing
+          - Цгутинг
         ascii_name: Quthing
         geonamesid: 932183
         latitude: -30.40001
         longitude: 27.70027
         name: Quthing
-        names_en: ~
+        names_en: 
+          - Quthing
         names_es: ~
         population: 24130
         timezone: Africa/Maseru
     geonamesid: 932184
     name: Quthing
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Quthing District"
+      - Quthing
+    names_es: 
+      - "Distrito de Quthing"
   - 
     ascii_name: "Qacha's Nek District"
     cities: 
@@ -55,12 +66,14 @@ regions:
           - "Qacha's Neck"
           - "Qacha's Nek"
           - "Qacha's Nek Residency"
+          - "Qachas Nek Camp"
         ascii_name: "Qacha's Nek"
         geonamesid: 932218
         latitude: -30.11537
         longitude: 28.68936
         name: "Qacha’s Nek"
-        names_en: ~
+        names_en: 
+          - "Qacha's Nek"
         names_es: ~
         population: 25573
         timezone: Africa/Maseru
@@ -100,7 +113,8 @@ regions:
         latitude: -30.15137
         longitude: 27.47691
         name: "Mohale’s Hoek"
-        names_en: ~
+        names_en: 
+          - "Mohale's Hoek"
         names_es: ~
         population: 28310
         timezone: Africa/Maseru
@@ -116,13 +130,16 @@ regions:
           - Maserou
           - Maseru
           - "ma sai lu"
+          - "ma se ru"
         ascii_name: Maseru
         geonamesid: 932505
         latitude: -29.31667
         longitude: 27.48333
         name: Maseru
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Maseru
+        names_es: 
+          - Maseru
         population: 118355
         timezone: Africa/Maseru
     geonamesid: 932506
@@ -140,7 +157,8 @@ regions:
         latitude: -29.823
         longitude: 27.23744
         name: Mafeteng
-        names_en: ~
+        names_en: 
+          - Mafeteng
         names_es: ~
         population: 57059
         timezone: Africa/Maseru
@@ -172,14 +190,18 @@ regions:
         latitude: -28.87185
         longitude: 28.04501
         name: Leribe
-        names_en: ~
+        names_en: 
+          - Hlotse
         names_es: ~
         population: 47675
         timezone: Africa/Maseru
     geonamesid: 932700
     name: Leribe
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Leribe District"
+      - Leribe
+    names_es: 
+      - "Distrito de Leribe"
   - 
     ascii_name: Butha-Buthe
     cities: 
@@ -193,14 +215,18 @@ regions:
         latitude: -28.76659
         longitude: 28.24936
         name: Butha-Buthe
-        names_en: ~
+        names_en: 
+          - Butha-Buthe
         names_es: ~
         population: 16330
         timezone: Africa/Maseru
     geonamesid: 932888
     name: Butha-Buthe
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Butha-Buthe District"
+      - Butha-Buthe
+    names_es: 
+      - "Distrito de Butha-Buthe"
   - 
     ascii_name: Berea
     cities: 
@@ -218,5 +244,8 @@ regions:
         timezone: Africa/Maseru
     geonamesid: 932932
     name: Berea
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Berea District"
+      - Berea
+    names_es: 
+      - "Distrito de Berea"

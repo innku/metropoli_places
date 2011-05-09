@@ -2,8 +2,12 @@
 geonamesid: 3865483
 iso: AR
 name: Argentina
-names_en: ~
-names_es: ~
+names_en: 
+  - Argentina
+  - "Argentine Republic"
+names_es: 
+  - Argentina
+  - "República Argentina"
 regions: 
   - 
     ascii_name: "Provincia de Misiones"
@@ -48,6 +52,7 @@ regions:
           - "Colonia Santo Pipo"
           - "Colonia Santo Pipó"
           - "San Pipo"
+          - "Santo Pipo"
         ascii_name: "Santo Pipo"
         geonamesid: 3428079
         latitude: -27.13333
@@ -62,6 +67,7 @@ regions:
           - "Colonia Santa Maria"
           - "Colonia Santa María"
           - Hubbart
+          - "Santa Maria"
         ascii_name: "Santa Maria"
         geonamesid: 3428264
         latitude: -27.91667
@@ -109,6 +115,7 @@ regions:
           - "Libertador General San Martin"
           - "Libertador General San Martín"
           - "Puerto Libertador General San Martin"
+          - "Puerto Libertador General San Martín"
         ascii_name: "Puerto Rico"
         geonamesid: 3429732
         latitude: -26.8
@@ -158,13 +165,16 @@ regions:
           - "Eva Peron"
           - "Eva Perón"
           - Iguassu
+          - Iguazu
         ascii_name: "Puerto Iguazu"
         geonamesid: 3429777
         latitude: -25.59912
         longitude: -54.57355
         name: "Puerto Iguazú"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Puerto Iguazú"
+        names_es: 
+          - "Puerto Iguazú"
         population: 32038
         timezone: America/Argentina/Cordoba
       - 
@@ -189,8 +199,10 @@ regions:
         latitude: -27.38333
         longitude: -55.88333
         name: Posadas
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Posadas
+        names_es: 
+          - Posadas
         population: 312060
         timezone: America/Argentina/Cordoba
       - 
@@ -198,6 +210,7 @@ regions:
           - "Gobernador Lopez"
           - "Gobernador López"
           - "Picada Gobernador Lopez"
+          - "Picada Gobernador López"
         ascii_name: "Picada Gobernador Lopez"
         geonamesid: 3430015
         latitude: -27.66667
@@ -226,6 +239,7 @@ regions:
           - Obera
           - Oberá
           - "Yerbal Viejo"
+          - Обера
         ascii_name: Obera
         geonamesid: 3430340
         latitude: -27.48333
@@ -308,6 +322,7 @@ regions:
           - Guarani
           - Guaraní
           - "Pueblo Guarani"
+          - "Pueblo Guaraní"
         ascii_name: Guarani
         geonamesid: 3433648
         latitude: -27.51667
@@ -357,6 +372,7 @@ regions:
           - Garuape
           - Garuapé
           - Garuhape
+          - Garuhapé
         ascii_name: Garuhape
         geonamesid: 3433839
         latitude: -26.8
@@ -461,6 +477,7 @@ regions:
           - "Cerro Cora"
           - "Cerro Corá"
           - "Colonia Cerro Cora"
+          - "Colonia Cerro Corá"
         ascii_name: "Cerro Cora"
         geonamesid: 3435525
         latitude: -27.51667
@@ -631,7 +648,8 @@ regions:
     geonamesid: 3430657
     name: Misiones
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Misiones
   - 
     ascii_name: "Provincia de Formosa"
     cities: 
@@ -654,6 +672,7 @@ regions:
           - "La Mision"
           - "La Mision San Francisco de Laishi"
           - "La Misión"
+          - "La Misión San Francisco de Laishi"
         ascii_name: "San Francisco de Laishi"
         geonamesid: 3429054
         latitude: -26.23333
@@ -740,13 +759,16 @@ regions:
           - Formosa
           - Formoza
           - Формоза
+          - Формоса
         ascii_name: Formosa
         geonamesid: 3433899
         latitude: -26.18333
         longitude: -58.18333
         name: Formosa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Formosa
+        names_es: 
+          - Formosa
         population: 221383
         timezone: America/Argentina/Cordoba
       - 
@@ -781,7 +803,8 @@ regions:
         latitude: -25.28333
         longitude: -57.71667
         name: Clorinda
-        names_en: ~
+        names_en: 
+          - Clorinda
         names_es: ~
         population: 15000
         timezone: America/Argentina/Cordoba
@@ -823,6 +846,7 @@ regions:
           - "Guillermo N. Juarez"
           - "Guillermo N. Juárez"
           - "Ingeniero G.N. Juarez"
+          - "Ingeniero G.N. Juárez"
         ascii_name: "Ingeniero Guillermo N. Juarez"
         geonamesid: 3853788
         latitude: -23.9
@@ -868,13 +892,17 @@ regions:
           - Bonaero
           - Bonaeropolis
           - Bonaëropolis
+          - "Bos Aires"
         ascii_name: "Buenos Aires"
         geonamesid: 3435910
         latitude: -34.61315
         longitude: -58.37723
         name: "Buenos Aires"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Buenos Aires"
+        names_es: 
+          - "Ciudad Autónoma de Buenos Aires"
+          - "Buenos Aires"
         population: 13076300
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -882,6 +910,7 @@ regions:
           - "El Maiten"
           - "El Maitén"
           - "Estancia El Maiten"
+          - "Estancia El Maitén"
         ascii_name: "El Maiten"
         geonamesid: 3857756
         latitude: -42.05
@@ -893,8 +922,14 @@ regions:
         timezone: America/Argentina/Catamarca
     geonamesid: 3433955
     name: "Buenos Aires"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Federal District"
+      - "Buenos Aires"
+    names_es: 
+      - "Capital Federal"
+      - "Buenos Aires"
+      - "Ciudad de Buenos Aires"
+      - "Ciudad Autónoma de Buenos Aires"
   - 
     ascii_name: "Provincia de Entre Rios"
     cities: 
@@ -916,6 +951,7 @@ regions:
           - "Maria Grande"
           - "María Grande"
           - "Villa Maria Grande"
+          - "Villa María Grande"
         ascii_name: "Villa Maria Grande"
         geonamesid: 3427399
         latitude: -31.65
@@ -1125,6 +1161,7 @@ regions:
           - "Rosario Tala"
           - "Rosario de Tala"
           - "Rosario del Tala"
+          - Tala
         ascii_name: "Rosario del Tala"
         geonamesid: 3429439
         latitude: -32.29806
@@ -1199,6 +1236,7 @@ regions:
           - "L. Gonzalez"
           - "L. González"
           - "Lucas Gonzalez"
+          - "Lucas González"
         ascii_name: "Lucas Gonzalez"
         geonamesid: 3431005
         latitude: -32.4
@@ -1296,6 +1334,7 @@ regions:
           - Gualeguajchu
           - Gualeguaychu
           - Gualeguaychú
+          - Гуалегуайчу
         ascii_name: Gualeguaychu
         geonamesid: 3433658
         latitude: -33.01028
@@ -1388,6 +1427,7 @@ regions:
           - "Colonia Clara"
           - Dominguez
           - Domínguez
+          - "Villa Dominguez"
         ascii_name: Dominguez
         geonamesid: 3435030
         latitude: -31.98333
@@ -1421,8 +1461,10 @@ regions:
         latitude: -31.4
         longitude: -58.03333
         name: Concordia
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Concordia
+        names_es: 
+          - Concordia
         population: 145210
         timezone: America/Argentina/Cordoba
       - 
@@ -1430,13 +1472,16 @@ regions:
           - "Concepcion del Uruguay"
           - "Concepción del Uruguay"
           - Konseps'on-del'-Urugvaj
+          - "Konsepsion del Urugvajus"
         ascii_name: "Concepcion del Uruguay"
         geonamesid: 3435264
         latitude: -32.48333
         longitude: -58.22833
         name: "Concepción del Uruguay"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Concepción del Uruguay"
+        names_es: 
+          - "Concepción del Uruguay"
         population: 67895
         timezone: America/Argentina/Cordoba
       - 
@@ -1578,8 +1623,10 @@ regions:
         latitude: -31.73333
         longitude: -60.53333
         name: Paraná
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Paraná
+        names_es: 
+          - Paraná
         population: 262295
         timezone: America/Argentina/Cordoba
       - 
@@ -1609,6 +1656,7 @@ regions:
           - "General Ramirez"
           - "General Ramírez"
           - Ramirez
+          - Ramírez
         ascii_name: "General Ramirez"
         geonamesid: 3855067
         latitude: -32.18333
@@ -1705,6 +1753,7 @@ regions:
           - "Colonia Santa Rosa"
           - "Colonia Tabay"
           - "Santa Rosa"
+          - Santa-Rosa
         ascii_name: "Santa Rosa"
         geonamesid: 3428182
         latitude: -28.26667
@@ -1809,6 +1858,7 @@ regions:
           - "Colonia Bahia de Astrada"
           - "Colonia Bahía de Astrada"
           - "Colonia Beron de Astrada"
+          - "Colonia Berón de Astrada"
         ascii_name: "Pueblo Libertador"
         geonamesid: 3429820
         latitude: -30.21667
@@ -1823,6 +1873,7 @@ regions:
           - Perrugorria
           - Perrugorría
           - Perugorria
+          - Perugorría
         ascii_name: Perugorria
         geonamesid: 3430029
         latitude: -29.33333
@@ -1837,6 +1888,7 @@ regions:
           - "Manuel F. Mantilla"
           - "Morro Furo Mantilla"
           - "Pedro R. Fernandez"
+          - "Pedro R. Fernández"
         ascii_name: "Pedro R. Fernandez"
         geonamesid: 3430064
         latitude: -28.75
@@ -1898,6 +1950,7 @@ regions:
           - "Caa Cati"
           - "Caa Catí"
           - "General Paz"
+          - "Nuestra Senora del Rosario de Caa Cati"
         ascii_name: "Nuestra Senora del Rosario de Caa Cati"
         geonamesid: 3430402
         latitude: -27.75
@@ -2047,6 +2100,7 @@ regions:
           - "Ita Ibate"
           - Italbate
           - Ite-Ibata
+          - "Itá Ibaté"
         ascii_name: "Ita Ibate"
         geonamesid: 3433373
         latitude: -27.43333
@@ -2072,13 +2126,16 @@ regions:
           - Goja
           - Gojja
           - Goya
+          - Гойя
         ascii_name: Goya
         geonamesid: 3433715
         latitude: -29.13333
         longitude: -59.26667
         name: Goya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Goya
+        names_es: 
+          - Goya
         population: 70245
         timezone: America/Argentina/Cordoba
       - 
@@ -2086,6 +2143,7 @@ regions:
           - "Gobernador J.F. Martinez"
           - "Gobernador J.F. Martínez"
           - "Gobernador Juan E. Martinez"
+          - "Gobernador Juan E. Martínez"
         ascii_name: "Gobernador Juan E. Martinez"
         geonamesid: 3433751
         latitude: -28.91667
@@ -2100,6 +2158,7 @@ regions:
           - "Gobernador Ingeniero Valentin Virasoro"
           - "Gobernador Ingeniero Valentín Virasoro"
           - "Vuelta del Ombu"
+          - "Vuelta del Ombú"
         ascii_name: "Gobernador Ingeniero Valentin Virasoro"
         geonamesid: 3433753
         latitude: -28.05
@@ -2125,6 +2184,7 @@ regions:
           - "Felipe Yofre"
           - "Felipe Yofré"
           - Yofre
+          - Yofré
         ascii_name: "Felipe Yofre"
         geonamesid: 3433944
         latitude: -29.1
@@ -2174,13 +2234,16 @@ regions:
           - Corrientes
           - Korientes
           - Korientesas
+          - Korrientes
         ascii_name: Corrientes
         geonamesid: 3435217
         latitude: -27.46667
         longitude: -58.83333
         name: Corrientes
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Corrientes
+        names_es: 
+          - Corrientes
         population: 339067
         timezone: America/Argentina/Cordoba
       - 
@@ -2243,13 +2306,16 @@ regions:
           - "General J.F. Uriburu"
           - "General Jose F. Uriburu"
           - "General José F. Uriburu"
+          - "General Uriburu"
         ascii_name: Zarate
         geonamesid: 3427213
         latitude: -34.09222
         longitude: -59.035
         name: Zárate
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Zárate
+        names_es: 
+          - Zárate
         population: 88781
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2276,7 +2342,8 @@ regions:
         longitude: -59.15
         name: Tandil
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Tandil
         population: 104325
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2284,6 +2351,7 @@ regions:
           - "Balneario San Clemente"
           - "Balneario San Clemente del Tuyu"
           - "Balneario San Clemente del Tuyú"
+          - "San Clemente del Tuyu"
         ascii_name: "San Clemente del Tuyu"
         geonamesid: 3429160
         latitude: -36.36667
@@ -2303,8 +2371,10 @@ regions:
         latitude: -34.72028
         longitude: -58.26944
         name: Quilmes
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Quilmes
+        names_es: 
+          - Quilmes
         population: 518788
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2315,8 +2385,10 @@ regions:
         latitude: -38.55
         longitude: -58.75
         name: Necochea
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Necochea
+        names_es: 
+          - Necochea
         population: 80478
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2335,13 +2407,16 @@ regions:
           - "Mar de Plata"
           - "Mar del Plata"
           - Mar-del'-Plata
+          - "Мар дел Плата"
         ascii_name: "Mar del Plata"
         geonamesid: 3430863
         latitude: -38.0
         longitude: -57.55
         name: "Mar del Plata"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Mar del Plata"
+        names_es: 
+          - "Mar del Plata"
         population: 553935
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2349,13 +2424,16 @@ regions:
           - Lujan
           - Luján
           - Lukhan
+          - Лухан
         ascii_name: Lujan
         geonamesid: 3430988
         latitude: -34.57028
         longitude: -59.105
         name: Luján
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Luján
+        names_es: 
+          - Luján
         population: 81749
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2363,13 +2441,16 @@ regions:
           - "Eva Peron"
           - "Eva Perón"
           - "La Plata"
+          - La-Plata
         ascii_name: "La Plata"
         geonamesid: 3432043
         latitude: -34.93139
         longitude: -57.94889
         name: "La Plata"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "La Plata"
+        names_es: 
+          - "La Plata"
         population: 694167
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2440,13 +2521,16 @@ regions:
           - "San Nicolas"
           - "San Nicolas de los Arroyos"
           - "San Nicolás"
+          - "San Nicolás de los Arroyos"
         ascii_name: "San Nicolas de los Arroyos"
         geonamesid: 3836846
         latitude: -33.33028
         longitude: -60.22694
         name: "San Nicolás de los Arroyos"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Nicolás de los Arroyos"
+        names_es: 
+          - "San Nicolás de los Arroyos"
         population: 127742
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2473,7 +2557,8 @@ regions:
         longitude: -60.5725
         name: Pergamino
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Pergamino
         population: 87652
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2481,13 +2566,16 @@ regions:
           - Olavarria
           - Olavarrija
           - Olavarría
+          - Олаваррия
         ascii_name: Olavarria
         geonamesid: 3842670
         latitude: -36.9
         longitude: -60.28333
         name: Olavarría
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Olavarría
+        names_es: 
+          - Olavarría
         population: 86320
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2495,6 +2583,7 @@ regions:
           - "9 de Julio"
           - Nev-de-Khulio
           - "Nueve de Julio"
+          - Нев-де-Хулио
         ascii_name: "Nueve de Julio"
         geonamesid: 3842881
         latitude: -35.45417
@@ -2531,6 +2620,7 @@ regions:
           - "Coronel Suarez"
           - "Coronel Suárez"
           - Koronel'-Suarez
+          - Коронель-Суарез
         ascii_name: "Coronel Suarez"
         geonamesid: 3860164
         latitude: -37.46667
@@ -2571,13 +2661,16 @@ regions:
           - "Bahia Blanca"
           - "Bahija Blanka"
           - "Bahía Blanca"
+          - Bajja-Blanka
         ascii_name: "Bahia Blanca"
         geonamesid: 3865086
         latitude: -38.71667
         longitude: -62.28333
         name: "Bahía Blanca"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Bahía Blanca"
+        names_es: 
+          - "Bahía Blanca"
         population: 276546
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -2594,7 +2687,9 @@ regions:
     geonamesid: 3435907
     name: "Buenos Aires"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Provincia de Buenos Aires"
+      - "Buenos Aires"
   - 
     ascii_name: "Provincia de Tucuman"
     cities: 
@@ -2626,6 +2721,7 @@ regions:
           - Tafi
           - "Tafi Viejo"
           - Tafí
+          - "Tafí Viejo"
         ascii_name: "Tafi Viejo"
         geonamesid: 3834813
         latitude: -26.73333
@@ -2640,6 +2736,7 @@ regions:
           - Tafi
           - "Tafi del Valle"
           - Tafí
+          - "Tafí del Valle"
         ascii_name: "Tafi del Valle"
         geonamesid: 3834814
         latitude: -26.86667
@@ -2666,13 +2763,17 @@ regions:
           - "San Miguel de Tucuman"
           - "San Miguel de Tucumán"
           - Tucuman
+          - Tucumán
         ascii_name: "San Miguel de Tucuman"
         geonamesid: 3836873
         latitude: -26.81667
         longitude: -65.21667
         name: "San Miguel de Tucumán"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tucumán
+          - "San Miguel de Tucumán"
+        names_es: 
+          - "San Miguel de Tucumán"
         population: 781023
         timezone: America/Argentina/Tucuman
       - 
@@ -2780,19 +2881,24 @@ regions:
           - Ushuaia
           - Ushuaja
           - Ushuajja
+          - Ushuaïa
         ascii_name: Ushuaia
         geonamesid: 3833367
         latitude: -54.8
         longitude: -68.3
         name: Ushuaia
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ushuaia
+        names_es: 
+          - Ushuaia
         population: 58028
         timezone: America/Argentina/Ushuaia
     geonamesid: 3834450
     name: "Tierra del Fuego"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Tierra del Fuego"
+      - "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
   - 
     ascii_name: "Provincia de Santiago del Estero"
     cities: 
@@ -2852,6 +2958,7 @@ regions:
           - Banos
           - Baños
           - "Las Termas"
+          - "Las Termas de Rio Hondo"
         ascii_name: "Termas de Rio Hondo"
         geonamesid: 3834502
         latitude: -27.48333
@@ -2890,13 +2997,16 @@ regions:
           - Sant'jago-del'-Ehstero
           - "Santiago del Estero"
           - "Santjago del Esteras"
+          - Сантьяго-дель-Эстеро
         ascii_name: "Santiago del Estero"
         geonamesid: 3835869
         latitude: -27.78333
         longitude: -64.26667
         name: "Santiago del Estero"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santiago del Estero"
+        names_es: 
+          - "Santiago del Estero"
         population: 354692
         timezone: America/Argentina/Cordoba
       - 
@@ -3019,6 +3129,7 @@ regions:
           - Anatuya
           - Añatuya
           - Unatuya
+          - Uñatuya
         ascii_name: Anatuya
         geonamesid: 3865840
         latitude: -28.46667
@@ -3173,8 +3284,10 @@ regions:
         latitude: -33.74972
         longitude: -61.96694
         name: "Venado Tuerto"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Venado Tuerto"
+        names_es: 
+          - "Venado Tuerto"
         population: 72340
         timezone: America/Argentina/Cordoba
       - 
@@ -3242,13 +3355,16 @@ regions:
           - "Santa Fe"
           - "Santa Fė"
           - Santa-Fe
+          - "Санта Фе"
         ascii_name: "Santa Fe de la Vera Cruz"
         geonamesid: 3836277
         latitude: -31.63333
         longitude: -60.7
         name: "Santa Fe de la Vera Cruz"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santa Fe"
+        names_es: 
+          - "Santa Fe"
         population: 489505
         timezone: America/Argentina/Cordoba
       - 
@@ -3312,13 +3428,16 @@ regions:
           - Rosarijas
           - Rosario
           - Rosário
+          - Rozario
         ascii_name: Rosario
         geonamesid: 3838583
         latitude: -32.95111
         longitude: -60.66639
         name: Rosario
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rosario
+        names_es: 
+          - Rosario
         population: 1173533
         timezone: America/Argentina/Cordoba
       - 
@@ -3355,8 +3474,10 @@ regions:
         latitude: -31.26667
         longitude: -61.48333
         name: Rafaela
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rafaela
+        names_es: 
+          - Rafaela
         population: 88713
         timezone: America/Argentina/Cordoba
       - 
@@ -3438,6 +3559,7 @@ regions:
           - Galvez
           - "Gobernador Galvez"
           - "Gobernador Gálvez"
+          - "Villa Gobernador Galvez"
         ascii_name: "Gobernador Galvez"
         geonamesid: 3854985
         latitude: -33.03333
@@ -3474,6 +3596,7 @@ regions:
           - Borghi
           - "Fray Luis A. Beltran"
           - "Fray Luis A. Beltrán"
+          - "Fray Luis Beltran"
         ascii_name: "Fray Luis A. Beltran"
         geonamesid: 3855370
         latitude: -32.78333
@@ -3570,6 +3693,7 @@ regions:
           - "Capitan Bermudez"
           - "Capitán Bermúdez"
           - "Juan Ortiz"
+          - "Juan Ortíz"
         ascii_name: "Capitan Bermudez"
         geonamesid: 3862738
         latitude: -32.81667
@@ -3584,6 +3708,7 @@ regions:
           - "Canada de Gomez"
           - "Cañada de Gómez"
           - "Ciudad Evita"
+          - "Ciudad de Gomez"
         ascii_name: "Canada de Gomez"
         geonamesid: 3862981
         latitude: -32.81694
@@ -3598,6 +3723,7 @@ regions:
           - Calchaqui
           - Calchaquí
           - "Luis d'Abreu"
+          - "Luis d’Abreu"
         ascii_name: Calchaqui
         geonamesid: 3863419
         latitude: -29.9
@@ -3612,6 +3738,7 @@ regions:
           - Arrufo
           - Arrufó
           - Arruto
+          - Arrutó
         ascii_name: Arrufo
         geonamesid: 3865375
         latitude: -30.25
@@ -3626,6 +3753,7 @@ regions:
           - Aguirre
           - "Arroyo Seco"
           - "Posta de San Martin"
+          - "Posta de San Martín"
         ascii_name: "Arroyo Seco"
         geonamesid: 3865385
         latitude: -33.15
@@ -3661,7 +3789,8 @@ regions:
     geonamesid: 3836276
     name: "Santa Fe"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Santa Fe"
   - 
     ascii_name: "Provincia de Santa Cruz"
     cities: 
@@ -3670,6 +3799,7 @@ regions:
           - "Rio Turbio"
           - "Río Turbio"
           - "Yacimiento Rio Turbio"
+          - "Yacimiento Río Turbio"
         ascii_name: "Yacimiento Rio Turbio"
         geonamesid: 3832376
         latitude: -51.53333
@@ -3697,13 +3827,16 @@ regions:
           - Gallegos
           - "Puerto Gallegos"
           - "Puerto Rio Gallegos"
+          - "Puerto Río Gallegos"
         ascii_name: "Rio Gallegos"
         geonamesid: 3838859
         latitude: -51.63333
         longitude: -69.21667
         name: "Río Gallegos"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Río Gallegos"
+        names_es: 
+          - "Río Gallegos"
         population: 85700
         timezone: America/Argentina/Rio_Gallegos
       - 
@@ -3724,6 +3857,7 @@ regions:
           - "Puerto San Julian"
           - "Puerto San Julián"
           - "San Julian"
+          - "San Julián"
         ascii_name: "San Julian"
         geonamesid: 3840082
         latitude: -49.3
@@ -3789,13 +3923,16 @@ regions:
           - Calafate
           - "Caserio de Calafates"
           - "Caserío de Calafates"
+          - "Ehl' Kalafate"
         ascii_name: "El Calafate"
         geonamesid: 3858677
         latitude: -50.34075
         longitude: -72.27682
         name: "El Calafate"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "El Calafate"
+        names_es: 
+          - "El Calafate"
         population: 8000
         timezone: America/Argentina/Rio_Gallegos
       - 
@@ -3803,6 +3940,7 @@ regions:
           - "Casa de Piedra"
           - "Comandante L. Piedrabuena"
           - "Comandante Luis Piedra Buena"
+          - "El Paso"
         ascii_name: "Comandante Luis Piedra Buena"
         geonamesid: 3860466
         latitude: -49.98333
@@ -3875,8 +4013,10 @@ regions:
         latitude: -33.3
         longitude: -66.35
         name: "San Luis"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Luis"
+        names_es: 
+          - "San Luis"
         population: 183982
         timezone: America/Argentina/San_Luis
       - 
@@ -3913,7 +4053,9 @@ regions:
         longitude: -65.01396
         name: Merlo
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Merlo
+          - "Villa de Merlo"
         population: 11159
         timezone: America/Argentina/San_Luis
       - 
@@ -3958,6 +4100,7 @@ regions:
           - Concaran
           - Concarán
           - Concoran
+          - Dolores
         ascii_name: Concaran
         geonamesid: 3860431
         latitude: -32.56667
@@ -4064,8 +4207,10 @@ regions:
         latitude: -31.5375
         longitude: -68.53639
         name: "San Juan"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Juan"
+        names_es: 
+          - "San Juan"
         population: 447048
         timezone: America/Argentina/San_Juan
       - 
@@ -4073,6 +4218,7 @@ regions:
           - Jachal
           - Jáchal
           - "San Jose de Jachal"
+          - "San José de Jáchal"
         ascii_name: "San Jose de Jachal"
         geonamesid: 3837240
         latitude: -30.2425
@@ -4087,6 +4233,7 @@ regions:
           - "San Agustin"
           - "San Agustin de Valle Fertil"
           - "San Agustín"
+          - "San Agustín de Valle Fértil"
         ascii_name: "San Agustin de Valle Fertil"
         geonamesid: 3838158
         latitude: -30.63333
@@ -4205,13 +4352,16 @@ regions:
           - Oran
           - Orán
           - "San Ramon de la Nueva Oran"
+          - "San Ramón de la Nueva Orán"
         ascii_name: "San Ramon de la Nueva Oran"
         geonamesid: 3836620
         latitude: -23.13223
         longitude: -64.32598
         name: "San Ramón de la Nueva Orán"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Orán
+        names_es: 
+          - "San Ramón de la Nueva Orán"
         population: 74059
         timezone: America/Argentina/Salta
       - 
@@ -4230,13 +4380,16 @@ regions:
           - "Ciudad de Salta"
           - Sal'ta
           - Salta
+          - Салта
         ascii_name: Salta
         geonamesid: 3838233
         latitude: -24.78333
         longitude: -65.41667
         name: Salta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Salta
+        names_es: 
+          - "Ciudad de Salta"
         population: 512686
         timezone: America/Argentina/Salta
       - 
@@ -4255,6 +4408,7 @@ regions:
           - "J.V. Gonzalez"
           - "J.V. González"
           - "Joaquin V. Gonzalez"
+          - "Joaquín V. González"
         ascii_name: "Joaquin V. Gonzalez"
         geonamesid: 3853491
         latitude: -25.08333
@@ -4269,6 +4423,7 @@ regions:
           - "Ciro Echesortu"
           - "General Enrique Mosconi"
           - "General Mosconi"
+          - Vespucio
         ascii_name: "General Enrique Mosconi"
         geonamesid: 3855116
         latitude: -22.6
@@ -4355,13 +4510,15 @@ regions:
           - Cafayate
           - Cafayete
           - Kafajat
+          - Кафайат
         ascii_name: Cafayate
         geonamesid: 3863503
         latitude: -26.07295
         longitude: -65.97614
         name: Cafayate
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Cafayate
         population: 11785
         timezone: America/Argentina/Salta
       - 
@@ -4388,7 +4545,8 @@ regions:
         timezone: America/Argentina/Salta
     geonamesid: 3838231
     name: Salta
-    names_en: ~
+    names_en: 
+      - Salta
     names_es: ~
   - 
     ascii_name: "Provincia de Rio Negro"
@@ -4414,8 +4572,10 @@ regions:
         latitude: -40.8
         longitude: -63.0
         name: Viedma
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Viedma
+        names_es: 
+          - Viedma
         population: 48940
         timezone: America/Argentina/Buenos_Aires
       - 
@@ -4554,13 +4714,16 @@ regions:
           - "Cheneral Roka"
           - "Fuerte General Roca"
           - "General Roca"
+          - Kheneral'
         ascii_name: "General Roca"
         geonamesid: 3855065
         latitude: -39.03333
         longitude: -67.58333
         name: "General Roca"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "General Roca"
+        names_es: 
+          - "General Roca"
         population: 73212
         timezone: America/Argentina/Salta
       - 
@@ -4606,6 +4769,7 @@ regions:
           - "Fray L. Beltran"
           - "Fray L. Beltrán"
           - "Fray Luis Beltran"
+          - "Fray Luis Beltrán"
         ascii_name: "Fray Luis Beltran"
         geonamesid: 3855368
         latitude: -39.31667
@@ -4679,6 +4843,7 @@ regions:
           - Chipolletti
           - Cipoletti
           - Cipolleti
+          - Cipolletti
         ascii_name: Cipolletti
         geonamesid: 3861056
         latitude: -38.93333
@@ -4842,13 +5007,15 @@ regions:
           - "San Martin de los Andes"
           - "San Martín de los Andes"
           - San-Martin-De-Los-Andes
+          - Сан-Мартин-Де-Лос-Андес
         ascii_name: "San Martin de los Andes"
         geonamesid: 3836951
         latitude: -40.16038
         longitude: -71.34865
         name: "San Martín de los Andes"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - "San Martín de los Andes"
         population: 23519
         timezone: America/Argentina/Salta
       - 
@@ -4904,13 +5071,16 @@ regions:
           - Nequen
           - Neuken
           - Neukenas
+          - Neuquen
         ascii_name: Neuquen
         geonamesid: 3843123
         latitude: -38.95
         longitude: -68.06667
         name: Neuquén
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Neuquén
+        names_es: 
+          - Neuquén
         population: 242092
         timezone: America/Argentina/Salta
       - 
@@ -4918,6 +5088,7 @@ regions:
           - Covunco
           - "Covunco Centro"
           - "M. Moreno"
+          - "Mariano Moreno"
         ascii_name: "Mariano Moreno"
         geonamesid: 3844832
         latitude: -38.73333
@@ -4992,6 +5163,7 @@ regions:
           - Cutrai-Co
           - Cutrai-Có
           - Cutral-Co
+          - Cutral-Có
         ascii_name: Cutral-Co
         geonamesid: 3859552
         latitude: -38.93333
@@ -5110,6 +5282,7 @@ regions:
           - "General San Martin"
           - "General San Martín"
           - "San Martin"
+          - "San Martín"
         ascii_name: "San Martin"
         geonamesid: 3836992
         latitude: -33.06667
@@ -5169,13 +5342,16 @@ regions:
           - "La Riocha"
           - "La Rioja"
           - La-Riokha
+          - Ла-Риоха
         ascii_name: "La Rioja"
         geonamesid: 3848950
         latitude: -29.43333
         longitude: -66.85
         name: "La Rioja"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "La Rioja"
+        names_es: 
+          - "La Rioja"
         population: 162620
         timezone: America/Argentina/La_Rioja
       - 
@@ -5262,6 +5438,7 @@ regions:
           - "25 de Mayo"
           - "Colonia Los Viejos"
           - "Colonia Veinticinco de Mayo"
+          - "Veinticinco de Mayo"
         ascii_name: "Veinticinco de Mayo"
         geonamesid: 3833111
         latitude: -37.8
@@ -5309,13 +5486,16 @@ regions:
           - "Santa Rosa"
           - "Santa Rosa de Toay"
           - Santa-Rosa
+          - Санта-Роса
         ascii_name: "Santa Rosa"
         geonamesid: 3835994
         latitude: -36.61667
         longitude: -64.28333
         name: "Santa Rosa"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santa Rosa"
+        names_es: 
+          - "Santa Rosa"
         population: 111424
         timezone: America/Argentina/Salta
       - 
@@ -5478,6 +5658,7 @@ regions:
           - "General San Martin"
           - "General San Martín"
           - "Jose de San Martin"
+          - "José de San Martín"
         ascii_name: "General San Martin"
         geonamesid: 3855056
         latitude: -37.98333
@@ -5610,6 +5791,7 @@ regions:
           - "B. Larroude"
           - "B. Larroudé"
           - "Benjamin Larroude"
+          - "Bernardo Larroude"
         ascii_name: "Bernardo Larroude"
         geonamesid: 3864285
         latitude: -35.03333
@@ -5709,13 +5891,16 @@ regions:
           - Jujuy
           - Khukhuj
           - "San Sal'vador de Khukhuj"
+          - "San Salvador de Jujuy"
         ascii_name: "San Salvador de Jujuy"
         geonamesid: 3836564
         latitude: -24.18333
         longitude: -65.3
         name: "San Salvador de Jujuy"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Salvador de Jujuy"
+        names_es: 
+          - "San Salvador de Jujuy"
         population: 305891
         timezone: America/Argentina/Jujuy
       - 
@@ -5769,6 +5954,7 @@ regions:
           - "General San Martin"
           - Ledesma
           - "Libertador General San Martin"
+          - "Libertador General San Martín"
         ascii_name: "Libertador General San Martin"
         geonamesid: 3846915
         latitude: -23.8
@@ -5895,6 +6081,7 @@ regions:
           - Escalante
           - "Medanos de las Canas"
           - "Médanos de las Cañas"
+          - "Wenceslao Escalante"
         ascii_name: "Wenceslao Escalante"
         geonamesid: 3832398
         latitude: -33.16667
@@ -5946,6 +6133,7 @@ regions:
           - Reduccion
           - Reducción
           - "Villa Reduccion"
+          - "Villa Reducción"
         ascii_name: "Villa Reduccion"
         geonamesid: 3832648
         latitude: -33.2
@@ -5976,8 +6164,10 @@ regions:
         latitude: -32.41667
         longitude: -63.25
         name: "Villa María"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Villa María"
+        names_es: 
+          - "Villa María"
         population: 92453
         timezone: America/Argentina/Cordoba
       - 
@@ -6090,6 +6280,7 @@ regions:
           - Transito
           - "Transito de San Alberto"
           - "Tránsito de San Alberto"
+          - "Villa Cura Brochero"
         ascii_name: "Villa Cura Brochero"
         geonamesid: 3832773
         latitude: -31.68333
@@ -6104,6 +6295,7 @@ regions:
           - Concepcion
           - Concepción
           - "Villa Concepcion"
+          - "Villa Concepcion del Tio"
         ascii_name: "Villa Concepcion del Tio"
         geonamesid: 3832779
         latitude: -31.31667
@@ -6118,13 +6310,16 @@ regions:
           - Karlos-Paz
           - "Vilja Karlos Pasas"
           - "Villa Carlos Paz"
+          - Карлос-Паз
         ascii_name: "Villa Carlos Paz"
         geonamesid: 3832791
         latitude: -31.4
         longitude: -64.51667
         name: "Villa Carlos Paz"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Villa Carlos Paz"
+        names_es: 
+          - "Villa Carlos Paz"
         population: 69451
         timezone: America/Argentina/Cordoba
       - 
@@ -6321,6 +6516,7 @@ regions:
           - "Santa Rosa"
           - "Santa Rosa de Rio 1"
           - "Santa Rosa de Rio Primero"
+          - "Santa Rosa de Río 1"
         ascii_name: "Santa Rosa de Rio Primero"
         geonamesid: 3835938
         latitude: -31.15
@@ -6384,6 +6580,7 @@ regions:
           - "San Francisco de Chanar"
           - "San Francisco de Chañar"
           - "San Francisco del Chanar"
+          - "San Francisco del Chañar"
         ascii_name: "San Francisco del Chanar"
         geonamesid: 3837625
         latitude: -29.78333
@@ -6434,6 +6631,7 @@ regions:
           - "Capilla de San Antonio"
           - "San Antonio"
           - "San Antonio de Litin"
+          - "San Antonio de Litín"
         ascii_name: "San Antonio de Litin"
         geonamesid: 3837987
         latitude: -32.2
@@ -6538,13 +6736,16 @@ regions:
           - "Rio Cuarto"
           - "Rio Kuartas"
           - Rio-Kuarto
+          - "Río Cuarto"
         ascii_name: "Rio Cuarto"
         geonamesid: 3838874
         latitude: -33.13333
         longitude: -64.35
         name: "Río Cuarto"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Río Cuarto"
+        names_es: 
+          - "Río Cuarto"
         population: 153757
         timezone: America/Argentina/Cordoba
       - 
@@ -6552,6 +6753,7 @@ regions:
           - "Rio Ceballos"
           - "Rio Zeballos"
           - "Río Ceballos"
+          - "Río Zeballos"
         ascii_name: "Rio Ceballos"
         geonamesid: 3838902
         latitude: -31.16667
@@ -6876,6 +7078,7 @@ regions:
           - Condores
           - Cóndores
           - "Los Condores"
+          - "Los Cóndores"
         ascii_name: "Los Condores"
         geonamesid: 3846236
         latitude: -32.33333
@@ -7412,6 +7615,7 @@ regions:
           - "D. Velez"
           - "D. Velez Sarsfield"
           - "D. Vélez"
+          - "D. Vélez Sársfield"
         ascii_name: "Dalmacio Velez Sarsfield"
         geonamesid: 3859535
         latitude: -32.6
@@ -7519,13 +7723,16 @@ regions:
           - Cordoba
           - Còrdoba
           - Córdoba
+          - Kordoba
         ascii_name: Cordoba
         geonamesid: 3860259
         latitude: -31.4
         longitude: -64.18333
         name: Córdoba
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Córdoba
+        names_es: 
+          - Córdoba
         population: 1428214
         timezone: America/Argentina/Cordoba
       - 
@@ -7533,6 +7740,7 @@ regions:
           - "Colonia San Bartolome"
           - "Colonia San Bartolomé"
           - "San Bartolome"
+          - "San Bartolomé"
         ascii_name: "Colonia San Bartolome"
         geonamesid: 3860730
         latitude: -31.53333
@@ -7658,6 +7866,7 @@ regions:
           - Aldao
           - "C. Aldao"
           - Caldao
+          - "Camilo Aldao"
         ascii_name: "Camilo Aldao"
         geonamesid: 3863314
         latitude: -33.11667
@@ -7891,8 +8100,10 @@ regions:
         latitude: -43.24895
         longitude: -65.30505
         name: Trelew
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Trelew
+        names_es: 
+          - Trelew
         population: 93442
         timezone: America/Argentina/Catamarca
       - 
@@ -7913,6 +8124,7 @@ regions:
           - "Campo del Rio Pica"
           - "Campo del Río Pica"
           - "Estancia Campo del Pico"
+          - "Rio Pica"
         ascii_name: "Rio Pico"
         geonamesid: 3838826
         latitude: -44.21667
@@ -7927,13 +8139,16 @@ regions:
           - Rawson
           - Rosonas
           - Rouson
+          - Роусон
         ascii_name: Rawson
         geonamesid: 3839307
         latitude: -43.3
         longitude: -65.1
         name: Rawson
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rawson
+        names_es: 
+          - Rawson
         population: 26335
         timezone: America/Argentina/Catamarca
       - 
@@ -7954,13 +8169,16 @@ regions:
           - Madryn
           - "Porth Madryn"
           - Puehrto-Madrin
+          - "Puerto Madrinas"
         ascii_name: "Puerto Madryn"
         geonamesid: 3840092
         latitude: -42.76667
         longitude: -65.05
         name: "Puerto Madryn"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Puerto Madryn"
+        names_es: 
+          - "Puerto Madryn"
         population: 64555
         timezone: America/Argentina/Catamarca
       - 
@@ -7980,6 +8198,7 @@ regions:
           - "Colonia San Martin"
           - "Colonia San Martín"
           - "General J. de San Martin"
+          - "General J. de San Martín"
         ascii_name: "Jose de San Martin"
         geonamesid: 3853479
         latitude: -44.03333
@@ -8043,6 +8262,7 @@ regions:
           - "Colonia Dolavon"
           - "Colonia Dolavón"
           - Dolavon
+          - Dolavón
         ascii_name: Dolavon
         geonamesid: 3859278
         latitude: -43.3
@@ -8079,6 +8299,7 @@ regions:
           - "Alto Rio Senguer"
           - "Alto Rio Senguerr"
           - "Alto Río Senguer"
+          - "Alto Río Senguerr"
         ascii_name: "Alto Rio Senguer"
         geonamesid: 3866035
         latitude: -45.03333
@@ -8091,7 +8312,8 @@ regions:
     geonamesid: 3861244
     name: Chubut
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Chubut
   - 
     ascii_name: "Provincia del Chaco"
     cities: 
@@ -8105,8 +8327,10 @@ regions:
         latitude: -27.45
         longitude: -58.98333
         name: Resistencia
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Resistencia
+        names_es: 
+          - Resistencia
         population: 387158
         timezone: America/Argentina/Cordoba
       - 
@@ -8198,6 +8422,7 @@ regions:
           - "M. Belen"
           - "M. Belén"
           - "Margarita BeTen"
+          - "Margarita BeTén"
         ascii_name: "Margarita Belen"
         geonamesid: 3430857
         latitude: -27.26667
@@ -8317,6 +8542,7 @@ regions:
           - "Colonia Zapallar"
           - "El Zapallar"
           - "General Jose de San Martin"
+          - "General José de San Martín"
         ascii_name: "General Jose de San Martin"
         geonamesid: 3433803
         latitude: -26.55
@@ -8377,6 +8603,7 @@ regions:
           - Benitez
           - Benítez
           - "Colonia Benitez"
+          - "Colonia Benítez"
         ascii_name: "Colonia Benitez"
         geonamesid: 3435340
         latitude: -27.33333
@@ -8544,13 +8771,16 @@ regions:
           - "Presidencia Roque Saenz Pena"
           - "Presidencia Roque Sáenz Peña"
           - "Presidensija Roke Saens Penja"
+          - "Presidente Roque Saenz Pena"
         ascii_name: "Presidencia Roque Saenz Pena"
         geonamesid: 3840300
         latitude: -26.78333
         longitude: -60.45
         name: "Presidencia Roque Sáenz Peña"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Presidencia Roque Sáenz Peña"
+        names_es: 
+          - "Presidencia Roque Sáenz Peña"
         population: 81879
         timezone: America/Argentina/Cordoba
       - 
@@ -8729,6 +8959,7 @@ regions:
           - Castelli
           - "Colonia Castelli"
           - "J.J. Castelli"
+          - "Juan Jose Castelli"
         ascii_name: Castelli
         geonamesid: 3862320
         latitude: -25.95
@@ -8789,8 +9020,10 @@ regions:
         latitude: -28.46667
         longitude: -65.78333
         name: "San Fernando del Valle de Catamarca"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Fernando del Valle de Catamarca"
+        names_es: 
+          - "San Fernando del Valle de Catamarca"
         population: 188812
         timezone: America/Argentina/Catamarca
       - 

@@ -2,8 +2,10 @@
 geonamesid: 953987
 iso: ZA
 name: "South Africa"
-names_en: ~
-names_es: ~
+names_en: 
+  - "South Africa"
+names_es: 
+  - Sudáfrica
 regions: 
   - 
     ascii_name: "Free State"
@@ -88,7 +90,8 @@ regions:
         latitude: -28.11667
         longitude: 26.9
         name: Virginia
-        names_en: ~
+        names_en: 
+          - Virginia
         names_es: ~
         population: 122502
         timezone: Africa/Johannesburg
@@ -175,7 +178,8 @@ regions:
         latitude: -26.81358
         longitude: 27.81695
         name: Sasolburg
-        names_en: ~
+        names_en: 
+          - Sasolburg
         names_es: ~
         population: 77016
         timezone: Africa/Johannesburg
@@ -200,8 +204,10 @@ regions:
         latitude: -28.53333
         longitude: 28.81667
         name: Phuthaditjhaba
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Phuthaditjhaba
+        names_es: 
+          - Phuthaditjhaba
         population: 84258
         timezone: Africa/Johannesburg
       - 
@@ -214,7 +220,8 @@ regions:
         latitude: -26.9
         longitude: 27.45
         name: Parys
-        names_en: ~
+        names_en: 
+          - Parys
         names_es: ~
         population: 71319
         timezone: Africa/Johannesburg
@@ -394,7 +401,8 @@ regions:
         latitude: -27.36667
         longitude: 26.61667
         name: Bothaville
-        names_en: ~
+        names_en: 
+          - Bothaville
         names_es: ~
         population: 71934
         timezone: Africa/Johannesburg
@@ -403,13 +411,16 @@ regions:
           - Bloemfontein
           - Blumfonteinas
           - Blumfontejn
+          - Mploumphontein
         ascii_name: Bloemfontein
         geonamesid: 1018725
         latitude: -29.13333
         longitude: 26.2
         name: Bloemfontein
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bloemfontein
+        names_es: 
+          - Bloemfontein
         population: 463064
         timezone: Africa/Johannesburg
       - 
@@ -422,7 +433,8 @@ regions:
         latitude: -28.23333
         longitude: 28.3
         name: Bethlehem
-        names_en: ~
+        names_en: 
+          - Bethlehem
         names_es: ~
         population: 83654
         timezone: Africa/Johannesburg
@@ -515,7 +527,8 @@ regions:
         latitude: -29.33333
         longitude: 31.3
         name: Stanger
-        names_en: ~
+        names_en: 
+          - KwaDukuza
         names_es: ~
         population: 59899
         timezone: Africa/Johannesburg
@@ -574,13 +587,16 @@ regions:
           - Maritzburg
           - Pietermaritsburg
           - Pietermaritzburg
+          - Pitermaricburg
         ascii_name: Pietermaritzburg
         geonamesid: 965301
         latitude: -29.61667
         longitude: 30.38333
         name: Pietermaritzburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pietermaritzburg
+        names_es: 
+          - Pietermaritzburg
         population: 750845
         timezone: Africa/Johannesburg
       - 
@@ -626,7 +642,8 @@ regions:
         latitude: -29.2
         longitude: 29.98333
         name: Mooirivier
-        names_en: ~
+        names_en: 
+          - "Mooi River"
         names_es: ~
         population: 10132
         timezone: Africa/Johannesburg
@@ -755,13 +772,16 @@ regions:
           - Durban
           - Durbanas
           - IThekwini
+          - "Port Natal"
         ascii_name: Durban
         geonamesid: 1007311
         latitude: -29.85
         longitude: 31.01667
         name: Durban
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Durban
+        names_es: 
+          - Durban
         population: 3120282
         timezone: Africa/Johannesburg
       - 
@@ -774,7 +794,8 @@ regions:
         latitude: -28.16667
         longitude: 30.23333
         name: Dundee
-        names_en: ~
+        names_en: 
+          - Dundee
         names_es: ~
         population: 84413
         timezone: Africa/Johannesburg
@@ -802,7 +823,8 @@ regions:
         timezone: Africa/Johannesburg
     geonamesid: 972062
     name: KwaZulu-Natal
-    names_en: ~
+    names_en: 
+      - KwaZulu-Natal
     names_es: ~
   - 
     ascii_name: "Province of Eastern Cape"
@@ -850,7 +872,8 @@ regions:
         latitude: -33.76528
         longitude: 25.40222
         name: Uitenhage
-        names_en: ~
+        names_en: 
+          - Uitenhage
         names_es: ~
         population: 228912
         timezone: Africa/Johannesburg
@@ -923,13 +946,16 @@ regions:
           - "Port Elizabet"
           - "Port Elizabetas"
           - "Port Elizabeth"
+          - "Порт Елизабет"
         ascii_name: "Port Elizabeth"
         geonamesid: 964420
         latitude: -33.96667
         longitude: 25.58333
         name: "Port Elizabeth"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Port Elizabeth"
+        names_es: 
+          - "Port Elizabeth"
         population: 967677
         timezone: Africa/Johannesburg
       - 
@@ -1036,7 +1062,8 @@ regions:
         latitude: -33.3
         longitude: 26.53333
         name: Grahamstown
-        names_en: ~
+        names_en: 
+          - Grahamstown
         names_es: ~
         population: 91548
         timezone: Africa/Johannesburg
@@ -1050,7 +1077,8 @@ regions:
         latitude: -32.25215
         longitude: 24.53075
         name: Graaff-Reinet
-        names_en: ~
+        names_en: 
+          - "Graaff Reinet"
         names_es: ~
         population: 62896
         timezone: Africa/Johannesburg
@@ -1082,12 +1110,15 @@ regions:
           - "Buffalo City"
           - "East London"
           - "Oos Londen"
+          - Oost-Londen
         ascii_name: "East London"
         geonamesid: 1006984
         latitude: -33.01529
         longitude: 27.91162
         name: "East London"
-        names_en: ~
+        names_en: 
+          - "East London"
+          - "Buffalo City"
         names_es: ~
         population: 478676
         timezone: Africa/Johannesburg
@@ -1120,6 +1151,7 @@ regions:
           - Battervorta
           - Butterworth
           - Gcuwa
+          - Баттерворта
         ascii_name: Butterworth
         geonamesid: 1014489
         latitude: -32.33333
@@ -1148,13 +1180,16 @@ regions:
           - Bhisho
           - Bisho
           - Biso
+          - Bišo
         ascii_name: Bhisho
         geonamesid: 1019330
         latitude: -32.86667
         longitude: 27.43333
         name: Bhisho
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bhisho
+        names_es: 
+          - Bisho
         population: 137287
         timezone: Africa/Johannesburg
       - 
@@ -1224,7 +1259,8 @@ regions:
         latitude: -26.31667
         longitude: 27.65
         name: Westonaria
-        names_en: ~
+        names_en: 
+          - Westonaria
         names_es: ~
         population: 156831
         timezone: Africa/Johannesburg
@@ -1250,7 +1286,8 @@ regions:
         latitude: -26.7
         longitude: 27.81667
         name: Vanderbijlpark
-        names_en: ~
+        names_en: 
+          - Vanderbijlpark
         names_es: ~
         population: 246754
         timezone: Africa/Johannesburg
@@ -1270,13 +1307,16 @@ regions:
           - Mpanzaville
           - Souehto
           - Sovetas
+          - Soweto
         ascii_name: Soweto
         geonamesid: 953781
         latitude: -26.26667
         longitude: 27.86667
         name: Soweto
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Soweto
+        names_es: 
+          - Soweto
         population: 1695047
         timezone: Africa/Johannesburg
       - 
@@ -1309,13 +1349,16 @@ regions:
           - Cvaneo
           - Pretoria
           - "Pretoria/Pole tou Akroteriou"
+          - Pretorija
         ascii_name: Pretoria
         geonamesid: 964137
         latitude: -25.74486
         longitude: 28.18783
         name: Pretoria
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pretoria
+        names_es: 
+          - Pretoria
         population: 1619438
         timezone: Africa/Johannesburg
       - 
@@ -1328,7 +1371,8 @@ regions:
         latitude: -26.41667
         longitude: 28.46667
         name: Nigel
-        names_en: ~
+        names_en: 
+          - Nigel
         names_es: ~
         population: 140644
         timezone: Africa/Johannesburg
@@ -1370,12 +1414,14 @@ regions:
           - Krjugersdorpa
           - Krugersdorp
           - Krugersdorpas
+          - Крюгерсдорпа
         ascii_name: Krugersdorp
         geonamesid: 986822
         latitude: -26.1
         longitude: 27.76667
         name: Krugersdorp
-        names_en: ~
+        names_en: 
+          - Krugersdorp
         names_es: ~
         population: 378821
         timezone: Africa/Johannesburg
@@ -1384,13 +1430,17 @@ regions:
           - EGoli
           - IGoli
           - Jo'anna
+          - Joanesburgo
         ascii_name: Johannesburg
         geonamesid: 993800
         latitude: -26.20227
         longitude: 28.04363
         name: Johannesburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Jo'anna
+          - Johannesburg
+        names_es: 
+          - Johannesburgo
         population: 2026469
         timezone: Africa/Johannesburg
       - 
@@ -1398,6 +1448,7 @@ regions:
           - Gejdel'berg
           - Heidelberg
           - Heidelburg
+          - Гейдельберг
         ascii_name: Heidelberg
         geonamesid: 997151
         latitude: -26.5
@@ -1429,7 +1480,8 @@ regions:
         latitude: -26.36667
         longitude: 27.4
         name: Carletonville
-        names_en: ~
+        names_en: 
+          - Carletonville
         names_es: ~
         population: 182304
         timezone: Africa/Johannesburg
@@ -1454,7 +1506,8 @@ regions:
         latitude: -26.23333
         longitude: 28.36667
         name: Brakpan
-        names_en: ~
+        names_en: 
+          - Brakpan
         names_es: ~
         population: 305692
         timezone: Africa/Johannesburg
@@ -1466,7 +1519,8 @@ regions:
         latitude: -26.21667
         longitude: 28.25
         name: Boksburg
-        names_en: ~
+        names_en: 
+          - Boksburg
         names_es: ~
         population: 445168
         timezone: Africa/Johannesburg
@@ -1511,12 +1565,14 @@ regions:
           - Centurion
           - Verwoerdburg
           - centurion
+          - Центурион
         ascii_name: Centurion
         geonamesid: 1105777
         latitude: -25.87444
         longitude: 28.17056
         name: Centurion
-        names_en: ~
+        names_en: 
+          - Centurion
         names_es: ~
         population: 233386
         timezone: Africa/Johannesburg
@@ -1573,7 +1629,8 @@ regions:
         latitude: -26.95
         longitude: 29.25
         name: Standerton
-        names_en: ~
+        names_en: 
+          - Standerton
         names_es: ~
         population: 74021
         timezone: Africa/Johannesburg
@@ -1620,13 +1677,16 @@ regions:
           - Nelspruit
           - Nelsprutas
           - nerusupuroito
+          - Нелспруит
         ascii_name: Nelspruit
         geonamesid: 971534
         latitude: -25.46667
         longitude: 30.96667
         name: Nelspruit
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nelspruit
+        names_es: 
+          - Nelspruit
         population: 110159
         timezone: Africa/Johannesburg
       - 
@@ -1734,7 +1794,8 @@ regions:
         latitude: -26.15
         longitude: 28.68333
         name: Delmas
-        names_en: ~
+        names_en: 
+          - Delmas
         names_es: ~
         population: 92046
         timezone: Africa/Johannesburg
@@ -1781,7 +1842,8 @@ regions:
         latitude: -25.78333
         longitude: 31.05
         name: Barberton
-        names_en: ~
+        names_en: 
+          - Barberton
         names_es: ~
         population: 67927
         timezone: Africa/Johannesburg
@@ -1826,7 +1888,8 @@ regions:
         latitude: -28.45
         longitude: 21.25
         name: Upington
-        names_en: ~
+        names_en: 
+          - Upington
         names_es: ~
         population: 71373
         timezone: Africa/Johannesburg
@@ -1869,13 +1932,16 @@ regions:
           - Kimberley
           - Kimberli
           - Kimberlis
+          - kimbeolli
         ascii_name: Kimberley
         geonamesid: 990930
         latitude: -28.73333
         longitude: 24.76667
         name: Kimberley
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kimberley
+        names_es: 
+          - Kimberley
         population: 142089
         timezone: Africa/Johannesburg
       - 
@@ -1977,7 +2043,8 @@ regions:
         timezone: Africa/Johannesburg
     geonamesid: 1085596
     name: "Northern Cape"
-    names_en: ~
+    names_en: 
+      - "Northern Cape"
     names_es: ~
   - 
     ascii_name: "Limpopo Province"
@@ -2047,6 +2114,7 @@ regions:
           - Potgietersrus
           - Potgietersrust
           - Potgitersrus
+          - Потгитерсрус
         ascii_name: Potgietersrus
         geonamesid: 964315
         latitude: -24.18333
@@ -2061,12 +2129,14 @@ regions:
           - Pietersburg
           - Polokvane
           - Polokvanė
+          - Polokwane
         ascii_name: Polokwane
         geonamesid: 965289
         latitude: -23.9
         longitude: 29.45
         name: Polokwane
-        names_en: ~
+        names_en: 
+          - Polokwane
         names_es: ~
         population: 123749
         timezone: Africa/Johannesburg
@@ -2075,12 +2145,14 @@ regions:
           - Palabora
           - Palaborva
           - Phalaborwa
+          - Палаборва
         ascii_name: Phalaborwa
         geonamesid: 965528
         latitude: -23.95
         longitude: 31.11667
         name: Phalaborwa
-        names_en: ~
+        names_en: 
+          - Phalaborwa
         names_es: ~
         population: 109468
         timezone: Africa/Johannesburg
@@ -2269,7 +2341,8 @@ regions:
         latitude: -27.18333
         longitude: 25.33333
         name: Schweizer-Reineke
-        names_en: ~
+        names_en: 
+          - Schweizer-Reneke
         names_es: ~
         population: 70214
         timezone: Africa/Johannesburg
@@ -2282,7 +2355,8 @@ regions:
         latitude: -25.66667
         longitude: 27.25
         name: Rustenburg
-        names_en: ~
+        names_en: 
+          - Rustenburg
         names_es: ~
         population: 124064
         timezone: Africa/Johannesburg
@@ -2296,7 +2370,8 @@ regions:
         latitude: -26.71667
         longitude: 27.1
         name: Potchefstroom
-        names_en: ~
+        names_en: 
+          - Potchefstroom
         names_es: ~
         population: 123669
         timezone: Africa/Johannesburg
@@ -2318,12 +2393,14 @@ regions:
           - Eastleigh
           - Orknejskie
           - Orkney
+          - Оркнейские
         ascii_name: Orkney
         geonamesid: 967476
         latitude: -26.98333
         longitude: 26.66667
         name: Orkney
-        names_en: ~
+        names_en: 
+          - Orkney
         names_es: ~
         population: 145801
         timezone: Africa/Johannesburg
@@ -2337,7 +2414,8 @@ regions:
         latitude: -25.85
         longitude: 25.63333
         name: Mmabatho
-        names_en: ~
+        names_en: 
+          - Mmabatho
         names_es: ~
         population: 76754
         timezone: Africa/Johannesburg
@@ -2351,7 +2429,8 @@ regions:
         latitude: -26.15
         longitude: 26.16667
         name: Lichtenburg
-        names_en: ~
+        names_en: 
+          - Lichtenburg
         names_es: ~
         population: 65863
         timezone: Africa/Johannesburg
@@ -2413,7 +2492,8 @@ regions:
         latitude: -26.48333
         longitude: 27.5
         name: Fochville
-        names_en: ~
+        names_en: 
+          - Fochville
         names_es: ~
         population: 62416
         timezone: Africa/Johannesburg
@@ -2477,12 +2557,15 @@ regions:
           - Formosa
           - Plettenberg
           - "Plettenberg Bay"
+          - Plettenbergbaai
         ascii_name: "Plettenberg Bay"
         geonamesid: 964712
         latitude: -34.05
         longitude: 23.36667
         name: "Plettenberg Bay"
-        names_en: ~
+        names_en: 
+          - Plettenberg
+          - "Plettenberg Bay"
         names_es: ~
         population: 19445
         timezone: Africa/Johannesburg
@@ -2494,7 +2577,8 @@ regions:
         latitude: -33.59067
         longitude: 22.2014
         name: Oudtshoorn
-        names_en: ~
+        names_en: 
+          - Oudtshoorn
         names_es: ~
         population: 76708
         timezone: Africa/Johannesburg
@@ -2507,7 +2591,8 @@ regions:
         latitude: -34.03627
         longitude: 23.04713
         name: Knysna
-        names_en: ~
+        names_en: 
+          - Knysna
         names_es: ~
         population: 63106
         timezone: Africa/Johannesburg
@@ -2521,7 +2606,8 @@ regions:
         latitude: -33.96667
         longitude: 22.45
         name: George
-        names_en: ~
+        names_en: 
+          - George
         names_es: ~
         population: 174582
         timezone: Africa/Johannesburg
@@ -2586,8 +2672,10 @@ regions:
         latitude: -33.93333
         longitude: 18.85
         name: Stellenbosch
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Stellenbosch
+        names_es: 
+          - Stellenbosch
         population: 94263
         timezone: Africa/Johannesburg
       - 
@@ -2595,6 +2683,7 @@ regions:
           - "Hoedjes Bay"
           - Hoedjesbaai
           - "Hoetjes Bay"
+          - Saldana
         ascii_name: Saldanha
         geonamesid: 3361934
         latitude: -33.01667
@@ -2693,13 +2782,17 @@ regions:
           - "Cape Town"
           - "Cidade do Cabo"
           - "Cidade do Cabo - Cape Town"
+          - "Citta del Capo"
         ascii_name: "Cape Town"
         geonamesid: 3369157
         latitude: -33.91667
         longitude: 18.41667
         name: "Cape Town"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Cape Town"
+        names_es: 
+          - "Ciudad del Cabo"
+          - "El Cabo"
         population: 3433441
         timezone: Africa/Johannesburg
       - 

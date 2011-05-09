@@ -2,8 +2,17 @@
 geonamesid: 2309096
 iso: GQ
 name: "Equatorial Guinea"
-names_en: ~
-names_es: ~
+names_en: 
+  - "Spanish Guinea"
+  - "Equatorial Guinea"
+  - "Republic of Equatorial Guinea"
+names_es: 
+  - "República de Guinea Ecuatorial"
+  - "Guinea Ecuatorial"
+  - "Guinea Española"
+  - "Posesiones Españolas del Golfo de Guinea"
+  - "Provincia de la Guinea Ecuatorial"
+  - "Territorios Españoles del Golfo de Guinea"
 regions: 
   - 
     ascii_name: "Provincia de Annobon"
@@ -13,13 +22,16 @@ regions:
           - Ambo
           - Annobon
           - Annobón
+          - "Ano Bom"
         ascii_name: Pale
         geonamesid: 2306774
         latitude: -1.40139
         longitude: 5.6325
         name: Palé
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Annobón
+        names_es: 
+          - Annobón
         population: 4433
         timezone: Africa/Malabo
     geonamesid: 2310307
@@ -34,13 +46,19 @@ regions:
           - "Ciudad de Malabo"
           - Malaba
           - Malabas
+          - Malabo
         ascii_name: Malabo
         geonamesid: 2309527
         latitude: 3.75
         longitude: 8.78333
         name: Malabo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santa Isabel"
+          - Malabo
+        names_es: 
+          - "Santa Isabel"
+          - "Ciudad de Malabo"
+          - Malabo
         population: 155963
         timezone: Africa/Malabo
     geonamesid: 2566978
@@ -76,6 +94,7 @@ regions:
           - Ebinayon
           - Ebinayong
           - Ebineyon
+          - Ebinoyon
         ascii_name: Evinayong
         geonamesid: 2308994
         latitude: 1.45
@@ -97,6 +116,7 @@ regions:
           - Ebebiyin
           - Ebebiyín
           - Ebibeyin
+          - Ebibeying
         ascii_name: Ebebiyin
         geonamesid: 2309332
         latitude: 2.15
@@ -118,13 +138,16 @@ regions:
           - Bata
           - Kokapipa
           - "ba ta"
+          - bata
         ascii_name: Bata
         geonamesid: 2310046
         latitude: 1.85
         longitude: 9.75
         name: Bata
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bata
+        names_es: 
+          - Bata
         population: 173046
         timezone: Africa/Malabo
     geonamesid: 2566982

@@ -2,8 +2,11 @@
 geonamesid: 783754
 iso: AL
 name: Albania
-names_en: ~
-names_es: ~
+names_en: 
+  - Albania
+  - "Republic of Albania"
+names_es: 
+  - Albania
 regions: 
   - 
     ascii_name: "Qarku i Beratit"
@@ -13,6 +16,7 @@ regions:
           - Polican
           - Policani
           - Polichan
+          - Poliçan
         ascii_name: Polican
         geonamesid: 781979
         latitude: 40.61222
@@ -27,6 +31,7 @@ regions:
           - Cerevoda
           - Cerevode
           - Cerevodë
+          - Chorovoda
         ascii_name: Corovode
         geonamesid: 783408
         latitude: 40.50417
@@ -41,6 +46,7 @@ regions:
           - "Ur'e Hasan Beut"
           - "Ura Asan Beut"
           - "Ura Vajgurore"
+          - "Ura e Hasan Beut"
         ascii_name: "Ura Vajgurore"
         geonamesid: 3183814
         latitude: 40.76889
@@ -55,6 +61,7 @@ regions:
           - Kuchova
           - Kucova
           - Kucove
+          - Kuçova
         ascii_name: Kucove
         geonamesid: 3185060
         latitude: 40.80028
@@ -69,13 +76,16 @@ regions:
           - Beligrad
           - Berat
           - Berati
+          - Beration
         ascii_name: Berat
         geonamesid: 3186084
         latitude: 40.70583
         longitude: 19.95222
         name: Berat
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Berat
+        names_es: 
+          - Berat
         population: 46866
         timezone: Europe/Tirane
     geonamesid: 865730
@@ -90,12 +100,14 @@ regions:
           - Dibra
           - Dibre
           - Dibrë
+          - Peshkepija
         ascii_name: Peshkopi
         geonamesid: 782061
         latitude: 41.685
         longitude: 20.42889
         name: Peshkopi
-        names_en: ~
+        names_en: 
+          - Peshkopi
         names_es: ~
         population: 14848
         timezone: Europe/Tirane
@@ -104,12 +116,14 @@ regions:
           - Burela
           - Burele
           - Bureli
+          - Burelë
         ascii_name: Burrel
         geonamesid: 783493
         latitude: 41.61028
         longitude: 20.00889
         name: Burrel
-        names_en: ~
+        names_en: 
+          - Burrel
         names_es: ~
         population: 15405
         timezone: Europe/Tirane
@@ -118,6 +132,7 @@ regions:
           - Bul'kiza
           - Bulkiza
           - Bulqiza
+          - Bulqize
         ascii_name: Bulqize
         geonamesid: 783508
         latitude: 41.49167
@@ -139,6 +154,7 @@ regions:
           - Perrenjas-Fshat
           - Prrenjas-Fshat
           - Prrenjasi
+          - Përrenjas-Fshat
         ascii_name: Perrenjas-Fshat
         geonamesid: 781919
         latitude: 41.06667
@@ -153,6 +169,7 @@ regions:
           - Gramish
           - Gramsci
           - Gramsh
+          - Gramshi
         ascii_name: Gramsh
         geonamesid: 783059
         latitude: 40.86972
@@ -167,6 +184,7 @@ regions:
           - Ehl'basan
           - Elbasan
           - Elbasani
+          - Elbassan
         ascii_name: Elbasan
         geonamesid: 783263
         latitude: 41.1125
@@ -181,6 +199,7 @@ regions:
           - Hala
           - "Librazhd Qendre"
           - "Librazhd Qëndre"
+          - Librazhd-Qender
         ascii_name: Librazhd-Qender
         geonamesid: 832209
         latitude: 41.19694
@@ -195,6 +214,7 @@ regions:
           - Pecin
           - Pekin
           - Pekini
+          - Pekinj
         ascii_name: Peqin
         geonamesid: 3184497
         latitude: 41.04611
@@ -209,6 +229,7 @@ regions:
           - Cerrik
           - Cerriku
           - Cërrik
+          - Valasi
         ascii_name: Cerrik
         geonamesid: 3185897
         latitude: 41.03167
@@ -230,12 +251,14 @@ regions:
           - Tepelen
           - Tepelena
           - Tepelene
+          - Tepeleni
         ascii_name: Tepelene
         geonamesid: 781443
         latitude: 40.29583
         longitude: 20.01917
         name: Tepelenë
-        names_en: ~
+        names_en: 
+          - Tepelenë
         names_es: ~
         population: 11955
         timezone: Europe/Tirane
@@ -244,6 +267,7 @@ regions:
           - Permet
           - Permeti
           - Premet
+          - Premete
         ascii_name: Permet
         geonamesid: 782070
         latitude: 40.23361
@@ -258,6 +282,7 @@ regions:
           - Libhova
           - Libohov
           - Libohova
+          - "Libohova Qender"
         ascii_name: Libohove
         geonamesid: 782523
         latitude: 40.03111
@@ -272,6 +297,7 @@ regions:
           - Kel'cira
           - Kelcyra
           - Kelcyre
+          - Kelcyres
         ascii_name: Kelcyre
         geonamesid: 782843
         latitude: 40.31306
@@ -286,13 +312,16 @@ regions:
           - Agirocastro
           - Arghirocastru
           - Arghyrocastro
+          - Argirocastro
         ascii_name: Gjirokaster
         geonamesid: 783148
         latitude: 40.07583
         longitude: 20.13889
         name: Gjirokastër
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gjirokastër
+        names_es: 
+          - Gjirokastra
         population: 23437
         timezone: Europe/Tirane
       - 
@@ -300,6 +329,7 @@ regions:
           - Mamaliaga
           - Mamaliaj
           - Memaliaj
+          - Memalianji
         ascii_name: Memaliaj
         geonamesid: 3184743
         latitude: 40.35167
@@ -321,6 +351,7 @@ regions:
           - Malik
           - Maliq
           - Maliqi
+          - Малик
         ascii_name: Maliq
         geonamesid: 782393
         latitude: 40.70583
@@ -335,6 +366,7 @@ regions:
           - Leskovik
           - Leskoviku
           - Leskoviqi
+          - Liascovik
         ascii_name: Leskovik
         geonamesid: 782535
         latitude: 40.15139
@@ -349,12 +381,14 @@ regions:
           - Corce
           - Corcë
           - Coritsa
+          - Coritza
         ascii_name: Korce
         geonamesid: 782756
         latitude: 40.61861
         longitude: 20.78083
         name: Korçë
-        names_en: ~
+        names_en: 
+          - Korçë
         names_es: ~
         population: 58259
         timezone: Europe/Tirane
@@ -363,6 +397,7 @@ regions:
           - Colonia
           - Ehrseka
           - "Erseg Giatseg"
+          - Ersek
         ascii_name: Erseke
         geonamesid: 783259
         latitude: 40.33778
@@ -377,6 +412,7 @@ regions:
           - Biclishta
           - Biglista
           - Biklishta
+          - Bilishte
         ascii_name: Bilisht
         geonamesid: 783606
         latitude: 40.6275
@@ -398,12 +434,14 @@ regions:
           - Cucus
           - Kukes
           - Kukesi
+          - Kuks
         ascii_name: Kukes
         geonamesid: 782661
         latitude: 42.07694
         longitude: 20.42194
         name: Kukës
-        names_en: ~
+        names_en: 
+          - Kukës
         names_es: ~
         population: 17832
         timezone: Europe/Tirane
@@ -419,6 +457,7 @@ regions:
           - "Bazar Sciak"
           - "San Giacomo"
           - Shejak
+          - Shejaku
         ascii_name: Shijak
         geonamesid: 3184099
         latitude: 41.34556
@@ -433,12 +472,14 @@ regions:
           - Akcehisar
           - Akçehisar
           - Croia
+          - Cruja
         ascii_name: Kruje
         geonamesid: 3185082
         latitude: 41.50917
         longitude: 19.79278
         name: Krujë
-        names_en: ~
+        names_en: 
+          - Krujë
         names_es: ~
         population: 21286
         timezone: Europe/Tirane
@@ -447,6 +488,7 @@ regions:
           - "Fus e Krujs"
           - "Fush' e Krujes"
           - Fush-Kruja
+          - Fusha-Kruja
         ascii_name: Fushe-Kruje
         geonamesid: 3185638
         latitude: 41.47833
@@ -461,13 +503,16 @@ regions:
           - Drac
           - Drach
           - Drač
+          - Duraso
         ascii_name: Durres
         geonamesid: 3185728
         latitude: 41.32306
         longitude: 19.44139
         name: Durrës
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Durrës
+        names_es: 
+          - Durrës
         population: 122034
         timezone: Europe/Tirane
     geonamesid: 3344947
@@ -482,6 +527,7 @@ regions:
           - Roscovec
           - Roskovec
           - Roskoveci
+          - Rroskoveci
         ascii_name: Roskovec
         geonamesid: 3184290
         latitude: 40.7375
@@ -509,6 +555,7 @@ regions:
           - "Ljushna Cod a Gomares"
           - Ljushnja
           - Ljusnje
+          - Ljušnje
         ascii_name: Lushnje
         geonamesid: 3184862
         latitude: 40.94194
@@ -523,12 +570,14 @@ regions:
           - Fearica
           - Fier
           - Fieri
+          - Fjeri
         ascii_name: Fier
         geonamesid: 3185672
         latitude: 40.72389
         longitude: 19.55611
         name: Fier
-        names_en: ~
+        names_en: 
+          - Fier
         names_es: ~
         population: 56297
         timezone: Europe/Tirane
@@ -537,12 +586,14 @@ regions:
           - Bal'shi
           - Baleri
           - Ballesh
+          - Balleshi
         ascii_name: Ballsh
         geonamesid: 3186145
         latitude: 40.59889
         longitude: 19.73472
         name: Ballsh
-        names_en: ~
+        names_en: 
+          - Ballsh
         names_es: ~
         population: 10361
         timezone: Europe/Tirane
@@ -558,6 +609,7 @@ regions:
           - Kurbnesh
           - Kurbnesha
           - Kurbneshi
+          - Курбнеш
         ascii_name: Kurbnesh
         geonamesid: 782632
         latitude: 41.77972
@@ -572,6 +624,7 @@ regions:
           - "Saint Giovanni di Medua"
           - "San Giovanni di Medua"
           - "San Njin"
+          - "Sen Dovani di Medua"
         ascii_name: Shengjin
         geonamesid: 3184136
         latitude: 41.81361
@@ -586,6 +639,7 @@ regions:
           - Rrubig
           - Rrubigu
           - Rrumbiku
+          - Rubig
         ascii_name: Rubik
         geonamesid: 3184238
         latitude: 41.77444
@@ -600,6 +654,7 @@ regions:
           - Reshen
           - Resheni
           - Rresheni
+          - Rrshen
         ascii_name: Rreshen
         geonamesid: 3184264
         latitude: 41.7675
@@ -614,6 +669,7 @@ regions:
           - Milet
           - Miljoti
           - Milot
+          - Miloti
         ascii_name: Milot
         geonamesid: 3184702
         latitude: 41.68389
@@ -628,6 +684,7 @@ regions:
           - Mamuras
           - Mamurasi
           - Mamuraz
+          - Mamurras
         ascii_name: Mamurras
         geonamesid: 3184806
         latitude: 41.5775
@@ -642,12 +699,14 @@ regions:
           - Alessio
           - Lesh
           - Leshe
+          - Leshi
         ascii_name: Lezhe
         geonamesid: 3184935
         latitude: 41.78361
         longitude: 19.64361
         name: Lezhë
-        names_en: ~
+        names_en: 
+          - Lezhë
         names_es: ~
         population: 18695
         timezone: Europe/Tirane
@@ -656,6 +715,7 @@ regions:
           - Lac
           - Laci
           - Lak
+          - Latsch
         ascii_name: Lac
         geonamesid: 3185012
         latitude: 41.63556
@@ -677,6 +737,7 @@ regions:
           - Arres
           - Arrës
           - Arsi
+          - Arst
         ascii_name: Fushe-Arrez
         geonamesid: 783214
         latitude: 42.06222
@@ -691,6 +752,7 @@ regions:
           - Iskodra
           - Scutari
           - Shkoder
+          - Shkodra
         ascii_name: Shkoder
         geonamesid: 3184081
         latitude: 42.06828
@@ -705,6 +767,7 @@ regions:
           - Puca
           - Puka
           - "Puka Katund"
+          - Пука
         ascii_name: Puke
         geonamesid: 3184388
         latitude: 42.04444
@@ -719,6 +782,7 @@ regions:
           - Koplik
           - "Koplik Poster"
           - "Koplik Pošter"
+          - "Koplik i Poshtem"
         ascii_name: Koplik
         geonamesid: 3185133
         latitude: 42.21361
@@ -740,6 +804,7 @@ regions:
           - Vora
           - Vore
           - Vorra
+          - Vorre
         ascii_name: Vore
         geonamesid: 3183708
         latitude: 41.39083
@@ -754,13 +819,16 @@ regions:
           - Tiran
           - Tirana
           - Tirane
+          - Tirano
         ascii_name: Tirana
         geonamesid: 3183875
         latitude: 41.3275
         longitude: 19.81889
         name: Tirana
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tirana
+        names_es: 
+          - Tirana
         population: 374801
         timezone: Europe/Tirane
       - 
@@ -768,6 +836,7 @@ regions:
           - Rogozhina
           - Rogozhine
           - Rogozhinë
+          - Rogozin
         ascii_name: Rrogozhine
         geonamesid: 3184252
         latitude: 41.07639
@@ -782,6 +851,7 @@ regions:
           - Kerraba
           - Kerrabe
           - "Kraba e Vogel"
+          - "Kraba e Vogël"
         ascii_name: Krrabe
         geonamesid: 3185087
         latitude: 41.21556
@@ -796,12 +866,14 @@ regions:
           - Cavaia
           - Cavaja
           - Kavaia
+          - Kavaj
         ascii_name: Kavaje
         geonamesid: 3185211
         latitude: 41.18556
         longitude: 19.55694
         name: Kavajë
-        names_en: ~
+        names_en: 
+          - Kavajë
         names_es: ~
         population: 29354
         timezone: Europe/Tirane
@@ -810,6 +882,7 @@ regions:
           - Camza
           - Kambeza
           - Kambëza
+          - Kamez
         ascii_name: Kamez
         geonamesid: 3185270
         latitude: 41.38167
@@ -831,12 +904,14 @@ regions:
           - Agioi
           - "Agioi Saranta"
           - "Ayii Saranda"
+          - "Hagios Saranta"
         ascii_name: Sarande
         geonamesid: 363243
         latitude: 39.87556
         longitude: 20.00528
         name: Sarandë
-        names_en: ~
+        names_en: 
+          - Sarandë
         names_es: ~
         population: 15147
         timezone: Europe/Tirane
@@ -845,6 +920,7 @@ regions:
           - Conispolis
           - Konispoje
           - Konispol
+          - Konispol'
         ascii_name: Konispol
         geonamesid: 363320
         latitude: 39.65889
@@ -859,6 +935,7 @@ regions:
           - Del'vina
           - Delvina
           - Delvine
+          - Delvino
         ascii_name: Delvine
         geonamesid: 363383
         latitude: 39.95111
@@ -873,12 +950,14 @@ regions:
           - Au'lon
           - Au’lon
           - Avlon
+          - Avlona
         ascii_name: Vlore
         geonamesid: 3183719
         latitude: 40.46667
         longitude: 19.48972
         name: Vlorë
-        names_en: ~
+        names_en: 
+          - Vlorë
         names_es: ~
         population: 89546
         timezone: Europe/Tirane
@@ -887,6 +966,7 @@ regions:
           - Selenic
           - Selenica
           - Selenitsa
+          - Seleniza
         ascii_name: Selenice
         geonamesid: 3184197
         latitude: 40.53056
@@ -901,6 +981,7 @@ regions:
           - Orik
           - Oriku
           - Orikum
+          - Orikumi
         ascii_name: Orikum
         geonamesid: 3184575
         latitude: 40.32528
@@ -915,6 +996,7 @@ regions:
           - Chimara
           - Cimarre
           - Himara
+          - Himare
         ascii_name: Himare
         geonamesid: 3185377
         latitude: 40.10167

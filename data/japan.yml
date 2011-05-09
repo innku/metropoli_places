@@ -2,8 +2,10 @@
 geonamesid: 1861060
 iso: JP
 name: Japan
-names_en: ~
-names_es: ~
+names_en: 
+  - Japan
+names_es: 
+  - Japón
 regions: 
   - 
     ascii_name: Yamanashi-ken
@@ -36,6 +38,7 @@ regions:
           - Ocuki
           - Otsuki
           - Ōtsuki
+          - Оцуки
         ascii_name: Otsuki
         geonamesid: 1853564
         latitude: 35.6
@@ -50,6 +53,7 @@ regions:
           - Nirasaki
           - Nirasakimachi
           - Nirazaki
+          - Nirazakimachi
         ascii_name: Nirasaki
         geonamesid: 1855363
         latitude: 35.7
@@ -64,12 +68,14 @@ regions:
           - Kofe
           - Kofu
           - Kofu-shi
+          - Kohu
         ascii_name: Kofu-shi
         geonamesid: 1859100
         latitude: 35.66389
         longitude: 138.56833
         name: Kōfu-shi
-        names_en: ~
+        names_en: 
+          - Kofu
         names_es: ~
         population: 190000
         timezone: Asia/Tokyo
@@ -121,12 +127,14 @@ regions:
           - Jamaguci
           - Jamaguti
           - Jamaguči
+          - Yamaguchi
         ascii_name: Yamaguchi-shi
         geonamesid: 1848689
         latitude: 34.18583
         longitude: 131.47139
         name: Yamaguchi-shi
-        names_en: ~
+        names_en: 
+          - Yamaguchi
         names_es: ~
         population: 145515
         timezone: Asia/Tokyo
@@ -176,6 +184,7 @@ regions:
           - Otake
           - Otakeh
           - Ōtake
+          - Отакэ
         ascii_name: Otake
         geonamesid: 1853662
         latitude: 34.2
@@ -238,6 +247,7 @@ regions:
           - Bofu
           - Bohu
           - Bōfu
+          - Bōhu
         ascii_name: Hofu
         geonamesid: 1862302
         latitude: 34.05
@@ -297,6 +307,7 @@ regions:
           - Schingu
           - Shingu
           - Shingui
+          - Shingū
         ascii_name: Shingu
         geonamesid: 1847947
         latitude: 33.73333
@@ -349,6 +360,7 @@ regions:
           - Hashimoto
           - Hasimoto
           - Khasimoto
+          - Хасимото
         ascii_name: Hashimoto
         geonamesid: 1863082
         latitude: 34.31667
@@ -363,6 +375,7 @@ regions:
           - Gobo
           - Gobō
           - Hidaka
+          - Гобо
         ascii_name: Gobo
         geonamesid: 1863614
         latitude: 33.88333
@@ -377,12 +390,14 @@ regions:
           - Vakajama
           - Wakayama
           - Wakayama-shi
+          - Вакаяма
         ascii_name: Wakayama-shi
         geonamesid: 1926004
         latitude: 34.22611
         longitude: 135.1675
         name: Wakayama-shi
-        names_en: ~
+        names_en: 
+          - Wakayama
         names_es: ~
         population: 351000
         timezone: Asia/Tokyo
@@ -409,6 +424,7 @@ regions:
           - Oozu
           - Owatsu
           - Uozo
+          - Uozu
         ascii_name: Uozu
         geonamesid: 1849237
         latitude: 36.8
@@ -423,6 +439,7 @@ regions:
           - Tojama
           - Toyama-shi
           - Тояма
+          - とやまし
         ascii_name: Toyama-shi
         geonamesid: 1849876
         latitude: 36.69528
@@ -475,6 +492,7 @@ regions:
           - Namehrikava
           - Namerigawa
           - Namerikawa
+          - Намэрикава
         ascii_name: Namerikawa
         geonamesid: 1855694
         latitude: 36.76667
@@ -512,6 +530,7 @@ regions:
           - Himi
           - Khimi
           - "bing jian"
+          - Хими
         ascii_name: Himi
         geonamesid: 1862612
         latitude: 36.85
@@ -551,7 +570,8 @@ regions:
         latitude: 35.43333
         longitude: 133.33333
         name: Yonago
-        names_en: ~
+        names_en: 
+          - Yonago
         names_es: ~
         population: 141368
         timezone: Asia/Tokyo
@@ -604,12 +624,14 @@ regions:
           - Urajasu
           - Urayasu
           - "pu an shi"
+          - Ураясу
         ascii_name: Urayasu
         geonamesid: 1849186
         latitude: 35.67056
         longitude: 139.88861
         name: Urayasu
-        names_en: ~
+        names_en: 
+          - Urayasu
         names_es: ~
         population: 143758
         timezone: Asia/Tokyo
@@ -618,13 +640,17 @@ regions:
           - "Edo (historical)"
           - TYO
           - Tochiu
+          - Tocio
         ascii_name: Tokyo
         geonamesid: 1850147
         latitude: 35.61488
         longitude: 139.5813
         name: Tokyo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Edo (historical)"
+          - Tokyo
+        names_es: 
+          - Tokio
         population: 8336599
         timezone: Asia/Tokyo
       - 
@@ -632,6 +658,7 @@ regions:
           - Hoya
           - Hoya-shi
           - Nishitokyo-shi
+          - Tanashi
         ascii_name: Nishi-Tokyo-shi
         geonamesid: 1850692
         latitude: 35.72526
@@ -684,6 +711,7 @@ regions:
           - Minamimachi
           - Nerima
           - "lian ma"
+          - 練馬
         ascii_name: Nerima
         geonamesid: 1855503
         latitude: 35.73333
@@ -698,13 +726,16 @@ regions:
           - Musashino
           - Musasino
           - "musasino si"
+          - "wu cang ye shi"
         ascii_name: Musashino
         geonamesid: 1856367
         latitude: 35.70611
         longitude: 139.55944
         name: Musashino
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Musashino
+        names_es: 
+          - Musashino
         population: 137479
         timezone: Asia/Tokyo
       - 
@@ -712,6 +743,7 @@ regions:
           - Mitaka
           - "san ying"
           - "san ying shi"
+          - 三鷹
         ascii_name: Mitaka-shi
         geonamesid: 1856942
         latitude: 35.68351
@@ -726,12 +758,14 @@ regions:
           - Machida
           - "ting tian shi"
           - Мачида
+          - 町田市
         ascii_name: Machida
         geonamesid: 1857871
         latitude: 35.54028
         longitude: 139.45083
         name: Machida
-        names_en: ~
+        names_en: 
+          - Machida
         names_es: ~
         population: 399969
         timezone: Asia/Tokyo
@@ -759,7 +793,8 @@ regions:
         latitude: 35.69139
         longitude: 139.50111
         name: Koganei
-        names_en: ~
+        names_en: 
+          - Koganei
         names_es: ~
         population: 115967
         timezone: Asia/Tokyo
@@ -782,6 +817,7 @@ regions:
           - Kami-renjaku
           - Mitaka
           - Mitaka-machi
+          - Mitaka-mura
         ascii_name: Kami-renjaku
         geonamesid: 1860437
         latitude: 35.68333
@@ -819,12 +855,14 @@ regions:
           - Hachioji
           - Hachiōji
           - Hatiozi
+          - Hatiôzi
         ascii_name: Hachioji
         geonamesid: 1863440
         latitude: 35.65583
         longitude: 139.32389
         name: Hachiōji
-        names_en: ~
+        names_en: 
+          - Hachiōji
         names_es: ~
         population: 579399
         timezone: Asia/Tokyo
@@ -865,7 +903,8 @@ regions:
         latitude: 35.73667
         longitude: 139.32361
         name: Fussa
-        names_en: ~
+        names_en: 
+          - Fussa
         names_es: ~
         population: 62296
         timezone: Asia/Tokyo
@@ -879,7 +918,8 @@ regions:
         latitude: 35.67444
         longitude: 139.435
         name: Kunitachi
-        names_en: ~
+        names_en: 
+          - Kunitachi
         names_es: ~
         population: 78062
         timezone: Asia/Tokyo
@@ -893,7 +933,8 @@ regions:
         latitude: 35.63639
         longitude: 139.57444
         name: Komae
-        names_en: ~
+        names_en: 
+          - Komae
         names_es: ~
         population: 77642
         timezone: Asia/Tokyo
@@ -902,6 +943,7 @@ regions:
           - "akiru ye"
           - "akiru ye shi"
           - akiruno
+          - あきる野
         ascii_name: Akiruno-shi
         geonamesid: 6822131
         latitude: 35.72878
@@ -916,6 +958,7 @@ regions:
           - Higashi-Murayama
           - Higashi-Murayama-shi
           - Higashimurayama
+          - "dong cun shan"
         ascii_name: Higashimurayama-shi
         geonamesid: 7279570
         latitude: 35.75459
@@ -950,13 +993,16 @@ regions:
           - Tokushima
           - "Tokushima - de dao shi"
           - "Tokushima - 徳島市"
+          - Tokushima-shi
         ascii_name: Tokushima-shi
         geonamesid: 1850158
         latitude: 34.06583
         longitude: 134.55944
         name: Tokushima-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tokushima
+        names_es: 
+          - Tokushima
         population: 267345
         timezone: Asia/Tokyo
       - 
@@ -1061,12 +1107,14 @@ regions:
           - Ucunomija
           - Utsunomiya
           - Utsunomiya-shi
+          - "usseunomiya si"
         ascii_name: Utsunomiya-shi
         geonamesid: 1849053
         latitude: 36.56583
         longitude: 139.88361
         name: Utsunomiya-shi
-        names_en: ~
+        names_en: 
+          - Utsunomiya
         names_es: ~
         population: 449865
         timezone: Asia/Tokyo
@@ -1140,13 +1188,16 @@ regions:
           - Nikko
           - Nikkó
           - Nikkō
+          - "nisko si"
         ascii_name: Nikko
         geonamesid: 1855395
         latitude: 36.75
         longitude: 139.61667
         name: Nikkō
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nikkō
+        names_es: 
+          - Nikkō
         population: 16041
         timezone: Asia/Tokyo
       - 
@@ -1167,12 +1218,14 @@ regions:
           - Kamima
           - Kanuma
           - "lu zhao shi"
+          - Канума
         ascii_name: Kanuma
         geonamesid: 1860098
         latitude: 36.55
         longitude: 139.73333
         name: Kanuma
-        names_en: ~
+        names_en: 
+          - Kanuma
         names_es: ~
         population: 94903
         timezone: Asia/Tokyo
@@ -1218,12 +1271,14 @@ regions:
           - Ashikaga
           - "Ashikaga - zu li shi"
           - "Ashikaga - 足利市"
+          - Asikaga
         ascii_name: Ashikaga
         geonamesid: 1865005
         latitude: 36.33333
         longitude: 139.45
         name: Ashikaga
-        names_en: ~
+        names_en: 
+          - Ashikaga
         names_es: ~
         population: 159671
         timezone: Asia/Tokyo
@@ -1258,12 +1313,14 @@ regions:
           - Moka
           - Mooka
           - Mōka
+          - "zhen gang shi"
         ascii_name: Mooka
         geonamesid: 2111836
         latitude: 36.43333
         longitude: 140.01667
         name: Mooka
-        names_en: ~
+        names_en: 
+          - Mooka
         names_es: ~
         population: 65717
         timezone: Asia/Tokyo
@@ -1315,12 +1372,14 @@ regions:
           - Jaidzu
           - Yaidu
           - Yaizu
+          - "Yaizu Mati"
         ascii_name: Yaizu
         geonamesid: 1848774
         latitude: 34.86667
         longitude: 138.33333
         name: Yaizu
-        names_en: ~
+        names_en: 
+          - Yaizu
         names_es: ~
         population: 121057
         timezone: Asia/Tokyo
@@ -1329,13 +1388,16 @@ regions:
           - Shizuoka
           - Shizuoka-shi
           - Siduoka
+          - Sidzuoka
         ascii_name: Shizuoka-shi
         geonamesid: 1851717
         latitude: 34.97694
         longitude: 138.38306
         name: Shizuoka-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Shizuoka
+        names_es: 
+          - Shizuoka
         population: 701561
         timezone: Asia/Tokyo
       - 
@@ -1393,12 +1455,14 @@ regions:
           - Numadu
           - Numazu
           - "zhao jin shi"
+          - 沼津市
         ascii_name: Numazu
         geonamesid: 1854902
         latitude: 35.1
         longitude: 138.86667
         name: Numazu
-        names_en: ~
+        names_en: 
+          - Numazu
         names_es: ~
         population: 204318
         timezone: Asia/Tokyo
@@ -1435,6 +1499,7 @@ regions:
           - Kosai
           - Kosai-shi
           - "hu xi"
+          - "hu xi shi"
         ascii_name: Kosai-shi
         geonamesid: 1858756
         latitude: 34.7184
@@ -1460,12 +1525,14 @@ regions:
           - Kakegawa
           - Kakehgava
           - "gua chuan shi"
+          - Какэгава
         ascii_name: Kakegawa
         geonamesid: 1860728
         latitude: 34.76667
         longitude: 138.01667
         name: Kakegawa
-        names_en: ~
+        names_en: 
+          - Kakegawa
         names_es: ~
         population: 84004
         timezone: Asia/Tokyo
@@ -1474,6 +1541,7 @@ regions:
           - Ivata
           - Iwata
           - "pan tian"
+          - Ивата
         ascii_name: Iwata
         geonamesid: 1861171
         latitude: 34.7
@@ -1488,12 +1556,14 @@ regions:
           - Ito
           - Itō
           - "yi dong shi"
+          - Ито
         ascii_name: Ito
         geonamesid: 1861290
         latitude: 34.96667
         longitude: 139.08333
         name: Itō
-        names_en: ~
+        names_en: 
+          - Itō
         names_es: ~
         population: 71578
         timezone: Asia/Tokyo
@@ -1502,6 +1572,7 @@ regions:
           - Heda
           - Khehda
           - Toda
+          - Хэда
         ascii_name: Heda
         geonamesid: 1862944
         latitude: 34.96667
@@ -1516,13 +1587,16 @@ regions:
           - Hamamacu
           - Hamamatsu
           - Hamamatu
+          - "bang song shi"
         ascii_name: Hamamatsu
         geonamesid: 1863289
         latitude: 34.7
         longitude: 137.73333
         name: Hamamatsu
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hamamatsu
+        names_es: 
+          - Hamamatsu
         population: 605098
         timezone: Asia/Tokyo
       - 
@@ -1541,6 +1615,7 @@ regions:
           - Gotemba
           - Kyu-gotemba
           - Kyū-gotemba
+          - Готемба
         ascii_name: Gotemba
         geonamesid: 1863528
         latitude: 35.3
@@ -1555,12 +1630,14 @@ regions:
           - Fukuroi
           - "dai jing shi"
           - Фукурои
+          - 袋井市
         ascii_name: Fukuroi
         geonamesid: 1863945
         latitude: 34.75
         longitude: 137.91667
         name: Fukuroi
-        names_en: ~
+        names_en: 
+          - Fukuroi
         names_es: ~
         population: 63045
         timezone: Asia/Tokyo
@@ -1569,12 +1646,14 @@ regions:
           - Fujimiya
           - Fujinomiya
           - Omiya
+          - "fu shi gong shi"
         ascii_name: Fujinomiya
         geonamesid: 1864105
         latitude: 35.21667
         longitude: 138.61667
         name: Fujinomiya
-        names_en: ~
+        names_en: 
+          - Fujinomiya
         names_es: ~
         population: 121515
         timezone: Asia/Tokyo
@@ -1583,12 +1662,14 @@ regions:
           - Fudziehda
           - Fujieda
           - "teng zhi shi"
+          - Фудзиэда
         ascii_name: Fujieda
         geonamesid: 1864132
         latitude: 34.86667
         longitude: 138.26667
         name: Fujieda
-        names_en: ~
+        names_en: 
+          - Fujieda
         names_es: ~
         population: 132859
         timezone: Asia/Tokyo
@@ -1641,6 +1722,7 @@ regions:
           - Oda
           - Ota
           - "da tian shi"
+          - Ōda
         ascii_name: Oda
         geonamesid: 1854774
         latitude: 35.18333
@@ -1655,6 +1737,7 @@ regions:
           - Macueh
           - Matsu
           - Matsue-shi
+          - Matue
         ascii_name: Matsue-shi
         geonamesid: 1857550
         latitude: 35.47222
@@ -1683,6 +1766,7 @@ regions:
           - Idzumo
           - Itsumo
           - Izumo
+          - Идзумо
         ascii_name: Izumo
         geonamesid: 1861084
         latitude: 35.36667
@@ -1722,6 +1806,7 @@ regions:
           - Gatsu
           - Gotsu
           - Gotu
+          - Gozu
         ascii_name: Gotsu
         geonamesid: 1863521
         latitude: 35.0
@@ -1770,13 +1855,16 @@ regions:
           - Ocu
           - Otsu
           - Otsu-shi
+          - Otu
         ascii_name: Otsu-shi
         geonamesid: 1853574
         latitude: 35.00444
         longitude: 135.86833
         name: Ōtsu-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ōtsu
+        names_es: 
+          - Ōtsu
         population: 298164
         timezone: Asia/Tokyo
       - 
@@ -1823,6 +1911,7 @@ regions:
           - Kusacu
           - Kusatsu
           - Kusatsu-cho
+          - Kusatsu-chō
         ascii_name: Kusatsu
         geonamesid: 1858067
         latitude: 35.01667
@@ -1859,12 +1948,14 @@ regions:
           - Hikone
           - Khikoneh
           - "yan gen shi"
+          - Хиконэ
         ascii_name: Hikone
         geonamesid: 1862636
         latitude: 35.25
         longitude: 136.25
         name: Hikone
-        names_en: ~
+        names_en: 
+          - Hikone
         names_es: ~
         population: 110925
         timezone: Asia/Tokyo
@@ -1873,6 +1964,7 @@ regions:
           - Omihachiman-shi
           - "jin jiang ba fan"
           - "jin jiang ba fan shi"
+          - Ōmihachiman-shi
         ascii_name: Omihachiman
         geonamesid: 1863451
         latitude: 35.12861
@@ -1944,12 +2036,14 @@ regions:
           - Tokorosava
           - Tokorozawa
           - "suo ze shi"
+          - Токоросава
         ascii_name: Tokorozawa
         geonamesid: 1850181
         latitude: 35.79916
         longitude: 139.46903
         name: Tokorozawa
-        names_en: ~
+        names_en: 
+          - Tokorozawa
         names_es: ~
         population: 339435
         timezone: Asia/Tokyo
@@ -1970,6 +2064,7 @@ regions:
           - Sok
           - Soka
           - Sōka
+          - Сок
         ascii_name: Soka
         geonamesid: 1851604
         latitude: 35.82028
@@ -1984,6 +2079,7 @@ regions:
           - Sebu
           - Shobu
           - Shōbu
+          - Себу
         ascii_name: Shobu
         geonamesid: 1851711
         latitude: 36.06667
@@ -2010,12 +2106,14 @@ regions:
           - Shiki
           - Siki
           - "zhi mu shi"
+          - Сики
         ascii_name: Shiki
         geonamesid: 1852502
         latitude: 35.83333
         longitude: 139.58333
         name: Shiki
-        names_en: ~
+        names_en: 
+          - Shiki
         names_es: ~
         population: 65411
         timezone: Asia/Tokyo
@@ -2041,7 +2139,8 @@ regions:
         latitude: 35.95694
         longitude: 139.38889
         name: Sakado
-        names_en: ~
+        names_en: 
+          - Sakado
         names_es: ~
         population: 96656
         timezone: Asia/Tokyo
@@ -2050,12 +2149,14 @@ regions:
           - Okegawa
           - Okugawamachi
           - "tong chuan shi"
+          - 桶川市
         ascii_name: Okegawa
         geonamesid: 1854371
         latitude: 36.0
         longitude: 139.55722
         name: Okegawa
-        names_en: ~
+        names_en: 
+          - Okegawa
         names_es: ~
         population: 75062
         timezone: Asia/Tokyo
@@ -2129,12 +2230,14 @@ regions:
           - Kumagai
           - Kumagaya
           - "gumagaya si"
+          - "xiong gu shi"
         ascii_name: Kumagaya
         geonamesid: 1858428
         latitude: 36.13333
         longitude: 139.38333
         name: Kumagaya
-        names_en: ~
+        names_en: 
+          - Kumagaya
         names_es: ~
         population: 155813
         timezone: Asia/Tokyo
@@ -2161,8 +2264,10 @@ regions:
         latitude: 35.88333
         longitude: 139.78333
         name: Koshigaya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Koshigaya
+        names_es: 
+          - Koshigaya
         population: 317437
         timezone: Asia/Tokyo
       - 
@@ -2170,6 +2275,7 @@ regions:
           - Konosu
           - Kōnosu
           - "hong chao"
+          - 鴻巣
         ascii_name: Konosu
         geonamesid: 1858794
         latitude: 36.05
@@ -2214,7 +2320,8 @@ regions:
         latitude: 36.11667
         longitude: 139.6
         name: Kazo
-        names_en: ~
+        names_en: 
+          - Kazo
         names_es: ~
         population: 71291
         timezone: Asia/Tokyo
@@ -2223,13 +2330,16 @@ regions:
           - Kavaguti
           - Kawaguchi
           - "chuan kou shi"
+          - Кавагути
         ascii_name: Kawaguchi
         geonamesid: 1859730
         latitude: 35.805
         longitude: 139.72056
         name: Kawaguchi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kawaguchi
+        names_es: 
+          - Kawaguchi
         population: 468565
         timezone: Asia/Tokyo
       - 
@@ -2249,13 +2359,16 @@ regions:
           - Kasukabe
           - "chun ri bu shi"
           - "gaseukabe si"
+          - 春日部市
         ascii_name: Kasukabe
         geonamesid: 1859884
         latitude: 35.97639
         longitude: 139.75361
         name: Kasukabe
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kasukabe
+        names_es: 
+          - Kasukabe
         population: 206915
         timezone: Asia/Tokyo
       - 
@@ -2288,6 +2401,7 @@ regions:
           - Hatagayacho
           - Hatagayachō
           - Hatogaya
+          - Hatogayamachi
         ascii_name: Hatogaya
         geonamesid: 1863023
         latitude: 35.83417
@@ -2302,6 +2416,7 @@ regions:
           - Hanyu
           - Hanyū
           - Khan'juj
+          - Ханьюй
         ascii_name: Hanyu
         geonamesid: 1863173
         latitude: 36.16667
@@ -2316,6 +2431,7 @@ regions:
           - Hanno
           - Hannō
           - Khanno
+          - Ханно
         ascii_name: Hanno
         geonamesid: 1863183
         latitude: 35.85194
@@ -2381,13 +2497,16 @@ regions:
           - Ageo
           - Ageomura
           - "shang wei shi"
+          - 上尾市
         ascii_name: Ageo
         geonamesid: 1865714
         latitude: 35.96972
         longitude: 139.58861
         name: Ageo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ageo
+        names_es: 
+          - Ageo
         population: 219401
         timezone: Asia/Tokyo
       - 
@@ -2400,8 +2519,10 @@ regions:
         latitude: 35.97556
         longitude: 139.65083
         name: Hasuda
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hasuda
+        names_es: 
+          - Hasuda
         population: 65161
         timezone: Asia/Tokyo
       - 
@@ -2421,12 +2542,14 @@ regions:
           - Irumagawa
           - Sajama
           - Sayama
+          - "sayama si"
         ascii_name: Sayama
         geonamesid: 1907146
         latitude: 35.85295
         longitude: 139.41212
         name: Sayama
-        names_en: ~
+        names_en: 
+          - Sayama
         names_es: ~
         population: 160843
         timezone: Asia/Tokyo
@@ -2435,13 +2558,16 @@ regions:
           - Asaka
           - "asaka si"
           - "chao xia shi"
+          - Асака
         ascii_name: Asaka
         geonamesid: 1907299
         latitude: 35.80472
         longitude: 139.60194
         name: Asaka
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Asaka
+        names_es: 
+          - Asaka
         population: 128058
         timezone: Asia/Tokyo
       - 
@@ -2463,12 +2589,14 @@ regions:
           - Toda
           - "hu tian shi"
           - Тода
+          - 戸田市
         ascii_name: Toda
         geonamesid: 1907301
         latitude: 35.80944
         longitude: 139.6925
         name: Toda
-        names_en: ~
+        names_en: 
+          - Toda
         names_es: ~
         population: 118731
         timezone: Asia/Tokyo
@@ -2509,12 +2637,14 @@ regions:
           - Tosu
           - "doseu si"
           - "niao qi shi"
+          - 鳥栖市
         ascii_name: Tosu
         geonamesid: 1849904
         latitude: 33.36667
         longitude: 130.51667
         name: Tosu
-        names_en: ~
+        names_en: 
+          - Tosu
         names_es: ~
         population: 63595
         timezone: Asia/Tokyo
@@ -2536,6 +2666,7 @@ regions:
           - Saga
           - "Saga Japonija"
           - Saga-shi
+          - "zuo he"
         ascii_name: Saga-shi
         geonamesid: 1853303
         latitude: 33.24932
@@ -2550,6 +2681,7 @@ regions:
           - Okava
           - Okawa
           - Ōkawa
+          - Окава
         ascii_name: Okawa
         geonamesid: 1854405
         latitude: 33.2
@@ -2578,12 +2710,14 @@ regions:
           - Karacu
           - Karatsu
           - Karatu
+          - "Karatu Si"
         ascii_name: Karatsu
         geonamesid: 1860063
         latitude: 33.4425
         longitude: 129.96972
         name: Karatsu
-        names_en: ~
+        names_en: 
+          - Karatsu
         names_es: ~
         population: 78330
         timezone: Asia/Tokyo
@@ -2625,12 +2759,14 @@ regions:
           - Jao
           - Yao
           - Yaocho
+          - Yaochō
         ascii_name: Yao
         geonamesid: 1848522
         latitude: 34.61667
         longitude: 135.6
         name: Yao
-        names_en: ~
+        names_en: 
+          - Yao
         names_es: ~
         population: 273213
         timezone: Asia/Tokyo
@@ -2655,7 +2791,8 @@ regions:
         latitude: 34.5
         longitude: 135.6
         name: Tondabayashi
-        names_en: ~
+        names_en: 
+          - Tondabayashi
         names_es: ~
         population: 132873
         timezone: Asia/Tokyo
@@ -2664,13 +2801,16 @@ regions:
           - Takacuki
           - Takatsuki
           - Takatuki
+          - "gao gui shi"
         ascii_name: Takatsuki
         geonamesid: 1850910
         latitude: 34.84833
         longitude: 135.61678
         name: Takatsuki
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Takatsuki
+        names_es: 
+          - Takatsuki
         population: 354468
         timezone: Asia/Tokyo
       - 
@@ -2692,12 +2832,14 @@ regions:
           - Suika
           - Suita
           - "chui tian shi"
+          - "seu-ita si"
         ascii_name: Suita
         geonamesid: 1851483
         latitude: 34.76143
         longitude: 135.51567
         name: Suita
-        names_en: ~
+        names_en: 
+          - Suita
         names_es: ~
         population: 351630
         timezone: Asia/Tokyo
@@ -2706,13 +2848,16 @@ regions:
           - Sacaia
           - Sacaium
           - Sakai
+          - "jie shi"
         ascii_name: Sakai
         geonamesid: 1853195
         latitude: 34.58333
         longitude: 135.46667
         name: Sakai
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sakai
+        names_es: 
+          - Sakai
         population: 782339
         timezone: Asia/Tokyo
       - 
@@ -2720,13 +2865,16 @@ regions:
           - OSA
           - Osaca
           - "Osaca - da ban shi"
+          - "Osaca - 大阪市"
         ascii_name: Osaka-shi
         geonamesid: 1853909
         latitude: 34.69374
         longitude: 135.50218
         name: Ōsaka-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Osaka
+        names_es: 
+          - Osaka
         population: 2592413
         timezone: Asia/Tokyo
       - 
@@ -2739,7 +2887,8 @@ regions:
         latitude: 34.73333
         longitude: 135.56667
         name: Moriguchi
-        names_en: ~
+        names_en: 
+          - Moriguchi
         names_es: ~
         population: 148350
         timezone: Asia/Tokyo
@@ -2748,6 +2897,7 @@ regions:
           - Mino-shi
           - "Minoh City"
           - "ji mian"
+          - "ji mian shi"
         ascii_name: Mino
         geonamesid: 1857046
         latitude: 34.82691
@@ -2774,12 +2924,14 @@ regions:
           - Kishiwada
           - Kisivada
           - Kisiwada
+          - "an he tian shi"
         ascii_name: Kishiwada
         geonamesid: 1859383
         latitude: 34.46667
         longitude: 135.36667
         name: Kishiwada
-        names_en: ~
+        names_en: 
+          - Kishiwada
         names_es: ~
         population: 205561
         timezone: Asia/Tokyo
@@ -2788,6 +2940,7 @@ regions:
           - Kashihara
           - Kashiharacho
           - Kashiharachō
+          - Kashiwabara
         ascii_name: Kashihara
         geonamesid: 1859952
         latitude: 34.58333
@@ -2802,12 +2955,14 @@ regions:
           - Kaitsuka
           - Kaizuka
           - "bei zhong shi"
+          - 貝塚市
         ascii_name: Kaizuka
         geonamesid: 1860765
         latitude: 34.45
         longitude: 135.35
         name: Kaizuka
-        names_en: ~
+        names_en: 
+          - Kaizuka
         names_es: ~
         population: 92632
         timezone: Asia/Tokyo
@@ -2816,13 +2971,16 @@ regions:
           - Kadoma
           - Kadome
           - "men zhen shi"
+          - Кадоме
         ascii_name: Kadoma
         geonamesid: 1860871
         latitude: 34.73333
         longitude: 135.58333
         name: Kadoma
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kadoma
+        names_es: 
+          - Kadoma
         population: 131727
         timezone: Asia/Tokyo
       - 
@@ -2830,6 +2988,7 @@ regions:
           - Ebisucho
           - Ebisuchō
           - Idzumotsu
+          - Izumiotsu
         ascii_name: Izumiotsu
         geonamesid: 1861095
         latitude: 34.5
@@ -2855,6 +3014,7 @@ regions:
           - Ikeda
           - "chi tian"
           - "chi tian shi"
+          - Икеда
         ascii_name: Ikeda
         geonamesid: 1861795
         latitude: 34.82208
@@ -2869,6 +3029,7 @@ regions:
           - Ibaragi
           - Ibaraki
           - "ci cheng shi"
+          - "ci mu"
         ascii_name: Ibaraki
         geonamesid: 1862033
         latitude: 34.81641
@@ -2883,12 +3044,14 @@ regions:
           - Hirakata
           - "hilakata si"
           - hyrakata
+          - " awsaka"
         ascii_name: Hirakata
         geonamesid: 1862540
         latitude: 34.81352
         longitude: 135.64914
         name: Hirakata
-        names_en: ~
+        names_en: 
+          - Hirakata
         names_es: ~
         population: 406331
         timezone: Asia/Tokyo
@@ -2908,6 +3071,7 @@ regions:
           - Neyagawa-shi
           - "qin wu chuan"
           - "qin wu chuan shi"
+          - 寝屋川
         ascii_name: Neyagawa
         geonamesid: 6697563
         latitude: 34.76615
@@ -2929,6 +3093,7 @@ regions:
           - Jonaguni
           - Yonaguni
           - Yonakuni
+          - Йонагуни
         ascii_name: Yonakuni
         geonamesid: 1848266
         latitude: 24.46667
@@ -2943,6 +3108,7 @@ regions:
           - Gusuku
           - Temigusuku
           - Timigusuku
+          - Tomigusuki
         ascii_name: Tomigusuku
         geonamesid: 1850108
         latitude: 26.185
@@ -2957,13 +3123,16 @@ regions:
           - Nafa
           - Naha
           - Naha-shi
+          - Nakha
         ascii_name: Naha-shi
         geonamesid: 1856035
         latitude: 26.2125
         longitude: 127.68111
         name: Naha-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Naha
+        names_es: 
+          - Naha
         population: 300795
         timezone: Asia/Tokyo
       - 
@@ -2971,6 +3140,7 @@ regions:
           - Naga
           - Nago
           - Nagu
+          - Okaneku
         ascii_name: Nago
         geonamesid: 1856068
         latitude: 26.58806
@@ -2985,6 +3155,7 @@ regions:
           - Ichuman
           - Itoman
           - "mi man"
+          - 糸満
         ascii_name: Itoman
         geonamesid: 1861280
         latitude: 26.12472
@@ -2999,6 +3170,7 @@ regions:
           - Ishikawa
           - Ishiza
           - Isikava
+          - Исикава
         ascii_name: Ishikawa
         geonamesid: 1861393
         latitude: 26.42333
@@ -3013,6 +3185,7 @@ regions:
           - Ishigachi
           - Ishigaki
           - Isigaki
+          - Shika
         ascii_name: Ishigaki
         geonamesid: 1861416
         latitude: 24.34478
@@ -3053,6 +3226,7 @@ regions:
           - Geshicha
           - Geshichā
           - Gushichaa
+          - Gushikawa
         ascii_name: Gushikawa
         geonamesid: 1863495
         latitude: 26.35444
@@ -3067,12 +3241,14 @@ regions:
           - Chinon
           - Chinōn
           - Ginowan
+          - Jinon
         ascii_name: Ginowan
         geonamesid: 1863627
         latitude: 26.26265
         longitude: 127.76147
         name: Ginowan
-        names_en: ~
+        names_en: 
+          - Ginowan
         names_es: ~
         population: 91800
         timezone: Asia/Tokyo
@@ -3094,12 +3270,14 @@ regions:
           - Okinava
           - Okinawa
           - "chong sheng shi"
+          - "okinawa si"
         ascii_name: Okinawa
         geonamesid: 1894616
         latitude: 26.33583
         longitude: 127.80139
         name: Okinawa
-        names_en: ~
+        names_en: 
+          - Okinawa
         names_es: ~
         population: 125483
         timezone: Asia/Tokyo
@@ -3115,12 +3293,14 @@ regions:
           - Cujama
           - Tsuyama
           - Tuyama
+          - "jin shan shi"
         ascii_name: Tsuyama
         geonamesid: 1849519
         latitude: 35.05
         longitude: 134.0
         name: Tsuyama
-        names_en: ~
+        names_en: 
+          - Tsuyama
         names_es: ~
         population: 89717
         timezone: Asia/Tokyo
@@ -3142,6 +3322,7 @@ regions:
           - Takahashi
           - Takahasi
           - Takakhasi
+          - Такахаси
         ascii_name: Takahashi
         geonamesid: 1851137
         latitude: 34.78333
@@ -3156,6 +3337,7 @@ regions:
           - Soja
           - Sozya
           - Sōja
+          - Sōzya
         ascii_name: Soja
         geonamesid: 1851606
         latitude: 34.66667
@@ -3170,12 +3352,14 @@ regions:
           - Okajama
           - Okayama
           - Okayama-shi
+          - "okayama si"
         ascii_name: Okayama-shi
         geonamesid: 1854383
         latitude: 34.66167
         longitude: 133.935
         name: Okayama-shi
-        names_en: ~
+        names_en: 
+          - Okayama
         names_es: ~
         population: 639652
         timezone: Asia/Tokyo
@@ -3197,12 +3381,14 @@ regions:
           - Kurashiki
           - Kurasiki
           - "cang fu shi"
+          - Курашики
         ascii_name: Kurashiki
         geonamesid: 1858311
         latitude: 34.58333
         longitude: 133.76667
         name: Kurashiki
-        names_en: ~
+        names_en: 
+          - Kurashiki
         names_es: ~
         population: 437581
         timezone: Asia/Tokyo
@@ -3261,7 +3447,8 @@ regions:
         latitude: 33.10806
         longitude: 131.78778
         name: Usuki
-        names_en: ~
+        names_en: 
+          - Usuki
         names_es: ~
         population: 35001
         timezone: Asia/Tokyo
@@ -3296,12 +3483,15 @@ regions:
           - Bungo-Takada
           - Bungo-Takata
           - Takata
+          - "gao tian"
         ascii_name: Bungo-Takada-shi
         geonamesid: 1851170
         latitude: 33.5567
         longitude: 131.44506
         name: Bungo-Takada-shi
-        names_en: ~
+        names_en: 
+          - Bungo-Takada
+          - Bungo-Takata
         names_es: ~
         population: 23856
         timezone: Asia/Tokyo
@@ -3323,12 +3513,14 @@ regions:
           - Oita
           - Oita-shi
           - "oita si"
+          - Óita
         ascii_name: Oita-shi
         geonamesid: 1854487
         latitude: 33.23806
         longitude: 131.6125
         name: Ōita-shi
-        names_en: ~
+        names_en: 
+          - Ōita
         names_es: ~
         population: 448907
         timezone: Asia/Tokyo
@@ -3351,6 +3543,7 @@ regions:
           - Hida
           - Hita
           - Khity
+          - Хиты
         ascii_name: Hita
         geonamesid: 1862373
         latitude: 33.31667
@@ -3365,6 +3558,7 @@ regions:
           - Higi
           - Hiji
           - Hinode
+          - Hizi
         ascii_name: Hiji
         geonamesid: 1862689
         latitude: 33.36667
@@ -3393,6 +3587,7 @@ regions:
           - Kunisaki
           - "guo dong"
           - "guo dong shi"
+          - 国東
         ascii_name: Kunisaki-shi
         geonamesid: 7279571
         latitude: 33.56543
@@ -3439,6 +3634,7 @@ regions:
           - Toka
           - Tokamachi
           - Tokamati
+          - Tōka
         ascii_name: Tokamachi
         geonamesid: 1850217
         latitude: 37.13333
@@ -3513,6 +3709,7 @@ regions:
           - Sandscho
           - Sandyo
           - Sandze
+          - Sanjo
         ascii_name: Sanjo
         geonamesid: 1852984
         latitude: 37.61667
@@ -3527,6 +3724,7 @@ regions:
           - Ryotsu
           - Ryotu
           - Ryozu
+          - Ryōtsu
         ascii_name: Ryotsu
         geonamesid: 1853371
         latitude: 38.08333
@@ -3553,12 +3751,14 @@ regions:
           - Niitsu
           - Niitu
           - Niizu
+          - "xin jin shi"
         ascii_name: Niitsu
         geonamesid: 1855410
         latitude: 37.8
         longitude: 139.11667
         name: Niitsu
-        names_en: ~
+        names_en: 
+          - Niitsu
         names_es: ~
         population: 65910
         timezone: Asia/Tokyo
@@ -3567,12 +3767,14 @@ regions:
           - Niahi-niigata
           - Niigata
           - Niigata-shi
+          - "nigata si"
         ascii_name: Niigata-shi
         geonamesid: 1855431
         latitude: 37.90222
         longitude: 139.02361
         name: Niigata-shi
-        names_en: ~
+        names_en: 
+          - Niigata
         names_es: ~
         population: 505272
         timezone: Asia/Tokyo
@@ -3730,6 +3932,7 @@ regions:
           - Joetsu
           - Joetsu-shi
           - "shang yue"
+          - "shang yue shi"
         ascii_name: Joetsu
         geonamesid: 6825489
         latitude: 37.14828
@@ -3805,13 +4008,16 @@ regions:
           - Nara
           - Nara
           - " Nara"
+          - Nara-shi
         ascii_name: Nara-shi
         geonamesid: 1855612
         latitude: 34.68505
         longitude: 135.80485
         name: Nara-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nara
+        names_es: 
+          - Nara
         population: 367353
         timezone: Asia/Tokyo
       - 
@@ -3819,6 +4025,7 @@ regions:
           - Kashihara
           - Kashihara-shi
           - "jiang yuan"
+          - "jiang yuan shi"
         ascii_name: Kashihara-shi
         geonamesid: 1859951
         latitude: 34.50896
@@ -3861,6 +4068,7 @@ regions:
           - Gose
           - Gosecho
           - Gosho
+          - Goze
         ascii_name: Gose
         geonamesid: 1863541
         latitude: 34.45
@@ -3875,6 +4083,7 @@ regions:
           - Goio
           - Goiō
           - Gojo
+          - Gojō
         ascii_name: Gojo
         geonamesid: 1863592
         latitude: 34.35
@@ -3886,7 +4095,8 @@ regions:
         timezone: Asia/Tokyo
     geonamesid: 1855608
     name: Nara
-    names_en: ~
+    names_en: 
+      - Nara
     names_es: ~
   - 
     ascii_name: Nagasaki-ken
@@ -3922,12 +4132,14 @@ regions:
           - Sasebo
           - Sasebum
           - Saseho
+          - "sasebo si"
         ascii_name: Sasebo
         geonamesid: 1852899
         latitude: 33.15917
         longitude: 129.72278
         name: Sasebo
-        names_en: ~
+        names_en: 
+          - Sasebo
         names_es: ~
         population: 237444
         timezone: Asia/Tokyo
@@ -3963,13 +4175,16 @@ regions:
           - Nagasacium
           - Nagasaki
           - Nagasaki-shi
+          - Nagasakis
         ascii_name: Nagasaki-shi
         geonamesid: 1856177
         latitude: 32.74472
         longitude: 129.87361
         name: Nagasaki-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nagasaki
+        names_es: 
+          - Nagasaki
         population: 410204
         timezone: Asia/Tokyo
       - 
@@ -3977,12 +4192,14 @@ regions:
           - Isahara
           - Isahaya
           - "jian zao shi"
+          - 諫早市
         ascii_name: Isahaya
         geonamesid: 1861464
         latitude: 32.84111
         longitude: 130.04306
         name: Isahaya
-        names_en: ~
+        names_en: 
+          - Isahaya
         names_es: ~
         population: 97371
         timezone: Asia/Tokyo
@@ -3991,6 +4208,7 @@ regions:
           - Hirado
           - Hirato
           - Khirado
+          - Хирадо
         ascii_name: Hirado
         geonamesid: 1862555
         latitude: 33.35972
@@ -4005,6 +4223,7 @@ regions:
           - Fukae
           - Fukaye
           - Fukue
+          - Fukuego
         ascii_name: Fukue
         geonamesid: 1863997
         latitude: 32.68806
@@ -4026,12 +4245,14 @@ regions:
           - Ueda
           - Ueda
           - " Nagano"
+          - Uehda
         ascii_name: Ueda
         geonamesid: 1849429
         latitude: 36.4
         longitude: 138.26667
         name: Ueda
-        names_en: ~
+        names_en: 
+          - "Ueda, Nagano"
         names_es: ~
         population: 126606
         timezone: Asia/Tokyo
@@ -4114,6 +4335,7 @@ regions:
           - Omachi
           - "da ting"
           - Ōmachi
+          - 大町
         ascii_name: Omachi
         geonamesid: 1854186
         latitude: 36.5
@@ -4153,6 +4375,7 @@ regions:
           - Nagano
           - Nagano-shi
           - "zhang ye"
+          - Нагано
         ascii_name: Nagano-shi
         geonamesid: 1856215
         latitude: 36.65139
@@ -4167,12 +4390,14 @@ regions:
           - Fukase
           - Fukashi
           - Macumoto
+          - Matsumoto
         ascii_name: Matsumoto
         geonamesid: 1857519
         latitude: 36.23333
         longitude: 137.96667
         name: Matsumoto
-        names_en: ~
+        names_en: 
+          - Matsumoto
         names_es: ~
         population: 210667
         timezone: Asia/Tokyo
@@ -4207,12 +4432,14 @@ regions:
           - Ina
           - "yi na shi"
           - Ина
+          - 伊那市
         ascii_name: Ina
         geonamesid: 1861641
         latitude: 35.82756
         longitude: 137.95378
         name: Ina
-        names_en: ~
+        names_en: 
+          - Ina
         names_es: ~
         population: 62104
         timezone: Asia/Tokyo
@@ -4303,12 +4530,14 @@ regions:
           - Nobeoka
           - "yan gang shi"
           - Нобеока
+          - 延岡市
         ascii_name: Nobeoka
         geonamesid: 1855095
         latitude: 32.58333
         longitude: 131.66667
         name: Nobeoka
-        names_en: ~
+        names_en: 
+          - Nobeoka
         names_es: ~
         population: 121949
         timezone: Asia/Tokyo
@@ -4331,6 +4560,7 @@ regions:
           - Mijadzaki
           - Miyazaki-shi
           - "gong qi"
+          - Миядзаки
         ascii_name: Miyazaki-shi
         geonamesid: 1856717
         latitude: 31.91111
@@ -4345,6 +4575,7 @@ regions:
           - Miyakonojo
           - Miyakonojō
           - Miyakonozyo
+          - Miyakonozyō
         ascii_name: Miyakonojo
         geonamesid: 1856775
         latitude: 31.73333
@@ -4359,6 +4590,7 @@ regions:
           - Kobajasi
           - Kobayashi
           - Kobayashi-cho
+          - Kobayashi-chō
         ascii_name: Kobayashi
         geonamesid: 1859175
         latitude: 31.98333
@@ -4391,6 +4623,7 @@ regions:
           - Jokkaichi
           - Yokkaichi
           - Yokkaiti
+          - Йоккаичи
         ascii_name: Yokkaichi
         geonamesid: 1848373
         latitude: 34.96667
@@ -4416,13 +4649,16 @@ regions:
           - Cu
           - Tsu
           - Tsu-shi
+          - Tu
         ascii_name: Tsu-shi
         geonamesid: 1849796
         latitude: 34.73028
         longitude: 136.50861
         name: Tsu-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tsu
+        names_es: 
+          - Tsu
         population: 163461
         timezone: Asia/Tokyo
       - 
@@ -4443,13 +4679,16 @@ regions:
           - Kambe
           - Suzuka
           - "ling lu shi"
+          - 鈴鹿市
         ascii_name: Suzuka
         geonamesid: 1851348
         latitude: 34.88333
         longitude: 136.58333
         name: Suzuka
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Suzuka
+        names_es: 
+          - Suzuka
         population: 191477
         timezone: Asia/Tokyo
       - 
@@ -4457,6 +4696,7 @@ regions:
           - Otaka
           - Ovaseh
           - Owase
+          - Owashi
         ascii_name: Owase
         geonamesid: 1853514
         latitude: 34.06667
@@ -4476,7 +4716,8 @@ regions:
         latitude: 34.61667
         longitude: 136.08333
         name: Nabari
-        names_en: ~
+        names_en: 
+          - Nabari
         names_es: ~
         population: 88128
         timezone: Asia/Tokyo
@@ -4485,12 +4726,14 @@ regions:
           - Matsusaka
           - Matsuzaka
           - "song ban shi"
+          - 松阪市
         ascii_name: Matsuzaka
         geonamesid: 1857496
         latitude: 34.56667
         longitude: 136.53333
         name: Matsuzaka
-        names_en: ~
+        names_en: 
+          - Matsusaka
         names_es: ~
         population: 124613
         timezone: Asia/Tokyo
@@ -4499,12 +4742,14 @@ regions:
           - Kumana
           - Kuwana
           - "sang ming shi"
+          - 桑名市
         ascii_name: Kuwana
         geonamesid: 1857968
         latitude: 35.06667
         longitude: 136.7
         name: Kuwana
-        names_en: ~
+        names_en: 
+          - Kuwana
         names_es: ~
         population: 113107
         timezone: Asia/Tokyo
@@ -4537,6 +4782,7 @@ regions:
           - Ise
           - Iseh
           - Udiyamada
+          - Uji
         ascii_name: Ise
         geonamesid: 1861450
         latitude: 34.48333
@@ -4551,6 +4797,7 @@ regions:
           - Iga-shi
           - Igano-kuni
           - "yi he"
+          - "yi he shi"
         ascii_name: Iga
         geonamesid: 1861901
         latitude: 34.76855
@@ -4583,6 +4830,7 @@ regions:
           - Yahata
           - Yahatanosho
           - Yahatanoshō
+          - Yahatasho
         ascii_name: Yawata
         geonamesid: 1848439
         latitude: 34.87009
@@ -4597,12 +4845,14 @@ regions:
           - Udzi
           - Uji
           - Uji-cho
+          - Uji-chō
         ascii_name: Uji
         geonamesid: 1849372
         latitude: 34.88333
         longitude: 135.8
         name: Uji
-        names_en: ~
+        names_en: 
+          - Uji
         names_es: ~
         population: 192925
         timezone: Asia/Tokyo
@@ -4647,12 +4897,14 @@ regions:
           - Maidsuru
           - Maiduru
           - Maizuru
+          - Majdzuru
         ascii_name: Maizuru
         geonamesid: 1857766
         latitude: 35.45
         longitude: 135.33333
         name: Maizuru
-        names_en: ~
+        names_en: 
+          - Maizuru
         names_es: ~
         population: 92465
         timezone: Asia/Tokyo
@@ -4661,13 +4913,16 @@ regions:
           - Kiotas
           - Kioto
           - Kjoto
+          - Kjóto
         ascii_name: Kyoto
         geonamesid: 1857910
         latitude: 35.02107
         longitude: 135.75385
         name: Kyoto
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kyoto
+        names_es: 
+          - Kioto
         population: 1459640
         timezone: Asia/Tokyo
       - 
@@ -4688,12 +4943,14 @@ regions:
           - Fukuchiyama
           - Hukutiyama
           - "fu zhi shan shi"
+          - 福知山市
         ascii_name: Fukuchiyama
         geonamesid: 1864009
         latitude: 35.3
         longitude: 135.11667
         name: Fukuchiyama
-        names_en: ~
+        names_en: 
+          - Fukuchiyama
         names_es: ~
         population: 68735
         timezone: Asia/Tokyo
@@ -4723,6 +4980,7 @@ regions:
           - Jacusiro
           - Yatsushiro
           - Yatusiro
+          - Яцусиро
         ascii_name: Yatsushiro
         geonamesid: 1848445
         latitude: 32.5
@@ -4803,6 +5061,7 @@ regions:
           - Odzu
           - Otsu
           - Ozu
+          - Ōzu
         ascii_name: Ozu
         geonamesid: 1853433
         latitude: 32.86667
@@ -4817,13 +5076,16 @@ regions:
           - Minamata
           - Mizumata
           - "minamata si"
+          - "shui yu shi"
         ascii_name: Minamata
         geonamesid: 1857208
         latitude: 32.21667
         longitude: 130.4
         name: Minamata
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Minamata
+        names_es: 
+          - Minamata
         population: 29428
         timezone: Asia/Tokyo
       - 
@@ -4842,13 +5104,16 @@ regions:
           - Kumamoto
           - Kumamoto-shi
           - "gumamoto si"
+          - "xiong ben shi"
         ascii_name: Kumamoto-shi
         geonamesid: 1858421
         latitude: 32.78972
         longitude: 130.74167
         name: Kumamoto-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kumamoto
+        names_es: 
+          - Kumamoto
         population: 680423
         timezone: Asia/Tokyo
       - 
@@ -4954,6 +5219,7 @@ regions:
           - Kochi-shi
           - Kochin
           - Koti
+          - Kôti
         ascii_name: Kochi-shi
         geonamesid: 1859146
         latitude: 33.55972
@@ -4968,6 +5234,7 @@ regions:
           - Ino
           - Inocho
           - Inochō
+          - Ино
         ascii_name: Ino
         geonamesid: 1861584
         latitude: 33.55
@@ -5003,12 +5270,14 @@ regions:
           - Acugi
           - Atsugi
           - Atsuki
+          - Atugi
         ascii_name: Atsugi
         geonamesid: 1847963
         latitude: 35.43889
         longitude: 139.35972
         name: Atsugi
-        names_en: ~
+        names_en: 
+          - Atsugi
         names_es: ~
         population: 229199
         timezone: Asia/Tokyo
@@ -5068,13 +5337,16 @@ regions:
           - Iokogama
           - Jokohama
           - Jokohamo
+          - Jokokhama
         ascii_name: Yokohama-shi
         geonamesid: 1848354
         latitude: 35.44778
         longitude: 139.6425
         name: Yokohama-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Yokohama
+        names_es: 
+          - Yokohama
         population: 3574443
         timezone: Asia/Tokyo
       - 
@@ -5082,12 +5354,14 @@ regions:
           - Sagamihara
           - Sagamikhare
           - "xiang mo yuan shi"
+          - Сагамихаре
         ascii_name: Sagamihara
         geonamesid: 1853295
         latitude: 35.55306
         longitude: 139.35444
         name: Sagamihara
-        names_en: ~
+        names_en: 
+          - Sagamihara
         names_es: ~
         population: 648801
         timezone: Asia/Tokyo
@@ -5096,6 +5370,7 @@ regions:
           - Oiso
           - Oiso-machi
           - Ōiso
+          - Ōiso-machi
         ascii_name: Oiso
         geonamesid: 1854492
         latitude: 35.30306
@@ -5151,13 +5426,16 @@ regions:
           - Kauasaki
           - Kavasakis
           - Kawasaki
+          - "Kawasaki Si"
         ascii_name: Kawasaki
         geonamesid: 1859642
         latitude: 35.52056
         longitude: 139.71722
         name: Kawasaki
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kawasaki
+        names_es: 
+          - Kawasaki
         population: 1306785
         timezone: Asia/Tokyo
       - 
@@ -5165,13 +5443,16 @@ regions:
           - Kamakura
           - "gamakula si"
           - kamakwra
+          - "lian cang shi"
         ascii_name: Kamakura
         geonamesid: 1860672
         latitude: 35.30889
         longitude: 139.55028
         name: Kamakura
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kamakura
+        names_es: 
+          - Kamakura
         population: 166016
         timezone: Asia/Tokyo
       - 
@@ -5191,12 +5472,14 @@ regions:
           - Hiratsuka
           - Hiratuka
           - Khiracuka
+          - "ping zhong shi"
         ascii_name: Hiratsuka
         geonamesid: 1862462
         latitude: 35.32306
         longitude: 139.34222
         name: Hiratsuka
-        names_en: ~
+        names_en: 
+          - Hiratsuka
         names_es: ~
         population: 259052
         timezone: Asia/Tokyo
@@ -5233,12 +5516,14 @@ regions:
           - Hadano
           - Hatano
           - Hatano-machi
+          - "hadano si"
         ascii_name: Hadano
         geonamesid: 1863431
         latitude: 35.37111
         longitude: 139.22361
         name: Hadano
-        names_en: ~
+        names_en: 
+          - Hadano
         names_es: ~
         population: 174281
         timezone: Asia/Tokyo
@@ -5258,12 +5543,14 @@ regions:
           - Chigaraki
           - Chigasaki
           - "mao~ke qi shi"
+          - 茅ヶ崎市
         ascii_name: Chigasaki
         geonamesid: 1864624
         latitude: 35.32611
         longitude: 139.40389
         name: Chigasaki
-        names_en: ~
+        names_en: 
+          - Chigasaki
         names_es: ~
         population: 231657
         timezone: Asia/Tokyo
@@ -5272,6 +5559,7 @@ regions:
           - Miura
           - "san pu"
           - Миура
+          - 三浦
         ascii_name: Miura
         geonamesid: 1907309
         latitude: 35.14
@@ -5328,13 +5616,16 @@ regions:
           - Sendai
           - Sendaj
           - Sendajus
+          - "chuan nei"
         ascii_name: Sendai
         geonamesid: 1852736
         latitude: 31.81667
         longitude: 130.3
         name: Sendai
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sendai
+        names_es: 
+          - Sendai
         population: 73132
         timezone: Asia/Tokyo
       - 
@@ -5342,6 +5633,7 @@ regions:
           - Oguchi
           - Okuti
           - Ōguchi
+          - Ōkuti
         ascii_name: Okuchi
         geonamesid: 1854246
         latitude: 32.06667
@@ -5408,6 +5700,7 @@ regions:
           - Kokubo
           - Kokubu
           - Kokubun
+          - "guo fen"
         ascii_name: Kokubu
         geonamesid: 1858972
         latitude: 31.73333
@@ -5433,12 +5726,14 @@ regions:
           - Kanoja
           - Kanoya
           - "ganoya si"
+          - "lu wu shi"
         ascii_name: Kanoya
         geonamesid: 1860112
         latitude: 31.38333
         longitude: 130.85
         name: Kanoya
-        names_en: ~
+        names_en: 
+          - Kanoya
         names_es: ~
         population: 82335
         timezone: Asia/Tokyo
@@ -5460,13 +5755,16 @@ regions:
           - Kagoshima
           - Kagoshima-shi
           - Kagosima
+          - Kagošima
         ascii_name: Kagoshima-shi
         geonamesid: 1860827
         latitude: 31.56018
         longitude: 130.55814
         name: Kagoshima-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kagoshima
+        names_es: 
+          - Kagoshima
         population: 555352
         timezone: Asia/Tokyo
       - 
@@ -5474,6 +5772,7 @@ regions:
           - Izumi
           - "chu shui"
           - Изуми
+          - 出水
         ascii_name: Izumi
         geonamesid: 1861108
         latitude: 32.08333
@@ -5488,6 +5787,7 @@ regions:
           - Ijuin
           - Ijūin
           - Izyuin
+          - Izyūin
         ascii_name: Ijuin
         geonamesid: 1861825
         latitude: 31.61667
@@ -5547,6 +5847,7 @@ regions:
           - Tonosho
           - Tonoshō
           - Tonosyo
+          - Tonosyō
         ascii_name: Tonosho
         geonamesid: 1850004
         latitude: 34.48333
@@ -5561,13 +5862,16 @@ regions:
           - Takamacu
           - Takamatsu
           - Takamatsu-shi
+          - Takamatu
         ascii_name: Takamatsu-shi
         geonamesid: 1851100
         latitude: 34.34028
         longitude: 134.04333
         name: Takamatsu-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Takamatsu
+        names_es: 
+          - Takamatsu
         population: 334223
         timezone: Asia/Tokyo
       - 
@@ -5600,6 +5904,7 @@ regions:
           - Sakaide
           - Sakaide-cho
           - Sakaide-chō
+          - Sakaidecho
         ascii_name: Sakaide
         geonamesid: 1853190
         latitude: 34.31667
@@ -5614,12 +5919,14 @@ regions:
           - Marugame
           - Marukame
           - "wan gui shi"
+          - 丸亀市
         ascii_name: Marugame
         geonamesid: 1857665
         latitude: 34.28333
         longitude: 133.78333
         name: Marugame
-        names_en: ~
+        names_en: 
+          - Marugame
         names_es: ~
         population: 82090
         timezone: Asia/Tokyo
@@ -5628,6 +5935,7 @@ regions:
           - Kannonji
           - Kannonzi
           - Kanonji
+          - Kanonji-cho
         ascii_name: Kanonji
         geonamesid: 1860122
         latitude: 34.11667
@@ -5698,6 +6006,7 @@ regions:
           - Matsuto
           - Matsutō
           - Matto
+          - Mattō
         ascii_name: Matsuto
         geonamesid: 1857470
         latitude: 36.51667
@@ -5723,13 +6032,16 @@ regions:
           - Canasava
           - Kanadzava
           - Kanazaua
+          - Kanazawa
         ascii_name: Kanazawa-shi
         geonamesid: 1860243
         latitude: 36.59444
         longitude: 136.62556
         name: Kanazawa-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kanazawa
+        names_es: 
+          - Kanazawa
         population: 458937
         timezone: Asia/Tokyo
       - 
@@ -5841,12 +6153,14 @@ regions:
           - Shirahama
           - Shirahama-ku
           - Shirakhama
+          - Ширахама
         ascii_name: Shirahama
         geonamesid: 1851935
         latitude: 34.78333
         longitude: 134.71667
         name: Shirahama
-        names_en: ~
+        names_en: 
+          - Shirahama
         names_es: ~
         population: 23180
         timezone: Asia/Tokyo
@@ -5882,6 +6196,7 @@ regions:
           - Ono
           - Onocho
           - Onochō
+          - Оно
         ascii_name: Ono
         geonamesid: 1854026
         latitude: 34.85
@@ -5910,13 +6225,16 @@ regions:
           - Nishinomiya
           - Nisinomija
           - "xi gong shi"
+          - Нисиномия
         ascii_name: Nishinomiya
         geonamesid: 1855207
         latitude: 34.71667
         longitude: 135.33333
         name: Nishinomiya
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nishinomiya
+        names_es: 
+          - Nishinomiya
         population: 468925
         timezone: Asia/Tokyo
       - 
@@ -5937,13 +6255,16 @@ regions:
           - Kobe
           - Kobe-shi
           - Kobeh
+          - Kobė
         ascii_name: Kobe-shi
         geonamesid: 1859171
         latitude: 34.6913
         longitude: 135.183
         name: Kōbe-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kobe
+        names_es: 
+          - Kōbe
         population: 1528478
         timezone: Asia/Tokyo
       - 
@@ -5963,12 +6284,14 @@ regions:
           - Kakogawa
           - "gakogawa si"
           - "jia gu chuan shi"
+          - 加古川市
         ascii_name: Kakogawa
         geonamesid: 1860704
         latitude: 34.76667
         longitude: 134.85
         name: Kakogawa
-        names_en: ~
+        names_en: 
+          - Kakogawa
         names_es: ~
         population: 271634
         timezone: Asia/Tokyo
@@ -5977,13 +6300,16 @@ regions:
           - Itami
           - Itan
           - "itami si"
+          - "yi dan shi"
         ascii_name: Itami
         geonamesid: 1861310
         latitude: 34.78427
         longitude: 135.40126
         name: Itami
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Itami
+        names_es: 
+          - Itami
         population: 193524
         timezone: Asia/Tokyo
       - 
@@ -5991,12 +6317,14 @@ regions:
           - Hime
           - Himedi
           - Himeji
+          - Himezi
         ascii_name: Himeji
         geonamesid: 1862627
         latitude: 34.81667
         longitude: 134.7
         name: Himeji
-        names_en: ~
+        names_en: 
+          - Himeji
         names_es: ~
         population: 481493
         timezone: Asia/Tokyo
@@ -6023,7 +6351,8 @@ regions:
         latitude: 34.72807
         longitude: 135.30264
         name: Ashiya
-        names_en: ~
+        names_en: 
+          - Ashiya
         names_es: ~
         population: 88573
         timezone: Asia/Tokyo
@@ -6037,7 +6366,8 @@ regions:
         latitude: 34.71667
         longitude: 135.41667
         name: Amagasaki
-        names_en: ~
+        names_en: 
+          - Amagasaki
         names_es: ~
         population: 442173
         timezone: Asia/Tokyo
@@ -6046,6 +6376,7 @@ regions:
           - Akaho
           - Ako
           - Akō
+          - Kariya
         ascii_name: Ako
         geonamesid: 1865412
         latitude: 34.75
@@ -6060,6 +6391,7 @@ regions:
           - Aioi
           - Aioi-shi
           - O
+          - Ō
         ascii_name: Aioi-shi
         geonamesid: 1865661
         latitude: 34.80361
@@ -6118,12 +6450,14 @@ regions:
           - Onomichi
           - Onomiti
           - "onomichi si"
+          - "wei dao shi"
         ascii_name: Onomichi
         geonamesid: 1853992
         latitude: 34.41667
         longitude: 133.2
         name: Onomichi
-        names_en: ~
+        names_en: 
+          - Onomichi
         names_es: ~
         population: 90936
         timezone: Asia/Tokyo
@@ -6132,6 +6466,7 @@ regions:
           - Hama
           - Ono
           - Ōno
+          - Оно
         ascii_name: Ono
         geonamesid: 1854028
         latitude: 34.28333
@@ -6159,6 +6494,7 @@ regions:
           - Itsukushima
           - Mijadzima
           - Miyashima
+          - Миядзима
         ascii_name: Miyajima
         geonamesid: 1856798
         latitude: 34.30183
@@ -6186,12 +6522,14 @@ regions:
           - Kure
           - "wu shi"
           - Куре
+          - 呉市
         ascii_name: Kure
         geonamesid: 1858296
         latitude: 34.23333
         longitude: 132.56667
         name: Kure
-        names_en: ~
+        names_en: 
+          - Kure
         names_es: ~
         population: 196624
         timezone: Asia/Tokyo
@@ -6222,13 +6560,16 @@ regions:
           - Chirosima
           - Hiroshima
           - Hiroshima-shi
+          - Hirosima
         ascii_name: Hiroshima-shi
         geonamesid: 1862415
         latitude: 34.39627
         longitude: 132.45937
         name: Hiroshima-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hiroshima
+        names_es: 
+          - Hiroshima
         population: 1143841
         timezone: Asia/Tokyo
       - 
@@ -6236,12 +6577,14 @@ regions:
           - Hatsukaichi
           - Hatukaiti
           - "hasseukaichi si"
+          - "nian ri shi shi"
         ascii_name: Hatsukaichi
         geonamesid: 1863018
         latitude: 34.35
         longitude: 132.33333
         name: Hatsukaichi
-        names_en: ~
+        names_en: 
+          - Hatsukaichi
         names_es: ~
         population: 77341
         timezone: Asia/Tokyo
@@ -6250,6 +6593,7 @@ regions:
           - Fukujama
           - Fukuyama
           - Hukuyama
+          - Фукуяма
         ascii_name: Fukuyama
         geonamesid: 1863917
         latitude: 34.48333
@@ -6350,7 +6694,8 @@ regions:
         latitude: 36.33333
         longitude: 139.01667
         name: Takasaki
-        names_en: ~
+        names_en: 
+          - Takasaki
         names_es: ~
         population: 240857
         timezone: Asia/Tokyo
@@ -6430,12 +6775,14 @@ regions:
           - Maebashi
           - Maebashi-shi
           - Maebasi
+          - Maebaši
         ascii_name: Maebashi-shi
         geonamesid: 1857843
         latitude: 36.39111
         longitude: 139.06083
         name: Maebashi-shi
-        names_en: ~
+        names_en: 
+          - Maebashi
         names_es: ~
         population: 282711
         timezone: Asia/Tokyo
@@ -6444,6 +6791,7 @@ regions:
           - Kiri
           - Kiriu
           - Kiryu
+          - Kiryū
         ascii_name: Kiryu
         geonamesid: 1859405
         latitude: 36.4
@@ -6515,12 +6863,14 @@ regions:
           - Toka
           - Toki
           - Tokitsu-cho
+          - Tokitsu-chō
         ascii_name: Toki
         geonamesid: 1850207
         latitude: 35.35
         longitude: 137.18333
         name: Toki
-        names_en: ~
+        names_en: 
+          - Toki
         names_es: ~
         population: 61394
         timezone: Asia/Tokyo
@@ -6542,6 +6892,7 @@ regions:
           - Takajama
           - Takayama
           - "fei tuono gao shan"
+          - "gao shan"
         ascii_name: Takayama
         geonamesid: 1850892
         latitude: 36.13333
@@ -6556,6 +6907,7 @@ regions:
           - Tadimi
           - Tajima
           - Tajimi
+          - Tajumi
         ascii_name: Tajimi
         geonamesid: 1851193
         latitude: 35.31667
@@ -6625,6 +6977,7 @@ regions:
           - Mina
           - Mino
           - Minomachi
+          - Мина
         ascii_name: Mino
         geonamesid: 1857062
         latitude: 35.53333
@@ -6653,12 +7006,14 @@ regions:
           - Kagamigahara
           - Kagamihara
           - Kakamigahara
+          - "gakamigahala si"
         ascii_name: Kakamigahara
         geonamesid: 1860735
         latitude: 35.41667
         longitude: 136.86667
         name: Kakamigahara
-        names_en: ~
+        names_en: 
+          - Kakamigahara
         names_es: ~
         population: 132241
         timezone: Asia/Tokyo
@@ -6667,12 +7022,14 @@ regions:
           - Inujama
           - Inuyama
           - Inuyama-cho
+          - Inuyama-chō
         ascii_name: Inuyama
         geonamesid: 1861528
         latitude: 35.37995
         longitude: 136.94295
         name: Inuyama
-        names_en: ~
+        names_en: 
+          - Inuyama
         names_es: ~
         population: 73995
         timezone: Asia/Tokyo
@@ -6681,6 +7038,7 @@ regions:
           - Goda
           - Godo
           - Godo-cho
+          - Gōdo
         ascii_name: Godo
         geonamesid: 1863611
         latitude: 35.41667
@@ -6695,12 +7053,14 @@ regions:
           - Gifu
           - Gifu-shi
           - Gihu
+          - "gihu si"
         ascii_name: Gifu-shi
         geonamesid: 1863641
         latitude: 35.42291
         longitude: 136.76039
         name: Gifu-shi
-        names_en: ~
+        names_en: 
+          - Gifu
         names_es: ~
         population: 397714
         timezone: Asia/Tokyo
@@ -6709,6 +7069,7 @@ regions:
           - Minokamo
           - "mei nong jia mao"
           - Минокамо
+          - 美濃加茂
         ascii_name: Minokamo
         geonamesid: 6822217
         latitude: 35.48199
@@ -6723,6 +7084,7 @@ regions:
           - Gudzjo
           - Gujo
           - Gujō
+          - "jun shang"
         ascii_name: Gujo
         geonamesid: 6822219
         latitude: 35.73691
@@ -6744,12 +7106,14 @@ regions:
           - Yukihashi
           - Yukuhashi
           - "xing qiao shi"
+          - 行橋市
         ascii_name: Yukuhashi
         geonamesid: 1848087
         latitude: 33.73333
         longitude: 130.98333
         name: Yukuhashi
-        names_en: ~
+        names_en: 
+          - Yukuhashi
         names_es: ~
         population: 71277
         timezone: Asia/Tokyo
@@ -6795,6 +7159,7 @@ regions:
           - Tagava
           - Tagawa
           - Takawa
+          - Тагава
         ascii_name: Tagawa
         geonamesid: 1851273
         latitude: 33.63333
@@ -6809,6 +7174,7 @@ regions:
           - Shingu
           - Shingū
           - Sing
+          - Singu
         ascii_name: Shingu
         geonamesid: 1852109
         latitude: 33.71667
@@ -6848,12 +7214,14 @@ regions:
           - Omuda
           - Omuta
           - "da mou tian shi"
+          - Ōmuda
         ascii_name: Omuta
         geonamesid: 1854083
         latitude: 33.03333
         longitude: 130.45
         name: Ōmuta
-        names_en: ~
+        names_en: 
+          - Omuta
         names_es: ~
         population: 131974
         timezone: Asia/Tokyo
@@ -6862,6 +7230,7 @@ regions:
           - Naogata
           - Naokata
           - Nogata
+          - Nōgata
         ascii_name: Nogata
         geonamesid: 1855066
         latitude: 33.73333
@@ -6953,13 +7322,16 @@ regions:
           - Kitakiusuo
           - Kitakiuŝuo
           - Kitakjushu
+          - Kitakjusju
         ascii_name: Kitakyushu
         geonamesid: 1859307
         latitude: 33.83333
         longitude: 130.83333
         name: Kitakyūshū
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kitakyushu
+        names_es: 
+          - Kitakyūshū
         population: 997536
         timezone: Asia/Tokyo
       - 
@@ -7007,13 +7379,16 @@ regions:
           - Fucuoca
           - Fukuoka
           - Fukuoka-shi
+          - Hukuoka
         ascii_name: Fukuoka-shi
         geonamesid: 1863967
         latitude: 33.60639
         longitude: 130.41806
         name: Fukuoka-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Fukuoka
+        names_es: 
+          - Fukuoka
         population: 1392289
         timezone: Asia/Tokyo
       - 
@@ -7032,6 +7407,7 @@ regions:
           - chikushino
           - "zhu zi ye"
           - "zhu zi ye shi"
+          - 筑紫野
         ascii_name: Chikushino-shi
         geonamesid: 1864572
         latitude: 33.49631
@@ -7059,6 +7435,7 @@ regions:
           - "da ye cheng"
           - "da ye cheng shi"
           - 大野城
+          - 大野城市
         ascii_name: Onojo
         geonamesid: 6822146
         latitude: 33.53567
@@ -7080,12 +7457,14 @@ regions:
           - Curuga
           - Tsuruga
           - Turuga
+          - "dun he shi"
         ascii_name: Tsuruga
         geonamesid: 1849592
         latitude: 35.64547
         longitude: 136.0558
         name: Tsuruga
-        names_en: ~
+        names_en: 
+          - Tsuruga
         names_es: ~
         population: 68482
         timezone: Asia/Tokyo
@@ -7094,12 +7473,14 @@ regions:
           - Takebo
           - Takebu
           - Takefu
+          - Takehu
         ascii_name: Takefu
         geonamesid: 1850872
         latitude: 35.90393
         longitude: 136.16687
         name: Takefu
-        names_en: ~
+        names_en: 
+          - Takefu
         names_es: ~
         population: 75753
         timezone: Asia/Tokyo
@@ -7113,7 +7494,8 @@ regions:
         latitude: 35.94647
         longitude: 136.18498
         name: Sabae
-        names_en: ~
+        names_en: 
+          - Sabae
         names_es: ~
         population: 66291
         timezone: Asia/Tokyo
@@ -7182,6 +7564,7 @@ regions:
           - Fukui-shi
           - Fukuj
           - Hukui
+          - Фукуй
         ascii_name: Fukui-shi
         geonamesid: 1863985
         latitude: 36.06443
@@ -7203,6 +7586,7 @@ regions:
           - Niihama
           - niihama
           - "xin ju bang"
+          - にいはま
         ascii_name: Niihama
         geonamesid: 1855425
         latitude: 33.95933
@@ -7243,6 +7627,7 @@ regions:
           - Saijo
           - Saijō
           - Saizyo
+          - Saizyô
         ascii_name: Saijo
         geonamesid: 1926054
         latitude: 33.91667
@@ -7257,6 +7642,7 @@ regions:
           - Odzu
           - Osu
           - Ozu
+          - Ōsu
         ascii_name: Ozu
         geonamesid: 1926055
         latitude: 33.5
@@ -7271,13 +7657,16 @@ regions:
           - Macujama
           - Matsujamo
           - Matsuyama
+          - Matsuyama-shi
         ascii_name: Matsuyama-shi
         geonamesid: 1926099
         latitude: 33.83916
         longitude: 132.76574
         name: Matsuyama-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Matsuyama
+        names_es: 
+          - Matsuyama
         population: 443322
         timezone: Asia/Tokyo
       - 
@@ -7290,7 +7679,8 @@ regions:
         latitude: 33.78757
         longitude: 132.71124
         name: Masaki-chō
-        names_en: ~
+        names_en: 
+          - Masaki
         names_es: ~
         population: 30548
         timezone: Asia/Tokyo
@@ -7329,13 +7719,15 @@ regions:
         latitude: 33.25592
         longitude: 132.68343
         name: Kihoku-chō
-        names_en: ~
+        names_en: 
+          - Kihoku
         names_es: ~
         population: 11712
         timezone: Asia/Tokyo
     geonamesid: 1864226
     name: Ehime
-    names_en: ~
+    names_en: 
+      - Ehime
     names_es: ~
   - 
     ascii_name: Aichi-ken
@@ -7345,6 +7737,7 @@ regions:
           - Cusima
           - Tsushima
           - "Tsushima cho"
+          - "Tsushima chō"
         ascii_name: Tsushima
         geonamesid: 1849539
         latitude: 35.16667
@@ -7359,6 +7752,7 @@ regions:
           - Koromo
           - Toyoda
           - Toyota
+          - 豊田
         ascii_name: Toyota
         geonamesid: 1849814
         latitude: 35.08333
@@ -7378,7 +7772,8 @@ regions:
         latitude: 34.81667
         longitude: 137.4
         name: Toyokawa
-        names_en: ~
+        names_en: 
+          - Toyokawa
         names_es: ~
         population: 120537
         timezone: Asia/Tokyo
@@ -7387,12 +7782,14 @@ regions:
           - Tojokhashi
           - Toyohashi
           - Toyohasi
+          - Тойохаши
         ascii_name: Toyohashi
         geonamesid: 1849846
         latitude: 34.76667
         longitude: 137.38333
         name: Toyohashi
-        names_en: ~
+        names_en: 
+          - Toyohashi
         names_es: ~
         population: 378374
         timezone: Asia/Tokyo
@@ -7412,6 +7809,7 @@ regions:
           - Tokoname
           - Tokoname-cho
           - Tokoname-chō
+          - Tokonameh
         ascii_name: Tokoname
         geonamesid: 1850185
         latitude: 34.88333
@@ -7440,6 +7838,7 @@ regions:
           - Takahama-cho
           - Takahama-chō
           - Takakhama
+          - Такахама
         ascii_name: Takahama
         geonamesid: 1851155
         latitude: 34.91667
@@ -7490,12 +7889,14 @@ regions:
           - Seto
           - Setu
           - "lai hu shi"
+          - Сету
         ascii_name: Seto
         geonamesid: 1852663
         latitude: 35.23333
         longitude: 137.1
         name: Seto
-        names_en: ~
+        names_en: 
+          - Seto
         names_es: ~
         population: 134246
         timezone: Asia/Tokyo
@@ -7504,12 +7905,14 @@ regions:
           - Okadzaki
           - Okazaki
           - "gang qi shi"
+          - "okajaki si"
         ascii_name: Okazaki
         geonamesid: 1854376
         latitude: 34.95
         longitude: 137.16667
         name: Okazaki
-        names_en: ~
+        names_en: 
+          - Okazaki
         names_es: ~
         population: 352361
         timezone: Asia/Tokyo
@@ -7518,6 +7921,7 @@ regions:
           - Obu
           - Ofu
           - Ōbu
+          - Ōfu
         ascii_name: Obu
         geonamesid: 1854803
         latitude: 35.0
@@ -7546,13 +7950,16 @@ regions:
           - Nagoia
           - "Nagoia - ming gu wu shi"
           - "Nagoia - 名古屋市"
+          - Nagoja
         ascii_name: Nagoya-shi
         geonamesid: 1856057
         latitude: 35.18147
         longitude: 136.90641
         name: Nagoya-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nagoya
+        names_es: 
+          - Nagoya
         population: 2191279
         timezone: Asia/Tokyo
       - 
@@ -7585,6 +7992,7 @@ regions:
           - Kozakai
           - Kozakai-cho
           - Kozakai-chō
+          - こざかいちょう
         ascii_name: Kozakai-cho
         geonamesid: 1858591
         latitude: 34.8
@@ -7638,6 +8046,7 @@ regions:
           - Karija
           - Kariya
           - Kariya-cho
+          - Kariya-chō
         ascii_name: Kariya
         geonamesid: 1860034
         latitude: 34.98333
@@ -7688,6 +8097,7 @@ regions:
           - Inasawa
           - Inasawacho
           - Inasawachō
+          - Inazawa
         ascii_name: Inazawa
         geonamesid: 1861602
         latitude: 35.25
@@ -7702,12 +8112,14 @@ regions:
           - Ichinomiya
           - Itinomiya
           - Owari-ichinomiya
+          - "ichinomiya si"
         ascii_name: Ichinomiya
         geonamesid: 1861949
         latitude: 35.3
         longitude: 136.8
         name: Ichinomiya
-        names_en: ~
+        names_en: 
+          - Ichinomiya
         names_es: ~
         population: 280331
         timezone: Asia/Tokyo
@@ -7721,7 +8133,8 @@ regions:
         latitude: 34.88333
         longitude: 136.98333
         name: Hekinan
-        names_en: ~
+        names_en: 
+          - Hekinan
         names_es: ~
         population: 68872
         timezone: Asia/Tokyo
@@ -7730,13 +8143,16 @@ regions:
           - Handa
           - Khanda
           - Manda
+          - "ban tian shi"
         ascii_name: Handa
         geonamesid: 1863209
         latitude: 34.88333
         longitude: 136.93333
         name: Handa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Handa
+        names_es: 
+          - Handa
         population: 116119
         timezone: Asia/Tokyo
       - 
@@ -7755,6 +8171,7 @@ regions:
           - Chiryu
           - Chiryu-cho
           - Chiryū
+          - Chiryū-chō
         ascii_name: Chiryu
         geonamesid: 1864549
         latitude: 35.0
@@ -7769,13 +8186,16 @@ regions:
           - Andzso
           - Andzsó
           - Anjo
+          - Anjō
         ascii_name: Anjo
         geonamesid: 1865294
         latitude: 34.95828
         longitude: 137.08054
         name: Anjō
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Anjo
+        names_es: 
+          - Anjō
         population: 178402
         timezone: Asia/Tokyo
     geonamesid: 1865694
@@ -7790,6 +8210,7 @@ regions:
           - Yusa
           - Yusamachi
           - Yuza
+          - Yuzamachi
         ascii_name: Yuza
         geonamesid: 1848016
         latitude: 39.0
@@ -7804,12 +8225,14 @@ regions:
           - Curuoka
           - Tsuruoka
           - Turuoka
+          - "he gang shi"
         ascii_name: Tsuruoka
         geonamesid: 1849563
         latitude: 38.72167
         longitude: 139.82167
         name: Tsuruoka
-        names_en: ~
+        names_en: 
+          - Tsuruoka
         names_es: ~
         population: 99820
         timezone: Asia/Tokyo
@@ -7831,12 +8254,14 @@ regions:
           - Jonezava
           - Yonezawa
           - "mi ze shi"
+          - Йонезава
         ascii_name: Yonezawa
         geonamesid: 2110498
         latitude: 37.91667
         longitude: 140.11667
         name: Yonezawa
-        names_en: ~
+        names_en: 
+          - Yonezawa
         names_es: ~
         population: 94486
         timezone: Asia/Tokyo
@@ -7845,6 +8270,7 @@ regions:
           - Jamagata
           - Yamagata-shi
           - "shan xing"
+          - Ямагата
         ascii_name: Yamagata-shi
         geonamesid: 2110556
         latitude: 38.24056
@@ -7887,6 +8313,7 @@ regions:
           - Shinjo
           - Shinjō
           - Sindscho
+          - Sindze
         ascii_name: Shinjo
         geonamesid: 2111065
         latitude: 38.75861
@@ -8032,6 +8459,7 @@ regions:
           - Schiogama
           - Shiogama
           - Siogama
+          - "yan zao"
         ascii_name: Shiogama
         geonamesid: 2111049
         latitude: 38.31667
@@ -8046,6 +8474,7 @@ regions:
           - Sendai-shi
           - Sendaj
           - "xian tai"
+          - Сендай
         ascii_name: Sendai-shi
         geonamesid: 2111149
         latitude: 38.26889
@@ -8060,6 +8489,7 @@ regions:
           - Rifu
           - Rifuhongo
           - Rifuhongō
+          - Ritu
         ascii_name: Rifu
         geonamesid: 2111277
         latitude: 38.32361
@@ -8088,6 +8518,7 @@ regions:
           - Macusima
           - Matsushima
           - Matsusima
+          - "song dao"
         ascii_name: Matsushima
         geonamesid: 2111964
         latitude: 38.36667
@@ -8152,12 +8583,14 @@ regions:
           - Ishinomachi
           - Ishinomaki
           - Isinomaki
+          - "isinomaki si"
         ascii_name: Ishinomaki
         geonamesid: 2112576
         latitude: 38.41667
         longitude: 141.3
         name: Ishinomaki
-        names_en: ~
+        names_en: 
+          - Ishinomaki
         names_es: ~
         population: 117233
         timezone: Asia/Tokyo
@@ -8186,6 +8619,7 @@ regions:
           - Jamada
           - Yamada
           - Yamatamachi
+          - Ямада
         ascii_name: Yamada
         geonamesid: 2110560
         latitude: 39.46667
@@ -8200,6 +8634,7 @@ regions:
           - Nambu
           - Tona
           - Tono
+          - Tōno
         ascii_name: Tono
         geonamesid: 2110735
         latitude: 39.31667
@@ -8226,6 +8661,7 @@ regions:
           - Otsuchi
           - Ozuchi
           - Ozuti
+          - Ōtsuchi
         ascii_name: Otsuchi
         geonamesid: 2111310
         latitude: 39.36667
@@ -8240,6 +8676,7 @@ regions:
           - Ofunato
           - "da chuan du"
           - Ōfunato
+          - 大船渡
         ascii_name: Ofunato
         geonamesid: 2111530
         latitude: 39.07167
@@ -8254,12 +8691,14 @@ regions:
           - Morioka
           - Morioka-shi
           - "molioka si"
+          - Мориока
         ascii_name: Morioka-shi
         geonamesid: 2111834
         latitude: 39.70361
         longitude: 141.1525
         name: Morioka-shi
-        names_en: ~
+        names_en: 
+          - Morioka
         names_es: ~
         population: 295172
         timezone: Asia/Tokyo
@@ -8268,6 +8707,7 @@ regions:
           - Midzusava
           - Mizusawa
           - Mizuzawa
+          - Мидзусава
         ascii_name: Mizusawa
         geonamesid: 2111859
         latitude: 39.13333
@@ -8296,12 +8736,14 @@ regions:
           - Kitakami
           - "bei shang shi"
           - Китаками
+          - 北上市
         ascii_name: Kitakami
         geonamesid: 2112227
         latitude: 39.28333
         longitude: 141.11667
         name: Kitakami
-        names_en: ~
+        names_en: 
+          - Kitakami
         names_es: ~
         population: 93854
         timezone: Asia/Tokyo
@@ -8310,6 +8752,7 @@ regions:
           - Kamaischi
           - Kamaishi
           - Kamaisi
+          - "fu shi"
         ascii_name: Kamaishi
         geonamesid: 2112444
         latitude: 39.26667
@@ -8343,7 +8786,8 @@ regions:
         latitude: 39.38333
         longitude: 141.11667
         name: Hanamaki
-        names_en: ~
+        names_en: 
+          - Hanamaki
         names_es: ~
         population: 73115
         timezone: Asia/Tokyo
@@ -8352,6 +8796,7 @@ regions:
           - Ehinohe
           - Ichinobe
           - Ichinohe
+          - Itinohe
         ascii_name: Ichinohe
         geonamesid: 2129961
         latitude: 40.20694
@@ -8373,6 +8818,7 @@ regions:
           - Juki
           - Yuki
           - Yūki
+          - Юки
         ascii_name: Yuki
         geonamesid: 1848096
         latitude: 36.3
@@ -8413,6 +8859,7 @@ regions:
           - Mitsukaido
           - Mitsukaidō
           - Mizukaido
+          - Mizukaidō
         ascii_name: Mitsukaido
         geonamesid: 1856881
         latitude: 36.01667
@@ -8561,6 +9008,7 @@ regions:
           - Oarai
           - "da xi"
           - Ōarai
+          - 大洗
         ascii_name: Oarai
         geonamesid: 2111567
         latitude: 36.31667
@@ -8653,6 +9101,7 @@ regions:
           - Kasama
           - "li jian"
           - Касама
+          - 笠間
         ascii_name: Kasama
         geonamesid: 2112343
         latitude: 36.38333
@@ -8708,6 +9157,7 @@ regions:
           - Hidachi
           - Hitachi
           - "ri li"
+          - 日立
         ascii_name: Hitachi
         geonamesid: 2112708
         latitude: 36.6
@@ -8785,6 +9235,7 @@ regions:
           - hitachinaka
           - "hitachinaka shi"
           - hitachinaka-shi
+          - ひたちなか
         ascii_name: Hitachi-Naka
         geonamesid: 6822096
         latitude: 36.39659
@@ -8799,6 +9250,7 @@ regions:
           - "dao fu"
           - "dao fu shi"
           - sakuragawa
+          - sakuragawa-mura
         ascii_name: Inashiki
         geonamesid: 6822108
         latitude: 35.95633
@@ -8834,6 +9286,7 @@ regions:
           - Janagava
           - Yanagawa
           - Yanakawa
+          - Янагава
         ascii_name: Yanagawa
         geonamesid: 2110538
         latitude: 37.85
@@ -8853,7 +9306,8 @@ regions:
         latitude: 37.28333
         longitude: 140.38333
         name: Sukagawa
-        names_en: ~
+        names_en: 
+          - Sukagawa
         names_es: ~
         population: 68790
         timezone: Asia/Tokyo
@@ -8911,6 +9365,7 @@ regions:
           - Korijama
           - Koriyama
           - Kōriyama
+          - Корияма
         ascii_name: Koriyama
         geonamesid: 2112141
         latitude: 37.4
@@ -8990,6 +9445,7 @@ regions:
           - Fukushima-shi
           - Fukusima
           - Furukawa
+          - Hukusima
         ascii_name: Fukushima-shi
         geonamesid: 2112923
         latitude: 37.75
@@ -9011,6 +9467,7 @@ regions:
           - Hojo
           - Hōjō
           - Tateyama
+          - Tateyamahojo
         ascii_name: Tateyama
         geonamesid: 1850523
         latitude: 34.98333
@@ -9038,12 +9495,14 @@ regions:
           - Nagareyama
           - "liu shan"
           - "liu shan shi"
+          - 流山
         ascii_name: Nagareyama
         geonamesid: 1856184
         latitude: 35.8563
         longitude: 139.90266
         name: Nagareyama
-        names_en: ~
+        names_en: 
+          - Nagareyama
         names_es: ~
         population: 156000
         timezone: Asia/Tokyo
@@ -9052,12 +9511,14 @@ regions:
           - Macudo
           - Matsudo
           - "masseudo si"
+          - "song hu shi"
         ascii_name: Matsudo
         geonamesid: 1857553
         latitude: 35.78333
         longitude: 139.9
         name: Matsudo
-        names_en: ~
+        names_en: 
+          - Matsudo
         names_es: ~
         population: 470277
         timezone: Asia/Tokyo
@@ -9066,12 +9527,14 @@ regions:
           - Kisaradu
           - Kisarazu
           - Kizarazu
+          - "gisalajeu si"
         ascii_name: Kisarazu
         geonamesid: 1859393
         latitude: 35.37472
         longitude: 139.9225
         name: Kisarazu
-        names_en: ~
+        names_en: 
+          - Kisarazu
         names_es: ~
         population: 122524
         timezone: Asia/Tokyo
@@ -9080,12 +9543,14 @@ regions:
           - Kashiwa
           - Kasiva
           - "bai shi"
+          - "gasiwa si"
         ascii_name: Kashiwa
         geonamesid: 1859924
         latitude: 35.85444
         longitude: 139.96889
         name: Kashiwa
-        names_en: ~
+        names_en: 
+          - Kashiwa
         names_es: ~
         population: 340221
         timezone: Asia/Tokyo
@@ -9094,12 +9559,14 @@ regions:
           - Ichikawa
           - Itikava
           - "ichikawa si"
+          - "shi chuan shi"
         ascii_name: Ichikawa
         geonamesid: 1861968
         latitude: 35.71972
         longitude: 139.92472
         name: Ichikawa
-        names_en: ~
+        names_en: 
+          - Ichikawa
         names_es: ~
         population: 458240
         timezone: Asia/Tokyo
@@ -9121,12 +9588,14 @@ regions:
           - Funabashi
           - Furabeshi
           - Hunabasi
+          - "chuan qiao shi"
         ascii_name: Funabashi
         geonamesid: 1863905
         latitude: 35.69306
         longitude: 139.98333
         name: Funabashi
-        names_en: ~
+        names_en: 
+          - Funabashi
         names_es: ~
         population: 560743
         timezone: Asia/Tokyo
@@ -9140,7 +9609,8 @@ regions:
         latitude: 35.32528
         longitude: 139.89111
         name: Kimitsu
-        names_en: ~
+        names_en: 
+          - Kimitsu
         names_es: ~
         population: 92126
         timezone: Asia/Tokyo
@@ -9176,7 +9646,8 @@ regions:
         latitude: 35.65
         longitude: 140.31667
         name: Yachimata
-        names_en: ~
+        names_en: 
+          - Yachimata
         names_es: ~
         population: 83322
         timezone: Asia/Tokyo
@@ -9185,6 +9656,7 @@ regions:
           - Togane
           - Toganemachi
           - Tōgane
+          - Tōganemachi
         ascii_name: Togane
         geonamesid: 2110774
         latitude: 35.55
@@ -9296,12 +9768,14 @@ regions:
           - Narita
           - "cheng tian shi"
           - "na ri ta"
+          - "nalita si"
         ascii_name: Narita
         geonamesid: 2111684
         latitude: 35.78333
         longitude: 140.31667
         name: Narita
-        names_en: ~
+        names_en: 
+          - Narita
         names_es: ~
         population: 100641
         timezone: Asia/Tokyo
@@ -9315,7 +9789,8 @@ regions:
         latitude: 35.68333
         longitude: 140.03333
         name: Narashino
-        names_en: ~
+        names_en: 
+          - Narashino
         names_es: ~
         population: 156082
         timezone: Asia/Tokyo
@@ -9324,12 +9799,14 @@ regions:
           - Mobara
           - Mobaramachi
           - Mohara
+          - "mao yuan shi"
         ascii_name: Mobara
         geonamesid: 2111855
         latitude: 35.41667
         longitude: 140.3
         name: Mobara
-        names_en: ~
+        names_en: 
+          - Mobara
         names_es: ~
         population: 97315
         timezone: Asia/Tokyo
@@ -9338,6 +9815,7 @@ regions:
           - Kavaguti
           - Kawaguchi
           - "ya chuan"
+          - Кавагути
         ascii_name: Kawaguchi
         geonamesid: 2112297
         latitude: 35.1
@@ -9366,6 +9844,7 @@ regions:
           - Katori
           - Sawara
           - Sawara-shi
+          - "xiang qu"
         ascii_name: Katori-shi
         geonamesid: 2112319
         latitude: 35.89767
@@ -9380,12 +9859,14 @@ regions:
           - Ichihara
           - Itikhara
           - "shi yuan shi"
+          - Итихара
         ascii_name: Ichihara
         geonamesid: 2112664
         latitude: 35.51667
         longitude: 140.08333
         name: Ichihara
-        names_en: ~
+        names_en: 
+          - Ichihara
         names_es: ~
         population: 283531
         timezone: Asia/Tokyo
@@ -9408,13 +9889,16 @@ regions:
           - Chiba
           - Chiba-shi
           - Ciba
+          - Tiba
         ascii_name: Chiba-shi
         geonamesid: 2113015
         latitude: 35.60472
         longitude: 140.12333
         name: Chiba-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chiba
+        names_es: 
+          - Chiba
         population: 919729
         timezone: Asia/Tokyo
       - 
@@ -9434,12 +9918,14 @@ regions:
           - Abiko
           - "wo sun zi shi"
           - Абико
+          - 我孫子市
         ascii_name: Abiko
         geonamesid: 2113164
         latitude: 35.86667
         longitude: 140.01667
         name: Abiko
-        names_en: ~
+        names_en: 
+          - Abiko
         names_es: ~
         population: 131771
         timezone: Asia/Tokyo
@@ -9448,6 +9934,7 @@ regions:
           - Kamagaya
           - "lian~ke gu"
           - "lian~ke gu shi"
+          - 鎌ヶ谷
         ascii_name: Kamagaya-shi
         geonamesid: 6822181
         latitude: 35.77674
@@ -9569,6 +10056,7 @@ regions:
           - Odate
           - Otate
           - Ōdate
+          - Ōtate
         ascii_name: Odate
         geonamesid: 2128787
         latitude: 40.26861
@@ -9583,6 +10071,7 @@ regions:
           - Noshiro
           - Noshirominato
           - Nosiro
+          - Nosirskij
         ascii_name: Noshiro
         geonamesid: 2128867
         latitude: 40.20389
@@ -9617,6 +10106,7 @@ regions:
           - Biboro
           - Biholo
           - Bihoro
+          - Biporo
         ascii_name: Bihoro
         geonamesid: 2127383
         latitude: 43.82278
@@ -9631,12 +10121,14 @@ regions:
           - Inai
           - VAKKANAJ
           - Vakkanaj
+          - Wakkanai
         ascii_name: Wakkanai
         geonamesid: 2127515
         latitude: 45.40944
         longitude: 141.67389
         name: Wakkanai
-        names_en: ~
+        names_en: 
+          - Wakkanai
         names_es: ~
         population: 41556
         timezone: Asia/Tokyo
@@ -9657,6 +10149,7 @@ regions:
           - Tomakomai
           - Tomakomaj
           - "shan xiao mu"
+          - Томакомай
         ascii_name: Tomakomai
         geonamesid: 2127733
         latitude: 42.63694
@@ -9711,6 +10204,7 @@ regions:
           - "Shimo geho"
           - Shimo-kebo
           - Shimo-kebō
+          - Shimo-keho
         ascii_name: Shizunai
         geonamesid: 2128025
         latitude: 42.33389
@@ -9750,6 +10244,7 @@ regions:
           - Sibetsu
           - Sibetu
           - Sipetu
+          - "biao jin"
         ascii_name: Shibetsu
         geonamesid: 2128206
         latitude: 43.65899
@@ -9764,13 +10259,16 @@ regions:
           - Saporas
           - Saporo
           - Sapporia
+          - Sapporo
         ascii_name: Sapporo-shi
         geonamesid: 2128295
         latitude: 43.06417
         longitude: 141.34694
         name: Sapporo-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sapporo
+        names_es: 
+          - Sapporo
         population: 1883027
         timezone: Asia/Tokyo
       - 
@@ -9803,13 +10301,16 @@ regions:
           - Otaru
           - "otalu si"
           - "xiao zun shi"
+          - Отару
         ascii_name: Otaru
         geonamesid: 2128574
         latitude: 43.18944
         longitude: 141.00222
         name: Otaru
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Otaru
+        names_es: 
+          - Otaru
         population: 143792
         timezone: Asia/Tokyo
       - 
@@ -9817,6 +10318,7 @@ regions:
           - Obibiro
           - Obihiro
           - Obikhiro
+          - "dai guang"
         ascii_name: Obihiro
         geonamesid: 2128815
         latitude: 42.91722
@@ -9831,13 +10333,16 @@ regions:
           - Nehmuro
           - Nemuro
           - "gen shi shi"
+          - "nemulo si"
         ascii_name: Nemuro
         geonamesid: 2128975
         latitude: 43.32361
         longitude: 145.575
         name: Nemuro
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nemuro
+        names_es: 
+          - Nemuro
         population: 31223
         timezone: Asia/Tokyo
       - 
@@ -9845,12 +10350,14 @@ regions:
           - NAERO
           - Nayoro
           - Nayoru
+          - НАЕРО
         ascii_name: Nayoro
         geonamesid: 2128983
         latitude: 44.35056
         longitude: 142.45778
         name: Nayoro
-        names_en: ~
+        names_en: 
+          - Nayoro
         names_es: ~
         population: 26457
         timezone: Asia/Tokyo
@@ -9871,6 +10378,7 @@ regions:
           - Muroran
           - "shi lan"
           - Муроран
+          - 室蘭
         ascii_name: Muroran
         geonamesid: 2129101
         latitude: 42.31722
@@ -9885,12 +10393,14 @@ regions:
           - MOMBECU
           - Mobetsu
           - Mombecu
+          - Mombetsu
         ascii_name: Mombetsu
         geonamesid: 2129163
         latitude: 44.3525
         longitude: 143.3525
         name: Mombetsu
-        names_en: ~
+        names_en: 
+          - Mombetsu
         names_es: ~
         population: 26895
         timezone: Asia/Tokyo
@@ -9899,6 +10409,7 @@ regions:
           - Minatomachi
           - Yoichi
           - Yoichicho
+          - Yoichichō
         ascii_name: Yoichi
         geonamesid: 2129218
         latitude: 43.20389
@@ -9924,12 +10435,14 @@ regions:
           - Kushira
           - Kushiro
           - Kusiro
+          - "chuan lu shi"
         ascii_name: Kushiro
         geonamesid: 2129376
         latitude: 42.975
         longitude: 144.37472
         name: Kushiro
-        names_en: ~
+        names_en: 
+          - Kushiro
         names_es: ~
         population: 183612
         timezone: Asia/Tokyo
@@ -9938,6 +10451,7 @@ regions:
           - Kitami
           - Kity
           - Nokkeushi
+          - Nokkeusi
         ascii_name: Kitami
         geonamesid: 2129537
         latitude: 43.80306
@@ -9987,6 +10501,7 @@ regions:
           - Iwamisawa
           - Iwamizawa
           - Twamizawa
+          - iwamizawa
         ascii_name: Iwamizawa
         geonamesid: 2129870
         latitude: 43.20028
@@ -10015,6 +10530,7 @@ regions:
           - Hiroshima
           - Khirosima
           - Kitahiroshima
+          - Nakaosawa
         ascii_name: Kitahiroshima
         geonamesid: 2130054
         latitude: 42.97583
@@ -10029,13 +10545,16 @@ regions:
           - Hakodate
           - Hokodate
           - Khakodate
+          - "ha ko da tea"
         ascii_name: Hakodate
         geonamesid: 2130188
         latitude: 41.77583
         longitude: 140.73667
         name: Hakodate
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hakodate
+        names_es: 
+          - Hakodate
         population: 275730
         timezone: Asia/Tokyo
       - 
@@ -10043,6 +10562,7 @@ regions:
           - Fukagava
           - Fukagawa
           - Hukagawa
+          - Фукагава
         ascii_name: Fukagawa
         geonamesid: 2130332
         latitude: 43.70806
@@ -10120,6 +10640,7 @@ regions:
           - Asahigawa
           - Asahikawa
           - Asakhigava
+          - Asakhikava
         ascii_name: Asahikawa
         geonamesid: 2130629
         latitude: 43.76778
@@ -10147,12 +10668,14 @@ regions:
           - ABASIRI
           - Abashiri
           - Abasiri
+          - Aburatsu
         ascii_name: Abashiri
         geonamesid: 2130741
         latitude: 44.02127
         longitude: 144.26971
         name: Abashiri
-        names_en: ~
+        names_en: 
+          - Abashiri
         names_es: ~
         population: 42498
         timezone: Asia/Tokyo
@@ -10195,6 +10718,7 @@ regions:
           - Mucu
           - Mutsu
           - Tanabe
+          - Tanabu
         ascii_name: Mutsu
         geonamesid: 2127878
         latitude: 41.28944
@@ -10222,6 +10746,7 @@ regions:
           - Misava
           - Misawa
           - Omisawa
+          - "san ze"
         ascii_name: Misawa
         geonamesid: 2129211
         latitude: 40.68361
@@ -10262,12 +10787,14 @@ regions:
           - Hirosaki
           - Khirosaki
           - "hilosaki si"
+          - "hong qian shi"
         ascii_name: Hirosaki
         geonamesid: 2130057
         latitude: 40.59306
         longitude: 140.4725
         name: Hirosaki
-        names_en: ~
+        names_en: 
+          - Hirosaki
         names_es: ~
         population: 174972
         timezone: Asia/Tokyo
@@ -10290,13 +10817,16 @@ regions:
           - Aomori
           - "Aomori - qing sen shi"
           - "Aomori - 青森市"
+          - Aomori-shi
         ascii_name: Aomori-shi
         geonamesid: 2130658
         latitude: 40.82444
         longitude: 140.74
         name: Aomori-shi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aomori
+        names_es: 
+          - Aomori
         population: 298394
         timezone: Asia/Tokyo
       - 

@@ -2,8 +2,11 @@
 geonamesid: 163843
 iso: SY
 name: Syria
-names_en: ~
-names_es: ~
+names_en: 
+  - Syria
+  - "Syrian Arab Republic"
+names_es: 
+  - Siria
 regions: 
   - 
     ascii_name: Tartus
@@ -13,12 +16,14 @@ regions:
           - Antaradus
           - Tartous
           - Tartouss
+          - Tartoûs
         ascii_name: Tartouss
         geonamesid: 163345
         latitude: 34.88902
         longitude: 35.88659
         name: Tartouss
-        names_en: ~
+        names_en: 
+          - Tartous
         names_es: ~
         population: 89457
         timezone: Asia/Damascus
@@ -27,6 +32,7 @@ regions:
           - "Borj Safita"
           - "Borj Sâfîta"
           - Khokhu
+          - Safita
         ascii_name: Satita
         geonamesid: 165060
         latitude: 34.81667
@@ -41,6 +47,7 @@ regions:
           - Bermana
           - "Dere Kish"
           - Draikich
+          - Draykikh
         ascii_name: Duraykish
         geonamesid: 170572
         latitude: 34.88333
@@ -55,6 +62,7 @@ regions:
           - Banias
           - Banijas
           - Baniyas
+          - Bulunyas
         ascii_name: Baniyas
         geonamesid: 171830
         latitude: 35.18333
@@ -77,7 +85,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 163342
     name: Tartus
-    names_en: ~
+    names_en: 
+      - "Tartus Governorate"
+      - Tartus
     names_es: ~
   - 
     ascii_name: "Damascus City"
@@ -87,12 +97,14 @@ regions:
           - Aarbil
           - Aarbîl
           - Arbine
+          - Irbin
         ascii_name: "`Irbin"
         geonamesid: 169372
         latitude: 33.5376
         longitude: 36.36856
         name: ‘Irbīn
-        names_en: ~
+        names_en: 
+          - Irbin
         names_es: ~
         population: 42474
         timezone: Asia/Damascus
@@ -101,13 +113,16 @@ regions:
           - Al-Sham
           - Al-Shām
           - Cham
+          - Damas
         ascii_name: Damascus
         geonamesid: 170654
         latitude: 33.5102
         longitude: 36.29128
         name: Damascus
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Damascus
+        names_es: 
+          - Damasco
         population: 1569394
         timezone: Asia/Damascus
       - 
@@ -115,6 +130,7 @@ regions:
           - Daraiya
           - Daraje
           - Daraya
+          - Daraye
         ascii_name: Darayya
         geonamesid: 170892
         latitude: 33.45897
@@ -126,7 +142,8 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 167541
     name: "Damascus City"
-    names_en: ~
+    names_en: 
+      - "Damascus City"
     names_es: ~
   - 
     ascii_name: Idlib
@@ -136,6 +153,7 @@ regions:
           - Sarakeb
           - Saraqeb
           - Saraqib
+          - Saraquib
         ascii_name: Saraqib
         geonamesid: 164816
         latitude: 35.86361
@@ -150,6 +168,7 @@ regions:
           - Salkine
           - Salkîne
           - Salqin
+          - Salqine
         ascii_name: Salqin
         geonamesid: 164898
         latitude: 36.13809
@@ -164,6 +183,7 @@ regions:
           - "Ma`arrat Misrin"
           - "Ma`arrat Misriyn"
           - "Maarat Missrin"
+          - "Maarrat al Masrin"
         ascii_name: "Ma`arrat Misrin"
         geonamesid: 167605
         latitude: 36.01337
@@ -178,6 +198,7 @@ regions:
           - "Khan Cheykoun"
           - "Khan Shaykhun"
           - "Khan Sheikhun"
+          - Khan-Sheikhoun
         ascii_name: "Khan Shaykhun"
         geonamesid: 168325
         latitude: 35.44063
@@ -192,6 +213,7 @@ regions:
           - "Kafar Takharim"
           - "Kafer Harut"
           - "Kafer Taharim"
+          - "Kafer Tahârim"
         ascii_name: "Kafr Takharim"
         geonamesid: 168629
         latitude: 36.11684
@@ -206,6 +228,7 @@ regions:
           - "Kafer Nebal"
           - "Kafr Nabl"
           - "Kafr Nubl"
+          - "Kafr Nubul"
         ascii_name: "Kafr Nabl"
         geonamesid: 168661
         latitude: 35.6
@@ -220,6 +243,7 @@ regions:
           - "Djisr el Choghour"
           - "Jisr Al-Shughour"
           - "Jisr ash Shaghur"
+          - "Jisr ash Shughur"
         ascii_name: "Jisr ash Shughur"
         geonamesid: 169023
         latitude: 35.81556
@@ -234,12 +258,14 @@ regions:
           - Idleb
           - Idlib
           - adlb
+          - "mhafzt adlb"
         ascii_name: Idlib
         geonamesid: 169389
         latitude: 35.93062
         longitude: 36.63393
         name: Idlib
-        names_en: ~
+        names_en: 
+          - Idlib
         names_es: ~
         population: 128840
         timezone: Asia/Damascus
@@ -262,6 +288,7 @@ regions:
           - "Ad Dana"
           - "Ad Danah"
           - "Ad Dānah"
+          - "Ad Dānā"
         ascii_name: "Ad Dana"
         geonamesid: 174259
         latitude: 36.21252
@@ -273,7 +300,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 169387
     name: Idlib
-    names_en: ~
+    names_en: 
+      - "Idlib Governorate"
+      - Idlib
     names_es: ~
   - 
     ascii_name: Homs
@@ -283,6 +312,7 @@ regions:
           - Talkalakh
           - "Tall Kalakh"
           - Telkalakh
+          - "Tell Kalakh"
         ascii_name: "Tall Kalakh"
         geonamesid: 163533
         latitude: 34.66667
@@ -297,6 +327,7 @@ regions:
           - Talbisah
           - Talbiseh
           - Talbīsah
+          - "Tall Bisih"
         ascii_name: Talbisah
         geonamesid: 163779
         latitude: 34.84063
@@ -311,13 +342,16 @@ regions:
           - Pal'mira
           - Palmira
           - Palmuera
+          - Palmyra
         ascii_name: Tadmur
         geonamesid: 163808
         latitude: 34.55
         longitude: 38.28333
         name: Tadmur
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Palmyra
+        names_es: 
+          - Palmira
         population: 51015
         timezone: Asia/Damascus
       - 
@@ -325,6 +359,7 @@ regions:
           - "Al-Mukharram Fokani"
           - "Moukharram Faouqani"
           - "Moukharrem el Fouqani"
+          - Muharram
         ascii_name: "Mukharram al Fawqani"
         geonamesid: 166719
         latitude: 34.81506
@@ -339,6 +374,7 @@ regions:
           - "Kafer Laha"
           - "Kafer Lâha"
           - "Kafr Laha"
+          - "Kafr Lahah"
         ascii_name: "Kafr Lahah"
         geonamesid: 168668
         latitude: 34.89464
@@ -353,12 +389,14 @@ regions:
           - Emesa
           - Hims
           - Homs
+          - Houmousse
         ascii_name: Hums
         geonamesid: 169577
         latitude: 34.72682
         longitude: 36.72339
         name: Hums
-        names_en: ~
+        names_en: 
+          - Homs
         names_es: ~
         population: 775404
         timezone: Asia/Damascus
@@ -367,6 +405,7 @@ regions:
           - Al-Rastan
           - "Ar Rastan"
           - Arethousa
+          - Arethus
         ascii_name: "Ar Rastan"
         geonamesid: 172946
         latitude: 34.92653
@@ -381,6 +420,7 @@ regions:
           - "Al Qusayr"
           - "Al Quşayr"
           - Al'-Kusajra
+          - Al-Kuseir
         ascii_name: "Al Qusayr"
         geonamesid: 173322
         latitude: 34.50914
@@ -395,6 +435,7 @@ regions:
           - "Al Qaryatayn"
           - "El Qaryatein"
           - Kariatein
+          - Kariateine
         ascii_name: "Al Qaryatayn"
         geonamesid: 173361
         latitude: 34.23333
@@ -406,7 +447,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 169575
     name: Homs
-    names_en: ~
+    names_en: 
+      - Homs
+      - "Homs Governorate"
     names_es: ~
   - 
     ascii_name: Hama
@@ -416,6 +459,7 @@ regions:
           - "Taibet el Imam"
           - "Taybat al Imam"
           - "Taybat al Imam `Ali"
+          - "Tayyibat al Imam"
         ascii_name: "Tayyibat al Imam"
         geonamesid: 163270
         latitude: 35.26539
@@ -430,6 +474,7 @@ regions:
           - Soran
           - Souran
           - Sourane
+          - Soûrâne
         ascii_name: Souran
         geonamesid: 163915
         latitude: 35.29138
@@ -444,12 +489,14 @@ regions:
           - Salamias
           - Salamiyah
           - Salamiyeh
+          - Salamīyah
         ascii_name: Salamiyah
         geonamesid: 164947
         latitude: 35.01127
         longitude: 37.05324
         name: Salamīyah
-        names_en: ~
+        names_en: 
+          - Salamiyah
         names_es: ~
         population: 94887
         timezone: Asia/Damascus
@@ -458,6 +505,7 @@ regions:
           - Imranie
           - Massiaf
           - Massiyaf
+          - Massiâf
         ascii_name: Masyaf
         geonamesid: 167046
         latitude: 35.05
@@ -472,6 +520,7 @@ regions:
           - "Kafer Zaita"
           - "Kafer Zaïta"
           - "Kafer Zita"
+          - "Kafer ez Zaita"
         ascii_name: "Kafr Zayta"
         geonamesid: 168620
         latitude: 35.37382
@@ -486,12 +535,14 @@ regions:
           - Epiphaneia
           - Epiphania
           - Hama
+          - Hamah
         ascii_name: Hamah
         geonamesid: 170017
         latitude: 35.13179
         longitude: 36.75783
         name: Ḩamāh
-        names_en: ~
+        names_en: 
+          - Hama
         names_es: ~
         population: 460602
         timezone: Asia/Damascus
@@ -510,7 +561,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 170015
     name: Hama
-    names_en: ~
+    names_en: 
+      - Hama
+      - "Hama Governorate"
     names_es: ~
   - 
     ascii_name: Aleppo
@@ -520,6 +573,7 @@ regions:
           - "Tall Rif`at"
           - "Tall Rif‘at"
           - "Tell Arfad"
+          - "Tell Refaat"
         ascii_name: "Tall Rif`at"
         geonamesid: 163476
         latitude: 36.46667
@@ -534,6 +588,7 @@ regions:
           - Tadef
           - Tader
           - Tadif
+          - Teft
         ascii_name: Tadif
         geonamesid: 163811
         latitude: 36.33333
@@ -562,6 +617,7 @@ regions:
           - Hierapolis
           - Manbej
           - Manbi
+          - Manbij
         ascii_name: Manbij
         geonamesid: 167357
         latitude: 36.52667
@@ -576,6 +632,7 @@ regions:
           - Carablus
           - Djarablous
           - Djerablous
+          - Djérâbloûs
         ascii_name: Jarabulus
         geonamesid: 169179
         latitude: 36.8175
@@ -590,13 +647,16 @@ regions:
           - Alep
           - Alepas
           - Alepo
+          - "Alepo - hlb"
         ascii_name: Aleppo
         geonamesid: 170063
         latitude: 36.20278
         longitude: 37.15861
         name: Aleppo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aleppo
+        names_es: 
+          - Alepo
         population: 1602264
         timezone: Asia/Damascus
       - 
@@ -604,6 +664,7 @@ regions:
           - "Dayr Hafir"
           - "Dayr Ḩāfir"
           - "Deir Hafer"
+          - "Deir Hafero"
         ascii_name: "Dayr Hafir"
         geonamesid: 170785
         latitude: 36.15361
@@ -618,12 +679,14 @@ regions:
           - A`zaz
           - Aazaz
           - Aazâz
+          - Azaz
         ascii_name: A`zaz
         geonamesid: 172082
         latitude: 36.58889
         longitude: 37.04417
         name: A‘zāz
-        names_en: ~
+        names_en: 
+          - Azaz
         names_es: ~
         population: 66138
         timezone: Asia/Damascus
@@ -632,6 +695,7 @@ regions:
           - Al-Safira
           - "As Safirah"
           - "As Safīrah"
+          - Safir
         ascii_name: "As Safirah"
         geonamesid: 172503
         latitude: 36.07696
@@ -646,6 +710,7 @@ regions:
           - "Al Bab"
           - "Al Balo"
           - "Al Bāb"
+          - "Al Bālo"
         ascii_name: "Al Bab"
         geonamesid: 174018
         latitude: 36.3725
@@ -660,18 +725,22 @@ regions:
           - Aafrine
           - Aafrîne
           - Afrin
+          - Afrine
         ascii_name: "`Afrin"
         geonamesid: 174186
         latitude: 36.51598
         longitude: 36.86305
         name: ‘Afrīn
-        names_en: ~
+        names_en: 
+          - Afrin
         names_es: ~
         population: 48693
         timezone: Asia/Damascus
     geonamesid: 170062
     name: Aleppo
-    names_en: ~
+    names_en: 
+      - "Aleppo Governorate"
+      - Aleppo
     names_es: ~
   - 
     ascii_name: Rif-dimashq
@@ -681,6 +750,7 @@ regions:
           - Gebru
           - Jabrud
           - Jebru
+          - Jebrud
         ascii_name: Yabrud
         geonamesid: 162627
         latitude: 33.96667
@@ -695,6 +765,7 @@ regions:
           - Katana
           - Qatana
           - Qatanah
+          - Qaţanah
         ascii_name: Qatana
         geonamesid: 165929
         latitude: 33.43544
@@ -709,6 +780,7 @@ regions:
           - Kara
           - Karra
           - Qara
+          - Qarah
         ascii_name: Qarah
         geonamesid: 166111
         latitude: 34.15
@@ -723,6 +795,7 @@ regions:
           - Ma'alula
           - Ma`lula
           - Ma`lulah
+          - Maaljulja
         ascii_name: Ma`lula
         geonamesid: 167375
         latitude: 33.8442
@@ -737,6 +810,7 @@ regions:
           - Djeroud
           - Djerud
           - Djéroud
+          - Jairoud
         ascii_name: Jayrud
         geonamesid: 169113
         latitude: 33.81667
@@ -751,6 +825,7 @@ regions:
           - "Arasta Bassal"
           - Harasta
           - "Harasta al Basal"
+          - "Harasta el Bassal"
         ascii_name: Hirista
         geonamesid: 169897
         latitude: 33.55899
@@ -765,6 +840,7 @@ regions:
           - Douma
           - Duma
           - Dūmā
+          - Дума
         ascii_name: Douma
         geonamesid: 170592
         latitude: 33.57175
@@ -779,6 +855,7 @@ regions:
           - "Az Zabadani"
           - "Az Zabadānī"
           - Zabadani
+          - Zabdani
         ascii_name: "Az Zabadani"
         geonamesid: 172059
         latitude: 33.72565
@@ -793,6 +870,7 @@ regions:
           - Al-Tal
           - "At Tall"
           - "Ett Tell"
+          - Tal
         ascii_name: "At Tall"
         geonamesid: 172349
         latitude: 33.6099
@@ -807,6 +885,7 @@ regions:
           - Al-Nabek
           - "An Nabk"
           - "En Nebk"
+          - Kalamom
         ascii_name: "An Nabk"
         geonamesid: 173193
         latitude: 34.01667
@@ -821,6 +900,7 @@ regions:
           - "Al Qutayfah"
           - "Al Quţayfah"
           - Al-Kutaifeh
+          - "El Qtaife"
         ascii_name: "Al Qutayfah"
         geonamesid: 173312
         latitude: 33.75
@@ -835,6 +915,7 @@ regions:
           - "Al Kiswah"
           - Kisoue
           - Kisoué
+          - Kissoue
         ascii_name: "Al Kiswah"
         geonamesid: 173598
         latitude: 33.3572
@@ -846,7 +927,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 170652
     name: Rif-dimashq
-    names_en: ~
+    names_en: 
+      - "Rif-dimashq Governorate"
+      - Rif-dimashq
     names_es: ~
   - 
     ascii_name: "Deir ez-Zor"
@@ -856,6 +939,7 @@ regions:
           - Sabikhan
           - Soubeikhane
           - Soubeïkhâne
+          - Subaykhan
         ascii_name: Subaykhan
         geonamesid: 164025
         latitude: 34.85444
@@ -870,6 +954,7 @@ regions:
           - Azaura
           - "Dayr al-Zor"
           - "Dayr az Zawr"
+          - "Dayr az Zur"
         ascii_name: "Dayr az Zawr"
         geonamesid: 170794
         latitude: 35.33333
@@ -884,6 +969,7 @@ regions:
           - "Al Mayadin"
           - "Al Mayādīn"
           - Al-Mayadeen
+          - Audattha
         ascii_name: "Al Mayadin"
         geonamesid: 173480
         latitude: 35.01667
@@ -898,6 +984,7 @@ regions:
           - "Abou Kemal"
           - "Abu Kamal"
           - "Abu Kemal"
+          - "Abu Kemāl"
         ascii_name: "Abu Kamal"
         geonamesid: 174448
         latitude: 34.45
@@ -912,6 +999,7 @@ regions:
           - "Abou Hardane"
           - "Abou Hardâne"
           - "Abu Hardan"
+          - "Abu Hardub"
         ascii_name: Hajin
         geonamesid: 174506
         latitude: 34.68972
@@ -923,7 +1011,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 170792
     name: "Deir ez-Zor"
-    names_en: ~
+    names_en: 
+      - "Deir ez-Zor"
+      - "Deir ez-Zor Governorate"
     names_es: ~
   - 
     ascii_name: Daraa
@@ -947,6 +1037,7 @@ regions:
           - "Ash Shaykh Maskin"
           - "Ash Shaykh Maskīn"
           - "Ash Shaykh Miskin"
+          - "Ash Shaykh Miskīn"
         ascii_name: "Shaykh Miskin"
         geonamesid: 164328
         latitude: 32.82944
@@ -961,6 +1052,7 @@ regions:
           - Jacem
           - Jasem
           - Jasim
+          - Jassem
         ascii_name: Qasim
         geonamesid: 165997
         latitude: 32.99233
@@ -975,6 +1067,7 @@ regions:
           - Ezra
           - Ezraa
           - Ezrra
+          - Izra`
         ascii_name: Izra`
         geonamesid: 169341
         latitude: 32.8706
@@ -989,6 +1082,7 @@ regions:
           - "Enn Nakhl"
           - Ennkhel
           - Inkhel
+          - Inkhil
         ascii_name: Inkhil
         geonamesid: 169375
         latitude: 33.0
@@ -1003,6 +1097,7 @@ regions:
           - Aere
           - Aeré
           - "As Sanamayn"
+          - "Aş Şanamayn"
         ascii_name: "As Sanamayn"
         geonamesid: 172469
         latitude: 33.07312
@@ -1017,6 +1112,7 @@ regions:
           - "Al Harak"
           - "Al Ḩarāk"
           - "El Hrak"
+          - "El Hrâk"
         ascii_name: "Al Harak"
         geonamesid: 173819
         latitude: 32.74932
@@ -1028,7 +1124,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 170903
     name: Daraa
-    names_en: ~
+    names_en: 
+      - "Daraa Governorate"
+      - Daraa
     names_es: ~
   - 
     ascii_name: As-Suwayda
@@ -1038,6 +1136,7 @@ regions:
           - Chahba
           - Philippopolis
           - Phillipopolis
+          - Philppopolis
         ascii_name: Shahba'
         geonamesid: 164626
         latitude: 32.85514
@@ -1052,6 +1151,7 @@ regions:
           - Salakhed
           - Salakhid
           - Salâkhed
+          - Şalākhid
         ascii_name: Salakhid
         geonamesid: 164952
         latitude: 32.87271
@@ -1066,6 +1166,7 @@ regions:
           - Al-Sweida
           - "As Suwayda'"
           - "As Suwaydah"
+          - "As Suwaydā’"
         ascii_name: "As Suwayda'"
         geonamesid: 172408
         latitude: 32.70896
@@ -1077,7 +1178,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 172410
     name: As-Suwayda
-    names_en: ~
+    names_en: 
+      - "As-Suwayda Governorate"
+      - As-Suwayda
     names_es: ~
   - 
     ascii_name: Ar-Raqqah
@@ -1087,6 +1190,7 @@ regions:
           - "Al Tabaqah"
           - Al-Tabbaqah
           - Al-Thawra
+          - "At Tabqah"
         ascii_name: "Ath Thawrah"
         geonamesid: 172374
         latitude: 35.84688
@@ -1101,18 +1205,23 @@ regions:
           - Al-Rakka
           - "Ar Raqqah"
           - Ar-Rakka
+          - Ar-Raqqah
         ascii_name: "Ar Raqqah"
         geonamesid: 172955
         latitude: 35.95
         longitude: 39.01667
         name: "Ar Raqqah"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Ar Raqqah"
+        names_es: 
+          - Raqqa
         population: 177636
         timezone: Asia/Damascus
     geonamesid: 172957
     name: Ar-Raqqah
-    names_en: ~
+    names_en: 
+      - "Ar-Raqqah Governorate"
+      - Ar-Raqqah
     names_es: ~
   - 
     ascii_name: Quneitra
@@ -1122,6 +1231,7 @@ regions:
           - "Al Qunaytirah"
           - "Al Qunayţirah"
           - "El Kuneitra"
+          - "El Qnaitra"
         ascii_name: "Al Qunaytirah"
         geonamesid: 173334
         latitude: 33.12594
@@ -1133,7 +1243,9 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 173336
     name: Quneitra
-    names_en: ~
+    names_en: 
+      - Quneitra
+      - "Quneitra Governorate"
     names_es: ~
   - 
     ascii_name: Latakia
@@ -1143,6 +1255,7 @@ regions:
           - Djeble
           - Djéblé
           - Jablah
+          - Jableh
         ascii_name: Jablah
         geonamesid: 169304
         latitude: 35.35
@@ -1157,18 +1270,23 @@ regions:
           - "Al Ladhiqiyah"
           - "Al Lādhiqīyah"
           - Al-Laziqiyah
+          - "El Ladhaqiye"
         ascii_name: Latakia
         geonamesid: 173576
         latitude: 35.51667
         longitude: 35.78333
         name: Latakia
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Latakia
+        names_es: 
+          - Latakia
         population: 340181
         timezone: Asia/Damascus
     geonamesid: 173578
     name: Latakia
-    names_en: ~
+    names_en: 
+      - "Latakia Governorate"
+      - Latakia
     names_es: ~
   - 
     ascii_name: Al-Hasakah
@@ -1178,6 +1296,7 @@ regions:
           - Darbasiyah
           - Darbāsīyah
           - Derbassiye
+          - Derbisiye
         ascii_name: Darbasiyah
         geonamesid: 170887
         latitude: 37.07279
@@ -1192,6 +1311,7 @@ regions:
           - "Al Hasakah"
           - "Al Ḩasakah"
           - Al-Hasakeh
+          - "El Haseke"
         ascii_name: "Al Hasakah"
         geonamesid: 173811
         latitude: 36.50237
@@ -1203,5 +1323,7 @@ regions:
         timezone: Asia/Damascus
     geonamesid: 173813
     name: Al-Hasakah
-    names_en: ~
+    names_en: 
+      - Al-Hasakah
+      - "Al-Hasakah Governorate"
     names_es: ~

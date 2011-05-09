@@ -2,8 +2,11 @@
 geonamesid: 337996
 iso: ET
 name: Ethiopia
-names_en: ~
-names_es: ~
+names_en: 
+  - Ethiopia
+  - "Federal Democratic Republic of Ethiopia"
+names_es: 
+  - Etiopía
 regions: 
   - 
     ascii_name: "Adis Abeba Astedader"
@@ -13,13 +16,17 @@ regions:
           - "Addis Ababa"
           - "Addis Abbaba"
           - "Addis Abeba"
+          - Addis-Abeba
         ascii_name: "Addis Ababa"
         geonamesid: 344979
         latitude: 9.02497
         longitude: 38.74689
         name: "Addis Ababa"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Addis Ababa"
+        names_es: 
+          - "Addis Abeba"
+          - "Adís Abeba"
         population: 2757729
         timezone: Africa/Addis_Ababa
     geonamesid: 444178
@@ -34,6 +41,7 @@ regions:
           - Gauani
           - Gawani
           - Gawāni
+          - Gewane
         ascii_name: Gewane
         geonamesid: 336745
         latitude: 10.16639
@@ -48,6 +56,7 @@ regions:
           - Dubti
           - Dubtī
           - Dufti
+          - Dufty
         ascii_name: Dubti
         geonamesid: 338554
         latitude: 11.73611
@@ -76,6 +85,7 @@ regions:
           - Aisaita
           - Asaita
           - Asajita
+          - Asayita
         ascii_name: Asaita
         geonamesid: 343409
         latitude: 11.56361
@@ -99,7 +109,9 @@ regions:
         timezone: Africa/Addis_Ababa
     geonamesid: 444179
     name: "Afar Regional State"
-    names_en: ~
+    names_en: 
+      - "Afar Regional State"
+      - "The State of Afar"
     names_es: ~
   - 
     ascii_name: "Amhara Regional State"
@@ -109,6 +121,7 @@ regions:
           - Wereta
           - "Wereta (2)"
           - Werota
+          - Worota
         ascii_name: Werota
         geonamesid: 326206
         latitude: 11.91667
@@ -123,6 +136,7 @@ regions:
           - "Uorra Ilu"
           - "Wara Haylu"
           - "Wara Hāylu"
+          - Warayelu
         ascii_name: "Were Ilu"
         geonamesid: 326259
         latitude: 10.6
@@ -148,12 +162,14 @@ regions:
           - "Klippekirkerne i Lalibela"
           - Labibela
           - Lalibala
+          - Lalibela
         ascii_name: Lalibela
         geonamesid: 332288
         latitude: 12.03333
         longitude: 39.03333
         name: Lalībela
-        names_en: ~
+        names_en: 
+          - Lalibela
         names_es: ~
         population: 11152
         timezone: Africa/Addis_Ababa
@@ -162,6 +178,7 @@ regions:
           - Cascim
           - Kassebie
           - Kemise
+          - Kemissie
         ascii_name: Kemise
         geonamesid: 333356
         latitude: 10.71667
@@ -176,12 +193,14 @@ regions:
           - Cambolcia
           - Combolcha
           - Combolcia
+          - Kambolcha
         ascii_name: Kombolcha
         geonamesid: 333373
         latitude: 11.08333
         longitude: 39.73333
         name: Kombolcha
-        names_en: ~
+        names_en: 
+          - Kombolcha
         names_es: ~
         population: 93605
         timezone: Africa/Addis_Ababa
@@ -190,13 +209,16 @@ regions:
           - Gondar
           - Gondehr
           - Gonder
+          - Gwender
         ascii_name: Gonder
         geonamesid: 336014
         latitude: 12.6
         longitude: 37.46667
         name: Gonder
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gondar
+        names_es: 
+          - Gondar
         population: 153914
         timezone: Africa/Addis_Ababa
       - 
@@ -217,12 +239,14 @@ regions:
           - Dase
           - Dasē
           - Dese
+          - Desje
         ascii_name: Dese
         geonamesid: 339219
         latitude: 11.13333
         longitude: 39.63333
         name: Desē
-        names_en: ~
+        names_en: 
+          - Dessie
         names_es: ~
         population: 136056
         timezone: Africa/Addis_Ababa
@@ -245,6 +269,7 @@ regions:
           - "Dabra Wark'"
           - "Dabra Wark’"
           - Dabra-Warq
+          - "Debra Uerch"
         ascii_name: "Debre Werk'"
         geonamesid: 339671
         latitude: 10.66667
@@ -259,6 +284,7 @@ regions:
           - Dabra-Tabor
           - Dabra-Tābor
           - "Debra Tabor"
+          - "Debre Tabor"
         ascii_name: "Debre Tabor"
         geonamesid: 339686
         latitude: 11.85
@@ -287,6 +313,7 @@ regions:
           - "Dabra Marko's"
           - "Dabra Mārko’s"
           - Dabra-7arqos
+          - Dabra-7ārqos
         ascii_name: "Debre Mark'os"
         geonamesid: 339708
         latitude: 10.35
@@ -301,6 +328,7 @@ regions:
           - "Dabra Berham"
           - Dabra-Berhan
           - Dabra-Berhān
+          - "Debra Berham"
         ascii_name: "Debre Birhan"
         geonamesid: 339734
         latitude: 9.68333
@@ -315,6 +343,7 @@ regions:
           - Dabark'
           - Dabarq
           - Dabārk’
+          - Dabārq
         ascii_name: Debark'
         geonamesid: 339823
         latitude: 13.15611
@@ -343,6 +372,7 @@ regions:
           - Bure
           - Burie
           - Burja
+          - Burye
         ascii_name: Bure
         geonamesid: 341397
         latitude: 10.7
@@ -357,6 +387,7 @@ regions:
           - Bechana
           - Bechanā
           - Biccena
+          - Bichana
         ascii_name: Bichena
         geonamesid: 342190
         latitude: 10.45
@@ -371,6 +402,7 @@ regions:
           - Bati
           - Batia
           - Batie
+          - Batī
         ascii_name: Bati
         geonamesid: 342641
         latitude: 11.18333
@@ -385,13 +417,16 @@ regions:
           - "Babardur Georgis"
           - Bahar
           - "Bahar Dar"
+          - "Bahar Dar Ghiorghis"
         ascii_name: "Bahir Dar"
         geonamesid: 342884
         latitude: 11.6
         longitude: 37.38333
         name: "Bahir Dar"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Bahir Dar"
+        names_es: 
+          - "Bahir Dar"
         population: 168899
         timezone: Africa/Addis_Ababa
       - 
@@ -399,6 +434,7 @@ regions:
           - "Addis Zaman"
           - "Addis Zemen"
           - "Adis Zemen"
+          - "Ādīs Zemen"
         ascii_name: "Adis Zemen"
         geonamesid: 344923
         latitude: 12.11667
@@ -413,6 +449,7 @@ regions:
           - Addiet
           - "Addiet Canna"
           - Adet
+          - Ādēt
         ascii_name: "Addiet Canna"
         geonamesid: 345353
         latitude: 11.26667
@@ -437,7 +474,9 @@ regions:
         timezone: Africa/Addis_Ababa
     geonamesid: 444180
     name: "Amhara Regional State"
-    names_en: ~
+    names_en: 
+      - "Amhara Regional State"
+      - "The State of Amhara"
     names_es: ~
   - 
     ascii_name: "Beneshangual Gumz Regional State"
@@ -455,7 +494,9 @@ regions:
         timezone: Africa/Addis_Ababa
     geonamesid: 444181
     name: "Beneshangual Gumz Regional State"
-    names_en: ~
+    names_en: 
+      - "Beneshangual Gumz Regional State"
+      - "The State of Benshangul/Gumuz"
     names_es: ~
   - 
     ascii_name: "Dire Dawa Astedader"
@@ -465,13 +506,16 @@ regions:
           - "D'ire Daua"
           - Daredawa
           - Dirdabo
+          - Dirdabò
         ascii_name: "Dire Dawa"
         geonamesid: 338832
         latitude: 9.59306
         longitude: 41.86611
         name: "Dirē Dawa"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Dire Dawa"
+        names_es: 
+          - "Dire Dawa"
         population: 252279
         timezone: Africa/Addis_Ababa
     geonamesid: 444182
@@ -486,6 +530,7 @@ regions:
           - Gambeila
           - Gambela
           - "Gambela Post"
+          - Gambele
         ascii_name: Gambela
         geonamesid: 337405
         latitude: 8.25
@@ -497,7 +542,9 @@ regions:
         timezone: Africa/Addis_Ababa
     geonamesid: 444183
     name: Gambela
-    names_en: ~
+    names_en: 
+      - "Gambela Regional State"
+      - "The State of Gambela Peoples"
     names_es: ~
   - 
     ascii_name: "Harari Regional State"
@@ -507,18 +554,22 @@ regions:
           - Harar
           - Harer
           - Harrar
+          - Hārar
         ascii_name: Harer
         geonamesid: 335035
         latitude: 9.30944
         longitude: 42.12583
         name: Hārer
-        names_en: ~
+        names_en: 
+          - Harar
         names_es: ~
         population: 90218
         timezone: Africa/Addis_Ababa
     geonamesid: 444184
     name: "Harari Regional State"
-    names_en: ~
+    names_en: 
+      - "Harari Regional State"
+      - "The State of Harari People"
     names_es: ~
   - 
     ascii_name: "Oromia Regional State"
@@ -542,6 +593,7 @@ regions:
           - Iavello
           - Yabalo
           - Yabelo
+          - Yabēlo
         ascii_name: Yabelo
         geonamesid: 326036
         latitude: 4.88333
@@ -556,6 +608,7 @@ regions:
           - Uongi
           - Wenji
           - Wenjī
+          - Wonji
         ascii_name: Wenji
         geonamesid: 326308
         latitude: 8.45
@@ -583,6 +636,7 @@ regions:
           - Sere
           - Seri
           - Serē
+          - Sire
         ascii_name: Sirre
         geonamesid: 328316
         latitude: 8.31667
@@ -597,13 +651,16 @@ regions:
           - Sciasciamanna
           - Sciasciamanne
           - Shashamana
+          - Shashamane
         ascii_name: Shashemene
         geonamesid: 328689
         latitude: 7.2
         longitude: 38.6
         name: Shashemenē
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Shashamane
+        names_es: 
+          - Shashamane
         population: 85871
         timezone: Africa/Addis_Ababa
       - 
@@ -611,6 +668,7 @@ regions:
           - Sciambo
           - Shambo
           - Shambu
+          - Shembo
         ascii_name: Shambu
         geonamesid: 328709
         latitude: 9.56667
@@ -638,6 +696,7 @@ regions:
           - Sandafe
           - Sendafa
           - Sendefa
+          - Sendefà
         ascii_name: Sendafa
         geonamesid: 328880
         latitude: 9.15
@@ -664,6 +723,7 @@ regions:
           - Najo
           - Nedjo
           - Neggio
+          - Nego
         ascii_name: Nejo
         geonamesid: 330120
         latitude: 9.5
@@ -678,6 +738,7 @@ regions:
           - Adama
           - Hadama
           - Nazareth
+          - Nazret
         ascii_name: Nazret
         geonamesid: 330186
         latitude: 8.55
@@ -692,6 +753,7 @@ regions:
           - Maggio
           - Moccia
           - Modjo
+          - Moggio
         ascii_name: Mojo
         geonamesid: 330491
         latitude: 8.6
@@ -720,6 +782,7 @@ regions:
           - Matahara
           - Matahārā
           - Metahara
+          - Metahāra
         ascii_name: Metahara
         geonamesid: 330811
         latitude: 8.9
@@ -734,6 +797,7 @@ regions:
           - Mandi
           - Mendi
           - Mendī
+          - Менди
         ascii_name: Mendi
         geonamesid: 331038
         latitude: 9.8
@@ -762,6 +826,7 @@ regions:
           - Cofole
           - Kefole
           - Kofale
+          - Kofele
         ascii_name: Kofele
         geonamesid: 332938
         latitude: 7.06667
@@ -790,6 +855,7 @@ regions:
           - Djimma
           - Gima
           - Gimma
+          - Jima
         ascii_name: Jima
         geonamesid: 333772
         latitude: 7.66667
@@ -804,6 +870,7 @@ regions:
           - Hurruta
           - Huruta
           - "Huruta (1)"
+          - "Uruta Mariam"
         ascii_name: Huruta
         geonamesid: 334529
         latitude: 8.15
@@ -829,6 +896,7 @@ regions:
           - "Agere Hiywet"
           - Ambo
           - "Hagere Hiwot"
+          - "Hagere Hiywet"
         ascii_name: "Hagere Hiywet"
         geonamesid: 335288
         latitude: 8.98333
@@ -854,6 +922,7 @@ regions:
           - Gannat
           - Genud
           - Gore
+          - Gorei
         ascii_name: Gore
         geonamesid: 335943
         latitude: 8.15
@@ -868,6 +937,7 @@ regions:
           - Goba
           - Gobba
           - Gobbà
+          - Гоба
         ascii_name: Goba
         geonamesid: 336350
         latitude: 7.01667
@@ -882,6 +952,7 @@ regions:
           - Chitu
           - Ghion
           - Gion
+          - Giyon
         ascii_name: Giyon
         geonamesid: 336372
         latitude: 8.53333
@@ -896,6 +967,7 @@ regions:
           - Ghigner
           - Ghiignir
           - Ghimir
+          - Ghinner
         ascii_name: Ginir
         geonamesid: 336454
         latitude: 7.13333
@@ -910,6 +982,7 @@ regions:
           - Gembi
           - Ghimbi
           - Gimbi
+          - Gīmbī
         ascii_name: Gimbi
         geonamesid: 336496
         latitude: 9.16667
@@ -924,6 +997,7 @@ regions:
           - Genet
           - Gennet
           - Holata
+          - Holeta
         ascii_name: Genet
         geonamesid: 336931
         latitude: 9.06667
@@ -938,6 +1012,7 @@ regions:
           - Galamso
           - Gelemso
           - Ghelemso
+          - Ghelemsò
         ascii_name: Gelemso
         geonamesid: 337010
         latitude: 8.81667
@@ -966,6 +1041,7 @@ regions:
           - Cuyu
           - "Gabra Guracha"
           - "Gabre Guracha"
+          - "Gebre Guracha"
         ascii_name: "Gebre Guracha"
         geonamesid: 337152
         latitude: 9.8
@@ -980,6 +1056,7 @@ regions:
           - Feche
           - Fechē
           - Ficce
+          - Fice
         ascii_name: Fiche
         geonamesid: 337771
         latitude: 9.8
@@ -994,6 +1071,7 @@ regions:
           - Dodola
           - Dodolla
           - Dodolo
+          - Додола
         ascii_name: Dodola
         geonamesid: 338726
         latitude: 6.98333
@@ -1008,6 +1086,7 @@ regions:
           - Dambidollo
           - Dambidolo
           - "Dembi Doilo"
+          - "Dembi Dolo"
         ascii_name: "Dembi Dolo"
         geonamesid: 339448
         latitude: 8.53333
@@ -1035,6 +1114,7 @@ regions:
           - Biscioftu
           - Biscioftù
           - Bishoftu
+          - "Debra Zeit"
         ascii_name: "Debre Zeyit"
         geonamesid: 339666
         latitude: 8.75
@@ -1063,6 +1143,7 @@ regions:
           - Beddele
           - Bedele
           - Bedelle
+          - Bedelli
         ascii_name: Bedele
         geonamesid: 342567
         latitude: 8.456
@@ -1077,6 +1158,7 @@ regions:
           - "Asba Littorio"
           - "Asbar Tafari"
           - Asbatafari
+          - "Asbe Taferi"
         ascii_name: "Asbe Teferi"
         geonamesid: 343402
         latitude: 9.08333
@@ -1104,6 +1186,7 @@ regions:
           - "Agere Mariam"
           - "Agere Maryam"
           - "Aghere Mariam"
+          - Alga
         ascii_name: "Agere Maryam"
         geonamesid: 344620
         latitude: 5.63333
@@ -1118,6 +1201,7 @@ regions:
           - Agaro
           - Aggaro
           - Aggarò
+          - Āgaro
         ascii_name: Agaro
         geonamesid: 344661
         latitude: 7.85
@@ -1132,6 +1216,7 @@ regions:
           - "Addis Alem"
           - Addis-Alam
           - Addis-Ālam
+          - "Adis `Alem"
         ascii_name: "Adis `Alem"
         geonamesid: 344976
         latitude: 9.03333
@@ -1143,7 +1228,9 @@ regions:
         timezone: Africa/Addis_Ababa
     geonamesid: 444185
     name: "Oromia Regional State"
-    names_en: ~
+    names_en: 
+      - "Oromia Regional State"
+      - "The State of Oromia"
     names_es: ~
   - 
     ascii_name: "Somalia Regional State"
@@ -1153,6 +1240,7 @@ regions:
           - Djigdjiga
           - Dzhidzhiga
           - Giggiga
+          - Giggigga
         ascii_name: Jijiga
         geonamesid: 333795
         latitude: 9.35
@@ -1164,7 +1252,9 @@ regions:
         timezone: Africa/Addis_Ababa
     geonamesid: 444186
     name: "Somalia Regional State"
-    names_en: ~
+    names_en: 
+      - "Somalia Regional State"
+      - "The State of Somalia"
     names_es: ~
   - 
     ascii_name: "The State of Tigray"
@@ -1174,6 +1264,7 @@ regions:
           - Macalle
           - Makale
           - Makalle
+          - Maqale
         ascii_name: Mek'ele
         geonamesid: 331180
         latitude: 13.49667
@@ -1188,6 +1279,7 @@ regions:
           - "Mai Ceu"
           - "Mai Chio"
           - "Mai Cio"
+          - "Mai Ciò"
         ascii_name: Maych'ew
         geonamesid: 331416
         latitude: 12.7875
@@ -1202,6 +1294,7 @@ regions:
           - Koram
           - Korem
           - Kworam
+          - Quaram
         ascii_name: Korem
         geonamesid: 332746
         latitude: 12.50583
@@ -1216,6 +1309,7 @@ regions:
           - "Enda Salassie"
           - "Enda Selase"
           - "Enda Selassie"
+          - "Enda Selassye"
         ascii_name: "Inda Silase"
         geonamesid: 334227
         latitude: 14.10307
@@ -1230,13 +1324,16 @@ regions:
           - Akesum
           - Aksoum
           - Aksum
+          - Aksumo
         ascii_name: Aksum
         geonamesid: 344420
         latitude: 14.12448
         longitude: 38.72444
         name: Āksum
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Axum
+        names_es: 
+          - Aksum
         population: 41249
         timezone: Africa/Addis_Ababa
       - 
@@ -1252,7 +1349,9 @@ regions:
         timezone: Africa/Addis_Ababa
     geonamesid: 444187
     name: "The State of Tigray"
-    names_en: ~
+    names_en: 
+      - "Tigray Regional State"
+      - "The State of Tigray"
     names_es: ~
   - 
     ascii_name: SSNPR
@@ -1262,6 +1361,7 @@ regions:
           - Abosto
           - Agraria
           - Dalle
+          - Irgalem
         ascii_name: "Yirga `Alem"
         geonamesid: 325780
         latitude: 6.75
@@ -1276,6 +1376,7 @@ regions:
           - Uondo
           - Wando
           - Wendo
+          - Wondo
         ascii_name: Wendo
         geonamesid: 326321
         latitude: 6.6
@@ -1317,6 +1418,7 @@ regions:
           - Mesan
           - Mizan
           - "Mizan Tafari"
+          - "Mizan Teferi"
         ascii_name: "Mizan Teferi"
         geonamesid: 330534
         latitude: 6.98333
@@ -1336,7 +1438,8 @@ regions:
         latitude: 4.83333
         longitude: 36.1
         name: Lobuni
-        names_en: ~
+        names_en: 
+          - Omorate
         names_es: ~
         population: 3363
         timezone: Africa/Addis_Ababa
@@ -1371,6 +1474,7 @@ regions:
           - Alaba
           - "Alaba K'ulito"
           - "Alaba Kolito"
+          - Colito
         ascii_name: K'olito
         geonamesid: 332880
         latitude: 7.31667
@@ -1397,6 +1501,7 @@ regions:
           - "Agere Selam"
           - Agheresalam
           - "Hagere Selam"
+          - Hula
         ascii_name: "Hagere Selam"
         geonamesid: 335286
         latitude: 6.48333
@@ -1411,6 +1516,7 @@ regions:
           - Ghidole
           - Ghidolie
           - Gidole
+          - Gīdolē
         ascii_name: Gidole
         geonamesid: 336526
         latitude: 5.65
@@ -1439,6 +1545,7 @@ regions:
           - Dila
           - Dilla
           - Dīla
+          - Дила
         ascii_name: Dila
         geonamesid: 338998
         latitude: 6.41667
@@ -1453,6 +1560,7 @@ regions:
           - Butajera
           - Butajira
           - Butajīra
+          - Butlagira
         ascii_name: Butajira
         geonamesid: 341297
         latitude: 8.11667
@@ -1481,6 +1589,7 @@ regions:
           - Boditi
           - Boditti
           - Boditu
+          - Bodity
         ascii_name: Boditi
         geonamesid: 341877
         latitude: 6.96667
@@ -1495,6 +1604,7 @@ regions:
           - Bachio
           - Baco
           - Baka
+          - Bako
         ascii_name: Bako
         geonamesid: 342856
         latitude: 5.78333
@@ -1509,12 +1619,14 @@ regions:
           - Avase
           - Awasa
           - Awassa
+          - Hawassa
         ascii_name: Awasa
         geonamesid: 343137
         latitude: 7.05
         longitude: 38.46667
         name: Āwasa
-        names_en: ~
+        names_en: 
+          - Awasa
         names_es: ~
         population: 133097
         timezone: Africa/Addis_Ababa
@@ -1523,6 +1635,7 @@ regions:
           - Ancheto
           - Areka
           - "Areka Ancheto"
+          - Āreka
         ascii_name: Areka
         geonamesid: 343593
         latitude: 7.06667
@@ -1537,6 +1650,7 @@ regions:
           - "Arba Mench"
           - "Arba Minch'"
           - "Arba Mintch"
+          - Gantar
         ascii_name: "Arba Minch'"
         geonamesid: 343663
         latitude: 6.03333
@@ -1548,7 +1662,9 @@ regions:
         timezone: Africa/Addis_Ababa
     geonamesid: 444188
     name: SSNPR
-    names_en: ~
+    names_en: 
+      - "Southern Nations and Nationalities Peoples Regional State"
+      - "Nationalities and Peoples, The State of Southern Nations"
     names_es: ~
   - 
     ascii_name: "Gambela Region"

@@ -2,8 +2,10 @@
 geonamesid: 3579143
 iso: GP
 name: Guadeloupe
-names_en: ~
-names_es: ~
+names_en: 
+  - Guadeloupe
+names_es: 
+  - Guadalupe
 regions: 
   - 
     ascii_name: Guadeloupe
@@ -26,6 +28,7 @@ regions:
           - "Les Trois Rivieres"
           - "Les Trois Rivières"
           - Trois-Rivieres
+          - Trois-Rivières
         ascii_name: Trois-Rivieres
         geonamesid: 3578324
         latitude: 15.97567
@@ -130,12 +133,14 @@ regions:
           - "La Pointe a Pitre"
           - "La Pointe à Pitre"
           - Pointe-a-Pitre
+          - Pointe-à-Pitre
         ascii_name: Pointe-a-Pitre
         geonamesid: 3578599
         latitude: 16.2422
         longitude: -61.5343
         name: Pointe-à-Pitre
-        names_en: ~
+        names_en: 
+          - Pointe-à-Pitre
         names_es: ~
         population: 18264
         timezone: America/Guadeloupe
@@ -275,13 +280,15 @@ regions:
           - Bas-Ter
           - "Basse Terre"
           - Basse-Terre
+          - Бас-Тер
         ascii_name: Basse-Terre
         geonamesid: 3579732
         latitude: 15.99854
         longitude: -61.72548
         name: Basse-Terre
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Basse-Terre
         population: 11472
         timezone: America/Guadeloupe
       - 
@@ -325,4 +332,5 @@ regions:
     geonamesid: 6690363
     name: Guadeloupe
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Guadalupe

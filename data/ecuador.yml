@@ -2,8 +2,12 @@
 geonamesid: 3658394
 iso: EC
 name: Ecuador
-names_en: ~
-names_es: ~
+names_en: 
+  - Ecuador
+  - "Republic of Ecuador"
+names_es: 
+  - Ecuador
+  - "República del Ecuador"
 regions: 
   - 
     ascii_name: "Provincia de Zamora Chinchipe"
@@ -84,8 +88,11 @@ regions:
         latitude: -1.24908
         longitude: -78.61675
         name: Ambato
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ambato
+          - "San Juan de Ambato"
+        names_es: 
+          - Ambato
         population: 154369
         timezone: America/Guayaquil
     geonamesid: 3650445
@@ -100,13 +107,16 @@ regions:
           - "Santo Domingo"
           - "Santo Domingo de los Colorados"
           - Santo-Domingo-de-los-Kolorados
+          - Санто-Доминго-де-лос-Колорадос
         ascii_name: "Santo Domingo de los Colorados"
         geonamesid: 3651297
         latitude: -0.25
         longitude: -79.15
         name: "Santo Domingo de los Colorados"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santo Domingo de los Colorados"
+        names_es: 
+          - "Santo Domingo de los Colorados"
         population: 200421
         timezone: America/Guayaquil
       - 
@@ -125,13 +135,16 @@ regions:
           - Kita
           - Kitas
           - Kito
+          - Kitu
         ascii_name: Quito
         geonamesid: 3652462
         latitude: -0.22985
         longitude: -78.52495
         name: Quito
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Quito
+        names_es: 
+          - Quito
         population: 1399814
         timezone: America/Guayaquil
       - 
@@ -174,6 +187,7 @@ regions:
           - "El Puyo"
           - Pujo
           - Puyo
+          - Пуйо
         ascii_name: Puyo
         geonamesid: 3652584
         latitude: -1.46667
@@ -375,13 +389,16 @@ regions:
           - Manta
           - "Manta Ecuador"
           - "Puerto de Manta"
+          - Манта
         ascii_name: Manta
         geonamesid: 3654410
         latitude: -0.95
         longitude: -80.73333
         name: Manta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Manta
+        names_es: 
+          - Manta
         population: 183166
         timezone: America/Guayaquil
       - 
@@ -437,6 +454,7 @@ regions:
           - Bahia
           - "Bahia de Caraques"
           - "Bahia de Caraquez"
+          - "Bahia de Caráques"
         ascii_name: "Bahia de Caraquez"
         geonamesid: 3660401
         latitude: -0.6
@@ -531,7 +549,8 @@ regions:
         latitude: -1.81667
         longitude: -79.51667
         name: Babahoyo
-        names_en: ~
+        names_en: 
+          - Babahoyo
         names_es: ~
         population: 76279
         timezone: America/Guayaquil
@@ -563,8 +582,10 @@ regions:
         latitude: -3.99313
         longitude: -79.20422
         name: Loja
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Loja
+        names_es: 
+          - Loja
         population: 117796
         timezone: America/Guayaquil
       - 
@@ -645,8 +666,10 @@ regions:
         latitude: 0.23333
         longitude: -78.26667
         name: Otavalo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Otavalo
+        names_es: 
+          - Otavalo
         population: 32330
         timezone: America/Guayaquil
       - 
@@ -658,7 +681,8 @@ regions:
         latitude: 0.35
         longitude: -78.11667
         name: Ibarra
-        names_en: ~
+        names_en: 
+          - Ibarra
         names_es: ~
         population: 108666
         timezone: America/Guayaquil
@@ -735,6 +759,7 @@ regions:
           - Samborondon
           - Samborondón
           - Samrondon
+          - Samrondón
         ascii_name: Samborondon
         geonamesid: 3652065
         latitude: -1.95
@@ -843,13 +868,16 @@ regions:
           - Gouagiakil
           - Guajakil'
           - Guayaquil
+          - Gvajakil
         ascii_name: Guayaquil
         geonamesid: 3657509
         latitude: -2.16667
         longitude: -79.9
         name: Guayaquil
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Guayaquil
+        names_es: 
+          - Guayaquil
         population: 1952029
         timezone: America/Guayaquil
       - 
@@ -868,12 +896,14 @@ regions:
           - Alfaro
           - Duran
           - Durán
+          - "Eloy alfaro"
         ascii_name: Duran
         geonamesid: 3658192
         latitude: -2.2
         longitude: -79.83333
         name: Durán
-        names_en: ~
+        names_en: 
+          - Durán
         names_es: ~
         population: 167784
         timezone: America/Guayaquil
@@ -882,6 +912,7 @@ regions:
           - "Coronel Marcelino Mariduena"
           - "Coronel Marcelino Maridueña"
           - "Coronel Mariduena"
+          - "Coronel Maridueña"
         ascii_name: "Coronel Marcelino Mariduena"
         geonamesid: 3658822
         latitude: -2.2
@@ -976,6 +1007,7 @@ regions:
           - "Baquerizo Moreno"
           - "Puerto Baquerizo"
           - "Puerto Baquerizo Moreno"
+          - "Puerto Chico"
         ascii_name: "Puerto Baquerizo Moreno"
         geonamesid: 3652758
         latitude: -0.9
@@ -1009,6 +1041,7 @@ regions:
           - Limones
           - Valdes
           - Valdez
+          - Valdés
         ascii_name: Valdez
         geonamesid: 3650312
         latitude: 1.24917
@@ -1102,12 +1135,14 @@ regions:
           - "Ponto Bolivar"
           - "Puerto Bolivar"
           - "Puerto Bolívar"
+          - "Пуерто Боливар"
         ascii_name: "Puerto Bolivar"
         geonamesid: 3652757
         latitude: -3.26667
         longitude: -79.98333
         name: "Puerto Bolívar"
-        names_en: ~
+        names_en: 
+          - "Puerto Bolivar"
         names_es: ~
         population: 8300
         timezone: America/Guayaquil
@@ -1154,12 +1189,14 @@ regions:
           - Machala
           - machala
           - Мачала
+          - ماچالا
         ascii_name: Machala
         geonamesid: 3654533
         latitude: -3.26667
         longitude: -79.96667
         name: Machala
-        names_en: ~
+        names_en: 
+          - Machala
         names_es: ~
         population: 198123
         timezone: America/Guayaquil
@@ -1228,8 +1265,10 @@ regions:
         latitude: -0.93333
         longitude: -78.61667
         name: Latacunga
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Latacunga
+        names_es: 
+          - Latacunga
         population: 51717
         timezone: America/Guayaquil
       - 
@@ -1258,8 +1297,10 @@ regions:
         latitude: -1.66667
         longitude: -78.63333
         name: Riobamba
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Riobamba
+        names_es: 
+          - Riobamba
         population: 124478
         timezone: America/Guayaquil
       - 
@@ -1390,7 +1431,8 @@ regions:
         latitude: -1.6
         longitude: -79.0
         name: Guaranda
-        names_en: ~
+        names_en: 
+          - Guaranda
         names_es: ~
         population: 22199
         timezone: America/Guayaquil
@@ -1423,8 +1465,10 @@ regions:
         latitude: -2.88333
         longitude: -78.98333
         name: Cuenca
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cuenca
+        names_es: 
+          - Cuenca
         population: 276964
         timezone: America/Guayaquil
     geonamesid: 3660431
@@ -1439,6 +1483,7 @@ regions:
           - "Lago Agrio"
           - Nuehva-Lokha
           - "Nueva Loja"
+          - Нуэва-Лоха
         ascii_name: "Nueva Loja"
         geonamesid: 3655185
         latitude: 0.08472
@@ -1496,4 +1541,5 @@ regions:
     geonamesid: 7062138
     name: "Santa Elena"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Provincia de Santa Elena"

@@ -2,8 +2,10 @@
 geonamesid: 51537
 iso: SO
 name: Somalia
-names_en: ~
-names_es: ~
+names_en: 
+  - Somalia
+names_es: 
+  - Somalia
 regions: 
   - 
     ascii_name: "Gobolka Woqooyi Galbeed"
@@ -13,6 +15,7 @@ regions:
           - Hargeisa
           - Hargesa
           - Hargeysa
+          - Khargejse
         ascii_name: Hargeysa
         geonamesid: 57289
         latitude: 9.56
@@ -27,13 +30,16 @@ regions:
           - Berbera
           - Berberah
           - Berbere
+          - "bai pei la"
         ascii_name: Berbera
         geonamesid: 64435
         latitude: 10.43556
         longitude: 45.01639
         name: Berbera
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Berbera
+        names_es: 
+          - Berbera
         population: 242344
         timezone: Africa/Mogadishu
     geonamesid: 50360
@@ -48,6 +54,7 @@ regions:
           - Odweina
           - Odweine
           - Odweyne
+          - Oodweeyne
         ascii_name: Oodweyne
         geonamesid: 53372
         latitude: 9.40806
@@ -62,6 +69,7 @@ regions:
           - Aik
           - Ceek
           - Ceg
+          - Eik
         ascii_name: Ceek
         geonamesid: 62854
         latitude: 8.99694
@@ -76,13 +84,17 @@ regions:
           - "Bur `o"
           - "Bur ‘ó"
           - Burao
+          - Burco
         ascii_name: Burao
         geonamesid: 63795
         latitude: 9.52417
         longitude: 45.53694
         name: Burao
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Burco
+          - Burao
+        names_es: 
+          - Burao
         population: 99270
         timezone: Africa/Mogadishu
     geonamesid: 51230
@@ -97,6 +109,7 @@ regions:
           - "Bahle Dogli"
           - "Uanle Uen"
           - Wangleweyn
+          - "Wanla Uen"
         ascii_name: Wanlaweyn
         geonamesid: 50672
         latitude: 2.61912
@@ -111,6 +124,7 @@ regions:
           - Coriole
           - Coriolei
           - Koriolay
+          - Qoreyole
         ascii_name: Qoryooley
         geonamesid: 52867
         latitude: 1.78333
@@ -136,6 +150,7 @@ regions:
           - Afgoi
           - Afgoje
           - Afgooye
+          - Afgoye
         ascii_name: Afgooye
         geonamesid: 65785
         latitude: 2.13998
@@ -157,12 +172,14 @@ regions:
           - Giohar
           - Jawhar
           - Johar
+          - Joher
         ascii_name: Giohar
         geonamesid: 56335
         latitude: 2.78087
         longitude: 45.50048
         name: Giohar
-        names_en: ~
+        names_en: 
+          - Giohar
         names_es: ~
         population: 47086
         timezone: Africa/Mogadishu
@@ -171,6 +188,7 @@ regions:
           - Adale
           - Cadale
           - Ilala
+          - Itala
         ascii_name: Cadale
         geonamesid: 63344
         latitude: 2.76006
@@ -182,7 +200,8 @@ regions:
         timezone: Africa/Mogadishu
     geonamesid: 51967
     name: "Middle Shabele"
-    names_en: ~
+    names_en: 
+      - "Middle Shabele"
     names_es: ~
   - 
     ascii_name: "Gobolka Sanaag"
@@ -192,6 +211,7 @@ regions:
           - "Banden Laskhonai"
           - Laasqoray
           - "Las Goni"
+          - "Las Khonai"
         ascii_name: Laasqoray
         geonamesid: 55223
         latitude: 11.15671
@@ -206,12 +226,14 @@ regions:
           - Ceerigaabo
           - Cerigaabo
           - Erigabo
+          - Erigavo
         ascii_name: Erigavo
         geonamesid: 62691
         latitude: 10.61806
         longitude: 47.37
         name: Erigavo
-        names_en: ~
+        names_en: 
+          - Erigavo
         names_es: ~
         population: 33853
         timezone: Africa/Mogadishu
@@ -227,6 +249,7 @@ regions:
           - Garoe
           - Garoowe
           - Garoway
+          - Garowe
         ascii_name: Garoowe
         geonamesid: 58933
         latitude: 8.40536
@@ -241,6 +264,7 @@ regions:
           - Ayl
           - Ceel
           - Eeyl
+          - Eil
         ascii_name: Eyl
         geonamesid: 60019
         latitude: 7.98333
@@ -262,6 +286,7 @@ regions:
           - Adim
           - Harardera
           - Harardere
+          - Harardére
         ascii_name: Xarardheere
         geonamesid: 50064
         latitude: 4.6544
@@ -276,6 +301,7 @@ regions:
           - Hobiya
           - Hobya
           - Hobyaa
+          - Hobyo
         ascii_name: Hobyo
         geonamesid: 57000
         latitude: 5.35139
@@ -290,12 +316,15 @@ regions:
           - Gaalkacyo
           - Galcaio
           - Galka`yo'
+          - Galka‘yo’
         ascii_name: Galcaio
         geonamesid: 59611
         latitude: 6.76972
         longitude: 47.43083
         name: Galcaio
-        names_en: ~
+        names_en: 
+          - Gaalkacyo
+          - Galcaio
         names_es: ~
         population: 61200
         timezone: Africa/Mogadishu
@@ -311,13 +340,17 @@ regions:
           - Chisimaio
           - Chisimayu
           - Kisimayo
+          - Kisimayu
         ascii_name: Chisimayu
         geonamesid: 55671
         latitude: -0.35817
         longitude: 42.54536
         name: Chisimayu
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kismayo
+          - Chisimayu
+        names_es: 
+          - Kismaayo
         population: 234852
         timezone: Africa/Mogadishu
       - 
@@ -325,12 +358,14 @@ regions:
           - Giamama
           - Giamame
           - Giamana
+          - Giamane
         ascii_name: Jamaame
         geonamesid: 56399
         latitude: 0.07222
         longitude: 42.75056
         name: Jamaame
-        names_en: ~
+        names_en: 
+          - Jamaame
         names_es: ~
         population: 185270
         timezone: Africa/Mogadishu
@@ -339,6 +374,7 @@ regions:
           - Bircao
           - "Bur Gabo"
           - "Bur Gap"
+          - "Bur Gavo"
         ascii_name: "Buur Gaabo"
         geonamesid: 63580
         latitude: -1.21825
@@ -350,7 +386,8 @@ regions:
         timezone: Africa/Mogadishu
     geonamesid: 56083
     name: "Lower Juba"
-    names_en: ~
+    names_en: 
+      - "Lower Juba"
     names_es: ~
   - 
     ascii_name: "Middle Juba"
@@ -360,6 +397,7 @@ regions:
           - Dzhilib
           - Gelib
           - Jeelib
+          - Jilib
         ascii_name: Jilib
         geonamesid: 56166
         latitude: 0.49583
@@ -374,6 +412,7 @@ regions:
           - Digiuma
           - Dugiuma
           - Dujuma
+          - Dujuuma
         ascii_name: Dujuuma
         geonamesid: 60457
         latitude: 1.25333
@@ -385,7 +424,8 @@ regions:
         timezone: Africa/Mogadishu
     geonamesid: 56084
     name: "Middle Juba"
-    names_en: ~
+    names_en: 
+      - "Middle Juba"
     names_es: ~
   - 
     ascii_name: "Gobolka Hiiraan"
@@ -408,6 +448,7 @@ regions:
           - "Bulo Berde"
           - "Bulo Burti"
           - Buulo
+          - "Buulo Berde"
         ascii_name: Buulobarde
         geonamesid: 63689
         latitude: 3.85366
@@ -422,6 +463,7 @@ regions:
           - "Balad Weyn"
           - Belai-Wen
           - "Beled Weyn"
+          - Beleduehjne
         ascii_name: Beledweyne
         geonamesid: 64460
         latitude: 4.73583
@@ -443,6 +485,7 @@ regions:
           - Lugh
           - "Lugh Ferrandi"
           - "Lugh Ganana"
+          - "Lugh Ganane"
         ascii_name: Luuq
         geonamesid: 54715
         latitude: 3.79651
@@ -512,6 +555,7 @@ regions:
           - "Bur Acaba"
           - "Bur Hacaba"
           - Burhakaba
+          - "Buur Hakkaba"
         ascii_name: Buurhakaba
         geonamesid: 63571
         latitude: 2.79649
@@ -526,12 +570,14 @@ regions:
           - Baidabho
           - Baidabo
           - Baidoa
+          - Bajdoa
         ascii_name: Baidoa
         geonamesid: 64536
         latitude: 3.11667
         longitude: 43.65
         name: Baidoa
-        names_en: ~
+        names_en: 
+          - Baidoa
         names_es: ~
         population: 129839
         timezone: Africa/Mogadishu
@@ -575,12 +621,15 @@ regions:
           - "Bandar Kassim"
           - "Bender Cassim"
           - "Bender Qaasin"
+          - "Bender Qasin"
         ascii_name: "Bender Cassim"
         geonamesid: 64013
         latitude: 11.28421
         longitude: 49.18158
         name: "Bender Cassim"
-        names_en: ~
+        names_en: 
+          - Bosaso
+          - "Bender Cassim"
         names_es: ~
         population: 74287
         timezone: Africa/Mogadishu
@@ -589,6 +638,7 @@ regions:
           - Bareda
           - Bareeda
           - Barēdá
+          - Bereda
         ascii_name: Bereeda
         geonamesid: 64412
         latitude: 11.87063
@@ -617,6 +667,7 @@ regions:
           - Bandarbeyla
           - "Bender Bayla"
           - "Bender Beila"
+          - "Bender Beyla"
         ascii_name: Bandarbeyla
         geonamesid: 64814
         latitude: 9.49426
@@ -638,13 +689,16 @@ regions:
           - Magadiscio
           - Maqdishu
           - Mogadiisho
+          - Mogadisa
         ascii_name: Mogadishu
         geonamesid: 53654
         latitude: 2.03711
         longitude: 45.34375
         name: Mogadishu
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mogadishu
+        names_es: 
+          - Mogadiscio
         population: 2587183
         timezone: Africa/Mogadishu
     geonamesid: 64833
@@ -659,6 +713,7 @@ regions:
           - Iet
           - Yed
           - Yeed
+          - Yeid
         ascii_name: Yeed
         geonamesid: 49593
         latitude: 4.55
@@ -673,6 +728,7 @@ regions:
           - Uegit
           - Waajid
           - Wadjid
+          - Wajid
         ascii_name: Waajid
         geonamesid: 50814
         latitude: 3.80958
@@ -687,6 +743,7 @@ regions:
           - Tayeegle
           - Tayeeglow
           - Tayegle
+          - Tayēgle
         ascii_name: Tayeeglow
         geonamesid: 51299
         latitude: 4.01897
@@ -719,7 +776,8 @@ regions:
         latitude: 8.47556
         longitude: 47.35778
         name: Laascaanood
-        names_en: ~
+        names_en: 
+          - "Las Anod"
         names_es: ~
         population: 60100
         timezone: Africa/Mogadishu

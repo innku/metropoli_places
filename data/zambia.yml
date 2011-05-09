@@ -2,8 +2,11 @@
 geonamesid: 895949
 iso: ZM
 name: Zambia
-names_en: ~
-names_es: ~
+names_en: 
+  - Zambia
+  - "Northern Rhodesia"
+names_es: 
+  - Zambia
 regions: 
   - 
     ascii_name: "Western Province"
@@ -13,6 +16,7 @@ regions:
           - Sesheke
           - Shesheke
           - Sisheke
+          - Шешеке
         ascii_name: Sesheke
         geonamesid: 898905
         latitude: -17.46667
@@ -78,6 +82,7 @@ regions:
           - Kaoma
           - Mankoya
           - Mankoye
+          - Nankoya
         ascii_name: Kaoma
         geonamesid: 913323
         latitude: -14.78333
@@ -114,7 +119,8 @@ regions:
         latitude: -17.26022
         longitude: 27.46354
         name: Sinazongwe
-        names_en: ~
+        names_en: 
+          - Sinazongwe
         names_es: ~
         population: 11528
         timezone: Africa/Lusaka
@@ -174,7 +180,8 @@ regions:
         latitude: -15.85601
         longitude: 27.748
         name: Mazabuka
-        names_en: ~
+        names_en: 
+          - Mazabuka
         names_es: ~
         population: 64006
         timezone: Africa/Lusaka
@@ -186,7 +193,8 @@ regions:
         latitude: -17.36667
         longitude: 27.15
         name: Maamba
-        names_en: ~
+        names_en: 
+          - Maamba
         names_es: ~
         population: 12251
         timezone: Africa/Lusaka
@@ -195,6 +203,7 @@ regions:
           - Livingston
           - Livingstone
           - Livingstore
+          - Maramba
         ascii_name: Livingstone
         geonamesid: 910111
         latitude: -17.84221
@@ -240,12 +249,14 @@ regions:
           - Balovale
           - "Rio Zambeze"
           - Sambesi
+          - Sambesí
         ascii_name: Zambezi
         geonamesid: 895953
         latitude: -13.55
         longitude: 23.11667
         name: Zambezi
-        names_en: ~
+        names_en: 
+          - Zambezi
         names_es: ~
         population: 7074
         timezone: Africa/Lusaka
@@ -451,7 +462,8 @@ regions:
         latitude: -10.21289
         longitude: 31.18084
         name: Kasama
-        names_en: ~
+        names_en: 
+          - Kasama
         names_es: ~
         population: 91056
         timezone: Africa/Lusaka
@@ -492,13 +504,16 @@ regions:
           - Lousaka
           - Lusaka
           - Lusako
+          - Lúsaka
         ascii_name: Lusaka
         geonamesid: 909137
         latitude: -15.40809
         longitude: 28.28636
         name: Lusaka
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lusaka
+        names_es: 
+          - Lusaka
         population: 1267440
         timezone: Africa/Lusaka
       - 
@@ -600,12 +615,14 @@ regions:
           - "Fort Rosebery"
           - Mansa
           - Mbila
+          - Roseberry
         ascii_name: Mansa
         geonamesid: 907770
         latitude: -11.19976
         longitude: 28.89431
         name: Mansa
-        names_en: ~
+        names_en: 
+          - Mansa
         names_es: ~
         population: 42277
         timezone: Africa/Lusaka
@@ -661,7 +678,8 @@ regions:
         latitude: -13.63333
         longitude: 32.65
         name: Chipata
-        names_en: ~
+        names_en: 
+          - Chipata
         names_es: ~
         population: 85963
         timezone: Africa/Lusaka
@@ -705,8 +723,10 @@ regions:
         latitude: -12.95867
         longitude: 28.63659
         name: Ndola
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ndola
+        names_es: 
+          - Ndola
         population: 394518
         timezone: Africa/Lusaka
       - 
@@ -719,7 +739,8 @@ regions:
         latitude: -12.55
         longitude: 28.23333
         name: Mufulira
-        names_en: ~
+        names_en: 
+          - Mufulira
         names_es: ~
         population: 120500
         timezone: Africa/Lusaka
@@ -743,7 +764,8 @@ regions:
         latitude: -13.13667
         longitude: 28.41661
         name: Luanshya
-        names_en: ~
+        names_en: 
+          - Luanshya
         names_es: ~
         population: 113365
         timezone: Africa/Lusaka
@@ -752,13 +774,16 @@ regions:
           - Kitve
           - Kitwe
           - "Kitwe Nkana"
+          - Nkana-Kitwe
         ascii_name: Kitwe
         geonamesid: 911148
         latitude: -12.81667
         longitude: 28.2
         name: Kitwe
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kitwe
+        names_es: 
+          - Kitwe
         population: 400914
         timezone: Africa/Lusaka
       - 
@@ -770,8 +795,10 @@ regions:
         latitude: -12.83333
         longitude: 28.08333
         name: Kalulushi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kalulushi
+        names_es: 
+          - Kalulushi
         population: 66575
         timezone: Africa/Lusaka
       - 
@@ -783,7 +810,8 @@ regions:
         latitude: -12.53333
         longitude: 27.85
         name: Chingola
-        names_en: ~
+        names_en: 
+          - Chingola
         names_es: ~
         population: 148564
         timezone: Africa/Lusaka
@@ -792,6 +820,7 @@ regions:
           - Bancroft
           - Chilabombwe
           - Chiliabombwe
+          - Chiliadomewe
         ascii_name: Chililabombwe
         geonamesid: 919544
         latitude: -12.36667
@@ -816,7 +845,8 @@ regions:
         timezone: Africa/Lusaka
     geonamesid: 917524
     name: Copperbelt
-    names_en: ~
+    names_en: 
+      - Copperbelt
     names_es: ~
   - 
     ascii_name: "Central Province"
@@ -874,12 +904,14 @@ regions:
           - "Broken Hill"
           - Kabve
           - Kabwe
+          - Кабве
         ascii_name: Kabwe
         geonamesid: 916095
         latitude: -14.44322
         longitude: 28.45174
         name: Kabwe
-        names_en: ~
+        names_en: 
+          - Kabwe
         names_es: ~
         population: 188979
         timezone: Africa/Lusaka

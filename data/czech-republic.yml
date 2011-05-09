@@ -2,8 +2,12 @@
 geonamesid: 3077311
 iso: CZ
 name: "Czech Republic"
-names_en: ~
-names_es: ~
+names_en: 
+  - Czechia
+  - "Czech Republic"
+names_es: 
+  - Chequia
+  - "República Checa"
 regions: 
   - 
     ascii_name: "Hlavni mesto Praha"
@@ -13,19 +17,23 @@ regions:
           - "%E3%83%97%E3%83%A9%E3%83%8F"
           - Praag
           - Prag
+          - Praga
         ascii_name: Praha
         geonamesid: 3067696
         latitude: 50.08804
         longitude: 14.42076
         name: Praha
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Prague
+        names_es: 
+          - Praga
         population: 1165581
         timezone: Europe/Prague
     geonamesid: 3067695
     name: "Hlavní Mesto Praha"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Praga
   - 
     ascii_name: "South Moravian Region"
     cities: 
@@ -34,12 +42,14 @@ regions:
           - Znaim
           - Znain
           - Znaym
+          - Znoimium
         ascii_name: Znojmo
         geonamesid: 3061344
         latitude: 48.8555
         longitude: 16.0488
         name: Znojmo
-        names_en: ~
+        names_en: 
+          - Znojmo
         names_es: ~
         population: 35280
         timezone: Europe/Prague
@@ -123,6 +133,7 @@ regions:
           - "Bozi Pozehnani"
           - "Boži Požehnání"
           - "Segen Gottes"
+          - "Zastavka u Brna"
         ascii_name: Zastavka
         geonamesid: 3061830
         latitude: 49.188
@@ -162,12 +173,14 @@ regions:
           - Vyshkov
           - Vyskov
           - Vyškov
+          - Wischau
         ascii_name: Vyskov
         geonamesid: 3062283
         latitude: 49.27747
         longitude: 16.99897
         name: Vyškov
-        names_en: ~
+        names_en: 
+          - Vyškov
         names_es: ~
         population: 22265
         timezone: Europe/Prague
@@ -361,12 +374,14 @@ regions:
           - Feldsberg
           - Valtice
           - valtice
+          - vu~aruchitsu~e
         ascii_name: Valtice
         geonamesid: 3063409
         latitude: 48.74069
         longitude: 16.75499
         name: Valtice
-        names_en: ~
+        names_en: 
+          - Valtice
         names_es: ~
         population: 3656
         timezone: Europe/Prague
@@ -561,12 +576,14 @@ regions:
           - Austerlic
           - Austerlitz
           - "Slavkov u Brna"
+          - Slawkow
         ascii_name: "Slavkov u Brna"
         geonamesid: 3065824
         latitude: 49.15325
         longitude: 16.87649
         name: "Slavkov u Brna"
-        names_en: ~
+        names_en: 
+          - "Slavkov u Brna"
         names_es: ~
         population: 5936
         timezone: Europe/Prague
@@ -760,6 +777,7 @@ regions:
           - "Nemecke Prusy"
           - "Německé Prusy"
           - Pustomer
+          - Pustoměř
         ascii_name: Pustimer
         geonamesid: 3067314
         latitude: 49.32251
@@ -1253,7 +1271,8 @@ regions:
         latitude: 48.79992
         longitude: 16.80339
         name: Lednice
-        names_en: ~
+        names_en: 
+          - Lednice
         names_es: ~
         population: 2355
         timezone: Europe/Prague
@@ -1530,12 +1549,14 @@ regions:
           - Goding
           - Godonin
           - Göding
+          - Hodonin
         ascii_name: Hodonin
         geonamesid: 3075654
         latitude: 48.84893
         longitude: 17.13244
         name: Hodonín
-        names_en: ~
+        names_en: 
+          - Hodonín
         names_es: ~
         population: 26345
         timezone: Europe/Prague
@@ -1793,13 +1814,16 @@ regions:
           - Berno
           - Brno
           - Bruenn
+          - Bruna
         ascii_name: Brno
         geonamesid: 3078610
         latitude: 49.19522
         longitude: 16.60796
         name: Brno
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Brno
+        names_es: 
+          - Brno
         population: 369559
         timezone: Europe/Prague
       - 
@@ -1807,6 +1831,7 @@ regions:
           - Bratelsbrunn
           - Pratelsbrunn
           - Pratlsbrun
+          - Prátelsbrunn
         ascii_name: Brezi
         geonamesid: 3078732
         latitude: 48.81928
@@ -1821,12 +1846,14 @@ regions:
           - Breclav
           - Brzheclav
           - Břeclav
+          - Lundenburg
         ascii_name: Breclav
         geonamesid: 3078773
         latitude: 48.75897
         longitude: 16.88203
         name: Břeclav
-        names_en: ~
+        names_en: 
+          - Břeclav
         names_es: ~
         population: 25789
         timezone: Europe/Prague
@@ -1931,7 +1958,8 @@ regions:
         latitude: 49.36304
         longitude: 16.64446
         name: Blansko
-        names_en: ~
+        names_en: 
+          - Blansko
         names_es: ~
         population: 20384
         timezone: Europe/Prague
@@ -1961,8 +1989,10 @@ regions:
         timezone: Europe/Prague
     geonamesid: 3339536
     name: "South Moravian Region"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "South Moravian Region"
+    names_es: 
+      - "Región de Moravia Meridional"
   - 
     ascii_name: "Jihocesky Kraj"
     cities: 
@@ -2082,6 +2112,7 @@ regions:
           - Mezimosti
           - "Mezimosti nad Nezarkou"
           - Mezimostí
+          - "Mezimostí nad Nežárkou"
         ascii_name: "Veseli nad Luznici"
         geonamesid: 3063033
         latitude: 49.1843
@@ -2166,12 +2197,14 @@ regions:
           - Tabor
           - Tábor
           - tabor
+          - taboru
         ascii_name: Tabor
         geonamesid: 3064379
         latitude: 49.41441
         longitude: 14.6578
         name: Tábor
-        names_en: ~
+        names_en: 
+          - Tábor
         names_es: ~
         population: 36264
         timezone: Europe/Prague
@@ -2407,7 +2440,8 @@ regions:
         latitude: 49.3088
         longitude: 14.1475
         name: Písek
-        names_en: ~
+        names_en: 
+          - Písek
         names_es: ~
         population: 29774
         timezone: Europe/Prague
@@ -2416,6 +2450,7 @@ regions:
           - Oporany
           - Opořany
           - Woporan
+          - Wopořan
         ascii_name: Oparany
         geonamesid: 3068950
         latitude: 49.39678
@@ -3009,13 +3044,16 @@ regions:
           - "Boehmisch Krumau"
           - "Böhmisch Krumau"
           - "Ceske Krumlov"
+          - "Cesky Krumlov"
         ascii_name: "Cesky Krumlov"
         geonamesid: 3077889
         latitude: 48.81091
         longitude: 14.31521
         name: "Český Krumlov"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Český Krumlov"
+        names_es: 
+          - "Český Krumlov"
         population: 14146
         timezone: Europe/Prague
       - 
@@ -3034,13 +3072,16 @@ regions:
           - "Boehmisch Budweis"
           - Budejovice
           - Budweis
+          - "Böhmisch Budweis"
         ascii_name: "Ceske Budejovice"
         geonamesid: 3077916
         latitude: 48.97447
         longitude: 14.47434
         name: "České Budějovice"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Budweis
+        names_es: 
+          - "České Budějovice"
         population: 96053
         timezone: Europe/Prague
       - 
@@ -3187,6 +3228,7 @@ regions:
           - "Mesto Zd'ar"
           - "Mesto Zd'ar a Zamek Zd'ar"
           - "Město Žďar"
+          - "Město Žďár"
         ascii_name: "Zd'ar nad Sazavou"
         geonamesid: 3061695
         latitude: 49.56263
@@ -3249,6 +3291,7 @@ regions:
           - Gross-Meseritsch
           - Grossmeseritsch
           - Großmeseritsch
+          - "Velke Mezerici"
         ascii_name: "Velke Mezirici"
         geonamesid: 3063196
         latitude: 49.35522
@@ -3287,12 +3330,14 @@ regions:
           - Trebic
           - Trebitsch
           - Trshebich
+          - Třebíč
         ascii_name: Trebic
         geonamesid: 3064104
         latitude: 49.21492
         longitude: 15.88166
         name: Třebíč
-        names_en: ~
+        names_en: 
+          - Třebíč
         names_es: ~
         population: 38785
         timezone: Europe/Prague
@@ -3604,6 +3649,7 @@ regions:
           - Ledec
           - "Ledec na Sazave"
           - Ledeč
+          - "Ledeč na Sazavé"
         ascii_name: "Ledec nad Sazavou"
         geonamesid: 3072235
         latitude: 49.69517
@@ -3694,12 +3740,14 @@ regions:
           - Iglau
           - Iglawa
           - Igława
+          - Jiglava
         ascii_name: Jihlava
         geonamesid: 3074199
         latitude: 49.3961
         longitude: 15.59124
         name: Jihlava
-        names_en: ~
+        names_en: 
+          - Jihlava
         names_es: ~
         population: 50100
         timezone: Europe/Prague
@@ -3794,12 +3842,14 @@ regions:
           - "Deutsch Brod"
           - Gavlichkuv-Brod
           - "Havlickuv Brod"
+          - "Havlíčkův Brod"
         ascii_name: "Havlickuv Brod"
         geonamesid: 3075919
         latitude: 49.60785
         longitude: 15.58069
         name: "Havlíčkův Brod"
-        names_en: ~
+        names_en: 
+          - "Havlíčkův Brod"
         names_es: ~
         population: 24356
         timezone: Europe/Prague
@@ -3893,6 +3943,7 @@ regions:
           - "Bystrice pod Pernstynem"
           - "Bystritz am Pernstein"
           - Bystritz-ober-Pernstein
+          - "Bystřice pod Pernštýnem"
         ascii_name: "Bystrice nad Pernstejnem"
         geonamesid: 3078288
         latitude: 49.52295
@@ -3988,6 +4039,7 @@ regions:
           - Gross-Sichdichfur
           - Gross-Sichdichfür
           - Siehdichfur
+          - Siehdichfür
         ascii_name: "Velka Hled'sebe"
         geonamesid: 3063261
         latitude: 49.96151
@@ -4026,12 +4078,14 @@ regions:
           - Faiknov
           - Falkenau
           - "Falkenau an der Eger"
+          - Falknov
         ascii_name: Sokolov
         geonamesid: 3065617
         latitude: 50.1813
         longitude: 12.6401
         name: Sokolov
-        names_en: ~
+        names_en: 
+          - Sokolov
         names_es: ~
         population: 24901
         timezone: Europe/Prague
@@ -4153,6 +4207,7 @@ regions:
           - "Meste Tepla"
           - Mesto
           - "Měste Teplá"
+          - Město
         ascii_name: Mesto
         geonamesid: 3070820
         latitude: 49.97997
@@ -4167,6 +4222,7 @@ regions:
           - Merkelsgrun
           - Merkelsgrün
           - "Merklin u Karlovych Var"
+          - "Merklín u Karlových Var"
         ascii_name: Merklin
         geonamesid: 3070844
         latitude: 50.32808
@@ -4181,12 +4237,14 @@ regions:
           - "Marianske Lazne"
           - Marienbad
           - "Mariánské Lázně"
+          - Mariënbad
         ascii_name: "Marianske Lazne"
         geonamesid: 3071024
         latitude: 49.96459
         longitude: 12.70118
         name: "Mariánské Lázně"
-        names_en: ~
+        names_en: 
+          - "Mariánské Lázně"
         names_es: ~
         population: 14277
         timezone: Europe/Prague
@@ -4248,6 +4306,7 @@ regions:
           - Konigsberg
           - "Konigsberg an der Eger"
           - Kynsperk
+          - Königsberg
         ascii_name: "Kynsperk nad Ohri"
         geonamesid: 3072394
         latitude: 50.11893
@@ -4274,6 +4333,7 @@ regions:
           - "Klaster Tepla"
           - "Kloster Tepla"
           - "Klášter Teplá"
+          - "Stift Tepl"
         ascii_name: Klaster
         geonamesid: 3073672
         latitude: 49.96762
@@ -4288,13 +4348,16 @@ regions:
           - Carlsbad
           - "Karl Vary"
           - "Karloby Bary"
+          - "Karlove Vari"
         ascii_name: "Karlovy Vary"
         geonamesid: 3073803
         latitude: 50.23271
         longitude: 12.87117
         name: "Karlovy Vary"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Karlovy Vary"
+        names_es: 
+          - "Karlovy Vary"
         population: 51807
         timezone: Europe/Prague
       - 
@@ -4435,12 +4498,14 @@ regions:
           - Cheb
           - Chebas
           - Eger
+          - Kheb
         ascii_name: Cheb
         geonamesid: 3077835
         latitude: 50.07963
         longitude: 12.37392
         name: Cheb
-        names_en: ~
+        names_en: 
+          - Cheb
         names_es: ~
         population: 33242
         timezone: Europe/Prague
@@ -4517,6 +4582,7 @@ regions:
           - "Dvur Kralove"
           - "Dvŭr Králové"
           - "Koniginhof an der Elbe"
+          - "Königinhof an der Elbe"
         ascii_name: "Dvur Kralove nad Labem"
         geonamesid: 3061284
         latitude: 50.43172
@@ -4571,7 +4637,8 @@ regions:
         latitude: 50.56101
         longitude: 15.9127
         name: Trutnov
-        names_en: ~
+        names_en: 
+          - Trutnov
         names_es: ~
         population: 31398
         timezone: Europe/Prague
@@ -4653,6 +4720,7 @@ regions:
           - Hermannseifen
           - "Hermanovy Sejfy"
           - "Heřmanovy Sejfy"
+          - Scify
         ascii_name: Rudnik
         geonamesid: 3066595
         latitude: 50.59517
@@ -4822,12 +4890,14 @@ regions:
           - Gitschin
           - Jichin
           - Jicin
+          - Jitschin
         ascii_name: Jicin
         geonamesid: 3074204
         latitude: 50.43723
         longitude: 15.35162
         name: Jičín
-        names_en: ~
+        names_en: 
+          - Jičín
         names_es: ~
         population: 16328
         timezone: Europe/Prague
@@ -4847,13 +4917,16 @@ regions:
           - "Chrantek Kralobe"
           - "Gradec Kralove"
           - "Gradets Kralove"
+          - "Hradec Kralove"
         ascii_name: "Hradec Kralove"
         geonamesid: 3074967
         latitude: 50.20923
         longitude: 15.83277
         name: "Hradec Králové"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Hradec Králové"
+        names_es: 
+          - "Hradec Králové"
         population: 95195
         timezone: Europe/Prague
       - 
@@ -5026,12 +5099,14 @@ regions:
           - Spindelmuhle
           - Spindelmühle
           - Spindlermuehle
+          - Spindlermühle
         ascii_name: "Spindleruv Mlyn"
         geonamesid: 3065522
         latitude: 50.72615
         longitude: 15.60944
         name: "Špindlerův Mlýn"
-        names_en: ~
+        names_en: 
+          - "Špindlerův Mlýn"
         names_es: ~
         population: 1302
         timezone: Europe/Prague
@@ -5129,13 +5204,16 @@ regions:
           - Liberec
           - Liberecas
           - Reichenberg
+          - lybyryts
         ascii_name: Liberec
         geonamesid: 3071961
         latitude: 50.76711
         longitude: 15.05619
         name: Liberec
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Liberec
+        names_es: 
+          - Liberec
         population: 97770
         timezone: Europe/Prague
       - 
@@ -5190,12 +5268,14 @@ regions:
           - Gablonz
           - "Gablonz an der Neisse"
           - Jablonec
+          - "Jablonec nad Nisou"
         ascii_name: "Jablonec nad Nisou"
         geonamesid: 3074603
         latitude: 50.72431
         longitude: 15.17108
         name: "Jablonec nad Nisou"
-        names_en: ~
+        names_en: 
+          - "Jablonec nad Nisou"
         names_es: ~
         population: 44878
         timezone: Europe/Prague
@@ -5218,6 +5298,7 @@ regions:
           - Hodkovice
           - Liebenau
           - "Liebenau in Bohmen"
+          - "Liebenau in Böhmen"
         ascii_name: "Hodkovice nad Mohelkou"
         geonamesid: 3075664
         latitude: 50.66586
@@ -5282,12 +5363,14 @@ regions:
           - Boehmisch-Leipa
           - Böhmisch-Leipa
           - "Ceska Lipa"
+          - Cheska-Lipa
         ascii_name: "Ceska Lipa"
         geonamesid: 3077929
         latitude: 50.68551
         longitude: 14.53764
         name: "Česká Lípa"
-        names_en: ~
+        names_en: 
+          - "Česká Lípa"
         names_es: ~
         population: 38841
         timezone: Europe/Prague
@@ -5303,6 +5386,7 @@ regions:
           - Friedeberg
           - Frydberk
           - Frydeberk
+          - Frýdberk
         ascii_name: Zulova
         geonamesid: 3061321
         latitude: 50.30933
@@ -5518,6 +5602,7 @@ regions:
           - Troubek
           - Troubkach
           - "Troubky nad Becvou"
+          - "Troubky nad Bečvou"
         ascii_name: Troubky
         geonamesid: 3063939
         latitude: 49.43215
@@ -5567,6 +5652,7 @@ regions:
           - Maehrisch-Schoenberg
           - Mährisch-Schönberg
           - Shumperk
+          - Шумперк
         ascii_name: Sumperk
         geonamesid: 3064673
         latitude: 49.96528
@@ -5593,6 +5679,7 @@ regions:
           - "Moravsky Sumvald"
           - "Moravský Šumvald"
           - Schonwald
+          - Schönwald
         ascii_name: Strazna
         geonamesid: 3064999
         latitude: 49.83104
@@ -5625,7 +5712,8 @@ regions:
         latitude: 49.73044
         longitude: 17.29889
         name: Šternberk
-        names_en: ~
+        names_en: 
+          - Sternberk
         names_es: ~
         population: 13967
         timezone: Europe/Prague
@@ -5746,6 +5834,7 @@ regions:
           - "Eisenberg an der March"
           - "Eisenberg an der Morava"
           - "Ober Eisenberg"
+          - "Ruda na Morave"
         ascii_name: "Ruda nad Moravou"
         geonamesid: 3066613
         latitude: 49.981
@@ -5819,12 +5908,14 @@ regions:
           - Prosnitz
           - Prossnitz
           - Prostejov
+          - Prostějov
         ascii_name: Prostejov
         geonamesid: 3067421
         latitude: 49.47188
         longitude: 17.11184
         name: Prostějov
-        names_en: ~
+        names_en: 
+          - Prostějov
         names_es: ~
         population: 47374
         timezone: Europe/Prague
@@ -5845,12 +5936,14 @@ regions:
           - Prerau
           - Prerov
           - Přerov
+          - Преров
         ascii_name: Prerov
         geonamesid: 3067580
         latitude: 49.45511
         longitude: 17.4509
         name: Přerov
-        names_en: ~
+        names_en: 
+          - Přerov
         names_es: ~
         population: 47311
         timezone: Europe/Prague
@@ -5919,6 +6012,7 @@ regions:
           - Sandhubel
           - Sandhybl
           - Sandhübel
+          - Sandhýbl
         ascii_name: Pisecna
         geonamesid: 3068298
         latitude: 50.27303
@@ -5995,13 +6089,16 @@ regions:
           - Olmuetz
           - Olmütz
           - Olomouc
+          - Olomouca
         ascii_name: Olomouc
         geonamesid: 3069011
         latitude: 49.59552
         longitude: 17.25175
         name: Olomouc
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Olomouc
+        names_es: 
+          - Olomouc
         population: 101268
         timezone: Europe/Prague
       - 
@@ -6357,6 +6454,7 @@ regions:
           - "Deutsch Liebau"
           - "Horni Libina"
           - "Horní Libina"
+          - Labau
         ascii_name: "Horni Libina"
         geonamesid: 3075319
         latitude: 49.88987
@@ -6505,6 +6603,7 @@ regions:
           - Schonbrunn
           - Schönbrunn
           - Studenky
+          - Studénky
         ascii_name: "Dolni Studenky"
         geonamesid: 3076671
         latitude: 49.93506
@@ -6519,6 +6618,7 @@ regions:
           - "Bohmisch Liebau"
           - "Böhmisch Liebau"
           - "Moravska Libina"
+          - "Moravská Libina"
         ascii_name: "Dolni Libina"
         geonamesid: 3076794
         latitude: 49.85821
@@ -6698,13 +6798,16 @@ regions:
           - Ostraba
           - Ostrava
           - Ostrawa
+          - "ao si te la wa"
         ascii_name: Ostrava
         geonamesid: 3068799
         latitude: 49.83465
         longitude: 18.28204
         name: Ostrava
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ostrava
+        names_es: 
+          - Ostrava
         population: 313088
         timezone: Europe/Prague
       - 
@@ -6712,13 +6815,16 @@ regions:
           - Opava
           - Opawa
           - Oppavia
+          - Troppau
         ascii_name: Opava
         geonamesid: 3068927
         latitude: 49.93866
         longitude: 17.90257
         name: Opava
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Opava
+        names_es: 
+          - Opava
         population: 60252
         timezone: Europe/Prague
       - 
@@ -6726,12 +6832,14 @@ regions:
           - Neutitschein
           - Novi-Jichin
           - "Novy Jicin"
+          - "Nový Jičín"
         ascii_name: "Novy Jicin"
         geonamesid: 3069305
         latitude: 49.59438
         longitude: 18.01028
         name: "Nový Jičín"
-        names_en: ~
+        names_en: 
+          - "Nový Jičín"
         names_es: ~
         population: 26547
         timezone: Europe/Prague
@@ -6752,6 +6860,7 @@ regions:
           - Freistadt
           - Frystat
           - Frysztat
+          - Fryštát
         ascii_name: Karvina
         geonamesid: 3073789
         latitude: 49.854
@@ -6779,6 +6888,7 @@ regions:
           - Friedeck
           - Friedek
           - Frydek
+          - Frydek-Mistek
         ascii_name: Frydek-Mistek
         geonamesid: 3076127
         latitude: 49.68333
@@ -6878,7 +6988,8 @@ regions:
         latitude: 49.75594
         longitude: 16.46829
         name: Svitavy
-        names_en: ~
+        names_en: 
+          - Svitavy
         names_es: ~
         population: 17427
         timezone: Europe/Prague
@@ -6994,6 +7105,7 @@ regions:
           - "Bohmisch Rothmuhl"
           - "Böhmisch Rothmühl"
           - "Ceska Radimer"
+          - "Mahrisch Rothmuhl"
         ascii_name: Radimer
         geonamesid: 3067204
         latitude: 49.6985
@@ -7067,13 +7179,16 @@ regions:
           - Pardubice
           - Pardubitz
           - Parntoumpitse
+          - Παρντουμπίτσε
         ascii_name: Pardubice
         geonamesid: 3068582
         latitude: 50.04075
         longitude: 15.77659
         name: Pardubice
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pardubice
+        names_es: 
+          - Pardubice
         population: 88741
         timezone: Europe/Prague
       - 
@@ -7165,6 +7280,7 @@ regions:
           - "Markt Turnau"
           - "Markt Türnau"
           - Trnavka
+          - Trnávka
         ascii_name: "Mestecko Trnavka"
         geonamesid: 3070823
         latitude: 49.70926
@@ -7206,7 +7322,8 @@ regions:
         latitude: 49.86809
         longitude: 16.31298
         name: Litomyšl
-        names_en: ~
+        names_en: 
+          - Litomyšl
         names_es: ~
         population: 10146
         timezone: Europe/Prague
@@ -7215,6 +7332,7 @@ regions:
           - Geiersberg
           - Kysperk
           - Kyšperk
+          - "Supi Hora"
         ascii_name: Letohrad
         geonamesid: 3072134
         latitude: 50.0358
@@ -7352,6 +7470,7 @@ regions:
           - Graendorf
           - Grandorf
           - Greifendorf
+          - Grándorf
         ascii_name: "Hradec nad Svitavou"
         geonamesid: 3074961
         latitude: 49.71143
@@ -7462,6 +7581,7 @@ regions:
           - Roven
           - Roveň
           - Rowen
+          - Roweň
         ascii_name: "Dolni Roven"
         geonamesid: 3076701
         latitude: 50.02927
@@ -7660,6 +7780,7 @@ regions:
           - Brezova
           - Brusau
           - Brüsau
+          - Březová
         ascii_name: "Brezova nad Svitavou"
         geonamesid: 3078659
         latitude: 49.64418
@@ -7716,6 +7837,7 @@ regions:
           - Eisenstein
           - "Eisenstein Markt"
           - "Markt Eisenstein"
+          - "Mestys Zelezna Ruda"
         ascii_name: "Zelezna Ruda"
         geonamesid: 3061567
         latitude: 49.13743
@@ -7802,13 +7924,16 @@ regions:
           - Reichental
           - Tachau
           - Tachoph
+          - Tachov
         ascii_name: Tachov
         geonamesid: 3064373
         latitude: 49.79528
         longitude: 12.63365
         name: Tachov
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tachov
+        names_es: 
+          - Tachov
         population: 12640
         timezone: Europe/Prague
       - 
@@ -7926,6 +8051,7 @@ regions:
           - "Mestys Stankov"
           - "Městys Staňkov"
           - Stankau
+          - "Ves Stankov"
         ascii_name: Stankov
         geonamesid: 3065439
         latitude: 49.55348
@@ -8039,13 +8165,17 @@ regions:
           - Pilsen
           - Pilsna
           - Pilzen
+          - Pilzenas
         ascii_name: Plzen
         geonamesid: 3068160
         latitude: 49.74747
         longitude: 13.37759
         name: Plzeň
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pilsen
+          - Plzeň
+        names_es: 
+          - Plzeň
         population: 164180
         timezone: Europe/Prague
       - 
@@ -8868,6 +8998,7 @@ regions:
           - Zajecow
           - Zaječow
           - Zajicov
+          - Zajícov
         ascii_name: Zajecov
         geonamesid: 3061970
         latitude: 49.77435
@@ -9407,6 +9538,7 @@ regions:
           - Rozdalowitz
           - Rozdd'alovice
           - Roždálowitz
+          - Roždďalovice
         ascii_name: Rozd'alovice
         geonamesid: 3066680
         latitude: 50.30476
@@ -9516,12 +9648,14 @@ regions:
           - Pribram
           - Prshibram
           - Prsibram
+          - Příbram
         ascii_name: Pribram
         geonamesid: 3067542
         latitude: 49.68988
         longitude: 14.01043
         name: Příbram
-        names_en: ~
+        names_en: 
+          - Příbram
         names_es: ~
         population: 35251
         timezone: Europe/Prague
@@ -9530,6 +9664,7 @@ regions:
           - Alt-Prerow
           - Alt-Přerow
           - Neu-Prerow
+          - Neu-Přerow
         ascii_name: "Prerov nad Labem"
         geonamesid: 3067577
         latitude: 50.16027
@@ -9705,6 +9840,7 @@ regions:
           - Neuenberg
           - Nimburg
           - Nimburk
+          - Нимбурк
         ascii_name: Nymburk
         geonamesid: 3069236
         latitude: 50.18605
@@ -9867,12 +10003,14 @@ regions:
           - "Mnichovo Hradiste"
           - "Mnichovo Hradiště"
           - "Mnikhovo Gradishte"
+          - Muenchengraetz
         ascii_name: "Mnichovo Hradiste"
         geonamesid: 3070451
         latitude: 50.5272
         longitude: 14.97134
         name: "Mnichovo Hradiště"
-        names_en: ~
+        names_en: 
+          - "Mnichovo Hradiště"
         names_es: ~
         population: 8368
         timezone: Europe/Prague
@@ -9893,12 +10031,14 @@ regions:
           - Jungbunzlau
           - "Mlada Boleslav"
           - "Mlada Boleslaz"
+          - Mlada-Boleslav
         ascii_name: "Mlada Boleslav"
         geonamesid: 3070544
         latitude: 50.41135
         longitude: 14.90318
         name: "Mladá Boleslav"
-        names_en: ~
+        names_en: 
+          - "Mladá Boleslav"
         names_es: ~
         population: 43684
         timezone: Europe/Prague
@@ -9954,12 +10094,14 @@ regions:
           - Mel'nik
           - Melnik
           - Mělník
+          - mlnyk
         ascii_name: Melnik
         geonamesid: 3070862
         latitude: 50.3505
         longitude: 14.47411
         name: Mělník
-        names_en: ~
+        names_en: 
+          - Mělník
         names_es: ~
         population: 19231
         timezone: Europe/Prague
@@ -10128,12 +10270,14 @@ regions:
           - "Kutna Hora"
           - Kutna-Gora
           - "Kutná Hora"
+          - Kuttenberg
         ascii_name: "Kutna Hora"
         geonamesid: 3072463
         latitude: 49.94839
         longitude: 15.26816
         name: "Kutná Hora"
-        names_en: ~
+        names_en: 
+          - "Kutná Hora"
         names_es: ~
         population: 21280
         timezone: Europe/Prague
@@ -10155,6 +10299,7 @@ regions:
           - "Krasna Hora"
           - "Krásná Hora"
           - Schonberg
+          - Schönberg
         ascii_name: "Krasna Hora nad Vltavou"
         geonamesid: 3072894
         latitude: 49.60461
@@ -10169,12 +10314,14 @@ regions:
           - Konigshof
           - "Kraluv Dvur"
           - "Králův Dvůr"
+          - Königshof
         ascii_name: "Kraluv Dvur"
         geonamesid: 3072927
         latitude: 49.94981
         longitude: 14.03445
         name: "Králův Dvůr"
-        names_en: ~
+        names_en: 
+          - "Kraluv Dvur"
         names_es: ~
         population: 5805
         timezone: Europe/Prague
@@ -10268,12 +10415,14 @@ regions:
           - "Koeln an der Elbe"
           - Kolin
           - Kolín
+          - "Köln an der Elbe"
         ascii_name: Kolin
         geonamesid: 3073371
         latitude: 50.02814
         longitude: 15.20057
         name: Kolín
-        names_en: ~
+        names_en: 
+          - Kolín
         names_es: ~
         population: 29690
         timezone: Europe/Prague
@@ -10318,12 +10467,14 @@ regions:
           - Kladno
           - Klantno
           - Κλάντνο
+          - Кладно
         ascii_name: Kladno
         geonamesid: 3073699
         latitude: 50.14734
         longitude: 14.10285
         name: Kladno
-        names_en: ~
+        names_en: 
+          - Kladno
         names_es: ~
         population: 70003
         timezone: Europe/Prague
@@ -10781,6 +10932,7 @@ regions:
           - Celakowitz
           - Celakoyice
           - Cellakovice
+          - Čelakowitz
         ascii_name: Celakovice
         geonamesid: 3078160
         latitude: 50.16038
@@ -10920,7 +11072,8 @@ regions:
         latitude: 49.78162
         longitude: 14.68697
         name: Benešov
-        names_en: ~
+        names_en: 
+          - Benešov
         names_es: ~
         population: 16257
         timezone: Europe/Prague
@@ -10929,6 +11082,7 @@ regions:
           - Benatky
           - Benátky
           - "Neu Benatek"
+          - "Nove Benatky"
         ascii_name: "Benatky nad Jizerou"
         geonamesid: 3079514
         latitude: 50.29085
@@ -10989,12 +11143,14 @@ regions:
           - Saaz
           - Zatec
           - Zhatec
+          - jatetsu
         ascii_name: Zatec
         geonamesid: 3061822
         latitude: 50.32717
         longitude: 13.54577
         name: Žatec
-        names_en: ~
+        names_en: 
+          - Žatec
         names_es: ~
         population: 19607
         timezone: Europe/Prague
@@ -11054,6 +11210,7 @@ regions:
           - "Gross Schonau in Bohmen"
           - "Gross Schönau in Böhmen"
           - Gross-Schonau
+          - Gross-Schönau
         ascii_name: "Velky Senov"
         geonamesid: 3063131
         latitude: 50.99078
@@ -11116,13 +11273,16 @@ regions:
           - Aussig
           - "Aussig an der Elbe"
           - Auszig
+          - Usti
         ascii_name: "Usti nad Labem"
         geonamesid: 3063548
         latitude: 50.6607
         longitude: 14.03227
         name: "Ústí nad Labem"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Ústí nad Labem"
+        names_es: 
+          - "Ústí nad Labem"
         population: 94105
         timezone: Europe/Prague
       - 
@@ -11179,12 +11339,14 @@ regions:
           - Terezin
           - Terezín
           - Theresienstadt
+          - telejin
         ascii_name: Terezin
         geonamesid: 3064268
         latitude: 50.511
         longitude: 14.15055
         name: Terezín
-        names_en: ~
+        names_en: 
+          - Terezín
         names_es: ~
         population: 2992
         timezone: Europe/Prague
@@ -11193,13 +11355,16 @@ regions:
           - Teplice
           - Teplice-Sanov
           - Teplice-Šanov
+          - Teplitz
         ascii_name: Teplice
         geonamesid: 3064288
         latitude: 50.6404
         longitude: 13.82451
         name: Teplice
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Teplice
+        names_es: 
+          - Teplice
         population: 51223
         timezone: Europe/Prague
       - 
@@ -11306,6 +11471,7 @@ regions:
           - Pomerle
           - Pommerle
           - Pömerle
+          - Pömmerle
         ascii_name: Povrly
         geonamesid: 3067733
         latitude: 50.67276
@@ -11416,12 +11582,14 @@ regions:
           - Bruex
           - Brüx
           - Most
+          - Мост
         ascii_name: Most
         geonamesid: 3070291
         latitude: 50.50301
         longitude: 13.63617
         name: Most
-        names_en: ~
+        names_en: 
+          - Most
         names_es: ~
         population: 67905
         timezone: Europe/Prague
@@ -11496,7 +11664,8 @@ regions:
         latitude: 50.35699
         longitude: 13.79667
         name: Louny
-        names_en: ~
+        names_en: 
+          - Louny
         names_es: ~
         population: 19147
         timezone: Europe/Prague
@@ -11518,6 +11687,7 @@ regions:
           - Litvinov
           - Litvínov
           - Oberleutensdorf
+          - Литвинов
         ascii_name: Litvinov
         geonamesid: 3071665
         latitude: 50.6042
@@ -11532,12 +11702,14 @@ regions:
           - Leitmeritz
           - Litomerice
           - Litomerzhice
+          - Litoměřice
         ascii_name: Litomerice
         geonamesid: 3071677
         latitude: 50.53348
         longitude: 14.1318
         name: Litoměřice
-        names_en: ~
+        names_en: 
+          - Litoměřice
         names_es: ~
         population: 24489
         timezone: Europe/Prague
@@ -11631,6 +11803,7 @@ regions:
           - Schonlind
           - Schonlinde
           - Schönlind
+          - Schönlinde
         ascii_name: "Krasna Lipa"
         geonamesid: 3072889
         latitude: 50.91303
@@ -11781,12 +11954,14 @@ regions:
           - Duchcov
           - Dux
           - do~ufutsu~ofu
+          - ドゥフツォフ
         ascii_name: Duchcov
         geonamesid: 3076311
         latitude: 50.60376
         longitude: 13.74621
         name: Duchcov
-        names_en: ~
+        names_en: 
+          - Duchcov
         names_es: ~
         population: 8937
         timezone: Europe/Prague
@@ -11845,12 +12020,14 @@ regions:
           - Dechin
           - Decin
           - Decinas
+          - Dečinas
         ascii_name: Decin
         geonamesid: 3077244
         latitude: 50.78215
         longitude: 14.21478
         name: Děčín
-        names_en: ~
+        names_en: 
+          - Děčín
         names_es: ~
         population: 52058
         timezone: Europe/Prague
@@ -11883,12 +12060,14 @@ regions:
           - Chomutov
           - Khomutov
           - Komotau
+          - homutofu
         ascii_name: Chomutov
         geonamesid: 3077685
         latitude: 50.46048
         longitude: 13.41779
         name: Chomutov
-        names_en: ~
+        names_en: 
+          - Chomutov
         names_es: ~
         population: 50251
         timezone: Europe/Prague
@@ -12081,6 +12260,7 @@ regions:
           - Gottvoldov
           - Gottwald
           - Gottwaldov
+          - Zlin
         ascii_name: Zlin
         geonamesid: 3061370
         latitude: 49.21667
@@ -12154,6 +12334,7 @@ regions:
           - Vsetin
           - Wsetin
           - Wszetyn
+          - Всетин
         ascii_name: Vsetin
         geonamesid: 3062339
         latitude: 49.33871
@@ -12253,6 +12434,7 @@ regions:
           - Mezirzhichi
           - "Walachison Mesiritsch"
           - "Wallachisch Meseritsch"
+          - Мезиржичи
         ascii_name: "Valasske Mezirici"
         geonamesid: 3063447
         latitude: 49.47181
@@ -12340,13 +12522,16 @@ regions:
           - Gradishte
           - Magyarhradis
           - "Uherske Hradiste"
+          - "Uherské Hradiště"
         ascii_name: "Uherske Hradiste"
         geonamesid: 3063739
         latitude: 49.06975
         longitude: 17.45969
         name: "Uherské Hradiště"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Uherské Hradiště"
+        names_es: 
+          - "Uherské Hradiště"
         population: 26421
         timezone: Europe/Prague
       - 
@@ -12506,6 +12691,7 @@ regions:
           - Mladotitz
           - Slavicin-Mladotice
           - Slavičín-Mladotice
+          - Slawitschin
         ascii_name: Slavicin
         geonamesid: 3065843
         latitude: 49.08799
@@ -12618,6 +12804,7 @@ regions:
           - Bahnak
           - Bahňák
           - Otrokovice
+          - Otrokovice-Kvitkovice
         ascii_name: Otrokovice
         geonamesid: 3068689
         latitude: 49.21667
@@ -12788,6 +12975,7 @@ regions:
           - Lesne
           - Lešne
           - Loschna
+          - Löschna
         ascii_name: Lesna
         geonamesid: 3072184
         latitude: 49.52055
@@ -12826,12 +13014,14 @@ regions:
           - Kremsier
           - Kromeriz
           - Kromerizas
+          - Kromerižas
         ascii_name: Kromeriz
         geonamesid: 3072649
         latitude: 49.29785
         longitude: 17.39312
         name: Kroměříž
-        names_en: ~
+        names_en: 
+          - Kroměříž
         names_es: ~
         population: 29126
         timezone: Europe/Prague

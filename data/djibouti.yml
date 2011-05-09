@@ -2,8 +2,12 @@
 geonamesid: 223816
 iso: DJ
 name: Djibouti
-names_en: ~
-names_es: ~
+names_en: 
+  - Djibouti
+  - "Republic of Djibouti"
+names_es: 
+  - Yibuti
+  - Djibuti
 regions: 
   - 
     ascii_name: "Region de Tadjourah"
@@ -13,13 +17,16 @@ regions:
           - Tadjoura
           - Tadjura
           - Tadzhura
+          - Tadzura
         ascii_name: Tadjoura
         geonamesid: 220782
         latitude: 11.78528
         longitude: 42.88444
         name: Tadjoura
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tadjoura
+        names_es: 
+          - Tadjoura
         population: 22193
         timezone: Africa/Djibouti
       - 
@@ -50,8 +57,10 @@ regions:
         latitude: 11.96306
         longitude: 43.29056
         name: Obock
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Obock
+        names_es: 
+          - Obock
         population: 17776
         timezone: Africa/Djibouti
       - 
@@ -59,6 +68,7 @@ regions:
           - "Alaili Dadda`"
           - "Alayli Dadda`"
           - "Alayli Ḏaḏḏa‘"
+          - "Alaïli Ḏaḏḏa‘"
         ascii_name: "Alaili Dadda`"
         geonamesid: 400462
         latitude: 12.42167
@@ -80,6 +90,7 @@ regions:
           - La-waada
           - "Loya Ada"
           - Loyada
+          - "Loyi Ada"
         ascii_name: Loyada
         geonamesid: 221915
         latitude: 11.46111
@@ -94,13 +105,16 @@ regions:
           - Cibuti
           - Djibouti
           - Djibuti
+          - Dschibuti
         ascii_name: Djibouti
         geonamesid: 223817
         latitude: 11.58767
         longitude: 43.14468
         name: Djibouti
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Djibouti
+        names_es: 
+          - Yibuti
         population: 623891
         timezone: Africa/Djibouti
     geonamesid: 223818
@@ -115,12 +129,14 @@ regions:
           - Dicchil
           - Dikhil
           - Dikil
+          - Dikkil
         ascii_name: Dikhil
         geonamesid: 223890
         latitude: 11.10861
         longitude: 42.37389
         name: Dikhil
-        names_en: ~
+        names_en: 
+          - Dikhil
         names_es: ~
         population: 12043
         timezone: Africa/Djibouti
@@ -161,12 +177,14 @@ regions:
           - "Ali Sabie"
           - "Ali Sabiet"
           - "Ali Sabih"
+          - "Ali Sabiè"
         ascii_name: "`Ali Sabieh"
         geonamesid: 225284
         latitude: 11.15583
         longitude: 42.7125
         name: "‘Ali Sabieh"
-        names_en: ~
+        names_en: 
+          - "Ali Sabih"
         names_es: ~
         population: 40074
         timezone: Africa/Djibouti
@@ -187,7 +205,8 @@ regions:
         latitude: 11.52222
         longitude: 42.84194
         name: ‘Arta
-        names_en: ~
+        names_en: 
+          - Arta
         names_es: ~
         population: 6025
         timezone: Africa/Djibouti

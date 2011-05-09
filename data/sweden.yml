@@ -2,8 +2,11 @@
 geonamesid: 2661886
 iso: SE
 name: Sweden
-names_en: ~
-names_es: ~
+names_en: 
+  - Sweden
+  - "Kingdom of Sweden"
+names_es: 
+  - Suecia
 regions: 
   - 
     ascii_name: Norrbotten
@@ -13,6 +16,7 @@ regions:
           - Toere
           - Tore
           - Töre
+          - Tøre
         ascii_name: Toere
         geonamesid: 602261
         latitude: 65.91243
@@ -27,6 +31,7 @@ regions:
           - "Sodra Sunderbyn"
           - "Soedra Sunderbyn"
           - Sunderbyn
+          - "Södra Sunderbyn"
         ascii_name: "Sodra Sunderbyn"
         geonamesid: 602804
         latitude: 65.65983
@@ -96,12 +101,14 @@ regions:
           - Piitime
           - Pitea
           - Pitejas
+          - Piteo
         ascii_name: Pitea
         geonamesid: 603570
         latitude: 65.31717
         longitude: 21.47944
         name: Piteå
-        names_en: ~
+        names_en: 
+          - Piteå
         names_es: ~
         population: 22044
         timezone: Europe/Stockholm
@@ -113,7 +120,8 @@ regions:
         latitude: 67.21284
         longitude: 23.36607
         name: Pajala
-        names_en: ~
+        names_en: 
+          - Pajala
         names_es: ~
         population: 1985
         timezone: Europe/Stockholm
@@ -122,6 +130,7 @@ regions:
           - Matarenki
           - OEvertornea
           - "Ofer Torne"
+          - "Ofver Tornea"
         ascii_name: OEvertornea
         geonamesid: 603814
         latitude: 66.38778
@@ -147,12 +156,14 @@ regions:
           - Mal'mberge
           - Mal'mberger
           - Malmberget
+          - Мальмберге
         ascii_name: Malmberget
         geonamesid: 604419
         latitude: 67.17529
         longitude: 20.65495
         name: Malmberget
-        names_en: ~
+        names_en: 
+          - Malmberget
         names_es: ~
         population: 6017
         timezone: Europe/Stockholm
@@ -161,13 +172,16 @@ regions:
           - Lulea
           - Luleju
           - Luleo
+          - Luleå
         ascii_name: Lulea
         geonamesid: 604490
         latitude: 65.58415
         longitude: 22.15465
         name: Luleå
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Luleå
+        names_es: 
+          - Luleå
         population: 45551
         timezone: Europe/Stockholm
       - 
@@ -175,6 +189,7 @@ regions:
           - Giron
           - Kiiruna
           - Kiruna
+          - Кируна
         ascii_name: Kiruna
         geonamesid: 605155
         latitude: 67.85572
@@ -213,12 +228,14 @@ regions:
           - Haaparanta
           - Haparanda
           - KHAPARANDA
+          - ХАПАРАНДА
         ascii_name: Haparanda
         geonamesid: 605859
         latitude: 65.83549
         longitude: 24.13676
         name: Haparanda
-        names_en: ~
+        names_en: 
+          - Haparanda
         names_es: ~
         population: 4778
         timezone: Europe/Stockholm
@@ -240,12 +257,14 @@ regions:
           - Ellivare
           - Gaellivare
           - Gällivare
+          - Jaellivaara
         ascii_name: Gaellivare
         geonamesid: 606086
         latitude: 67.13387
         longitude: 20.65278
         name: Gällivare
-        names_en: ~
+        names_en: 
+          - Gällivare
         names_es: ~
         population: 8480
         timezone: Europe/Stockholm
@@ -301,6 +320,7 @@ regions:
           - Jahkamahkke
           - Jockmock
           - Jokimukka
+          - Jokkinokk
         ascii_name: Jokkmokk
         geonamesid: 2702997
         latitude: 66.60665
@@ -334,7 +354,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 604010
     name: Norrbotten
-    names_en: ~
+    names_en: 
+      - "Norrbotten County"
+      - Norrbotten
     names_es: ~
   - 
     ascii_name: Vaestmanland
@@ -344,12 +366,14 @@ regions:
           - Arosia
           - Vaesteras
           - Vesteros
+          - Vesterosa
         ascii_name: Vasteras
         geonamesid: 2664454
         latitude: 59.61617
         longitude: 16.55276
         name: Västerås
-        names_en: ~
+        names_en: 
+          - Västerås
         names_es: ~
         population: 107194
         timezone: Europe/Stockholm
@@ -447,6 +471,7 @@ regions:
           - Kungsoer
           - Kungsor
           - Kungsör
+          - Kungsør
         ascii_name: Kungsoer
         geonamesid: 2698681
         latitude: 59.42245
@@ -461,6 +486,7 @@ regions:
           - Koeping
           - Koping
           - Köping
+          - Køping
         ascii_name: Koping
         geonamesid: 2699791
         latitude: 59.51404
@@ -497,6 +523,7 @@ regions:
           - Hockasen
           - Hoekasen
           - Hokasen
+          - Höckåsen
         ascii_name: Hokasen
         geonamesid: 2705562
         latitude: 59.66667
@@ -537,13 +564,16 @@ regions:
         latitude: 59.39387
         longitude: 15.83882
         name: Arboga
-        names_en: ~
+        names_en: 
+          - Arboga
         names_es: ~
         population: 10369
         timezone: Europe/Stockholm
     geonamesid: 2664179
     name: Västmanland
-    names_en: ~
+    names_en: 
+      - "Västmanland County"
+      - Västmanland
     names_es: ~
   - 
     ascii_name: Vaesternorrland
@@ -582,8 +612,10 @@ regions:
         latitude: 62.39129
         longitude: 17.3063
         name: Sundsvall
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sundsvall
+        names_es: 
+          - Sundsvall
         population: 48463
         timezone: Europe/Stockholm
       - 
@@ -617,6 +649,7 @@ regions:
           - Soeraker
           - Soraker
           - Söråker
+          - Søråker
         ascii_name: Soraker
         geonamesid: 2675280
         latitude: 62.505
@@ -655,6 +688,7 @@ regions:
           - OErnskoeldsvik
           - Ornskoldsvik
           - Örnsköldsvik
+          - Ørnskøldsvik
         ascii_name: Ornskoldsvik
         geonamesid: 2686469
         latitude: 63.29091
@@ -740,6 +774,7 @@ regions:
           - Koepmanholmen
           - Kopmanholmen
           - Kopmansholmen
+          - Köpmanholmen
         ascii_name: Kopmanholmen
         geonamesid: 2699777
         latitude: 63.16667
@@ -777,12 +812,14 @@ regions:
           - Haernoesand
           - Hernosand
           - Hernösand
+          - Härnösand
         ascii_name: Harnosand
         geonamesid: 2707684
         latitude: 62.63228
         longitude: 17.93794
         name: Härnösand
-        names_en: ~
+        names_en: 
+          - Härnösand
         names_es: ~
         population: 17016
         timezone: Europe/Stockholm
@@ -867,7 +904,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2664292
     name: Västernorrland
-    names_en: ~
+    names_en: 
+      - "Västernorrland County"
+      - Västernorrland
     names_es: ~
   - 
     ascii_name: Vaesterbotten
@@ -900,13 +939,16 @@ regions:
           - Owmeo
           - Umea
           - Umeo
+          - Umeå
         ascii_name: Umea
         geonamesid: 602150
         latitude: 63.82842
         longitude: 20.25972
         name: Umeå
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Umeå
+        names_es: 
+          - Umeå
         population: 74005
         timezone: Europe/Stockholm
       - 
@@ -914,6 +956,7 @@ regions:
           - Taftea
           - Teftea
           - Tefteå
+          - Täfteå
         ascii_name: Taftea
         geonamesid: 602426
         latitude: 63.83333
@@ -953,12 +996,14 @@ regions:
           - Heletti
           - Shelefteo
           - Shellefteo
+          - Skelleftea
         ascii_name: Skelleftea
         geonamesid: 602913
         latitude: 64.75067
         longitude: 20.95279
         name: Skellefteå
-        names_en: ~
+        names_en: 
+          - Skellefteå
         names_es: ~
         population: 30839
         timezone: Europe/Stockholm
@@ -989,6 +1034,7 @@ regions:
           - Robacksby
           - Rodback
           - Röbäcksby
+          - Rödbäck
         ascii_name: Roback
         geonamesid: 603304
         latitude: 63.81159
@@ -1198,8 +1244,10 @@ regions:
         latitude: 65.53484
         longitude: 17.53702
         name: Sorsele
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sorsele
+        names_es: 
+          - Sorsele
         population: 1288
         timezone: Europe/Stockholm
       - 
@@ -1207,6 +1255,7 @@ regions:
           - Soderfors
           - Soederfors
           - Söderfors
+          - Søderfors
         ascii_name: Soderfors
         geonamesid: 2676238
         latitude: 64.81667
@@ -1221,6 +1270,7 @@ regions:
           - Sjoberg
           - Sjoeberg
           - Sjöberg
+          - Sjøberg
         ascii_name: Sjoberg
         geonamesid: 2678926
         latitude: 64.83333
@@ -1235,6 +1285,7 @@ regions:
           - Naarene
           - Norsjo
           - Norsjoe
+          - Norsjö
         ascii_name: Norsjoe
         geonamesid: 2688172
         latitude: 64.91206
@@ -1260,6 +1311,7 @@ regions:
           - Mullsjo
           - Mullsjoe
           - Mullsjö
+          - Mullsjø
         ascii_name: Mullsjo
         geonamesid: 2690901
         latitude: 63.7
@@ -1297,6 +1349,7 @@ regions:
           - Insjo
           - Insjoen
           - Insjon
+          - Insjö
         ascii_name: Insjon
         geonamesid: 2703546
         latitude: 64.4
@@ -1311,6 +1364,7 @@ regions:
           - Hoernefors
           - Hornefors
           - Hörnefors
+          - Hørnefors
         ascii_name: Hoernefors
         geonamesid: 2704956
         latitude: 63.62312
@@ -1336,6 +1390,7 @@ regions:
           - Bergvattnet
           - Doeoerte
           - Dorotea
+          - Döörte
         ascii_name: Dorotea
         geonamesid: 2717401
         latitude: 64.26185
@@ -1361,7 +1416,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2664415
     name: Västerbotten
-    names_en: ~
+    names_en: 
+      - "Västerbotten County"
+      - Västerbotten
     names_es: ~
   - 
     ascii_name: Vaermland
@@ -1393,6 +1450,7 @@ regions:
           - Tocksfors
           - Toecksfors
           - Töcksfors
+          - Tøcksfors
         ascii_name: Toecksfors
         geonamesid: 2668552
         latitude: 59.50816
@@ -1497,6 +1555,7 @@ regions:
           - Lesjoefors
           - Lesjofors
           - Lesjöfors
+          - Lesjøfors
         ascii_name: Lesjofors
         geonamesid: 2696479
         latitude: 59.98333
@@ -1535,13 +1594,16 @@ regions:
           - Carolostadium
           - Karlctad
           - Karlstad
+          - Karlstadas
         ascii_name: Karlstad
         geonamesid: 2701680
         latitude: 59.3793
         longitude: 13.50357
         name: Karlstad
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Karlstad
+        names_es: 
+          - Karlstad
         population: 59266
         timezone: Europe/Stockholm
       - 
@@ -1638,6 +1700,7 @@ regions:
           - Bjoerneborg
           - Bjorneborg
           - Bjorneborgs
+          - "Bjorneborgs bruk"
         ascii_name: Bjorneborg
         geonamesid: 2721828
         latitude: 59.25
@@ -1665,6 +1728,7 @@ regions:
           - Arjange
           - Arjeng
           - Årjeng
+          - Årjänge
         ascii_name: Arjaeng
         geonamesid: 2725379
         latitude: 59.39217
@@ -1679,6 +1743,7 @@ regions:
           - Amot
           - Amotfors
           - Amotsfors
+          - Åmot
         ascii_name: Amotfors
         geonamesid: 2726163
         latitude: 59.76667
@@ -1690,7 +1755,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2664870
     name: Värmland
-    names_en: ~
+    names_en: 
+      - "Värmland County"
+      - Värmland
     names_es: ~
   - 
     ascii_name: Uppsala
@@ -1722,6 +1789,7 @@ regions:
           - Bjoerklinge
           - Bjorklinge
           - Björklinge
+          - Bjørklinge
         ascii_name: Bjorklinge
         geonamesid: 2599415
         latitude: 60.25
@@ -1758,13 +1826,16 @@ regions:
           - Uppsala
           - Uppsalir
           - Upsala
+          - Upsalia
         ascii_name: Uppsala
         geonamesid: 2666199
         latitude: 59.8585
         longitude: 17.64543
         name: Uppsala
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Uppsala
+        names_es: 
+          - Uppsala
         population: 127734
         timezone: Europe/Stockholm
       - 
@@ -1842,6 +1913,7 @@ regions:
           - OEsthammar
           - Osthammar
           - Östhammar
+          - Østhammar
         ascii_name: OEsthammar
         geonamesid: 2685699
         latitude: 60.25909
@@ -1856,6 +1928,7 @@ regions:
           - OEstervala
           - Ostervala
           - Östervåla
+          - Østervåla
         ascii_name: OEstervala
         geonamesid: 2685724
         latitude: 60.18333
@@ -1870,6 +1943,7 @@ regions:
           - OEsterbybruk
           - Osterbybruk
           - Österbybruk
+          - Østerbybruk
         ascii_name: Osterbybruk
         geonamesid: 2685903
         latitude: 60.2
@@ -1884,6 +1958,7 @@ regions:
           - OErsundsbro
           - Orsundsbro
           - Orundsbro
+          - Örsundsbro
         ascii_name: Orsundsbro
         geonamesid: 2686286
         latitude: 59.73333
@@ -1898,6 +1973,7 @@ regions:
           - OEregrund
           - Oregrund
           - Öregrund
+          - Øregrund
         ascii_name: Oregrund
         geonamesid: 2686649
         latitude: 60.33333
@@ -1912,6 +1988,7 @@ regions:
           - OErbyhus
           - Orbyhus
           - Örbyhus
+          - Ørbyhus
         ascii_name: Orbyhus
         geonamesid: 2686674
         latitude: 60.23333
@@ -2005,6 +2082,7 @@ regions:
           - Enkoeping
           - Enkoping
           - Enköping
+          - Enkøping
         ascii_name: Enkoping
         geonamesid: 2716166
         latitude: 59.63607
@@ -2060,7 +2138,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2666218
     name: Uppsala
-    names_en: ~
+    names_en: 
+      - "Uppsala County"
+      - Uppsala
     names_es: ~
   - 
     ascii_name: Stockholm
@@ -2115,6 +2195,7 @@ regions:
           - "Uplands Vasby"
           - "Uplands Väsby"
           - Vasby
+          - "Vasby Villastad"
         ascii_name: "Upplands Vaesby"
         geonamesid: 2666238
         latitude: 59.51839
@@ -2165,13 +2246,16 @@ regions:
           - Estocolm
           - Estocolme
           - Estocolmo
+          - "Estocolmo - Stockholm"
         ascii_name: Stockholm
         geonamesid: 2673730
         latitude: 59.33258
         longitude: 18.0649
         name: Stockholm
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Stockholm
+        names_es: 
+          - Estocolmo
         population: 1253309
         timezone: Europe/Stockholm
       - 
@@ -2212,12 +2296,14 @@ regions:
           - S'odertale
           - S'odertele
           - S'odertelie
+          - Soedertaelje
         ascii_name: Soedertaelje
         geonamesid: 2676176
         latitude: 59.19554
         longitude: 17.62525
         name: Södertälje
-        names_en: ~
+        names_en: 
+          - Södertälje
         names_es: ~
         population: 60279
         timezone: Europe/Stockholm
@@ -2240,13 +2326,16 @@ regions:
           - Sigtuna
           - "Sigtuna jaras"
           - "Sigtuna járás"
+          - Сигтуна
         ascii_name: Sigtuna
         geonamesid: 2679302
         latitude: 59.61731
         longitude: 17.72361
         name: Sigtuna
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sigtuna
+        names_es: 
+          - Sigtuna
         population: 7204
         timezone: Europe/Stockholm
       - 
@@ -2265,6 +2354,7 @@ regions:
           - Saltsjobaden
           - Saltsjoebaden
           - Saltsjöbaden
+          - Saltsjøbaden
         ascii_name: Saltsjobaden
         geonamesid: 2680460
         latitude: 59.28333
@@ -2302,6 +2392,7 @@ regions:
           - Resaro
           - Resaroe
           - Resarö
+          - Resarø
         ascii_name: Resaro
         geonamesid: 2682706
         latitude: 59.4291
@@ -2327,6 +2418,7 @@ regions:
           - OEsmo
           - Osmo
           - Ösmo
+          - Øsmo
         ascii_name: Osmo
         geonamesid: 2686153
         latitude: 58.98333
@@ -2341,6 +2433,7 @@ regions:
           - Nynaeshamn
           - Nynashamm
           - Nynäshamm
+          - Nynäshamn
         ascii_name: Nynashamn
         geonamesid: 2687636
         latitude: 58.90337
@@ -2401,6 +2494,7 @@ regions:
           - Moelnbo
           - Molnbo
           - Mölnbo
+          - Mølnbo
         ascii_name: Molnbo
         geonamesid: 2691462
         latitude: 59.05
@@ -2415,6 +2509,7 @@ regions:
           - Marsta
           - Mersta
           - Märsta
+          - Мерста
         ascii_name: Marsta
         geonamesid: 2692475
         latitude: 59.61667
@@ -2429,6 +2524,7 @@ regions:
           - Lidingo
           - "Lidingo Villastad"
           - Lidingoe
+          - Lidingö
         ascii_name: Lidingoe
         geonamesid: 2696334
         latitude: 59.36667
@@ -2512,6 +2608,7 @@ regions:
           - Hoeloe
           - Holo
           - Hölö
+          - Hølø
         ascii_name: Holo
         geonamesid: 2705127
         latitude: 59.28333
@@ -2583,12 +2680,14 @@ regions:
           - Ekero
           - Ekeroe
           - Ekerö
+          - Ekerø
         ascii_name: Ekeroe
         geonamesid: 2716586
         latitude: 59.291
         longitude: 17.81212
         name: Ekerö
-        names_en: ~
+        names_en: 
+          - Ekerö
         names_es: ~
         population: 9931
         timezone: Europe/Stockholm
@@ -2608,6 +2707,7 @@ regions:
           - Dalaro
           - Dalaroe
           - Dalarö
+          - Dalarø
         ascii_name: Dalaro
         geonamesid: 2718271
         latitude: 59.13306
@@ -2670,6 +2770,7 @@ regions:
           - Bjoerkoe
           - Bjorko
           - Björkö
+          - Bjørkø
         ascii_name: Bjorko
         geonamesid: 2722026
         latitude: 59.75
@@ -2695,6 +2796,7 @@ regions:
           - Arno
           - Arnoe
           - Arnö
+          - Arnø
         ascii_name: Arno
         geonamesid: 2725271
         latitude: 60.11667
@@ -2752,7 +2854,10 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2673722
     name: Stockholm
-    names_en: ~
+    names_en: 
+      - "Stockholm County"
+      - Stockholm
+      - "Greater Stockholm"
     names_es: ~
   - 
     ascii_name: Soedermanland
@@ -2867,6 +2972,7 @@ regions:
           - Oxeloesund
           - Oxelosund
           - Oxelösund
+          - Oxeløsund
         ascii_name: Oxelosund
         geonamesid: 2684653
         latitude: 58.67057
@@ -2892,12 +2998,14 @@ regions:
           - Nykoeping
           - Nykoping
           - Nyköping
+          - Nykøping
         ascii_name: Nykoping
         geonamesid: 2687700
         latitude: 58.753
         longitude: 17.00788
         name: Nyköping
-        names_en: ~
+        names_en: 
+          - Nyköping
         names_es: ~
         population: 27582
         timezone: Europe/Stockholm
@@ -2910,7 +3018,8 @@ regions:
         latitude: 59.26667
         longitude: 17.21667
         name: Mariefred
-        names_en: ~
+        names_en: 
+          - Mariefred
         names_es: ~
         population: 3813
         timezone: Europe/Stockholm
@@ -2919,6 +3028,7 @@ regions:
           - Malmkoeping
           - Malmkoping
           - Malmköping
+          - Malmkøping
         ascii_name: Malmkoping
         geonamesid: 2692972
         latitude: 59.13333
@@ -2946,6 +3056,7 @@ regions:
           - Cathrineholm
           - "Katrineholms station"
           - Katrinekhol'm
+          - Катринехольм
         ascii_name: Katrineholm
         geonamesid: 2701223
         latitude: 58.99587
@@ -3012,7 +3123,8 @@ regions:
         latitude: 59.36661
         longitude: 16.5077
         name: Eskilstuna
-        names_en: ~
+        names_en: 
+          - Eskilstuna
         names_es: ~
         population: 59016
         timezone: Europe/Stockholm
@@ -3051,7 +3163,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2676207
     name: Södermanland
-    names_en: ~
+    names_en: 
+      - "Södermanland County"
+      - Södermanland
     names_es: ~
   - 
     ascii_name: OEstergoetland
@@ -3088,7 +3202,8 @@ regions:
         latitude: 58.44863
         longitude: 14.88969
         name: Vadstena
-        names_en: ~
+        names_en: 
+          - Vadstena
         names_es: ~
         population: 5700
         timezone: Europe/Stockholm
@@ -3097,6 +3212,7 @@ regions:
           - Svartinge
           - "Svartinge Villasamhalle"
           - Svärtinge
+          - "Svärtinge Villasamhälle"
         ascii_name: Svartinge
         geonamesid: 2670278
         latitude: 58.65
@@ -3133,6 +3249,7 @@ regions:
           - Soderkoping
           - Soederkoeping
           - Söderköping
+          - Søderkøping
         ascii_name: Soederkoeping
         geonamesid: 2676215
         latitude: 58.48057
@@ -3180,6 +3297,7 @@ regions:
           - OEdeshoeg
           - Odeshog
           - Ödeshög
+          - Ødeshøg
         ascii_name: OEdeshoeg
         geonamesid: 2687420
         latitude: 58.22949
@@ -3194,12 +3312,14 @@ regions:
           - Norcheping
           - Norrkoeping
           - Norrkoping
+          - Norrköping
         ascii_name: Norrkoping
         geonamesid: 2688368
         latitude: 58.59419
         longitude: 16.1826
         name: Norrköping
-        names_en: ~
+        names_en: 
+          - Norrköping
         names_es: ~
         population: 82903
         timezone: Europe/Stockholm
@@ -3208,12 +3328,14 @@ regions:
           - "Commune de Motala"
           - Motala
           - Mutala
+          - Мутала
         ascii_name: Motala
         geonamesid: 2690960
         latitude: 58.53706
         longitude: 15.03649
         name: Motala
-        names_en: ~
+        names_en: 
+          - Motala
         names_es: ~
         population: 29715
         timezone: Europe/Stockholm
@@ -3222,6 +3344,7 @@ regions:
           - Mjoelby
           - Mjolby
           - Mjölby
+          - Mjølby
         ascii_name: Mjolby
         geonamesid: 2691743
         latitude: 58.32595
@@ -3272,12 +3395,14 @@ regions:
           - Lincheping
           - Lincopia
           - Linkoeping
+          - Linkoping
         ascii_name: Linkoping
         geonamesid: 2694762
         latitude: 58.41667
         longitude: 15.61667
         name: Linköping
-        names_en: ~
+        names_en: 
+          - Linköping
         names_es: ~
         population: 96732
         timezone: Europe/Stockholm
@@ -3297,6 +3422,7 @@ regions:
           - Lindo
           - Lindoe
           - Lindohall
+          - Lindö
         ascii_name: Lindo
         geonamesid: 2694838
         latitude: 58.61667
@@ -3465,7 +3591,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2685867
     name: Östergötland
-    names_en: ~
+    names_en: 
+      - "Östergötland County"
+      - Östergötland
     names_es: ~
   - 
     ascii_name: OErebro
@@ -3497,6 +3625,7 @@ regions:
           - Skoellersta
           - Skollersta
           - Sköllersta
+          - Skøllersta
         ascii_name: Skollersta
         geonamesid: 2677356
         latitude: 59.15
@@ -3524,12 +3653,14 @@ regions:
           - Erebro
           - Erebru
           - OErebro
+          - "OErebro kommuna"
         ascii_name: Orebro
         geonamesid: 2686657
         latitude: 59.27412
         longitude: 15.2066
         name: Örebro
-        names_en: ~
+        names_en: 
+          - Örebro
         names_es: ~
         population: 98573
         timezone: Europe/Stockholm
@@ -3604,6 +3735,7 @@ regions:
           - "Kopparberg Koping"
           - "Kopparberg Köping"
           - "Kopparbergs Koping"
+          - "Kopparbergs Köping"
         ascii_name: Kopparberg
         geonamesid: 2699768
         latitude: 59.87597
@@ -3622,7 +3754,8 @@ regions:
         latitude: 59.32667
         longitude: 14.52386
         name: Karlskoga
-        names_en: ~
+        names_en: 
+          - Karlskoga
         names_es: ~
         population: 26949
         timezone: Europe/Stockholm
@@ -3665,6 +3798,7 @@ regions:
           - Hallabrottet
           - Hallebrottet
           - Hällabrottet
+          - Hällebrottet
         ascii_name: Hallabrottet
         geonamesid: 2708821
         latitude: 59.11667
@@ -3690,6 +3824,7 @@ regions:
           - Froevi
           - Frovi
           - Frövi
+          - Frøvi
         ascii_name: Frovi
         geonamesid: 2713516
         latitude: 59.46667
@@ -3756,7 +3891,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2686655
     name: Örebro
-    names_en: ~
+    names_en: 
+      - "Örebro County"
+      - Örebro
     names_es: ~
   - 
     ascii_name: Kronoberg
@@ -3777,12 +3914,14 @@ regions:
           - Vaexjoe
           - Vekshe
           - Vexio
+          - Vexiö
         ascii_name: Vaexjoe
         geonamesid: 2663536
         latitude: 56.87767
         longitude: 14.80906
         name: Växjö
-        names_en: ~
+        names_en: 
+          - Växjö
         names_es: ~
         population: 59600
         timezone: Europe/Stockholm
@@ -3967,7 +4106,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2699050
     name: Kronoberg
-    names_en: ~
+    names_en: 
+      - "Kronoberg County"
+      - Kronoberg
     names_es: ~
   - 
     ascii_name: Dalarna
@@ -4100,6 +4241,7 @@ regions:
           - Mockfjard
           - "Mockfjards Kapell"
           - Mockfjärd
+          - "Mockfjärds Kapell"
         ascii_name: Mockfjard
         geonamesid: 2691602
         latitude: 60.5
@@ -4130,7 +4272,8 @@ regions:
         latitude: 60.14959
         longitude: 15.18776
         name: Ludvika
-        names_en: ~
+        names_en: 
+          - Ludvika
         names_es: ~
         population: 13638
         timezone: Europe/Stockholm
@@ -4229,13 +4372,16 @@ regions:
           - Fahlun
           - Falun
           - Falunga
+          - "fa lun"
         ascii_name: Falun
         geonamesid: 2715459
         latitude: 60.60357
         longitude: 15.62597
         name: Falun
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Falun
+        names_es: 
+          - Falun
         population: 36477
         timezone: Europe/Stockholm
       - 
@@ -4271,8 +4417,10 @@ regions:
         latitude: 60.4858
         longitude: 15.43714
         name: Borlänge
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Borlänge
+        names_es: 
+          - Borlänge
         population: 39422
         timezone: Europe/Stockholm
       - 
@@ -4323,7 +4471,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2699767
     name: Dalarna
-    names_en: ~
+    names_en: 
+      - "Dalarna County"
+      - Dalarna
     names_es: ~
   - 
     ascii_name: Kalmar
@@ -4360,7 +4510,8 @@ regions:
         latitude: 57.7584
         longitude: 16.63733
         name: Västervik
-        names_en: ~
+        names_en: 
+          - Västervik
         names_es: ~
         population: 20694
         timezone: Europe/Stockholm
@@ -4402,6 +4553,7 @@ regions:
           - "Sodra Vi"
           - "Soedra Vi"
           - "Södra Vi"
+          - "Sødra Vi"
         ascii_name: "Sodra Vi"
         geonamesid: 2675561
         latitude: 57.75
@@ -4416,6 +4568,7 @@ regions:
           - "Sodra Sandby"
           - "Soedra Sandby"
           - "Södra Sandby"
+          - "Sødra Sandby"
         ascii_name: "Sodra Sandby"
         geonamesid: 2675691
         latitude: 56.56667
@@ -4452,6 +4605,7 @@ regions:
           - OEverum
           - Overum
           - Överum
+          - Øverum
         ascii_name: Overum
         geonamesid: 2684945
         latitude: 57.98333
@@ -4490,6 +4644,7 @@ regions:
           - Moerbylanga
           - Morbylanga
           - Mörbylånga
+          - Mørbylånga
         ascii_name: Moerbylanga
         geonamesid: 2691348
         latitude: 56.5248
@@ -4504,6 +4659,7 @@ regions:
           - Moensteras
           - Monsteras
           - Mönsterås
+          - Mønsterås
         ascii_name: Moensteras
         geonamesid: 2691407
         latitude: 57.04134
@@ -4551,12 +4707,14 @@ regions:
           - Calmaria
           - Kal'mar
           - Kalmar
+          - "Kalmar kommuna"
         ascii_name: Kalmar
         geonamesid: 2702261
         latitude: 56.66157
         longitude: 16.36163
         name: Kalmar
-        names_en: ~
+        names_en: 
+          - Kalmar
         names_es: ~
         population: 34744
         timezone: Europe/Stockholm
@@ -4598,6 +4756,7 @@ regions:
           - Hoegsby
           - Hogsby
           - Högsby
+          - Høgsby
         ascii_name: Hoegsby
         geonamesid: 2705718
         latitude: 57.16597
@@ -4659,7 +4818,8 @@ regions:
         latitude: 56.8793
         longitude: 16.65634
         name: Borgholm
-        names_en: ~
+        names_en: 
+          - Borgholm
         names_es: ~
         population: 3093
         timezone: Europe/Stockholm
@@ -4687,7 +4847,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2702259
     name: Kalmar
-    names_en: ~
+    names_en: 
+      - "Kalmar County"
+      - Kalmar
     names_es: ~
   - 
     ascii_name: Joenkoeping
@@ -4849,6 +5011,7 @@ regions:
           - Odensjo
           - Odensjoe
           - Odensjö
+          - Odensjø
         ascii_name: Odensjo
         geonamesid: 2687444
         latitude: 57.71667
@@ -4874,6 +5037,7 @@ regions:
           - Mullsjo
           - Mullsjoe
           - Mullsjö
+          - Mullsjø
         ascii_name: Mullsjoe
         geonamesid: 2690902
         latitude: 57.9171
@@ -4945,12 +5109,14 @@ regions:
           - Jencheping
           - Jjonchjoping
           - Joenkoeping
+          - "Joenkoepings kommuna"
         ascii_name: Jonkoping
         geonamesid: 2702979
         latitude: 57.78145
         longitude: 14.15618
         name: Jönköping
-        names_en: ~
+        names_en: 
+          - Jönköping
         names_es: ~
         population: 83202
         timezone: Europe/Stockholm
@@ -4964,8 +5130,10 @@ regions:
         latitude: 57.78596
         longitude: 14.30214
         name: Huskvarna
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Huskvarna
+        names_es: 
+          - Huskvarna
         population: 21500
         timezone: Europe/Stockholm
       - 
@@ -5017,12 +5185,14 @@ regions:
           - Graenna
           - Grehnna
           - Grena
+          - Gränna
         ascii_name: Graenna
         geonamesid: 2711174
         latitude: 58.01667
         longitude: 14.46667
         name: Gränna
-        names_en: ~
+        names_en: 
+          - Gränna
         names_es: ~
         population: 2700
         timezone: Europe/Stockholm
@@ -5031,6 +5201,7 @@ regions:
           - Gnosjo
           - Gnosjoe
           - Gnosjö
+          - Gnosjø
         ascii_name: Gnosjoe
         geonamesid: 2711790
         latitude: 57.3585
@@ -5067,6 +5238,7 @@ regions:
           - Eksjo
           - Eksjoe
           - Eksjö
+          - Eksjø
         ascii_name: Eksjoe
         geonamesid: 2716437
         latitude: 57.66643
@@ -5155,7 +5327,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2702976
     name: Jönköping
-    names_en: ~
+    names_en: 
+      - "Jönköping County"
+      - Jönköping
     names_es: ~
   - 
     ascii_name: Jaemtland
@@ -5187,6 +5361,7 @@ regions:
           - Straejmie
           - Stroemsund
           - Stromsund
+          - Strömsund
         ascii_name: Stroemsund
         geonamesid: 2671221
         latitude: 63.85206
@@ -5201,13 +5376,16 @@ regions:
           - Ehstersund
           - Estersund
           - OEstersund
+          - Ostersund
         ascii_name: Ostersund
         geonamesid: 2685750
         latitude: 63.1792
         longitude: 14.63566
         name: Östersund
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Östersund
+        names_es: 
+          - Östersund
         population: 42940
         timezone: Europe/Stockholm
       - 
@@ -5238,6 +5416,7 @@ regions:
           - Hjerpen
           - "Hjerpen Station"
           - Jarpen
+          - Jarpstrommen
         ascii_name: Jarpen
         geonamesid: 2703212
         latitude: 63.35
@@ -5285,18 +5464,23 @@ regions:
           - Are
           - Ore
           - Åre
+          - Аре
         ascii_name: Are
         geonamesid: 2725432
         latitude: 63.39835
         longitude: 13.08019
         name: Åre
-        names_en: ~
+        names_en: 
+          - Åre
+          - Are
         names_es: ~
         population: 1260
         timezone: Europe/Stockholm
     geonamesid: 2703330
     name: Jämtland
-    names_en: ~
+    names_en: 
+      - "Jämtland County"
+      - Jämtland
     names_es: ~
   - 
     ascii_name: Halland
@@ -5328,13 +5512,16 @@ regions:
           - Varberg
           - Varbergas
           - Varburg
+          - Варберг
         ascii_name: Varberg
         geonamesid: 2664996
         latitude: 57.10557
         longitude: 12.25078
         name: Varberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Varberg
+        names_es: 
+          - Varberg
         population: 25816
         timezone: Europe/Stockholm
       - 
@@ -5364,6 +5551,7 @@ regions:
           - Troenninge
           - Tronninge
           - Tronningeby
+          - Trönninge
         ascii_name: Troenninge
         geonamesid: 2667264
         latitude: 56.61667
@@ -5424,6 +5612,7 @@ regions:
           - Oskarsstrom
           - Oskarsström
           - Oskarstroem
+          - Oskarstrom
         ascii_name: Oskarstrom
         geonamesid: 2686160
         latitude: 56.8
@@ -5531,13 +5720,16 @@ regions:
           - Halmostadium
           - Halmstad
           - Hamstad
+          - Khalmstad
         ascii_name: Halmstad
         geonamesid: 2708365
         latitude: 56.67446
         longitude: 12.85676
         name: Halmstad
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Halmstad
+        names_es: 
+          - Halmstad
         population: 55657
         timezone: Europe/Stockholm
       - 
@@ -5578,6 +5770,7 @@ regions:
           - Froesakull
           - Frosakull
           - Frösakull
+          - Frøsakull
         ascii_name: Frosakull
         geonamesid: 2713596
         latitude: 56.68333
@@ -5619,8 +5812,10 @@ regions:
         latitude: 56.90552
         longitude: 12.49118
         name: Falkenberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Falkenberg
+        names_es: 
+          - Falkenberg
         population: 18407
         timezone: Europe/Stockholm
       - 
@@ -5647,7 +5842,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2708794
     name: Halland
-    names_en: ~
+    names_en: 
+      - "Halland County"
+      - Halland
     names_es: ~
   - 
     ascii_name: Gotland
@@ -5657,13 +5854,16 @@ regions:
           - Visbi
           - Visbia
           - Visbis
+          - Visbju
         ascii_name: Visby
         geonamesid: 2662689
         latitude: 57.64089
         longitude: 18.29602
         name: Visby
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Visby
+        names_es: 
+          - Visby
         population: 21970
         timezone: Europe/Stockholm
       - 
@@ -5713,7 +5913,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2711508
     name: Gotland
-    names_en: ~
+    names_en: 
+      - "Gotland County"
+      - Gotland
     names_es: ~
   - 
     ascii_name: Gaevleborg
@@ -5734,6 +5936,7 @@ regions:
           - Vittsjo
           - Vittsjoe
           - Vittsjon
+          - Vittsjö
         ascii_name: Vittsjo
         geonamesid: 2662517
         latitude: 61.11667
@@ -5760,6 +5963,7 @@ regions:
           - Soerforsa
           - Sorforsa
           - Sörforsa
+          - Sørforsa
         ascii_name: Sorforsa
         geonamesid: 2675146
         latitude: 61.73333
@@ -5774,6 +5978,7 @@ regions:
           - Soderhamn
           - Soederhamn
           - Söderhamn
+          - Søderhamn
         ascii_name: Soderhamn
         geonamesid: 2676224
         latitude: 61.30373
@@ -5869,6 +6074,7 @@ regions:
           - Jarfso
           - Jarvso
           - Järfsö
+          - Järvsö
         ascii_name: Jaervsoe
         geonamesid: 2703145
         latitude: 61.71667
@@ -5942,13 +6148,16 @@ regions:
           - Gaevle
           - Gafle
           - Gefle
+          - Gevalia
         ascii_name: Gavle
         geonamesid: 2712414
         latitude: 60.67452
         longitude: 17.14174
         name: Gävle
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gävle
+        names_es: 
+          - Gävle
         population: 68635
         timezone: Europe/Stockholm
       - 
@@ -6000,6 +6209,7 @@ regions:
           - Bergsjo
           - Bergsjoe
           - Bergsjö
+          - Bergsjø
         ascii_name: Bergsjoe
         geonamesid: 2722734
         latitude: 61.98253
@@ -6044,7 +6254,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2712411
     name: Gävleborg
-    names_en: ~
+    names_en: 
+      - "Gävleborg County"
+      - Gävleborg
     names_es: ~
   - 
     ascii_name: Blekinge
@@ -6065,6 +6277,7 @@ regions:
           - Sturko
           - Sturkoe
           - Sturkö
+          - Sturkø
         ascii_name: Sturko
         geonamesid: 2671055
         latitude: 56.08333
@@ -6079,12 +6292,14 @@ regions:
           - Selvesborg
           - Soelvesborg
           - Solvesborg
+          - Sölvesborg
         ascii_name: Soelvesborg
         geonamesid: 2675365
         latitude: 56.05205
         longitude: 14.57525
         name: Sölvesborg
-        names_en: ~
+        names_en: 
+          - Sölvesborg
         names_es: ~
         population: 7883
         timezone: Europe/Stockholm
@@ -6098,7 +6313,8 @@ regions:
         latitude: 56.20999
         longitude: 15.27602
         name: Ronneby
-        names_en: ~
+        names_en: 
+          - Ronneby
         names_es: ~
         population: 11618
         timezone: Europe/Stockholm
@@ -6107,6 +6323,7 @@ regions:
           - Rodeby
           - Roedeby
           - Rödeby
+          - Rødeby
         ascii_name: Rodeby
         geonamesid: 2682155
         latitude: 56.25
@@ -6121,6 +6338,7 @@ regions:
           - Olofstroem
           - Olofstrom
           - Olofström
+          - Olofstrøm
         ascii_name: Olofstroem
         geonamesid: 2687062
         latitude: 56.2773
@@ -6146,6 +6364,7 @@ regions:
           - Moerrum
           - Morrum
           - Mörrum
+          - Mørrum
         ascii_name: Morrum
         geonamesid: 2691271
         latitude: 56.18333
@@ -6160,13 +6379,16 @@ regions:
           - "Caroli corona"
           - Karlskrona
           - Karlskruna
+          - karusukurona
         ascii_name: Karlskrona
         geonamesid: 2701713
         latitude: 56.16156
         longitude: 15.58661
         name: Karlskrona
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Karlskrona
+        names_es: 
+          - Karlskrona
         population: 32309
         timezone: Europe/Stockholm
       - 
@@ -6179,7 +6401,8 @@ regions:
         latitude: 56.1706
         longitude: 14.86188
         name: Karlshamn
-        names_en: ~
+        names_en: 
+          - Karlshamn
         names_es: ~
         population: 18161
         timezone: Europe/Stockholm
@@ -6210,6 +6433,7 @@ regions:
           - Hasslo
           - Hassloe
           - Hasslö
+          - Hasslø
         ascii_name: Hasslo
         geonamesid: 2707366
         latitude: 56.11667
@@ -6232,7 +6456,9 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 2721357
     name: Blekinge
-    names_en: ~
+    names_en: 
+      - "Blekinge County"
+      - Blekinge
     names_es: ~
   - 
     ascii_name: Skane
@@ -6242,12 +6468,14 @@ regions:
           - Istadium
           - Ystad
           - Ystao
+          - istad
         ascii_name: Ystad
         geonamesid: 2662149
         latitude: 55.42966
         longitude: 13.82041
         name: Ystad
-        names_en: ~
+        names_en: 
+          - Ystad
         names_es: ~
         population: 17266
         timezone: Europe/Stockholm
@@ -6256,6 +6484,7 @@ regions:
           - Vinsloev
           - Vinslov
           - Vinslöv
+          - Vinsløv
         ascii_name: Vinslov
         geonamesid: 2662778
         latitude: 56.1
@@ -6297,6 +6526,7 @@ regions:
           - Veberod
           - Veberoed
           - Veberöd
+          - Veberød
         ascii_name: Veberod
         geonamesid: 2663514
         latitude: 55.63333
@@ -6322,6 +6552,7 @@ regions:
           - Tygelsjo
           - Tygelsjoe
           - Tygelsjö
+          - Tygelsjø
         ascii_name: Tygelsjo
         geonamesid: 2666823
         latitude: 55.51667
@@ -6336,12 +6567,14 @@ regions:
           - Tralleborg
           - Treleborg
           - Trelleborg
+          - Trälleborg
         ascii_name: Trelleborg
         geonamesid: 2667402
         latitude: 55.37514
         longitude: 13.15691
         name: Trelleborg
-        names_en: ~
+        names_en: 
+          - Trelleborg
         names_es: ~
         population: 25494
         timezone: Europe/Stockholm
@@ -6407,6 +6640,7 @@ regions:
           - Svaloev
           - Svalof
           - Svalov
+          - Svalöf
         ascii_name: Svaloev
         geonamesid: 2670542
         latitude: 55.9134
@@ -6421,6 +6655,7 @@ regions:
           - Stroevelstorp
           - Strovelstorp
           - Strövelstorp
+          - Strøvelstorp
         ascii_name: Strovelstorp
         geonamesid: 2671206
         latitude: 56.15
@@ -6457,6 +6692,7 @@ regions:
           - Soesdala
           - Sosdala
           - Sösdala
+          - Søsdala
         ascii_name: Sosdala
         geonamesid: 2674993
         latitude: 56.03333
@@ -6504,6 +6740,7 @@ regions:
           - Skare
           - Skarelage
           - Skåre
+          - Skåreläge
         ascii_name: Skare
         geonamesid: 2678153
         latitude: 55.38333
@@ -6518,6 +6755,7 @@ regions:
           - Sjobo
           - Sjoebo
           - Sjöbo
+          - Sjøbo
         ascii_name: Sjoebo
         geonamesid: 2678913
         latitude: 55.63135
@@ -6532,13 +6770,16 @@ regions:
           - "Cimbrorum portus"
           - "Portus Cimbris"
           - Simrishamn
+          - Simrishavn
         ascii_name: Simrishamn
         geonamesid: 2679107
         latitude: 55.55653
         longitude: 14.35037
         name: Simrishamn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Simrishamn
+        names_es: 
+          - Simrishamn
         population: 6546
         timezone: Europe/Stockholm
       - 
@@ -6623,6 +6864,7 @@ regions:
           - OErkelljunga
           - Orkelljunga
           - Örkelljunga
+          - Ørkelljunga
         ascii_name: OErkelljunga
         geonamesid: 2686596
         latitude: 56.28338
@@ -6637,6 +6879,7 @@ regions:
           - OEnnestad
           - Onnestad
           - Önnestad
+          - Ønnestad
         ascii_name: Onnestad
         geonamesid: 2686858
         latitude: 56.05
@@ -6651,6 +6894,7 @@ regions:
           - OEdakra
           - Odakra
           - Ödåkra
+          - Ødåkra
         ascii_name: Odakra
         geonamesid: 2687498
         latitude: 56.1
@@ -6698,6 +6942,7 @@ regions:
           - Moerarp
           - Morarp
           - Mörarp
+          - Mørarp
         ascii_name: Morarp
         geonamesid: 2691387
         latitude: 56.06667
@@ -6712,13 +6957,16 @@ regions:
           - MMA
           - Mal'mjo
           - Malm'o
+          - Malme
         ascii_name: Malmoe
         geonamesid: 2692969
         latitude: 55.60587
         longitude: 13.00073
         name: Malmö
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Malmö
+        names_es: 
+          - Malmö
         population: 261548
         timezone: Europe/Stockholm
       - 
@@ -6726,13 +6974,16 @@ regions:
           - Lund
           - Lunda
           - Lundas
+          - Lundur
         ascii_name: Lund
         geonamesid: 2693678
         latitude: 55.70584
         longitude: 13.19321
         name: Lund
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lund
+        names_es: 
+          - Lund
         population: 76263
         timezone: Europe/Stockholm
       - 
@@ -6740,6 +6991,7 @@ regions:
           - Loensboda
           - Lonsboda
           - Lönsboda
+          - Lønsboda
         ascii_name: Lonsboda
         geonamesid: 2694165
         latitude: 56.4
@@ -6765,6 +7017,7 @@ regions:
           - Loddekopinge
           - Loeddekoepinge
           - Löddeköpinge
+          - Løddekøpinge
         ascii_name: Loddekopinge
         geonamesid: 2694375
         latitude: 55.76667
@@ -6779,6 +7032,7 @@ regions:
           - Loberod
           - Loeberoed
           - Löberöd
+          - Løberød
         ascii_name: Loberod
         geonamesid: 2694417
         latitude: 55.78333
@@ -6816,13 +7070,16 @@ regions:
           - Coronia
           - Landscrone
           - Landskrona
+          - Landskruna
         ascii_name: Landskrona
         geonamesid: 2697720
         latitude: 55.8708
         longitude: 12.83016
         name: Landskrona
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Landskrona
+        names_es: 
+          - Landskrona
         population: 27889
         timezone: Europe/Stockholm
       - 
@@ -6841,13 +7098,16 @@ regions:
           - Christiansstad
           - Kristianstad
           - Kristijanstad
+          - Кристианстад
         ascii_name: Kristianstad
         geonamesid: 2699310
         latitude: 56.03129
         longitude: 14.15242
         name: Kristianstad
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kristianstad
+        names_es: 
+          - Kristianstad
         population: 32188
         timezone: Europe/Stockholm
       - 
@@ -6855,6 +7115,7 @@ regions:
           - Koepingebro
           - Kopingebro
           - Köpingebro
+          - Køpingebro
         ascii_name: Kopingebro
         geonamesid: 2699786
         latitude: 55.46667
@@ -6928,6 +7189,7 @@ regions:
           - Kagerod
           - Kageroed
           - Kågeröd
+          - Kågerød
         ascii_name: Kagerod
         geonamesid: 2702683
         latitude: 56.01667
@@ -6953,6 +7215,7 @@ regions:
           - Hoerby
           - Horby
           - Hörby
+          - Hørby
         ascii_name: Hoerby
         geonamesid: 2705049
         latitude: 55.85238
@@ -6967,6 +7230,7 @@ regions:
           - Hoeoer
           - Hoor
           - Höör
+          - Høør
         ascii_name: Hoeoer
         geonamesid: 2705055
         latitude: 55.93444
@@ -6981,6 +7245,7 @@ regions:
           - Hoellviken
           - Hollviken
           - Hollviksnas
+          - Höllviken
         ascii_name: Hollviken
         geonamesid: 2705402
         latitude: 55.41667
@@ -7028,13 +7293,16 @@ regions:
           - Halsingborg
           - Helsingborg
           - Helsingoburgum
+          - Hälsingborg
         ascii_name: Helsingborg
         geonamesid: 2706767
         latitude: 56.04673
         longitude: 12.69437
         name: Helsingborg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Helsingborg
+        names_es: 
+          - Helsingborg
         population: 91025
         timezone: Europe/Stockholm
       - 
@@ -7075,6 +7343,7 @@ regions:
           - Glumsloev
           - Glumslov
           - Glumslöv
+          - Glumsløv
         ascii_name: Glumslov
         geonamesid: 2711820
         latitude: 55.95
@@ -7124,6 +7393,7 @@ regions:
           - Foersloev
           - Forslov
           - Forslovholm
+          - Forslovsholm
         ascii_name: Forslov
         geonamesid: 2713943
         latitude: 56.35
@@ -7149,6 +7419,7 @@ regions:
           - Esloev
           - Eslov
           - Eslöv
+          - Esløv
         ascii_name: Eslov
         geonamesid: 2715946
         latitude: 55.83928
@@ -7185,6 +7456,7 @@ regions:
           - Bromoella
           - Bromolla
           - Bromölla
+          - Bromølla
         ascii_name: Bromoella
         geonamesid: 2719106
         latitude: 56.07551
@@ -7280,6 +7552,7 @@ regions:
           - Barsloev
           - Barslov
           - Bårslöv
+          - Bårsløv
         ascii_name: Barslov
         geonamesid: 2723350
         latitude: 56.0
@@ -7318,6 +7591,7 @@ regions:
           - Arloev
           - Arlov
           - Arlöv
+          - Arløv
         ascii_name: Arloev
         geonamesid: 2725336
         latitude: 55.63248
@@ -7332,13 +7606,16 @@ regions:
           - AEngelholm
           - Engelholm
           - Engelkholm
+          - Ängelholm
         ascii_name: Angelholm
         geonamesid: 2725901
         latitude: 56.2428
         longitude: 12.86219
         name: Ängelholm
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ängelholm
+        names_es: 
+          - Ängelholm
         population: 22385
         timezone: Europe/Stockholm
       - 
@@ -7346,6 +7623,7 @@ regions:
           - Andersloev
           - Anderslov
           - Anderslöv
+          - Andersløv
         ascii_name: Anderslov
         geonamesid: 2726049
         latitude: 55.43333
@@ -7360,12 +7638,14 @@ regions:
           - Ahus
           - Okhus
           - Åhus
+          - Охус
         ascii_name: Ahus
         geonamesid: 2727363
         latitude: 55.91667
         longitude: 14.28333
         name: Åhus
-        names_en: ~
+        names_en: 
+          - Åhus
         names_es: ~
         population: 9000
         timezone: Europe/Stockholm
@@ -7374,6 +7654,7 @@ regions:
           - "Skanoer med Falsterbo"
           - "Skanor med Falsterbo"
           - "Skanör med Falsterbo"
+          - "Skanør med Falsterbo"
         ascii_name: "Skanor med Falsterbo"
         geonamesid: 3336568
         latitude: 55.4
@@ -7385,7 +7666,10 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 3337385
     name: Skåne
-    names_en: ~
+    names_en: 
+      - "Skåne County"
+      - Scania
+      - Skåne
     names_es: ~
   - 
     ascii_name: "Vaestra Goetaland"
@@ -7417,6 +7701,7 @@ regions:
           - Varagon
           - Varagons
           - Varagön
+          - Vargoen
         ascii_name: Vargon
         geonamesid: 2664921
         latitude: 58.35599
@@ -7482,7 +7767,8 @@ regions:
         latitude: 58.34784
         longitude: 11.9424
         name: Uddevalla
-        names_en: ~
+        names_en: 
+          - Uddevalla
         names_es: ~
         population: 30282
         timezone: Europe/Stockholm
@@ -7524,6 +7810,7 @@ regions:
           - Toereboda
           - Toreboda
           - Töreboda
+          - Tøreboda
         ascii_name: Toereboda
         geonamesid: 2668247
         latitude: 58.70739
@@ -7606,6 +7893,7 @@ regions:
           - Styrso
           - Styrsoe
           - Styrsö
+          - Styrsø
         ascii_name: Styrso
         geonamesid: 2670995
         latitude: 57.61639
@@ -7620,6 +7908,7 @@ regions:
           - Stroemstad
           - Stromstad
           - Strömstad
+          - Strømstad
         ascii_name: Stroemstad
         geonamesid: 2671224
         latitude: 58.93945
@@ -7634,6 +7923,7 @@ regions:
           - "Stora Hoega"
           - "Stora Hoga"
           - "Stora Höga"
+          - "Stora Høga"
         ascii_name: "Stora Hoga"
         geonamesid: 2673076
         latitude: 58.01667
@@ -7648,6 +7938,7 @@ regions:
           - Stoepen
           - Stopen
           - Stöpen
+          - Støpen
         ascii_name: Stopen
         geonamesid: 2673629
         latitude: 58.46667
@@ -7695,6 +7986,7 @@ regions:
           - Smoegen
           - Smogen
           - Smögen
+          - Smøgen
         ascii_name: Smoegen
         geonamesid: 2676511
         latitude: 58.35593
@@ -7720,13 +8012,16 @@ regions:
           - Schednia
           - Shevde
           - Skoevde
+          - Skofde
         ascii_name: Skoevde
         geonamesid: 2677234
         latitude: 58.39118
         longitude: 13.84506
         name: Skövde
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Skövde
+        names_es: 
+          - Skövde
         population: 33119
         timezone: Europe/Stockholm
       - 
@@ -7780,6 +8075,7 @@ regions:
           - Sjoemarken
           - Sjomarken
           - Sjömarken
+          - Sjømarken
         ascii_name: Sjomarken
         geonamesid: 2678804
         latitude: 57.71533
@@ -7851,6 +8147,7 @@ regions:
           - OEjersjoe
           - Ojersjo
           - Öjersjö
+          - Øjersjø
         ascii_name: Ojersjo
         geonamesid: 2687272
         latitude: 57.7
@@ -7865,6 +8162,7 @@ regions:
           - OEckeroe
           - Ockero
           - Öckerö
+          - Øckerø
         ascii_name: OEckeroe
         geonamesid: 2687509
         latitude: 57.70814
@@ -7912,6 +8210,7 @@ regions:
           - Moelnlycke
           - Molnlycke
           - Mölnlycke
+          - Mølnlycke
         ascii_name: Molnlycke
         geonamesid: 2691440
         latitude: 57.65893
@@ -7926,6 +8225,7 @@ regions:
           - Moelndal
           - Molndal
           - Mölndal
+          - Mølndal
         ascii_name: Moelndal
         geonamesid: 2691459
         latitude: 57.6554
@@ -7940,6 +8240,7 @@ regions:
           - Moelltorp
           - Molltorp
           - Mölltorp
+          - Mølltorp
         ascii_name: Molltorp
         geonamesid: 2691471
         latitude: 58.5
@@ -7970,7 +8271,8 @@ regions:
         latitude: 57.88699
         longitude: 11.58218
         name: Marstrand
-        names_en: ~
+        names_en: 
+          - Marstrand
         names_es: ~
         population: 1432
         timezone: Europe/Stockholm
@@ -7995,7 +8297,8 @@ regions:
         latitude: 58.27429
         longitude: 11.43576
         name: Lysekil
-        names_en: ~
+        names_en: 
+          - Lysekil
         names_es: ~
         population: 7568
         timezone: Europe/Stockholm
@@ -8004,6 +8307,7 @@ regions:
           - Lodose
           - Loedoese
           - Lödöse
+          - Lødøse
         ascii_name: Lodose
         geonamesid: 2694366
         latitude: 58.03333
@@ -8062,6 +8366,7 @@ regions:
           - Lidkoeping
           - Lidkoping
           - Lidköping
+          - Lidkøping
         ascii_name: Lidkoping
         geonamesid: 2696329
         latitude: 58.50517
@@ -8131,12 +8436,14 @@ regions:
           - Konghelle
           - Kungaelv
           - Kungahaella
+          - Kungahälla
         ascii_name: Kungalv
         geonamesid: 2698739
         latitude: 57.87096
         longitude: 11.98054
         name: Kungälv
-        names_en: ~
+        names_en: 
+          - Kungälv
         names_es: ~
         population: 21262
         timezone: Europe/Stockholm
@@ -8222,6 +8529,7 @@ regions:
           - Hovik
           - Hoviksnas
           - Hövik
+          - Höviksnäs
         ascii_name: Hoviksnas
         geonamesid: 2704662
         latitude: 58.03333
@@ -8260,6 +8568,7 @@ regions:
           - Hoenoe
           - Hono
           - "Hono Klava"
+          - Hönö
         ascii_name: Hono
         geonamesid: 2705075
         latitude: 57.68972
@@ -8377,6 +8686,7 @@ regions:
           - Goetene
           - Gotene
           - Götene
+          - Gøtene
         ascii_name: Goetene
         geonamesid: 2711526
         latitude: 58.52824
@@ -8391,13 +8701,16 @@ regions:
           - G'oteborg
           - Gautaborg
           - Geteborga
+          - Gjoteborg
         ascii_name: Goeteborg
         geonamesid: 2711537
         latitude: 57.70716
         longitude: 11.96679
         name: Göteborg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gothenburg
+        names_es: 
+          - Gotemburgo
         population: 504084
         timezone: Europe/Stockholm
       - 
@@ -8462,6 +8775,7 @@ regions:
           - Falkoeping
           - Falkoping
           - Falköping
+          - Falkøping
         ascii_name: Falkoeping
         geonamesid: 2715568
         latitude: 58.17347
@@ -8487,6 +8801,7 @@ regions:
           - Donso
           - Donsoe
           - Donsö
+          - Donsø
         ascii_name: Donso
         geonamesid: 2717412
         latitude: 57.6
@@ -8501,6 +8816,7 @@ regions:
           - Diserod
           - Diseroed
           - Diseröd
+          - Diserød
         ascii_name: Diserod
         geonamesid: 2717720
         latitude: 57.91667
@@ -8515,6 +8831,7 @@ regions:
           - "Dals Langed"
           - "Dals Långed"
           - Langed
+          - Långed
         ascii_name: "Dals Langed"
         geonamesid: 2718133
         latitude: 58.91667
@@ -8529,6 +8846,7 @@ regions:
           - Dalsjoefors
           - Dalsjofors
           - Dalsjöfors
+          - Dalsjøfors
         ascii_name: Dalsjofors
         geonamesid: 2718144
         latitude: 57.71667
@@ -8578,12 +8896,14 @@ regions:
           - Boerosia
           - Boras
           - Boros
+          - Borås
         ascii_name: Boras
         geonamesid: 2720501
         latitude: 57.72101
         longitude: 12.9401
         name: Borås
-        names_en: ~
+        names_en: 
+          - Borås
         names_es: ~
         population: 63223
         timezone: Europe/Stockholm
@@ -8669,6 +8989,7 @@ regions:
           - Alfangen
           - Alvangen
           - Älfängen
+          - Älvängen
         ascii_name: Alvangen
         geonamesid: 2726347
         latitude: 57.96667
@@ -8718,6 +9039,7 @@ regions:
           - Nodinge-Nol
           - Noedinge-Nol
           - Nödinge-Nol
+          - Nødinge-Nol
         ascii_name: Nodinge-Nol
         geonamesid: 3336569
         latitude: 57.91259
@@ -8751,5 +9073,7 @@ regions:
         timezone: Europe/Stockholm
     geonamesid: 3337386
     name: "Västra Götaland"
-    names_en: ~
+    names_en: 
+      - "Västra Götaland County"
+      - "Västra Götaland"
     names_es: ~

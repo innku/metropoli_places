@@ -2,8 +2,12 @@
 geonamesid: 99237
 iso: IQ
 name: Iraq
-names_en: ~
-names_es: ~
+names_en: 
+  - Iraq
+  - "Republic of Iraq"
+names_es: 
+  - Iraq
+  - Irak
 regions: 
   - 
     ascii_name: "Muhafazat al Basrah"
@@ -13,6 +17,7 @@ regions:
           - "Az Zubair"
           - "Az Zubayr"
           - "Az Zuhair"
+          - "El Zubair"
         ascii_name: "Az Zubayr"
         geonamesid: 98245
         latitude: 30.39447
@@ -27,6 +32,7 @@ regions:
           - "Al Harithah"
           - "Al Hārithah"
           - Al'-Kharrisa
+          - Hartha
         ascii_name: "Al Harithah"
         geonamesid: 99369
         latitude: 30.71861
@@ -41,6 +47,7 @@ regions:
           - "Al Faw"
           - "Al Fāw"
           - Al'-Fau
+          - Fao
         ascii_name: "Al Faw"
         geonamesid: 99446
         latitude: 29.97763
@@ -55,13 +62,16 @@ regions:
           - "Al Basrah"
           - "Al Başrah"
           - Al-Basra
+          - Bacora
         ascii_name: "Al Basrah"
         geonamesid: 99532
         latitude: 30.53488
         longitude: 47.78885
         name: "Al Başrah"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Basra
+        names_es: 
+          - Basora
         population: 2600000
         timezone: Asia/Baghdad
       - 
@@ -104,6 +114,7 @@ regions:
           - "As Suwayrah"
           - "Aş Şuwayrah"
           - Jazira
+          - Jazīra
         ascii_name: "As Suwayrah"
         geonamesid: 98459
         latitude: 32.92556
@@ -118,13 +129,16 @@ regions:
           - "Al Koet"
           - "Al Kut"
           - "Al Kūt"
+          - Kut
         ascii_name: "Al Kut"
         geonamesid: 99131
         latitude: 32.5147
         longitude: 45.81902
         name: "Al Kūt"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kut
+        names_es: 
+          - Kut
         population: 315162
         timezone: Asia/Baghdad
       - 
@@ -132,6 +146,7 @@ regions:
           - "Al Hai"
           - "Al Hay"
           - "Al Hayy"
+          - "Al Ḩayy"
         ascii_name: "Al Hayy"
         geonamesid: 99350
         latitude: 32.17349
@@ -146,6 +161,7 @@ regions:
           - "Al `Aziziya"
           - "Al `Aziziyah"
           - "Al ‘Aziziya"
+          - "Al ‘Azīzīyah"
         ascii_name: "Al `Aziziyah"
         geonamesid: 99548
         latitude: 32.90583
@@ -167,6 +183,7 @@ regions:
           - Khurmati
           - "Touz Hourmato"
           - Tozkhurmato
+          - Tozkhurmatu
         ascii_name: Tozkhurmato
         geonamesid: 90026
         latitude: 34.89046
@@ -181,13 +198,16 @@ regions:
           - Tekrit
           - Tikret
           - Tikrit
+          - Tikritas
         ascii_name: Tikrit
         geonamesid: 90150
         latitude: 34.60712
         longitude: 43.67822
         name: Tikrīt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tikrit
+        names_es: 
+          - Tikrit
         population: 42477
         timezone: Asia/Baghdad
       - 
@@ -195,12 +215,14 @@ regions:
           - Saimarreh
           - Samarra
           - Samarra'
+          - Samarrah
         ascii_name: Samarra'
         geonamesid: 91597
         latitude: 34.20096
         longitude: 43.87562
         name: Sāmarrā’
-        names_en: ~
+        names_en: 
+          - Samarra
         names_es: ~
         population: 158508
         timezone: Asia/Baghdad
@@ -209,6 +231,7 @@ regions:
           - Baiji
           - Bajdzhi
           - Bayji
+          - Bayjī
         ascii_name: Bayji
         geonamesid: 97783
         latitude: 34.93114
@@ -223,6 +246,7 @@ regions:
           - Balad
           - Balada
           - Belad
+          - Beled
         ascii_name: Balad
         geonamesid: 98112
         latitude: 34.01638
@@ -237,12 +261,14 @@ regions:
           - "Ad Dujayl"
           - "Al Ibrahimiyah"
           - "Al Ibrāhīmīyah"
+          - Doujail
         ascii_name: "Ad Dujayl"
         geonamesid: 99759
         latitude: 33.84667
         longitude: 44.23444
         name: "Ad Dujayl"
-        names_en: ~
+        names_en: 
+          - Dujail
         names_es: ~
         population: 26362
         timezone: Asia/Baghdad
@@ -258,6 +284,7 @@ regions:
           - "Qada' Talkif"
           - "Qaḑā’ Talkīf"
           - "Tall Kaif"
+          - "Tall Kayf"
         ascii_name: "Qada' Talkif"
         geonamesid: 90353
         latitude: 36.48944
@@ -272,6 +299,7 @@ regions:
           - "Al Hamdaniya"
           - "Al Hamdaniyah"
           - "Qada' al Hamdaniyah"
+          - "Qarah Qosh"
         ascii_name: "Qada' al Hamdaniyah"
         geonamesid: 92430
         latitude: 36.27146
@@ -286,13 +314,16 @@ regions:
           - "Al Mawsil"
           - "Al Mawşil"
           - "Al Musil"
+          - "Al Mūşil"
         ascii_name: Mosul
         geonamesid: 99072
         latitude: 36.335
         longitude: 43.11889
         name: Mosul
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mosul
+        names_es: 
+          - Mosul
         population: 1739800
         timezone: Asia/Baghdad
       - 
@@ -300,6 +331,7 @@ regions:
           - Sinjar
           - Sinjār
           - Sncar
+          - snjar
         ascii_name: Sinjar
         geonamesid: 448149
         latitude: 36.32092
@@ -321,6 +353,7 @@ regions:
           - "Al Majar al Kabir"
           - "Al Majar al Kabīr"
           - "Al Majarr al Kabir"
+          - "Al Majarr al Kabīr"
         ascii_name: "Al Majar al Kabir"
         geonamesid: 99097
         latitude: 31.58607
@@ -335,6 +368,7 @@ regions:
           - "Ali Gharbi"
           - "Ali el Gharbi"
           - "Imam Ali Gherbi"
+          - "Imām Ali Gherbi"
         ascii_name: "`Ali al Gharbi"
         geonamesid: 99306
         latitude: 32.46326
@@ -349,6 +383,7 @@ regions:
           - "Al `Amarah"
           - "Al ‘Amārah"
           - Amara
+          - Amarah
         ascii_name: "Al `Amarah"
         geonamesid: 99608
         latitude: 31.84064
@@ -363,6 +398,7 @@ regions:
           - "Ali ash Sharqi"
           - "Alī ash Sharqī"
           - "Nahiyat Ali ash Sharqi"
+          - "Nāḩiyat Alī ash Sharqī"
         ascii_name: "Nahiyat Ali ash Sharqi"
         geonamesid: 7374646
         latitude: 32.12287
@@ -374,7 +410,8 @@ regions:
         timezone: Asia/Baghdad
     geonamesid: 93540
     name: Maysan
-    names_en: ~
+    names_en: 
+      - Maysan
     names_es: ~
   - 
     ascii_name: "Muhafazat Karbala'"
@@ -384,13 +421,16 @@ regions:
           - Karbala
           - Karbala'
           - Karbalaa
+          - Karbalā’
         ascii_name: Karbala'
         geonamesid: 94824
         latitude: 32.61144
         longitude: 44.00847
         name: Karbalā’
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Karbala
+        names_es: 
+          - Kerbala
         population: 434450
         timezone: Asia/Baghdad
     geonamesid: 94823
@@ -405,6 +445,7 @@ regions:
           - Ravanduz
           - Rawandiz
           - Rawandoz
+          - Rawanduz
         ascii_name: Rawanduz
         geonamesid: 92002
         latitude: 36.61578
@@ -419,6 +460,7 @@ regions:
           - "Koi Sanjaq"
           - "Kou Senaq"
           - "Kou Senjaq"
+          - "Koy Senjaq"
         ascii_name: Kuysanjaq
         geonamesid: 94220
         latitude: 36.08616
@@ -433,13 +475,16 @@ regions:
           - (Erbil)
           - Arba`ilu
           - Arba‘ilu
+          - Arbeel
         ascii_name: Arbil
         geonamesid: 95446
         latitude: 36.19257
         longitude: 44.01062
         name: Arbīl
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Arbil Governorate"
+        names_es: 
+          - Erbil
         population: 932800
         timezone: Asia/Baghdad
       - 
@@ -447,6 +492,7 @@ regions:
           - "Nahiyat Hiran"
           - "Nāḩiyat Hīrān"
           - "nahyt hyran"
+          - "ناحية هيران"
         ascii_name: "Nahiyat Hiran"
         geonamesid: 7097617
         latitude: 36.27899
@@ -461,6 +507,7 @@ regions:
           - Khoshnaw
           - "Markaz Nahiyat Khushan"
           - "Markaz Nāḩiyat Khūshān"
+          - Xoshnaw
         ascii_name: "Markaz Nahiyat Khushan"
         geonamesid: 7097618
         latitude: 36.27741
@@ -482,6 +529,7 @@ regions:
           - Mandali
           - Mandalī
           - Mendali
+          - Mendeli
         ascii_name: Mandali
         geonamesid: 93709
         latitude: 33.74986
@@ -496,6 +544,7 @@ regions:
           - Kiffri
           - Kiffrī
           - Kifri
+          - Kifrī
         ascii_name: Kifri
         geonamesid: 94298
         latitude: 34.69587
@@ -510,13 +559,16 @@ regions:
           - Ba'quba
           - Ba`qubah
           - Bakouba
+          - Bakuba
         ascii_name: Ba`qubah
         geonamesid: 97990
         latitude: 33.74846
         longitude: 44.65545
         name: Ba‘qūbah
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Baqubah
+        names_es: 
+          - Baquba
         population: 152550
         timezone: Asia/Baghdad
       - 
@@ -524,6 +576,7 @@ regions:
           - "Al Miqdadiyah"
           - "Al Miqdādīyah"
           - Muqdadiyah
+          - Shahraban
         ascii_name: "Al Miqdadiyah"
         geonamesid: 99062
         latitude: 33.97861
@@ -538,6 +591,7 @@ regions:
           - "Al Khalis"
           - "Al Khāliş"
           - Al'-Khalisa
+          - Diltawah
         ascii_name: Khalis
         geonamesid: 99169
         latitude: 33.81996
@@ -549,7 +603,9 @@ regions:
         timezone: Asia/Baghdad
     geonamesid: 96965
     name: Diyala
-    names_en: ~
+    names_en: 
+      - Diyala
+      - "Diyala Province"
     names_es: ~
   - 
     ascii_name: "Dhi Qar"
@@ -559,6 +615,7 @@ regions:
           - "Ash Shatrah"
           - "Ash Shaţrah"
           - Shatra
+          - "Shatrat al Muntafiq"
         ascii_name: "Ash Shatrah"
         geonamesid: 98622
         latitude: 31.41171
@@ -573,13 +630,16 @@ regions:
           - Al-Nasiriya
           - "An Nasiriya"
           - "An Nasiriyah"
+          - "An Nāsirīya"
         ascii_name: "An Nasiriyah"
         geonamesid: 98854
         latitude: 31.05205
         longitude: 46.26102
         name: "An Nāşirīyah"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nasiriyah
+        names_es: 
+          - Nasiriya
         population: 400249
         timezone: Asia/Baghdad
       - 
@@ -587,6 +647,7 @@ regions:
           - "Al Fuhud"
           - "Al Fuhūd"
           - Fuhud
+          - Fuhūd
         ascii_name: "Nahiyat al Fuhud"
         geonamesid: 99439
         latitude: 30.96972
@@ -598,7 +659,8 @@ regions:
         timezone: Asia/Baghdad
     geonamesid: 97019
     name: "Dhi Qar"
-    names_en: ~
+    names_en: 
+      - "Dhi Qar"
     names_es: ~
   - 
     ascii_name: "Muhafazat Dahuk"
@@ -608,12 +670,14 @@ regions:
           - Zakho
           - Zakhu
           - Zaxo
+          - Zākhū
         ascii_name: Zakhu
         geonamesid: 89570
         latitude: 37.14817
         longitude: 42.70008
         name: Zākhū
-        names_en: ~
+        names_en: 
+          - Zakho
         names_es: ~
         population: 95052
         timezone: Asia/Baghdad
@@ -622,6 +686,7 @@ regions:
           - Sina
           - Sinah
           - Sine
+          - Sîne
         ascii_name: Sinah
         geonamesid: 90708
         latitude: 36.80902
@@ -636,12 +701,14 @@ regions:
           - Dahuk
           - Dahūk
           - Dakhuk
+          - Dihok
         ascii_name: Dahuk
         geonamesid: 96994
         latitude: 36.8695
         longitude: 42.99398
         name: Dahūk
-        names_en: ~
+        names_en: 
+          - Dahuk
         names_es: ~
         population: 0
         timezone: Asia/Baghdad
@@ -657,13 +724,16 @@ regions:
           - Bagda
           - Bagdad
           - Bagdadas
+          - Bagdado
         ascii_name: Baghdad
         geonamesid: 98182
         latitude: 33.34058
         longitude: 44.40088
         name: Baghdad
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Baghdad
+        names_es: 
+          - Bagdad
         population: 5672513
         timezone: Asia/Baghdad
       - 
@@ -671,13 +741,16 @@ regions:
           - "Abou Ghraib"
           - "Abu Ghraib"
           - "Abu Ghraib - abw ghryb"
+          - "Abu Ghraib - أبو غريب"
         ascii_name: "Abu Ghurayb"
         geonamesid: 100077
         latitude: 33.30833
         longitude: 44.185
         name: "Abū Ghurayb"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Abu Ghraib"
+        names_es: 
+          - "Abu Ghraib"
         population: 900000
         timezone: Asia/Baghdad
     geonamesid: 98180
@@ -692,6 +765,7 @@ regions:
           - "Al Hindiyah"
           - "Al Hindīyah"
           - Hindiya
+          - Hindīya
         ascii_name: "Saddat al Hindiyah"
         geonamesid: 91812
         latitude: 32.71472
@@ -706,6 +780,7 @@ regions:
           - "Al Qasim"
           - "Al Qāsim"
           - Al'-Kasim
+          - "Imam Qasim"
         ascii_name: "Al Qasim"
         geonamesid: 99010
         latitude: 32.29799
@@ -720,6 +795,7 @@ regions:
           - "Al Musaiyib"
           - "Al Musayyib"
           - Al'-Ehl'-Musajibe
+          - Mosayab
         ascii_name: "Al Musayyib"
         geonamesid: 99039
         latitude: 32.78332
@@ -734,12 +810,14 @@ regions:
           - "Al Hilla"
           - "Al Hillah"
           - "Al Ḩillah"
+          - Al'-Khilla
         ascii_name: "Al Hillah"
         geonamesid: 99347
         latitude: 32.48014
         longitude: 44.43526
         name: "Al Ḩillah"
-        names_en: ~
+        names_en: 
+          - "Al Hillah"
         names_es: ~
         population: 289709
         timezone: Asia/Baghdad
@@ -755,13 +833,16 @@ regions:
           - "Karkh Slukh"
           - Karkuk
           - Karkūk
+          - Kerkouk
         ascii_name: Kirkuk
         geonamesid: 94787
         latitude: 35.46806
         longitude: 44.39222
         name: Kirkuk
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kirkuk
+        names_es: 
+          - Kirkuk
         population: 601433
         timezone: Asia/Baghdad
     geonamesid: 98410
@@ -776,12 +857,14 @@ regions:
           - Alabja
           - Halabdscha
           - Halabia
+          - Halabja
         ascii_name: Halabjah
         geonamesid: 96205
         latitude: 35.17778
         longitude: 45.98611
         name: Ḩalabjah
-        names_en: ~
+        names_en: 
+          - Halabja
         names_es: ~
         population: 57333
         timezone: Asia/Baghdad
@@ -790,6 +873,7 @@ regions:
           - Chamchamal
           - Chamchamāl
           - Chemchemal
+          - Chemchemāl
         ascii_name: Chamchamal
         geonamesid: 97417
         latitude: 35.53653
@@ -804,6 +888,7 @@ regions:
           - Banjuwayn
           - Banjwin
           - Banjwīn
+          - Pandjvin
         ascii_name: Paynjuwayn
         geonamesid: 98012
         latitude: 35.6183
@@ -818,13 +903,16 @@ regions:
           - Al-Sulaimaniya
           - "As Sulaymaniyah"
           - "As Sulaymānīyah"
+          - As-Sulaymaniyah
         ascii_name: "As Sulaymaniyah"
         geonamesid: 98463
         latitude: 35.56113
         longitude: 45.43749
         name: "As Sulaymānīyah"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sulaymaniyah
+        names_es: 
+          - Suleimaniya
         population: 723170
         timezone: Asia/Baghdad
     geonamesid: 98465
@@ -839,13 +927,16 @@ regions:
           - "Al Najaf al Ashraf"
           - "An Najaf"
           - "An Najaf al Ashraf"
+          - An-Najaf
         ascii_name: "An Najaf al Ashraf"
         geonamesid: 98860
         latitude: 31.99854
         longitude: 44.33976
         name: "An Najaf al Ashraf"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Najaf
+        names_es: 
+          - Nayaf
         population: 482576
         timezone: Asia/Baghdad
       - 
@@ -853,6 +944,7 @@ regions:
           - "Al Faysaliyah"
           - "Al Fayşalīyah"
           - "Al Mishkhab"
+          - "Al Mishkhāb"
         ascii_name: "Al Mishkhab"
         geonamesid: 99060
         latitude: 31.80416
@@ -874,6 +966,7 @@ regions:
           - "Ash Shinafiyah"
           - "Ash Shināfīyah"
           - Chinafiyah
+          - "Nahiyat ash Shinafiyah"
         ascii_name: "Nahiyat ash Shinafiyah"
         geonamesid: 98589
         latitude: 31.58737
@@ -888,6 +981,7 @@ regions:
           - "Ash Shamiya"
           - "Ash Shamiyah"
           - "Ash Shāmīya"
+          - "Ash Shāmīyah"
         ascii_name: "Ash Shamiyah"
         geonamesid: 98629
         latitude: 31.96362
@@ -902,6 +996,7 @@ regions:
           - "Al Ghammas"
           - "Al Ghammās"
           - Ghammas
+          - Ghammās
         ascii_name: "Nahiyat Ghammas"
         geonamesid: 99434
         latitude: 31.74311
@@ -916,6 +1011,7 @@ regions:
           - Afag
           - Afak
           - Afaq
+          - "Sok el Afej"
         ascii_name: "`Afak"
         geonamesid: 99738
         latitude: 32.06898
@@ -930,6 +1026,7 @@ regions:
           - "Ad Diwania"
           - "Ad Diwaniya"
           - "Ad Diwaniyah"
+          - "Ad Dīwānīya"
         ascii_name: "Ad Diwaniyah"
         geonamesid: 99762
         latitude: 31.99051
@@ -951,6 +1048,7 @@ regions:
           - "As Samawah"
           - "As Samāwah"
           - SAMAWA
+          - Samava
         ascii_name: "As Samawah"
         geonamesid: 98530
         latitude: 31.33198
@@ -965,6 +1063,7 @@ regions:
           - Al-Rumitha
           - "Ar Rumaythah"
           - Rumaith
+          - Rumaitha
         ascii_name: "Ar Rumaythah"
         geonamesid: 98685
         latitude: 31.52629
@@ -986,6 +1085,7 @@ regions:
           - Rawa
           - Rawah
           - Rāwah
+          - راوة
         ascii_name: Rawah
         geonamesid: 92004
         latitude: 34.48164
@@ -1014,6 +1114,7 @@ regions:
           - "Al Hadithah"
           - "Al Ḩadīthah"
           - Haditha
+          - Hadithah
         ascii_name: Hadithah
         geonamesid: 96309
         latitude: 34.13972
@@ -1028,6 +1129,7 @@ regions:
           - "Al Rutbah"
           - "Ar Rutbah"
           - "Ar Ruţbah"
+          - Rutba
         ascii_name: "Ar Rutbah"
         geonamesid: 98677
         latitude: 33.03807
@@ -1042,13 +1144,16 @@ regions:
           - Al-Rumadi
           - "Ar Ramadi"
           - "Ar Ramādī"
+          - Ramadi
         ascii_name: "Ar Ramadi"
         geonamesid: 98717
         latitude: 33.42257
         longitude: 43.30584
         name: "Ar Ramādī"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ramadi
+        names_es: 
+          - Ramadi
         population: 274539
         timezone: Asia/Baghdad
       - 
@@ -1056,6 +1161,7 @@ regions:
           - Ana
           - Anah
           - "`Anah"
+          - "`Anat al Qadimah"
         ascii_name: "`Anat al Qadimah"
         geonamesid: 98885
         latitude: 34.46589
@@ -1070,16 +1176,20 @@ regions:
           - "Al Falludza"
           - "Al Falludża"
           - "Al Falluja"
+          - "Al Fallujah"
         ascii_name: "Al Fallujah"
         geonamesid: 99454
         latitude: 33.3538
         longitude: 43.77951
         name: "Al Fallūjah"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Fallujah
+        names_es: 
+          - Faluya
         population: 190159
         timezone: Asia/Baghdad
     geonamesid: 99592
     name: Anbar
-    names_en: ~
+    names_en: 
+      - Anbar
     names_es: ~

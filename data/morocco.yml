@@ -2,8 +2,12 @@
 geonamesid: 2542007
 iso: MA
 name: Morocco
-names_en: ~
-names_es: ~
+names_en: 
+  - Morocco
+  - "Kingdom of Morocco"
+names_es: 
+  - "Reino de Marruecos"
+  - Marruecos
 regions: 
   - 
     ascii_name: "Region de Rabat-Sale-Zemmour-Zaer"
@@ -24,13 +28,16 @@ regions:
           - Sala
           - Sale
           - Sali
+          - Sallee
         ascii_name: Sale
         geonamesid: 2537763
         latitude: 34.03892
         longitude: -6.8166
         name: Salé
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Salé
+        names_es: 
+          - Salé
         population: 903485
         timezone: Africa/Casablanca
       - 
@@ -38,13 +45,16 @@ regions:
           - Rabat
           - Rabatas
           - Rampat
+          - alrbat
         ascii_name: Rabat
         geonamesid: 2538475
         latitude: 34.01325
         longitude: -6.83255
         name: Rabat
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rabat
+        names_es: 
+          - Rabat
         population: 1655753
         timezone: Africa/Casablanca
       - 
@@ -66,6 +76,7 @@ regions:
           - "Ac Ckhirat"
           - "Aç Çkhirat"
           - "Kasba Skira"
+          - "Minaret de Skhirat"
         ascii_name: Skhirat
         geonamesid: 2562055
         latitude: 33.84984
@@ -99,12 +110,14 @@ regions:
           - Mekinez
           - Meknes
           - Meknès
+          - "mei ke nei si"
         ascii_name: Meknes
         geonamesid: 2542715
         latitude: 33.89352
         longitude: -5.54727
         name: Meknès
-        names_en: ~
+        names_en: 
+          - Meknes
         names_es: ~
         population: 545705
         timezone: Africa/Casablanca
@@ -166,13 +179,16 @@ regions:
           - Marakes
           - Marakesh
           - Marakeso
+          - Marakeŝo
         ascii_name: Marrakech
         geonamesid: 2542997
         latitude: 31.63148
         longitude: -8.00828
         name: Marrakech
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Marrakech
+        names_es: 
+          - Marrakech
         population: 839296
         timezone: Africa/Casablanca
       - 
@@ -180,19 +196,23 @@ regions:
           - "As Suwayrah"
           - "Aş Şuwayrah"
           - Ehs-Suvejra
+          - Ehssuehjra
         ascii_name: Essaouira
         geonamesid: 2549263
         latitude: 31.5125
         longitude: -9.77
         name: Essaouira
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Essaouira
+        names_es: 
+          - Essaouira
         population: 70634
         timezone: Africa/Casablanca
     geonamesid: 2542995
     name: "Marrakech-Tensift-Al Haouz"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Marrakech
   - 
     ascii_name: "Region de Fes-Boulemane"
     cities: 
@@ -215,13 +235,16 @@ regions:
           - Fes
           - Fez
           - Fès
+          - fas
         ascii_name: Fes
         geonamesid: 2548885
         latitude: 34.03715
         longitude: -4.9998
         name: Fès
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Fes
+        names_es: 
+          - Fez
         population: 964891
         timezone: Africa/Casablanca
     geonamesid: 2548882
@@ -236,6 +259,7 @@ regions:
           - "Al Muhammadiyah"
           - "Al Muḩammadīyah"
           - Fadalah
+          - Faḑālah
         ascii_name: Mohammedia
         geonamesid: 2542051
         latitude: 33.70659
@@ -250,19 +274,23 @@ regions:
           - "Ad Dar al Bayda'"
           - "Ad Dār al Bayḑā’"
           - Anfa
+          - "Casa Branca"
         ascii_name: Casablanca
         geonamesid: 2553604
         latitude: 33.59278
         longitude: -7.61916
         name: Casablanca
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Casablanca
+        names_es: 
+          - Casablanca
         population: 3144909
         timezone: Africa/Casablanca
     geonamesid: 2553603
     name: "Grand Casablanca"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Casablanca
   - 
     ascii_name: "Region de Chaouia-Ouardigha"
     cities: 
@@ -271,12 +299,14 @@ regions:
           - Settat
           - stat
           - Сеттат
+          - سطات
         ascii_name: Settat
         geonamesid: 2537406
         latitude: 33.0007
         longitude: -7.62035
         name: Settat
-        names_en: ~
+        names_en: 
+          - Settat
         names_es: ~
         population: 119082
         timezone: Africa/Casablanca
@@ -296,6 +326,7 @@ regions:
           - Nouaceur
           - Nouaseur
           - Nwacer
+          - Nwaçer
         ascii_name: Nouaseur
         geonamesid: 2541210
         latitude: 33.3802
@@ -310,12 +341,14 @@ regions:
           - Khouribga
           - Khouribja
           - Kouriga
+          - Kourigha
         ascii_name: Khouribga
         geonamesid: 2544248
         latitude: 32.88108
         longitude: -6.9063
         name: Khouribga
-        names_en: ~
+        names_en: 
+          - Khouribga
         names_es: ~
         population: 167673
         timezone: Africa/Casablanca
@@ -324,6 +357,7 @@ regions:
           - Bouzhika
           - Bouznika
           - Bouzniqa
+          - Buznike
         ascii_name: Bouznika
         geonamesid: 2553751
         latitude: 33.78942
@@ -372,6 +406,7 @@ regions:
           - "Sidi Smail"
           - "Sidi Smaine"
           - "Sidi Smaïl"
+          - "Sidi Smaïne"
         ascii_name: "Sidi Smail"
         geonamesid: 2532918
         latitude: 32.82268
@@ -397,12 +432,14 @@ regions:
           - Asfi
           - Safi
           - Safim
+          - asfy
         ascii_name: Safi
         geonamesid: 2537881
         latitude: 32.29939
         longitude: -9.23718
         name: Safi
-        names_en: ~
+        names_en: 
+          - Safi
         names_es: ~
         population: 288163
         timezone: Africa/Casablanca
@@ -411,12 +448,14 @@ regions:
           - "Al Jadida"
           - "Al Yadida"
           - Ehl'-Dzhadida
+          - "El Jadida"
         ascii_name: "El Jadida"
         geonamesid: 2550078
         latitude: 33.25492
         longitude: -8.50602
         name: "El Jadida"
-        names_en: ~
+        names_en: 
+          - "El Jadida"
         names_es: ~
         population: 147549
         timezone: Africa/Casablanca
@@ -446,6 +485,7 @@ regions:
           - "El Arba du Gharb"
           - "El Arba du Rharb"
           - "El Arbaa du Rharb"
+          - "El Arboa du Rharb"
         ascii_name: "Souq Larb'a al Gharb"
         geonamesid: 2532394
         latitude: 34.68664
@@ -460,6 +500,7 @@ regions:
           - "Sidi Yahia al Gharb"
           - "Sidi Yahia del Garb"
           - "Sidi Yahia el Gharb"
+          - "Sidi Yahia el Rharb"
         ascii_name: "Sidi Yahia el Gharb"
         geonamesid: 2532822
         latitude: 34.30652
@@ -474,6 +515,7 @@ regions:
           - "Sidi Slamain"
           - "Sidi Sliman"
           - "Sidi Slimane"
+          - Sidi-Slimane
         ascii_name: "Sidi Slimane"
         geonamesid: 2532945
         latitude: 34.26478
@@ -488,12 +530,14 @@ regions:
           - Petitjean
           - Pettijean
           - "Sidi Kacem"
+          - "Sidi Qacem"
         ascii_name: "Sidi Qacem"
         geonamesid: 2533191
         latitude: 34.22149
         longitude: -5.70775
         name: "Sidi Qacem"
-        names_en: ~
+        names_en: 
+          - "Sidi Kacem"
         names_es: ~
         population: 74755
         timezone: Africa/Casablanca
@@ -502,6 +546,7 @@ regions:
           - Ouazzane
           - Quazzane
           - Uazan
+          - Uazán
         ascii_name: Ouazzane
         geonamesid: 2540810
         latitude: 34.79711
@@ -516,6 +561,7 @@ regions:
           - Ksiri
           - "Mechra Belqsiri"
           - "Mechra al Ksiri"
+          - Mechra-bel-Kairi
         ascii_name: "Mechra Belqsiri"
         geonamesid: 2542866
         latitude: 34.57396
@@ -530,13 +576,16 @@ regions:
           - "Al Qunaytirah"
           - "Al Qunayţirah"
           - Kenitra
+          - Khenifra
         ascii_name: Kenitra
         geonamesid: 2544571
         latitude: 34.26101
         longitude: -6.5802
         name: Kenitra
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kenitra
+        names_es: 
+          - Kenitra
         population: 366570
         timezone: Africa/Casablanca
     geonamesid: 2597550
@@ -551,12 +600,14 @@ regions:
           - Tan-Tan
           - tantan
           - Тан-Тан
+          - طانطان
         ascii_name: Tan-Tan
         geonamesid: 2530241
         latitude: 28.43799
         longitude: -11.10321
         name: Tan-Tan
-        names_en: ~
+        names_en: 
+          - Tan-Tan
         names_es: ~
         population: 61924
         timezone: Africa/Casablanca
@@ -565,12 +616,14 @@ regions:
           - Goulimine
           - Guelmim
           - klmym
+          - كلميم
         ascii_name: Guelmim
         geonamesid: 2548526
         latitude: 28.98696
         longitude: -10.05738
         name: Guelmim
-        names_en: ~
+        names_en: 
+          - Guelmim
         names_es: ~
         population: 98229
         timezone: Africa/Casablanca
@@ -586,6 +639,7 @@ regions:
           - "Toumiat Zaio"
           - "Toumiat Zaïo"
           - Tumiat
+          - "Tumiat Zaio"
         ascii_name: Zaio
         geonamesid: 2526435
         latitude: 34.94282
@@ -611,12 +665,14 @@ regions:
           - Oudja
           - Oudjda
           - Ouja
+          - Oujda
         ascii_name: Oujda
         geonamesid: 2540483
         latitude: 34.68052
         longitude: -1.90764
         name: Oujda
-        names_en: ~
+        names_en: 
+          - Oujda
         names_es: ~
         population: 405253
         timezone: Africa/Casablanca
@@ -625,13 +681,16 @@ regions:
           - Nador
           - Nadoras
           - "Villa Nador"
+          - alnazwr
         ascii_name: Nador
         geonamesid: 2541479
         latitude: 35.17404
         longitude: -2.92866
         name: Nador
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nador
+        names_es: 
+          - Nador
         population: 129260
         timezone: Africa/Casablanca
       - 
@@ -639,6 +698,7 @@ regions:
           - Djerada
           - Dzherada
           - Jerada
+          - Джерада
         ascii_name: Jerada
         geonamesid: 2545017
         latitude: 34.31
@@ -665,6 +725,7 @@ regions:
           - "Aioun Sidi Mellouk"
           - "Al 'Youn"
           - "Al ’Youn"
+          - "El Aioun"
         ascii_name: "El Aioun"
         geonamesid: 2550806
         latitude: 34.58319
@@ -679,12 +740,14 @@ regions:
           - Berkan
           - Berkane
           - Berkawe
+          - Berkán
         ascii_name: Berkane
         geonamesid: 2555467
         latitude: 34.92
         longitude: -2.32
         name: Berkane
-        names_en: ~
+        names_en: 
+          - Berkane
         names_es: ~
         population: 80721
         timezone: Africa/Casablanca
@@ -739,6 +802,7 @@ regions:
           - Tineghir
           - Tinerhir
           - Tinghir
+          - Tinrhir
         ascii_name: Tineghir
         geonamesid: 2527915
         latitude: 31.51571
@@ -781,13 +845,16 @@ regions:
           - Ifni
           - "Sidi Ifni"
           - Sidifni
+          - "sydy afny"
         ascii_name: "Sidi Ifni"
         geonamesid: 2534515
         latitude: 29.37975
         longitude: -10.17299
         name: "Sidi Ifni"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Sidi Ifni"
+        names_es: 
+          - "Sidi Ifni"
         population: 20000
         timezone: Africa/Casablanca
       - 
@@ -809,12 +876,14 @@ regions:
           - Ouarzazat
           - Ouarzazate
           - Ouarzazte
+          - Ouorzazate
         ascii_name: Ouarzazat
         geonamesid: 2540850
         latitude: 30.91894
         longitude: -6.89341
         name: Ouarzazat
-        names_en: ~
+        names_en: 
+          - Ouarzazate
         names_es: ~
         population: 57245
         timezone: Africa/Casablanca
@@ -823,13 +892,16 @@ regions:
           - Agadair
           - Agadir
           - "Agadir - akadyr"
+          - "Agadir - اكادير"
         ascii_name: Agadir
         geonamesid: 2561668
         latitude: 30.42018
         longitude: -9.59815
         name: Agadir
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Agadir
+        names_es: 
+          - Agadir
         population: 698310
         timezone: Africa/Casablanca
       - 
@@ -858,12 +930,14 @@ regions:
           - Ifran
           - Ifrane
           - Lfrane
+          - Ифран
         ascii_name: Ifrane
         geonamesid: 2543394
         latitude: 31.70217
         longitude: -6.3494
         name: Ifrane
-        names_en: ~
+        names_en: 
+          - Ifrane
         names_es: ~
         population: 13000
         timezone: Africa/Casablanca
@@ -897,12 +971,14 @@ regions:
           - "Beni Mellal"
           - Beni-Mellal'
           - Beni-Mellal-Centre
+          - "bny mlal"
         ascii_name: "Beni Mellal"
         geonamesid: 2555745
         latitude: 32.33725
         longitude: -6.34984
         name: "Beni Mellal"
-        names_en: ~
+        names_en: 
+          - "Beni Mellal"
         names_es: ~
         population: 166399
         timezone: Africa/Casablanca
@@ -918,13 +994,16 @@ regions:
           - Tetouan
           - Tetuan
           - Tetuán
+          - Tétouan
         ascii_name: Tetouan
         geonamesid: 2528910
         latitude: 35.57109
         longitude: -5.37242
         name: Tétouan
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tétouan
+        names_es: 
+          - Tetuán
         population: 326261
         timezone: Africa/Casablanca
       - 
@@ -932,13 +1011,16 @@ regions:
           - Tanger
           - Tangeri
           - Tangero
+          - Tangier
         ascii_name: Tangier
         geonamesid: 2530335
         latitude: 35.78058
         longitude: -5.81365
         name: Tangier
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tangier
+        names_es: 
+          - Tánger
         population: 688356
         timezone: Africa/Casablanca
       - 
@@ -946,6 +1028,7 @@ regions:
           - Martil
           - "Rio Martin"
           - "Rio Martine"
+          - "Río Martín"
         ascii_name: Martil
         geonamesid: 2542987
         latitude: 35.61662
@@ -960,13 +1043,16 @@ regions:
           - "Al `Ara'ish"
           - "Al ‘Arā’īsh"
           - Al-Araisz
+          - "El Aaraich"
         ascii_name: Larache
         geonamesid: 2543549
         latitude: 35.19321
         longitude: -6.15572
         name: Larache
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Larache
+        names_es: 
+          - Larache
         population: 109294
         timezone: Africa/Casablanca
       - 
@@ -974,6 +1060,7 @@ regions:
           - Alcazarquebir
           - Alcazarquivir
           - Alcazquivir
+          - "El Ksar El Kbir"
         ascii_name: "Ksar el Kebir"
         geonamesid: 2544001
         latitude: 35.00174
@@ -988,13 +1075,15 @@ regions:
           - Chaouen
           - Chaouèn
           - Chauen
+          - Chechaouen
         ascii_name: Chefchaouene
         geonamesid: 2553455
         latitude: 35.16878
         longitude: -5.2636
         name: Chefchaouene
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Xauen
         population: 36280
         timezone: Africa/Casablanca
       - 
@@ -1002,13 +1091,16 @@ regions:
           - Arcila
           - Arcilas
           - Arsila
+          - Arzila
         ascii_name: Asilah
         geonamesid: 2557055
         latitude: 35.46502
         longitude: -6.0348
         name: Asilah
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Asilah
+        names_es: 
+          - Arcila
         population: 28861
         timezone: Africa/Casablanca
     geonamesid: 2597556
@@ -1034,12 +1126,14 @@ regions:
           - Taza
           - tazh
           - tazt
+          - Таза
         ascii_name: Taza
         geonamesid: 2529317
         latitude: 34.21
         longitude: -4.01
         name: Taza
-        names_en: ~
+        names_en: 
+          - Taza
         names_es: ~
         population: 141890
         timezone: Africa/Casablanca
@@ -1048,6 +1142,7 @@ regions:
           - Taounat
           - Taounate
           - Taunat
+          - Tawnat
         ascii_name: Taounate
         geonamesid: 2530155
         latitude: 34.53822
@@ -1075,6 +1170,7 @@ regions:
           - "Ain Zoren"
           - "Aïn Zorèn"
           - "Im Zouren"
+          - Imzourene
         ascii_name: Imzourene
         geonamesid: 2545985
         latitude: 35.15
@@ -1102,13 +1198,18 @@ regions:
           - "A Hoseima"
           - "Al Hoceima"
           - "Al Hoceïma"
+          - "Al Huceima"
         ascii_name: "Al Hoceima"
         geonamesid: 2558545
         latitude: 35.24333
         longitude: -3.93092
         name: "Al Hoceïma"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Al Hoceima"
+        names_es: 
+          - "Villa Sanjurjo"
+          - "Villa Alhucemas"
+          - Alhucemas
         population: 0
         timezone: Africa/Casablanca
     geonamesid: 2597557

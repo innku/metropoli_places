@@ -2,8 +2,14 @@
 geonamesid: 130758
 iso: IR
 name: Iran
-names_en: ~
-names_es: ~
+names_en: 
+  - "Empire of Iran"
+  - Iran
+  - "Islamic Republic of Iran"
+names_es: 
+  - Irán
+  - Persia
+  - "Irán (República Islámica)"
 regions: 
   - 
     ascii_name: "Ostan-e Tehran"
@@ -13,6 +19,7 @@ regions:
           - Qarchak
           - "Qareh Chak"
           - "qarih chak"
+          - قرچك
         ascii_name: Qarchak
         geonamesid: 32767
         latitude: 35.43944
@@ -27,6 +34,7 @@ regions:
           - Varamin
           - Varāmīn
           - Veramin
+          - Verāmin
         ascii_name: Varamin
         geonamesid: 112214
         latitude: 35.3242
@@ -41,13 +49,16 @@ regions:
           - Taekhran
           - Tahran
           - Techerane
+          - Teera
         ascii_name: Tehran
         geonamesid: 112931
         latitude: 35.69439
         longitude: 51.42151
         name: Tehrān
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tehran
+        names_es: 
+          - Teherán
         population: 7153309
         timezone: Asia/Tehran
       - 
@@ -55,6 +66,7 @@ regions:
           - "Robat Karim"
           - "Robāţ Karīm"
           - Shahriar
+          - Shahryar
         ascii_name: "Robat Karim"
         geonamesid: 118367
         latitude: 35.4846
@@ -69,6 +81,7 @@ regions:
           - "Emamzadeh Ja`far"
           - "Emāmzādeh Ja‘far"
           - Pichva
+          - Pishva
         ascii_name: Pishva
         geonamesid: 120972
         latitude: 35.308
@@ -83,6 +96,7 @@ regions:
           - Malar
           - Malard
           - Malār
+          - Malārd
         ascii_name: Malard
         geonamesid: 125188
         latitude: 35.6659
@@ -97,6 +111,7 @@ regions:
           - Damavand
           - Damāvand
           - Demavend
+          - Demāvend
         ascii_name: Damavand
         geonamesid: 138042
         latitude: 35.71778
@@ -111,6 +126,7 @@ regions:
           - "Ali Shah `Iwaz"
           - "Ali Shāh ‘Iwaz"
           - Shahreyar
+          - Shahreyār
         ascii_name: Shahriar
         geonamesid: 143860
         latitude: 35.6596
@@ -125,6 +141,7 @@ regions:
           - Eqbalieh
           - Eqbaliyeh
           - Eqbālīeh
+          - Eqbālīyeh
         ascii_name: Eqbaliyeh
         geonamesid: 406993
         latitude: 35.3022
@@ -160,6 +177,7 @@ regions:
           - Zanjan
           - Zanjān
           - Zendzhan
+          - Zenjan
         ascii_name: Zanjan
         geonamesid: 111453
         latitude: 36.6736
@@ -174,6 +192,7 @@ regions:
           - Alband
           - Alvand
           - Alwand
+          - El'vend
         ascii_name: Alvand
         geonamesid: 143748
         latitude: 36.3187
@@ -188,6 +207,7 @@ regions:
           - Abhar
           - Abkhar
           - aabkhar
+          - abr
         ascii_name: Abhar
         geonamesid: 145034
         latitude: 36.1468
@@ -199,8 +219,11 @@ regions:
         timezone: Asia/Tehran
     geonamesid: 111452
     name: Zanjan
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Zanjan Province"
+      - Zanjan
+    names_es: 
+      - "Provincia de Zanjan"
   - 
     ascii_name: "Ostan-e Yazd"
     cities: 
@@ -209,13 +232,16 @@ regions:
           - Jazd
           - Jazdo
           - Jezd
+          - Yazd
         ascii_name: Yazd
         geonamesid: 111822
         latitude: 31.89722
         longitude: 54.3675
         name: Yazd
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Yazd
+        names_es: 
+          - Yazd
         population: 477905
         timezone: Asia/Tehran
       - 
@@ -223,6 +249,7 @@ regions:
           - Taft
           - taft
           - Тафт
+          - تَفت
         ascii_name: Taft
         geonamesid: 113632
         latitude: 31.7475
@@ -237,6 +264,7 @@ regions:
           - Golshan
           - Gulshan
           - Tabas
+          - tbs
         ascii_name: Tabas
         geonamesid: 113659
         latitude: 33.59586
@@ -251,6 +279,7 @@ regions:
           - Maibud
           - Meybod
           - mibud
+          - ميبد
         ascii_name: Meybod
         geonamesid: 124193
         latitude: 32.24828
@@ -265,6 +294,7 @@ regions:
           - Mehriz
           - Mehrīz
           - mihryz
+          - مِهريز
         ascii_name: Mehriz
         geonamesid: 124274
         latitude: 31.58389
@@ -279,6 +309,7 @@ regions:
           - Bafk
           - Bafq
           - Bāfq
+          - bafq
         ascii_name: Bafq
         geonamesid: 142255
         latitude: 31.61283
@@ -293,6 +324,7 @@ regions:
           - Ardakan
           - Ardakān
           - Ardekan
+          - aardakan
         ascii_name: Ardakan
         geonamesid: 143073
         latitude: 32.31001
@@ -307,6 +339,7 @@ regions:
           - "Khas Kuh"
           - "Khas Kuhi"
           - "Khas Kūhī"
+          - "Khavas Kuh"
         ascii_name: "Khavas Kuh"
         geonamesid: 403220
         latitude: 32.30611
@@ -328,6 +361,7 @@ regions:
           - "Istgah-e Garmsar"
           - "Istgah-e Rah Ahan Garmsar"
           - "Istgah-e Rah Ahan-e Garmsar"
+          - "aystgah grmsar"
         ascii_name: "Istgah-e Garmsar"
         geonamesid: 32723
         latitude: 35.23455
@@ -342,6 +376,7 @@ regions:
           - Samnan
           - Samnān
           - Semnan
+          - Semnān
         ascii_name: Semnan
         geonamesid: 116402
         latitude: 35.57291
@@ -356,12 +391,14 @@ regions:
           - Emamshahr
           - Emāmshahr
           - Shahrud
+          - Sharud
         ascii_name: Shahrud
         geonamesid: 135423
         latitude: 36.41819
         longitude: 54.97628
         name: Shāhrūd
-        names_en: ~
+        names_en: 
+          - Emamshahr
         names_es: ~
         population: 131889
         timezone: Asia/Tehran
@@ -370,6 +407,7 @@ regions:
           - Damghan
           - Dāmghān
           - damghan
+          - دامغان
         ascii_name: Damghan
         geonamesid: 138025
         latitude: 36.1683
@@ -381,8 +419,11 @@ regions:
         timezone: Asia/Tehran
     geonamesid: 116401
     name: Semnān
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Semnān Province"
+      - Semnān
+    names_es: 
+      - "Provincia de Semnan"
   - 
     ascii_name: Mazandaran
     cities: 
@@ -391,6 +432,7 @@ regions:
           - Shahsavar
           - Shahsavār
           - Shahsawar
+          - Shahsawār
         ascii_name: Tonekabon
         geonamesid: 112656
         latitude: 36.80861
@@ -405,13 +447,16 @@ regions:
           - Sari
           - "Sari i Iran"
           - Sariyo
+          - Shahr-i-Tajan
         ascii_name: Shari-i-Tajan
         geonamesid: 116996
         latitude: 36.56297
         longitude: 53.05652
         name: Shari-i-Tajan
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sari
+        names_es: 
+          - Sári
         population: 255396
         timezone: Asia/Tehran
       - 
@@ -419,6 +464,7 @@ regions:
           - "Naranj Bagh"
           - Neka
           - Neka'
+          - Nekā
         ascii_name: Neka'
         geonamesid: 122397
         latitude: 36.65143
@@ -433,6 +479,7 @@ regions:
           - Baghlu
           - Bāghlū
           - Juybar
+          - Jūybār
         ascii_name: Juybar
         geonamesid: 129933
         latitude: 36.64115
@@ -447,6 +494,7 @@ regions:
           - "Faridun Kinar"
           - "Fereidun Kenar"
           - "Fereydun Kenar"
+          - "Fereydūn Kenār"
         ascii_name: "Fereydun Kenar"
         geonamesid: 134602
         latitude: 36.68642
@@ -461,6 +509,7 @@ regions:
           - Chalus
           - Chālūs
           - chalws
+          - Чалус
         ascii_name: Chalus
         geonamesid: 139223
         latitude: 36.655
@@ -475,12 +524,14 @@ regions:
           - Ashraf
           - Behshahr
           - Bekhshekhr
+          - aashraf
         ascii_name: Behshahr
         geonamesid: 140918
         latitude: 36.69276
         longitude: 53.54598
         name: Behshahr
-        names_en: ~
+        names_en: 
+          - Behshahr
         names_es: ~
         population: 93500
         timezone: Asia/Tehran
@@ -489,6 +540,7 @@ regions:
           - Babolsar
           - "Babul Sar"
           - Bābolsar
+          - "Bābul Sar"
         ascii_name: Babolsar
         geonamesid: 142358
         latitude: 36.70251
@@ -503,12 +555,14 @@ regions:
           - Babol
           - Babol'
           - Babul
+          - Balfrush
         ascii_name: Babol
         geonamesid: 142363
         latitude: 36.55132
         longitude: 52.67895
         name: Bābol
-        names_en: ~
+        names_en: 
+          - Babol
         names_es: ~
         population: 202796
         timezone: Asia/Tehran
@@ -517,6 +571,7 @@ regions:
           - Amol
           - Amol'
           - Amul
+          - aml
         ascii_name: Amol
         geonamesid: 143534
         latitude: 36.46961
@@ -528,8 +583,11 @@ regions:
         timezone: Asia/Tehran
     geonamesid: 124544
     name: Māzandarān
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Māzandarān Province"
+      - Māzandarān
+    names_es: 
+      - Mazandarán
   - 
     ascii_name: Markazi
     cities: 
@@ -552,6 +610,7 @@ regions:
           - Sava
           - Saveh
           - Sāveh
+          - sawih
         ascii_name: Saveh
         geonamesid: 116667
         latitude: 35.0213
@@ -566,6 +625,7 @@ regions:
           - Khomein
           - Khomeyn
           - Khomeīn
+          - Khowmeyn
         ascii_name: Khomeyn
         geonamesid: 127403
         latitude: 33.64226
@@ -580,6 +640,7 @@ regions:
           - Dalijan
           - Dalijān
           - Delijan
+          - Delījān
         ascii_name: Delijan
         geonamesid: 136399
         latitude: 33.9905
@@ -594,13 +655,16 @@ regions:
           - Arak
           - "Arak - sawh"
           - "Arak - ساوه"
+          - Arok
         ascii_name: Arak
         geonamesid: 143127
         latitude: 34.09174
         longitude: 49.68916
         name: Arāk
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Arak
+        names_es: 
+          - Arak
         population: 503647
         timezone: Asia/Tehran
       - 
@@ -619,8 +683,11 @@ regions:
         timezone: Asia/Tehran
     geonamesid: 124763
     name: Markazi
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Markazi Province"
+      - Markazi
+    names_es: 
+      - Markazi
   - 
     ascii_name: "Ostan-e Lorestan"
     cities: 
@@ -629,6 +696,7 @@ regions:
           - Nurabad
           - Nūrābād
           - "nwr abad"
+          - Нурабад
         ascii_name: Nurabad
         geonamesid: 24851
         latitude: 34.0734
@@ -643,6 +711,7 @@ regions:
           - Kuh-i-Dasht
           - Kuhdasht
           - Kūh-ī-Dasht
+          - Kūhdasht
         ascii_name: Kuhdasht
         geonamesid: 126409
         latitude: 33.535
@@ -657,12 +726,14 @@ regions:
           - Khorramabad
           - Khorramābād
           - "Khur Ramabad"
+          - "Khur Ramābād"
         ascii_name: Khorramabad
         geonamesid: 127349
         latitude: 33.48778
         longitude: 48.35583
         name: Khorramābād
-        names_en: ~
+        names_en: 
+          - Khorramabad
         names_es: ~
         population: 329825
         timezone: Asia/Tehran
@@ -671,6 +742,7 @@ regions:
           - Borudzherd
           - Borujerd
           - Borūjerd
+          - Burujird
         ascii_name: Borujerd
         geonamesid: 140044
         latitude: 33.8973
@@ -685,6 +757,7 @@ regions:
           - Azna
           - Aznā
           - azna
+          - ازنا
         ascii_name: Azna
         geonamesid: 142496
         latitude: 33.6095
@@ -699,12 +772,14 @@ regions:
           - Aligoodarz
           - Aligudarz
           - Alīgūdarz
+          - "`Ali Gudar"
         ascii_name: Aligudarz
         geonamesid: 143921
         latitude: 33.40063
         longitude: 49.6949
         name: Alīgūdarz
-        names_en: ~
+        names_en: 
+          - Aligoodarz
         names_es: ~
         population: 91041
         timezone: Asia/Tehran
@@ -713,6 +788,7 @@ regions:
           - Alashtar
           - Aleshtar
           - Alishtar
+          - Alishtār
         ascii_name: Aleshtar
         geonamesid: 144269
         latitude: 33.8633
@@ -725,7 +801,8 @@ regions:
     geonamesid: 125605
     name: Lorestān
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Lorestán
   - 
     ascii_name: "Ostan-e Kordestan"
     cities: 
@@ -734,12 +811,14 @@ regions:
           - Saghez
           - Sakezo
           - Sakiz
+          - Sakīz
         ascii_name: Saqqez
         geonamesid: 117392
         latitude: 36.24992
         longitude: 46.2735
         name: Saqqez
-        names_en: ~
+        names_en: 
+          - Saqqez
         names_es: ~
         population: 151237
         timezone: Asia/Tehran
@@ -748,13 +827,16 @@ regions:
           - Sanandadsch
           - Sanandadz
           - Sanandadż
+          - Sanandaj
         ascii_name: Sanandaj
         geonamesid: 117574
         latitude: 35.3144
         longitude: 46.9923
         name: Sanandaj
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sanandaj
+        names_es: 
+          - Sanandaj
         population: 349176
         timezone: Asia/Tehran
       - 
@@ -762,6 +844,7 @@ regions:
           - Qorveh
           - Qurve
           - Qurveh
+          - qrwh
         ascii_name: Qorveh
         geonamesid: 119161
         latitude: 35.1664
@@ -790,6 +873,7 @@ regions:
           - Bidzhar
           - Bijar
           - Bījār
+          - byjar
         ascii_name: Bijar
         geonamesid: 140521
         latitude: 35.8668
@@ -804,6 +888,7 @@ regions:
           - Bane
           - Baneh
           - Bani
+          - Bāneh
         ascii_name: Baneh
         geonamesid: 141584
         latitude: 35.9975
@@ -825,6 +910,7 @@ regions:
           - Yasooj
           - Yasuj
           - Yesuj
+          - Yesūj
         ascii_name: Yasuj
         geonamesid: 66093
         latitude: 30.66824
@@ -839,6 +925,7 @@ regions:
           - "Do Gonbadan"
           - "Do Gonbadān"
           - "Dow Gonbadan"
+          - "Dow Gonbadān"
         ascii_name: "Do Gonbadan"
         geonamesid: 136014
         latitude: 30.3586
@@ -853,6 +940,7 @@ regions:
           - Dehdasht
           - Dehdast
           - Kuhgiluyeh
+          - dihdast
         ascii_name: Dehdasht
         geonamesid: 136987
         latitude: 30.7949
@@ -874,6 +962,7 @@ regions:
           - Shooshtar
           - Shushtar
           - Shushtehr
+          - Shustar
         ascii_name: Shushtar
         geonamesid: 114584
         latitude: 32.0455
@@ -888,13 +977,16 @@ regions:
           - Shoosh
           - Shush
           - Shūsh
+          - Susa
         ascii_name: Shush
         geonamesid: 114593
         latitude: 32.1942
         longitude: 48.2436
         name: Shūsh
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Susa
+        names_es: 
+          - Susa
         population: 52284
         timezone: Asia/Tehran
       - 
@@ -902,6 +994,7 @@ regions:
           - Fallabiyeh
           - Fallahiyeh
           - Fallehiyeh
+          - Fallābīyeh
         ascii_name: Shadegan
         geonamesid: 116102
         latitude: 30.64972
@@ -916,6 +1009,7 @@ regions:
           - Khalafabad
           - Khalafābād
           - "Khalas Abad"
+          - "Ram Shahr"
         ascii_name: Ramshir
         geonamesid: 118805
         latitude: 30.8946
@@ -930,6 +1024,7 @@ regions:
           - "Ram Hormuz"
           - Ramhormoz
           - Ramuz
+          - "Rām Hormuz"
         ascii_name: Ramhormoz
         geonamesid: 118826
         latitude: 31.27997
@@ -944,6 +1039,7 @@ regions:
           - Omidiyeh
           - "Omidiyeh Sherkat-e Naft"
           - Omīdīyeh
+          - "Omīdīyeh Sherkat-e Naft"
         ascii_name: Omidiyeh
         geonamesid: 121861
         latitude: 30.75972
@@ -958,6 +1054,7 @@ regions:
           - "Masjed Soleiman"
           - "Masjed Soleyman"
           - "Masjed Soleymān"
+          - "Masjed-e Soleyman"
         ascii_name: "Masjed Soleyman"
         geonamesid: 124620
         latitude: 31.9364
@@ -972,12 +1069,14 @@ regions:
           - Al-Muhammarah
           - Chorramschahr
           - "Khorram Shahr Abadan"
+          - "Khorram Shahr Ābādān"
         ascii_name: Khorramshahr
         geonamesid: 127319
         latitude: 30.4397
         longitude: 48.1664
         name: Khorramshahr
-        names_en: ~
+        names_en: 
+          - Khorramshahr
         names_es: ~
         population: 330606
         timezone: Asia/Tehran
@@ -986,6 +1085,7 @@ regions:
           - "Dasht-e Azadegan"
           - "Dasht-e Āzādegān"
           - Dasht-i-Mishan
+          - Dasht-i-Mishān
         ascii_name: Susangerd
         geonamesid: 137268
         latitude: 31.5608
@@ -1000,6 +1100,7 @@ regions:
           - Behbahan
           - Behbahān
           - Behbehan
+          - Behbehān
         ascii_name: Behbahan
         geonamesid: 140951
         latitude: 30.5959
@@ -1014,6 +1115,7 @@ regions:
           - "Bandar Chahpour"
           - "Bandar Khomani"
           - "Bandar Khomeini"
+          - "Bandar Khoumeini"
         ascii_name: "Bandar-e-Emam Khomeyni"
         geonamesid: 141668
         latitude: 30.43556
@@ -1028,12 +1130,14 @@ regions:
           - Ahvaz
           - "Ahvaz - ahwaz"
           - "Ahvaz - اهواز"
+          - Ahvāz
         ascii_name: Ahvaz
         geonamesid: 144448
         latitude: 31.3203
         longitude: 48.6693
         name: Ahvāz
-        names_en: ~
+        names_en: 
+          - Ahvaz
         names_es: ~
         population: 841145
         timezone: Asia/Tehran
@@ -1042,6 +1146,7 @@ regions:
           - "Agha Jari"
           - Aghajari
           - "Aqa Jari"
+          - "Āghā Jārī"
         ascii_name: Aghajari
         geonamesid: 144696
         latitude: 30.7006
@@ -1056,19 +1161,23 @@ regions:
           - Abadan
           - "Abadan - abadan"
           - Abadano
+          - Abadán
         ascii_name: Abadan
         geonamesid: 145459
         latitude: 30.3392
         longitude: 48.3043
         name: Ābādān
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Abadan
+        names_es: 
+          - Abadán
         population: 370180
         timezone: Asia/Tehran
     geonamesid: 127082
     name: Khūzestān
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Khuzestán
   - 
     ascii_name: "Ostan-e Kermanshah"
     cities: 
@@ -1091,6 +1200,7 @@ regions:
           - Sanghur
           - Sanghūr
           - Sonqor
+          - Sunqur
         ascii_name: Sonqor
         geonamesid: 114049
         latitude: 34.7837
@@ -1105,6 +1215,7 @@ regions:
           - "Pol-e Zahab"
           - "Pol-e Zohab"
           - "Pol-e Z̄ahāb"
+          - "Pol-e Z̄ohāb"
         ascii_name: "Sarpol-e Zahab"
         geonamesid: 120931
         latitude: 34.46109
@@ -1119,6 +1230,7 @@ regions:
           - Paveh
           - Pawah
           - Paweh
+          - Pāveh
         ascii_name: Paveh
         geonamesid: 121240
         latitude: 35.0434
@@ -1133,13 +1245,16 @@ regions:
           - Bahtaran
           - Bakhtaran
           - Bākhtarān
+          - Kermansah
         ascii_name: Kermanshah
         geonamesid: 128226
         latitude: 34.31417
         longitude: 47.065
         name: Kermānshāh
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kermanshah
+        names_es: 
+          - Kermanshah
         population: 621100
         timezone: Asia/Tehran
       - 
@@ -1161,6 +1276,7 @@ regions:
           - Juanru
           - Jūānrū
           - "Qal`a Juanrud"
+          - "Qal`a Jūanrūd"
         ascii_name: Javanrud
         geonamesid: 130245
         latitude: 34.79611
@@ -1209,12 +1325,14 @@ regions:
           - Sa`idabad
           - Sa‘īdābād
           - Sirdschan
+          - Sirjan
         ascii_name: Sirjan
         geonamesid: 114259
         latitude: 29.452
         longitude: 55.6814
         name: Sīrjān
-        names_en: ~
+        names_en: 
+          - Sirjan
         names_es: ~
         population: 207645
         timezone: Asia/Tehran
@@ -1223,6 +1341,7 @@ regions:
           - "Shahr Babak"
           - "Shahr Bābak"
           - "Shahr-e Babak"
+          - "Shahr-e Bābak"
         ascii_name: "Shahr-e Babak"
         geonamesid: 115781
         latitude: 30.1165
@@ -1237,6 +1356,7 @@ regions:
           - Ravar
           - Rāvar
           - rawr
+          - راور
         ascii_name: Ravar
         geonamesid: 118704
         latitude: 31.26562
@@ -1251,6 +1371,7 @@ regions:
           - Bahramabad
           - Bahrāmābād
           - Rafsandzhane
+          - Rafsanjan
         ascii_name: Rafsanjan
         geonamesid: 118994
         latitude: 30.4067
@@ -1265,6 +1386,7 @@ regions:
           - Bardesir
           - Bardesīr
           - Bardsir
+          - Bardsīr
         ascii_name: Bardsir
         geonamesid: 124647
         latitude: 29.9275
@@ -1279,13 +1401,16 @@ regions:
           - Carmana
           - Kerman
           - Kermán
+          - Kermān
         ascii_name: Kerman
         geonamesid: 128234
         latitude: 30.29368
         longitude: 57.08123
         name: Kermān
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kerman
+        names_es: 
+          - Kermán
         population: 577514
         timezone: Asia/Tehran
       - 
@@ -1293,12 +1418,14 @@ regions:
           - Bam
           - bamu
           - bm
+          - Бам
         ascii_name: Bam
         geonamesid: 141736
         latitude: 29.106
         longitude: 58.357
         name: Bam
-        names_en: ~
+        names_en: 
+          - Bam
         names_es: ~
         population: 99268
         timezone: Asia/Tehran
@@ -1307,6 +1434,7 @@ regions:
           - "Kuh Sefid"
           - "Kuh-e Sefid"
           - "Kūh Sefīd"
+          - "Kūh-e Sefīd"
         ascii_name: "Kuh Sefid"
         geonamesid: 390054
         latitude: 29.2762
@@ -1328,6 +1456,7 @@ regions:
           - Mansurabad
           - Mansūrābād
           - Mehran
+          - Mehrān
         ascii_name: Mehran
         geonamesid: 124291
         latitude: 33.1222
@@ -1342,6 +1471,7 @@ regions:
           - Elam
           - Elām
           - Ilam
+          - aylam
         ascii_name: Ilam
         geonamesid: 130802
         latitude: 33.6374
@@ -1356,6 +1486,7 @@ regions:
           - "Deh Lovan"
           - "Deh Lovān"
           - "Deh Luran"
+          - "Deh Lūrān"
         ascii_name: Dehloran
         geonamesid: 136702
         latitude: 32.6941
@@ -1370,6 +1501,7 @@ regions:
           - Abdanan
           - "Qal`a Ab-i-Danan"
           - "Qal`eh Ab-i-Danan"
+          - "Qal`eh-ye Ab Danan"
         ascii_name: Abdanan
         geonamesid: 145233
         latitude: 32.9926
@@ -1391,12 +1523,15 @@ regions:
           - "Bandar-e Qeshm"
           - Gheshm
           - Keshm
+          - Qeshm
         ascii_name: Qeshm
         geonamesid: 119374
         latitude: 26.9581
         longitude: 56.2719
         name: Qeshm
-        names_en: ~
+        names_en: 
+          - Qishm
+          - Gheshm
         names_es: ~
         population: 95000
         timezone: Asia/Tehran
@@ -1405,6 +1540,7 @@ regions:
           - Minab
           - Mīnāb
           - mynab
+          - Минаб
         ascii_name: Minab
         geonamesid: 123941
         latitude: 27.1467
@@ -1419,6 +1555,7 @@ regions:
           - Kish
           - Kīsh
           - kysh
+          - Киш
         ascii_name: Kish
         geonamesid: 126914
         latitude: 26.55778
@@ -1433,6 +1570,7 @@ regions:
           - "Bandar Langeh"
           - "Bandar-e Lengeh"
           - Bandar-e-Langeh
+          - Lengeh
         ascii_name: "Bandar-e Lengeh"
         geonamesid: 141665
         latitude: 26.55792
@@ -1447,19 +1585,24 @@ regions:
           - "Bandar Abbas"
           - "Bandar Abbas - بندر عباس"
           - "Bandar `Abbas"
+          - "Bandar `Abbasi"
         ascii_name: "Bandar 'Abbas"
         geonamesid: 141681
         latitude: 27.1865
         longitude: 56.2808
         name: "Bandar ‘Abbās"
-        names_en: ~
+        names_en: 
+          - "Bandar Abbas"
         names_es: ~
         population: 352173
         timezone: Asia/Tehran
     geonamesid: 131222
     name: Hormozgān
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Hormozgān Province"
+      - Hormozgān
+    names_es: 
+      - Hormozgan
   - 
     ascii_name: "Ostan-e Hamadan"
     cities: 
@@ -1468,6 +1611,7 @@ regions:
           - "Azad Shahr"
           - Azadshahr
           - Āzādshahr
+          - آزادشهر
         ascii_name: Azadshahr
         geonamesid: 14256
         latitude: 34.79088
@@ -1482,12 +1626,14 @@ regions:
           - Antiocheia
           - Nagavande
           - Nahavand
+          - Nahāvand
         ascii_name: Nahavand
         geonamesid: 122915
         latitude: 34.1885
         longitude: 48.377
         name: Nahāvand
-        names_en: ~
+        names_en: 
+          - Nahavand
         names_es: ~
         population: 76250
         timezone: Asia/Tehran
@@ -1496,6 +1642,7 @@ regions:
           - Daulatabad
           - Daūlatābād
           - Dowlatabad
+          - Dowlatābād
         ascii_name: Malayer
         geonamesid: 125185
         latitude: 34.2969
@@ -1510,12 +1657,14 @@ regions:
           - Ecbatana
           - Hamadan
           - Hamadān
+          - Hamedan
         ascii_name: Hamadan
         geonamesid: 132144
         latitude: 34.79922
         longitude: 48.51456
         name: Hamadān
-        names_en: ~
+        names_en: 
+          - Hamadan
         names_es: ~
         population: 528256
         timezone: Asia/Tehran
@@ -1524,6 +1673,7 @@ regions:
           - Famast
           - Fāmāst
           - Gamasb
+          - Gamasp
         ascii_name: pamas
         geonamesid: 134905
         latitude: 34.03792
@@ -1538,6 +1688,7 @@ regions:
           - Bahar
           - Bahār
           - Bakhar
+          - bahar
         ascii_name: Bahar
         geonamesid: 142000
         latitude: 34.9072
@@ -1552,6 +1703,7 @@ regions:
           - Asadabad
           - Asadabada
           - Asadābād
+          - "aasad abad"
         ascii_name: Asadabad
         geonamesid: 142872
         latitude: 34.78241
@@ -1584,6 +1736,7 @@ regions:
           - Gashpar
           - Hashtpar
           - "Hashtpar-e Tavalesh"
+          - "Otak Saray"
         ascii_name: Hashtpar
         geonamesid: 113343
         latitude: 37.8008
@@ -1598,6 +1751,7 @@ regions:
           - Rud-i-Sar
           - Rudsar
           - Rūd-i-Sar
+          - Rūdsar
         ascii_name: Rudsar
         geonamesid: 118191
         latitude: 37.13761
@@ -1612,12 +1766,14 @@ regions:
           - Rashjt
           - Rasht
           - Rast
+          - Rašt
         ascii_name: Rasht
         geonamesid: 118743
         latitude: 37.28077
         longitude: 49.58319
         name: Rasht
-        names_en: ~
+        names_en: 
+          - Rasht
         names_es: ~
         population: 594590
         timezone: Asia/Tehran
@@ -1626,6 +1782,7 @@ regions:
           - Langarood
           - Langarud
           - Langarūd
+          - Langerud
         ascii_name: Langerud
         geonamesid: 125897
         latitude: 37.19701
@@ -1640,12 +1797,14 @@ regions:
           - "Bandar Anzali"
           - "Bandar Pahlavi"
           - "Bandar Pahlevi"
+          - "Bandar-e Anzali"
         ascii_name: "Bandar-e Anzali"
         geonamesid: 141679
         latitude: 37.4727
         longitude: 49.4622
         name: "Bandar-e Anzalī"
-        names_en: ~
+        names_en: 
+          - "Bandar-e Anzali"
         names_es: ~
         population: 110826
         timezone: Asia/Tehran
@@ -1654,6 +1813,7 @@ regions:
           - Astara
           - Āstārā
           - Астара
+          - آستارا
         ascii_name: Astara
         geonamesid: 142676
         latitude: 38.4291
@@ -1668,6 +1828,7 @@ regions:
           - Astane
           - Astaneh
           - "Astaneh-ye Ashrafiyeh"
+          - Āstāneh
         ascii_name: "Astaneh-ye Ashrafiyeh"
         geonamesid: 142679
         latitude: 37.25962
@@ -1689,6 +1850,7 @@ regions:
           - Chimaz
           - Chiraz
           - Schiras
+          - Shiraz
         ascii_name: Shiraz
         geonamesid: 115019
         latitude: 29.6036
@@ -1717,6 +1879,7 @@ regions:
           - Neyriz
           - Neyrīz
           - Niriz
+          - Nīrīz
         ascii_name: Neyriz
         geonamesid: 122289
         latitude: 29.1988
@@ -1744,6 +1907,7 @@ regions:
           - Kasrun
           - Kazarun
           - Kazeroun
+          - Kazerun
         ascii_name: Kazerun
         geonamesid: 128321
         latitude: 29.61949
@@ -1758,6 +1922,7 @@ regions:
           - Gerash
           - Gerāsh
           - Girash
+          - Girāsh
         ascii_name: Gerash
         geonamesid: 133595
         latitude: 27.6652
@@ -1786,6 +1951,7 @@ regions:
           - Fasa
           - Fassa
           - Fasā
+          - فسا
         ascii_name: Fasa
         geonamesid: 134721
         latitude: 28.9383
@@ -1813,6 +1979,7 @@ regions:
           - "Akbar Abad Kawar"
           - Akbarabad
           - "Akbarabad-e Kavar"
+          - Akbarābād
         ascii_name: Akbarabad
         geonamesid: 144410
         latitude: 29.2464
@@ -1838,8 +2005,11 @@ regions:
         timezone: Asia/Tehran
     geonamesid: 134766
     name: Fārs
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Fārs Province"
+      - Fārs
+    names_es: 
+      - Fars
   - 
     ascii_name: "Ostan-e Chahar Mahal va Bakhtiari"
     cities: 
@@ -1848,6 +2018,7 @@ regions:
           - "Sahr-e Kord"
           - "Shahr Kord"
           - "Shahr Kurd"
+          - "Shahr-e Kord"
         ascii_name: "Shahr-e Kord"
         geonamesid: 115770
         latitude: 32.32556
@@ -1862,6 +2033,7 @@ regions:
           - "Farrokh Shahr"
           - Qahferokh
           - Qahofrokh
+          - Qatarokh
         ascii_name: "Farrokh Shahr"
         geonamesid: 120678
         latitude: 32.27174
@@ -1876,6 +2048,7 @@ regions:
           - Farsa
           - Farsan
           - Farsian
+          - Farsun
         ascii_name: Farsan
         geonamesid: 134762
         latitude: 32.25694
@@ -1890,6 +2063,7 @@ regions:
           - Amrujan
           - Amrūjān
           - Beroojen
+          - Borujan
         ascii_name: Borujen
         geonamesid: 140046
         latitude: 31.96523
@@ -1911,6 +2085,7 @@ regions:
           - "Bandar-e Ganaveh"
           - "Bandar-e Ganāveh"
           - "Bandar-e Genaveh"
+          - "Bandar-e Genāveh"
         ascii_name: "Bandar-e Ganaveh"
         geonamesid: 134217
         latitude: 29.5791
@@ -1925,12 +2100,14 @@ regions:
           - "Abu Shehr"
           - Abuschehr
           - "Bandar Abu Shehr"
+          - "Bandar Bushehr"
         ascii_name: "Bandar Bushehr"
         geonamesid: 139817
         latitude: 28.9684
         longitude: 50.8385
         name: "Bandar Būshehr"
-        names_en: ~
+        names_en: 
+          - Bushehr
         names_es: ~
         population: 165377
         timezone: Asia/Tehran
@@ -1939,19 +2116,24 @@ regions:
           - Borazdjan
           - Borazjan
           - Borazjun
+          - Borāzjān
         ascii_name: Borazjan
         geonamesid: 140097
         latitude: 29.2666
         longitude: 51.2159
         name: Borāzjān
-        names_en: ~
+        names_en: 
+          - Borazjan
         names_es: ~
         population: 86059
         timezone: Asia/Tehran
     geonamesid: 139816
     name: Bushehr
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Bushehr Province"
+      - Bushehr
+    names_es: 
+      - "Provincia de Bushehr"
   - 
     ascii_name: "East Azarbaijan"
     cities: 
@@ -1960,13 +2142,16 @@ regions:
           - Tabriz
           - Tabríz
           - Tabrīz
+          - Taebris
         ascii_name: Tabriz
         geonamesid: 113646
         latitude: 38.08
         longitude: 46.2919
         name: Tabrīz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tabriz
+        names_es: 
+          - Tabriz
         population: 1424641
         timezone: Asia/Tehran
       - 
@@ -1974,6 +2159,7 @@ regions:
           - Marand
           - Morand
           - mrnd
+          - murand
         ascii_name: Marand
         geonamesid: 124862
         latitude: 38.4329
@@ -1988,6 +2174,7 @@ regions:
           - Benab
           - Benāb
           - Binab
+          - Bināb
         ascii_name: Bonab
         geonamesid: 140889
         latitude: 37.3404
@@ -2002,6 +2189,7 @@ regions:
           - Azaran
           - Hashtrud
           - Hashtrūd
+          - "Sar Eskand"
         ascii_name: Hashtrud
         geonamesid: 142554
         latitude: 37.4779
@@ -2016,6 +2204,7 @@ regions:
           - Ajabshahr
           - "`Ajab Shir"
           - aajabshahr
+          - اَجَبشَهر
         ascii_name: "`Ajab Shir"
         geonamesid: 144443
         latitude: 37.4776
@@ -2030,6 +2219,7 @@ regions:
           - Ahar
           - Akhar
           - ahr
+          - Ахар
         ascii_name: Ahar
         geonamesid: 144616
         latitude: 38.4774
@@ -2041,7 +2231,8 @@ regions:
         timezone: Asia/Tehran
     geonamesid: 142549
     name: "East Azarbaijan"
-    names_en: ~
+    names_en: 
+      - "East Azarbaijan"
     names_es: ~
   - 
     ascii_name: "Ostan-e Azarbayjan-e Gharbi"
@@ -2051,6 +2242,7 @@ regions:
           - Takab
           - "Takan Tepe"
           - Takāb
+          - تکاب
         ascii_name: Takab
         geonamesid: 113508
         latitude: 36.4009
@@ -2065,6 +2257,7 @@ regions:
           - Dilmagan
           - Dilman
           - Dīlmagān
+          - Dīlman
         ascii_name: Salmas
         geonamesid: 117656
         latitude: 38.1973
@@ -2079,6 +2272,7 @@ regions:
           - "Sa'in Dezh"
           - "Sa'in Qal`eh"
           - "Sahin Dazh"
+          - "Sain Kaleh"
         ascii_name: "Shahin Dezh"
         geonamesid: 117793
         latitude: 36.6793
@@ -2093,6 +2287,7 @@ regions:
           - "Ghareh Ziya' Oddin"
           - "Ghareh Ziya’ Oddin"
           - "Qara Zia ud Din"
+          - "Qara Zīa ud Dīn"
         ascii_name: "Qarah Zia' od Din"
         geonamesid: 119730
         latitude: 38.8915
@@ -2107,6 +2302,7 @@ regions:
           - Khaneh
           - Khāneh
           - "Piran Shahr"
+          - Piranshahr
         ascii_name: Piranshahr
         geonamesid: 121110
         latitude: 36.701
@@ -2121,6 +2317,7 @@ regions:
           - Ashnooyeh
           - Oshnaviyeh
           - Oshnavīyeh
+          - Oshnovieh
         ascii_name: Oshnaviyeh
         geonamesid: 121795
         latitude: 37.0397
@@ -2135,13 +2332,16 @@ regions:
           - Orumieh
           - Orumiyeh
           - Orūmīyeh
+          - Reza'iyeh
         ascii_name: Orumiyeh
         geonamesid: 121801
         latitude: 37.55274
         longitude: 45.07605
         name: Orūmīyeh
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Urmia
+        names_es: 
+          - Urmía
         population: 577307
         timezone: Asia/Tehran
       - 
@@ -2149,12 +2349,14 @@ regions:
           - Nagadeh
           - Naghadeh
           - Naghdeh
+          - Nakhuda
         ascii_name: Naqadeh
         geonamesid: 122698
         latitude: 36.9553
         longitude: 45.388
         name: Naqadeh
-        names_en: ~
+        names_en: 
+          - Naghadeh
         names_es: ~
         population: 73528
         timezone: Asia/Tehran
@@ -2163,6 +2365,7 @@ regions:
           - Meyandoab
           - Meyāndoāb
           - Miandoab
+          - "Miandow Ab"
         ascii_name: Miandowab
         geonamesid: 124085
         latitude: 36.9694
@@ -2177,13 +2380,16 @@ regions:
           - Mahabad
           - Mahābād
           - Makhabad
+          - Mehabad
         ascii_name: Mahabad
         geonamesid: 125446
         latitude: 36.7631
         longitude: 45.7222
         name: Mahābād
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mahabad
+        names_es: 
+          - Mahabad
         population: 162434
         timezone: Asia/Tehran
       - 
@@ -2191,6 +2397,7 @@ regions:
           - Khoi
           - Khowy
           - Khoy
+          - Khvoy
         ascii_name: Khvoy
         geonamesid: 126972
         latitude: 38.5503
@@ -2205,6 +2412,7 @@ regions:
           - Bokan
           - Bowkan
           - Bowkān
+          - Bukan
         ascii_name: Bukan
         geonamesid: 139889
         latitude: 36.521
@@ -2226,6 +2434,7 @@ regions:
           - Farsabad
           - Fārsābād
           - Parsabad
+          - Pārsābād
         ascii_name: Parsabad
         geonamesid: 121380
         latitude: 39.6482
@@ -2240,6 +2449,7 @@ regions:
           - Harau
           - Harowabad
           - Herau
+          - Herauabad
         ascii_name: Herowabad
         geonamesid: 128008
         latitude: 37.6189
@@ -2254,12 +2464,14 @@ regions:
           - Ardabil
           - Ardabīl
           - Ardebil
+          - "Ardebil - ardbyl"
         ascii_name: Ardabil
         geonamesid: 143083
         latitude: 38.2498
         longitude: 48.2933
         name: Ardabīl
-        names_en: ~
+        names_en: 
+          - Ardabil
         names_es: ~
         population: 410753
         timezone: Asia/Tehran
@@ -2286,6 +2498,7 @@ regions:
           - Khansar
           - Khavansar
           - Khonsar
+          - Khunsar
         ascii_name: Khvansar
         geonamesid: 127033
         latitude: 33.22052
@@ -2300,12 +2513,14 @@ regions:
           - Kachan
           - Kashan
           - kashan
+          - Кашан
         ascii_name: Kashan
         geonamesid: 128477
         latitude: 33.98308
         longitude: 51.43644
         name: Kāshān
-        names_en: ~
+        names_en: 
+          - Kashan
         names_es: ~
         population: 272359
         timezone: Asia/Tehran
@@ -2314,6 +2529,7 @@ regions:
           - Golpayagan
           - Golpayegan
           - Golpāyagān
+          - Golpāyegān
         ascii_name: Golpayegan
         geonamesid: 133037
         latitude: 33.4537
@@ -2342,6 +2558,7 @@ regions:
           - Ardestan
           - Ardestān
           - Ardistan
+          - Ardistān
         ascii_name: Ardestan
         geonamesid: 143052
         latitude: 33.3761
@@ -2367,6 +2584,7 @@ regions:
           - Rahnan
           - Rehnan
           - Rehnān
+          - Renan
         ascii_name: Rehnan
         geonamesid: 418521
         latitude: 32.685
@@ -2381,6 +2599,7 @@ regions:
           - Kedargun
           - Kedargūn
           - Qadrijan
+          - Qadrijān
         ascii_name: Qahderijan
         geonamesid: 418571
         latitude: 32.5767
@@ -2395,6 +2614,7 @@ regions:
           - Nadzhafabad
           - Najafabad
           - Najafābād
+          - Nejafabad
         ascii_name: Najafabad
         geonamesid: 418606
         latitude: 32.6344
@@ -2409,6 +2629,7 @@ regions:
           - "Homayoon Shahr"
           - Homayunshahr
           - Homāyūnshahr
+          - "Khomeyni Shahr"
         ascii_name: "Khomeyni Shahr"
         geonamesid: 418710
         latitude: 32.70018
@@ -2423,6 +2644,7 @@ regions:
           - Gulshad
           - Gulshād
           - Kalushad
+          - Kalūshād
         ascii_name: Kelishad
         geonamesid: 418723
         latitude: 32.55231
@@ -2437,6 +2659,7 @@ regions:
           - Falavarjan
           - Falāvarjān
           - Felavarjan
+          - Felāvarjān
         ascii_name: Mollavarjan
         geonamesid: 418851
         latitude: 32.5564
@@ -2451,12 +2674,14 @@ regions:
           - Aspadana
           - Esfahan
           - Esfehan
+          - Eşfahān
         ascii_name: Esfahan
         geonamesid: 418863
         latitude: 32.65722
         longitude: 51.67761
         name: Eşfahān
-        names_en: ~
+        names_en: 
+          - Isfahan
         names_es: ~
         population: 1547164
         timezone: Asia/Tehran
@@ -2465,6 +2690,7 @@ regions:
           - Daulatabad
           - Daulatābād
           - Dowlatabad
+          - Dowlatābād
         ascii_name: Dowlatabad
         geonamesid: 418868
         latitude: 32.79978
@@ -2479,6 +2705,7 @@ regions:
           - "Darcheh Piaz"
           - "Darcheh Pīāz"
           - "Dorcheh Peyaz"
+          - "Dorcheh Peyāz"
         ascii_name: "Dorcheh Piaz"
         geonamesid: 418896
         latitude: 32.61528
@@ -2500,6 +2727,7 @@ regions:
           - "Azad Shahr"
           - "Shah Pasand"
           - "Shāh Pasand"
+          - "Āzād Shahr"
         ascii_name: "Shah Pasand"
         geonamesid: 110831
         latitude: 37.08701
@@ -2514,6 +2742,7 @@ regions:
           - Kalalah
           - Kalaleh
           - Kalālah
+          - Kalāleh
         ascii_name: Kalaleh
         geonamesid: 129512
         latitude: 37.38071
@@ -2528,12 +2757,14 @@ regions:
           - Asterabad
           - Asterābād
           - Girkanija
+          - Gorgan
         ascii_name: Gorgan
         geonamesid: 132892
         latitude: 36.83866
         longitude: 54.43475
         name: Gorgān
-        names_en: ~
+        names_en: 
+          - Gorgan
         names_es: ~
         population: 244937
         timezone: Asia/Tehran
@@ -2542,6 +2773,7 @@ regions:
           - "Dashte Gorgan"
           - "Gonbad Qabus"
           - "Gonbad Qavoos"
+          - "Gonbad Qābūs"
         ascii_name: "Gonbad-e Qabus"
         geonamesid: 132938
         latitude: 37.25004
@@ -2563,6 +2795,7 @@ regions:
           - Seyadahan
           - Seyādahan
           - Siadehan
+          - Siahdehan
         ascii_name: Takestan
         geonamesid: 113491
         latitude: 36.0696
@@ -2577,12 +2810,14 @@ regions:
           - Kazvin
           - Kazwin
           - Qazvin
+          - Qazvīn
         ascii_name: Qazvin
         geonamesid: 119505
         latitude: 36.2797
         longitude: 50.0049
         name: Qazvīn
-        names_en: ~
+        names_en: 
+          - Qazvin
         names_es: ~
         population: 333635
         timezone: Asia/Tehran
@@ -2598,12 +2833,14 @@ regions:
           - Ghom
           - Kum
           - Qom
+          - Qum
         ascii_name: Qom
         geonamesid: 119208
         latitude: 34.6401
         longitude: 50.8764
         name: Qom
-        names_en: ~
+        names_en: 
+          - Qom
         names_es: ~
         population: 900000
         timezone: Asia/Tehran
@@ -2619,12 +2856,14 @@ regions:
           - Zabol
           - Zabol'
           - Zābol
+          - Заболь
         ascii_name: Zabol
         geonamesid: 1113217
         latitude: 31.0287
         longitude: 61.5012
         name: Zābol
-        names_en: ~
+        names_en: 
+          - Zabol
         names_es: ~
         population: 121989
         timezone: Asia/Tehran
@@ -2633,6 +2872,7 @@ regions:
           - Dowzdab
           - Dowzdāb
           - Duzdab
+          - Duzdap
         ascii_name: Zahedan
         geonamesid: 1159301
         latitude: 29.4963
@@ -2647,6 +2887,7 @@ regions:
           - Kavash
           - Khash
           - Khāsh
+          - Kwash
         ascii_name: Khash
         geonamesid: 1160571
         latitude: 28.22107
@@ -2661,6 +2902,7 @@ regions:
           - Fahrej
           - Fehruj
           - Iranshahr
+          - "Qal`eh-ye Naseri"
         ascii_name: Iranshahr
         geonamesid: 1160939
         latitude: 27.20245
@@ -2675,6 +2917,7 @@ regions:
           - "Bandar Beheshti"
           - "Bandar Beheshtī"
           - Chabahar
+          - Chabakhar
         ascii_name: "Chah Bahar"
         geonamesid: 1161724
         latitude: 25.2919
@@ -2696,12 +2939,14 @@ regions:
           - Birdjand
           - Birdzhend
           - Birjand
+          - Bīrjand
         ascii_name: Birjand
         geonamesid: 140463
         latitude: 32.86628
         longitude: 59.22114
         name: Bīrjand
-        names_en: ~
+        names_en: 
+          - Birjand
         names_es: ~
         population: 196982
         timezone: Asia/Tehran
@@ -2717,6 +2962,7 @@ regions:
           - "Torbat-e Heydariyeh"
           - "Torbat-e Ḩeydarīyeh"
           - Torbat-e-Heydari
+          - Turbat-i-Haidari
         ascii_name: "Torbat-e Heydariyeh"
         geonamesid: 112646
         latitude: 35.27401
@@ -2731,6 +2977,7 @@ regions:
           - Sabzawar
           - Sabzawār
           - Sabzevar
+          - Sabzevār
         ascii_name: Sabzevar
         geonamesid: 118063
         latitude: 36.2126
@@ -2745,6 +2992,7 @@ regions:
           - Gochan
           - Quchan
           - Qūchān
+          - قوچان
         ascii_name: Quchan
         geonamesid: 119115
         latitude: 37.106
@@ -2759,6 +3007,7 @@ regions:
           - Qa'en
           - Qain
           - Qayen
+          - Qaīn
         ascii_name: Qayen
         geonamesid: 120694
         latitude: 33.72654
@@ -2773,13 +3022,16 @@ regions:
           - Nejsaburo
           - Nejŝaburo
           - Neyshabur
+          - Neyshābūr
         ascii_name: Neyshabur
         geonamesid: 122285
         latitude: 36.21329
         longitude: 58.79576
         name: Neyshābūr
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Neyshabur
+        names_es: 
+          - Nishapur
         population: 220929
         timezone: Asia/Tehran
       - 
@@ -2787,13 +3039,16 @@ regions:
           - Maschhad
           - Mashad
           - Mashado
+          - Mashhad
         ascii_name: Mashhad
         geonamesid: 124665
         latitude: 36.297
         longitude: 59.6062
         name: Mashhad
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mashhad
+        names_es: 
+          - Mashhad
         population: 2307177
         timezone: Asia/Tehran
       - 
@@ -2801,6 +3056,7 @@ regions:
           - Kashmar
           - Khashmar
           - Kāshmar
+          - Soultanabad
         ascii_name: Kashmar
         geonamesid: 128447
         latitude: 35.23831
@@ -2815,6 +3071,7 @@ regions:
           - Gonabad
           - Gonābād
           - Gunabad
+          - Gūnābād
         ascii_name: Gonabad
         geonamesid: 132961
         latitude: 34.35286
@@ -2829,6 +3086,7 @@ regions:
           - Chanaran
           - Chanārān
           - Chenaran
+          - Chenārān
         ascii_name: Chenaran
         geonamesid: 138742
         latitude: 36.64546
@@ -2843,6 +3101,7 @@ regions:
           - "Torbat-e Jam"
           - "Torbat-e Jām"
           - "Torbat-e Sheykh Jam"
+          - "Torbat-e Sheykh Jām"
         ascii_name: "Torbat-e Jam"
         geonamesid: 1159362
         latitude: 35.244
@@ -2857,6 +3116,7 @@ regions:
           - Taiabad
           - Taybad
           - Tayebad
+          - Tayebat
         ascii_name: Taybad
         geonamesid: 1159384
         latitude: 34.74
@@ -2871,6 +3131,7 @@ regions:
           - Sarakhs
           - Serakhs
           - Сарахс
+          - سرخس
         ascii_name: Sarakhs
         geonamesid: 1159716
         latitude: 36.5449
@@ -2882,7 +3143,9 @@ regions:
         timezone: Asia/Tehran
     geonamesid: 6201375
     name: "Razavi Khorasan"
-    names_en: ~
+    names_en: 
+      - "Razavi Khorasan Province"
+      - "Razavi Khorasan"
     names_es: ~
   - 
     ascii_name: "Ostan-e Khorasan-e Shomali"
@@ -2892,6 +3155,7 @@ regions:
           - Esfarayen
           - Esfarāyen
           - Meyanabad
+          - Meyanābād
         ascii_name: Esfarayen
         geonamesid: 135298
         latitude: 37.07645
@@ -2906,12 +3170,14 @@ regions:
           - Bodzhnurd
           - Bojnourd
           - Bojnurd
+          - Bojnūrd
         ascii_name: Bojnurd
         geonamesid: 140380
         latitude: 37.47473
         longitude: 57.32903
         name: Bojnūrd
-        names_en: ~
+        names_en: 
+          - Bojnourd
         names_es: ~
         population: 192041
         timezone: Asia/Tehran
@@ -2927,6 +3193,7 @@ regions:
           - Nazarabad
           - "Nazarabad-e Bozorg"
           - Naz̧arābād
+          - "Naz̧arābād-e Bozorg"
         ascii_name: Nazarabad
         geonamesid: 122438
         latitude: 35.9521
@@ -2941,12 +3208,14 @@ regions:
           - Heredi
           - Karadj
           - Karadje
+          - Karadsch
         ascii_name: Karaj
         geonamesid: 128747
         latitude: 35.8355
         longitude: 51.0103
         name: Karaj
-        names_en: ~
+        names_en: 
+          - Karaj
         names_es: ~
         population: 1448075
         timezone: Asia/Tehran

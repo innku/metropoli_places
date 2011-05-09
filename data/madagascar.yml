@@ -2,8 +2,11 @@
 geonamesid: 1062947
 iso: MG
 name: Madagascar
-names_en: ~
-names_es: ~
+names_en: 
+  - Madagascar
+  - "Republic of Madagascar"
+names_es: 
+  - Madagascar
 regions: 
   - 
     ascii_name: Diana
@@ -13,13 +16,16 @@ regions:
           - Anceranana
           - Antseranana
           - Antsirana
+          - Antsiranana
         ascii_name: Antsiranana
         geonamesid: 1069129
         latitude: -12.2787
         longitude: 49.29171
         name: Antsiran̈ana
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Antsiranana
+        names_es: 
+          - Antsiranana
         population: 82937
         timezone: Indian/Antananarivo
     geonamesid: 7670842
@@ -55,12 +61,14 @@ regions:
           - Mahajanga
           - Majunga
           - Makhadzanga
+          - mahajanga
         ascii_name: Mahajanga
         geonamesid: 1062663
         latitude: -15.71667
         longitude: 46.31667
         name: Mahajanga
-        names_en: ~
+        names_en: 
+          - Mahajanga
         names_es: ~
         population: 154657
         timezone: Indian/Antananarivo
@@ -118,13 +126,16 @@ regions:
           - Antananarivo
           - Antananarivu
           - Antananaryvas
+          - Antananarywa
         ascii_name: Antananarivo
         geonamesid: 1070940
         latitude: -18.91433
         longitude: 47.53098
         name: Antananarivo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Antananarivo
+        names_es: 
+          - Antananarivo
         population: 1391433
         timezone: Indian/Antananarivo
     geonamesid: 7670856
@@ -139,18 +150,21 @@ regions:
           - Tamatave
           - Toamasina
           - Tuamasina
+          - "tu a ma xi na"
         ascii_name: Toamasina
         geonamesid: 1053384
         latitude: -18.16667
         longitude: 49.38333
         name: Toamasina
-        names_en: ~
+        names_en: 
+          - Toamasina
         names_es: ~
         population: 206373
         timezone: Indian/Antananarivo
     geonamesid: 7670857
     name: East
-    names_en: ~
+    names_en: 
+      - East
     names_es: ~
   - 
     ascii_name: Menabe
@@ -179,13 +193,15 @@ regions:
         latitude: -21.43333
         longitude: 47.08333
         name: Fianarantsoa
-        names_en: ~
+        names_en: 
+          - Fianarantsoa
         names_es: ~
         population: 167227
         timezone: Indian/Antananarivo
     geonamesid: 7670905
     name: "Upper Matsiatra"
-    names_en: ~
+    names_en: 
+      - "Upper Matsiatra"
     names_es: ~
   - 
     ascii_name: Vatovavy-Fitovinany
@@ -206,7 +222,8 @@ regions:
     cities: []
     geonamesid: 7670908
     name: South-East
-    names_en: ~
+    names_en: 
+      - South-East
     names_es: ~
   - 
     ascii_name: Anosy
@@ -230,6 +247,7 @@ regions:
           - Toliara
           - Toliary
           - Tulear
+          - Tuliara
         ascii_name: Toliara
         geonamesid: 1055429
         latitude: -23.35
@@ -241,5 +259,6 @@ regions:
         timezone: Indian/Antananarivo
     geonamesid: 7670913
     name: South-West
-    names_en: ~
+    names_en: 
+      - South-West
     names_es: ~

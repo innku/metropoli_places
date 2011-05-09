@@ -2,8 +2,11 @@
 geonamesid: 1655842
 iso: LA
 name: Laos
-names_en: ~
-names_es: ~
+names_en: 
+  - Laos
+  - "Lao People’s Democratic Republic"
+names_es: 
+  - Laos
 regions: 
   - 
     ascii_name: "Khoueng Xiangkhoang"
@@ -13,6 +16,7 @@ regions:
           - "Muang Phonsavan"
           - "Muang Phônsavan"
           - "Phone Savan"
+          - "Phong Savan"
         ascii_name: "Muang Phonsavan"
         geonamesid: 1655123
         latitude: 19.45
@@ -47,12 +51,14 @@ regions:
           - "Ban Samaboury"
           - "Khwaeng Sainyabuli"
           - "Muang Xaignabouri"
+          - "Muong Samaboury"
         ascii_name: Xaignabouli
         geonamesid: 1655084
         latitude: 19.25
         longitude: 101.75
         name: Xaignabouli
-        names_en: ~
+        names_en: 
+          - Xaignabouli
         names_es: ~
         population: 13500
         timezone: Asia/Vientiane
@@ -61,6 +67,7 @@ regions:
           - "Ban Ken Thao"
           - "Kene Thad"
           - "Kene Thao"
+          - "Muang Kenthao"
         ascii_name: "Muang Kenthao"
         geonamesid: 1655201
         latitude: 17.73389
@@ -82,12 +89,14 @@ regions:
           - "Muang Vangviang"
           - "Vang V'eng"
           - "Vang Vieng"
+          - Viangviang
         ascii_name: "Muang Vangviang"
         geonamesid: 1655087
         latitude: 18.93333
         longitude: 102.45
         name: "Muang Vangviang"
-        names_en: ~
+        names_en: 
+          - "Vang Vieng"
         names_es: ~
         population: 25000
         timezone: Asia/Vientiane
@@ -110,6 +119,7 @@ regions:
           - "Ban Phon Hong"
           - "Ban Phong Hong"
           - "Muang Phon-Hong"
+          - "Muang Phone"
         ascii_name: "Muang Phon-Hong"
         geonamesid: 1655124
         latitude: 18.49278
@@ -131,12 +141,14 @@ regions:
           - "Khwaeng Savannakhet"
           - Khwaeng_Savannakhet
           - "Muang Savannaket"
+          - "Province de Savannakhet"
         ascii_name: Savannakhet
         geonamesid: 1653316
         latitude: 16.55
         longitude: 104.75
         name: Savannakhét
-        names_en: ~
+        names_en: 
+          - "Savannakhet Province"
         names_es: ~
         population: 66553
         timezone: Asia/Vientiane
@@ -152,6 +164,7 @@ regions:
           - "Muang Saravane"
           - Salavan
           - Saravan
+          - Saravane
         ascii_name: Salavan
         geonamesid: 1653334
         latitude: 15.71667
@@ -173,6 +186,7 @@ regions:
           - "P'ia Long"
           - "Phou Pialong"
           - "Phou Pialông"
+          - "P’ia Long"
         ascii_name: "Phou Pialong"
         geonamesid: 1653814
         latitude: 21.41889
@@ -187,6 +201,7 @@ regions:
           - "Fong Sali"
           - "Muong Hou"
           - "Phong Saly"
+          - Phongsali
         ascii_name: Phongsali
         geonamesid: 1653894
         latitude: 21.68333
@@ -208,12 +223,14 @@ regions:
           - "Mouang Sai"
           - "Muang Xai"
           - "Muang Xay"
+          - Muangsaj
         ascii_name: "Muang Xai"
         geonamesid: 1655078
         latitude: 20.7
         longitude: 101.98333
         name: "Muang Xai"
-        names_en: ~
+        names_en: 
+          - "Muang Xay"
         names_es: ~
         population: 25000
         timezone: Asia/Vientiane
@@ -243,12 +260,14 @@ regions:
           - "Louang Prabang"
           - Louangphabang
           - Louangphrabang
+          - "Luan Praban"
         ascii_name: Louangphrabang
         geonamesid: 1655559
         latitude: 19.88556
         longitude: 102.13472
         name: Louangphrabang
-        names_en: ~
+        names_en: 
+          - "Luang Prabang"
         names_es: ~
         population: 47378
         timezone: Asia/Vientiane
@@ -277,6 +296,7 @@ regions:
           - "Khong Luong Nam Tha"
           - "Louang Namtha"
           - "Loung Nam Tha"
+          - "Luong Nam Tha"
         ascii_name: "Louang Namtha"
         geonamesid: 1655562
         latitude: 20.94972
@@ -309,12 +329,14 @@ regions:
           - Khammouane
           - "Muang Khammouan"
           - "Muang Thakek"
+          - "Tha Khaek"
         ascii_name: Thakhek
         geonamesid: 1655199
         latitude: 17.41027
         longitude: 104.83068
         name: Thakhèk
-        names_en: ~
+        names_en: 
+          - Thakhek
         names_es: ~
         population: 26200
         timezone: Asia/Vientiane
@@ -344,6 +366,7 @@ regions:
           - "Muang Sam"
           - Sammeua
           - Samnua
+          - "Xam Nua"
         ascii_name: "Xam Nua"
         geonamesid: 1652203
         latitude: 20.41972
@@ -409,12 +432,14 @@ regions:
           - Pakse
           - Paksé
           - Pakxe
+          - Pakxé
         ascii_name: Pakxe
         geonamesid: 1654379
         latitude: 15.11667
         longitude: 105.78333
         name: Pakxé
-        names_en: ~
+        names_en: 
+          - Pakxe
         names_es: ~
         population: 88332
         timezone: Asia/Vientiane
@@ -423,6 +448,7 @@ regions:
           - "Ban Soukhouma"
           - "Ban Sukkhuma"
           - "Muang Soukhouma"
+          - Soukkouma
         ascii_name: Soukkouma
         geonamesid: 1655104
         latitude: 14.63333
@@ -437,6 +463,7 @@ regions:
           - "Muang Phonthong"
           - "Muang Phônthong"
           - "Phon Thong"
+          - "Phon Thuong"
         ascii_name: Phonthong
         geonamesid: 1655122
         latitude: 15.08333
@@ -465,6 +492,7 @@ regions:
           - Khon
           - Khong
           - Không
+          - "Muang Khong"
         ascii_name: Khong
         geonamesid: 1655192
         latitude: 14.11667
@@ -479,6 +507,7 @@ regions:
           - Moulapamok
           - Moulapamouk
           - Mounlapamok
+          - Mounlapamol
         ascii_name: Mounlapamok
         geonamesid: 1655244
         latitude: 14.33333
@@ -493,6 +522,7 @@ regions:
           - Basak
           - Bassac
           - Bassak
+          - Champasak
         ascii_name: Champasak
         geonamesid: 1657819
         latitude: 14.88333
@@ -514,12 +544,14 @@ regions:
           - Atpu
           - Attapeu
           - Attapu
+          - Attopeu
         ascii_name: Attapu
         geonamesid: 1665046
         latitude: 14.8
         longitude: 106.83333
         name: Attapu
-        names_en: ~
+        names_en: 
+          - Attapu
         names_es: ~
         population: 4297
         timezone: Asia/Vientiane
@@ -546,6 +578,7 @@ regions:
           - "Ban Tateng"
           - "Ban Thateng"
           - "Ban Thatèng"
+          - "Muang Thateng"
         ascii_name: Thateng
         geonamesid: 1655094
         latitude: 15.43333
@@ -560,6 +593,7 @@ regions:
           - "Ban Phon"
           - "Ban Phone"
           - "Ban Phôn"
+          - Lamam
         ascii_name: Lamam
         geonamesid: 1659990
         latitude: 15.41667
@@ -592,12 +626,14 @@ regions:
           - "Ban Houayxai"
           - "Ban Houayxay"
           - "Ban Houei Sai"
+          - "Ban Huei Sai"
         ascii_name: "Ban Houayxay"
         geonamesid: 1663526
         latitude: 20.2775
         longitude: 100.41278
         name: "Ban Houayxay"
-        names_en: ~
+        names_en: 
+          - "Ban Houayxay"
         names_es: ~
         population: 12500
         timezone: Asia/Vientiane
@@ -613,6 +649,7 @@ regions:
           - "Ban Nam Ca Dinh"
           - "Ban Namkading"
           - "Ban Pak Nam Krading"
+          - "Ban Pakkading"
         ascii_name: Pakkading
         geonamesid: 1654401
         latitude: 18.32357
@@ -641,6 +678,7 @@ regions:
           - Berikhane
           - Bolikhan
           - Borikane
+          - Borikham
         ascii_name: Bolikhan
         geonamesid: 1657897
         latitude: 18.55973
@@ -675,13 +713,17 @@ regions:
           - Bientian
           - "Nakhon Viangchan"
           - V'ent'jan
+          - Ventjan
         ascii_name: Vientiane
         geonamesid: 1651944
         latitude: 17.96667
         longitude: 102.6
         name: Vientiane
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Vientiane
+        names_es: 
+          - Vientiane
+          - Vientián
         population: 196731
         timezone: Asia/Vientiane
     geonamesid: 1904618

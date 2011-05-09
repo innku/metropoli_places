@@ -2,8 +2,11 @@
 geonamesid: 1149361
 iso: AF
 name: Afghanistan
-names_en: ~
-names_es: ~
+names_en: 
+  - Afghanistan
+  - "Islamic Republic of Afghanistan"
+names_es: 
+  - Afganistán
 regions: 
   - 
     ascii_name: Zabul
@@ -13,6 +16,7 @@ regions:
           - Kalat
           - Kalat-i-Ghilzai
           - Kalāt-i-Ghilzai
+          - Qalat
         ascii_name: Qalat
         geonamesid: 1130131
         latitude: 32.10575
@@ -24,8 +28,11 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1121143
     name: Zabul
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Zabul Province"
+      - Zabul
+    names_es: 
+      - "Provincia de Zābul"
   - 
     ascii_name: "Wilayat-e Wardak"
     cities: 
@@ -34,6 +41,7 @@ regions:
           - "Maidan Shahr"
           - "Maidan Shar"
           - Maydanshakhr
+          - "Maīdān Shahr"
         ascii_name: "Maidan Shahr"
         geonamesid: 1456960
         latitude: 34.39561
@@ -55,6 +63,7 @@ regions:
           - "Yangi Kala"
           - "Yangi Qal`ah"
           - "Yangi Qal`eh"
+          - "Yangi Qala"
         ascii_name: "Yangi Qal`ah"
         geonamesid: 1121271
         latitude: 37.46572
@@ -69,12 +78,14 @@ regions:
           - Khanabad
           - Taikhan
           - Taleqan
+          - Talikan
         ascii_name: Taloqan
         geonamesid: 1123004
         latitude: 36.73605
         longitude: 69.53451
         name: Taloqan
-        names_en: ~
+        names_en: 
+          - Taloqan
         names_es: ~
         population: 64256
         timezone: Asia/Kabul
@@ -83,6 +94,7 @@ regions:
           - Rostaq
           - Rostāq
           - Rustak
+          - Rustaq
         ascii_name: Rustaq
         geonamesid: 1128265
         latitude: 37.12604
@@ -111,6 +123,7 @@ regions:
           - "Art Khvajeh (1)"
           - "Art Khwajah"
           - "At Khvajeh"
+          - "At Khwaja"
         ascii_name: "Art Khwajah"
         geonamesid: 1148106
         latitude: 37.08571
@@ -132,6 +145,7 @@ regions:
           - "Kala Sangcharak"
           - "Kala Sangchārak"
           - "Qal`eh Sangcharek"
+          - "Qala Sangcharak"
         ascii_name: Tukzar
         geonamesid: 1120487
         latitude: 35.94831
@@ -146,6 +160,7 @@ regions:
           - Bai
           - Bay
           - Bāy
+          - Tagaw-Bay
         ascii_name: Tagaw-Bay
         geonamesid: 1123343
         latitude: 35.69941
@@ -160,6 +175,7 @@ regions:
           - "Sar-e Pol"
           - "Sar-e Pul"
           - Sar-i-Pul
+          - Sari-Pul'
         ascii_name: "Sar-e Pul"
         geonamesid: 1127110
         latitude: 36.21544
@@ -185,6 +201,7 @@ regions:
           - Faoghan
           - Fāoghān
           - "Kala Shahar"
+          - "Kala Shāhar"
         ascii_name: "Qal`ah-ye Shahr"
         geonamesid: 1130065
         latitude: 35.54729
@@ -199,6 +216,7 @@ regions:
           - "Lar Gerd"
           - Largird
           - Largirid
+          - Larkerd
         ascii_name: Larkird
         geonamesid: 1134762
         latitude: 35.48936
@@ -213,6 +231,7 @@ regions:
           - Chiras
           - Chīras
           - Ciras
+          - Cīras
         ascii_name: Chiras
         geonamesid: 1144942
         latitude: 35.41674
@@ -245,6 +264,7 @@ regions:
           - Aibak
           - Aybak
           - Aībak
+          - Eybak
         ascii_name: Aibak
         geonamesid: 1127768
         latitude: 36.26468
@@ -266,12 +286,15 @@ regions:
           - Djabal-ul-Seradj
           - Dzhabal'-Ussaradzh
           - Dzhabal’-Ussaradzh
+          - "Jabal Saraj"
         ascii_name: "Jabal os Saraj"
         geonamesid: 1139807
         latitude: 35.11833
         longitude: 69.23778
         name: "Jabal os Saraj"
-        names_en: ~
+        names_en: 
+          - "Jabal Saraj"
+          - "Jabul Saraj"
         names_es: ~
         population: 15032
         timezone: Asia/Kabul
@@ -280,6 +303,7 @@ regions:
           - Caharikar
           - Carikar
           - Chaharikar
+          - Chahārīkār
         ascii_name: Charikar
         geonamesid: 1145352
         latitude: 35.01361
@@ -301,6 +325,7 @@ regions:
           - Katawaz
           - Katāwāz
           - "Khayr Kot"
+          - "Khayr Kut"
         ascii_name: "Zarghun Shahr"
         geonamesid: 1120863
         latitude: 32.84734
@@ -315,6 +340,7 @@ regions:
           - Sharan
           - Sharnah
           - Sherana
+          - Sheranna
         ascii_name: "Zarah Sharan"
         geonamesid: 1120879
         latitude: 33.14667
@@ -347,19 +373,25 @@ regions:
           - Gardeyz
           - Gardez
           - Gardiz
+          - Gardêz
         ascii_name: Gardez
         geonamesid: 1141857
         latitude: 33.59744
         longitude: 69.22592
         name: Gardēz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gardez
+        names_es: 
+          - Gardez
         population: 103601
         timezone: Asia/Kabul
     geonamesid: 1131257
     name: Paktia
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Paktia Province"
+      - Paktia
+    names_es: 
+      - "Provincia de Paktiyā"
   - 
     ascii_name: Oruzgan
     cities: 
@@ -368,6 +400,7 @@ regions:
           - "Tarin Kot"
           - "Tarin Kowt"
           - Tarinkot
+          - "Tarīn Kowt"
         ascii_name: Tarinkot
         geonamesid: 1122747
         latitude: 32.62675
@@ -382,6 +415,7 @@ regions:
           - Orozgan
           - Orozgān
           - Oruzgan
+          - Orūzgān
         ascii_name: Uruzgan
         geonamesid: 1131462
         latitude: 32.92775
@@ -393,8 +427,11 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1131461
     name: Orūzgān
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Orūzgān Province"
+      - Orūzgān
+    names_es: 
+      - "Provincia de Urūzgān"
   - 
     ascii_name: "Wilayat-e Nimroz"
     cities: 
@@ -403,6 +440,7 @@ regions:
           - Zaranas
           - Zarani
           - Zaranj
+          - Zhazang
         ascii_name: Zaranj
         geonamesid: 1120985
         latitude: 30.96667
@@ -428,6 +466,7 @@ regions:
           - Mirabad
           - "Mirabad-e Mohammad Akbar"
           - Mīrābād
+          - "Mīrābād-e Moḩammad Akbar"
         ascii_name: Mirabad
         geonamesid: 1133310
         latitude: 30.43624
@@ -442,6 +481,7 @@ regions:
           - Khas
           - Khash
           - Khāsh
+          - Khās̄
         ascii_name: Khash
         geonamesid: 1136863
         latitude: 31.52919
@@ -463,13 +503,16 @@ regions:
           - Djelalabad
           - Dschalalabad
           - Dzalalabad
+          - Dzhalalabad
         ascii_name: Jalalabad
         geonamesid: 1139715
         latitude: 34.42647
         longitude: 70.45153
         name: Jalālābād
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Jalalabad
+        names_es: 
+          - Jalalabad
         population: 200331
         timezone: Asia/Kabul
       - 
@@ -477,6 +520,7 @@ regions:
           - Basavul'
           - Basavul’
           - Basawul
+          - Basowl
         ascii_name: Basowl
         geonamesid: 1146822
         latitude: 34.24749
@@ -491,6 +535,7 @@ regions:
           - Achin
           - Achin-Ulusvali
           - "Acin Oluswali"
+          - "Markaz-e Woluswali-ye Achin"
         ascii_name: "Markaz-e Woluswali-ye Achin"
         geonamesid: 1469706
         latitude: 34.12583
@@ -512,6 +557,7 @@ regions:
           - "Pol-e `Alam"
           - "Pol-e ‘Alam"
           - "Pul-e `Alam"
+          - "Pul-e ‘Alam"
         ascii_name: "Pul-e `Alam"
         geonamesid: 1130497
         latitude: 33.99529
@@ -526,6 +572,7 @@ regions:
           - "Baraki Barak"
           - "Baraki Burak"
           - Barakibarak
+          - "Barakī Barak"
         ascii_name: "Baraki Barak"
         geonamesid: 1147066
         latitude: 33.9675
@@ -540,6 +587,7 @@ regions:
           - Azra
           - Azrah
           - Azraw
+          - Azreh
         ascii_name: "Hukumati Azrow"
         geonamesid: 1147851
         latitude: 34.17355
@@ -561,6 +609,7 @@ regions:
           - Laghman
           - "Mehtar Lam"
           - "Mehtar Lām"
+          - Mekhtarlam
         ascii_name: "Mehtar Lam"
         geonamesid: 1133574
         latitude: 34.67139
@@ -582,6 +631,7 @@ regions:
           - "Hazrat Imam"
           - "Hazrat Imam Saiyid"
           - "Hazrat Imām"
+          - Karaul
         ascii_name: Qarawul
         geonamesid: 1129648
         latitude: 37.22019
@@ -596,12 +646,14 @@ regions:
           - Kondoz
           - Konduz
           - Kondūz
+          - Kundus
         ascii_name: Kunduz
         geonamesid: 1135689
         latitude: 36.72896
         longitude: 68.857
         name: Kunduz
-        names_en: ~
+        names_en: 
+          - Kunduz
         names_es: ~
         population: 161902
         timezone: Asia/Kabul
@@ -610,6 +662,7 @@ regions:
           - Khanabad
           - Khānābād
           - Ханабад
+          - "خان آباد"
         ascii_name: Khanabad
         geonamesid: 1137168
         latitude: 36.6825
@@ -624,6 +677,7 @@ regions:
           - "Emam Saheb"
           - "Emām Şāḩeb"
           - Hazrat
+          - "Imam Saheb"
         ascii_name: "Imam Sahib"
         geonamesid: 1142545
         latitude: 37.18897
@@ -646,8 +700,11 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1135690
     name: Kunduz
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kunduz Province"
+      - Kunduz
+    names_es: 
+      - "Provincia de Qundūz"
   - 
     ascii_name: "Wilayat-e Kunar"
     cities: 
@@ -656,6 +713,7 @@ regions:
           - Asma
           - Asmar
           - Asmār
+          - asmar
         ascii_name: Asmar
         geonamesid: 1148205
         latitude: 35.03319
@@ -670,6 +728,7 @@ regions:
           - Asadabad
           - Asadābād
           - Assad-Abad
+          - Caghasaray
         ascii_name: Asadabad
         geonamesid: 1148311
         latitude: 34.87311
@@ -702,6 +761,7 @@ regions:
           - Pagab
           - Tagab
           - Tagao
+          - Tagāb
         ascii_name: Tagab
         geonamesid: 1123424
         latitude: 34.85501
@@ -723,6 +783,7 @@ regions:
           - "Kashk-e Nokhowd"
           - "Keshk-e Nakhud"
           - "Keshk-e Nakhūd"
+          - Keskenakhud
         ascii_name: "Kishk-e Nakhud"
         geonamesid: 1137745
         latitude: 31.62519
@@ -737,13 +798,16 @@ regions:
           - Candahar
           - Kandagar
           - Kandahar
+          - Kandaharo
         ascii_name: Kandahar
         geonamesid: 1138336
         latitude: 31.61332
         longitude: 65.71013
         name: Kandahār
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kandahar
+        names_es: 
+          - Kandahar
         population: 391190
         timezone: Asia/Kabul
     geonamesid: 1138335
@@ -758,6 +822,7 @@ regions:
           - Paghman
           - "Paghman Palace"
           - Paghmān
+          - Pagman
         ascii_name: Paghman
         geonamesid: 1131316
         latitude: 34.5875
@@ -772,6 +837,7 @@ regions:
           - "Mir Bachah Kot"
           - "Mir Bachcheh Kowt"
           - "Mir Bachcheh Kut"
+          - "Mir Bachchen Kut"
         ascii_name: "Mir Bachah Kot"
         geonamesid: 1133270
         latitude: 34.74973
@@ -786,19 +852,26 @@ regions:
           - Cabool
           - Caboul
           - Cabul
+          - "Cabul - kabl"
         ascii_name: Kabul
         geonamesid: 1138958
         latitude: 34.52813
         longitude: 69.17233
         name: Kabul
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kabul
+        names_es: 
+          - Kabul
         population: 3043532
         timezone: Asia/Kabul
     geonamesid: 1138957
     name: Kabul
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Kabul Province"
+      - Kabul
+    names_es: 
+      - "Provincia de Kabul"
+      - Kabul
   - 
     ascii_name: "Wilayat-e Jowzjan"
     cities: 
@@ -807,6 +880,7 @@ regions:
           - Seberghan
           - Sebeṟghān
           - "Shahr-e Sheberghan"
+          - "Shahr-e Sheberghān"
         ascii_name: Shibirghan
         geonamesid: 1125444
         latitude: 36.66757
@@ -821,6 +895,7 @@ regions:
           - Karkin
           - "Karkin Bazar"
           - Kkhanika
+          - Qarkin
         ascii_name: Qarqin
         geonamesid: 1129516
         latitude: 37.41853
@@ -835,6 +910,7 @@ regions:
           - "Darz Ab"
           - "Darz Āb"
           - Darzab
+          - Darẕāb
         ascii_name: "Darz Ab"
         geonamesid: 1143874
         latitude: 35.97744
@@ -856,6 +932,7 @@ regions:
           - Kohistan
           - Kohsan
           - Kohsān
+          - Koshan
         ascii_name: Kohistan
         geonamesid: 1120483
         latitude: 34.65389
@@ -870,6 +947,7 @@ regions:
           - Fusanj
           - Fushanj
           - Fus̄anj
+          - Fūshanj
         ascii_name: "Zindah Jan"
         geonamesid: 1120711
         latitude: 34.34264
@@ -884,6 +962,7 @@ regions:
           - "Tir Pol"
           - "Tir Pul"
           - Tirpul
+          - "Tīr Pol"
         ascii_name: "Tir Pul"
         geonamesid: 1122408
         latitude: 34.59431
@@ -898,6 +977,7 @@ regions:
           - Asfazar
           - Asfazār
           - Sabzavar
+          - Sabzavār
         ascii_name: Shindand
         geonamesid: 1125155
         latitude: 33.30294
@@ -912,6 +992,7 @@ regions:
           - Karabagh
           - Karabāgh
           - Kharabagh
+          - "Qara Baqh"
         ascii_name: "Qarah Bagh"
         geonamesid: 1129678
         latitude: 34.94023
@@ -926,6 +1007,7 @@ regions:
           - Kushk
           - Kusk
           - Kus̄k
+          - Kūshk
         ascii_name: Kushk
         geonamesid: 1135158
         latitude: 33.29565
@@ -940,6 +1022,7 @@ regions:
           - Karokh
           - Karrukh
           - Karukh
+          - Kaṟukh
         ascii_name: Karukh
         geonamesid: 1137807
         latitude: 34.48108
@@ -954,13 +1037,16 @@ regions:
           - Gerat
           - Herat
           - Herāt
+          - Hérat
         ascii_name: Herat
         geonamesid: 1140026
         latitude: 34.34817
         longitude: 62.19967
         name: Herāt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Herat
+        names_es: 
+          - Herāt
         population: 272806
         timezone: Asia/Kabul
       - 
@@ -968,6 +1054,7 @@ regions:
           - "Eslam Qal`eh"
           - Eslamqal`a
           - Eslamqal‘a
+          - "Eslām Qal‘eh"
         ascii_name: "Islam Qal`ah"
         geonamesid: 1142404
         latitude: 34.66667
@@ -982,6 +1069,7 @@ regions:
           - "Car Burj"
           - "Chahar Borj"
           - "Chahar Burj"
+          - "Chahar Burjak"
         ascii_name: "Chahar Burj"
         geonamesid: 1145866
         latitude: 34.24475
@@ -993,8 +1081,11 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1140025
     name: Herat
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Herat Province"
+      - Herat
+    names_es: 
+      - "Provincia de Herāt"
   - 
     ascii_name: Helmand
     cities: 
@@ -1003,6 +1094,7 @@ regions:
           - Sandzhin
           - Sangin
           - Sangīn
+          - "Sarban Qal`eh"
         ascii_name: Sangin
         geonamesid: 1127547
         latitude: 32.07275
@@ -1017,12 +1109,14 @@ regions:
           - Bist
           - Bost
           - Bust
+          - "Lashkar Gah"
         ascii_name: "Lashkar Gah"
         geonamesid: 1134720
         latitude: 31.59382
         longitude: 64.37161
         name: "Lashkar Gāh"
-        names_en: ~
+        names_en: 
+          - "Lashkar Gah"
         names_es: ~
         population: 43934
         timezone: Asia/Kabul
@@ -1031,6 +1125,7 @@ regions:
           - Gereshk
           - Geresk
           - Gerešk
+          - Girishk
         ascii_name: Girishk
         geonamesid: 1141540
         latitude: 31.82089
@@ -1045,6 +1140,7 @@ regions:
           - Darvishan
           - Darvīshān
           - Darwesan
+          - "Markaz-e Hukumat-e Darwayshan"
         ascii_name: "Markaz-e Hukumat-e Darwayshan"
         geonamesid: 1143901
         latitude: 31.13232
@@ -1059,6 +1155,7 @@ regions:
           - "`Alaqadari Dehe Su"
           - "`Alaqahdari Deh-e Shu"
           - "`Alaqehdari Deh-e Shu"
+          - "علاقهداری ده شو"
         ascii_name: "`Alaqahdari Deh-e Shu"
         geonamesid: 1149052
         latitude: 30.43741
@@ -1070,7 +1167,9 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1140043
     name: Helmand
-    names_en: ~
+    names_en: 
+      - Helmand
+      - "Helmand Province"
     names_es: ~
   - 
     ascii_name: "Wilayat-e Ghor"
@@ -1080,6 +1179,7 @@ regions:
           - "Bati Dara"
           - "Kala Shaharak"
           - "Kala Shahrak"
+          - "Kala Shahārak"
         ascii_name: Shahrak
         geonamesid: 1125896
         latitude: 34.10738
@@ -1094,6 +1194,7 @@ regions:
           - Caghcaran
           - Caghcaṟān
           - Cakhcaran
+          - Cakhcaṟān
         ascii_name: Chaghcharan
         geonamesid: 1145904
         latitude: 34.51952
@@ -1115,13 +1216,16 @@ regions:
           - Gazni
           - Ghazni
           - Ghaznī
+          - "Shahr-e Ghazni"
         ascii_name: Ghazni
         geonamesid: 1141269
         latitude: 33.55356
         longitude: 68.42689
         name: Ghazni
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ghazni
+        names_es: 
+          - Gazni
         population: 141000
         timezone: Asia/Kabul
     geonamesid: 1141268
@@ -1136,12 +1240,14 @@ regions:
           - Maimana
           - Maimanah
           - Maimāna
+          - Maymana
         ascii_name: Maymana
         geonamesid: 1133453
         latitude: 35.92139
         longitude: 64.78361
         name: Maymana
-        names_en: ~
+        names_en: 
+          - Maymana
         names_es: ~
         population: 75900
         timezone: Asia/Kabul
@@ -1150,6 +1256,7 @@ regions:
           - Andkhoi
           - Andkhoy
           - Andkhui
+          - Andkhvoy
         ascii_name: Andkhoy
         geonamesid: 1148658
         latitude: 36.95293
@@ -1161,8 +1268,11 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1142226
     name: Faryab
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Faryab Province"
+      - Faryab
+    names_es: 
+      - "Provincia de Fāryāb"
   - 
     ascii_name: Farah
     cities: 
@@ -1171,6 +1281,7 @@ regions:
           - Farah
           - Farakh
           - Farāh
+          - فراه
         ascii_name: Farah
         geonamesid: 1142264
         latitude: 32.37451
@@ -1185,6 +1296,7 @@ regions:
           - "Anar Dara"
           - "Anar Darah"
           - "Anar Darrah"
+          - "Anar Darreh"
         ascii_name: "Anar Darah"
         geonamesid: 1148709
         latitude: 32.7587
@@ -1196,7 +1308,8 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1142263
     name: Farah
-    names_en: ~
+    names_en: 
+      - Farah
     names_es: ~
   - 
     ascii_name: "Wilayat-e Bamyan"
@@ -1206,6 +1319,7 @@ regions:
           - Pandzhab
           - Pandzhau
           - Panjab
+          - Panjao
         ascii_name: Panjab
         geonamesid: 1131162
         latitude: 34.38795
@@ -1220,6 +1334,7 @@ regions:
           - Bamian
           - Bamiyan
           - Bamyan
+          - Bāmyān
         ascii_name: Bamyan
         geonamesid: 1147242
         latitude: 34.82417
@@ -1266,13 +1381,16 @@ regions:
           - "Masar-e Scharif"
           - "Mazar-e Sarif"
           - "Mazar-e Sharif"
+          - "Mazar-e Šarif"
         ascii_name: "Mazar-e Sharif"
         geonamesid: 1133616
         latitude: 36.70904
         longitude: 67.11087
         name: "Mazār-e Sharīf"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Mazari Sharif"
+        names_es: 
+          - "Mazār-e Šarīf"
         population: 303282
         timezone: Asia/Kabul
       - 
@@ -1280,12 +1398,14 @@ regions:
           - Kholm
           - Khulm
           - Tashkurgan
+          - Tashkurghan
         ascii_name: Tashqurghan
         geonamesid: 1136575
         latitude: 36.69736
         longitude: 67.69826
         name: Tāshqurghān
-        names_en: ~
+        names_en: 
+          - Khulm
         names_es: ~
         population: 64933
         timezone: Asia/Kabul
@@ -1294,13 +1414,16 @@ regions:
           - Bactra
           - Bactresh
           - Bakhtar
+          - Balch
         ascii_name: Balkh
         geonamesid: 1147290
         latitude: 36.75635
         longitude: 66.8972
         name: Balkh
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Balkh
+        names_es: 
+          - Balh
         population: 114883
         timezone: Asia/Kabul
     geonamesid: 1147288
@@ -1315,6 +1438,7 @@ regions:
           - "Pol-e Khomri"
           - "Pol-e Khomrī"
           - "Pul-e Khumri"
+          - "Pul-e Khumrī"
         ascii_name: "Pul-e Khumri"
         geonamesid: 1130490
         latitude: 35.94458
@@ -1329,6 +1453,7 @@ regions:
           - Nahrin
           - Nahrīn
           - Nakhrin
+          - Narain
         ascii_name: Nahrin
         geonamesid: 1132495
         latitude: 36.0649
@@ -1343,6 +1468,7 @@ regions:
           - Dahana
           - "Dahana Ghori"
           - Dahana-i-Ghori
+          - "Dahanae Ghori"
         ascii_name: "Hukumati Dahanah-ye Ghori"
         geonamesid: 1144559
         latitude: 35.90617
@@ -1357,12 +1483,14 @@ regions:
           - Baghlan
           - "Baghlan - bghlan"
           - "Baghlan - بغلان"
+          - Baghlin
         ascii_name: Baghlan
         geonamesid: 1147540
         latitude: 36.13068
         longitude: 68.70829
         name: Baghlān
-        names_en: ~
+        names_en: 
+          - Baghlan
         names_es: ~
         population: 108449
         timezone: Asia/Kabul
@@ -1378,6 +1506,7 @@ regions:
           - "Sang Ates Mamaka"
           - "Sang Atesh Mamakah"
           - "Sang Atish Mamakah"
+          - "Sang Ātesh Māmākah"
         ascii_name: "Sang Atesh"
         geonamesid: 1127664
         latitude: 35.248
@@ -1392,6 +1521,7 @@ regions:
           - "Kala Nao"
           - Kalai-Naw
           - Kalayi-Nau
+          - "Qal'eh Now"
         ascii_name: "Qala i Naw"
         geonamesid: 1129867
         latitude: 34.98735
@@ -1406,6 +1536,7 @@ regions:
           - Kadis
           - Qaddis
           - Qades
+          - Qadis
         ascii_name: Qadis
         geonamesid: 1130233
         latitude: 34.8085
@@ -1420,6 +1551,7 @@ regions:
           - "Bala Murghab"
           - "Bālā Murghāb"
           - "Bālā Muṟghāb"
+          - Morghab
         ascii_name: "Bala Murghab"
         geonamesid: 1132770
         latitude: 35.58408
@@ -1448,6 +1580,7 @@ regions:
           - Garmak
           - Ghormac
           - Ghormach
+          - Ghormāch
         ascii_name: Ghormach
         geonamesid: 1141089
         latitude: 35.73062
@@ -1459,8 +1592,11 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1147707
     name: Badghis
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Badghis Province"
+      - Badghis
+    names_es: 
+      - "Provincia de Bādgīs"
   - 
     ascii_name: Badakhshan
     cities: 
@@ -1469,6 +1605,7 @@ regions:
           - "Keran va Menjan"
           - "Kerana va Manjah"
           - "Kerān va Menjān"
+          - "Koran va Monjan"
         ascii_name: "`Alaqahdari-ye Kiran wa Munjan"
         geonamesid: 1135656
         latitude: 36.02866
@@ -1483,6 +1620,7 @@ regions:
           - Khandud
           - "Khandud (1)"
           - Khandut
+          - Khandūd
         ascii_name: Khandud
         geonamesid: 1137148
         latitude: 36.94889
@@ -1497,6 +1635,7 @@ regions:
           - Jarm
           - Jorm
           - Jurm
+          - Jurn
         ascii_name: Jarm
         geonamesid: 1139085
         latitude: 36.86477
@@ -1511,6 +1650,7 @@ regions:
           - Faizabad
           - Faizābād
           - Fajzabad
+          - "Faydz Abad"
         ascii_name: Fayzabad
         geonamesid: 1142170
         latitude: 37.11664
@@ -1533,7 +1673,8 @@ regions:
         timezone: Asia/Kabul
     geonamesid: 1147745
     name: Badakhshan
-    names_en: ~
+    names_en: 
+      - Badakhshan
     names_es: ~
   - 
     ascii_name: "Velayat-e Khowst"
@@ -1543,6 +1684,7 @@ regions:
           - Khost
           - Khowst
           - Khōst
+          - Matun
         ascii_name: Khost
         geonamesid: 1136469
         latitude: 33.33951
@@ -1564,6 +1706,7 @@ regions:
           - Parun
           - Poruns
           - Puruns
+          - Pārūn
         ascii_name: Parun
         geonamesid: 1130469
         latitude: 35.4207
@@ -1585,6 +1728,7 @@ regions:
           - Nili
           - Nīlī
           - "Qaryah-e Nili"
+          - "Qaryah-e Nīlī"
         ascii_name: Nili
         geonamesid: 1131833
         latitude: 33.72178
@@ -1606,6 +1750,7 @@ regions:
           - Bazarak
           - Bāzārak
           - bazark
+          - Базарак
         ascii_name: Bazarak
         geonamesid: 1429434
         latitude: 35.31292

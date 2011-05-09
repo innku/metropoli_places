@@ -2,8 +2,10 @@
 geonamesid: 192950
 iso: KE
 name: Kenya
-names_en: ~
-names_es: ~
+names_en: 
+  - Kenya
+names_es: 
+  - Kenia
 regions: 
   - 
     ascii_name: "Nyanza Province"
@@ -60,12 +62,14 @@ regions:
           - Kisumo
           - Kisumu
           - "Lady Whitehouse"
+          - "Port Florence"
         ascii_name: Kisumu
         geonamesid: 191245
         latitude: -0.1
         longitude: 34.75
         name: Kisumu
-        names_en: ~
+        names_en: 
+          - Kisumu
         names_es: ~
         population: 216479
         timezone: Africa/Nairobi
@@ -166,13 +170,16 @@ regions:
           - Nairoba
           - Nairobi
           - Nairobis
+          - Nairobo
         ascii_name: Nairobi
         geonamesid: 184745
         latitude: -1.28333
         longitude: 36.81667
         name: Nairobi
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nairobi
+        names_es: 
+          - Nairobi
         population: 2750547
         timezone: Africa/Nairobi
     geonamesid: 184742
@@ -268,13 +275,16 @@ regions:
           - Mombaca
           - Mombasa
           - Mombassa
+          - Mombaça
         ascii_name: Mombasa
         geonamesid: 186301
         latitude: -4.055
         longitude: 39.6605
         name: Mombasa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mombasa
+        names_es: 
+          - Mombasa
         population: 799668
         timezone: Africa/Nairobi
       - 
@@ -294,12 +304,14 @@ regions:
           - Malindi
           - Melinde
           - marindi
+          - Малинди
         ascii_name: Malindi
         geonamesid: 187968
         latitude: -3.21748
         longitude: 40.1191
         name: Malindi
-        names_en: ~
+        names_en: 
+          - Malindi
         names_es: ~
         population: 68304
         timezone: Africa/Nairobi
@@ -308,6 +320,7 @@ regions:
           - Amu
           - Lama
           - Lamu
+          - Лама
         ascii_name: Lamu
         geonamesid: 189741
         latitude: -2.26925
@@ -490,6 +503,7 @@ regions:
           - Machakos
           - Machakosskij
           - Masaku
+          - Мачакосский
         ascii_name: Machakos
         geonamesid: 188492
         latitude: -1.51667
@@ -542,12 +556,14 @@ regions:
           - Ehmba
           - Embu
           - Kirimari
+          - Эмба
         ascii_name: Embu
         geonamesid: 198476
         latitude: -0.53112
         longitude: 37.4506
         name: Embu
-        names_en: ~
+        names_en: 
+          - Embu
         names_es: ~
         population: 34922
         timezone: Africa/Nairobi
@@ -577,7 +593,8 @@ regions:
         timezone: Africa/Nairobi
     geonamesid: 400741
     name: Eastern
-    names_en: ~
+    names_en: 
+      - Eastern
     names_es: ~
   - 
     ascii_name: "Central Province"
@@ -587,13 +604,16 @@ regions:
           - Dhika
           - Thika
           - Tik
+          - Тик
         ascii_name: Thika
         geonamesid: 179330
         latitude: -1.03326
         longitude: 37.06933
         name: Thika
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Thika
+        names_es: 
+          - Thika
         population: 99322
         timezone: Africa/Nairobi
       - 
@@ -624,12 +644,14 @@ regions:
           - Nyeri
           - Nyiri
           - nieri
+          - ニエリ
         ascii_name: Nyeri
         geonamesid: 182701
         latitude: -0.42013
         longitude: 36.94759
         name: Nyeri
-        names_en: ~
+        names_en: 
+          - Nyeri
         names_es: ~
         population: 51084
         timezone: Africa/Nairobi
@@ -638,6 +660,7 @@ regions:
           - Nyahururu
           - "Nyahururu Falls"
           - "Thompsons Falls"
+          - "Thomsons Falls"
         ascii_name: Nyahururu
         geonamesid: 183027
         latitude: 0.0421
@@ -877,7 +900,8 @@ regions:
         latitude: 0.28422
         longitude: 34.75228
         name: Kakamega
-        names_en: ~
+        names_en: 
+          - Kakamega
         names_es: ~
         population: 63426
         timezone: Africa/Nairobi
@@ -932,6 +956,7 @@ regions:
           - Chamagel
           - Chemagal
           - Chemagel
+          - Sotik
         ascii_name: Sotik
         geonamesid: 179888
         latitude: -0.68333
@@ -1043,8 +1068,10 @@ regions:
         latitude: -0.28333
         longitude: 36.06667
         name: Nakuru
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nakuru
+        names_es: 
+          - Nakuru
         population: 259903
         timezone: Africa/Nairobi
       - 
@@ -1169,8 +1196,10 @@ regions:
         latitude: 1.01572
         longitude: 35.00622
         name: Kitale
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kitale
+        names_es: 
+          - Kitale
         population: 75123
         timezone: Africa/Nairobi
       - 
@@ -1227,12 +1256,14 @@ regions:
           - Ehldoret
           - Eldoret
           - Olderet
+          - Olteret
         ascii_name: Eldoret
         geonamesid: 198629
         latitude: 0.52036
         longitude: 35.26992
         name: Eldoret
-        names_en: ~
+        names_en: 
+          - Eldoret
         names_es: ~
         population: 218446
         timezone: Africa/Nairobi
@@ -1313,6 +1344,7 @@ regions:
           - Madera
           - Mandera
           - Mandere
+          - Мандере
         ascii_name: Mandera
         geonamesid: 187896
         latitude: 3.93663
@@ -1332,7 +1364,8 @@ regions:
         latitude: -0.45355
         longitude: 39.64011
         name: Garissa
-        names_en: ~
+        names_en: 
+          - Garissa
         names_es: ~
         population: 67861
         timezone: Africa/Nairobi

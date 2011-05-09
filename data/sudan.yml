@@ -2,8 +2,10 @@
 geonamesid: 366755
 iso: SD
 name: Sudan
-names_en: ~
-names_es: ~
+names_en: 
+  - Sudan
+names_es: 
+  - Sudán
 regions: 
   - 
     ascii_name: "Northern State"
@@ -13,12 +15,14 @@ regions:
           - "Ciutat de Dongola"
           - Dongola
           - Donkola
+          - Donqola
         ascii_name: Dongola
         geonamesid: 363417
         latitude: 19.16667
         longitude: 30.48333
         name: Dongola
-        names_en: ~
+        names_en: 
+          - Dongola
         names_es: ~
         population: 0
         timezone: Africa/Khartoum
@@ -27,6 +31,7 @@ regions:
           - Marawi
           - Marawī
           - Merawi
+          - Merowe
         ascii_name: Marawi
         geonamesid: 370481
         latitude: 18.48333
@@ -41,6 +46,7 @@ regions:
           - Kareima
           - Karemah
           - Karima
+          - Karêmah
         ascii_name: Kuraymah
         geonamesid: 371870
         latitude: 18.55
@@ -55,6 +61,7 @@ regions:
           - "Karma An Nuzul"
           - Karmah
           - "Karmah an Nuzul"
+          - Kerma
         ascii_name: "Karmah an Nuzul"
         geonamesid: 372801
         latitude: 19.63333
@@ -82,6 +89,7 @@ regions:
           - "Ad Dabba"
           - "Ad Dabbah"
           - "Al Dabbah"
+          - Dabbah
         ascii_name: "Ad Dabbah"
         geonamesid: 380186
         latitude: 18.05
@@ -93,7 +101,9 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 378389
     name: "Northern State"
-    names_en: ~
+    names_en: 
+      - Northern
+      - "Northern State"
     names_es: ~
   - 
     ascii_name: Khartoum
@@ -103,12 +113,14 @@ regions:
           - Omdourman
           - Omdurman
           - Omdurmana
+          - Omdurmanas
         ascii_name: Omdurman
         geonamesid: 365137
         latitude: 15.63611
         longitude: 32.43722
         name: Omdurman
-        names_en: ~
+        names_en: 
+          - Omdurman
         names_es: ~
         population: 1200000
         timezone: Africa/Khartoum
@@ -117,18 +129,24 @@ regions:
           - "Al Khartum"
           - "Al Kharţūm"
           - "Al Khurtum"
+          - "Al Khurţūm"
         ascii_name: Khartoum
         geonamesid: 379252
         latitude: 15.54665
         longitude: 32.53361
         name: Khartoum
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Khartoum
+        names_es: 
+          - Jartum
         population: 1974647
         timezone: Africa/Khartoum
     geonamesid: 379253
     name: Khartoum
-    names_en: ~
+    names_en: 
+      - Khartoum
+      - "Khartoum Province"
+      - "Khartoum State"
     names_es: ~
   - 
     ascii_name: "Upper Nile"
@@ -143,13 +161,16 @@ regions:
         latitude: 9.53694
         longitude: 31.65611
         name: Malakal
-        names_en: ~
+        names_en: 
+          - Malakal
         names_es: ~
         population: 160765
         timezone: Africa/Khartoum
     geonamesid: 381229
     name: "Upper Nile"
-    names_en: ~
+    names_en: 
+      - "Upper Nile"
+      - "Upper Nile State"
     names_es: ~
   - 
     ascii_name: "Red Sea"
@@ -159,6 +180,7 @@ regions:
           - Tawkar
           - Tokar
           - Tokār
+          - Ţawkar
         ascii_name: Tokar
         geonamesid: 366323
         latitude: 18.4254
@@ -173,6 +195,7 @@ regions:
           - Savakine
           - Sawakin
           - Sawākin
+          - Suakin
         ascii_name: Sawakin
         geonamesid: 367544
         latitude: 19.1059
@@ -201,18 +224,23 @@ regions:
           - "Bur Sudan"
           - "Burt Sudan"
           - "Būr Sūdān"
+          - "Būrt Sūdān"
         ascii_name: "Port Sudan"
         geonamesid: 377039
         latitude: 19.61583
         longitude: 37.21639
         name: "Port Sudan"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Port Sudan"
+        names_es: 
+          - "Port Sudan"
         population: 489725
         timezone: Africa/Khartoum
     geonamesid: 408646
     name: "Red Sea"
-    names_en: ~
+    names_en: 
+      - "Red Sea"
+      - "Red Sea State"
     names_es: ~
   - 
     ascii_name: Lakes
@@ -222,18 +250,23 @@ regions:
           - Rumbek
           - Rumbeke
           - Rumbik
+          - rmbyk
         ascii_name: Rumbek
         geonamesid: 367927
         latitude: 6.8039
         longitude: 29.69097
         name: Rumbek
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rumbek
+        names_es: 
+          - Rumbek
         population: 32083
         timezone: Africa/Khartoum
     geonamesid: 408647
     name: Lakes
-    names_en: ~
+    names_en: 
+      - Lakes
+      - "Lakes State"
     names_es: ~
   - 
     ascii_name: "Gezira State"
@@ -243,6 +276,7 @@ regions:
           - "Hillet Sa`id"
           - "Hillet Sa‘id"
           - "Wad Rawa"
+          - "Wad Rawah"
         ascii_name: "Wad Rawah"
         geonamesid: 364071
         latitude: 15.16028
@@ -257,12 +291,14 @@ regions:
           - Medani
           - "Wad Madani"
           - "Wad Medani"
+          - "wd mdny"
         ascii_name: "Wad Medani"
         geonamesid: 364103
         latitude: 14.4056
         longitude: 33.4989
         name: "Wad Medani"
-        names_en: ~
+        names_en: 
+          - "Wad Madani"
         names_es: ~
         population: 332714
         timezone: Africa/Khartoum
@@ -271,6 +307,7 @@ regions:
           - "Al Masallamiyya"
           - "Al Musallamiyah"
           - "Al Musallamīyah"
+          - "El Mesellemiya"
         ascii_name: "Al Masallamiyya"
         geonamesid: 379080
         latitude: 14.5748
@@ -285,6 +322,7 @@ regions:
           - "Al Manaqil"
           - "Al Manāqil"
           - "El Managil"
+          - "El Manaqil"
         ascii_name: "Al Manaqil"
         geonamesid: 379149
         latitude: 14.2459
@@ -299,6 +337,7 @@ regions:
           - "Al Kereimet"
           - "Al Kiremit al `Arakiyyin"
           - "Al Kiremit al ‘Arakiyyīn"
+          - "El Kereimet"
         ascii_name: "Al Kiremit al `Arakiyyin"
         geonamesid: 379261
         latitude: 14.3476
@@ -313,6 +352,7 @@ regions:
           - "Al Hilaliyah"
           - "Al Hilaliyya"
           - "Al Hilāliyya"
+          - "Al Hilālīyah"
         ascii_name: "Al Hilaliyya"
         geonamesid: 379406
         latitude: 14.9398
@@ -327,6 +367,7 @@ regions:
           - "Al Hasahisa"
           - "Al Ḩaşāḩīşa"
           - "El Hasaheisa"
+          - "El Hasiheisa"
         ascii_name: Hasiheisa
         geonamesid: 379427
         latitude: 14.7324
@@ -338,7 +379,9 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408648
     name: "Gezira State"
-    names_en: ~
+    names_en: 
+      - "Al Jazirah"
+      - "Gezira State"
     names_es: ~
   - 
     ascii_name: "Gedaref State"
@@ -360,12 +403,14 @@ regions:
           - "Al Qadarif"
           - "Al Qaḑārif"
           - Al-Qadarif
+          - "El Gedaref"
         ascii_name: Gedaref
         geonamesid: 379062
         latitude: 14.03333
         longitude: 35.4
         name: Gedaref
-        names_en: ~
+        names_en: 
+          - "Al Qadarif"
         names_es: ~
         population: 0
         timezone: Africa/Khartoum
@@ -374,6 +419,7 @@ regions:
           - "Al Hawatah"
           - "Al Hawwata"
           - "Al Ḩawātah"
+          - "El Hawata"
         ascii_name: "Al Hawatah"
         geonamesid: 379416
         latitude: 13.41667
@@ -385,7 +431,9 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408649
     name: "Gedaref State"
-    names_en: ~
+    names_en: 
+      - "Al Qadarif"
+      - "Gedaref State"
     names_es: ~
   - 
     ascii_name: "Unity State"
@@ -409,18 +457,22 @@ regions:
           - Bantiyo
           - Bentiu
           - Kilwal
+          - "Meshra` Bentiu"
         ascii_name: Bentiu
         geonamesid: 377472
         latitude: 9.23333
         longitude: 29.83333
         name: Bentiu
-        names_en: ~
+        names_en: 
+          - Bentiu
         names_es: ~
         population: 7653
         timezone: Africa/Khartoum
     geonamesid: 408650
     name: "Unity State"
-    names_en: ~
+    names_en: 
+      - Unity
+      - "Unity State"
     names_es: ~
   - 
     ascii_name: "White Nile"
@@ -472,12 +524,14 @@ regions:
           - Rabak
           - Rabaq
           - rbk
+          - ربك
         ascii_name: Rabaq
         geonamesid: 368277
         latitude: 13.15
         longitude: 32.73333
         name: Rabaq
-        names_en: ~
+        names_en: 
+          - Rabak
         names_es: ~
         population: 135281
         timezone: Africa/Khartoum
@@ -497,6 +551,7 @@ regions:
           - Costi
           - Kosti
           - Kusti
+          - Kūstī
         ascii_name: Kusti
         geonamesid: 371760
         latitude: 13.16667
@@ -511,6 +566,7 @@ regions:
           - "Al Qitena"
           - "Al Qiţena"
           - "Al Qutaynah"
+          - "Al Quţaynah"
         ascii_name: "Al Qitena"
         geonamesid: 379014
         latitude: 14.8648
@@ -525,6 +581,7 @@ regions:
           - "Al Kawa"
           - "Al Kawah"
           - "El Kawa"
+          - Kawa
         ascii_name: "Al Kawa"
         geonamesid: 379272
         latitude: 13.7463
@@ -539,6 +596,7 @@ regions:
           - "Ad Diwem"
           - "Ad Duwaym"
           - "Ad Duwem"
+          - "Ad Duwēm"
         ascii_name: "Ad Diwem"
         geonamesid: 380129
         latitude: 14.0012
@@ -550,7 +608,9 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408653
     name: "White Nile"
-    names_en: ~
+    names_en: 
+      - "White Nile"
+      - "White Nile State"
     names_es: ~
   - 
     ascii_name: "Blue Nile"
@@ -573,6 +633,7 @@ regions:
           - "Ar Roseris"
           - "Ar Rusayris"
           - "Ar Ruseris"
+          - "Ar Ruşayriş"
         ascii_name: "Ar Ruseris"
         geonamesid: 378459
         latitude: 11.8659
@@ -587,18 +648,22 @@ regions:
           - "Ad Damazin"
           - "Ad Damāzīn"
           - Ad-Damazin
+          - Damazin
         ascii_name: "Ed Damazin"
         geonamesid: 380174
         latitude: 11.7891
         longitude: 34.3592
         name: "Ed Damazin"
-        names_en: ~
+        names_en: 
+          - Ad-Damazin
         names_es: ~
         population: 186051
         timezone: Africa/Khartoum
     geonamesid: 408654
     name: "Blue Nile"
-    names_en: ~
+    names_en: 
+      - "Blue Nile"
+      - "Blue Nile State"
     names_es: ~
   - 
     ascii_name: "Central Equatoria State"
@@ -608,6 +673,7 @@ regions:
           - Ej
           - Yei
           - Yey
+          - Yēy
         ascii_name: Yei
         geonamesid: 363619
         latitude: 4.09139
@@ -622,18 +688,22 @@ regions:
           - Djouba
           - Dzhuba
           - Goba
+          - Juba
         ascii_name: Juba
         geonamesid: 373303
         latitude: 4.85165
         longitude: 31.58247
         name: Juba
-        names_en: ~
+        names_en: 
+          - Juba
         names_es: ~
         population: 163442
         timezone: Africa/Khartoum
     geonamesid: 408655
     name: "Central Equatoria State"
-    names_en: ~
+    names_en: 
+      - "Central Equatoria State"
+      - "Central Equatoria"
     names_es: ~
   - 
     ascii_name: "Western Equatoria State"
@@ -643,12 +713,14 @@ regions:
           - Jambio
           - Yambio
           - Yambiyo
+          - Ямбио
         ascii_name: Yambio
         geonamesid: 363656
         latitude: 4.57056
         longitude: 28.41639
         name: Yambio
-        names_en: ~
+        names_en: 
+          - Yambio
         names_es: ~
         population: 40382
         timezone: Africa/Khartoum
@@ -671,6 +743,7 @@ regions:
           - Maridi
           - Marīdī
           - Meridi
+          - Merridi
         ascii_name: Maridi
         geonamesid: 370457
         latitude: 4.91472
@@ -682,7 +755,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408656
     name: "Western Equatoria State"
-    names_en: ~
+    names_en: 
+      - "Western Equatoria State"
     names_es: ~
   - 
     ascii_name: "Western Bahr al Ghazal"
@@ -692,12 +766,14 @@ regions:
           - Vau
           - Wau
           - Waw
+          - Wāw
         ascii_name: Wau
         geonamesid: 363885
         latitude: 7.7
         longitude: 28.0
         name: Wau
-        names_en: ~
+        names_en: 
+          - Wau
         names_es: ~
         population: 127384
         timezone: Africa/Khartoum
@@ -717,7 +793,10 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408657
     name: "Western Bahr al Ghazal"
-    names_en: ~
+    names_en: 
+      - "Western Bahr al Ghazal"
+      - "Western Bahr el Ghazal State"
+      - "Western Bahr el Ghazal"
     names_es: ~
   - 
     ascii_name: "Western Darfur State"
@@ -727,6 +806,7 @@ regions:
           - Zalingee
           - Zalingei
           - Zalinje
+          - Залингее
         ascii_name: Zalingei
         geonamesid: 363533
         latitude: 12.9
@@ -741,18 +821,21 @@ regions:
           - "Aj Jinena"
           - "Aj Jinēna"
           - "Al Geneina"
+          - "Al Jeneina"
         ascii_name: "El Geneina"
         geonamesid: 379303
         latitude: 13.45
         longitude: 22.45
         name: "El Geneina"
-        names_en: ~
+        names_en: 
+          - "El Geneina"
         names_es: ~
         population: 162981
         timezone: Africa/Khartoum
     geonamesid: 408658
     name: "Western Darfur State"
-    names_en: ~
+    names_en: 
+      - "Western Darfur State"
     names_es: ~
   - 
     ascii_name: "Southern Darfur State"
@@ -770,7 +853,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408660
     name: "Southern Darfur State"
-    names_en: ~
+    names_en: 
+      - "Southern Darfur State"
     names_es: ~
   - 
     ascii_name: "Southern Kordofan State"
@@ -794,12 +878,15 @@ regions:
           - Kadugli
           - Kaduqli
           - Kāduqlī
+          - kadqly
         ascii_name: Kadugli
         geonamesid: 373141
         latitude: 11.01667
         longitude: 29.71667
         name: Kadugli
-        names_en: ~
+        names_en: 
+          - Kaduqli
+          - Kadugli
         names_es: ~
         population: 87666
         timezone: Africa/Khartoum
@@ -822,6 +909,7 @@ regions:
           - "Al Mijlad"
           - "Al Mujlad"
           - "El Muglad"
+          - Muglad
         ascii_name: "Al Mijlad"
         geonamesid: 379102
         latitude: 11.03333
@@ -836,6 +924,7 @@ regions:
           - "Al Lagawa"
           - "Al Lagowa"
           - "Al Lagāwa"
+          - "El Lagowa"
         ascii_name: "Al Lagowa"
         geonamesid: 379198
         latitude: 11.4
@@ -850,6 +939,7 @@ regions:
           - "Al Fulah"
           - "Al Fūlah"
           - Al-Fula
+          - "El Fula"
         ascii_name: "Al Fulah"
         geonamesid: 379535
         latitude: 11.8
@@ -864,6 +954,7 @@ regions:
           - "Abu Gibeyah"
           - "Abu Gubeiha"
           - "Abu Jibeha"
+          - "Abu Jubayhah"
         ascii_name: "Abu Jibeha"
         geonamesid: 380757
         latitude: 11.4562
@@ -875,7 +966,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408661
     name: "Southern Kordofan State"
-    names_en: ~
+    names_en: 
+      - "Southern Kordofan State"
     names_es: ~
   - 
     ascii_name: "Jonglei State"
@@ -893,7 +985,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408662
     name: "Jonglei State"
-    names_en: ~
+    names_en: 
+      - "Jonglei State"
     names_es: ~
   - 
     ascii_name: "Kassala State"
@@ -916,12 +1009,14 @@ regions:
           - Cassala
           - Kasala
           - Kassala
+          - Kassale
         ascii_name: Kassala
         geonamesid: 372753
         latitude: 15.457
         longitude: 36.4001
         name: Kassala
-        names_en: ~
+        names_en: 
+          - Kassala
         names_es: ~
         population: 401477
         timezone: Africa/Khartoum
@@ -938,7 +1033,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408663
     name: "Kassala State"
-    names_en: ~
+    names_en: 
+      - "Kassala State"
     names_es: ~
   - 
     ascii_name: "River Nile State"
@@ -948,6 +1044,7 @@ regions:
           - Shandi
           - Shendi
           - Shindi
+          - Shindî
         ascii_name: Shendi
         geonamesid: 367308
         latitude: 16.6915
@@ -975,12 +1072,14 @@ regions:
           - Atbara
           - Atbarah
           - Atbare
+          - "Madent Atbara"
         ascii_name: "Madent Atbara"
         geonamesid: 378231
         latitude: 17.6925
         longitude: 33.9852
         name: "Madent Atbara"
-        names_en: ~
+        names_en: 
+          - Atbarah
         names_es: ~
         population: 107930
         timezone: Africa/Khartoum
@@ -989,6 +1088,7 @@ regions:
           - "Al Matamma"
           - "Al Matammah"
           - "El Matama"
+          - "El Metemma"
         ascii_name: "El Matama"
         geonamesid: 379127
         latitude: 16.7095
@@ -1016,6 +1116,7 @@ regions:
           - "Ad Damar"
           - "Ad Damir"
           - "Ad Dāmir"
+          - Ad-Damir
         ascii_name: "Ed Damer"
         geonamesid: 380173
         latitude: 17.59278
@@ -1027,7 +1128,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408664
     name: "River Nile State"
-    names_en: ~
+    names_en: 
+      - "River Nile State"
     names_es: ~
   - 
     ascii_name: "Northern Bahr el Ghazal State"
@@ -1037,6 +1139,7 @@ regions:
           - Aweil
           - Awel
           - Eweil
+          - Uwayl
         ascii_name: Awel
         geonamesid: 364367
         latitude: 8.77458
@@ -1048,7 +1151,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408665
     name: "Northern Bahr el Ghazal State"
-    names_en: ~
+    names_en: 
+      - "Northern Bahr el Ghazal State"
     names_es: ~
   - 
     ascii_name: "Northern Darfur State"
@@ -1058,6 +1162,7 @@ regions:
           - "Um Kaddada"
           - "Umm Kaddadah"
           - "Umm Kaddādah"
+          - "Umm Keddada"
         ascii_name: "Umm Kaddadah"
         geonamesid: 364933
         latitude: 13.6
@@ -1084,18 +1189,22 @@ regions:
           - "Al Fashir"
           - "Al Fāshir"
           - Al-Faschir
+          - Al-Fashir
         ascii_name: "El Fasher"
         geonamesid: 379555
         latitude: 13.63333
         longitude: 25.35
         name: "El Fasher"
-        names_en: ~
+        names_en: 
+          - "El Fasher"
+          - Al-Fashir
         names_es: ~
         population: 252609
         timezone: Africa/Khartoum
     geonamesid: 408666
     name: "Northern Darfur State"
-    names_en: ~
+    names_en: 
+      - "Northern Darfur State"
     names_es: ~
   - 
     ascii_name: "Northern Kordofan State"
@@ -1105,6 +1214,7 @@ regions:
           - "Um Ruaba"
           - "Um Ruwwaba"
           - "Um Ruwwāba"
+          - "Umm Ruwaba"
         ascii_name: "Um Ruwwaba"
         geonamesid: 364706
         latitude: 12.9061
@@ -1119,6 +1229,7 @@ regions:
           - Bara
           - Barah
           - Bāra
+          - Bārah
         ascii_name: Barah
         geonamesid: 377724
         latitude: 13.7
@@ -1147,6 +1258,7 @@ regions:
           - "An Nahud"
           - "An Nahūd"
           - "An Nuhud"
+          - "An Nuhūd"
         ascii_name: "An Nuhud"
         geonamesid: 378699
         latitude: 12.7
@@ -1161,13 +1273,16 @@ regions:
           - "Al Obayyid"
           - "Al Ubayd"
           - "Al Ubayyid"
+          - "Al Ubayyiḑ"
         ascii_name: "El Obeid"
         geonamesid: 379003
         latitude: 13.18333
         longitude: 30.21667
         name: "El Obeid"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Al-Ubayyid
+        names_es: 
+          - "El Obeid"
         population: 393311
         timezone: Africa/Khartoum
       - 
@@ -1183,7 +1298,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408667
     name: "Northern Kordofan State"
-    names_en: ~
+    names_en: 
+      - "Northern Kordofan State"
     names_es: ~
   - 
     ascii_name: "Eastern Equatoria"
@@ -1216,7 +1332,9 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408668
     name: "Eastern Equatoria"
-    names_en: ~
+    names_en: 
+      - "Eastern Equatoria"
+      - "Eastern Equatoria State"
     names_es: ~
   - 
     ascii_name: "Sinnar State"
@@ -1226,6 +1344,7 @@ regions:
           - Senga
           - Singa
           - Sinja
+          - Sinjah
         ascii_name: Sinja
         geonamesid: 366847
         latitude: 13.15
@@ -1240,12 +1359,14 @@ regions:
           - Sannar
           - Sannār
           - Sennaar
+          - Sennar
         ascii_name: Sannar
         geonamesid: 367644
         latitude: 13.55
         longitude: 33.63333
         name: Sannār
-        names_en: ~
+        names_en: 
+          - Sennar
         names_es: ~
         population: 130122
         timezone: Africa/Khartoum
@@ -1265,6 +1386,7 @@ regions:
           - Kenana
           - Kinana
           - Kinanah
+          - Kināna
         ascii_name: Kinana
         geonamesid: 372386
         latitude: 14.0361
@@ -1314,7 +1436,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408669
     name: "Sinnar State"
-    names_en: ~
+    names_en: 
+      - "Sinnar State"
     names_es: ~
   - 
     ascii_name: "Warab State"
@@ -1324,6 +1447,7 @@ regions:
           - "At Tonj"
           - Ibba
           - Ton'gh
+          - Tonj
         ascii_name: Tonj
         geonamesid: 365763
         latitude: 7.27333
@@ -1338,12 +1462,14 @@ regions:
           - Kajok
           - Kuacjok
           - Kuajok
+          - Kwacjok
         ascii_name: Kajok
         geonamesid: 371712
         latitude: 8.30837
         longitude: 27.99566
         name: Kajok
-        names_en: ~
+        names_en: 
+          - Kuacjok
         names_es: ~
         population: 0
         timezone: Africa/Khartoum
@@ -1352,6 +1478,7 @@ regions:
           - Gogrial
           - Gogriale
           - Qaqriyal
+          - Гогриале
         ascii_name: Gogrial
         geonamesid: 374739
         latitude: 8.53341
@@ -1363,5 +1490,8 @@ regions:
         timezone: Africa/Khartoum
     geonamesid: 408670
     name: "Warab State"
-    names_en: ~
+    names_en: 
+      - "Warab State"
+      - "Warrap State"
+      - Warrap
     names_es: ~

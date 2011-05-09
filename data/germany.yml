@@ -2,8 +2,11 @@
 geonamesid: 2921044
 iso: DE
 name: Germany
-names_en: ~
-names_es: ~
+names_en: 
+  - Germany
+  - "Federal Republic of Germany"
+names_es: 
+  - Alemania
 regions: 
   - 
     ascii_name: Thuringia
@@ -212,13 +215,16 @@ regions:
           - Vajmar
           - Vajmaro
           - Vejmar
+          - Vymar
         ascii_name: Weimar
         geonamesid: 2812482
         latitude: 50.98333
         longitude: 11.31667
         name: Weimar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Weimar
+        names_es: 
+          - Weimar
         population: 64727
         timezone: Europe/Berlin
       - 
@@ -568,12 +574,14 @@ regions:
           - Suhl
           - zul'
           - zuru
+          - Зуль
         ascii_name: Suhl
         geonamesid: 2824948
         latitude: 50.6
         longitude: 10.7
         name: Suhl
-        names_en: ~
+        names_en: 
+          - Suhl
         names_es: ~
         population: 43509
         timezone: Europe/Berlin
@@ -712,6 +720,7 @@ regions:
           - Sonneberg
           - "Stadt Sonneberg"
           - Zonneberg
+          - Зоннеберг
         ascii_name: Sonneberg
         geonamesid: 2831250
         latitude: 50.35
@@ -1027,12 +1036,14 @@ regions:
           - Saalfeld
           - Saalfeld/Saale
           - Zaal'fel'd
+          - zaruferuto
         ascii_name: Saalfeld
         geonamesid: 2842688
         latitude: 50.65
         longitude: 11.36667
         name: Saalfeld
-        names_en: ~
+        names_en: 
+          - Saalfeld
         names_es: ~
         population: 28023
         timezone: Europe/Berlin
@@ -1403,7 +1414,8 @@ regions:
         latitude: 51.51667
         longitude: 10.8
         name: Nordhausen
-        names_en: ~
+        names_en: 
+          - Nordhausen
         names_es: ~
         population: 43912
         timezone: Europe/Berlin
@@ -1551,13 +1563,16 @@ regions:
           - Muehlhausen
           - Muehlhausen/Thueringen
           - Muhlhausen
+          - Mühlhausen
         ascii_name: Muhlhausen
         geonamesid: 2867996
         latitude: 51.21667
         longitude: 10.45
         name: Mühlhausen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mühlhausen
+        names_es: 
+          - Mühlhausen
         population: 38108
         timezone: Europe/Berlin
       - 
@@ -1694,13 +1709,16 @@ regions:
           - Majningen
           - Meiningen
           - "Stadt Meiningen"
+          - Майнинген
         ascii_name: Meiningen
         geonamesid: 2872225
         latitude: 50.56787
         longitude: 10.41521
         name: Meiningen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Meiningen
+        names_es: 
+          - Meiningen
         population: 21580
         timezone: Europe/Berlin
       - 
@@ -2035,6 +2053,7 @@ regions:
           - Konigsee
           - Konigssee
           - Königsee
+          - Königssee
         ascii_name: Konigsee
         geonamesid: 2885895
         latitude: 50.66667
@@ -2248,13 +2267,16 @@ regions:
           - Iena
           - Iéna
           - Jena
+          - Jéna
         ascii_name: Jena
         geonamesid: 2895044
         latitude: 50.93333
         longitude: 11.58333
         name: Jena
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Jena
+        names_es: 
+          - Jena
         population: 104712
         timezone: Europe/Berlin
       - 
@@ -2285,13 +2307,16 @@ regions:
           - Il'menau
           - Ilmenau
           - "Stadt Ilmenau"
+          - Илменау
         ascii_name: Ilmenau
         geonamesid: 2896514
         latitude: 50.68333
         longitude: 10.9
         name: Ilmenau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ilmenau
+        names_es: 
+          - Ilmenau
         population: 27055
         timezone: Europe/Berlin
       - 
@@ -2611,8 +2636,10 @@ regions:
         latitude: 50.65
         longitude: 12.2
         name: Greiz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Greiz
+        names_es: 
+          - Greiz
         population: 24147
         timezone: Europe/Berlin
       - 
@@ -2667,13 +2694,16 @@ regions:
           - Gota
           - Gotha
           - "ge da"
+          - Гота
         ascii_name: Gotha
         geonamesid: 2918752
         latitude: 50.95
         longitude: 10.71667
         name: Gotha
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gotha
+        names_es: 
+          - Gotha
         population: 46615
         timezone: Europe/Berlin
       - 
@@ -2786,13 +2816,16 @@ regions:
           - Gera
           - "ge la"
           - gera
+          - Гера
         ascii_name: Gera
         geonamesid: 2921232
         latitude: 50.88029
         longitude: 12.08187
         name: Gera
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gera
+        names_es: 
+          - Gera
         population: 104659
         timezone: Europe/Berlin
       - 
@@ -3002,13 +3035,16 @@ regions:
           - Ehrfurt
           - Erfurt
           - Erfurtas
+          - Erfurto
         ascii_name: Erfurt
         geonamesid: 2929670
         latitude: 50.98333
         longitude: 11.03333
         name: Erfurt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Erfurt
+        names_es: 
+          - Érfurt
         population: 203254
         timezone: Europe/Berlin
       - 
@@ -3074,13 +3110,16 @@ regions:
           - Ajzenakh
           - ESA
           - Ehjzenakh
+          - Eisenach
         ascii_name: Eisenach
         geonamesid: 2931574
         latitude: 50.98333
         longitude: 10.31667
         name: Eisenach
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Eisenach
+        names_es: 
+          - Eisenach
         population: 43846
         timezone: Europe/Berlin
       - 
@@ -3572,6 +3611,7 @@ regions:
           - "Bad Kostritz"
           - "Bad Köstritz"
           - Kostritz
+          - Köstritz
         ascii_name: "Bad Kostritz"
         geonamesid: 2953417
         latitude: 50.93333
@@ -3676,8 +3716,10 @@ regions:
         latitude: 50.83333
         longitude: 10.95
         name: Arnstadt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Arnstadt
+        names_es: 
+          - Arnstadt
         population: 25678
         timezone: Europe/Berlin
       - 
@@ -3698,6 +3740,7 @@ regions:
           - Apol'de
           - Apolda
           - "Stadt Apolda"
+          - Апольде
         ascii_name: Apolda
         geonamesid: 2955770
         latitude: 51.01667
@@ -3767,13 +3810,16 @@ regions:
           - Al'tenburg
           - Altenbourg
           - Altenburg
+          - Альтенбург
         ascii_name: Altenburg
         geonamesid: 2957773
         latitude: 50.98333
         longitude: 12.45
         name: Altenburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Altenburg
+        names_es: 
+          - Altenburg
         population: 38568
         timezone: Europe/Berlin
       - 
@@ -3800,8 +3846,11 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2822542
     name: Thuringia
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Thuringia
+      - "Free State of Thuringia"
+    names_es: 
+      - Thüringen
   - 
     ascii_name: Schleswig-Holstein
     cities: 
@@ -3822,6 +3871,7 @@ regions:
           - Vyk
           - Wik
           - Wyck
+          - Wyk
         ascii_name: "Wyk auf Fohr"
         geonamesid: 2805396
         latitude: 54.6914
@@ -4792,6 +4842,7 @@ regions:
           - Schleswig
           - Shlezvig
           - Sleeswig
+          - Slesvig
         ascii_name: Schleswig
         geonamesid: 2838634
         latitude: 54.51667
@@ -4917,7 +4968,8 @@ regions:
         latitude: 53.98333
         longitude: 9.11667
         name: "Sankt Michaelisdonn"
-        names_en: ~
+        names_en: 
+          - "Saint Michaelisdonn"
         names_es: ~
         population: 3762
         timezone: Europe/Berlin
@@ -5038,7 +5090,8 @@ regions:
         latitude: 54.3
         longitude: 9.66667
         name: Rendsburg
-        names_en: ~
+        names_en: 
+          - Rendsburg
         names_es: ~
         population: 28323
         timezone: Europe/Berlin
@@ -5531,12 +5584,14 @@ regions:
           - Neumuenster
           - Neumunster
           - Neumünster
+          - Niemuenster
         ascii_name: Neumunster
         geonamesid: 2864475
         latitude: 54.06667
         longitude: 9.98333
         name: Neumünster
-        names_en: ~
+        names_en: 
+          - Neumünster
         names_es: ~
         population: 78383
         timezone: Europe/Berlin
@@ -5762,6 +5817,7 @@ regions:
           - Lutiensee
           - Lutjensee
           - Lütiensee
+          - Lütjensee
         ascii_name: Lutjensee
         geonamesid: 2874902
         latitude: 53.65
@@ -5811,13 +5867,16 @@ regions:
           - Limpek
           - Ljubek
           - Lubeca
+          - Lubecca
         ascii_name: Lubeck
         geonamesid: 2875601
         latitude: 53.86893
         longitude: 10.68729
         name: Lübeck
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lübeck
+        names_es: 
+          - Lübeck
         population: 212207
         timezone: Europe/Berlin
       - 
@@ -6089,6 +6148,7 @@ regions:
           - Kroppelshagen
           - Kroppelshagen-Fahrendorf
           - Kroppelshausen
+          - Kröppelshagen
         ascii_name: Kroppelshagen-Fahrendorf
         geonamesid: 2883585
         latitude: 53.48333
@@ -6234,13 +6294,16 @@ regions:
           - Kiel
           - Kielia
           - Kielo
+          - Kijlo
         ascii_name: Kiel
         geonamesid: 2891122
         latitude: 54.32133
         longitude: 10.13489
         name: Kiel
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kiel
+        names_es: 
+          - Kiel
         population: 232758
         timezone: Europe/Berlin
       - 
@@ -6417,12 +6480,14 @@ regions:
           - Huesem
           - Husum
           - Hüsem
+          - Khuzum
         ascii_name: Husum
         geonamesid: 2897132
         latitude: 54.4858
         longitude: 9.05239
         name: Husum
-        names_en: ~
+        names_en: 
+          - Husum
         names_es: ~
         population: 20841
         timezone: Europe/Berlin
@@ -6969,6 +7034,7 @@ regions:
           - Groothansdoerp
           - Groothansdörp
           - Grosshansdorf
+          - Großhansdorf
         ascii_name: Grosshansdorf
         geonamesid: 2915556
         latitude: 53.66667
@@ -7133,12 +7199,14 @@ regions:
           - Glucksburg
           - Gluecksburg
           - Glücksburg
+          - Lyksborg
         ascii_name: Glucksburg
         geonamesid: 2919765
         latitude: 54.83333
         longitude: 9.55
         name: Glücksburg
-        names_en: ~
+        names_en: 
+          - Glücksburg
         names_es: ~
         population: 5946
         timezone: Europe/Berlin
@@ -7282,12 +7350,14 @@ regions:
           - Flensborg
           - Flensbourg
           - Flensburg
+          - furensuburuku
         ascii_name: Flensburg
         geonamesid: 2926271
         latitude: 54.78333
         longitude: 9.43333
         name: Flensburg
-        names_en: ~
+        names_en: 
+          - Flensburg
         names_es: ~
         population: 85838
         timezone: Europe/Berlin
@@ -7498,6 +7568,7 @@ regions:
           - Eckernfoeoer
           - Eckernforde
           - Eckernförde
+          - Eckernföör
         ascii_name: Eckernforde
         geonamesid: 2933627
         latitude: 54.46667
@@ -7668,6 +7739,7 @@ regions:
           - Burg
           - "Burg am Fehmarn"
           - "Burg auf Fehmarn"
+          - Бург
         ascii_name: "Burg auf Fehmarn"
         geonamesid: 2941496
         latitude: 54.43333
@@ -8365,7 +8437,8 @@ regions:
         latitude: 54.18143
         longitude: 7.8863
         name: Helgoland
-        names_en: ~
+        names_en: 
+          - Helgoland
         names_es: ~
         population: 1333
         timezone: Europe/Berlin
@@ -8441,8 +8514,10 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2838632
     name: Schleswig-Holstein
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Schleswig-Holstein
+    names_es: 
+      - Schleswig-Holstein
   - 
     ascii_name: Saxony-Anhalt
     cities: 
@@ -8731,7 +8806,8 @@ regions:
         latitude: 51.83333
         longitude: 10.78333
         name: Wernigerode
-        names_en: ~
+        names_en: 
+          - Wernigerode
         names_es: ~
         population: 34463
         timezone: Europe/Berlin
@@ -8776,6 +8852,7 @@ regions:
           - Golzau-Weissandt
           - Gölzau-Weißandt
           - Weissandt-Golzau
+          - Weißandt-Gölzau
         ascii_name: Weissandt-Golzau
         geonamesid: 2812043
         latitude: 51.66667
@@ -9228,7 +9305,8 @@ regions:
         latitude: 52.6
         longitude: 11.85
         name: Stendal
-        names_en: ~
+        names_en: 
+          - Stendal
         names_es: ~
         population: 37722
         timezone: Europe/Berlin
@@ -9248,6 +9326,7 @@ regions:
           - Shtasfurt
           - "Stadt Stassfurt"
           - "Stadt Staßfurt"
+          - Stassfurt
         ascii_name: Stassfurt
         geonamesid: 2829422
         latitude: 51.86667
@@ -9649,6 +9728,7 @@ regions:
           - Roblingen
           - "Roblingen am See"
           - Röblingen
+          - "Röblingen am See"
         ascii_name: "Roblingen am See"
         geonamesid: 2846274
         latitude: 51.45
@@ -9802,13 +9882,16 @@ regions:
           - Kvedlinburg
           - Quedlinburg
           - "Stadt Quedlinburg"
+          - keubedeullinbuleukeu
         ascii_name: Quedlinburg
         geonamesid: 2851465
         latitude: 51.78333
         longitude: 11.15
         name: Quedlinburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Quedlinburg
+        names_es: 
+          - Quedlinburg
         population: 22814
         timezone: Europe/Berlin
       - 
@@ -10140,12 +10223,14 @@ regions:
           - Naumberg
           - Naumbourg
           - Naumburg
+          - "Naumburg an der Saale"
         ascii_name: Naumburg
         geonamesid: 2866906
         latitude: 51.15
         longitude: 11.81667
         name: Naumburg
-        names_en: ~
+        names_en: 
+          - Naumburg
         names_es: ~
         population: 29722
         timezone: Europe/Berlin
@@ -10258,12 +10343,14 @@ regions:
           - Mersebourg
           - Merseburg
           - Merseburga
+          - Merzeburg
         ascii_name: Merseburg
         geonamesid: 2871736
         latitude: 51.36667
         longitude: 12.0
         name: Merseburg
-        names_en: ~
+        names_en: 
+          - Merseburg
         names_es: ~
         population: 34780
         timezone: Europe/Berlin
@@ -10306,13 +10393,16 @@ regions:
           - Maagdenburg
           - Magdebourg
           - Magdebourgo
+          - Magdeburg
         ascii_name: Magdeburg
         geonamesid: 2874545
         latitude: 52.16667
         longitude: 11.66667
         name: Magdeburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Magdeburg
+        names_es: 
+          - Magdeburgo
         population: 229826
         timezone: Europe/Berlin
       - 
@@ -10624,13 +10714,16 @@ regions:
           - Cothen
           - Cöthen
           - Kjoten
+          - Koethen
         ascii_name: Kothen
         geonamesid: 2885237
         latitude: 51.75
         longitude: 11.96667
         name: Köthen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Köthen
+        names_es: 
+          - Köthen
         population: 28710
         timezone: Europe/Berlin
       - 
@@ -10888,6 +10981,7 @@ regions:
           - Hofensleben
           - Hotensleben
           - Höfensleben
+          - Hötensleben
         ascii_name: Hotensleben
         geonamesid: 2898435
         latitude: 52.11667
@@ -10914,6 +11008,7 @@ regions:
           - Holzweiddig
           - Holzweissig
           - Holzweisslig
+          - Holzweißig
         ascii_name: Holzweissig
         geonamesid: 2899539
         latitude: 51.6
@@ -11177,13 +11272,16 @@ regions:
           - Galle
           - Halle
           - "Halle (Saale)"
+          - "Halle an der Saale"
         ascii_name: Halle
         geonamesid: 2911522
         latitude: 51.5
         longitude: 12.0
         name: Halle
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Halle
+        names_es: 
+          - Halle
         population: 234107
         timezone: Europe/Berlin
       - 
@@ -11191,6 +11289,7 @@ regions:
           - Haldensleben
           - Khal'densleben
           - Neuhaldensleben
+          - Хальденслебен
         ascii_name: Haldensleben
         geonamesid: 2911584
         latitude: 52.28906
@@ -11334,6 +11433,7 @@ regions:
           - "Gross Corbetha"
           - Grosskorbetha
           - "Groß Corbetha"
+          - Großkorbetha
         ascii_name: Grosskorbetha
         geonamesid: 2915392
         latitude: 51.25
@@ -11442,6 +11542,7 @@ regions:
           - Grafenhainchen
           - Grafenhainichen
           - Gräfenhainchen
+          - Gräfenhainichen
         ascii_name: Grafenhainichen
         geonamesid: 2918321
         latitude: 51.73333
@@ -11968,13 +12069,16 @@ regions:
           - Desau
           - Dessau
           - dessau
+          - Десау
         ascii_name: Dessau
         geonamesid: 2937959
         latitude: 51.83864
         longitude: 12.24555
         name: Dessau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dessau
+        names_es: 
+          - Dessau
         population: 77315
         timezone: Europe/Berlin
       - 
@@ -12246,7 +12350,8 @@ regions:
         latitude: 51.8
         longitude: 11.73333
         name: Bernburg
-        names_en: ~
+        names_en: 
+          - Bernburg
         names_es: ~
         population: 32113
         timezone: Europe/Berlin
@@ -12427,6 +12532,7 @@ regions:
           - "Bad Lauchstadt"
           - "Bad Lauchstedt"
           - "Bad Lauchstädt"
+          - Lauchstadt
         ascii_name: "Bad Lauchstadt"
         geonamesid: 2953412
         latitude: 51.38333
@@ -12441,6 +12547,7 @@ regions:
           - "Bad Kosen"
           - "Bad Kösen"
           - Kosen
+          - Kösen
         ascii_name: "Bad Kosen"
         geonamesid: 2953418
         latitude: 51.13333
@@ -12455,6 +12562,7 @@ regions:
           - "Bad Durrenberg"
           - "Bad Dürrenberg"
           - Durrenberg
+          - Dürrenberg
         ascii_name: "Bad Durrenberg"
         geonamesid: 2953521
         latitude: 51.3
@@ -12521,7 +12629,8 @@ regions:
         latitude: 51.75
         longitude: 11.46667
         name: Aschersleben
-        names_en: ~
+        names_en: 
+          - Aschersleben
         names_es: ~
         population: 24892
         timezone: Europe/Berlin
@@ -12701,8 +12810,10 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2842565
     name: Saxony-Anhalt
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Saxony-Anhalt
+    names_es: 
+      - Sachsen-Anhalt
   - 
     ascii_name: Saxony
     cities: 
@@ -12748,13 +12859,16 @@ regions:
           - Cvikau
           - Cvikkau
           - Cygnea
+          - "Stadt Zwickau"
         ascii_name: Zwickau
         geonamesid: 2803560
         latitude: 50.73333
         longitude: 12.5
         name: Zwickau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Zwickau
+        names_es: 
+          - Zwickau
         population: 98796
         timezone: Europe/Berlin
       - 
@@ -12841,12 +12955,14 @@ regions:
           - Cittau
           - Nimeccina
           - Zitava
+          - Zitawa
         ascii_name: Zittau
         geonamesid: 2804008
         latitude: 50.9
         longitude: 14.83333
         name: Zittau
-        names_en: ~
+        names_en: 
+          - Zittau
         names_es: ~
         population: 25785
         timezone: Europe/Berlin
@@ -13064,6 +13180,7 @@ regions:
           - "Betla Woda"
           - Bialawoda
           - Białawoda
+          - "Bětła Woda"
         ascii_name: Weisswasser
         geonamesid: 2811698
         latitude: 51.51667
@@ -13092,6 +13209,7 @@ regions:
           - Weissig
           - "Weissig Ort"
           - Weißig
+          - "Weißig Ort"
         ascii_name: Weissig
         geonamesid: 2811715
         latitude: 51.28333
@@ -13283,8 +13401,10 @@ regions:
         latitude: 51.56667
         longitude: 13.0
         name: Torgau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Torgau
+        names_es: 
+          - Torgau
         population: 18746
         timezone: Europe/Berlin
       - 
@@ -13646,6 +13766,7 @@ regions:
           - Schonefeld
           - Schonfeld
           - Schönefeld
+          - Schönfeld
         ascii_name: Schonfeld
         geonamesid: 2836658
         latitude: 51.3
@@ -13695,6 +13816,7 @@ regions:
           - Berzdorf
           - "Berzdorf auf dem Eigen"
           - "Berzdorf uber Gorlitz"
+          - "Berzdorf über Görlitz"
         ascii_name: Schonau-Berzdorf
         geonamesid: 2837041
         latitude: 51.06667
@@ -13857,7 +13979,8 @@ regions:
         latitude: 50.78333
         longitude: 12.63333
         name: "Sankt Egidien"
-        names_en: ~
+        names_en: 
+          - "Saint Egidien"
         names_es: ~
         population: 3709
         timezone: Europe/Berlin
@@ -14283,12 +14406,14 @@ regions:
           - Plauen
           - plauehn
           - purauen
+          - Плауэн
         ascii_name: Plauen
         geonamesid: 2853292
         latitude: 50.5
         longitude: 12.13333
         name: Plauen
-        names_en: ~
+        names_en: 
+          - Plauen
         names_es: ~
         population: 66412
         timezone: Europe/Berlin
@@ -14698,6 +14823,7 @@ regions:
           - "Neustadt i. Sa."
           - "Neustadt in Sachsen"
           - Nojshtadt
+          - Нойштадт
         ascii_name: "Neustadt in Sachsen"
         geonamesid: 2864089
         latitude: 51.02844
@@ -15093,13 +15219,17 @@ regions:
           - Meissen
           - Meißen
           - Mejsen
+          - Misen
         ascii_name: Meissen
         geonamesid: 2872155
         latitude: 51.16158
         longitude: 13.4737
         name: Meißen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Meißen
+          - Meissen
+        names_es: 
+          - Meißen
         population: 28492
         timezone: Europe/Berlin
       - 
@@ -15304,6 +15434,7 @@ regions:
           - Lobau
           - Loebau
           - Lubij
+          - Löbau
         ascii_name: Lobau
         geonamesid: 2876755
         latitude: 51.1
@@ -15318,6 +15449,7 @@ regions:
           - Limbach
           - Limbach-Oberfrohna
           - Limbakh-Oberfrona
+          - Лимбах-Оберфрона
         ascii_name: Limbach-Oberfrohna
         geonamesid: 2877673
         latitude: 50.86667
@@ -15366,6 +15498,7 @@ regions:
           - Callnberg
           - Lichenstein
           - Lichtenstein
+          - Lichtenstein-Callnberg
         ascii_name: Lichtenstein
         geonamesid: 2878037
         latitude: 50.75
@@ -15471,13 +15604,16 @@ regions:
           - Lajpcig
           - Leipciga
           - Leipcigas
+          - Leipsia
         ascii_name: Leipzig
         geonamesid: 2879139
         latitude: 51.33962
         longitude: 12.37129
         name: Leipzig
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Leipzig
+        names_es: 
+          - Leipzig
         population: 504971
         timezone: Europe/Berlin
       - 
@@ -15557,7 +15693,8 @@ regions:
         latitude: 50.65
         longitude: 13.45
         name: Seiffen
-        names_en: ~
+        names_en: 
+          - Seiffen
         names_es: ~
         population: 2600
         timezone: Europe/Berlin
@@ -15579,12 +15716,14 @@ regions:
           - "Kurort Oberwiesenthal"
           - Obervizental'
           - Oberwiesenthal
+          - Обервизенталь
         ascii_name: "Kurort Oberwiesenthal"
         geonamesid: 2882332
         latitude: 50.41667
         longitude: 12.98333
         name: "Kurort Oberwiesenthal"
-        names_en: ~
+        names_en: 
+          - Oberwiesenthal
         names_es: ~
         population: 2592
         timezone: Europe/Berlin
@@ -15927,12 +16066,14 @@ regions:
           - Hojerice
           - Hojeřice
           - Hoyerswerda
+          - Hoyerwerda
         ascii_name: Hoyerswerda
         geonamesid: 2898304
         latitude: 51.43333
         longitude: 14.25
         name: Hoyerswerda
-        names_en: ~
+        names_en: 
+          - Hoyerswerda
         names_es: ~
         population: 43681
         timezone: Europe/Berlin
@@ -16286,13 +16427,15 @@ regions:
           - Grossschoenau
           - Grossschonau
           - Grossschönau
+          - Großschönau
         ascii_name: Grossschonau
         geonamesid: 2915067
         latitude: 50.9
         longitude: 14.68333
         name: Großschönau
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Grossschönau
         population: 6571
         timezone: Europe/Berlin
       - 
@@ -16353,6 +16496,7 @@ regions:
           - Grosspoessnitz
           - Grossposna
           - Großpoeßnitz
+          - Großpösna
         ascii_name: Grossposna
         geonamesid: 2915173
         latitude: 51.26667
@@ -16461,6 +16605,7 @@ regions:
           - Dzewin
           - Džěwin
           - "Gross Duben"
+          - "Groß Düben"
         ascii_name: "Gross Duben"
         geonamesid: 2916840
         latitude: 51.56667
@@ -16543,13 +16688,16 @@ regions:
           - Gjorlic
           - Goerlitz
           - Gorlicium
+          - Gorlitz
         ascii_name: Gorlitz
         geonamesid: 2918987
         latitude: 51.16667
         longitude: 15.0
         name: Görlitz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Görlitz
+        names_es: 
+          - Görlitz
         population: 57751
         timezone: Europe/Berlin
       - 
@@ -16568,6 +16716,7 @@ regions:
           - Glauchau
           - Glaukhau
           - "Stadt Glauchau"
+          - Глаухау
         ascii_name: Glauchau
         geonamesid: 2920020
         latitude: 50.81667
@@ -16720,6 +16869,7 @@ regions:
           - Frajtal'
           - Freital
           - Freithal
+          - Фрайталь
         ascii_name: Freital
         geonamesid: 2925017
         latitude: 51.00166
@@ -16734,13 +16884,16 @@ regions:
           - Frajberg
           - Freiberg
           - Freiburg
+          - furaiberuku
         ascii_name: Freiberg
         geonamesid: 2925192
         latitude: 50.91667
         longitude: 13.36667
         name: Freiberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Freiberg
+        names_es: 
+          - Freiberg
         population: 43670
         timezone: Europe/Berlin
       - 
@@ -17053,6 +17206,7 @@ regions:
           - Durrohrsdorf
           - Durrrohrsdorf-Dittersbach
           - Dürrröhrsdorf-Dittersbach
+          - Dürröhrsdorf
         ascii_name: Durrrohrsdorf
         geonamesid: 2934286
         latitude: 51.03395
@@ -17078,13 +17232,16 @@ regions:
           - Drazdany
           - Drazgany
           - Dresda
+          - Dresde
         ascii_name: Dresden
         geonamesid: 2935022
         latitude: 51.05089
         longitude: 13.73832
         name: Dresden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dresden
+        names_es: 
+          - Dresde
         population: 486854
         timezone: Europe/Berlin
       - 
@@ -17181,6 +17338,7 @@ regions:
           - Debel'n
           - Dobeln
           - Doebeln
+          - Doeberln
         ascii_name: Dobeln
         geonamesid: 2936658
         latitude: 51.11667
@@ -17240,6 +17398,7 @@ regions:
           - Delich
           - Delitzsch
           - "Stadt Delitzsch"
+          - Делич
         ascii_name: Delitzsch
         geonamesid: 2938376
         latitude: 51.53333
@@ -17315,6 +17474,7 @@ regions:
           - Crimmitschau
           - Crimmitshau
           - Krimmichau
+          - "Stadt Crimmitschau"
         ascii_name: Crimmitschau
         geonamesid: 2939747
         latitude: 50.81667
@@ -17346,8 +17506,10 @@ regions:
         latitude: 51.13333
         longitude: 12.81667
         name: Colditz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Colditz
+        names_es: 
+          - Colditz
         population: 5173
         timezone: Europe/Berlin
       - 
@@ -17366,13 +17528,16 @@ regions:
           - Chemnicium
           - Chemnitz
           - Karl-Marx-Stadt
+          - Kemnic
         ascii_name: Chemnitz
         geonamesid: 2940132
         latitude: 50.83333
         longitude: 12.91667
         name: Chemnitz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chemnitz
+        names_es: 
+          - Chemnitz
         population: 247220
         timezone: Europe/Berlin
       - 
@@ -17578,6 +17743,7 @@ regions:
           - Bitterfel'd
           - Bitterfeld
           - Bitterfelde
+          - Биттерфельд
         ascii_name: Bitterfeld
         geonamesid: 2948164
         latitude: 51.61667
@@ -17725,13 +17891,16 @@ regions:
           - Baucen
           - Bautzen
           - Budysin
+          - Budyšin
         ascii_name: Bautzen
         geonamesid: 2951881
         latitude: 51.18333
         longitude: 14.43333
         name: Bautzen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bautzen
+        names_es: 
+          - Bautzen
         population: 41972
         timezone: Europe/Berlin
       - 
@@ -17783,6 +17952,7 @@ regions:
           - "Bad Muskau"
           - Hora
           - Muskau
+          - "Muskau Bad"
         ascii_name: "Bad Muskau"
         geonamesid: 2953397
         latitude: 51.55
@@ -17820,6 +17990,7 @@ regions:
           - "Bad Duben"
           - "Bad Düben"
           - Duben
+          - Düben
         ascii_name: "Bad Duben"
         geonamesid: 2953524
         latitude: 51.59174
@@ -17871,6 +18042,7 @@ regions:
           - Aue
           - Aue-Auerhammer
           - Aueh
+          - "Stadt Aue"
         ascii_name: Aue
         geonamesid: 2954695
         latitude: 50.58333
@@ -17896,6 +18068,7 @@ regions:
           - Annaberg
           - Annaberg-Bukhkhol'c
           - Buchholz
+          - "Stadt Annaberg-Buchholz"
         ascii_name: Annaberg-Buchholz
         geonamesid: 2956005
         latitude: 50.57953
@@ -17995,8 +18168,10 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2842566
     name: Saxony
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Saxony
+    names_es: 
+      - Sachsen
   - 
     ascii_name: Saarland
     cities: 
@@ -18152,6 +18327,7 @@ regions:
           - "Kreisstadt Sankt Wendel"
           - "Sankt Wendel"
           - Sankt-Vendel'
+          - Санкт-Вендель
         ascii_name: "Sankt Wendel"
         geonamesid: 2841463
         latitude: 49.46667
@@ -18189,13 +18365,16 @@ regions:
           - Saarlouis
           - Saarluise
           - Sarrelouis
+          - zaarlui
         ascii_name: Saarlouis
         geonamesid: 2842632
         latitude: 49.31667
         longitude: 6.75
         name: Saarlouis
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Saarlouis
+        names_es: 
+          - Saarlouis
         population: 38333
         timezone: Europe/Berlin
       - 
@@ -18214,13 +18393,16 @@ regions:
           - Saarbrecken
           - Saarbrjuken
           - Saarbrjukken
+          - Saarbrucken
         ascii_name: Saarbrucken
         geonamesid: 2842647
         latitude: 49.23333
         longitude: 7.0
         name: Saarbrücken
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Saarbrücken
+        names_es: 
+          - Saarbrücken
         population: 181227
         timezone: Europe/Berlin
       - 
@@ -18361,6 +18543,7 @@ regions:
           - Mercige
           - Merzig
           - "Merzig am Saar"
+          - Мерциге
         ascii_name: Merzig
         geonamesid: 2871675
         latitude: 49.45
@@ -18649,8 +18832,11 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2842635
     name: Saarland
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Saarland
+    names_es: 
+      - Sarre
+      - Saarland
   - 
     ascii_name: Rhineland-Palatinate
     cities: 
@@ -18659,12 +18845,14 @@ regions:
           - "Deux Ponts"
           - Deux-Ponts
           - Zweibrucken
+          - Zweibruecken
         ascii_name: Zweibrucken
         geonamesid: 2803620
         latitude: 49.25
         longitude: 7.36667
         name: Zweibrücken
-        names_en: ~
+        names_en: 
+          - Zweibrücken
         names_es: ~
         population: 35221
         timezone: Europe/Berlin
@@ -18728,6 +18916,7 @@ regions:
           - Worth
           - "Worth am Rhein"
           - Wörth
+          - "Wörth am Rhein"
         ascii_name: "Worth am Rhein"
         geonamesid: 2806081
         latitude: 49.05806
@@ -18753,13 +18942,16 @@ regions:
           - Borbetomagus
           - Vormatia
           - Vorms
+          - Wormacja
         ascii_name: Worms
         geonamesid: 2806142
         latitude: 49.63556
         longitude: 8.35972
         name: Worms
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Worms
+        names_es: 
+          - Worms
         population: 81099
         timezone: Europe/Berlin
       - 
@@ -19381,6 +19573,7 @@ regions:
           - Uxheim
           - Uxheim-Ahutte
           - Üxheim
+          - Üxheim-Ahütte
         ascii_name: Uxheim
         geonamesid: 2817980
         latitude: 50.35
@@ -19418,6 +19611,7 @@ regions:
           - Uberdorf
           - Urbach-Uberdorf
           - Urbach-Überdorf
+          - Überdorf
         ascii_name: Urbach-Uberdorf
         geonamesid: 2818232
         latitude: 50.55
@@ -19553,13 +19747,16 @@ regions:
           - "Augusta Treverorum"
           - Treier
           - Treveris
+          - Treves
         ascii_name: Trier
         geonamesid: 2821164
         latitude: 49.75565
         longitude: 6.63935
         name: Trier
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Trier
+        names_es: 
+          - Tréveris
         population: 100129
         timezone: Europe/Berlin
       - 
@@ -19777,13 +19974,16 @@ regions:
           - Espira
           - Shpejer
           - Speyer
+          - Spira
         ascii_name: Speyer
         geonamesid: 2830582
         latitude: 49.32972
         longitude: 8.42778
         name: Speyer
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Speyer
+        names_es: 
+          - Espira
         population: 50343
         timezone: Europe/Berlin
       - 
@@ -20155,7 +20355,8 @@ regions:
         latitude: 50.15
         longitude: 7.73333
         name: "Sankt Goarshausen"
-        names_en: ~
+        names_en: 
+          - "Saint Goarshausen"
         names_es: ~
         population: 1511
         timezone: Europe/Berlin
@@ -20523,8 +20724,10 @@ regions:
         latitude: 49.45
         longitude: 7.55
         name: Ramstein-Miesenbach
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ramstein-Miesenbach
+        names_es: 
+          - Ramstein
         population: 8078
         timezone: Europe/Berlin
       - 
@@ -20666,12 +20869,14 @@ regions:
           - Pirmasens
           - Pirmazens
           - pirumazensu
+          - Пирмазенс
         ascii_name: Pirmasens
         geonamesid: 2853574
         latitude: 49.20145
         longitude: 7.60529
         name: Pirmasens
-        names_en: ~
+        names_en: 
+          - Pirmasens
         names_es: ~
         population: 43582
         timezone: Europe/Berlin
@@ -21316,12 +21521,14 @@ regions:
           - Neuweid
           - Neuwied
           - Nojvid
+          - Нойвид
         ascii_name: Neuwied
         geonamesid: 2863840
         latitude: 50.43333
         longitude: 7.46667
         name: Neuwied
-        names_en: ~
+        names_en: 
+          - Neuwied
         names_es: ~
         population: 66805
         timezone: Europe/Berlin
@@ -21330,6 +21537,7 @@ regions:
           - Neustadt
           - "Neustadt an der Haardt"
           - "Neustadt an der Weinstrasse"
+          - "Neustadt an der Weinstraße"
         ascii_name: "Neustadt an der Weinstrasse"
         geonamesid: 2864054
         latitude: 49.35667
@@ -21539,6 +21747,7 @@ regions:
           - Munchweiler
           - "Munchweiler Rodalb"
           - "Munchweiler an der Rodalbe"
+          - Münchweiler
         ascii_name: "Munchweiler an der Rodalbe"
         geonamesid: 2867626
         latitude: 49.21667
@@ -21553,6 +21762,7 @@ regions:
           - Munchweiler
           - "Munchweiler Alsenz"
           - "Munchweiler an der Alsenz"
+          - Münchweiler
         ascii_name: "Munchweiler an der Alsenz"
         geonamesid: 2867627
         latitude: 49.55
@@ -21850,6 +22060,7 @@ regions:
           - Meckenheim
           - Meehenheim
           - Mekkenkhajm
+          - Меккенхайм
         ascii_name: Meckenheim
         geonamesid: 2872583
         latitude: 49.40444
@@ -22008,13 +22219,16 @@ regions:
           - Magonza
           - Maguncia
           - Magúncia
+          - Mainca
         ascii_name: Mainz
         geonamesid: 2874225
         latitude: 50.0
         longitude: 8.27111
         name: Mainz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mainz
+        names_es: 
+          - Maguncia
         population: 184997
         timezone: Europe/Berlin
       - 
@@ -22066,13 +22280,16 @@ regions:
           - Ljudvigskhafen
           - Ludvigskhafen
           - Ludwigshafen
+          - "Ludwigshafen am Rhein"
         ascii_name: "Ludwigshafen am Rhein"
         geonamesid: 2875376
         latitude: 49.48111
         longitude: 8.43528
         name: "Ludwigshafen am Rhein"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Ludwigshafen am Rhein"
+        names_es: 
+          - Ludwigshafen
         population: 163196
         timezone: Europe/Berlin
       - 
@@ -22371,12 +22588,14 @@ regions:
           - Landau
           - "Landau in der Pfalz"
           - Ландау
+          - לנדאו
         ascii_name: "Landau in der Pfalz"
         geonamesid: 2881646
         latitude: 49.2075
         longitude: 8.11333
         name: "Landau in der Pfalz"
-        names_en: ~
+        names_en: 
+          - Landau
         names_es: ~
         population: 41612
         timezone: Europe/Berlin
@@ -22579,13 +22798,16 @@ regions:
           - Coblenca
           - Coblence
           - Coblentz
+          - Coblenz
         ascii_name: Koblenz
         geonamesid: 2886946
         latitude: 50.35
         longitude: 7.6
         name: Koblenz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Koblenz
+        names_es: 
+          - Coblenza
         population: 107319
         timezone: Europe/Berlin
       - 
@@ -22719,6 +22941,7 @@ regions:
           - Kirchheim
           - "Kirchheim an der Eck"
           - "Kirchheim an der Weinstrasse"
+          - "Kirchheim an der Weinstraße"
         ascii_name: "Kirchheim an der Weinstrasse"
         geonamesid: 2890480
         latitude: 49.53722
@@ -22981,13 +23204,16 @@ regions:
           - Kaiserlautern
           - Kaiserslantern
           - Kaiserslautern
+          - Kaizerslauternas
         ascii_name: Kaiserslautern
         geonamesid: 2894003
         latitude: 49.45
         longitude: 7.75
         name: Kaiserslautern
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kaiserslautern
+        names_es: 
+          - Kaiserslautern
         population: 98732
         timezone: Europe/Berlin
       - 
@@ -23356,6 +23582,7 @@ regions:
           - Heuchelheim
           - "Heuchelheim bei Frankenthal"
           - "Heuchelheim uber Frankenthal"
+          - "Heuchelheim über Frankenthal"
         ascii_name: "Heuchelheim bei Frankenthal"
         geonamesid: 2905069
         latitude: 49.56306
@@ -23796,6 +24023,7 @@ regions:
           - Gruenspadt
           - Gruenstadt
           - Grunstadt
+          - Grünstadt
         ascii_name: Grunstadt
         geonamesid: 2914101
         latitude: 49.56917
@@ -23934,6 +24162,7 @@ regions:
           - Glan-Munchweiler
           - Glan-Münchweiler
           - Munchweiler
+          - Münchweiler
         ascii_name: Glan-Munchweiler
         geonamesid: 2920197
         latitude: 49.46667
@@ -24003,6 +24232,7 @@ regions:
           - Gemersheim
           - Germersheim
           - Germerskhajm
+          - Гермерсхайм
         ascii_name: Germersheim
         geonamesid: 2921034
         latitude: 49.22306
@@ -24221,7 +24451,8 @@ regions:
         latitude: 49.53722
         longitude: 8.355
         name: Frankenthal
-        names_en: ~
+        names_en: 
+          - Frankenthal
         names_es: ~
         population: 47438
         timezone: Europe/Berlin
@@ -24941,7 +25172,8 @@ regions:
         latitude: 50.13333
         longitude: 7.15
         name: Cochem
-        names_en: ~
+        names_en: 
+          - Cochem
         names_es: ~
         population: 5215
         timezone: Europe/Berlin
@@ -25337,7 +25569,8 @@ regions:
         latitude: 49.96667
         longitude: 6.53333
         name: Bitburg
-        names_en: ~
+        names_en: 
+          - Bitburg
         names_es: ~
         population: 12908
         timezone: Europe/Berlin
@@ -25405,12 +25638,14 @@ regions:
           - Bingen
           - "Bingen am Rhein"
           - "Bingen na Rejn"
+          - Bingen-Am-Rhein
         ascii_name: "Bingen am Rhein"
         geonamesid: 2948825
         latitude: 49.96667
         longitude: 7.9
         name: "Bingen am Rhein"
-        names_en: ~
+        names_en: 
+          - "Bingen am Rhein"
         names_es: ~
         population: 24657
         timezone: Europe/Berlin
@@ -25637,6 +25872,7 @@ regions:
           - "Bad Munster"
           - "Bad Munster am Stein-Ebernburg"
           - "Bad Munster-Ebernburg"
+          - "Bad Münster"
         ascii_name: "Bad Munster am Stein-Ebernburg"
         geonamesid: 2953399
         latitude: 49.81667
@@ -25677,6 +25913,7 @@ regions:
           - "Bad Honningen"
           - "Bad Hönningen"
           - Honningen
+          - Hönningen
         ascii_name: "Bad Honningen"
         geonamesid: 2953434
         latitude: 50.51667
@@ -25696,7 +25933,8 @@ regions:
         latitude: 50.33333
         longitude: 7.71667
         name: "Bad Ems"
-        names_en: ~
+        names_en: 
+          - "Bad Ems"
         names_es: ~
         population: 9735
         timezone: Europe/Berlin
@@ -25716,6 +25954,7 @@ regions:
           - "Bad Durkheim"
           - "Bad Dürkheim"
           - Durkheim
+          - Dürkheim
         ascii_name: "Bad Durkheim"
         geonamesid: 2953522
         latitude: 49.46861
@@ -25869,6 +26108,7 @@ regions:
           - Andernach
           - Andernakh
           - "Stadt Andernach"
+          - Андернах
         ascii_name: Andernach
         geonamesid: 2956206
         latitude: 50.43333
@@ -26531,8 +26771,10 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2847618
     name: Rhineland-Palatinate
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Rhineland-Palatinate
+    names_es: 
+      - Rheinland-Pfalz
   - 
     ascii_name: "North Rhine-Westphalia"
     cities: 
@@ -26541,12 +26783,14 @@ regions:
           - "Bitwa pod Tolbiac"
           - Cjul'pikh
           - "Slaget vid Tulpiacum"
+          - Tolbiac
         ascii_name: Zulpich
         geonamesid: 2803723
         latitude: 50.7
         longitude: 6.65
         name: Zülpich
-        names_en: ~
+        names_en: 
+          - Zülpich
         names_es: ~
         population: 20208
         timezone: Europe/Berlin
@@ -26555,12 +26799,14 @@ regions:
           - Ksanten
           - Santen
           - Xanten
+          - kusanten
         ascii_name: Xanten
         geonamesid: 2805385
         latitude: 51.66667
         longitude: 6.45
         name: Xanten
-        names_en: ~
+        names_en: 
+          - Xanten
         names_es: ~
         population: 21587
         timezone: Europe/Berlin
@@ -26582,13 +26828,16 @@ regions:
           - Boupertal
           - Vupertale
           - Vupertāle
+          - Vuppertal'
         ascii_name: Wuppertal
         geonamesid: 2805753
         latitude: 51.26667
         longitude: 7.18333
         name: Wuppertal
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wuppertal
+        names_es: 
+          - Wuppertal
         population: 360797
         timezone: Europe/Berlin
       - 
@@ -26620,13 +26869,16 @@ regions:
           - Vitten
           - Witten
           - vu~itten
+          - Виттен
         ascii_name: Witten
         geonamesid: 2807363
         latitude: 51.43333
         longitude: 7.33333
         name: Witten
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Witten
+        names_es: 
+          - Witten
         population: 101247
         timezone: Europe/Berlin
       - 
@@ -26634,12 +26886,14 @@ regions:
           - Viperfiurtas
           - Vipperfjurt
           - Wipperfuerth
+          - Wipperfurta
         ascii_name: Wipperfurth
         geonamesid: 2807594
         latitude: 51.11667
         longitude: 7.4
         name: Wipperfürth
-        names_en: ~
+        names_en: 
+          - Wipperfürth
         names_es: ~
         population: 23723
         timezone: Europe/Berlin
@@ -26775,7 +27029,8 @@ regions:
         latitude: 51.66667
         longitude: 6.61667
         name: Wesel
-        names_en: ~
+        names_en: 
+          - Wesel
         names_es: ~
         population: 61685
         timezone: Europe/Berlin
@@ -26917,6 +27172,7 @@ regions:
           - "Stadt Warstein"
           - Varshtajn
           - Warstein
+          - Варштайн
         ascii_name: Warstein
         geonamesid: 2814005
         latitude: 51.45
@@ -27067,7 +27323,8 @@ regions:
         latitude: 51.25
         longitude: 6.38333
         name: Viersen
-        names_en: ~
+        names_en: 
+          - Viersen
         names_es: ~
         population: 76153
         timezone: Europe/Berlin
@@ -27128,7 +27385,8 @@ regions:
         latitude: 51.33333
         longitude: 7.05
         name: Velbert
-        names_en: ~
+        names_en: 
+          - Velbert
         names_es: ~
         population: 87669
         timezone: Europe/Berlin
@@ -27141,7 +27399,8 @@ regions:
         latitude: 51.53333
         longitude: 7.68333
         name: Unna
-        names_en: ~
+        names_en: 
+          - Unna
         names_es: ~
         population: 66734
         timezone: Europe/Berlin
@@ -27179,7 +27438,8 @@ regions:
         latitude: 50.81667
         longitude: 7.16667
         name: Troisdorf
-        names_en: ~
+        names_en: 
+          - Troisdorf
         names_es: ~
         population: 74749
         timezone: Europe/Berlin
@@ -27188,6 +27448,7 @@ regions:
           - "Stadt Tonisvorst"
           - "Stadt Tönisvorst"
           - Tonisvorst
+          - Tönisvorst
         ascii_name: Tonisvorst
         geonamesid: 2821899
         latitude: 51.31667
@@ -27369,13 +27630,16 @@ regions:
           - Solingen
           - Zolingen
           - zoringen
+          - Золинген
         ascii_name: Solingen
         geonamesid: 2831580
         latitude: 51.18333
         longitude: 7.08333
         name: Solingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Solingen
+        names_es: 
+          - Solingen
         population: 164359
         timezone: Europe/Berlin
       - 
@@ -27383,12 +27647,14 @@ regions:
           - Soest
           - Zoest
           - zosuto
+          - Зоест
         ascii_name: Soest
         geonamesid: 2831708
         latitude: 51.57558
         longitude: 8.10619
         name: Soest
-        names_en: ~
+        names_en: 
+          - Soest
         names_es: ~
         population: 48037
         timezone: Europe/Berlin
@@ -27420,12 +27686,14 @@ regions:
           - Siegen
           - Zigen
           - jigen
+          - Зиген
         ascii_name: Siegen
         geonamesid: 2832495
         latitude: 50.86667
         longitude: 8.03333
         name: Siegen
-        names_en: ~
+        names_en: 
+          - Siegen
         names_es: ~
         population: 107242
         timezone: Europe/Berlin
@@ -27434,12 +27702,14 @@ regions:
           - Siebursh
           - Siegburg
           - jikuburuku
+          - zigburg
         ascii_name: Siegburg
         geonamesid: 2832521
         latitude: 50.8
         longitude: 7.2
         name: Siegburg
-        names_en: ~
+        names_en: 
+          - Siegburg
         names_es: ~
         population: 39135
         timezone: Europe/Berlin
@@ -27472,6 +27742,7 @@ regions:
           - Selm
           - "Stadt Selm"
           - Zel'm
+          - Зельм
         ascii_name: Selm
         geonamesid: 2833170
         latitude: 51.7
@@ -27751,8 +28022,10 @@ regions:
         latitude: 52.28333
         longitude: 7.45
         name: Rheine
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rheine
+        names_es: 
+          - Rheine
         population: 76491
         timezone: Europe/Berlin
       - 
@@ -27808,13 +28081,16 @@ regions:
           - Remscheid
           - Remshajd
           - remushaito
+          - Ремшайд
         ascii_name: Remscheid
         geonamesid: 2848273
         latitude: 51.18333
         longitude: 7.2
         name: Remscheid
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Remscheid
+        names_es: 
+          - Remscheid
         population: 117118
         timezone: Europe/Berlin
       - 
@@ -27834,12 +28110,14 @@ regions:
           - Recklinghausen
           - Reklingkhauzen
           - Riaekelkusen
+          - Riäkelkusen
         ascii_name: Recklinghausen
         geonamesid: 2849647
         latitude: 51.61667
         longitude: 7.2
         name: Recklinghausen
-        names_en: ~
+        names_en: 
+          - Recklinghausen
         names_es: ~
         population: 122438
         timezone: Europe/Berlin
@@ -27863,7 +28141,8 @@ regions:
         latitude: 51.29724
         longitude: 6.84929
         name: Ratingen
-        names_en: ~
+        names_en: 
+          - Ratingen
         names_es: ~
         population: 91606
         timezone: Europe/Berlin
@@ -27970,13 +28249,16 @@ regions:
           - Paderborn
           - Patterbuorn
           - padaborun
+          - Падерборн
         ascii_name: Paderborn
         geonamesid: 2855745
         latitude: 51.71905
         longitude: 8.75439
         name: Paderborn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Paderborn
+        names_es: 
+          - Paderborn
         population: 142161
         timezone: Europe/Berlin
       - 
@@ -28079,6 +28361,7 @@ regions:
           - Oelde
           - Ol'de
           - "Stadt Oelde"
+          - Ольде
         ascii_name: Oelde
         geonamesid: 2857943
         latitude: 51.81667
@@ -28117,13 +28400,16 @@ regions:
           - Oberhausen
           - Oberkhauzen
           - Omperchaouzen
+          - Overhus
         ascii_name: Oberhausen
         geonamesid: 2860410
         latitude: 51.46667
         longitude: 6.85
         name: Oberhausen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Oberhausen
+        names_es: 
+          - Oberhausen
         population: 219176
         timezone: Europe/Berlin
       - 
@@ -28229,6 +28515,7 @@ regions:
           - Niderkassel'
           - Niederkassel
           - bonn-niederholtdorf
+          - Нидеркассель
         ascii_name: Niederkassel
         geonamesid: 2863223
         latitude: 50.81667
@@ -28255,13 +28542,16 @@ regions:
           - Neuss
           - Neuß
           - Nojs
+          - Novaesium
         ascii_name: Neuss
         geonamesid: 2864118
         latitude: 51.2
         longitude: 6.68333
         name: Neuß
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Neuss
+        names_es: 
+          - Neuss
         population: 152457
         timezone: Europe/Berlin
       - 
@@ -28350,13 +28640,16 @@ regions:
           - Minster
           - Mjunster
           - Moenster
+          - Monasterium
         ascii_name: Muenster
         geonamesid: 2867543
         latitude: 51.96236
         longitude: 7.62571
         name: Münster
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Münster
+        names_es: 
+          - Münster
         population: 270184
         timezone: Europe/Berlin
       - 
@@ -28364,13 +28657,16 @@ regions:
           - Milchaim
           - Mjul'khajm-na-Rure
           - Moelm
+          - Moeln
         ascii_name: "Muelheim an der Ruhr"
         geonamesid: 2867838
         latitude: 51.43333
         longitude: 6.88333
         name: "Mülheim an der Ruhr"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mülheim
+        names_es: 
+          - "Mülheim an der Ruhr"
         population: 171000
         timezone: Europe/Berlin
       - 
@@ -28425,13 +28721,16 @@ regions:
           - Mjonkhengladbakh
           - Moenchengladbach
           - Monchengladbach
+          - Muenchen-Gladbach
         ascii_name: Monchengladbach
         geonamesid: 2869894
         latitude: 51.2
         longitude: 6.43333
         name: Mönchengladbach
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mönchengladbach
+        names_es: 
+          - Mönchengladbach
         population: 261742
         timezone: Europe/Berlin
       - 
@@ -28439,12 +28738,14 @@ regions:
           - Mers
           - Meurs
           - Moers
+          - Mors
         ascii_name: Moers
         geonamesid: 2870221
         latitude: 51.45
         longitude: 6.65
         name: Moers
-        names_en: ~
+        names_en: 
+          - Moers
         names_es: ~
         population: 107816
         timezone: Europe/Berlin
@@ -28458,7 +28759,8 @@ regions:
         latitude: 52.28333
         longitude: 8.91667
         name: Minden
-        names_en: ~
+        names_en: 
+          - Minden
         names_es: ~
         population: 82879
         timezone: Europe/Berlin
@@ -28620,12 +28922,14 @@ regions:
           - Luenen
           - Lunen
           - Lünen
+          - ryunen
         ascii_name: Lunen
         geonamesid: 2875107
         latitude: 51.61667
         longitude: 7.51667
         name: Lünen
-        names_en: ~
+        names_en: 
+          - Lünen
         names_es: ~
         population: 91009
         timezone: Europe/Berlin
@@ -28645,6 +28949,7 @@ regions:
           - Ljudingkhauzen
           - Ludinghausen
           - Lüdinghausen
+          - Людингхаузен
         ascii_name: Ludinghausen
         geonamesid: 2875417
         latitude: 51.76667
@@ -28659,12 +28964,14 @@ regions:
           - Leudenscheid
           - Ludenscheid
           - Luedenscheid
+          - Lüdenscheid
         ascii_name: Ludenscheid
         geonamesid: 2875457
         latitude: 51.21667
         longitude: 7.61667
         name: Lüdenscheid
-        names_en: ~
+        names_en: 
+          - Lüdenscheid
         names_es: ~
         population: 79386
         timezone: Europe/Berlin
@@ -28714,8 +29021,10 @@ regions:
         latitude: 51.66667
         longitude: 8.35
         name: Lippstadt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lippstadt
+        names_es: 
+          - Lippstadt
         population: 67219
         timezone: Europe/Berlin
       - 
@@ -28769,13 +29078,16 @@ regions:
           - Laevverkuuse
           - Leberkouzen
           - Leverkusen
+          - Leverkuzen
         ascii_name: Leverkusen
         geonamesid: 2878234
         latitude: 51.03333
         longitude: 7.0
         name: Leverkusen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Leverkusen
+        names_es: 
+          - Leverkusen
         population: 162738
         timezone: Europe/Berlin
       - 
@@ -28987,13 +29299,16 @@ regions:
           - Crefeld
           - Krefel'd
           - Krefeld
+          - Krefeld-Uerdingen
         ascii_name: Krefeld
         geonamesid: 2884509
         latitude: 51.33333
         longitude: 6.56667
         name: Krefeld
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Krefeld
+        names_es: 
+          - Krefeld
         population: 237984
         timezone: Europe/Berlin
       - 
@@ -29038,13 +29353,16 @@ regions:
           - "Augusta Ubiorum"
           - Cologna
           - Cologne
+          - Colonha
         ascii_name: Koeln
         geonamesid: 2886242
         latitude: 50.93333
         longitude: 6.95
         name: Köln
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cologne
+        names_es: 
+          - Colonia
         population: 963395
         timezone: Europe/Berlin
       - 
@@ -29052,13 +29370,16 @@ regions:
           - Cleeve
           - Cleve
           - Cleveris
+          - Cleves
         ascii_name: Kleve
         geonamesid: 2887835
         latitude: 51.78333
         longitude: 6.15
         name: Kleve
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kleve
+        names_es: 
+          - Cléveris
         population: 49072
         timezone: Europe/Berlin
       - 
@@ -29130,8 +29451,10 @@ regions:
         latitude: 50.86667
         longitude: 6.7
         name: Kerpen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kerpen
+        names_es: 
+          - Kerpen
         population: 64226
         timezone: Europe/Berlin
       - 
@@ -29262,13 +29585,16 @@ regions:
           - Iserlaun
           - Iserlohn
           - Izerlon
+          - Изерлон
         ascii_name: Iserlohn
         geonamesid: 2895669
         latitude: 51.36667
         longitude: 7.7
         name: Iserlohn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Iserlohn
+        names_es: 
+          - Iserlohn
         population: 97910
         timezone: Europe/Berlin
       - 
@@ -29428,7 +29754,8 @@ regions:
         latitude: 51.87199
         longitude: 8.94347
         name: "Horn-Bad Meinberg"
-        names_en: ~
+        names_en: 
+          - "Horn-Bad Meinberg"
         names_es: ~
         population: 18184
         timezone: Europe/Berlin
@@ -29510,7 +29837,8 @@ regions:
         latitude: 51.6
         longitude: 7.13333
         name: Herten
-        names_en: ~
+        names_en: 
+          - Herten
         names_es: ~
         population: 65306
         timezone: Europe/Berlin
@@ -29530,13 +29858,16 @@ regions:
           - Herne
           - Kherne
           - herune
+          - Херне
         ascii_name: Herne
         geonamesid: 2905891
         latitude: 51.55
         longitude: 7.21667
         name: Herne
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Herne
+        names_es: 
+          - Herne
         population: 172108
         timezone: Europe/Berlin
       - 
@@ -29544,12 +29875,14 @@ regions:
           - Herford
           - Hiarwede
           - Kherford
+          - Херфорд
         ascii_name: Herford
         geonamesid: 2906121
         latitude: 52.13333
         longitude: 8.68333
         name: Herford
-        names_en: ~
+        names_en: 
+          - Herford
         names_es: ~
         population: 64879
         timezone: Europe/Berlin
@@ -29582,13 +29915,16 @@ regions:
           - Hemer
           - Khemer
           - Хемер
+          - เหแมร์
         ascii_name: Hemer
         geonamesid: 2906595
         latitude: 51.38333
         longitude: 7.76667
         name: Hemer
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hemer
+        names_es: 
+          - Hemer
         population: 37502
         timezone: Europe/Berlin
       - 
@@ -29608,6 +29944,7 @@ regions:
           - Heinsberg
           - Heinsburg
           - Khajnsberg
+          - Хайнсберг
         ascii_name: Heinsberg
         geonamesid: 2907201
         latitude: 51.06667
@@ -29716,13 +30053,16 @@ regions:
           - Hamm
           - Hammona
           - Khamm
+          - hamu
         ascii_name: Hamm
         geonamesid: 2911240
         latitude: 51.68033
         longitude: 7.82089
         name: Hamm
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hamm
+        names_es: 
+          - Hamm
         population: 185327
         timezone: Europe/Berlin
       - 
@@ -29742,6 +30082,7 @@ regions:
           - Haltern
           - "Haltern in Westfalen"
           - Khal'terne
+          - Хальтерне
         ascii_name: Haltern
         geonamesid: 2911395
         latitude: 51.73333
@@ -29774,8 +30115,10 @@ regions:
         latitude: 52.06667
         longitude: 8.36667
         name: Halle
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Halle
+        names_es: 
+          - Halle
         population: 21071
         timezone: Europe/Berlin
       - 
@@ -29783,13 +30126,16 @@ regions:
           - Hagen
           - Khagen
           - hagen
+          - hageni
         ascii_name: Hagen
         geonamesid: 2912621
         latitude: 51.35
         longitude: 7.46667
         name: Hagen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hagen
+        names_es: 
+          - Hagen
         population: 198972
         timezone: Europe/Berlin
       - 
@@ -29797,6 +30143,7 @@ regions:
           - Haan
           - Khaan
           - "Stadt Haan"
+          - Хаан
         ascii_name: Haan
         geonamesid: 2913195
         latitude: 51.2
@@ -29811,13 +30158,16 @@ regions:
           - Gjuterslo
           - Guetersloh
           - Gutersloh
+          - Gütersloh
         ascii_name: Gutersloh
         geonamesid: 2913366
         latitude: 51.9
         longitude: 8.38333
         name: Gütersloh
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gütersloh
+        names_es: 
+          - Gütersloh
         population: 96180
         timezone: Europe/Berlin
       - 
@@ -29852,7 +30202,8 @@ regions:
         latitude: 51.09102
         longitude: 6.5827
         name: Grevenbroich
-        names_en: ~
+        names_en: 
+          - Grevenbroich
         names_es: ~
         population: 64779
         timezone: Europe/Berlin
@@ -29874,6 +30225,7 @@ regions:
           - Grembergkhofen
           - Kjol'n/Porc-Grembergkhofen
           - Грембергхофен
+          - Кёльн/Порц-Грембергхофен
         ascii_name: Gremberghoven
         geonamesid: 2917726
         latitude: 50.90152
@@ -29914,7 +30266,8 @@ regions:
         latitude: 51.56667
         longitude: 6.98333
         name: Gladbeck
-        names_en: ~
+        names_en: 
+          - Gladbeck
         names_es: ~
         population: 76940
         timezone: Europe/Berlin
@@ -29935,6 +30288,7 @@ regions:
           - Gesecke
           - Geseke
           - Gezeke
+          - Гезеке
         ascii_name: Geseke
         geonamesid: 2920834
         latitude: 51.65
@@ -29961,13 +30315,16 @@ regions:
           - Chaesekerken
           - Chäsekerken
           - Gel'zenkirkhen
+          - Gelsenkirchen
         ascii_name: Gelsenkirchen
         geonamesid: 2921466
         latitude: 51.51667
         longitude: 7.05
         name: Gelsenkirchen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gelsenkirchen
+        names_es: 
+          - Gelsenkirchen
         population: 270028
         timezone: Europe/Berlin
       - 
@@ -30087,13 +30444,16 @@ regions:
           - Assindia
           - Ehssen
           - Esen
+          - Esenas
         ascii_name: Essen
         geonamesid: 2928810
         latitude: 51.45
         longitude: 7.01667
         name: Essen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Essen
+        names_es: 
+          - Essen
         population: 593085
         timezone: Europe/Berlin
       - 
@@ -30129,7 +30489,8 @@ regions:
         latitude: 50.81667
         longitude: 6.28333
         name: Eschweiler
-        names_en: ~
+        names_en: 
+          - Eschweiler
         names_es: ~
         population: 55778
         timezone: Europe/Berlin
@@ -30169,7 +30530,8 @@ regions:
         latitude: 51.21667
         longitude: 6.9
         name: Erkrath
-        names_en: ~
+        names_en: 
+          - Erkrath
         names_es: ~
         population: 47815
         timezone: Europe/Berlin
@@ -30261,6 +30623,7 @@ regions:
           - Ehmmerikh
           - Emmerich
           - "Stadt Emmerich"
+          - Эммерих
         ascii_name: Emmerich
         geonamesid: 2930509
         latitude: 51.83333
@@ -30310,13 +30673,16 @@ regions:
           - Diseldorf
           - Diseldorfa
           - Diuseldorfas
+          - Djuseldorf
         ascii_name: Dusseldorf
         geonamesid: 2934246
         latitude: 51.22172
         longitude: 6.77616
         name: Düsseldorf
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Düsseldorf
+        names_es: 
+          - Düsseldorf
         population: 573057
         timezone: Europe/Berlin
       - 
@@ -30324,12 +30690,14 @@ regions:
           - Djuren
           - Dueren
           - Duren
+          - Düren
         ascii_name: Duren
         geonamesid: 2934486
         latitude: 50.8
         longitude: 6.48333
         name: Düren
-        names_en: ~
+        names_en: 
+          - Düren
         names_es: ~
         population: 93440
         timezone: Europe/Berlin
@@ -30351,13 +30719,16 @@ regions:
           - Disburga
           - Duisborg
           - Duisbourg
+          - Duisburch
         ascii_name: Duisburg
         geonamesid: 2934691
         latitude: 51.43333
         longitude: 6.75
         name: Duisburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Duisburg
+        names_es: 
+          - Duisburgo
         population: 504358
         timezone: Europe/Berlin
       - 
@@ -30399,13 +30770,16 @@ regions:
           - Dortmund
           - Dortmundas
           - Dortmunde
+          - Dortmundi
         ascii_name: Dortmund
         geonamesid: 2935517
         latitude: 51.51667
         longitude: 7.45
         name: Dortmund
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Dortmund
+        names_es: 
+          - Dortmund
         population: 588462
         timezone: Europe/Berlin
       - 
@@ -30417,7 +30791,8 @@ regions:
         latitude: 51.66667
         longitude: 6.96667
         name: Dorsten
-        names_en: ~
+        names_en: 
+          - Dorsten
         names_es: ~
         population: 79981
         timezone: Europe/Berlin
@@ -30430,7 +30805,8 @@ regions:
         latitude: 51.1
         longitude: 6.83333
         name: Dormagen
-        names_en: ~
+        names_en: 
+          - Dormagen
         names_es: ~
         population: 63582
         timezone: Europe/Berlin
@@ -30450,12 +30826,14 @@ regions:
           - Dinslaken
           - Dinslakena
           - Ntinslaken
+          - Ντίνσλακεν
         ascii_name: Dinslaken
         geonamesid: 2936871
         latitude: 51.56667
         longitude: 6.73333
         name: Dinslaken
-        names_en: ~
+        names_en: 
+          - Dinslaken
         names_es: ~
         population: 70573
         timezone: Europe/Berlin
@@ -30464,12 +30842,14 @@ regions:
           - Detmol'd
           - Detmold
           - Detmoldas
+          - deteumolteu
         ascii_name: Detmold
         geonamesid: 2937936
         latitude: 51.93855
         longitude: 8.87318
         name: Detmold
-        names_en: ~
+        names_en: 
+          - Detmold
         names_es: ~
         population: 73680
         timezone: Europe/Berlin
@@ -30514,6 +30894,7 @@ regions:
           - Coesfeld
           - Koesfeld
           - Kosfel'd
+          - Косфельд
         ascii_name: Coesfeld
         geonamesid: 2939945
         latitude: 51.93333
@@ -30649,13 +31030,16 @@ regions:
           - Botrop
           - Bottrop
           - botoroppu
+          - Ботроп
         ascii_name: Bottrop
         geonamesid: 2945756
         latitude: 51.51667
         longitude: 6.91667
         name: Bottrop
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bottrop
+        names_es: 
+          - Bottrop
         population: 119909
         timezone: Europe/Berlin
       - 
@@ -30710,6 +31094,7 @@ regions:
           - Bon
           - Bona
           - Boni
+          - Bonn
         ascii_name: Bonn
         geonamesid: 2946447
         latitude: 50.73333
@@ -30737,13 +31122,16 @@ regions:
           - Baukem
           - Bochum
           - Bohuma
+          - Bokhum
         ascii_name: Bochum
         geonamesid: 2947416
         latitude: 51.48333
         longitude: 7.21667
         name: Bochum
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bochum
+        names_es: 
+          - Bochum
         population: 385729
         timezone: Europe/Berlin
       - 
@@ -30755,7 +31143,8 @@ regions:
         latitude: 51.83333
         longitude: 6.6
         name: Bocholt
-        names_en: ~
+        names_en: 
+          - Bocholt
         names_es: ~
         population: 73943
         timezone: Europe/Berlin
@@ -30810,13 +31199,16 @@ regions:
           - Bielefeld
           - Bilefel'd
           - Bilefelde
+          - Builefeld
         ascii_name: Bielefeld
         geonamesid: 2949186
         latitude: 52.03333
         longitude: 8.53333
         name: Bielefeld
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bielefeld
+        names_es: 
+          - Bielefeld
         population: 331906
         timezone: Europe/Berlin
       - 
@@ -30871,12 +31263,14 @@ regions:
           - "Bergisch Gladbach"
           - "Bergish Gladbakh"
           - Jlaebbisch
+          - Jläbbisch
         ascii_name: "Bergisch Gladbach"
         geonamesid: 2950349
         latitude: 50.98333
         longitude: 7.13333
         name: "Bergisch Gladbach"
-        names_en: ~
+        names_en: 
+          - "Bergisch Gladbach"
         names_es: ~
         population: 106184
         timezone: Europe/Berlin
@@ -30969,6 +31363,7 @@ regions:
           - Basweilen
           - Basweiler
           - Besvajler
+          - Bäsweiler
         ascii_name: Baesweiler
         geonamesid: 2953302
         latitude: 50.90964
@@ -31033,6 +31428,7 @@ regions:
           - "Bad Munstereifel"
           - "Bad Münstereifel"
           - Munstereifel
+          - Münstereifel
         ascii_name: "Bad Munstereifel"
         geonamesid: 2953398
         latitude: 50.55
@@ -31133,12 +31529,14 @@ regions:
           - Arnsberg
           - Arnsberga
           - Arnsberge
+          - Арнсберге
         ascii_name: Arnsberg
         geonamesid: 2955471
         latitude: 51.38333
         longitude: 8.08333
         name: Arnsberg
-        names_en: ~
+        names_en: 
+          - Arnsberg
         names_es: ~
         population: 76612
         timezone: Europe/Berlin
@@ -31241,12 +31639,14 @@ regions:
           - Ahlen
           - Alen
           - Alena
+          - Aulen
         ascii_name: Ahlen
         geonamesid: 2959223
         latitude: 51.76338
         longitude: 7.8887
         name: Ahlen
-        names_en: ~
+        names_en: 
+          - Ahlen
         names_es: ~
         population: 55280
         timezone: Europe/Berlin
@@ -31304,19 +31704,24 @@ regions:
           - Aachen
           - Aakhen
           - Achenas
+          - Ahene
         ascii_name: Aachen
         geonamesid: 3247449
         latitude: 50.77664
         longitude: 6.08342
         name: Aachen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aachen
+        names_es: 
+          - Aquisgrán
         population: 265208
         timezone: Europe/Berlin
     geonamesid: 2861876
     name: "North Rhine-Westphalia"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "North Rhine-Westphalia"
+    names_es: 
+      - "Renania del Norte-Westfalia"
   - 
     ascii_name: "Lower Saxony"
     cities: 
@@ -31518,12 +31923,14 @@ regions:
           - Wolfenbuettel
           - Wolfenbuttel
           - Wolfenbüttel
+          - Wulffenbuettel
         ascii_name: Wolfenbuttel
         geonamesid: 2806914
         latitude: 52.16667
         longitude: 10.55
         name: Wolfenbüttel
-        names_en: ~
+        names_en: 
+          - Wolfenbüttel
         names_es: ~
         population: 54740
         timezone: Europe/Berlin
@@ -31664,12 +32071,14 @@ regions:
           - Vil'gel'mskhafen
           - Wilhelmshaven
           - Willemshaven
+          - bilhelleumseuhapen
         ascii_name: Wilhelmshaven
         geonamesid: 2808720
         latitude: 53.51667
         longitude: 8.13333
         name: Wilhelmshaven
-        names_en: ~
+        names_en: 
+          - Wilhelmshaven
         names_es: ~
         population: 84393
         timezone: Europe/Berlin
@@ -31979,6 +32388,7 @@ regions:
           - "Waditlagun [a. 1022]"
           - Wateln
           - Wathlingen
+          - Wodeln
         ascii_name: Wathlingen
         geonamesid: 2813660
         latitude: 52.53333
@@ -32255,12 +32665,14 @@ regions:
           - Verden
           - feruden
           - Верден
+          - フェルデン
         ascii_name: Verden
         geonamesid: 2817599
         latitude: 52.91667
         longitude: 9.23333
         name: Verden
-        names_en: ~
+        names_en: 
+          - Verden
         names_es: ~
         population: 26924
         timezone: Europe/Berlin
@@ -32352,8 +32764,10 @@ regions:
         latitude: 51.66667
         longitude: 9.65
         name: Uslar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Uslar
+        names_es: 
+          - Uslar
         population: 15951
         timezone: Europe/Berlin
       - 
@@ -32408,6 +32822,7 @@ regions:
           - Juce
           - UEtze
           - "Utisson [a. 1022]"
+          - Ütze
         ascii_name: Uetze
         geonamesid: 2820436
         latitude: 52.46511
@@ -32849,13 +33264,16 @@ regions:
           - Stade
           - Stood
           - shtadh
+          - shutade
         ascii_name: Stade
         geonamesid: 2829901
         latitude: 53.6
         longitude: 9.48333
         name: Stade
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Stade
+        names_es: 
+          - Stade
         population: 45634
         timezone: Europe/Berlin
       - 
@@ -32863,6 +33281,7 @@ regions:
           - Shpringe
           - Springe
           - "Stadt Springe"
+          - Шпринге
         ascii_name: Springe
         geonamesid: 2830035
         latitude: 52.20845
@@ -34020,13 +34439,16 @@ regions:
           - Osnabrik
           - Osnabrjuk
           - Osnabruck
+          - Osnabrueck
         ascii_name: Osnabruck
         geonamesid: 2856883
         latitude: 52.26667
         longitude: 8.05
         name: Osnabrück
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Osnabrück
+        names_es: 
+          - Osnabrück
         population: 166462
         timezone: Europe/Berlin
       - 
@@ -34081,13 +34503,17 @@ regions:
           - Aldinborg
           - Ol'denburg
           - Oldenbourg
+          - Oldenburg
         ascii_name: Oldenburg
         geonamesid: 2857458
         latitude: 53.16667
         longitude: 8.2
         name: Oldenburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Oldenburg
+        names_es: 
+          - Oldenburg
+          - Oldenburgo
         population: 159218
         timezone: Europe/Berlin
       - 
@@ -34256,6 +34682,7 @@ regions:
           - Nordenham
           - Nordenkhame
           - "Stadt Nordenham"
+          - Норденхаме
         ascii_name: Nordenham
         geonamesid: 2862104
         latitude: 53.5
@@ -34348,6 +34775,7 @@ regions:
           - Neustadt
           - "Neustadt am Rubenberge"
           - "Neustadt am Rübenberge"
+          - Nojshtadt-am-Rjubenberge
         ascii_name: "Neustadt am Rubenberge"
         geonamesid: 2864058
         latitude: 52.5
@@ -34464,12 +34892,14 @@ regions:
           - "Hann. Muenden"
           - "Hann. Münden"
           - Hann.Muenden
+          - Hann.Münden
         ascii_name: "Hannoversch Munden"
         geonamesid: 2867613
         latitude: 51.41505
         longitude: 9.65046
         name: "Hannoversch Münden"
-        names_en: ~
+        names_en: 
+          - "Hannoversch Münden"
         names_es: ~
         population: 25073
         timezone: Europe/Berlin
@@ -34641,6 +35071,7 @@ regions:
           - Maansse
           - Maanssen
           - Maanße
+          - Maanßen
         ascii_name: Meinersen
         geonamesid: 2872244
         latitude: 52.47436
@@ -34726,6 +35157,7 @@ regions:
           - Lutter
           - "Lutter am Barenberge"
           - "Lutter am Barje"
+          - "Lutter an Barenbarge"
         ascii_name: "Lutter am Barenberge"
         geonamesid: 2874832
         latitude: 51.98943
@@ -34752,13 +35184,16 @@ regions:
           - Ljuneburg
           - Lueneburg
           - Luneberg
+          - Lunebourg
         ascii_name: Luneburg
         geonamesid: 2875115
         latitude: 53.25
         longitude: 10.4
         name: Lüneburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lüneburg
+        names_es: 
+          - Lüneburg
         population: 71260
         timezone: Europe/Berlin
       - 
@@ -34874,8 +35309,10 @@ regions:
         latitude: 52.51667
         longitude: 7.31667
         name: Lingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lingen
+        names_es: 
+          - Lingen
         population: 51310
         timezone: Europe/Berlin
       - 
@@ -34939,6 +35376,7 @@ regions:
           - Lengerich
           - "Lengerich Dorf"
           - Lengerikhe
+          - Ленгерихе
         ascii_name: Lengerich
         geonamesid: 2878838
         latitude: 52.55381
@@ -35059,13 +35497,16 @@ regions:
           - Leer
           - Lera
           - Tuerkce
+          - Türkce
         ascii_name: Leer
         geonamesid: 2879697
         latitude: 53.23333
         longitude: 7.43333
         name: Leer
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Leer
+        names_es: 
+          - Leer
         population: 33886
         timezone: Europe/Berlin
       - 
@@ -35375,6 +35816,7 @@ regions:
           - Konigslutter
           - "Konigslutter am Elm"
           - Königslutter
+          - "Königslutter am Elm"
         ascii_name: "Konigslutter am Elm"
         geonamesid: 2885800
         latitude: 52.25
@@ -35433,6 +35875,7 @@ regions:
           - Kissenbruck
           - Kissenbrück
           - Kissinbruck
+          - Kissinbrück
         ascii_name: Kissenbruck
         geonamesid: 2890204
         latitude: 52.10956
@@ -36016,12 +36459,14 @@ regions:
           - Hildesheim
           - Hilmessen
           - Khil'deskhajm
+          - Хильдесхайм
         ascii_name: Hildesheim
         geonamesid: 2904789
         latitude: 52.15077
         longitude: 9.95112
         name: Hildesheim
-        names_en: ~
+        names_en: 
+          - Hildesheim
         names_es: ~
         population: 103052
         timezone: Europe/Berlin
@@ -36189,12 +36634,14 @@ regions:
           - Helmestee
           - Helmestidde
           - "Helmonstede [a. 952]"
+          - Helmstadium
         ascii_name: Helmstedt
         geonamesid: 2906676
         latitude: 52.23333
         longitude: 11.0
         name: Helmstedt
-        names_en: ~
+        names_en: 
+          - Helmstedt
         names_es: ~
         population: 25515
         timezone: Europe/Berlin
@@ -36337,6 +36784,7 @@ regions:
           - Hattoerp
           - Hattorp
           - "Hattorpp [a. 952]"
+          - Hattörp
         ascii_name: Hattorf
         geonamesid: 2909226
         latitude: 51.65035
@@ -36509,13 +36957,16 @@ regions:
           - Annobero
           - Gannover
           - Hannauver
+          - Hannober
         ascii_name: Hannover
         geonamesid: 2910831
         latitude: 52.37052
         longitude: 9.73322
         name: Hannover
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hanover
+        names_es: 
+          - Hanóver
         population: 515140
         timezone: Europe/Berlin
       - 
@@ -36536,6 +36987,7 @@ regions:
           - "'Kasperland'"
           - Haehnsen
           - "Henighusen [a. 1226]"
+          - Hähnsen
         ascii_name: Haenigsen
         geonamesid: 2910875
         latitude: 52.48333
@@ -36583,13 +37035,16 @@ regions:
           - Hamelen
           - Hamelin
           - Hameln
+          - Hamelín
         ascii_name: Hameln
         geonamesid: 2911271
         latitude: 52.10397
         longitude: 9.35623
         name: Hameln
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hamelin
+        names_es: 
+          - Hamelín
         population: 58666
         timezone: Europe/Berlin
       - 
@@ -36667,12 +37122,14 @@ regions:
           - Biekero'e
           - "Bikirothon [a. 1088]"
           - "Hagen a.T.W."
+          - "Hagen am Teutoburger Wald"
         ascii_name: "Hagen am Teuteburger Wald"
         geonamesid: 2912618
         latitude: 52.2
         longitude: 7.98333
         name: "Hagen am Teuteburger Wald"
-        names_en: ~
+        names_en: 
+          - "Hagen, Osnabrück"
         names_es: ~
         population: 14187
         timezone: Europe/Berlin
@@ -36736,6 +37193,7 @@ regions:
           - "Gross Oesingen"
           - "Gross Osingen"
           - "Groß Oesingen"
+          - "Groß Ösingen"
         ascii_name: "Gross Oesingen"
         geonamesid: 2915212
         latitude: 52.65
@@ -36846,13 +37304,16 @@ regions:
           - G'otingen
           - Getynga
           - Gjottingen
+          - Goettinga
         ascii_name: Gottingen
         geonamesid: 2918632
         latitude: 51.53333
         longitude: 9.93333
         name: Göttingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Göttingen
+        names_es: 
+          - Göttingen
         population: 122149
         timezone: Europe/Berlin
       - 
@@ -36860,13 +37321,16 @@ regions:
           - Goslar
           - Goslaria
           - "ge si la er"
+          - gwslr
         ascii_name: Goslar
         geonamesid: 2918840
         latitude: 51.90425
         longitude: 10.42766
         name: Goslar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Goslar
+        names_es: 
+          - Goslar
         population: 43560
         timezone: Europe/Berlin
       - 
@@ -37090,7 +37554,8 @@ regions:
         latitude: 52.41667
         longitude: 9.6
         name: Garbsen
-        names_en: ~
+        names_en: 
+          - Garbsen
         names_es: ~
         population: 63355
         timezone: Europe/Berlin
@@ -37180,6 +37645,7 @@ regions:
           - Frajburg
           - Freiburg
           - "Freiburg an der Elbe"
+          - Фрайбург
         ascii_name: Freiburg
         geonamesid: 2925181
         latitude: 53.83333
@@ -37227,6 +37693,7 @@ regions:
           - "*Fathrwurth-"
           - "*Faþrwurþ-"
           - "Fatruwerde [a. 1155]"
+          - Fedderwarn
         ascii_name: Fedderwarden
         geonamesid: 2927621
         latitude: 53.56142
@@ -37470,13 +37937,16 @@ regions:
           - Emden
           - "ai mu deng"
           - amdn
+          - emuden
         ascii_name: Emden
         geonamesid: 2930596
         latitude: 53.36667
         longitude: 7.21667
         name: Emden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Emden
+        names_es: 
+          - Emden
         population: 51526
         timezone: Europe/Berlin
       - 
@@ -37542,6 +38012,7 @@ regions:
           - Eisdorf
           - "Eisdorf uber Herzberg"
           - "Eisdorf über Herzberg"
+          - Eisdorp
         ascii_name: "Eisdorf am Harz"
         geonamesid: 2931594
         latitude: 51.76152
@@ -37556,6 +38027,7 @@ regions:
           - Ajnbek
           - Einbeck
           - "Stadt Einbeck"
+          - Айнбек
         ascii_name: Einbeck
         geonamesid: 2931804
         latitude: 51.81667
@@ -37626,6 +38098,7 @@ regions:
           - Egestorf
           - "Egestorf am Suentel"
           - "Egestorf am Suntel"
+          - "Egestorf am Süntel"
         ascii_name: Egestorf
         geonamesid: 2933187
         latitude: 53.18333
@@ -37640,6 +38113,7 @@ regions:
           - Egestoerp
           - Egestorf
           - "Egestorf (Deister)"
+          - Egestörp
         ascii_name: Egestorf
         geonamesid: 2933188
         latitude: 52.28333
@@ -37908,6 +38382,7 @@ regions:
           - "Dolberge [a. 1226]"
           - Dollbarge
           - Dollbargen
+          - Dolle
         ascii_name: Dollbergen
         geonamesid: 2936385
         latitude: 52.40671
@@ -38026,13 +38501,16 @@ regions:
           - Del'menkhorst
           - Delmenhorst
           - Demost
+          - derumenhorusuto
         ascii_name: Delmenhorst
         geonamesid: 2938323
         latitude: 53.05
         longitude: 8.61667
         name: Delmenhorst
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Delmenhorst
+        names_es: 
+          - Delmenhorst
         population: 75893
         timezone: Europe/Berlin
       - 
@@ -38146,7 +38624,8 @@ regions:
         latitude: 53.87176
         longitude: 8.69087
         name: Cuxhaven
-        names_en: ~
+        names_en: 
+          - Cuxhaven
         names_es: ~
         population: 52677
         timezone: Europe/Berlin
@@ -38167,6 +38646,7 @@ regions:
           - Coppenbrugge
           - Coppenbrügge
           - Koppenbrugge
+          - Koppenbrügge
         ascii_name: Coppenbrugge
         geonamesid: 2939862
         latitude: 52.11667
@@ -38225,7 +38705,8 @@ regions:
         latitude: 52.61667
         longitude: 10.08333
         name: Celle
-        names_en: ~
+        names_en: 
+          - Celle
         names_es: ~
         population: 71010
         timezone: Europe/Berlin
@@ -38269,6 +38750,7 @@ regions:
           - Borchdoerp
           - Borchdörp
           - Bortaerpe
+          - Bortoerp
         ascii_name: Burgdorf
         geonamesid: 2941405
         latitude: 52.44628
@@ -38330,6 +38812,7 @@ regions:
           - Buchholz
           - "Buchholz in der Nordheide"
           - Bukhgol'c-in-der-Nordkhajde
+          - Бухгольц-ин-дер-Нордхайде
         ascii_name: "Buchholz in der Nordheide"
         geonamesid: 2942323
         latitude: 53.33333
@@ -38412,6 +38895,7 @@ regions:
           - Braeukel
           - Breukel
           - "Brockelde [a. 1215]"
+          - Bräukel
         ascii_name: Broeckel
         geonamesid: 2943998
         latitude: 52.51627
@@ -38461,13 +38945,16 @@ regions:
           - Braunschweig
           - Braunshvejg
           - Bronswiek
+          - Brunsvicum
         ascii_name: Braunschweig
         geonamesid: 2945024
         latitude: 52.26667
         longitude: 10.53333
         name: Braunschweig
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Braunschweig
+        names_es: 
+          - Brunswick
         population: 244715
         timezone: Europe/Berlin
       - 
@@ -38605,13 +39092,16 @@ regions:
           - Boarkum
           - Borkum
           - bwrqwm
+          - Боркум
         ascii_name: Borkum
         geonamesid: 2946206
         latitude: 53.58094
         longitude: 6.69153
         name: Borkum
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Borkum
+        names_es: 
+          - Borkum
         population: 5186
         timezone: Europe/Berlin
       - 
@@ -39261,6 +39751,7 @@ regions:
           - Bahrdorp
           - Bardorp
           - "Bardorp [a. 973]"
+          - "Bardorpe [~ a. 1250]"
         ascii_name: Bahrdorf
         geonamesid: 2953247
         latitude: 52.38587
@@ -39336,6 +39827,7 @@ regions:
           - "Bad Munder"
           - "Bad Munder am Deister"
           - "Bad Münder"
+          - "Bad Münder am Deister"
         ascii_name: "Bad Munder am Deister"
         geonamesid: 2953400
         latitude: 52.19551
@@ -39373,6 +39865,7 @@ regions:
           - "Bad Harzburg"
           - Bad-Kharcburge
           - "Stadt Bad Harzburg"
+          - Бад-Харцбурге
         ascii_name: "Bad Harzburg"
         geonamesid: 2953449
         latitude: 51.88333
@@ -39957,6 +40450,7 @@ regions:
           - Boeenste'e
           - Boeenstidde
           - Boeoenstidde
+          - Böenste'e
         ascii_name: Bueddenstedt
         geonamesid: 3208594
         latitude: 52.17035
@@ -40058,8 +40552,10 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2862926
     name: "Lower Saxony"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Lower Saxony"
+    names_es: 
+      - Niedersachsen
   - 
     ascii_name: Mecklenburg-Vorpommern
     cities: 
@@ -40181,13 +40677,16 @@ regions:
           - Vol'gast
           - Wolgast
           - Wologoszcz
+          - Wołogoszcz
         ascii_name: Wolgast
         geonamesid: 2806501
         latitude: 54.05
         longitude: 13.76667
         name: Wolgast
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wolgast
+        names_es: 
+          - Wolgast
         population: 12664
         timezone: Europe/Berlin
       - 
@@ -40239,13 +40738,16 @@ regions:
           - Vismar
           - Wismar
           - Wyszomierz
+          - "wei si ma"
         ascii_name: Wismar
         geonamesid: 2807465
         latitude: 53.9
         longitude: 11.46667
         name: Wismar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wismar
+        names_es: 
+          - Wismar
         population: 45255
         timezone: Europe/Berlin
       - 
@@ -40513,6 +41015,7 @@ regions:
           - Suhlstorf
           - Sulstorf
           - Sühlstorf
+          - Sülstorf
         ascii_name: Sulstorf
         geonamesid: 2824937
         latitude: 53.51667
@@ -40539,13 +41042,16 @@ regions:
           - Shtral'zund
           - Stralsund
           - "shi te la er song"
+          - shutoraruzunto
         ascii_name: Stralsund
         geonamesid: 2826287
         latitude: 54.30911
         longitude: 13.0818
         name: Stralsund
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Stralsund
+        names_es: 
+          - Stralsund
         population: 58976
         timezone: Europe/Berlin
       - 
@@ -40689,13 +41195,16 @@ regions:
           - Schwerin
           - Shverin
           - Suerinum
+          - Swerin
         ascii_name: Schwerin
         geonamesid: 2834282
         latitude: 53.62937
         longitude: 11.41316
         name: Schwerin
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Schwerin
+        names_es: 
+          - Schwerin
         population: 96641
         timezone: Europe/Berlin
       - 
@@ -40740,8 +41249,10 @@ regions:
         latitude: 54.51667
         longitude: 13.65
         name: Saßnitz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sassnitz
+        names_es: 
+          - Sassnitz
         population: 10779
         timezone: Europe/Berlin
       - 
@@ -40806,13 +41317,16 @@ regions:
           - Roshhok
           - Roshtok
           - Rostock
+          - Rostok
         ascii_name: Rostock
         geonamesid: 2844588
         latitude: 54.0887
         longitude: 12.14049
         name: Rostock
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rostock
+        names_es: 
+          - Rostock
         population: 198293
         timezone: Europe/Berlin
       - 
@@ -41149,6 +41663,7 @@ regions:
           - Arendsee
           - Kuhlungsborn
           - Kühlungsborn
+          - "Ostseebad Kuhlungsborn"
         ascii_name: "Ostseebad Kuhlungsborn"
         geonamesid: 2856193
         latitude: 54.15
@@ -41163,6 +41678,7 @@ regions:
           - Graal-Muritz
           - Graal-Müritz
           - "Ostseebad Graal-Muritz"
+          - "Ostseebad Graal-Müritz"
         ascii_name: "Seeheilbad Graal-Muritz"
         geonamesid: 2856194
         latitude: 54.25124
@@ -41272,12 +41788,14 @@ regions:
           - Neustrelitz
           - "Nieg Strelitz"
           - Nojshtrelice
+          - "Stadt Neustrelitz"
         ascii_name: Neustrelitz
         geonamesid: 2864005
         latitude: 53.36667
         longitude: 13.08333
         name: Neustrelitz
-        names_en: ~
+        names_en: 
+          - Neustrelitz
         names_es: ~
         population: 22291
         timezone: Europe/Berlin
@@ -41366,12 +41884,14 @@ regions:
           - Neubrandenbourg
           - Neubrandenburg
           - Nojbrandenburge
+          - Нойбранденбурге
         ascii_name: Neubrandenburg
         geonamesid: 2866135
         latitude: 53.56667
         longitude: 13.26667
         name: Neubrandenburg
-        names_en: ~
+        names_en: 
+          - Neubrandenburg
         names_es: ~
         population: 68082
         timezone: Europe/Berlin
@@ -42030,13 +42550,16 @@ regions:
           - Grajfsval'd
           - Greifswald
           - Griefswald
+          - Griepswohld
         ascii_name: Greifswald
         geonamesid: 2917788
         latitude: 54.1
         longitude: 13.38333
         name: Greifswald
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Greifswald
+        names_es: 
+          - Greifswald
         population: 52731
         timezone: Europe/Berlin
       - 
@@ -42354,8 +42877,10 @@ regions:
         latitude: 53.90762
         longitude: 13.03142
         name: Demmin
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Demmin
+        names_es: 
+          - Demmin
         population: 12495
         timezone: Europe/Berlin
       - 
@@ -42545,6 +43070,7 @@ regions:
           - "Born am Darss"
           - "Born am Darß"
           - "Born uber Barth"
+          - "Born über Barth"
         ascii_name: Born
         geonamesid: 2946176
         latitude: 54.38536
@@ -42627,6 +43153,7 @@ regions:
           - "Bergen Rugen"
           - "Bergen Rügen"
           - "Bergen auf Rugen"
+          - "Bergen auf Rügen"
         ascii_name: Bergen
         geonamesid: 2950620
         latitude: 54.41823
@@ -42720,13 +43247,16 @@ regions:
           - "Bad Doberan"
           - Bad-Doberan
           - Doberan
+          - Бад-Доберан
         ascii_name: "Bad Doberan"
         geonamesid: 2953528
         latitude: 54.10712
         longitude: 11.90051
         name: "Bad Doberan"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Bad Doberan"
+        names_es: 
+          - "Bad Doberan"
         population: 11559
         timezone: Europe/Berlin
       - 
@@ -42738,8 +43268,10 @@ regions:
         latitude: 53.85637
         longitude: 13.68965
         name: Anklam
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Anklam
+        names_es: 
+          - Anklam
         population: 14694
         timezone: Europe/Berlin
       - 
@@ -42858,8 +43390,10 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2872567
     name: Mecklenburg-Vorpommern
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Mecklenburg-Vorpommern
+    names_es: 
+      - Mecklenburg-Vorpommern
   - 
     ascii_name: Hesse
     cities: 
@@ -42952,13 +43486,16 @@ regions:
           - "Aquae Mattiacae"
           - Bismpanten
           - Uisibada
+          - Visbaden
         ascii_name: Wiesbaden
         geonamesid: 2809346
         latitude: 50.08333
         longitude: 8.25
         name: Wiesbaden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wiesbaden
+        names_es: 
+          - Wiesbaden
         population: 272432
         timezone: Europe/Berlin
       - 
@@ -42966,13 +43503,16 @@ regions:
           - Betslar
           - Veclar
           - Veclara
+          - Veclaras
         ascii_name: Wetzlar
         geonamesid: 2809889
         latitude: 50.55
         longitude: 8.5
         name: Wetzlar
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wetzlar
+        names_es: 
+          - Wetzlar
         population: 52656
         timezone: Europe/Berlin
       - 
@@ -43239,6 +43779,7 @@ regions:
           - "Stadt Taunusstein"
           - Taunusshtajn
           - Taunusstein
+          - Таунусштайн
         ascii_name: Taunusstein
         geonamesid: 2823799
         latitude: 50.15
@@ -43548,7 +44089,8 @@ regions:
         latitude: 49.9925
         longitude: 8.435
         name: Rüsselsheim
-        names_en: ~
+        names_en: 
+          - Rüsselsheim
         names_es: ~
         population: 59730
         timezone: Europe/Berlin
@@ -43569,6 +44111,7 @@ regions:
           - Rudesheim
           - "Rudesheim am Rhein"
           - Rüdesheim
+          - "Rüdesheim am Rhein"
         ascii_name: "Rudesheim am Rhein"
         geonamesid: 2843395
         latitude: 49.97841
@@ -44028,6 +44571,7 @@ regions:
           - "Neu Isenburg"
           - Neulsenburg
           - Noj-Izenburg
+          - Ной-Изенбург
         ascii_name: "Neu Isenburg"
         geonamesid: 2864820
         latitude: 50.05
@@ -44253,13 +44797,16 @@ regions:
           - Marbourg
           - Marburg
           - "Marburg an der Lahn"
+          - Marburgo
         ascii_name: "Marburg an der Lahn"
         geonamesid: 2873759
         latitude: 50.81667
         longitude: 8.76667
         name: "Marburg an der Lahn"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Marburg
+        names_es: 
+          - Marburgo
         population: 78895
         timezone: Europe/Berlin
       - 
@@ -44307,8 +44854,10 @@ regions:
         latitude: 49.65472
         longitude: 8.56861
         name: Lorsch
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lorsch
+        names_es: 
+          - Lorsch
         population: 12744
         timezone: Europe/Berlin
       - 
@@ -44376,12 +44925,14 @@ regions:
           - Limburg
           - "Limburg an der Lahn"
           - Limburg-na-Lane
+          - "Limburgis ad Lanem"
         ascii_name: "Limburg an der Lahn"
         geonamesid: 2877648
         latitude: 50.38333
         longitude: 8.05
         name: "Limburg an der Lahn"
-        names_en: ~
+        names_en: 
+          - "Limburg an der Lahn"
         names_es: ~
         population: 33820
         timezone: Europe/Berlin
@@ -44458,6 +45009,7 @@ regions:
           - "Lang Gons"
           - "Lang Göns"
           - Langgons
+          - Langgöns
         ascii_name: Langgons
         geonamesid: 2880672
         latitude: 50.5
@@ -44561,6 +45113,7 @@ regions:
           - Konigstein
           - "Konigstein im Taunus"
           - Königstein
+          - "Königstein im Taunus"
         ascii_name: "Konigstein im Taunus"
         geonamesid: 2885760
         latitude: 50.18333
@@ -44662,13 +45215,16 @@ regions:
           - Cassel
           - Castellum
           - Chasalla
+          - Kasel
         ascii_name: Kassel
         geonamesid: 2892518
         latitude: 51.31667
         longitude: 9.5
         name: Kassel
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kassel
+        names_es: 
+          - Kassel
         population: 194501
         timezone: Europe/Berlin
       - 
@@ -44816,6 +45372,7 @@ regions:
           - Hochst
           - "Hochst im Odenwald"
           - Höchst
+          - "Höchst im Odenwald"
         ascii_name: "Hochst im Odenwald"
         geonamesid: 2902951
         latitude: 49.79972
@@ -45011,13 +45568,16 @@ regions:
           - Chanaou
           - Hanau
           - "Hanau am Main"
+          - Khanau
         ascii_name: "Hanau am Main"
         geonamesid: 2911007
         latitude: 50.13333
         longitude: 8.91667
         name: "Hanau am Main"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hanau
+        names_es: 
+          - Hanau
         population: 88648
         timezone: Europe/Berlin
       - 
@@ -45096,6 +45656,7 @@ regions:
           - Grunberg
           - "Grunberg in Hessen"
           - Grünberg
+          - "Grünberg in Hessen"
         ascii_name: Grunberg
         geonamesid: 2914432
         latitude: 50.59403
@@ -45334,13 +45895,16 @@ regions:
           - Gieben
           - Giessen
           - Gießen
+          - Gissen
         ascii_name: Giessen
         geonamesid: 2920512
         latitude: 50.58333
         longitude: 8.65
         name: Gießen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gießen
+        names_es: 
+          - Giessen
         population: 74411
         timezone: Europe/Berlin
       - 
@@ -45383,6 +45947,7 @@ regions:
           - Gemunden
           - "Gemunden an der Wohra"
           - Gemünden
+          - "Gemünden an der Wohra"
         ascii_name: "Gemunden an der Wohra"
         geonamesid: 2921375
         latitude: 50.96667
@@ -45455,13 +46020,16 @@ regions:
           - Ful'da
           - Fulda
           - furuda
+          - Фульда
         ascii_name: Fulda
         geonamesid: 2923822
         latitude: 50.55162
         longitude: 9.67518
         name: Fulda
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Fulda
+        names_es: 
+          - Fulda
         population: 63760
         timezone: Europe/Berlin
       - 
@@ -45529,6 +46097,7 @@ regions:
           - Fridberg
           - Friedberg
           - "Friedberg in Hessen"
+          - Friedburg
         ascii_name: Friedberg
         geonamesid: 2924802
         latitude: 50.35
@@ -45565,13 +46134,19 @@ regions:
           - Francfort
           - "Francfort - Frankfurt am Main"
           - "Francfort d'o Meno"
+          - "Francfort del Meno"
         ascii_name: "Frankfurt am Main"
         geonamesid: 2925533
         latitude: 50.11667
         longitude: 8.68333
         name: "Frankfurt am Main"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Frankfurt am Main"
+          - Frankfurt
+        names_es: 
+          - Francfort
+          - "Fráncfort del Meno"
+          - Fráncfort
         population: 650000
         timezone: Europe/Berlin
       - 
@@ -45603,6 +46178,7 @@ regions:
           - Florsheim
           - "Florsheim am Main"
           - Flörsheim
+          - "Flörsheim am Main"
         ascii_name: Florsheim
         geonamesid: 2926120
         latitude: 50.01667
@@ -45655,8 +46231,10 @@ regions:
         latitude: 51.18333
         longitude: 10.06667
         name: Eschwege
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Eschwege
+        names_es: 
+          - Eschwege
         population: 21191
         timezone: Europe/Berlin
       - 
@@ -45913,13 +46491,16 @@ regions:
           - Darmshhat
           - Darmshtadt
           - Darmstadt
+          - Darmundestadt
         ascii_name: Darmstadt
         geonamesid: 2938913
         latitude: 49.87056
         longitude: 8.64944
         name: Darmstadt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Darmstadt
+        names_es: 
+          - Darmstadt
         population: 140385
         timezone: Europe/Berlin
       - 
@@ -46239,7 +46820,8 @@ regions:
         latitude: 49.68028
         longitude: 8.61611
         name: Bensheim
-        names_en: ~
+        names_en: 
+          - Bensheim
         names_es: ~
         population: 39439
         timezone: Europe/Berlin
@@ -46415,12 +46997,14 @@ regions:
           - "Bad Homburg"
           - "Bad Homburg v.d. Hoehe"
           - "Bad Homburg v.d. Höhe"
+          - "Bad Homburg vor der Hoehe"
         ascii_name: "Bad Homburg vor der Hohe"
         geonamesid: 2953436
         latitude: 50.22667
         longitude: 8.61963
         name: "Bad Homburg vor der Höhe"
-        names_en: ~
+        names_en: 
+          - "Bad Homburg"
         names_es: ~
         population: 51859
         timezone: Europe/Berlin
@@ -46429,6 +47013,7 @@ regions:
           - "Bad Hersfeld"
           - Bad-Khersfel'd
           - Hersfeld
+          - Бад-Херсфельд
         ascii_name: "Bad Hersfeld"
         geonamesid: 2953439
         latitude: 50.86667
@@ -46731,8 +47316,10 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2905330
     name: Hesse
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Hesse
+    names_es: 
+      - Hessen
   - 
     ascii_name: Hamburg
     cities: 
@@ -46741,19 +47328,27 @@ regions:
           - Amborg
           - Ambourgo
           - Amburgo
+          - "Ciutat d'Hamburg"
         ascii_name: Hamburg
         geonamesid: 2911298
         latitude: 53.55
         longitude: 10.0
         name: Hamburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hamburg
+        names_es: 
+          - Hamburgo
         population: 1739117
         timezone: Europe/Berlin
     geonamesid: 2911297
     name: Hamburg
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Hamburg
+      - "Free and Hanseatic City of Hamburg"
+      - "Hamburg City"
+    names_es: 
+      - Hamburg
+      - Hamburgo
   - 
     ascii_name: Bremen
     cities: 
@@ -46773,13 +47368,16 @@ regions:
           - Bremerhaven
           - Bremerhoben
           - Bremerkhafen
+          - beulemeohapen
         ascii_name: Bremerhaven
         geonamesid: 2944368
         latitude: 53.55
         longitude: 8.58333
         name: Bremerhaven
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bremerhaven
+        names_es: 
+          - Bremerhaven
         population: 117446
         timezone: Europe/Berlin
       - 
@@ -46787,19 +47385,24 @@ regions:
           - Brehmehn
           - Brema
           - Breme
+          - Bremen
         ascii_name: Bremen
         geonamesid: 2944388
         latitude: 53.07516
         longitude: 8.80777
         name: Bremen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bremen
+        names_es: 
+          - Bremen
+          - Brema
         population: 546501
         timezone: Europe/Berlin
     geonamesid: 2944387
     name: Bremen
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Bremen
   - 
     ascii_name: Brandenburg
     cities: 
@@ -47263,6 +47866,7 @@ regions:
           - Senftenberg
           - Zenftenberg
           - "Zly Komorow"
+          - "Zły Komorow"
         ascii_name: Senftenberg
         geonamesid: 2833073
         latitude: 51.51667
@@ -47611,13 +48215,16 @@ regions:
           - Poczdam
           - Podstupim
           - Postupim
+          - Potsdam
         ascii_name: Potsdam
         geonamesid: 2852458
         latitude: 52.39886
         longitude: 13.06566
         name: Potsdam
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Potsdam
+        names_es: 
+          - Potsdam
         population: 145292
         timezone: Europe/Berlin
       - 
@@ -47721,7 +48328,8 @@ regions:
         latitude: 52.75
         longitude: 13.23333
         name: Oranienburg
-        names_en: ~
+        names_en: 
+          - Oranienburg
         names_es: ~
         population: 40793
         timezone: Europe/Berlin
@@ -47796,12 +48404,14 @@ regions:
           - Neuruppin
           - Neuruppino
           - Nojrupin
+          - "nuo yi lu ping"
         ascii_name: Neuruppin
         geonamesid: 2864276
         latitude: 52.92815
         longitude: 12.80311
         name: Neuruppin
-        names_en: ~
+        names_en: 
+          - Neuruppin
         names_es: ~
         population: 31901
         timezone: Europe/Berlin
@@ -48018,6 +48628,7 @@ regions:
           - Luckenwalde
           - Lukkenval'de
           - "Stadt Luckenwalde"
+          - Луккенвальде
         ascii_name: Luckenwalde
         geonamesid: 2875484
         latitude: 52.08333
@@ -48058,6 +48669,7 @@ regions:
           - Lubben
           - Lubin
           - Luebben
+          - Lübben
         ascii_name: Lubben
         geonamesid: 2875625
         latitude: 51.95
@@ -48272,6 +48884,7 @@ regions:
           - Janschwalde
           - Jansojce
           - Janšojce
+          - Jänschwalde
         ascii_name: Janschwalde
         geonamesid: 2895189
         latitude: 51.86667
@@ -48449,6 +49062,7 @@ regions:
           - Grosseraeschen
           - Grossraschen
           - Großeraeschen
+          - Großräschen
         ascii_name: Grossraschen
         geonamesid: 2915157
         latitude: 51.58333
@@ -48488,6 +49102,7 @@ regions:
           - "Gross Kreutz"
           - "Gross Kreuz"
           - "Groß Kreutz"
+          - "Groß Kreuz"
         ascii_name: "Gross Kreutz"
         geonamesid: 2915375
         latitude: 52.4
@@ -48689,13 +49304,19 @@ regions:
           - Francfort
           - "Francfort del Oder"
           - "Francfort del Odra"
+          - Francfort-sur-l'Oder
         ascii_name: "Frankfurt (Oder)"
         geonamesid: 2925535
         latitude: 52.34714
         longitude: 14.55062
         name: "Frankfurt (Oder)"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Frankfurt (Oder)"
+          - Frankfurt
+        names_es: 
+          - "Fráncfort del Óder"
+          - Fráncfort
+          - "Fráncfort del Odra"
         population: 51691
         timezone: Europe/Berlin
       - 
@@ -48703,6 +49324,7 @@ regions:
           - Barsac
           - Barsc
           - Baršć
+          - Forst
         ascii_name: Forst
         geonamesid: 2925832
         latitude: 51.73333
@@ -48729,6 +49351,7 @@ regions:
           - "Beelitz (Mark) OT Fichtenwalde"
           - "Beelitz Ortsteil Fichtenwalde"
           - Fichtenwalde
+          - "Kolonie Fichtenwalde"
         ascii_name: Fichtenwalde
         geonamesid: 2926941
         latitude: 52.28038
@@ -48815,12 +49438,14 @@ regions:
           - Ajzenkhjuttenshtadt
           - Eisenhuettenstadt
           - Eisenhüttenstadt
+          - Fuerstenberg
         ascii_name: Eisenhuettenstadt
         geonamesid: 2931481
         latitude: 52.15
         longitude: 14.65
         name: Eisenhüttenstadt
-        names_en: ~
+        names_en: 
+          - Eisenhüttenstadt
         names_es: ~
         population: 32052
         timezone: Europe/Berlin
@@ -48899,13 +49524,16 @@ regions:
           - Chocebuz
           - Chociebuz
           - Chociebuż
+          - Chosebuz
         ascii_name: Cottbus
         geonamesid: 2939811
         latitude: 51.76667
         longitude: 14.33333
         name: Cottbus
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cottbus
+        names_es: 
+          - Cottbus
         population: 84754
         timezone: Europe/Berlin
       - 
@@ -49064,13 +49692,16 @@ regions:
           - Brandebourg-sur-la-Havel
           - Brandeburgas
           - Brandeburgo
+          - "Brandeburgo sull'Havel"
         ascii_name: "Brandenburg an der Havel"
         geonamesid: 2945358
         latitude: 52.41667
         longitude: 12.55
         name: "Brandenburg an der Havel"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Brandenburg
+        names_es: 
+          - Brandeburgo
         population: 59826
         timezone: Europe/Berlin
       - 
@@ -49354,8 +49985,10 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2945356
     name: Brandenburg
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Brandenburg
+    names_es: 
+      - Brandenburgo
   - 
     ascii_name: "Land Berlin"
     cities: 
@@ -49364,19 +49997,23 @@ regions:
           - BER
           - Beirlin
           - Beirlín
+          - Berleno
         ascii_name: Berlin
         geonamesid: 2950159
         latitude: 52.52437
         longitude: 13.41053
         name: Berlin
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Berlin
+        names_es: 
+          - Berlín
         population: 3426354
         timezone: Europe/Berlin
     geonamesid: 2950157
     name: Berlin
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Berlín
   - 
     ascii_name: Bavaria
     cities: 
@@ -49611,13 +50248,16 @@ regions:
           - Birtsmpournk
           - Herbipolis
           - Vircburg
+          - Vjurcburg
         ascii_name: Wuerzburg
         geonamesid: 2805615
         latitude: 49.78778
         longitude: 9.93611
         name: Würzburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Würzburg
+        names_es: 
+          - Wurzburgo
         population: 133731
         timezone: Europe/Berlin
       - 
@@ -49694,6 +50334,7 @@ regions:
           - Werth
           - Worth
           - "Worth an der Donau"
+          - Wörth
         ascii_name: "Worth an der Donau"
         geonamesid: 2806080
         latitude: 49.01667
@@ -49708,6 +50349,7 @@ regions:
           - Worth
           - "Worth am Main"
           - Wörth
+          - "Wörth am Main"
         ascii_name: "Worth am Main"
         geonamesid: 2806082
         latitude: 49.79472
@@ -50484,7 +51126,8 @@ regions:
         longitude: 10.97221
         name: "Weißenburg in Bayern"
         names_en: ~
-        names_es: ~
+        names_es: 
+          - Weissenburg
         population: 17801
         timezone: Europe/Berlin
       - 
@@ -50662,6 +51305,7 @@ regions:
           - Vajden
           - Weiden
           - Weyden
+          - Вайден
         ascii_name: Weiden
         geonamesid: 2813040
         latitude: 49.6775
@@ -52083,8 +52727,10 @@ regions:
         latitude: 47.88333
         longitude: 12.65
         name: Traunstein
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Traunstein
+        names_es: 
+          - Traunstein
         population: 18422
         timezone: Europe/Berlin
       - 
@@ -52160,6 +52806,7 @@ regions:
           - Toging
           - "Toging am Inn"
           - Töging
+          - "Töging am Inn"
         ascii_name: "Toging am Inn"
         geonamesid: 2821963
         latitude: 48.25
@@ -52212,6 +52859,7 @@ regions:
           - Tirschenreit
           - Tirschenreuth
           - Tirshenrojt
+          - Тиршенройт
         ascii_name: Tirschenreuth
         geonamesid: 2822100
         latitude: 49.8825
@@ -52751,6 +53399,7 @@ regions:
           - Sulzbach
           - Sulzbach-Rosenberg
           - Zul'cbakh-Rozenberg
+          - Зульцбах-Розенберг
         ascii_name: Sulzbach-Rosenberg
         geonamesid: 2824801
         latitude: 49.49833
@@ -52826,7 +53475,8 @@ regions:
         latitude: 48.88333
         longitude: 12.56667
         name: Straubing
-        names_en: ~
+        names_en: 
+          - Straubing
         names_es: ~
         population: 44580
         timezone: Europe/Berlin
@@ -53097,6 +53747,7 @@ regions:
           - Shtarnberg
           - Starenberg
           - Starnberg
+          - Штарнберг
         ascii_name: Starnberg
         geonamesid: 2829457
         latitude: 48.0
@@ -53703,8 +54354,10 @@ regions:
         latitude: 50.05
         longitude: 10.23333
         name: Schweinfurt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Schweinfurt
+        names_es: 
+          - Schweinfurt
         population: 54012
         timezone: Europe/Berlin
       - 
@@ -53782,6 +54435,7 @@ regions:
           - Schwarzach
           - "Schwarzach mit Spiegelau"
           - Spiegelau
+          - "Spiegelau mit Schwarzach"
         ascii_name: Spiegelau
         geonamesid: 2835164
         latitude: 48.91667
@@ -54852,7 +55506,8 @@ regions:
         latitude: 49.38333
         longitude: 10.18333
         name: "Rothenburg ob der Tauber"
-        names_en: ~
+        names_en: 
+          - "Rothenburg ob der Tauber"
         names_es: ~
         population: 11106
         timezone: Europe/Berlin
@@ -54896,12 +55551,14 @@ regions:
           - Rota
           - Roth
           - rosu
+          - roto
         ascii_name: Roth
         geonamesid: 2844265
         latitude: 49.245
         longitude: 11.09111
         name: Roth
-        names_en: ~
+        names_en: 
+          - Roth
         names_es: ~
         population: 25083
         timezone: Europe/Berlin
@@ -54932,13 +55589,16 @@ regions:
           - "Pons oeni"
           - Rosenheim
           - Rosnheim
+          - Rozenkhajm
         ascii_name: Rosenheim
         geonamesid: 2844988
         latitude: 47.85637
         longitude: 12.12247
         name: Rosenheim
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rosenheim
+        names_es: 
+          - Rosenheim
         population: 60167
         timezone: Europe/Berlin
       - 
@@ -55519,13 +56179,16 @@ regions:
           - Ratisbon
           - Ratisbona
           - Ratisbonne
+          - Ratyzbona
         ascii_name: Regensburg
         geonamesid: 2849483
         latitude: 49.015
         longitude: 12.09556
         name: Regensburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Regensburg
+        names_es: 
+          - Ratisbona
         population: 129151
         timezone: Europe/Berlin
       - 
@@ -56713,13 +57376,16 @@ regions:
           - "Batavia Bavariae"
           - Pasawa
           - Pasov
+          - Passaou
         ascii_name: Passau
         geonamesid: 2855328
         latitude: 48.57116
         longitude: 13.44898
         name: Passau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Passau
+        names_es: 
+          - Passau
         population: 50560
         timezone: Europe/Berlin
       - 
@@ -56884,6 +57550,7 @@ regions:
           - "Ostheim v.d. Rhoen"
           - "Ostheim v.d. Rhön"
           - "Ostheim vor der Rhon"
+          - "Ostheim vor der Rhön"
         ascii_name: "Ostheim vor der Rhon"
         geonamesid: 2856284
         latitude: 50.46667
@@ -57154,7 +57821,8 @@ regions:
         latitude: 47.4
         longitude: 10.28333
         name: Oberstdorf
-        names_en: ~
+        names_en: 
+          - Oberstdorf
         names_es: ~
         population: 9788
         timezone: Europe/Berlin
@@ -57624,13 +58292,16 @@ regions:
           - Namberch
           - Neurenberg
           - Nirnberg
+          - Nirnberga
         ascii_name: Nuremberg
         geonamesid: 2861650
         latitude: 49.44778
         longitude: 11.06833
         name: Nuremberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nuremberg
+        names_es: 
+          - Nuremberg
         population: 499237
         timezone: Europe/Berlin
       - 
@@ -57653,8 +58324,10 @@ regions:
         latitude: 48.85122
         longitude: 10.48868
         name: Nördlingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nördlingen
+        names_es: 
+          - Nördlingen
         population: 19492
         timezone: Europe/Berlin
       - 
@@ -57853,6 +58526,7 @@ regions:
           - Aschau
           - "Aschau im Chiemgau"
           - Niederaschau
+          - "Niederaschau im Chiemgau"
         ascii_name: "Aschau im Chiemgau"
         geonamesid: 2863652
         latitude: 47.76667
@@ -57889,13 +58563,16 @@ regions:
           - Neu-Ulm
           - Noj-Ul'm
           - "Nuevo Ulm"
+          - "Subdistrikto Neu-Ulm"
         ascii_name: Neu-Ulm
         geonamesid: 2863941
         latitude: 48.39279
         longitude: 10.01112
         name: Neu-Ulm
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Neu-Ulm
+        names_es: 
+          - "Nuevo Ulm"
         population: 51389
         timezone: Europe/Berlin
       - 
@@ -57928,6 +58605,7 @@ regions:
           - Neustadel
           - Neustadt
           - "Neustadt an der Waldnaab"
+          - Nojshtadt-na-Val'dnabe
         ascii_name: "Neustadt an der Waldnaab"
         geonamesid: 2864055
         latitude: 49.73139
@@ -58090,6 +58768,7 @@ regions:
           - Neumarkt
           - "Neumarkt Sankt Beit"
           - "Neumarkt an der Rott"
+          - "Neumarkt-Sankt Veit"
         ascii_name: "Neumarkt-Sankt Veit"
         geonamesid: 2864547
         latitude: 48.36667
@@ -58104,6 +58783,7 @@ regions:
           - Neumarkt
           - "Neumarkt in der Oberpfalz"
           - Nojmarkt
+          - "Stadt Neumarkt in der Oberpfalz"
         ascii_name: "Neumarkt in der Oberpfalz"
         geonamesid: 2864549
         latitude: 49.28028
@@ -58272,6 +58952,7 @@ regions:
           - Neuburg
           - "Neuburg an der Donau"
           - Neuburg-Donau
+          - Nojburg-an-der-Donau
         ascii_name: "Neuburg an der Donau"
         geonamesid: 2866070
         latitude: 48.73333
@@ -58517,13 +59198,16 @@ regions:
           - "Lungsod ng Muenchen"
           - "Lungsod ng München"
           - Minga
+          - Minhen
         ascii_name: Muenchen
         geonamesid: 2867714
         latitude: 48.13743
         longitude: 11.57549
         name: München
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Munich
+        names_es: 
+          - Múnich
         population: 1260391
         timezone: Europe/Berlin
       - 
@@ -58555,6 +59239,7 @@ regions:
           - Muhldorf
           - "Muhldorf am Inn"
           - Mühldorf
+          - "Mühldorf am Inn"
         ascii_name: Muhldorf
         geonamesid: 2868506
         latitude: 48.25
@@ -58673,6 +59358,7 @@ regions:
           - Monheim
           - Monkhajm
           - Monnheim
+          - Монхайм
         ascii_name: Monheim
         geonamesid: 2869792
         latitude: 48.83333
@@ -59070,8 +59756,10 @@ regions:
         latitude: 47.98333
         longitude: 10.16667
         name: Memmingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Memmingen
+        names_es: 
+          - Memmingen
         population: 41135
         timezone: Europe/Berlin
       - 
@@ -59146,6 +59834,7 @@ regions:
           - Maxhutte
           - Maxhutte-Haidhof
           - Maxhütte
+          - Maxhütte-Haidhof
         ascii_name: Maxhutte-Haidhof
         geonamesid: 2872670
         latitude: 49.2025
@@ -59443,6 +60132,7 @@ regions:
           - Markhl
           - Marktl
           - Marktl'
+          - Марктль
         ascii_name: Marktl
         geonamesid: 2873298
         latitude: 48.25
@@ -59738,6 +60428,7 @@ regions:
           - Maierhofen
           - Maierhöfen
           - Mayerhofen
+          - Mayerhöfen
         ascii_name: Maierhofen
         geonamesid: 2874319
         latitude: 47.65
@@ -59869,13 +60560,16 @@ regions:
           - Lindau
           - "Lindau Bodensee"
           - "Lindau saar"
+          - rindau
         ascii_name: Lindau
         geonamesid: 2877550
         latitude: 47.55
         longitude: 9.68333
         name: Lindau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lindau
+        names_es: 
+          - Lindau
         population: 24518
         timezone: Europe/Berlin
       - 
@@ -60350,13 +61044,16 @@ regions:
           - Landeshuta
           - Landshut
           - Landskhut
+          - rantsufuto
         ascii_name: Landshut
         geonamesid: 2881485
         latitude: 48.53333
         longitude: 12.15
         name: Landshut
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Landshut
+        names_es: 
+          - Landshut
         population: 60488
         timezone: Europe/Berlin
       - 
@@ -60379,8 +61076,10 @@ regions:
         latitude: 48.04819
         longitude: 10.88282
         name: "Landsberg am Lech"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Landsberg am Lech"
+        names_es: 
+          - "Landsberg am Lech"
         population: 27017
         timezone: Europe/Berlin
       - 
@@ -60547,12 +61246,14 @@ regions:
           - Culmbach
           - Kul'mbakh
           - Kulmbach
+          - "Stadt Kulmbach"
         ascii_name: Kulmbach
         geonamesid: 2882588
         latitude: 50.1
         longitude: 11.45
         name: Kulmbach
-        names_en: ~
+        names_en: 
+          - Kulmbach
         names_es: ~
         population: 27565
         timezone: Europe/Berlin
@@ -60585,6 +61286,7 @@ regions:
           - Krun
           - Krunn
           - Krün
+          - Krünn
         ascii_name: Krun
         geonamesid: 2883236
         latitude: 47.5
@@ -60764,6 +61466,7 @@ regions:
           - "Bad Konigshofen"
           - "Bad Konigshofen im Grabfeld"
           - "Bad Königshofen"
+          - "Bad Königshofen im Grabfeld"
         ascii_name: "Bad Konigshofen im Grabfeld"
         geonamesid: 2885829
         latitude: 50.3
@@ -61406,8 +62109,10 @@ regions:
         latitude: 47.88333
         longitude: 10.61667
         name: Kaufbeuren
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kaufbeuren
+        names_es: 
+          - Kaufbeuren
         population: 42505
         timezone: Europe/Berlin
       - 
@@ -61684,7 +62389,8 @@ regions:
         latitude: 48.21203
         longitude: 12.05672
         name: Isen
-        names_en: ~
+        names_en: 
+          - Isen
         names_es: ~
         population: 5222
         timezone: Europe/Berlin
@@ -61830,13 +62536,16 @@ regions:
           - Ingol'shtadt
           - Ingolshhat
           - Ingolshtat
+          - Ingolstadt
         ascii_name: Ingolstadt
         geonamesid: 2895992
         latitude: 48.76667
         longitude: 11.43333
         name: Ingolstadt
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ingolstadt
+        names_es: 
+          - Ingolstadt
         population: 120658
         timezone: Europe/Berlin
       - 
@@ -62357,8 +63066,10 @@ regions:
         latitude: 50.31667
         longitude: 11.91667
         name: Hof
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Hof
+        names_es: 
+          - Hof
         population: 49239
         timezone: Europe/Berlin
       - 
@@ -62366,6 +63077,7 @@ regions:
           - Hochstadt
           - "Hochstadt bei Thiersheim"
           - Höchstädt
+          - "Höchstädt bei Thiersheim"
         ascii_name: "Hochstadt bei Thiersheim"
         geonamesid: 2903011
         latitude: 50.1
@@ -62616,8 +63328,10 @@ regions:
         latitude: 49.56798
         longitude: 10.88565
         name: Herzogenaurach
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Herzogenaurach
+        names_es: 
+          - Herzogenaurach
         population: 23319
         timezone: Europe/Berlin
       - 
@@ -63013,6 +63727,7 @@ regions:
           - Hassfurt
           - Haszfurt
           - Haszfurth
+          - Haßfurt
         ascii_name: Hassfurt
         geonamesid: 2909335
         latitude: 50.03333
@@ -64474,13 +65189,16 @@ regions:
           - Garmisch-Partenkirchen
           - Garmish-Partenkirkhen
           - "Markt Garmisch-Partenkirchen"
+          - garumisshu=parutenkiruhyen
         ascii_name: Garmisch-Partenkirchen
         geonamesid: 2922530
         latitude: 47.49209
         longitude: 11.09576
         name: Garmisch-Partenkirchen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Garmisch-Partenkirchen
+        names_es: 
+          - Garmisch-Partenkirchen
         population: 26022
         timezone: Europe/Berlin
       - 
@@ -64488,6 +65206,7 @@ regions:
           - Arching
           - Garching
           - "Garching bei Munchen"
+          - "Garching bei München"
         ascii_name: "Garching bei Munchen"
         geonamesid: 2922582
         latitude: 48.25
@@ -64598,6 +65317,7 @@ regions:
           - "Bad Fussing"
           - "Bad Füssing"
           - Fussing
+          - Füssing
         ascii_name: "Bad Fussing"
         geonamesid: 2923500
         latitude: 48.36667
@@ -64612,13 +65332,16 @@ regions:
           - Fuessen
           - Füssen
           - fu~yussen
+          - フュッセン
         ascii_name: Fussen
         geonamesid: 2923507
         latitude: 47.57143
         longitude: 10.70171
         name: Füssen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Füssen
+        names_es: 
+          - Füssen
         population: 13893
         timezone: Europe/Berlin
       - 
@@ -64626,6 +65349,7 @@ regions:
           - "Brod nad Lesy"
           - Furt
           - Furth
+          - "Furth im Wald"
         ascii_name: "Furth im Wald"
         geonamesid: 2923529
         latitude: 49.30972
@@ -64640,13 +65364,16 @@ regions:
           - Firt
           - Fjurt
           - Fuerth
+          - Fürth
         ascii_name: Furth
         geonamesid: 2923544
         latitude: 49.47593
         longitude: 10.98856
         name: Fürth
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Fürth
+        names_es: 
+          - Fürth
         population: 112025
         timezone: Europe/Berlin
       - 
@@ -64689,13 +65416,16 @@ regions:
           - Bruck
           - Fuerstenfeldbruck
           - Fuerstenfeldburg
+          - Furstenfeld
         ascii_name: Fuerstenfeldbruck
         geonamesid: 2923625
         latitude: 48.17524
         longitude: 11.25961
         name: Fürstenfeldbruck
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Fürstenfeldbruck
+        names_es: 
+          - Fürstenfeldbruck
         population: 33533
         timezone: Europe/Berlin
       - 
@@ -64881,13 +65611,16 @@ regions:
           - Frajzing
           - Freising
           - Freysing
+          - Frisinga
         ascii_name: Freising
         geonamesid: 2925034
         latitude: 48.40351
         longitude: 11.74876
         name: Freising
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Freising
+        names_es: 
+          - Frisinga
         population: 42570
         timezone: Europe/Berlin
       - 
@@ -65010,7 +65743,8 @@ regions:
         latitude: 49.71754
         longitude: 11.05877
         name: Forchheim
-        names_en: ~
+        names_en: 
+          - Forchheim
         names_es: ~
         population: 30442
         timezone: Europe/Berlin
@@ -65019,12 +65753,14 @@ regions:
           - "Campo di concentramento di Flossenbuerg"
           - "Campo di concentramento di Flossenbürg"
           - Flossenbuerg
+          - "Flossenbuerg concentration camp"
         ascii_name: Flossenburg
         geonamesid: 2926107
         latitude: 49.73333
         longitude: 12.35
         name: Flossenbürg
-        names_en: ~
+        names_en: 
+          - "Flossenbürg concentration camp"
         names_es: ~
         population: 1747
         timezone: Europe/Berlin
@@ -65488,13 +66224,16 @@ regions:
           - Ehrlangen
           - Erlangen
           - "ai er lan gen"
+          - "ai er lang gen"
         ascii_name: Erlangen
         geonamesid: 2929567
         latitude: 49.58972
         longitude: 11.00389
         name: Erlangen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Erlangen
+        names_es: 
+          - Erlangen
         population: 102675
         timezone: Europe/Berlin
       - 
@@ -65594,6 +66333,7 @@ regions:
           - Aerding
           - Ehrding
           - "Erding As"
+          - Эрдинг
         ascii_name: Erding
         geonamesid: 2929715
         latitude: 48.30603
@@ -66365,13 +67105,16 @@ regions:
           - Donauwerth
           - Donauwoerth
           - Donauworth
+          - Donauwörth
         ascii_name: Donauworth
         geonamesid: 2936253
         latitude: 48.7
         longitude: 10.8
         name: Donauwörth
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Donauwörth
+        names_es: 
+          - Donauwörth
         population: 18364
         timezone: Europe/Berlin
       - 
@@ -66461,7 +67204,8 @@ regions:
         latitude: 49.06942
         longitude: 10.31985
         name: Dinkelsbühl
-        names_en: ~
+        names_en: 
+          - Dinkelsbühl
         names_es: ~
         population: 11724
         timezone: Europe/Berlin
@@ -66495,6 +67239,7 @@ regions:
           - Dillingen
           - "Dillingen an der Donau"
           - Dillingen-na-Dunae
+          - Диллинген-на-Дунае
         ascii_name: "Dillingen an der Donau"
         geonamesid: 2936974
         latitude: 48.56667
@@ -66589,6 +67334,7 @@ regions:
           - Diessen
           - "Diessen am Ammersee"
           - Dießen
+          - "Dießen am Ammersee"
         ascii_name: "Diessen am Ammersee"
         geonamesid: 2937217
         latitude: 47.95
@@ -66718,12 +67464,14 @@ regions:
           - Deckendorf
           - Degendorf
           - Deggendorf
+          - Дегендорф
         ascii_name: Deggendorf
         geonamesid: 2938540
         latitude: 48.83333
         longitude: 12.96667
         name: Deggendorf
-        names_en: ~
+        names_en: 
+          - Deggendorf
         names_es: ~
         population: 31081
         timezone: Europe/Berlin
@@ -66743,13 +67491,18 @@ regions:
           - "Campo de concentracion de Dachau"
           - "Campo de concentración de Dachau"
           - "Campo di concentramento di Dachau"
+          - Dachau
         ascii_name: Dachau
         geonamesid: 2939623
         latitude: 48.26667
         longitude: 11.43333
         name: Dachau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Dachau concentration camp"
+          - Dachau
+        names_es: 
+          - "Campo de concentración de Dachau"
+          - Dachau
         population: 39740
         timezone: Europe/Berlin
       - 
@@ -66783,13 +67536,16 @@ regions:
           - Coburg
           - Coburgo
           - Koburg
+          - "Landkreis Coburg"
         ascii_name: Coburg
         geonamesid: 2939951
         latitude: 50.26667
         longitude: 10.96667
         name: Coburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Coburg
+        names_es: 
+          - Coburgo
         population: 41901
         timezone: Europe/Berlin
       - 
@@ -66854,6 +67610,7 @@ regions:
           - Butthar
           - Butthard
           - Butthart
+          - Bütthar
         ascii_name: Butthard
         geonamesid: 2940534
         latitude: 49.6
@@ -67341,6 +68098,7 @@ regions:
           - Bruck
           - "Bruck bei Nittenau"
           - "Bruck i.d. OPf."
+          - "Bruck in der Oberpfalz"
         ascii_name: "Bruck in der Oberpfalz"
         geonamesid: 2943425
         latitude: 49.25
@@ -68050,13 +68808,16 @@ regions:
           - Berchtesgaden
           - Berchtolsgaden
           - Berchtsgan
+          - Berchtsgån
         ascii_name: Berchtesgaden
         geonamesid: 2950881
         latitude: 47.63333
         longitude: 13.0
         name: Berchtesgaden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Berchtesgaden
+        names_es: 
+          - Berchtesgaden
         population: 7655
         timezone: Europe/Berlin
       - 
@@ -68144,13 +68905,16 @@ regions:
           - Bajrojt
           - Bayreuth
           - bairoito
+          - bayrwyt
         ascii_name: Bayreuth
         geonamesid: 2951825
         latitude: 49.94806
         longitude: 11.57833
         name: Bayreuth
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bayreuth
+        names_es: 
+          - Bayreuth
         population: 75061
         timezone: Europe/Berlin
       - 
@@ -68260,13 +69024,16 @@ regions:
           - Bamberg
           - Bamberga
           - "ban bao"
+          - "ban bei ke"
         ascii_name: Bamberg
         geonamesid: 2952984
         latitude: 49.87948
         longitude: 10.88634
         name: Bamberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bamberg
+        names_es: 
+          - Bamberg
         population: 70047
         timezone: Europe/Berlin
       - 
@@ -68395,6 +69162,7 @@ regions:
           - "Bad Neustadt"
           - "Bad Neustadt an der Saale"
           - Neustadt
+          - "Neustadt an der Saale"
         ascii_name: "Bad Neustadt an der Saale"
         geonamesid: 2953389
         latitude: 50.33333
@@ -68423,8 +69191,10 @@ regions:
         latitude: 50.2
         longitude: 10.08333
         name: "Bad Kissingen"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Bad Kissingen"
+        names_es: 
+          - "Bad Kissingen"
         population: 21328
         timezone: Europe/Berlin
       - 
@@ -68507,12 +69277,14 @@ regions:
           - Abach
           - Abacum
           - Abbach
+          - "Bad Abbach"
         ascii_name: "Bad Abbach"
         geonamesid: 2953559
         latitude: 48.93333
         longitude: 12.05
         name: "Bad Abbach"
-        names_en: ~
+        names_en: 
+          - "Bad Abbach"
         names_es: ~
         population: 10882
         timezone: Europe/Berlin
@@ -68649,13 +69421,16 @@ regions:
           - Aounksmpournk
           - Augsberg
           - Augsbourg
+          - Augsburg
         ascii_name: Augsburg
         geonamesid: 2954172
         latitude: 48.36667
         longitude: 10.88333
         name: Augsburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Augsburg
+        names_es: 
+          - Augsburgo
         population: 259196
         timezone: Europe/Berlin
       - 
@@ -68685,6 +69460,7 @@ regions:
           - Auehrbakh
           - Auerbach
           - "Auerbach in der Oberpfalz"
+          - Aurbach
         ascii_name: Auerbach
         geonamesid: 2954603
         latitude: 49.6925
@@ -68791,13 +69567,16 @@ regions:
           - Asafenburga
           - Aschaffenbourg
           - Aschaffenburg
+          - Ashaffenburg
         ascii_name: Aschaffenburg
         geonamesid: 2955272
         latitude: 49.97389
         longitude: 9.14917
         name: Aschaffenburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aschaffenburg
+        names_es: 
+          - Aschaffenburg
         population: 68551
         timezone: Europe/Berlin
       - 
@@ -68934,8 +69713,10 @@ regions:
         latitude: 49.3
         longitude: 10.58333
         name: Ansbach
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ansbach
+        names_es: 
+          - Ansbach
         population: 31839
         timezone: Europe/Berlin
       - 
@@ -68943,6 +69724,7 @@ regions:
           - "Abbaye d'Andechs"
           - Andechs
           - Andeks
+          - "Kloster Andechs"
         ascii_name: Andechs
         geonamesid: 2956253
         latitude: 47.97464
@@ -68990,13 +69772,16 @@ regions:
           - Amberg
           - Gebenbach
           - amberg
+          - Амберг
         ascii_name: Amberg
         geonamesid: 2956656
         latitude: 49.44139
         longitude: 11.86222
         name: Amberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Amberg
+        names_es: 
+          - Amberg
         population: 44737
         timezone: Europe/Berlin
       - 
@@ -69590,7 +70375,8 @@ regions:
         latitude: 48.81667
         longitude: 11.85
         name: Abensberg
-        names_en: ~
+        names_en: 
+          - Abensberg
         names_es: ~
         population: 12570
         timezone: Europe/Berlin
@@ -70004,8 +70790,12 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2951839
     name: Bavaria
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Bavaria
+      - "Free State of Bavaria"
+    names_es: 
+      - Bayern
+      - Baviera
   - 
     ascii_name: Baden-Wuerttemberg
     cities: 
@@ -70277,7 +71067,8 @@ regions:
         latitude: 48.87563
         longitude: 9.39819
         name: Winnenden
-        names_en: ~
+        names_en: 
+          - Winnenden
         names_es: ~
         population: 27783
         timezone: Europe/Berlin
@@ -70344,6 +71135,7 @@ regions:
           - "Bad Wildbad"
           - "Bad Wildbad im Schwarzwald"
           - "Stadt Bad Wildbad im Schwarzwald"
+          - Wildbad
         ascii_name: "Bad Wildbad im Schwarzwald"
         geonamesid: 2809025
         latitude: 48.75
@@ -70575,8 +71367,10 @@ regions:
         latitude: 49.15028
         longitude: 9.28833
         name: Weinsberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Weinsberg
+        names_es: 
+          - Weinsberg
         population: 11855
         timezone: Europe/Berlin
       - 
@@ -70589,7 +71383,8 @@ regions:
         latitude: 49.54833
         longitude: 8.66611
         name: Weinheim
-        names_en: ~
+        names_en: 
+          - Weinheim
         names_es: ~
         population: 43325
         timezone: Europe/Berlin
@@ -70660,7 +71455,8 @@ regions:
         latitude: 48.75
         longitude: 8.86667
         name: "Weil der Stadt"
-        names_en: ~
+        names_en: 
+          - "Weil der Stadt"
         names_es: ~
         population: 19338
         timezone: Europe/Berlin
@@ -70669,12 +71465,14 @@ regions:
           - "Stadt Weil am Rhein"
           - Vajl'-na-Rejne
           - "Weil am Rhein"
+          - Weil-am-Rhein
         ascii_name: "Weil am Rhein"
         geonamesid: 2812636
         latitude: 47.58333
         longitude: 7.63333
         name: "Weil am Rhein"
-        names_en: ~
+        names_en: 
+          - "Weil am Rhein"
         names_es: ~
         population: 29548
         timezone: Europe/Berlin
@@ -70809,8 +71607,10 @@ regions:
         latitude: 49.30639
         longitude: 8.64528
         name: Walldorf
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Walldorf
+        names_es: 
+          - Walldorf
         population: 14842
         timezone: Europe/Berlin
       - 
@@ -71019,8 +71819,10 @@ regions:
         latitude: 48.06667
         longitude: 8.45
         name: Villingen-Schwenningen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Villingen-Schwenningen
+        names_es: 
+          - Villingen-Schwenningen
         population: 81770
         timezone: Europe/Berlin
       - 
@@ -71225,13 +72027,16 @@ regions:
           - Oulm
           - Ul'm
           - Ulm
+          - Ulma
         ascii_name: Ulm
         geonamesid: 2820256
         latitude: 48.39841
         longitude: 9.99155
         name: Ulm
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ulm
+        names_es: 
+          - Ulm
         population: 120451
         timezone: Europe/Berlin
       - 
@@ -71266,7 +72071,8 @@ regions:
         latitude: 47.98333
         longitude: 8.81667
         name: Tuttlingen
-        names_en: ~
+        names_en: 
+          - Tuttlingen
         names_es: ~
         population: 34847
         timezone: Europe/Berlin
@@ -71286,13 +72092,16 @@ regions:
           - Tjubingen
           - Tubinga
           - Tubingen
+          - Tuebingen
         ascii_name: Tuebingen
         geonamesid: 2820860
         latitude: 48.52266
         longitude: 9.05222
         name: Tübingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tübingen
+        names_es: 
+          - Tubinga
         population: 83416
         timezone: Europe/Berlin
       - 
@@ -71557,13 +72366,16 @@ regions:
           - Shhutgart
           - Shtutgart
           - Stoccarda
+          - Stoutnkarde
         ascii_name: Stuttgart
         geonamesid: 2825297
         latitude: 48.78232
         longitude: 9.17702
         name: Stuttgart
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Stuttgart
+        names_es: 
+          - Stuttgart
         population: 589793
         timezone: Europe/Berlin
       - 
@@ -71897,7 +72709,8 @@ regions:
         latitude: 48.7
         longitude: 9.01667
         name: Sindelfingen
-        names_en: ~
+        names_en: 
+          - Sindelfingen
         names_es: ~
         population: 61311
         timezone: Europe/Berlin
@@ -71944,8 +72757,10 @@ regions:
         latitude: 48.08333
         longitude: 9.21667
         name: Sigmaringen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sigmaringen
+        names_es: 
+          - Sigmaringen
         population: 16592
         timezone: Europe/Berlin
       - 
@@ -72133,13 +72948,16 @@ regions:
           - "Hale Suevice"
           - Hall
           - "Halla Suevica"
+          - "Schwaebisch Hall"
         ascii_name: "Schwabisch Hall"
         geonamesid: 2835481
         latitude: 49.11127
         longitude: 9.73908
         name: "Schwäbisch Hall"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Schwäbisch Hall"
+        names_es: 
+          - "Schwäbisch Hall"
         population: 36543
         timezone: Europe/Berlin
       - 
@@ -72147,12 +72965,14 @@ regions:
           - Gmund
           - Gmünd
           - "Schwaebisch Gmuend"
+          - "Schwäbisch Gmünd"
         ascii_name: "Schwabisch Gmund"
         geonamesid: 2835482
         latitude: 48.79947
         longitude: 9.79809
         name: "Schwäbisch Gmünd"
-        names_en: ~
+        names_en: 
+          - "Schwäbisch Gmünd"
         names_es: ~
         population: 61338
         timezone: Europe/Berlin
@@ -72289,6 +73109,7 @@ regions:
           - Schonau
           - "Schonau im Schwarzwald"
           - Schönau
+          - "Schönau im Schwarzwald"
         ascii_name: "Schonau im Schwarzwald"
         geonamesid: 2837074
         latitude: 47.78623
@@ -72611,13 +73432,16 @@ regions:
           - "Saint Blasien"
           - "San Blasien"
           - "Sankt Blasien"
+          - "St. Blasien"
         ascii_name: "Sankt Blasien"
         geonamesid: 2841643
         latitude: 47.76252
         longitude: 8.12714
         name: "Sankt Blasien"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Saint Blasien"
+        names_es: 
+          - "San Blasien"
         population: 4111
         timezone: Europe/Berlin
       - 
@@ -72708,8 +73532,10 @@ regions:
         latitude: 48.16783
         longitude: 8.62719
         name: Rottweil
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Rottweil
+        names_es: 
+          - Rottweil
         population: 25510
         timezone: Europe/Berlin
       - 
@@ -72876,12 +73702,14 @@ regions:
           - Badisch-Rheinfelden
           - Rajnfel'den
           - Rheinfelden
+          - Райнфельден
         ascii_name: Rheinfelden
         geonamesid: 2847639
         latitude: 47.56667
         longitude: 7.8
         name: Rheinfelden
-        names_en: ~
+        names_en: 
+          - Rheinfelden
         names_es: ~
         population: 32535
         timezone: Europe/Berlin
@@ -72901,13 +73729,16 @@ regions:
           - Reutlingen
           - Rojtlingen
           - roitoringen
+          - rwytlyngn
         ascii_name: Reutlingen
         geonamesid: 2847736
         latitude: 48.49144
         longitude: 9.20427
         name: Reutlingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Reutlingen
+        names_es: 
+          - Reutlingen
         population: 112627
         timezone: Europe/Berlin
       - 
@@ -72986,7 +73817,8 @@ regions:
         latitude: 47.78333
         longitude: 9.61667
         name: Ravensburg
-        names_en: ~
+        names_en: 
+          - Ravensburg
         names_es: ~
         population: 48825
         timezone: Europe/Berlin
@@ -73007,12 +73839,14 @@ regions:
           - Rastatt
           - rashtat
           - rashtatt
+          - rashutatto
         ascii_name: Rastatt
         geonamesid: 2850257
         latitude: 48.85
         longitude: 8.2
         name: Rastatt
-        names_en: ~
+        names_en: 
+          - Rastatt
         names_es: ~
         population: 47906
         timezone: Europe/Berlin
@@ -73047,8 +73881,10 @@ regions:
         latitude: 47.73333
         longitude: 8.96667
         name: "Radolfzell am Bodensee"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Radolfzell
+        names_es: 
+          - "Radolfzell am Bodensee"
         population: 30096
         timezone: Europe/Berlin
       - 
@@ -73115,8 +73951,10 @@ regions:
         latitude: 49.23583
         longitude: 8.45639
         name: Philippsburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Philippsburg
+        names_es: 
+          - Philippsburg
         population: 12359
         timezone: Europe/Berlin
       - 
@@ -73158,13 +73996,16 @@ regions:
           - Pforcgejm
           - Pforckhajm
           - Pforzheim
+          - puforutsuhaimu
         ascii_name: Pforzheim
         geonamesid: 2853969
         latitude: 48.88333
         longitude: 8.7
         name: Pforzheim
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Pforzheim
+        names_es: 
+          - Pforzheim
         population: 119313
         timezone: Europe/Berlin
       - 
@@ -73474,7 +74315,8 @@ regions:
         latitude: 48.48333
         longitude: 7.93333
         name: Offenburg
-        names_en: ~
+        names_en: 
+          - Offenburg
         names_es: ~
         population: 59238
         timezone: Europe/Berlin
@@ -74313,7 +75155,8 @@ regions:
         latitude: 47.8082
         longitude: 7.63035
         name: Müllheim
-        names_en: ~
+        names_en: 
+          - Müllheim
         names_es: ~
         population: 18097
         timezone: Europe/Berlin
@@ -74610,6 +75453,7 @@ regions:
           - Messstetten
           - Messstettin
           - Meßstetten
+          - Meßstettin
         ascii_name: Messstetten
         geonamesid: 2871601
         latitude: 48.18333
@@ -74624,13 +75468,16 @@ regions:
           - Messkirch
           - Meßkirch
           - "mei si ji xi"
+          - mesukiruhi
         ascii_name: Messkirch
         geonamesid: 2871609
         latitude: 47.98333
         longitude: 9.11667
         name: Meßkirch
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Meßkirch
+        names_es: 
+          - Messkirch
         population: 8736
         timezone: Europe/Berlin
       - 
@@ -74752,12 +75599,14 @@ regions:
           - Maul
           - Maulbronn
           - mauruburon
+          - マウルブロン
         ascii_name: Maulbronn
         geonamesid: 2872777
         latitude: 49.00083
         longitude: 8.80778
         name: Maulbronn
-        names_en: ~
+        names_en: 
+          - Maulbronn
         names_es: ~
         population: 6817
         timezone: Europe/Berlin
@@ -74836,13 +75685,16 @@ regions:
           - Man'chaim
           - Mangejm
           - Manheimas
+          - Mankhajm
         ascii_name: Mannheim
         geonamesid: 2873891
         latitude: 49.48833
         longitude: 8.46472
         name: Mannheim
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Mannheim
+        names_es: 
+          - Mannheim
         population: 307960
         timezone: Europe/Berlin
       - 
@@ -74918,12 +75770,14 @@ regions:
           - Ludvigsburg
           - Ludwigsbourg
           - Ludwigsburg
+          - Лудвигсбург
         ascii_name: Ludwigsburg
         geonamesid: 2875392
         latitude: 48.89731
         longitude: 9.19161
         name: Ludwigsburg
-        names_en: ~
+        names_en: 
+          - Ludwigsburg
         names_es: ~
         population: 87603
         timezone: Europe/Berlin
@@ -74969,12 +75823,14 @@ regions:
           - Loerrach
           - Lorrach
           - Lörrach
+          - loerrach
         ascii_name: Lorrach
         geonamesid: 2875881
         latitude: 47.61497
         longitude: 7.66457
         name: Lörrach
-        names_en: ~
+        names_en: 
+          - Lörrach
         names_es: ~
         population: 47002
         timezone: Europe/Berlin
@@ -75084,8 +75940,10 @@ regions:
         latitude: 48.8
         longitude: 9.01667
         name: Leonberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Leonberg
+        names_es: 
+          - Leonberg
         population: 45711
         timezone: Europe/Berlin
       - 
@@ -75302,12 +76160,14 @@ regions:
           - Lahr
           - Lahr/Schwarzwald
           - Lar
+          - Лар
         ascii_name: Lahr
         geonamesid: 2881885
         latitude: 48.35
         longitude: 7.86667
         name: Lahr
-        names_en: ~
+        names_en: 
+          - Lahr
         names_es: ~
         population: 43863
         timezone: Europe/Berlin
@@ -75456,12 +76316,14 @@ regions:
           - Kornvestkhajm
           - Kornwestheim
           - Kornwestheimium
+          - Корнвестхайм
         ascii_name: Kornwestheim
         geonamesid: 2885408
         latitude: 48.86158
         longitude: 9.18569
         name: Kornwestheim
-        names_en: ~
+        names_en: 
+          - Kornwestheim
         names_es: ~
         population: 31040
         timezone: Europe/Berlin
@@ -75492,13 +76354,16 @@ regions:
           - Constanca
           - Constance
           - Constanta
+          - Constanza
         ascii_name: Konstanz
         geonamesid: 2885679
         latitude: 47.66033
         longitude: 9.17582
         name: Konstanz
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Konstanz
+        names_es: 
+          - Constanza
         population: 81275
         timezone: Europe/Berlin
       - 
@@ -75771,12 +76636,14 @@ regions:
           - Kehl
           - "Kehl am Rhein"
           - "Kehl im Hanauerland"
+          - Kel'
         ascii_name: Kehl
         geonamesid: 2891951
         latitude: 48.57297
         longitude: 7.81523
         name: Kehl
-        names_en: ~
+        names_en: 
+          - Kehl
         names_es: ~
         population: 34009
         timezone: Europe/Berlin
@@ -75785,13 +76652,16 @@ regions:
           - Carlsruhe
           - Carolsruha
           - Karlsroue
+          - Karlsrue
         ascii_name: Karlsruhe
         geonamesid: 2892794
         latitude: 49.00472
         longitude: 8.38583
         name: Karlsruhe
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Karlsruhe
+        names_es: 
+          - Karlsruhe
         population: 283799
         timezone: Europe/Berlin
       - 
@@ -76152,6 +77022,7 @@ regions:
           - Huffenhardt
           - Huffenhartheim
           - Hüffenhardt
+          - Hüffenhartheim
         ascii_name: Huffenhardt
         geonamesid: 2898033
         latitude: 49.29194
@@ -76280,6 +77151,7 @@ regions:
           - Hofen
           - "Hofen an der Enz"
           - Höfen
+          - "Höfen an der Enz"
         ascii_name: "Hofen an der Enz"
         geonamesid: 2902628
         latitude: 48.8
@@ -76578,13 +77450,16 @@ regions:
           - Chailmpron
           - Hajlbrono
           - Heilbronn
+          - "Heilbronn Neckar"
         ascii_name: Heilbronn
         geonamesid: 2907669
         latitude: 49.14028
         longitude: 9.22
         name: Heilbronn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Heilbronn
+        names_es: 
+          - Heilbronn
         population: 120733
         timezone: Europe/Berlin
       - 
@@ -76592,12 +77467,14 @@ regions:
           - Heidenheim
           - "Heidenheim an der Brenz"
           - "Heidenheim in Wurttemberg"
+          - "Heidenheim in Württemberg"
         ascii_name: "Heidenheim an der Brenz"
         geonamesid: 2907851
         latitude: 48.67798
         longitude: 10.15162
         name: "Heidenheim an der Brenz"
-        names_en: ~
+        names_en: 
+          - Heidenheim
         names_es: ~
         population: 50067
         timezone: Europe/Berlin
@@ -76606,13 +77483,16 @@ regions:
           - Gejdel'berg
           - Hajdelbergo
           - Heidelberg
+          - Heidelburg
         ascii_name: Heidelberg
         geonamesid: 2907911
         latitude: 49.40768
         longitude: 8.69079
         name: Heidelberg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Heidelberg
+        names_es: 
+          - Heidelberg
         population: 143345
         timezone: Europe/Berlin
       - 
@@ -76700,6 +77580,7 @@ regions:
           - Hassmersheim
           - Hassnerheim
           - Haßmersheim
+          - Haßnerheim
         ascii_name: Hassmersheim
         geonamesid: 2909308
         latitude: 49.3
@@ -77048,6 +77929,7 @@ regions:
           - Gohrwil
           - Gorwihl
           - Göhrwil
+          - Görwihl
         ascii_name: Gorwihl
         geonamesid: 2918911
         latitude: 47.65
@@ -77062,12 +77944,14 @@ regions:
           - Gjoppingen
           - Goeppingen
           - Göppingen
+          - Гёппинген
         ascii_name: Goppingen
         geonamesid: 2919054
         latitude: 48.7028
         longitude: 9.65488
         name: Göppingen
-        names_en: ~
+        names_en: 
+          - Göppingen
         names_es: ~
         population: 58040
         timezone: Europe/Berlin
@@ -77360,13 +78244,16 @@ regions:
           - Furtwangen
           - "Furtwangen im Schwarzwald"
           - furutovu~angen
+          - فورت‌وانگن
         ascii_name: Furtwangen
         geonamesid: 2923521
         latitude: 48.05
         longitude: 8.2
         name: Furtwangen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Furtwangen im Schwarzwald"
+        names_es: 
+          - Furtwangen
         population: 9655
         timezone: Europe/Berlin
       - 
@@ -77396,12 +78283,14 @@ regions:
           - Fridrikhskhafen
           - Friedrichshafen
           - "fei te lie gang"
+          - furidorihisuhafen
         ascii_name: Friedrichshafen
         geonamesid: 2924585
         latitude: 47.65
         longitude: 9.48333
         name: Friedrichshafen
-        names_en: ~
+        names_en: 
+          - Friedrichshafen
         names_es: ~
         population: 58403
         timezone: Europe/Berlin
@@ -77492,13 +78381,16 @@ regions:
           - Frajburg
           - Freiburg
           - "Freiburg im Breisgau"
+          - Fribourg-en-Brisgau
         ascii_name: Freiburg
         geonamesid: 2925177
         latitude: 47.9959
         longitude: 7.85222
         name: Freiburg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Freiburg
+        names_es: 
+          - "Friburgo de Brisgovia"
         population: 215966
         timezone: Europe/Berlin
       - 
@@ -77668,12 +78560,14 @@ regions:
           - Ehslingen
           - Eslinga
           - Eslingen
+          - Esslingen
         ascii_name: Esslingen
         geonamesid: 2928751
         latitude: 48.73961
         longitude: 9.30473
         name: Esslingen
-        names_en: ~
+        names_en: 
+          - "Esslingen am Neckar"
         names_es: ~
         population: 92390
         timezone: Europe/Berlin
@@ -77704,13 +78598,16 @@ regions:
           - Ehshel'bronn
           - Eschelbronn
           - Eselmpron
+          - Έσελμπρον
         ascii_name: Eschelbronn
         geonamesid: 2929112
         latitude: 49.31944
         longitude: 8.86528
         name: Eschelbronn
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Eschelbronn
+        names_es: 
+          - Eschelbronn
         population: 2572
         timezone: Europe/Berlin
       - 
@@ -78097,6 +78994,7 @@ regions:
           - "Ehingen Donau"
           - "Ehingen an der Donau"
           - Ehkhingen
+          - Эхинген
         ascii_name: Ehingen
         geonamesid: 2932924
         latitude: 48.28259
@@ -78280,7 +79178,8 @@ regions:
         latitude: 48.93333
         longitude: 8.26667
         name: Durmersheim
-        names_en: ~
+        names_en: 
+          - Durmersheim
         names_es: ~
         population: 11675
         timezone: Europe/Berlin
@@ -78437,12 +79336,14 @@ regions:
           - Donauehshingen
           - Donaueschingen
           - donauesshingen
+          - Донауэшинген
         ascii_name: Donaueschingen
         geonamesid: 2936267
         latitude: 47.95
         longitude: 8.5
         name: Donaueschingen
-        names_en: ~
+        names_en: 
+          - Donaueschingen
         names_es: ~
         population: 21604
         timezone: Europe/Berlin
@@ -78739,13 +79640,16 @@ regions:
           - Calw
           - Kalv
           - karufu
+          - Калв
         ascii_name: Calw
         geonamesid: 2940383
         latitude: 48.71419
         longitude: 8.74031
         name: Calw
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Calw
+        names_es: 
+          - Calw
         population: 23740
         timezone: Europe/Berlin
       - 
@@ -78753,13 +79657,16 @@ regions:
           - Buesingen
           - "Buesingen am Hochrhein"
           - Büsingen
+          - "Büsingen am Hochrhein"
         ascii_name: Busingen
         geonamesid: 2940715
         latitude: 47.69638
         longitude: 8.68759
         name: Büsingen
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Büsingen
+        names_es: 
+          - Büsingen
         population: 1473
         timezone: Europe/Berlin
       - 
@@ -78900,6 +79807,7 @@ regions:
           - Brjul'
           - Bruehl
           - Bruhl
+          - Brühl
         ascii_name: Bruhl
         geonamesid: 2943321
         latitude: 49.39722
@@ -78914,13 +79822,16 @@ regions:
           - Bruchsal
           - Bruchsalia
           - Brukhzal'
+          - Брухзаль
         ascii_name: Bruchsal
         geonamesid: 2943560
         latitude: 49.12806
         longitude: 8.58361
         name: Bruchsal
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bruchsal
+        names_es: 
+          - Bruchsal
         population: 42785
         timezone: Europe/Berlin
       - 
@@ -78964,12 +79875,14 @@ regions:
           - Alt-Breisach
           - Breisach
           - "Breisach am Rhein"
+          - Vieux-Brisach
         ascii_name: "Breisach am Rhein"
         geonamesid: 2944800
         latitude: 48.03333
         longitude: 7.58333
         name: "Breisach am Rhein"
-        names_en: ~
+        names_en: 
+          - Breisach
         names_es: ~
         population: 14367
         timezone: Europe/Berlin
@@ -79189,12 +80102,14 @@ regions:
           - B'oblingen
           - Boblingen
           - Boeblingen
+          - Böblingen
         ascii_name: Boblingen
         geonamesid: 2947444
         latitude: 48.68333
         longitude: 9.01667
         name: Böblingen
-        names_en: ~
+        names_en: 
+          - Böblingen
         names_es: ~
         population: 46282
         timezone: Europe/Berlin
@@ -79372,12 +80287,14 @@ regions:
           - Biberach
           - "Biberach an der Riss"
           - "Biberach an der Riß"
+          - Biberakh-na-Rise
         ascii_name: "Biberach an der Riss"
         geonamesid: 2949423
         latitude: 48.09345
         longitude: 9.79053
         name: "Biberach an der Riß"
-        names_en: ~
+        names_en: 
+          - "Biberach an der Riß"
         names_es: ~
         population: 32333
         timezone: Europe/Berlin
@@ -79765,13 +80682,16 @@ regions:
           - "Aquae Aureliae"
           - Baden
           - Baden-Baden
+          - b+b
         ascii_name: Baden-Baden
         geonamesid: 2953504
         latitude: 48.75
         longitude: 8.25
         name: Baden-Baden
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Baden-Baden
+        names_es: 
+          - Baden-Baden
         population: 54239
         timezone: Europe/Berlin
       - 
@@ -79779,6 +80699,7 @@ regions:
           - "Bad Durrheim"
           - "Bad Dürrheim"
           - Durrheim
+          - Dürrheim
         ascii_name: "Bad Durrheim"
         geonamesid: 2953520
         latitude: 48.01667
@@ -80291,12 +81212,14 @@ regions:
           - Achara
           - Achern
           - Akhern
+          - Ахерн
         ascii_name: Achern
         geonamesid: 2959686
         latitude: 48.63115
         longitude: 8.07607
         name: Achern
-        names_en: ~
+        names_en: 
+          - Achern
         names_es: ~
         population: 24478
         timezone: Europe/Berlin
@@ -80327,12 +81250,14 @@ regions:
           - Aalen
           - Alene
           - Ālene
+          - Аален
         ascii_name: Aalen
         geonamesid: 2959927
         latitude: 48.83777
         longitude: 10.0933
         name: Aalen
-        names_en: ~
+        names_en: 
+          - Aalen
         names_es: ~
         population: 67085
         timezone: Europe/Berlin
@@ -80450,7 +81375,8 @@ regions:
         latitude: 48.41667
         longitude: 9.55
         name: "Altes Lager"
-        names_en: ~
+        names_en: 
+          - "Altes Lager"
         names_es: ~
         population: 14092
         timezone: Europe/Berlin
@@ -80803,5 +81729,8 @@ regions:
         timezone: Europe/Berlin
     geonamesid: 2953481
     name: Baden-Württemberg
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Baden-Württemberg
+    names_es: 
+      - Baden-Württemberg
+      - Baden-Wurtemberg

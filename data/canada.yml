@@ -2,8 +2,10 @@
 geonamesid: 6251999
 iso: CA
 name: Canada
-names_en: ~
-names_es: ~
+names_en: 
+  - Canada
+names_es: 
+  - Canadá
 regions: 
   - 
     ascii_name: Alberta
@@ -35,13 +37,16 @@ regions:
           - Banf
           - Banfas
           - Banff
+          - "ban fu"
         ascii_name: Banff
         geonamesid: 5892532
         latitude: 51.17622
         longitude: -115.56982
         name: Banff
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Banff
+        names_es: 
+          - Banff
         population: 7502
         timezone: America/Edmonton
       - 
@@ -159,13 +164,16 @@ regions:
           - Calgaria
           - Calgary
           - "Gorad Kalgary"
+          - Kalgari
         ascii_name: Calgary
         geonamesid: 5913490
         latitude: 51.05011
         longitude: -114.08529
         name: Calgary
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Calgary
+        names_es: 
+          - Calgary
         population: 1019942
         timezone: America/Edmonton
       - 
@@ -338,13 +346,16 @@ regions:
           - Edmonton
           - Edmontonas
           - Edmontono
+          - Ehdmonton
         ascii_name: Edmonton
         geonamesid: 5946768
         latitude: 53.55014
         longitude: -113.46871
         name: Edmonton
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Edmonton
+        names_es: 
+          - Edmonton
         population: 712391
         timezone: America/Edmonton
       - 
@@ -599,8 +610,10 @@ regions:
         latitude: 49.69999
         longitude: -112.81856
         name: Lethbridge
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lethbridge
+        names_es: 
+          - Lethbridge
         population: 70617
         timezone: America/Edmonton
       - 
@@ -644,7 +657,8 @@ regions:
         latitude: 50.05006
         longitude: -110.66834
         name: "Medicine Hat"
-        names_en: ~
+        names_en: 
+          - "Medicine Hat"
         names_es: ~
         population: 63138
         timezone: America/Edmonton
@@ -789,7 +803,8 @@ regions:
         latitude: 52.26682
         longitude: -113.802
         name: "Red Deer"
-        names_en: ~
+        names_en: 
+          - "Red Deer"
         names_es: ~
         population: 73593
         timezone: America/Edmonton
@@ -1172,13 +1187,16 @@ regions:
           - Burnaby
           - banabi
           - "banabi shi"
+          - "ben na bi"
         ascii_name: Burnaby
         geonamesid: 5911606
         latitude: 49.26636
         longitude: -122.95263
         name: Burnaby
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Burnaby
+        names_es: 
+          - Burnaby
         population: 202799
         timezone: America/Vancouver
       - 
@@ -1274,13 +1292,16 @@ regions:
           - Coquitlam
           - kokittoramu
           - "kokittoramu shi"
+          - kokuittoramu
         ascii_name: Coquitlam
         geonamesid: 5927689
         latitude: 49.28297
         longitude: -122.75262
         name: Coquitlam
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Coquitlam
+        names_es: 
+          - Coquitlam
         population: 114565
         timezone: America/Vancouver
       - 
@@ -1503,13 +1524,16 @@ regions:
           - Kamloops
           - Kamlups
           - kamurupusu
+          - Камлупс
         ascii_name: Kamloops
         geonamesid: 5989045
         latitude: 50.66648
         longitude: -120.3192
         name: Kamloops
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kamloops
+        names_es: 
+          - Kamloops
         population: 68714
         timezone: America/Vancouver
       - 
@@ -1517,13 +1541,16 @@ regions:
           - Kelouna
           - Kelowna
           - kerouna
+          - Келоуна
         ascii_name: Kelowna
         geonamesid: 5990579
         latitude: 49.88307
         longitude: -119.48568
         name: Kelowna
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kelowna
+        names_es: 
+          - Kelowna
         population: 125109
         timezone: America/Vancouver
       - 
@@ -1589,7 +1616,8 @@ regions:
         latitude: 49.09967
         longitude: -122.6526
         name: Langley
-        names_en: ~
+        names_en: 
+          - "City of Langley"
         names_es: ~
         population: 23606
         timezone: America/Vancouver
@@ -1601,7 +1629,8 @@ regions:
         latitude: 49.08297
         longitude: -122.58589
         name: Langley
-        names_en: ~
+        names_en: 
+          - "Township of Langley"
         names_es: ~
         population: 93726
         timezone: America/Vancouver
@@ -1691,13 +1720,16 @@ regions:
           - Nanaimo
           - Nanajmo
           - "na nai mo"
+          - nanaimo
         ascii_name: Nanaimo
         geonamesid: 6085772
         latitude: 49.16634
         longitude: -123.93601
         name: Nanaimo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nanaimo
+        names_es: 
+          - Nanaimo
         population: 84905
         timezone: America/Vancouver
       - 
@@ -1815,12 +1847,15 @@ regions:
           - "Pitt Meadows"
           - Pitt-Medous
           - "Pitts Meadows"
+          - Питт-Медоус
         ascii_name: "Pitt Meadows"
         geonamesid: 6105815
         latitude: 49.22119
         longitude: -122.68965
         name: "Pitt Meadows"
-        names_en: ~
+        names_en: 
+          - "Pitts Meadows"
+          - "Pitt Meadows"
         names_es: ~
         population: 17410
         timezone: America/Vancouver
@@ -1867,7 +1902,8 @@ regions:
         latitude: 53.9166
         longitude: -122.75301
         name: "Prince George"
-        names_en: ~
+        names_en: 
+          - "Prince George"
         names_es: ~
         population: 65558
         timezone: America/Vancouver
@@ -2067,13 +2103,16 @@ regions:
           - Ban'kouber
           - Vancouver
           - Vankuver
+          - Vankuvera
         ascii_name: Vancouver
         geonamesid: 6173331
         latitude: 49.24966
         longitude: -123.11934
         name: Vancouver
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Vancouver
+        names_es: 
+          - Vancouver
         population: 1837969
         timezone: America/Vancouver
       - 
@@ -2103,13 +2142,16 @@ regions:
           - Victoria
           - Viktorija
           - Viktorio
+          - bikutoria
         ascii_name: Victoria
         geonamesid: 6174041
         latitude: 48.43294
         longitude: -123.3693
         name: Victoria
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Victoria
+        names_es: 
+          - Victoria
         population: 289625
         timezone: America/Vancouver
       - 
@@ -2120,7 +2162,8 @@ regions:
         latitude: 50.1164
         longitude: -122.96946
         name: Whistler
-        names_en: ~
+        names_en: 
+          - "Whistler Village"
         names_es: ~
         population: 10600
         timezone: America/Vancouver
@@ -2132,7 +2175,8 @@ regions:
         latitude: 49.01636
         longitude: -122.8026
         name: "White Rock"
-        names_en: ~
+        names_en: 
+          - "White Rock"
         names_es: ~
         population: 66450
         timezone: America/Vancouver
@@ -2165,12 +2209,15 @@ regions:
           - "District of West Kelowna"
           - "West Kelowna"
           - uesutokerouna
+          - u~esutokerouna
         ascii_name: "West Kelowna"
         geonamesid: 7281936
         latitude: 49.8625
         longitude: -119.58333
         name: "West Kelowna"
-        names_en: ~
+        names_en: 
+          - "District of West Kelowna"
+          - "West Kelowna"
         names_es: ~
         population: 28793
         timezone: America/Vancouver
@@ -2187,7 +2234,8 @@ regions:
         timezone: America/Vancouver
     geonamesid: 5909050
     name: "British Columbia"
-    names_en: ~
+    names_en: 
+      - "British Columbia"
     names_es: ~
   - 
     ascii_name: Manitoba
@@ -2529,13 +2577,17 @@ regions:
           - Vinipeg
           - Vinipego
           - Vinnipeg
+          - WPG
         ascii_name: Winnipeg
         geonamesid: 6183235
         latitude: 49.8844
         longitude: -97.14704
         name: Winnipeg
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Winnipeg
+          - "Winnipeg City"
+        names_es: 
+          - Winnipeg
         population: 632063
         timezone: America/Winnipeg
     geonamesid: 6065171
@@ -2572,12 +2624,14 @@ regions:
           - Fredericopolis
           - Fredericton
           - Frederikton
+          - Phrentrikton
         ascii_name: Fredericton
         geonamesid: 5957776
         latitude: 45.94541
         longitude: -66.66558
         name: Fredericton
-        names_en: ~
+        names_en: 
+          - Fredericton
         names_es: ~
         population: 52337
         timezone: America/Moncton
@@ -2608,12 +2662,14 @@ regions:
           - Moncton
           - Monkton
           - Monktono
+          - Монктон
         ascii_name: Moncton
         geonamesid: 6076211
         latitude: 46.11594
         longitude: -64.80186
         name: Moncton
-        names_en: ~
+        names_en: 
+          - Moncton
         names_es: ~
         population: 87467
         timezone: America/Moncton
@@ -2677,12 +2733,14 @@ regions:
           - "Saint John"
           - Saint-Jean
           - seinteujon
+          - sentojon
         ascii_name: "Saint John"
         geonamesid: 6138517
         latitude: 45.27271
         longitude: -66.06766
         name: "Saint John"
-        names_en: ~
+        names_en: 
+          - "Saint John"
         names_es: ~
         population: 87857
         timezone: America/Moncton
@@ -2787,7 +2845,8 @@ regions:
         timezone: America/Moncton
     geonamesid: 6087430
     name: "New Brunswick"
-    names_en: ~
+    names_en: 
+      - "New Brunswick"
     names_es: ~
   - 
     ascii_name: "Northwest Territories"
@@ -2819,18 +2878,22 @@ regions:
           - "Cultellus Flavus"
           - Yellowknife
           - ieronaifu
+          - "ye luo na fu"
         ascii_name: Yellowknife
         geonamesid: 6185377
         latitude: 62.456
         longitude: -114.35255
         name: Yellowknife
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Yellowknife
+        names_es: 
+          - Yellowknife
         population: 15865
         timezone: America/Yellowknife
     geonamesid: 6091069
     name: "Northwest Territories"
-    names_en: ~
+    names_en: 
+      - "Northwest Territories"
     names_es: ~
   - 
     ascii_name: "Nova Scotia"
@@ -3109,8 +3172,10 @@ regions:
         latitude: 43.83345
         longitude: -66.11557
         name: Yarmouth
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Yarmouth
+        names_es: 
+          - Yarmouth
         population: 7500
         timezone: America/Halifax
       - 
@@ -3123,7 +3188,8 @@ regions:
         latitude: 44.64533
         longitude: -63.57239
         name: Halifax
-        names_en: ~
+        names_en: 
+          - Halifax
         names_es: ~
         population: 359111
         timezone: America/Halifax
@@ -3151,7 +3217,8 @@ regions:
         timezone: America/Glace_Bay
     geonamesid: 6091530
     name: "Nova Scotia"
-    names_en: ~
+    names_en: 
+      - "Nova Scotia"
     names_es: ~
   - 
     ascii_name: Nunavut
@@ -3161,13 +3228,16 @@ regions:
           - Ikaluitas
           - Ikvaluit
           - Iqaluit
+          - ikallu-iteu
         ascii_name: Iqaluit
         geonamesid: 5983720
         latitude: 63.75059
         longitude: -68.51449
         name: Iqaluit
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Iqaluit
+        names_es: 
+          - Iqaluit
         population: 6124
         timezone: America/Iqaluit
     geonamesid: 6091732
@@ -3252,7 +3322,9 @@ regions:
         latitude: 45.31588
         longitude: -75.83012
         name: "Bells Corners"
-        names_en: ~
+        names_en: 
+          - "Ottawa Bells Corners"
+          - "Bells Corners"
         names_es: ~
         population: 9977
         timezone: America/Toronto
@@ -3283,12 +3355,14 @@ regions:
           - Brampton
           - Bramptono
           - buranputon
+          - ブランプトン
         ascii_name: Brampton
         geonamesid: 5907364
         latitude: 43.68341
         longitude: -79.76633
         name: Brampton
-        names_en: ~
+        names_en: 
+          - Brampton
         names_es: ~
         population: 433806
         timezone: America/Toronto
@@ -3378,7 +3452,9 @@ regions:
         latitude: 42.40009
         longitude: -82.1831
         name: Chatham-Kent
-        names_en: ~
+        names_en: 
+          - "Municipality of Chatham-Kent"
+          - Chatham-Kent
         names_es: ~
         population: 108589
         timezone: America/Toronto
@@ -3541,12 +3617,15 @@ regions:
           - "Grand Sudbury"
           - "Greater Sudbury"
           - Sadberi
+          - Sudbury
         ascii_name: "Greater Sudbury"
         geonamesid: 5964700
         latitude: 46.49
         longitude: -80.99001
         name: "Greater Sudbury"
-        names_en: ~
+        names_en: 
+          - "Greater Sudbury"
+          - Sudbury
         names_es: ~
         population: 157857
         timezone: America/Toronto
@@ -3569,7 +3648,8 @@ regions:
         latitude: 44.25012
         longitude: -76.94944
         name: "Greater Napanee"
-        names_en: ~
+        names_en: 
+          - Napanee
         names_es: ~
         population: 15132
         timezone: America/Toronto
@@ -3721,13 +3801,16 @@ regions:
           - Kingston
           - "jing shi dun"
           - kingusuton
+          - Кингстон
         ascii_name: Kingston
         geonamesid: 5992500
         latitude: 44.22976
         longitude: -76.48098
         name: Kingston
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Kingston
+        names_es: 
+          - Kingston
         population: 114195
         timezone: America/Toronto
       - 
@@ -3746,12 +3829,14 @@ regions:
           - Kicenero
           - Kitchener
           - Kiĉenero
+          - kychnr
         ascii_name: Kitchener
         geonamesid: 5992996
         latitude: 43.4501
         longitude: -80.48299
         name: Kitchener
-        names_en: ~
+        names_en: 
+          - Kitchener
         names_es: ~
         population: 409112
         timezone: America/Toronto
@@ -3771,13 +3856,16 @@ regions:
           - London
           - Londono
           - lndn
+          - "lun dun"
         ascii_name: London
         geonamesid: 6058560
         latitude: 42.98339
         longitude: -81.23304
         name: London
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - London
+        names_es: 
+          - London
         population: 346765
         timezone: America/Toronto
       - 
@@ -3834,8 +3922,10 @@ regions:
         latitude: 43.10012
         longitude: -79.06627
         name: "Niagara Falls"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Niagara Falls"
+        names_es: 
+          - "Niagara Falls"
         population: 82000
         timezone: America/Toronto
       - 
@@ -3898,13 +3988,16 @@ regions:
           - Otava
           - "Otava - Ottawa"
           - Otavo
+          - Ottaba
         ascii_name: Ottawa
         geonamesid: 6094817
         latitude: 45.41117
         longitude: -75.69812
         name: Ottawa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Ottawa
+        names_es: 
+          - Ottawa
         population: 812129
         timezone: America/Toronto
       - 
@@ -4039,7 +4132,9 @@ regions:
         latitude: 44.00012
         longitude: -77.24946
         name: "Prince Edward"
-        names_en: ~
+        names_en: 
+          - "Prince Edward County"
+          - "Prince Edward"
         names_es: ~
         population: 25496
         timezone: America/Toronto
@@ -4073,7 +4168,8 @@ regions:
         latitude: 42.97866
         longitude: -82.40407
         name: Sarnia
-        names_en: ~
+        names_en: 
+          - Sarnia
         names_es: ~
         population: 82998
         timezone: America/Toronto
@@ -4126,12 +4222,14 @@ regions:
           - "Saint Catharines"
           - "Sankta Katarino"
           - "St. Catharines"
+          - sentokyasarinzu
         ascii_name: "St. Catharines"
         geonamesid: 6155721
         latitude: 43.16681
         longitude: -79.24958
         name: "St. Catharines"
-        names_en: ~
+        names_en: 
+          - "St. Catharines"
         names_es: ~
         population: 131989
         timezone: America/Toronto
@@ -4197,12 +4295,14 @@ regions:
           - "Tander Bej"
           - Tander-Bej
           - "Thunder Bay"
+          - sandabei
         ascii_name: "Thunder Bay"
         geonamesid: 6166142
         latitude: 48.4001
         longitude: -89.31683
         name: "Thunder Bay"
-        names_en: ~
+        names_en: 
+          - "Thunder Bay"
         names_es: ~
         population: 99334
         timezone: America/Thunder_Bay
@@ -4222,13 +4322,16 @@ regions:
           - Torontas
           - Toronto
           - Torontu
+          - Torontó
         ascii_name: Toronto
         geonamesid: 6167865
         latitude: 43.70011
         longitude: -79.4163
         name: Toronto
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Toronto
+        names_es: 
+          - Toronto
         population: 4612191
         timezone: America/Toronto
       - 
@@ -4251,7 +4354,9 @@ regions:
         latitude: 44.5168
         longitude: -80.01637
         name: "Wasaga Beach"
-        names_en: ~
+        names_en: 
+          - Wasaga
+          - "Wasaga Beach"
         names_es: ~
         population: 7567
         timezone: America/Toronto
@@ -4284,12 +4389,14 @@ regions:
           - Vindzor
           - Windsor
           - uinza
+          - u~inza
         ascii_name: Windsor
         geonamesid: 6182962
         latitude: 42.30008
         longitude: -83.01654
         name: Windsor
-        names_en: ~
+        names_en: 
+          - Windsor
         names_es: ~
         population: 278013
         timezone: America/Toronto
@@ -4351,12 +4458,14 @@ regions:
           - Carolinapolis
           - Charlottetown
           - Sharlottaun
+          - sharottotaun
         ascii_name: Charlottetown
         geonamesid: 5920288
         latitude: 46.23525
         longitude: -63.12671
         name: Charlottetown
-        names_en: ~
+        names_en: 
+          - Charlottetown
         names_es: ~
         population: 42402
         timezone: America/Halifax
@@ -4419,7 +4528,8 @@ regions:
         timezone: America/Halifax
     geonamesid: 6113358
     name: "Prince Edward Island"
-    names_en: ~
+    names_en: 
+      - "Prince Edward Island"
     names_es: ~
   - 
     ascii_name: Quebec
@@ -4970,12 +5080,14 @@ regions:
           - Gaspe
           - Gaspé
           - gasupe
+          - ガスペ
         ascii_name: Gaspe
         geonamesid: 5959878
         latitude: 48.83341
         longitude: -64.48194
         name: Gaspé
-        names_en: ~
+        names_en: 
+          - Gaspé
         names_es: ~
         population: 14819
         timezone: America/Montreal
@@ -4984,13 +5096,16 @@ regions:
           - Gatineau
           - "Sablono:TabelKapoLauCarta"
           - gatino
+          - "Ŝablono:TabelKapoLaŭĈarta"
         ascii_name: Gatineau
         geonamesid: 5959974
         latitude: 45.47723
         longitude: -75.70164
         name: Gatineau
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Gatineau
+        names_es: 
+          - Gatineau
         population: 242124
         timezone: America/Montreal
       - 
@@ -5100,7 +5215,8 @@ regions:
         latitude: 45.21678
         longitude: -72.51581
         name: Lac-Brome
-        names_en: ~
+        names_en: 
+          - "Lac Brome"
         names_es: ~
         population: 5629
         timezone: America/Montreal
@@ -5191,7 +5307,8 @@ regions:
         latitude: 45.56995
         longitude: -73.692
         name: Laval
-        names_en: ~
+        names_en: 
+          - Laval
         names_es: ~
         population: 376845
         timezone: America/Montreal
@@ -5258,7 +5375,8 @@ regions:
         latitude: 45.38338
         longitude: -73.9492
         name: L'Île-Perrot
-        names_en: ~
+        names_en: 
+          - "L'Ile Perrot"
         names_es: ~
         population: 9927
         timezone: America/Montreal
@@ -5272,7 +5390,8 @@ regions:
         latitude: 45.53121
         longitude: -73.51806
         name: Longueuil
-        names_en: ~
+        names_en: 
+          - Longueuil
         names_es: ~
         population: 229330
         timezone: America/Montreal
@@ -5424,13 +5543,17 @@ regions:
           - "Lungsod ng Montreal"
           - "Lungsod ng Montréal"
           - Monreal
+          - Monreal'
         ascii_name: Montreal
         geonamesid: 6077243
         latitude: 45.50884
         longitude: -73.58781
         name: Montréal
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Montreal
+          - "Montreal City"
+        names_es: 
+          - Montreal
         population: 3268513
         timezone: America/Montreal
       - 
@@ -5443,7 +5566,8 @@ regions:
         latitude: 45.63202
         longitude: -73.5075
         name: Montréal-Est
-        names_en: ~
+        names_en: 
+          - "Montreal East"
         names_es: ~
         population: 3822
         timezone: America/Montreal
@@ -5455,7 +5579,8 @@ regions:
         latitude: 45.45286
         longitude: -73.64918
         name: Montréal-Ouest
-        names_en: ~
+        names_en: 
+          - "Montreal West"
         names_es: ~
         population: 5184
         timezone: America/Montreal
@@ -5788,8 +5913,10 @@ regions:
         latitude: 48.41675
         longitude: -71.06573
         name: Saguenay
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Saguenay
+        names_es: 
+          - Saguenay
         population: 143692
         timezone: America/Montreal
       - 
@@ -6178,7 +6305,8 @@ regions:
         latitude: 45.31678
         longitude: -73.26586
         name: Saint-Jean-sur-Richelieu
-        names_en: ~
+        names_en: 
+          - Saint-Jean-sur-Richelieu
         names_es: ~
         population: 71613
         timezone: America/Montreal
@@ -6457,13 +6585,16 @@ regions:
           - Trois-Rivieres
           - Trois-Rivières
           - Trua-Riv'er
+          - torowaribieru
         ascii_name: Trois-Rivieres
         geonamesid: 6169141
         latitude: 46.35006
         longitude: -72.54912
         name: Trois-Rivières
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Trois-Rivières
+        names_es: 
+          - Trois-Rivières
         population: 119693
         timezone: America/Montreal
       - 
@@ -6662,12 +6793,14 @@ regions:
           - Kvebek
           - Quebec
           - "Quebec City"
+          - Québec
         ascii_name: Quebec
         geonamesid: 6325494
         latitude: 46.81228
         longitude: -71.21454
         name: Québec
-        names_en: ~
+        names_en: 
+          - "Quebec City"
         names_es: ~
         population: 528595
         timezone: America/Montreal
@@ -7005,7 +7138,8 @@ regions:
         timezone: America/Montreal
     geonamesid: 6115047
     name: Quebec
-    names_en: ~
+    names_en: 
+      - Quebec
     names_es: ~
   - 
     ascii_name: Saskatchewan
@@ -7403,7 +7537,8 @@ regions:
         latitude: 53.20008
         longitude: -105.76772
         name: "Prince Albert"
-        names_en: ~
+        names_en: 
+          - "Prince Albert"
         names_es: ~
         population: 34609
         timezone: America/Regina
@@ -7412,13 +7547,16 @@ regions:
           - Redzajna
           - Redzhajna
           - Redžajna
+          - Regina
         ascii_name: Regina
         geonamesid: 6119109
         latitude: 50.45008
         longitude: -104.6178
         name: Regina
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Regina
+        names_es: 
+          - Regina
         population: 176183
         timezone: America/Regina
       - 
@@ -7448,13 +7586,16 @@ regions:
           - Saskatoon
           - Saskatun
           - Saskatuno
+          - sasukato~un
         ascii_name: Saskatoon
         geonamesid: 6141256
         latitude: 52.11679
         longitude: -106.63452
         name: Saskatoon
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Saskatoon
+        names_es: 
+          - Saskatoon
         population: 198958
         timezone: America/Regina
       - 
@@ -7634,18 +7775,23 @@ regions:
           - "Equus Albus"
           - Uajtkhors
           - Vajtkhors
+          - Whitehorse
         ascii_name: Whitehorse
         geonamesid: 6180550
         latitude: 60.71611
         longitude: -135.05375
         name: Whitehorse
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Whitehorse
+        names_es: 
+          - Whitehorse
         population: 23272
         timezone: America/Whitehorse
     geonamesid: 6185811
     name: Yukon
-    names_en: ~
+    names_en: 
+      - Yukon
+      - "Yukon Territory"
     names_es: ~
   - 
     ascii_name: "Newfoundland and Labrador"
@@ -7930,16 +8076,22 @@ regions:
           - "Saint John's"
           - Sent-Dzhons
           - "St Johns"
+          - "St. John's"
         ascii_name: "St. John's"
         geonamesid: 6324733
         latitude: 47.56494
         longitude: -52.70931
         name: "St. John's"
-        names_en: ~
+        names_en: 
+          - "Saint John's"
+          - "St Johns"
+          - "St. John's"
         names_es: ~
         population: 99182
         timezone: America/St_Johns
     geonamesid: 6354959
     name: "Newfoundland and Labrador"
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - "Newfoundland and Labrador"
+    names_es: 
+      - "New Foundland - Labrador"

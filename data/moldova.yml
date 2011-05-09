@@ -2,8 +2,11 @@
 geonamesid: 617790
 iso: MD
 name: Moldova
-names_en: ~
-names_es: ~
+names_en: 
+  - Moldova
+  - "Republic of Moldova"
+names_es: 
+  - Moldavia
 regions: 
   - 
     ascii_name: "Raionul Edinet"
@@ -13,18 +16,22 @@ regions:
           - Edincy
           - Edinec
           - Edinet
+          - Edineţ
         ascii_name: Edinet
         geonamesid: 617076
         latitude: 48.16806
         longitude: 27.305
         name: Edineţ
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Edineţ
+        names_es: 
+          - Edineţ
         population: 22872
         timezone: Europe/Chisinau
     geonamesid: 617077
     name: "Raionul Edineţ"
-    names_en: ~
+    names_en: 
+      - "Raionul Edineţ"
     names_es: ~
   - 
     ascii_name: "Raionul Ungheni"
@@ -34,18 +41,21 @@ regions:
           - Nyaradto
           - Nyárádtő
           - "Ukgeni Tyrg"
+          - Ungen
         ascii_name: Ungheni
         geonamesid: 617180
         latitude: 47.20417
         longitude: 27.79583
         name: Ungheni
-        names_en: ~
+        names_en: 
+          - Ungheni
         names_es: ~
         population: 34422
         timezone: Europe/Chisinau
     geonamesid: 617181
     name: "Raionul Ungheni"
-    names_en: ~
+    names_en: 
+      - "Raionul Ungheni"
     names_es: ~
   - 
     ascii_name: "Raionul Telenesti"
@@ -55,6 +65,7 @@ regions:
           - Telenesht'-Tyrg
           - Teleneshty
           - "Telenesti Targ"
+          - "Teleneşti Târg"
         ascii_name: Telenesti
         geonamesid: 617254
         latitude: 47.49972
@@ -69,6 +80,7 @@ regions:
           - Mandresti
           - Mindresti
           - Myndresht'
+          - Myndreshti
         ascii_name: Mindresti
         geonamesid: 617778
         latitude: 47.50722
@@ -80,7 +92,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617255
     name: "Raionul Teleneşti"
-    names_en: ~
+    names_en: 
+      - "Raionul Teleneşti"
     names_es: ~
   - 
     ascii_name: "Raionul Taraclia"
@@ -90,6 +103,7 @@ regions:
           - Taraclia
           - Taraklija
           - Tarakliya
+          - Тараклия
         ascii_name: Taraclia
         geonamesid: 617270
         latitude: 45.9
@@ -101,7 +115,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617264
     name: "Raionul Taraclia"
-    names_en: ~
+    names_en: 
+      - "Raionul Taraclia"
     names_es: ~
   - 
     ascii_name: "Raionul Stefan-Voda"
@@ -111,6 +126,7 @@ regions:
           - Shtefan-Vode
           - Shtefan-Vodeh
           - Stefan-Voda
+          - Suvorovo
         ascii_name: Stefan-Voda
         geonamesid: 617284
         latitude: 46.51528
@@ -132,6 +148,7 @@ regions:
           - Straseni
           - Strashen'
           - "Strashenskij rajon"
+          - Strasheny
         ascii_name: Straseni
         geonamesid: 617302
         latitude: 47.14139
@@ -157,7 +174,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617301
     name: "Raionul Străşeni"
-    names_en: ~
+    names_en: 
+      - "Raionul Străşeni"
     names_es: ~
   - 
     ascii_name: "Raionul Soroca"
@@ -167,6 +185,7 @@ regions:
           - Soroca
           - Soroka
           - Soroki
+          - Сорока
         ascii_name: Soroca
         geonamesid: 617367
         latitude: 48.15583
@@ -178,7 +197,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617366
     name: "Raionul Soroca"
-    names_en: ~
+    names_en: 
+      - "Raionul Soroca"
     names_es: ~
   - 
     ascii_name: "Raionul Riscani"
@@ -188,6 +208,7 @@ regions:
           - Rascani
           - "Rascani Targ"
           - "Rashkan' Tyrg"
+          - Rashkani-Tyrg
         ascii_name: Riscani
         geonamesid: 617482
         latitude: 47.95722
@@ -199,7 +220,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617483
     name: "Raionul Rîşcani"
-    names_en: ~
+    names_en: 
+      - "Raionul Rîşcani"
     names_es: ~
   - 
     ascii_name: "Raionul Rezina"
@@ -209,6 +231,7 @@ regions:
           - Saharna
           - Sakharna
           - Sukharna
+          - Сахарна
         ascii_name: Saharna
         geonamesid: 617471
         latitude: 47.69361
@@ -223,6 +246,7 @@ regions:
           - Rezina
           - "Rezina Targ"
           - "Rezina Târg"
+          - Rezina-Tirg
         ascii_name: Rezina
         geonamesid: 617502
         latitude: 47.74917
@@ -234,7 +258,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617501
     name: "Raionul Rezina"
-    names_en: ~
+    names_en: 
+      - "Raionul Rezina"
     names_es: ~
   - 
     ascii_name: "Raionul Orhei"
@@ -244,18 +269,21 @@ regions:
           - Orgeev
           - Orgeyev
           - Orhei
+          - Orheiu
         ascii_name: Orhei
         geonamesid: 617638
         latitude: 47.38306
         longitude: 28.82306
         name: Orhei
-        names_en: ~
+        names_en: 
+          - Orhei
         names_es: ~
         population: 24918
         timezone: Europe/Chisinau
     geonamesid: 617639
     name: "Raionul Orhei"
-    names_en: ~
+    names_en: 
+      - "Raionul Orhei"
     names_es: ~
   - 
     ascii_name: "Raionul Ocnita"
@@ -265,6 +293,7 @@ regions:
           - Ataki
           - Otach-Tyrg
           - Otaci
+          - Атаки
         ascii_name: Otaci
         geonamesid: 618631
         latitude: 48.43
@@ -276,7 +305,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617656
     name: "Raionul Ocniţa"
-    names_en: ~
+    names_en: 
+      - "Raionul Ocniţa"
     names_es: ~
   - 
     ascii_name: "Raionul Anenii Noi"
@@ -300,6 +330,7 @@ regions:
           - "Aneni Nouy"
           - "Anenii Noi"
           - "Anenii Noui"
+          - Novo-Aneny
         ascii_name: "Anenii Noi"
         geonamesid: 617702
         latitude: 46.87889
@@ -311,7 +342,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617715
     name: "Raionul Anenii Noi"
-    names_en: ~
+    names_en: 
+      - "Raionul Anenii Noi"
     names_es: ~
   - 
     ascii_name: "Raionul Nisporeni"
@@ -321,6 +353,7 @@ regions:
           - Nisiporeni
           - Nisporeni
           - Nisporeny
+          - Nisporyany
         ascii_name: Nisporeni
         geonamesid: 617753
         latitude: 47.08139
@@ -332,7 +365,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617754
     name: "Raionul Nisporeni"
-    names_en: ~
+    names_en: 
+      - "Raionul Nisporeni"
     names_es: ~
   - 
     ascii_name: "Raionul Leova"
@@ -342,6 +376,7 @@ regions:
           - Iagara
           - Iargara
           - "Poselok Yargora"
+          - "Posëlok Yargora"
         ascii_name: Iargara
         geonamesid: 617081
         latitude: 46.4275
@@ -356,6 +391,7 @@ regions:
           - Leova
           - Leovo
           - Levo
+          - Леово
         ascii_name: Leova
         geonamesid: 617904
         latitude: 46.47861
@@ -367,7 +403,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617903
     name: "Raionul Leova"
-    names_en: ~
+    names_en: 
+      - "Raionul Leova"
     names_es: ~
   - 
     ascii_name: "Raionul Singerei"
@@ -377,6 +414,7 @@ regions:
           - Belichany
           - Biliceni
           - "Bilicenii Vechi"
+          - Bilichen'
         ascii_name: "Bilicenii Vechi"
         geonamesid: 617345
         latitude: 47.65639
@@ -391,6 +429,7 @@ regions:
           - Lazovsk
           - Sangerei
           - Senzherey
+          - Singerei
         ascii_name: Singerei
         geonamesid: 617914
         latitude: 47.64056
@@ -416,7 +455,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617913
     name: "Raionul Sîngerei"
-    names_en: ~
+    names_en: 
+      - "Raionul Sîngerei"
     names_es: ~
   - 
     ascii_name: "Raionul Criuleni"
@@ -426,6 +466,7 @@ regions:
           - Novotiraspol'skiy
           - Novotiraspol’skiy
           - Slobodka
+          - "Tiraspolul Nou"
         ascii_name: "Tiraspolul Nou"
         geonamesid: 617053
         latitude: 46.83194
@@ -440,6 +481,7 @@ regions:
           - Kriulen'
           - Kriuleni
           - Kriuljany
+          - Kriulyany
         ascii_name: Criuleni
         geonamesid: 618403
         latitude: 47.21444
@@ -451,7 +493,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617962
     name: "Raionul Criuleni"
-    names_en: ~
+    names_en: 
+      - "Raionul Criuleni"
     names_es: ~
   - 
     ascii_name: "Raionul Ialoveni"
@@ -461,6 +504,7 @@ regions:
           - Ialoveni
           - Jaloveny
           - Kutuzov
+          - Ploreny
         ascii_name: Ialoveni
         geonamesid: 618196
         latitude: 46.94306
@@ -472,7 +516,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 617991
     name: "Raionul Ialoveni"
-    names_en: ~
+    names_en: 
+      - "Raionul Ialoveni"
     names_es: ~
   - 
     ascii_name: "Municipiul Chisinau"
@@ -482,6 +527,7 @@ regions:
           - Vadu-luy-Vode
           - "Vadul lui Voda"
           - "Vadul lui Vodă"
+          - Vadul-luy-Vode
         ascii_name: "Vadul lui Voda"
         geonamesid: 617164
         latitude: 47.09167
@@ -496,6 +542,7 @@ regions:
           - Sangera
           - Singera
           - Synzhera
+          - Sângera
         ascii_name: Singera
         geonamesid: 617279
         latitude: 46.91306
@@ -538,13 +585,16 @@ regions:
           - Chisinau
           - "Chisinau - Chisinau"
           - "Chisinau - Chişinău"
+          - Chişinău
         ascii_name: Chisinau
         geonamesid: 618426
         latitude: 47.00556
         longitude: 28.8575
         name: Chişinău
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Chişinău
+        names_es: 
+          - Chişinău
         population: 635994
         timezone: Europe/Chisinau
       - 
@@ -552,6 +602,7 @@ regions:
           - "Gara Ghidighici"
           - Gidigich
           - Vatra
+          - Ватра
         ascii_name: Vatra
         geonamesid: 824134
         latitude: 47.07389
@@ -573,6 +624,7 @@ regions:
           - Kickany
           - Kitskan'
           - Kitskani
+          - Kitskany
         ascii_name: Chitcani
         geonamesid: 618067
         latitude: 46.78296
@@ -587,12 +639,14 @@ regions:
           - Causani-Novi
           - Causanii-Noui
           - Causeni
+          - Căuşani-Novi
         ascii_name: Causeni
         geonamesid: 618120
         latitude: 46.64417
         longitude: 29.41389
         name: Căuşeni
-        names_en: ~
+        names_en: 
+          - Căuşeni
         names_es: ~
         population: 21690
         timezone: Europe/Chisinau
@@ -608,6 +662,7 @@ regions:
           - Vishnevka
           - Vishnëvka
           - Visinesti
+          - Visniovca
         ascii_name: Visniovca
         geonamesid: 617118
         latitude: 46.33333
@@ -633,7 +688,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 618142
     name: "Raionul Cantemir"
-    names_en: ~
+    names_en: 
+      - "Raionul Cantemir"
     names_es: ~
   - 
     ascii_name: "Raionul Calarasi"
@@ -643,6 +699,7 @@ regions:
           - Calarasi
           - Calarasi-Targ
           - Călărasi-Targ
+          - Călăraşi
         ascii_name: Calarasi
         geonamesid: 618454
         latitude: 47.25444
@@ -664,12 +721,14 @@ regions:
           - Dzhurdzhulesht'
           - Dzhurdzhuleshti
           - Dzhurdzhuleshty
+          - Dzhurdzhulesht’
         ascii_name: Giurgiulesti
         geonamesid: 618349
         latitude: 45.48167
         longitude: 28.19722
         name: Giurgiuleşti
-        names_en: ~
+        names_en: 
+          - Giurgiulesti
         names_es: ~
         population: 3074
         timezone: Europe/Chisinau
@@ -678,18 +737,22 @@ regions:
           - Cahul
           - Kagul
           - Kakhul
+          - Кагул
         ascii_name: Cahul
         geonamesid: 618456
         latitude: 45.9075
         longitude: 28.19444
         name: Cahul
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cahul
+        names_es: 
+          - Cahul
         population: 34492
         timezone: Europe/Chisinau
     geonamesid: 618164
     name: "Raionul Cahul"
-    names_en: ~
+    names_en: 
+      - "Raionul Cahul"
     names_es: ~
   - 
     ascii_name: "Raionul Glodeni"
@@ -699,6 +762,7 @@ regions:
           - Gloden'
           - Glodeni
           - Gloden’
+          - Glodjany
         ascii_name: Glodeni
         geonamesid: 618261
         latitude: 47.77083
@@ -710,7 +774,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 618260
     name: "Raionul Glodeni"
-    names_en: ~
+    names_en: 
+      - "Raionul Glodeni"
     names_es: ~
   - 
     ascii_name: "Raionul Floresti"
@@ -720,6 +785,7 @@ regions:
           - Marculesti
           - Markulesht'-Kolon
           - Markuleshti-Kolon
+          - Markuleshty
         ascii_name: Marculesti
         geonamesid: 617837
         latitude: 47.86861
@@ -745,6 +811,7 @@ regions:
           - Floresht'
           - Floreshti
           - Floreshty
+          - Floresht’
         ascii_name: Floresti
         geonamesid: 618329
         latitude: 47.89333
@@ -756,7 +823,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 618331
     name: "Raionul Floreşti"
-    names_en: ~
+    names_en: 
+      - "Raionul Floreşti"
     names_es: ~
   - 
     ascii_name: "Raionul Falesti"
@@ -766,6 +834,7 @@ regions:
           - Falesht'
           - Faleshty
           - Falesht’
+          - Falesti
         ascii_name: Falesti
         geonamesid: 618344
         latitude: 47.57361
@@ -777,7 +846,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 618345
     name: "Raionul Făleşti"
-    names_en: ~
+    names_en: 
+      - "Raionul Făleşti"
     names_es: ~
   - 
     ascii_name: "Raionul Dubasari"
@@ -794,6 +864,7 @@ regions:
           - Drochia
           - Drokija
           - Drokiya
+          - "Drokiya Sat"
         ascii_name: Drochia
         geonamesid: 618370
         latitude: 48.035
@@ -805,7 +876,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 618369
     name: "Raionul Drochia"
-    names_en: ~
+    names_en: 
+      - "Raionul Drochia"
     names_es: ~
   - 
     ascii_name: "Raionul Donduseni"
@@ -815,6 +887,7 @@ regions:
           - Dondusani
           - Donduseni
           - Dondushen'
+          - Dondushen’
         ascii_name: Donduseni
         geonamesid: 618382
         latitude: 48.22444
@@ -829,6 +902,7 @@ regions:
           - Briceni
           - Brichany
           - Brichen'
+          - Brichen’
         ascii_name: Briceni
         geonamesid: 618512
         latitude: 48.35722
@@ -840,7 +914,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 618381
     name: "Raionul Donduşeni"
-    names_en: ~
+    names_en: 
+      - "Raionul Donduşeni"
     names_es: ~
   - 
     ascii_name: "Raionul Cimislia"
@@ -850,6 +925,7 @@ regions:
           - Chimishlija
           - Chimishliya
           - Cimislia
+          - Cimişlia
         ascii_name: Cimislia
         geonamesid: 618406
         latitude: 46.52
@@ -861,14 +937,16 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 618430
     name: "Raionul Cimişlia"
-    names_en: ~
+    names_en: 
+      - "Raionul Cimişlia"
     names_es: ~
   - 
     ascii_name: "Raionul Briceni"
     cities: []
     geonamesid: 618511
     name: "Raionul Briceni"
-    names_en: ~
+    names_en: 
+      - "Raionul Briceni"
     names_es: ~
   - 
     ascii_name: "Raionul Basarabeasca"
@@ -878,6 +956,7 @@ regions:
           - Basarabeasca
           - Bessarabka
           - Bessarabskaya
+          - Bessarabskiy
         ascii_name: Basarabeasca
         geonamesid: 618594
         latitude: 46.33111
@@ -889,7 +968,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 618565
     name: "Raionul Basarabeasca"
-    names_en: ~
+    names_en: 
+      - "Raionul Basarabeasca"
     names_es: ~
   - 
     ascii_name: "Raionul Hincesti"
@@ -899,6 +979,7 @@ regions:
           - Ganchesty
           - Gynchesht'
           - Gynchesht’
+          - Hancesti
         ascii_name: Hincesti
         geonamesid: 617993
         latitude: 46.82583
@@ -910,7 +991,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 858803
     name: "Raionul Hînceşti"
-    names_en: ~
+    names_en: 
+      - "Raionul Hînceşti"
     names_es: ~
   - 
     ascii_name: "Raionul Soldanesti"
@@ -920,6 +1002,7 @@ regions:
           - Chernenko
           - Sholdanesht'
           - Sholdaneshti
+          - Sholdaneshty
         ascii_name: Soldanesti
         geonamesid: 617372
         latitude: 47.81528
@@ -931,7 +1014,8 @@ regions:
         timezone: Europe/Chisinau
     geonamesid: 858808
     name: "Raionul Şoldăneşti"
-    names_en: ~
+    names_en: 
+      - "Raionul Şoldăneşti"
     names_es: ~
   - 
     ascii_name: "Unitatea Teritoriala din Stinga Nistrului"
@@ -941,13 +1025,16 @@ regions:
           - Tiraspol
           - Tiraspol'
           - Tiraspole
+          - Tiraspoli
         ascii_name: Tiraspol
         geonamesid: 617239
         latitude: 46.84028
         longitude: 29.64333
         name: Tiraspol
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tiraspol
+        names_es: 
+          - Tiraspol
         population: 157000
         timezone: Europe/Chisinau
       - 
@@ -955,6 +1042,7 @@ regions:
           - Moldavanskaya-Slobodzaya
           - Slobodzeya
           - "Slobodzeya Moldavanskaya"
+          - Slobozia
         ascii_name: Slobozia
         geonamesid: 617381
         latitude: 46.72806
@@ -969,12 +1057,14 @@ regions:
           - Rabnita
           - Ribnica
           - Ribnicja
+          - Ribnita
         ascii_name: Ribnita
         geonamesid: 617486
         latitude: 47.76639
         longitude: 29.00111
         name: Rîbniţa
-        names_en: ~
+        names_en: 
+          - Rîbniţa
         names_es: ~
         population: 55455
         timezone: Europe/Chisinau
@@ -1024,6 +1114,7 @@ regions:
           - Grigoriopol
           - Grigoriopol'
           - Grigoriopol’
+          - Григориополь
         ascii_name: Grigoriopol
         geonamesid: 618234
         latitude: 47.15361
@@ -1038,12 +1129,14 @@ regions:
           - Dubasari
           - Dubehsar'
           - Dubosari
+          - Dubossary
         ascii_name: Dubasari
         geonamesid: 618365
         latitude: 47.26306
         longitude: 29.16083
         name: Dubăsari
-        names_en: ~
+        names_en: 
+          - Dubăsari
         names_es: ~
         population: 23254
         timezone: Europe/Chisinau
@@ -1086,6 +1179,7 @@ regions:
           - Valkaneshty
           - Volkaneshty
           - Volkenesht'
+          - Volkenesht’
         ascii_name: Vulcanesti
         geonamesid: 617096
         latitude: 45.68417
@@ -1100,12 +1194,14 @@ regions:
           - Comrat
           - Komrad
           - Komrat
+          - komlateu
         ascii_name: Comrat
         geonamesid: 618405
         latitude: 46.30028
         longitude: 28.65722
         name: Comrat
-        names_en: ~
+        names_en: 
+          - Comrat
         names_es: ~
         population: 22911
         timezone: Europe/Chisinau
@@ -1114,6 +1210,7 @@ regions:
           - Ceadar-Lunga
           - Ceadir-Lunga
           - Ceadâr-Lunga
+          - Ceadîr-Lunga
         ascii_name: Ceadir-Lunga
         geonamesid: 618450
         latitude: 46.055
@@ -1148,12 +1245,14 @@ regions:
           - Bendary
           - Bender
           - Benderai
+          - Benderi
         ascii_name: Tighina
         geonamesid: 618577
         latitude: 46.83056
         longitude: 29.47111
         name: Tighina
-        names_en: ~
+        names_en: 
+          - Tighina
         names_es: ~
         population: 110175
         timezone: Europe/Chisinau
@@ -1169,12 +1268,14 @@ regions:
           - Balti
           - Baltsy
           - Behlc'
+          - Bel'cy
         ascii_name: Balti
         geonamesid: 618605
         latitude: 47.76167
         longitude: 27.92889
         name: Bălţi
-        names_en: ~
+        names_en: 
+          - Bălţi
         names_es: ~
         population: 125000
         timezone: Europe/Chisinau

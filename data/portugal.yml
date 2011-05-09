@@ -2,8 +2,11 @@
 geonamesid: 2264397
 iso: PT
 name: Portugal
-names_en: ~
-names_es: ~
+names_en: 
+  - Portugal
+  - "Portuguese Republic"
+names_es: 
+  - Portugal
 regions: 
   - 
     ascii_name: "Distrito de Setubal"
@@ -47,6 +50,7 @@ regions:
           - Sesimbra
           - Sezimbra
           - Sisimbra
+          - Сесимбра
         ascii_name: Sesimbra
         geonamesid: 2262957
         latitude: 38.44451
@@ -61,13 +65,16 @@ regions:
           - Setoumpal
           - Setubal
           - Setúbal
+          - "sai tu ba er"
         ascii_name: Setubal
         geonamesid: 2262963
         latitude: 38.5244
         longitude: -8.8882
         name: Setúbal
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Setúbal
+        names_es: 
+          - Setúbal
         population: 117110
         timezone: Europe/Lisbon
       - 
@@ -97,6 +104,7 @@ regions:
           - "Santiago do Cacem"
           - "Santiago do Cacém"
           - "Sao Tiago de Cacem"
+          - "Sao Tiago do Cacem"
         ascii_name: "Santiago do Cacem"
         geonamesid: 2263458
         latitude: 38.01667
@@ -176,8 +184,10 @@ regions:
         latitude: 38.56902
         longitude: -8.90126
         name: Palmela
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Palmela
+        names_es: 
+          - Palmela
         population: 16934
         timezone: Europe/Lisbon
       - 
@@ -245,6 +255,7 @@ regions:
           - Charneca
           - "Charneca de Caparica"
           - Sharneka
+          - Шарнека
         ascii_name: Charneca
         geonamesid: 2269282
         latitude: 38.62059
@@ -294,13 +305,16 @@ regions:
           - Barreiro
           - Barrejru
           - "ba lei lu"
+          - Баррейру
         ascii_name: Barreiro
         geonamesid: 2271071
         latitude: 38.66314
         longitude: -9.0724
         name: Barreiro
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Barreiro
+        names_es: 
+          - Barreiro
         population: 51280
         timezone: Europe/Lisbon
       - 
@@ -333,13 +347,16 @@ regions:
           - Almada
           - Almanta
           - Αλμάντα
+          - Алмада
         ascii_name: Almada
         geonamesid: 2271961
         latitude: 38.67902
         longitude: -9.1569
         name: Almada
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Almada
+        names_es: 
+          - Almada
         population: 34008
         timezone: Europe/Lisbon
       - 
@@ -384,6 +401,7 @@ regions:
           - "Alcacer da Sal"
           - "Alcacer do Sal"
           - "Alcácer da Sal"
+          - "Alcácer do Sal"
         ascii_name: "Alcacer do Sal"
         geonamesid: 2272212
         latitude: 38.37326
@@ -396,7 +414,8 @@ regions:
     geonamesid: 2262961
     name: Setúbal
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Setúbal
   - 
     ascii_name: "Distrito de Santarem"
     cities: 
@@ -442,13 +461,16 @@ regions:
           - Santarem
           - Santaren
           - Santarém
+          - Scalabis
         ascii_name: Santarem
         geonamesid: 2263480
         latitude: 39.23333
         longitude: -8.68333
         name: Santarém
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Santarém
+        names_es: 
+          - Santarém
         population: 29385
         timezone: Europe/Lisbon
       - 
@@ -540,7 +562,8 @@ regions:
         latitude: 39.46667
         longitude: -8.71667
         name: Monsanto
-        names_en: ~
+        names_en: 
+          - Monsanto
         names_es: ~
         population: 50000
         timezone: Europe/Lisbon
@@ -585,12 +608,14 @@ regions:
           - Fatima
           - Fátima
           - Phatima
+          - fatima
         ascii_name: Fatima
         geonamesid: 2268326
         latitude: 39.61667
         longitude: -8.65
         name: Fátima
-        names_en: ~
+        names_en: 
+          - Fátima
         names_es: ~
         population: 11798
         timezone: Europe/Lisbon
@@ -709,14 +734,17 @@ regions:
         latitude: 39.46667
         longitude: -8.2
         name: Abrantes
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Abrantes
+        names_es: 
+          - Abrantes
         population: 13646
         timezone: Europe/Lisbon
     geonamesid: 2263478
     name: Santarém
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Santarém
   - 
     ascii_name: "Distrito de Portalegre"
     cities: 
@@ -831,7 +859,8 @@ regions:
     geonamesid: 2264507
     name: Portalegre
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Portalegre
   - 
     ascii_name: Lisbon
     cities: 
@@ -932,13 +961,16 @@ regions:
           - Cintra
           - Sintra
           - shintora
+          - Σίντρα
         ascii_name: Sintra
         geonamesid: 2262912
         latitude: 38.80097
         longitude: -9.37826
         name: Sintra
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Sintra
+        names_es: 
+          - Sintra
         population: 26193
         timezone: Europe/Lisbon
       - 
@@ -1001,6 +1033,7 @@ regions:
           - "Domingos De Rana"
           - "Sao Domingos"
           - "Sao Domingos de Rana"
+          - "São Domingos"
         ascii_name: "Sao Domingos de Rana"
         geonamesid: 2263352
         latitude: 38.70123
@@ -1015,6 +1048,7 @@ regions:
           - "Santo Antao"
           - "Santo Antao de Tojal"
           - "Santo Antao do Tojal"
+          - "Santo Antão"
         ascii_name: "Santo Antao do Tojal"
         geonamesid: 2263434
         latitude: 38.85151
@@ -1029,6 +1063,7 @@ regions:
           - "Santa Iria"
           - "Santa Iria da Azoia"
           - "Santa Iria da Azóia"
+          - "Santa Iria de Azoia"
         ascii_name: "Santa Iria da Azoia"
         geonamesid: 2263523
         latitude: 38.84629
@@ -1081,7 +1116,8 @@ regions:
         latitude: 38.75657
         longitude: -9.25451
         name: Queluz
-        names_en: ~
+        names_en: 
+          - Queluz
         names_es: ~
         population: 103399
         timezone: Europe/Lisbon
@@ -1114,6 +1150,7 @@ regions:
           - Povoa
           - "Povoa Santa Iria"
           - "Povoa de Martinho"
+          - "Povoa de Santa Iria"
         ascii_name: "Povoa de Santa Iria"
         geonamesid: 2264359
         latitude: 38.86101
@@ -1201,8 +1238,10 @@ regions:
         latitude: 38.79269
         longitude: -9.1838
         name: Odivelas
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Odivelas
+        names_es: 
+          - Odivelas
         population: 54624
         timezone: Europe/Lisbon
       - 
@@ -1270,8 +1309,10 @@ regions:
         latitude: 39.23333
         longitude: -9.31667
         name: Lourinhã
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lourinhã
+        names_es: 
+          - Lourinhã
         population: 9196
         timezone: Europe/Lisbon
       - 
@@ -1284,8 +1325,10 @@ regions:
         latitude: 38.83091
         longitude: -9.16845
         name: Loures
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Loures
+        names_es: 
+          - Loures
         population: 66231
         timezone: Europe/Lisbon
       - 
@@ -1293,13 +1336,16 @@ regions:
           - "Felicitas Julia"
           - "Felicitas Julia Olissipo"
           - Liospoin
+          - Liospóin
         ascii_name: Lisbon
         geonamesid: 2267057
         latitude: 38.71667
         longitude: -9.13333
         name: Lisbon
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lisbon
+        names_es: 
+          - Lisboa
         population: 517802
         timezone: Europe/Lisbon
       - 
@@ -1311,7 +1357,8 @@ regions:
         latitude: 38.71446
         longitude: -9.2422
         name: Linda-a-Velha
-        names_en: ~
+        names_en: 
+          - "Linda a Velha"
         names_es: ~
         population: 20895
         timezone: Europe/Lisbon
@@ -1331,13 +1378,16 @@ regions:
           - Ehshtoril
           - Eshhoril
           - Estoril
+          - Estoris
         ascii_name: Estoril
         geonamesid: 2268436
         latitude: 38.70571
         longitude: -9.39773
         name: Estoril
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Estoril
+        names_es: 
+          - Estoril
         population: 23700
         timezone: Europe/Lisbon
       - 
@@ -1381,13 +1431,16 @@ regions:
           - Cascaes
           - Cascais
           - Kashkajsh
+          - Kaskais
         ascii_name: Cascais
         geonamesid: 2269594
         latitude: 38.6979
         longitude: -9.42146
         name: Cascais
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cascais
+        names_es: 
+          - Cascais
         population: 36436
         timezone: Europe/Lisbon
       - 
@@ -1443,6 +1496,7 @@ regions:
           - Camarate
           - Camrate
           - Kamarate
+          - Камарате
         ascii_name: Camarate
         geonamesid: 2270377
         latitude: 38.80358
@@ -1567,8 +1621,10 @@ regions:
         latitude: 38.75382
         longitude: -9.23083
         name: Amadora
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Amadora
+        names_es: 
+          - Amadora
         population: 178858
         timezone: Europe/Lisbon
       - 
@@ -1636,6 +1692,7 @@ regions:
           - Alcabideche
           - Alkabideshe
           - Aloabideche
+          - Aloabidèche
         ascii_name: Alcabideche
         geonamesid: 2272215
         latitude: 38.73366
@@ -1660,8 +1717,10 @@ regions:
         timezone: Europe/Lisbon
     geonamesid: 2267056
     name: Lisbon
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Lisbon
+    names_es: 
+      - Lisboa
   - 
     ascii_name: "Distrito de Leiria"
     cities: 
@@ -1707,6 +1766,7 @@ regions:
           - "Santa Catarina"
           - "Santa Catarina da Serra"
           - "Santa Catharina"
+          - "Santa Catharina da Serra"
         ascii_name: "Santa Catarina da Serra"
         geonamesid: 2263547
         latitude: 39.66667
@@ -1750,8 +1810,10 @@ regions:
         latitude: 39.3558
         longitude: -9.38112
         name: Peniche
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Peniche
+        names_es: 
+          - Peniche
         population: 15662
         timezone: Europe/Lisbon
       - 
@@ -1770,6 +1832,7 @@ regions:
           - Obidos
           - Obidush
           - Óbidos
+          - Обидуш
         ascii_name: Obidos
         geonamesid: 2265485
         latitude: 39.36055
@@ -1789,8 +1852,10 @@ regions:
         latitude: 39.6
         longitude: -9.06667
         name: Nazaré
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Nazaré
+        names_es: 
+          - Nazaré
         population: 8993
         timezone: Europe/Lisbon
       - 
@@ -1843,13 +1908,16 @@ regions:
           - Leiria
           - Lejrija
           - "Vieira de Leiria"
+          - lyyryh
         ascii_name: Leiria
         geonamesid: 2267095
         latitude: 39.74362
         longitude: -8.80705
         name: Leiria
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Leiria
+        names_es: 
+          - Leiria
         population: 45112
         timezone: Europe/Lisbon
       - 
@@ -1899,8 +1967,10 @@ regions:
         latitude: 39.26723
         longitude: -9.15795
         name: Bombarral
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Bombarral
+        names_es: 
+          - Bombarral
         population: 5852
         timezone: Europe/Lisbon
       - 
@@ -1926,8 +1996,10 @@ regions:
         latitude: 39.65
         longitude: -8.83333
         name: Batalha
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Batalha
+        names_es: 
+          - Batalha
         population: 7910
         timezone: Europe/Lisbon
       - 
@@ -1981,7 +2053,8 @@ regions:
     geonamesid: 2267094
     name: Leiria
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Leiria
   - 
     ascii_name: "Distrito de Faro"
     cities: 
@@ -1990,13 +2063,16 @@ regions:
           - "Bila Real nte Santo Antonio"
           - "Vila Real de San Antonio"
           - "Vila Real de San António"
+          - "Vila Real de Santo Antonio"
         ascii_name: "Vila Real de Santo Antonio"
         geonamesid: 2261598
         latitude: 37.2
         longitude: -7.41667
         name: "Vila Real de Santo António"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Vila Real de Santo António"
+        names_es: 
+          - "Vila Real de Santo António"
         population: 11560
         timezone: Europe/Lisbon
       - 
@@ -2004,13 +2080,16 @@ regions:
           - Tabira
           - Tavira
           - Ταβίρα
+          - Тавира
         ascii_name: Tavira
         geonamesid: 2262744
         latitude: 37.11667
         longitude: -7.65
         name: Tavira
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tavira
+        names_es: 
+          - Tavira
         population: 13871
         timezone: Europe/Lisbon
       - 
@@ -2021,8 +2100,10 @@ regions:
         latitude: 37.18333
         longitude: -8.43333
         name: Silves
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Silves
+        names_es: 
+          - Silves
         population: 10917
         timezone: Europe/Lisbon
       - 
@@ -2030,6 +2111,7 @@ regions:
           - Alportel
           - "Sao Bras de Alportel"
           - "Sao Braz"
+          - "Sao Braz d'Alportel"
         ascii_name: "Sao Bras de Alportel"
         geonamesid: 2263377
         latitude: 37.15
@@ -2044,6 +2126,7 @@ regions:
           - Messines
           - "Sao Bartolomeo de Messines"
           - "Sao Bartolomeu de Messines"
+          - "São Bartolomeo de Messines"
         ascii_name: "Sao Bartolomeu de Messines"
         geonamesid: 2263393
         latitude: 37.25
@@ -2074,7 +2157,8 @@ regions:
         latitude: 37.0
         longitude: -8.93333
         name: Sagres
-        names_en: ~
+        names_en: 
+          - Sagres
         names_es: ~
         population: 1939
         timezone: Europe/Lisbon
@@ -2095,6 +2179,7 @@ regions:
           - Portimao
           - "Vila Nova de Portimao"
           - "Vila Nova de Portimão"
+          - Портимао
         ascii_name: Portimao
         geonamesid: 2264456
         latitude: 37.13856
@@ -2167,6 +2252,7 @@ regions:
           - Lola
           - Loule
           - Loulé
+          - Лола
         ascii_name: Loule
         geonamesid: 2266988
         latitude: 37.13333
@@ -2353,8 +2439,10 @@ regions:
         latitude: 37.08819
         longitude: -8.2503
         name: Albufeira
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Albufeira
+        names_es: 
+          - Albufeira
         population: 15851
         timezone: Europe/Lisbon
       - 
@@ -2373,7 +2461,8 @@ regions:
     geonamesid: 2268337
     name: Faro
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Faro
   - 
     ascii_name: "Distrito de Evora"
     cities: 
@@ -2440,12 +2529,14 @@ regions:
           - Ebora
           - Ehvora
           - Evora
+          - Ébora
         ascii_name: Evora
         geonamesid: 2268406
         latitude: 38.56667
         longitude: -7.9
         name: Évora
-        names_en: ~
+        names_en: 
+          - Evora
         names_es: ~
         population: 55620
         timezone: Europe/Lisbon
@@ -2478,7 +2569,8 @@ regions:
     geonamesid: 2268404
     name: Évora
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Évora
   - 
     ascii_name: "Distrito de Castelo Branco"
     cities: 
@@ -2551,19 +2643,22 @@ regions:
           - Covilha
           - Covilhã
           - Kovil'jan
+          - Ковильян
         ascii_name: Covilha
         geonamesid: 2740313
         latitude: 40.28333
         longitude: -7.5
         name: Covilhã
-        names_en: ~
+        names_en: 
+          - Covilha
         names_es: ~
         population: 17610
         timezone: Europe/Lisbon
     geonamesid: 2269513
     name: "Castelo Branco"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Castelo Branco"
   - 
     ascii_name: "Distrito de Beja"
     cities: 
@@ -2597,6 +2692,7 @@ regions:
           - "San Teotonio"
           - "San Teotónio"
           - "Sao Teotonio"
+          - "Sao Theotonio"
         ascii_name: "Sao Teotonio"
         geonamesid: 2263207
         latitude: 37.5
@@ -2678,7 +2774,8 @@ regions:
     geonamesid: 2270984
     name: Beja
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Beja
   - 
     ascii_name: "Regiao Autonoma da Madeira"
     cities: 
@@ -2687,6 +2784,7 @@ regions:
           - "Porta Santa"
           - "Porto Santo"
           - "Pôrta Santa"
+          - "Vila de Porto Santo"
         ascii_name: "Vila de Porto Santo"
         geonamesid: 2261651
         latitude: 33.05
@@ -2701,6 +2799,7 @@ regions:
           - San-Visente
           - "Sao Vicente"
           - "São Vicente"
+          - Сан-Висенте
         ascii_name: "Sao Vicente"
         geonamesid: 2263197
         latitude: 32.79673
@@ -2733,8 +2832,10 @@ regions:
         latitude: 32.68333
         longitude: -16.8
         name: "Santa Cruz"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Santa Cruz"
+        names_es: 
+          - "Santa Cruz"
         population: 6010
         timezone: Atlantic/Madeira
       - 
@@ -2747,7 +2848,8 @@ regions:
         latitude: 32.65
         longitude: -17.06667
         name: "Ribeira Brava"
-        names_en: ~
+        names_en: 
+          - "Ribeira Brava"
         names_es: ~
         population: 5932
         timezone: Atlantic/Madeira
@@ -2756,13 +2858,16 @@ regions:
           - "Porto Moniz"
           - "Porto do Moniz"
           - Portu-Monish
+          - "Pôrto do Moniz"
         ascii_name: "Porto Moniz"
         geonamesid: 2264412
         latitude: 32.85
         longitude: -17.16667
         name: "Porto Moniz"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Porto Moniz"
+        names_es: 
+          - "Porto Moniz"
         population: 2762
         timezone: Atlantic/Madeira
       - 
@@ -2775,8 +2880,10 @@ regions:
         latitude: 32.66667
         longitude: -17.1
         name: "Ponta do Sol"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Ponta do Sol"
+        names_es: 
+          - "Ponta do Sol"
         population: 4235
         timezone: Atlantic/Madeira
       - 
@@ -2801,8 +2908,10 @@ regions:
         latitude: 32.7
         longitude: -16.76667
         name: Machico
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Machico
+        names_es: 
+          - Machico
         population: 12567
         timezone: Atlantic/Madeira
       - 
@@ -2810,13 +2919,16 @@ regions:
           - Funchal
           - Funshal
           - Phountsal
+          - funsharu
         ascii_name: Funchal
         geonamesid: 2267827
         latitude: 32.63333
         longitude: -16.9
         name: Funchal
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Funchal
+        names_es: 
+          - Funchal
         population: 100847
         timezone: Atlantic/Madeira
       - 
@@ -2824,6 +2936,7 @@ regions:
           - "Faia da Ovelha"
           - "Faja da Ovelha"
           - "Fajã da Ovelha"
+          - Fazhan-da-Ovel'ja
         ascii_name: "Faja da Ovelha"
         geonamesid: 2268382
         latitude: 32.77457
@@ -2878,6 +2991,7 @@ regions:
           - Canical
           - Caniçal
           - Kanisal
+          - Канисал
         ascii_name: Canical
         geonamesid: 2270266
         latitude: 32.73834
@@ -2905,13 +3019,16 @@ regions:
           - "Camara de Lobos"
           - "Câmara de Lobos"
           - "Kamara nte Lompos"
+          - Kamara-de-Lobos
         ascii_name: "Camara de Lobos"
         geonamesid: 2270380
         latitude: 32.63333
         longitude: -16.96667
         name: "Câmara de Lobos"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Câmara de Lobos"
+        names_es: 
+          - "Câmara de Lobos"
         population: 32209
         timezone: Atlantic/Madeira
       - 
@@ -2949,8 +3066,10 @@ regions:
         latitude: 32.71667
         longitude: -17.18333
         name: Calheta
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Calheta
+        names_es: 
+          - Calheta
         population: 1618
         timezone: Atlantic/Madeira
       - 
@@ -2970,7 +3089,8 @@ regions:
     geonamesid: 2593105
     name: Madeira
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Madeira
   - 
     ascii_name: "Distrito de Viseu"
     cities: 
@@ -2979,6 +3099,7 @@ regions:
           - Viseu
           - Vizeu
           - "Vizeu Celorico"
+          - Визеу
         ascii_name: Viseu
         geonamesid: 2732265
         latitude: 40.65
@@ -3006,6 +3127,7 @@ regions:
           - Satam
           - Satao
           - Sátão
+          - "Vila da Igreja"
         ascii_name: Satao
         geonamesid: 2734246
         latitude: 40.73333
@@ -3123,7 +3245,8 @@ regions:
     geonamesid: 2732264
     name: Viseu
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Viseu
   - 
     ascii_name: "Distrito de Vila Real"
     cities: 
@@ -3143,13 +3266,16 @@ regions:
           - "Bila Real"
           - "Vila Real"
           - Vila-Real
+          - "Βίλα Ρεάλ"
         ascii_name: "Vila Real"
         geonamesid: 2732438
         latitude: 41.3
         longitude: -7.75
         name: "Vila Real"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Vila Real"
+        names_es: 
+          - "Vila Real"
         population: 17001
         timezone: Europe/Lisbon
       - 
@@ -3182,6 +3308,7 @@ regions:
           - "Peso da Regua"
           - "Peso da Régua"
           - Regoa
+          - Regua
         ascii_name: "Peso da Regua"
         geonamesid: 2736316
         latitude: 41.16667
@@ -3217,7 +3344,8 @@ regions:
     geonamesid: 2732437
     name: "Vila Real"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Vila Real"
   - 
     ascii_name: "Distrito de Viana do Castelo"
     cities: 
@@ -3226,6 +3354,7 @@ regions:
           - Ancora
           - "Praia de Ancora"
           - "Praia de Âncora"
+          - "Vila Praia de Ancora"
         ascii_name: "Vila Praia de Ancora"
         geonamesid: 2732516
         latitude: 41.81667
@@ -3278,13 +3407,16 @@ regions:
           - Moncao
           - Monsao
           - Monsão
+          - Monção
         ascii_name: Moncao
         geonamesid: 2737523
         latitude: 42.07892
         longitude: -8.48076
         name: Monção
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Monção
+        names_es: 
+          - Monção
         population: 19738
         timezone: Europe/Lisbon
       - 
@@ -3333,7 +3465,8 @@ regions:
         latitude: 42.02418
         longitude: -8.63474
         name: Valenza
-        names_en: ~
+        names_en: 
+          - Valenza
         names_es: ~
         population: 14172
         timezone: Europe/Lisbon
@@ -3351,7 +3484,8 @@ regions:
     geonamesid: 2732772
     name: "Viana do Castelo"
     names_en: ~
-    names_es: ~
+    names_es: 
+      - "Viana do Castelo"
   - 
     ascii_name: "Distrito do Porto"
     cities: 
@@ -3360,6 +3494,7 @@ regions:
           - "Sao Jorge"
           - "São Jorge"
           - Vizela
+          - Визела
         ascii_name: Vizela
         geonamesid: 2732241
         latitude: 41.38333
@@ -3397,6 +3532,7 @@ regions:
           - Andorinho
           - "Vilar de Andorinha"
           - "Vilar de Andorinho"
+          - "Villar d'Andorinha"
         ascii_name: "Vilar de Andorinho"
         geonamesid: 2732475
         latitude: 41.1
@@ -3411,13 +3547,16 @@ regions:
           - "Bila Noba nte Nkaia"
           - Gaia
           - "Portus Cale"
+          - "Vila Nova de Gaia"
         ascii_name: "Vila Nova de Gaia"
         geonamesid: 2732544
         latitude: 41.13333
         longitude: -8.61667
         name: "Vila Nova de Gaia"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Vila Nova de Gaia"
+        names_es: 
+          - "Vila Nova de Gaia"
         population: 70811
         timezone: Europe/Lisbon
       - 
@@ -3436,13 +3575,16 @@ regions:
           - "Bila nto Konte"
           - "Vila do Conde"
           - Vila-du-Konde
+          - "Βίλα ντο Κόντε"
         ascii_name: "Vila do Conde"
         geonamesid: 2732649
         latitude: 41.35
         longitude: -8.75
         name: "Vila do Conde"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Vila do Conde"
+        names_es: 
+          - "Vila do Conde"
         population: 27642
         timezone: Europe/Lisbon
       - 
@@ -3450,13 +3592,16 @@ regions:
           - Valonga
           - Valongo
           - Valongu
+          - Валонгу
         ascii_name: Valongo
         geonamesid: 2732978
         latitude: 41.18333
         longitude: -8.5
         name: Valongo
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Valongo
+        names_es: 
+          - Valongo
         population: 21328
         timezone: Europe/Lisbon
       - 
@@ -3566,6 +3711,7 @@ regions:
           - San-Mamed-de-Infeshta
           - "Santo Mamede de Infesta"
           - "Sao Mamede"
+          - "Sao Mamede da Infesta"
         ascii_name: "Sao Mamede de Infesta"
         geonamesid: 2734434
         latitude: 41.2
@@ -3664,13 +3810,16 @@ regions:
           - "Poboa nte Barzim"
           - "Povoa de Varzim"
           - "Póvoa de Varzim"
+          - "Villa Euracini"
         ascii_name: "Povoa de Varzim"
         geonamesid: 2735787
         latitude: 41.38333
         longitude: -8.76667
         name: "Póvoa de Varzim"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Póvoa de Varzim"
+        names_es: 
+          - "Póvoa de Varzim"
         population: 29044
         timezone: Europe/Lisbon
       - 
@@ -3678,13 +3827,16 @@ regions:
           - Oporto
           - Porto
           - Portu
+          - "Portus Cale"
         ascii_name: Porto
         geonamesid: 2735943
         latitude: 41.15
         longitude: -8.61667
         name: Porto
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Porto
+        names_es: 
+          - Oporto
         population: 249633
         timezone: Europe/Lisbon
       - 
@@ -3721,8 +3873,10 @@ regions:
         latitude: 41.2
         longitude: -8.28333
         name: Penafiel
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Penafiel
+        names_es: 
+          - Penafiel
         population: 8065
         timezone: Europe/Lisbon
       - 
@@ -3754,13 +3908,16 @@ regions:
           - "Pacos de Ferreira"
           - "Pasos nte Phereira"
           - "Paços de Ferreira"
+          - "Πάσος ντε Φερέϊρα"
         ascii_name: "Pacos de Ferreira"
         geonamesid: 2736883
         latitude: 41.26667
         longitude: -8.4
         name: "Paços de Ferreira"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Paços de Ferreira"
+        names_es: 
+          - "Paços de Ferreira"
         population: 6782
         timezone: Europe/Lisbon
       - 
@@ -3919,6 +4076,7 @@ regions:
           - "Leca do Bailio"
           - "Leca do Balio"
           - "Leca do Belio"
+          - "Leça do Bailio"
         ascii_name: "Leca do Bailio"
         geonamesid: 2738347
         latitude: 41.2
@@ -3933,6 +4091,7 @@ regions:
           - Leca
           - "Leca da Palmeira"
           - "Leca de Palmeira"
+          - Leça
         ascii_name: "Leca da Palmeira"
         geonamesid: 2738348
         latitude: 41.2
@@ -4334,6 +4493,7 @@ regions:
           - Agucadeira
           - Agucadoira
           - Agucadoura
+          - Aguçadeira
         ascii_name: Agucadoura
         geonamesid: 2743298
         latitude: 41.43333
@@ -4357,7 +4517,8 @@ regions:
     geonamesid: 2735941
     name: Porto
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Oporto
   - 
     ascii_name: "Distrito da Guarda"
     cities: 
@@ -4405,7 +4566,8 @@ regions:
         latitude: 40.4
         longitude: -7.53333
         name: Manteigas
-        names_en: ~
+        names_en: 
+          - Manteigas
         names_es: ~
         population: 3900
         timezone: Europe/Lisbon
@@ -4414,13 +4576,16 @@ regions:
           - Guarda
           - guaruda
           - Гуарда
+          - グアルダ
         ascii_name: Guarda
         geonamesid: 2738785
         latitude: 40.53333
         longitude: -7.26667
         name: Guarda
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Guarda
+        names_es: 
+          - Guarda
         population: 0
         timezone: Europe/Lisbon
       - 
@@ -4437,7 +4602,8 @@ regions:
     geonamesid: 2738782
     name: Guarda
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Guarda
   - 
     ascii_name: "Distrito de Coimbra"
     cities: 
@@ -4461,7 +4627,8 @@ regions:
         latitude: 40.05
         longitude: -8.63333
         name: Soure
-        names_en: ~
+        names_en: 
+          - Soure
         names_es: ~
         population: 8416
         timezone: Europe/Lisbon
@@ -4486,8 +4653,10 @@ regions:
         latitude: 40.35
         longitude: -7.86667
         name: "Oliveira do Hospital"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Oliveira do Hospital"
+        names_es: 
+          - "Oliveira do Hospital"
         population: 4704
         timezone: Europe/Lisbon
       - 
@@ -4500,8 +4669,10 @@ regions:
         latitude: 40.1
         longitude: -8.33333
         name: "Miranda do Corvo"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Miranda do Corvo"
+        names_es: 
+          - "Miranda do Corvo"
         population: 7857
         timezone: Europe/Lisbon
       - 
@@ -4522,13 +4693,16 @@ regions:
           - Lousa
           - Lousã
           - Louza
+          - Louzã
         ascii_name: Lousa
         geonamesid: 2738154
         latitude: 40.11673
         longitude: -8.24921
         name: Lousã
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Lousã
+        names_es: 
+          - Lousã
         population: 11445
         timezone: Europe/Lisbon
       - 
@@ -4558,13 +4732,16 @@ regions:
           - Figejra-da-Fosh
           - "Figueira da Foz"
           - "Phinkeira nta Phous"
+          - "Φιγκέιρα ντα Φους"
         ascii_name: "Figueira da Foz"
         geonamesid: 2739590
         latitude: 40.15
         longitude: -8.86667
         name: "Figueira da Foz"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Figueira da Foz"
+        names_es: 
+          - "Figueira da Foz"
         population: 12050
         timezone: Europe/Lisbon
       - 
@@ -4577,8 +4754,10 @@ regions:
         latitude: 40.11667
         longitude: -8.5
         name: "Condeixa a Nova"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Condeixa-a-Nova
+        names_es: 
+          - Condeixa-a-Nova
         population: 4613
         timezone: Europe/Lisbon
       - 
@@ -4586,13 +4765,16 @@ regions:
           - Coimbra
           - Coímbra
           - Coïmbra
+          - Koimbra
         ascii_name: Coimbra
         geonamesid: 2740637
         latitude: 40.2
         longitude: -8.41667
         name: Coimbra
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Coimbra
+        names_es: 
+          - Coímbra
         population: 106582
         timezone: Europe/Lisbon
       - 
@@ -4658,7 +4840,8 @@ regions:
     geonamesid: 2740636
     name: Coimbra
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Coimbra
   - 
     ascii_name: Braganca
     cities: 
@@ -4704,6 +4887,7 @@ regions:
           - Braganca
           - Bragance
           - Bragança
+          - Браганца
         ascii_name: Braganca
         geonamesid: 2742027
         latitude: 41.81667
@@ -4715,8 +4899,10 @@ regions:
         timezone: Europe/Lisbon
     geonamesid: 2742026
     name: Bragança
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Bragança
+    names_es: 
+      - Braganza
   - 
     ascii_name: "Distrito de Braga"
     cities: 
@@ -4737,6 +4923,7 @@ regions:
           - Famalicao
           - Famalicão
           - "Vila Nova de Famalicao"
+          - "Vila Nova de Famalicão"
         ascii_name: "Vila Nova de Famalicao"
         geonamesid: 2732547
         latitude: 41.41667
@@ -4751,6 +4938,7 @@ regions:
           - "Sao Martinho"
           - "Sao Martinho Vila Frescainha"
           - "São Martinho"
+          - "São Martinho Vila Frescainha"
         ascii_name: "Vila Frescainha"
         geonamesid: 2732626
         latitude: 41.53333
@@ -4961,13 +5149,16 @@ regions:
           - Gimarajnsh
           - Guimaraes
           - Guimarais
+          - Guimarães
         ascii_name: Guimaraes
         geonamesid: 2738752
         latitude: 41.45
         longitude: -8.3
         name: Guimarães
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Guimarães
+        names_es: 
+          - Guimarães
         population: 40604
         timezone: Europe/Lisbon
       - 
@@ -5023,6 +5214,7 @@ regions:
           - Ehshpozende
           - Esposende
           - Espozende
+          - Эшпозенде
         ascii_name: Esposende
         geonamesid: 2739849
         latitude: 41.53333
@@ -5097,13 +5289,16 @@ regions:
           - "Bracara Augusta"
           - Braga
           - Mpranka
+          - braga
         ascii_name: Braga
         geonamesid: 2742032
         latitude: 41.55
         longitude: -8.43333
         name: Braga
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Braga
+        names_es: 
+          - Braga
         population: 121394
         timezone: Europe/Lisbon
       - 
@@ -5123,6 +5318,7 @@ regions:
           - Aroes
           - Arões
           - "Sao Romao"
+          - "São Romão"
         ascii_name: Aroes
         geonamesid: 2742702
         latitude: 41.45
@@ -5170,7 +5366,8 @@ regions:
     geonamesid: 2742031
     name: Braga
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Braga
   - 
     ascii_name: Aveiro
     cities: 
@@ -5280,6 +5477,7 @@ regions:
           - San-Zhuan-da-Madejra
           - "Santo Joao da Madeira"
           - "Santo João da Madeira"
+          - "Sao Joao da Madeiro"
         ascii_name: "Sao Joao da Madeira"
         geonamesid: 2734484
         latitude: 40.90229
@@ -5349,6 +5547,7 @@ regions:
           - Pampilhosa
           - "Pampilhosa do Bobao"
           - "Pampilhosa do Bobão"
+          - "Pampilhosa do Botao"
         ascii_name: "Pampilhosa do Botao"
         geonamesid: 2736792
         latitude: 40.33333
@@ -5413,13 +5612,16 @@ regions:
           - "Oliveira de Azemeis"
           - "Oliveira de Azeméis"
           - Olivejra-de-Azemejsh
+          - Оливейра-де-Аземейш
         ascii_name: "Oliveira de Azemeis"
         geonamesid: 2737046
         latitude: 40.83333
         longitude: -8.48333
         name: "Oliveira de Azemeis"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Oliveira de Azeméis"
+        names_es: 
+          - "Oliveira de Azeméis"
         population: 11771
         timezone: Europe/Lisbon
       - 
@@ -5560,6 +5762,7 @@ regions:
           - Fiaes
           - Fiais
           - Fiães
+          - Fiãis
         ascii_name: Fiaes
         geonamesid: 2739613
         latitude: 40.98333
@@ -5590,8 +5793,10 @@ regions:
         latitude: 41.0
         longitude: -8.65
         name: Espinho
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Espinho
+        names_es: 
+          - Espinho
         population: 9566
         timezone: Europe/Lisbon
       - 
@@ -5622,6 +5827,7 @@ regions:
           - "Couto de Cocujaes"
           - "Couto de Cocujães"
           - Cucujaes
+          - Cucujães
         ascii_name: Cucujaes
         geonamesid: 2740221
         latitude: 40.86667
@@ -5669,13 +5875,16 @@ regions:
           - Abeiro
           - Aveiro
           - Avejru
+          - Αβέιρο
         ascii_name: Aveiro
         geonamesid: 2742611
         latitude: 40.63333
         longitude: -8.65
         name: Aveiro
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Aveiro
+        names_es: 
+          - Aveiro
         population: 54162
         timezone: Europe/Lisbon
       - 
@@ -5774,8 +5983,10 @@ regions:
         timezone: Europe/Lisbon
     geonamesid: 2742610
     name: Aveiro
-    names_en: ~
-    names_es: ~
+    names_en: 
+      - Aveiro
+    names_es: 
+      - Aveiro
   - 
     ascii_name: "Regiao Autonoma dos Acores"
     cities: 
@@ -5797,6 +6008,7 @@ regions:
           - "San Roque"
           - San-Roke-du-Piku
           - "Sao Roque"
+          - "Sao Roque do Pico"
         ascii_name: "Sao Roque do Pico"
         geonamesid: 3372589
         latitude: 38.51667
@@ -5811,6 +6023,7 @@ regions:
           - "Rosto de Cao"
           - "Rosto de Cão"
           - "Rosto do Cao"
+          - "Rosto do Cão"
         ascii_name: "Rosto de Cao"
         geonamesid: 3372677
         latitude: 37.75
@@ -5849,6 +6062,7 @@ regions:
           - Praia
           - "Praia da Victoria"
           - "Praia da Vitoria"
+          - "Praia da Vitória"
         ascii_name: "Praia da Vitoria"
         geonamesid: 3372760
         latitude: 38.73333
@@ -5935,6 +6149,7 @@ regions:
           - Biscoitos
           - Biscoutos
           - Bishkojtush
+          - "Sao Pedro Biscoutos"
         ascii_name: Biscoitos
         geonamesid: 3373300
         latitude: 38.78333
@@ -5962,16 +6177,20 @@ regions:
           - Angra
           - "Angra do Heroismo"
           - "Angra do Heroísmo"
+          - "Ankra nto Eroismo"
         ascii_name: "Angra do Heroismo"
         geonamesid: 3373348
         latitude: 38.65
         longitude: -27.21667
         name: "Angra do Heroísmo"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Angra do Heroísmo"
+        names_es: 
+          - "Angra do Heroísmo"
         population: 12045
         timezone: Atlantic/Azores
     geonamesid: 3411865
     name: Azores
     names_en: ~
-    names_es: ~
+    names_es: 
+      - Azores

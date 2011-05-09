@@ -2,8 +2,12 @@
 geonamesid: 3608932
 iso: HN
 name: Honduras
-names_en: ~
-names_es: ~
+names_en: 
+  - Honduras
+  - "Republic of Honduras"
+names_es: 
+  - Honduras
+  - "República de Honduras"
 regions: 
   - 
     ascii_name: "Departamento de Yoro"
@@ -211,6 +215,7 @@ regions:
           - "Nombre Jesus"
           - "Nombre Jesús"
           - "Nombre de Jesus"
+          - "Nombre de Jesús"
         ascii_name: "Nombre de Jesus"
         geonamesid: 3604414
         latitude: 15.35
@@ -225,6 +230,7 @@ regions:
           - "Fransisko Morasan"
           - Morazan
           - Morazon
+          - Morazán
         ascii_name: Morazan
         geonamesid: 3604584
         latitude: 15.31667
@@ -373,6 +379,7 @@ regions:
           - Ehl'-Progreso
           - "El Progreso"
           - "El Progress"
+          - Progreso
         ascii_name: "El Progreso"
         geonamesid: 3610613
         latitude: 15.4
@@ -424,6 +431,7 @@ regions:
           - Balsamo
           - Bálsamo
           - "El Balsamo"
+          - "El Bálsamo"
         ascii_name: "El Balsamo"
         geonamesid: 3612640
         latitude: 15.06667
@@ -820,6 +828,7 @@ regions:
           - "San Jose Colinas"
           - "San Jose de Colinas"
           - "San José Colinas"
+          - "San José de Colinas"
         ascii_name: "San Jose de Colinas"
         geonamesid: 3602097
         latitude: 15.03333
@@ -964,6 +973,7 @@ regions:
           - Goconal
           - Jaconal
           - Joconal
+          - Joconales
         ascii_name: Joconal
         geonamesid: 3608631
         latitude: 15.35444
@@ -1081,6 +1091,7 @@ regions:
           - Concepcion
           - "Concepcion Sur"
           - "Concepcion del Sur"
+          - "Concepción Sur"
         ascii_name: "Concepcion del Sur"
         geonamesid: 3613281
         latitude: 14.8
@@ -1238,6 +1249,7 @@ regions:
           - "El Real"
           - "Santa Maria de El Real"
           - "Santa Maria del Real"
+          - "Santa María de El Real"
         ascii_name: "Santa Maria del Real"
         geonamesid: 3601543
         latitude: 14.76667
@@ -1263,6 +1275,7 @@ regions:
           - "Rio Tinto"
           - "Río Tinto"
           - "San Jose"
+          - "San Jose de Rio Tinto"
         ascii_name: "San Jose de Rio Tinto"
         geonamesid: 3602066
         latitude: 14.93333
@@ -1485,6 +1498,7 @@ regions:
           - Culmi
           - Culmí
           - "Ducle Nombre"
+          - "Dulce Nombre"
         ascii_name: "Dulce Nombre de Culmi"
         geonamesid: 3612810
         latitude: 15.1
@@ -1671,6 +1685,7 @@ regions:
           - "La Encarnacion"
           - "La Encarnación"
           - "La Ercarnacion"
+          - "La Ercarnación"
         ascii_name: "La Encarnacion"
         geonamesid: 3607992
         latitude: 14.66667
@@ -1696,6 +1711,7 @@ regions:
           - Belen
           - "Belen Gualcho"
           - "Belén Gualcho"
+          - Gualcho
         ascii_name: "Belen Gualcho"
         geonamesid: 3614797
         latitude: 14.48333
@@ -2012,6 +2028,7 @@ regions:
           - "Coxen Hole"
           - "Coxin Hole"
           - Roatan
+          - Roatán
         ascii_name: Roatan
         geonamesid: 3602736
         latitude: 16.32437
@@ -2218,6 +2235,7 @@ regions:
           - "Barra Patuca"
           - "Barra del Patuca"
           - Butucamaya
+          - Butukamaya
         ascii_name: "Barra Patuca"
         geonamesid: 3614835
         latitude: 15.8
@@ -2245,6 +2263,7 @@ regions:
           - Ahuas
           - Ahuás
           - Auas
+          - Awas
         ascii_name: Auas
         geonamesid: 3615022
         latitude: 15.48333
@@ -2336,13 +2355,16 @@ regions:
           - Tegucigalpa
           - Tegucigalpo
           - Tegucigucigalpa
+          - Tegusigal'pa
         ascii_name: Tegucigalpa
         geonamesid: 3600949
         latitude: 14.0818
         longitude: -87.20681
         name: Tegucigalpa
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Tegucigalpa
+        names_es: 
+          - Tegucigalpa
         population: 850848
         timezone: America/Tegucigalpa
       - 
@@ -2394,6 +2416,7 @@ regions:
           - Cantaranas
           - Cantarranas
           - "San Juan Flores"
+          - "San Juan de Flores"
         ascii_name: "San Juan de Flores"
         geonamesid: 3601999
         latitude: 14.26667
@@ -2675,6 +2698,7 @@ regions:
           - "El Escano"
           - "El Escano de Tepale"
           - "El Escaño de Tepale"
+          - "Escano de Tepale"
         ascii_name: "El Escano de Tepale"
         geonamesid: 3611842
         latitude: 14.75
@@ -3057,6 +3081,7 @@ regions:
           - "Port Cortez"
           - Puehrto-Kortes
           - "Puerto Caballo"
+          - "Puerto Cortez"
         ascii_name: "Puerto Cortez"
         geonamesid: 3600026
         latitude: 15.83333
@@ -3120,8 +3145,10 @@ regions:
         latitude: 15.5
         longitude: -88.03333
         name: "San Pedro Sula"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "San Pedro Sula"
+        names_es: 
+          - "San Pedro Sula"
         population: 489466
         timezone: America/Tegucigalpa
       - 
@@ -3142,6 +3169,7 @@ regions:
           - Boqueron
           - Boquerón
           - "San Jose del Boqueron"
+          - "San José del Boquerón"
         ascii_name: "San Jose del Boqueron"
         geonamesid: 3602077
         latitude: 15.48333
@@ -3305,6 +3333,7 @@ regions:
           - "Las Urupas"
           - Oropendolas
           - Oropendolo
+          - Oropéndolas
         ascii_name: Oropendolas
         geonamesid: 3604184
         latitude: 15.01667
@@ -3345,6 +3374,7 @@ regions:
           - Monte-Rey
           - "Monterey del Norte"
           - Monterrey
+          - "Monterrey Sur"
         ascii_name: Monterrey
         geonamesid: 3604614
         latitude: 15.58333
@@ -3394,6 +3424,7 @@ regions:
           - "La Lima"
           - La-Lima
           - "Lima Vieja"
+          - Ла-Лима
         ascii_name: "La Lima"
         geonamesid: 3607511
         latitude: 15.43333
@@ -3538,6 +3569,7 @@ regions:
           - "El Maranon"
           - "El Marañón"
           - Maranon
+          - Marañón
         ascii_name: "El Maranon"
         geonamesid: 3611319
         latitude: 15.4
@@ -3631,6 +3663,7 @@ regions:
           - Canaveral
           - Canaverales
           - Cañaveral
+          - Cañaverales
         ascii_name: Canaveral
         geonamesid: 3614249
         latitude: 14.98333
@@ -3735,6 +3768,7 @@ regions:
           - "La Trinidad"
           - Trinidad
           - "Trinidad de Copan"
+          - "Trinidad de Copán"
         ascii_name: "Trinidad de Copan"
         geonamesid: 3600605
         latitude: 14.95
@@ -3749,6 +3783,7 @@ regions:
           - "Santa Rosa"
           - "Santa Rosa Copan"
           - "Santa Rosa Copán"
+          - "Santa Rosa de Copan"
         ascii_name: "Santa Rosa de Copan"
         geonamesid: 3601494
         latitude: 14.76667
@@ -3788,6 +3823,7 @@ regions:
           - Planes
           - "Planes de San Juan"
           - "San Juan Planes"
+          - "San Juan de Planes"
         ascii_name: "San Juan de Planes"
         geonamesid: 3601992
         latitude: 14.93333
@@ -3815,6 +3851,7 @@ regions:
           - "San Jose"
           - "San Jose de Copan"
           - "San José"
+          - "San José de Copán"
         ascii_name: "San Jose de Copan"
         geonamesid: 3602092
         latitude: 14.9
@@ -3961,6 +3998,7 @@ regions:
           - "El Ocoton"
           - "El Ocotón"
           - Ocoton
+          - Ocotona
         ascii_name: "El Ocoton"
         geonamesid: 3611069
         latitude: 15.03333
@@ -4033,6 +4071,7 @@ regions:
           - Copan
           - Copán
           - Kopan
+          - Копан
         ascii_name: Copan
         geonamesid: 3613230
         latitude: 14.83333
@@ -4047,6 +4086,7 @@ regions:
           - "Concepcion Barrancas"
           - "Concepcion de la Barranca"
           - "Concepción Barrancas"
+          - "Concepción de la Barranca"
         ascii_name: "Concepcion de la Barranca"
         geonamesid: 3613285
         latitude: 15.16667
@@ -4101,6 +4141,7 @@ regions:
           - "La Villa de San Antonio"
           - "San Antonio"
           - "Villa San Antonio"
+          - "Villa de San Antonio"
         ascii_name: "Villa de San Antonio"
         geonamesid: 3600340
         latitude: 14.31667
@@ -4170,6 +4211,7 @@ regions:
           - "San Jose Potrero"
           - "San Jose del Potrero"
           - "San José Potrero"
+          - "San José del Potrero"
         ascii_name: "San Jose del Potrero"
         geonamesid: 3602070
         latitude: 14.83333
@@ -4184,6 +4226,7 @@ regions:
           - "San Jose Comayagua"
           - "San Jose de Comayagua"
           - "San José Comayagua"
+          - "San José de Comayagua"
         ascii_name: "San Jose de Comayagua"
         geonamesid: 3602094
         latitude: 14.73333
@@ -4198,6 +4241,7 @@ regions:
           - "El Espino"
           - "San Geronimo"
           - "San Jeronimo"
+          - "San Jeronimo el Espino"
         ascii_name: "San Jeronimo"
         geonamesid: 3602190
         latitude: 14.63333
@@ -4432,6 +4476,7 @@ regions:
           - "Concepcion de Guasistagua"
           - "Concepción de Guasistagua"
           - Guasistagua
+          - Guyasistagua
         ascii_name: "Concepcion de Guasistagua"
         geonamesid: 3613286
         latitude: 14.6
@@ -4547,6 +4592,7 @@ regions:
           - Saba
           - Sabá
           - Sava
+          - Savá
         ascii_name: Saba
         geonamesid: 3601403
         latitude: 15.46667
@@ -4561,6 +4607,7 @@ regions:
           - "Santa Rosa Aguan"
           - "Santa Rosa Aguán"
           - "Santa Rosa de Aguan"
+          - "Santa Rosa de Aguán"
         ascii_name: "Santa Rosa de Aguan"
         geonamesid: 3601496
         latitude: 15.95
@@ -4777,6 +4824,7 @@ regions:
           - "San Marco de Colon"
           - "San Marcos"
           - "San Marcos de Colon"
+          - "San Marcos de Colón"
         ascii_name: "San Marcos de Colon"
         geonamesid: 3601888
         latitude: 13.43333
@@ -4874,6 +4922,7 @@ regions:
           - "Las Conchas"
           - "Puerto Las Conchas"
           - "San Jose de Las Conchas"
+          - "San José de Las Conchas"
         ascii_name: "San Jose de Las Conchas"
         geonamesid: 3606901
         latitude: 13.32528
@@ -5037,6 +5086,7 @@ regions:
           - Crique
           - Sambo
           - "Sambo Creeck"
+          - "Sambo Creek"
         ascii_name: "Sambo Creek"
         geonamesid: 3602561
         latitude: 15.81667
@@ -5076,6 +5126,7 @@ regions:
           - "La Union"
           - "La Unión"
           - Union
+          - Unión
         ascii_name: "La Union"
         geonamesid: 3606159
         latitude: 15.71667
@@ -5103,13 +5154,16 @@ regions:
           - Ceiba
           - "La Ceiba"
           - La-Sejba
+          - Ла-Сейба
         ascii_name: "La Ceiba"
         geonamesid: 3608248
         latitude: 15.75971
         longitude: -86.78221
         name: "La Ceiba"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "La Ceiba"
+        names_es: 
+          - "La Ceiba"
         population: 130218
         timezone: America/Tegucigalpa
       - 
@@ -5128,6 +5182,7 @@ regions:
           - "El Triunfo"
           - "El Triunfo de la Cruz"
           - Triunfo
+          - "Triunfo de la Cruz"
         ascii_name: "El Triunfo de la Cruz"
         geonamesid: 3610051
         latitude: 15.76667
@@ -5177,6 +5232,7 @@ regions:
           - "Atenas de San Cristobal"
           - "Atenas de San Cristóbal"
           - "Kilometro 17"
+          - "Kilómetro 17"
         ascii_name: "Atenas de San Cristobal"
         geonamesid: 3615030
         latitude: 15.68333

@@ -2,8 +2,10 @@
 geonamesid: 2077456
 iso: AU
 name: Australia
-names_en: ~
-names_es: ~
+names_en: 
+  - Australia
+names_es: 
+  - Australia
 regions: 
   - 
     ascii_name: "Western Australia"
@@ -254,7 +256,9 @@ regions:
         latitude: -31.98333
         longitude: 115.86667
         name: "South Perth"
-        names_en: ~
+        names_en: 
+          - "Perth South"
+          - "South Perth"
         names_es: ~
         population: 11301
         timezone: Australia/Perth
@@ -380,13 +384,16 @@ regions:
           - Peairt
           - Pert
           - Pertas
+          - Perth
         ascii_name: Perth
         geonamesid: 2063523
         latitude: -31.93333
         longitude: 115.83333
         name: Perth
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Perth
+        names_es: 
+          - Perth
         population: 1446704
         timezone: Australia/Perth
       - 
@@ -474,6 +481,7 @@ regions:
           - "Mount Newman"
           - N'jumen
           - Newman
+          - Ньюмен
         ascii_name: Newman
         geonamesid: 2064768
         latitude: -23.36667
@@ -682,7 +690,8 @@ regions:
         latitude: -32.55
         longitude: 115.7
         name: Mandurah
-        names_en: ~
+        names_en: 
+          - Mandurah
         names_es: ~
         population: 73356
         timezone: Australia/Perth
@@ -719,7 +728,8 @@ regions:
         latitude: -32.25
         longitude: 115.76667
         name: Kwinana
-        names_en: ~
+        names_en: 
+          - Kwinana
         names_es: ~
         population: 20086
         timezone: Australia/Perth
@@ -797,12 +807,14 @@ regions:
           - Kalgoorlie
           - Kalgoorlie-Boulder
           - Kalgurli
+          - Калгурли
         ascii_name: Kalgoorlie
         geonamesid: 2068823
         latitude: -30.75
         longitude: 121.46667
         name: Kalgoorlie
-        names_en: ~
+        names_en: 
+          - Kalgoorlie-Boulder
         names_es: ~
         population: 36852
         timezone: Australia/Perth
@@ -928,7 +940,8 @@ regions:
         latitude: -32.05
         longitude: 115.76667
         name: Fremantle
-        names_en: ~
+        names_en: 
+          - Fremantle
         names_es: ~
         population: 7459
         timezone: Australia/Perth
@@ -1529,7 +1542,9 @@ regions:
         latitude: -20.73765
         longitude: 116.84629
         name: Karratha
-        names_en: ~
+        names_en: 
+          - Karatha
+          - Karratha
         names_es: ~
         population: 11728
         timezone: Australia/Perth
@@ -1601,7 +1616,10 @@ regions:
         timezone: Australia/Perth
     geonamesid: 2058645
     name: "Western Australia"
-    names_en: ~
+    names_en: 
+      - "Western Australia"
+      - "West Coast"
+      - "West Australia"
     names_es: ~
   - 
     ascii_name: "South Australia"
@@ -1767,6 +1785,7 @@ regions:
           - "Tumbi Behj"
           - Tumby
           - "Tumby Bay"
+          - "Тумби Бэй"
         ascii_name: "Tumby Bay"
         geonamesid: 2059837
         latitude: -34.38333
@@ -1816,6 +1835,7 @@ regions:
           - Flinders
           - "Streaky Bay"
           - "Striki Behj"
+          - "Стрики Бэй"
         ascii_name: "Streaky Bay"
         geonamesid: 2060937
         latitude: -32.8
@@ -1979,6 +1999,7 @@ regions:
           - "Port Victoria"
           - "Port Viktorija"
           - Wauraltee
+          - "Порт Виктория"
         ascii_name: "Port Victoria"
         geonamesid: 2063026
         latitude: -34.5
@@ -2054,6 +2075,7 @@ regions:
           - Kurdnatta
           - "Port Augusta"
           - "Port Avgusta"
+          - "Порт Августа"
         ascii_name: "Port Augusta"
         geonamesid: 2063056
         latitude: -32.5
@@ -2179,7 +2201,8 @@ regions:
         latitude: -35.11667
         longitude: 139.26667
         name: "Murray Bridge"
-        names_en: ~
+        names_en: 
+          - "Murray Bridge"
         names_es: ~
         population: 18194
         timezone: Australia/Adelaide
@@ -2200,12 +2223,15 @@ regions:
           - "Maunt Barker"
           - "Mount Barker"
           - "Mt Barker"
+          - "Маунт Баркер"
         ascii_name: "Mount Barker"
         geonamesid: 2065665
         latitude: -35.06667
         longitude: 138.86667
         name: "Mount Barker"
-        names_en: ~
+        names_en: 
+          - "Mt Barker"
+          - "Mount Barker"
         names_es: ~
         population: 8357
         timezone: Australia/Adelaide
@@ -2972,6 +2998,7 @@ regions:
           - Androssan
           - Ardrossan
           - "Port Androssan"
+          - Ардроссан
         ascii_name: Ardrossan
         geonamesid: 2077599
         latitude: -34.43333
@@ -3034,13 +3061,16 @@ regions:
           - Adelaida
           - Adelaidae
           - Adelaide
+          - Adelaidė
         ascii_name: Adelaide
         geonamesid: 2078025
         latitude: -34.93333
         longitude: 138.6
         name: Adelaide
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Adelaide
+        names_es: 
+          - Adelaida
         population: 1074159
         timezone: Australia/Adelaide
       - 
@@ -3146,12 +3176,16 @@ regions:
           - "Gambier Town"
           - "Maunt Gambier"
           - "Mont Gambier"
+          - "Mount Gambier"
         ascii_name: "Mount Gambier"
         geonamesid: 2156643
         latitude: -37.83333
         longitude: 140.76667
         name: "Mount Gambier"
-        names_en: ~
+        names_en: 
+          - "Mt Gambier"
+          - "Mt. Gambier"
+          - "Mount Gambier"
         names_es: ~
         population: 23209
         timezone: Australia/Adelaide
@@ -3321,7 +3355,8 @@ regions:
         timezone: Australia/Adelaide
     geonamesid: 2061327
     name: "South Australia"
-    names_en: ~
+    names_en: 
+      - "South Australia"
     names_es: ~
   - 
     ascii_name: "Northern Territory"
@@ -3369,6 +3404,7 @@ regions:
           - Gove
           - Nhulunbuy
           - Nhulunby
+          - Nullumbuy
         ascii_name: Nhulunbuy
         geonamesid: 2064735
         latitude: -12.23333
@@ -3397,7 +3433,8 @@ regions:
         latitude: -14.46667
         longitude: 132.26667
         name: Katherine
-        names_en: ~
+        names_en: 
+          - Katherine
         names_es: ~
         population: 10141
         timezone: Australia/Darwin
@@ -3406,13 +3443,16 @@ regions:
           - Darvin
           - Darvino
           - Darwin
+          - Palmerston
         ascii_name: Darwin
         geonamesid: 2073124
         latitude: -12.46113
         longitude: 130.84185
         name: Darwin
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Darwin
+        names_es: 
+          - Darwin
         population: 93080
         timezone: Australia/Darwin
       - 
@@ -3420,13 +3460,18 @@ regions:
           - "Alice Springs"
           - "Alice Springs Region"
           - Alis-Springs
+          - Springs
         ascii_name: "Alice Springs"
         geonamesid: 2077895
         latitude: -23.7
         longitude: 133.88333
         name: "Alice Springs"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Alice Springs"
+          - Springs
+          - "Alice Springs Region"
+        names_es: 
+          - "Alice Springs"
         population: 26188
         timezone: Australia/Darwin
       - 
@@ -3510,7 +3555,8 @@ regions:
         timezone: Australia/Darwin
     geonamesid: 2064513
     name: "Northern Territory"
-    names_en: ~
+    names_en: 
+      - "Northern Territory"
     names_es: ~
   - 
     ascii_name: Victoria
@@ -3631,7 +3677,8 @@ regions:
         latitude: -38.31667
         longitude: 144.73333
         name: Sorrento
-        names_en: ~
+        names_en: 
+          - Sorrento
         names_es: ~
         population: 1529
         timezone: Australia/Melbourne
@@ -3683,7 +3730,8 @@ regions:
         latitude: -38.26667
         longitude: 144.65
         name: Queenscliff
-        names_en: ~
+        names_en: 
+          - Queenscliff
         names_es: ~
         population: 1416
         timezone: Australia/Melbourne
@@ -3720,7 +3768,8 @@ regions:
         latitude: -35.06667
         longitude: 142.31667
         name: Ouyen
-        names_en: ~
+        names_en: 
+          - Ouyen
         names_es: ~
         population: 1400
         timezone: Australia/Melbourne
@@ -3767,7 +3816,8 @@ regions:
         latitude: -38.21667
         longitude: 145.03333
         name: Mornington
-        names_en: ~
+        names_en: 
+          - Mornington
         names_es: ~
         population: 20821
         timezone: Australia/Melbourne
@@ -3838,13 +3888,17 @@ regions:
           - Mel'burn
           - Melbourne
           - "Melbourne City"
+          - Melbournum
         ascii_name: Melbourne
         geonamesid: 2158177
         latitude: -37.814
         longitude: 144.96332
         name: Melbourne
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Melbourne
+          - "Melbourne City"
+        names_es: 
+          - Melbourne
         population: 3730206
         timezone: Australia/Melbourne
       - 
@@ -3864,12 +3918,14 @@ regions:
           - Mansfied
           - Mansfield
           - Mansfild
+          - Мансфилд
         ascii_name: Mansfield
         geonamesid: 2158839
         latitude: -37.05
         longitude: 146.08333
         name: Mansfield
-        names_en: ~
+        names_en: 
+          - Mansfield
         names_es: ~
         population: 4052
         timezone: Australia/Melbourne
@@ -3961,12 +4017,14 @@ regions:
           - Gamil'ton
           - Hamilton
           - Hamiltonium
+          - Khamilton
         ascii_name: Hamilton
         geonamesid: 2164025
         latitude: -37.75
         longitude: 142.03333
         name: Hamilton
-        names_en: ~
+        names_en: 
+          - Hamilton
         names_es: ~
         population: 8869
         timezone: Australia/Melbourne
@@ -4003,7 +4061,8 @@ regions:
         latitude: -38.14711
         longitude: 144.36069
         name: Geelong
-        names_en: ~
+        names_en: 
+          - Geelong
         names_es: ~
         population: 160991
         timezone: Australia/Melbourne
@@ -4078,7 +4137,8 @@ regions:
         latitude: -38.45
         longitude: 145.23333
         name: Cowes
-        names_en: ~
+        names_en: 
+          - Cowes
         names_es: ~
         population: 3678
         timezone: Australia/Melbourne
@@ -4155,7 +4215,8 @@ regions:
         latitude: -36.76667
         longitude: 144.28333
         name: Bendigo
-        names_en: ~
+        names_en: 
+          - Bendigo
         names_es: ~
         population: 81657
         timezone: Australia/Melbourne
@@ -4194,7 +4255,8 @@ regions:
         latitude: -37.56667
         longitude: 143.85
         name: Ballarat
-        names_en: ~
+        names_en: 
+          - Ballarat
         names_es: ~
         population: 85109
         timezone: Australia/Melbourne
@@ -4241,12 +4303,14 @@ regions:
           - "Apollo Bay"
           - "Apollo Behj"
           - Kambruk
+          - Krambruck
         ascii_name: "Apollo Bay"
         geonamesid: 2177810
         latitude: -38.75
         longitude: 143.65
         name: "Apollo Bay"
-        names_en: ~
+        names_en: 
+          - "Apollo Bay"
         names_es: ~
         population: 1777
         timezone: Australia/Melbourne
@@ -4255,12 +4319,14 @@ regions:
           - Anglesea
           - "Anglesea River"
           - Ehnglsi
+          - Энглси
         ascii_name: Anglesea
         geonamesid: 2177872
         latitude: -38.41667
         longitude: 144.16667
         name: Anglesea
-        names_en: ~
+        names_en: 
+          - Anglesea
         names_es: ~
         population: 2290
         timezone: Australia/Melbourne
@@ -4295,7 +4361,9 @@ regions:
         latitude: -37.81667
         longitude: 144.9879
         name: "East Melbourne"
-        names_en: ~
+        names_en: 
+          - "Melbourne East"
+          - "East Melbourne"
         names_es: ~
         population: 4330
         timezone: Australia/Melbourne
@@ -4308,7 +4376,9 @@ regions:
         latitude: -37.80289
         longitude: 144.94816
         name: "North Melbourne"
-        names_en: ~
+        names_en: 
+          - "Melbourne North"
+          - "North Melbourne"
         names_es: ~
         population: 9962
         timezone: Australia/Melbourne
@@ -4343,7 +4413,9 @@ regions:
         latitude: -37.81014
         longitude: 144.95
         name: "West Melbourne"
-        names_en: ~
+        names_en: 
+          - "Melbourne West"
+          - "West Melbourne"
         names_es: ~
         population: 3037
         timezone: Australia/Melbourne
@@ -4371,7 +4443,8 @@ regions:
         timezone: Australia/Melbourne
     geonamesid: 2145234
     name: Victoria
-    names_en: ~
+    names_en: 
+      - Victoria
     names_es: ~
   - 
     ascii_name: Tasmania
@@ -4474,7 +4547,8 @@ regions:
         latitude: -41.38333
         longitude: 146.33333
         name: Sheffield
-        names_en: ~
+        names_en: 
+          - Sheffield
         names_es: ~
         population: 1034
         timezone: Australia/Hobart
@@ -4547,7 +4621,8 @@ regions:
         latitude: -42.08333
         longitude: 145.55
         name: Queenstown
-        names_en: ~
+        names_en: 
+          - Queenstown
         names_es: ~
         population: 2352
         timezone: Australia/Hobart
@@ -4687,6 +4762,7 @@ regions:
           - Launceston
           - Launcestown
           - Lonseston
+          - Patersonia
         ascii_name: Launceston
         geonamesid: 2160517
         latitude: -41.45
@@ -4766,7 +4842,8 @@ regions:
         latitude: -43.03333
         longitude: 147.03333
         name: Huonville
-        names_en: ~
+        names_en: 
+          - Huonville
         names_es: ~
         population: 1700
         timezone: Australia/Hobart
@@ -4779,7 +4856,8 @@ regions:
         latitude: -42.87936
         longitude: 147.32941
         name: Hobart
-        names_en: ~
+        names_en: 
+          - Hobart
         names_es: ~
         population: 47700
         timezone: Australia/Hobart
@@ -4810,6 +4888,7 @@ regions:
           - "Dzhordzh Taun"
           - "George Town"
           - Georgetown
+          - "Джордж Таун"
         ascii_name: "George Town"
         geonamesid: 2165718
         latitude: -41.1
@@ -4877,7 +4956,8 @@ regions:
         latitude: -41.53333
         longitude: 146.66667
         name: Deloraine
-        names_en: ~
+        names_en: 
+          - Deloraine
         names_es: ~
         population: 2032
         timezone: Australia/Hobart
@@ -5099,7 +5179,8 @@ regions:
         timezone: Australia/Hobart
     geonamesid: 2147291
     name: Tasmania
-    names_en: ~
+    names_en: 
+      - Tasmania
     names_es: ~
   - 
     ascii_name: Queensland
@@ -5109,13 +5190,18 @@ regions:
           - "Mont Isa"
           - "Mount Isa"
           - "Mt Isa"
+          - "Mt. Isa"
         ascii_name: "Mount Isa"
         geonamesid: 2065594
         latitude: -20.73333
         longitude: 139.5
         name: "Mount Isa"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Mt Isa"
+          - "Mount Isa"
+          - "Mt. Isa"
+        names_es: 
+          - "Mount Isa"
         population: 22549
         timezone: Australia/Brisbane
       - 
@@ -5409,8 +5495,10 @@ regions:
         latitude: -19.25
         longitude: 146.8
         name: Townsville
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Townsville
+        names_es: 
+          - Townsville
         population: 138954
         timezone: Australia/Brisbane
       - 
@@ -5434,7 +5522,8 @@ regions:
         latitude: -27.55
         longitude: 151.96667
         name: Toowoomba
-        names_en: ~
+        names_en: 
+          - Toowoomba
         names_es: ~
         population: 92800
         timezone: Australia/Brisbane
@@ -5555,7 +5644,8 @@ regions:
         latitude: -28.00274
         longitude: 153.42999
         name: "Surfers Paradise"
-        names_en: ~
+        names_en: 
+          - "Surfers Paradise"
         names_es: ~
         population: 18501
         timezone: Australia/Brisbane
@@ -5708,7 +5798,8 @@ regions:
         latitude: -23.38333
         longitude: 150.5
         name: Rockhampton
-        names_en: ~
+        names_en: 
+          - Rockhampton
         names_es: ~
         population: 65850
         timezone: Australia/Brisbane
@@ -5762,6 +5853,7 @@ regions:
           - "Port Douglas"
           - "Port Duglas"
           - Port-Duglas
+          - "Порт Дуглас"
         ascii_name: "Port Douglas"
         geonamesid: 2152681
         latitude: -16.48333
@@ -5780,7 +5872,8 @@ regions:
         latitude: -26.38333
         longitude: 153.15
         name: "Noosa Heads"
-        names_en: ~
+        names_en: 
+          - Noosa
         names_es: ~
         population: 10000
         timezone: Australia/Brisbane
@@ -5826,6 +5919,7 @@ regions:
           - Alexandra-Mooloolaba
           - Mooloolaba
           - Mululaba
+          - Мулулаба
         ascii_name: Mooloolaba
         geonamesid: 2157109
         latitude: -26.68333
@@ -5879,7 +5973,8 @@ regions:
         latitude: -21.15
         longitude: 149.2
         name: Mackay
-        names_en: ~
+        names_en: 
+          - Mackay
         names_es: ~
         population: 75922
         timezone: Australia/Brisbane
@@ -5892,7 +5987,8 @@ regions:
         latitude: -16.81667
         longitude: 145.65
         name: Kuranda
-        names_en: ~
+        names_en: 
+          - Kuranda
         names_es: ~
         population: 1428
         timezone: Australia/Brisbane
@@ -5961,13 +6057,17 @@ regions:
           - "Costa Dorada"
           - Gold
           - "Gold Coast"
+          - "Gold Koust"
         ascii_name: "Gold Coast"
         geonamesid: 2165087
         latitude: -28.0
         longitude: 153.43333
         name: "Gold Coast"
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Gold Coast"
+          - Gold
+        names_es: 
+          - "Costa Dorada"
         population: 527660
         timezone: Australia/Brisbane
       - 
@@ -6070,7 +6170,8 @@ regions:
         latitude: -27.53333
         longitude: 153.26667
         name: Cleveland
-        names_en: ~
+        names_en: 
+          - Cleveland
         names_es: ~
         population: 13776
         timezone: Australia/Brisbane
@@ -6105,13 +6206,16 @@ regions:
           - Cairns
           - Kerns
           - "kai en si"
+          - keanzu
         ascii_name: Cairns
         geonamesid: 2172797
         latitude: -16.91667
         longitude: 145.76667
         name: Cairns
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Cairns
+        names_es: 
+          - Cairns
         population: 154225
         timezone: Australia/Brisbane
       - 
@@ -6168,13 +6272,17 @@ regions:
           - Brisbane
           - "Brisbane City"
           - Brisbano
+          - Brisben
         ascii_name: Brisbane
         geonamesid: 2174003
         latitude: -27.46794
         longitude: 153.02809
         name: Brisbane
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Brisbane
+          - "Brisbane City"
+        names_es: 
+          - Brisbane
         population: 958504
         timezone: Australia/Brisbane
       - 
@@ -6269,7 +6377,9 @@ regions:
         latitude: -16.81667
         longitude: 145.71667
         name: "Yorkeys Knob"
-        names_en: ~
+        names_en: 
+          - "Yorkeys Knob Beach"
+          - "Yorkeys Knob"
         names_es: ~
         population: 2645
         timezone: Australia/Brisbane
@@ -6426,7 +6536,9 @@ regions:
         latitude: -27.63917
         longitude: 153.10944
         name: "Logan City"
-        names_en: ~
+        names_en: 
+          - "Logan City"
+          - Logan
         names_es: ~
         population: 253861
         timezone: Australia/Brisbane
@@ -6476,7 +6588,8 @@ regions:
         timezone: Australia/Brisbane
     geonamesid: 2152274
     name: Queensland
-    names_en: ~
+    names_en: 
+      - Queensland
     names_es: ~
   - 
     ascii_name: "New South Wales"
@@ -6536,12 +6649,14 @@ regions:
           - "Uogga Uogga"
           - Wagga
           - "Wagga Wagga"
+          - "Уогга Уогга"
         ascii_name: "Wagga Wagga"
         geonamesid: 2145110
         latitude: -35.11667
         longitude: 147.36667
         name: "Wagga Wagga"
-        names_en: ~
+        names_en: 
+          - Wagga
         names_es: ~
         population: 55381
         timezone: Australia/Sydney
@@ -6617,13 +6732,19 @@ regions:
           - "Sanctus Dionysius"
           - "Sanctus Dyonisius"
           - Sidnej
+          - Sidneja
         ascii_name: Sydney
         geonamesid: 2147714
         latitude: -33.86785
         longitude: 151.20732
         name: Sydney
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - "Sydney City"
+          - Sydney
+          - Syd
+        names_es: 
+          - Sydney
+          - Sídney
         population: 4394576
         timezone: Australia/Sydney
       - 
@@ -6672,7 +6793,9 @@ regions:
         latitude: -34.58333
         longitude: 150.86667
         name: "Shellharbour Village"
-        names_en: ~
+        names_en: 
+          - "Shellharbour Village"
+          - Shellharbour
         names_es: ~
         population: 3304
         timezone: Australia/Sydney
@@ -7080,7 +7203,8 @@ regions:
         latitude: -34.88333
         longitude: 150.6
         name: Nowra
-        names_en: ~
+        names_en: 
+          - Nowra
         names_es: ~
         population: 94781
         timezone: Australia/Sydney
@@ -7157,13 +7281,16 @@ regions:
           - N'jukasl
           - Newcastle
           - Novkastelo
+          - "niu ka si er"
         ascii_name: Newcastle
         geonamesid: 2155472
         latitude: -32.92715
         longitude: 151.77647
         name: Newcastle
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Newcastle
+        names_es: 
+          - Newcastle
         population: 497955
         timezone: Australia/Sydney
       - 
@@ -7171,6 +7298,7 @@ regions:
           - "Nel'son Behj"
           - "Nelson Bay"
           - "Nelson's Bay"
+          - "Nelson’s Bay"
         ascii_name: "Nelson Bay"
         geonamesid: 2155562
         latitude: -32.71667
@@ -7233,6 +7361,7 @@ regions:
           - Narooma
           - Naruma
           - Noorooma
+          - Нарума
         ascii_name: Narooma
         geonamesid: 2155750
         latitude: -36.21667
@@ -7394,7 +7523,10 @@ regions:
         latitude: -33.76667
         longitude: 150.81667
         name: "Mount Druitt"
-        names_en: ~
+        names_en: 
+          - "Mt Druitt"
+          - "Mount Druitt"
+          - "Mt. Druitt"
         names_es: ~
         population: 13582
         timezone: Australia/Sydney
@@ -7562,7 +7694,8 @@ regions:
         latitude: -36.9
         longitude: 149.9
         name: Merimbula
-        names_en: ~
+        names_en: 
+          - Merimbula
         names_es: ~
         population: 6367
         timezone: Australia/Sydney
@@ -7677,6 +7810,7 @@ regions:
           - Maitland
           - Mejtlend
           - "West Maitland"
+          - Мейтленд
         ascii_name: Maitland
         geonamesid: 2159045
         latitude: -32.73333
@@ -8532,6 +8666,7 @@ regions:
           - Gundaroo
           - Gundaru
           - Gunderoo
+          - Гундару
         ascii_name: Gundaroo
         geonamesid: 2164249
         latitude: -35.03333
@@ -9421,6 +9556,7 @@ regions:
           - Cootamundra
           - Cootamundry
           - Kutamundra
+          - Кутамундра
         ascii_name: Cootamundra
         geonamesid: 2170430
         latitude: -34.65
@@ -9473,6 +9609,7 @@ regions:
           - Comma
           - Cooma
           - Kuma
+          - Кума
         ascii_name: Cooma
         geonamesid: 2170577
         latitude: -36.23333
@@ -9575,7 +9712,8 @@ regions:
         latitude: -30.3
         longitude: 153.13333
         name: "Coffs Harbour"
-        names_en: ~
+        names_en: 
+          - "Coffs Harbour"
         names_es: ~
         population: 62978
         timezone: Australia/Brisbane
@@ -9621,13 +9759,16 @@ regions:
           - "City of Greater Wollongong"
           - Vullongong
           - Wollongong
+          - "wo long gang"
         ascii_name: Wollongong
         geonamesid: 2171507
         latitude: -34.43333
         longitude: 150.88333
         name: Wollongong
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Wollongong
+        names_es: 
+          - Wollongong
         population: 260914
         timezone: Australia/Sydney
       - 
@@ -9904,12 +10045,14 @@ regions:
           - "Broken Hill"
           - Broken-Khill
           - Willyama
+          - burokunhiru
         ascii_name: "Broken Hill"
         geonamesid: 2173911
         latitude: -31.95
         longitude: 141.43333
         name: "Broken Hill"
-        names_en: ~
+        names_en: 
+          - "Broken Hill"
         names_es: ~
         population: 17395
         timezone: Australia/Broken_Hill
@@ -10439,7 +10582,8 @@ regions:
         latitude: -36.08333
         longitude: 146.91667
         name: Albury
-        names_en: ~
+        names_en: 
+          - Albury
         names_es: ~
         population: 104258
         timezone: Australia/Sydney
@@ -10729,7 +10873,9 @@ regions:
         latitude: -33.81667
         longitude: 151.0
         name: "City of Parramatta"
-        names_en: ~
+        names_en: 
+          - "City of Parramatta"
+          - Parramatta
         names_es: ~
         population: 148086
         timezone: Australia/Sydney
@@ -10768,7 +10914,8 @@ regions:
         timezone: Australia/Sydney
     geonamesid: 2155400
     name: "New South Wales"
-    names_en: ~
+    names_en: 
+      - "New South Wales"
     names_es: ~
   - 
     ascii_name: "Australian Capital Territory"
@@ -10778,13 +10925,17 @@ regions:
           - Camberra
           - Canberra
           - "Gorad Kanbera"
+          - Kamberra
         ascii_name: Canberra
         geonamesid: 2172517
         latitude: -35.28346
         longitude: 149.12807
         name: Canberra
-        names_en: ~
-        names_es: ~
+        names_en: 
+          - Canberra
+        names_es: 
+          - Camberra
+          - Canberra
         population: 327700
         timezone: Australia/Sydney
       - 
