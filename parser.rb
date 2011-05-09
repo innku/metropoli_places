@@ -11,7 +11,7 @@ class GeoNamesParser
 
   def initialize opts = {}
     @country_fields   = opts.delete(:country_fields)  || COUNTRY_FIELDS + %w(regions localized_names)
-    @region_fields    = opts.delete(:region_fields)   || REGION_FIELDS + %w(cities localized_names abbr)
+    @region_fields    = opts.delete(:region_fields)   || REGION_FIELDS + %w(cities localized_names)
     @city_fields      = opts.delete(:city_fields)     || CITY_FIELDS + %w(locales localized_names)
     @locales          = opts.delete(:locales)         || ['en']
     @alternate_names  = opts.delete(:alternate_names) || 3
@@ -82,19 +82,26 @@ class GeoNamesParser
     parse_csv('GeoNames Data/countryInfo.txt', COUNTRY_FIELDS) do |row| 
       split(row, 'neighbours')
       split(row, 'languages')
+      row['geonamesid'] = row['geonamesid'].to_i
       row['area_sq_km'] = row['area_sq_km'].to_i
       row
     end
   end
 
   def parse_regions
-    parse_csv('GeoNames Data/admin1CodesASCII.txt', REGION_FIELDS)
+    parse_csv('GeoNames Data/admin1CodesASCII.txt', REGION_FIELDS) do |row|
+      row['geonamesid'] = row['geonamesid'].to_i
+      row
+    end
   end
 
   def parse_cities
     parse_csv('GeoNames Data/cities1000.txt', CITY_FIELDS) do |row| 
       split row, 'alternate_names', @alternate_names
-      row['population'] = row['population'].to_i if row['population']
+      row['population'] = row['population'].to_i
+      row['latitude']   = row['latitude'].to_f
+      row['longitude']  = row['longitude'].to_f
+      row['geonamesid'] = row['geonamesid'].to_i
       row
     end
   end
@@ -143,8 +150,5 @@ class GeoNamesParser
   end
 end
 
-parser = GeoNamesParser.new(:locales => %w(es en), :country_fields => %w(name regions localized_names), :region_fields => %(name cities localized_names ascii_name abbr), :city_fields => %(name alternate_names population localized_names ascii_name))
+parser = GeoNamesParser.new(:locales => %w(es en), :country_fields => %w(geonamesid iso name regions localized_names), :region_fields => %(geonamesid name cities localized_names ascii_name abbr), :city_fields => %(geonamesid name alternate_names population localized_names ascii_name latitude longitude timezone))
 parser.export!
-
-
-nil
