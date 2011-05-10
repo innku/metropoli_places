@@ -2,6 +2,7 @@ require 'csv'
 require 'active_support'
 require 'active_support/inflector/transliterate.rb'
 require 'ya2yaml'
+require 'carmen'
 
 class GeoNamesParser
   include ActiveSupport::Inflector
@@ -11,7 +12,7 @@ class GeoNamesParser
 
   def initialize opts = {}
     @country_fields   = opts.delete(:country_fields)  || COUNTRY_FIELDS + %w(regions localized_names)
-    @region_fields    = opts.delete(:region_fields)   || REGION_FIELDS + %w(cities localized_names)
+    @region_fields    = opts.delete(:region_fields)   || REGION_FIELDS + %w(cities localized_names abbr)
     @city_fields      = opts.delete(:city_fields)     || CITY_FIELDS + %w(locales localized_names)
     @locales          = opts.delete(:locales)         || %w(en)
     @alternate_names  = opts.delete(:alternate_names) || 3
@@ -50,9 +51,14 @@ class GeoNamesParser
   end
 
   def extract_regions_for country_code
+    abbrs = Carmen.states country_code rescue nil
+
     (regions_by_country_code[country_code] || []).map do |region|
       region['cities'] = extract_cities_for region['fips_code'] if @region_fields.include? 'cities'
       set_localized_names_for region if @region_fields.include? 'localized_names'
+
+      abbr = abbrs.assoc region['name'] if abbrs
+      region['abbr'] = abbr.last if abbr
 
       cleanup_fields region, @region_fields
       region
@@ -153,7 +159,3 @@ end
 parser = GeoNamesParser.new(:locales => %w(es en), :country_fields => %w(geonamesid iso name regions localized_names), :region_fields => %(geonamesid name cities localized_names ascii_name abbr), :city_fields => %(geonamesid name alternate_names population localized_names ascii_name latitude longitude timezone))
 parser.export!
 
-countries = parser.parse
-nil
-
-countries.find{ |c| c['iso'] == 'MX' }['regions'].first['cities'].count
